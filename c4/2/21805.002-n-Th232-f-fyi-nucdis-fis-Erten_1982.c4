@@ -1,0 +1,28 @@
+#ENTRY      21805
+#AUTHOR1    H.N.Erten+
+#YEAR       1982
+#INSTITUTE  (2SWTWUR)
+#TITLE      Charge distribution in the reactor-neutron-induced
+#+          fission of Th-232
+#AUTHOR(S)  H.N.Erten, A.Gruetter, E.Roessler, H.R.Von Gunten
+#REF-CODE   (J,PR/C,25,2519,1982)
+#REFERENCE  Phys.Rev.C 25 (1982) 2519 (doi:10.1103/PhysRevC.25.2519)
+#DATASETS   0
+#
+#DATASET    21805002 
+#DATE       20161001
+#REACTION   90-TH-232(N,F)ELEM/MASS,IND,FY,,FIS
+#PROJ       1
+#TARG       90232
+#MF         8
+#MT         454
+#C4BEGIN    [    1 90232   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   8 454    1500000.          2.3000-6 2.3000-6 35.00000 82.00000 9.000000            H.N.Erten+           (82)21805  2 
+    1 90232   8 454    1500000.          3.8000-6          37.00000 86.00000 9.000000            H.N.Erten+           (82)21805  2 
+    1 90232   8 454    1500000.          2.3400-5 3.7000-6 51.00000 128.0000 0.000000            H.N.Erten+           (82)21805  2 
+    1 90232   8 454    1500000.          1.7000-6 1.3000-7 55.00000 136.0000 9.000000            H.N.Erten+           (82)21805  2 
+#/DATA      4
+#/DATASET

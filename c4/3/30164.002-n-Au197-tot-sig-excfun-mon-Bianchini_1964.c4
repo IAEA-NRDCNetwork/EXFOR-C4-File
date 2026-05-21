@@ -1,0 +1,42 @@
+#ENTRY      30164
+#AUTHOR1    F.G.Bianchini+
+#YEAR       1964
+#INSTITUTE  (3BZLIPE)
+#TITLE      79-Au-197, total neutron cross section energy range
+#+          0.0245-0.0053 eV
+#AUTHOR(S)  F.G.Bianchini, M.Abreu, L.Q.Amaral, O.W.Martins
+#REF-CODE   (R,IEA-78,196411)
+#REFERENCE  Report IEA-78, 1964
+#DATASETS   0
+#
+#DATASET    30164002 
+#DATE       20080208
+#REACTION   79-AU-197(N,TOT),,SIG
+#PROJ       1
+#TARG       79197
+#MF         3
+#MT         1
+#C4BEGIN    [    1 79197   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   3   1    0.024500          100.0000 4.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    0.018000          113.0000 5.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    0.018000          121.0000 5.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    0.018000          117.0000 5.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    0.014500          137.0000 5.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    0.012500          147.0000 7.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    0.012500          149.0000 5.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    0.012500          141.0000 5.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    0.012500          139.0000 5.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    0.012500          144.0000 5.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    0.010500          155.0000 6.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    8.9000-3          166.0000 6.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    8.9000-3          160.0000 6.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    8.9000-3          163.0000 6.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    6.7500-3          195.0000 6.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    5.3000-3          203.0000 9.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    5.3000-3          212.0000 8.000000                                       F.G.Bianchini+       (64)30164  2 
+    1 79197   3   1    5.3000-3          207.0000 8.000000                                       F.G.Bianchini+       (64)30164  2 
+#/DATA      18
+#/DATASET

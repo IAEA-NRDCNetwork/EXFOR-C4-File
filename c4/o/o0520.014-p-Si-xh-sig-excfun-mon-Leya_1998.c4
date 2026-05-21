@@ -1,0 +1,37 @@
+#ENTRY      O0520
+#AUTHOR1    I.Leya+
+#YEAR       1998
+#INSTITUTE  (2SWTZUR)
+#TITLE      Cross sections for the proton-induced production of He
+#+          and Ne isotopes from magnesium, aluminum and silicon.
+#AUTHOR(S)  I.Leya, H.Busemann, H.Baur, R.Wieler, M.Gloris, S.Neumann, 
+#+          R.Michel, F.Sudbrock, U.Herpers
+#REF-CODE   (J,NIM/B,145,449,1998)
+#REFERENCE  Nucl.Instrum.Meth.B 145 (1998) 449 (doi:10.1016/S0168-583X(98)00528-X)
+#DATASETS   0
+#
+#DATASET    O0520014 
+#DATE       20120524
+#REACTION   14-SI-0(P,X)2-HE-3,,SIG
+#PROJ       1001
+#TARG       14000
+#MF         3
+#MT         206
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001 14000   3 206  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14000   3 206    3.1300+7 1100000. 5.2900-3 3.1000-4                                       I.Leya+              (98)O0520 14 
+ 1001 14000   3 206    8.0700+7 1600000. 0.017100 1.0000-3                                       I.Leya+              (98)O0520 14 
+ 1001 14000   3 206    9.8800+7 1400000. 0.017800 1.0000-3                                       I.Leya+              (98)O0520 14 
+ 1001 14000   3 206    1.1200+8 1000000. 0.016200 9.0000-4                                       I.Leya+              (98)O0520 14 
+ 1001 14000   3 206    1.2300+8 1000000. 0.016200 9.0000-4                                       I.Leya+              (98)O0520 14 
+ 1001 14000   3 206    1.3600+8 1000000. 0.018900 1.1000-3                                       I.Leya+              (98)O0520 14 
+ 1001 14000   3 206    1.7900+8 1000000. 0.017800 1.1000-3                                       I.Leya+              (98)O0520 14 
+ 1001 14000   3 206    3.1700+8 1000000. 0.022800 1.5000-3                                       I.Leya+              (98)O0520 14 
+ 1001 14000   3 206    3.1700+8 1000000. 0.022500 1.4000-3                                       I.Leya+              (98)O0520 14 
+ 1001 14000   3 206    3.8800+8 1000000. 0.028300 1.4000-3                                       I.Leya+              (98)O0520 14 
+ 1001 14000   3 206    1.6000+9 1000000. 0.071100 3.9000-3                                       I.Leya+              (98)O0520 14 
+#/DATA      11
+#/DATASET

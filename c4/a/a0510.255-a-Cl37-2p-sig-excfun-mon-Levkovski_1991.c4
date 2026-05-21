@@ -1,0 +1,34 @@
+#ENTRY      A0510
+#AUTHOR1    V.N.Levkovski+
+#YEAR       1991
+#INSTITUTE  (4KASKAZ)
+#TITLE      Cross sections of medium mass nuclide activation
+#+          (A=40-100) by medium energy protons and
+#+          alpha-particles (E=10-50 MeV)
+#AUTHOR(S)  V.N.Levkovski
+#REF-CODE   (B,LEVKOVSKIJ,,,1991)
+#REFERENCE  Levkovskij,Act.Cs.By Protons and Alphas,Moscow 1991 page  (1991)
+#DATASETS   0
+#
+#DATASET    A0510255 
+#DATE       20231226
+#REACTION   17-CL-37(A,2P)17-CL-39,,SIG
+#PROJ       2004
+#TARG       17037
+#MF         3
+#MT         111
+#PRODUCT    17-CL-39
+#C4BEGIN    [ 2004 17037   3 111  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 17037   3 111    2.6900+7          1.2000-3 1.2000-4                                       V.N.Levkovski        (91)A0510255 
+ 2004 17037   3 111    2.8000+7          2.4000-3 2.4000-4                                       V.N.Levkovski        (91)A0510255 
+ 2004 17037   3 111    2.9200+7          2.0000-3 2.0000-4                                       V.N.Levkovski        (91)A0510255 
+ 2004 17037   3 111    3.0500+7          3.6000-3 3.6000-4                                       V.N.Levkovski        (91)A0510255 
+ 2004 17037   3 111    3.1700+7          4.1000-3 4.1000-4                                       V.N.Levkovski        (91)A0510255 
+ 2004 17037   3 111    3.2800+7          4.7000-3 4.7000-4                                       V.N.Levkovski        (91)A0510255 
+ 2004 17037   3 111    3.3900+7          4.9000-3 4.9000-4                                       V.N.Levkovski        (91)A0510255 
+ 2004 17037   3 111    3.5000+7          5.3000-3 5.3000-4                                       V.N.Levkovski        (91)A0510255 
+#/DATA      8
+#/DATASET

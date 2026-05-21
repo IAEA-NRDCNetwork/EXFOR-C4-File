@@ -1,0 +1,31 @@
+#ENTRY      F0450
+#AUTHOR1    G.Deconninck+
+#YEAR       1962
+#INSTITUTE  (2BLGLVN)
+#TITLE      Angular neutron distribution of the reaction
+#+          9Be(alpha,n)12C in the vicinity of 20 MeV
+#AUTHOR(S)  G.Deconninck, G.Demortier, M.De Vroey, J.P.Meulders, J.Simonet
+#REF-CODE   (J,ASS,76,69,1962)
+#REFERENCE  Ann.Soc.Sci.Bruxell. 76 (1962) 69
+#DATASETS   0
+#
+#DATASET    F0450005 
+#DATE       20220607
+#REACTION   4-BE-9(A,N)6-C-12,PAR,SIG
+#PROJ       2004
+#TARG       4009
+#MF         3
+#MT         50
+#PRODUCT    6-C-12
+#C4BEGIN    [ 2004  4009   3  50 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  4009   3  50 D  1.5900+7          6.5100-3 3.2550-4                   4430000.         LVLG.Deconninck+        (62)F0450  5 
+ 2004  4009   3  50 D  1.8500+7          6.3000-3 3.1500-4                   4430000.         LVLG.Deconninck+        (62)F0450  5 
+ 2004  4009   3  50 D  1.9300+7          6.5000-3 3.2500-4                   4430000.         LVLG.Deconninck+        (62)F0450  5 
+ 2004  4009   3  50 D  2.0300+7          6.1000-3 3.0500-4                   4430000.         LVLG.Deconninck+        (62)F0450  5 
+ 2004  4009   3  50 D  2.1200+7          4.7300-3 2.3650-4                   4430000.         LVLG.Deconninck+        (62)F0450  5 
+ 2004  4009   3  50 D  2.2100+7          4.4200-3 2.2100-4                   4430000.         LVLG.Deconninck+        (62)F0450  5 
+#/DATA      6
+#/DATASET

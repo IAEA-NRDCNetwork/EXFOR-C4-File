@@ -1,0 +1,52 @@
+#ENTRY      C2784
+#AUTHOR1    E.R.Flynn+
+#YEAR       1977
+#INSTITUTE  (1USACLU)
+#TITLE      Single-particle component of the first excited state
+#+          of 211Bi
+#AUTHOR(S)  E.R.Flynn, R.E.Anderson, N.J.DiGiacomo, R.J.Peterson, G.R.Smith
+#REF-CODE   (J,PR/C,16,139,1977)
+#REFERENCE  Phys.Rev.C 16 (1977) 139 (doi:10.1103/PhysRevC.16.139)
+#DATASETS   0
+#
+#DATASET    C2784002 
+#DATE       20220728
+#REACTION   82-PB-206(A,P)83-BI-209,PAR,DA
+#PROJ       2004
+#TARG       82206
+#MF         4
+#MT         600
+#PRODUCT    83-BI-209
+#C4BEGIN    [ 2004 82206   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 82206   4 600  C 3.5500+7          5.0920-6 8.1370-7 0.970863          0.000000         LVLE.R.Flynn+           (77)C2784  2 
+ 2004 82206   4 600  C 3.5500+7          6.6120-6 1.0910-6 0.944365          0.000000         LVLE.R.Flynn+           (77)C2784  2 
+ 2004 82206   4 600  C 3.5500+7          4.0940-6 6.4060-7 0.865493          0.000000         LVLE.R.Flynn+           (77)C2784  2 
+ 2004 82206   4 600  C 3.5500+7          4.7690-6 6.9060-7 0.797405          0.000000         LVLE.R.Flynn+           (77)C2784  2 
+ 2004 82206   4 600  C 3.5500+7          2.9140-6 4.3630-7 0.720975          0.000000         LVLE.R.Flynn+           (77)C2784  2 
+ 2004 82206   4 600  C 3.5500+7          1.6820-6 4.3730-7 0.629565          0.000000         LVLE.R.Flynn+           (77)C2784  2 
+#/DATA      6
+#/DATASET
+#
+#DATASET    C2784002 
+#DATE       20220728
+#REACTION   82-PB-206(A,P)83-BI-209,PAR,DA
+#PROJ       2004
+#TARG       82206
+#MF         4
+#MT         600
+#PRODUCT    83-BI-209
+#C4BEGIN    [ 2004 82206   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 82206   4 600  C 3.5500+7          3.8500-5 5.3060-6 0.970804          897000.0         LVLE.R.Flynn+           (77)C2784  2 
+ 2004 82206   4 600  C 3.5500+7          3.7870-5 5.0130-6 0.945331          897000.0         LVLE.R.Flynn+           (77)C2784  2 
+ 2004 82206   4 600  C 3.5500+7          1.5900-5 2.3990-6 0.867297          897000.0         LVLE.R.Flynn+           (77)C2784  2 
+ 2004 82206   4 600  C 3.5500+7          1.1230-5 1.6580-6 0.800784          897000.0         LVLE.R.Flynn+           (77)C2784  2 
+ 2004 82206   4 600  C 3.5500+7          7.8310-6 1.3510-6 0.722509          897000.0         LVLE.R.Flynn+           (77)C2784  2 
+ 2004 82206   4 600  C 3.5500+7          3.9360-6 7.0690-7 0.633543          897000.0         LVLE.R.Flynn+           (77)C2784  2 
+#/DATA      6
+#/DATASET

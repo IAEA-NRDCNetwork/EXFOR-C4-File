@@ -1,0 +1,46 @@
+#ENTRY      40413
+#AUTHOR1    L.S.Lebedev+
+#YEAR       1977
+#INSTITUTE  (4RUSRI)
+#TITLE      Inelastic scattering of the 4.7MeV neutrons by
+#+          Al, Mn, Fe, Ni, Cu and Pb
+#AUTHOR(S)  L.S.Lebedev, Ju.A.Nemilov, A.V.Orlovskij, L.A.Pobedonostsev
+#REF-CODE   (R,YK-24,3,1977)
+#REFERENCE  Report YK-24 page 3, 1977
+#DATASETS   0
+#
+#DATASET    40413003 
+#DATE       20161123
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,DA
+#PROJ       1
+#TARG       26056
+#MF         4
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   4  51    4700000.          0.015000 9.0000-4 0.939693          840000.0         LVLL.S.Lebedev+         (77)40413  3 
+    1 26056   4  51    4700000.          0.013000 8.0000-4-0.121869          840000.0         LVLL.S.Lebedev+         (77)40413  3 
+    1 26056   4  51    4700000.          0.014000 9.0000-4-0.500000          840000.0         LVLL.S.Lebedev+         (77)40413  3 
+#/DATA      3
+#/DATASET
+#
+#DATASET    40413003 
+#DATE       20161123
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,DA
+#PROJ       1
+#TARG       26056
+#MF         4
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   4  51    4700000.          9.0000-3 5.0000-4 0.939693          2650000.         LVLL.S.Lebedev+         (77)40413  3 
+    1 26056   4  51    4700000.          0.011000 7.0000-4-0.121869          2650000.         LVLL.S.Lebedev+         (77)40413  3 
+    1 26056   4  51    4700000.          8.8000-3 5.0000-4-0.500000          2650000.         LVLL.S.Lebedev+         (77)40413  3 
+#/DATA      3
+#/DATASET

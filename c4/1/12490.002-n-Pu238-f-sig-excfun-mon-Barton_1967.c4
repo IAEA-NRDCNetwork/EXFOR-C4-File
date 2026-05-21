@@ -1,0 +1,27 @@
+#ENTRY      12490
+#AUTHOR1    D.M.Barton+
+#YEAR       1967
+#INSTITUTE  (1USALAS)
+#TITLE      NEUTRON-INDUCED FISSION CROSS SECTION OF PU238.
+#AUTHOR(S)  D.M.Barton, P.G.Koontz
+#REF-CODE   (J,PR,162,1070,67)
+#REFERENCE  Phys.Rev. 162 (1967) 1070 (doi:10.1103/PhysRev.162.1070)
+#DATASETS   0
+#
+#DATASET    12490002 
+#DATE       19830809
+#REACTION   94-PU-238(N,F),,SIG
+#PROJ       1
+#TARG       94238
+#MF         3
+#MT         18
+#C4BEGIN    [    1 94238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94238   3  18    1000000.          2.080000 0.100000                                       D.M.Barton+          (67)12490  2 
+    1 94238   3  18    1500000.          2.200000 0.110000                                       D.M.Barton+          (67)12490  2 
+    1 94238   3  18    3000000.          2.230000 0.110000                                       D.M.Barton+          (67)12490  2 
+    1 94238   3  18    1.4900+7          2.670000 0.130000                                       D.M.Barton+          (67)12490  2 
+#/DATA      4
+#/DATASET

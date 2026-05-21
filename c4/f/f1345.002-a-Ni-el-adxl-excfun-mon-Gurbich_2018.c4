@@ -1,0 +1,32 @@
+#ENTRY      F1345
+#AUTHOR1    A.F.Gurbich+
+#YEAR       2018
+#INSTITUTE  (4RUSFEI)
+#TITLE      Non-Rutherford cross-sections for alpha elastic
+#+          scattering off Z=28-38 elements in the energy range
+#+          up to 10 MeV.
+#AUTHOR(S)  A.F.Gurbich, M.V.Bokhovko
+#REF-CODE   (J,NIM/B,420,1,2018)
+#REFERENCE  Nucl.Instrum.Meth.B 420 (2018) 1
+#DATASETS   0
+#
+#DATASET    F1345002 
+#DATE       20180709
+#REACTION   28-NI-0(A,EL)28-NI-0,,DA,,RTH
+#PROJ       2004
+#TARG       28000
+#MF         4
+#MT         2
+#PRODUCT    28-NI-0
+#C4BEGIN    [ 2004 28000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28000   4   2 A  6000000. 3600.000 0.113556 2.2711-3-0.984808                              A.F.Gurbich+         (18)F1345  2 
+ 2004 28000   4   2 A  6500000. 3900.000 0.096272 1.9351-3-0.984808                              A.F.Gurbich+         (18)F1345  2 
+ 2004 28000   4   2 A  7200000. 4320.000 0.076253 1.5771-3-0.984808                              A.F.Gurbich+         (18)F1345  2 
+ 2004 28000   4   2 A  7600000. 4560.000 0.066526 1.4154-3-0.984808                              A.F.Gurbich+         (18)F1345  2 
+ 2004 28000   4   2 A  8000000. 4800.000 0.057165 1.2774-3-0.984808                              A.F.Gurbich+         (18)F1345  2 
+ 2004 28000   4   2 A  8500000. 5100.000 0.047525 1.1315-3-0.984808                              A.F.Gurbich+         (18)F1345  2 
+#/DATA      6
+#/DATASET

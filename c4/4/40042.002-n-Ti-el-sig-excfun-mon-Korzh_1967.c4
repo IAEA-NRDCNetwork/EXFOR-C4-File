@@ -1,0 +1,27 @@
+#ENTRY      40042
+#AUTHOR1    I.A.Korzh+
+#YEAR       1967
+#INSTITUTE  (4UKRIFU)
+#TITLE      Elastic scattering of 1.5 MeV neutrons by
+#+          medium-atomic-weight nuclei
+#AUTHOR(S)  I.A.Korzh, V.A.Mishchenko, M.V.Pasechnik, N.M.Pravdivyi, 
+#+          I.E.Sanzhur, I.A.Tockii
+#REF-CODE   (J,UPJ,12,1522,1967)
+#REFERENCE  Ukr.Phys.J. 12 (1967) 1522
+#DATASETS   0
+#
+#DATASET    40042002 
+#DATE       20220126
+#REACTION   22-TI-0(N,EL)22-TI-0,,SIG
+#PROJ       1
+#TARG       22000
+#MF         3
+#MT         2
+#PRODUCT    22-TI-0
+#C4BEGIN    [    1 22000   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22000   3   2 D  1500000. 50000.00 2.765000 0.134000                                       I.A.Korzh+           (67)40042  2 
+#/DATA      1
+#/DATASET

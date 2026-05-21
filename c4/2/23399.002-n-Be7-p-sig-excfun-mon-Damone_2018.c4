@@ -1,0 +1,93 @@
+#ENTRY      23399
+#AUTHOR1    L.Damone+
+#YEAR       2018
+#INSTITUTE  (2ITYBAU)
+#TITLE      7Be(n,p)7Li reaction and the cosmological lithium
+#+          problem: Measurement of the cross Section in
+#+          a wide energy range at nTOF at CERN
+#AUTHOR(S)  L.Damone, M.Barbagallo, M.Mastromarco, A.Mengoni, L.Cosentino, 
+#+          E.Maugeri, S.Heinitz, D.Schumann, R.Dressler, F.Kaeppeler, 
+#+          N.Colonna, P.Finocchiaro, J.Andrzejewski, J.Perkowski, A.Gawlik, 
+#+          O.Aberle, S.Altstadt, M.Ayranov, L.Audouin, M.Bacak, J.Balibrea-Correa, 
+#+          J.Ballof, V.Becares, F.Becvar, C.Beinrucker, G.Bellia, A.P.Bernardes, 
+#+          E.Berthoumieux, J.Billowes, M.J.G.Borge, D.Bosnar, A.Brown, 
+#+          M.Brugger, M.Busso, M.Caamano, F.Calvino, M.Calviani, D.Cano-Ott, 
+#+          R.Cardella, A.Casanovas, D.M.Castelluccio, R.Catherall, 
+#+          F.Cerutti, Y.H.Chen, E.Chiaveri, J.G.M.Correia, G.Cortes, 
+#+          M.A.Cortes-Giraldo, S.Cristallo, M.Diakaki, M.Dietz, C.Domingo-Pardo, 
+#+          A.Dorsival, E.Dupont, I.Duran, B.Fernandez-Dominguez, A.Ferrari, 
+#+          P.Ferreira, W.Furman, S.Ganesan, A.Garcia-Rios, S.Gilardoni, 
+#+          T.Glodariu, K.Goebel, I.F.Goncalves, E.Gonzalez-Romero, 
+#+          T.D.Goodacre, E.Griesmayer, C.Guerrero, F.Gunsing, H.Harada, 
+#+          T.Heftrich, J.Heyse, D.G.Jenkins, E.Jericha, K.Johnston, 
+#+          Y.Kadi, A.Kalamara, T.Katabuchi, P.Kavrigin, A.Kimura, N.Kivel, 
+#+          U.Koester, M.Kokkoris, M.Krticka, D.Kurtulgil, E.Leal-Cidoncha, 
+#+          C.Lederer-Woods, H.Leeb, J.Lerendegui-Marco, S.Lo Meo, S.J.Lonsdale, 
+#+          R.Losito, D.Macina, J.Marganiec, B.Marsh, T.Martinez, A.Masi, 
+#+          C.Massimi, P.Mastinu, F.Matteucci, A.Mazzone, E.Mendoza, 
+#+          P.M.Milazzo, F.Mingrone, M.Mirea, A.Musumarra, A.Negret, 
+#+          R.Nolte, A.Oprea, N.Patronis, A.Pavlik, L.Piersanti, M.Piscopo, 
+#+          A.Plompen, I.Porras, J.Praena, J.M.Quesada, D.Radeck, K.Rajeev, 
+#+          T.Rauscher, R.Reifarth, A.Riego-Perez, S.Rothe, P.Rout, 
+#+          C.Rubbia, J.Ryan, M.Sabate-Gilarte, A.Saxena, J.Schell, 
+#+          P.Schillebeeckx, S.Schmidt, P.Sedyshev, C.Seiffert, A.G.Smith, 
+#+          N.V.Sosnin, A.Stamatopoulos, T.Stora, G.Tagliente, J.L.Tain, 
+#+          A.Tarifeno-Saldivia, L.Tassan-Got, A.Tsinganis, S.Valenta, 
+#+          G.Vannini, V.Variale, P.Vaz, A.Ventura, V.Vlachoudis, R.Vlastou, 
+#+          A.Wallner, S.Warren, M.Weigand, C.Weiss, C.Wolf, P.J.Woods, 
+#+          T.Wright, P.Zugec
+#REF-CODE   (J,PRL,121,042701,2018)
+#REFERENCE  Phys.Rev.Lett. 121 (2018) 042701 (doi:10.1103/PhysRevLett.121.042701)
+#DATASETS   0
+#
+#DATASET    23399002 
+#DATE       20180816
+#REACTION   4-BE-7(N,P)3-LI-7,,SIG
+#PROJ       1
+#TARG       4007
+#MF         3
+#MT         103
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  4007   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  4007   3 103    0.020484          58354.30 202.6070                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    0.032465          46413.80 94.97700                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    0.051453          36682.60 71.20200                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    0.081548          29085.10 64.61130                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    0.129245          22763.40 72.38690                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    0.204839          17891.40 86.76380                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    0.324648          14215.20 86.21330                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    0.514532          11356.20 78.13680                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    0.815479          8966.430 70.45990                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    1.292450          7053.270 62.50670                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    2.048390          5660.030 55.99860                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    3.246480          4496.640 49.72570                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    5.145320          3614.800 44.30820                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    8.154790          2812.410 38.43580                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    12.92450          2301.400 35.00580                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    20.48390          1751.840 29.78000                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    32.46480          1450.660 26.99210                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    51.45320          1144.400 23.65280                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    81.54790          890.5540 20.58210                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    129.2450          736.9760 18.68860                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    204.8390          561.5150 16.04300                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    324.6480          430.0080 14.89420                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    514.5320          328.6360 12.08920                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    815.4790          255.7960 10.37070                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    1292.450          208.2970 9.296420                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    2048.390          133.5880 7.072320                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    3246.480          101.2880 6.220730                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    5145.320          74.19560 5.018400                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    8154.790          61.02770 4.636520                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    12924.50          33.39090 3.029250                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    20483.90          26.10220 2.459610                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    32464.80          22.73200 2.470080                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    51453.20          10.64760 1.694740                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    81547.90          6.243550 1.282140                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    129245.0          2.506580 0.720921                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    204839.0          3.801800 0.903508                                       L.Damone+            (18)23399  2 
+    1  4007   3 103    324648.0          3.998120 0.777091                                       L.Damone+            (18)23399  2 
+#/DATA      37
+#/DATASET

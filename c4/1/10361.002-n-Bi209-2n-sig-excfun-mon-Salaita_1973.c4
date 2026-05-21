@@ -1,0 +1,26 @@
+#ENTRY      10361
+#AUTHOR1    G.N.Salaita+
+#YEAR       1973
+#INSTITUTE  (1USASMU)
+#TITLE      Isomeric cross sections for (n,2n) reactions in
+#+          thallium, lead, and bismuth at 14.8 MeV
+#AUTHOR(S)  G.N.Salaita, P.K.Eapen
+#REF-CODE   (J,JIN,35,2139,1973)
+#REFERENCE  J.Inorg.Nucl.Chem. 35 (1973) 2139 (doi:10.1016/0022-1902(73)80276-3)
+#DATASETS   0
+#
+#DATASET    10361002 
+#DATE       20230707
+#REACTION   83-BI-209(N,2N)83-BI-208-L,,SIG
+#PROJ       1
+#TARG       83209
+#MF         3
+#MT         16
+#PRODUCT    83-BI-208-L
+#C4BEGIN    [    1 83209   3  16?A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209   3  16?A  1.4800+7 300000.0 0.393000 0.035000                                       G.N.Salaita+         (73)10361  2 
+#/DATA      1
+#/DATASET

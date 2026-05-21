@@ -1,0 +1,34 @@
+#ENTRY      10827
+#AUTHOR1    S.M.Grimes+
+#YEAR       1979
+#INSTITUTE  (1USALRL)
+#TITLE      Charged particle emission in reactions of 15-MeV
+#+          neutrons with isotopes of chromium, iron, nickel, and
+#+          copper.
+#AUTHOR(S)  S.M.Grimes, R.C.Haight, K.R.Alvar, H.H.Barschall, R.R.Borchers
+#REF-CODE   (J,PR/C,19,2127,1979)
+#REFERENCE  Phys.Rev.C 19 (1979) 2127 (doi:10.1103/PhysRevC.19.2127)
+#DATASETS   0
+#
+#DATASET    10827122 
+#DATE       20110731
+#REACTION   24-CR-52(N,X)1-H-2,,DE
+#PROJ       1
+#TARG       24052
+#MF         5
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [    1 24052   5 204 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24052   5 204 D  1.4800+7          4.920-10 7.380-11                   2250000. 250000.0 E2S.M.Grimes+          (79)10827122 
+    1 24052   5 204 D  1.4800+7          6.860-10 1.029-10                   2750000. 250000.0 E2S.M.Grimes+          (79)10827122 
+    1 24052   5 204 D  1.4800+7          5.880-10 1.180-10                   3250000. 250000.0 E2S.M.Grimes+          (79)10827122 
+    1 24052   5 204 D  1.4800+7          9.800-10 1.470-10                   3750000. 250000.0 E2S.M.Grimes+          (79)10827122 
+    1 24052   5 204 D  1.4800+7          2.940-10 4.410-11                   4250000. 250000.0 E2S.M.Grimes+          (79)10827122 
+    1 24052   5 204 D  1.4800+7          8.740-10 1.311-10                   4750000. 250000.0 E2S.M.Grimes+          (79)10827122 
+    1 24052   5 204 D  1.4800+7          4.940-10 7.410-11                   5250000. 250000.0 E2S.M.Grimes+          (79)10827122 
+    1 24052   5 204 D  1.4800+7          2.950-10 1.200-10                   5750000. 250000.0 E2S.M.Grimes+          (79)10827122 
+#/DATA      8
+#/DATASET

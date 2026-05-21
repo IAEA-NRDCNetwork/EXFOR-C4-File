@@ -1,0 +1,29 @@
+#ENTRY      E2252
+#AUTHOR1    A.Uchida+
+#YEAR       1966
+#INSTITUTE  (2JPNISS)
+#TITLE      Low energy (p,n) reaction on 55Mn and the low-lying
+#+          excited states of 55Fe
+#AUTHOR(S)  A.Uchida, K.Nagamine, M.Imaizumi, H.Kamitsubo, S.Kobayashi
+#REF-CODE   (J,JPJ,21,2115,1966)
+#REFERENCE  J.Phys.Soc.Jpn. 21 (1966) 2115 (doi:10.1143/JPSJ.21.2115)
+#DATASETS   0
+#
+#DATASET    E2252027 
+#DATE       20151116
+#REACTION   25-MN-55(P,N)26-FE-55,PAR,DA
+#PROJ       1001
+#TARG       25055
+#MF         4
+#MT         50
+#PRODUCT    26-FE-55
+#C4BEGIN    [ 1001 25055   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 25055   4  50    2710000.          8.9690-3 5.1300-4 1.000000          930000.0         LVLA.Uchida+            (66)E2252 27 
+ 1001 25055   4  50    2710000.          7.8680-3 3.8600-4 0.707107          930000.0         LVLA.Uchida+            (66)E2252 27 
+ 1001 25055   4  50    2710000.          5.8240-3 6.1100-4 6.123-17          930000.0         LVLA.Uchida+            (66)E2252 27 
+ 1001 25055   4  50    2710000.          5.0500-3 1.7700-4-0.707107          930000.0         LVLA.Uchida+            (66)E2252 27 
+#/DATA      4
+#/DATASET

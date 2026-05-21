@@ -1,0 +1,30 @@
+#ENTRY      20359
+#AUTHOR1    R.B.Galloway+
+#YEAR       1973
+#INSTITUTE  (2UK EDG)
+#TITLE      The small angle scattering of 3 MeV polarized
+#+          neutrons.
+#AUTHOR(S)  R.B.Galloway, R.M.A.Maayouf
+#REF-CODE   (J,NP/A,212,182,1973)
+#REFERENCE  Nucl.Phys.A 212 (1973) 182 (doi:10.1016/0375-9474(73)90043-2)
+#DATASETS   0
+#
+#DATASET    20359005 
+#DATE       20170430
+#REACTION   82-PB-0(N,EL)82-PB-0,,DA
+#PROJ       1
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [    1 82000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   4   2    3000000.          5.450000 0.130000 0.990980 1.1695-3                     R.B.Galloway+        (73)20359  5 
+    1 82000   4   2    3000000.          5.700000 0.090000 0.996190 7.6105-4                     R.B.Galloway+        (73)20359  5 
+    1 82000   4   2    3000000.          5.920000 0.090000 0.998020 5.4888-4                     R.B.Galloway+        (73)20359  5 
+    1 82000   4   2    3000000.          6.240000 0.110000 0.999320 3.2177-4                     R.B.Galloway+        (73)20359  5 
+    1 82000   4   2    3000000.          6.420000 0.130000 0.999610 2.4370-4                     R.B.Galloway+        (73)20359  5 
+#/DATA      5
+#/DATASET

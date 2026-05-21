@@ -1,0 +1,26 @@
+#ENTRY      12118
+#AUTHOR1    T.R.Fisher+
+#YEAR       1967
+#INSTITUTE  (1USASTF)
+#TITLE      INTERACTION OF FAST NEUTRONS WITH ORIENTED HO-165.
+#AUTHOR(S)  T.R.Fisher, R.S.Safrata, E.G.Shelley, J.Mc Carthy, S.M.Austin, 
+#+          R.C.Barrett
+#REF-CODE   (J,PR,157,1149,67)
+#REFERENCE  Phys.Rev. 157 (1967) 1149 (doi:10.1103/PhysRev.157.1149)
+#DATASETS   0
+#
+#DATASET    12118002 
+#DATE       19821012
+#REACTION   67-HO-165(N,TOT),,SIG
+#PROJ       1
+#TARG       67165
+#MF         3
+#MT         1
+#C4BEGIN    [    1 67165   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 67165   3   1    8000000. 450000.0 4.970000 0.660000                                       T.R.Fisher+          (67)12118  2 
+    1 67165   3   1    1.5000+7 500000.0 5.270000 0.090000                                       T.R.Fisher+          (67)12118  2 
+#/DATA      2
+#/DATASET

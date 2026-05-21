@@ -1,0 +1,38 @@
+#ENTRY      32227
+#AUTHOR1    I.A.Korzh+
+#YEAR       1989
+#INSTITUTE  (4UKRIJD)
+#TITLE      Fast neutron elastic and inelastic scattering cross
+#+          sections for Ce-140 nuclei
+#AUTHOR(S)  I.A.Korzh, V.A.Mishchenko, V.D.Ovdienko, M.V.Pasechnik, 
+#+          N.M.Pravdivy
+#REF-CODE   (J,UFZ,34,(8),1173,1989)
+#REFERENCE  Ukr.Fiz.Zh. 34 No.8 (1989) 1173
+#DATASETS   0
+#
+#DATASET    32227007 
+#DATE       20091116
+#REACTION   58-CE-140(N,EL)58-CE-140,,DA
+#PROJ       1
+#TARG       58140
+#MF         4
+#MT         2
+#PRODUCT    58-CE-140
+#C4BEGIN    [    1 58140   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 58140   4   2    5000000.          1.645000 0.142000 0.939693                              I.A.Korzh+           (89)32227  7 
+    1 58140   4   2    5000000.          0.691000 0.062000 0.866025                              I.A.Korzh+           (89)32227  7 
+    1 58140   4   2    5000000.          0.288000 0.068000 0.766044                              I.A.Korzh+           (89)32227  7 
+    1 58140   4   2    5000000.          0.177000 0.039000 0.573576                              I.A.Korzh+           (89)32227  7 
+    1 58140   4   2    5000000.          0.139000 0.022000 0.422618                              I.A.Korzh+           (89)32227  7 
+    1 58140   4   2    5000000.          0.049000 0.020000 0.258819                              I.A.Korzh+           (89)32227  7 
+    1 58140   4   2    5000000.          0.038000 0.020000 6.123-17                              I.A.Korzh+           (89)32227  7 
+    1 58140   4   2    5000000.          0.080000 0.030000-0.258819                              I.A.Korzh+           (89)32227  7 
+    1 58140   4   2    5000000.          0.059000 0.020000-0.422618                              I.A.Korzh+           (89)32227  7 
+    1 58140   4   2    5000000.          0.054000 0.018000-0.573576                              I.A.Korzh+           (89)32227  7 
+    1 58140   4   2    5000000.          0.015000 0.010000-0.707107                              I.A.Korzh+           (89)32227  7 
+    1 58140   4   2    5000000.          0.019000 0.010000-0.866025                              I.A.Korzh+           (89)32227  7 
+#/DATA      12
+#/DATASET

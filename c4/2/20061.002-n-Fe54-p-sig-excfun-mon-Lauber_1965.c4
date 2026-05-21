@@ -1,0 +1,34 @@
+#ENTRY      20061
+#AUTHOR1    A.Lauber+
+#YEAR       1965
+#INSTITUTE  (2SWDAE)
+#TITLE      Measurements of the Fe-54(n,p)Mn-54 reaction cross
+#+          section in the neutron energy range 2.3-3.8 MeV
+#AUTHOR(S)  A.Lauber, S.G.Malmskog
+#REF-CODE   (J,NP,73,234,1965)
+#REFERENCE  Nucl.Phys. 73 (1965) 234 (doi:10.1016/0029-5582(65)90169-0)
+#DATASETS   0
+#
+#DATASET    20061002 
+#DATE       20190709
+#REACTION   26-FE-54(N,P)25-MN-54,,SIG
+#PROJ       1
+#TARG       26054
+#MF         3
+#MT         103
+#PRODUCT    25-MN-54
+#C4BEGIN    [    1 26054   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26054   3 103    2310000. 30000.00 0.025000 0.010000                                       A.Lauber+            (65)20061  2 
+    1 26054   3 103    2810000. 30000.00 0.063000 0.010000                                       A.Lauber+            (65)20061  2 
+    1 26054   3 103    3050000. 30000.00 0.094000 0.012000                                       A.Lauber+            (65)20061  2 
+    1 26054   3 103    3310000. 40000.00 0.141000 0.013000                                       A.Lauber+            (65)20061  2 
+    1 26054   3 103    3500000. 60000.00 0.168000 0.015000                                       A.Lauber+            (65)20061  2 
+    1 26054   3 103    3580000. 60000.00 0.208000 0.017000                                       A.Lauber+            (65)20061  2 
+    1 26054   3 103    3660000. 60000.00 0.208000 0.016000                                       A.Lauber+            (65)20061  2 
+    1 26054   3 103    3740000. 60000.00 0.153000 0.012000                                       A.Lauber+            (65)20061  2 
+    1 26054   3 103    3810000. 40000.00 0.210000 0.019000                                       A.Lauber+            (65)20061  2 
+#/DATA      9
+#/DATASET

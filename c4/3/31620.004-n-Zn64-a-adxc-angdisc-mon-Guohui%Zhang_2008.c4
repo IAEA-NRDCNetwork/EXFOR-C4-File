@@ -1,0 +1,34 @@
+#ENTRY      31620
+#AUTHOR1    Guohui Zhang+
+#YEAR       2008
+#INSTITUTE  (3CPRBJG)
+#TITLE      Measurement of Differential Cross Section for the
+#+          64Zn(n,a) 61Ni Reaction at 2.54, 4.00, and 5.50 MeV
+#AUTHOR(S)  Guohui Zhang, Jiaguo Zhang, Rongtai Cao, Lian Guo, Jinxiang Chen, 
+#+          Yu.M.Gledenov, M.V.Sedysheva, G.Khuukhenkhuu
+#REF-CODE   (J,NSE,160,123,2008)
+#REFERENCE  Nucl.Sci.Eng. 160 (2008) 123 (doi:10.13182/NSE160-123)
+#DATASETS   0
+#
+#DATASET    31620004 
+#DATE       20080718
+#REACTION   30-ZN-64(N,A)28-NI-61,PAR,DA
+#PROJ       1
+#TARG       30064
+#MF         4
+#MT         800
+#PRODUCT    28-NI-61
+#C4BEGIN    [    1 30064   4 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 30064   4 800 AC 2540000.          9.3000-4 9.3000-5-0.904000          141500.0 141500.0LVLGuohui Zhang+        (08)31620  4 
+    1 30064   4 800 AC 2540000.          7.9000-4 7.1100-5-0.710000          141500.0 141500.0LVLGuohui Zhang+        (08)31620  4 
+    1 30064   4 800 AC 2540000.          7.4000-4 6.6600-5-0.515000          141500.0 141500.0LVLGuohui Zhang+        (08)31620  4 
+    1 30064   4 800 AC 2540000.          5.8000-4 5.2200-5-0.318000          141500.0 141500.0LVLGuohui Zhang+        (08)31620  4 
+    1 30064   4 800 AC 2540000.          6.6000-4 5.9400-5 0.282000          141500.0 141500.0LVLGuohui Zhang+        (08)31620  4 
+    1 30064   4 800 AC 2540000.          7.2000-4 6.4800-5 0.485000          141500.0 141500.0LVLGuohui Zhang+        (08)31620  4 
+    1 30064   4 800 AC 2540000.          7.7000-4 6.9300-5 0.690000          141500.0 141500.0LVLGuohui Zhang+        (08)31620  4 
+    1 30064   4 800 AC 2540000.          8.3000-4 8.3000-5 0.896000          141500.0 141500.0LVLGuohui Zhang+        (08)31620  4 
+#/DATA      8
+#/DATASET

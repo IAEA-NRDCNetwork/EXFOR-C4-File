@@ -1,0 +1,35 @@
+#ENTRY      C0134
+#AUTHOR1    B.D.Anderson+
+#YEAR       1985
+#INSTITUTE  (1USAINU)
+#TITLE      Particle-hole strength excited in the 48Ca(p,n)48Sc
+#+          reaction at 134 and 160 MeV: pi f(7/2), nu f-1(7/2)
+#+          band
+#AUTHOR(S)  B.D.Anderson, T.Chittrakarn, A.R.Baldwin, C.Lebo, R.Madey, 
+#+          R.J.McCarthy, J.W.Watson, B.A.Brown, C.C.Foster
+#REF-CODE   (J,PR/C,31,1147,198504)
+#REFERENCE  Phys.Rev.C 31 (1985) 1147 (doi:10.1103/PhysRevC.31.1147)
+#DATASETS   0
+#
+#DATASET    C0134008 
+#DATE       20160504
+#REACTION   20-CA-48(P,N)21-SC-48,PAR,DA
+#PROJ       1001
+#TARG       20048
+#MF         4
+#MT         50
+#PRODUCT    21-SC-48
+#C4BEGIN    [ 1001 20048   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20048   4  50  C 1.6000+8          7.0240-3          1.000000          2520000.         LVLB.D.Anderson+        (85)C0134  8 
+ 1001 20048   4  50  C 1.6000+8          5.1070-3          0.998422          2520000.         LVLB.D.Anderson+        (85)C0134  8 
+ 1001 20048   4  50  C 1.6000+8          2.1990-3          0.993449          2520000.         LVLB.D.Anderson+        (85)C0134  8 
+ 1001 20048   4  50  C 1.6000+8          7.7920-4          0.985926          2520000.         LVLB.D.Anderson+        (85)C0134  8 
+ 1001 20048   4  50  C 1.6000+8          3.0080-4 2.1220-5 0.978289          2520000.         LVLB.D.Anderson+        (85)C0134  8 
+ 1001 20048   4  50  C 1.6000+8          2.2130-4 2.5410-5 0.962758          2520000.         LVLB.D.Anderson+        (85)C0134  8 
+ 1001 20048   4  50  C 1.6000+8          1.5330-4 9.3310-5 0.947824          2520000.         LVLB.D.Anderson+        (85)C0134  8 
+ 1001 20048   4  50  C 1.6000+8          1.5460-5 1.4290-5 0.909780          2520000.         LVLB.D.Anderson+        (85)C0134  8 
+#/DATA      8
+#/DATASET

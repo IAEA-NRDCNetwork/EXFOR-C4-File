@@ -1,0 +1,29 @@
+#ENTRY      A1135
+#AUTHOR1    L.Stewart+
+#YEAR       1956
+#INSTITUTE  (1USALAS)
+#TITLE      Zero-degree cross sections for the D(d,n)3He reaction
+#+          between 1.15 and 4.60 MeV and for the T(p,n)3He
+#+          reaction 8.8 to 11.4 MeV
+#AUTHOR(S)  L.Stewart, G.M.Frye Jr, L.Rosen
+#REF-CODE   (J,BAP,1,(2),93(M2),1956)
+#REFERENCE  Bull.Am.Phys.Soc. 1 No.2 (1956) 93(M2)
+#DATASETS   0
+#
+#DATASET    A1135003 
+#DATE       20180129
+#REACTION   1-H-3(P,N)2-HE-3,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1003   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4   4    8100000.          0.018600 3.7000-3 1.000000                              L.Stewart+           (56)A1135  3 
+ 1001  1003   4   4    1.0100+7          0.024100 4.8000-3 1.000000                              L.Stewart+           (56)A1135  3 
+ 1001  1003   4   4    1.1400+7          0.032400 6.6000-3 1.000000                              L.Stewart+           (56)A1135  3 
+#/DATA      3
+#/DATASET

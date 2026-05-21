@@ -1,0 +1,36 @@
+#ENTRY      23150
+#AUTHOR1    J.Laurec+
+#YEAR       2010
+#INSTITUTE  (2FR SAC)
+#TITLE      Fission Product Yields of 233-U, 235-U, 238-U and
+#+          239-Pu in Fields of Thermal Neutrons, Fission Neutrons
+#+          and 14.7-MeV Neutrons.
+#AUTHOR(S)  J.Laurec, A.Adam, T.de Bruyne, E.Bauge, T.Granier, J.Aupiais, 
+#+          O.Bersillon, G.LePetit, N.Authier, P.Casoli
+#REF-CODE   (J,NDS,111,2965,2010)
+#REFERENCE  Nucl.Data Sheets 111 (2010) 2965 (doi:10.1016/j.nds.2010.11.004)
+#DATASETS   0
+#
+#DATASET    23150003 
+#DATE       20111113
+#REACTION   94-PU-239(N,F)ELEM/MASS,CUM,FY,,MXW
+#PROJ       1
+#TARG       94239
+#MF         8
+#MT         459
+#C4BEGIN    [    1 94239   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   8 459    0.025300          0.048100 1.1063-3 40.00000 95.00000 9.000000            J.Laurec+            (10)23150  3 
+    1 94239   8 459    0.025300          0.053100 9.5580-4 40.00000 97.00000 9.000000            J.Laurec+            (10)23150  3 
+    1 94239   8 459    0.025300          0.065400 1.1772-3 42.00000 99.00000 9.000000            J.Laurec+            (10)23150  3 
+    1 94239   8 459    0.025300          0.070800 1.6992-3 44.00000 103.0000 9.000000            J.Laurec+            (10)23150  3 
+    1 94239   8 459    0.025300          0.052500 2.0475-3 52.00000 132.0000 9.000000            J.Laurec+            (10)23150  3 
+    1 94239   8 459    0.025300          0.040600 8.9320-4 53.00000 131.0000 9.000000            J.Laurec+            (10)23150  3 
+    1 94239   8 459    0.025300          0.054300 1.3032-3 56.00000 140.0000 9.000000            J.Laurec+            (10)23150  3 
+    1 94239   8 459    0.025300          0.055400 1.0526-3 58.00000 141.0000 9.000000            J.Laurec+            (10)23150  3 
+    1 94239   8 459    0.025300          0.043900 9.6580-4 58.00000 143.0000 9.000000            J.Laurec+            (10)23150  3 
+    1 94239   8 459    0.025300          0.020200 9.4940-4 60.00000 147.0000 9.000000            J.Laurec+            (10)23150  3 
+#/DATA      10
+#/DATASET

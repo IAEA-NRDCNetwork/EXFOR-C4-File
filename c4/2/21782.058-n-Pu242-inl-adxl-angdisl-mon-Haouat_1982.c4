@@ -1,0 +1,30 @@
+#ENTRY      21782
+#AUTHOR1    G.Haouat+
+#YEAR       1982
+#INSTITUTE  (2FR BRC)
+#TITLE      Neutron scattering cross sections for Th-232, U-233,
+#+          U-235, U-238, Pu-239 and Pu-242 between 0.6 and 3.4
+#+          MeV.
+#AUTHOR(S)  G.Haouat, J.Lachkar, Ch.Lagrange, J.Jary, J.Sigaud, Y.Patin
+#REF-CODE   (J,NSE,81,(4),491,1982)
+#REFERENCE  Nucl.Sci.Eng. 81 No.4 (1982) 491 (doi:10.13182/NSE82-A21439)
+#DATASETS   0
+#
+#DATASET    21782058 
+#DATE       20150730
+#REACTION   94-PU-242(N,INL)94-PU-242,PAR,DA
+#PROJ       1
+#TARG       94242
+#MF         4
+#MT         51
+#PRODUCT    94-PU-242
+#C4BEGIN    [    1 94242   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94242   4  51    3400000. 14000.00 0.018000 4.5400-3 0.172445          147000.0         LVLG.Haouat+            (82)21782 58 
+    1 94242   4  51    3400000. 14000.00 0.011980 2.4400-3-0.501511          147000.0         LVLG.Haouat+            (82)21782 58 
+    1 94242   4  51    3400000. 14000.00 8.1700-3 2.4300-3-0.765034          147000.0         LVLG.Haouat+            (82)21782 58 
+    1 94242   4  51    3400000. 14000.00 6.7100-3 2.3100-3-0.939872          147000.0         LVLG.Haouat+            (82)21782 58 
+#/DATA      4
+#/DATASET

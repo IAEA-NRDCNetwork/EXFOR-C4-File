@@ -1,0 +1,27 @@
+#ENTRY      A0816
+#AUTHOR1    V.Roberfroid+
+#YEAR       2004
+#INSTITUTE  (2BLGLVN)
+#TITLE      Neutron-skin effect in the nuclear reactions
+#+          Ni-58+Sn-122 and Ni-64+Sn-116 around 6 MeV/nucleon
+#AUTHOR(S)  V.Roberfroid, Y.El Masri, J.Cabrera, Th.Keutgen, L.Lebreton, 
+#+          I.Tilquin, Ch.Dufauquez, A.Ninane, J.Van Mol, R.Regimbart, 
+#+          R.Charity, J.B.Natowitz
+#REF-CODE   (J,PR/C,69,044611,2004)
+#REFERENCE  Phys.Rev.C 69 (2004) 044611 (doi:10.1103/PhysRevC.69.044611)
+#DATASETS   0
+#
+#DATASET    A0816011 
+#DATE       20240918
+#REACTION   50-SN-116(28-NI-64,F),,SIG
+#PROJ       28064
+#TARG       50116
+#MF         3
+#MT         18
+#C4BEGIN    [28064 50116   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+28064 50116   3  18    3.8250+8          1.400000 0.130000                                       V.Roberfroid+        (04)A0816 11 
+#/DATA      1
+#/DATASET

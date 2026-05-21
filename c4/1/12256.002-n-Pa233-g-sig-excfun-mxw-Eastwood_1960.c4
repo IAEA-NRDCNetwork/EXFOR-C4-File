@@ -1,0 +1,26 @@
+#ENTRY      12256
+#AUTHOR1    T.A.Eastwood+
+#YEAR       1960
+#INSTITUTE  (1CANCRC)
+#TITLE      THE THERMAL NEUTRON CAPTURE CROSS SECTION AND RESONANCE
+#+          CAPTURE INTEGRAL OF PROTACTINIUM-233.
+#AUTHOR(S)  T.A.Eastwood, R.D.Werner
+#REF-CODE   (J,CJP,38,751,60)
+#REFERENCE  Can.J.Phys. 38 (1960) 751 (doi:10.1139/p60-081)
+#DATASETS   0
+#
+#DATASET    12256002 
+#DATE       19840821
+#REACTION   91-PA-233(N,G)91-PA-234-M,,SIG,,MXW
+#PROJ       1
+#TARG       91233
+#MF         3
+#MT         102
+#PRODUCT    91-PA-234-M
+#C4BEGIN    [    1 91233   3 102M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 91233   3 102M   0.025300          20.00000 4.000000                                       T.A.Eastwood+        (60)12256  2 
+#/DATA      1
+#/DATASET

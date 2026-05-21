@@ -1,0 +1,27 @@
+#ENTRY      11619
+#AUTHOR1    D.B.Nichols+
+#YEAR       1968
+#INSTITUTE  (1USAKTY)
+#TITLE      Differential Cross Sections of the 39,41K(n,n'gamma)
+#+          Reaction
+#AUTHOR(S)  D.B.Nichols, M.T.McEllistrem
+#REF-CODE   (J,PR,166,1074,1968)
+#REFERENCE  Phys.Rev. 166 (1968) 1074 (doi:10.1103/PhysRev.166.1074)
+#DATASETS   0
+#
+#DATASET    11619004 
+#DATE       20210920
+#REACTION   19-K-39(N,P)18-AR-39,PAR,SIG,G
+#PROJ       1
+#TARG       19039
+#MF         13
+#MT         600
+#PRODUCT    18-AR-39
+#C4BEGIN    [    1 19039  13 600 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 19039  13 600 D  3420000.          0.040000                            1266000.            D.B.Nichols+         (68)11619  4 
+    1 19039  13 600 D  3960000.          0.077000                            1266000.            D.B.Nichols+         (68)11619  4 
+#/DATA      2
+#/DATASET

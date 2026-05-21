@@ -1,0 +1,36 @@
+#ENTRY      E1411
+#AUTHOR1    T.Ohtsuki+
+#YEAR       1991
+#INSTITUTE  (2JPNTMU)
+#TITLE      Mass yield curves in low-energy proton-induced fission
+#+          of 233U, 235U, 236U, 237Np, 239Pu, 242Pu, 244Pu,
+#+          241Am, and 243Am
+#AUTHOR(S)  T.Ohtsuki, Y.Nagame, K.Tsukada, N.Shinohara, S.Baba, K.Hashimoto, 
+#+          I.Nishinaka, K.Sueki, Y.Hatsukawa, K.Hata, T.Sekine, I.Kanno, 
+#+          H.Ikezoe, H.Nakahara
+#REF-CODE   (J,PR/C,44,1405,1991)
+#REFERENCE  Phys.Rev.C 44 (1991) 1405 (doi:10.1103/PhysRevC.44.1405)
+#DATASETS   0
+#
+#DATASET    E1411251 
+#DATE       20040311
+#REACTION   95-AM-241(P,F)38-SR-91,(CUM),SIG
+#PROJ       1001
+#TARG       95241
+#MF         3
+#MT         459
+#PRODUCT    38-SR-91
+#C4BEGIN    [ 1001 95241   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 95241   3 459    9000000.          3.3000-4 3.0000-5           38091.9                     T.Ohtsuki+           (91)E1411251 
+ 1001 95241   3 459    1.0000+7          1.0600-3 8.0000-5           38091.9                     T.Ohtsuki+           (91)E1411251 
+ 1001 95241   3 459    1.1000+7          1.8200-3 1.5000-4           38091.9                     T.Ohtsuki+           (91)E1411251 
+ 1001 95241   3 459    1.2000+7          3.8300-3 3.1000-4           38091.9                     T.Ohtsuki+           (91)E1411251 
+ 1001 95241   3 459    1.3700+7          6.8000-3 5.4000-4           38091.9                     T.Ohtsuki+           (91)E1411251 
+ 1001 95241   3 459    1.4000+7          6.7900-3 5.4000-4           38091.9                     T.Ohtsuki+           (91)E1411251 
+ 1001 95241   3 459    1.5000+7          9.3900-3 7.5000-4           38091.9                     T.Ohtsuki+           (91)E1411251 
+ 1001 95241   3 459    1.6000+7          0.011780 9.4000-4           38091.9                     T.Ohtsuki+           (91)E1411251 
+#/DATA      8
+#/DATASET

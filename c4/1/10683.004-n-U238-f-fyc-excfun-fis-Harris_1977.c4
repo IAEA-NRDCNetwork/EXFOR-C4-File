@@ -1,0 +1,27 @@
+#ENTRY      10683
+#AUTHOR1    D.C.Harris+
+#YEAR       1977
+#INSTITUTE  (1USAARK)
+#TITLE      Distribution of Fission Yields for Fission Spectrum
+#+          Neutron-Induced Fission of Uranium-238
+#AUTHOR(S)  D.C.Harris, J.N.Beck, W.L.Raines, J.T.Harvey, K.G.W.Inn, 
+#+          J.L.Meason, H.L.Wright
+#REF-CODE   (J,NSE,63,504,197708)
+#REFERENCE  Nucl.Sci.Eng. 63 (1977) 504 (doi:10.13182/NSE77-A27065)
+#DATASETS   0
+#
+#DATASET    10683004 
+#DATE       20080925
+#REACTION   92-U-238(N,F)56-BA-140,CUM,FY,,FIS
+#PROJ       1
+#TARG       92238
+#MF         8
+#MT         459
+#PRODUCT    56-BA-140
+#C4BEGIN    [    1 92238   8 459 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   8 459 C  1520000.          0.060700 0.039000 56.00000 140.0000 9.000000            D.C.Harris+          (77)10683  4 
+#/DATA      1
+#/DATASET

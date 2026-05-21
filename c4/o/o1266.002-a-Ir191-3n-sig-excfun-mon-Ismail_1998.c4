@@ -1,0 +1,36 @@
+#ENTRY      O1266
+#AUTHOR1    M.Ismail+
+#YEAR       1998
+#INSTITUTE  (3INDVEC)
+#TITLE      Measurement and analysis of the excitation function
+#+          and isomeric cross section ratios for alpha-induced
+#+          reaction on Ir-, Au-, Re- and Ta-nuclei
+#AUTHOR(S)  M.Ismail
+#REF-CODE   (J,PRM,50,173,1998)
+#REFERENCE  Pramana 50 (1998) 173 (doi:10.1007/BF02847528)
+#DATASETS   0
+#
+#DATASET    O1266002 
+#DATE       20160716
+#REACTION   77-IR-191(A,3N)79-AU-192,,SIG
+#PROJ       2004
+#TARG       77191
+#MF         3
+#MT         17
+#PRODUCT    79-AU-192
+#C4BEGIN    [ 2004 77191   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 77191   3  17    4.8400+7 900000.0 0.580620 1.7419-3                                       M.Ismail             (98)O1266  2 
+ 2004 77191   3  17    4.5800+7 1000000. 0.656410 4.5949-3                                       M.Ismail             (98)O1266  2 
+ 2004 77191   3  17    4.3800+7 1000000. 0.727270 5.8182-3                                       M.Ismail             (98)O1266  2 
+ 2004 77191   3  17    4.1900+7 1000000. 0.939840 6.5789-3                                       M.Ismail             (98)O1266  2 
+ 2004 77191   3  17    3.9700+7 1100000. 1.141510 4.5660-3                                       M.Ismail             (98)O1266  2 
+ 2004 77191   3  17    3.7600+7 1100000. 1.562890 4.6887-3                                       M.Ismail             (98)O1266  2 
+ 2004 77191   3  17    3.5400+7 1100000. 1.602750 4.8083-3                                       M.Ismail             (98)O1266  2 
+ 2004 77191   3  17    3.3100+7 1200000. 1.349150 5.3966-3                                       M.Ismail             (98)O1266  2 
+ 2004 77191   3  17    3.0700+7 1200000. 0.841480 5.0489-3                                       M.Ismail             (98)O1266  2 
+ 2004 77191   3  17    2.8100+7 1300000. 0.172789 3.6286-3                                       M.Ismail             (98)O1266  2 
+#/DATA      10
+#/DATASET

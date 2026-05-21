@@ -1,0 +1,29 @@
+#ENTRY      22023
+#AUTHOR1    S.M.Qaim+
+#YEAR       1986
+#INSTITUTE  (2GERJUL)
+#TITLE      -EXCITATION FUNCTION OF NB-93(N,HE-3)Y-91 REACTION
+#+          NEAR ITS THRESHOLD, COMPARISON OF HE-3 AND H-3
+#+          EMISSION PROBABILITIES.
+#AUTHOR(S)  S.M.Qaim, R.Woelfle, H.Liskien
+#REF-CODE   (J,PR/C,34,(2),489,8608)
+#REFERENCE  Phys.Rev.C 34 No.2 (1986) 489 (doi:10.1103/PhysRevC.34.489)
+#DATASETS   0
+#
+#DATASET    22023002 
+#DATE       19870309
+#REACTION   41-NB-93(N,X)39-Y-91,,SIG
+#PROJ       1
+#TARG       41093
+#MF         3
+#MT         454
+#PRODUCT    39-Y-91
+#C4BEGIN    [    1 41093   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093   3 454    1.9210+7 370000.0 2.9600-5 6.3000-6           39091.9                     S.M.Qaim+            (86)22023  2 
+    1 41093   3 454    1.8310+7 530000.0 1.1600-5 2.5000-6           39091.9                     S.M.Qaim+            (86)22023  2 
+    1 41093   3 454    1.7010+7 760000.0 5.5000-6 1.3000-6           39091.9                     S.M.Qaim+            (86)22023  2 
+#/DATA      3
+#/DATASET

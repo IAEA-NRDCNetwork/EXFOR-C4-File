@@ -1,0 +1,32 @@
+#ENTRY      22948
+#AUTHOR1    G.Noguere+
+#YEAR       2006
+#INSTITUTE  (2FR CAD)
+#TITLE      Neutron capture and total cross sections of I-127 and
+#+          I-129
+#AUTHOR(S)  G.Noguere, O.Bouland, A.Brusegan, P.Schillebeeckx, P.Siegler, 
+#+          A.Lepretre, N.Herault, G.Rudolf
+#REF-CODE   (J,PR/C,74,054602,2006)
+#REFERENCE  Phys.Rev.C 74 (2006) 054602 (doi:10.1103/PhysRevC.74.054602)
+#DATASETS   0
+#
+#DATASET    22948014 
+#DATE       20070106
+#REACTION   53-I-127(N,G)53-I-128,,SIG,,AV
+#PROJ       1
+#TARG       53127
+#MF         3
+#MT         102
+#PRODUCT    53-I-128
+#C4BEGIN    [    1 53127   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 53127   3 102 C  7300.000 1800.000 1.360000 0.050000                                       G.Noguere+           (06)22948 14 
+    1 53127   3 102 C  12085.00 2985.000 1.050000 0.040000                                       G.Noguere+           (06)22948 14 
+    1 53127   3 102 C  19900.00 4900.000 0.820000 0.030000                                       G.Noguere+           (06)22948 14 
+    1 53127   3 102 C  32850.00 8050.000 0.650000 0.030000                                       G.Noguere+           (06)22948 14 
+    1 53127   3 102 C  54150.00 13250.00 0.510000 0.020000                                       G.Noguere+           (06)22948 14 
+    1 53127   3 102 C  89250.00 21850.00 0.350000 0.010000                                       G.Noguere+           (06)22948 14 
+#/DATA      6
+#/DATASET

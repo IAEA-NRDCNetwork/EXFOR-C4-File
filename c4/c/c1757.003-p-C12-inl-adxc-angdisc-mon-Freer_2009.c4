@@ -1,0 +1,28 @@
+#ENTRY      C1757
+#AUTHOR1    M.Freer+
+#YEAR       2009
+#INSTITUTE  (2UK BIR)
+#TITLE      2+ excitation of the 12C Hoyle state
+#AUTHOR(S)  M.Freer, H.Fujita, Z.Buthelezi, J.Carter, R.W.Fearick, S.V.Fortsch, 
+#+          R.Neveling, S.M.Perez, P.Papka, F.D.Smit, J.A.Swartz, I.Usman
+#REF-CODE   (J,PR/C,80,041303,2009)
+#REFERENCE  Phys.Rev.C 80 (2009) 041303 (doi:10.1103/PhysRevC.80.041303)
+#DATASETS   0
+#
+#DATASET    C1757003 
+#DATE       20091221
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601  C 6.6000+7          1.9400-4 3.9600-5 0.981627          9640000.         LVLM.Freer+             (09)C1757  3 
+ 1001  6012   4 601  C 6.6000+7          2.9400-4 6.0200-5 0.951057          9640000.         LVLM.Freer+             (09)C1757  3 
+ 1001  6012   4 601  C 6.6000+7          7.7200-4 1.6400-4 0.857167          9640000.         LVLM.Freer+             (09)C1757  3 
+#/DATA      3
+#/DATASET

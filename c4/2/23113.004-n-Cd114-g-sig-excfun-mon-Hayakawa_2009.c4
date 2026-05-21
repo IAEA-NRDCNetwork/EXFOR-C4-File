@@ -1,0 +1,27 @@
+#ENTRY      23113
+#AUTHOR1    T.Hayakawa+
+#YEAR       2009
+#INSTITUTE  (2JPNJAE)
+#TITLE      Neutron capture cross section to 113Cd isomer and
+#+          s-process contribution to rare p-nuclide 115Sn
+#AUTHOR(S)  T.Hayakawa, T.Shizuma, S.Chiba, T.Kajino, Y.Hatsukawa, N.Iwamoto, 
+#+          N.Shinohara, H.Harada
+#REF-CODE   (J,AJ,707,859,2009)
+#REFERENCE  Astrophys.J. 707 (2009) 859 (doi:10.1088/0004-637X/707/2/859)
+#DATASETS   0
+#
+#DATASET    23113004 
+#DATE       20141021
+#REACTION   48-CD-114(N,G)48-CD-115-M,,SIG
+#PROJ       1
+#TARG       48114
+#MF         3
+#MT         102
+#PRODUCT    48-CD-115-M
+#C4BEGIN    [    1 48114   3 102MC]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 48114   3 102MC  0.025300          0.033000 0.010000                                       T.Hayakawa+          (09)23113  4 
+#/DATA      1
+#/DATASET

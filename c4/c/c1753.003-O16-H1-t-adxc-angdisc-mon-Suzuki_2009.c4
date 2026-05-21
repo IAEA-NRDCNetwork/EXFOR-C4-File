@@ -1,0 +1,37 @@
+#ENTRY      C1753
+#AUTHOR1    D.Suzuki+
+#YEAR       2009
+#INSTITUTE  (2JPNTOK)
+#TITLE      Breakdown of the Z=8 Shell Closure in Unbound 12-O
+#+          and its Mirror Symmetry
+#AUTHOR(S)  D.Suzuki, H.Iwasaki, D.Beaumel, L.Nalpas, E.Pollacco, M.Assie, 
+#+          H.Baba, Y.Blumenfeld, N.De Sereville, A.Drouart, S.Franchoo, 
+#+          A.Gillibert, J.Guillot, F.Hammache, N.Keeley, V.Lapoux, 
+#+          F.Marechal, S.Michimasa, X.Mougeot, I.Mukha, H.Okamura, 
+#+          H.Otsu, A.P.Roussel-Chomaz, H.Sakurai, J.-A.Scarpaci, O.Sorlin, 
+#+          I.Stefan, M.Takechi
+#REF-CODE   (J,PRL,103,152503,2009)
+#REFERENCE  Phys.Rev.Lett. 103 (2009) 152503 (doi:10.1103/PhysRevLett.103.152503)
+#DATASETS   0
+#
+#DATASET    C1753003 
+#DATE       20091027
+#REACTION   1-H-1(8-O-16,T)8-O-14,PAR,DA
+#PROJ       8016
+#TARG       1001
+#MF         4
+#MT         700
+#PRODUCT    8-O-14
+#C4BEGIN    [ 8016  1001   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016  1001   4 700  C 8.1600+8          9.7900-5 2.0000-5 0.965926          6590000.         LVLD.Suzuki+            (09)C1753  3 
+ 8016  1001   4 700  C 8.1600+8          1.1500-4 2.1000-5 0.906308          6590000.         LVLD.Suzuki+            (09)C1753  3 
+ 8016  1001   4 700  C 8.1600+8          1.0200-4 1.1000-5 0.819152          6590000.         LVLD.Suzuki+            (09)C1753  3 
+ 8016  1001   4 700  C 8.1600+8          6.7400-5 7.7000-6 0.707107          6590000.         LVLD.Suzuki+            (09)C1753  3 
+ 8016  1001   4 700  C 8.1600+8          7.1700-5 7.1000-6 0.573576          6590000.         LVLD.Suzuki+            (09)C1753  3 
+ 8016  1001   4 700  C 8.1600+8          3.4400-5 5.6000-6 0.422618          6590000.         LVLD.Suzuki+            (09)C1753  3 
+ 8016  1001   4 700  C 8.1600+8          1.8400-5 4.5000-6 0.258819          6590000.         LVLD.Suzuki+            (09)C1753  3 
+#/DATA      7
+#/DATASET

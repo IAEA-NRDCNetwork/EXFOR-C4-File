@@ -1,0 +1,39 @@
+#ENTRY      D6422
+#AUTHOR1    I.M.Bhat+
+#YEAR       2022
+#INSTITUTE  (3INDMUA)
+#TITLE      Effect of projectile structure on break-up fusion for
+#+          14N + 175Lu system at intermediate energies
+#AUTHOR(S)  I.M.Bhat, M.Shuaib, M.S.Asnain, V.R.Sharma, A.Yadav, M.K.Sharma, 
+#+          P.P.Singh, D.P.Singh, U.Gupta, R.N.Sahoo, A.Sood, M.Kaushik, 
+#+          R.Kumar, B.P.Singh, R.Prasad
+#REF-CODE   (J,NP/A,1021,122421,2022)
+#REFERENCE  Nucl.Phys.A 1021 (2022) 122421 (doi:10.1016/j.nuclphysa.2022.122421)
+#DATASETS   0
+#
+#DATASET    D6422008 
+#DATE       20220719
+#REACTION   71-LU-175(7-N-14,X)76-OS-183-G,M+,SIG
+#PROJ       7014
+#TARG       71175
+#MF         3
+#MT         459
+#PRODUCT    76-OS-183-G
+#C4BEGIN    [ 7014 71175   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014 71175   3 459    6.5500+7 1280000. 5.7000-4 9.0000-5           76183.0                     I.M.Bhat+            (22)D6422  8 
+ 7014 71175   3 459    6.7410+7 1100000. 8.2000-4 9.0000-5           76183.0                     I.M.Bhat+            (22)D6422  8 
+ 7014 71175   3 459    6.9790+7 730000.0 1.2600-3 1.9000-4           76183.0                     I.M.Bhat+            (22)D6422  8 
+ 7014 71175   3 459    7.2040+7 720000.0 1.2600-3 1.9000-4           76183.0                     I.M.Bhat+            (22)D6422  8 
+ 7014 71175   3 459    7.3880+7 780000.0 2.0800-3 3.1000-4           76183.0                     I.M.Bhat+            (22)D6422  8 
+ 7014 71175   3 459    7.5840+7 860000.0 1.7000-3 2.5000-4           76183.0                     I.M.Bhat+            (22)D6422  8 
+ 7014 71175   3 459    7.7030+7 1280000. 2.3200-3 3.5000-4           76183.0                     I.M.Bhat+            (22)D6422  8 
+ 7014 71175   3 459    7.9680+7 960000.0 4.9300-3 7.4000-4           76183.0                     I.M.Bhat+            (22)D6422  8 
+ 7014 71175   3 459    8.1670+7 850000.0 7.6400-3 1.1500-3           76183.0                     I.M.Bhat+            (22)D6422  8 
+ 7014 71175   3 459    8.3080+7 920000.0 0.015850 2.3800-3           76183.0                     I.M.Bhat+            (22)D6422  8 
+ 7014 71175   3 459    8.5030+7 970000.0 0.026750 4.0100-3           76183.0                     I.M.Bhat+            (22)D6422  8 
+ 7014 71175   3 459    8.7110+7 890000.0 0.040210 6.0300-3           76183.0                     I.M.Bhat+            (22)D6422  8 
+#/DATA      12
+#/DATASET

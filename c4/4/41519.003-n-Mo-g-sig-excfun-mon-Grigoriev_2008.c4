@@ -1,0 +1,32 @@
+#ENTRY      41519
+#AUTHOR1    Yu.V.Grigoriev+
+#YEAR       2008
+#INSTITUTE  (4RUSFEI)
+#TITLE      Investigation of the resonance structure of neutron
+#+          cross-sections of Mo, Ho, Ta, W at the 50 m flight
+#+          path of the MMF (INR, Troitsk)
+#AUTHOR(S)  Yu.V.Grigoriev, O.N.Pavlova, B.V.Zhuravlev, A.A.Alekseev, 
+#+          A.I.Berlev, E.A.Koptelov, Zh.V.Mezentseva
+#REF-CODE   (S,ISINN-15,151,2008)
+#REFERENCE  Report (proceedings) ISINN-15 page 151, 2008
+#DATASETS   0
+#
+#DATASET    41519003 
+#DATE       20200703
+#REACTION   42-MO-0(N,G),,SIG,,AV
+#PROJ       1
+#TARG       42000
+#MF         3
+#MT         102
+#C4BEGIN    [    1 42000   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42000   3 102 C  34.00000 12.50000 27.50000 6.000000                                       Yu.V.Grigoriev+      (08)41519  3 
+    1 42000   3 102 C  73.25000 26.75000 3.200000 1.000000                                       Yu.V.Grigoriev+      (08)41519  3 
+    1 42000   3 102 C  157.5000 57.50000 4.200000 0.400000                                       Yu.V.Grigoriev+      (08)41519  3 
+    1 42000   3 102 C  340.0000 125.0000 1.400000 0.200000                                       Yu.V.Grigoriev+      (08)41519  3 
+    1 42000   3 102 C  732.5000 267.5000 1.200000 0.200000                                       Yu.V.Grigoriev+      (08)41519  3 
+    1 42000   3 102 C  1575.000 575.0000 0.900000 0.100000                                       Yu.V.Grigoriev+      (08)41519  3 
+#/DATA      6
+#/DATASET

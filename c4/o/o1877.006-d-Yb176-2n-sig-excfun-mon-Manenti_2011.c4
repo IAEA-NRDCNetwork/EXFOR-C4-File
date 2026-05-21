@@ -1,0 +1,45 @@
+#ENTRY      O1877
+#AUTHOR1    S.Manenti+
+#YEAR       2011
+#INSTITUTE  (2ITYMIL)
+#TITLE      Excitation function for deuteron induced nuclear
+#+          reactions on natural ytterbium for production of high
+#+          specific activity Lu-177g in no-carrier-added form
+#+          for metabolic radiotherapy
+#AUTHOR(S)  S.Manenti, F.Groppi, A.Gandini, L.Gini, K.Abbas, U.Holzwarth, 
+#+          F.Simonelli, M.Bonardi
+#REF-CODE   (J,ARI,69,37,2011)
+#REFERENCE  Appl.Radiat.Isot. 69 (2011) 37 (doi:10.1016/j.apradiso.2010.08.008)
+#DATASETS   0
+#
+#DATASET    O1877006 
+#DATE       20140429
+#REACTION   70-YB-176(D,2N)71-LU-176-M,,SIG
+#PROJ       1002
+#TARG       70176
+#MF         3
+#MT         16
+#PRODUCT    71-LU-176-M
+#C4BEGIN    [ 1002 70176   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 70176   3  16M   7660000. 350000.0 0.026190 3.3400-3                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   8700000. 300000.0 0.083910 4.8600-3                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   9660000. 250000.0 0.172020 9.9100-3                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   1.0090+7 320000.0 0.225020 0.012950                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   1.0560+7 220000.0 0.246820 0.014210                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   1.0970+7 280000.0 0.284840 0.016400                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   1.1810+7 240000.0 0.289600 0.016670                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   1.2390+7 300000.0 0.260470 0.014990                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   1.2610+7 210000.0 0.242200 0.013950                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   1.3170+7 270000.0 0.204760 0.011780                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   1.3920+7 240000.0 0.159120 9.1700-3                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   1.4420+7 220000.0 0.136320 5.8000-3                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   1.4650+7 210000.0 0.120300 6.9500-3                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   1.5420+7 220000.0 0.104850 4.5300-3                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   1.6370+7 210000.0 0.084930 3.7300-3                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   1.7290+7 210000.0 0.069880 3.1300-3                                       S.Manenti+           (11)O1877  6 
+ 1002 70176   3  16M   1.8180+7 200000.0 0.063950 2.8800-3                                       S.Manenti+           (11)O1877  6 
+#/DATA      17
+#/DATASET

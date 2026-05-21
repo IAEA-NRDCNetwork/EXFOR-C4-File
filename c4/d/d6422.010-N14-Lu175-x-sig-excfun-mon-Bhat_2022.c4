@@ -1,0 +1,35 @@
+#ENTRY      D6422
+#AUTHOR1    I.M.Bhat+
+#YEAR       2022
+#INSTITUTE  (3INDMUA)
+#TITLE      Effect of projectile structure on break-up fusion for
+#+          14N + 175Lu system at intermediate energies
+#AUTHOR(S)  I.M.Bhat, M.Shuaib, M.S.Asnain, V.R.Sharma, A.Yadav, M.K.Sharma, 
+#+          P.P.Singh, D.P.Singh, U.Gupta, R.N.Sahoo, A.Sood, M.Kaushik, 
+#+          R.Kumar, B.P.Singh, R.Prasad
+#REF-CODE   (J,NP/A,1021,122421,2022)
+#REFERENCE  Nucl.Phys.A 1021 (2022) 122421 (doi:10.1016/j.nuclphysa.2022.122421)
+#DATASETS   0
+#
+#DATASET    D6422010 
+#DATE       20220719
+#REACTION   71-LU-175(7-N-14,X)75-RE-181,,SIG
+#PROJ       7014
+#TARG       71175
+#MF         3
+#MT         454
+#PRODUCT    75-RE-181
+#C4BEGIN    [ 7014 71175   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014 71175   3 454    7.3880+7 780000.0 2.0000-3 3.0000-4           75181.9                     I.M.Bhat+            (22)D6422 10 
+ 7014 71175   3 454    7.5840+7 860000.0 3.8600-3 5.8000-4           75181.9                     I.M.Bhat+            (22)D6422 10 
+ 7014 71175   3 454    7.7030+7 1280000. 0.010700 1.6000-3           75181.9                     I.M.Bhat+            (22)D6422 10 
+ 7014 71175   3 454    7.9680+7 960000.0 0.011710 1.7600-3           75181.9                     I.M.Bhat+            (22)D6422 10 
+ 7014 71175   3 454    8.1670+7 850000.0 0.014770 2.2200-3           75181.9                     I.M.Bhat+            (22)D6422 10 
+ 7014 71175   3 454    8.3080+7 920000.0 0.023940 3.5900-3           75181.9                     I.M.Bhat+            (22)D6422 10 
+ 7014 71175   3 454    8.5030+7 970000.0 0.034390 5.1600-3           75181.9                     I.M.Bhat+            (22)D6422 10 
+ 7014 71175   3 454    8.7110+7 890000.0 0.062850 9.4300-3           75181.9                     I.M.Bhat+            (22)D6422 10 
+#/DATA      8
+#/DATASET

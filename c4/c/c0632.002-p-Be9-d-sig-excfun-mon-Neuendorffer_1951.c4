@@ -1,0 +1,31 @@
+#ENTRY      C0632
+#AUTHOR1    J.A.Neuendorffer+
+#YEAR       1951
+#INSTITUTE  (1USAJHU)
+#TITLE      Angular Yield of Deuterons and Alphas from the Proton
+#+          Bombardment of Beryllium
+#AUTHOR(S)  J.A.Neuendorffer, D.R.Inglis, S.S.Hanna
+#REF-CODE   (J,PR,82,75,195104)
+#REFERENCE  Phys.Rev. 82 (1951) 75 (doi:10.1103/PhysRev.82.75)
+#DATASETS   0
+#
+#DATASET    C0632002 
+#DATE       20000406
+#REACTION   4-BE-9(P,D)4-BE-8,,SIG
+#PROJ       1001
+#TARG       4009
+#MF         3
+#MT         104
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1001  4009   3 104  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   3 104    500000.0          0.222000                                                J.A.Neuendorffer+    (51)C0632  2 
+ 1001  4009   3 104    670000.0          0.283000                                                J.A.Neuendorffer+    (51)C0632  2 
+ 1001  4009   3 104    750000.0          0.248000                                                J.A.Neuendorffer+    (51)C0632  2 
+ 1001  4009   3 104    830000.0          0.300000                                                J.A.Neuendorffer+    (51)C0632  2 
+ 1001  4009   3 104    930000.0          0.312000                                                J.A.Neuendorffer+    (51)C0632  2 
+ 1001  4009   3 104    1000000.          0.301000                                                J.A.Neuendorffer+    (51)C0632  2 
+#/DATA      6
+#/DATASET

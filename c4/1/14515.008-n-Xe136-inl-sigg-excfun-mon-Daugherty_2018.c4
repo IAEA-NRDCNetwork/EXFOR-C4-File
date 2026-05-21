@@ -1,0 +1,38 @@
+#ENTRY      14515
+#AUTHOR1    S.J.Daugherty+
+#YEAR       2018
+#INSTITUTE  (1USAINU)
+#TITLE      Neutron inelastic scattering measurements on 136Xe at
+#+          En = 0.7 to 100 MeV
+#AUTHOR(S)  S.J.Daugherty, J.B.Albert, L.J.Kaufman, M.Devlin, N.Fotiades, 
+#+          R.O.Nelson, M.Krticka
+#REF-CODE   (J,PR/C,98,064606,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 064606 (doi:10.1103/PhysRevC.98.064606)
+#DATASETS   0
+#
+#DATASET    14515008 
+#DATE       20190205
+#REACTION   54-XE-136(N,INL)54-XE-136,PAR,SIG,G
+#PROJ       1
+#TARG       54136
+#MF         13
+#MT         51
+#PRODUCT    54-XE-136
+#C4BEGIN    [    1 54136  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 54136  13  51    2966505. 170965.0 0.055202 9.1311-3                   771000.0            S.J.Daugherty+       (18)14515  8 
+    1 54136  13  51    3329350. 191880.0 0.093665 0.013971                   771000.0            S.J.Daugherty+       (18)14515  8 
+    1 54136  13  51    3736575. 215345.0 0.115221 0.016498                   771000.0            S.J.Daugherty+       (18)14515  8 
+    1 54136  13  51    4193605. 241685.0 0.119507 0.016850                   771000.0            S.J.Daugherty+       (18)14515  8 
+    1 54136  13  51    4706535. 271245.0 0.119518 0.016978                   771000.0            S.J.Daugherty+       (18)14515  8 
+    1 54136  13  51    5282205. 304425.0 0.105679 0.015695                   771000.0            S.J.Daugherty+       (18)14515  8 
+    1 54136  13  51    5928290. 341660.0 0.111150 0.015950                   771000.0            S.J.Daugherty+       (18)14515  8 
+    1 54136  13  51    6653400. 383450.0 0.096104 0.014115                   771000.0            S.J.Daugherty+       (18)14515  8 
+    1 54136  13  51    7467195. 430345.0 0.115533 0.016981                   771000.0            S.J.Daugherty+       (18)14515  8 
+    1 54136  13  51    8380530. 482990.0 0.101397 0.015192                   771000.0            S.J.Daugherty+       (18)14515  8 
+    1 54136  13  51    9405580. 542060.0 0.088495 0.014847                   771000.0            S.J.Daugherty+       (18)14515  8 
+    1 54136  13  51    1.0556+7 608380.0 0.055683 0.010728                   771000.0            S.J.Daugherty+       (18)14515  8 
+#/DATA      12
+#/DATASET

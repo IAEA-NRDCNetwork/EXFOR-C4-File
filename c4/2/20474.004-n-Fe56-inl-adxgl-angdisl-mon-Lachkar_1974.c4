@@ -1,0 +1,51 @@
+#ENTRY      20474
+#AUTHOR1    J.Lachkar+
+#YEAR       1974
+#INSTITUTE  (2FR BRC)
+#TITLE      -GAMMA-RAY-PRODUCTION CROSS-SECTIONS FOR THE
+#+          FE-56(N,N GAMMA) REACTION FROM 2.5 TO 14.1 MEV
+#+          NEUTRON ENERGIES.-
+#AUTHOR(S)  J.Lachkar, J.Sigaud, Y.Patin, G.Haouat
+#REF-CODE   (J,NSE,55,168,7410)
+#REFERENCE  Nucl.Sci.Eng. 55 (1974) 168 (doi:10.13182/NSE74-A28205)
+#DATASETS   0
+#
+#DATASET    20474004 
+#DATE       19840120
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,DA,G
+#PROJ       1
+#TARG       26056
+#MF         14
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056  14  51    2500000. 100000.0 0.081500 6.0000-3-0.642780          846800.0            J.Lachkar+           (74)20474  4 
+    1 26056  14  51    2500000. 100000.0 0.074000 5.0000-3-0.500000          846800.0            J.Lachkar+           (74)20474  4 
+    1 26056  14  51    2500000. 100000.0 0.068000 5.0000-3 6.123-17          846800.0            J.Lachkar+           (74)20474  4 
+    1 26056  14  51    2500000. 100000.0 0.077500 6.0000-3 0.500000          846800.0            J.Lachkar+           (74)20474  4 
+    1 26056  14  51    2500000. 100000.0 0.083500 6.2000-3 0.766040          846800.0            J.Lachkar+           (74)20474  4 
+#/DATA      5
+#/DATASET
+#
+#DATASET    20474004 
+#DATE       19840120
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,DA,G
+#PROJ       1
+#TARG       26056
+#MF         14
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056  14  51    2500000. 100000.0 0.011300 2.6000-3-0.642780          1238300.            J.Lachkar+           (74)20474  4 
+    1 26056  14  51    2500000. 100000.0 0.010100 2.4000-3-0.342020          1238300.            J.Lachkar+           (74)20474  4 
+    1 26056  14  51    2500000. 100000.0 9.2000-3 2.3000-3 6.123-17          1238300.            J.Lachkar+           (74)20474  4 
+    1 26056  14  51    2500000. 100000.0 9.5000-3 2.4000-3 0.342020          1238300.            J.Lachkar+           (74)20474  4 
+    1 26056  14  51    2500000. 100000.0 0.010700 2.2000-3 0.573570          1238300.            J.Lachkar+           (74)20474  4 
+#/DATA      5
+#/DATASET

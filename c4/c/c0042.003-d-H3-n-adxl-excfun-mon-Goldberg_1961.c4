@@ -1,0 +1,29 @@
+#ENTRY      C0042
+#AUTHOR1    M.D.Goldberg+
+#YEAR       1961
+#INSTITUTE  (1USALRL)
+#TITLE      Angular Yield of Neutrons from the T(d,n)He4 Reaction
+#+          for 6- to 11.5-MeV Neutrons
+#AUTHOR(S)  M.D.Goldberg, J.M.Le Blanc
+#REF-CODE   (J,PR,122,164,1961)
+#REFERENCE  Phys.Rev. 122 (1961) 164 (doi:10.1103/PhysRev.122.164)
+#DATASETS   0
+#
+#DATASET    C0042003 
+#DATE       20020213
+#REACTION   1-H-3(D,N)2-HE-4,,DA
+#PROJ       1002
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  1003   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1003   4   4    6400000. 128000.0 0.025900 3.8850-3 1.000000 0.000000                     M.D.Goldberg+        (61)C0042  3 
+ 1002  1003   4   4    8500000. 170000.0 0.021600 3.2400-3 1.000000 0.000000                     M.D.Goldberg+        (61)C0042  3 
+ 1002  1003   4   4    1.0400+7 208000.0 0.022200 3.3300-3 1.000000 0.000000                     M.D.Goldberg+        (61)C0042  3 
+ 1002  1003   4   4    1.1000+7 220000.0 0.022600 3.3900-3 1.000000 0.000000                     M.D.Goldberg+        (61)C0042  3 
+#/DATA      4
+#/DATASET

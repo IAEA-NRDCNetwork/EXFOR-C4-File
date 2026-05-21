@@ -1,0 +1,30 @@
+#ENTRY      O0293
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1969
+#INSTITUTE  (1USAORL)
+#TITLE      Tabulated cross sections for hydrogen and helium
+#+          particles produced by 62 MeV protons on 89-Y.
+#AUTHOR(S)  F.E.Bertrand, R.W.Peelle
+#REF-CODE   (R,ORNL-4450,1969)
+#REFERENCE  Report ORNL-4450, 1969
+#DATASETS   0
+#
+#DATASET    O0293002 
+#DATE       20200111
+#REACTION   39-Y-89(P,EL)39-Y-89,,DA
+#PROJ       1001
+#TARG       39089
+#MF         4
+#MT         2
+#PRODUCT    39-Y-89
+#C4BEGIN    [ 1001 39089   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 39089   4   2  C 6.1500+7 100000.0 0.163500 4.9050-4 0.863396                              F.E.Bertrand+        (69)O0293  2 
+ 1001 39089   4   2  C 6.1500+7 100000.0 0.015800 9.4800-5 0.637424                              F.E.Bertrand+        (69)O0293  2 
+ 1001 39089   4   2  C 6.1500+7 100000.0 7.9200-4 1.9800-5 0.250380                              F.E.Bertrand+        (69)O0293  2 
+ 1001 39089   4   2  C 6.1500+7 100000.0 1.1600-4 1.0904-5-0.166769                              F.E.Bertrand+        (69)O0293  2 
+ 1001 39089   4   2  C 6.1500+7 100000.0 1.4000-5 2.7440-6-0.567844                              F.E.Bertrand+        (69)O0293  2 
+#/DATA      5
+#/DATASET

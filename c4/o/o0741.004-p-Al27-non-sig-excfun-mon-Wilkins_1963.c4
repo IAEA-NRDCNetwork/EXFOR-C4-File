@@ -1,0 +1,26 @@
+#ENTRY      O0741
+#AUTHOR1    B.D.Wilkins+
+#YEAR       1963
+#INSTITUTE  (1USALRL)
+#TITLE      10-MeV Proton Reaction Cross Sections For Several
+#+          Elements.
+#AUTHOR(S)  B.D.Wilkins, G.Igo
+#REF-CODE   (J,PR,129,2198,1963)
+#REFERENCE  Phys.Rev. 129 (1963) 2198 (doi:10.1103/PhysRev.129.2198)
+#DATASETS   0
+#
+#DATASET    O0741004 
+#DATE       20000427
+#REACTION   13-AL-27(P,NON),,SIG
+#PROJ       1001
+#TARG       13027
+#MF         3
+#MT         3
+#C4BEGIN    [ 1001 13027   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   3   3    1.0120+7 500000.0 0.704000 0.028000                                       B.D.Wilkins+         (63)O0741  4 
+ 1001 13027   3   3    9900000. 500000.0 0.656000 0.028000                                       B.D.Wilkins+         (63)O0741  4 
+#/DATA      2
+#/DATASET

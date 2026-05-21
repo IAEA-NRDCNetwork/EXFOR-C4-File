@@ -1,0 +1,30 @@
+#ENTRY      33186
+#AUTHOR1    H.Naik+
+#YEAR       2023
+#INSTITUTE  (3INDTRM)
+#TITLE      Post-neutron mass yield distribution in the thermal
+#+          neutron-induced fission of 235U
+#AUTHOR(S)  H.Naik, S.P.Dange, R.J.Singh, W.Jang
+#REF-CODE   (J,NSE,197,485,2023)
+#REFERENCE  Nucl.Sci.Eng. 197 (2023) 485 (doi:10.1080/00295639.2022.2133947)
+#DATASETS   0
+#
+#DATASET    33186004 
+#DATE       20230715
+#REACTION   92-U-235(N,F)ELEM/MASS,IND,FY,,SPA
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         454
+#C4BEGIN    [    1 92235   8 454 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 454 C  0.025300          0.011640 4.2000-4 51.00000 132.0000 0.000000            H.Naik+              (23)33186  4 
+    1 92235   8 454 C  0.025300          0.011690 3.3000-4 51.00000 132.0000 0.000000            H.Naik+              (23)33186  4 
+    1 92235   8 454 C  0.025300          3.5900-3 2.7000-4 53.00000 134.0000 1.000000            H.Naik+              (23)33186  4 
+    1 92235   8 454 C  0.025300          7.5000-4 1.7000-4 54.00000 135.0000 0.000000            H.Naik+              (23)33186  4 
+    1 92235   8 454 C  0.025300          1.7800-3 2.7000-4 54.00000 135.0000 1.000000            H.Naik+              (23)33186  4 
+    1 92235   8 454 C  0.025300          2.5300-3 3.2000-4 54.00000 135.0000 9.000000            H.Naik+              (23)33186  4 
+#/DATA      6
+#/DATASET

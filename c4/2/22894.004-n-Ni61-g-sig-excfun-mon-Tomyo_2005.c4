@@ -1,0 +1,29 @@
+#ENTRY      22894
+#AUTHOR1    A.Tomyo+
+#YEAR       2005
+#INSTITUTE  (2JPNOSA)
+#TITLE      Ni-62(n,gamma)Ni-63 reaction and overproduction
+#+          of Ni isotopes
+#AUTHOR(S)  A.Tomyo, Y.Temma, M.Segawa, Y.Nagai, T.Shima, T.Ohsaki, 
+#+          M.Igashira, H.Makii, T.Masaki, J.Nishiyama
+#REF-CODE   (J,AJ,623,L153,200504)
+#REFERENCE  Astrophys.J. 623 (2005) L153 (doi:10.1086/430129)
+#DATASETS   0
+#
+#DATASET    22894004 
+#DATE       20090902
+#REACTION   28-NI-61(N,G)28-NI-62,,SIG
+#PROJ       1
+#TARG       28061
+#MF         3
+#MT         102
+#PRODUCT    28-NI-62
+#C4BEGIN    [    1 28061   3 102 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28061   3 102 P  8000.000          0.370000 0.350000                                       A.Tomyo+             (05)22894  4 
+    1 28061   3 102 P  16000.00          0.120000 0.065000                                       A.Tomyo+             (05)22894  4 
+    1 28061   3 102 P  37000.00          0.037000 0.014000                                       A.Tomyo+             (05)22894  4 
+#/DATA      3
+#/DATASET

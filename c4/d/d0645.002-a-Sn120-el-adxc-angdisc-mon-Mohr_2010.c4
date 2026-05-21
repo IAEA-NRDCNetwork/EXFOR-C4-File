@@ -1,0 +1,38 @@
+#ENTRY      D0645
+#AUTHOR1    P.Mohr+
+#YEAR       2010
+#INSTITUTE  (2GERGER)
+#TITLE      Comparison of 120Sn(6He,6He)120Sn and
+#+          120Sn(alpha,alpha)120Sn elastic  scattering and
+#+          signatures of the 6He neutron halo in the optical
+#+          potential
+#AUTHOR(S)  P.Mohr, P.N.de Faria, R.Lichtenthaler, K.C.C.Pires, V.Guimaraes, 
+#+          A.Lepine-Szily, D.R.Mendes Jr, A.Arazi, A.Barioni, V.Morcelle, 
+#+          M.C.Morais
+#REF-CODE   (J,PR/C,82,(4),044606,2010)
+#REFERENCE  Phys.Rev.C 82 No.4 (2010) 044606 (doi:10.1103/PhysRevC.82.044606)
+#DATASETS   0
+#
+#DATASET    D0645002 
+#DATE       20110702
+#REACTION   50-SN-120(A,EL)50-SN-120,,DA,,RTH
+#PROJ       2004
+#TARG       50120
+#MF         4
+#MT         2
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 2004 50120   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 50120   4   2 AC 2.0000+7          103.9330 0.309878 0.963397                              P.Mohr+              (10)D0645  2 
+ 2004 50120   4   2 AC 2.0000+7          28.58056 0.185107 0.930290                              P.Mohr+              (10)D0645  2 
+ 2004 50120   4   2 AC 2.0000+7          11.47861 0.104869 0.889815                              P.Mohr+              (10)D0645  2 
+ 2004 50120   4   2 AC 2.0000+7          0.932206 0.037097 0.663796                              P.Mohr+              (10)D0645  2 
+ 2004 50120   4   2 AC 2.0000+7          0.591746 0.034146 0.592857                              P.Mohr+              (10)D0645  2 
+ 2004 50120   4   2 AC 2.0000+7          0.369586 0.022865 0.517280                              P.Mohr+              (10)D0645  2 
+ 2004 50120   4   2 AC 2.0000+7          0.080733 9.8175-3 0.178287                              P.Mohr+              (10)D0645  2 
+ 2004 50120   4   2 AC 2.0000+7          0.049180 9.6527-3 0.088894                              P.Mohr+              (10)D0645  2 
+ 2004 50120   4   2 AC 2.0000+7          0.035938 6.1529-3-1.5708-3                              P.Mohr+              (10)D0645  2 
+#/DATA      9
+#/DATASET

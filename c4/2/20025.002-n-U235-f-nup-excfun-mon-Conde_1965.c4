@@ -1,0 +1,25 @@
+#ENTRY      20025
+#AUTHOR1    H.Conde+
+#YEAR       1965
+#INSTITUTE  (2SWDFOA)
+#TITLE      Average number of neutrons from the fission of U-235
+#AUTHOR(S)  H.Conde
+#REF-CODE   (J,AF,29,293,196503)
+#REFERENCE  Arkiv foer Fysik 29 (1965) 293
+#DATASETS   0
+#
+#DATASET    20025002 
+#DATE       20170125
+#REACTION   92-U-235(N,F),PR,NU
+#PROJ       1
+#TARG       92235
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92235   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   1 456    7500000.          3.490000 0.060000                                       H.Conde              (65)20025  2 
+    1 92235   1 456    1.4800+7          4.470000 0.090000                                       H.Conde              (65)20025  2 
+#/DATA      2
+#/DATASET

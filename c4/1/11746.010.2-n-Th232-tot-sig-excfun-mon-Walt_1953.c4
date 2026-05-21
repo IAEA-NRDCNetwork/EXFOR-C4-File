@@ -1,0 +1,25 @@
+#ENTRY      11746
+#AUTHOR1    M.Walt+
+#YEAR       1953
+#INSTITUTE  (1USAWIS)
+#TITLE      Total fast neutron cross sections of Co, Ga, Se, Cd,
+#+          Te, Pt, Au, Hg, and Th
+#AUTHOR(S)  M.Walt, R.L.Becker, A.Okazaki, R.E.Fields
+#REF-CODE   (J,PR,89,1271,1953)
+#REFERENCE  Phys.Rev. 89 (1953) 1271 (doi:10.1103/PhysRev.89.1271)
+#DATASETS   0
+#
+#DATASET    117460102
+#DATE       20121121
+#REACTION   90-TH-232(N,TOT),,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         1
+#C4BEGIN    [    1 90232   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3   1    2600000.          6.900000                                                M.Walt+              (53)11746 102
+#/DATA      1
+#/DATASET

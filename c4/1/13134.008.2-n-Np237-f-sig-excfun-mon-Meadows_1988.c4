@@ -1,0 +1,26 @@
+#ENTRY      13134
+#AUTHOR1    J.W.Meadows+
+#YEAR       1988
+#INSTITUTE  (1USAANL)
+#TITLE      The fission cross sections of 230Th, 232Th, 233U, 234U,
+#+          236U, 238U, 237Np, 239Pu and 242Pu relative to 235U
+#+          at 14.74 MeV neutron energy
+#AUTHOR(S)  J.W.Meadows
+#REF-CODE   (J,ANE,15,421,1988)
+#REFERENCE  Ann.Nucl.Energy 15 (1988) 421 (doi:10.1016/0306-4549(88)90038-2)
+#DATASETS   0
+#
+#DATASET    131340082
+#DATE       20170724
+#REACTION   93-NP-237(N,F),,SIG
+#PROJ       1
+#TARG       93237
+#MF         3
+#MT         18
+#C4BEGIN    [    1 93237   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   3  18 A  1.4740+7 50000.00 2.227000 0.031623                                       J.W.Meadows          (88)13134  82
+#/DATA      1
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      31449
+#AUTHOR1    N.I.Molla+
+#YEAR       1994
+#INSTITUTE  (3BANSAV)
+#TITLE      Cross sections of (n,p), (n,a) and (n,2n) processes
+#+          on scandium, vanadium, cobalt, copper and zinc isotope
+#+          in the energy range 13.57 - 14.71 MeV.
+#AUTHOR(S)  N.I.Molla, R.U.Miah, S.Basunia, S.M.Hossain, M.Rahman
+#REF-CODE   (C,94GATLIN,2,938,199405)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 2 page 938
+#DATASETS   0
+#
+#DATASET    31449005 
+#DATE       20071207
+#REACTION   27-CO-59(N,P)26-FE-59,,SIG
+#PROJ       1
+#TARG       27059
+#MF         3
+#MT         103
+#PRODUCT    26-FE-59
+#C4BEGIN    [    1 27059   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   3 103    1.3570+7          0.056600 8.1000-3                                       N.I.Molla+           (94)31449  5 
+    1 27059   3 103    1.3900+7          0.055200 8.0000-3                                       N.I.Molla+           (94)31449  5 
+    1 27059   3 103    1.4100+7          0.053600 6.0000-3                                       N.I.Molla+           (94)31449  5 
+    1 27059   3 103    1.4510+7          0.052800 7.5000-3                                       N.I.Molla+           (94)31449  5 
+    1 27059   3 103    1.4710+7          0.051600 7.4000-3                                       N.I.Molla+           (94)31449  5 
+#/DATA      5
+#/DATASET

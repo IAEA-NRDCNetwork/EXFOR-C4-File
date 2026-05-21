@@ -1,0 +1,35 @@
+#ENTRY      10490
+#AUTHOR1    V.C.Rogers+
+#YEAR       1975
+#INSTITUTE  (1USAIRT)
+#TITLE      Gamma-Ray Production Cross Sections for Carbon and
+#+          Nitrogen from Threshold to 20.7 MeV.
+#AUTHOR(S)  V.C.Rogers, V.J.Orphan, C.G.Hoot, V.V.Verbinski
+#REF-CODE   (J,NSE,58,298,1975)
+#REFERENCE  Nucl.Sci.Eng. 58 (1975) 298 (doi:10.13182/NSE75-A26779)
+#DATASETS   0
+#
+#DATASET    10490002 
+#DATE       20040114
+#REACTION   6-C-12(N,INL)6-C-12,PAR,SIG,G
+#PROJ       1
+#TARG       6012
+#MF         13
+#MT         51
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012  13  51    4930000. 120000.0 0.066900 8.0280-3                   4430000.            V.C.Rogers+          (75)10490  2 
+    1  6012  13  51    5560000. 510000.0 0.165000 0.019800                   4430000.            V.C.Rogers+          (75)10490  2 
+    1  6012  13  51    6580000. 510000.0 0.220000 0.026400                   4430000.            V.C.Rogers+          (75)10490  2 
+    1  6012  13  51    7605000. 515000.0 0.299000 0.035880                   4430000.            V.C.Rogers+          (75)10490  2 
+    1  6012  13  51    8635000. 515000.0 0.250000 0.030000                   4430000.            V.C.Rogers+          (75)10490  2 
+    1  6012  13  51    9665000. 515000.0 0.301000 0.036120                   4430000.            V.C.Rogers+          (75)10490  2 
+    1  6012  13  51    1.1220+7 1040000. 0.305000 0.036600                   4430000.            V.C.Rogers+          (75)10490  2 
+    1  6012  13  51    1.3310+7 1050000. 0.200000 0.024000                   4430000.            V.C.Rogers+          (75)10490  2 
+    1  6012  13  51    1.5855+7 1495000. 0.099100 0.011892                   4430000.            V.C.Rogers+          (75)10490  2 
+    1  6012  13  51    1.9045+7 1695000. 0.071000 8.5200-3                   4430000.            V.C.Rogers+          (75)10490  2 
+#/DATA      10
+#/DATASET

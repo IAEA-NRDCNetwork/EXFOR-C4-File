@@ -1,0 +1,26 @@
+#ENTRY      40033
+#AUTHOR1    V.G.Nesterov+
+#YEAR       1970
+#INSTITUTE  (4RUSFEI)
+#TITLE      Average number of prompt neutrons in the fission of
+#+          Uranium-235 and Plutonium-239 by neutrons.
+#AUTHOR(S)  V.G.Nesterov, B.Nurpeisov, L.I.Prokhorova, G.N.Smirenkin, 
+#+          Yu.M.Turchin, I.I.Kotukhov
+#REF-CODE   (C,70HELSINKI,2,167,197006)
+#REFERENCE  Proceedings of Nuclear Data for Reactors Conf., Helsinki 1970 2 page 167
+#DATASETS   0
+#
+#DATASET    40033007 
+#DATE       20120321
+#REACTION   94-PU-239(N,F),PR,NU
+#PROJ       1
+#TARG       94239
+#MF         1
+#MT         456
+#C4BEGIN    [    1 94239   1 456 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   1 456 D  0.025300          2.872000 0.025000                                       V.G.Nesterov+        (70)40033  7 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      32809
+#AUTHOR1    Luocheng Yang+
+#YEAR       2020
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Measurement of fission cross sections for
+#+          232Th(n,f)Z-X-84 reaction around the neutron energy of
+#+          14 MeV
+#AUTHOR(S)  Luocheng Yang, Yafei Han, Qing Qin, Qiang Wang, Kaihong Fang
+#REF-CODE   (J,ARI,164,109242,2020)
+#REFERENCE  Appl.Radiat.Isot. 164 (2020) 109242 (doi:10.1016/j.apradiso.2020.109242)
+#DATASETS   0
+#
+#DATASET    32809003 
+#DATE       20220524
+#REACTION   90-TH-232(N,F)35-BR-84-M,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         454
+#PRODUCT    35-BR-84-M
+#C4BEGIN    [    1 90232   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3 454    1.4100+7 300000.0 2.4900-3 2.9000-4           35084.7                     Luocheng Yang+       (20)32809  3 
+    1 90232   3 454    1.4100+7 300000.0 2.9900-3 3.7000-4           35084.7                     Luocheng Yang+       (20)32809  3 
+    1 90232   3 454    1.4500+7 300000.0 2.7100-3 3.3000-4           35084.7                     Luocheng Yang+       (20)32809  3 
+    1 90232   3 454    1.4500+7 300000.0 2.7800-3 3.7000-4           35084.7                     Luocheng Yang+       (20)32809  3 
+    1 90232   3 454    1.4700+7 100000.0 2.3300-3 2.8000-4           35084.7                     Luocheng Yang+       (20)32809  3 
+    1 90232   3 454    1.4700+7 100000.0 2.2700-3 3.0000-4           35084.7                     Luocheng Yang+       (20)32809  3 
+#/DATA      6
+#/DATASET

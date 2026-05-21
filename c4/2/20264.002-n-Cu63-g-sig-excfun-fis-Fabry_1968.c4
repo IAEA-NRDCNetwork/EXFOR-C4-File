@@ -1,0 +1,26 @@
+#ENTRY      20264
+#AUTHOR1    A.Fabry+
+#YEAR       1968
+#INSTITUTE  (2BLGMOL)
+#TITLE      - Integral test of capture cross-sections in the energy
+#+          range 0.1 to 2 MeV -
+#AUTHOR(S)  A.Fabry, M.De Coster
+#REF-CODE   (C,68WASH,2,1263,196803)
+#REFERENCE  Proceedings of Nuclear Cross-Sections Techn. Conf., Washington 1968 2 page 1263
+#DATASETS   0
+#
+#DATASET    20264002 
+#DATE       20110227
+#REACTION   29-CU-63(N,G)29-CU-64,,SIG,,FIS
+#PROJ       1
+#TARG       29063
+#MF         3
+#MT         102
+#PRODUCT    29-CU-64
+#C4BEGIN    [    1 29063   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29063   3 102    1000000.          0.010800 2.5000-3                                       A.Fabry+             (68)20264  2 
+#/DATA      1
+#/DATASET

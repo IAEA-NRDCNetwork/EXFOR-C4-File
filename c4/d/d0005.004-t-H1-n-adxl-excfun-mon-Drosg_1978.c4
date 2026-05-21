@@ -1,0 +1,28 @@
+#ENTRY      D0005
+#AUTHOR1    M.Drosg+
+#YEAR       1978
+#INSTITUTE  (1USALAS)
+#TITLE      Unified absolute differential cross sections for
+#+          neutron production by the hydrogen isotopes for
+#+          charged particle energies between 6 and 17 MeV
+#AUTHOR(S)  M.Drosg
+#REF-CODE   (J,NSE,67,190,1978)
+#REFERENCE  Nucl.Sci.Eng. 67 (1978) 190 (doi:10.13182/NSE67-190)
+#DATASETS   0
+#
+#DATASET    D0005004 
+#DATE       20161110
+#REACTION   1-H-1(T,N)2-HE-3,,DA
+#PROJ       1003
+#TARG       1001
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1003  1001   4   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  1001   4   4 A  1.4880+7          0.507000          1.000000                              M.Drosg              (78)D0005  4 
+ 1003  1001   4   4 A  1.6190+7          0.467000          1.000000                              M.Drosg              (78)D0005  4 
+#/DATA      2
+#/DATASET

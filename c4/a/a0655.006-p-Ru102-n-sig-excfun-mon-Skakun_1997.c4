@@ -1,0 +1,33 @@
+#ENTRY      A0655
+#AUTHOR1    E.A.Skakun+
+#YEAR       1997
+#INSTITUTE  (4UKRKFT)
+#TITLE      Excitation functions of (p,n) reactions on 99-Ru,
+#+          100-Ru, 101-Ru and 102-Ru.  101-m-Rh production.
+#AUTHOR(S)  E.A.Skakun, A.I.Stojanov, V.G.Batij
+#REF-CODE   (C,97TRIEST,2,1649,1997)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 2 page 1649
+#DATASETS   0
+#
+#DATASET    A0655006 
+#DATE       20231205
+#REACTION   44-RU-102(P,N)45-RH-102,,SIG
+#PROJ       1001
+#TARG       44102
+#MF         3
+#MT         4
+#PRODUCT    45-RH-102
+#C4BEGIN    [ 1001 44102   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 44102   3   4    5430000.          0.050600                                                E.A.Skakun+          (97)A0655  6 
+ 1001 44102   3   4    5970000.          0.091900                                                E.A.Skakun+          (97)A0655  6 
+ 1001 44102   3   4    6460000.          0.175000                                                E.A.Skakun+          (97)A0655  6 
+ 1001 44102   3   4    6940000.          0.261000                                                E.A.Skakun+          (97)A0655  6 
+ 1001 44102   3   4    7430000.          0.335000                                                E.A.Skakun+          (97)A0655  6 
+ 1001 44102   3   4    7980000.          0.409000                                                E.A.Skakun+          (97)A0655  6 
+ 1001 44102   3   4    8400000.          0.500000                                                E.A.Skakun+          (97)A0655  6 
+ 1001 44102   3   4    8890000.          0.526000                                                E.A.Skakun+          (97)A0655  6 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      40750
+#AUTHOR1    V.I.Ivanov+
+#YEAR       1980
+#INSTITUTE  (4RUSFEI)
+#TITLE      240Pu neutron radiation capture measured in the BR-5
+#+          reactor core
+#AUTHOR(S)  V.I.Ivanov, V.A.Tolstikov
+#REF-CODE   (J,YK,,(1/36),26,1980)
+#REFERENCE  Yad.Reak.Konst.  No.1/36 (1980) 26
+#DATASETS   0
+#
+#DATASET    40750006 
+#DATE       20180320
+#REACTION   94-PU-240(N,G)94-PU-241,,SIG,,SPA
+#PROJ       1
+#TARG       94240
+#MF         3
+#MT         102
+#PRODUCT    94-PU-241
+#C4BEGIN    [    1 94240   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94240   3 102    1000000.          0.190000 0.013000                                       V.I.Ivanov+          (80)40750  6 
+#/DATA      1
+#/DATASET

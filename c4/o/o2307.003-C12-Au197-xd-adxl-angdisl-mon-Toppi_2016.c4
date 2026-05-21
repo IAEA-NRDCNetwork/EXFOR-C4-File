@@ -1,0 +1,49 @@
+#ENTRY      O2307
+#AUTHOR1    M.Toppi+
+#YEAR       2016
+#INSTITUTE  (2ITYFRA)
+#TITLE      Measurement of fragmentation cross sections of 12C ions
+#+          on a thin gold target with the FIRST apparatus.
+#AUTHOR(S)  M.Toppi, Z.Abou-Haidar, C.Agodi, M.A.G.Alvarez, T.Aumann, 
+#+          F.Balestra, G.Battistoni, A.Bocci, T.T.Boehlen, A.Boudard, 
+#+          A.Brunetti, M.Carpinelli, R.Cirio, G.A.P.Cirrone, M.A.Cortes-Giraldo, 
+#+          G.Cuttone, M.De Napoli, M.Durante, J.P.Fernandez-Garcea, 
+#+          Ch.Finck, B.Golosio, E.Iarocci, F.Iazzi, G.Ickert, R.Introzzi, 
+#+          D.Juliani, J.Krimmer, A.H.Kummali, N.Kurz, M.Labalme, Y.Leifels, 
+#+          A.Le Fevre, S.Leray, F.Marchetto, V.Monaco, M.C.Morone, 
+#+          D.Nicolosi, P.Oliva, A.Paoloni, L.Piersanti, R.Pleskac, 
+#+          N.Randazzo, R.Rescigno, F.Romano, D.Rossi, V.Rosso, M.Rousseau, 
+#+          R.Sacchi, P.Sala, S.Salvador, A.Sarti, C.Scheidenberger, 
+#+          C.Schuy, A.Sciubba, C.Sfienti, H.Simon, V.Sipala, E.Spiriti, 
+#+          S.Tropea, M.Vanstalle, H.Younis, V.Patera
+#REF-CODE   (J,PR/C,93,064601,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 064601 (doi:10.1103/PhysRevC.93.064601)
+#DATASETS   0
+#
+#DATASET    O2307003 
+#DATE       20160928
+#REACTION   79-AU-197(6-C-12,X)1-H-2,,DA
+#PROJ       6012
+#TARG       79197
+#MF         4
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 6012 79197   4 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 79197   4 204    4.8000+9          250.0000 130.0000 0.999994 1.2185-5                     M.Toppi+             (16)O2307  3 
+ 6012 79197   4 204    4.8000+9          49.00000 28.00000 0.999945 3.6553-5                     M.Toppi+             (16)O2307  3 
+ 6012 79197   4 204    4.8000+9          15.00000 6.000000 0.999848 6.0920-5                     M.Toppi+             (16)O2307  3 
+ 6012 79197   4 204    4.8000+9          12.00000 1.700000 0.999701 8.5284-5                     M.Toppi+             (16)O2307  3 
+ 6012 79197   4 204    4.8000+9          11.00000 2.400000 0.999507 1.0964-4                     M.Toppi+             (16)O2307  3 
+ 6012 79197   4 204    4.8000+9          9.900000 2.900000 0.999263 1.3400-4                     M.Toppi+             (16)O2307  3 
+ 6012 79197   4 204    4.8000+9          10.00000 1.700000 0.998971 1.5835-4                     M.Toppi+             (16)O2307  3 
+ 6012 79197   4 204    4.8000+9          9.600000 1.300000 0.998630 1.8269-4                     M.Toppi+             (16)O2307  3 
+ 6012 79197   4 204    4.8000+9          7.600000 1.600000 0.998240 2.0702-4                     M.Toppi+             (16)O2307  3 
+ 6012 79197   4 204    4.8000+9          7.700000 0.750000 0.997801 2.3134-4                     M.Toppi+             (16)O2307  3 
+ 6012 79197   4 204    4.8000+9          6.300000 0.630000 0.997314 2.5565-4                     M.Toppi+             (16)O2307  3 
+ 6012 79197   4 204    4.8000+9          6.200000 0.700000 0.996779 2.7995-4                     M.Toppi+             (16)O2307  3 
+ 6012 79197   4 204    4.8000+9          5.200000 1.200000 0.996195 3.0423-4                     M.Toppi+             (16)O2307  3 
+#/DATA      13
+#/DATASET

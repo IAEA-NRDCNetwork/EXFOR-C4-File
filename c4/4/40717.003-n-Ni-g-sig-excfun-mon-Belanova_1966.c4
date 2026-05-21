@@ -1,0 +1,26 @@
+#ENTRY      40717
+#AUTHOR1    T.S.Belanova+
+#YEAR       1966
+#INSTITUTE  (4RUSFEI)
+#TITLE      Measurement of absorption cross-sections for neutrons
+#+          with a mean energy of 24 keV by transmission in a
+#+          spherical geometry
+#AUTHOR(S)  T.S.Belanova, A.A.Van'kov, F.F.Mikhaylus, Yu.Ya.Stavisskiy
+#REF-CODE   (C,66PARIS,I,455(96),1966)
+#REFERENCE  Proceedings of Nuclear Data For Reactors Conf., Paris 1966 I page 455(96)
+#DATASETS   0
+#
+#DATASET    40717003 
+#DATE       20231113
+#REACTION   28-NI-0(N,G),,SIG
+#PROJ       1
+#TARG       28000
+#MF         3
+#MT         102
+#C4BEGIN    [    1 28000   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28000   3 102 C  2.4000+7          0.023000 6.0000-3                                       T.S.Belanova+        (66)40717  3 
+#/DATA      1
+#/DATASET

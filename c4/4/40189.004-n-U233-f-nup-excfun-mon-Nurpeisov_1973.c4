@@ -1,0 +1,32 @@
+#ENTRY      40189
+#AUTHOR1    B.Nurpeisov+
+#YEAR       1973
+#INSTITUTE  (4RUSFEI)
+#TITLE      Average yield of prompt neutrons nu-bar in the
+#+          fission of U-233 by neutrons with energies from 0 to
+#+          1.4 MeV.
+#AUTHOR(S)  B.Nurpeisov, V.G.Nesterov, L.I.Prokhorova, G.N.Smirenkin
+#REF-CODE   (J,SJA,34,603,1973)
+#REFERENCE  Sov.At.Energy 34 (1973) 603 (doi:10.1007/BF01117690)
+#DATASETS   0
+#
+#DATASET    40189004 
+#DATE       20151112
+#REACTION   92-U-233(N,F),PR,NU
+#PROJ       1
+#TARG       92233
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92233   1 456 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   1 456 D  80000.00          2.511000 0.024000                                       B.Nurpeisov+         (73)40189  4 
+    1 92233   1 456 D  200000.0 50000.00 2.489000 0.025000                                       B.Nurpeisov+         (73)40189  4 
+    1 92233   1 456 D  300000.0 50000.00 2.464000 0.020000                                       B.Nurpeisov+         (73)40189  4 
+    1 92233   1 456 D  400000.0 50000.00 2.484000 0.016000                                       B.Nurpeisov+         (73)40189  4 
+    1 92233   1 456 D  500000.0 50000.00 2.494000 0.020000                                       B.Nurpeisov+         (73)40189  4 
+    1 92233   1 456 D  600000.0 50000.00 2.514000 0.020000                                       B.Nurpeisov+         (73)40189  4 
+    1 92233   1 456 D  700000.0 50000.00 2.539000 0.022000                                       B.Nurpeisov+         (73)40189  4 
+#/DATA      7
+#/DATASET

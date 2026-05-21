@@ -1,0 +1,37 @@
+#ENTRY      F1504
+#AUTHOR1    B.M.Abramov+
+#YEAR       2018
+#INSTITUTE  (4RUSITE)
+#TITLE      Nuclear fragments in the interactions of carbon
+#+          nuclei with a beryllium target at the energy of 0.95
+#+          GeV per nucleon
+#AUTHOR(S)  B.M.Abramov, P.N.Alexeev, Yu.A.Borodin, S.A.Bulychjov, K.K.Gudima, 
+#+          I.A.Dukhovskoy, A.P.Krutenkova, V.V.Kulikov, M.A.Martemianov, 
+#+          M.A.Matsyuk, E.N.Turdakina, A.I.Khanov
+#REF-CODE   (J,PAN,81,330,2018)
+#REFERENCE  Phys.At.Nucl. 81 (2018) 330 (doi:10.1134/S106377881803002X)
+#DATASETS   0
+#
+#DATASET    F1504006 
+#DATE       20240415
+#REACTION   4-BE-9(6-C-12,X)2-HE-4,,DA/DP
+#PROJ       6012
+#TARG       4009
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 6012  4009   6 207 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  4009   6 207 A  1.140+10          5.0626-9 5.296-10 0.998135 5.3275-4 6.4112+9          E2B.M.Abramov+         (18)F1504  6 
+ 6012  4009   6 207 A  1.140+10          1.5670-8 1.5939-9 0.998135 5.3275-4 6.8058+9          E2B.M.Abramov+         (18)F1504  6 
+ 6012  4009   6 207 A  1.140+10          3.9790-8 4.0114-9 0.998135 5.3275-4 7.2011+9          E2B.M.Abramov+         (18)F1504  6 
+ 6012  4009   6 207 A  1.140+10          4.1250-8 4.1712-9 0.998135 5.3275-4 7.3989+9          E2B.M.Abramov+         (18)F1504  6 
+ 6012  4009   6 207 A  1.140+10          3.1711-8 3.1969-9 0.998135 5.3275-4 7.5969+9          E2B.M.Abramov+         (18)F1504  6 
+ 6012  4009   6 207 A  1.140+10          8.3398-9 8.574-10 0.998135 5.3275-4 7.9932+9          E2B.M.Abramov+         (18)F1504  6 
+ 6012  4009   6 207 A  1.140+10          8.614-10 9.572-11 0.998135 5.3275-4 8.3899+9          E2B.M.Abramov+         (18)F1504  6 
+ 6012  4009   6 207 A  1.140+10          8.509-11 1.158-11 0.998135 5.3275-4 8.7869+9          E2B.M.Abramov+         (18)F1504  6 
+ 6012  4009   6 207 A  1.140+10          5.041-12 1.753-12 0.998135 5.3275-4 9.1842+9          E2B.M.Abramov+         (18)F1504  6 
+#/DATA      9
+#/DATASET

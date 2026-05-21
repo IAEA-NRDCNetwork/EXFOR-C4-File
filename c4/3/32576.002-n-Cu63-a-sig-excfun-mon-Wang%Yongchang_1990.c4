@@ -1,0 +1,32 @@
+#ENTRY      32576
+#AUTHOR1    Wang Yongchang+
+#YEAR       1990
+#INSTITUTE  (3CPRLNZ)
+#TITLE      The cross section measurement for the Cu-63(n,a)Co-60
+#+          reaction
+#AUTHOR(S)  Wang Yongchang, Yuan Junqian, Ren Zhongliang, Wang Huamin, 
+#+          Yang Jingkang, Shui Yongqing, Xiang Sicang
+#REF-CODE   (J,PHE,14,919,199010)
+#REFERENCE  High En.Nucl.Phy.Ch. 14 (1990) 919
+#DATASETS   0
+#
+#DATASET    32576002 
+#DATE       20100328
+#REACTION   29-CU-63(N,A)27-CO-60,,SIG
+#PROJ       1
+#TARG       29063
+#MF         3
+#MT         107
+#PRODUCT    27-CO-60
+#C4BEGIN    [    1 29063   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29063   3 107    1.3640+7 50000.00 0.058300 3.1000-3                                       Wang Yongchang+      (90)32576  2 
+    1 29063   3 107    1.3790+7 60000.00 0.056300 2.4000-3                                       Wang Yongchang+      (90)32576  2 
+    1 29063   3 107    1.4030+7 70000.00 0.053400 2.0000-3                                       Wang Yongchang+      (90)32576  2 
+    1 29063   3 107    1.4330+7 90000.00 0.050800 1.9000-3                                       Wang Yongchang+      (90)32576  2 
+    1 29063   3 107    1.4600+7 110000.0 0.048400 1.7000-3                                       Wang Yongchang+      (90)32576  2 
+    1 29063   3 107    1.4800+7 110000.0 0.047400 1.7000-3                                       Wang Yongchang+      (90)32576  2 
+#/DATA      6
+#/DATASET

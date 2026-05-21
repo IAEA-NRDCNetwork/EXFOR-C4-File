@@ -1,0 +1,32 @@
+#ENTRY      14244
+#AUTHOR1    O.Roig+
+#YEAR       2016
+#INSTITUTE  (2FR BRC)
+#TITLE      Radiative neutron capture cross sections on 176Lu at
+#+          DANCE
+#AUTHOR(S)  O.Roig, M.Jandel, V.Meot, E.M.Bond, T.A.Bredeweg, A.J.Couture, 
+#+          R.C.Haight, A.L.Keksis, R.S.Rundberg, J.L.Ullmann, D.J.Vieira
+#REF-CODE   (J,PR/C,93,034602,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 034602 (doi:10.1103/PhysRevC.93.034602)
+#DATASETS   0
+#
+#DATASET    14244002 
+#DATE       20160510
+#REACTION   71-LU-176(N,G)71-LU-177,,SIG,,MXW
+#PROJ       1
+#TARG       71176
+#MF         3
+#MT         102
+#PRODUCT    71-LU-177
+#C4BEGIN    [    1 71176   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 71176   3 102    8000.000          3.620000 0.062000                                       O.Roig+              (16)14244  2 
+    1 71176   3 102    10000.00          3.130000 0.021000                                       O.Roig+              (16)14244  2 
+    1 71176   3 102    15000.00          2.431000 0.013000                                       O.Roig+              (16)14244  2 
+    1 71176   3 102    20000.00          2.052000 9.0000-3                                       O.Roig+              (16)14244  2 
+    1 71176   3 102    25000.00          1.809000 6.0000-3                                       O.Roig+              (16)14244  2 
+    1 71176   3 102    30000.00          1.639000 5.0000-3                                       O.Roig+              (16)14244  2 
+#/DATA      6
+#/DATASET

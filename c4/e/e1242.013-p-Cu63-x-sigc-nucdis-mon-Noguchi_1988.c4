@@ -1,0 +1,36 @@
+#ENTRY      E1242
+#AUTHOR1    M.Noguchi+
+#YEAR       1988
+#INSTITUTE  (2JPNKEK)
+#TITLE      Nuclear reactions of 48Ti, 56Fe, 57Fe, 58Ni, 60Ni,
+#+          63Cu, and 65Cu by 12-GeV protons
+#AUTHOR(S)  M.Noguchi, H.Hirabayashi, K.Katoh, K.Kondo, M.Takasaki, 
+#+          Y.Asano, S.Mori, M.Sakano
+#REF-CODE   (J,PR/C,38,(4),1811,198810)
+#REFERENCE  Phys.Rev.C 38 No.4 (1988) 1811 (doi:10.1103/PhysRevC.38.1811)
+#DATASETS   0
+#
+#DATASET    E1242013 
+#DATE       20080131
+#REACTION   29-CU-63(P,X)ELEM/MASS,CUM,SIG
+#PROJ       1001
+#TARG       29063
+#MF         3
+#MT         459
+#C4BEGIN    [ 1001 29063   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29063   3 459    1.200+10          4.2000-4 2.0000-5           12028.9                     M.Noguchi+           (88)E1242 13 
+ 1001 29063   3 459    1.200+10          7.1000-4 4.0000-5           19043.9                     M.Noguchi+           (88)E1242 13 
+ 1001 29063   3 459    1.200+10          2.2000-3 1.3000-4           21043.9                     M.Noguchi+           (88)E1242 13 
+ 1001 29063   3 459    1.200+10          1.7000-3 3.0000-4           21047.9                     M.Noguchi+           (88)E1242 13 
+ 1001 29063   3 459    1.200+10          6.6000-3 3.0000-4           23048.9                     M.Noguchi+           (88)E1242 13 
+ 1001 29063   3 459    1.200+10          0.014000 7.0000-4           24051.9                     M.Noguchi+           (88)E1242 13 
+ 1001 29063   3 459    1.200+10          1.5000-3 1.3000-4           25056.9                     M.Noguchi+           (88)E1242 13 
+ 1001 29063   3 459    1.200+10          5.1000-3 3.0000-4           27056.9                     M.Noguchi+           (88)E1242 13 
+ 1001 29063   3 459    1.200+10          0.016000 3.0000-3           27057.9                     M.Noguchi+           (88)E1242 13 
+ 1001 29063   3 459    1.200+10          5.7000-4 4.0000-5           28057.9                     M.Noguchi+           (88)E1242 13 
+ 1001 29063   3 459    1.200+10          8.0000-3 8.0000-4           29061.9                     M.Noguchi+           (88)E1242 13 
+#/DATA      11
+#/DATASET

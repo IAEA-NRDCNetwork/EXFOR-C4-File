@@ -1,0 +1,39 @@
+#ENTRY      A0383
+#AUTHOR1    J.Szerypo+
+#YEAR       1986
+#INSTITUTE  (3POLWWA)
+#TITLE      Radiative capture of protons by the deformed nuclide
+#+          Th-232
+#AUTHOR(S)  J.Szerypo, B.Szweryn, P.Hornshoj, H.Loft Nielsen, M.Luontama
+#REF-CODE   (J,ZP/A,323,97,1986)
+#REFERENCE  Z.Phys.A 323 (1986) 97 (doi:10.1007/BF01294559)
+#DATASETS   0
+#
+#DATASET    A0383002 
+#DATE       20250703
+#REACTION   90-TH-232(P,G)91-PA-233,,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         102
+#PRODUCT    91-PA-233
+#C4BEGIN    [ 1001 90232   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3 102    6850000.          1.1700-6 1.8000-7                                       J.Szerypo+           (86)A0383  2 
+ 1001 90232   3 102    7860000.          4.8200-6 8.6000-7                                       J.Szerypo+           (86)A0383  2 
+ 1001 90232   3 102    8860000.          1.7500-5 2.4000-6                                       J.Szerypo+           (86)A0383  2 
+ 1001 90232   3 102    9860000.          5.1100-5 7.2000-6                                       J.Szerypo+           (86)A0383  2 
+ 1001 90232   3 102    1.0890+7          1.2000-4 1.7000-5                                       J.Szerypo+           (86)A0383  2 
+ 1001 90232   3 102    1.1890+7          1.9100-4 2.7000-5                                       J.Szerypo+           (86)A0383  2 
+ 1001 90232   3 102    1.2700+7          2.3900-4 3.6000-5                                       J.Szerypo+           (86)A0383  2 
+ 1001 90232   3 102    1.2890+7          2.3600-4 3.4000-5                                       J.Szerypo+           (86)A0383  2 
+ 1001 90232   3 102    1.3600+7          2.8200-4 4.4000-5                                       J.Szerypo+           (86)A0383  2 
+ 1001 90232   3 102    1.4700+7          2.7500-4 4.8000-5                                       J.Szerypo+           (86)A0383  2 
+ 1001 90232   3 102    1.5900+7          2.7500-4 5.4000-5                                       J.Szerypo+           (86)A0383  2 
+ 1001 90232   3 102    1.6700+7          2.7600-4 6.1000-5                                       J.Szerypo+           (86)A0383  2 
+ 1001 90232   3 102    1.7400+7          2.5600-4 6.4000-5                                       J.Szerypo+           (86)A0383  2 
+ 1001 90232   3 102    1.9700+7          2.6900-4 8.5000-5                                       J.Szerypo+           (86)A0383  2 
+#/DATA      14
+#/DATASET

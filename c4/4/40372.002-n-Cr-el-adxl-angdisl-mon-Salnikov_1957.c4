@@ -1,0 +1,32 @@
+#ENTRY      40372
+#AUTHOR1    O.A.Salnikov+
+#YEAR       1957
+#INSTITUTE  (4RUSFEI)
+#TITLE      Angular distribution of elastic and inelastic
+#+          scattering of 2.34-MeV neutrons from chromium, iron
+#+          and lead
+#AUTHOR(S)  O.A.Salnikov
+#REF-CODE   (J,SJA,3,869,1957)
+#REFERENCE  Sov.At.Energy 3 (1957) 869 (doi:10.1007/BF01480069)
+#DATASETS   0
+#
+#DATASET    40372002 
+#DATE       20170120
+#REACTION   24-CR-0(N,EL)24-CR-0,,DA
+#PROJ       1
+#TARG       24000
+#MF         4
+#MT         2
+#PRODUCT    24-CR-0
+#C4BEGIN    [    1 24000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24000   4   2    2340000.          0.130500 0.016399-0.716900 0.121680                     O.A.Salnikov         (57)40372  2 
+    1 24000   4   2    2340000.          0.144500 0.016199-0.276900 0.167708                     O.A.Salnikov         (57)40372  2 
+    1 24000   4   2    2340000.          0.104000 8.0000-3-0.018990 0.174501                     O.A.Salnikov         (57)40372  2 
+    1 24000   4   2    2340000.          0.148190 0.023500 0.485990 0.152536                     O.A.Salnikov         (57)40372  2 
+    1 24000   4   2    2340000.          0.488690 0.038899 0.696990 0.125154                     O.A.Salnikov         (57)40372  2 
+    1 24000   4   2    2340000.          0.785690 0.085099 0.860990 0.088771                     O.A.Salnikov         (57)40372  2 
+#/DATA      6
+#/DATASET

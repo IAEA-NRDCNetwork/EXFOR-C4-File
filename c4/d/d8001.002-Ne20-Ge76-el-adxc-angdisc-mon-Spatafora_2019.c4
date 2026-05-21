@@ -1,0 +1,72 @@
+#ENTRY      D8001
+#AUTHOR1    A.Spatafora+
+#YEAR       2019
+#INSTITUTE  (2ITYLNS)
+#TITLE      20Ne+76Ge elastic and inelastic scattering at 306 MeV
+#AUTHOR(S)  A.Spatafora, F.Cappuzzello, D.Carbone, M.Cavallaro, J.A.Lay, 
+#+          L.Acosta, C.Agodi, D.Bonanno, D.Bongiovanni, I.Boztosun, 
+#+          G.A.Brischetto, S.Burrello, S.Calabrese, D.Calvo, E.R.Chavez Lomeli, 
+#+          I.Ciraldo, M.Colonna, F.Delaunay, N.Deshmukh, J.L.Ferreira, 
+#+          P.Finocchiaro, M.Fisichella, A.Foti, G.Gallo, A.Hacisalihoglu, 
+#+          F.Iazzi, G.Lanzalone, H.Lenske, R.Linares, D.Lo Presti, 
+#+          J.Lubian, M.Moralles, A.Muoio, J.R.B.Oliveira, A.Pakou, 
+#+          L.Pandola, H.Petrascu, F.Pinna, S.Reito, G.Russo, G.Santagati, 
+#+          O.Sgouros, S.O.Solakci, V.Soukeras, G.Souliotis, D.Torresi, 
+#+          S.Tudisco, A.Yildirim, V.A.B.Zagatto
+#REF-CODE   (J,PR/C,100,034620,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 034620 (doi:10.1103/PhysRevC.100.034620)
+#DATASETS   0
+#
+#DATASET    D8001002 
+#DATE       20191205
+#REACTION   32-GE-76(10-NE-20,EL)32-GE-76,,DA,,RTH
+#PROJ       10020
+#TARG       32076
+#MF         4
+#MT         2
+#PRODUCT    32-GE-76
+#C4BEGIN    [10020 32076   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10020 32076   4   2 AC 3.0600+8          1.8343+9 4.2927+8 0.997499                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          9.0223+8 1.0615+8 0.996835                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          4.0011+8 3.2846+7 0.996093                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          1.7862+8 1.1300+7 0.995274                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          8.7651+7 4563282. 0.994377                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          4.6584+7 2025859. 0.993402                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          2.6554+7 911031.3 0.992350                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          1.5739+7 456449.8 0.991220                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          9025504. 252308.8 0.990014                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          4669175. 131518.3 0.988730                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          2599264. 73635.45 0.987369                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          1256823. 37686.64 0.985932                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          647223.7 20102.46 0.984417                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          338669.2 10127.43 0.982827                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          178992.6 5359.845 0.981160                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          93640.17 2525.700 0.979417                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          43432.20 876.4341 0.977598                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          22996.34 317.2705 0.975703                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          14422.02 203.7229 0.973733                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          6967.162 129.7162 0.971687                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          4354.112 91.88995 0.969566                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          2344.872 60.43047 0.967371                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          1103.742 32.60216 0.965100                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          629.0403 24.02951 0.962755                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          291.2338 11.84083 0.960337                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          141.3632 6.566257 0.957844                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          75.63486 4.087153 0.955277                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          44.13742 1.972130 0.952637                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          19.27885 1.300856 0.949924                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          11.86583 0.721012 0.947138                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          7.436263 0.500087 0.944279                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          3.978384 0.262565 0.941349                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          2.201122 0.151840 0.938346                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          1.194999 0.088088 0.935271                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          0.551382 0.049939 0.932125                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          0.350469 0.038088 0.928908                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          0.155604 0.023638 0.923949                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          0.032291 9.7375-3 0.917093                              A.Spatafora+         (19)D8001  2 
+10020 32076   4   2 AC 3.0600+8          0.014524 5.9946-3 0.909956                              A.Spatafora+         (19)D8001  2 
+#/DATA      39
+#/DATASET

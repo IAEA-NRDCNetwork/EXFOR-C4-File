@@ -1,0 +1,37 @@
+#ENTRY      14172
+#AUTHOR1    A.P.Tonchev+
+#YEAR       2008
+#INSTITUTE  (1USADKE)
+#TITLE      Measurement of the 241Am(n,2n) reaction cross
+#+          section from 7.6 MeV to 14.5 MeV
+#AUTHOR(S)  A.P.Tonchev, C.T.Angell, M.Boswell, A.S.Crowell, B.Fallin, 
+#+          S.Hammond, C.R.Howell, A.Hutcheson, H.J.Karwowski, J.H.Kelley, 
+#+          R.S.Pedroni, W.Tornow, J.A.Becker, D.Dashdorj, J.Kenneally, 
+#+          R.A.Macri, M.A.Stoyer, C.Y.Wu, E.Bond, M.B.Chadwick, J.Fitzpatrick, 
+#+          T.Kawano, R.S.Rundberg, A.Slemmons, D.J.Vieira, J.B.Wilhelmy
+#REF-CODE   (J,PR/C,77,054610,2008)
+#REFERENCE  Phys.Rev.C 77 (2008) 054610 (doi:10.1103/PhysRevC.77.054610)
+#DATASETS   0
+#
+#DATASET    141720022
+#DATE       20081021
+#REACTION   95-AM-241(N,2N)95-AM-240,,SIG
+#PROJ       1
+#TARG       95241
+#MF         3
+#MT         16
+#PRODUCT    95-AM-240
+#C4BEGIN    [    1 95241   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95241   3  16    8180000. 130000.0 0.102000 0.010000                                       A.P.Tonchev+         (08)14172  22
+    1 95241   3  16    8680000. 200000.0 0.117000 5.0000-3                                       A.P.Tonchev+         (08)14172  22
+    1 95241   3  16    9480000. 110000.0 0.169000 5.0000-3                                       A.P.Tonchev+         (08)14172  22
+    1 95241   3  16    1.0780+7 90000.00 0.228000 7.0000-3                                       A.P.Tonchev+         (08)14172  22
+    1 95241   3  16    1.1300+7 140000.0 0.240000 0.012000                                       A.P.Tonchev+         (08)14172  22
+    1 95241   3  16    1.2970+7 70000.00 0.254000 9.0000-3                                       A.P.Tonchev+         (08)14172  22
+    1 95241   3  16    1.3460+7 70000.00 0.250000 8.0000-3                                       A.P.Tonchev+         (08)14172  22
+    1 95241   3  16    1.3910+7 110000.0 0.247000 0.011000                                       A.P.Tonchev+         (08)14172  22
+#/DATA      8
+#/DATASET

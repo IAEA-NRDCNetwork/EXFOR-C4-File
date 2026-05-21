@@ -1,0 +1,35 @@
+#ENTRY      D4212
+#AUTHOR1    F.Ditroi+
+#YEAR       2008
+#INSTITUTE  (3HUNDEB)
+#TITLE      Study of proton induced reactions on niobium targets
+#+          up to 70 MeV
+#AUTHOR(S)  F.Ditroi, S.Takacs, F.Tarkanyi, M.Baba, E.Corniani, Yu.N.Shubin
+#REF-CODE   (J,NIM/B,266,5087,2008)
+#REFERENCE  Nucl.Instrum.Meth.B 266 (2008) 5087 (doi:10.1016/j.nimb.2008.09.023)
+#DATASETS   0
+#
+#DATASET    D4212004 
+#DATE       20090324
+#REACTION   41-NB-93(P,X)41-NB-90,CUM,SIG
+#PROJ       1001
+#TARG       41093
+#MF         3
+#MT         459
+#PRODUCT    41-NB-90
+#C4BEGIN    [ 1001 41093   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 41093   3 459 A  6.7110+7 400000.0 0.217550 0.023650           41090.9                     F.Ditroi+            (08)D4212  4 
+ 1001 41093   3 459 A  5.8690+7 700000.0 0.320730 0.034790           41090.9                     F.Ditroi+            (08)D4212  4 
+ 1001 41093   3 459 A  5.6360+7 790000.0 0.355750 0.038770           41090.9                     F.Ditroi+            (08)D4212  4 
+ 1001 41093   3 459 A  5.3940+7 890000.0 0.386300 0.042270           41090.9                     F.Ditroi+            (08)D4212  4 
+ 1001 41093   3 459 A  5.1430+7 1000000. 0.403760 0.044120           41090.9                     F.Ditroi+            (08)D4212  4 
+ 1001 41093   3 459 A  4.8820+7 1130000. 0.371750 0.040400           41090.9                     F.Ditroi+            (08)D4212  4 
+ 1001 41093   3 459 A  4.6090+7 1260000. 0.306560 0.033340           41090.9                     F.Ditroi+            (08)D4212  4 
+ 1001 41093   3 459 A  4.3220+7 1420000. 0.190180 0.021170           41090.9                     F.Ditroi+            (08)D4212  4 
+ 1001 41093   3 459 A  4.0190+7 1590000. 0.150030 0.016250           41090.9                     F.Ditroi+            (08)D4212  4 
+ 1001 41093   3 459 A  3.6970+7 1800000. 9.1900-3 1.0000-3           41090.9                     F.Ditroi+            (08)D4212  4 
+#/DATA      10
+#/DATASET

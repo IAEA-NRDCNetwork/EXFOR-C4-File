@@ -1,0 +1,28 @@
+#ENTRY      20597
+#AUTHOR1    W.Dilg+
+#YEAR       1975
+#INSTITUTE  (2GERMUN)
+#TITLE      -MEASUREMENT OF THE NEUTRON-PROTON TOTAL CROSS
+#+          SECTION AT 132 EV-.
+#AUTHOR(S)  W.Dilg
+#REF-CODE   (J,PR/C,11,103,7501)
+#REFERENCE  Phys.Rev.C 11 (1975) 103 (doi:10.1103/PhysRevC.11.103)
+#DATASETS   0
+#
+#DATASET    20597003 
+#DATE       19840126
+#REACTION   1-H-1(N,TOT),,SIG
+#PROJ       1
+#TARG       1001
+#MF         3
+#MT         1
+#C4BEGIN    [    1  1001   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   3   1    132.0000          20.48500 0.020000                                       W.Dilg               (75)20597  3 
+    1  1001   3   1    132.0000          20.48700 0.026000                                       W.Dilg               (75)20597  3 
+    1  1001   3   1    132.0000          20.46600 0.029000                                       W.Dilg               (75)20597  3 
+    1  1001   3   1    132.0000          20.49700 0.052000                                       W.Dilg               (75)20597  3 
+#/DATA      4
+#/DATASET

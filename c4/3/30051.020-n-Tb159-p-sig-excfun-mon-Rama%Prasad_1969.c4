@@ -1,0 +1,26 @@
+#ENTRY      30051
+#AUTHOR1    P.Rama Prasad+
+#YEAR       1969
+#INSTITUTE  (3INDAUW)
+#TITLE      Cross sections for (n,2n),(n,a) and (n,p) reactions in
+#+          rare earth isotopes at 14.2 MeV
+#AUTHOR(S)  P.Rama Prasad, J.Rama Rao, E.Kondaiah
+#REF-CODE   (J,NP/A,125,57,1969)
+#REFERENCE  Nucl.Phys.A 125 (1969) 57 (doi:10.1016/0375-9474(69)90828-8)
+#DATASETS   0
+#
+#DATASET    30051020 
+#DATE       20140625
+#REACTION   65-TB-159(N,P)64-GD-159,,SIG
+#PROJ       1
+#TARG       65159
+#MF         3
+#MT         103
+#PRODUCT    64-GD-159
+#C4BEGIN    [    1 65159   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 65159   3 103    1.4200+7 200000.0 0.015800 2.5000-3                                       P.Rama Prasad+       (69)30051 20 
+#/DATA      1
+#/DATASET

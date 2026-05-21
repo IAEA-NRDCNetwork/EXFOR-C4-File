@@ -1,0 +1,26 @@
+#ENTRY      40062
+#AUTHOR1    M.A.Bak+
+#YEAR       1967
+#INSTITUTE  (4RUSRI)
+#TITLE      Cross sections and resonance integrals for capture and
+#+          fission in long-lived americium isotopes
+#AUTHOR(S)  M.A.Bak, A.S.Krivokhatskii, K.A.Petrzhak, Yu.G.Petrov, Yu.F.Romanov, 
+#+          E.A.Shlyamin
+#REF-CODE   (J,AE,23,316,196710)
+#REFERENCE  At.En. 23 (1967) 316
+#DATASETS   0
+#
+#DATASET    40062004 
+#DATE       20220127
+#REACTION   95-AM-242(N,F),,SIG
+#PROJ       1
+#TARG       95242
+#MF         3
+#MT         18
+#C4BEGIN    [    1 95242   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95242   3  18    0.200000 0.200000 2100.000 200.0000                                       M.A.Bak+             (67)40062  4 
+#/DATA      1
+#/DATASET

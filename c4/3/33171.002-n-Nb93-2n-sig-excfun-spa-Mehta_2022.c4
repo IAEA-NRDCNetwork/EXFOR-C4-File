@@ -1,0 +1,29 @@
+#ENTRY      33171
+#AUTHOR1    M.Mehta+
+#YEAR       2022
+#INSTITUTE  (3INDBDA)
+#TITLE      Cross-section of (n,2n) reaction for niobium and
+#+          strontium isotopes between 13.97 to 20.02 MeV neutron
+#+          energies
+#AUTHOR(S)  M.Mehta, N.L.Singh, R.Singh, R.Chauhan, R.Makwana, S.V.Suryanarayana, 
+#+          H.Naik, P.V.Subhash, S.Mukherjee, J.Varmuza, K.Katovsky
+#REF-CODE   (J,ARI,182,110142,2022)
+#REFERENCE  Appl.Radiat.Isot. 182 (2022) 110142 (doi:10.1016/j.apradiso.2022.110142)
+#DATASETS   0
+#
+#DATASET    33171002 
+#DATE       20220311
+#REACTION   41-NB-93(N,2N)41-NB-92-M,,SIG,,SPA
+#PROJ       1
+#TARG       41093
+#MF         3
+#MT         16
+#PRODUCT    41-NB-92-M
+#C4BEGIN    [    1 41093   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093   3  16M   1.3970+7 680000.0 1.361000 0.068089                                       M.Mehta+             (22)33171  2 
+    1 41093   3  16M   2.0020+7 580000.0 5.466000 0.284855                                       M.Mehta+             (22)33171  2 
+#/DATA      2
+#/DATASET

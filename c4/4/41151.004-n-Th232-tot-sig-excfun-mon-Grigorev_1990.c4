@@ -1,0 +1,38 @@
+#ENTRY      41151
+#AUTHOR1    Yu.V.Grigor'ev+
+#YEAR       1990
+#INSTITUTE  (4RUSFEI)
+#TITLE      Calculational-experimental investigation of resonance
+#+          structure of total and capture cross sections for
+#+          Th-232 in energy ragion 4.65 eV - 46.5 keV
+#AUTHOR(S)  Yu.V.Grigor'ev, G.N.Manturov, V.V.Sinitsa, G.P.Georgiev, 
+#+          B.I.Ivanov, I.A.Sirakov, N.B.Yaneva
+#REF-CODE   (R,FEI-2120,1990)
+#REFERENCE  Report FEI-2120, 1990
+#DATASETS   0
+#
+#DATASET    41151004 
+#DATE       20240916
+#REACTION   90-TH-232(N,TOT),,SIG,,AV
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         1
+#C4BEGIN    [    1 90232   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3   1    34000.00 12500.00 13.90000 0.973000                                       Yu.V.Grigor'ev+      (90)41151  4 
+    1 90232   3   1    15750.00 5750.000 14.60000                                                Yu.V.Grigor'ev+      (90)41151  4 
+    1 90232   3   1    7325.000 2675.000 14.80000                                                Yu.V.Grigor'ev+      (90)41151  4 
+    1 90232   3   1    3400.000 1250.000 17.90000                                                Yu.V.Grigor'ev+      (90)41151  4 
+    1 90232   3   1    1575.000 575.0000 18.50000                                                Yu.V.Grigor'ev+      (90)41151  4 
+    1 90232   3   1    732.5000 267.5000 27.30000 4.095000                                       Yu.V.Grigor'ev+      (90)41151  4 
+    1 90232   3   1    340.0000 125.0000 50.70000                                                Yu.V.Grigor'ev+      (90)41151  4 
+    1 90232   3   1    157.5000 57.50000 48.10000                                                Yu.V.Grigor'ev+      (90)41151  4 
+    1 90232   3   1    73.25000 26.75000 37.10000                                                Yu.V.Grigor'ev+      (90)41151  4 
+    1 90232   3   1    34.00000 12.50000 97.10000                                                Yu.V.Grigor'ev+      (90)41151  4 
+    1 90232   3   1    15.75000 5.750000 12.30000                                                Yu.V.Grigor'ev+      (90)41151  4 
+    1 90232   3   1    7.325000 2.675000 12.40000 3.100000                                       Yu.V.Grigor'ev+      (90)41151  4 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      D4233
+#AUTHOR1    S.Takacs+
+#YEAR       2010
+#INSTITUTE  (3HUNDEB)
+#TITLE      Activation cross sections of deuteron-induced nuclear
+#+          reactions on hafnium
+#AUTHOR(S)  S.Takacs, F.Tarkanyi, A.Hermanne, R.Adam Rebeles
+#REF-CODE   (J,NIM/B,268,3443,2010)
+#REFERENCE  Nucl.Instrum.Meth.B 268 (2010) 3443 (doi:10.1016/j.nimb.2010.08.016)
+#DATASETS   0
+#
+#DATASET    D4233004 
+#DATE       20160518
+#REACTION   72-HF-0(D,X)72-HF-173,CUM,SIG
+#PROJ       1002
+#TARG       72000
+#MF         3
+#MT         459
+#PRODUCT    72-HF-173
+#C4BEGIN    [ 1002 72000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 72000   3 459    2.0600+7 300000.0 1.3000-3 1.6000-4           72173.9                     S.Takacs+            (10)D4233  4 
+ 1002 72000   3 459    1.9700+7 300000.0 1.0400-3 1.3000-4           72173.9                     S.Takacs+            (10)D4233  4 
+ 1002 72000   3 459    1.8800+7 400000.0 7.2000-4 1.0000-4           72173.9                     S.Takacs+            (10)D4233  4 
+ 1002 72000   3 459    1.7900+7 400000.0 4.9000-4 8.0000-5           72173.9                     S.Takacs+            (10)D4233  4 
+ 1002 72000   3 459    1.7000+7 400000.0 1.7000-4 5.0000-5           72173.9                     S.Takacs+            (10)D4233  4 
+ 1002 72000   3 459    1.6000+7 500000.0 6.4000-5 4.2000-5           72173.9                     S.Takacs+            (10)D4233  4 
+ 1002 72000   3 459    1.5000+7 500000.0 4.3000-5 3.7000-5           72173.9                     S.Takacs+            (10)D4233  4 
+ 1002 72000   3 459    1.3900+7 500000.0 8.0000-6 1.0000-6           72173.9                     S.Takacs+            (10)D4233  4 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      E1807
+#AUTHOR1    A.Tamii+
+#YEAR       1999
+#INSTITUTE  (2JPNTOK)
+#TITLE      Polarization transfer observables for proton inelastic
+#+          scattering from 12C at 0 degree
+#AUTHOR(S)  A.Tamii, H.Akimune, I.Daito, Y.Fujita, M.Fujiwara, K.Hatanaka, 
+#+          K.Hosono, F.Ihara, T.Inomata, T.Ishikawa, M.Itoh, M.Kawabata, 
+#+          T.Kawabata, M.Nakamura, T.Noro, E.Obayashi, H.Sakaguchi, 
+#+          H.Takeda, T.Taki, H.Toyokawa, H.P.Yoshida, M.Yoshimura, 
+#+          M.Yosoi
+#REF-CODE   (J,PL/B,459,(1-3),61,199907)
+#REFERENCE  Phys.Lett.B 459 No.1-3 (1999) 61 (doi:10.1016/S0370-2693(99)00654-1)
+#DATASETS   0
+#
+#DATASET    E1807008 
+#DATE       20070514
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601  C 3.9200+8          4.2000-4 1.0000-5 0.999962 7.6153-5 7650000.         LVLA.Tamii+             (99)E1807  8 
+ 1001  6012   4 601  C 3.9200+8          3.3000-4 1.0000-5 0.999962 7.6153-5 1.2700+7         LVLA.Tamii+             (99)E1807  8 
+ 1001  6012   4 601  C 3.9200+8          3.1600-3 2.0000-5 0.999962 7.6153-5 1.5100+7         LVLA.Tamii+             (99)E1807  8 
+#/DATA      3
+#/DATASET

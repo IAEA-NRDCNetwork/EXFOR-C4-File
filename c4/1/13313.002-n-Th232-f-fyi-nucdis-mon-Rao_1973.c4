@@ -1,0 +1,27 @@
+#ENTRY      13313
+#AUTHOR1    S.A.Rao+
+#YEAR       1973
+#INSTITUTE  (1USAARK)
+#TITLE      Charge distribution in neutron-induced fission of
+#+          thorium
+#AUTHOR(S)  S.A.Rao, P.K.Kuroda
+#REF-CODE   (J,JIN,35,1443,1973)
+#REFERENCE  J.Inorg.Nucl.Chem. 35 (1973) 1443 (doi:10.1016/0022-1902(73)80230-1)
+#DATASETS   0
+#
+#DATASET    13313002 
+#DATE       20210409
+#REACTION   90-TH-232(N,F)ELEM/MASS,IND,FY
+#PROJ       1
+#TARG       90232
+#MF         8
+#MT         454
+#C4BEGIN    [    1 90232   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   8 454    1.4800+7          1.6000-4 4.0000-5 49.00000 117.0000 9.000000            S.A.Rao+             (73)13313  2 
+    1 90232   8 454    1.4800+7          2.2000-4 5.0000-5 53.00000 130.0000 9.000000            S.A.Rao+             (73)13313  2 
+    1 90232   8 454    1.4800+7          1.1000-3 2.0000-4 53.00000 132.0000 9.000000            S.A.Rao+             (73)13313  2 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      40697
+#AUTHOR1    I.A.Korzh+
+#YEAR       1984
+#INSTITUTE  (4UKRIJD)
+#TITLE      Investigation of the mechanism of fast neutron
+#+          scattering by even isotopes of molybdenum
+#AUTHOR(S)  I.A.Korzh, V.P.Lunev, V.A.Mishchenko, Eh.N.Mozhzhukhin, 
+#+          N.M.Pravdivyj, E.Sh.Sukhovitskij
+#REF-CODE   (R,INDC(CCP)-229,1,1984)
+#REFERENCE  Report INDC(CCP)-229 page 1, 1984
+#DATASETS   0
+#
+#DATASET    40697009 
+#DATE       20221125
+#REACTION   42-MO-94(N,EL)42-MO-94,,SIG
+#PROJ       1
+#TARG       42094
+#MF         3
+#MT         2
+#PRODUCT    42-MO-94
+#C4BEGIN    [    1 42094   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42094   3   2 D  2000000.          3.418000                                                I.A.Korzh+           (84)40697  9 
+    1 42094   3   2 D  2500000.          2.631000                                                I.A.Korzh+           (84)40697  9 
+    1 42094   3   2 D  3000000.          2.230000                                                I.A.Korzh+           (84)40697  9 
+    1 42094   3   2 D  5000000.          1.842000                                                I.A.Korzh+           (84)40697  9 
+    1 42094   3   2 D  6000000.          1.893000                                                I.A.Korzh+           (84)40697  9 
+    1 42094   3   2 D  7000000.          1.922000                                                I.A.Korzh+           (84)40697  9 
+#/DATA      6
+#/DATASET

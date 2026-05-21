@@ -1,0 +1,31 @@
+#ENTRY      E2450
+#AUTHOR1    H.Haba+
+#YEAR       2014
+#INSTITUTE  (2JPNIPC)
+#TITLE      Production of 262Db in the 248Cm(19F,5n)262Db reaction
+#+          and decay properties of 262Db and 258Lr
+#AUTHOR(S)  H.Haba, M.Huang, D.Kaji, J.Kanaya, Y.Kudou, K.Morimoto, 
+#+          K.Morita, M.Murakami, K.Ozeki, R.Sakai, T.Sumita, Y.Wakabayashi, 
+#+          A.Yoneda, Y.Kasamatsu, Y.Kikutani, Y.Komori, K.Nakamura, 
+#+          A.Shinohara, H.Kikunaga, H.Kudo, K.Nishio, A.Toyoshima, 
+#+          K.Tsukada
+#REF-CODE   (J,PR/C,89,024618,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 024618 (doi:10.1103/PhysRevC.89.024618)
+#DATASETS   0
+#
+#DATASET    E2450003 
+#DATE       20140710
+#REACTION   96-CM-248(9-F-19,5N)105-DB-262,,SIG
+#PROJ       9019
+#TARG       96248
+#MF         3
+#MT         152
+#PRODUCT    105-DB-262
+#C4BEGIN    [ 9019 96248   3 152 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 9019 96248   3 152 A  9.7400+7 330000.0 2.300-10                                                H.Haba+              (14)E2450  3 
+ 9019 96248   3 152 A  1.0310+8 320000.0 2.1000-9                                                H.Haba+              (14)E2450  3 
+#/DATA      2
+#/DATASET

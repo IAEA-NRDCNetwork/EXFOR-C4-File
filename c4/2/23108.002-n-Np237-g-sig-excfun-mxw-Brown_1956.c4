@@ -1,0 +1,28 @@
+#ENTRY      23108
+#AUTHOR1    F.Brown+
+#YEAR       1956
+#INSTITUTE  (2UK HAR)
+#TITLE      The thermal neutron capture cross-section of Np-237
+#AUTHOR(S)  F.Brown, G.R.Hall
+#REF-CODE   (J,JIN,2,205,1956)
+#REFERENCE  J.Inorg.Nucl.Chem. 2 (1956) 205 (doi:10.1016/0022-1902(56)80045-6)
+#DATASETS   0
+#
+#DATASET    23108002 
+#DATE       20100511
+#REACTION   93-NP-237(N,G)93-NP-238,,SIG,,MXW
+#PROJ       1
+#TARG       93237
+#MF         3
+#MT         102
+#PRODUCT    93-NP-238
+#C4BEGIN    [    1 93237   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   3 102    0.025300          171.0000 2.907000                                       F.Brown+             (56)23108  2 
+    1 93237   3 102    0.025300          175.0000 2.975000                                       F.Brown+             (56)23108  2 
+    1 93237   3 102    0.025300          163.0000 2.771000                                       F.Brown+             (56)23108  2 
+    1 93237   3 102    0.025300          177.0000 3.009000                                       F.Brown+             (56)23108  2 
+#/DATA      4
+#/DATASET

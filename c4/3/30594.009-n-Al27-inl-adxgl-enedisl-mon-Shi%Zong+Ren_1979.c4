@@ -1,0 +1,30 @@
+#ENTRY      30594
+#AUTHOR1    Shi Zong-Ren+
+#YEAR       1979
+#INSTITUTE  (3CPRAEP)
+#TITLE      -Gamma-ray production cross sections from interactions
+#+          of 14.9 MeV neutrons with C,F,Al,Si,Fe and Cu.-
+#AUTHOR(S)  Shi Zong-Ren, Shi Xia-Min, Zeng Xian-Tang, Lu Zhi-Rong, 
+#+          Xing Jin-Qiang, Shen Rong-Lin, Ding Da-Zhao
+#REF-CODE   (J,CNP,1,45,1979)
+#REFERENCE  Chin.J.Nucl.Phys. 1 (1979) 45
+#DATASETS   0
+#
+#DATASET    30594009 
+#DATE       20211005
+#REACTION   13-AL-27(N,INL)13-AL-27,PAR,DA,G
+#PROJ       1
+#TARG       13027
+#MF         14
+#MT         51
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027  14  51    1.4900+7 230000.0 2.4000-3 8.0000-4-0.052336          840000.0            Shi Zong-Ren+        (79)30594  9 
+    1 13027  14  51    1.4900+7 230000.0 7.3000-3 7.0000-4-0.052336          1010000.            Shi Zong-Ren+        (79)30594  9 
+    1 13027  14  51    1.4900+7 230000.0 9.4000-3 1.1000-3-0.052336          2210000.            Shi Zong-Ren+        (79)30594  9 
+    1 13027  14  51    1.4900+7 230000.0 8.0000-3 1.3000-3-0.052336          2990000.            Shi Zong-Ren+        (79)30594  9 
+#/DATA      4
+#/DATASET

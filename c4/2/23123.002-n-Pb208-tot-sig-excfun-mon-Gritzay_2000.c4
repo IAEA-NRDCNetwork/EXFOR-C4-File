@@ -1,0 +1,26 @@
+#ENTRY      23123
+#AUTHOR1    O.O.Gritzay+
+#YEAR       2000
+#INSTITUTE  (2GERMUN)
+#TITLE      Preliminary measurements of the neutron total cross
+#+          section of Pb-208 at 24 keV and neutron polarizability.
+#AUTHOR(S)  O.O.Gritzay, V.A.Libman, A.V.Murzin, V.G.Nikolenko, A.B.Popov, 
+#+          G.S.Samosvat, W.Waschkowski
+#REF-CODE   (S,ISINN-8,165,2000)
+#REFERENCE  Report (proceedings) ISINN-8 page 165, 2000
+#DATASETS   0
+#
+#DATASET    23123002 
+#DATE       20101130
+#REACTION   82-PB-208(N,TOT),,SIG
+#PROJ       1
+#TARG       82208
+#MF         3
+#MT         1
+#C4BEGIN    [    1 82208   3   1 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82208   3   1 A  24000.00          11.04900 2.5000-3                                       O.O.Gritzay+         (00)23123  2 
+#/DATA      1
+#/DATASET

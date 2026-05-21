@@ -1,0 +1,27 @@
+#ENTRY      32730
+#AUTHOR1    Junhua Luo+
+#YEAR       2016
+#INSTITUTE  (3CPRHXU)
+#TITLE      Cross sections for d-3H neutron interactions with
+#+          samarium isotopes
+#AUTHOR(S)  Junhua Luo, Chunlei Wu, Li Jiang, Long He
+#REF-CODE   (J,RCA,104,523,2016)
+#REFERENCE  Radiochim.Acta 104 (2016) 523 (doi:10.1515/ract-2016-0001)
+#DATASETS   0
+#
+#DATASET    32730003 
+#DATE       20170517
+#REACTION   62-SM-150(N,P)61-PM-150,,SIG
+#PROJ       1
+#TARG       62150
+#MF         3
+#MT         103
+#PRODUCT    61-PM-150
+#C4BEGIN    [    1 62150   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 62150   3 103    1.3500+7 200000.0 3.0000-3 2.0000-4                                       Junhua Luo+          (16)32730  3 
+    1 62150   3 103    1.4800+7 200000.0 4.5000-3 3.0000-4                                       Junhua Luo+          (16)32730  3 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      40568
+#AUTHOR1    N.S.Biryukov+
+#YEAR       1977
+#INSTITUTE  (4RUSFEI)
+#TITLE      Scattering of 9.1+-0.2-MeV neutrons by Li-7 nuclei
+#AUTHOR(S)  N.S.Biryukov, B.V.Zhuravlev, N.V.Kornikov, V.I.Popov, A.P.Rudenko, 
+#+          O.A.Sal'nikov, V.I.Trykova
+#REF-CODE   (J,SJA,43,804,1977)
+#REFERENCE  Sov.At.Energy 43 (1977) 804 (doi:10.1007/BF01119040)
+#DATASETS   0
+#
+#DATASET    40568009 
+#DATE       20211217
+#REACTION   3-LI-7(N,INL)3-LI-7,PAR,DA
+#PROJ       1
+#TARG       3007
+#MF         4
+#MT         51
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  3007   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3007   4  51 A  9100000. 200000.0 0.020800 1.9000-3 0.866025          4630000.         LVLN.S.Biryukov+        (77)40568  9 
+    1  3007   4  51 A  9100000. 200000.0 0.012400 1.2000-3 0.500000          4630000.         LVLN.S.Biryukov+        (77)40568  9 
+    1  3007   4  51 A  9100000. 200000.0 8.6000-3 9.0000-4 6.123-17          4630000.         LVLN.S.Biryukov+        (77)40568  9 
+    1  3007   4  51 A  9100000. 200000.0 3.5000-3 4.0000-4-0.500000          4630000.         LVLN.S.Biryukov+        (77)40568  9 
+    1  3007   4  51 A  9100000. 200000.0 2.2000-3 3.0000-4-0.866025          4630000.         LVLN.S.Biryukov+        (77)40568  9 
+#/DATA      5
+#/DATASET

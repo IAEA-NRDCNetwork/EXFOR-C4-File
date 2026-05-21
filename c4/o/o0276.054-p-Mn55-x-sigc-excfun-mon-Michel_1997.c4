@@ -1,0 +1,36 @@
+#ENTRY      O0276
+#AUTHOR1    R.Michel+
+#YEAR       1997
+#INSTITUTE  (2GERKLN)
+#TITLE      Cross sections for the production of residual nuclides
+#+          by low- and medium-energy protons from the target
+#+          elements C, N, O, Mg, Al, Si, Ca, Ti, V, Mn, Fe, Co,
+#+          Ni, Cu, Sr, Y, Zr, Nb, Ba and Au.
+#AUTHOR(S)  R.Michel, R.Bodemann, H.Busemann, R.Daunke, M.Gloris, H.-J.Lange, 
+#+          B.Klug, A.Krins, I.Leya, M.Luepke, S.Neumann, H.Reinhardt, 
+#+          M.Schnatz-Buettgen, U.Herpers, Th.Schiekel, F.Sudbrock, 
+#+          B.Holmqvist, H.Conde, P.Malmborg, M.Suter, B.Dittrich-Hannen, 
+#+          P.-W.Kubik, H.-A.Synal, D.Filges
+#REF-CODE   (J,NIM/B,129,153,1997)
+#REFERENCE  Nucl.Instrum.Meth.B 129 (1997) 153 (doi:10.1016/S0168-583X(97)00213-9)
+#DATASETS   0
+#
+#DATASET    O0276054 
+#DATE       20190827
+#REACTION   25-MN-55(P,X)23-V-48,CUM,SIG
+#PROJ       1001
+#TARG       25055
+#MF         3
+#MT         459
+#PRODUCT    23-V-48
+#C4BEGIN    [ 1001 25055   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 25055   3 459    5.9400+7 1040000. 4.4100-3 3.9100-4           23048.9                     R.Michel+            (97)O0276 54 
+ 1001 25055   3 459    6.6000+7 1190000. 0.013700 1.0200-3           23048.9                     R.Michel+            (97)O0276 54 
+ 1001 25055   3 459    8.1200+7 866000.0 0.020200 1.5300-3           23048.9                     R.Michel+            (97)O0276 54 
+ 1001 25055   3 459    9.1300+7 526000.0 0.019100 1.5400-3           23048.9                     R.Michel+            (97)O0276 54 
+ 1001 25055   3 459    9.4600+7 598000.0 0.016400 1.2400-3           23048.9                     R.Michel+            (97)O0276 54 
+#/DATA      5
+#/DATASET

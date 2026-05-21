@@ -1,0 +1,27 @@
+#ENTRY      21623
+#AUTHOR1    P.Chatelain+
+#YEAR       1979
+#INSTITUTE  (2SWTNEU)
+#TITLE      The (n,d) elastic differential cross section at
+#+          E= 2.48 and 3.28 MeV
+#AUTHOR(S)  P.Chatelain, Y.Onel, J.Weber
+#REF-CODE   (J,NP/A,319,71,197904)
+#REFERENCE  Nucl.Phys.A 319 (1979) 71 (doi:10.1016/0375-9474(79)90172-6)
+#DATASETS   0
+#
+#DATASET    21623004 
+#DATE       20131213
+#REACTION   1-H-2(N,EL)1-H-2,,SIG
+#PROJ       1
+#TARG       1002
+#MF         3
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   3   2 D  2480000. 70000.00 2.450000 0.015000                                       P.Chatelain+         (79)21623  4 
+    1  1002   3   2 D  3270000. 70000.00 2.145000 0.013000                                       P.Chatelain+         (79)21623  4 
+#/DATA      2
+#/DATASET

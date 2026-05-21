@@ -1,0 +1,27 @@
+#ENTRY      23223
+#AUTHOR1    O.Horibe+
+#YEAR       1991
+#INSTITUTE  (2JPNKNK)
+#TITLE      Cross sections of the reactions 55Mn(n,2n)54Mn,
+#+          58Ni(n,2n)57Ni and 58Ni(n,np)57Co averaged over the
+#+          U-235 fission neutron spectrum
+#AUTHOR(S)  O.Horibe, H.Chatani
+#REF-CODE   (C,91JUELIC,,68,1991)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 68
+#DATASETS   0
+#
+#DATASET    23223003 
+#DATE       20131224
+#REACTION   28-NI-58(N,X)27-CO-57,,SIG,,FIS
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         454
+#PRODUCT    27-CO-57
+#C4BEGIN    [    1 28058   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3 454 A  1320000.          2.3200-4 5.0000-6           27057.9                     O.Horibe+            (91)23223  3 
+#/DATA      1
+#/DATASET

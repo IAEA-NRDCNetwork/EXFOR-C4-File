@@ -1,0 +1,31 @@
+#ENTRY      D8031
+#AUTHOR1    J.Diaz-Cortes+
+#YEAR       2020
+#INSTITUTE  (2SPNSAU)
+#TITLE      Systematic reduction of the proton-removal cross
+#+          section in neutron-rich medium-mass nuclei
+#AUTHOR(S)  J.Diaz-Cortes, J.Benlliure, J.L.Rodriguez-Sanchez, H.Alvarez-Pol, 
+#+          T.Aumann, C.A.Bertulani, B.Blank, E.Casarejos, D.Cortina-Gil, 
+#+          D.Dragosavac, V.Foehr, A.Gargano, M.Gascon, W.Gawlikowicz, 
+#+          A.Heinz, K.Helariutta, A.Kelic-Heil, S.Lukic, F.Montes, 
+#+          D.Perez-Loureiro, L.Pienkowski, K.-H.Schmidt, M.Staniou, 
+#+          K.Subotic, K.Suemmerer, J.Taieb, A.Trzcinska
+#REF-CODE   (J,PL/B,811,135962,2020)
+#REFERENCE  Phys.Lett.B 811 (2020) 135962 (doi:10.1016/j.physletb.2020.135962)
+#DATASETS   0
+#
+#DATASET    D8031039 
+#DATE       20210228
+#REACTION   4-BE-9(50-SN-131,X)49-IN-130,,SIG
+#PROJ       50131
+#TARG       4009
+#MF         3
+#MT         454
+#PRODUCT    49-IN-130
+#C4BEGIN    [50131  4009   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+50131  4009   3 454 A  1.310+11          0.014800 1.5000-3           49130.9                     J.Diaz-Cortes+       (20)D8031 39 
+#/DATA      1
+#/DATASET

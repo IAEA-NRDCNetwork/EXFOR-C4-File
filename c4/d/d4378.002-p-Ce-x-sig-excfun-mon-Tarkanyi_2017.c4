@@ -1,0 +1,33 @@
+#ENTRY      D4378
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2017
+#INSTITUTE  (3HUNDEB)
+#TITLE      Activation cross-section measurement of proton induced
+#+          reactions on cerium
+#AUTHOR(S)  F.Tarkanyi, A.Hermanne, F.Ditroi, S.Takacs, I.Spahn, S.Spellerberg
+#REF-CODE   (J,NIM/B,412,46,2017)
+#REFERENCE  Nucl.Instrum.Meth.B 412 (2017) 46 (doi:10.1016/j.nimb.2017.09.008)
+#DATASETS   0
+#
+#DATASET    D4378002 
+#DATE       20171129
+#REACTION   58-CE-0(P,X)59-PR-142,,SIG
+#PROJ       1001
+#TARG       58000
+#MF         3
+#MT         454
+#PRODUCT    59-PR-142
+#C4BEGIN    [ 1001 58000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 58000   3 454    8380000. 1070000. 5.1700-3 9.6000-4           59142.9                     F.Tarkanyi+          (17)D4378  2 
+ 1001 58000   3 454    1.1020+7 970000.0 0.010320 2.2300-3           59142.9                     F.Tarkanyi+          (17)D4378  2 
+ 1001 58000   3 454    1.2860+7 910000.0 7.5500-3 2.5500-3           59142.9                     F.Tarkanyi+          (17)D4378  2 
+ 1001 58000   3 454    1.6100+7 800000.0 2.8300-3 6.4000-4           59142.9                     F.Tarkanyi+          (17)D4378  2 
+ 1001 58000   3 454    2.0960+7 630000.0 1.4000-3 4.9000-4           59142.9                     F.Tarkanyi+          (17)D4378  2 
+ 1001 58000   3 454    2.3060+7 550000.0 1.0400-3 3.5000-4           59142.9                     F.Tarkanyi+          (17)D4378  2 
+ 1001 58000   3 454    2.6810+7 420000.0 2.7100-3 6.0000-4           59142.9                     F.Tarkanyi+          (17)D4378  2 
+ 1001 58000   3 454    2.9070+7 340000.0 1.6200-3 3.6000-4           59142.9                     F.Tarkanyi+          (17)D4378  2 
+#/DATA      8
+#/DATASET

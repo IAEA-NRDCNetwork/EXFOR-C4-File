@@ -1,0 +1,41 @@
+#ENTRY      40034
+#AUTHOR1    S.P.Kapchigashev+
+#YEAR       1965
+#INSTITUTE  (4RUSLEB)
+#TITLE      Radiative Capture Cross Sections of Neutrons with
+#+          Energies 1-50000 eV by Nuclei of V,Zr,Zr-90,Zr-91,
+#+          Zr-94
+#AUTHOR(S)  S.P.Kapchigashev
+#REF-CODE   (J,AE,19,(3),294,196509)
+#REFERENCE  At.En. 19 No.3 (1965) 294
+#DATASETS   0
+#
+#DATASET    40034004 
+#DATE       20021114
+#REACTION   40-ZR-94(N,G)40-ZR-95,,SIG
+#PROJ       1
+#TARG       40094
+#MF         3
+#MT         102
+#PRODUCT    40-ZR-95
+#C4BEGIN    [    1 40094   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40094   3 102 A  1500.000          0.012000 1.8000-3                                       S.P.Kapchigashev     (65)40034  4 
+    1 40094   3 102 A  1800.000          0.040000 6.0000-3                                       S.P.Kapchigashev     (65)40034  4 
+    1 40094   3 102 A  2200.000          0.057000 8.5500-3                                       S.P.Kapchigashev     (65)40034  4 
+    1 40094   3 102 A  2700.000          0.058000 8.7000-3                                       S.P.Kapchigashev     (65)40034  4 
+    1 40094   3 102 A  3400.000          0.030000 4.5000-3                                       S.P.Kapchigashev     (65)40034  4 
+    1 40094   3 102 A  3800.000          0.046000 6.9000-3                                       S.P.Kapchigashev     (65)40034  4 
+    1 40094   3 102 A  4300.000          0.070000 0.010500                                       S.P.Kapchigashev     (65)40034  4 
+    1 40094   3 102 A  5500.000          0.090000 0.013500                                       S.P.Kapchigashev     (65)40034  4 
+    1 40094   3 102 A  6500.000          0.080000 0.012000                                       S.P.Kapchigashev     (65)40034  4 
+    1 40094   3 102 A  9000.000          0.068000 0.010200                                       S.P.Kapchigashev     (65)40034  4 
+    1 40094   3 102 A  11500.00          0.053000 7.9500-3                                       S.P.Kapchigashev     (65)40034  4 
+    1 40094   3 102 A  14000.00          0.047000 7.0500-3                                       S.P.Kapchigashev     (65)40034  4 
+    1 40094   3 102 A  20000.00          0.033000 1.9800-3                                       S.P.Kapchigashev     (65)40034  4 
+    1 40094   3 102 A  30000.00          0.021000 8.4000-4                                       S.P.Kapchigashev     (65)40034  4 
+    1 40094   3 102 A  57000.00          0.011500 3.4500-4                                       S.P.Kapchigashev     (65)40034  4 
+#/DATA      15
+#/DATASET

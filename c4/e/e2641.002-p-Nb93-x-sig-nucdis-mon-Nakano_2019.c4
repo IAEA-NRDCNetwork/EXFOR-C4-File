@@ -1,0 +1,35 @@
+#ENTRY      E2641
+#AUTHOR1    K.Nakano+
+#YEAR       2019
+#INSTITUTE  (2JPNKYU)
+#TITLE      Isotope production in proton-, deuteron-, and
+#+          carbon-induced reactions on 93Nb at 113 MeV/nucleon
+#AUTHOR(S)  K.Nakano, Y.Watanabe, S.Kawase, H.Wang, H.Otsu, H.Sakurai, 
+#+          S.Takeuchi, Y.Togano, T.Nakamura, Y.Maeda, D.S.Ahn, M.Aikawa, 
+#+          S.Araki, S.Chen, N.Chiga, P.Doornenbal, N.Fukuda, T.Ichihara, 
+#+          T.Isobe, S.Kawakami, T.Kin, Y.Kondo, S.Koyama, T.Kubo, S.Kubono, 
+#+          M.Uesaka, A.Makinaga, M.Matsushita, T.Matsuzaki, S.Michimasa, 
+#+          S.Momiyama, S.Nagamine, M.Niikura, T.Ozaki, A.Saito, T.Saito, 
+#+          Y.Shiga, M.Shikata, Y.Shimizu, S.Shimoura, T.Sumikama, P.-A.Soderstrom, 
+#+          H.Suzuki, H.Takeda, R.Taniuchi, J.Tsubota, Y.Watanabe, K.Wimmer, 
+#+          T.Yamamoto, K.Yoshida
+#REF-CODE   (J,PR/C,100,044605,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 044605 (doi:10.1103/PhysRevC.100.044605)
+#DATASETS   0
+#
+#DATASET    E2641002 
+#DATE       20200702
+#REACTION   (1-H-1(41-NB-93,X)ELEM/MASS,,SIG)=(41-NB-93(P,X)ELEM/MASS,,SIG)
+#PROJ       1001
+#TARG       41093
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 41093   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 41093   3 454 A  1.1300+8          0.013500 2.1600-3           42092.9                     K.Nakano+            (19)E2641  2 
+ 1001 41093   3 454 A  1.1300+8          0.012000 1.6000-3           42091.9                     K.Nakano+            (19)E2641  2 
+ 1001 41093   3 454 A  1.1300+8          8.4000-3 1.1600-3           42090.9                     K.Nakano+            (19)E2641  2 
+#/DATA      3
+#/DATASET

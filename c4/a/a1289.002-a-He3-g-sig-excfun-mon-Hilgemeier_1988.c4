@@ -1,0 +1,28 @@
+#ENTRY      A1289
+#AUTHOR1    M.Hilgemeier+
+#YEAR       1988
+#INSTITUTE  (2GERMST)
+#TITLE      Absolute cross section of 3He(alpha,gamma)7Be reaction
+#AUTHOR(S)  M.Hilgemeier, H.W.Becker, C.Rolfs, H.P.Trautvetter, J.W.Hammer
+#REF-CODE   (J,ZP/A,329,243,1988)
+#REFERENCE  Z.Phys.A 329 (1988) 243 (doi:10.1007/BF01283781)
+#DATASETS   0
+#
+#DATASET    A1289002 
+#DATE       20250908
+#REACTION   2-HE-3(A,G)4-BE-7,,SIG
+#PROJ       2004
+#TARG       2003
+#MF         3
+#MT         102
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 2004  2003   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  2003   3 102    1018610. 1000.155 3.8000-7 4.0000-8                                       M.Hilgemeier+        (88)A1289  2 
+ 2004  2003   3 102    1273215. 1000.194 6.2000-7 6.0000-8                                       M.Hilgemeier+        (88)A1289  2 
+ 2004  2003   3 102    1542486. 1000.235 9.2000-7 9.0000-8                                       M.Hilgemeier+        (88)A1289  2 
+ 2004  2003   3 102    1546443. 1000.236 9.1000-7 8.0000-8                                       M.Hilgemeier+        (88)A1289  2 
+#/DATA      4
+#/DATASET

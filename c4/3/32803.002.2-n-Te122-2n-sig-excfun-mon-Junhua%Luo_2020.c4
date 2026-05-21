@@ -1,0 +1,28 @@
+#ENTRY      32803
+#AUTHOR1    Junhua Luo+
+#YEAR       2020
+#INSTITUTE  (3CPRHXU)
+#TITLE      Activation cross-section and isomeric cross-section
+#+          ratio for the 122Te(n,2n)121m,gTe process
+#AUTHOR(S)  Junhua Luo, Li Jiang, Le Shan, Liang Zhou
+#REF-CODE   (J,JRN,324,913,2020)
+#REFERENCE  J.Rad.Nucl.Chem. 324 (2020) 913 (doi:10.1007/s10967-020-07119-3)
+#DATASETS   0
+#
+#DATASET    328030022
+#DATE       20200801
+#REACTION   52-TE-122(N,2N)52-TE-121-G,,SIG
+#PROJ       1
+#TARG       52122
+#MF         3
+#MT         16
+#PRODUCT    52-TE-121-G
+#C4BEGIN    [    1 52122   3  16G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52122   3  16G   1.3500+7 200000.0 0.514000 0.045000                                       Junhua Luo+          (20)32803  22
+    1 52122   3  16G   1.4100+7 200000.0 0.527000 0.050000                                       Junhua Luo+          (20)32803  22
+    1 52122   3  16G   1.4800+7 200000.0 0.569000 0.052000                                       Junhua Luo+          (20)32803  22
+#/DATA      3
+#/DATASET

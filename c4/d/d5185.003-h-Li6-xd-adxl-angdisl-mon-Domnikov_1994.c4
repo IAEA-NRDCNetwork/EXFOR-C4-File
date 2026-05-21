@@ -1,0 +1,29 @@
+#ENTRY      D5185
+#AUTHOR1    V.N.Domnikov+
+#YEAR       1994
+#INSTITUTE  (4UKRIJD)
+#TITLE      Interaction between 3He and 6,7Li nuclei
+#AUTHOR(S)  V.N.Domnikov, D.Sh.Eleukenov, E.P.Kadkin, S.N.Kondratiev, 
+#+          S.V.Nevsky, O.F.Nemets, L.S.Saltykov, V.D.Sklyarenko, L.I.Slyusarenko, 
+#+          V.V.Tokarevsky, N.P.Yurkuts
+#REF-CODE   (J,BAS,58,1910,1994)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 58 (1994) 1910
+#DATASETS   0
+#
+#DATASET    D5185003 
+#DATE       20200115
+#REACTION   3-LI-6(HE3,X)1-H-2,,DA
+#PROJ       2003
+#TARG       3006
+#MF         4
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 2003  3006   4 204 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  3006   4 204 D  9.3000+7          0.290000 0.029000 0.970296                              V.N.Domnikov+        (94)D5185  3 
+ 2003  3006   4 204 D  9.3000+7          0.110000 0.011000 0.906308                              V.N.Domnikov+        (94)D5185  3 
+ 2003  3006   4 204 D  9.3000+7          7.9000-3 6.0000-4 0.500000                              V.N.Domnikov+        (94)D5185  3 
+#/DATA      3
+#/DATASET

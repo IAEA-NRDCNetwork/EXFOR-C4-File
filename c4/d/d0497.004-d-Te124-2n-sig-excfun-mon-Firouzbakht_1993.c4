@@ -1,0 +1,41 @@
+#ENTRY      D0497
+#AUTHOR1    M.L.Firouzbakht+
+#YEAR       1993
+#INSTITUTE  (1USABNL)
+#TITLE      Iodine-124 production: excitation function for the
+#+          124Te(d,2n)124I and 124Te(d,3n)123I reactions from
+#+          7 to 24 MeV
+#AUTHOR(S)  M.L.Firouzbakht, D.J.Schlyer, R.D.Finn, G.Laguzzi, A.P.Wolf
+#REF-CODE   (J,NIM/B,79,909,1993)
+#REFERENCE  Nucl.Instrum.Meth.B 79 (1993) 909 (doi:10.1016/0168-583X(93)95496-R)
+#DATASETS   0
+#
+#DATASET    D0497004 
+#DATE       20161205
+#REACTION   52-TE-124(D,2N)53-I-124,,SIG
+#PROJ       1002
+#TARG       52124
+#MF         3
+#MT         16
+#PRODUCT    53-I-124
+#C4BEGIN    [ 1002 52124   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 52124   3  16    2.3600+7          0.034000 2.0000-3                                       M.L.Firouzbakht+     (93)D0497  4 
+ 1002 52124   3  16    2.2600+7          0.038000 6.0000-3                                       M.L.Firouzbakht+     (93)D0497  4 
+ 1002 52124   3  16    2.1600+7          0.039000 3.0000-3                                       M.L.Firouzbakht+     (93)D0497  4 
+ 1002 52124   3  16    2.0600+7          0.051000 1.0000-3                                       M.L.Firouzbakht+     (93)D0497  4 
+ 1002 52124   3  16    1.9500+7          0.061000 1.0000-3                                       M.L.Firouzbakht+     (93)D0497  4 
+ 1002 52124   3  16    1.8500+7          0.069000 3.0000-3                                       M.L.Firouzbakht+     (93)D0497  4 
+ 1002 52124   3  16    1.8000+7          0.079000 5.0000-3                                       M.L.Firouzbakht+     (93)D0497  4 
+ 1002 52124   3  16    1.7000+7          0.081000 1.0000-3                                       M.L.Firouzbakht+     (93)D0497  4 
+ 1002 52124   3  16    1.5900+7          0.083000 4.0000-3                                       M.L.Firouzbakht+     (93)D0497  4 
+ 1002 52124   3  16    1.4800+7          0.078000 1.0000-3                                       M.L.Firouzbakht+     (93)D0497  4 
+ 1002 52124   3  16    1.3600+7          0.072000 3.0000-3                                       M.L.Firouzbakht+     (93)D0497  4 
+ 1002 52124   3  16    1.2300+7          0.059000 8.0000-3                                       M.L.Firouzbakht+     (93)D0497  4 
+ 1002 52124   3  16    1.0900+7          0.039000 4.0000-3                                       M.L.Firouzbakht+     (93)D0497  4 
+ 1002 52124   3  16    9400000.          0.017000 3.0000-3                                       M.L.Firouzbakht+     (93)D0497  4 
+ 1002 52124   3  16    7500000.          1.0000-3                                                M.L.Firouzbakht+     (93)D0497  4 
+#/DATA      15
+#/DATASET

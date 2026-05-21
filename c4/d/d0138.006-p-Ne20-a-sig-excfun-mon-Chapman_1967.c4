@@ -1,0 +1,26 @@
+#ENTRY      D0138
+#AUTHOR1    R.Chapman+
+#YEAR       1967
+#INSTITUTE  (2UK GLS)
+#TITLE      Proton nuclear reaction cross sections in oxygen
+#+          and neon at 13 MeV
+#AUTHOR(S)  R.Chapman, A.M.MacLeod
+#REF-CODE   (J,NP/A,94,313,1967)
+#REFERENCE  Nucl.Phys.A 94 (1967) 313 (doi:10.1016/0375-9474(67)90006-1)
+#DATASETS   0
+#
+#DATASET    D0138006 
+#DATE       20210929
+#REACTION   10-NE-20(P,A)9-F-17,,SIG,,A
+#PROJ       1001
+#TARG       10020
+#MF         3
+#MT         107
+#PRODUCT    9-F-17
+#C4BEGIN    [ 1001 10020   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 10020   3 107    1.3100+7 700000.0 7.9576-4 9.9469-5                                       R.Chapman+           (67)D0138  6 
+#/DATA      1
+#/DATASET

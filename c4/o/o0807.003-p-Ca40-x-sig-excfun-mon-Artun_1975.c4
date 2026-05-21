@@ -1,0 +1,28 @@
+#ENTRY      O0807
+#AUTHOR1    O.Artun+
+#YEAR       1975
+#INSTITUTE  (2FR SAC)
+#TITLE      Multinucleon removal induced by high-energy protons
+#AUTHOR(S)  O.Artun, Y.Cassagnou, R.Legrain, N.Lisbona, L.Roussel, J.P.Alard, 
+#+          A.Baldit, J.P.Costilhes, J.Fargeix, G.Roche, J.C.Tamain
+#REF-CODE   (J,PRL,35,773,1975)
+#REFERENCE  Phys.Rev.Lett. 35 (1975) 773 (doi:10.1103/PhysRevLett.35.773)
+#DATASETS   0
+#
+#DATASET    O0807003 
+#DATE       20010323
+#REACTION   20-CA-40(P,X)20-CA-39,,SIG
+#PROJ       1001
+#TARG       20040
+#MF         3
+#MT         454
+#PRODUCT    20-CA-39
+#C4BEGIN    [ 1001 20040   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20040   3 454    1.1000+8          0.020700 4.1400-3           20039.9                     O.Artun+             (75)O0807  3 
+ 1001 20040   3 454    2.1000+8          8.5000-3 1.7000-3           20039.9                     O.Artun+             (75)O0807  3 
+ 1001 20040   3 454    6.0000+8          2.9000-3 5.8000-4           20039.9                     O.Artun+             (75)O0807  3 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      C0789
+#AUTHOR1    D.Ottewell+
+#YEAR       1984
+#INSTITUTE  (1CANTMF)
+#TITLE      The differential cross section for proton-proton
+#+          elastic scattering at 90 degrees(c.m.) between 300
+#+          and 500 MeV
+#AUTHOR(S)  D.Ottewell, P.Walden, E.G.Auld, G.Giles, G.Jones, G.J.Lolos, 
+#+          B.J.Mc.upper()arland, W.Ziegler, W.Falk
+#REF-CODE   (J,NP/A,412,189,1984)
+#REFERENCE  Nucl.Phys.A 412 (1984) 189 (doi:10.1016/0375-9474(84)90677-8)
+#DATASETS   0
+#
+#DATASET    C0789002 
+#DATE       20010302
+#REACTION   1-H-2(P,EL)1-H-2,,DA
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001  1002   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4   2 CC 3.0000+8          3.7690-3 1.9000-5 6.123-17                              D.Ottewell+          (84)C0789  2 
+ 1001  1002   4   2 CC 3.5000+8          3.7590-3 1.9000-5 6.123-17                              D.Ottewell+          (84)C0789  2 
+ 1001  1002   4   2 CC 4.0000+8          3.7420-3 1.9000-5 6.123-17                              D.Ottewell+          (84)C0789  2 
+ 1001  1002   4   2 CC 4.5000+8          3.6820-3 1.9000-5 6.123-17                              D.Ottewell+          (84)C0789  2 
+ 1001  1002   4   2 CC 5.0000+8          3.4710-3 1.8000-5 6.123-17                              D.Ottewell+          (84)C0789  2 
+#/DATA      5
+#/DATASET

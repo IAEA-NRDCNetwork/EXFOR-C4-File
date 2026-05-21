@@ -1,0 +1,34 @@
+#ENTRY      40045
+#AUTHOR1    M.V.Pasechnik+
+#YEAR       1969
+#INSTITUTE  (4UKRIJD)
+#TITLE      Scattering of 2.9 MeV neutrons on titanium and chromium
+#+          nuclei.
+#AUTHOR(S)  M.V.Pasechnik, M.B.Fedorov, T.I.Yakovenko, I.E.Kashuba, 
+#+          V.A.Korzh
+#REF-CODE   (J,UFZ,14,(11),1874,1969)
+#REFERENCE  Ukr.Fiz.Zh. 14 No.11 (1969) 1874
+#DATASETS   0
+#
+#DATASET    40045005 
+#DATE       20151123
+#REACTION   24-CR-52(N,INL)24-CR-52,PAR,DA
+#PROJ       1
+#TARG       24052
+#MF         4
+#MT         51
+#PRODUCT    24-CR-52
+#C4BEGIN    [    1 24052   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24052   4  51 AC 2900000.          0.054000 6.0000-3 0.866025          1430000.         LVLM.V.Pasechnik+       (69)40045  5 
+    1 24052   4  51 AC 2900000.          0.055000 5.0000-3 0.707107          1430000.         LVLM.V.Pasechnik+       (69)40045  5 
+    1 24052   4  51 AC 2900000.          0.050000 5.0000-3 0.500000          1430000.         LVLM.V.Pasechnik+       (69)40045  5 
+    1 24052   4  51 AC 2900000.          0.038000 4.0000-3 0.258819          1430000.         LVLM.V.Pasechnik+       (69)40045  5 
+    1 24052   4  51 AC 2900000.          0.041000 5.0000-3 6.123-17          1430000.         LVLM.V.Pasechnik+       (69)40045  5 
+    1 24052   4  51 AC 2900000.          0.037000 5.0000-3-0.258819          1430000.         LVLM.V.Pasechnik+       (69)40045  5 
+    1 24052   4  51 AC 2900000.          0.039000 5.0000-3-0.500000          1430000.         LVLM.V.Pasechnik+       (69)40045  5 
+    1 24052   4  51 AC 2900000.          0.051000 6.0000-3-0.707107          1430000.         LVLM.V.Pasechnik+       (69)40045  5 
+#/DATA      8
+#/DATASET

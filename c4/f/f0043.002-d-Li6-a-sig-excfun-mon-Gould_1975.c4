@@ -1,0 +1,39 @@
+#ENTRY      F0043
+#AUTHOR1    C.R.Gould+
+#YEAR       1975
+#INSTITUTE  (1USATNL)
+#TITLE      Cross section measurements for charged particle induced
+#+          reactions on Li-6*.
+#AUTHOR(S)  C.R.Gould, J.M.Joyce, J.R.Boyce
+#REF-CODE   (C,75WASH,2,697,1975)
+#REFERENCE  Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 697
+#DATASETS   0
+#
+#DATASET    F0043002 
+#DATE       20200129
+#REACTION   3-LI-6(D,A)2-HE-4,,SIG
+#PROJ       1002
+#TARG       3006
+#MF         3
+#MT         107
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  3006   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   3 107    2163000.          0.018300 2.7450-3                                       C.R.Gould+           (75)F0043  2 
+ 1002  3006   3 107    2418000.          0.017100 2.5650-3                                       C.R.Gould+           (75)F0043  2 
+ 1002  3006   3 107    2675000.          0.019500 2.9250-3                                       C.R.Gould+           (75)F0043  2 
+ 1002  3006   3 107    2933000.          0.022400 3.3600-3                                       C.R.Gould+           (75)F0043  2 
+ 1002  3006   3 107    3191000.          0.027400 4.1100-3                                       C.R.Gould+           (75)F0043  2 
+ 1002  3006   3 107    3449000.          0.032400 4.8600-3                                       C.R.Gould+           (75)F0043  2 
+ 1002  3006   3 107    3705000.          0.032400 4.8600-3                                       C.R.Gould+           (75)F0043  2 
+ 1002  3006   3 107    3960000.          0.031100 4.6650-3                                       C.R.Gould+           (75)F0043  2 
+ 1002  3006   3 107    4214000.          0.026600 3.9900-3                                       C.R.Gould+           (75)F0043  2 
+ 1002  3006   3 107    4425000.          0.023200 3.4800-3                                       C.R.Gould+           (75)F0043  2 
+ 1002  3006   3 107    4679000.          0.019400 2.9100-3                                       C.R.Gould+           (75)F0043  2 
+ 1002  3006   3 107    4891000.          0.016500 2.4750-3                                       C.R.Gould+           (75)F0043  2 
+ 1002  3006   3 107    5402000.          0.013600 2.0400-3                                       C.R.Gould+           (75)F0043  2 
+ 1002  3006   3 107    5869000.          0.010700 1.6050-3                                       C.R.Gould+           (75)F0043  2 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      22081
+#AUTHOR1    J.Chardine+
+#YEAR       1986
+#INSTITUTE  (2FR BRC)
+#TITLE      -NEUTRON ELASTIC AND INELASTIC SCATTERING FROM N-14
+#+          BETWEEN 7.7 AND 13.5 MEV.
+#AUTHOR(S)  J.Chardine, G.Haouat, S.Seguin, C.Humeau
+#REF-CODE   (R,CEA-N-2506,86)
+#REFERENCE  Report CEA-N-2506, 1986
+#DATASETS   0
+#
+#DATASET    22081042 
+#DATE       19881216
+#REACTION   7-N-14(N,INL)7-N-14,PAR,DA
+#PROJ       1
+#TARG       7014
+#MF         4
+#MT         51
+#PRODUCT    7-N-14
+#C4BEGIN    [    1  7014   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  7014   4  51  C 1.1100+7 50000.00 6.8000-4 8.5680-5 0.253758          4910000.         LVLJ.Chardine+          (86)22081 42 
+    1  7014   4  51  C 1.1100+7 50000.00 6.2000-4 7.6260-5 0.076719          4910000.         LVLJ.Chardine+          (86)22081 42 
+    1  7014   4  51  C 1.1100+7 50000.00 7.1000-4 9.8690-5-0.099320          4910000.         LVLJ.Chardine+          (86)22081 42 
+    1  7014   4  51  C 1.1100+7 50000.00 8.7000-4 1.2267-4-0.268920          4910000.         LVLJ.Chardine+          (86)22081 42 
+    1  7014   4  51  C 1.1100+7 50000.00 1.1400-3 1.5618-4-0.427358          4910000.         LVLJ.Chardine+          (86)22081 42 
+    1  7014   4  51  C 1.1100+7 50000.00 1.5100-3 2.0838-4-0.572146          4910000.         LVLJ.Chardine+          (86)22081 42 
+    1  7014   4  51  C 1.1100+7 50000.00 1.8000-3 2.4120-4-0.698415          4910000.         LVLJ.Chardine+          (86)22081 42 
+    1  7014   4  51  C 1.1100+7 50000.00 1.8700-3 2.4684-4-0.889416          4910000.         LVLJ.Chardine+          (86)22081 42 
+#/DATA      8
+#/DATASET

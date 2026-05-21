@@ -1,0 +1,36 @@
+#ENTRY      C1336
+#AUTHOR1    A.Azhari+
+#YEAR       1999
+#INSTITUTE  (1USATAM)
+#TITLE      The 14N(7Be,8B)13C reaction and the 7Be(p, gamma )8B
+#+          S factor
+#AUTHOR(S)  A.Azhari, V.Burjan, F.Carstoiu, C.A.Gagliardi, V.Kroha, 
+#+          A.M.Mukhamedzhanov, X.Tang, L.Trache, R.E.Tribble
+#REF-CODE   (J,PR/C,60,055803,1999)
+#REFERENCE  Phys.Rev.C 60 (1999) 055803 (doi:10.1103/PhysRevC.60.055803)
+#DATASETS   0
+#
+#DATASET    C1336002 
+#DATE       20050824
+#REACTION   7-N-14(4-BE-7,EL)7-N-14,,DA
+#PROJ       4007
+#TARG       7014
+#MF         4
+#MT         2
+#PRODUCT    7-N-14
+#C4BEGIN    [ 4007  7014   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4007  7014   4   2  C 8.5000+7          294.0000          0.997960                              A.Azhari+            (99)C1336  2 
+ 4007  7014   4   2  C 8.5000+7          48.90000          0.994845                              A.Azhari+            (99)C1336  2 
+ 4007  7014   4   2  C 8.5000+7          10.40000          0.990724                              A.Azhari+            (99)C1336  2 
+ 4007  7014   4   2  C 8.5000+7          1.530000          0.984808                              A.Azhari+            (99)C1336  2 
+ 4007  7014   4   2  C 8.5000+7          0.851000          0.975917                              A.Azhari+            (99)C1336  2 
+ 4007  7014   4   2  C 8.5000+7          0.664000          0.967268                              A.Azhari+            (99)C1336  2 
+ 4007  7014   4   2  C 8.5000+7          0.219000          0.957822                              A.Azhari+            (99)C1336  2 
+ 4007  7014   4   2  C 8.5000+7          0.047600          0.944376                              A.Azhari+            (99)C1336  2 
+ 4007  7014   4   2  C 8.5000+7          0.066200          0.930418                              A.Azhari+            (99)C1336  2 
+ 4007  7014   4   2  C 8.5000+7          0.077500          0.920505                              A.Azhari+            (99)C1336  2 
+#/DATA      10
+#/DATASET

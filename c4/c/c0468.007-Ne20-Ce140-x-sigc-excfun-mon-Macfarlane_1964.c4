@@ -1,0 +1,32 @@
+#ENTRY      C0468
+#AUTHOR1    R.D.Macfarlane+
+#YEAR       1964
+#INSTITUTE  (1USABRK)
+#TITLE      Alpha-Decay Properties of Some Thalium and Ytterbium
+#+          Isotopes Near the 82-Neutron Closed Shell
+#AUTHOR(S)  R.D.Macfarlane
+#REF-CODE   (J,PR,136,B941,1964)
+#REFERENCE  Phys.Rev. 136 (1964) B941 (doi:10.1103/PhysRev.136.B941)
+#DATASETS   0
+#
+#DATASET    C0468007 
+#DATE       19990308
+#REACTION   58-CE-140(10-NE-20,X)67-HO-151,CUM,SIG
+#PROJ       10020
+#TARG       58140
+#MF         3
+#MT         459
+#PRODUCT    67-HO-151
+#C4BEGIN    [10020 58140   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10020 58140   3 459    1.5900+8          7.5900-3                    67151.9                     R.D.Macfarlane       (64)C0468  7 
+10020 58140   3 459    1.6400+8          0.023600                    67151.9                     R.D.Macfarlane       (64)C0468  7 
+10020 58140   3 459    1.7100+8          0.031200                    67151.9                     R.D.Macfarlane       (64)C0468  7 
+10020 58140   3 459    1.7800+8          0.064100                    67151.9                     R.D.Macfarlane       (64)C0468  7 
+10020 58140   3 459    1.8300+8          0.085600                    67151.9                     R.D.Macfarlane       (64)C0468  7 
+10020 58140   3 459    1.8900+8          0.099500                    67151.9                     R.D.Macfarlane       (64)C0468  7 
+10020 58140   3 459    1.9500+8          0.096800                    67151.9                     R.D.Macfarlane       (64)C0468  7 
+#/DATA      7
+#/DATASET

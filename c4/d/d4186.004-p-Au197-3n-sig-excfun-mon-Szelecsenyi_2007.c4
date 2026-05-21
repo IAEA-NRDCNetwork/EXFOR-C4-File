@@ -1,0 +1,45 @@
+#ENTRY      D4186
+#AUTHOR1    F.Szelecsenyi+
+#YEAR       2007
+#INSTITUTE  (3HUNDEB)
+#TITLE      Application of Au + p nuclear reactions for proton
+#+          beam monitoring up to 70MeV
+#AUTHOR(S)  F.Szelecsenyi, G.F.Steyn, Z.Kovacs, T.N.Van Der Walt
+#REF-CODE   (C,2007NICE,2,1259,2007)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 2 page 1259
+#DATASETS   0
+#
+#DATASET    D4186004 
+#DATE       20081105
+#REACTION   79-AU-197(P,3N)80-HG-195-M,,SIG
+#PROJ       1001
+#TARG       79197
+#MF         3
+#MT         17
+#PRODUCT    80-HG-195-M
+#C4BEGIN    [ 1001 79197   3  17MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   3  17MA  6.5380+7 540000.0 0.079100 0.011720                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  6.3350+7 620000.0 0.080260 0.012060                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  6.1280+7 690000.0 0.083250 0.012330                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  5.9150+7 780000.0 0.090890 0.013460                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  5.6970+7 860000.0 0.095210 0.014110                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  5.4710+7 950000.0 0.099800 0.014780                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  5.2390+7 1040000. 0.105270 0.015590                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  4.9990+7 1130000. 0.113500 0.016810                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  4.7520+7 1220000. 0.116180 0.016060                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  4.4950+7 1320000. 0.120410 0.016650                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  4.2260+7 1420000. 0.125220 0.017310                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  4.0820+7 1480000. 0.145370 0.020100                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  3.9340+7 1530000. 0.130720 0.018070                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  3.7810+7 1600000. 0.144320 0.019950                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  3.6240+7 1650000. 0.176530 0.024410                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  3.4610+7 1700000. 0.202500 0.028000                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  3.2920+7 1780000. 0.289180 0.039980                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  3.1160+7 1850000. 0.384910 0.053220                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  2.9330+7 1920000. 0.596430 0.082460                                       F.Szelecsenyi+       (07)D4186  4 
+ 1001 79197   3  17MA  2.5370+7 2070000. 0.618150 0.085500                                       F.Szelecsenyi+       (07)D4186  4 
+#/DATA      20
+#/DATASET

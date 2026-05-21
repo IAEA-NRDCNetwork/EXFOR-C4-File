@@ -1,0 +1,29 @@
+#ENTRY      41379
+#AUTHOR1    Yu.Ya.Nefedov+
+#YEAR       2000
+#INSTITUTE  (4RUSEPA)
+#TITLE      Gamma-ray production cross-section and spectrum
+#+          measurement results for inelastic interaction of 14 MeV
+#+          neutrons with nuclei of Na, S, Cl, Ti, V, Cr, Ni, Zn,
+#+          Ge, Nb, Cd, In, Sn, Bi, 235U and 238U
+#AUTHOR(S)  Yu.Ya.Nefedov, V.I.Nagornyj, V.I.Semenov, A.K.Zhitnik, R.A.Orlov, 
+#+          A.E.Shmarov
+#REF-CODE   (J,YK,,(1),7,2000)
+#REFERENCE  Yad.Reak.Konst.  No.1 (2000) 7
+#DATASETS   0
+#
+#DATASET    41379033 
+#DATE       20131112
+#REACTION   92-U-238(N,X)0-G-0,,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         202
+#PRODUCT    0-G-0
+#C4BEGIN    [    1 92238   3 202 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3 202 D  1.4300+7          10.17100 0.915000                                       Yu.Ya.Nefedov+       (00)41379 33 
+#/DATA      1
+#/DATASET

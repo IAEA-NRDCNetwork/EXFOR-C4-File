@@ -1,0 +1,26 @@
+#ENTRY      31828
+#AUTHOR1    M.Schulc+
+#YEAR       2020
+#INSTITUTE  (3CZRUJV)
+#TITLE      Constraining high energy tail of 235U(nth,f) prompt
+#+          fission neutron spectrum
+#AUTHOR(S)  M.Schulc, M.Kostal, J.Simon, F.Brijar, T.Czakoj, J.P.Maly
+#REF-CODE   (J,ARI,166,109313,2020)
+#REFERENCE  Appl.Radiat.Isot. 166 (2020) 109313 (doi:10.1016/j.apradiso.2020.109313)
+#DATASETS   0
+#
+#DATASET    318280041
+#DATE       20200911
+#REACTION   83-BI-209(N,3N)83-BI-207,,SIG,,FIS
+#PROJ       1
+#TARG       83209
+#MF         3
+#MT         17
+#PRODUCT    83-BI-207
+#C4BEGIN    [    1 83209   3  17 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209   3  17 A  1320000.          8.3400-6 4.8372-7                                       M.Schulc+            (20)31828  41
+#/DATA      1
+#/DATASET

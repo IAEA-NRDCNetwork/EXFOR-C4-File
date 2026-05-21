@@ -1,0 +1,32 @@
+#ENTRY      32895
+#AUTHOR1    Jun-Hua Luo+
+#YEAR       2023
+#INSTITUTE  (3CPRHXU)
+#TITLE      Measurement of 134Xe(n,2n)133m,gXe reaction cross
+#+          sections in 14-MeV region with detailed uncertainty
+#+          quantification
+#AUTHOR(S)  Jun-Hua Luo, Jun-Cheng Liang, Li Jiang, Fei Tuo, Liang Zhou, 
+#+          Long He
+#REF-CODE   (J,CNST,34,4,2023)
+#REFERENCE  Nucl.Sci.Tech. 34 (2023) 4 (doi:10.1007/s41365-022-01158-z)
+#DATASETS   0
+#
+#DATASET    32895002 
+#DATE       20241202
+#REACTION   54-XE-134(N,2N)54-XE-133-M,,SIG
+#PROJ       1
+#TARG       54134
+#MF         3
+#MT         16
+#PRODUCT    54-XE-133-M
+#C4BEGIN    [    1 54134   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 54134   3  16M   1.3500+7 200000.0 0.884000 0.041000                                       Jun-Hua Luo+         (23)32895  2 
+    1 54134   3  16M   1.3800+7 200000.0 0.888000 0.041000                                       Jun-Hua Luo+         (23)32895  2 
+    1 54134   3  16M   1.4100+7 200000.0 0.909000 0.042000                                       Jun-Hua Luo+         (23)32895  2 
+    1 54134   3  16M   1.4400+7 200000.0 0.916000 0.042000                                       Jun-Hua Luo+         (23)32895  2 
+    1 54134   3  16M   1.4800+7 200000.0 0.928000 0.043000                                       Jun-Hua Luo+         (23)32895  2 
+#/DATA      5
+#/DATASET

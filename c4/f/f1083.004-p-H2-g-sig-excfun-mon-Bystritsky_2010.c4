@@ -1,0 +1,32 @@
+#ENTRY      F1083
+#AUTHOR1    V.M.Bystritsky+
+#YEAR       2010
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Using a Hall accelerator to investigate d(d,n)He-3 and
+#+          d(p,g)He-3 reactions in the astrophysical energy
+#+          region.
+#AUTHOR(S)  V.M.Bystritsky, V.V.Gerasimov, A.R.Krylov, S.S.Parizhitskii, 
+#+          D.A.Ilguzin, P.S.Ananin, G.N.Dudkin, V.L.Kaminskii, B.A.Nechaev, 
+#+          V.N.Padalko, A.V.Petrov, G.A.Mesyats, M.Filipowicz, Ya.Wozniak, 
+#+          Vit.M.Bystritsky
+#REF-CODE   (J,IZV,74,563,2010)
+#REFERENCE  Izv.Ross.AN,Fiz. 74 (2010) 563
+#DATASETS   0
+#
+#DATASET    F1083004 
+#DATE       20111212
+#REACTION   1-H-2(P,G)2-HE-3,,SIG,,SFC
+#PROJ       1001
+#TARG       1002
+#MF         3
+#MT         102
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1002   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   3 102    3270.700          3.224-12 9.215-13                                       V.M.Bystritsky+      (10)F1083  4 
+ 1001  1002   3 102    4503.700          3.408-11 7.727-12                                       V.M.Bystritsky+      (10)F1083  4 
+ 1001  1002   3 102    4884.300          6.102-11 1.338-11                                       V.M.Bystritsky+      (10)F1083  4 
+#/DATA      3
+#/DATASET

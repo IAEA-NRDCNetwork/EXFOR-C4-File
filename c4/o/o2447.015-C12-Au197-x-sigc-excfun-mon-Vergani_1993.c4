@@ -1,0 +1,35 @@
+#ENTRY      O2447
+#AUTHOR1    P.Vergani+
+#YEAR       1993
+#INSTITUTE  (2ITYMIL)
+#TITLE      Complete and incomplete fusion and emission of
+#+          preequilibrium nucleons in the interaction of 12C
+#+          with 197Au below 10 MeV/nucleon
+#AUTHOR(S)  P.Vergani, E.Gadioli, E.Vaciago, E.Fabrici, E.Gadioli Erba, 
+#+          M.Galmarini, G.Ciavola, C.Marchetta
+#REF-CODE   (J,PR/C,48,1815,1993)
+#REFERENCE  Phys.Rev.C 48 (1993) 1815 (doi:10.1103/PhysRevC.48.1815)
+#DATASETS   0
+#
+#DATASET    O2447015 
+#DATE       20200107
+#REACTION   79-AU-197(6-C-12,X)82-PB-201,CUM,SIG
+#PROJ       6012
+#TARG       79197
+#MF         3
+#MT         459
+#PRODUCT    82-PB-201
+#C4BEGIN    [ 6012 79197   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 79197   3 459    6.2000+7          0.012000 1.8000-3           82201.9                     P.Vergani+           (93)O2447 15 
+ 6012 79197   3 459    6.7000+7          0.042500 6.3750-3           82201.9                     P.Vergani+           (93)O2447 15 
+ 6012 79197   3 459    7.2000+7          0.064500 9.6750-3           82201.9                     P.Vergani+           (93)O2447 15 
+ 6012 79197   3 459    7.7000+7          0.047500 7.1250-3           82201.9                     P.Vergani+           (93)O2447 15 
+ 6012 79197   3 459    8.2000+7          0.044900 6.7350-3           82201.9                     P.Vergani+           (93)O2447 15 
+ 6012 79197   3 459    8.7000+7          0.110100 0.016515           82201.9                     P.Vergani+           (93)O2447 15 
+ 6012 79197   3 459    9.2000+7          0.157300 0.023595           82201.9                     P.Vergani+           (93)O2447 15 
+ 6012 79197   3 459    9.7000+7          0.169900 0.025485           82201.9                     P.Vergani+           (93)O2447 15 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      22745
+#AUTHOR1    V.Semkova+
+#YEAR       2004
+#INSTITUTE  (2ZZZGEL)
+#TITLE      Measurement of the Ni-58(n,t)Co-59, Co-59(n,p)Fe-59
+#+          and Cu-63(n,alpha)Co-60 Reaction Cross Sections from
+#+          14 to 20 MeV.
+#AUTHOR(S)  V.Semkova, A.J.M.Plompen, D.L.Smith
+#REF-CODE   (C,2004SANTA,1,1019,200409)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn., Santa Fe 2004 1 page 1019
+#DATASETS   0
+#
+#DATASET    22745002 
+#DATE       20070628
+#REACTION   29-CU-63(N,A)27-CO-60,,SIG
+#PROJ       1
+#TARG       29063
+#MF         3
+#MT         107
+#PRODUCT    27-CO-60
+#C4BEGIN    [    1 29063   3 107 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29063   3 107 C  1.3350+7          0.045070 2.1600-3                                       V.Semkova+           (04)22745  2 
+    1 29063   3 107 C  1.6000+7          0.032120 2.0200-3                                       V.Semkova+           (04)22745  2 
+    1 29063   3 107 C  1.6280+7          0.030090 2.0200-3                                       V.Semkova+           (04)22745  2 
+    1 29063   3 107 C  1.7190+7          0.028210 2.1600-3                                       V.Semkova+           (04)22745  2 
+    1 29063   3 107 C  1.7580+7          0.021860                                                V.Semkova+           (04)22745  2 
+    1 29063   3 107 C  1.8200+7          0.017950                                                V.Semkova+           (04)22745  2 
+    1 29063   3 107 C  1.9030+7          0.014040                                                V.Semkova+           (04)22745  2 
+    1 29063   3 107 C  1.9970+7          0.012020                                                V.Semkova+           (04)22745  2 
+#/DATA      8
+#/DATASET

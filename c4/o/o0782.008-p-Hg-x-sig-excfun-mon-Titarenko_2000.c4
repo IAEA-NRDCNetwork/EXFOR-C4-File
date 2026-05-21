@@ -1,0 +1,31 @@
+#ENTRY      O0782
+#AUTHOR1    Yu.E.Titarenko+
+#YEAR       2000
+#INSTITUTE  (4RUSITE)
+#TITLE      Study of residual nuclide yields from 0.1, 0.2, 0.6,
+#+          and 2.6 GeV proton-irradiated thin nat-Hg targets
+#AUTHOR(S)  Yu.E.Titarenko, O.V.Shvedov, V.F.Batyaev, V.M.Zhivun, E.I.Karpikhin, 
+#+          A.B.Koldobsky, R.D.Mulambetov, D.V.Fischenko, S.V.Kvasova, 
+#+          S.G.Mashnik, R.E.Prael, A.J.Sierk
+#REF-CODE   (R,LA-UR-00-3600,2000)
+#REFERENCE  Report LA-UR-00-3600, 2000
+#DATASETS   0
+#
+#DATASET    O0782008 
+#DATE       20160801
+#REACTION   80-HG-0(P,X)79-AU-198,,SIG
+#PROJ       1001
+#TARG       80000
+#MF         3
+#MT         454
+#PRODUCT    79-AU-198
+#C4BEGIN    [ 1001 80000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 80000   3 454    1.0000+8          7.8000-3 6.1000-4           79198.9                     Yu.E.Titarenko+      (00)O0782  8 
+ 1001 80000   3 454    2.0000+8          0.013200 9.0000-4           79198.9                     Yu.E.Titarenko+      (00)O0782  8 
+ 1001 80000   3 454    8.0000+8          0.018800 1.3000-3           79198.9                     Yu.E.Titarenko+      (00)O0782  8 
+ 1001 80000   3 454    2.6000+9          0.016200 1.4000-3           79198.9                     Yu.E.Titarenko+      (00)O0782  8 
+#/DATA      4
+#/DATASET

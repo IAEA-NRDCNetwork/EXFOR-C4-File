@@ -1,0 +1,34 @@
+#ENTRY      32228
+#AUTHOR1    V.A.Mishchenko+
+#YEAR       1989
+#INSTITUTE  (4UKRIJD)
+#TITLE      Neuton scattering cross sections for Te-126 and Te-130
+#+          nuclei with energies 1.5 - 5.0 MeV
+#AUTHOR(S)  V.A.Mishchenko, I.A.Korzh, N.M.Pravdivy
+#REF-CODE   (J,AE,67,(2),147,1989)
+#REFERENCE  At.En. 67 No.2 (1989) 147
+#DATASETS   0
+#
+#DATASET    32228010 
+#DATE       20091026
+#REACTION   52-TE-126(N,INL)52-TE-126,PAR,DA
+#PROJ       1
+#TARG       52126
+#MF         4
+#MT         51
+#PRODUCT    52-TE-126
+#C4BEGIN    [    1 52126   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52126   4  51    3000000.          0.044700 0.011200 0.939693          666000.0         LVLV.A.Mishchenko+      (89)32228 10 
+    1 52126   4  51    3000000.          0.044100 6.6000-3 0.866025          666000.0         LVLV.A.Mishchenko+      (89)32228 10 
+    1 52126   4  51    3000000.          0.039400 5.9000-3 0.766044          666000.0         LVLV.A.Mishchenko+      (89)32228 10 
+    1 52126   4  51    3000000.          0.042400 5.1000-3 0.573576          666000.0         LVLV.A.Mishchenko+      (89)32228 10 
+    1 52126   4  51    3000000.          0.034700 4.5000-3 0.258819          666000.0         LVLV.A.Mishchenko+      (89)32228 10 
+    1 52126   4  51    3000000.          0.036600 4.0000-3 6.123-17          666000.0         LVLV.A.Mishchenko+      (89)32228 10 
+    1 52126   4  51    3000000.          0.039500 5.1000-3-0.573576          666000.0         LVLV.A.Mishchenko+      (89)32228 10 
+    1 52126   4  51    3000000.          0.041700 5.4000-3-0.707107          666000.0         LVLV.A.Mishchenko+      (89)32228 10 
+    1 52126   4  51    3000000.          0.041100 5.8000-3-0.866025          666000.0         LVLV.A.Mishchenko+      (89)32228 10 
+#/DATA      9
+#/DATASET

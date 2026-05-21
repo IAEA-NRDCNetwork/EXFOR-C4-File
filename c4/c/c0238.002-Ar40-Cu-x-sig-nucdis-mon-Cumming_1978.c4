@@ -1,0 +1,28 @@
+#ENTRY      C0238
+#AUTHOR1    J.B.Cumming+
+#YEAR       1978
+#INSTITUTE  (1USABNL)
+#TITLE      Spallation of copper by 80-GeV 40Ar Ions
+#AUTHOR(S)  J.B.Cumming, P.E.Haustein, T.J.Ruth, G.J.Virtes
+#REF-CODE   (J,PR/C,17,1632,1978)
+#REFERENCE  Phys.Rev.C 17 (1978) 1632 (doi:10.1103/PhysRevC.17.1632)
+#DATASETS   0
+#
+#DATASET    C0238002 
+#DATE       20220530
+#REACTION   29-CU-0(18-AR-40,X)ELEM/MASS,,SIG
+#PROJ       18040
+#TARG       29000
+#MF         3
+#MT         454
+#C4BEGIN    [18040 29000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 29000   3 454    8.000+10          0.076000 2.0000-3            4007.9                     J.B.Cumming+         (78)C0238  2 
+18040 29000   3 454    8.000+10          0.018000 8.0000-4           21046.9                     J.B.Cumming+         (78)C0238  2 
+18040 29000   3 454    8.000+10          1.5300-3 1.4000-4           21048.9                     J.B.Cumming+         (78)C0238  2 
+18040 29000   3 454    8.000+10          0.051000 1.4000-3           25054.9                     J.B.Cumming+         (78)C0238  2 
+18040 29000   3 454    8.000+10          0.084800 1.4000-3           27058.9                     J.B.Cumming+         (78)C0238  2 
+#/DATA      5
+#/DATASET

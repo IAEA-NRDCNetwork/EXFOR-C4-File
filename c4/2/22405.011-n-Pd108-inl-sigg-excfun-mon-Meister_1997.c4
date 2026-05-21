@@ -1,0 +1,52 @@
+#ENTRY      22405
+#AUTHOR1    A.Meister+
+#YEAR       1997
+#INSTITUTE  (2ZZZGEL)
+#TITLE      Cross sections of inelastic neutron scattering
+#+          for palladium isotope nuclei
+#AUTHOR(S)  A.Meister, E.Wattecamps, A.J.Koning, A.Hogenbirk, H.Gruppelaar, 
+#+          G.Rollings, W.Schubert
+#REF-CODE   (C,97TRIEST,1,586,1997)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 586
+#DATASETS   0
+#
+#DATASET    22405011 
+#DATE       20220102
+#REACTION   46-PD-108(N,INL)46-PD-108,PAR,SIG,G,AV
+#PROJ       1
+#TARG       46108
+#MF         13
+#MT         51
+#PRODUCT    46-PD-108
+#C4BEGIN    [    1 46108  13  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 46108  13  51 D  925000.0 25000.00 0.000000 0.010000                   497000.0            A.Meister+           (97)22405 11 
+    1 46108  13  51 D  975000.0 25000.00 0.050000 0.010000                   497000.0            A.Meister+           (97)22405 11 
+    1 46108  13  51 D  1050000. 50000.00 0.140000 0.020000                   497000.0            A.Meister+           (97)22405 11 
+    1 46108  13  51 D  1150000. 50000.00 0.210000 0.030000                   497000.0            A.Meister+           (97)22405 11 
+    1 46108  13  51 D  1250000. 50000.00 0.240000 0.030000                   497000.0            A.Meister+           (97)22405 11 
+#/DATA      5
+#/DATASET
+#
+#DATASET    22405011 
+#DATE       20220102
+#REACTION   46-PD-108(N,INL)46-PD-108,PAR,SIG,G,AV
+#PROJ       1
+#TARG       46108
+#MF         13
+#MT         51
+#PRODUCT    46-PD-108
+#C4BEGIN    [    1 46108  13  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 46108  13  51 D  725000.0 25000.00 0.000000 0.010000                   931000.0            A.Meister+           (97)22405 11 
+    1 46108  13  51 D  775000.0 25000.00 0.010000 0.010000                   931000.0            A.Meister+           (97)22405 11 
+    1 46108  13  51 D  975000.0 25000.00 0.010000 0.010000                   931000.0            A.Meister+           (97)22405 11 
+    1 46108  13  51 D  1050000. 50000.00 0.030000 0.010000                   931000.0            A.Meister+           (97)22405 11 
+    1 46108  13  51 D  1150000. 50000.00 0.070000 0.010000                   931000.0            A.Meister+           (97)22405 11 
+    1 46108  13  51 D  1250000. 50000.00 0.080000 0.010000                   931000.0            A.Meister+           (97)22405 11 
+#/DATA      6
+#/DATASET

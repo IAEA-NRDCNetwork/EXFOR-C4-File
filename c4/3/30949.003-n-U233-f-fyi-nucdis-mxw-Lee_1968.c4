@@ -1,0 +1,26 @@
+#ENTRY      30949
+#AUTHOR1    C.Lee+
+#YEAR       1968
+#INSTITUTE  (3ISLSOR)
+#TITLE      Cumulative and independent yields in thermal neutron
+#+          fission of 233U
+#AUTHOR(S)  C.Lee, S.Amiel, E.Yellin
+#REF-CODE   (P,IA-1168,67(1),1968)
+#REFERENCE  Progress report IA-1168 page 67(1), 1968
+#DATASETS   0
+#
+#DATASET    30949003 
+#DATE       20211005
+#REACTION   92-U-233(N,F)ELEM/MASS,IND,FY,,MXW
+#PROJ       1
+#TARG       92233
+#MF         8
+#MT         454
+#C4BEGIN    [    1 92233   8 454 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   8 454 P  0.025300          5.2000-3          39.00000 90.00000 9.000000            C.Lee+               (68)30949  3 
+    1 92233   8 454 P  0.025300          4.7000-3          39.00000 90.00000 1.000000            C.Lee+               (68)30949  3 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      O0115
+#AUTHOR1    M.Fujiwara+
+#YEAR       1985
+#INSTITUTE  (2JPNOSA)
+#TITLE      INELASTIC PROTON SCATTERING TO THE 3- AND 1+ STATES
+#+          IN TI-50,CR-52 AND FE-54.
+#AUTHOR(S)  M.Fujiwara, Y.Fujita, S.Imanishi, S.Morinobi, T.Yamazaki, 
+#+          H.Ikegami, K.Katori, S.I.Hayakawa
+#REF-CODE   (J,PR/C,32,830,85)
+#REFERENCE  Phys.Rev.C 32 (1985) 830 (doi:10.1103/PhysRevC.32.830)
+#DATASETS   0
+#
+#DATASET    O0115061 
+#DATE       19950605
+#REACTION   26-FE-54(P,INL)26-FE-54,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       26054
+#MF         4
+#MT         601
+#PRODUCT    26-FE-54
+#C4BEGIN    [ 1001 26054   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26054   4 601  C 6.5000+7          3.2400-5 9.7200-7 0.989016 1.0319-3 8117000.         LVLM.Fujiwara+          (85)O0115 61 
+ 1001 26054   4 601  C 6.5000+7          2.8400-5 8.5200-7 0.974370 1.5705-3 8117000.         LVLM.Fujiwara+          (85)O0115 61 
+ 1001 26054   4 601  C 6.5000+7          2.8300-5 8.4900-7 0.956814 2.0295-3 8117000.         LVLM.Fujiwara+          (85)O0115 61 
+ 1001 26054   4 601  C 6.5000+7          2.0800-5 6.2400-7 0.911403 2.8729-3 8117000.         LVLM.Fujiwara+          (85)O0115 61 
+ 1001 26054   4 601  C 6.5000+7          9.6100-6 2.8830-7 0.881303 3.2990-3 8117000.         LVLM.Fujiwara+          (85)O0115 61 
+ 1001 26054   4 601  C 6.5000+7          6.2200-6 1.8660-7 0.801776 4.1722-3 8117000.         LVLM.Fujiwara+          (85)O0115 61 
+#/DATA      6
+#/DATASET

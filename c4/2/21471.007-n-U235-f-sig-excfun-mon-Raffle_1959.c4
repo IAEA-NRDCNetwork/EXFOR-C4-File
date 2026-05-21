@@ -1,0 +1,30 @@
+#ENTRY      21471
+#AUTHOR1    J.F.Raffle+
+#YEAR       1959
+#INSTITUTE  (2UK HAR)
+#TITLE      Thermal neutron fission cross sections of several
+#+          isotopes
+#AUTHOR(S)  J.F.Raffle
+#REF-CODE   (R,AERE-R-2998,1959)
+#REFERENCE  Report AERE-R-2998, 1959
+#DATASETS   0
+#
+#DATASET    21471007 
+#DATE       20200930
+#REACTION   92-U-235(N,F),,SIG,,RTE
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18    0.019400          677.7525                                                J.F.Raffle           (59)21471  7 
+    1 92235   3  18    0.021400          648.7230                                                J.F.Raffle           (59)21471  7 
+    1 92235   3  18    0.023800          594.4028                                                J.F.Raffle           (59)21471  7 
+    1 92235   3  18    0.026600          545.6940                                                J.F.Raffle           (59)21471  7 
+    1 92235   3  18    0.030100          523.3624                                                J.F.Raffle           (59)21471  7 
+    1 92235   3  18    0.034100          487.3773                                                J.F.Raffle           (59)21471  7 
+#/DATA      6
+#/DATASET

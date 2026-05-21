@@ -1,0 +1,36 @@
+#ENTRY      C2358
+#AUTHOR1    Y.S.Horowitz+
+#YEAR       1969
+#INSTITUTE  (1CANMCG)
+#TITLE      Inelastic scattering of 100 MeV protons from Mg and
+#+          Si using a Ge(Li) total absorption proton counter
+#AUTHOR(S)  Y.S.Horowitz, N.K.Sherman, R.E.Bell
+#REF-CODE   (J,NP/A,134,577,1969)
+#REFERENCE  Nucl.Phys.A 134 (1969) 577 (doi:10.1016/0375-9474(69)90023-2)
+#DATASETS   0
+#
+#DATASET    C2358005 
+#DATE       20190206
+#REACTION   12-MG-24(P,INL)12-MG-24,PAR,DA
+#PROJ       1001
+#TARG       12024
+#MF         4
+#MT         601
+#PRODUCT    12-MG-24
+#C4BEGIN    [ 1001 12024   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12024   4 601  C 1.0000+8 350000.0 1.0640-3 2.5150-4 0.980686          9280000.         LVLY.S.Horowitz+        (69)C2358  5 
+ 1001 12024   4 601  C 1.0000+8 350000.0 7.1750-4 2.4360-4 0.968752          9280000.         LVLY.S.Horowitz+        (69)C2358  5 
+ 1001 12024   4 601  C 1.0000+8 350000.0 2.8210-4 1.2750-4 0.952815          9280000.         LVLY.S.Horowitz+        (69)C2358  5 
+ 1001 12024   4 601  C 1.0000+8 350000.0 2.0670-4 7.0180-5 0.927125          9280000.         LVLY.S.Horowitz+        (69)C2358  5 
+ 1001 12024   4 601  C 1.0000+8 350000.0 1.0000-4 3.3960-5 0.898756          9280000.         LVLY.S.Horowitz+        (69)C2358  5 
+ 1001 12024   4 601  C 1.0000+8 350000.0 1.8250-4 3.7230-5 0.864029          9280000.         LVLY.S.Horowitz+        (69)C2358  5 
+ 1001 12024   4 601  C 1.0000+8 350000.0 1.9020-4 3.5640-5 0.823473          9280000.         LVLY.S.Horowitz+        (69)C2358  5 
+ 1001 12024   4 601  C 1.0000+8 350000.0 2.0240-4 3.4470-5 0.781934          9280000.         LVLY.S.Horowitz+        (69)C2358  5 
+ 1001 12024   4 601  C 1.0000+8 350000.0 1.6800-4 3.7010-5 0.732555          9280000.         LVLY.S.Horowitz+        (69)C2358  5 
+ 1001 12024   4 601  C 1.0000+8 350000.0 1.4530-4 2.4740-5 0.683337          9280000.         LVLY.S.Horowitz+        (69)C2358  5 
+ 1001 12024   4 601  C 1.0000+8 350000.0 1.1560-4 1.9690-5 0.600992          9280000.         LVLY.S.Horowitz+        (69)C2358  5 
+#/DATA      11
+#/DATASET

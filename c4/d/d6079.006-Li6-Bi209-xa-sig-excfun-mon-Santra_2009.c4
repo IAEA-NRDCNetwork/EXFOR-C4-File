@@ -1,0 +1,27 @@
+#ENTRY      D6079
+#AUTHOR1    S.Santra+
+#YEAR       2009
+#INSTITUTE  (3INDTRM)
+#TITLE      Resonant breakup of 6Li by 209Bi
+#AUTHOR(S)  S.Santra, V.V.Parkar, K.Ramachandran, U.K.Pal, A.Shrivastava, 
+#+          B.J.Roy, B.K.Nayak, A.Chatterjee, R.K.Choudhury, S.Kailas
+#REF-CODE   (J,PL/B,677,139,2009)
+#REFERENCE  Phys.Lett.B 677 (2009) 139 (doi:10.1016/j.physletb.2009.05.016)
+#DATASETS   0
+#
+#DATASET    D6079006 
+#DATE       20091105
+#REACTION   83-BI-209(3-LI-6,X)2-HE-4,,SIG
+#PROJ       3006
+#TARG       83209
+#MF         3
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 3006 83209   3 207 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 83209   3 207 D  3.6000+7          0.493000 0.020000                                       S.Santra+            (09)D6079  6 
+ 3006 83209   3 207 D  4.0000+7          0.500000 0.025000                                       S.Santra+            (09)D6079  6 
+#/DATA      2
+#/DATASET

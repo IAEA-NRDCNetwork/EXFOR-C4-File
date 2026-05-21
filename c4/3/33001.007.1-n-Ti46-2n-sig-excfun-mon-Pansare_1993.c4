@@ -1,0 +1,28 @@
+#ENTRY      33001
+#AUTHOR1    G.R.Pansare+
+#YEAR       1993
+#INSTITUTE  (3INDPOO)
+#TITLE      Measurement of 79Br(n,2n)78Br, 63Cu(n,2n)62Cu,
+#+          58Ni(n,2n)57Ni, 54Fe(n,2n)53Fe, 50Cr(n,2n)49Cr,
+#+          46Ti(n,2n)45Ti reaction cross-sections at 14.7 MeV
+#+          neutron energy
+#AUTHOR(S)  G.R.Pansare, V.N.Bhoraskar
+#REF-CODE   (J,IMP/E,2,259,1993)
+#REFERENCE  Int.J.Mod.Phys.E 2 (1993) 259 (doi:10.1142/S021830139300008X)
+#DATASETS   0
+#
+#DATASET    330010071
+#DATE       20211216
+#REACTION   22-TI-46(N,2N)22-TI-45,,SIG
+#PROJ       1
+#TARG       22046
+#MF         3
+#MT         16
+#PRODUCT    22-TI-45
+#C4BEGIN    [    1 22046   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22046   3  16    1.4700+7          0.047000 2.0000-3                                       G.R.Pansare+         (93)33001  71
+#/DATA      1
+#/DATASET

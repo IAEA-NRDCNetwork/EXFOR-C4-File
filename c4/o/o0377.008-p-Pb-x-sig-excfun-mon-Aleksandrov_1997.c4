@@ -1,0 +1,28 @@
+#ENTRY      O0377
+#AUTHOR1    Yu.V.Aleksandrov+
+#YEAR       1997
+#INSTITUTE  (4RUSRI)
+#TITLE      Production cross section of some short-lived
+#+          radionuclides in thin lead target irradiated by 660.
+#+          MeV protons
+#AUTHOR(S)  Yu.V.Aleksandrov, S.K.Vasil'ev, R.B.Ivanov, M.A.Mikhaylova, 
+#+          V.P.Prikhodtseva, A.V.Saul'skij, V.G.Eismont
+#REF-CODE   (C,97OBNIN,,153,1997)
+#REFERENCE  Proceedings of Conf.Nucl.Spectrosc.Nucl.Struct., Obninsk 1997 page 153
+#DATASETS   0
+#
+#DATASET    O0377008 
+#DATE       20220107
+#REACTION   82-PB-0(P,X)82-PB-198,,SIG
+#PROJ       1001
+#TARG       82000
+#MF         3
+#MT         454
+#PRODUCT    82-PB-198
+#C4BEGIN    [ 1001 82000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82000   3 454    6.6000+8          0.022000                    82198.9                     Yu.V.Aleksandrov+    (97)O0377  8 
+#/DATA      1
+#/DATASET

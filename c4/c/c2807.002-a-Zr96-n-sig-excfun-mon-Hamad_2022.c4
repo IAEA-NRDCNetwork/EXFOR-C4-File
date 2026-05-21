@@ -1,0 +1,33 @@
+#ENTRY      C2807
+#AUTHOR1    G.Hamad+
+#YEAR       2022
+#INSTITUTE  (1USAOHO)
+#TITLE      Measurements of the 96Zr(alpha,n) 99Mo cross section
+#+          for astrophysics and applications
+#AUTHOR(S)  G.Hamad, K.Brandenburg, Z.Meisel, C.R.Brune, D.E.Carter, 
+#+          D.C.Ingram, Y.Jones-Alberty, T.N.Massey, M.Saxena, D.Soltesz, 
+#+          S.K.Subedi, A.V.Voinov
+#REF-CODE   (J,PR/C,106,025804,2022)
+#REFERENCE  Phys.Rev.C 106 (2022) 025804 (doi:10.1103/PhysRevC.106.025804)
+#DATASETS   0
+#
+#DATASET    C2807002 
+#DATE       20220920
+#REACTION   40-ZR-96(A,N)42-MO-99,,SIG
+#PROJ       2004
+#TARG       40096
+#MF         3
+#MT         4
+#PRODUCT    42-MO-99
+#C4BEGIN    [ 2004 40096   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 40096   3   4    7850000. 34000.00 6.7100-5 9.1000-6                                       G.Hamad+             (22)C2807  2 
+ 2004 40096   3   4    8860000. 34000.00 7.3400-4 9.9000-5                                       G.Hamad+             (22)C2807  2 
+ 2004 40096   3   4    9870000. 34000.00 6.4500-3 8.8000-4                                       G.Hamad+             (22)C2807  2 
+ 2004 40096   3   4    1.0880+7 34000.00 0.038800 5.3000-3                                       G.Hamad+             (22)C2807  2 
+ 2004 40096   3   4    1.1880+7 34000.00 0.094200 0.012800                                       G.Hamad+             (22)C2807  2 
+ 2004 40096   3   4    1.2890+7 36000.00 0.142000 0.019000                                       G.Hamad+             (22)C2807  2 
+#/DATA      6
+#/DATASET

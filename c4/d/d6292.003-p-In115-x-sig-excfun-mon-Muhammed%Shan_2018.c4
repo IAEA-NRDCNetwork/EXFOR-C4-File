@@ -1,0 +1,31 @@
+#ENTRY      D6292
+#AUTHOR1    P.T.Muhammed Shan+
+#YEAR       2018
+#INSTITUTE  (3INDCCT)
+#TITLE      Measurement of excitation functions and analysis of
+#+          isomeric population in some reactions induced by
+#+          proton on natural indium at low energy
+#AUTHOR(S)  P.T.Muhammed Shan, M.M.Musthafa, T.Najmunnisa, P.Mohamed Aslam, 
+#+          K.K.Rajesh, K.Hajara, P.Surendran, J.P.Nair, Anil Shanbagh, 
+#+          S.Ghugre
+#REF-CODE   (J,NP/A,974,9,2018)
+#REFERENCE  Nucl.Phys.A 974 (2018) 9 (doi:10.1016/j.nuclphysa.2018.03.005)
+#DATASETS   0
+#
+#DATASET    D6292003 
+#DATE       20180410
+#REACTION   49-IN-115(P,X)49-IN-114-M,,SIG
+#PROJ       1001
+#TARG       49115
+#MF         3
+#MT         454
+#PRODUCT    49-IN-114-M
+#C4BEGIN    [ 1001 49115   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 49115   3 454 A  1.2680+7 400000.0 1.2000-3 2.0000-4           49114.7                     P.T.Muhammed Shan+   (18)D6292  3 
+ 1001 49115   3 454 A  1.7680+7 370000.0 0.043800 4.6000-3           49114.7                     P.T.Muhammed Shan+   (18)D6292  3 
+ 1001 49115   3 454 A  2.1820+7 230000.0 0.085900 7.7000-3           49114.7                     P.T.Muhammed Shan+   (18)D6292  3 
+#/DATA      3
+#/DATASET

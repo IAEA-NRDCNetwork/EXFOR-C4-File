@@ -1,0 +1,26 @@
+#ENTRY      21521
+#AUTHOR1    J.A.Phillips+
+#YEAR       1956
+#INSTITUTE  (2UK HAR)
+#TITLE      -The N,2N cross section of U-238 and Th-232 for 14 MeV
+#+          neutrons -.
+#AUTHOR(S)  J.A.Phillips
+#REF-CODE   (R,AERE-NP/R-2033,195609)
+#REFERENCE  Report AERE-NP/R-2033, 1956
+#DATASETS   0
+#
+#DATASET    21521002 
+#DATE       20090315
+#REACTION   90-TH-232(N,2N)90-TH-231,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         16
+#PRODUCT    90-TH-231
+#C4BEGIN    [    1 90232   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3  16    1.5000+7 100000.0 1.100000 0.100000                                       J.A.Phillips         (56)21521  2 
+#/DATA      1
+#/DATASET

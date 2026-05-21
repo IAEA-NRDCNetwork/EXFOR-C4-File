@@ -1,0 +1,55 @@
+#ENTRY      O1879
+#AUTHOR1    M.Lewitowicz+
+#YEAR       1993
+#INSTITUTE  (2FR GAN)
+#TITLE      Elastic scattering of a secondary Li-11 beam on Si-28
+#+          at 29 MeV/nucleon.
+#AUTHOR(S)  M.Lewitowicz, C.Borcea, F.Carstoiu, M.G.Saint-Laurent, A.Kordyasz, 
+#+          R.Anne, P.Roussel-Chomaz, R.Bimbot, V.Barrel, S.Dogny, D.Guillemaud-Mueller, 
+#+          A.C.Mueller, F.Pougheon, F.A.Gareev, S.N.Ershov, S.Lukyanov, 
+#+          Yu.Penionzhkevich, N.Skobelev, S.Tretyakova, Z.Diouhy, L.Nosek, 
+#+          J.Svanda
+#REF-CODE   (J,NP/A,562,301,1993)
+#REFERENCE  Nucl.Phys.A 562 (1993) 301 (doi:10.1016/0375-9474(93)90201-8)
+#DATASETS   0
+#
+#DATASET    O1879005 
+#DATE       20110112
+#REACTION   14-SI-28(3-LI-11,EL)14-SI-28,,DA,,RTH
+#PROJ       3011
+#TARG       14028
+#MF         4
+#MT         2
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 3011 14028   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3011 14028   4   2  C 3.1900+8          9.404481 0.846403 0.997743                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          9.151970 0.915197 0.996848                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          6.739107 0.673911 0.995709                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          4.000777 0.400078 0.994430                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          1.748287 0.227277 0.993292                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          2.055191 0.205519 0.991649                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          1.747369 0.139790 0.990048                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          1.082696 0.119097 0.988494                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.471031 0.065944 0.986515                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.632319 0.075878 0.984227                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.397837 0.063654 0.982090                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.274723 0.046703 0.979820                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.222044 0.048850 0.977379                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.167538 0.038534 0.974566                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.097306 0.027246 0.972207                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.155722 0.035816 0.968929                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.108688 0.028259 0.965971                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.074971 0.022491 0.962597                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.117291 0.046916 0.959511                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.071724 0.035862 0.955844                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.030924 0.024739 0.952449                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.032800 0.019680 0.948379                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.015638 0.015638 0.945063                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.029710 0.020797 0.940585                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.013051 0.013051 0.936611                              M.Lewitowicz+        (93)O1879  5 
+ 3011 14028   4   2  C 3.1900+8          0.015295 0.015295 0.932387                              M.Lewitowicz+        (93)O1879  5 
+#/DATA      26
+#/DATASET

@@ -1,0 +1,71 @@
+#ENTRY      21678
+#AUTHOR1    A.Bertin+
+#YEAR       1969
+#INSTITUTE  (2FR VNV)
+#TITLE      -CROSS SECTIONS FOR GAMMA-RAY PRODUCTION BY NEUTRONS
+#+          OF 5 MEV, 6.6 MEV, AND 8.7 MEV ON CARBON, ALUMINIUM,
+#+          IRON AND BISMUTH -.
+#AUTHOR(S)  A.Bertin, F.Bertrand, G.Clayeux, M.Gautier, G.Nierat
+#REF-CODE   (R,CEA-R-3808,,6907)
+#REFERENCE  Report CEA-R-3808 page , 1969
+#DATASETS   0
+#
+#DATASET    21678003 
+#DATE       19810611
+#REACTION   13-AL-27(N,INL)13-AL-27,PAR,DA,G
+#PROJ       1
+#TARG       13027
+#MF         14
+#MT         51
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027  14  51    5000000.          7.1000-3 1.6000-3 6.123-17          842000.0            A.Bertin+            (69)21678  3 
+    1 13027  14  51    5000000.          0.016300 3.6000-3 6.123-17          1013000.            A.Bertin+            (69)21678  3 
+    1 13027  14  51    5000000.          0.010500 2.3000-3 6.123-17          1720000.            A.Bertin+            (69)21678  3 
+    1 13027  14  51    5000000.          0.019700 5.1000-3 6.123-17          2210000.            A.Bertin+            (69)21678  3 
+    1 13027  14  51    5000000.          0.013300 3.5000-3 6.123-17          3000000.            A.Bertin+            (69)21678  3 
+#/DATA      5
+#/DATASET
+#
+#DATASET    21678003 
+#DATE       19810611
+#REACTION   13-AL-27(N,INL)13-AL-27,PAR,DA,G
+#PROJ       1
+#TARG       13027
+#MF         14
+#MT         51
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027  14  51    6600000.          6.2000-3 1.4000-3 6.123-17          842000.0            A.Bertin+            (69)21678  3 
+    1 13027  14  51    6600000.          0.017500 3.8000-3 6.123-17          1013000.            A.Bertin+            (69)21678  3 
+    1 13027  14  51    6600000.          0.013200 2.9000-3 6.123-17          1720000.            A.Bertin+            (69)21678  3 
+    1 13027  14  51    6600000.          0.018100 4.7000-3 6.123-17          2210000.            A.Bertin+            (69)21678  3 
+    1 13027  14  51    6600000.          0.011900 3.1000-3 6.123-17          3000000.            A.Bertin+            (69)21678  3 
+#/DATA      5
+#/DATASET
+#
+#DATASET    21678003 
+#DATE       19810611
+#REACTION   13-AL-27(N,INL)13-AL-27,PAR,DA,G
+#PROJ       1
+#TARG       13027
+#MF         14
+#MT         51
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027  14  51    8700000.          4.2000-3 9.0000-4 6.123-17          842000.0            A.Bertin+            (69)21678  3 
+    1 13027  14  51    8700000.          0.013600 3.0000-3 6.123-17          1013000.            A.Bertin+            (69)21678  3 
+    1 13027  14  51    8700000.          8.9000-3 2.0000-3 6.123-17          1720000.            A.Bertin+            (69)21678  3 
+    1 13027  14  51    8700000.          0.017700 4.6000-3 6.123-17          2210000.            A.Bertin+            (69)21678  3 
+    1 13027  14  51    8700000.          0.010400 2.7000-3 6.123-17          3000000.            A.Bertin+            (69)21678  3 
+#/DATA      5
+#/DATASET

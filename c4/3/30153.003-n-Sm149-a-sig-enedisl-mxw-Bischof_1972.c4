@@ -1,0 +1,26 @@
+#ENTRY      30153
+#AUTHOR1    J.Bischof+
+#YEAR       1972
+#INSTITUTE  (3CZRUJF)
+#TITLE      Cross sections for 7 alpha transitions from Sm-149(n,a)
+#+          at thermal energy
+#AUTHOR(S)  J.Bischof, Z.Dlouhy, J.Kvitek, Yu.P.Popov
+#REF-CODE   (J,CZJ/B,22,9,197201)
+#REFERENCE  Czechslov.J.Phys.B 22 (1972) 9 (doi:10.1007/BF01690941)
+#DATASETS   0
+#
+#DATASET    30153003 
+#DATE       20080208
+#REACTION   62-SM-149(N,A)60-ND-146,PAR,SIG,,MXW
+#PROJ       1
+#TARG       62149
+#MF         3
+#MT         800
+#PRODUCT    60-ND-146
+#C4BEGIN    [    1 62149   3 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 62149   3 800 A  0.025300          0.038700 4.0000-4                   8734000.          E2J.Bischof+           (72)30153  3 
+#/DATA      1
+#/DATASET

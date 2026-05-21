@@ -1,0 +1,29 @@
+#ENTRY      E2654
+#AUTHOR1    M.Saito+
+#YEAR       2020
+#INSTITUTE  (2JPNHOK)
+#TITLE      Production cross sections of 169Yb by the
+#+          proton-induced reaction on 169Tm
+#AUTHOR(S)  M.Saito, M.Aikawa, T.Murata, Y.Komori, H.Haba, S.Takacs, 
+#+          F.Ditroi, Z.Szucs
+#REF-CODE   (J,NIM/B,471,13,2020)
+#REFERENCE  Nucl.Instrum.Meth.B 471 (2020) 13 (doi:10.1016/j.nimb.2020.03.019)
+#DATASETS   0
+#
+#DATASET    E2654004 
+#DATE       20200811
+#REACTION   69-TM-169(P,X)69-TM-167,,SIG
+#PROJ       1001
+#TARG       69169
+#MF         3
+#MT         454
+#PRODUCT    69-TM-167
+#C4BEGIN    [ 1001 69169   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 69169   3 454    1.7500+7 300000.0 2.0500-3 5.8000-4           69167.9                     M.Saito+             (20)E2654  4 
+ 1001 69169   3 454    1.6800+7 300000.0 1.4700-3 5.1000-4           69167.9                     M.Saito+             (20)E2654  4 
+ 1001 69169   3 454    1.6200+7 400000.0 1.2300-3 5.8000-4           69167.9                     M.Saito+             (20)E2654  4 
+#/DATA      3
+#/DATASET

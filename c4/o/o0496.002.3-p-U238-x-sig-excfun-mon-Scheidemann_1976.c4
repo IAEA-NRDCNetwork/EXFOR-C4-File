@@ -1,0 +1,34 @@
+#ENTRY      O0496
+#AUTHOR1    O.Scheidemann+
+#YEAR       1976
+#INSTITUTE  (1USAPUR)
+#TITLE      Production of Sc nuclides in the interaction of U-238
+#+          with 1-300 GeV protons
+#AUTHOR(S)  O.Scheidemann, N.T.Porile
+#REF-CODE   (J,PR/C,14,1534,1976)
+#REFERENCE  Phys.Rev.C 14 (1976) 1534 (doi:10.1103/PhysRevC.14.1534)
+#DATASETS   0
+#
+#DATASET    O04960023
+#DATE       20170418
+#REACTION   92-U-238(P,X)21-SC-47,IND,SIG
+#PROJ       1001
+#TARG       92238
+#MF         3
+#MT         454
+#PRODUCT    21-SC-47
+#C4BEGIN    [ 1001 92238   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92238   3 454    1.0000+9          8.8500-4 5.4000-5           21047.9                     O.Scheidemann+       (76)O0496  23
+ 1001 92238   3 454    2.0000+9          2.2800-3 1.2000-4           21047.9                     O.Scheidemann+       (76)O0496  23
+ 1001 92238   3 454    2.1500+9          2.9500-3 1.6000-4           21047.9                     O.Scheidemann+       (76)O0496  23
+ 1001 92238   3 454    3.0000+9          3.4500-3 2.0000-4           21047.9                     O.Scheidemann+       (76)O0496  23
+ 1001 92238   3 454    4.0000+9          4.2100-3 2.7000-4           21047.9                     O.Scheidemann+       (76)O0496  23
+ 1001 92238   3 454    6.0000+9          5.0900-3 4.2000-4           21047.9                     O.Scheidemann+       (76)O0496  23
+ 1001 92238   3 454    1.150+10          6.9100-3 4.7000-4           21047.9                     O.Scheidemann+       (76)O0496  23
+ 1001 92238   3 454    2.850+10          6.0600-3 3.1000-4           21047.9                     O.Scheidemann+       (76)O0496  23
+ 1001 92238   3 454    3.000+11          6.1600-3 3.1000-4           21047.9                     O.Scheidemann+       (76)O0496  23
+#/DATA      9
+#/DATASET

@@ -1,0 +1,43 @@
+#ENTRY      40571
+#AUTHOR1    E.F.Fomushkin+
+#YEAR       1980
+#INSTITUTE  (4RUSKUR)
+#TITLE      Cross section for fission of 244Cm and 246Cm by
+#+          neutrons in the near-threshold energy region
+#AUTHOR(S)  E.F.Fomushkin, G.F.Novoselov, Yu.I.Vinogradov, V.V.Gavrilov, 
+#+          V.A.Zherebtsov
+#REF-CODE   (J,YF,31,39,1980)
+#REFERENCE  Yad.Fiz. 31 (1980) 39
+#DATASETS   0
+#
+#DATASET    40571003 
+#DATE       20180207
+#REACTION   96-CM-246(N,F),,SIG
+#PROJ       1
+#TARG       96246
+#MF         3
+#MT         18
+#C4BEGIN    [    1 96246   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 96246   3  18    300000.0          0.100000 0.057000                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    400000.0          0.150000 0.049500                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    500000.0          0.090000 0.034200                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    600000.0          0.140000 0.036400                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    700000.0          0.360000 0.043200                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    800000.0          0.660000 0.052800                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    900000.0          0.950000 0.057000                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    1000000.          1.210000 0.060500                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    1200000.          1.590000 0.063600                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    1400000.          1.720000 0.068800                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    1600000.          1.650000 0.066000                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    1800000.          1.540000 0.061600                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    2000000.          1.510000 0.060400                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    2500000.          1.670000 0.066800                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    3000000.          1.710000 0.068400                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    3500000.          1.590000 0.063600                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    4000000.          1.450000 0.072500                                       E.F.Fomushkin+       (80)40571  3 
+    1 96246   3  18    4500000.          1.400000 0.098000                                       E.F.Fomushkin+       (80)40571  3 
+#/DATA      18
+#/DATASET

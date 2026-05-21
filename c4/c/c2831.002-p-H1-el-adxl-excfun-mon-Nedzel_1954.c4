@@ -1,0 +1,28 @@
+#ENTRY      C2831
+#AUTHOR1    V.A.Nedzel+
+#YEAR       1954
+#INSTITUTE  (1USACHI)
+#TITLE      P-P Differential Elastic Scattering Cross Sections at
+#+          144, 271, and 429 Mev
+#AUTHOR(S)  V.A.Nedzel, J.Marshall, L.Marshall
+#REF-CODE   (J,PR,93,927(M1),1954)
+#REFERENCE  Phys.Rev. 93 (1954) 927(M1)
+#DATASETS   0
+#
+#DATASET    C2831002 
+#DATE       20221004
+#REACTION   1-H-1(P,EL)1-H-1,,DA
+#PROJ       1001
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1001   4   2    1.4400+8          3.2100-3 1.1000-4 6.123-17                              V.A.Nedzel+          (54)C2831  2 
+ 1001  1001   4   2    2.7100+8          3.6700-3 3.4000-4 6.123-17                              V.A.Nedzel+          (54)C2831  2 
+ 1001  1001   4   2    4.2900+8          3.4200-3 1.3000-4 6.123-17                              V.A.Nedzel+          (54)C2831  2 
+#/DATA      3
+#/DATASET

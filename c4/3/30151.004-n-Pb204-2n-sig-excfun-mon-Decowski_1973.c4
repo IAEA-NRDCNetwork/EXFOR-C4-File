@@ -1,0 +1,36 @@
+#ENTRY      30151
+#AUTHOR1    P.Decowski+
+#YEAR       1973
+#INSTITUTE  (3POLIBJ)
+#TITLE      Cross sections for the In-113(n,n')In-113-m,
+#+          Pb-204(n,n')Pb-204-m,Pb-204(n,2n)Pb-203 reactions in
+#+          the neutron energy range 13-18 MeV
+#AUTHOR(S)  P.Decowski, W.Grochulski, A.Marcinkowski, J.Karolyi, J.Piotrowski, 
+#+          E.Saad, K.Siwek-Wilczynska, I.M.Turkiewicz, Z.Wilhelmi
+#REF-CODE   (J,NP/A,204,121,197304)
+#REFERENCE  Nucl.Phys.A 204 (1973) 121 (doi:10.1016/0375-9474(73)90010-9)
+#DATASETS   0
+#
+#DATASET    30151004 
+#DATE       20080208
+#REACTION   82-PB-204(N,2N)82-PB-203,,SIG
+#PROJ       1
+#TARG       82204
+#MF         3
+#MT         16
+#PRODUCT    82-PB-203
+#C4BEGIN    [    1 82204   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82204   3  16 A  1.2980+7 150000.0 1.966000 0.242000                                       P.Decowski+          (73)30151  4 
+    1 82204   3  16 A  1.3560+7 130000.0 1.963000 0.237000                                       P.Decowski+          (73)30151  4 
+    1 82204   3  16 A  1.4180+7 150000.0 1.856000 0.224000                                       P.Decowski+          (73)30151  4 
+    1 82204   3  16 A  1.5030+7 200000.0 1.830000 0.220000                                       P.Decowski+          (73)30151  4 
+    1 82204   3  16 A  1.5410+7 270000.0 1.759000 0.211000                                       P.Decowski+          (73)30151  4 
+    1 82204   3  16 A  1.5980+7 190000.0 1.874000 0.244000                                       P.Decowski+          (73)30151  4 
+    1 82204   3  16 A  1.6590+7 90000.00 1.998000 0.246000                                       P.Decowski+          (73)30151  4 
+    1 82204   3  16 A  1.7370+7 240000.0 2.010000 0.262000                                       P.Decowski+          (73)30151  4 
+    1 82204   3  16 A  1.7830+7 130000.0 1.896000 0.236000                                       P.Decowski+          (73)30151  4 
+#/DATA      9
+#/DATASET

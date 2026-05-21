@@ -1,0 +1,33 @@
+#ENTRY      C2882
+#AUTHOR1    W.M.Gibson+
+#YEAR       1956
+#INSTITUTE  (1USADAV)
+#TITLE      Fission and spallation competition from the
+#+          intermediate nuclei americium-241 and neptunium-235
+#AUTHOR(S)  W.M.Gibson
+#REF-CODE   (R,UCRL-3493,1956)
+#REFERENCE  Report UCRL-3493, 1956
+#DATASETS   0
+#
+#DATASET    C2882012 
+#DATE       20230112
+#REACTION   94-PU-239(D,F)48-CD-115-G,,SIG
+#PROJ       1002
+#TARG       94239
+#MF         3
+#MT         454
+#PRODUCT    48-CD-115-G
+#C4BEGIN    [ 1002 94239   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 94239   3 454    9200000. 500000.0 3.9000-4                    48115.0                     W.M.Gibson           (56)C2882 12 
+ 1002 94239   3 454    1.2300+7 500000.0 6.6400-3                    48115.0                     W.M.Gibson           (56)C2882 12 
+ 1002 94239   3 454    1.5000+7 500000.0 0.018700                    48115.0                     W.M.Gibson           (56)C2882 12 
+ 1002 94239   3 454    1.6100+7 500000.0 0.021200                    48115.0                     W.M.Gibson           (56)C2882 12 
+ 1002 94239   3 454    1.7900+7 500000.0 0.026900                    48115.0                     W.M.Gibson           (56)C2882 12 
+ 1002 94239   3 454    2.0200+7 500000.0 0.040000                    48115.0                     W.M.Gibson           (56)C2882 12 
+ 1002 94239   3 454    2.0600+7 500000.0 0.043200                    48115.0                     W.M.Gibson           (56)C2882 12 
+ 1002 94239   3 454    2.3400+7 500000.0 0.055000                    48115.0                     W.M.Gibson           (56)C2882 12 
+#/DATA      8
+#/DATASET

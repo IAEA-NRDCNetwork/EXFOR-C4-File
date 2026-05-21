@@ -1,0 +1,35 @@
+#ENTRY      22421
+#AUTHOR1    Eun Joo Kim+
+#YEAR       1999
+#INSTITUTE  (2JPNTOH)
+#TITLE      Measurements of activation cross sections on
+#+          spallation reactions for 59Co and nat-Cu at incident
+#+          neutron energies of 40 to 120 MeV
+#AUTHOR(S)  Eun Joo Kim, T.Nakamura, Y.Uwamino, N.Nakanishi, M.Imamura, 
+#+          N.Nakao, S.Shibata, S.Tanaka
+#REF-CODE   (J,NST,36,(1),29,1999)
+#REFERENCE  J.Nucl.Sci.Technol. 36 No.1 (1999) 29 (doi:10.1080/18811248.1999.9726179)
+#DATASETS   0
+#
+#DATASET    22421010 
+#DATE       20171108
+#REACTION   29-CU-0(N,X)25-MN-56,,SIG,,SPA
+#PROJ       1
+#TARG       29000
+#MF         3
+#MT         454
+#PRODUCT    25-MN-56
+#C4BEGIN    [    1 29000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   3 454    5.5000+7 1450000. 5.7210-4 8.1530-5           25056.9                     Eun Joo Kim+         (99)22421 10 
+    1 29000   3 454    5.5000+7 1450000. 5.0090-4 1.2040-4           25056.9                     Eun Joo Kim+         (99)22421 10 
+    1 29000   3 454    6.1000+7 1300000. 1.7620-3 4.3850-4           25056.9                     Eun Joo Kim+         (99)22421 10 
+    1 29000   3 454    7.5000+7 1700000. 4.1740-3 1.2100-3           25056.9                     Eun Joo Kim+         (99)22421 10 
+    1 29000   3 454    8.6000+7 1400000. 6.3800-3 1.3310-3           25056.9                     Eun Joo Kim+         (99)22421 10 
+    1 29000   3 454    9.7000+7 1600000. 6.0860-3 1.2620-3           25056.9                     Eun Joo Kim+         (99)22421 10 
+    1 29000   3 454    1.0700+8 1450000. 6.3890-3 1.3310-3           25056.9                     Eun Joo Kim+         (99)22421 10 
+    1 29000   3 454    1.1700+8 1400000. 6.4290-3 1.5170-3           25056.9                     Eun Joo Kim+         (99)22421 10 
+#/DATA      8
+#/DATASET

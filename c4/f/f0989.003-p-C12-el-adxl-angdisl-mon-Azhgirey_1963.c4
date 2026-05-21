@@ -1,0 +1,38 @@
+#ENTRY      F0989
+#AUTHOR1    L.S.Azhgirey+
+#YEAR       1963
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Small-angle elastic scattering of protons on carbon
+#+          nuclei at 660 MeV.
+#AUTHOR(S)  L.S.Azhgirey, Yu.P.Kumekin, M.G.Mescheryakov, S.B.Nurushev, 
+#+          G.D.Stoletov, H.De-Tsang
+#REF-CODE   (J,NP,43,213,1963)
+#REFERENCE  Nucl.Phys. 43 (1963) 213 (doi:10.1016/0029-5582(63)90342-0)
+#DATASETS   0
+#
+#DATASET    F0989003 
+#DATE       20200109
+#REACTION   6-C-12(P,EL)6-C-12,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4   2    6.6000+8          6.160700 0.137900 0.999511 1.6364-4                     L.S.Azhgirey+        (63)F0989  3 
+ 1001  6012   4   2    6.6000+8          4.907800 0.126400 0.999415 1.7908-4                     L.S.Azhgirey+        (63)F0989  3 
+ 1001  6012   4   2    6.6000+8          4.080200 0.069000 0.999250 2.0273-4                     L.S.Azhgirey+        (63)F0989  3 
+ 1001  6012   4   2    6.6000+8          3.367600 0.046000 0.999056 2.2748-4                     L.S.Azhgirey+        (63)F0989  3 
+ 1001  6012   4   2    6.6000+8          2.976800 0.034500 0.998849 2.5112-4                     L.S.Azhgirey+        (63)F0989  3 
+ 1001  6012   4   2    6.6000+8          2.746900 0.034500 0.998642 2.7275-4                     L.S.Azhgirey+        (63)F0989  3 
+ 1001  6012   4   2    6.6000+8          2.218100 0.057500 0.997751 3.5093-4                     L.S.Azhgirey+        (63)F0989  3 
+ 1001  6012   4   2    6.6000+8          1.597300 0.046000 0.996356 4.4660-4                     L.S.Azhgirey+        (63)F0989  3 
+ 1001  6012   4   2    6.6000+8          1.148900 0.057500 0.994749 5.3586-4                     L.S.Azhgirey+        (63)F0989  3 
+ 1001  6012   4   2    6.6000+8          0.792500          0.992757 6.2904-4                     L.S.Azhgirey+        (63)F0989  3 
+ 1001  6012   4   2    6.6000+8          0.516600          0.990634 7.1495-4                     L.S.Azhgirey+        (63)F0989  3 
+ 1001  6012   4   2    6.6000+8          0.298100          0.987754 8.1692-4                     L.S.Azhgirey+        (63)F0989  3 
+#/DATA      12
+#/DATASET

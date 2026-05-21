@@ -1,0 +1,31 @@
+#ENTRY      32534
+#AUTHOR1    Xiang Zhengyu+
+#YEAR       1990
+#INSTITUTE  (3CPRSIU)
+#TITLE      Fast neutron capture cross sections
+#+          of rare-earth nuclei erbium
+#AUTHOR(S)  Xiang Zhengyu, Xu Haishan, Li Yexiang, Mu Yunshan, Wang Shiming, 
+#+          Liu Jianfeng
+#REF-CODE   (J,JSIU,27,(3),372,199008)
+#REFERENCE  J.Sichuan U.Nat.Sci. 27 No.3 (1990) 372
+#DATASETS   0
+#
+#DATASET    32534002 
+#DATE       20090822
+#REACTION   68-ER-0(N,G),,SIG
+#PROJ       1
+#TARG       68000
+#MF         3
+#MT         102
+#C4BEGIN    [    1 68000   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 68000   3 102    340000.0          0.210400 0.027000                                       Xiang Zhengyu+       (90)32534  2 
+    1 68000   3 102    780000.0          0.114800 0.012000                                       Xiang Zhengyu+       (90)32534  2 
+    1 68000   3 102    1020000.          0.120000 0.012000                                       Xiang Zhengyu+       (90)32534  2 
+    1 68000   3 102    1190000.          0.101100 0.010000                                       Xiang Zhengyu+       (90)32534  2 
+    1 68000   3 102    1430000.          0.098400 0.010000                                       Xiang Zhengyu+       (90)32534  2 
+    1 68000   3 102    1690000.          0.085300 9.0000-3                                       Xiang Zhengyu+       (90)32534  2 
+#/DATA      6
+#/DATASET

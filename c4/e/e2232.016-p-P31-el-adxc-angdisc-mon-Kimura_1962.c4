@@ -1,0 +1,41 @@
+#ENTRY      E2232
+#AUTHOR1    K.Kimura+
+#YEAR       1962
+#INSTITUTE  (2JPNKTO)
+#TITLE      Elastic Scattering of Protons from 11B, Al, P, Co and
+#+          Cu from 6 to 7.4 MeV
+#AUTHOR(S)  K.Kimura, Y.Uemura, R.Ishiwari, J.Kokame, K.Fukunaga, A.Katase, 
+#+          J.Muto, I.Kumabe, H.Ogata, T.Ohama, Y.Ohmori
+#REF-CODE   (J,JPJ,17,(1),9,196208)
+#REFERENCE  J.Phys.Soc.Jpn. 17 No.1 (1962) 9 (doi:10.1143/JPSJ.17.9)
+#DATASETS   0
+#
+#DATASET    E2232016 
+#DATE       20111008
+#REACTION   15-P-31(P,EL)15-P-31,,DA,,RTH
+#PROJ       1001
+#TARG       15031
+#MF         4
+#MT         2
+#PRODUCT    15-P-31
+#C4BEGIN    [ 1001 15031   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 15031   4   2  C 7310000.          0.989310          0.903111                              K.Kimura+            (62)E2232 16 
+ 1001 15031   4   2  C 7310000.          0.415211          0.827669                              K.Kimura+            (62)E2232 16 
+ 1001 15031   4   2  C 7310000.          0.231637          0.751034                              K.Kimura+            (62)E2232 16 
+ 1001 15031   4   2  C 7310000.          0.151326          0.627691                              K.Kimura+            (62)E2232 16 
+ 1001 15031   4   2  C 7310000.          0.096186          0.479458                              K.Kimura+            (62)E2232 16 
+ 1001 15031   4   2  C 7310000.          0.056148          0.312335                              K.Kimura+            (62)E2232 16 
+ 1001 15031   4   2  C 7310000.          0.035378          0.142456                              K.Kimura+            (62)E2232 16 
+ 1001 15031   4   2  C 7310000.          0.018159         -0.031760                              K.Kimura+            (62)E2232 16 
+ 1001 15031   4   2  C 7310000.          0.011609         -0.201078                              K.Kimura+            (62)E2232 16 
+ 1001 15031   4   2  C 7310000.          8.7432-3         -0.361625                              K.Kimura+            (62)E2232 16 
+ 1001 15031   4   2  C 7310000.          9.6852-3         -0.518027                              K.Kimura+            (62)E2232 16 
+ 1001 15031   4   2  C 7310000.          0.015165         -0.658689                              K.Kimura+            (62)E2232 16 
+ 1001 15031   4   2  C 7310000.          0.025409         -0.774944                              K.Kimura+            (62)E2232 16 
+ 1001 15031   4   2  C 7310000.          0.039389         -0.873772                              K.Kimura+            (62)E2232 16 
+ 1001 15031   4   2  C 7310000.          0.054536         -0.947210                              K.Kimura+            (62)E2232 16 
+#/DATA      15
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      21891
+#AUTHOR1    D.Antonini+
+#YEAR       1978
+#INSTITUTE  (2ITYCAS)
+#TITLE      Measurement of neutron activation cross
+#+          sections by generalized intermittent radiation
+#AUTHOR(S)  D.Antonini, P.Moioli, E.Pedretti, R.Scafe, A.Visentin
+#REF-CODE   (J,NIM,151,567,1978)
+#REFERENCE  Nucl.Intrum.Meth. 151 (1978) 567 (doi:10.1016/0029-554X(78)90171-4)
+#DATASETS   0
+#
+#DATASET    21891002 
+#DATE       20230208
+#REACTION   79-AU-197(N,G)79-AU-198,,SIG,,MXW
+#PROJ       1
+#TARG       79197
+#MF         3
+#MT         102
+#PRODUCT    79-AU-198
+#C4BEGIN    [    1 79197   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   3 102    0.025300          93.70000 6.700000                                       D.Antonini+          (78)21891  2 
+    1 79197   3 102    0.025300          98.90000 7.300000                                       D.Antonini+          (78)21891  2 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      20396
+#AUTHOR1    A.Paulsen+
+#YEAR       1971
+#INSTITUTE  (2ZZZGEL)
+#TITLE      -NI-58(N,P)CO-58 AND FE-54(N,P)MN-54 CROSS-SECTION
+#+          MEASUREMENTS FOR USE AS THRESHOLD DETECTORS.-
+#AUTHOR(S)  A.Paulsen, R.Widera
+#REF-CODE   (C,71CANT,129,7109)
+#REFERENCE  Proceedings of Chemical Nucl. Data Conf.,Canterbury 1971
+#DATASETS   0
+#
+#DATASET    20396002 
+#DATE       19861022
+#REACTION   26-FE-54(N,P)25-MN-54,,SIG
+#PROJ       1
+#TARG       26054
+#MF         3
+#MT         103
+#PRODUCT    25-MN-54
+#C4BEGIN    [    1 26054   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26054   3 103    1710000. 120000.0 5.9000-3 6.0000-4                                       A.Paulsen+           (71)20396  2 
+    1 26054   3 103    2210000. 110000.0 0.037200 2.8000-3                                       A.Paulsen+           (71)20396  2 
+    1 26054   3 103    4140000. 170000.0 0.262000 0.017000                                       A.Paulsen+           (71)20396  2 
+    1 26054   3 103    5240000. 230000.0 0.391000 0.025000                                       A.Paulsen+           (71)20396  2 
+    1 26054   3 103    6270000. 170000.0 0.441000 0.029000                                       A.Paulsen+           (71)20396  2 
+#/DATA      5
+#/DATASET

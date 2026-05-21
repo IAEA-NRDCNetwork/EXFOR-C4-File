@@ -1,0 +1,27 @@
+#ENTRY      A1456
+#AUTHOR1    F.Mozer+
+#YEAR       1954
+#INSTITUTE  (1USACAL)
+#TITLE      Inelastic scattering of protons by 7Li
+#AUTHOR(S)  F.Mozer, W.A.Fowler, C.C.Lauritsen
+#REF-CODE   (J,PR,93,829,1954)
+#REFERENCE  Phys.Rev. 93 (1954) 829 (doi:10.1103/PhysRev.93.829)
+#DATASETS   0
+#
+#DATASET    A1456005 
+#DATE       20250928
+#REACTION   3-LI-7(P,INL)3-LI-7,PAR,DA
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         601
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1001  3007   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4 601    1050000.          3.3100-3 2.4000-4 6.123-17          480000.0         LVLF.Mozer+             (54)A1456  5 
+ 1001  3007   4 601    1140000.          2.5100-3 1.8000-4 6.123-17          480000.0         LVLF.Mozer+             (54)A1456  5 
+ 1001  3007   4 601    1240000.          2.2500-3 1.6000-4 6.123-17          480000.0         LVLF.Mozer+             (54)A1456  5 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      O1984
+#AUTHOR1    M.Carmona-Gallardo+
+#YEAR       2012
+#INSTITUTE  (2SPNSPN)
+#TITLE      Astrophysical S factor for the He-4(He3,g)Be-7 reaction
+#+          at medium energies.
+#AUTHOR(S)  M.Carmona-Gallardo, B.S.Nara Singh, O.Tengblad, M.Hass, 
+#+          M.Alcorta, M.J.G.Borge, J.A.Briz, C.Cruz, M.Cubero, R.Dominguez-Reyes, 
+#+          B.R.Fulton, H.Fynbo, N.Gordillo, G.Haquin, Y.Nir-El, V.Kumar, 
+#+          A.Maira, J.McGrath, A.Munoz-Martin, A.Perea, Z.Yungreis
+#REF-CODE   (J,JP/CS,337,012061,2012)
+#REFERENCE  J.Phys.Conf.Ser. 337 (2012) 012061 (doi:10.1088/1742-6596/337/1/012061)
+#DATASETS   0
+#
+#DATASET    O19840022
+#DATE       20120725
+#REACTION   2-HE-4(HE3,G)4-BE-7,,SIG,,SFC
+#PROJ       2003
+#TARG       2004
+#MF         3
+#MT         102
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 2003  2004   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  2004   3 102    1584587.          1.9287-6 3.7634-7                                       M.Carmona-Gallardo+  (12)O1984  22
+ 2003  2004   3 102    2608653.          2.9549-6 1.9064-7                                       M.Carmona-Gallardo+  (12)O1984  22
+ 2003  2004   3 102    3526163.          3.9647-6 2.5579-7                                       M.Carmona-Gallardo+  (12)O1984  22
+ 2003  2004   3 102    3956616.          5.1760-6 5.5957-7                                       M.Carmona-Gallardo+  (12)O1984  22
+ 2003  2004   3 102    4382876.          5.7015-6 6.0016-7                                       M.Carmona-Gallardo+  (12)O1984  22
+ 2003  2004   3 102    4895285.          6.5715-6 3.2056-7                                       M.Carmona-Gallardo+  (12)O1984  22
+#/DATA      6
+#/DATASET

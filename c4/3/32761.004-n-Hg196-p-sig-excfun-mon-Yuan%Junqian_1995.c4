@@ -1,0 +1,30 @@
+#ENTRY      32761
+#AUTHOR1    Yuan Junqian+
+#YEAR       1995
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Cross section measurements for 199Hg(n,p)199Au,
+#+          198Hg(n,p)198Au, 196Hg(n,p)196Au and 196Hg(n,d+np+pn)
+#+          195Au reactions
+#AUTHOR(S)  Yuan Junqian, Kong Xiangzhong, Yang Jingkang, Wang Huaiyi
+#REF-CODE   (J,CNDP,13,16,1995)
+#REFERENCE  Comm.Nucl.Data Prog 13 (1995) 16
+#DATASETS   0
+#
+#DATASET    32761004 
+#DATE       20181119
+#REACTION   80-HG-196(N,P)79-AU-196,,SIG
+#PROJ       1
+#TARG       80196
+#MF         3
+#MT         103
+#PRODUCT    79-AU-196
+#C4BEGIN    [    1 80196   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 80196   3 103    1.4100+7          6.2000-3 7.0000-4                                       Yuan Junqian+        (95)32761  4 
+    1 80196   3 103    1.4500+7          5.2000-3 5.0000-4                                       Yuan Junqian+        (95)32761  4 
+    1 80196   3 103    1.4700+7          0.013300 1.1000-3                                       Yuan Junqian+        (95)32761  4 
+    1 80196   3 103    1.4800+7          0.018000 1.0000-3                                       Yuan Junqian+        (95)32761  4 
+#/DATA      4
+#/DATASET

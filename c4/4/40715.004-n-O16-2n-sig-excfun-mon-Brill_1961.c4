@@ -1,0 +1,34 @@
+#ENTRY      40715
+#AUTHOR1    O.D.Brill'+
+#YEAR       1961
+#INSTITUTE  (4RUSKUR)
+#TITLE      Cross section of the (n,2n) reaction in C12,N14,O16
+#+          and F19 in the energy interval 10-37 MeV
+#AUTHOR(S)  O.D.Brill', N.A.Vlasov, S.P.Kalinin, L.S.Sokolov
+#REF-CODE   (J,SPD,6,24,1961)
+#REFERENCE  Sov.Phys.-Dokl. 6 (1961) 24
+#DATASETS   0
+#
+#DATASET    40715004 
+#DATE       20231113
+#REACTION   8-O-16(N,2N)8-O-15,,SIG
+#PROJ       1
+#TARG       8016
+#MF         3
+#MT         16
+#PRODUCT    8-O-15
+#C4BEGIN    [    1  8016   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016   3  16    1.7700+7          3.0000-4 3.0000-4                                       O.D.Brill'+          (61)40715  4 
+    1  8016   3  16    1.9600+7          2.0000-3 5.0000-4                                       O.D.Brill'+          (61)40715  4 
+    1  8016   3  16    2.1200+7          3.2000-3 7.0000-4                                       O.D.Brill'+          (61)40715  4 
+    1  8016   3  16    2.2000+7          6.0000-3 1.5000-3                                       O.D.Brill'+          (61)40715  4 
+    1  8016   3  16    2.5000+7          0.011800 2.5000-3                                       O.D.Brill'+          (61)40715  4 
+    1  8016   3  16    2.7600+7          0.015000 1.3000-3                                       O.D.Brill'+          (61)40715  4 
+    1  8016   3  16    3.0400+7          0.015900 9.0000-4                                       O.D.Brill'+          (61)40715  4 
+    1  8016   3  16    3.4000+7          0.018800 8.0000-4                                       O.D.Brill'+          (61)40715  4 
+    1  8016   3  16    3.7500+7          9.5000-3 2.0000-3                                       O.D.Brill'+          (61)40715  4 
+#/DATA      9
+#/DATASET

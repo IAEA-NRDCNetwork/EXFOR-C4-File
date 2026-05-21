@@ -1,0 +1,33 @@
+#ENTRY      E0841
+#AUTHOR1    H.Orihara+
+#YEAR       1983
+#INSTITUTE  (2JPNTOH)
+#TITLE      OBSERVATION OF GAMOW-TELLER STRENGTH DISTRIBUTION
+#+          IN THE REACTION TIGA(P,N)71GE FOR APPLICATION TO
+#+          SOLAR-NEUTRINO DETECTION
+#AUTHOR(S)  H.Orihara, C.D.Zafiratos, S.Nishihara, K.Furukawa, M.Kabasawa, 
+#+          K.Maeda, K.Miura, H.Ohnuma
+#REF-CODE   (J,PRL,51,1328,83)
+#REFERENCE  Phys.Rev.Lett. 51 (1983) 1328 (doi:10.1103/PhysRevLett.51.1328)
+#DATASETS   0
+#
+#DATASET    E0841005 
+#DATE       19881021
+#REACTION   31-GA-71(P,N)32-GE-71,PAR,DA
+#PROJ       1001
+#TARG       31071
+#MF         4
+#MT         50
+#PRODUCT    32-GE-71
+#C4BEGIN    [ 1001 31071   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 31071   4  50  C 3.5000+7          3.6050-5          0.999913          500000.0         LVLH.Orihara+           (83)E0841  5 
+ 1001 31071   4  50  C 3.5000+7          3.4010-5          0.998244          500000.0         LVLH.Orihara+           (83)E0841  5 
+ 1001 31071   4  50  C 3.5000+7          2.5410-5          0.985375          500000.0         LVLH.Orihara+           (83)E0841  5 
+ 1001 31071   4  50  C 3.5000+7          2.9400-5          0.930360          500000.0         LVLH.Orihara+           (83)E0841  5 
+ 1001 31071   4  50  C 3.5000+7          2.7740-5          0.901380          500000.0         LVLH.Orihara+           (83)E0841  5 
+ 1001 31071   4  50  C 3.5000+7          1.8710-5          0.753196          500000.0         LVLH.Orihara+           (83)E0841  5 
+#/DATA      6
+#/DATASET

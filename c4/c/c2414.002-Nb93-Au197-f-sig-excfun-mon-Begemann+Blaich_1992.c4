@@ -1,0 +1,31 @@
+#ENTRY      C2414
+#AUTHOR1    M.Begemann-Blaich+
+#YEAR       1992
+#INSTITUTE  (1USALAS)
+#TITLE      Fission from Fe and Nb reactions with heavy targets
+#+          at 50-100 MeV/nucleon
+#AUTHOR(S)  M.Begemann-Blaich, Th.Blaich, M.M.Fowler, J.B.Wilhelmy, 
+#+          H.C.Britt, D.J.Fields, L.F.Hansen, R.G.Lanier, D.J.Massoletti, 
+#+          M.N.Namboodiri, B.A.Remington, T.C.Sangster, G.L.Struble, 
+#+          M.L.Webb, Y.D.Chan, A.Dacal, A.Harmon, J.Pouliot, R.G.Stokstad, 
+#+          S.Kaufman, F.Videbaek, Z.Fraenkel
+#REF-CODE   (J,PR/C,45,677,1992)
+#REFERENCE  Phys.Rev.C 45 (1992) 677 (doi:10.1103/PhysRevC.45.677)
+#DATASETS   0
+#
+#DATASET    C2414002 
+#DATE       20191126
+#REACTION   79-AU-197(41-NB-93,F),,SIG
+#PROJ       41093
+#TARG       79197
+#MF         3
+#MT         18
+#C4BEGIN    [41093 79197   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+41093 79197   3  18    4.6500+9          0.400000 0.060000                                       M.Begemann-Blaich+   (92)C2414  2 
+41093 79197   3  18    6.9750+9          0.271000 0.060000                                       M.Begemann-Blaich+   (92)C2414  2 
+41093 79197   3  18    9.3000+9          0.150000 0.050000                                       M.Begemann-Blaich+   (92)C2414  2 
+#/DATA      3
+#/DATASET

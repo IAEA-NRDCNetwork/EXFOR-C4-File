@@ -1,0 +1,30 @@
+#ENTRY      D0921
+#AUTHOR1    C.S.Palshetkar+
+#YEAR       2018
+#INSTITUTE  (3AULCBR)
+#TITLE      Fission cross sections as a probe of fusion dynamics
+#+          at high angular momentum
+#AUTHOR(S)  C.S.Palshetkar, D.J.Hinde, M.Dasgupta, E.Williams, K.Ramachandran, 
+#+          I.P.Carter, K.J.Cook, D.Y.Jeung, D.H.Luong, S.D.McNeil, 
+#+          D.C.Rafferty, A.Wakhle
+#REF-CODE   (J,PR/C,98,044603,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 044603 (doi:10.1103/PhysRevC.98.044603)
+#DATASETS   0
+#
+#DATASET    D0921006 
+#DATE       20181220
+#REACTION   56-BA-136(14-SI-28,F),,SIG
+#PROJ       14028
+#TARG       56136
+#MF         3
+#MT         18
+#C4BEGIN    [14028 56136   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+14028 56136   3  18 A  1.3054+8          3.8000-4 6.0000-5                                       C.S.Palshetkar+      (18)D0921  6 
+14028 56136   3  18 A  1.4039+8          0.014900 3.0000-4                                       C.S.Palshetkar+      (18)D0921  6 
+14028 56136   3  18 A  1.4364+8          0.026800 2.0000-4                                       C.S.Palshetkar+      (18)D0921  6 
+14028 56136   3  18 A  1.5130+8          0.078500 6.0000-4                                       C.S.Palshetkar+      (18)D0921  6 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      22612
+#AUTHOR1    F.Bensch+
+#YEAR       1971
+#INSTITUTE  (2AUSATI)
+#TITLE      The Activation Cross Section of Several Nuclides For
+#+          Neutrons of Intermediate Energies
+#AUTHOR(S)  F.Bensch, H.Ledermann
+#REF-CODE   (P,EANDC(OR)-105,1,197108)
+#REFERENCE  Progress report EANDC(OR)-105 page 1, 1971
+#DATASETS   0
+#
+#DATASET    22612005 
+#DATE       20060911
+#REACTION   62-SM-152(N,G)62-SM-153,,SIG
+#PROJ       1
+#TARG       62152
+#MF         3
+#MT         102
+#PRODUCT    62-SM-153
+#C4BEGIN    [    1 62152   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 62152   3 102    24000.00          0.569000 0.045520                                       F.Bensch+            (71)22612  5 
+    1 62152   3 102    138000.0          0.307000 0.036840                                       F.Bensch+            (71)22612  5 
+    1 62152   3 102    264000.0          0.195000 0.015600                                       F.Bensch+            (71)22612  5 
+    1 62152   3 102    974000.0          0.122000 0.015250                                       F.Bensch+            (71)22612  5 
+#/DATA      4
+#/DATASET

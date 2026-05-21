@@ -1,0 +1,53 @@
+#ENTRY      F1038
+#AUTHOR1    J.H.Bjerregaard+
+#YEAR       1964
+#INSTITUTE  (2DENCOP)
+#TITLE      Energy levels from (p,p'), (d,p) and (d,a) reactions
+#+          on the stable isotopes between Sc-45 and Ni-58.
+#AUTHOR(S)  J.H.Bjerregaard, P.F.Dahl, O.Hansen, G.Sidenius
+#REF-CODE   (J,NP,51,641,1964)
+#REFERENCE  Nucl.Phys. 51 (1964) 641 (doi:10.1016/0029-5582(64)90301-3)
+#DATASETS   0
+#
+#DATASET    F1038004 
+#DATE       20100128
+#REACTION   22-TI-46(D,P)22-TI-47,PAR,DA
+#PROJ       1002
+#TARG       22046
+#MF         4
+#MT         600
+#PRODUCT    22-TI-47
+#C4BEGIN    [ 1002 22046   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 22046   4 600    3500000. 7000.000 5.2733-4 6.4290-5 0.864257          4870000.         LVLJ.H.Bjerregaard+     (64)F1038  4 
+ 1002 22046   4 600    3500000. 7000.000 4.2672-4 5.7140-5 0.702600          4870000.         LVLJ.H.Bjerregaard+     (64)F1038  4 
+ 1002 22046   4 600    3500000. 7000.000 4.1185-4 6.4280-5 0.504693          4870000.         LVLJ.H.Bjerregaard+     (64)F1038  4 
+ 1002 22046   4 600    3500000. 7000.000 3.8959-4 5.7140-5 0.175161          4870000.         LVLJ.H.Bjerregaard+     (64)F1038  4 
+ 1002 22046   4 600    3500000. 7000.000 3.5938-4 6.4290-5-0.501209          4870000.         LVLJ.H.Bjerregaard+     (64)F1038  4 
+ 1002 22046   4 600    3500000. 7000.000 3.1511-4 6.4260-5-0.905643          4870000.         LVLJ.H.Bjerregaard+     (64)F1038  4 
+#/DATA      6
+#/DATASET
+#
+#DATASET    F1038004 
+#DATE       20100128
+#REACTION   22-TI-46(D,P)22-TI-47,PAR,DA
+#PROJ       1002
+#TARG       22046
+#MF         4
+#MT         600
+#PRODUCT    22-TI-47
+#C4BEGIN    [ 1002 22046   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 22046   4 600    3500000. 7000.000 7.8084-4 5.6340-5 0.865729          5110000.         LVLJ.H.Bjerregaard+     (64)F1038  4 
+ 1002 22046   4 600    3500000. 7000.000 7.9472-4 6.3380-5 0.794997          5110000.         LVLJ.H.Bjerregaard+     (64)F1038  4 
+ 1002 22046   4 600    3500000. 7000.000 7.1704-4 4.9300-5 0.704461          5110000.         LVLJ.H.Bjerregaard+     (64)F1038  4 
+ 1002 22046   4 600    3500000. 7000.000 6.5324-4 5.6340-5 0.498291          5110000.         LVLJ.H.Bjerregaard+     (64)F1038  4 
+ 1002 22046   4 600    3500000. 7000.000 5.8930-4 5.6320-5 0.172410          5110000.         LVLJ.H.Bjerregaard+     (64)F1038  4 
+ 1002 22046   4 600    3500000. 7000.000 3.6988-4 6.3370-5-0.499849          5110000.         LVLJ.H.Bjerregaard+     (64)F1038  4 
+ 1002 22046   4 600    3500000. 7000.000 2.7032-4 5.6310-5-0.905198          5110000.         LVLJ.H.Bjerregaard+     (64)F1038  4 
+#/DATA      7
+#/DATASET

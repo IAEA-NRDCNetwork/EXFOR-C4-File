@@ -1,0 +1,40 @@
+#ENTRY      C2444
+#AUTHOR1    J.Jungerman+
+#YEAR       1950
+#INSTITUTE  (1USAUCX)
+#TITLE      Fission Excitation Functions for Charged Particles
+#AUTHOR(S)  J.Jungerman
+#REF-CODE   (J,PR,79,632,1950)
+#REFERENCE  Phys.Rev. 79 (1950) 632 (doi:10.1103/PhysRev.79.632)
+#DATASETS   0
+#
+#DATASET    C2444037 
+#DATE       20200130
+#REACTION   92-U-238(D,F),,SIG
+#PROJ       1002
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [ 1002 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 92238   3  18    6707000.          0.011000                                                J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    9916000.          0.040000                                                J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    1.1965+7          0.145000                                                J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    1.4020+7          0.343000                                                J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    1.6955+7          0.616000                                                J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    2.4857+7          1.028000 0.134000                                       J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    3.7995+7          1.278000 0.099000                                       J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    4.6447+7          1.237000 0.105000                                       J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    7.4726+7          1.225000 0.087000                                       J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    9.4556+7          1.300000 0.076000                                       J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    1.2458+8          1.293000 0.070000                                       J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    1.5199+8          1.257000 0.064000                                       J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    1.7181+8          1.193000 0.064000                                       J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    1.7851+8          1.152000 0.052000                                       J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    1.8377+8          1.262000 0.076000                                       J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    1.9193+8          1.308000 0.058000                                       J.Jungerman          (50)C2444 37 
+ 1002 92238   3  18    1.9224+8          1.489000 0.087000                                       J.Jungerman          (50)C2444 37 
+#/DATA      17
+#/DATASET

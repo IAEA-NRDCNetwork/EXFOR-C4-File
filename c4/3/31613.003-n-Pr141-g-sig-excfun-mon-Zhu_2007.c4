@@ -1,0 +1,28 @@
+#ENTRY      31613
+#AUTHOR1    P.Zhu+
+#YEAR       2007
+#INSTITUTE  (3CPRBJG)
+#TITLE      Measurement of neutron capture cross sections for
+#+          141Pr from 0.5 to 1.6 MeV
+#AUTHOR(S)  P.Zhu, Z.Yuan, J.Chen, Z.Liu, G.Zhang, Z.Shi, H.Lu
+#REF-CODE   (J,ARI,65,1314,2007)
+#REFERENCE  Appl.Radiat.Isot. 65 (2007) 1314 (doi:10.1016/j.apradiso.2007.07.015)
+#DATASETS   0
+#
+#DATASET    31613003 
+#DATE       20080911
+#REACTION   59-PR-141(N,G)59-PR-142,,SIG
+#PROJ       1
+#TARG       59141
+#MF         3
+#MT         102
+#PRODUCT    59-PR-142
+#C4BEGIN    [    1 59141   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 59141   3 102 A  540000.0 30000.00 0.018920 1.1300-3                                       P.Zhu+               (07)31613  3 
+    1 59141   3 102 A  1090000. 30000.00 0.020930 1.2600-3                                       P.Zhu+               (07)31613  3 
+    1 59141   3 102 A  1590000. 40000.00 0.018940 1.3300-3                                       P.Zhu+               (07)31613  3 
+#/DATA      3
+#/DATASET

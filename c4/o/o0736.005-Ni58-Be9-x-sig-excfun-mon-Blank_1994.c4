@@ -1,0 +1,30 @@
+#ENTRY      O0736
+#AUTHOR1    B.Blank+
+#YEAR       1994
+#INSTITUTE  (2FR GRA)
+#TITLE      Production cross sections and the particle stability of
+#+          proton-rich nuclei from Ni-58 fragmentation.
+#AUTHOR(S)  B.Blank, S.Andriamonje, R.Del Moral, J.P.Dufour, A.Fleury, 
+#+          T.Josso, M.S.Pravikoff, S.Czajkowski, Z.Janas, A.Piechaczek, 
+#+          E.Roeckl, K.H.Schmidt, K.Summerer, W.Tringer, M.Weber, T.Brohm, 
+#+          A.Grewe, E.Hanelt, A.Heinz, A.Junghans, C.Rohl, S.Steinhauser, 
+#+          B.Voss, M.Pfutzner
+#REF-CODE   (J,PR/C,50,2398,1994)
+#REFERENCE  Phys.Rev.C 50 (1994) 2398 (doi:10.1103/PhysRevC.50.2398)
+#DATASETS   0
+#
+#DATASET    O0736005 
+#DATE       20000427
+#REACTION   4-BE-9(28-NI-58,X)28-NI-53,,SIG
+#PROJ       28058
+#TARG       4009
+#MF         3
+#MT         454
+#PRODUCT    28-NI-53
+#C4BEGIN    [28058  4009   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+28058  4009   3 454    3.393+10 3.7700+9 9.3000-7                    28053.9                     B.Blank+             (94)O0736  5 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      D0640
+#AUTHOR1    I.Leya+
+#YEAR       1997
+#INSTITUTE  (2GERUH)
+#TITLE      Modelling of the interactions between galactic cosmic
+#+          rays with stone and iron meteorites - Thin-target
+#+          irradiations and thick-target experiments
+#AUTHOR(S)  I.Leya
+#REF-CODE   (T,LEYA,1997)
+#REFERENCE  Thesis  (1997)
+#DATASETS   0
+#
+#DATASET    D0640010 
+#DATE       20101230
+#REACTION   20-CA-0(P,X)ELEM/MASS,CUM,SIG
+#PROJ       1001
+#TARG       20000
+#MF         3
+#MT         459
+#C4BEGIN    [ 1001 20000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20000   3 459    1.6000+9          7.9800-3 4.6000-4           11022.9                     I.Leya               (97)D0640 10 
+ 1001 20000   3 459    1.6000+9          1.6200-4 1.6000-5           12028.9                     I.Leya               (97)D0640 10 
+ 1001 20000   3 459    1.6000+9          7.6200-4 4.3000-5           19043.9                     I.Leya               (97)D0640 10 
+ 1001 20000   3 459    1.6000+9          1.4200-4 9.0000-6           20047.9                     I.Leya               (97)D0640 10 
+ 1001 20000   3 459    1.6000+9          4.7600-6 5.1000-7           21044.1                     I.Leya               (97)D0640 10 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,39 @@
+#ENTRY      40741
+#AUTHOR1    S.P.Kalinin+
+#YEAR       1958
+#INSTITUTE  (4RUSKUR)
+#TITLE      Neutron-induced fission cross sections of Th232 and
+#+          U238 in the energy range of 3 to 11 MeV and of U233,
+#+          U235, Np237 and Pu239 in the energy range of 3 to
+#+          8 MeV.
+#AUTHOR(S)  S.P.Kalinin, V.M.Pankratov
+#REF-CODE   (C,58GENEVA,16,136,1958)
+#REFERENCE  Proceedings of Second Internat. At.En. Conf., Geneva 1958 16 page 136
+#DATASETS   0
+#
+#DATASET    40741006 
+#DATE       20231113
+#REACTION   94-PU-239(N,F),,SIG
+#PROJ       1
+#TARG       94239
+#MF         3
+#MT         18
+#C4BEGIN    [    1 94239   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   3  18    3000000.          1.950000                                                S.P.Kalinin+         (58)40741  6 
+    1 94239   3  18    3600000.          2.000000                                                S.P.Kalinin+         (58)40741  6 
+    1 94239   3  18    4100000.          1.970000                                                S.P.Kalinin+         (58)40741  6 
+    1 94239   3  18    4800000.          1.920000                                                S.P.Kalinin+         (58)40741  6 
+    1 94239   3  18    5250000.          2.000000                                                S.P.Kalinin+         (58)40741  6 
+    1 94239   3  18    5700000.          1.980000                                                S.P.Kalinin+         (58)40741  6 
+    1 94239   3  18    6100000.          1.970000                                                S.P.Kalinin+         (58)40741  6 
+    1 94239   3  18    6500000.          2.070000                                                S.P.Kalinin+         (58)40741  6 
+    1 94239   3  18    6900000.          2.190000                                                S.P.Kalinin+         (58)40741  6 
+    1 94239   3  18    7300000.          2.320000                                                S.P.Kalinin+         (58)40741  6 
+    1 94239   3  18    7750000.          2.390000                                                S.P.Kalinin+         (58)40741  6 
+    1 94239   3  18    8000000.          2.420000                                                S.P.Kalinin+         (58)40741  6 
+    1 94239   3  18    8250000.          2.380000                                                S.P.Kalinin+         (58)40741  6 
+#/DATA      13
+#/DATASET

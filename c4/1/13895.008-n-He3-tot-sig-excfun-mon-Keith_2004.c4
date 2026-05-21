@@ -1,0 +1,28 @@
+#ENTRY      13895
+#AUTHOR1    C.D.Keith+
+#YEAR       2004
+#INSTITUTE  (1USAINU)
+#TITLE      Neutron cross sections for 3He at epithermal energies
+#AUTHOR(S)  C.D.Keith, Z.Chowhuri, D.R.Rich, W.M.Snow, J.D.Bowman, S.L.Penttila, 
+#+          D.A.Smith, M.B.Leuschner, V.R.Pomeroy, G.L.Jones, E.I.Sharapov
+#REF-CODE   (J,PR/C,69,034005,200403)
+#REFERENCE  Phys.Rev.C 69 (2004) 034005 (doi:10.1103/PhysRevC.69.034005)
+#DATASETS   0
+#
+#DATASET    13895008 
+#DATE       20040514
+#REACTION   2-HE-3(N,TOT),,SIG,,AV
+#PROJ       1
+#TARG       2003
+#MF         3
+#MT         1
+#C4BEGIN    [    1  2003   3   1 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  2003   3   1 D  7.251000          317.9000 0.259000                                       C.D.Keith+           (04)13895  8 
+    1  2003   3   1 D  9.215000          282.2000 0.231600                                       C.D.Keith+           (04)13895  8 
+    1  2003   3   1 D  15.35000          219.1000 0.172500                                       C.D.Keith+           (04)13895  8 
+    1  2003   3   1 D  23.85000          176.7000 0.152200                                       C.D.Keith+           (04)13895  8 
+#/DATA      4
+#/DATASET

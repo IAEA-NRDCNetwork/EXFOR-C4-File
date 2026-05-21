@@ -1,0 +1,26 @@
+#ENTRY      30605
+#AUTHOR1    N.Lakshmana Das+
+#YEAR       1981
+#INSTITUTE  (3INDAUW)
+#TITLE      Some neutron activation cross-sections in the heavy
+#+          mass region at 14 MeV
+#AUTHOR(S)  N.Lakshmana Das, C.V.Srinivasa Rao, J.Rama Rao
+#REF-CODE   (J,ANE,8,283,1981)
+#REFERENCE  Ann.Nucl.Energy 8 (1981) 283 (doi:10.1016/0306-4549(81)90093-1)
+#DATASETS   0
+#
+#DATASET    30605002 
+#DATE       20220817
+#REACTION   64-GD-158(N,A)62-SM-155,,SIG
+#PROJ       1
+#TARG       64158
+#MF         3
+#MT         107
+#PRODUCT    62-SM-155
+#C4BEGIN    [    1 64158   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 64158   3 107    1.4200+7 200000.0 2.1000-3 4.0000-4                                       N.Lakshmana Das+     (81)30605  2 
+#/DATA      1
+#/DATASET

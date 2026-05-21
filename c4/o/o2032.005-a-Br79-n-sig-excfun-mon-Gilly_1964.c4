@@ -1,0 +1,27 @@
+#ENTRY      O2032
+#AUTHOR1    L.J.Gilly+
+#YEAR       1964
+#INSTITUTE  (2BLGLVN)
+#TITLE      Absolute cross sections and excitation functions for
+#+          alpha particles induced reactions on bromine between
+#+          10 and 24.0 MeV.
+#AUTHOR(S)  L.J.Gilly, P.Henriet, P.Alves, P.C.Capron
+#REF-CODE   (J,NP,55,375,1964)
+#REFERENCE  Nucl.Phys. 55 (1964) 375 (doi:10.1016/0029-5582(64)90160-9)
+#DATASETS   0
+#
+#DATASET    O2032005 
+#DATE       20220119
+#REACTION   35-BR-79(A,N)37-RB-82-M,,SIG
+#PROJ       2004
+#TARG       35079
+#MF         3
+#MT         4
+#PRODUCT    37-RB-82-M
+#C4BEGIN    [ 2004 35079   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 35079   3   4M   1.7900+7          0.550000 0.032000                                       L.J.Gilly+           (64)O2032  5 
+#/DATA      1
+#/DATASET

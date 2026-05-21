@@ -1,0 +1,29 @@
+#ENTRY      31632
+#AUTHOR1    Junhua Luo+
+#YEAR       2007
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Activation cross sections for reactions induced by
+#+          14 MeV neutronson natural ruthenium
+#AUTHOR(S)  Junhua Luo, Gang Liu, Fei Tuo, Xiangzhong Kong, Rong Liu, 
+#+          Lijiang, Benchao Lou
+#REF-CODE   (J,PR/C,76,057601,2007)
+#REFERENCE  Phys.Rev.C 76 (2007) 057601 (doi:10.1103/PhysRevC.76.057601)
+#DATASETS   0
+#
+#DATASET    31632003 
+#DATE       20080715
+#REACTION   44-RU-96(N,A)42-MO-93-M,,SIG
+#PROJ       1
+#TARG       44096
+#MF         3
+#MT         107
+#PRODUCT    42-MO-93-M
+#C4BEGIN    [    1 44096   3 107MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 44096   3 107MA  1.3500+7 200000.0 2.3000-3 9.0000-4                                       Junhua Luo+          (07)31632  3 
+    1 44096   3 107MA  1.4100+7 200000.0 4.5000-3 1.4000-3                                       Junhua Luo+          (07)31632  3 
+    1 44096   3 107MA  1.4800+7 200000.0 2.8000-3 2.0000-4                                       Junhua Luo+          (07)31632  3 
+#/DATA      3
+#/DATASET

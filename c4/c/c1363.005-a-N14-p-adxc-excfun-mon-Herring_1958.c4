@@ -1,0 +1,35 @@
+#ENTRY      C1363
+#AUTHOR1    D.F.Herring+
+#YEAR       1958
+#INSTITUTE  (1USAWIS)
+#TITLE      N14(alpha, alpha)N14 and N14(alpha,p)O17
+#+          differential cross sections
+#AUTHOR(S)  D.F.Herring, R.Chiba, B.R.Gasten, H.T.Richards
+#REF-CODE   (J,PR,112,1210,1958)
+#REFERENCE  Phys.Rev. 112 (1958) 1210 (doi:10.1103/PhysRev.112.1210)
+#DATASETS   0
+#
+#DATASET    C1363005 
+#DATE       20111228
+#REACTION   7-N-14(A,P)8-O-17,PAR,DA
+#PROJ       2004
+#TARG       7014
+#MF         4
+#MT         600
+#PRODUCT    8-O-17
+#C4BEGIN    [ 2004  7014   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  7014   4 600  C 2850900.          6.9700-3 3.9800-3-0.983885          0.000000         LVLD.F.Herring+         (58)C1363  5 
+ 2004  7014   4 600  C 2860900.          0.011600 3.9800-3-0.983885          0.000000         LVLD.F.Herring+         (58)C1363  5 
+ 2004  7014   4 600  C 2863000.          0.014600 3.9800-3-0.983885          0.000000         LVLD.F.Herring+         (58)C1363  5 
+ 2004  7014   4 600  C 2866000.          0.019100 1.8200-3-0.983885          0.000000         LVLD.F.Herring+         (58)C1363  5 
+ 2004  7014   4 600  C 2867000.          0.027100 2.8700-3-0.983885          0.000000         LVLD.F.Herring+         (58)C1363  5 
+ 2004  7014   4 600  C 2868000.          0.022600 1.9300-3-0.983885          0.000000         LVLD.F.Herring+         (58)C1363  5 
+ 2004  7014   4 600  C 2870000.          0.020600 4.0700-3-0.983885          0.000000         LVLD.F.Herring+         (58)C1363  5 
+ 2004  7014   4 600  C 2872000.          0.013500 2.1600-3-0.983885          0.000000         LVLD.F.Herring+         (58)C1363  5 
+ 2004  7014   4 600  C 2875000.          0.013800 3.0700-3-0.983885          0.000000         LVLD.F.Herring+         (58)C1363  5 
+ 2004  7014   4 600  C 2878900.          0.010300 4.2100-3-0.983885          0.000000         LVLD.F.Herring+         (58)C1363  5 
+#/DATA      10
+#/DATASET

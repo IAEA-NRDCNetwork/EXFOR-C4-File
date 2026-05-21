@@ -1,0 +1,58 @@
+#ENTRY      22984
+#AUTHOR1    C.Domingo-Pardo+
+#YEAR       2007
+#INSTITUTE  (2GERKFK)
+#TITLE      Measurement of the radiative neutron capture cross
+#+          section of 206Pb and its astrophysical implications
+#AUTHOR(S)  C.Domingo-Pardo, U.Abbondanno, G.Aerts, H.Alvarez, F.Alvarez-Velarde, 
+#+          S.Andriamonje, J.Andrzejewski, P.Assimakopoulos, L.Audouin, 
+#+          G.Badurek, P.Baumann, F.Becvar, E.Berthoumieux, S.Bisterzo, 
+#+          F.Calvino, M.Calviani, D.Cano-Ott, R.Capote, C.Carrapico, 
+#+          P.Cennini, V.Chepel, E.Chiaveri, N.Colonna, G.Cortes, A.Couture, 
+#+          J.Cox, M.Dahlfors, S.David, I.Dillman, R.Dolfini, W.Dridi, 
+#+          I.Duran, C.Eleftheriadis, M.Embid-Segura, L.Ferrant, A.Ferrari, 
+#+          R.Ferreira-Marques, L.Fitzpatrick, H.Frais-Koelbl, K.Fujii, 
+#+          W.Furman, R.Gallino, I.Goncalves, E.Gonzalez-Romero, A.Goverdovski, 
+#+          F.Gramegna, E.Griesmayer, C.Guerrero, F.Gunsing, B.Haas, 
+#+          R.Haight, M.Heil, A.Herrera-Martinez, M.Igashira, M.Isaev, 
+#+          E.Jericha, F.Kaeppeler, Y.Kadi, D.Karadimos, D.Karamanis, 
+#+          M.Kerveno, V.Ketlerov, P.Koehler, V.Konovalov, E.Kossionides, 
+#+          M.Krticka, C.Lamboudis, H.Leeb, A.Lindote, I.Lopes, M.Lozano, 
+#+          S.Lukic, J.Marganiec, S.Marrone, C.Massimi, P.Mastinu, A.Mengoni, 
+#+          P.M.Milazzo, C.Moreau, M.Mosconi, F.Neves, H.Oberhummer, 
+#+          M.Oshima, S.O'Brien, J.Pancin, C.Papachristodoulou, C.Papadopoulos, 
+#+          C.Paradela, N.Patronis, A.Pavlik, P.Pavlopoulos, L.Perrot, 
+#+          R.Plag, A.Plompen, A.Plukis, A.Poch, C.Pretel, J.Quesada, 
+#+          T.Rauscher, R.Reifarth, M.Rosetti, C.Rubbia, G.Rudolf, P.Rullhusen, 
+#+          J.Salgado, L.Sarchiapone, I.Savvidis, C.Stephan, G.Tagliente, 
+#+          J.L.Tain, L.Tassan-Got, L.Tavora, R.Terlizzi, G.Vannini, 
+#+          P.Vaz, A.Ventura, D.Villamarin, M.C.Vincente, V.Vlachoudis, 
+#+          R.Vlastou, F.Voss, S.Walter, H.Wendler, M.Wiescher, K.Wisshak
+#REF-CODE   (J,PR/C,76,045805,2007)
+#REFERENCE  Phys.Rev.C 76 (2007) 045805 (doi:10.1103/PhysRevC.76.045805)
+#DATASETS   0
+#
+#DATASET    22984003 
+#DATE       20171215
+#REACTION   82-PB-206(N,G)82-PB-207,,SIG,,MXW
+#PROJ       1
+#TARG       82206
+#MF         3
+#MT         102
+#PRODUCT    82-PB-207
+#C4BEGIN    [    1 82206   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82206   3 102 A  5000.000          0.021300 3.8340-4                                       C.Domingo-Pardo+     (07)22984  3 
+    1 82206   3 102 A  8000.000          0.020400 3.6720-4                                       C.Domingo-Pardo+     (07)22984  3 
+    1 82206   3 102 A  10000.00          0.019400 3.6860-4                                       C.Domingo-Pardo+     (07)22984  3 
+    1 82206   3 102 A  12000.00          0.018400 3.6800-4                                       C.Domingo-Pardo+     (07)22984  3 
+    1 82206   3 102 A  15000.00          0.017100 3.5910-4                                       C.Domingo-Pardo+     (07)22984  3 
+    1 82206   3 102 A  20000.00          0.015600 3.4320-4                                       C.Domingo-Pardo+     (07)22984  3 
+    1 82206   3 102 A  25000.00          0.014700 3.3810-4                                       C.Domingo-Pardo+     (07)22984  3 
+    1 82206   3 102 A  30000.00          0.014200 3.2660-4                                       C.Domingo-Pardo+     (07)22984  3 
+    1 82206   3 102 A  40000.00          0.013500 2.9700-4                                       C.Domingo-Pardo+     (07)22984  3 
+    1 82206   3 102 A  50000.00          0.012800 2.6880-4                                       C.Domingo-Pardo+     (07)22984  3 
+#/DATA      10
+#/DATASET

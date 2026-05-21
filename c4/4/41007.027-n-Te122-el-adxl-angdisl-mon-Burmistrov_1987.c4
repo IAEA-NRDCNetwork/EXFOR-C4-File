@@ -1,0 +1,31 @@
+#ENTRY      41007
+#AUTHOR1    Yu.M.Burmistrov+
+#YEAR       1987
+#INSTITUTE  (4RUSJIA)
+#TITLE      1.2-2.0 MeV energy neutron scattering on the even
+#+          tellurium isotopes
+#AUTHOR(S)  Yu.M.Burmistrov, T.E.Grigor'ev, E.D.Molodtsov, R.M.Musaelyan, 
+#+          V.I.Popov, S.I.Potashev, V.M.Skorkin
+#REF-CODE   (C,87KIEV,3,217,1987)
+#REFERENCE  Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 217
+#DATASETS   0
+#
+#DATASET    41007027 
+#DATE       20120420
+#REACTION   52-TE-122(N,EL)52-TE-122,,DA
+#PROJ       1
+#TARG       52122
+#MF         4
+#MT         2
+#PRODUCT    52-TE-122
+#C4BEGIN    [    1 52122   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52122   4   2 A  1200000. 60000.00 1.393000 0.098000 0.866025                              Yu.M.Burmistrov+     (87)41007 27 
+    1 52122   4   2 A  1200000. 60000.00 0.483000 0.034000 0.500000                              Yu.M.Burmistrov+     (87)41007 27 
+    1 52122   4   2 A  1200000. 60000.00 0.170000 0.012000 6.123-17                              Yu.M.Burmistrov+     (87)41007 27 
+    1 52122   4   2 A  1200000. 60000.00 0.105000 7.0000-3-0.500000                              Yu.M.Burmistrov+     (87)41007 27 
+    1 52122   4   2 A  1200000. 60000.00 0.264000 0.018000-0.882948                              Yu.M.Burmistrov+     (87)41007 27 
+#/DATA      5
+#/DATASET

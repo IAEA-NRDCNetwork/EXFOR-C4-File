@@ -1,0 +1,35 @@
+#ENTRY      C0358
+#AUTHOR1    D.Logan+
+#YEAR       1980
+#INSTITUTE  (1USACAR)
+#TITLE      Light-charged-particle emission in 40Ar-induced
+#+          reactions: A probe of the very early evolution of the
+#+          collisions
+#AUTHOR(S)  D.Logan, H.Delagrange, M.F.Rivet, M.Rajagopalan, J.M.Alexander, 
+#+          M.Kaplan, M.S.Zisman, E.Duek, L.Kowalski
+#REF-CODE   (J,PR/C,22,1080,1980)
+#REFERENCE  Phys.Rev.C 22 (1980) 1080 (doi:10.1103/PhysRevC.22.1080)
+#DATASETS   0
+#
+#DATASET    C0358039 
+#DATE       20170308
+#REACTION   79-AU-197(18-AR-40,X)1-H-1,,DA
+#PROJ       18040
+#TARG       79197
+#MF         4
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [18040 79197   4 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 79197   4 203  C 2.2200+8          0.019690 5.2210-3 0.916314                              D.Logan+             (80)C0358 39 
+18040 79197   4 203  C 2.2200+8          0.015160 3.4910-3 0.751137                              D.Logan+             (80)C0358 39 
+18040 79197   4 203  C 2.2200+8          0.010640 1.5180-3 0.627311                              D.Logan+             (80)C0358 39 
+18040 79197   4 203  C 2.2200+8          9.5480-3 1.2360-3 0.504949                              D.Logan+             (80)C0358 39 
+18040 79197   4 203  C 2.2200+8          3.4550-3         -0.459843                              D.Logan+             (80)C0358 39 
+18040 79197   4 203  C 2.2200+8          3.6180-3         -0.548716                              D.Logan+             (80)C0358 39 
+18040 79197   4 203  C 2.2200+8          2.4240-3         -0.649342                              D.Logan+             (80)C0358 39 
+18040 79197   4 203  C 2.2200+8          2.4620-3         -0.731937                              D.Logan+             (80)C0358 39 
+#/DATA      8
+#/DATASET

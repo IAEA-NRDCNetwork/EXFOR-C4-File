@@ -1,0 +1,25 @@
+#ENTRY      10681
+#AUTHOR1    C.E.Bemis Jr+
+#YEAR       1977
+#INSTITUTE  (1USAORL)
+#TITLE      Thermal-Neutron Capture and Fission Cross Sections and
+#+          Resonance Integrals for Curium-243
+#AUTHOR(S)  C.E.Bemis Jr, J.H.Oliver, R.Eby, J.Halperin
+#REF-CODE   (J,NSE,63,413,1977)
+#REFERENCE  Nucl.Sci.Eng. 63 (1977) 413 (doi:10.13182/NSE77-A27058)
+#DATASETS   0
+#
+#DATASET    10681007 
+#DATE       20080925
+#REACTION   96-CM-243(N,F),,SIG
+#PROJ       1
+#TARG       96243
+#MF         3
+#MT         18
+#C4BEGIN    [    1 96243   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 96243   3  18 D  0.025300          579.0000 31.00000                                       C.E.Bemis Jr+        (77)10681  7 
+#/DATA      1
+#/DATASET

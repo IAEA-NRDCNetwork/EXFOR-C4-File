@@ -1,0 +1,27 @@
+#ENTRY      22105
+#AUTHOR1    L.Koester+
+#YEAR       1988
+#INSTITUTE  (2GERMUN)
+#TITLE      -Experimental study on P-wave neutron strength
+#+          functions for light nuclei.
+#AUTHOR(S)  L.Koester, W.Waschkowski, J.Meier, G.Rau, M.Salehi
+#REF-CODE   (J,ZP/A,330,387,1988)
+#REFERENCE  Z.Phys.A 330 (1988) 387 (doi:10.1007/BF01290124)
+#DATASETS   0
+#
+#DATASET    22105005 
+#DATE       20080718
+#REACTION   7-N-14(N,TOT),,SIG,,SPA
+#PROJ       1
+#TARG       7014
+#MF         3
+#MT         1
+#C4BEGIN    [    1  7014   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  7014   3   1    143000.0          3.740000 0.080000                                       L.Koester+           (88)22105  5 
+    1  7014   3   1    1300000.          1.790000 0.050000                                       L.Koester+           (88)22105  5 
+    1  7014   3   1    2100000.          1.660000 0.050000                                       L.Koester+           (88)22105  5 
+#/DATA      3
+#/DATASET

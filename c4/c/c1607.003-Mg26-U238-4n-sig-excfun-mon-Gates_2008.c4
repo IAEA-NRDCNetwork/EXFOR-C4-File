@@ -1,0 +1,31 @@
+#ENTRY      C1607
+#AUTHOR1    J.M.Gates+
+#YEAR       2008
+#INSTITUTE  (1USABRK)
+#TITLE      Synthesis of rutherfordium isotopes in the
+#+          238U(26Mg,xn)(264-x)Rf reaction and study of their
+#+          decay properties
+#AUTHOR(S)  J.M.Gates, M.A.Garcia, K.E.Gregorich, Ch.E.Duellmann, I.Dragojevic, 
+#+          J.Dvorak, R.Eichler, C.M.Folden Iii, W.Loveland, S.L.Nelson, 
+#+          G.K.Pang, L.Stavsetra, R.Sudowe, A.Tuerler, H.Nitsche
+#REF-CODE   (J,PR/C,77,034603,2008)
+#REFERENCE  Phys.Rev.C 77 (2008) 034603 (doi:10.1103/PhysRevC.77.034603)
+#DATASETS   0
+#
+#DATASET    C1607003 
+#DATE       20181107
+#REACTION   92-U-238(12-MG-26,4N)104-RF-260,,SIG
+#PROJ       12026
+#TARG       92238
+#MF         3
+#MT         37
+#PRODUCT    104-RF-260
+#C4BEGIN    [12026 92238   3  37  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+12026 92238   3  37    1.2180+8 1218000. 5.000-11                                                J.M.Gates+           (08)C1607  3 
+12026 92238   3  37    1.2810+8 1281000. 1.700-10                                                J.M.Gates+           (08)C1607  3 
+12026 92238   3  37    1.3300+8 1330000. 1.800-10                                                J.M.Gates+           (08)C1607  3 
+#/DATA      3
+#/DATASET

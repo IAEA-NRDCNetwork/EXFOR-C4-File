@@ -1,0 +1,34 @@
+#ENTRY      O2015
+#AUTHOR1    F.Baros+
+#YEAR       1984
+#INSTITUTE  (2FR GAN)
+#TITLE      Measurement of cross sections for 22Na, 20-22Ne and
+#+          36-42Ar in the spallation of Mg, Al, Si, Ca and Fe.
+#+          Production ratios of some cosmogenic nuclides in
+#+          meteorites
+#AUTHOR(S)  F.Baros, S.Regnier
+#REF-CODE   (J,JPR,45,855,1984)
+#REFERENCE  J.Phys.(Paris) 45 (1984) 855 (doi:10.1051/jphys:01984004505085500)
+#DATASETS   0
+#
+#DATASET    O2015006 
+#DATE       20220317
+#REACTION   12-MG-0(P,X)10-NE-21,,SIG
+#PROJ       1001
+#TARG       12000
+#MF         3
+#MT         454
+#PRODUCT    10-NE-21
+#C4BEGIN    [ 1001 12000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12000   3 454    5.9000+7          0.040900 4.9000-3           10021.9                     F.Baros+             (84)O2015  6 
+ 1001 12000   3 454    7.5000+7          0.043500 5.1000-3           10021.9                     F.Baros+             (84)O2015  6 
+ 1001 12000   3 454    1.6800+8          0.027100 3.6000-3           10021.9                     F.Baros+             (84)O2015  6 
+ 1001 12000   3 454    2.0000+8          0.030000 3.7000-3           10021.9                     F.Baros+             (84)O2015  6 
+ 1001 12000   3 454    1.0000+9          0.033600 4.9000-3           10021.9                     F.Baros+             (84)O2015  6 
+ 1001 12000   3 454    2.5000+9          0.018400 2.8000-3           10021.9                     F.Baros+             (84)O2015  6 
+ 1001 12000   3 454    2.400+10          0.020900 2.8000-3           10021.9                     F.Baros+             (84)O2015  6 
+#/DATA      7
+#/DATASET

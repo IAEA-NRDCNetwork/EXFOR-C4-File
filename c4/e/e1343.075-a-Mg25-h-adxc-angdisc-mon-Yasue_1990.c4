@@ -1,0 +1,36 @@
+#ENTRY      E1343
+#AUTHOR1    M.Yasue+
+#YEAR       1990
+#INSTITUTE  (2JPNOSA)
+#TITLE      Spectroscopy of positive parity states in 26Mg and
+#+          26Al via the (alpha,3He) and (alpha,t) reactions
+#AUTHOR(S)  M.Yasue, K.Ogawa, T.Niizeki, J.Takamatsu, M.Ohura, A.Terakawa, 
+#+          T.Nakagawa, T.Hasegawa, H.Ohnuma, H.Toyokawa, S.Hamada
+#REF-CODE   (J,PR/C,42,1279,1990)
+#REFERENCE  Phys.Rev.C 42 (1990) 1279 (doi:10.1103/PhysRevC.42.1279)
+#DATASETS   0
+#
+#DATASET    E1343075 
+#DATE       20240802
+#REACTION   12-MG-25(A,HE3)12-MG-26,PAR,DA
+#PROJ       2004
+#TARG       12025
+#MF         4
+#MT         750
+#PRODUCT    12-MG-26
+#C4BEGIN    [ 2004 12025   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 12025   4 750  C 5.0000+7          2.8130-3          0.996284          7280000.         LVLM.Yasue+             (90)E1343 75 
+ 2004 12025   4 750  C 5.0000+7          2.4090-3          0.989275          7280000.         LVLM.Yasue+             (90)E1343 75 
+ 2004 12025   4 750  C 5.0000+7          1.6340-3          0.982320          7280000.         LVLM.Yasue+             (90)E1343 75 
+ 2004 12025   4 750  C 5.0000+7          7.8950-4          0.959412          7280000.         LVLM.Yasue+             (90)E1343 75 
+ 2004 12025   4 750  C 5.0000+7          5.7000-4          0.939513          7280000.         LVLM.Yasue+             (90)E1343 75 
+ 2004 12025   4 750  C 5.0000+7          4.4610-4          0.923344          7280000.         LVLM.Yasue+             (90)E1343 75 
+ 2004 12025   4 750  C 5.0000+7          2.0600-4          0.882866          7280000.         LVLM.Yasue+             (90)E1343 75 
+ 2004 12025   4 750  C 5.0000+7          1.5440-4          0.828452          7280000.         LVLM.Yasue+             (90)E1343 75 
+ 2004 12025   4 750  C 5.0000+7          1.3220-4          0.772512          7280000.         LVLM.Yasue+             (90)E1343 75 
+ 2004 12025   4 750  C 5.0000+7          7.8970-5          0.699539          7280000.         LVLM.Yasue+             (90)E1343 75 
+#/DATA      10
+#/DATASET

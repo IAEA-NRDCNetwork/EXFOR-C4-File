@@ -1,0 +1,30 @@
+#ENTRY      O1028
+#AUTHOR1    V.I.Yurevich+
+#YEAR       2002
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Cross sections for Bi-209, Th-232, U-235, U-238 and
+#+          Np-237 fission induced by intermediate energy protons
+#+          and deuterons
+#AUTHOR(S)  V.I.Yurevich, V.A.Nikolaev, R.M.Yakovlev, A.N.Sosnin
+#REF-CODE   (J,YF,65,1417,2002)
+#REFERENCE  Yad.Fiz. 65 (2002) 1417
+#DATASETS   0
+#
+#DATASET    O1028002 
+#DATE       20120607
+#REACTION   83-BI-209(P,F),,SIG
+#PROJ       1001
+#TARG       83209
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 83209   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 83209   3  18    1.0000+9          0.216000 0.049000                                       V.I.Yurevich+        (02)O1028  2 
+ 1001 83209   3  18    2.0000+9          0.219000 0.033000                                       V.I.Yurevich+        (02)O1028  2 
+ 1001 83209   3  18    2.5500+9          0.215000 0.026000                                       V.I.Yurevich+        (02)O1028  2 
+ 1001 83209   3  18    3.1700+9          0.199000 0.024000                                       V.I.Yurevich+        (02)O1028  2 
+ 1001 83209   3  18    3.6500+9          0.180000 0.024000                                       V.I.Yurevich+        (02)O1028  2 
+#/DATA      5
+#/DATASET

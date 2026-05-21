@@ -1,0 +1,42 @@
+#ENTRY      22405
+#AUTHOR1    A.Meister+
+#YEAR       1997
+#INSTITUTE  (2ZZZGEL)
+#TITLE      Cross sections of inelastic neutron scattering
+#+          for palladium isotope nuclei
+#AUTHOR(S)  A.Meister, E.Wattecamps, A.J.Koning, A.Hogenbirk, H.Gruppelaar, 
+#+          G.Rollings, W.Schubert
+#REF-CODE   (C,97TRIEST,1,586,1997)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 586
+#DATASETS   0
+#
+#DATASET    22405009 
+#DATE       20220102
+#REACTION   46-PD-108(N,INL)46-PD-108,PAR,SIG,,AV
+#PROJ       1
+#TARG       46108
+#MF         3
+#MT         51
+#PRODUCT    46-PD-108
+#C4BEGIN    [    1 46108   3  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 46108   3  51 D  325000.0 25000.00 0.000000 0.020000                   434000.0         LVLA.Meister+           (97)22405  9 
+    1 46108   3  51 D  425000.0 25000.00 0.030000 0.010000                   434000.0         LVLA.Meister+           (97)22405  9 
+    1 46108   3  51 D  475000.0 25000.00 0.230000 0.010000                   434000.0         LVLA.Meister+           (97)22405  9 
+    1 46108   3  51 D  525000.0 25000.00 0.410000 0.020000                   434000.0         LVLA.Meister+           (97)22405  9 
+    1 46108   3  51 D  575000.0 25000.00 0.540000 0.030000                   434000.0         LVLA.Meister+           (97)22405  9 
+    1 46108   3  51 D  625000.0 25000.00 0.650000 0.040000                   434000.0         LVLA.Meister+           (97)22405  9 
+    1 46108   3  51 D  675000.0 25000.00 0.720000 0.040000                   434000.0         LVLA.Meister+           (97)22405  9 
+    1 46108   3  51 D  725000.0 25000.00 0.790000 0.040000                   434000.0         LVLA.Meister+           (97)22405  9 
+    1 46108   3  51 D  775000.0 25000.00 0.780000 0.040000                   434000.0         LVLA.Meister+           (97)22405  9 
+    1 46108   3  51 D  825000.0 25000.00 0.820000 0.050000                   434000.0         LVLA.Meister+           (97)22405  9 
+    1 46108   3  51 D  875000.0 25000.00 0.850000 0.050000                   434000.0         LVLA.Meister+           (97)22405  9 
+    1 46108   3  51 D  925000.0 25000.00 0.880000 0.050000                   434000.0         LVLA.Meister+           (97)22405  9 
+    1 46108   3  51 D  975000.0 25000.00 0.870000 0.050000                   434000.0         LVLA.Meister+           (97)22405  9 
+    1 46108   3  51 D  1050000. 50000.00 0.780000 0.050000                   434000.0         LVLA.Meister+           (97)22405  9 
+    1 46108   3  51 D  1150000. 50000.00 0.790000 0.060000                   434000.0         LVLA.Meister+           (97)22405  9 
+    1 46108   3  51 D  1250000. 50000.00 0.770000 0.060000                   434000.0         LVLA.Meister+           (97)22405  9 
+#/DATA      16
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      A0544
+#AUTHOR1    O.N.Vysotsky+
+#YEAR       1992
+#INSTITUTE  (4UKRIJD)
+#TITLE      Contribution of evaporation and preequilibrium nucleon
+#+          emission to cross sections of 209Bi(3He3,xnyp)
+#+          reactions at energies lower than 90 MeV
+#AUTHOR(S)  O.N.Vysotsky, A.V.Gonchar, G.N.Kozeratskaya, S.N.Kondratiev, 
+#+          V.D.Sklyarenko, V.V.Tokarevsky
+#REF-CODE   (J,IZV,56,(5),102,1992)
+#REFERENCE  Izv.Ross.AN,Fiz. 56 No.5 (1992) 102
+#DATASETS   0
+#
+#DATASET    A0544006 
+#DATE       20160226
+#REACTION   83-BI-209(HE3,X)84-PO-206,CUM,SIG
+#PROJ       2003
+#TARG       83209
+#MF         3
+#MT         459
+#PRODUCT    84-PO-206
+#C4BEGIN    [ 2003 83209   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 83209   3 459    5.9520+7 500000.0 0.641860 0.043240           84206.9                     O.N.Vysotsky+        (92)A0544  6 
+ 2003 83209   3 459    6.2740+7 500000.0 0.652690 0.053430           84206.9                     O.N.Vysotsky+        (92)A0544  6 
+ 2003 83209   3 459    6.7530+7 500000.0 0.411590 0.033670           84206.9                     O.N.Vysotsky+        (92)A0544  6 
+ 2003 83209   3 459    7.0470+7 500000.0 0.521260 0.035160           84206.9                     O.N.Vysotsky+        (92)A0544  6 
+ 2003 83209   3 459    7.7620+7 500000.0 0.362550 0.027910           84206.9                     O.N.Vysotsky+        (92)A0544  6 
+ 2003 83209   3 459    8.0320+7 500000.0 0.410620 0.019780           84206.9                     O.N.Vysotsky+        (92)A0544  6 
+ 2003 83209   3 459    8.5610+7 500000.0 0.270410 0.011730           84206.9                     O.N.Vysotsky+        (92)A0544  6 
+ 2003 83209   3 459    8.7140+7 500000.0 0.261180 0.023860           84206.9                     O.N.Vysotsky+        (92)A0544  6 
+ 2003 83209   3 459    9.2950+7 500000.0 0.173400 0.011690           84206.9                     O.N.Vysotsky+        (92)A0544  6 
+ 2003 83209   3 459    9.6410+7 500000.0 0.192930 0.011160           84206.9                     O.N.Vysotsky+        (92)A0544  6 
+#/DATA      10
+#/DATASET

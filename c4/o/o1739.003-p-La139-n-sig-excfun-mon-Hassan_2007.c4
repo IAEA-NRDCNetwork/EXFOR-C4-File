@@ -1,0 +1,30 @@
+#ENTRY      O1739
+#AUTHOR1    H.E.Hassan+
+#YEAR       2007
+#INSTITUTE  (3EGYCAI)
+#TITLE      Proton induced reactions on Tb-159 and La-139 for
+#+          producing Dy and Ce-139.
+#AUTHOR(S)  H.E.Hassan, F.S.Al-Saleh, K.F.Hassan, A.Sayed, Z.A.Saleh
+#REF-CODE   (C,2007LUXOR,,209,2007)
+#REFERENCE  Proceedings of 6th Int.Nat.Conf.Nucl.& Part.Phys.,Luxor,Egypt 2007 page 209
+#DATASETS   0
+#
+#DATASET    O1739003 
+#DATE       20090415
+#REACTION   57-LA-139(P,N)58-CE-139,,SIG
+#PROJ       1001
+#TARG       57139
+#MF         3
+#MT         4
+#PRODUCT    58-CE-139
+#C4BEGIN    [ 1001 57139   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 57139   3   4    1.4400+7 300000.0 0.082500 9.3000-3                                       H.E.Hassan+          (07)O1739  3 
+ 1001 57139   3   4    1.2700+7 100000.0 0.166700 0.018800                                       H.E.Hassan+          (07)O1739  3 
+ 1001 57139   3   4    1.0800+7 100000.0 0.253600 0.028600                                       H.E.Hassan+          (07)O1739  3 
+ 1001 57139   3   4    8600000. 100000.0 0.079600 8.0000-3                                       H.E.Hassan+          (07)O1739  3 
+ 1001 57139   3   4    5800000. 100000.0 1.7000-3 2.0000-4                                       H.E.Hassan+          (07)O1739  3 
+#/DATA      5
+#/DATASET

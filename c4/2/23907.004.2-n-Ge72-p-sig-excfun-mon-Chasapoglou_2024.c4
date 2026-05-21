@@ -1,0 +1,31 @@
+#ENTRY      23907
+#AUTHOR1    S.Chasapoglou+
+#YEAR       2024
+#INSTITUTE  (2GRCTUA)
+#TITLE      On the accuracy of cross-section measurements of
+#+          neutron-induced reactions using the activation
+#+          technique with natural targets: The case of Ge at
+#+          En = 17.9 MeV
+#AUTHOR(S)  S.Chasapoglou, M.Kokkoris, R.Vlastou, M.Diakaki, V.Michalopoulou, 
+#+          A.Kalamara, G.Gkatis, A.Stamatopoulos, M.Axiotis, S.Harissopulos, 
+#+          A.Lagoyannis, M.I.Savva, T.Vasilopoulou, C.Lederer-Woods, 
+#+          N.Patronis, K.Kaperoni
+#REF-CODE   (J,ARI,203,111077,2024)
+#REFERENCE  Appl.Radiat.Isot. 203 (2024) 111077 (doi:10.1016/j.apradiso.2023.111077)
+#DATASETS   0
+#
+#DATASET    239070042
+#DATE       20240414
+#REACTION   32-GE-72(N,P)31-GA-72,,SIG
+#PROJ       1
+#TARG       32072
+#MF         3
+#MT         103
+#PRODUCT    31-GA-72
+#C4BEGIN    [    1 32072   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32072   3 103    1.7900+7 300000.0 0.028000 2.6000-3                                       S.Chasapoglou+       (24)23907  42
+#/DATA      1
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      30991
+#AUTHOR1    Fan Guoying+
+#YEAR       1991
+#INSTITUTE  (3CPRBNU)
+#TITLE      Progress in the measurement of gamma-ray production
+#+          cross sections induced by 14.9 MeV neutrons.
+#AUTHOR(S)  Fan Guoying, Zhou Hongyu, Zhu Xiaoge, Hua Ming, Wen Shenlin, 
+#+          Lan Liqiao, Liu Shuzhen
+#REF-CODE   (C,91JUELIC,,332,199105)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 332
+#DATASETS   0
+#
+#DATASET    30991002 
+#DATE       20090919
+#REACTION   14-SI-28(N,A)12-MG-25,PAR,DA,G
+#PROJ       1
+#TARG       14028
+#MF         14
+#MT         800
+#PRODUCT    12-MG-25
+#C4BEGIN    [    1 14028  14 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14028  14 800    1.4900+7          2.0600-3 1.0000-4 6.123-17          309700.0            Fan Guoying+         (91)30991  2 
+    1 14028  14 800    1.4900+7          4.5900-3 2.0000-4 6.123-17          505100.0            Fan Guoying+         (91)30991  2 
+    1 14028  14 800    1.4900+7          2.8500-3 1.1000-4 6.123-17          947600.0            Fan Guoying+         (91)30991  2 
+#/DATA      3
+#/DATASET

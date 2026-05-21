@@ -1,0 +1,40 @@
+#ENTRY      O2309
+#AUTHOR1    K.G.Leach+
+#YEAR       2019
+#INSTITUTE  (1USACSM)
+#TITLE      High-resolution (p,t) reaction measurements as
+#+          spectroscopic tests of ab-initio theory in the mid-pf
+#+          shell
+#AUTHOR(S)  K.G.Leach, J.D.Holt, P.E.Garrett, S.R.Stroberg, G.C.Ball, 
+#+          P.C.Bender, V.Bildstein, A.Diaz Varela, R.Dunlop, T.Faestermann, 
+#+          B.Hadinia, R.Hertenberger, D.S.Jamieson, B.Jigmeddorj, R.Krucken, 
+#+          A.T.Laffoley, A.J.Radich, E.T.Rand, C.E.Svensson, S.Triambak, 
+#+          H.-F.Wirth
+#REF-CODE   (J,PR/C,100,014320,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 014320 (doi:10.1103/PhysRevC.100.014320)
+#DATASETS   0
+#
+#DATASET    O2309004 
+#DATE       20210906
+#REACTION   24-CR-52(P,EL)24-CR-52,,DA
+#PROJ       1001
+#TARG       24052
+#MF         4
+#MT         2
+#PRODUCT    24-CR-52
+#C4BEGIN    [ 1001 24052   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24052   4   2  C 2.4000+7          3.040000          0.964557                              K.G.Leach+           (19)O2309  4 
+ 1001 24052   4   2  C 2.4000+7          1.180000          0.939094                              K.G.Leach+           (19)O2309  4 
+ 1001 24052   4   2  C 2.4000+7          0.304000          0.902585                              K.G.Leach+           (19)O2309  4 
+ 1001 24052   4   2  C 2.4000+7          0.064300          0.860742                              K.G.Leach+           (19)O2309  4 
+ 1001 24052   4   2  C 2.4000+7          0.054300          0.813101                              K.G.Leach+           (19)O2309  4 
+ 1001 24052   4   2  C 2.4000+7          0.092700          0.697165                              K.G.Leach+           (19)O2309  4 
+ 1001 24052   4   2  C 2.4000+7          0.051900          0.559193                              K.G.Leach+           (19)O2309  4 
+ 1001 24052   4   2  C 2.4000+7          6.7300-3          0.406737                              K.G.Leach+           (19)O2309  4 
+ 1001 24052   4   2  C 2.4000+7          0.013200          0.152986                              K.G.Leach+           (19)O2309  4 
+ 1001 24052   4   2  C 2.4000+7          0.012200          0.064532                              K.G.Leach+           (19)O2309  4 
+#/DATA      10
+#/DATASET

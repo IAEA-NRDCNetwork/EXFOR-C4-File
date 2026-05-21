@@ -1,0 +1,28 @@
+#ENTRY      32893
+#AUTHOR1    X.Tang+
+#YEAR       2023
+#INSTITUTE  (3CPRIMP)
+#TITLE      Activation cross sections for reactions induced by 14
+#+          MeV neutrons on natural titanium
+#AUTHOR(S)  X.Tang, G.Tian, Y.Huang, J.Ran, Z.Wen, J.Xu, S.Song, B.Liu, 
+#+          R.Han, F.Shi, X.Zhang, H.Sun, Y.Gong, Y.Li, Z.Zhang, Z.Chen, 
+#+          P.Luo
+#REF-CODE   (J,ARI,193,110636,2023)
+#REFERENCE  Appl.Radiat.Isot. 193 (2023) 110636 (doi:10.1016/j.apradiso.2022.110636)
+#DATASETS   0
+#
+#DATASET    32893004 
+#DATE       20241208
+#REACTION   22-TI-50(N,A)20-CA-47,,SIG
+#PROJ       1
+#TARG       22050
+#MF         3
+#MT         107
+#PRODUCT    20-CA-47
+#C4BEGIN    [    1 22050   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22050   3 107    1.4000+7          8.7000-3 1.7000-3                                       X.Tang+              (23)32893  4 
+#/DATA      1
+#/DATASET

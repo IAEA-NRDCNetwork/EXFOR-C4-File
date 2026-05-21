@@ -1,0 +1,30 @@
+#ENTRY      O0754
+#AUTHOR1    Z.Lewandowski+
+#YEAR       1980
+#INSTITUTE  (2SWTBAS)
+#TITLE      Proton-induced alpha- and tritium-emission at 72 MeV.
+#AUTHOR(S)  Z.Lewandowski, E.Loeffler, R.Wagner, H.H.Mueller, W.Reichart, 
+#+          P.Schober, E.Gadioli, E.Gadioli Erba
+#REF-CODE   (J,NCL,28,15,1980)
+#REFERENCE  Nuovo Cim.Lett. 28 (1980) 15 (doi:10.1007/BF02776069)
+#DATASETS   0
+#
+#DATASET    O0754018 
+#DATE       20190228
+#REACTION   82-PB-208(P,X)2-HE-4,,DA/DE
+#PROJ       1001
+#TARG       82208
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001 82208   6 207 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   6 207 C  7.0700+7          2.524-11          0.807990          7.0000+7          E2Z.Lewandowski+       (80)O0754 18 
+ 1001 82208   6 207 C  7.0700+7          1.852-11          0.758134          7.0000+7          E2Z.Lewandowski+       (80)O0754 18 
+ 1001 82208   6 207 C  7.0700+7          6.337-12          0.633381          7.0000+7          E2Z.Lewandowski+       (80)O0754 18 
+ 1001 82208   6 207 C  7.0700+7          2.826-12          0.398749          7.0000+7          E2Z.Lewandowski+       (80)O0754 18 
+ 1001 82208   6 207 C  7.0700+7          1.820-13         -0.525472          7.0000+7          E2Z.Lewandowski+       (80)O0754 18 
+#/DATA      5
+#/DATASET

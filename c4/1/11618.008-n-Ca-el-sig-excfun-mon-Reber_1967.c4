@@ -1,0 +1,31 @@
+#ENTRY      11618
+#AUTHOR1    J.D.Reber+
+#YEAR       1967
+#INSTITUTE  (1USAKTY)
+#TITLE      NEUTRON CROSS SECTIONS OF CALCIUM AND POTASSIUM FROM 2
+#+          TO 8 MEV.
+#AUTHOR(S)  J.D.Reber, J.D.Brandenberger
+#REF-CODE   (J,PR,163,1077,67)
+#REFERENCE  Phys.Rev. 163 (1967) 1077 (doi:10.1103/PhysRev.163.1077)
+#DATASETS   0
+#
+#DATASET    11618008 
+#DATE       19860417
+#REACTION   20-CA-0(N,EL)20-CA-0,,SIG
+#PROJ       1
+#TARG       20000
+#MF         3
+#MT         2
+#PRODUCT    20-CA-0
+#C4BEGIN    [    1 20000   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20000   3   2 D  2060000. 115000.0 3.230000                                                J.D.Reber+           (67)11618  8 
+    1 20000   3   2 D  3290000. 95000.00 2.670000                                                J.D.Reber+           (67)11618  8 
+    1 20000   3   2 D  5300000. 245000.0 2.050000                                                J.D.Reber+           (67)11618  8 
+    1 20000   3   2 D  5880000. 205000.0 1.980000                                                J.D.Reber+           (67)11618  8 
+    1 20000   3   2 D  6520000. 160000.0 1.660000                                                J.D.Reber+           (67)11618  8 
+    1 20000   3   2 D  7910000. 220000.0 1.620000                                                J.D.Reber+           (67)11618  8 
+#/DATA      6
+#/DATASET

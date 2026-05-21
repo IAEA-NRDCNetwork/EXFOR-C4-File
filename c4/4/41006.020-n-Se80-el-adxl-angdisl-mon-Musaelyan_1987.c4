@@ -1,0 +1,35 @@
+#ENTRY      41006
+#AUTHOR1    R.M.Musaelyan+
+#YEAR       1987
+#INSTITUTE  (4RUSJIA)
+#TITLE      Low energy neutrons elastic scattering on the even
+#+          selenium isotopes and generalized optical model
+#+          of the nuclei
+#AUTHOR(S)  R.M.Musaelyan, V.I.Popov, V.M.Skorkin
+#REF-CODE   (C,87KIEV,3,213,1987)
+#REFERENCE  Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 213
+#DATASETS   0
+#
+#DATASET    41006020 
+#DATE       20120420
+#REACTION   34-SE-80(N,EL)34-SE-80,,DA
+#PROJ       1
+#TARG       34080
+#MF         4
+#MT         2
+#PRODUCT    34-SE-80
+#C4BEGIN    [    1 34080   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34080   4   2 A  720000.0          0.912000 0.046000 0.866025                              R.M.Musaelyan+       (87)41006 20 
+    1 34080   4   2 A  720000.0          0.698000 0.035000 0.707107                              R.M.Musaelyan+       (87)41006 20 
+    1 34080   4   2 A  720000.0          0.538000 0.027000 0.500000                              R.M.Musaelyan+       (87)41006 20 
+    1 34080   4   2 A  720000.0          0.385000 0.019000 0.258819                              R.M.Musaelyan+       (87)41006 20 
+    1 34080   4   2 A  720000.0          0.288000 0.014000 6.123-17                              R.M.Musaelyan+       (87)41006 20 
+    1 34080   4   2 A  720000.0          0.255000 0.012000-0.258819                              R.M.Musaelyan+       (87)41006 20 
+    1 34080   4   2 A  720000.0          0.254000 0.012000-0.500000                              R.M.Musaelyan+       (87)41006 20 
+    1 34080   4   2 A  720000.0          0.323000 0.016000-0.707107                              R.M.Musaelyan+       (87)41006 20 
+    1 34080   4   2 A  720000.0          0.358000 0.018000-0.866025                              R.M.Musaelyan+       (87)41006 20 
+#/DATA      9
+#/DATASET

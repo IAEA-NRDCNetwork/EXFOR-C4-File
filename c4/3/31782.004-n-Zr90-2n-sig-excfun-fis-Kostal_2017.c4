@@ -1,0 +1,28 @@
+#ENTRY      31782
+#AUTHOR1    M.Kostal+
+#YEAR       2017
+#INSTITUTE  (3CZRUJV)
+#TITLE      Validation of zirconium isotopes (n,g) and (n,2n)
+#+          cross sections in a comprehensive LR-0 reactor
+#+          operative parameters set
+#AUTHOR(S)  M.Kostal, M.Schulc, V.Rypar, E.Losa, N.Burianova, J.Simon, 
+#+          M.Marecek, J.Uhlir
+#REF-CODE   (J,ARI,128,92,2017)
+#REFERENCE  Appl.Radiat.Isot. 128 (2017) 92 (doi:10.1016/j.apradiso.2017.06.023)
+#DATASETS   0
+#
+#DATASET    31782004 
+#DATE       20180302
+#REACTION   40-ZR-90(N,2N)40-ZR-89,,SIG,,FIS
+#PROJ       1
+#TARG       40090
+#MF         3
+#MT         16
+#PRODUCT    40-ZR-89
+#C4BEGIN    [    1 40090   3  16 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   3  16 D  1320000.          1.0710-4 4.2840-6                                       M.Kostal+            (17)31782  4 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      21912
+#AUTHOR1    G.Winkler+
+#YEAR       1983
+#INSTITUTE  (2AUSIRK)
+#TITLE      --PRECISE MEASUREMENT OF CROSS SECTIONS FOR THE
+#+          REACTION 65-CU(N,2N)64-CU IN THE 14 MEV
+#+          REGION AND SIMULTANEOUS REEVALUATION OF SOME
+#+          IMPORTANT CROSS SECTIONS AT 14.70 MEV.
+#AUTHOR(S)  G.Winkler, T.B.Ryves
+#REF-CODE   (J,ANE,10,(11),601,8304)
+#REFERENCE  Ann.Nucl.Energy 10 No.11 (1983) 601 (doi:10.1016/0306-4549(83)90063-4)
+#DATASETS   0
+#
+#DATASET    21912002 
+#DATE       19840710
+#REACTION   29-CU-65(N,2N)29-CU-64,,SIG
+#PROJ       1
+#TARG       29065
+#MF         3
+#MT         16
+#PRODUCT    29-CU-64
+#C4BEGIN    [    1 29065   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29065   3  16    1.3692+7 11000.00 0.823400 0.020600                                       G.Winkler+           (83)21912  2 
+    1 29065   3  16    1.4473+7 16000.00 0.931800 0.013100                                       G.Winkler+           (83)21912  2 
+    1 29065   3  16    1.4822+7 15000.00 0.961000 0.014400                                       G.Winkler+           (83)21912  2 
+#/DATA      3
+#/DATASET

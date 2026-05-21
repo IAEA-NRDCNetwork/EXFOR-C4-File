@@ -1,0 +1,27 @@
+#ENTRY      O2067
+#AUTHOR1    A.B.Clegg+
+#YEAR       1961
+#INSTITUTE  (2UK OXF)
+#TITLE      Gamma radiation from the medium energy proton
+#+          bombardment of lithium, beryllium, boron, carbon and
+#+          nitrogen.
+#AUTHOR(S)  A.B.Clegg, K.J.Foley, G.L.Salmon, R.E.Segel
+#REF-CODE   (J,PPS,78,681,1961)
+#REFERENCE  Proc.Phys.Soc.(UK) 78 (1961) 681 (doi:10.1088/0370-1328/78/5/305)
+#DATASETS   0
+#
+#DATASET    O2067002 
+#DATE       20121028
+#REACTION   3-LI-6(P,INL)3-LI-6,PAR,SIG,G
+#PROJ       1001
+#TARG       3006
+#MF         13
+#MT         601
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1001  3006  13 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006  13 601    1.4900+8          7.0000-4 3.0000-4                   3560000.            A.B.Clegg+           (61)O2067  2 
+#/DATA      1
+#/DATASET

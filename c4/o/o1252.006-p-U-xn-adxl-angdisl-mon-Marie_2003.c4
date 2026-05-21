@@ -1,0 +1,33 @@
+#ENTRY      O1252
+#AUTHOR1    N.Marie+
+#YEAR       2003
+#INSTITUTE  (2FR FR)
+#TITLE      Light particle production in 63 MeV proton induced
+#+          reactions on lead
+#AUTHOR(S)  N.Marie, A.Guertin, S.Auduc, V.Blideanu, Th.Delbar, P.Eudes, 
+#+          Y.Foucher, F.Haddad, T.Kirchner, Ch.Le Brun, C.Lebrun, F.R.Lecolley, 
+#+          J.F.Lecolley, X.Ledoux, F.Lefebvres, M.Louvel, A.Ninane, 
+#+          Y.Patin, Ph.Pras, G.Riviere, C.Varignon
+#REF-CODE   (C,2003DARMST,,2003)
+#REFERENCE  Proceedings of Worksh.Nucl.Data for Transmutation, Darmstadt, 2003
+#DATASETS   0
+#
+#DATASET    O1252006 
+#DATE       20050406
+#REACTION   92-U-0(P,X)0-NN-1,,DA
+#PROJ       1001
+#TARG       92000
+#MF         4
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1001 92000   4 201 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92000   4 201 D  6.2900+7          0.631946 0.080878-0.500000                              N.Marie+             (03)O1252  6 
+ 1001 92000   4 201 D  6.2900+7          0.647538 0.082079 0.173648                              N.Marie+             (03)O1252  6 
+ 1001 92000   4 201 D  6.2900+7          0.792874 0.097417 0.573576                              N.Marie+             (03)O1252  6 
+ 1001 92000   4 201 D  6.2900+7          1.202150 0.135886 0.819152                              N.Marie+             (03)O1252  6 
+ 1001 92000   4 201 D  6.2900+7          1.000020 0.112212 0.913545                              N.Marie+             (03)O1252  6 
+#/DATA      5
+#/DATASET

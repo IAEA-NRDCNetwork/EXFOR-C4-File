@@ -1,0 +1,32 @@
+#ENTRY      20496
+#AUTHOR1    G.C.Bonazzola+
+#YEAR       1972
+#INSTITUTE  (2ITYTUR)
+#TITLE      -BACKWARD SCATTERING OF 14.1 MEV NEUTRONS FROM O-16.-
+#AUTHOR(S)  G.C.Bonazzola, T.Bressani, E.Chiavassa, L.Naldi, B.Minetti, 
+#+          A.Pasquarelli
+#REF-CODE   (J,NCL,5,226,7209)
+#REFERENCE  Nuovo Cim.Lett. 5 (1972) 226 (doi:10.1007/BF02752614)
+#DATASETS   0
+#
+#DATASET    20496002 
+#DATE       19840120
+#REACTION   8-O-16(N,EL)8-O-16,,DA
+#PROJ       1
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [    1  8016   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016   4   2  C 1.4100+7          0.024800 1.6000-3-0.999460 5.7350-4                     G.C.Bonazzola+       (72)20496  2 
+    1  8016   4   2  C 1.4100+7          0.029300 1.5000-3-0.989270 2.5499-3                     G.C.Bonazzola+       (72)20496  2 
+    1  8016   4   2  C 1.4100+7          0.031500 1.5000-3-0.977230 3.7033-3                     G.C.Bonazzola+       (72)20496  2 
+    1  8016   4   2  C 1.4100+7          0.031900 1.4000-3-0.963550 4.6692-3                     G.C.Bonazzola+       (72)20496  2 
+    1  8016   4   2  C 1.4100+7          0.030100 1.1000-3-0.952750 5.3015-3                     G.C.Bonazzola+       (72)20496  2 
+    1  8016   4   2  C 1.4100+7          0.024300 1.0000-3-0.917750 6.9317-3                     G.C.Bonazzola+       (72)20496  2 
+    1  8016   4   2  C 1.4100+7          0.018700 1.0000-3-0.876020 8.4173-3                     G.C.Bonazzola+       (72)20496  2 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      12753
+#AUTHOR1    R.L.Macklin+
+#YEAR       1982
+#INSTITUTE  (1USAORL)
+#TITLE      Technetium-99 neutron capture cross section
+#AUTHOR(S)  R.L.Macklin, R.R.Winters
+#REF-CODE   (J,NSE,81,520,198208)
+#REFERENCE  Nucl.Sci.Eng. 81 (1982) 520 (doi:10.13182/NSE82-A21441)
+#DATASETS   0
+#
+#DATASET    12753005 
+#DATE       20120209
+#REACTION   43-TC-99(N,G)43-TC-100,,SIG,,MXW
+#PROJ       1
+#TARG       43099
+#MF         3
+#MT         102
+#PRODUCT    43-TC-100
+#C4BEGIN    [    1 43099   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 43099   3 102 A  5000.000          1.849000 0.030000                                       R.L.Macklin+         (82)12753  5 
+    1 43099   3 102 A  10000.00          1.370000 9.0000-3                                       R.L.Macklin+         (82)12753  5 
+    1 43099   3 102 A  15000.00          1.131000 4.0000-3                                       R.L.Macklin+         (82)12753  5 
+    1 43099   3 102 A  20000.00          0.976000 3.0000-3                                       R.L.Macklin+         (82)12753  5 
+    1 43099   3 102 A  25000.00          0.865000 2.0000-3                                       R.L.Macklin+         (82)12753  5 
+    1 43099   3 102 A  30000.00          0.782000 1.0000-3                                       R.L.Macklin+         (82)12753  5 
+    1 43099   3 102 A  40000.00          0.662000 1.0000-3                                       R.L.Macklin+         (82)12753  5 
+    1 43099   3 102 A  50000.00          0.580000 1.0000-3                                       R.L.Macklin+         (82)12753  5 
+    1 43099   3 102 A  100000.0          0.377000 1.0000-3                                       R.L.Macklin+         (82)12753  5 
+#/DATA      9
+#/DATASET

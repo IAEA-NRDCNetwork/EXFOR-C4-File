@@ -1,0 +1,31 @@
+#ENTRY      D6343
+#AUTHOR1    M.Shuaib+
+#YEAR       2018
+#INSTITUTE  (3INDMUA)
+#TITLE      Effects of projectile break-up on fusion cross
+#+          sections at energies near and above the coulomb
+#+          barrier: A case of incomplete fusion
+#AUTHOR(S)  M.Shuaib, V.R.Sharma, A.Yadav, M.K.Sharma, P.P.Singh, D.P.Singh, 
+#+          R.Kumar, R.P.Singh, S.Muralithar, B.P.Singh, R.Prasad
+#REF-CODE   (J,PR/C,98,014605,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 014605 (doi:10.1103/PhysRevC.98.014605)
+#DATASETS   0
+#
+#DATASET    D6343009 
+#DATE       20191114
+#REACTION   71-LU-175(9-F-19,X)79-AU-188,(CUM),SIG
+#PROJ       9019
+#TARG       71175
+#MF         3
+#MT         459
+#PRODUCT    79-AU-188
+#C4BEGIN    [ 9019 71175   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 9019 71175   3 459    9.5200+7 1600000. 4.0000-5                    79188.9                     M.Shuaib+            (18)D6343  9 
+ 9019 71175   3 459    9.9900+7 1700000. 3.8000-3 5.0000-4           79188.9                     M.Shuaib+            (18)D6343  9 
+ 9019 71175   3 459    1.0360+8 1300000. 0.015000 2.2000-3           79188.9                     M.Shuaib+            (18)D6343  9 
+ 9019 71175   3 459    1.0850+8 1400000. 0.044800 6.7000-3           79188.9                     M.Shuaib+            (18)D6343  9 
+#/DATA      4
+#/DATASET

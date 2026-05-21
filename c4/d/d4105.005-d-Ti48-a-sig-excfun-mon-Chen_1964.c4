@@ -1,0 +1,33 @@
+#ENTRY      D4105
+#AUTHOR1    K.L.Chen+
+#YEAR       1964
+#INSTITUTE  (1USACOL)
+#TITLE      Comparison between reactions of alpha particles with
+#+          scandium-45 and deuterons with Titanium-47.
+#AUTHOR(S)  K.L.Chen, J.M.Miller
+#REF-CODE   (J,PR,134,B1269,1964)
+#REFERENCE  Phys.Rev. 134 (1964) B1269 (doi:10.1103/PhysRev.134.B1269)
+#DATASETS   0
+#
+#DATASET    D4105005 
+#DATE       20221002
+#REACTION   22-TI-48(D,A)21-SC-46,,SIG
+#PROJ       1002
+#TARG       22048
+#MF         3
+#MT         107
+#PRODUCT    21-SC-46
+#C4BEGIN    [ 1002 22048   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 22048   3 107    6900000.          0.023800                                                K.L.Chen+            (64)D4105  5 
+ 1002 22048   3 107    8800000.          0.031100                                                K.L.Chen+            (64)D4105  5 
+ 1002 22048   3 107    9500000.          0.034300                                                K.L.Chen+            (64)D4105  5 
+ 1002 22048   3 107    1.0800+7          0.040600                                                K.L.Chen+            (64)D4105  5 
+ 1002 22048   3 107    1.2100+7          0.041200                                                K.L.Chen+            (64)D4105  5 
+ 1002 22048   3 107    1.3300+7          0.039200                                                K.L.Chen+            (64)D4105  5 
+ 1002 22048   3 107    1.4900+7          0.024700                                                K.L.Chen+            (64)D4105  5 
+ 1002 22048   3 107    1.5900+7          0.017900                                                K.L.Chen+            (64)D4105  5 
+#/DATA      8
+#/DATASET

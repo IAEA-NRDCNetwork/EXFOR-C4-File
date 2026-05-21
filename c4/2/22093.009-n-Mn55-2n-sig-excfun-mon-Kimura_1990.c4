@@ -1,0 +1,26 @@
+#ENTRY      22093
+#AUTHOR1    I.Kimura+
+#YEAR       1990
+#INSTITUTE  (2JPNKTO)
+#TITLE      Calibrated fission and fusion neutron fields at the
+#+          Kyoto University Reactor
+#AUTHOR(S)  I.Kimura, K.Kobayashi
+#REF-CODE   (J,NSE,106,332,1990)
+#REFERENCE  Nucl.Sci.Eng. 106 (1990) 332 (doi:10.13182/NSE90-A29061)
+#DATASETS   0
+#
+#DATASET    22093009 
+#DATE       20140808
+#REACTION   25-MN-55(N,2N)25-MN-54,,SIG
+#PROJ       1
+#TARG       25055
+#MF         3
+#MT         16
+#PRODUCT    25-MN-54
+#C4BEGIN    [    1 25055   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 25055   3  16 A  1.4050+7 70000.00 0.775400 0.028600                                       I.Kimura+            (90)22093  9 
+#/DATA      1
+#/DATASET

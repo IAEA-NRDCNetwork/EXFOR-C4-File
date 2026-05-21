@@ -1,0 +1,42 @@
+#ENTRY      D0117
+#AUTHOR1    F.Koehl+
+#YEAR       1990
+#INSTITUTE  (2GERFRK)
+#TITLE      Determination of nitrogen in semiconductor materials
+#+          using the 14N(p,a)11C and 14N(d,n)15O nuclear reactions
+#AUTHOR(S)  F.Koehl, J.Krauskopf, P.Misaelide, R.Michelmann, G.Wolf, 
+#+          K.Behge
+#REF-CODE   (J,NIM/B,50,19,1990)
+#REFERENCE  Nucl.Instrum.Meth.B 50 (1990) 19 (doi:10.1016/0168-583X(90)90321-K)
+#DATASETS   0
+#
+#DATASET    D0117003 
+#DATE       20040220
+#REACTION   7-N-14(D,N)8-O-15,,SIG
+#PROJ       1002
+#TARG       7014
+#MF         3
+#MT         4
+#PRODUCT    8-O-15
+#C4BEGIN    [ 1002  7014   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7014   3   4    845940.0          7.0846-3                                                F.Koehl+             (90)D0117  3 
+ 1002  7014   3   4    1158000.          0.017046                                                F.Koehl+             (90)D0117  3 
+ 1002  7014   3   4    1552400.          0.026931                                                F.Koehl+             (90)D0117  3 
+ 1002  7014   3   4    1748500.          0.032660                                                F.Koehl+             (90)D0117  3 
+ 1002  7014   3   4    1895900.          0.052245                                                F.Koehl+             (90)D0117  3 
+ 1002  7014   3   4    2036600.          0.066719                                                F.Koehl+             (90)D0117  3 
+ 1002  7014   3   4    2305300.          0.134930 0.015600                                       F.Koehl+             (90)D0117  3 
+ 1002  7014   3   4    3042900.          0.219170 0.021329                                       F.Koehl+             (90)D0117  3 
+ 1002  7014   3   4    3558900.          0.236800 0.028273                                       F.Koehl+             (90)D0117  3 
+ 1002  7014   3   4    4038100.          0.266640 0.031786                                       F.Koehl+             (90)D0117  3 
+ 1002  7014   3   4    4570000.          0.260010                                                F.Koehl+             (90)D0117  3 
+ 1002  7014   3   4    5042300.          0.233720 0.036021                                       F.Koehl+             (90)D0117  3 
+ 1002  7014   3   4    5536100.          0.227990 0.032457                                       F.Koehl+             (90)D0117  3 
+ 1002  7014   3   4    6030300.          0.224680 0.024265                                       F.Koehl+             (90)D0117  3 
+ 1002  7014   3   4    6541900.          0.210340                                                F.Koehl+             (90)D0117  3 
+ 1002  7014   3   4    7033900.          0.192960                                                F.Koehl+             (90)D0117  3 
+#/DATA      16
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      O1065
+#AUTHOR1    M.Trotta+
+#YEAR       2000
+#INSTITUTE  (2FR SAC)
+#TITLE      Large enhancement of the sub-barrier fusion probability
+#+          for a halo nucleus
+#AUTHOR(S)  M.Trotta, J.L.Sida, N.Alamanos, A.Andreyev, F.Auger, D.L.Balabanski, 
+#+          C.Borcea, N.Coulier, A.Drouart, D.J.C.Durand, G.Georgiev, 
+#+          A.Gillibert, J.D.Hinnefeld, M.Huyse, C.Jouanne, V.Lapoux, 
+#+          A.Lepine, A.Lumbroso, F.Marie, A.Musumarra, G.Neyens, S.Ottini, 
+#+          R.Raabe, S.Ternier, P.Van Duppen, K.Vyvey, C.Volant, R.Wolski
+#REF-CODE   (J,PRL,84,2342,2000)
+#REFERENCE  Phys.Rev.Lett. 84 (2000) 2342 (doi:10.1103/PhysRevLett.84.2342)
+#DATASETS   0
+#
+#DATASET    O1065003 
+#DATE       20030710
+#REACTION   92-U-238(2-HE-6,F),,SIG
+#PROJ       2006
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [ 2006 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 92238   3  18    2.9428+7          1.381000 0.099100                                       M.Trotta+            (00)O1065  3 
+ 2006 92238   3  18    2.8402+7          1.480100 0.084000                                       M.Trotta+            (00)O1065  3 
+ 2006 92238   3  18    2.7274+7          1.140700 0.071400                                       M.Trotta+            (00)O1065  3 
+ 2006 92238   3  18    2.5941+7          1.033500 0.033800                                       M.Trotta+            (00)O1065  3 
+ 2006 92238   3  18    2.4813+7          0.794200 0.036000                                       M.Trotta+            (00)O1065  3 
+ 2006 92238   3  18    2.3583+7          0.482000 0.030900                                       M.Trotta+            (00)O1065  3 
+ 2006 92238   3  18    1.7943+7          0.037300 2.2000-3                                       M.Trotta+            (00)O1065  3 
+ 2006 92238   3  18    1.4970+7          5.4000-3 4.0000-4                                       M.Trotta+            (00)O1065  3 
+#/DATA      8
+#/DATASET

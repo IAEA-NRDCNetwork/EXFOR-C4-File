@@ -1,0 +1,32 @@
+#ENTRY      C1419
+#AUTHOR1    J.Kallne+
+#YEAR       1978
+#INSTITUTE  (1CANALA)
+#TITLE      Energy Dependence of He4(p, d)He3
+#AUTHOR(S)  J.Kallne, D.A.Hutcheon, W.J.McDonald, A.N.Anderson, J.L.Beveridge, 
+#+          J.Rogers
+#REF-CODE   (J,PRL,41,1638,1978)
+#REFERENCE  Phys.Rev.Lett. 41 (1978) 1638 (doi:10.1103/PhysRevLett.41.1638)
+#DATASETS   0
+#
+#DATASET    C1419002 
+#DATE       20060224
+#REACTION   2-HE-4(P,D)2-HE-3,,DA
+#PROJ       1001
+#TARG       2004
+#MF         4
+#MT         104
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  2004   4 104  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2004   4 104  C 2.0600+8          2.6100-4 3.2300-5 0.923880                              J.Kallne+            (78)C1419  2 
+ 1001  2004   4 104  C 2.5700+8          1.1500-4 1.4300-5 0.923880                              J.Kallne+            (78)C1419  2 
+ 1001  2004   4 104  C 3.0600+8          5.5600-5 5.4300-6 0.923880                              J.Kallne+            (78)C1419  2 
+ 1001  2004   4 104  C 3.5400+8          2.2400-5 2.4600-6 0.923880                              J.Kallne+            (78)C1419  2 
+ 1001  2004   4 104  C 4.0500+8          1.4000-5 2.3000-6 0.923880                              J.Kallne+            (78)C1419  2 
+ 1001  2004   4 104  C 4.5700+8          9.0300-6 7.0700-7 0.923880                              J.Kallne+            (78)C1419  2 
+ 1001  2004   4 104  C 5.0600+8          5.0400-6 4.4900-7 0.923880                              J.Kallne+            (78)C1419  2 
+#/DATA      7
+#/DATASET

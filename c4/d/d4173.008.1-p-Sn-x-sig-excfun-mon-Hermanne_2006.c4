@@ -1,0 +1,37 @@
+#ENTRY      D4173
+#AUTHOR1    A.Hermanne+
+#YEAR       2006
+#INSTITUTE  (2BLGVUB)
+#TITLE      Experimental study of the excitation functions of
+#+          proton induced reactions on natural Sn up to 65 MeV
+#AUTHOR(S)  A.Hermanne, F.Tarkanyi, F.Ditroi, S.Takacs, R.A.Rebeles, 
+#+          M.S.Uddin, M.Hagiwara, M.Baba, Yu.Shubin, S.F.Kovalev
+#REF-CODE   (J,NIM/B,247,180,2006)
+#REFERENCE  Nucl.Instrum.Meth.B 247 (2006) 180 (doi:10.1016/j.nimb.2006.02.005)
+#DATASETS   0
+#
+#DATASET    D41730081
+#DATE       20060523
+#REACTION   50-SN-0(P,X)49-IN-110-G,,SIG
+#PROJ       1001
+#TARG       50000
+#MF         3
+#MT         454
+#PRODUCT    49-IN-110-G
+#C4BEGIN    [ 1001 50000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50000   3 454    6.6000+7 300000.0 8.9000-3 1.1000-3           49110.0                     A.Hermanne+          (06)D4173  81
+ 1001 50000   3 454    6.2900+7 400000.0 8.3000-3 1.0000-3           49110.0                     A.Hermanne+          (06)D4173  81
+ 1001 50000   3 454    5.7400+7 500000.0 5.8000-3 7.0000-4           49110.0                     A.Hermanne+          (06)D4173  81
+ 1001 50000   3 454    5.5000+7 700000.0 7.5000-3 9.0000-4           49110.0                     A.Hermanne+          (06)D4173  81
+ 1001 50000   3 454    5.2500+7 900000.0 6.4000-3 8.0000-4           49110.0                     A.Hermanne+          (06)D4173  81
+ 1001 50000   3 454    5.0000+7 1100000. 6.1000-3 8.0000-4           49110.0                     A.Hermanne+          (06)D4173  81
+ 1001 50000   3 454    4.7300+7 1400000. 6.1000-3 8.0000-4           49110.0                     A.Hermanne+          (06)D4173  81
+ 1001 50000   3 454    4.4500+7 1600000. 5.7000-3 7.0000-4           49110.0                     A.Hermanne+          (06)D4173  81
+ 1001 50000   3 454    4.1500+7 1900000. 4.8000-3 6.0000-4           49110.0                     A.Hermanne+          (06)D4173  81
+ 1001 50000   3 454    3.8300+7 2200000. 5.4000-3 7.0000-4           49110.0                     A.Hermanne+          (06)D4173  81
+ 1001 50000   3 454    3.5000+7 2500000. 4.4000-3 6.0000-4           49110.0                     A.Hermanne+          (06)D4173  81
+#/DATA      11
+#/DATASET

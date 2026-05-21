@@ -1,0 +1,59 @@
+#ENTRY      F0302
+#AUTHOR1    C.M.Class+
+#YEAR       1965
+#INSTITUTE  (1USARIC)
+#TITLE      Angular distributions from the 11B(d,n0)12C and
+#+          11B(d,n1)12C* reactions for deuteron energies from
+#+          1.5 to 4.7 MeV
+#AUTHOR(S)  C.M.Class, J.E.Price, J.R.Risser
+#REF-CODE   (J,NP,71,433,1965)
+#REFERENCE  Nucl.Phys. 71 (1965) 433 (doi:10.1016/0029-5582(65)90730-3)
+#DATASETS   0
+#
+#DATASET    F0302003 
+#DATE       20210617
+#REACTION   5-B-11(D,N)6-C-12,PAR,SIG
+#PROJ       1002
+#TARG       5011
+#MF         3
+#MT         50
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1002  5011   3  50 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5011   3  50 D  1490000.          0.031000                            0.000000         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  1960000.          0.024200                            0.000000         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  2350000.          0.018000                            0.000000         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  2770000.          0.015900                            0.000000         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  3070000.          0.015800                            0.000000         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  3450000.          0.013100                            0.000000         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  3760000.          0.013100                            0.000000         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  4100000.          0.018900                            0.000000         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  4660000.          0.013300                            0.000000         LVLC.M.Class+           (65)F0302  3 
+#/DATA      9
+#/DATASET
+#
+#DATASET    F0302003 
+#DATE       20210617
+#REACTION   5-B-11(D,N)6-C-12,PAR,SIG
+#PROJ       1002
+#TARG       5011
+#MF         3
+#MT         50
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1002  5011   3  50 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5011   3  50 D  1500000.          0.041900                            4439000.         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  1960000.          0.037100                            4439000.         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  2360000.          0.029100                            4439000.         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  2750000.          0.025600                            4439000.         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  3040000.          0.031100                            4439000.         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  3420000.          0.031700                            4439000.         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  3770000.          0.032500                            4439000.         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  4110000.          0.038300                            4439000.         LVLC.M.Class+           (65)F0302  3 
+ 1002  5011   3  50 D  4660000.          0.028600                            4439000.         LVLC.M.Class+           (65)F0302  3 
+#/DATA      9
+#/DATASET

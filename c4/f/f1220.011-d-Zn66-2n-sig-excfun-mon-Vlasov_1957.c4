@@ -1,0 +1,38 @@
+#ENTRY      F1220
+#AUTHOR1    N.A.Vlasov+
+#YEAR       1957
+#INSTITUTE  (4RUSKUR)
+#TITLE      Excitation functions for the reactions Mg-24(d,a)Na-22,
+#+          Fe-54(d,a)Mn-52, Fe-54(d,n)Co-55, Zn-66(d,2n)Ga-66.
+#AUTHOR(S)  N.A.Vlasov, S.P.Kalinin, A.A.Ogloblin, V.M.Pankratov, V.P.Rudakov, 
+#+          I.N.Serikov, V.A.Sidorov
+#REF-CODE   (J,AE,2,169,1957)
+#REFERENCE  At.En. 2 (1957) 169
+#DATASETS   0
+#
+#DATASET    F1220011 
+#DATE       20141113
+#REACTION   30-ZN-66(D,2N)31-GA-66,,SIG
+#PROJ       1002
+#TARG       30066
+#MF         3
+#MT         16
+#PRODUCT    31-GA-66
+#C4BEGIN    [ 1002 30066   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 30066   3  16    8746000.          1.3000-3 1.9500-4                                       N.A.Vlasov+          (57)F1220 11 
+ 1002 30066   3  16    9356000.          9.8500-3 1.4775-3                                       N.A.Vlasov+          (57)F1220 11 
+ 1002 30066   3  16    9996000.          0.059130 8.8695-3                                       N.A.Vlasov+          (57)F1220 11 
+ 1002 30066   3  16    1.0582+7          0.128960 0.019344                                       N.A.Vlasov+          (57)F1220 11 
+ 1002 30066   3  16    1.1207+7          0.198690 0.029804                                       N.A.Vlasov+          (57)F1220 11 
+ 1002 30066   3  16    1.1694+7          0.264710 0.039706                                       N.A.Vlasov+          (57)F1220 11 
+ 1002 30066   3  16    1.2066+7          0.339200 0.050880                                       N.A.Vlasov+          (57)F1220 11 
+ 1002 30066   3  16    1.2572+7          0.403130 0.060470                                       N.A.Vlasov+          (57)F1220 11 
+ 1002 30066   3  16    1.2995+7          0.448920 0.067338                                       N.A.Vlasov+          (57)F1220 11 
+ 1002 30066   3  16    1.3059+7          0.467110 0.070067                                       N.A.Vlasov+          (57)F1220 11 
+ 1002 30066   3  16    1.3598+7          0.506460 0.075969                                       N.A.Vlasov+          (57)F1220 11 
+ 1002 30066   3  16    1.4020+7          0.548170 0.082225                                       N.A.Vlasov+          (57)F1220 11 
+#/DATA      12
+#/DATASET

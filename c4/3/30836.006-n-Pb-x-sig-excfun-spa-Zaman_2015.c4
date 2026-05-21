@@ -1,0 +1,27 @@
+#ENTRY      30836
+#AUTHOR1    M.Zaman+
+#YEAR       2015
+#INSTITUTE  (3KORKNU)
+#TITLE      Measurement of activation cross-sections for
+#+          high-energy neutron-induced reactions of Bi and Pb
+#AUTHOR(S)  M.Zaman, G.N.Kim, K.Kim, H.Naik, M.Shahid, M.W.Lee
+#REF-CODE   (J,EPJ/A,51,104,2015)
+#REFERENCE  Eur.Phys.J.A 51 (2015) 104 (doi:10.1140/epja/i2015-15104-2)
+#DATASETS   0
+#
+#DATASET    30836006 
+#DATE       20160502
+#REACTION   82-PB-0(N,X)82-PB-202-M,,SIG,,SPA
+#PROJ       1
+#TARG       82000
+#MF         3
+#MT         454
+#PRODUCT    82-PB-202-M
+#C4BEGIN    [    1 82000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   3 454 A  2.6400+7 2770000. 5.5600-3 6.9000-4           82202.7                     M.Zaman+             (15)30836  6 
+    1 82000   3 454 A  3.7200+7 2200000. 0.012380 2.1300-3           82202.7                     M.Zaman+             (15)30836  6 
+#/DATA      2
+#/DATASET

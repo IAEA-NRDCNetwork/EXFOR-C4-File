@@ -1,0 +1,39 @@
+#ENTRY      E1699
+#AUTHOR1    H.Orihara+
+#YEAR       1981
+#INSTITUTE  (2JPNTOH)
+#TITLE      Direct extraction of the isovector deformation
+#+          parameter beta (1)2 from the (p,n) reaction of 56Fe
+#AUTHOR(S)  H.Orihara, T.Murakami, S.Nishihara, T.Nakagawa, K.Maeda, 
+#+          K.Miura, H.Ohnuma
+#REF-CODE   (J,PL/B,106,(3),171,198111)
+#REFERENCE  Phys.Lett.B 106 No.3 (1981) 171 (doi:10.1016/0370-2693(81)90901-1)
+#DATASETS   0
+#
+#DATASET    E1699002 
+#DATE       20060906
+#REACTION   26-FE-56(P,N)27-CO-56,PAR,DA
+#PROJ       1001
+#TARG       26056
+#MF         4
+#MT         50
+#PRODUCT    27-CO-56
+#C4BEGIN    [ 1001 26056   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056   4  50  C 2.0000+7          3.7410-4 2.6187-5 0.999714          4440000.         LVLH.Orihara+           (81)E1699  2 
+ 1001 26056   4  50  C 2.0000+7          2.9260-4 2.0482-5 0.996493          4440000.         LVLH.Orihara+           (81)E1699  2 
+ 1001 26056   4  50  C 2.0000+7          2.8150-4 1.9705-5 0.980580          4440000.         LVLH.Orihara+           (81)E1699  2 
+ 1001 26056   4  50  C 2.0000+7          3.1220-4 2.1854-5 0.955588          4440000.         LVLH.Orihara+           (81)E1699  2 
+ 1001 26056   4  50  C 2.0000+7          2.6380-4 1.8466-5 0.925276          4440000.         LVLH.Orihara+           (81)E1699  2 
+ 1001 26056   4  50  C 2.0000+7          3.0420-4 2.1294-5 0.887574          4440000.         LVLH.Orihara+           (81)E1699  2 
+ 1001 26056   4  50  C 2.0000+7          2.7430-4 1.9201-5 0.845914          4440000.         LVLH.Orihara+           (81)E1699  2 
+ 1001 26056   4  50  C 2.0000+7          1.6350-4 1.1445-5 0.728969          4440000.         LVLH.Orihara+           (81)E1699  2 
+ 1001 26056   4  50  C 2.0000+7          1.5930-4 1.1151-5 0.604599          4440000.         LVLH.Orihara+           (81)E1699  2 
+ 1001 26056   4  50  C 2.0000+7          1.0670-4 7.4690-6 0.452590          4440000.         LVLH.Orihara+           (81)E1699  2 
+ 1001 26056   4  50  C 2.0000+7          1.1830-4 8.2810-6 0.291871          4440000.         LVLH.Orihara+           (81)E1699  2 
+ 1001 26056   4  50  C 2.0000+7          1.0000-4 7.0000-6 0.122389          4440000.         LVLH.Orihara+           (81)E1699  2 
+ 1001 26056   4  50  C 2.0000+7          9.2530-5 6.4771-6-0.050767          4440000.         LVLH.Orihara+           (81)E1699  2 
+#/DATA      13
+#/DATASET

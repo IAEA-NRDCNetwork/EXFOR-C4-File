@@ -1,0 +1,36 @@
+#ENTRY      30138
+#AUTHOR1    P.Decowski+
+#YEAR       1970
+#INSTITUTE  (3POLIBJ)
+#TITLE      Cross sections for the In-115(n,n)In-115-M reactions
+#+          in the neutron energy range 13-18 MeV
+#AUTHOR(S)  P.Decowski, W.Grochulski, A.Marcinkowski, J.Karolyi, J.Piotrowski, 
+#+          E.Saad, K.Siwek-Wilczynska, I.M.Turkiewicz, Z.Wilhelmi
+#REF-CODE   (P,INR-1197,18,197005)
+#REFERENCE  Progress report INR-1197 page 18, 1970
+#DATASETS   0
+#
+#DATASET    30138002 
+#DATE       20080208
+#REACTION   49-IN-115(N,INL)49-IN-115-M,,SIG
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         4
+#PRODUCT    49-IN-115-M
+#C4BEGIN    [    1 49115   3   4MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3   4MA  1.2980+7 150000.0 0.172000 0.014300                                       P.Decowski+          (70)30138  2 
+    1 49115   3   4MA  1.3330+7 100000.0 0.104100 1.9000-3                                       P.Decowski+          (70)30138  2 
+    1 49115   3   4MA  1.3840+7 90000.00 0.083500 1.5000-3                                       P.Decowski+          (70)30138  2 
+    1 49115   3   4MA  1.4520+7 120000.0 0.083800 1.2000-3                                       P.Decowski+          (70)30138  2 
+    1 49115   3   4MA  1.5140+7 140000.0 0.065000 5.0000-4                                       P.Decowski+          (70)30138  2 
+    1 49115   3   4MA  1.5980+7 190000.0 0.064500 2.3000-3                                       P.Decowski+          (70)30138  2 
+    1 49115   3   4MA  1.6280+7 160000.0 0.055800 2.9000-3                                       P.Decowski+          (70)30138  2 
+    1 49115   3   4MA  1.6870+7 250000.0 0.051600 0.011400                                       P.Decowski+          (70)30138  2 
+    1 49115   3   4MA  1.7370+7 240000.0 0.062600 0.012900                                       P.Decowski+          (70)30138  2 
+    1 49115   3   4MA  1.7830+7 130000.0 0.060800 0.012400                                       P.Decowski+          (70)30138  2 
+#/DATA      10
+#/DATASET

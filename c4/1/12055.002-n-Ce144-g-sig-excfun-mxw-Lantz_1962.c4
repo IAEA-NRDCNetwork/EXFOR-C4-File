@@ -1,0 +1,26 @@
+#ENTRY      12055
+#AUTHOR1    P.M.Lantz+
+#YEAR       1962
+#INSTITUTE  (1USAORL)
+#TITLE      THERMAL NEUTRON CAPTURE CROSS SECTION AND RESONANCE
+#+          CAPTURE INTEGRAL OF CE144.
+#AUTHOR(S)  P.M.Lantz
+#REF-CODE   (J,NSE,13,289,62)
+#REFERENCE  Nucl.Sci.Eng. 13 (1962) 289 (doi:10.13182/NSE62-A26166)
+#DATASETS   0
+#
+#DATASET    12055002 
+#DATE       19830802
+#REACTION   58-CE-144(N,G)58-CE-145,,SIG,,MXW
+#PROJ       1
+#TARG       58144
+#MF         3
+#MT         102
+#PRODUCT    58-CE-145
+#C4BEGIN    [    1 58144   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 58144   3 102    0.025300          1.000000 0.100000                                       P.M.Lantz            (62)12055  2 
+#/DATA      1
+#/DATASET

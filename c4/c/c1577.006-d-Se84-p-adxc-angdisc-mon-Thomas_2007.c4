@@ -1,0 +1,32 @@
+#ENTRY      C1577
+#AUTHOR1    J.S.Thomas+
+#YEAR       2007
+#INSTITUTE  (1USARUT)
+#TITLE      Single-neutron excitations in neutron-rich 83Ge and
+#+          85Se
+#AUTHOR(S)  J.S.Thomas, G.Arbanas, D.W.Bardayan, J.C.Blackmon, J.A.Cizewski, 
+#+          D.J.Dean, R.P.Fitzgerald, U.Greife, C.J.Gross, M.S.Johnson, 
+#+          K.L.Jones, R.L.Kozub, J.F.Liang, R.J.Livesay, Z.Ma, B.H.Moazen, 
+#+          C.D.Nesaraja, D.Shapira, M.S.Smith, D.W.Visser
+#REF-CODE   (J,PR/C,76,044302,2007)
+#REFERENCE  Phys.Rev.C 76 (2007) 044302 (doi:10.1103/PhysRevC.76.044302)
+#DATASETS   0
+#
+#DATASET    C1577006 
+#DATE       20071202
+#REACTION   34-SE-84(D,P)34-SE-85,PAR,DA
+#PROJ       1002
+#TARG       34084
+#MF         4
+#MT         600
+#PRODUCT    34-SE-85
+#C4BEGIN    [ 1002 34084   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 34084   4 600  C 3.8000+8          2.5490-4 1.7750-4 0.975611          1115000.         LVLJ.S.Thomas+          (07)C1577  6 
+ 1002 34084   4 600  C 3.8000+8          3.0640-4 1.4890-4 0.946085          1115000.         LVLJ.S.Thomas+          (07)C1577  6 
+ 1002 34084   4 600  C 3.8000+8          7.1880-4 2.1190-4 0.896177          1115000.         LVLJ.S.Thomas+          (07)C1577  6 
+ 1002 34084   4 600  C 3.8000+8          5.9280-4 1.6610-4 0.834271          1115000.         LVLJ.S.Thomas+          (07)C1577  6 
+#/DATA      4
+#/DATASET

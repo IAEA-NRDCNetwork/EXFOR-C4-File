@@ -1,0 +1,29 @@
+#ENTRY      22817
+#AUTHOR1    Y.Ikeda+
+#YEAR       1994
+#INSTITUTE  (2JPNJAE)
+#TITLE      Measurement of neutron activation cross sections for
+#+          the 99Tc(n,p)99Mo, 99Tc(n,alpha)96Nb,
+#+          99Tc(n,n'alpha)95Nb, and 99Tc(n,n')99mTc reactions
+#+          at 13.5 and 14.8 MeV
+#AUTHOR(S)  Y.Ikeda, E.T.Cheng, C.Konno, H.Maekawa
+#REF-CODE   (J,NSE,116,28,1994)
+#REFERENCE  Nucl.Sci.Eng. 116 (1994) 28 (doi:10.13182/NSE94-A21478)
+#DATASETS   0
+#
+#DATASET    22817002 
+#DATE       20110509
+#REACTION   43-TC-99(N,P)42-MO-99,,SIG
+#PROJ       1
+#TARG       43099
+#MF         3
+#MT         103
+#PRODUCT    42-MO-99
+#C4BEGIN    [    1 43099   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 43099   3 103 A  1.3500+7 200000.0 0.010700 1.0000-3                                       Y.Ikeda+             (94)22817  2 
+    1 43099   3 103 A  1.4800+7 200000.0 0.014000 9.0000-4                                       Y.Ikeda+             (94)22817  2 
+#/DATA      2
+#/DATASET

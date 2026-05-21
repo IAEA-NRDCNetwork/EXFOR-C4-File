@@ -1,0 +1,33 @@
+#ENTRY      22987
+#AUTHOR1    A.Oehrn+
+#YEAR       2008
+#INSTITUTE  (2SWDUPP)
+#TITLE      Elastic scattering of 96 MeV neutrons from iron,
+#+          yttrium and lead.
+#AUTHOR(S)  A.Oehrn, J.Blomgren, P.Andersson, A.Atac, C.Gustavsson, 
+#+          J.Klug, P.Mermod, S.Pomp, P.Wolniewicz, M.Oesterlund, L.Nilsson, 
+#+          B.Bergenwall, K.Elmgren, N.Olsson, U.Tippawan, S.Dangtip, 
+#+          P.Phansuke, P.Nadel-Turonski, O.Jonsson, A.V.Prokofiev, 
+#+          P.-U.Renberg, V.Blideanu, C.Le Brun, J.F.Lecolley, F.R.Lecolley, 
+#+          M.Louvel, N.Marie-Noury, C.Schweitzer, Ph.Eudes, F.Haddad, 
+#+          C.Lebrun, E.Bauge, J.P.Delaroch, M.Girod, X.Ledoux, K.Amos, 
+#+          S.Karataglidis, R.Crespo, W.Haider, C.Johansson, A.J.Koning
+#REF-CODE   (J,PR/C,77,024605,2008)
+#REFERENCE  Phys.Rev.C 77 (2008) 024605 (doi:10.1103/PhysRevC.77.024605)
+#DATASETS   0
+#
+#DATASET    22987006 
+#DATE       20080609
+#REACTION   39-Y-89(N,EL)39-Y-89,,DA
+#PROJ       1
+#TARG       39089
+#MF         4
+#MT         2
+#PRODUCT    39-Y-89
+#C4BEGIN    [    1 39089   4   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 39089   4   2 DC 9.6000+7 500000.0 22.70000 2.200000 1.000000 0.000000                     A.Oehrn+             (08)22987  6 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,45 @@
+#ENTRY      O1007
+#AUTHOR1    W.F.Mueller+
+#YEAR       2000
+#INSTITUTE  (2BLGLVN)
+#TITLE      Beta decay of Co-66, Co-68 and Co-70.
+#AUTHOR(S)  W.F.Mueller, B.Bruyneel, S.Franchoo, M.Huyse, J.Kurpeta K.Kruglov, 
+#+          Y.Kudryavtsev, N.V.S.V.Prasad, R.Raabe, I.Reusen, P.Van Duppen, 
+#+          J.Van Roosbroeck, L.Vermeeren, L.Weissman, Z.Janas, M.Karny, 
+#+          T.Kszczot, A.Plochocki, K.L.Kratz, B.Pfeiffer, H.Grawe, 
+#+          U.Koster, P.Thirolf, W.B.Walters
+#REF-CODE   (J,PR/C,61,054308,2000)
+#REFERENCE  Phys.Rev.C 61 (2000) 054308 (doi:10.1103/PhysRevC.61.054308)
+#DATASETS   0
+#
+#DATASET    O1007002 
+#DATE       20040304
+#REACTION   92-U-238(P,X)ELEM/MASS,,SIG
+#PROJ       1001
+#TARG       92238
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 92238   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92238   3 454    3.0000+7          4.0000-6 2.0000-6           27066.9                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          1.8000-5 7.0000-6           27066.9                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          2.6000-5 8.0000-6           27067.9                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          1.2000-4 5.0000-5           27067.9                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          7.0000-6 3.0000-6           27068.0                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          9.0000-6 4.0000-6           27068.1                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          8.0000-6 3.0000-6           27069.9                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          1.0000-6 3.0000-7           27070.0                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          5.2000-7 1.5000-7           27070.1                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          3.6000-5 7.0000-6           28068.9                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          7.0000-6 3.0000-6           28069.0                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          4.3000-5 8.0000-6           28069.1                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          6.0000-5 1.0000-5           28070.9                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          3.0000-5 6.0000-6           28071.9                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          1.2000-4 5.0000-5           28071.9                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          1.1000-5 2.0000-6           28072.9                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          2.6000-6 6.0000-7           28073.9                     W.F.Mueller+         (00)O1007  2 
+ 1001 92238   3 454    3.0000+7          3.4000-7 9.0000-8           28074.9                     W.F.Mueller+         (00)O1007  2 
+#/DATA      18
+#/DATASET

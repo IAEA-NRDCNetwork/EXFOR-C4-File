@@ -1,0 +1,50 @@
+#ENTRY      F1068
+#AUTHOR1    O.Hausser+
+#YEAR       1968
+#INSTITUTE  (2GERMPH)
+#TITLE      Direct and compound nuclear reaction mechanisms in
+#+          Mg-26(p,p)Mg-26.
+#AUTHOR(S)  O.Hausser, A.Richter, W.Von Witsch, W.J.Thompson
+#REF-CODE   (J,NP/A,109,329,1968)
+#REFERENCE  Nucl.Phys.A 109 (1968) 329 (doi:10.1016/0375-9474(68)90597-6)
+#DATASETS   0
+#
+#DATASET    F1068007 
+#DATE       20100622
+#REACTION   12-MG-26(P,EL)12-MG-26,,DA
+#PROJ       1001
+#TARG       12026
+#MF         4
+#MT         2
+#PRODUCT    12-MG-26
+#C4BEGIN    [ 1001 12026   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12026   4   2  C 9720000. 6000.000 4.1122-3 4.4333-4-0.172582                              O.Hausser+           (68)F1068  7 
+ 1001 12026   4   2  C 9720000. 6000.000 1.7122-3 1.9950-4-0.463605                              O.Hausser+           (68)F1068  7 
+ 1001 12026   4   2  C 9720000. 6000.000 3.9242-3 3.7648-4-0.708956                              O.Hausser+           (68)F1068  7 
+ 1001 12026   4   2  C 9720000. 6000.000 6.4240-3 6.2102-4-0.890531                              O.Hausser+           (68)F1068  7 
+ 1001 12026   4   2  C 9720000. 6000.000 7.7936-3 8.4233-4-0.985792                              O.Hausser+           (68)F1068  7 
+#/DATA      5
+#/DATASET
+#
+#DATASET    F1068007 
+#DATE       20100622
+#REACTION   12-MG-26(P,EL)12-MG-26,,DA
+#PROJ       1001
+#TARG       12026
+#MF         4
+#MT         2
+#PRODUCT    12-MG-26
+#C4BEGIN    [ 1001 12026   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12026   4   2  C 1.2570+7 6000.000 2.9876-3 2.2359-4-0.165151                              O.Hausser+           (68)F1068  7 
+ 1001 12026   4   2  C 1.2570+7 6000.000 1.5758-3 3.3613-4-0.456477                              O.Hausser+           (68)F1068  7 
+ 1001 12026   4   2  C 1.2570+7 6000.000 3.9482-3 3.5822-4-0.705501                              O.Hausser+           (68)F1068  7 
+ 1001 12026   4   2  C 1.2570+7 6000.000 6.0295-3 6.0449-4-0.887413                              O.Hausser+           (68)F1068  7 
+ 1001 12026   4   2  C 1.2570+7 6000.000 7.6201-3 7.8360-4-0.980955                              O.Hausser+           (68)F1068  7 
+#/DATA      5
+#/DATASET

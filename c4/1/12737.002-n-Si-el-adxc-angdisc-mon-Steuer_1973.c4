@@ -1,0 +1,38 @@
+#ENTRY      12737
+#AUTHOR1    M.F.Steuer+
+#YEAR       1973
+#INSTITUTE  (1USAGEO)
+#TITLE      Spin-Flip Probability for 7.44-MeV Neutrons Scattered
+#+          Inelastically (Q=-1.78 MeV) by a Silicon Target
+#AUTHOR(S)  M.F.Steuer, R.M.Wood, M.W.McDonald, F.D.McDaniel, M.P.Etten
+#REF-CODE   (J,PR/C,7,2304,1973)
+#REFERENCE  Phys.Rev.C 7 (1973) 2304 (doi:10.1103/PhysRevC.7.2304)
+#DATASETS   0
+#
+#DATASET    12737002 
+#DATE       20210928
+#REACTION   14-SI-0(N,EL)14-SI-0,,DA
+#PROJ       1
+#TARG       14000
+#MF         4
+#MT         2
+#PRODUCT    14-SI-0
+#C4BEGIN    [    1 14000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14000   4   2  C 7440000.          0.273900 0.018390 0.866392                              M.F.Steuer+          (73)12737  2 
+    1 14000   4   2  C 7440000.          0.136700          0.757713                              M.F.Steuer+          (73)12737  2 
+    1 14000   4   2  C 7440000.          0.062050          0.627216                              M.F.Steuer+          (73)12737  2 
+    1 14000   4   2  C 7440000.          0.029920          0.487418                              M.F.Steuer+          (73)12737  2 
+    1 14000   4   2  C 7440000.          0.023450 1.3790-3 0.310029                              M.F.Steuer+          (73)12737  2 
+    1 14000   4   2  C 7440000.          0.022240 1.3090-3 0.140504                              M.F.Steuer+          (73)12737  2 
+    1 14000   4   2  C 7440000.          0.017730 1.0440-3-0.039975                              M.F.Steuer+          (73)12737  2 
+    1 14000   4   2  C 7440000.          0.011090 6.5270-4-0.206921                              M.F.Steuer+          (73)12737  2 
+    1 14000   4   2  C 7440000.          7.3100-3 3.1020-4-0.367930                              M.F.Steuer+          (73)12737  2 
+    1 14000   4   2  C 7440000.          0.012290 9.2190-4-0.522826                              M.F.Steuer+          (73)12737  2 
+    1 14000   4   2  C 7440000.          0.023120 1.1730-3-0.657073                              M.F.Steuer+          (73)12737  2 
+    1 14000   4   2  C 7440000.          0.036900 1.8710-3-0.777311                              M.F.Steuer+          (73)12737  2 
+    1 14000   4   2  C 7440000.          0.051710 3.4710-3-0.867991                              M.F.Steuer+          (73)12737  2 
+#/DATA      13
+#/DATASET

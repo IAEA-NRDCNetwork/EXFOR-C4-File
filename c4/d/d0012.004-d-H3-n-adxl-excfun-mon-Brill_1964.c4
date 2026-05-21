@@ -1,0 +1,33 @@
+#ENTRY      D0012
+#AUTHOR1    O.D.Brill+
+#YEAR       1964
+#INSTITUTE  (4RUSKUR)
+#TITLE      The cross-sections of the T(d,n)4He and D(d,n)3He
+#+          reactions in the deuteron energy range from 3 to 19 MeV
+#AUTHOR(S)  O.D.Brill, V.M.Pankratov, V.P.Rudakov, B.V.Rybakov
+#REF-CODE   (J,AE,16,141,1964)
+#REFERENCE  At.En. 16 (1964) 141
+#DATASETS   0
+#
+#DATASET    D0012004 
+#DATE       20060627
+#REACTION   1-H-3(D,N)2-HE-4,,DA
+#PROJ       1002
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  1003   4   4 R]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1003   4   4 R  7900000.          0.025200          1.000000                              O.D.Brill+           (64)D0012  4 
+ 1002  1003   4   4 R  9100000.          0.026800          1.000000                              O.D.Brill+           (64)D0012  4 
+ 1002  1003   4   4 R  9500000.          0.025100          1.000000                              O.D.Brill+           (64)D0012  4 
+ 1002  1003   4   4 R  1.1700+7          0.025700          1.000000                              O.D.Brill+           (64)D0012  4 
+ 1002  1003   4   4 R  1.3200+7          0.025200          1.000000                              O.D.Brill+           (64)D0012  4 
+ 1002  1003   4   4 R  1.5200+7          0.025700          1.000000                              O.D.Brill+           (64)D0012  4 
+ 1002  1003   4   4 R  1.7200+7          0.025700          1.000000                              O.D.Brill+           (64)D0012  4 
+ 1002  1003   4   4 R  1.9000+7          0.030100          1.000000                              O.D.Brill+           (64)D0012  4 
+#/DATA      8
+#/DATASET

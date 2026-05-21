@@ -1,0 +1,31 @@
+#ENTRY      41155
+#AUTHOR1    S.P.Simakov+
+#YEAR       1992
+#INSTITUTE  (4RUSFEI)
+#TITLE      Neutron inelastic scattering at 5 - 8.5 MeV
+#+          for Co-59, Y-89, Nb-93, Mo-93, In-115, Ta-181
+#+          and Bi-209
+#AUTHOR(S)  S.P.Simakov, G.N.Lovchikova, V.P.Lunev, V.G.Pronyaev, N.N.Titarenko, 
+#+          A.M.Trufanov
+#REF-CODE   (J,YK,,(3-4),74,1992)
+#REFERENCE  Yad.Reak.Konst.  No.3-4 (1992) 74
+#DATASETS   0
+#
+#DATASET    41155015 
+#DATE       20200315
+#REACTION   49-IN-115(N,INL)49-IN-115,,SIG
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         4
+#PRODUCT    49-IN-115
+#C4BEGIN    [    1 49115   3   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3   4 D  5190000. 70000.00 2.440000 0.200000                                       S.P.Simakov+         (92)41155 15 
+    1 49115   3   4 D  6470000. 60000.00 2.510000 0.200000                                       S.P.Simakov+         (92)41155 15 
+    1 49115   3   4 D  7490000. 50000.00 2.090000 0.160000                                       S.P.Simakov+         (92)41155 15 
+    1 49115   3   4 D  8530000. 50000.00 2.130000 0.170000                                       S.P.Simakov+         (92)41155 15 
+#/DATA      4
+#/DATASET

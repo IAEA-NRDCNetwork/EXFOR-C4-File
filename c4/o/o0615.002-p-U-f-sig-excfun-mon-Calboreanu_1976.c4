@@ -1,0 +1,31 @@
+#ENTRY      O0615
+#AUTHOR1    A.Calboreanu+
+#YEAR       1976
+#INSTITUTE  (3RUMBUC)
+#TITLE      Relative mass yields in proton induced fission on
+#+          natural uranium, from delayed gamma rays analysis
+#AUTHOR(S)  A.Calboreanu, Em.Cincu, C.Pencea, O.Salagean, I.Manzatu
+#REF-CODE   (J,RRP,21,69,1976)
+#REFERENCE  Rev.Roum.Phys. 21 (1976) 69
+#DATASETS   0
+#
+#DATASET    O0615002 
+#DATE       20230406
+#REACTION   92-U-0(P,F),,SIG
+#PROJ       1001
+#TARG       92000
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 92000   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92000   3  18    1.1300+7          0.098300                                                A.Calboreanu+        (76)O0615  2 
+ 1001 92000   3  18    1.1600+7          0.119000                                                A.Calboreanu+        (76)O0615  2 
+ 1001 92000   3  18    1.1900+7          0.160000                                                A.Calboreanu+        (76)O0615  2 
+ 1001 92000   3  18    1.2300+7          0.229000                                                A.Calboreanu+        (76)O0615  2 
+ 1001 92000   3  18    1.2600+7          0.239000                                                A.Calboreanu+        (76)O0615  2 
+ 1001 92000   3  18    1.2900+7          0.301000                                                A.Calboreanu+        (76)O0615  2 
+ 1001 92000   3  18    1.3200+7          0.272000                                                A.Calboreanu+        (76)O0615  2 
+#/DATA      7
+#/DATASET

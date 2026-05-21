@@ -1,0 +1,28 @@
+#ENTRY      A1109
+#AUTHOR1    J.E.Perry Jr+
+#YEAR       1953
+#INSTITUTE  (1USALAS)
+#TITLE      The tritium (p,gamma) reaction
+#AUTHOR(S)  J.E.Perry Jr, S.J.Bame
+#REF-CODE   (J,PR,90,(2),380(W2),1953)
+#REFERENCE  Phys.Rev. 90 No.2 (1953) 380(W2)
+#DATASETS   0
+#
+#DATASET    A1109002 
+#DATE       20170207
+#REACTION   1-H-3(P,G)2-HE-4,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         102
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  1003   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4 102    1000000.          4.0000-6 8.0000-8 6.123-17                              J.E.Perry Jr+        (53)A1109  2 
+ 1001  1003   4 102    2000000.          8.0000-6 1.6000-7 6.123-17                              J.E.Perry Jr+        (53)A1109  2 
+ 1001  1003   4 102    3000000.          1.0000-5 2.0000-7 6.123-17                              J.E.Perry Jr+        (53)A1109  2 
+ 1001  1003   4 102    4300000.          1.1000-5 2.2000-7 6.123-17                              J.E.Perry Jr+        (53)A1109  2 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,40 @@
+#ENTRY      E1154
+#AUTHOR1    Y.Sugiyama+
+#YEAR       1986
+#INSTITUTE  (2JPNJAE)
+#TITLE      Transfer cross sections for 28Si+58,62Ni
+#AUTHOR(S)  Y.Sugiyama, Y.Tomita, H.Ikezoe, K.Ideno, N.Shikazono, N.Kato, 
+#+          H.Fujita, T.Sugimitsu, S.Kubono
+#REF-CODE   (J,PL/B,176,302,1986)
+#REFERENCE  Phys.Lett.B 176 (1986) 302 (doi:10.1016/0370-2693(86)90168-1)
+#DATASETS   0
+#
+#DATASET    E1154002 
+#DATE       20240319
+#REACTION   28-NI-62(14-SI-28,EL)28-NI-62,,DA,,RTH
+#PROJ       14028
+#TARG       28062
+#MF         4
+#MT         2
+#PRODUCT    28-NI-62
+#C4BEGIN    [14028 28062   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+14028 28062   4   2  C 1.1000+8          9.080209          0.874730                              Y.Sugiyama+          (86)E1154  2 
+14028 28062   4   2  C 1.1000+8          5.671868          0.839734                              Y.Sugiyama+          (86)E1154  2 
+14028 28062   4   2  C 1.1000+8          3.855239          0.805515                              Y.Sugiyama+          (86)E1154  2 
+14028 28062   4   2  C 1.1000+8          2.523480          0.763300                              Y.Sugiyama+          (86)E1154  2 
+14028 28062   4   2  C 1.1000+8          1.929563          0.724834                              Y.Sugiyama+          (86)E1154  2 
+14028 28062   4   2  C 1.1000+8          1.536355          0.676336                              Y.Sugiyama+          (86)E1154  2 
+14028 28062   4   2  C 1.1000+8          1.275635          0.638875                              Y.Sugiyama+          (86)E1154  2 
+14028 28062   4   2  C 1.1000+8          0.832719          0.584929                              Y.Sugiyama+          (86)E1154  2 
+14028 28062   4   2  C 1.1000+8          0.517280          0.541429                              Y.Sugiyama+          (86)E1154  2 
+14028 28062   4   2  C 1.1000+8          0.251222          0.484855                              Y.Sugiyama+          (86)E1154  2 
+14028 28062   4   2  C 1.1000+8          0.122912          0.435592                              Y.Sugiyama+          (86)E1154  2 
+14028 28062   4   2  C 1.1000+8          0.058534          0.389767                              Y.Sugiyama+          (86)E1154  2 
+14028 28062   4   2  C 1.1000+8          0.027086          0.330630                              Y.Sugiyama+          (86)E1154  2 
+14028 28062   4   2  C 1.1000+8          0.010059          0.274983                              Y.Sugiyama+          (86)E1154  2 
+14028 28062   4   2  C 1.1000+8          4.3611-3          0.221089                              Y.Sugiyama+          (86)E1154  2 
+#/DATA      15
+#/DATASET

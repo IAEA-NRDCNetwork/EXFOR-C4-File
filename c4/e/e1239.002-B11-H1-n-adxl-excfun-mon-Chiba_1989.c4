@@ -1,0 +1,35 @@
+#ENTRY      E1239
+#AUTHOR1    S.Chiba+
+#YEAR       1989
+#INSTITUTE  (2JPNJAE)
+#TITLE      The 1H(11B,n)11C reaction as a practical low
+#+          background monoenergetic neutron source in the 10 MeV
+#+          region
+#AUTHOR(S)  S.Chiba, M.Mizumoto, K.Hasegawa, Y.Yamanouti, M.Sugimoto, 
+#+          Y.Watanabe, M.Drosg
+#REF-CODE   (J,NIM/A,281,(3),581,198909)
+#REFERENCE  Nucl.Instrum.Meth.A 281 No.3 (1989) 581 (doi:10.1016/0168-9002(89)91493-9)
+#DATASETS   0
+#
+#DATASET    E1239002 
+#DATE       20121010
+#REACTION   1-H-1(5-B-11,N)6-C-11,PAR,DA
+#PROJ       5011
+#TARG       1001
+#MF         4
+#MT         50
+#PRODUCT    6-C-11
+#C4BEGIN    [ 5011  1001   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5011  1001   4  50 A  4.2561+7 804000.0 0.064400 7.0840-3 1.000000          0.000000         LVLS.Chiba+             (89)E1239  2 
+ 5011  1001   4  50 A  4.4783+7 777000.0 0.050800 5.5880-3 1.000000          0.000000         LVLS.Chiba+             (89)E1239  2 
+ 5011  1001   4  50 A  4.9209+7 716000.0 0.063100 6.9410-3 1.000000          0.000000         LVLS.Chiba+             (89)E1239  2 
+ 5011  1001   4  50 A  5.1403+7 688000.0 0.101200 0.011132 1.000000          0.000000         LVLS.Chiba+             (89)E1239  2 
+ 5011  1001   4  50 A  5.3573+7 668000.0 0.159000 0.017490 1.000000          0.000000         LVLS.Chiba+             (89)E1239  2 
+ 5011  1001   4  50 A  5.4665+7 654000.0 0.182800 0.020108 1.000000          0.000000         LVLS.Chiba+             (89)E1239  2 
+ 5011  1001   4  50 A  5.5739+7 647000.0 0.166000 0.018260 1.000000          0.000000         LVLS.Chiba+             (89)E1239  2 
+ 5011  1001   4  50 A  5.7894+7 627000.0 0.108800 0.011968 1.000000          0.000000         LVLS.Chiba+             (89)E1239  2 
+#/DATA      8
+#/DATASET

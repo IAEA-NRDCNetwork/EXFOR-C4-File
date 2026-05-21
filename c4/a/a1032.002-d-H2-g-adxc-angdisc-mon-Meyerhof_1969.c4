@@ -1,0 +1,27 @@
+#ENTRY      A1032
+#AUTHOR1    W.E.Meyerhof+
+#YEAR       1969
+#INSTITUTE  (1USASTF)
+#TITLE      2H(d,gamma)4He reaction from 6 to 19 MeV
+#AUTHOR(S)  W.E.Meyerhof, W.Feldman, S.Gilbert, W.O'connell
+#REF-CODE   (J,NP/A,131,489,1969)
+#REFERENCE  Nucl.Phys.A 131 (1969) 489 (doi:10.1016/0375-9474(69)90590-9)
+#DATASETS   0
+#
+#DATASET    A1032002 
+#DATE       20240321
+#REACTION   1-H-2(D,G)2-HE-4,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         102
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  1002   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4 102  C 1.0000+7          1.8040-8 2.3520-9 0.687088                              W.E.Meyerhof+        (69)A1032  2 
+ 1002  1002   4 102  C 1.0000+7          1.5740-9 3.495-10 0.031411                              W.E.Meyerhof+        (69)A1032  2 
+ 1002  1002   4 102  C 1.0000+7          1.6320-8 9.347-10-0.728969                              W.E.Meyerhof+        (69)A1032  2 
+#/DATA      3
+#/DATASET

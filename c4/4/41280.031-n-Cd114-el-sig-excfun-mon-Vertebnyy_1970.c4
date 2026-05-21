@@ -1,0 +1,27 @@
+#ENTRY      41280
+#AUTHOR1    V.P.Vertebnyy+
+#YEAR       1970
+#INSTITUTE  (4UKRIJD)
+#TITLE      Neutron cross-sections of isotopes used as absorbers
+#+          in atomic reactors
+#AUTHOR(S)  V.P.Vertebnyy, M.F.Vlasov, N.L.Gnidak, V.V.Kolotyy, A.L.Kirilyuk, 
+#+          E.A.Pavlenko, M.V.Pasechnik, V.F.Razbudey, A.F.Fedorova
+#REF-CODE   (C,70HELSINKI,1,651,1970)
+#REFERENCE  Proceedings of Nuclear Data for Reactors Conf., Helsinki 1970 1 page 651
+#DATASETS   0
+#
+#DATASET    41280031 
+#DATE       20241212
+#REACTION   48-CD-114(N,EL)48-CD-114,,SIG
+#PROJ       1
+#TARG       48114
+#MF         3
+#MT         2
+#PRODUCT    48-CD-114
+#C4BEGIN    [    1 48114   3   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 48114   3   2    0.025300          5.200000 0.300000                                       V.P.Vertebnyy+       (70)41280 31 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      O1206
+#AUTHOR1    H.D.Bhardwaj+
+#YEAR       1986
+#INSTITUTE  (3INDMUA)
+#TITLE      Excitation functions for Au-197(alpha,xn) reactions in
+#+          the 10-40-MeV energy range.
+#AUTHOR(S)  H.D.Bhardwaj, R.Prasad
+#REF-CODE   (J,NIM/A,242,286,1986)
+#REFERENCE  Nucl.Instrum.Meth.A 242 (1986) 286 (doi:10.1016/0168-9002(86)90222-6)
+#DATASETS   0
+#
+#DATASET    O1206003 
+#DATE       20041213
+#REACTION   79-AU-197(A,2N)81-TL-199,,SIG
+#PROJ       2004
+#TARG       79197
+#MF         3
+#MT         16
+#PRODUCT    81-TL-199
+#C4BEGIN    [ 2004 79197   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 79197   3  16    3.7900+7 1100000. 0.141990 7.7500-3                                       H.D.Bhardwaj+        (86)O1206  3 
+ 2004 79197   3  16    3.5650+7 1150000. 0.195630 0.011130                                       H.D.Bhardwaj+        (86)O1206  3 
+ 2004 79197   3  16    3.3300+7 1200000. 0.313580 6.6500-3                                       H.D.Bhardwaj+        (86)O1206  3 
+ 2004 79197   3  16    3.0850+7 1250000. 0.585700 6.2200-3                                       H.D.Bhardwaj+        (86)O1206  3 
+ 2004 79197   3  16    2.8250+7 1350000. 0.710140 2.0700-3                                       H.D.Bhardwaj+        (86)O1206  3 
+ 2004 79197   3  16    2.5500+7 1400000. 0.425970 1.6000-3                                       H.D.Bhardwaj+        (86)O1206  3 
+ 2004 79197   3  16    2.2600+7 1500000. 0.128620 2.0700-3                                       H.D.Bhardwaj+        (86)O1206  3 
+ 2004 79197   3  16    1.9300+7 1800000. 3.9700-3 5.0000-5                                       H.D.Bhardwaj+        (86)O1206  3 
+#/DATA      8
+#/DATASET

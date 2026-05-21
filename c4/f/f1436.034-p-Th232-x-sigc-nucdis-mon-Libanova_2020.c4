@@ -1,0 +1,31 @@
+#ENTRY      F1436
+#AUTHOR1    O.N.Libanova+
+#YEAR       2020
+#INSTITUTE  (4RUSJIA)
+#TITLE      Experimental cross sections and mass distribution of
+#+          fission products of thorium-232 irradiated with
+#+          protons in energy range 20-140 MeV.
+#AUTHOR(S)  O.N.Libanova, S.V.Ermolaev, E.S.Golubeva, V.L.Matushko
+#REF-CODE   (J,JRN,324,1435,2020)
+#REFERENCE  J.Rad.Nucl.Chem. 324 (2020) 1435 (doi:10.1007/s10967-020-07185-7)
+#DATASETS   0
+#
+#DATASET    F1436034 
+#DATE       20210820
+#REACTION   90-TH-232(P,F)ELEM/MASS,(CUM),SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         459
+#C4BEGIN    [ 1001 90232   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3 459 A  9.3800+7 3800000. 0.042600 7.3000-3           48115.0                     O.N.Libanova+        (20)F1436 34 
+ 1001 90232   3 459 A  9.3800+7 3800000. 7.4000-3 1.9000-3           48115.1                     O.N.Libanova+        (20)F1436 34 
+ 1001 90232   3 459 A  9.3800+7 3800000. 9.0000-3 1.4000-3           50125.0                     O.N.Libanova+        (20)F1436 34 
+ 1001 90232   3 459 A  9.3800+7 3800000. 0.014000 2.4000-3           52129.1                     O.N.Libanova+        (20)F1436 34 
+ 1001 90232   3 459 A  9.3800+7 3800000. 8.0500-3 1.2500-3           52131.1                     O.N.Libanova+        (20)F1436 34 
+ 1001 90232   3 459 A  9.3800+7 3800000. 8.9100-3 1.5500-3           54133.1                     O.N.Libanova+        (20)F1436 34 
+#/DATA      6
+#/DATASET

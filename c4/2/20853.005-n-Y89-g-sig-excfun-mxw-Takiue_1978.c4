@@ -1,0 +1,27 @@
+#ENTRY      20853
+#AUTHOR1    M.Takiue+
+#YEAR       1978
+#INSTITUTE  (2JPNJAE)
+#TITLE      Thermal neutron reaction cross section measurements
+#+          for fourteen nuclides with a liquid scintillation
+#+          spectrometer
+#AUTHOR(S)  M.Takiue, H.Ishikawa
+#REF-CODE   (J,NIM,148,157,1978)
+#REFERENCE  Nucl.Intrum.Meth. 148 (1978) 157 (doi:10.1016/0029-554X(78)90347-6)
+#DATASETS   0
+#
+#DATASET    20853005 
+#DATE       20230413
+#REACTION   39-Y-89(N,G)39-Y-90,,SIG,,MXW
+#PROJ       1
+#TARG       39089
+#MF         3
+#MT         102
+#PRODUCT    39-Y-90
+#C4BEGIN    [    1 39089   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 39089   3 102    0.025300          1.310000 0.040000                                       M.Takiue+            (78)20853  5 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      A0854
+#AUTHOR1    O.I.Batenkov+
+#YEAR       2007
+#INSTITUTE  (4RUSRI)
+#TITLE      Comparison of prompt-fission neutron multiplicities and
+#+          energy spectra for intermediate energy proton-and
+#+          neutron-induced fission.
+#AUTHOR(S)  O.I.Batenkov, G.Boikov, V.Eismont, M.Majorov, S.Soloviev, 
+#+          J.Blomgren, W.Loveland
+#REF-CODE   (C,2007NICE,2,1085,2007)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 2 page 1085
+#DATASETS   0
+#
+#DATASET    A0854004 
+#DATE       20100624
+#REACTION   92-U-235(P,F),,NU
+#PROJ       1001
+#TARG       92235
+#MF         1
+#MT         452
+#C4BEGIN    [ 1001 92235   1 452  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92235   1 452    5.0000+7          6.860000 0.060000                                       O.I.Batenkov+        (07)A0854  4 
+ 1001 92235   1 452    9.6000+7          8.570000 0.080000                                       O.I.Batenkov+        (07)A0854  4 
+#/DATA      2
+#/DATASET

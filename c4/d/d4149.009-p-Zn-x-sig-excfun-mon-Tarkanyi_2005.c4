@@ -1,0 +1,31 @@
+#ENTRY      D4149
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2005
+#INSTITUTE  (3HUNDEB)
+#TITLE      Activation cross-sections of long-lived products of
+#+          proton-induced nuclear reactions on zinc
+#AUTHOR(S)  F.Tarkanyi, F.Ditroi, J.Csikai, S.Takacs, M.S.Uddin, M.Hagiwara, 
+#+          M.Baba, Yu.N.Shubin, A.I.Dityuk
+#REF-CODE   (J,ARI,62,73,2005)
+#REFERENCE  Appl.Radiat.Isot. 62 (2005) 73 (doi:10.1016/j.apradiso.2004.06.008)
+#DATASETS   0
+#
+#DATASET    D4149009 
+#DATE       20050712
+#REACTION   30-ZN-0(P,X)27-CO-55,,SIG,,,EXP
+#PROJ       1001
+#TARG       30000
+#MF         3
+#MT         454
+#PRODUCT    27-CO-55
+#C4BEGIN    [ 1001 30000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30000   3 454 A  5.0200+7 1000000. 9.0000-5 3.8000-5           27055.9                     F.Tarkanyi+          (05)D4149  9 
+ 1001 30000   3 454 A  5.4900+7 800000.0 2.9000-4 8.0000-5           27055.9                     F.Tarkanyi+          (05)D4149  9 
+ 1001 30000   3 454 A  5.9300+7 600000.0 4.8000-4 9.0000-5           27055.9                     F.Tarkanyi+          (05)D4149  9 
+ 1001 30000   3 454 A  6.3400+7 500000.0 5.2000-4 1.0000-4           27055.9                     F.Tarkanyi+          (05)D4149  9 
+ 1001 30000   3 454 A  6.7400+7 300000.0 4.6000-4 8.0000-5           27055.9                     F.Tarkanyi+          (05)D4149  9 
+#/DATA      5
+#/DATASET

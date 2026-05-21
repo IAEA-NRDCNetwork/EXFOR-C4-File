@@ -1,0 +1,34 @@
+#ENTRY      C3025
+#AUTHOR1    R.Jahn+
+#YEAR       1976
+#INSTITUTE  (1USABRK)
+#TITLE      Monopole excitation of 4 He in alpha-particle
+#+          scattering from 12C, 13C, and 16O
+#AUTHOR(S)  R.Jahn, D.P.Stahel, G.J.Wozniak, Joseph Cerny, H.P.Morsch
+#REF-CODE   (J,PL/B,65,339,1976)
+#REFERENCE  Phys.Lett.B 65 (1976) 339 (doi:10.1016/0370-2693(76)90237-9)
+#DATASETS   0
+#
+#DATASET    C3025003 
+#DATE       20250107
+#REACTION   6-C-13(A,INL)6-C-13,PAR,DA
+#PROJ       2004
+#TARG       6013
+#MF         4
+#MT         801
+#PRODUCT    6-C-13
+#C4BEGIN    [ 2004  6013   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6013   4 801  C 6.5000+7          5.8240-5 9.1040-6 0.958183          0.000000         LVLR.Jahn+              (76)C3025  3 
+ 2004  6013   4 801  C 6.5000+7          5.3990-5 9.2700-6 0.933787          0.000000         LVLR.Jahn+              (76)C3025  3 
+ 2004  6013   4 801  C 6.5000+7          4.9470-5 7.7270-6 0.891141          0.000000         LVLR.Jahn+              (76)C3025  3 
+ 2004  6013   4 801  C 6.5000+7          8.0550-6 1.3810-6 0.826344          0.000000         LVLR.Jahn+              (76)C3025  3 
+ 2004  6013   4 801  C 6.5000+7          7.0080-6 1.3090-6 0.748331          0.000000         LVLR.Jahn+              (76)C3025  3 
+ 2004  6013   4 801  C 6.5000+7          2.0250-5 3.4710-6 0.666988          0.000000         LVLR.Jahn+              (76)C3025  3 
+ 2004  6013   4 801  C 6.5000+7          2.1750-5 4.7630-6 0.573505          0.000000         LVLR.Jahn+              (76)C3025  3 
+ 2004  6013   4 801  C 6.5000+7          6.7050-6 1.5760-6 0.370606          0.000000         LVLR.Jahn+              (76)C3025  3 
+ 2004  6013   4 801  C 6.5000+7          1.6490-6 2.8280-7 0.183711          0.000000         LVLR.Jahn+              (76)C3025  3 
+#/DATA      9
+#/DATASET

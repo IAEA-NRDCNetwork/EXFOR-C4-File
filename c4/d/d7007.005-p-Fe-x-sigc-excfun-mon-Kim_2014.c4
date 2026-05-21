@@ -1,0 +1,32 @@
+#ENTRY      D7007
+#AUTHOR1    K.S.Kim+
+#YEAR       2014
+#INSTITUTE  (3KORKNU)
+#TITLE      Excitation functions of proton induced reactions on
+#+          natFe in the energy region up to 45 MeV
+#AUTHOR(S)  K.S.Kim, M.U.Khandaker, H.Naik, G.N.Kim
+#REF-CODE   (J,NIM/B,322,63,2014)
+#REFERENCE  Nucl.Instrum.Meth.B 322 (2014) 63 (doi:10.1016/j.nimb.2013.12.031)
+#DATASETS   0
+#
+#DATASET    D7007005 
+#DATE       20141013
+#REACTION   26-FE-0(P,X)26-FE-52-G,CUM,SIG
+#PROJ       1001
+#TARG       26000
+#MF         3
+#MT         459
+#PRODUCT    26-FE-52-G
+#C4BEGIN    [ 1001 26000   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26000   3 459 A  4.0300+7 380000.0 8.9000-4 8.4000-5           26052.0                     K.S.Kim+             (14)D7007  5 
+ 1001 26000   3 459 A  3.9520+7 400000.0 7.9000-4 7.9000-5           26052.0                     K.S.Kim+             (14)D7007  5 
+ 1001 26000   3 459 A  3.8710+7 400000.0 7.0000-4 6.9000-5           26052.0                     K.S.Kim+             (14)D7007  5 
+ 1001 26000   3 459 A  3.6980+7 430000.0 6.7000-4 6.6000-5           26052.0                     K.S.Kim+             (14)D7007  5 
+ 1001 26000   3 459 A  3.6120+7 430000.0 5.3000-4 6.0000-5           26052.0                     K.S.Kim+             (14)D7007  5 
+ 1001 26000   3 459 A  3.5250+7 440000.0 3.8000-4 4.8000-5           26052.0                     K.S.Kim+             (14)D7007  5 
+ 1001 26000   3 459 A  3.3390+7 460000.0 1.9000-4 2.5000-5           26052.0                     K.S.Kim+             (14)D7007  5 
+#/DATA      7
+#/DATASET

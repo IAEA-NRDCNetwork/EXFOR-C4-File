@@ -1,0 +1,42 @@
+#ENTRY      C2887
+#AUTHOR1    J.Chen+
+#YEAR       2022
+#INSTITUTE  (1USAANL)
+#TITLE      Probing the quadrupole transition strength of 15C via
+#+          deuteron inelastic scattering
+#AUTHOR(S)  J.Chen, B.P.Kay, T.L.Tang, I.A.Tolstukhin, C.R.Hoffman, 
+#+          H.Li, P.Yin, X.Zhao, P.Maris, J.P.Vary, G.Li, J.L.Lou, M.L.Avila, 
+#+          Y.Ayyad, S.Bennett, D.Bazin, J.A.Clark, S.J.Freeman, H.Jayatissa, 
+#+          C.Muller-Gatermann, A.Munoz-Ramos, D.Santiago-Gonzalez, 
+#+          D.K.Sharp, A.H.Wuosmaa, C.X.Yuan
+#REF-CODE   (J,PR/C,106,064312,2022)
+#REFERENCE  Phys.Rev.C 106 (2022) 064312 (doi:10.1103/PhysRevC.106.064312)
+#DATASETS   0
+#
+#DATASET    C2887003 
+#DATE       20230301
+#REACTION   (1-H-2(6-C-15,INL)1-H-2,PAR,DA,D)=(6-C-15(D,INL)6-C-15,PAR,DA)
+#PROJ       1002
+#TARG       6015
+#MF         4
+#MT         651
+#PRODUCT    6-C-15
+#C4BEGIN    [ 1002  6015   4 651  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6015   4 651  C 1.4200+7          2.8600-3 4.5000-4 0.858960 2.6811-3 740000.0         LVLJ.Chen+              (22)C2887  3 
+ 1002  6015   4 651  C 1.4200+7          2.5800-3 4.4000-4 0.845262 2.7979-3 740000.0         LVLJ.Chen+              (22)C2887  3 
+ 1002  6015   4 651  C 1.4200+7          2.2350-3 2.0403-4 0.820277 2.9948-3 740000.0         LVLJ.Chen+              (22)C2887  3 
+ 1002  6015   4 651  C 1.4200+7          1.7880-3 1.8249-4 0.807758 3.0867-3 740000.0         LVLJ.Chen+              (22)C2887  3 
+ 1002  6015   4 651  C 1.4200+7          1.4751-3 1.2790-4 0.786827 3.2315-3 740000.0         LVLJ.Chen+              (22)C2887  3 
+ 1002  6015   4 651  C 1.4200+7          1.3752-3 1.2350-4 0.773508 3.3185-3 740000.0         LVLJ.Chen+              (22)C2887  3 
+ 1002  6015   4 651  C 1.4200+7          1.3034-3 1.1949-4 0.752127 3.4506-3 740000.0         LVLJ.Chen+              (22)C2887  3 
+ 1002  6015   4 651  C 1.4200+7          1.1008-3 1.2679-4 0.739925 3.5222-3 740000.0         LVLJ.Chen+              (22)C2887  3 
+ 1002  6015   4 651  C 1.4200+7          1.3226-3 1.6445-4 0.716911 3.6503-3 740000.0         LVLJ.Chen+              (22)C2887  3 
+ 1002  6015   4 651  C 1.4200+7          1.2881-3 1.6229-4 0.703395 3.7217-3 740000.0         LVLJ.Chen+              (22)C2887  3 
+ 1002  6015   4 651  C 1.4200+7          1.5335-3 1.7280-4 0.682636 3.8262-3 740000.0         LVLJ.Chen+              (22)C2887  3 
+ 1002  6015   4 651  C 1.4200+7          1.4787-3 1.6969-4 0.668482 3.8942-3 740000.0         LVLJ.Chen+              (22)C2887  3 
+ 1002  6015   4 651  C 1.4200+7          1.2348-3 1.6302-4 0.642119 4.0139-3 740000.0         LVLJ.Chen+              (22)C2887  3 
+#/DATA      13
+#/DATASET

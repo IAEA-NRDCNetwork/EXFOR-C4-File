@@ -1,0 +1,40 @@
+#ENTRY      E0668
+#AUTHOR1    S.Kato+
+#YEAR       1982
+#INSTITUTE  (2JPNOSA)
+#TITLE      REACTION MECHANICM FOR (P,T) AND (P,3HE) REACTIONS
+#+          ON 13C
+#AUTHOR(S)  S.Kato, K.Okada, M.Kondo, K.Hosono, T.Saito, N.Matsuoka, 
+#+          T.Noro, S.Nagamachi, H.Shimizu, K.Ogino, Y.Kadota, M.Nomura
+#REF-CODE   (J,PR/C,25,97,82)
+#REFERENCE  Phys.Rev.C 25 (1982) 97 (doi:10.1103/PhysRevC.25.97)
+#DATASETS   0
+#
+#DATASET    E0668008 
+#DATE       19881019
+#REACTION   6-C-13(P,T)6-C-11,PAR,DA
+#PROJ       1001
+#TARG       6013
+#MF         4
+#MT         700
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  6013   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6013   4 700  C 6.5000+7          1.0590-4          0.968583          2000000.         LVLS.Kato+              (82)E0668  8 
+ 1001  6013   4 700  C 6.5000+7          3.1060-5          0.939693          2000000.         LVLS.Kato+              (82)E0668  8 
+ 1001  6013   4 700  C 6.5000+7          5.6130-5          0.904827          2000000.         LVLS.Kato+              (82)E0668  8 
+ 1001  6013   4 700  C 6.5000+7          5.6950-5          0.840567          2000000.         LVLS.Kato+              (82)E0668  8 
+ 1001  6013   4 700  C 6.5000+7          4.2670-5          0.792290          2000000.         LVLS.Kato+              (82)E0668  8 
+ 1001  6013   4 700  C 6.5000+7          2.7270-5          0.714473          2000000.         LVLS.Kato+              (82)E0668  8 
+ 1001  6013   4 700  C 6.5000+7          7.4380-6          0.653421          2000000.         LVLS.Kato+              (82)E0668  8 
+ 1001  6013   4 700  C 6.5000+7          8.7180-6          0.570714          2000000.         LVLS.Kato+              (82)E0668  8 
+ 1001  6013   4 700  C 6.5000+7          1.1810-5          0.500000          2000000.         LVLS.Kato+              (82)E0668  8 
+ 1001  6013   4 700  C 6.5000+7          1.1470-5          0.413104          2000000.         LVLS.Kato+              (82)E0668  8 
+ 1001  6013   4 700  C 6.5000+7          8.7180-6          0.328867          2000000.         LVLS.Kato+              (82)E0668  8 
+ 1001  6013   4 700  C 6.5000+7          4.2360-6          0.201078          2000000.         LVLS.Kato+              (82)E0668  8 
+ 1001  6013   4 700  C 6.5000+7          2.0290-6          0.118404          2000000.         LVLS.Kato+              (82)E0668  8 
+ 1001  6013   4 700  C 6.5000+7          1.3740-6          0.013962          2000000.         LVLS.Kato+              (82)E0668  8 
+#/DATA      14
+#/DATASET

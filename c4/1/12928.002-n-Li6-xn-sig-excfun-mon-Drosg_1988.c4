@@ -1,0 +1,28 @@
+#ENTRY      12928
+#AUTHOR1    M.Drosg+
+#YEAR       1988
+#INSTITUTE  (1USALAS)
+#TITLE      Double differential neutron emission cross sections
+#+          of 10B and 11B at 6, 10 and 14 MeV and of 6Li, 7Li
+#+          and 12C at 14 MeV.
+#AUTHOR(S)  M.Drosg, P.W.Lisowski, R.A.Hardekopf, D.M.Drake, R.Treitl, 
+#+          M.Muellner
+#REF-CODE   (R,LA-11367-MS,1988)
+#REFERENCE  Report LA-11367-MS, 1988
+#DATASETS   0
+#
+#DATASET    12928002 
+#DATE       20141205
+#REACTION   3-LI-6(N,X)0-NN-1,,SIG
+#PROJ       1
+#TARG       3006
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    1  3006   3 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   3 201 A  1.4100+7 30000.00 1.600000 0.011200                                       M.Drosg+             (88)12928  2 
+#/DATA      1
+#/DATASET

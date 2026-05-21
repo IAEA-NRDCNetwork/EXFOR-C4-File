@@ -1,0 +1,35 @@
+#ENTRY      C1323
+#AUTHOR1    J.D.Brown+
+#YEAR       1988
+#INSTITUTE  (1USAPTN)
+#TITLE      11B( alpha ,p)14C*(Ex=23.288 MeV) reaction and
+#+          (p, pi +) production mechanisms
+#AUTHOR(S)  J.D.Brown, L.K.Herold, K.E.Luther, A.A.Middleton, M.L.Pitt, 
+#+          D.Barker, S.M.Aziz
+#REF-CODE   (J,PR/C,38,1958,1988)
+#REFERENCE  Phys.Rev.C 38 (1988) 1958 (doi:10.1103/PhysRevC.38.1958)
+#DATASETS   0
+#
+#DATASET    C1323002 
+#DATE       20050817
+#REACTION   5-B-11(A,P)6-C-14,PAR,DA
+#PROJ       2004
+#TARG       5011
+#MF         4
+#MT         600
+#PRODUCT    6-C-14
+#C4BEGIN    [ 2004  5011   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  5011   4 600  C 4.8000+7          3.2800-5          0.948324          2.3288+7         LVLJ.D.Brown+           (88)C1323  2 
+ 2004  5011   4 600  C 4.8000+7          2.2500-5          0.907044          2.3288+7         LVLJ.D.Brown+           (88)C1323  2 
+ 2004  5011   4 600  C 4.8000+7          1.6500-5          0.856267          2.3288+7         LVLJ.D.Brown+           (88)C1323  2 
+ 2004  5011   4 600  C 4.8000+7          1.2900-5          0.795473          2.3288+7         LVLJ.D.Brown+           (88)C1323  2 
+ 2004  5011   4 600  C 4.8000+7          9.3300-6          0.722967          2.3288+7         LVLJ.D.Brown+           (88)C1323  2 
+ 2004  5011   4 600  C 4.8000+7          6.4900-6          0.646790          2.3288+7         LVLJ.D.Brown+           (88)C1323  2 
+ 2004  5011   4 600  C 4.8000+7          4.5700-6          0.559193          2.3288+7         LVLJ.D.Brown+           (88)C1323  2 
+ 2004  5011   4 600  C 4.8000+7          2.6200-6          0.471012          2.3288+7         LVLJ.D.Brown+           (88)C1323  2 
+ 2004  5011   4 600  C 4.8000+7          1.4600-6          0.381070          2.3288+7         LVLJ.D.Brown+           (88)C1323  2 
+#/DATA      9
+#/DATASET

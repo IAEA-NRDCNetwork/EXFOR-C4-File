@@ -1,0 +1,44 @@
+#ENTRY      10834
+#AUTHOR1    F.E.Cecil+
+#YEAR       1979
+#INSTITUTE  (1USACSM)
+#TITLE      Gamma ray production cross sections in I-127 by
+#+          inelastic neutron scattering
+#AUTHOR(S)  F.E.Cecil, K.Killian, M.Rymes
+#REF-CODE   (J,PR/C,19,2414,1979)
+#REFERENCE  Phys.Rev.C 19 (1979) 2414 (doi:10.1103/PhysRevC.19.2414)
+#DATASETS   0
+#
+#DATASET    10834002 
+#DATE       19790912
+#REACTION   53-I-127(N,INL)53-I-127,PAR,SIG,G
+#PROJ       1
+#TARG       53127
+#MF         13
+#MT         51
+#PRODUCT    53-I-127
+#C4BEGIN    [    1 53127  13  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 53127  13  51 A  2800000.          0.430000 0.040000                   57000.00            F.E.Cecil+           (79)10834  2 
+    1 53127  13  51 A  2800000.          0.160000 0.020000                   202000.0            F.E.Cecil+           (79)10834  2 
+#/DATA      2
+#/DATASET
+#
+#DATASET    10834002 
+#DATE       19790912
+#REACTION   53-I-127(N,INL)53-I-127,PAR,SIG,G
+#PROJ       1
+#TARG       53127
+#MF         13
+#MT         51
+#PRODUCT    53-I-127
+#C4BEGIN    [    1 53127  13  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 53127  13  51 A  1.4100+7          0.270000 0.030000                   57000.00            F.E.Cecil+           (79)10834  2 
+    1 53127  13  51 A  1.4100+7          0.100000 0.010000                   202000.0            F.E.Cecil+           (79)10834  2 
+#/DATA      2
+#/DATASET

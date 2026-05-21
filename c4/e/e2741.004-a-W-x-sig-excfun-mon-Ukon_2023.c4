@@ -1,0 +1,38 @@
+#ENTRY      E2741
+#AUTHOR1    N.Ukon+
+#YEAR       2023
+#INSTITUTE  (2JPNHOK)
+#TITLE      Activation cross sections of alpha-particle-induced
+#+          reactions on natural tungsten for osmium and rhenium
+#+          radionuclides
+#AUTHOR(S)  N.Ukon, M.Aikawa, M.Saito, M.Hagiwara, H.Yashima, Y.Komori, 
+#+          H.Haba, S.Takacs, F.Ditroi, Z.Szucs
+#REF-CODE   (J,NIM/B,539,95,2023)
+#REFERENCE  Nucl.Instrum.Meth.B 539 (2023) 95 (doi:10.1016/j.nimb.2023.03.032)
+#DATASETS   0
+#
+#DATASET    E2741004 
+#DATE       20230629
+#REACTION   74-W-0(A,X)76-OS-183-G,,SIG
+#PROJ       2004
+#TARG       74000
+#MF         3
+#MT         454
+#PRODUCT    76-OS-183-G
+#C4BEGIN    [ 2004 74000   3 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 74000   3 454 D  4.9700+7 200000.0 0.344000 0.026000           76183.0                     N.Ukon+              (23)E2741  4 
+ 2004 74000   3 454 D  4.7300+7 200000.0 0.297000 0.022000           76183.0                     N.Ukon+              (23)E2741  4 
+ 2004 74000   3 454 D  4.4800+7 200000.0 0.334000 0.025000           76183.0                     N.Ukon+              (23)E2741  4 
+ 2004 74000   3 454 D  4.2100+7 200000.0 0.342000 0.026000           76183.0                     N.Ukon+              (23)E2741  4 
+ 2004 74000   3 454 D  3.9400+7 300000.0 0.337000 0.026000           76183.0                     N.Ukon+              (23)E2741  4 
+ 2004 74000   3 454 D  3.6500+7 300000.0 0.281000 0.021000           76183.0                     N.Ukon+              (23)E2741  4 
+ 2004 74000   3 454 D  3.3500+7 300000.0 0.191000 0.015000           76183.0                     N.Ukon+              (23)E2741  4 
+ 2004 74000   3 454 D  3.0200+7 400000.0 0.066900 5.2000-3           76183.0                     N.Ukon+              (23)E2741  4 
+ 2004 74000   3 454 D  2.6700+7 400000.0 1.2500-3 1.1000-4           76183.0                     N.Ukon+              (23)E2741  4 
+ 2004 74000   3 454 D  2.2900+7 500000.0 1.6000-4 1.4000-5           76183.0                     N.Ukon+              (23)E2741  4 
+ 2004 74000   3 454 D  1.8600+7 600000.0 7.4000-5 5.6000-6           76183.0                     N.Ukon+              (23)E2741  4 
+#/DATA      11
+#/DATASET

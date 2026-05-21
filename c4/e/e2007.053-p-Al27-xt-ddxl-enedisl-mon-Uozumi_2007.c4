@@ -1,0 +1,61 @@
+#ENTRY      E2007
+#AUTHOR1    Y.Uozumi+
+#YEAR       2007
+#INSTITUTE  (2JPNKYU)
+#TITLE      Magnitude factor systematics of Kalbach phenomenology
+#+          for reactions emitting helium and lithium ions
+#AUTHOR(S)  Y.Uozumi, P.Evtoukhovitch, H.Fukuda, M.Imamura, H.Iwamoto, 
+#+          V.Kalinikov, W.Kallies, N.Khumutov, T.Kin, N.Koba, Y.Koba, 
+#+          N.Kuchinski, A.Moisenko, D.Mzavia, M.Nakano, V.Samoilov, 
+#+          Z.Tsamalaidze, G.Wakabayashi, Y.Yamashita
+#REF-CODE   (J,NIM/A,571,743,2007)
+#REFERENCE  Nucl.Instrum.Meth.A 571 (2007) 743 (doi:10.1016/j.nima.2006.11.022)
+#DATASETS   0
+#
+#DATASET    E2007053 
+#DATE       20190125
+#REACTION   13-AL-27(P,X)1-H-3,,DA/DE
+#PROJ       1001
+#TARG       13027
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001 13027   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   6 205    3.9200+8          1.602-10 8.543-12 0.500000          5500000.          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          1.283-10 7.645-12 0.500000          6500000.          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          1.162-10 7.275-12 0.500000          7500000.          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          1.157-10 7.259-12 0.500000          8500000.          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          8.687-11 6.292-12 0.500000          9500000.          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          9.148-11 6.456-12 0.500000          1.0500+7          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          7.840-11 5.977-12 0.500000          1.1500+7          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          8.565-11 6.247-12 0.500000          1.2500+7          E2Y.Uozumi+            (07)E2007 53 
+#/DATA      8
+#/DATASET
+#
+#DATASET    E2007053 
+#DATE       20190125
+#REACTION   13-AL-27(P,X)1-H-3,,DA/DE
+#PROJ       1001
+#TARG       13027
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001 13027   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   6 205    3.9200+8          1.153-10 9.185-12 0.258819          6500000.          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          1.051-10 8.773-12 0.258819          7500000.          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          9.723-11 8.436-12 0.258819          8500000.          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          9.079-11 8.152-12 0.258819          9500000.          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          9.018-11 8.124-12 0.258819          1.0500+7          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          8.963-11 8.099-12 0.258819          1.1500+7          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          8.699-11 7.979-12 0.258819          1.2500+7          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          8.502-11 7.888-12 0.258819          1.3500+7          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          7.977-11 7.641-12 0.258819          1.4500+7          E2Y.Uozumi+            (07)E2007 53 
+ 1001 13027   6 205    3.9200+8          7.668-11 7.491-12 0.258819          1.5500+7          E2Y.Uozumi+            (07)E2007 53 
+#/DATA      10
+#/DATASET

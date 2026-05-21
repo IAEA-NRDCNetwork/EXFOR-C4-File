@@ -1,0 +1,35 @@
+#ENTRY      O0115
+#AUTHOR1    M.Fujiwara+
+#YEAR       1985
+#INSTITUTE  (2JPNOSA)
+#TITLE      INELASTIC PROTON SCATTERING TO THE 3- AND 1+ STATES
+#+          IN TI-50,CR-52 AND FE-54.
+#AUTHOR(S)  M.Fujiwara, Y.Fujita, S.Imanishi, S.Morinobi, T.Yamazaki, 
+#+          H.Ikegami, K.Katori, S.I.Hayakawa
+#REF-CODE   (J,PR/C,32,830,85)
+#REFERENCE  Phys.Rev.C 32 (1985) 830 (doi:10.1103/PhysRevC.32.830)
+#DATASETS   0
+#
+#DATASET    O0115089 
+#DATE       19950605
+#REACTION   26-FE-54(P,INL)26-FE-54,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       26054
+#MF         4
+#MT         601
+#PRODUCT    26-FE-54
+#C4BEGIN    [ 1001 26054   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26054   4 601  C 6.5000+7          7.8000-5 3.1200-6 0.996041 7.7575-4 7644000.         LVLM.Fujiwara+          (85)O0115 89 
+ 1001 26054   4 601  C 6.5000+7          7.7000-5 3.0800-6 0.988228 1.3351-3 7644000.         LVLM.Fujiwara+          (85)O0115 89 
+ 1001 26054   4 601  C 6.5000+7          1.0000-4 4.0000-6 0.967268 2.2145-3 7644000.         LVLM.Fujiwara+          (85)O0115 89 
+ 1001 26054   4 601  C 6.5000+7          1.1700-4 4.6800-6 0.948876 2.7546-3 7644000.         LVLM.Fujiwara+          (85)O0115 89 
+ 1001 26054   4 601  C 6.5000+7          1.1600-4 4.6400-6 0.926529 3.2832-3 7644000.         LVLM.Fujiwara+          (85)O0115 89 
+ 1001 26054   4 601  C 6.5000+7          5.6900-5 2.2760-6 0.900319 3.7981-3 7644000.         LVLM.Fujiwara+          (85)O0115 89 
+ 1001 26054   4 601  C 6.5000+7          5.0600-5 2.0240-6 0.867765 4.3369-3 7644000.         LVLM.Fujiwara+          (85)O0115 89 
+ 1001 26054   4 601  C 6.5000+7          1.8400-5 7.3600-7 0.650774 6.6259-3 7644000.         LVLM.Fujiwara+          (85)O0115 89 
+ 1001 26054   4 601  C 6.5000+7          1.8200-5 7.2800-7 0.569280 7.1746-3 7644000.         LVLM.Fujiwara+          (85)O0115 89 
+#/DATA      9
+#/DATASET

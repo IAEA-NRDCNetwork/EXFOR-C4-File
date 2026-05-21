@@ -1,0 +1,32 @@
+#ENTRY      O0233
+#AUTHOR1    H.P.Morsch+
+#YEAR       1978
+#INSTITUTE  (1USAMSU)
+#TITLE      Fine Structure in the Giant Resonance Region and the
+#+          Collective Dipole Spin-Flip Excitation in Pb-208.
+#AUTHOR(S)  H.P.Morsch, P.Decowski, W.Benenson
+#REF-CODE   (J,NP/A,297,317,78)
+#REFERENCE  Nucl.Phys.A 297 (1978) 317 (doi:10.1016/0375-9474(78)90279-8)
+#DATASETS   0
+#
+#DATASET    O0233014 
+#DATE       19961111
+#REACTION   82-PB-208(P,INL)82-PB-208,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         601
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 1001 82208   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 601  C 4.5000+7          1.4500-4 1.3050-5 0.978689 3.2256-4 1.1100+7         LVLH.P.Morsch+          (78)O0233 14 
+ 1001 82208   4 601  C 4.5000+7          1.9000-4 2.2800-5 0.967179 3.9913-4 1.1100+7         LVLH.P.Morsch+          (78)O0233 14 
+ 1001 82208   4 601  C 4.5000+7          1.8100-4 9.0500-6 0.950949 4.8592-4 1.1100+7         LVLH.P.Morsch+          (78)O0233 14 
+ 1001 82208   4 601  C 4.5000+7          1.8100-4 1.6290-5 0.931564 5.7110-4 1.1100+7         LVLH.P.Morsch+          (78)O0233 14 
+ 1001 82208   4 601  C 4.5000+7          1.5900-4 7.9500-6 0.915592 6.3163-4 1.1100+7         LVLH.P.Morsch+          (78)O0233 14 
+ 1001 82208   4 601  C 4.5000+7          1.6500-4 8.2500-6 0.894076 7.0358-4 1.1100+7         LVLH.P.Morsch+          (78)O0233 14 
+ 1001 82208   4 601  C 4.5000+7          1.2000-4 3.6000-5 0.842734 8.4561-4 1.1100+7         LVLH.P.Morsch+          (78)O0233 14 
+#/DATA      7
+#/DATASET

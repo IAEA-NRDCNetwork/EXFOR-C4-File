@@ -1,0 +1,26 @@
+#ENTRY      12602
+#AUTHOR1    C.H.Hogg+
+#YEAR       1970
+#INSTITUTE  (1USAMTR)
+#TITLE      Reactor thermal-neutron cross sections of 64-Zn,68-Zn,
+#+          121-Sb,123-Sb,55-Mn,and 186-W.
+#AUTHOR(S)  C.H.Hogg, W.L.Wilson
+#REF-CODE   (R,IN-1317,53,1970)
+#REFERENCE  Report IN-1317 page 53, 1970
+#DATASETS   0
+#
+#DATASET    12602006 
+#DATE       20120426
+#REACTION   25-MN-55(N,G)25-MN-56,,SIG
+#PROJ       1
+#TARG       25055
+#MF         3
+#MT         102
+#PRODUCT    25-MN-56
+#C4BEGIN    [    1 25055   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 25055   3 102    0.025300          13.50000 0.500000                                       C.H.Hogg+            (70)12602  6 
+#/DATA      1
+#/DATASET

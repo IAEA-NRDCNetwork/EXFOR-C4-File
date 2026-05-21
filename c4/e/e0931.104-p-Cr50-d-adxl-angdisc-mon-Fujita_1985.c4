@@ -1,0 +1,33 @@
+#ENTRY      E0931
+#AUTHOR1    T.Fujita+
+#YEAR       1985
+#INSTITUTE  (2JPNOSA)
+#TITLE      HIGH-RESOLUTION STUDY OF 49CR THROUGH THE (P,D)
+#+          REACTION
+#AUTHOR(S)  T.Fujita, S.Morinobu, I.Katayama, M.Fujiwara, T.Yamazaki, 
+#+          H.Ikegami, H.Taketani, M.Adachi, T.Matsuzaki, M.Matoba, 
+#+          N.Koori
+#REF-CODE   (J,NP/A,435,7,85)
+#REFERENCE  Nucl.Phys.A 435 (1985) 7 (doi:10.1016/0375-9474(85)90299-4)
+#DATASETS   0
+#
+#DATASET    E0931104 
+#DATE       19900919
+#REACTION   24-CR-50(P,D)24-CR-49,PAR,DA
+#PROJ       1001
+#TARG       24050
+#MF         4
+#MT         650
+#PRODUCT    24-CR-49
+#C4BEGIN    [ 1001 24050   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   4 650  C 5.5000+7          0.036420          0.988027          6497000.         LVLT.Fujita+            (85)E0931104 
+ 1001 24050   4 650  C 5.5000+7          0.029680 1.8800-3 0.977897          6497000.         LVLT.Fujita+            (85)E0931104 
+ 1001 24050   4 650  C 5.5000+7          0.021730 2.1000-3 0.964861          6497000.         LVLT.Fujita+            (85)E0931104 
+ 1001 24050   4 650  C 5.5000+7          0.020340 1.9700-3 0.949639          6497000.         LVLT.Fujita+            (85)E0931104 
+ 1001 24050   4 650  C 5.5000+7          0.020860 6.6400-4 0.927686          6497000.         LVLT.Fujita+            (85)E0931104 
+ 1001 24050   4 650  C 5.5000+7          0.011540          0.889049          6497000.         LVLT.Fujita+            (85)E0931104 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      31821
+#AUTHOR1    M.Majerle+
+#YEAR       2020
+#INSTITUTE  (3CZRUJF)
+#TITLE      The response of single crystal diamond detectors to
+#+          17-34 MeV neutrons
+#AUTHOR(S)  M.Majerle, M.Angelone, A.Krasa, J.Novak, M.Pillon, R.Pilotti, 
+#+          A.Plompen, E.Simeckova, M.Stefanik
+#REF-CODE   (J,NIM/A,951,163014,2020)
+#REFERENCE  Nucl.Instrum.Meth.A 951 (2020) 163014 (doi:10.1016/j.nima.2019.163014)
+#DATASETS   0
+#
+#DATASET    31821004 
+#DATE       20200506
+#REACTION   6-C-12(N,P)5-B-12,PAR,SIG
+#PROJ       1
+#TARG       6012
+#MF         3
+#MT         600
+#PRODUCT    5-B-12
+#C4BEGIN    [    1  6012   3 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   3 600 A  1.7300+7          0.028200 0.014664                   0.000000         LVLM.Majerle+           (20)31821  4 
+    1  6012   3 600 A  2.0400+7          8.3000-3 2.7390-3                   0.000000         LVLM.Majerle+           (20)31821  4 
+    1  6012   3 600 A  2.0500+7          9.0000-3 2.1600-3                   0.000000         LVLM.Majerle+           (20)31821  4 
+    1  6012   3 600 A  2.4500+7          3.4000-3 1.4620-3                   0.000000         LVLM.Majerle+           (20)31821  4 
+    1  6012   3 600 A  2.4500+7          3.3000-3 8.5800-4                   0.000000         LVLM.Majerle+           (20)31821  4 
+    1  6012   3 600 A  2.6100+7          3.7000-3 1.0360-3                   0.000000         LVLM.Majerle+           (20)31821  4 
+    1  6012   3 600 A  2.6100+7          3.2000-3 9.6000-4                   0.000000         LVLM.Majerle+           (20)31821  4 
+    1  6012   3 600 A  2.8800+7          2.6000-3 6.2400-4                   0.000000         LVLM.Majerle+           (20)31821  4 
+    1  6012   3 600 A  3.0700+7          1.4000-3 7.2800-4                   0.000000         LVLM.Majerle+           (20)31821  4 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      21208
+#AUTHOR1    J.L.Perkin+
+#YEAR       1961
+#INSTITUTE  (2UK ALD)
+#TITLE      Cross-sections for the (n,2n) reactions of 232Th,
+#+          238U and 237Np with 14 MeV neutrons
+#AUTHOR(S)  J.L.Perkin, R.F.Coleman
+#REF-CODE   (J,JNE/AB,14,69,1961)
+#REFERENCE  J.Nucl.Energy A/B 14 (1961) 69 (doi:10.1016/0368-3230(61)90094-5)
+#DATASETS   0
+#
+#DATASET    21208002 
+#DATE       20201210
+#REACTION   90-TH-232(N,2N)90-TH-231,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         16
+#PRODUCT    90-TH-231
+#C4BEGIN    [    1 90232   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3  16    1.4100+7 300000.0 1.200000 0.050000                                       J.L.Perkin+          (61)21208  2 
+#/DATA      1
+#/DATASET

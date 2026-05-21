@@ -1,0 +1,29 @@
+#ENTRY      A0108
+#AUTHOR1    C.Donzaud+
+#YEAR       1998
+#INSTITUTE  (2FR PAR)
+#TITLE      Low-energy fission investigated  in  reactions  of
+#+          750 A*MeV 238-U-ions on 208-Pb.
+#+          II: Isotopic distributions
+#AUTHOR(S)  C.Donzaud, S.Czajkowski, P.Armbruster, M.Bernas, C.Bockstiegel, 
+#+          Ph.Dessagne, H.Geissel, E.Hanelt, A.Heinz, C.Kozhuharov, 
+#+          Ch.Miehe, G.Munzenberg, M.Pfiitzner, W.Schwab, C.Stephan, 
+#+          K.Summerer, L.Tassan-Got, B.Voss
+#REF-CODE   (J,EPJ/A,1,407,1998)
+#REFERENCE  Eur.Phys.J.A 1 (1998) 407 (doi:10.1007/s100500050076)
+#DATASETS   0
+#
+#DATASET    A0108002 
+#DATE       20180117
+#REACTION   82-PB-0(92-U-238,F),,SIG
+#PROJ       92238
+#TARG       82000
+#MF         3
+#MT         18
+#C4BEGIN    [92238 82000   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+92238 82000   3  18    1.785+11          2.200000 0.200000                                       C.Donzaud+           (98)A0108  2 
+#/DATA      1
+#/DATASET

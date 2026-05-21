@@ -1,0 +1,30 @@
+#ENTRY      A0869
+#AUTHOR1    B.V.Zhuravlev+
+#YEAR       2010
+#INSTITUTE  (4RUSFEI)
+#TITLE      Nuclear level densities in Bi-208 and Po-209 from the
+#+          neutron spectra in the (p,n) reactions on Pb-208 and
+#+          Bi-209 nuclei.
+#AUTHOR(S)  B.V.Zhuravlev, A.A.Lychagin, N.N.Titarenko, V.G.Demenkov, 
+#+          V.I.Trykova
+#REF-CODE   (J,YF,73,1150,2010)
+#REFERENCE  Yad.Fiz. 73 (2010) 1150
+#DATASETS   0
+#
+#DATASET    A0869009 
+#DATE       20110726
+#REACTION   82-PB-208(P,N)83-BI-208,,DA,,4PI
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         4
+#PRODUCT    83-BI-208
+#C4BEGIN    [ 1001 82208   4   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4   4 D  8070000.          1.5995-3 1.5995-4-0.258819                              B.V.Zhuravlev+       (10)A0869  9 
+ 1001 82208   4   4 D  9130000.          5.1327-3 5.1327-4-0.258819                              B.V.Zhuravlev+       (10)A0869  9 
+ 1001 82208   4   4 D  9550000.          7.2256-3 7.2256-4-0.258819                              B.V.Zhuravlev+       (10)A0869  9 
+#/DATA      3
+#/DATASET

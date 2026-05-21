@@ -1,0 +1,34 @@
+#ENTRY      22312
+#AUTHOR1    Y.Ikeda+
+#YEAR       1993
+#INSTITUTE  (2JPNJAE)
+#TITLE      Absolute measurements of activation cross sections of
+#+          27-Al(n,p)27-Mg, 27-Al(n,alpha)24-Na, 56-Fe(n,p)56-Mn,
+#+          90-Zr(n,2n)89-Zr-m+g and 93-Nb(n,2n)92-Nb-m at
+#+          energy range of 13.3 - 14.9 MeV
+#AUTHOR(S)  Y.Ikeda, C.Konno, Y.Oyama, K.Kosako, K.Oishi, H.Maekawa
+#REF-CODE   (J,NST,30,870,199309)
+#REFERENCE  J.Nucl.Sci.Technol. 30 (1993) 870 (doi:10.1080/18811248.1993.9734561)
+#DATASETS   0
+#
+#DATASET    22312004 
+#DATE       20020519
+#REACTION   26-FE-56(N,P)25-MN-56,,SIG
+#PROJ       1
+#TARG       26056
+#MF         3
+#MT         103
+#PRODUCT    25-MN-56
+#C4BEGIN    [    1 26056   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   3 103    1.4910+7          0.106100 3.7000-3                                       Y.Ikeda+             (93)22312  4 
+    1 26056   3 103    1.4650+7          0.109800 3.8000-3                                       Y.Ikeda+             (93)22312  4 
+    1 26056   3 103    1.4420+7          0.111100 3.8000-3                                       Y.Ikeda+             (93)22312  4 
+    1 26056   3 103    1.4220+7          0.112200 5.0000-3                                       Y.Ikeda+             (93)22312  4 
+    1 26056   3 103    1.3980+7          0.115200 4.0000-3                                       Y.Ikeda+             (93)22312  4 
+    1 26056   3 103    1.3750+7          0.115600 4.0000-3                                       Y.Ikeda+             (93)22312  4 
+    1 26056   3 103    1.3570+7          0.118200 4.0000-3                                       Y.Ikeda+             (93)22312  4 
+#/DATA      7
+#/DATASET

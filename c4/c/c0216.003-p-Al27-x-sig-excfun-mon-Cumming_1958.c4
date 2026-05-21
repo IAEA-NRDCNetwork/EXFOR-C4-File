@@ -1,0 +1,26 @@
+#ENTRY      C0216
+#AUTHOR1    J.B.Cumming+
+#YEAR       1958
+#INSTITUTE  (1USABNL)
+#TITLE      C-12(p,pn)C-11 cross section at 2 and 3 Bev
+#AUTHOR(S)  J.B.Cumming, G.Friedlander, C.E.Swartz
+#REF-CODE   (J,PR,111,1386,1958)
+#REFERENCE  Phys.Rev. 111 (1958) 1386 (doi:10.1103/PhysRev.111.1386)
+#DATASETS   0
+#
+#DATASET    C0216003 
+#DATE       20210828
+#REACTION   13-AL-27(P,X)11-NA-24,,SIG
+#PROJ       1001
+#TARG       13027
+#MF         3
+#MT         454
+#PRODUCT    11-NA-24
+#C4BEGIN    [ 1001 13027   3 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   3 454 D  2.0000+9          0.010400 6.0000-4           11024.9                     J.B.Cumming+         (58)C0216  3 
+ 1001 13027   3 454 D  3.0000+9          0.010000 6.0000-4           11024.9                     J.B.Cumming+         (58)C0216  3 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      30464
+#AUTHOR1    M.Abdel-Harith+
+#YEAR       1976
+#INSTITUTE  (3DDRTUD)
+#TITLE      Elastic and inelastic scattering of 3.4 MeV neutrons
+#+          by V-51,Co-59 and Pb-206,207
+#AUTHOR(S)  M.Abdel-Harith, Th.Schweitzer, D.Seeliger, S.Unholzer
+#REF-CODE   (P,ZFK-315,12,197609)
+#REFERENCE  Progress report ZFK-315 page 12, 1976
+#DATASETS   0
+#
+#DATASET    30464021 
+#DATE       20090311
+#REACTION   82-PB-206(N,INL)82-PB-206,PAR,SIG
+#PROJ       1
+#TARG       82206
+#MF         3
+#MT         51
+#PRODUCT    82-PB-206
+#C4BEGIN    [    1 82206   3  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82206   3  51 D  3400000. 100000.0 0.605600 0.090800                   803000.0         LVLM.Abdel-Harith+      (76)30464 21 
+#/DATA      1
+#/DATASET

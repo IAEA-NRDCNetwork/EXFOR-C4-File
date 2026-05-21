@@ -1,0 +1,28 @@
+#ENTRY      22783
+#AUTHOR1    B.Diamet+
+#YEAR       1999
+#INSTITUTE  (2JPNTIT)
+#TITLE      .Measurements of keV-neutron capture cross sections
+#+          and capture gamma-ray spectra of 147,148,149,150,
+#+          152,154-Sm
+#AUTHOR(S)  B.Diamet, M.Igashira, M.Mizumachi, S.Mizuno, Jun-Ichi Hori, 
+#+          K.Masuda, T.Ohsaki
+#REF-CODE   (J,NST,36,(10),865,199910)
+#REFERENCE  J.Nucl.Sci.Technol. 36 No.10 (1999) 865 (doi:10.1080/18811248.1999.9726277)
+#DATASETS   0
+#
+#DATASET    22783018 
+#DATE       20081124
+#REACTION   62-SM-152(N,G)62-SM-153,,SIG,,SPA
+#PROJ       1
+#TARG       62152
+#MF         3
+#MT         102
+#PRODUCT    62-SM-153
+#C4BEGIN    [    1 62152   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 62152   3 102 D  550000.0 70000.00 0.133000 8.0000-3                                       B.Diamet+            (99)22783 18 
+#/DATA      1
+#/DATASET

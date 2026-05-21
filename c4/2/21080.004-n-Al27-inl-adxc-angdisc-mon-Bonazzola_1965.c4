@@ -1,0 +1,32 @@
+#ENTRY      21080
+#AUTHOR1    G.C.Bonazzola+
+#YEAR       1965
+#INSTITUTE  (2ITYTUR)
+#TITLE      -Excited core model in Al-27 and inelastic scattering
+#+          of 14.2 MeV neutrons -.
+#AUTHOR(S)  G.C.Bonazzola, E.Chiavassa, T.Bressani
+#REF-CODE   (J,PR,140,B835,196511)
+#REFERENCE  Phys.Rev. 140 (1965) B835 (doi:10.1103/PhysRev.140.B835)
+#DATASETS   0
+#
+#DATASET    21080004 
+#DATE       20080109
+#REACTION   13-AL-27(N,INL)13-AL-27,PAR,DA
+#PROJ       1
+#TARG       13027
+#MF         4
+#MT         51
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   4  51  C 1.4200+7 284000.0 1.7000-3 6.0000-4 8.7000-3          3000000.         LVLG.C.Bonazzola+       (65)21080  4 
+    1 13027   4  51  C 1.4200+7 284000.0 2.0000-3 7.0000-4 0.233000          3000000.         LVLG.C.Bonazzola+       (65)21080  4 
+    1 13027   4  51  C 1.4200+7 284000.0 1.7000-3 5.0000-4 0.375000          3000000.         LVLG.C.Bonazzola+       (65)21080  4 
+    1 13027   4  51  C 1.4200+7 284000.0 5.0000-3 1.5000-3 0.545000          3000000.         LVLG.C.Bonazzola+       (65)21080  4 
+    1 13027   4  51  C 1.4200+7 284000.0 2.9000-3 6.0000-4 0.682000          3000000.         LVLG.C.Bonazzola+       (65)21080  4 
+    1 13027   4  51  C 1.4200+7 284000.0 5.5000-3 1.3000-3 0.777000          3000000.         LVLG.C.Bonazzola+       (65)21080  4 
+    1 13027   4  51  C 1.4200+7 284000.0 7.7000-3 1.9000-3 0.899000          3000000.         LVLG.C.Bonazzola+       (65)21080  4 
+#/DATA      7
+#/DATASET

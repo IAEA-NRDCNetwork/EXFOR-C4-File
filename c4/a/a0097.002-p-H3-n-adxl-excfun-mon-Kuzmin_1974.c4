@@ -1,0 +1,32 @@
+#ENTRY      A0097
+#AUTHOR1    E.A.Kuz'min+
+#YEAR       1974
+#INSTITUTE  (4RUSKUR)
+#TITLE      Neutron yield in proton-tritium interaction.
+#AUTHOR(S)  E.A.Kuz'min, N.I.Sidorov, A.R.Fajziev, L.V.Chulkov, G.B.Jan'kov
+#REF-CODE   (C,73KIEV,4,315,1974)
+#REFERENCE  Proceedings of 2.Conf.on Neutron Physics, Kiev 1973 4 page 315
+#DATASETS   0
+#
+#DATASET    A0097002 
+#DATE       20080627
+#REACTION   1-H-3(P,N)2-HE-3,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1003   4   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4   4 A  6500000.          0.037200 3.4000-3 1.000000                              E.A.Kuz'min+         (74)A0097  2 
+ 1001  1003   4   4 A  8800000.          0.027400 2.5000-3 1.000000                              E.A.Kuz'min+         (74)A0097  2 
+ 1001  1003   4   4 A  9600000.          0.026400 2.4000-3 1.000000                              E.A.Kuz'min+         (74)A0097  2 
+ 1001  1003   4   4 A  1.1200+7          0.026800 2.5000-3 1.000000                              E.A.Kuz'min+         (74)A0097  2 
+ 1001  1003   4   4 A  1.2300+7          0.032800 3.0000-3 1.000000                              E.A.Kuz'min+         (74)A0097  2 
+ 1001  1003   4   4 A  1.3700+7          0.038900 3.6000-3 1.000000                              E.A.Kuz'min+         (74)A0097  2 
+ 1001  1003   4   4 A  1.4200+7          0.038500 3.5000-3 1.000000                              E.A.Kuz'min+         (74)A0097  2 
+ 1001  1003   4   4 A  1.5300+7          0.042600 3.9000-3 1.000000                              E.A.Kuz'min+         (74)A0097  2 
+#/DATA      8
+#/DATASET

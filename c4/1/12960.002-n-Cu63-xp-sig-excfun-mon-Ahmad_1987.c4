@@ -1,0 +1,27 @@
+#ENTRY      12960
+#AUTHOR1    M.Ahmad+
+#YEAR       1987
+#INSTITUTE  (1USAOHO)
+#TITLE      Charged-particle emission in reactions of 9- and
+#+          11-MeV neutrons with 63,65Cu
+#AUTHOR(S)  M.Ahmad, C.E.Brient, P.M.Egun, S.M.Grimes, S.Saraf, H.Satyanarayana
+#REF-CODE   (J,NSE,95,296,198704)
+#REFERENCE  Nucl.Sci.Eng. 95 (1987) 296 (doi:10.13182/NSE95-296)
+#DATASETS   0
+#
+#DATASET    12960002 
+#DATE       20090828
+#REACTION   29-CU-63(N,X)1-H-1,,SIG
+#PROJ       1
+#TARG       29063
+#MF         3
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    1 29063   3 203 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29063   3 203 D  9000000.          0.113000 0.015000                                       M.Ahmad+             (87)12960  2 
+    1 29063   3 203 D  1.1000+7          0.457000 0.050000                                       M.Ahmad+             (87)12960  2 
+#/DATA      2
+#/DATASET

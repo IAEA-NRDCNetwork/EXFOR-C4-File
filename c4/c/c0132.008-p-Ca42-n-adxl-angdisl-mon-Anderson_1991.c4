@@ -1,0 +1,31 @@
+#ENTRY      C0132
+#AUTHOR1    B.D.Anderson+
+#YEAR       1991
+#INSTITUTE  (1USAKSU)
+#TITLE      Isobaric-analog-state transitions in the (p,n) reaction
+#+          at 135 MeV and density-independent impulse-
+#+          approximation calculations
+#AUTHOR(S)  B.D.Anderson, M.Mostajabodda'vati, C.Lebo, R.J.McCarthy, 
+#+          L.Garcia, J.W.Watson, R.Madley
+#REF-CODE   (J,PR/C,43,1630,1991)
+#REFERENCE  Phys.Rev.C 43 (1991) 1630 (doi:10.1103/PhysRevC.43.1630)
+#DATASETS   0
+#
+#DATASET    C0132008 
+#DATE       20241031
+#REACTION   20-CA-42(P,N)21-SC-42,PAR,DA
+#PROJ       1001
+#TARG       20042
+#MF         4
+#MT         50
+#PRODUCT    21-SC-42
+#C4BEGIN    [ 1001 20042   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20042   4  50    1.3500+8          1.5590-3 2.5920-5 1.000000          0.000000 100000.0LVLB.D.Anderson+        (91)C0132  8 
+ 1001 20042   4  50    1.3500+8          8.1940-4 1.3430-5 0.994207          0.000000 100000.0LVLB.D.Anderson+        (91)C0132  8 
+ 1001 20042   4  50    1.3500+8          1.1090-4 9.1380-6 0.976934          0.000000 100000.0LVLB.D.Anderson+        (91)C0132  8 
+ 1001 20042   4  50    1.3500+8          4.7790-5 8.7520-6 0.946649          0.000000 100000.0LVLB.D.Anderson+        (91)C0132  8 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,41 @@
+#ENTRY      C0336
+#AUTHOR1    H.I.West+
+#YEAR       1987
+#INSTITUTE  (1USALRL)
+#TITLE      CR-52(P,N)MN-52-G,M AND CR-52(D,2N)MN-52-G,M
+#+          EXCITATION FUNCTIONS
+#AUTHOR(S)  H.I.West, R.G.Lanier, M.G.Mustafa
+#REF-CODE   (J,PR/C,35,2067,87)
+#REFERENCE  Phys.Rev.C 35 (1987) 2067 (doi:10.1103/PhysRevC.35.2067)
+#DATASETS   0
+#
+#DATASET    C0336005 
+#DATE       19871102
+#REACTION   24-CR-52(D,2N)25-MN-52-M,,SIG
+#PROJ       1002
+#TARG       24052
+#MF         3
+#MT         16
+#PRODUCT    25-MN-52-M
+#C4BEGIN    [ 1002 24052   3  16MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 24052   3  16MA  8460000.          6.3000-5 1.0000-5                                       H.I.West+            (87)C0336  5 
+ 1002 24052   3  16MA  8560000.          1.9900-4 1.6000-5                                       H.I.West+            (87)C0336  5 
+ 1002 24052   3  16MA  8710000.          7.7200-4                                                H.I.West+            (87)C0336  5 
+ 1002 24052   3  16MA  8970000.          2.4500-3                                                H.I.West+            (87)C0336  5 
+ 1002 24052   3  16MA  9460000.          0.010500                                                H.I.West+            (87)C0336  5 
+ 1002 24052   3  16MA  9600000.          0.017100                                                H.I.West+            (87)C0336  5 
+ 1002 24052   3  16MA  9970000.          0.025550                                                H.I.West+            (87)C0336  5 
+ 1002 24052   3  16MA  1.0620+7          0.048170                                                H.I.West+            (87)C0336  5 
+ 1002 24052   3  16MA  1.0970+7          0.063850                                                H.I.West+            (87)C0336  5 
+ 1002 24052   3  16MA  1.1470+7          0.078420                                                H.I.West+            (87)C0336  5 
+ 1002 24052   3  16MA  1.1750+7          0.090930                                                H.I.West+            (87)C0336  5 
+ 1002 24052   3  16MA  1.3780+7          0.146400                                                H.I.West+            (87)C0336  5 
+ 1002 24052   3  16MA  1.5820+7          0.172800                                                H.I.West+            (87)C0336  5 
+ 1002 24052   3  16MA  1.7800+7          0.177800                                                H.I.West+            (87)C0336  5 
+ 1002 24052   3  16MA  1.8830+7          0.174200                                                H.I.West+            (87)C0336  5 
+ 1002 24052   3  16MA  1.9820+7          0.163900                                                H.I.West+            (87)C0336  5 
+#/DATA      16
+#/DATASET

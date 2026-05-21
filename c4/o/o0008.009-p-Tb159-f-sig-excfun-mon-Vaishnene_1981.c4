@@ -1,0 +1,26 @@
+#ENTRY      O0008
+#AUTHOR1    L.A.Vaishnene+
+#YEAR       1981
+#INSTITUTE  (4RUSLIN)
+#TITLE      Fission cross sections of medium-weight and heavy
+#+          nuclei induced by 1 GeV protons
+#AUTHOR(S)  L.A.Vaishnene, L.N.Andronenko, G.G.Kovshevny, A.A.Kotov, 
+#+          G.E.Solyakin, W.Neubert
+#REF-CODE   (J,ZP/A,302,143,1981)
+#REFERENCE  Z.Phys.A 302 (1981) 143 (doi:10.1007/BF01413044)
+#DATASETS   0
+#
+#DATASET    O0008009 
+#DATE       20190208
+#REACTION   65-TB-159(P,F),,SIG
+#PROJ       1001
+#TARG       65159
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 65159   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 65159   3  18    1.0000+9          9.0000-3 1.5000-3                                       L.A.Vaishnene+       (81)O0008  9 
+#/DATA      1
+#/DATASET

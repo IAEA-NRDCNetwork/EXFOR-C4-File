@@ -1,0 +1,26 @@
+#ENTRY      12235
+#AUTHOR1    L.E.Beghian+
+#YEAR       1966
+#INSTITUTE  (1USAMIT)
+#TITLE      MEASUREMENT OF NINELASTIC CROSS SECTION FOR LEAD AT 2.1
+#+          AND 1.7 MEV.
+#AUTHOR(S)  L.E.Beghian, F.Hofmann, S.Wilensky
+#REF-CODE   (C,66WASH,2,726,6603)
+#REFERENCE  Proceedings of Neutron Cross-Section Techn. Conf., Washington 1966 2 page 726
+#DATASETS   0
+#
+#DATASET    12235002 
+#DATE       19840821
+#REACTION   82-PB-0(N,NON),,SIG
+#PROJ       1
+#TARG       82000
+#MF         3
+#MT         3
+#C4BEGIN    [    1 82000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   3   3    1740000. 50000.00 0.650000                                                L.E.Beghian+         (66)12235  2 
+    1 82000   3   3    2100000. 50000.00 0.830000                                                L.E.Beghian+         (66)12235  2 
+#/DATA      2
+#/DATASET

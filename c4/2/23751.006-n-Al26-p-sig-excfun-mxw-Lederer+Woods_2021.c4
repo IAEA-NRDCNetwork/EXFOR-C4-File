@@ -1,0 +1,115 @@
+#ENTRY      23751
+#AUTHOR1    C.Lederer-Woods+
+#YEAR       2021
+#INSTITUTE  (2UK EDG)
+#TITLE      Destruction of the cosmic gamma-ray emitter 26Al in
+#+          massive stars: Study of the key 26Al(n,p) reaction
+#AUTHOR(S)  C.Lederer-Woods, P.J.Woods, T.Davinson, D.Kahl, S.J.Lonsdale, 
+#+          O.Aberle, S.Amaducci, J.Andrzejewski, L.Audouin, M.Bacak, 
+#+          J.Balibrea, M.Barbagallo, F.Becvar, E.Berthoumieux, J.Billowes, 
+#+          D.Bosnar, A.Brown, M.Caamano, F.Calvino, M.Calviani, D.Cano-Ott, 
+#+          R.Cardella, A.Casanovas, F.Cerutti, Y.H.Chen, E.Chiaveri, 
+#+          N.Colonna, G.Cortes, M.A.Cortes-Giraldo, L.Cosentino, S.Cristallo, 
+#+          L.A.Damone, M.Diakaki, C.Domingo-Pardo, R.Dressler, E.Dupont, 
+#+          I.Duran, B.Fernandez-Dominguez, A.Ferrari, P.Ferreira, F.J.Ferrer, 
+#+          P.Finocchiaro, V.Furman, K.Goebel, A.R.Garcia, A.Gawlik, 
+#+          S.Gilardoni, T.Glodariu, I.F.Goncalves, E.Gonzalez-Romero, 
+#+          E.Griesmayer, C.Guerrero, F.Gunsing, H.Harada, S.Heinitz, 
+#+          J.Heyse, D.G.Jenkins, E.Jericha, F.Kaeppeler, Y.Kadi, A.Kalamara, 
+#+          P.Kavrigin, A.Kimura, N.Kivel, M.Kokkoris, M.Krticka, D.Kurtulgil, 
+#+          E.Leal-Cidoncha, H.Leeb, J.Lerendegui-Marco, S.Lo Meo, D.Macina, 
+#+          A.Manna, J.Marganiec, T.Martinez, A.Masi, C.Massimi, P.Mastinu, 
+#+          M.Mastromarco, E.A.Maugeri, A.Mazzone, E.Mendoza, A.Mengoni, 
+#+          P.M.Milazzo, F.Mingrone, A.Musumarra, A.Negret, R.Nolte, 
+#+          A.Oprea, N.Patronis, A.Pavlik, J.Perkowski, I.Porras, J.Praena, 
+#+          J.M.Quesada, D.Radeck, T.Rauscher, R.Reifarth, C.Rubbia, 
+#+          J.A.Ryan, M.Sabate-Gilarte, A.Saxena, P.Schillebeeckx, D.Schumann, 
+#+          P.Sedyshev, A.G.Smith, N.V.Sosnin, A.Stamatopoulos, G.Tagliente, 
+#+          J.L.Tain, A.Tarifeno-Saldivia, L.Tassan-Got, S.Valenta, 
+#+          G.Vannini, V.Variale, P.Vaz, A.Ventura, V.Vlachoudis, R.Vlastou, 
+#+          A.Wallner, S.Warren, C.Weiss, T.Wright, P.Zugec
+#REF-CODE   (J,PR/C,104,L022803,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) L022803 (doi:10.1103/PhysRevC.104.L022803)
+#DATASETS   0
+#
+#DATASET    23751006 
+#DATE       20220714
+#REACTION   13-AL-26(N,P)12-MG-26,PAR,SIG,,MXW
+#PROJ       1
+#TARG       13026
+#MF         3
+#MT         600
+#PRODUCT    12-MG-26
+#C4BEGIN    [    1 13026   3 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13026   3 600 A  1000.000          1.3000-4 1.3000-4                   0.000000         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  5000.000          6.0000-5 6.0000-5                   0.000000         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  10000.00          5.8000-4 2.6000-4                   0.000000         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  15000.00          4.0000-3 1.6000-3                   0.000000         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  20000.00          9.5000-3 3.5000-3                   0.000000         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  25000.00          0.015000 5.0000-3                   0.000000         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  30000.00          0.019000 6.0000-3                   0.000000         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  35000.00          0.022000 7.0000-3                   0.000000         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  40000.00          0.024000 8.0000-3                   0.000000         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  45000.00          0.024000 8.0000-3                   0.000000         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  50000.00          0.025000 8.0000-3                   0.000000         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  60000.00          0.024000 7.0000-3                   0.000000         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  70000.00          0.022000 7.0000-3                   0.000000         LVLC.Lederer-Woods+     (21)23751  6 
+#/DATA      13
+#/DATASET
+#
+#DATASET    23751006 
+#DATE       20220714
+#REACTION   13-AL-26(N,P)12-MG-26,PAR,SIG,,MXW
+#PROJ       1
+#TARG       13026
+#MF         3
+#MT         600
+#PRODUCT    12-MG-26
+#C4BEGIN    [    1 13026   3 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13026   3 600 A  1000.000          0.034000 4.0000-3                   1810000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  5000.000          0.098000 0.014000                   1810000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  10000.00          0.142000 0.022000                   1810000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  15000.00          0.179000 0.030000                   1810000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  20000.00          0.188000 0.030000                   1810000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  25000.00          0.186000 0.029000                   1810000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  30000.00          0.179000 0.027000                   1810000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  35000.00          0.169000 0.025000                   1810000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  40000.00          0.159000 0.023000                   1810000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  45000.00          0.149000 0.021000                   1810000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  50000.00          0.139000 0.020000                   1810000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  60000.00          0.120000 0.017000                   1810000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  70000.00          0.105000 0.015000                   1810000.         LVLC.Lederer-Woods+     (21)23751  6 
+#/DATA      13
+#/DATASET
+#
+#DATASET    23751006 
+#DATE       20220714
+#REACTION   13-AL-26(N,P)12-MG-26,PAR,SIG,,MXW
+#PROJ       1
+#TARG       13026
+#MF         3
+#MT         600
+#PRODUCT    12-MG-26
+#C4BEGIN    [    1 13026   3 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13026   3 600 A  10000.00          3.0000-3 2.9000-3                   2940000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  15000.00          6.9000-3 4.1000-3                   2940000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  20000.00          8.8000-3 4.3000-3                   2940000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  25000.00          9.7000-3 4.3000-3                   2940000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  30000.00          0.010000 4.2000-3                   2940000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  35000.00          0.010100 4.1000-3                   2940000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  40000.00          0.010000 3.9000-3                   2940000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  45000.00          9.7000-3 3.8000-3                   2940000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  50000.00          9.3000-3 3.6000-3                   2940000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  60000.00          8.5000-3 3.3000-3                   2940000.         LVLC.Lederer-Woods+     (21)23751  6 
+    1 13026   3 600 A  70000.00          7.7000-3 3.0000-3                   2940000.         LVLC.Lederer-Woods+     (21)23751  6 
+#/DATA      11
+#/DATASET

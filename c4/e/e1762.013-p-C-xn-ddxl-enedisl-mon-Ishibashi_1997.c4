@@ -1,0 +1,42 @@
+#ENTRY      E1762
+#AUTHOR1    K.Ishibashi+
+#YEAR       1997
+#INSTITUTE  (2JPNKYU)
+#TITLE      Measurement of neutron-production double-differential
+#+          cross sections for nuclear spallation reaction induced
+#+          by 0.8, 1.5 and 3.0 GeV protons
+#AUTHOR(S)  K.Ishibashi, H.Takada, T.Nakamoto, N.Shigyo, K.Maehata, 
+#+          N.Matsufuji, S.Meigo, S.Chiba, M.Numajiri, Y.Watanabe, T.Nakamura
+#REF-CODE   (J,NST,34,(6),529,199706)
+#REFERENCE  J.Nucl.Sci.Technol. 34 No.6 (1997) 529 (doi:10.1080/18811248.1997.9733705)
+#DATASETS   0
+#
+#DATASET    E1762013 
+#DATE       20030606
+#REACTION   6-C-0(P,X)0-NN-1,,DA/DE
+#PROJ       1001
+#TARG       6000
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1001  6000   6 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6000   6 201    1.5000+9          1.1820-9 3.893-10-0.866025          1250000.          E2K.Ishibashi+         (97)E1762 13 
+ 1001  6000   6 201    1.5000+9          1.2330-9 4.153-10-0.866025          1750000.          E2K.Ishibashi+         (97)E1762 13 
+ 1001  6000   6 201    1.5000+9          8.983-10 2.847-10-0.866025          2500000.          E2K.Ishibashi+         (97)E1762 13 
+ 1001  6000   6 201    1.5000+9          8.327-10 2.188-10-0.866025          3500000.          E2K.Ishibashi+         (97)E1762 13 
+ 1001  6000   6 201    1.5000+9          6.178-10 1.633-10-0.866025          4500000.          E2K.Ishibashi+         (97)E1762 13 
+ 1001  6000   6 201    1.5000+9          4.744-10 1.269-10-0.866025          5500000.          E2K.Ishibashi+         (97)E1762 13 
+ 1001  6000   6 201    1.5000+9          3.577-10 9.425-11-0.866025          7000000.          E2K.Ishibashi+         (97)E1762 13 
+ 1001  6000   6 201    1.5000+9          2.439-10 6.800-11-0.866025          9000000.          E2K.Ishibashi+         (97)E1762 13 
+ 1001  6000   6 201    1.5000+9          2.174-10 5.823-11-0.866025          1.2500+7          E2K.Ishibashi+         (97)E1762 13 
+ 1001  6000   6 201    1.5000+9          1.634-10 4.643-11-0.866025          1.7500+7          E2K.Ishibashi+         (97)E1762 13 
+ 1001  6000   6 201    1.5000+9          9.093-11 2.541-11-0.866025          2.5000+7          E2K.Ishibashi+         (97)E1762 13 
+ 1001  6000   6 201    1.5000+9          5.047-11 1.843-11-0.866025          3.5000+7          E2K.Ishibashi+         (97)E1762 13 
+ 1001  6000   6 201    1.5000+9          2.933-11 1.260-11-0.866025          4.5000+7          E2K.Ishibashi+         (97)E1762 13 
+ 1001  6000   6 201    1.5000+9          2.750-11 1.303-11-0.866025          5.5000+7          E2K.Ishibashi+         (97)E1762 13 
+ 1001  6000   6 201    1.5000+9          1.770-11 7.308-12-0.866025          7.0000+7          E2K.Ishibashi+         (97)E1762 13 
+#/DATA      15
+#/DATASET

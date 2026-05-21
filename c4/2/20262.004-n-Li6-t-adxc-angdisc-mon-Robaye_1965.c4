@@ -1,0 +1,35 @@
+#ENTRY      20262
+#AUTHOR1    G.Robaye+
+#YEAR       1965
+#INSTITUTE  (2BLGLIE)
+#TITLE      Measurement of the angular distribution of tritons
+#+          from Li-6(n,t)He-4 for neutron energies in the range
+#+          of the 258 keV resonance
+#AUTHOR(S)  G.Robaye, L.Winand, J.M.Delbrouck-Habaru
+#REF-CODE   (R,EANDC-50-S,(1),(18),1965)
+#REFERENCE  Report EANDC-50-S Vol.(1) page (18), 1965
+#DATASETS   0
+#
+#DATASET    20262004 
+#DATE       20170425
+#REACTION   3-LI-6(N,T)2-HE-4,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         105
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1  3006   4 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4 105  C 390000.0          0.084300 4.0000-3-0.982000                              G.Robaye+            (65)20262  4 
+    1  3006   4 105  C 390000.0          0.060500 3.5000-3-0.839000                              G.Robaye+            (65)20262  4 
+    1  3006   4 105  C 390000.0          0.043900 3.0000-3-0.567000                              G.Robaye+            (65)20262  4 
+    1  3006   4 105  C 390000.0          0.030400 2.3000-3-0.195000                              G.Robaye+            (65)20262  4 
+    1  3006   4 105  C 390000.0          0.033300 1.5000-3 0.225000                              G.Robaye+            (65)20262  4 
+    1  3006   4 105  C 390000.0          0.047200 3.0000-3 0.430000                              G.Robaye+            (65)20262  4 
+    1  3006   4 105  C 390000.0          0.066900 3.0000-3 0.617000                              G.Robaye+            (65)20262  4 
+    1  3006   4 105  C 390000.0          0.085600 3.0000-3 0.898000                              G.Robaye+            (65)20262  4 
+    1  3006   4 105  C 390000.0          0.098500 4.0000-3 1.000000                              G.Robaye+            (65)20262  4 
+#/DATA      9
+#/DATASET

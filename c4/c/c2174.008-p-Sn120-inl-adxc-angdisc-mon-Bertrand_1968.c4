@@ -1,0 +1,40 @@
+#ENTRY      C2174
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1968
+#INSTITUTE  (1USAORL)
+#TITLE      Elastic and Inelastic Scattering of Protons from
+#+          120Sn for Ep = 20.6, 25.2, 30.6 and 36.2 MeV:
+#+          Tabulated Differential Cross Sections
+#AUTHOR(S)  F.E.Bertrand, T.A.Love, N.Baron, F.G.Perey, J.K.Dickens
+#REF-CODE   (R,ORNL-4252,1968)
+#REFERENCE  Report ORNL-4252, 1968
+#DATASETS   0
+#
+#DATASET    C2174008 
+#DATE       20150826
+#REACTION   50-SN-120(P,INL)50-SN-120,PAR,DA
+#PROJ       1001
+#TARG       50120
+#MF         4
+#MT         601
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 1001 50120   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50120   4 601  C 3.0600+7          5.5400-3 5.5000-4 0.965473          1170000.         LVLF.E.Bertrand+        (68)C2174  8 
+ 1001 50120   4 601  C 3.0600+7          6.6700-3 6.6000-4 0.904827          1170000.         LVLF.E.Bertrand+        (68)C2174  8 
+ 1001 50120   4 601  C 3.0600+7          4.3100-3 4.3000-4 0.864275          1170000.         LVLF.E.Bertrand+        (68)C2174  8 
+ 1001 50120   4 601  C 3.0600+7          2.4400-3 2.4000-4 0.816138          1170000.         LVLF.E.Bertrand+        (68)C2174  8 
+ 1001 50120   4 601  C 3.0600+7          1.5900-3 1.5000-4 0.762668          1170000.         LVLF.E.Bertrand+        (68)C2174  8 
+ 1001 50120   4 601  C 3.0600+7          1.6000-3 1.5000-4 0.703395          1170000.         LVLF.E.Bertrand+        (68)C2174  8 
+ 1001 50120   4 601  C 3.0600+7          1.4700-3 1.4000-4 0.637424          1170000.         LVLF.E.Bertrand+        (68)C2174  8 
+ 1001 50120   4 601  C 3.0600+7          7.0000-4 7.0000-5 0.493942          1170000.         LVLF.E.Bertrand+        (68)C2174  8 
+ 1001 50120   4 601  C 3.0600+7          8.4000-4 8.3000-5 0.416281          1170000.         LVLF.E.Bertrand+        (68)C2174  8 
+ 1001 50120   4 601  C 3.0600+7          5.7600-4 5.7000-5 0.250380          1170000.         LVLF.E.Bertrand+        (68)C2174  8 
+ 1001 50120   4 601  C 3.0600+7          2.7600-4 2.7000-5 0.130526          1170000.         LVLF.E.Bertrand+        (68)C2174  8 
+ 1001 50120   4 601  C 3.0600+7          3.3600-4 3.3000-5-8.7265-3          1170000.         LVLF.E.Bertrand+        (68)C2174  8 
+ 1001 50120   4 601  C 3.0600+7          1.9600-4 1.9000-5-0.267238          1170000.         LVLF.E.Bertrand+        (68)C2174  8 
+ 1001 50120   4 601  C 3.0600+7          1.4800-4 1.4000-5-0.350207          1170000.         LVLF.E.Bertrand+        (68)C2174  8 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      E2734
+#AUTHOR1    S.Ebata+
+#YEAR       2022
+#INSTITUTE  (2JPNSUU)
+#TITLE      Activation cross sections of alpha-particle-induced
+#+          reactions on natural lanthanum up to 50 MeV
+#AUTHOR(S)  S.Ebata, M.Aikawa, D.Gantumur, H.Haba
+#REF-CODE   (J,NIM/B,530,18,2022)
+#REFERENCE  Nucl.Instrum.Meth.B 530 (2022) 18 (doi:10.1016/j.nimb.2022.09.002)
+#DATASETS   0
+#
+#DATASET    E2734004 
+#DATE       20230122
+#REACTION   57-LA-0(A,X)59-PR-138-M,,SIG
+#PROJ       2004
+#TARG       57000
+#MF         3
+#MT         454
+#PRODUCT    59-PR-138-M
+#C4BEGIN    [ 2004 57000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 57000   3 454    5.0000+7 200000.0 0.031400 2.8000-3           59138.7                     S.Ebata+             (22)E2734  4 
+ 2004 57000   3 454    4.8200+7 200000.0 6.3200-3 6.0000-4           59138.7                     S.Ebata+             (22)E2734  4 
+ 2004 57000   3 454    4.6400+7 200000.0 1.1100-3 1.3000-4           59138.7                     S.Ebata+             (22)E2734  4 
+ 2004 57000   3 454    4.4500+7 200000.0 4.8600-4 7.7000-5           59138.7                     S.Ebata+             (22)E2734  4 
+ 2004 57000   3 454    4.2600+7 300000.0 3.4100-4 6.0000-5           59138.7                     S.Ebata+             (22)E2734  4 
+ 2004 57000   3 454    4.0600+7 300000.0 5.4500-5 1.6400-5           59138.7                     S.Ebata+             (22)E2734  4 
+#/DATA      6
+#/DATASET

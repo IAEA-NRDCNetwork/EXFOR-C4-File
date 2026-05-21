@@ -1,0 +1,29 @@
+#ENTRY      30484
+#AUTHOR1    L.Adamski+
+#YEAR       1980
+#INSTITUTE  (3POLIBJ)
+#TITLE      -In-115(n,n')In-115m reaction cross section in the
+#+          energy range between 0.53 and 1.31 MeV.-
+#AUTHOR(S)  L.Adamski, M.Herman, A.Marcinkowski
+#REF-CODE   (J,ANE,7,(7),397,1980)
+#REFERENCE  Ann.Nucl.Energy 7 No.7 (1980) 397 (doi:10.1016/0306-4549(80)90055-9)
+#DATASETS   0
+#
+#DATASET    30484002 
+#DATE       20090312
+#REACTION   49-IN-115(N,INL)49-IN-115-M,,SIG
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         4
+#PRODUCT    49-IN-115-M
+#C4BEGIN    [    1 49115   3   4MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3   4MA  530000.0 140000.0 6.8000-3 8.0000-4                                       L.Adamski+           (80)30484  2 
+    1 49115   3   4MA  860000.0 210000.0 0.034600 3.9000-3                                       L.Adamski+           (80)30484  2 
+    1 49115   3   4MA  1200000. 150000.0 0.088700 9.9000-3                                       L.Adamski+           (80)30484  2 
+    1 49115   3   4MA  1310000. 70000.00 0.123200 0.014000                                       L.Adamski+           (80)30484  2 
+#/DATA      4
+#/DATASET

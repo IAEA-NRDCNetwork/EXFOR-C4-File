@@ -1,0 +1,29 @@
+#ENTRY      20322
+#AUTHOR1    J.Sato+
+#YEAR       1971
+#INSTITUTE  (2JPNTOK)
+#TITLE      -CROSS SECTIONS OF BR-79(N,A)AS-76, BR-81(N,A)AS-78 AND
+#+          ZN-68(N,A)NI-65 REACTION INDUCED BY 13.6 TO 14.8 MEV
+#+          NEUTRONS.-
+#AUTHOR(S)  J.Sato, N.Saito, Y.Yokoyama
+#REF-CODE   (J,RCA,16,71,7111)
+#REFERENCE  Radiochim.Acta 16 (1971) 71 (doi:10.1524/ract.1971.16.2.71)
+#DATASETS   0
+#
+#DATASET    20322003 
+#DATE       19831122
+#REACTION   35-BR-79(N,A)33-AS-76,,SIG
+#PROJ       1
+#TARG       35079
+#MF         3
+#MT         107
+#PRODUCT    33-AS-76
+#C4BEGIN    [    1 35079   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 35079   3 107    1.3600+7 200000.0 0.010000 8.0000-4                                       J.Sato+              (71)20322  3 
+    1 35079   3 107    1.4100+7 500000.0 9.1000-3 5.0000-4                                       J.Sato+              (71)20322  3 
+    1 35079   3 107    1.4800+7 200000.0 0.010800 7.0000-4                                       J.Sato+              (71)20322  3 
+#/DATA      3
+#/DATASET

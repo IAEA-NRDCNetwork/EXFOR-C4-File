@@ -1,0 +1,33 @@
+#ENTRY      11581
+#AUTHOR1    E.D.Klema+
+#YEAR       1948
+#INSTITUTE  (1USALAS)
+#TITLE      A determination of the S32(n,p)P32 cross section for
+#+          neutrons having energies of 1.6 to 5.8 MeV.
+#AUTHOR(S)  E.D.Klema, A.O.Hanson
+#REF-CODE   (J,PR,73,106,1948)
+#REFERENCE  Phys.Rev. 73 (1948) 106 (doi:10.1103/PhysRev.73.106)
+#DATASETS   0
+#
+#DATASET    11581002 
+#DATE       20200419
+#REACTION   16-S-32(N,P)15-P-32,,SIG
+#PROJ       1
+#TARG       16032
+#MF         3
+#MT         103
+#PRODUCT    15-P-32
+#C4BEGIN    [    1 16032   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 16032   3 103    1630000. 50000.00 1.3100-3                                                E.D.Klema+           (48)11581  2 
+    1 16032   3 103    1830000. 50000.00 5.0900-3                                                E.D.Klema+           (48)11581  2 
+    1 16032   3 103    2500000. 300000.0 0.078400                                                E.D.Klema+           (48)11581  2 
+    1 16032   3 103    2900000. 300000.0 0.155000                                                E.D.Klema+           (48)11581  2 
+    1 16032   3 103    3400000. 70000.00 0.204000                                                E.D.Klema+           (48)11581  2 
+    1 16032   3 103    4300000. 110000.0 0.349000                                                E.D.Klema+           (48)11581  2 
+    1 16032   3 103    4600000. 150000.0 0.288000                                                E.D.Klema+           (48)11581  2 
+    1 16032   3 103    5800000. 170000.0 0.300000                                                E.D.Klema+           (48)11581  2 
+#/DATA      8
+#/DATASET

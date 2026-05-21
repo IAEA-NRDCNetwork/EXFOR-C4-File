@@ -1,0 +1,32 @@
+#ENTRY      E2218
+#AUTHOR1    Y.Oda+
+#YEAR       1960
+#INSTITUTE  (2JPNTOK)
+#TITLE      Elastic and inelastic scattering of protons from N,
+#+          Ne, Mg, Si, S and A in the energy range from 7.6 MeV
+#+          to 14.2 MeV
+#AUTHOR(S)  Y.Oda, M.Takeda, N.Takano, T.Yamazaki, C.Hu, K.Kikuchi, 
+#+          S.Kobayashi, K.Matsuda, Y.Nagahara
+#REF-CODE   (J,JPJ,15,760,1960)
+#REFERENCE  J.Phys.Soc.Jpn. 15 (1960) 760 (doi:10.1143/JPSJ.15.760)
+#DATASETS   0
+#
+#DATASET    E2218017 
+#DATE       20190117
+#REACTION   18-AR-40(P,INL)18-AR-40,PAR,SIG
+#PROJ       1001
+#TARG       18040
+#MF         3
+#MT         601
+#PRODUCT    18-AR-40
+#C4BEGIN    [ 1001 18040   3 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 18040   3 601    5530000. 55300.00 0.044200                            1460000.         LVLY.Oda+               (60)E2218 17 
+ 1001 18040   3 601    7770000. 77700.00 0.028600                            1460000.         LVLY.Oda+               (60)E2218 17 
+ 1001 18040   3 601    9370000. 93700.00 0.031520                            1460000.         LVLY.Oda+               (60)E2218 17 
+ 1001 18040   3 601    1.0550+7 105500.0 0.025950                            1460000.         LVLY.Oda+               (60)E2218 17 
+ 1001 18040   3 601    1.4010+7 140100.0 0.031240                            1460000.         LVLY.Oda+               (60)E2218 17 
+#/DATA      5
+#/DATASET

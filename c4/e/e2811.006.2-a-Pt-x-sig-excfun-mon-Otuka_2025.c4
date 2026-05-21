@@ -1,0 +1,36 @@
+#ENTRY      E2811
+#AUTHOR1    N.Otuka+
+#YEAR       2025
+#INSTITUTE  (3ZZZIAE)
+#TITLE      Energy dependence of isomeric ratios for
+#+          alpha-particle-induced reactions on natural platinum
+#+          up to 50 MeV studied by simultaneous decay curve
+#+          analysis
+#AUTHOR(S)  N.Otuka, M.Aikawa, S.Takacs, D.Gantumur, S.Ebata, L.Bold, 
+#+          A.Nambu, H.Haba
+#REF-CODE   (J,EPJ/A,61,184,2025)
+#REFERENCE  Eur.Phys.J.A 61 (2025) 184 (doi:10.1140/epja/s10050-025-01643-0)
+#DATASETS   0
+#
+#DATASET    E28110062
+#DATE       20250825
+#REACTION   78-PT-0(A,X)80-HG-197-G,,SIG
+#PROJ       2004
+#TARG       78000
+#MF         3
+#MT         454
+#PRODUCT    80-HG-197-G
+#C4BEGIN    [ 2004 78000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 78000   3 454    3.9300+7 300000.0 0.070000 0.029000           80197.0                     N.Otuka+             (25)E2811  62
+ 2004 78000   3 454    3.6800+7 300000.0 0.105000 0.025000           80197.0                     N.Otuka+             (25)E2811  62
+ 2004 78000   3 454    3.4300+7 300000.0 0.118000 0.017000           80197.0                     N.Otuka+             (25)E2811  62
+ 2004 78000   3 454    3.1600+7 300000.0 0.123000 0.018000           80197.0                     N.Otuka+             (25)E2811  62
+ 2004 78000   3 454    2.8800+7 400000.0 0.096000 0.012000           80197.0                     N.Otuka+             (25)E2811  62
+ 2004 78000   3 454    2.5700+7 400000.0 0.110000 9.4000-3           80197.0                     N.Otuka+             (25)E2811  62
+ 2004 78000   3 454    2.2400+7 500000.0 0.073600 3.3000-3           80197.0                     N.Otuka+             (25)E2811  62
+ 2004 78000   3 454    1.8700+7 600000.0 0.011220 5.4000-4           80197.0                     N.Otuka+             (25)E2811  62
+#/DATA      8
+#/DATASET

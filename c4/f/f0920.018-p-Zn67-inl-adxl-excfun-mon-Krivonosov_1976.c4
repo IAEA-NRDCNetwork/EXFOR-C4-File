@@ -1,0 +1,37 @@
+#ENTRY      F0920
+#AUTHOR1    G.A.Krivonosov+
+#YEAR       1976
+#INSTITUTE  (4UKRKFT)
+#TITLE      Inelastic scattering of protons by middle atomic
+#+          weight nuclei at low energies.
+#AUTHOR(S)  G.A.Krivonosov, B.A.Nemashkalo, V.E.Storizhko, A.P.Klyucharev, 
+#+          O.I.Ekhichev, V.K.Chirt
+#REF-CODE   (J,YF,24,461,1976)
+#REFERENCE  Yad.Fiz. 24 (1976) 461
+#DATASETS   0
+#
+#DATASET    F0920018 
+#DATE       20080829
+#REACTION   30-ZN-67(P,INL)30-ZN-67,PAR,DA
+#PROJ       1001
+#TARG       30067
+#MF         4
+#MT         601
+#PRODUCT    30-ZN-67
+#C4BEGIN    [ 1001 30067   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30067   4 601    1124800.          3.9714-6 7.5541-7 0.559193          185000.0         LVLG.A.Krivonosov+      (76)F0920 18 
+ 1001 30067   4 601    1328200.          8.0662-6 1.5357-6 0.559193          185000.0         LVLG.A.Krivonosov+      (76)F0920 18 
+ 1001 30067   4 601    1536800.          1.2427-5 1.8634-6 0.559193          185000.0         LVLG.A.Krivonosov+      (76)F0920 18 
+ 1001 30067   4 601    1675300.          1.5036-5 2.0482-6 0.559193          185000.0         LVLG.A.Krivonosov+      (76)F0920 18 
+ 1001 30067   4 601    1862100.          1.8464-5 2.7653-6 0.559193          185000.0         LVLG.A.Krivonosov+      (76)F0920 18 
+ 1001 30067   4 601    2055700.          2.2669-5 3.0836-6 0.559193          185000.0         LVLG.A.Krivonosov+      (76)F0920 18 
+ 1001 30067   4 601    2242400.          2.7388-5 4.4919-6 0.559193          185000.0         LVLG.A.Krivonosov+      (76)F0920 18 
+ 1001 30067   4 601    2443000.          3.4728-5 4.2391-6 0.559193          185000.0         LVLG.A.Krivonosov+      (76)F0920 18 
+ 1001 30067   4 601    2658600.          5.4366-5 8.1521-6 0.559193          185000.0         LVLG.A.Krivonosov+      (76)F0920 18 
+ 1001 30067   4 601    2845900.          7.3595-5 1.0011-5 0.559193          185000.0         LVLG.A.Krivonosov+      (76)F0920 18 
+ 1001 30067   4 601    2961300.          5.6541-5 8.4783-6 0.559193          185000.0         LVLG.A.Krivonosov+      (76)F0920 18 
+#/DATA      11
+#/DATASET

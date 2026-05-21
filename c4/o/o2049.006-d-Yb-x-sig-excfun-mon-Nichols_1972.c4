@@ -1,0 +1,35 @@
+#ENTRY      O2049
+#AUTHOR1    A.L.Nichols+
+#YEAR       1972
+#INSTITUTE  (2UK LEE)
+#TITLE      Excitation functions for the formation of various
+#+          gadolinium and lutetium isotopes by (d,xn) reactions
+#AUTHOR(S)  A.L.Nichols, R.J.Bullock, P.Glentworth, N.R.Large
+#REF-CODE   (R,AERE-R-6965,1972)
+#REFERENCE  Report AERE-R-6965, 1972
+#DATASETS   0
+#
+#DATASET    O2049006 
+#DATE       20151207
+#REACTION   70-YB-0(D,X)71-LU-173,,SIG
+#PROJ       1002
+#TARG       70000
+#MF         3
+#MT         454
+#PRODUCT    71-LU-173
+#C4BEGIN    [ 1002 70000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 70000   3 454 A  1.3420+7          0.285000 0.019950           71173.9                     A.L.Nichols+         (72)O2049  6 
+ 1002 70000   3 454 A  1.5750+7          0.175000 0.012250           71173.9                     A.L.Nichols+         (72)O2049  6 
+ 1002 70000   3 454 A  1.7840+7          0.205000 0.014350           71173.9                     A.L.Nichols+         (72)O2049  6 
+ 1002 70000   3 454 A  1.9740+7          0.160000 0.011200           71173.9                     A.L.Nichols+         (72)O2049  6 
+ 1002 70000   3 454 A  2.1510+7          0.170000 0.011900           71173.9                     A.L.Nichols+         (72)O2049  6 
+ 1002 70000   3 454 A  2.3160+7          0.170000 0.011900           71173.9                     A.L.Nichols+         (72)O2049  6 
+ 1002 70000   3 454 A  2.4730+7          0.190000 0.013300           71173.9                     A.L.Nichols+         (72)O2049  6 
+ 1002 70000   3 454 A  2.6220+7          0.330000 0.023100           71173.9                     A.L.Nichols+         (72)O2049  6 
+ 1002 70000   3 454 A  2.7650+7          0.360000 0.025200           71173.9                     A.L.Nichols+         (72)O2049  6 
+ 1002 70000   3 454 A  2.9010+7          0.360000 0.025200           71173.9                     A.L.Nichols+         (72)O2049  6 
+#/DATA      10
+#/DATASET

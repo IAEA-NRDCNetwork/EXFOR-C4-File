@@ -1,0 +1,26 @@
+#ENTRY      21440
+#AUTHOR1    R.F.Coleman+
+#YEAR       1959
+#INSTITUTE  (2UK ALD)
+#TITLE      Cross sections for (n,p) and (n,alpha) reactions with
+#+          14.5 MeV neutrons
+#AUTHOR(S)  R.F.Coleman, B.E.Hawker, L.P.O'Connor, J.L.Perkin
+#REF-CODE   (J,PPS,73,215,1959)
+#REFERENCE  Proc.Phys.Soc.(UK) 73 (1959) 215 (doi:10.1088/0370-1328/73/2/308)
+#DATASETS   0
+#
+#DATASET    21440044 
+#DATE       20131222
+#REACTION   83-BI-209(N,A)81-TL-206,,SIG
+#PROJ       1
+#TARG       83209
+#MF         3
+#MT         107
+#PRODUCT    81-TL-206
+#C4BEGIN    [    1 83209   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209   3 107    1.4500+7          5.2000-4 7.8000-5                                       R.F.Coleman+         (59)21440 44 
+#/DATA      1
+#/DATASET

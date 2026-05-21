@@ -1,0 +1,30 @@
+#ENTRY      12853
+#AUTHOR1    W.P.Poenitz+
+#YEAR       1983
+#INSTITUTE  (1USAANL)
+#TITLE      NEUTRON TOTAL CROSS SECTION MEASUREMENTS IN THE ENERGY
+#+          REGION FROM 47 KEV TO 20 MEV
+#AUTHOR(S)  W.P.Poenitz, J.F.Whalen
+#REF-CODE   (R,ANL-NDM-80,8305)
+#REFERENCE  Report ANL-NDM-80, 1983
+#DATASETS   0
+#
+#DATASET    12853005 
+#DATE       19840106
+#REACTION   29-CU-0(N,TOT),,SIG
+#PROJ       1
+#TARG       29000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 29000   3   1 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   3   1 A  136000.0 5000.000 6.850000 0.150000                                       W.P.Poenitz+         (83)12853  5 
+    1 29000   3   1 A  157000.0 5000.000 5.710000 0.150000                                       W.P.Poenitz+         (83)12853  5 
+    1 29000   3   1 A  181000.0 5000.000 5.350000 0.150000                                       W.P.Poenitz+         (83)12853  5 
+    1 29000   3   1 A  260000.0 5000.000 5.260000 0.100000                                       W.P.Poenitz+         (83)12853  5 
+    1 29000   3   1 A  312000.0 5000.000 4.930000 0.050000                                       W.P.Poenitz+         (83)12853  5 
+    1 29000   3   1 A  365000.0 5000.000 4.570000 0.070000                                       W.P.Poenitz+         (83)12853  5 
+#/DATA      6
+#/DATASET

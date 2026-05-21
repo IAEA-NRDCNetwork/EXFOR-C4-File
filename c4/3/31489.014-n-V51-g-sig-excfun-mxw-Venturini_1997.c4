@@ -1,0 +1,26 @@
+#ENTRY      31489
+#AUTHOR1    L.Venturini+
+#YEAR       1997
+#INSTITUTE  (3BZLIPE)
+#TITLE      Thermal neutron capture cross-section of 48-Ti, 51-V,
+#+          50-,52-,53-Cr and 58-,60-,62-,64-Ni
+#AUTHOR(S)  L.Venturini, B.R.S.Pecequilo
+#REF-CODE   (J,ARI,48,(4),493,1997)
+#REFERENCE  Appl.Radiat.Isot. 48 No.4 (1997) 493 (doi:10.1016/S0969-8043(96)00285-0)
+#DATASETS   0
+#
+#DATASET    31489014 
+#DATE       20100923
+#REACTION   23-V-51(N,G)23-V-52,,SIG,,MXW
+#PROJ       1
+#TARG       23051
+#MF         3
+#MT         102
+#PRODUCT    23-V-52
+#C4BEGIN    [    1 23051   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 23051   3 102    0.025000          4.600000 0.200000                                       L.Venturini+         (97)31489 14 
+#/DATA      1
+#/DATASET

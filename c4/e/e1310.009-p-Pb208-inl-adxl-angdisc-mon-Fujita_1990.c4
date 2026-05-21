@@ -1,0 +1,37 @@
+#ENTRY      E1310
+#AUTHOR1    Y.Fujita+
+#YEAR       1990
+#INSTITUTE  (2JPNOSA)
+#TITLE      New high-spin stretched states in 208Pb observed by
+#+          the (p,p') reaction
+#AUTHOR(S)  Y.Fujita, T.Yanagihara, M.Fujiwara, I.Katayama, K.Hosono, 
+#+          S.Morinobu, T.Yamazaki, S.I.Hayakawa, K.Katori, K.Muto, 
+#+          H.Ikegami
+#REF-CODE   (J,PL/B,247,(2-3),219,199009)
+#REFERENCE  Phys.Lett.B 247 No.2-3 (1990) 219 (doi:10.1016/0370-2693(90)90885-A)
+#DATASETS   0
+#
+#DATASET    E1310009 
+#DATE       19941004
+#REACTION   82-PB-208(P,INL)82-PB-208,PAR,DA
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         601
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 1001 82208   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 601  C 8.0000+7          3.1200-5 6.0320-6 0.750918          7656000.         LVLY.Fujita+            (90)E1310  9 
+ 1001 82208   4 601  C 8.0000+7          2.1290-5 3.9860-6 0.648120          7656000.         LVLY.Fujita+            (90)E1310  9 
+ 1001 82208   4 601  C 8.0000+7          1.5530-5 3.7430-6 0.601397          7656000.         LVLY.Fujita+            (90)E1310  9 
+ 1001 82208   4 601  C 8.0000+7          1.5440-5 1.7640-6 0.550918          7656000.         LVLY.Fujita+            (90)E1310  9 
+ 1001 82208   4 601  C 8.0000+7          9.9900-6 1.5340-6 0.481601          7656000.         LVLY.Fujita+            (90)E1310  9 
+ 1001 82208   4 601  C 8.0000+7          9.6220-6 9.3910-7 0.404822          7656000.         LVLY.Fujita+            (90)E1310  9 
+ 1001 82208   4 601  C 8.0000+7          6.8000-6 1.5970-6 0.326723          7656000.         LVLY.Fujita+            (90)E1310  9 
+ 1001 82208   4 601  C 8.0000+7          4.1010-6 9.4110-7 0.232936          7656000.         LVLY.Fujita+            (90)E1310  9 
+ 1001 82208   4 601  C 8.0000+7          2.4020-6 5.2060-7 0.138482          7656000.         LVLY.Fujita+            (90)E1310  9 
+ 1001 82208   4 601  C 8.0000+7          9.1680-7 2.2110-7 0.039085          7656000.         LVLY.Fujita+            (90)E1310  9 
+#/DATA      10
+#/DATASET

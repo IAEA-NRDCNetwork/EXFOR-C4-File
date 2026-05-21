@@ -1,0 +1,36 @@
+#ENTRY      O1674
+#AUTHOR1    H.G.Bohlen+
+#YEAR       1978
+#INSTITUTE  (2GERBER)
+#TITLE      Measurement of spin-alignment of excited C-12 nuclei in
+#+          interactions of O-16 with C-12 using gamma-decay in
+#+          flight.
+#AUTHOR(S)  H.G.Bohlen, H.Ossenbrink, W.von Oertzen, P.Wust, H.Hafner, 
+#+          K.Wannebo
+#REF-CODE   (J,ZP/A,285,379,1978)
+#REFERENCE  Z.Phys.A 285 (1978) 379 (doi:10.1007/BF01813238)
+#DATASETS   0
+#
+#DATASET    O1674002 
+#DATE       20081023
+#REACTION   8-O-16(6-C-12,EL)8-O-16,,DA,,RTH
+#PROJ       6012
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [ 6012  8016   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  8016   4   2  C 6.5000+7          0.478841 0.071826 0.949863                              H.G.Bohlen+          (78)O1674  2 
+ 6012  8016   4   2  C 6.5000+7          0.430070 0.055909 0.934204                              H.G.Bohlen+          (78)O1674  2 
+ 6012  8016   4   2  C 6.5000+7          0.145695 0.029139 0.917685                              H.G.Bohlen+          (78)O1674  2 
+ 6012  8016   4   2  C 6.5000+7          0.021526 2.5831-3 0.898718                              H.G.Bohlen+          (78)O1674  2 
+ 6012  8016   4   2  C 6.5000+7          0.031685 5.0696-3 0.877397                              H.G.Bohlen+          (78)O1674  2 
+ 6012  8016   4   2  C 6.5000+7          0.045269 8.6012-3 0.856267                              H.G.Bohlen+          (78)O1674  2 
+ 6012  8016   4   2  C 6.5000+7          0.023078 4.8464-3 0.832245                              H.G.Bohlen+          (78)O1674  2 
+ 6012  8016   4   2  C 6.5000+7          9.1284-3 1.6431-3 0.805204                              H.G.Bohlen+          (78)O1674  2 
+ 6012  8016   4   2  C 6.5000+7          0.017974 2.8758-3 0.776156                              H.G.Bohlen+          (78)O1674  2 
+#/DATA      9
+#/DATASET

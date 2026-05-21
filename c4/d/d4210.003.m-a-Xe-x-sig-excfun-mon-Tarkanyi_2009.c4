@@ -1,0 +1,42 @@
+#ENTRY      D4210
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2009
+#INSTITUTE  (3HUNDEB)
+#TITLE      Investigation of excitation functions of alpha induced
+#+          reactions on natXe: Production of the therapeutic
+#+          radioisotope 131Cs
+#AUTHOR(S)  F.Tarkanyi, A.Hermanne, B.Kiraly, S.Takacs, F.Ditroi, M.Sonck, 
+#+          S.F.Kovalev, A.V.Ignatyuk
+#REF-CODE   (J,NIM/B,267,742,2009)
+#REFERENCE  Nucl.Instrum.Meth.B 267 (2009) 742 (doi:10.1016/j.nimb.2009.01.006)
+#DATASETS   0
+#
+#DATASET    D4210003M
+#DATE       20090312
+#REACTION   54-XE-0(A,X)56-BA-131-M,,SIG
+#PROJ       2004
+#TARG       54000
+#MF         3
+#MT         454
+#PRODUCT    56-BA-131-M
+#C4BEGIN    [ 2004 54000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 54000   3 454 A  1.4500+7 900000.0 3.6900-4 4.6000-5           56131.7                     F.Tarkanyi+          (09)D4210  3M
+ 2004 54000   3 454 A  1.8100+7 600000.0 0.035700 4.0000-3           56131.7                     F.Tarkanyi+          (09)D4210  3M
+ 2004 54000   3 454 A  1.8300+7 1000000. 0.051000 5.8000-3           56131.7                     F.Tarkanyi+          (09)D4210  3M
+ 2004 54000   3 454 A  2.1300+7 300000.0 0.101000 0.011000           56131.7                     F.Tarkanyi+          (09)D4210  3M
+ 2004 54000   3 454 A  2.1500+7 700000.0 0.108000 0.020000           56131.7                     F.Tarkanyi+          (09)D4210  3M
+ 2004 54000   3 454 A  2.2500+7 900000.0 0.112000 0.013000           56131.7                     F.Tarkanyi+          (09)D4210  3M
+ 2004 54000   3 454 A  2.4300+7 500000.0 0.147000 0.017000           56131.7                     F.Tarkanyi+          (09)D4210  3M
+ 2004 54000   3 454 A  2.5300+7 700000.0 0.152000 0.017000           56131.7                     F.Tarkanyi+          (09)D4210  3M
+ 2004 54000   3 454 A  2.6900+7 300000.0 0.139000 0.016000           56131.7                     F.Tarkanyi+          (09)D4210  3M
+ 2004 54000   3 454 A  2.7800+7 500000.0 0.112000 0.027000           56131.7                     F.Tarkanyi+          (09)D4210  3M
+ 2004 54000   3 454 A  3.0200+7 300000.0 0.130000 0.015000           56131.7                     F.Tarkanyi+          (09)D4210  3M
+ 2004 54000   3 454 A  3.3800+7 800000.0 0.096000 0.011000           56131.7                     F.Tarkanyi+          (09)D4210  3M
+ 2004 54000   3 454 A  3.5900+7 600000.0 0.085300 9.6000-3           56131.7                     F.Tarkanyi+          (09)D4210  3M
+ 2004 54000   3 454 A  3.7900+7 500000.0 0.101000 0.011000           56131.7                     F.Tarkanyi+          (09)D4210  3M
+ 2004 54000   3 454 A  3.9900+7 300000.0 0.122000 0.014000           56131.7                     F.Tarkanyi+          (09)D4210  3M
+#/DATA      15
+#/DATASET

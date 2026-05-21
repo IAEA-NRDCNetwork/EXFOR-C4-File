@@ -1,0 +1,76 @@
+#ENTRY      C1198
+#AUTHOR1    A.H.Wuosmaa+
+#YEAR       2005
+#INSTITUTE  (1USAWMU)
+#TITLE      Neutron Spectroscopic Factors in 9Li from 2H(8Li,p)9Li
+#AUTHOR(S)  A.H.Wuosmaa, K.E.Rehm, J.P.Greene, D.J.Henderson, R.V.F.Janssens, 
+#+          C.L.Jiang, L.Jisonna, E.F.Moore, R.C.Pardo, M.Paul, D.Peterson, 
+#+          S.C.Pieper, G.Savard, J.P.Schiffer, R.E.Segel, S.Sinha, 
+#+          X.Tang, R.B.Wiringa
+#REF-CODE   (J,PRL,94,082502,2005)
+#REFERENCE  Phys.Rev.Lett. 94 (2005) 082502 (doi:10.1103/PhysRevLett.94.082502)
+#DATASETS   0
+#
+#DATASET    C1198002 
+#DATE       20050406
+#REACTION   3-LI-8(D,P)3-LI-9,PAR,DA
+#PROJ       1002
+#TARG       3008
+#MF         4
+#MT         600
+#PRODUCT    3-LI-9
+#C4BEGIN    [ 1002  3008   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3008   4 600  C 7.6000+7          9.4000-3 1.9000-3 0.988756          0.000000         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          8.5200-3 1.2900-3 0.980271          0.000000         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          8.6600-3          0.964095          0.000000         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          5.9200-3          0.940881          0.000000         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          3.9900-3          0.884581          0.000000         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          2.5800-3          0.842452          0.000000         LVLA.H.Wuosmaa+         (05)C1198  2 
+#/DATA      6
+#/DATASET
+#
+#DATASET    C1198002 
+#DATE       20050406
+#REACTION   3-LI-8(D,P)3-LI-9,PAR,DA
+#PROJ       1002
+#TARG       3008
+#MF         4
+#MT         600
+#PRODUCT    3-LI-9
+#C4BEGIN    [ 1002  3008   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3008   4 600  C 7.6000+7          2.8500-3 1.1500-3 0.985586          2691000.         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          3.2900-3 6.1200-4 0.973579          2691000.         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          2.5600-3 5.6200-4 0.954240          2691000.         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          1.3700-3 3.5000-4 0.911403          2691000.         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          7.9400-4 3.7000-4 0.874620          2691000.         LVLA.H.Wuosmaa+         (05)C1198  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    C1198002 
+#DATE       20050406
+#REACTION   3-LI-8(D,P)3-LI-9,PAR,DA
+#PROJ       1002
+#TARG       3008
+#MF         4
+#MT         600
+#PRODUCT    3-LI-9
+#C4BEGIN    [ 1002  3008   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3008   4 600  C 7.6000+7          0.014800 2.7500-3 0.983885          4310000.         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          0.012700 2.7800-3 0.977046          4310000.         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          0.010000 1.6800-3 0.969445          4310000.         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          6.9200-3 1.3900-3 0.961262          4310000.         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          4.7800-3 1.1300-3 0.939693          4310000.         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          4.0400-3 1.0200-3 0.923210          4310000.         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          4.2100-3 9.2400-4 0.905569          4310000.         LVLA.H.Wuosmaa+         (05)C1198  2 
+ 1002  3008   4 600  C 7.6000+7          2.8700-3 8.8700-4 0.893371          4310000.         LVLA.H.Wuosmaa+         (05)C1198  2 
+#/DATA      8
+#/DATASET

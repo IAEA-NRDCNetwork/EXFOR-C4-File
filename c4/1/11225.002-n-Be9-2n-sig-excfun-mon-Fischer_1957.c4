@@ -1,0 +1,28 @@
+#ENTRY      11225
+#AUTHOR1    G.J.Fischer+
+#YEAR       1957
+#INSTITUTE  (1USASUI)
+#TITLE      Cross section for the (n,2n) production in Be9.
+#AUTHOR(S)  G.J.Fischer
+#REF-CODE   (J,PR,108,99,1957)
+#REFERENCE  Phys.Rev. 108 (1957) 99 (doi:10.1103/PhysRev.108.99)
+#DATASETS   0
+#
+#DATASET    11225002 
+#DATE       20100609
+#REACTION   4-BE-9(N,2N)4-BE-8,,SIG
+#PROJ       1
+#TARG       4009
+#MF         3
+#MT         16
+#PRODUCT    4-BE-8
+#C4BEGIN    [    1  4009   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  4009   3  16    2570000.          0.066000 0.080000                                       G.J.Fischer          (57)11225  2 
+    1  4009   3  16    2690000.          0.080000 0.120000                                       G.J.Fischer          (57)11225  2 
+    1  4009   3  16    2930000.          0.310000 0.100000                                       G.J.Fischer          (57)11225  2 
+    1  4009   3  16    3190000.          0.525000 0.165000                                       G.J.Fischer          (57)11225  2 
+#/DATA      4
+#/DATASET

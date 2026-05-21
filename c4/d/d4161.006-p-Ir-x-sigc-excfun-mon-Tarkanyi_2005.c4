@@ -1,0 +1,37 @@
+#ENTRY      D4161
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2005
+#INSTITUTE  (3HUNDEB)
+#TITLE      Activation cross sections of proton induced nuclear
+#+          reactions on iridium
+#AUTHOR(S)  F.Tarkanyi, B.Kiraly, F.Ditroi, S.Takacs, J.Csikai, A.Hermanne, 
+#+          M.S.Uddin, M.Hagiwara, M.Baba, T.Ido, Yu.N.Shubin, A.I.Dityuk
+#REF-CODE   (J,NIM/B,239,293,2005)
+#REFERENCE  Nucl.Instrum.Meth.B 239 (2005) 293 (doi:10.1016/j.nimb.2005.04.122)
+#DATASETS   0
+#
+#DATASET    D4161006 
+#DATE       20051123
+#REACTION   77-IR-0(P,X)76-OS-185,CUM,SIG,,,EXP
+#PROJ       1001
+#TARG       77000
+#MF         3
+#MT         459
+#PRODUCT    76-OS-185
+#C4BEGIN    [ 1001 77000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 77000   3 459    4.2100+7 1700000. 3.0000-3 1.8000-3           76185.9                     F.Tarkanyi+          (05)D4161  6 
+ 1001 77000   3 459    4.5000+7 1500000. 2.8000-3 1.5000-3           76185.9                     F.Tarkanyi+          (05)D4161  6 
+ 1001 77000   3 459    4.7500+7 1400000. 4.6000-3 2.6000-3           76185.9                     F.Tarkanyi+          (05)D4161  6 
+ 1001 77000   3 459    4.7800+7 1400000. 2.9000-3 1.3000-3           76185.9                     F.Tarkanyi+          (05)D4161  6 
+ 1001 77000   3 459    5.0500+7 1200000. 2.4000-3 1.2000-3           76185.9                     F.Tarkanyi+          (05)D4161  6 
+ 1001 77000   3 459    5.3000+7 1100000. 3.7000-3 2.5000-3           76185.9                     F.Tarkanyi+          (05)D4161  6 
+ 1001 77000   3 459    5.5500+7 1000000. 4.6000-3 1.9000-3           76185.9                     F.Tarkanyi+          (05)D4161  6 
+ 1001 77000   3 459    5.7900+7 1000000. 6.9000-3 1.7000-3           76185.9                     F.Tarkanyi+          (05)D4161  6 
+ 1001 77000   3 459    6.1300+7 800000.0 0.025400 4.4000-3           76185.9                     F.Tarkanyi+          (05)D4161  6 
+ 1001 77000   3 459    6.3200+7 600000.0 0.047100 7.3000-3           76185.9                     F.Tarkanyi+          (05)D4161  6 
+ 1001 77000   3 459    6.6400+7 400000.0 0.085800 0.010200           76185.9                     F.Tarkanyi+          (05)D4161  6 
+#/DATA      11
+#/DATASET

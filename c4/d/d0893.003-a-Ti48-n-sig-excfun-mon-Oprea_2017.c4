@@ -1,0 +1,34 @@
+#ENTRY      D0893
+#AUTHOR1    A.Oprea+
+#YEAR       2017
+#INSTITUTE  (3RUMBUC)
+#TITLE      Absolute cross sections of the 86Sr(a,n)89Zr
+#+          reaction at energies of astrophysical interest
+#AUTHOR(S)  A.Oprea, T.Glodariu, D.Filipescu, I.Gheorghe, A.Mitu, M.Boromiza, 
+#+          D.Bucurescu, C.Costache, I.Cata-Danil, N.Florea, D.G.Ghita, 
+#+          A.Ionescu, N.Marginean, R.Marginean, C.Mihai, R.Mihai, A.Negret, 
+#+          C.Nita, A.Olacel, S.Pascu, C.Sotty, R.Suvaila, L.Stan, L.Stroe, 
+#+          A.Serban, I.Stiru, S.Toma, A.Turturica, S.Ujeniuc
+#REF-CODE   (J,EPJ/CS,146,01016,2017)
+#REFERENCE  EPJ Web Conf. 146 (2017) 01016 (doi:10.1051/epjconf/201714601016)
+#DATASETS   0
+#
+#DATASET    D0893003 
+#DATE       20180301
+#REACTION   22-TI-48(A,N)24-CR-51,,SIG
+#PROJ       2004
+#TARG       22048
+#MF         3
+#MT         4
+#PRODUCT    24-CR-51
+#C4BEGIN    [ 2004 22048   3   4 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 22048   3   4 P  7260000. 470000.0 0.085100 5.0000-3                                       A.Oprea+             (17)D0893  3 
+ 2004 22048   3   4 P  8280000. 380000.0 0.247200 0.014500                                       A.Oprea+             (17)D0893  3 
+ 2004 22048   3   4 P  9130000. 390000.0 0.370400 0.021700                                       A.Oprea+             (17)D0893  3 
+ 2004 22048   3   4 P  9750000. 330000.0 0.420400 0.024600                                       A.Oprea+             (17)D0893  3 
+ 2004 22048   3   4 P  1.0410+7 320000.0 0.407400 0.031600                                       A.Oprea+             (17)D0893  3 
+#/DATA      5
+#/DATASET

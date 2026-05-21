@@ -1,0 +1,37 @@
+#ENTRY      C2606
+#AUTHOR1    O.Chamberlain+
+#YEAR       1951
+#INSTITUTE  (1USABRK)
+#TITLE      Experiments on Proton-Proton Scattering from 120 to
+#+          345 MeV
+#AUTHOR(S)  O.Chamberlain, E.Segre, C.Wiegand
+#REF-CODE   (J,PR,83,923,1951)
+#REFERENCE  Phys.Rev. 83 (1951) 923 (doi:10.1103/PhysRev.83.923)
+#DATASETS   0
+#
+#DATASET    C2606004 
+#DATE       20210504
+#REACTION   1-H-1(P,EL)1-H-1,,DA
+#PROJ       1001
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  1001   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1001   4   2 CC 3.4500+8          5.1000-3 3.6000-4 0.980615                              O.Chamberlain+       (51)C2606  4 
+ 1001  1001   4   2 CC 3.4500+8          5.3800-3 4.9000-4 0.980615                              O.Chamberlain+       (51)C2606  4 
+ 1001  1001   4   2 CC 3.4500+8          3.7100-3 2.2000-4 0.965016                              O.Chamberlain+       (51)C2606  4 
+ 1001  1001   4   2 CC 3.4500+8          3.2100-3 1.7000-4 0.965016                              O.Chamberlain+       (51)C2606  4 
+ 1001  1001   4   2 CC 3.4500+8          3.5100-3 1.0000-4 0.932954                              O.Chamberlain+       (51)C2606  4 
+ 1001  1001   4   2 CC 3.4500+8          3.0600-3 1.5000-4 0.929133                              O.Chamberlain+       (51)C2606  4 
+ 1001  1001   4   2 CC 3.4500+8          3.5200-3 9.0000-5 0.843391                              O.Chamberlain+       (51)C2606  4 
+ 1001  1001   4   2 CC 3.4500+8          3.5100-3 1.1000-4 0.837719                              O.Chamberlain+       (51)C2606  4 
+ 1001  1001   4   2 CC 3.4500+8          3.4800-3 1.0000-4 0.733730                              O.Chamberlain+       (51)C2606  4 
+ 1001  1001   4   2 CC 3.4500+8          3.4000-3 8.0000-5 0.733730                              O.Chamberlain+       (51)C2606  4 
+ 1001  1001   4   2 CC 3.4500+8          3.4000-3 8.0000-5 0.599024                              O.Chamberlain+       (51)C2606  4 
+ 1001  1001   4   2 CC 3.4500+8          3.2800-3 1.0000-4 0.599024                              O.Chamberlain+       (51)C2606  4 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      D0703
+#AUTHOR1    A.A.Kulko+
+#YEAR       2012
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Excitation Functions for Deuterium-Induced Reactions
+#+          on 194Pt Near the Coulomb Barrier
+#AUTHOR(S)  A.A.Kulko, N.K.Skobelev, V.Kroha, Yu.E.Penionzhkevich, J.Mrazek, 
+#+          V.Burjan, Z.Hons, E.Simeckova, S.Piskor, A.Kugler, N.A.Demekhina, 
+#+          Yu.G.Sobol Ev, T.V.Chuvilskaya, A.A.Shirokova, K.Kuterbekov
+#REF-CODE   (J,PPN/L,9,(6-7),502,2012)
+#REFERENCE  Phys.Part.Nucl.Lett. 9 No.6-7 (2012) 502 (doi:10.1134/S154747711206012X)
+#DATASETS   0
+#
+#DATASET    D0703002 
+#DATE       20121018
+#REACTION   78-PT-0(D,X)79-AU-194,,SIG
+#PROJ       1002
+#TARG       78000
+#MF         3
+#MT         454
+#PRODUCT    79-AU-194
+#C4BEGIN    [ 1002 78000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 78000   3 454    8810000. 233000.0 0.015730 5.2000-4           79194.9                     A.A.Kulko+           (12)D0703  2 
+ 1002 78000   3 454    1.0300+7 189000.0 0.081950 2.4000-3           79194.9                     A.A.Kulko+           (12)D0703  2 
+ 1002 78000   3 454    1.1410+7 164000.0 0.140900 3.9000-3           79194.9                     A.A.Kulko+           (12)D0703  2 
+#/DATA      3
+#/DATASET

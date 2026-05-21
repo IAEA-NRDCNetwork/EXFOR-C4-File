@@ -1,0 +1,33 @@
+#ENTRY      41070
+#AUTHOR1    E.K.Bonyushkan+
+#YEAR       1961
+#INSTITUTE  (4RUSKUR)
+#TITLE      Fragment yield in the fission of 233U and 239Pu
+#+          by fast neutrons
+#AUTHOR(S)  E.K.Bonyushkan, Yu.S.Zamyatnin, V.V.Spektor, V.V.Rachev, 
+#+          V.R.Negina, V.N.Zamyatnina
+#REF-CODE   (J,AE,10,13,1961)
+#REFERENCE  At.En. 10 (1961) 13
+#DATASETS   0
+#
+#DATASET    41070002 
+#DATE       20220325
+#REACTION   94-PU-239(N,F)ELEM/MASS,CUM,FY
+#PROJ       1
+#TARG       94239
+#MF         8
+#MT         459
+#C4BEGIN    [    1 94239   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   8 459    1.4500+7          0.041600 4.0000-3 42.00000 99.00000 9.000000            E.K.Bonyushkan+      (61)41070  2 
+    1 94239   8 459    1.4500+7          0.062500 8.0000-3 44.00000 103.0000 0.000000            E.K.Bonyushkan+      (61)41070  2 
+    1 94239   8 459    1.4500+7          0.041600 5.0000-3 44.00000 106.0000 9.000000            E.K.Bonyushkan+      (61)41070  2 
+    1 94239   8 459    1.4500+7          0.014600 1.4000-3 47.00000 111.0000 0.000000            E.K.Bonyushkan+      (61)41070  2 
+    1 94239   8 459    1.4500+7          0.012300 1.0000-3 48.00000 115.0000 0.000000            E.K.Bonyushkan+      (61)41070  2 
+    1 94239   8 459    1.4500+7          0.045800 5.0000-3 52.00000 132.0000 9.000000            E.K.Bonyushkan+      (61)41070  2 
+    1 94239   8 459    1.4500+7          0.051000 8.0000-3 55.00000 137.0000 9.000000            E.K.Bonyushkan+      (61)41070  2 
+    1 94239   8 459    1.4500+7          0.043500 4.0000-3 56.00000 140.0000 9.000000            E.K.Bonyushkan+      (61)41070  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,39 @@
+#ENTRY      A0510
+#AUTHOR1    V.N.Levkovski+
+#YEAR       1991
+#INSTITUTE  (4KASKAZ)
+#TITLE      Cross sections of medium mass nuclide activation
+#+          (A=40-100) by medium energy protons and
+#+          alpha-particles (E=10-50 MeV)
+#AUTHOR(S)  V.N.Levkovski
+#REF-CODE   (B,LEVKOVSKIJ,,,1991)
+#REFERENCE  Levkovskij,Act.Cs.By Protons and Alphas,Moscow 1991 page  (1991)
+#DATASETS   0
+#
+#DATASET    A0510225 
+#DATE       20231226
+#REACTION   42-MO-95(P,N)43-TC-95-G,,SIG
+#PROJ       1001
+#TARG       42095
+#MF         3
+#MT         4
+#PRODUCT    43-TC-95-G
+#C4BEGIN    [ 1001 42095   3   4G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42095   3   4G   7700000.          0.370000 0.037000                                       V.N.Levkovski        (91)A0510225 
+ 1001 42095   3   4G   8600000.          0.459000 0.045900                                       V.N.Levkovski        (91)A0510225 
+ 1001 42095   3   4G   9500000.          0.518000 0.051800                                       V.N.Levkovski        (91)A0510225 
+ 1001 42095   3   4G   1.0400+7          0.605000 0.060500                                       V.N.Levkovski        (91)A0510225 
+ 1001 42095   3   4G   1.1300+7          0.690000 0.069000                                       V.N.Levkovski        (91)A0510225 
+ 1001 42095   3   4G   1.2100+7          0.668000 0.066800                                       V.N.Levkovski        (91)A0510225 
+ 1001 42095   3   4G   1.2800+7          0.650000 0.065000                                       V.N.Levkovski        (91)A0510225 
+ 1001 42095   3   4G   1.3800+7          0.409000 0.040900                                       V.N.Levkovski        (91)A0510225 
+ 1001 42095   3   4G   1.4800+7          0.285000 0.028500                                       V.N.Levkovski        (91)A0510225 
+ 1001 42095   3   4G   1.5800+7          0.185000 0.018500                                       V.N.Levkovski        (91)A0510225 
+ 1001 42095   3   4G   1.6700+7          0.112000 0.011200                                       V.N.Levkovski        (91)A0510225 
+ 1001 42095   3   4G   1.7500+7          0.083000 8.3000-3                                       V.N.Levkovski        (91)A0510225 
+ 1001 42095   3   4G   1.8300+7          0.075000 7.5000-3                                       V.N.Levkovski        (91)A0510225 
+#/DATA      13
+#/DATASET

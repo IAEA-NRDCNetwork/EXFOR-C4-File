@@ -1,0 +1,31 @@
+#ENTRY      O1331
+#AUTHOR1    V.I.Yurevich+
+#YEAR       2005
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Fission cross section of 181-Ta for protons in the
+#+          energy range 200-1000 MeV.
+#AUTHOR(S)  V.I.Yurevich, V.A.Nikolaev, R.M.Yakovlev, I.B.Vorobiev
+#REF-CODE   (J,FCY/L,2,(1),49,2005)
+#REFERENCE  Fiz.El.Ch.At.Yad.Lt. 2 No.1 (2005) 49
+#DATASETS   0
+#
+#DATASET    O1331002 
+#DATE       20060320
+#REACTION   73-TA-181(P,F),,SIG
+#PROJ       1001
+#TARG       73181
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 73181   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 73181   3  18    2.0000+8          3.0900-3 9.8000-4                                       V.I.Yurevich+        (05)O1331  2 
+ 1001 73181   3  18    3.0000+8          5.2000-3 1.6000-3                                       V.I.Yurevich+        (05)O1331  2 
+ 1001 73181   3  18    4.0000+8          5.7900-3 1.7800-3                                       V.I.Yurevich+        (05)O1331  2 
+ 1001 73181   3  18    5.0000+8          5.5900-3 1.7200-3                                       V.I.Yurevich+        (05)O1331  2 
+ 1001 73181   3  18    6.0000+8          0.011370 3.5900-3                                       V.I.Yurevich+        (05)O1331  2 
+ 1001 73181   3  18    8.0000+8          0.012210 3.8600-3                                       V.I.Yurevich+        (05)O1331  2 
+ 1001 73181   3  18    1.0000+9          0.015650 5.4000-3                                       V.I.Yurevich+        (05)O1331  2 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,45 @@
+#ENTRY      E1316
+#AUTHOR1    M.Ieki+
+#YEAR       1990
+#INSTITUTE  (2JPNTIT)
+#TITLE      DENSITY DEPENDENT INTERACTION APPLIED TO
+#+          LOW-MULTIPOLE(P,P) AND (P,N) TRANSITIONS IN LIGHT
+#+          NUCLEI
+#AUTHOR(S)  M.Ieki, J.Iimura, M.Iwase, H.Ohnuma, H.Shimizu, H.Toyokawa, 
+#+          K.Furukawa, H.Kabasawa, T.Nakagawa, T.Tohei, H.Orihara, 
+#+          S.I.Hayakawa, T.Hasegawa, K.Nisimura, M.Yasue, K.Miura, 
+#+          T.Suehiro, M.A.Franey
+#REF-CODE   (J,PR/C,42,457,90)
+#REFERENCE  Phys.Rev.C 42 (1990) 457 (doi:10.1103/PhysRevC.42.457)
+#DATASETS   0
+#
+#DATASET    E1316003 
+#DATE       19941004
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601  C 3.5000+7          3.5900-3 2.6740-4 0.977008          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+ 1001  6012   4 601  C 3.5000+7          4.1660-3          0.956814          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+ 1001  6012   4 601  C 3.5000+7          4.8570-3          0.919410          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+ 1001  6012   4 601  C 3.5000+7          5.4370-3          0.871042          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+ 1001  6012   4 601  C 3.5000+7          6.3230-3          0.817547          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+ 1001  6012   4 601  C 3.5000+7          6.2190-3          0.774724          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+ 1001  6012   4 601  C 3.5000+7          5.5710-3          0.723690          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+ 1001  6012   4 601  C 3.5000+7          4.7810-3          0.657901          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+ 1001  6012   4 601  C 3.5000+7          3.7820-3          0.575291          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+ 1001  6012   4 601  C 3.5000+7          2.1300-3          0.384940          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+ 1001  6012   4 601  C 3.5000+7          1.0240-3 5.5380-5 0.230389          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+ 1001  6012   4 601  C 3.5000+7          7.2740-4 9.4480-5 0.073412          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+ 1001  6012   4 601  C 3.5000+7          6.1400-4 4.5710-5-0.142111          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+ 1001  6012   4 601  C 3.5000+7          5.4890-4 4.9410-5-0.304033          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+ 1001  6012   4 601  C 3.5000+7          5.7460-4 3.5430-5-0.443071          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+ 1001  6012   4 601  C 3.5000+7          6.0590-4 3.5840-5-0.590606          1.5110+7         LVLM.Ieki+              (90)E1316  3 
+#/DATA      16
+#/DATASET

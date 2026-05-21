@@ -1,0 +1,32 @@
+#ENTRY      20408
+#AUTHOR1    J.Cabe+
+#YEAR       1972
+#INSTITUTE  (2FR BRC)
+#TITLE      -STUDY OF THE ELASTIC AND INELASTIC SCATTERING OF
+#+          VANADIUM IN THE NEUTRON ENERGY OF 0.5 AND 1.2 MEV.-
+#+          .(IN FRENCH)
+#AUTHOR(S)  J.Cabe, B.Duchemin, A.Adam
+#REF-CODE   (P,EANDC(E)-150,80,7205)
+#REFERENCE  Progress report EANDC(E)-150 page 80, 1972
+#DATASETS   0
+#
+#DATASET    20408029 
+#DATE       19840109
+#REACTION   23-V-51(N,INL)23-V-51,PAR,SIG
+#PROJ       1
+#TARG       23051
+#MF         3
+#MT         51
+#PRODUCT    23-V-51
+#C4BEGIN    [    1 23051   3  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 23051   3  51    925000.0 20000.00 0.400000 0.040000                   320000.0         LVLJ.Cabe+              (72)20408 29 
+    1 23051   3  51    980000.0 20000.00 0.408000 0.040800                   320000.0         LVLJ.Cabe+              (72)20408 29 
+    1 23051   3  51    1030000. 20000.00 0.462000 0.046200                   320000.0         LVLJ.Cabe+              (72)20408 29 
+    1 23051   3  51    1080000. 20000.00 0.466000 0.046600                   320000.0         LVLJ.Cabe+              (72)20408 29 
+    1 23051   3  51    1130000. 20000.00 0.434000 0.043400                   320000.0         LVLJ.Cabe+              (72)20408 29 
+    1 23051   3  51    1180000. 20000.00 0.458000 0.045800                   320000.0         LVLJ.Cabe+              (72)20408 29 
+#/DATA      6
+#/DATASET

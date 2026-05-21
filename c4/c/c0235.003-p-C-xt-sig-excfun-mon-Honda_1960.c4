@@ -1,0 +1,30 @@
+#ENTRY      C0235
+#AUTHOR1    M.Honda+
+#YEAR       1960
+#INSTITUTE  (1USAUSA)
+#TITLE      SOME CROSS SECTIONS FOR THE PRODUCTION OF RADIO-
+#+          NUCLIDES IN THE BOMBARDMENT OF C,N,O,AND FE BY MEDIUM
+#+          ENERGY PROTONS
+#AUTHOR(S)  M.Honda, D.Lal
+#REF-CODE   (J,PR,118,1618,60)
+#REFERENCE  Phys.Rev. 118 (1960) 1618 (doi:10.1103/PhysRev.118.1618)
+#DATASETS   0
+#
+#DATASET    C0235003 
+#DATE       19871103
+#REACTION   6-C-0(P,X)1-H-3,,SIG
+#PROJ       1001
+#TARG       6000
+#MF         3
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001  6000   3 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6000   3 205    2.2500+8          7.0000-3 1.1000-3                                       M.Honda+             (60)C0235  3 
+ 1001  6000   3 205    3.0000+8          7.0000-3 8.0000-4                                       M.Honda+             (60)C0235  3 
+ 1001  6000   3 205    4.0000+8          8.6000-3 1.0000-3                                       M.Honda+             (60)C0235  3 
+ 1001  6000   3 205    7.3000+8          7.6000-3 1.2000-3                                       M.Honda+             (60)C0235  3 
+#/DATA      4
+#/DATASET

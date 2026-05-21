@@ -1,0 +1,27 @@
+#ENTRY      30261
+#AUTHOR1    L.Glowacka+
+#YEAR       1973
+#INSTITUTE  (3POLIPJ)
+#TITLE      Differential cross sections for 18 MeV neutron induced
+#+          reactions on the 147Sm, 149Sm, 151Eu, 161Dy and 165Ho
+#AUTHOR(S)  L.Glowacka, M.Jaskola, M.Kozlowski, W.Osakiewicz, J.Turkiewicz, 
+#+          L.Zemlo
+#REF-CODE   (P,INR-1464,1,1973)
+#REFERENCE  Progress report INR-1464 page 1, 1973
+#DATASETS   0
+#
+#DATASET    30261011 
+#DATE       20191128
+#REACTION   67-HO-165(N,A)65-TB-162,PAR,DA
+#PROJ       1
+#TARG       67165
+#MF         4
+#MT         800
+#PRODUCT    65-TB-162
+#C4BEGIN    [    1 67165   4 800 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 67165   4 800 D  1.8150+7 65000.00 3.2000-4 7.0000-5 0.809017 0.205176 2.1650+7 2650000. E2L.Glowacka+          (73)30261 11 
+#/DATA      1
+#/DATASET

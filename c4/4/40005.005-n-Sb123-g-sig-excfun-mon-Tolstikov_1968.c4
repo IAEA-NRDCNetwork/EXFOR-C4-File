@@ -1,0 +1,44 @@
+#ENTRY      40005
+#AUTHOR1    V.A.Tolstikov+
+#YEAR       1968
+#INSTITUTE  (4RUSFEI)
+#TITLE      Radiation capture of fast neutrons by nuclei of Sn-122,
+#+          Sn-124 and Sb-121,Sb-123 .
+#AUTHOR(S)  V.A.Tolstikov, V.P.Koroleva, V.E.Kolesov, A.G.Dovbenko, 
+#+          Yu.N.Shubin
+#REF-CODE   (J,SJA,24,709,1968)
+#REFERENCE  Sov.At.Energy 24 (1968) 709 (doi:10.1007/BF01130715)
+#DATASETS   0
+#
+#DATASET    40005005 
+#DATE       20141114
+#REACTION   51-SB-123(N,G)51-SB-124,,SIG
+#PROJ       1
+#TARG       51123
+#MF         3
+#MT         102
+#PRODUCT    51-SB-124
+#C4BEGIN    [    1 51123   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 51123   3 102 A  200000.0          0.127000 0.029591                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  242000.0          0.107000 0.024931                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  394000.0          0.105000 0.024360                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  515000.0          0.102000 0.025500                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  612000.0          0.091000 0.021567                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  690000.0          0.100000 0.027700                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  720000.0          0.109000 0.026487                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  780000.0          0.111000 0.027306                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  824000.0          0.106000 0.024486                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  930000.0          0.100000 0.023300                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  1034000.          0.102000 0.025704                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  1335000.          0.085000 0.023885                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  1520000.          0.087000 0.024186                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  1690000.          0.077000 0.019789                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  1917000.          0.072000 0.021600                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  2120000.          0.063000 0.017325                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  2320000.          0.059000 0.019588                                       V.A.Tolstikov+       (68)40005  5 
+    1 51123   3 102 A  2723000.          0.028200 7.8960-3                                       V.A.Tolstikov+       (68)40005  5 
+#/DATA      18
+#/DATASET

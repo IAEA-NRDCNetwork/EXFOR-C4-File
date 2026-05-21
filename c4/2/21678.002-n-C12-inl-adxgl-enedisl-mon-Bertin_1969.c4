@@ -1,0 +1,43 @@
+#ENTRY      21678
+#AUTHOR1    A.Bertin+
+#YEAR       1969
+#INSTITUTE  (2FR VNV)
+#TITLE      -CROSS SECTIONS FOR GAMMA-RAY PRODUCTION BY NEUTRONS
+#+          OF 5 MEV, 6.6 MEV, AND 8.7 MEV ON CARBON, ALUMINIUM,
+#+          IRON AND BISMUTH -.
+#AUTHOR(S)  A.Bertin, F.Bertrand, G.Clayeux, M.Gautier, G.Nierat
+#REF-CODE   (R,CEA-R-3808,,6907)
+#REFERENCE  Report CEA-R-3808 page , 1969
+#DATASETS   0
+#
+#DATASET    21678002 
+#DATE       19810611
+#REACTION   6-C-12(N,INL)6-C-12,PAR,DA,G
+#PROJ       1
+#TARG       6012
+#MF         14
+#MT         51
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012  14  51    6600000.          0.017500 4.5000-3 6.123-17          4430000.            A.Bertin+            (69)21678  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    21678002 
+#DATE       19810611
+#REACTION   6-C-12(N,INL)6-C-12,PAR,DA,G
+#PROJ       1
+#TARG       6012
+#MF         14
+#MT         51
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012  14  51    8700000.          0.015800 4.1000-3 6.123-17          4430000.            A.Bertin+            (69)21678  2 
+#/DATA      1
+#/DATASET

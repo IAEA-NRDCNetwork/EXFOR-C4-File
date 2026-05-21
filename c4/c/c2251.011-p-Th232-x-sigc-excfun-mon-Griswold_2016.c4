@@ -1,0 +1,34 @@
+#ENTRY      C2251
+#AUTHOR1    J.R.Griswold+
+#YEAR       2016
+#INSTITUTE  (1USAORL)
+#TITLE      Large scale accelerator production of 225Ac: Effective
+#+          cross sections for 78 - 192 MeV protons incident on
+#+          232Th targets
+#AUTHOR(S)  J.R.Griswold, D.G.Medvedev, J.W.Engle, R.Copping, J.M.Fitzsimmons, 
+#+          V.Radchenko, J.C.Cooley, M.E.Fassbender, D.L.Denton, K.E.Murphy, 
+#+          A.C.Owens, E.R.Birnbaum, K.D.John, F.M.Nortier, D.W.Stracener, 
+#+          L.H.Heilbronn, L.F.Mausner, S.Mirzadeh
+#REF-CODE   (J,ARI,118,366,2016)
+#REFERENCE  Appl.Radiat.Isot. 118 (2016) 366 (doi:10.1016/j.apradiso.2016.09.026)
+#DATASETS   0
+#
+#DATASET    C2251011 
+#DATE       20170228
+#REACTION   90-TH-232(P,X)58-CE-143,CUM,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         459
+#PRODUCT    58-CE-143
+#C4BEGIN    [ 1001 90232   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3 459    7.7800+7 400000.0 0.016500 2.1000-3           58143.9                     J.R.Griswold+        (16)C2251 11 
+ 1001 90232   3 459    1.2800+8 400000.0 7.0000-3 1.0000-3           58143.9                     J.R.Griswold+        (16)C2251 11 
+ 1001 90232   3 459    1.5150+8 400000.0 8.1000-3 8.0000-4           58143.9                     J.R.Griswold+        (16)C2251 11 
+ 1001 90232   3 459    1.7070+8 400000.0 7.9000-3 7.0000-4           58143.9                     J.R.Griswold+        (16)C2251 11 
+ 1001 90232   3 459    1.9180+8 400000.0 7.2000-3 7.0000-4           58143.9                     J.R.Griswold+        (16)C2251 11 
+#/DATA      5
+#/DATASET

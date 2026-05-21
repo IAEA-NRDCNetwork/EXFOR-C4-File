@@ -1,0 +1,30 @@
+#ENTRY      O0500
+#AUTHOR1    M.Gloris+
+#YEAR       2001
+#INSTITUTE  (2GERUH)
+#TITLE      Proton-induced production of residual radionuclides
+#+          in lead at intermediate energies
+#AUTHOR(S)  M.Gloris, R.Michel, F.Sudbrok, U.Herpers, P.Malmborg, B.Holmqvist
+#REF-CODE   (J,NIM/A,463,593,2001)
+#REFERENCE  Nucl.Instrum.Meth.A 463 (2001) 593 (doi:10.1016/S0168-9002(01)00174-7)
+#DATASETS   0
+#
+#DATASET    O0500122 
+#DATE       20220107
+#REACTION   82-PB-0(P,X)82-PB-202,CUM,SIG
+#PROJ       1001
+#TARG       82000
+#MF         3
+#MT         459
+#PRODUCT    82-PB-202
+#C4BEGIN    [ 1001 82000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82000   3 459    7.5500+7 1400000. 0.522000 0.128000           82202.9                     M.Gloris+            (01)O0500122 
+ 1001 82000   3 459    8.7400+7 1300000. 0.399000 0.086000           82202.9                     M.Gloris+            (01)O0500122 
+ 1001 82000   3 459    9.5600+7 1200000. 0.358000 0.093000           82202.9                     M.Gloris+            (01)O0500122 
+ 1001 82000   3 459    1.0600+8 1000000. 0.346000 0.096000           82202.9                     M.Gloris+            (01)O0500122 
+ 1001 82000   3 459    1.1300+8 1000000. 0.249000 0.114000           82202.9                     M.Gloris+            (01)O0500122 
+#/DATA      5
+#/DATASET

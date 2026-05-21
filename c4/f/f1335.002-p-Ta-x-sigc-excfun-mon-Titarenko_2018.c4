@@ -1,0 +1,39 @@
+#ENTRY      F1335
+#AUTHOR1    Yu.E.Titarenko+
+#YEAR       2018
+#INSTITUTE  (4RUSITE)
+#TITLE      Measurements and analysis of Hf-178m2 production cross
+#+          sections under Ta-nat and W-nat irradiation by protons
+#+          with 0.04-2.6 GeV energies.
+#AUTHOR(S)  Yu.E.Titarenko, K.V.Pavlov, A.Yu.Titarenko, M.V.Chauzova, 
+#+          V.M.Zhivun, A.V.Ignatyuk, S.G.Mashnik, A.Yu.Stankovsky, 
+#+          S.E.Chigrinov, K.K.Gudima
+#REF-CODE   (J,NIM/A,880,6,2018)
+#REFERENCE  Nucl.Instrum.Meth.A 880 (2018) 6 (doi:10.1016/j.nima.2017.10.049)
+#DATASETS   0
+#
+#DATASET    F1335002 
+#DATE       20180208
+#REACTION   73-TA-0(P,X)72-HF-178-M2,CUM,SIG
+#PROJ       1001
+#TARG       73000
+#MF         3
+#MT         459
+#PRODUCT    72-HF-178-M2
+#C4BEGIN    [ 1001 73000   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 73000   3 459 A  4.4000+7          4.1000-5 1.2000-5           72178.2                     Yu.E.Titarenko+      (18)F1335  2 
+ 1001 73000   3 459 A  6.8000+7          7.5000-5 2.2000-5           72178.2                     Yu.E.Titarenko+      (18)F1335  2 
+ 1001 73000   3 459 A  9.8000+7          1.0300-4 2.9000-5           72178.2                     Yu.E.Titarenko+      (18)F1335  2 
+ 1001 73000   3 459 A  1.4900+8          2.0900-4 2.8000-5           72178.2                     Yu.E.Titarenko+      (18)F1335  2 
+ 1001 73000   3 459 A  2.4800+8          1.8800-4 2.2000-5           72178.2                     Yu.E.Titarenko+      (18)F1335  2 
+ 1001 73000   3 459 A  3.9900+8          2.7300-4 2.6000-5           72178.2                     Yu.E.Titarenko+      (18)F1335  2 
+ 1001 73000   3 459 A  5.9900+8          3.1600-4 2.2000-5           72178.2                     Yu.E.Titarenko+      (18)F1335  2 
+ 1001 73000   3 459 A  7.9900+8          2.9000-4 2.0000-5           72178.2                     Yu.E.Titarenko+      (18)F1335  2 
+ 1001 73000   3 459 A  1.1990+9          2.7800-4 1.8000-5           72178.2                     Yu.E.Titarenko+      (18)F1335  2 
+ 1001 73000   3 459 A  1.5980+9          2.1500-4 2.9000-5           72178.2                     Yu.E.Titarenko+      (18)F1335  2 
+ 1001 73000   3 459 A  2.6050+9          2.5700-4 2.9000-5           72178.2                     Yu.E.Titarenko+      (18)F1335  2 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,40 @@
+#ENTRY      O0849
+#AUTHOR1    Gy.Gyurky+
+#YEAR       2003
+#INSTITUTE  (3HUNDEB)
+#TITLE      Proton induced reaction cross section measurements on
+#+          Se isotopes for the astrophysical P-process
+#AUTHOR(S)  Gy.Gyurky, Zs.Fulop, E.Somorjai, M.Kokkoris, S.Galanopoulos, 
+#+          P.Demetriou, S.Harissopulos, T.Rauscher, S.Goriely
+#REF-CODE   (J,PR/C,68,055803,2003)
+#REFERENCE  Phys.Rev.C 68 (2003) 055803 (doi:10.1103/PhysRevC.68.055803)
+#DATASETS   0
+#
+#DATASET    O0849002A
+#DATE       20040228
+#REACTION   34-SE-74(P,G)35-BR-75,,SIG,,SFC
+#PROJ       1001
+#TARG       34074
+#MF         3
+#MT         102
+#PRODUCT    35-BR-75
+#C4BEGIN    [ 1001 34074   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 34074   3 102    1474852. 27000.57 3.2146-6 6.3145-7                                       Gy.Gyurky+           (03)O0849  2A
+ 1001 34074   3 102    1590408. 12000.27 9.8354-6 1.7883-6                                       Gy.Gyurky+           (03)O0849  2A
+ 1001 34074   3 102    1680624. 22000.52 1.8705-5 2.9226-6                                       Gy.Gyurky+           (03)O0849  2A
+ 1001 34074   3 102    1790099. 12000.30 3.7595-5 6.1631-6                                       Gy.Gyurky+           (03)O0849  2A
+ 1001 34074   3 102    1883356. 20000.53 5.5156-5 8.8249-6                                       Gy.Gyurky+           (03)O0849  2A
+ 1001 34074   3 102    1980667. 22000.62 8.5126-5 1.3543-5                                       Gy.Gyurky+           (03)O0849  2A
+ 1001 34074   3 102    2085074. 18000.53 1.0808-4 1.6887-5                                       Gy.Gyurky+           (03)O0849  2A
+ 1001 34074   3 102    2188468. 14000.43 1.7450-4 2.8146-5                                       Gy.Gyurky+           (03)O0849  2A
+ 1001 34074   3 102    2341532. 11000.36 3.3710-4 5.6183-5                                       Gy.Gyurky+           (03)O0849  2A
+ 1001 34074   3 102    2489527. 13000.46 4.3204-4 6.1720-5                                       Gy.Gyurky+           (03)O0849  2A
+ 1001 34074   3 102    2789574. 13000.51 9.5981-4 1.1998-4                                       Gy.Gyurky+           (03)O0849  2A
+ 1001 34074   3 102    3090636. 12000.53 1.4571-3 2.2302-4                                       Gy.Gyurky+           (03)O0849  2A
+ 1001 34074   3 102    3393726. 8000.388 1.7592-3 2.6062-4                                       Gy.Gyurky+           (03)O0849  2A
+ 1001 34074   3 102    3595449. 6000.309 2.7460-3 4.6631-4                                       Gy.Gyurky+           (03)O0849  2A
+#/DATA      14
+#/DATASET

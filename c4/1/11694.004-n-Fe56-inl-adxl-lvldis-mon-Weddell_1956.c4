@@ -1,0 +1,27 @@
+#ENTRY      11694
+#AUTHOR1    J.B.Weddell+
+#YEAR       1956
+#INSTITUTE  (1USAWES)
+#TITLE      SCATTERING OF 4.4-MEV NEUTRONS BY CR AND MO, AND OF
+#+          6.5-MEV NEUTRONS BY FE.
+#AUTHOR(S)  J.B.Weddell, B.Jennings
+#REF-CODE   (J,BAP,1,55(R5),5602)
+#REFERENCE  Bull.Am.Phys.Soc. 1 (1956) 55(R5)
+#DATASETS   0
+#
+#DATASET    11694004 
+#DATE       19831011
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,DA
+#PROJ       1
+#TARG       26056
+#MF         4
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   4  51    6500000.          6.0000-3 2.0000-3 6.123-17 0.087266 850000.0         LVLJ.B.Weddell+         (56)11694  4 
+    1 26056   4  51    6500000.          2.8000-3 1.2000-3 6.123-17 0.087266 2090000.         LVLJ.B.Weddell+         (56)11694  4 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      C1630
+#AUTHOR1    L.van der Zwan+
+#YEAR       1975
+#INSTITUTE  (1CANOTC)
+#TITLE      The 11B(alpha,n)14N cross section for a-energies up
+#+          to 8 MeV
+#AUTHOR(S)  L.van der Zwan, K.W.Geiger
+#REF-CODE   (J,NP/A,246,(1),93,1975)
+#REFERENCE  Nucl.Phys.A 246 No.1 (1975) 93 (doi:10.1016/0375-9474(75)90565-5)
+#DATASETS   0
+#
+#DATASET    C1630068 
+#DATE       20160714
+#REACTION   5-B-11(A,N)7-N-14,PAR,DA
+#PROJ       2004
+#TARG       5011
+#MF         4
+#MT         50
+#PRODUCT    7-N-14
+#C4BEGIN    [ 2004  5011   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  5011   4  50  C 5360000.          3.2900-4          1.000000          2312798.         LVLL.van der Zwan+      (75)C1630 68 
+ 2004  5011   4  50  C 5360000.          7.2500-4          0.808103          2312798.         LVLL.van der Zwan+      (75)C1630 68 
+ 2004  5011   4  50  C 5360000.          1.0260-3          0.331206          2312798.         LVLL.van der Zwan+      (75)C1630 68 
+ 2004  5011   4  50  C 5360000.          1.2120-3         -9.0581-3          2312798.         LVLL.van der Zwan+      (75)C1630 68 
+ 2004  5011   4  50  C 5360000.          1.4690-3         -0.225648          2312798.         LVLL.van der Zwan+      (75)C1630 68 
+ 2004  5011   4  50  C 5360000.          1.3260-3         -0.419103          2312798.         LVLL.van der Zwan+      (75)C1630 68 
+ 2004  5011   4  50  C 5360000.          1.0890-3         -0.654886          2312798.         LVLL.van der Zwan+      (75)C1630 68 
+ 2004  5011   4  50  C 5360000.          1.1580-3         -0.810502          2312798.         LVLL.van der Zwan+      (75)C1630 68 
+ 2004  5011   4  50  C 5360000.          1.0620-3         -0.917907          2312798.         LVLL.van der Zwan+      (75)C1630 68 
+ 2004  5011   4  50  C 5360000.          1.1080-3         -0.974031          2312798.         LVLL.van der Zwan+      (75)C1630 68 
+#/DATA      10
+#/DATASET

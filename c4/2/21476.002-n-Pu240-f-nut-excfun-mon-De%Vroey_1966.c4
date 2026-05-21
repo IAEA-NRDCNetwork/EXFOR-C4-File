@@ -1,0 +1,27 @@
+#ENTRY      21476
+#AUTHOR1    M.De Vroey+
+#YEAR       1966
+#INSTITUTE  (2UK HAR)
+#TITLE      -(A MEASUREMENT OF NU-BAR FOR NEUTRON INDUCED
+#+          FISSION OF PU-240 -.
+#AUTHOR(S)  M.De Vroey, A.T.G.Ferguson, N.Starfelt
+#REF-CODE   (J,JNE/AB,20,191,196603)
+#REFERENCE  J.Nucl.Energy A/B 20 (1966) 191 (doi:10.1016/0368-3230(66)90168-6)
+#DATASETS   0
+#
+#DATASET    21476002 
+#DATE       20060809
+#REACTION   94-PU-240(N,F),,NU
+#PROJ       1
+#TARG       94240
+#MF         1
+#MT         452
+#C4BEGIN    [    1 94240   1 452  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94240   1 452    100000.0          2.890000 0.190000                                       M.De Vroey+          (66)21476  2 
+    1 94240   1 452    1000000.          2.550000 0.350000                                       M.De Vroey+          (66)21476  2 
+    1 94240   1 452    1600000.          3.260000 0.120000                                       M.De Vroey+          (66)21476  2 
+#/DATA      3
+#/DATASET

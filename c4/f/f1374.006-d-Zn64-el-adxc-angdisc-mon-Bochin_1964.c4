@@ -1,0 +1,33 @@
+#ENTRY      F1374
+#AUTHOR1    V.P.Bochin+
+#YEAR       1964
+#INSTITUTE  (4RUSSUL)
+#TITLE      Elastic scattering of deuterons on separated isotopes
+#+          of nickel and zinc.
+#AUTHOR(S)  V.P.Bochin, K.I.Zherebtova, V.A.Komarov, L.V.Krasnov, V.F.Litvin, 
+#+          Yu.A.Nemilov
+#REF-CODE   (J,ZET,47,855,1964)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 47 (1964) 855
+#DATASETS   0
+#
+#DATASET    F1374006 
+#DATE       20181213
+#REACTION   30-ZN-64(D,EL)30-ZN-64,,DA,,RTH
+#PROJ       1002
+#TARG       30064
+#MF         4
+#MT         2
+#PRODUCT    30-ZN-64
+#C4BEGIN    [ 1002 30064   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 30064   4   2  C 6500000.          21.89514 3.338654 0.926935                              V.P.Bochin+          (64)F1374  6 
+ 1002 30064   4   2  C 6500000.          4.563531 0.680422 0.829194                              V.P.Bochin+          (64)F1374  6 
+ 1002 30064   4   2  C 6500000.          1.508367 0.218589 0.717689                              V.P.Bochin+          (64)F1374  6 
+ 1002 30064   4   2  C 6500000.          0.636880 0.098073 0.593461                              V.P.Bochin+          (64)F1374  6 
+ 1002 30064   4   2  C 6500000.          0.336617 0.039542 0.454877                              V.P.Bochin+          (64)F1374  6 
+ 1002 30064   4   2  C 6500000.          0.177927 0.025743 0.268483                              V.P.Bochin+          (64)F1374  6 
+ 1002 30064   4   2  C 6500000.          0.112153 0.015291 0.108329                              V.P.Bochin+          (64)F1374  6 
+#/DATA      7
+#/DATASET

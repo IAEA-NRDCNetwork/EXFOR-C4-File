@@ -1,0 +1,33 @@
+#ENTRY      22759
+#AUTHOR1    T.Senga+
+#YEAR       2000
+#INSTITUTE  (2JPNNAG)
+#TITLE      Measurement of neutron activation cross sections
+#+          in the energy range between 2. and 7. MeV by using
+#+          a Ti-deuteron Target and a deuteron gas target.
+#AUTHOR(S)  T.Senga, H.Sakane, M.Shibata, H.Yamamoto, K.Kawade, Y.Kasugai, 
+#+          Y.Ikeda, H.Takeuchi, T.Furuta
+#REF-CODE   (S,JAERI-C-2000-005,208,2000)
+#REFERENCE  Report (proceedings) JAERI-C-2000-005 page 208, 2000
+#DATASETS   0
+#
+#DATASET    22759006 
+#DATE       20090306
+#REACTION   22-TI-47(N,P)21-SC-47,,SIG
+#PROJ       1
+#TARG       22047
+#MF         3
+#MT         103
+#PRODUCT    21-SC-47
+#C4BEGIN    [    1 22047   3 103 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22047   3 103 P  1994300.          0.016076 3.0825-3                                       T.Senga+             (00)22759  6 
+    1 22047   3 103 P  2215900.          0.021976 2.4390-3                                       T.Senga+             (00)22759  6 
+    1 22047   3 103 P  2463400.          0.022892 2.6535-3                                       T.Senga+             (00)22759  6 
+    1 22047   3 103 P  2770900.          0.034935 3.3685-3                                       T.Senga+             (00)22759  6 
+    1 22047   3 103 P  3044400.          0.045121 4.1362-3                                       T.Senga+             (00)22759  6 
+    1 22047   3 103 P  3290700.          0.050862 4.6624-3                                       T.Senga+             (00)22759  6 
+#/DATA      6
+#/DATASET

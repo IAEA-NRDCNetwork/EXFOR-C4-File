@@ -1,0 +1,30 @@
+#ENTRY      32615
+#AUTHOR1    Yu Weixiang+
+#YEAR       1993
+#INSTITUTE  (3CPRAEP)
+#TITLE      Activation cross section measurement for the
+#+          Eu(n,gamma) reactions
+#AUTHOR(S)  Yu Weixiang, Lu Hanlin, Zhao Wenrong
+#REF-CODE   (J,CNP,15,(1),71,1993)
+#REFERENCE  Chin.J.Nucl.Phys. 15 No.1 (1993) 71
+#DATASETS   0
+#
+#DATASET    32615005 
+#DATE       20100910
+#REACTION   63-EU-153(N,G)63-EU-154,,SIG
+#PROJ       1
+#TARG       63153
+#MF         3
+#MT         102
+#PRODUCT    63-EU-154
+#C4BEGIN    [    1 63153   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 63153   3 102 A  36000.00          2.297000 0.175000                                       Yu Weixiang+         (93)32615  5 
+    1 63153   3 102 A  175000.0          1.102000 0.075000                                       Yu Weixiang+         (93)32615  5 
+    1 63153   3 102 A  318000.0          0.733000 0.047000                                       Yu Weixiang+         (93)32615  5 
+    1 63153   3 102 A  465000.0          0.448000 0.029000                                       Yu Weixiang+         (93)32615  5 
+    1 63153   3 102 A  1120000.          0.268000 0.019000                                       Yu Weixiang+         (93)32615  5 
+#/DATA      5
+#/DATASET

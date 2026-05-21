@@ -1,0 +1,31 @@
+#ENTRY      A0525
+#AUTHOR1    A.Shrivastava+
+#YEAR       1999
+#INSTITUTE  (3INDTRM)
+#TITLE      Shell effects in fission fragment anisotropies for 12C
+#+          + 194,198Pt systems
+#AUTHOR(S)  A.Shrivastava, S.Kailas, A.Chatterjee, A.M.Samant, A.Navin, 
+#+          P.Singh, B.S.Tomar
+#REF-CODE   (J,PRL,82,699,199901)
+#REFERENCE  Phys.Rev.Lett. 82 (1999) 699 (doi:10.1103/PhysRevLett.82.699)
+#DATASETS   0
+#
+#DATASET    A0525005 
+#DATE       20110826
+#REACTION   78-PT-198(6-C-12,F),,SIG
+#PROJ       6012
+#TARG       78198
+#MF         3
+#MT         18
+#C4BEGIN    [ 6012 78198   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 78198   3  18    6.0315+7 260080.1 9.0000-4 4.5000-5                                       A.Shrivastava+       (99)A0525  5 
+ 6012 78198   3  18    6.4442+7 260085.6 4.2400-3 2.1200-4                                       A.Shrivastava+       (99)A0525  5 
+ 6012 78198   3  18    6.6798+7 260088.7 7.8000-3 3.9000-4                                       A.Shrivastava+       (99)A0525  5 
+ 6012 78198   3  18    6.9546+7 260092.4 0.014800 7.4000-4                                       A.Shrivastava+       (99)A0525  5 
+ 6012 78198   3  18    7.2697+7 260096.6 0.025300 1.2650-3                                       A.Shrivastava+       (99)A0525  5 
+ 6012 78198   3  18    8.4304+7 260112.0 0.103000 5.1500-3                                       A.Shrivastava+       (99)A0525  5 
+#/DATA      6
+#/DATASET

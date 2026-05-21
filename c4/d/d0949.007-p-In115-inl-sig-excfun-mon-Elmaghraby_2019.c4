@@ -1,0 +1,40 @@
+#ENTRY      D0949
+#AUTHOR1    E.K.Elmaghraby+
+#YEAR       2019
+#INSTITUTE  (3EGYCAI)
+#TITLE      Experimental investigation and nuclear model
+#+          calculations for proton induced reactions on indium
+#+          around thresholds
+#AUTHOR(S)  E.K.Elmaghraby, G.Y.Mohamed, M.Al-Abyad
+#REF-CODE   (J,NP/A,984,112,2019)
+#REFERENCE  Nucl.Phys.A 984 (2019) 112 (doi:10.1016/j.nuclphysa.2019.01.009)
+#DATASETS   0
+#
+#DATASET    D0949007 
+#DATE       20200713
+#REACTION   49-IN-115(P,INL)49-IN-115-M,,SIG
+#PROJ       1001
+#TARG       49115
+#MF         3
+#MT         103
+#PRODUCT    49-IN-115-M
+#C4BEGIN    [ 1001 49115   3 103MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 49115   3 103MA  1.4240+7          0.011700 4.0000-4                                       E.K.Elmaghraby+      (19)D0949  7 
+ 1001 49115   3 103MA  1.4040+7          9.0900-3 3.0000-4                                       E.K.Elmaghraby+      (19)D0949  7 
+ 1001 49115   3 103MA  1.3120+7          0.010100 3.0000-4                                       E.K.Elmaghraby+      (19)D0949  7 
+ 1001 49115   3 103MA  1.3060+7          0.010200 3.4000-4                                       E.K.Elmaghraby+      (19)D0949  7 
+ 1001 49115   3 103MA  1.2270+7          8.4600-3 3.0000-4                                       E.K.Elmaghraby+      (19)D0949  7 
+ 1001 49115   3 103MA  1.1810+7          7.1100-3 2.0000-4                                       E.K.Elmaghraby+      (19)D0949  7 
+ 1001 49115   3 103MA  1.0990+7          5.8000-3 2.0000-4                                       E.K.Elmaghraby+      (19)D0949  7 
+ 1001 49115   3 103MA  1.0580+7          4.7800-3 2.0000-4                                       E.K.Elmaghraby+      (19)D0949  7 
+ 1001 49115   3 103MA  1.0030+7          3.6400-3 1.0000-4                                       E.K.Elmaghraby+      (19)D0949  7 
+ 1001 49115   3 103MA  8630000.          1.4500-3 1.0000-4                                       E.K.Elmaghraby+      (19)D0949  7 
+ 1001 49115   3 103MA  8470000.          1.3500-3 5.0000-5                                       E.K.Elmaghraby+      (19)D0949  7 
+ 1001 49115   3 103MA  7280000.          9.2000-4 4.0000-5                                       E.K.Elmaghraby+      (19)D0949  7 
+ 1001 49115   3 103MA  5960000.          7.2000-4 3.0000-5                                       E.K.Elmaghraby+      (19)D0949  7 
+ 1001 49115   3 103MA  2940000.          5.7000-4 2.0000-5                                       E.K.Elmaghraby+      (19)D0949  7 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,25 @@
+#ENTRY      10698
+#AUTHOR1    M.C.Davis+
+#YEAR       1978
+#INSTITUTE  (1USAMHG)
+#TITLE      Fission cross sections of 235U and 239Pu averaged over
+#+          252Cf neutron spectrum.
+#AUTHOR(S)  M.C.Davis, G.F.Knoll
+#REF-CODE   (J,ANE,5,583,1978)
+#REFERENCE  Ann.Nucl.Energy 5 (1978) 583 (doi:10.1016/0306-4549(78)90032-4)
+#DATASETS   0
+#
+#DATASET    10698002 
+#DATE       20081115
+#REACTION   92-U-235(N,F),,SIG,,FIS
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18 A  1100000.          1.215000 0.022000                                       M.C.Davis+           (78)10698  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      32623
+#AUTHOR1    Xia Yijun+
+#YEAR       1994
+#INSTITUTE  (3CPRSIU)
+#TITLE      Activation cross section measurement for the
+#+          Eu-(n,gamma)reaction.
+#AUTHOR(S)  Xia Yijun, Long Xianguan, Luo Xiaobing, Yang Zhihua, Liu Mantian, 
+#+          He Fuqing, Wang Chunhuo, Pen Xiufeng, Yang Jingfu, Lu Hanlin
+#REF-CODE   (C,94GATLIN,1,251,199405)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 1 page 251
+#DATASETS   0
+#
+#DATASET    32623003 
+#DATE       20150529
+#REACTION   63-EU-151(N,G)63-EU-152-G+M2,,SIG
+#PROJ       1
+#TARG       63151
+#MF         3
+#MT         102
+#PRODUCT    63-EU-152-G+M2
+#C4BEGIN    [    1 63151   3 102+ ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 63151   3 102+   22000.00 16000.00 2.822000 0.170000                                       Xia Yijun+           (94)32623  3 
+    1 63151   3 102+   59000.00 25000.00 1.734000 0.110000                                       Xia Yijun+           (94)32623  3 
+    1 63151   3 102+   160000.0 40000.00 1.040000 0.065000                                       Xia Yijun+           (94)32623  3 
+    1 63151   3 102+   173000.0 40000.00 0.994000 0.063000                                       Xia Yijun+           (94)32623  3 
+    1 63151   3 102+   230000.0 20000.00 0.860000 0.054000                                       Xia Yijun+           (94)32623  3 
+    1 63151   3 102+   376000.0 116000.0 0.641000 0.040000                                       Xia Yijun+           (94)32623  3 
+    1 63151   3 102+   817000.0 167000.0 0.348000 0.023000                                       Xia Yijun+           (94)32623  3 
+    1 63151   3 102+   1100000. 80000.00 0.284000 0.019000                                       Xia Yijun+           (94)32623  3 
+#/DATA      8
+#/DATASET

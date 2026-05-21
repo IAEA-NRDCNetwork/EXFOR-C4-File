@@ -1,0 +1,27 @@
+#ENTRY      40388
+#AUTHOR1    G.N.Smirenkin+
+#YEAR       1958
+#INSTITUTE  (4RUSFEI)
+#TITLE      Mean number of prompt neutrons in the fission of
+#+          U233, U235, Pu239 by 4 and 15 MeV neutrons.
+#AUTHOR(S)  G.N.Smirenkin, I.I.Bondarenko, L.S.Kutsaeva, K.D.Mishchenko, 
+#+          L.I.Prokhorova, B.P.Shemetenko
+#REF-CODE   (J,AE,4,(2),188,1958)
+#REFERENCE  At.En. 4 No.2 (1958) 188
+#DATASETS   0
+#
+#DATASET    40388006 
+#DATE       20140402
+#REACTION   92-U-235(N,F),PR,NU
+#PROJ       1
+#TARG       92235
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92235   1 456 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   1 456 D  4000000.          3.010000 0.120000                                       G.N.Smirenkin+       (58)40388  6 
+    1 92235   1 456 D  1.5000+7          4.510000 0.190000                                       G.N.Smirenkin+       (58)40388  6 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      D4257
+#AUTHOR1    A.Hermanne+
+#YEAR       2012
+#INSTITUTE  (2BLGVUB)
+#TITLE      Cross sections of deuteron induced reactions on 45Sc
+#+          up to 50 MeV: Experiments and comparison with
+#+          theoretical codes
+#AUTHOR(S)  A.Hermanne, R.Adam-Rebeles, F.Tarkanyi, S.Takacs, M.P.Takacs, 
+#+          J.Csikai, A.Ignatyuk
+#REF-CODE   (J,NIM/B,270,106,2012)
+#REFERENCE  Nucl.Instrum.Meth.B 270 (2012) 106 (doi:10.1016/j.nimb.2011.09.002)
+#DATASETS   0
+#
+#DATASET    D4257003 
+#DATE       20120507
+#REACTION   21-SC-45(D,2N)22-TI-45,,SIG
+#PROJ       1002
+#TARG       21045
+#MF         3
+#MT         16
+#PRODUCT    22-TI-45
+#C4BEGIN    [ 1002 21045   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 21045   3  16    4700000. 900000.0 5.0000-4 1.0000-4                                       A.Hermanne+          (12)D4257  3 
+ 1002 21045   3  16    7600000. 800000.0 0.098000 0.015000                                       A.Hermanne+          (12)D4257  3 
+ 1002 21045   3  16    9900000. 700000.0 0.171000 0.026000                                       A.Hermanne+          (12)D4257  3 
+ 1002 21045   3  16    1.1800+7 600000.0 0.249000 0.037000                                       A.Hermanne+          (12)D4257  3 
+ 1002 21045   3  16    1.3500+7 500000.0 0.278000 0.042000                                       A.Hermanne+          (12)D4257  3 
+ 1002 21045   3  16    1.5100+7 500000.0 0.346000 0.052000                                       A.Hermanne+          (12)D4257  3 
+ 1002 21045   3  16    1.6600+7 400000.0 0.301000 0.045000                                       A.Hermanne+          (12)D4257  3 
+ 1002 21045   3  16    1.8000+7 400000.0 0.370000 0.055000                                       A.Hermanne+          (12)D4257  3 
+ 1002 21045   3  16    1.9300+7 300000.0 0.292000 0.044000                                       A.Hermanne+          (12)D4257  3 
+ 1002 21045   3  16    2.0500+7 300000.0 0.319000 0.048000                                       A.Hermanne+          (12)D4257  3 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      20172
+#AUTHOR1    G.Deconninck+
+#YEAR       1958
+#INSTITUTE  (2BLGLVN)
+#TITLE      Total cross-sections for neutrons with energies
+#+          from 2.1 to 3.1 MeV
+#AUTHOR(S)  G.Deconninck, A.Martegani
+#REF-CODE   (J,BCS,44,851,1958)
+#REFERENCE  B.Cl.Sci.Ac.Roy.Belg 44 (1958) 851 (doi:10.3406/barb.1958.68924)
+#DATASETS   0
+#
+#DATASET    20172004 
+#DATE       20230215
+#REACTION   29-CU-0(N,TOT),,SIG
+#PROJ       1
+#TARG       29000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 29000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   3   1    2100000.          3.000000                                                G.Deconninck+        (58)20172  4 
+    1 29000   3   1    2175000.          3.100000                                                G.Deconninck+        (58)20172  4 
+    1 29000   3   1    2420000.          3.000000                                                G.Deconninck+        (58)20172  4 
+    1 29000   3   1    2610000.          2.925000                                                G.Deconninck+        (58)20172  4 
+    1 29000   3   1    2810000.          2.925000                                                G.Deconninck+        (58)20172  4 
+    1 29000   3   1    2910000.          3.100000                                                G.Deconninck+        (58)20172  4 
+    1 29000   3   1    2990000.          3.175000                                                G.Deconninck+        (58)20172  4 
+    1 29000   3   1    3200000.          3.325000                                                G.Deconninck+        (58)20172  4 
+#/DATA      8
+#/DATASET

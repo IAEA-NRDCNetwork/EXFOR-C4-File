@@ -1,0 +1,30 @@
+#ENTRY      E2414
+#AUTHOR1    S.Sekimoto+
+#YEAR       2013
+#INSTITUTE  (2JPNKTO)
+#TITLE      Measurements of cross sections for production of light
+#+          nuclides by 300 MeV proton bombardment of Cu and Y
+#AUTHOR(S)  S.Sekimoto, T.Omoto, H.Joto, T.Utsunomiya, H.Yashima, K.Ninomiya, 
+#+          K.C.Welten, M.W.Caffee, Y.Matsushi, H.Matsuzaki, R.Nakagaki, 
+#+          T.Shima, N.Takahashi, A.Shinohara, H.Matsumura, D.Satoh, 
+#+          Y.Iwamoto, M.Hagiwara, K.Nishiizumi, S.Shibata
+#REF-CODE   (J,NIM/B,294,475,2013)
+#REFERENCE  Nucl.Instrum.Meth.B 294 (2013) 475 (doi:10.1016/j.nimb.2012.03.005)
+#DATASETS   0
+#
+#DATASET    E2414002 
+#DATE       20240503
+#REACTION   29-CU-0(P,X)ELEM/MASS,,SIG
+#PROJ       1001
+#TARG       29000
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 29000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   3 454    3.0000+8          1.3000-4 2.0000-6            4010.9                     S.Sekimoto+          (13)E2414  2 
+ 1001 29000   3 454    3.0000+8          1.0000-5 3.0000-6           13026.0                     S.Sekimoto+          (13)E2414  2 
+ 1001 29000   3 454    3.0000+8          2.1200-4 8.0000-6           17036.9                     S.Sekimoto+          (13)E2414  2 
+#/DATA      3
+#/DATASET

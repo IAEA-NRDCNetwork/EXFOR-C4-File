@@ -1,0 +1,31 @@
+#ENTRY      C2037
+#AUTHOR1    F.E.Portillo+
+#YEAR       2013
+#INSTITUTE  (3VENIVI)
+#TITLE      Light element quantification by lithium elastic
+#+          scattering
+#AUTHOR(S)  F.E.Portillo, J.A.Liendo, A.C.Gonzalez, D.D.Caussyn, N.R.Fletcher, 
+#+          O.A.Momotyuk, B.T.Roeder, I.Wiedenhoever, K.W.Kemper, P.Barber, 
+#+          L.Sajo-Bohus
+#REF-CODE   (J,NIM/B,305,16,2013)
+#REFERENCE  Nucl.Instrum.Meth.B 305 (2013) 16 (doi:10.1016/j.nimb.2013.04.049)
+#DATASETS   0
+#
+#DATASET    C2037004 
+#DATE       20230802
+#REACTION   9-F-19(3-LI-6,EL)9-F-19,,DA
+#PROJ       3006
+#TARG       9019
+#MF         4
+#MT         2
+#PRODUCT    9-F-19
+#C4BEGIN    [ 3006  9019   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006  9019   4   2  C 1.3000+7          0.870000 0.070000 0.853551                              F.E.Portillo+        (13)C2037  4 
+ 3006  9019   4   2  C 1.3000+7          0.610000 0.050000 0.829038                              F.E.Portillo+        (13)C2037  4 
+ 3006  9019   4   2  C 1.3000+7          0.420000 0.050000 0.802817                              F.E.Portillo+        (13)C2037  4 
+ 3006  9019   4   2  C 1.3000+7          0.270000 0.030000 0.776046                              F.E.Portillo+        (13)C2037  4 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,42 @@
+#ENTRY      C0773
+#AUTHOR1    C.H.Johnson+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      (p,n) Cross Sections and the Strength Functions for 3-
+#+          to 5.5-MeV Protons on In and on Sn Isotopes
+#AUTHOR(S)  C.H.Johnson, R.L.Kernell
+#REF-CODE   (J,PR/C,2,639,1970)
+#REFERENCE  Phys.Rev.C 2 (1970) 639 (doi:10.1103/PhysRevC.2.639)
+#DATASETS   0
+#
+#DATASET    C0773006 
+#DATE       20240418
+#REACTION   50-SN-119(P,N)51-SB-119,,SIG
+#PROJ       1001
+#TARG       50119
+#MF         3
+#MT         4
+#PRODUCT    51-SB-119
+#C4BEGIN    [ 1001 50119   3   4 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50119   3   4 C  2989000. 298.9000 5.9000-5                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  3107000. 310.7000 9.3000-5                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  3227000. 322.7000 1.5700-4                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  3349000. 334.9000 2.3800-4                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  3473000. 347.3000 3.6900-4                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  3599000. 359.9000 5.5500-4                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  3727000. 372.7000 8.2000-4                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  3857000. 385.7000 1.1900-3                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  3989000. 398.9000 1.7100-3                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  4123000. 412.3000 2.4400-3                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  4259000. 425.9000 3.4500-3                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  4397000. 439.7000 4.9900-3                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  4537000. 453.7000 7.0000-3                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  4679000. 467.9000 9.8500-3                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  4823000. 482.3000 0.012700                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  4969000. 496.9000 0.016100                                                C.H.Johnson+         (70)C0773  6 
+ 1001 50119   3   4 C  5117000. 511.7000 0.020800                                                C.H.Johnson+         (70)C0773  6 
+#/DATA      17
+#/DATASET

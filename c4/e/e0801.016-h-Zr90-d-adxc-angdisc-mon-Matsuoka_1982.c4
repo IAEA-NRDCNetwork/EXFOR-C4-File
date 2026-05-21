@@ -1,0 +1,44 @@
+#ENTRY      E0801
+#AUTHOR1    N.Matsuoka+
+#YEAR       1982
+#INSTITUTE  (2JPNOSA)
+#TITLE      DWBA analysis of (3He,d) reactions at 90 MeV and
+#+          contributions from the nuclear interior
+#AUTHOR(S)  N.Matsuoka, K.Hatanaka, M.Fujiwara, Y.Fujita, T.Saito, K.Hosono, 
+#+          A.Shimizu, M.Kondo, F.Ohtani, H.Sakaguchi, A.Goto, N.Nakanishi, 
+#+          Y.Toba
+#REF-CODE   (J,NP/A,373,(3),377,198201)
+#REFERENCE  Nucl.Phys.A 373 No.3 (1982) 377 (doi:10.1016/0375-9474(82)90541-3)
+#DATASETS   0
+#
+#DATASET    E0801016 
+#DATE       20110518
+#REACTION   40-ZR-90(HE3,D)41-NB-91,PAR,DA
+#PROJ       2003
+#TARG       40090
+#MF         4
+#MT         650
+#PRODUCT    41-NB-91
+#C4BEGIN    [ 2003 40090   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 40090   4 650  C 89300.00          1.1980-3          0.983426          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          8.5820-4          0.978079          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          6.3500-4          0.969020          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          3.9430-4          0.959791          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          3.1090-4          0.949442          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          2.7400-4          0.937112          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          1.8430-4          0.924360          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          1.0240-4          0.911439          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          8.7390-5          0.895502          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          7.4620-5          0.877138          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          6.1720-5          0.858647          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          3.7740-5 3.9780-6 0.832051          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          2.1640-5 2.8870-6 0.810665          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          1.8480-5 2.7180-6 0.783737          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          8.2190-6 1.2090-6 0.756550          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          4.4290-6 6.5230-7 0.696852          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+ 2003 40090   4 650  C 89300.00          3.0270-6 9.4060-7 0.662175          3360000.         LVLN.Matsuoka+          (82)E0801 16 
+#/DATA      17
+#/DATASET

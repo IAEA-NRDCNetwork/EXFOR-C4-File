@@ -1,0 +1,34 @@
+#ENTRY      21829
+#AUTHOR1    K.Sakurai+
+#YEAR       1982
+#INSTITUTE  (2JPNJAE)
+#TITLE      -Cross section measurement for Hg-199(n,n')Hg-199-m
+#+          reaction from 0.78 to 6.3 MeV.
+#AUTHOR(S)  K.Sakurai, H.Gotoh, S.Yamamoto, K.Kobayashi, I.Kimura
+#REF-CODE   (J,NST,19,(10),775,198210)
+#REFERENCE  J.Nucl.Sci.Technol. 19 No.10 (1982) 775 (doi:10.1080/18811248.1982.9734217)
+#DATASETS   0
+#
+#DATASET    218290021
+#DATE       20110227
+#REACTION   80-HG-199(N,INL)80-HG-199-M,,SIG
+#PROJ       1
+#TARG       80199
+#MF         3
+#MT         4
+#PRODUCT    80-HG-199-M
+#C4BEGIN    [    1 80199   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 80199   3   4M   784000.0          0.033800 3.7000-3                                       K.Sakurai+           (82)21829  21
+    1 80199   3   4M   1200000.          0.096300 0.010600                                       K.Sakurai+           (82)21829  21
+    1 80199   3   4M   1790000.          0.201000 0.026000                                       K.Sakurai+           (82)21829  21
+    1 80199   3   4M   1820000.          0.242000 0.027000                                       K.Sakurai+           (82)21829  21
+    1 80199   3   4M   2270000.          0.327000 0.051000                                       K.Sakurai+           (82)21829  21
+    1 80199   3   4M   3070000.          0.413000 0.061000                                       K.Sakurai+           (82)21829  21
+    1 80199   3   4M   3250000.          0.412000 0.053000                                       K.Sakurai+           (82)21829  21
+    1 80199   3   4M   4920000.          0.650000 0.072000                                       K.Sakurai+           (82)21829  21
+    1 80199   3   4M   6270000.          0.653000 0.072000                                       K.Sakurai+           (82)21829  21
+#/DATA      9
+#/DATASET

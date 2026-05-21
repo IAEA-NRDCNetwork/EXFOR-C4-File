@@ -1,0 +1,30 @@
+#ENTRY      O2065
+#AUTHOR1    J.L.Symonds+
+#YEAR       1957
+#INSTITUTE  (2UK BIR)
+#TITLE      Excitation functions up to 980 MeV for proton-induced
+#+          reactions in some light elements.
+#AUTHOR(S)  J.L.Symonds, J.Warren, J.D.Young
+#REF-CODE   (J,PPS/A,70,824,1957)
+#REFERENCE  Proc.Phys.Soc.(UK) A 70 (1957) 824 (doi:10.1088/0370-1298/70/11/306)
+#DATASETS   0
+#
+#DATASET    O2065017 
+#DATE       20121023
+#REACTION   9-F-19(P,X)8-O-15,,SIG
+#PROJ       1001
+#TARG       9019
+#MF         3
+#MT         454
+#PRODUCT    8-O-15
+#C4BEGIN    [ 1001  9019   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9019   3 454    9.8000+8          8.2000-3                     8015.9                     J.L.Symonds+         (57)O2065 17 
+ 1001  9019   3 454    8.3500+8          7.0000-3                     8015.9                     J.L.Symonds+         (57)O2065 17 
+ 1001  9019   3 454    7.2600+8          9.6000-3                     8015.9                     J.L.Symonds+         (57)O2065 17 
+ 1001  9019   3 454    6.4800+8          9.3000-3                     8015.9                     J.L.Symonds+         (57)O2065 17 
+ 1001  9019   3 454    5.2200+8          9.6000-3                     8015.9                     J.L.Symonds+         (57)O2065 17 
+#/DATA      5
+#/DATASET

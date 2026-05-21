@@ -1,0 +1,44 @@
+#ENTRY      D0672
+#AUTHOR1    M.Avrigeanu+
+#YEAR       2014
+#INSTITUTE  (3RUMBUC)
+#TITLE      Low energy deuteron-induced reactions on Fe isotopes
+#AUTHOR(S)  M.Avrigeanu, V.Avrigeanu, P.Bem, U.Fischer, M.Honusek, K.Katovsky, 
+#+          C.Manailescu, J.Mrazek, E.Simeckova, L.Zavorka
+#REF-CODE   (J,PR/C,89,044613,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 044613 (doi:10.1103/PhysRevC.89.044613)
+#DATASETS   0
+#
+#DATASET    D0672002 
+#DATE       20140613
+#REACTION   26-FE-54(D,N)27-CO-55,,SIG
+#PROJ       1002
+#TARG       26054
+#MF         3
+#MT         4
+#PRODUCT    27-CO-55
+#C4BEGIN    [ 1002 26054   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 26054   3   4 A  4110000. 820000.0 0.048500 4.6000-3                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  5290000. 700000.0 0.132000 9.0000-3                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  6710000. 590000.0 0.158000 0.012000                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  7620000. 550000.0 0.153000 0.011000                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  8720000. 490000.0 0.143000 9.0000-3                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  9490000. 470000.0 0.130000 0.010000                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  1.0450+7 440000.0 0.112000 9.0000-3                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  1.1140+7 420000.0 0.100000 7.0000-3                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  1.1990+7 390000.0 0.092200 5.7000-3                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  1.2620+7 380000.0 0.083000 5.7000-3                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  1.3400+7 360000.0 0.076700 4.7000-3                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  1.3990+7 360000.0 0.071500 4.7000-3                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  1.4710+7 340000.0 0.066700 4.1000-3                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  1.4720+7 340000.0 0.062800 3.7000-3                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  1.5270+7 330000.0 0.066500 4.1000-3                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  1.5950+7 330000.0 0.060300 4.1000-3                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  1.6470+7 310000.0 0.059700 4.2000-3                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  1.7110+7 310000.0 0.055900 3.3000-3                                       M.Avrigeanu+         (14)D0672  2 
+ 1002 26054   3   4 A  1.7130+7 310000.0 0.051700 3.0000-3                                       M.Avrigeanu+         (14)D0672  2 
+#/DATA      19
+#/DATASET

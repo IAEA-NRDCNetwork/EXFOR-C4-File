@@ -1,0 +1,28 @@
+#ENTRY      C0233
+#AUTHOR1    G.M.Raisbeck+
+#YEAR       1972
+#INSTITUTE  (2FR CSN)
+#TITLE      CROSS SECTIONS FOR LI-6 AND LI-7 PRODUCTION FROM THE
+#+          BOMBARDMENT OF C-12 BY 150- AND 600-MEV PROTONS AND
+#+          880-MEV ALPHA PARTICLES
+#AUTHOR(S)  G.M.Raisbeck, J.Lestringuez, F.Yiou
+#REF-CODE   (J,PR/C,6,685,72)
+#REFERENCE  Phys.Rev.C 6 (1972) 685 (doi:10.1103/PhysRevC.6.685)
+#DATASETS   0
+#
+#DATASET    C02330031
+#DATE       19871116
+#REACTION   6-C-12(P,X)3-LI-7,,SIG
+#PROJ       1001
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1001  6012   3 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   3 454 D  1.5000+8          9.2000-3 1.6000-3            3007.9                     G.M.Raisbeck+        (72)C0233  31
+ 1001  6012   3 454 D  6.0000+8          0.013600 2.1000-3            3007.9                     G.M.Raisbeck+        (72)C0233  31
+#/DATA      2
+#/DATASET

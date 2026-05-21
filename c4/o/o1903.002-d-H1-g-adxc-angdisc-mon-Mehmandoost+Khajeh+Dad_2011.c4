@@ -1,0 +1,84 @@
+#ENTRY      O1903
+#AUTHOR1    A.A.Mehmandoost-Khajeh-Dad+
+#YEAR       2011
+#INSTITUTE  (3IRNTEH)
+#TITLE      Proton-deuteron radiative capture cross-sections at
+#+          intermediate energies.
+#AUTHOR(S)  A.A.Mehmandoost-Khajeh-Dad, M.Mahjour-Shafiei, H.R.Amir-Ahmadi, 
+#+          J.C.S.Bacelar, A.M.van den Berg, R.Castelijns, E.D.van Garderen, 
+#+          N.Kalantar-Nayestanaki, M.Kis, H.Loehner, J.G.Messchendorp, 
+#+          H.J.Woertche
+#REF-CODE   (J,EPJ/A,47,59,2011)
+#REFERENCE  Eur.Phys.J.A 47 (2011) 59 (doi:10.1140/epja/i2011-11059-6)
+#DATASETS   0
+#
+#DATASET    O1903002 
+#DATE       20110920
+#REACTION   1-H-1(D,G)2-HE-3,,DA
+#PROJ       1002
+#TARG       1001
+#MF         4
+#MT         102
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1001   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1001   4 102  C 1.8000+8          2.9500-7 1.5592-8 0.908114                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          3.5826-7 1.7671-8 0.834713                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          3.6019-7 1.8721-8 0.743285                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          3.6108-7 1.9750-8 0.631258                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          3.5356-7 1.9750-8 0.426758                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          3.3254-7 1.7676-8 0.202719                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          2.4712-7 1.2479-8 0.020506                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          1.9911-7 1.5929-8-0.163292                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          1.4483-7 1.1586-8-0.384666                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+#/DATA      9
+#/DATASET
+#
+#DATASET    O1903002 
+#DATE       20110920
+#REACTION   1-H-1(D,G)2-HE-3,,DA
+#PROJ       1002
+#TARG       1001
+#MF         4
+#MT         102
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1001   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1001   4 102  C 1.3300+8          1.9173-7 1.5338-8 0.905650                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.3300+8          2.8358-7 1.3427-8 0.820082                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.3300+8          3.7648-7 1.9620-8 0.717701                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.3300+8          5.2309-7 2.3757-8 0.600336                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.3300+8          5.3951-7 2.7887-8 0.400061                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.3300+8          4.6810-7 2.3760-8 0.159020                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.3300+8          3.7607-7 1.9628-8-0.019721                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.3300+8          2.7990-7 1.3429-8-0.212928                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.3300+8          1.8889-7 1.5112-8-0.407566                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+#/DATA      9
+#/DATASET
+#
+#DATASET    O1903002 
+#DATE       20110920
+#REACTION   1-H-1(D,G)2-HE-3,,DA
+#PROJ       1002
+#TARG       1001
+#MF         4
+#MT         102
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1001   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1001   4 102  C 1.1000+8          3.6993-7 7.2467-8 0.876660                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.1000+8          4.2784-7 4.2450-8 0.809939                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.1000+8          4.7848-7 4.2447-8 0.705488                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.1000+8          5.8295-7 5.1766-8 0.582265                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.1000+8          6.1911-7 5.9071-8 0.449257                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.1000+8          5.5692-7 4.4553-8 0.296675                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.1000+8          5.0197-7 3.9334-8 0.135992                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.1000+8          4.1803-7 3.7274-8-0.048710                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+#/DATA      8
+#/DATASET

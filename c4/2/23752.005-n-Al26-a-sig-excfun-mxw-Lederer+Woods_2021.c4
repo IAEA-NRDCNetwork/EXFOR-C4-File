@@ -1,0 +1,62 @@
+#ENTRY      23752
+#AUTHOR1    C.Lederer-Woods+
+#YEAR       2021
+#INSTITUTE  (2UK EDG)
+#TITLE      Destruction of the cosmic gamma-ray emitter 26Al in
+#+          massive stars: Study of the key 26Al(n,a) reaction
+#AUTHOR(S)  C.Lederer-Woods, P.J.Woods, T.Davinson, A.Estrade, J.Heyse, 
+#+          D.Kahl, S.J.Lonsdale, C.Paradela, P.Schillebeecx, O.Aberle, 
+#+          S.Amaducci, J.Andrzejewski, L.Audouin, M.Bacak, J.Balibrea, 
+#+          M.Barbagallo, F.Becvar, E.Berthoumieux, J.Billowes, D.Bosnar, 
+#+          A.Brown, M.Caamano, F.Calvino, M.Calviani, D.Cano-Ott, R.Cardella, 
+#+          A.Casanovas, F.Cerutti, Y.H.Chen, E.Chiaveri, N.Colonna, 
+#+          G.Cortes, M.A.Cortes-Giraldo, L.Cosentino, S.Cristallo, 
+#+          L.A.Damone, M.Diakaki, C.Domingo-Pardo, R.Dressler, E.Dupont, 
+#+          I.Duran, B.Fernandez-Dominguez, A.Ferrari, P.Ferreira, F.J.Ferrer, 
+#+          P.Finocchiaro, V.Furman, K.Goebel, A.R.Garcia, A.Gawlik, 
+#+          S.Gilardoni, T.Glodariu, I.F.Goncalves, E.Gonzalez-Romero, 
+#+          E.Griesmayer, C.Guerrero, F.Gunsing, H.Harada, S.Heinitz, 
+#+          D.G.Jenkins, E.Jericha, F.Kaeppeler, Y.Kadi, A.Kalamara, 
+#+          P.Kavrigin, A.Kimura, N.Kivel, M.Kokkoris, M.Krticka, D.Kurtulgil, 
+#+          E.Leal-Cidoncha, H.Leeb, J.Lerendegui-Marco, S.Lo Meo, D.Macina, 
+#+          A.Manna, J.Marganiec, T.Martinez, A.Masi, C.Massimi, P.Mastinu, 
+#+          M.Mastromarco, E.A.Maugeri, A.Mazzone, E.Mendoza, A.Mengoni, 
+#+          P.M.Milazzo, F.Mingrone, A.Musumarra, A.Negret, R.Nolte, 
+#+          A.Oprea, N.Patronis, A.Pavlik, J.Perkowski, I.Porras, J.Praena, 
+#+          J.M.Quesada, D.Radeck, T.Rauscher, R.Reifarth, C.Rubbia, 
+#+          J.A.Ryan, M.Sabate-Gilarte, A.Saxena, D.Schumann, P.Sedyshev, 
+#+          A.G.Smith, N.V.Sosnin, A.Stamatopoulos, G.Tagliente, J.L.Tain, 
+#+          A.Tarifeno-Saldivia, L.Tassan-Got, S.Valenta, G.Vannini, 
+#+          V.Variale, P.Vaz, A.Ventura, V.Vlachoudis, R.Vlastou, A.Wallner, 
+#+          S.Warren, C.Weiss, T.Wright, P.Zugec
+#REF-CODE   (J,PR/C,104,L032803,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) L032803 (doi:10.1103/PhysRevC.104.L032803)
+#DATASETS   0
+#
+#DATASET    23752005 
+#DATE       20220714
+#REACTION   13-AL-26(N,A)11-NA-23,,SIG,,MXW
+#PROJ       1
+#TARG       13026
+#MF         3
+#MT         107
+#PRODUCT    11-NA-23
+#C4BEGIN    [    1 13026   3 107 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13026   3 107 A  1000.000          0.072000 7.0000-3                                       C.Lederer-Woods+     (21)23752  5 
+    1 13026   3 107 A  5000.000          0.272000 0.026000                                       C.Lederer-Woods+     (21)23752  5 
+    1 13026   3 107 A  10000.00          0.154000 0.015000                                       C.Lederer-Woods+     (21)23752  5 
+    1 13026   3 107 A  15000.00          0.117000 0.012000                                       C.Lederer-Woods+     (21)23752  5 
+    1 13026   3 107 A  20000.00          0.099000 0.011000                                       C.Lederer-Woods+     (21)23752  5 
+    1 13026   3 107 A  25000.00          0.089000 0.011000                                       C.Lederer-Woods+     (21)23752  5 
+    1 13026   3 107 A  30000.00          0.083000 0.011000                                       C.Lederer-Woods+     (21)23752  5 
+    1 13026   3 107 A  35000.00          0.079000 0.011000                                       C.Lederer-Woods+     (21)23752  5 
+    1 13026   3 107 A  40000.00          0.076000 0.011000                                       C.Lederer-Woods+     (21)23752  5 
+    1 13026   3 107 A  45000.00          0.072000 0.011000                                       C.Lederer-Woods+     (21)23752  5 
+    1 13026   3 107 A  50000.00          0.069000 0.011000                                       C.Lederer-Woods+     (21)23752  5 
+    1 13026   3 107 A  60000.00          0.063000 0.010000                                       C.Lederer-Woods+     (21)23752  5 
+    1 13026   3 107 A  70000.00          0.056900 9.5000-3                                       C.Lederer-Woods+     (21)23752  5 
+#/DATA      13
+#/DATASET

@@ -1,0 +1,39 @@
+#ENTRY      E0928
+#AUTHOR1    K.Hosono+
+#YEAR       1984
+#INSTITUTE  (2JPNOSA)
+#TITLE      EXCITATION OF 0- STATES BY 16O(P,P)16O INELASTIC
+#+          SCATTERING
+#AUTHOR(S)  K.Hosono, M.Fujiwara, K.Hatanaka, H.Ikegami, M.Kondo, N.Matsuoka, 
+#+          T.Saito, S.Natsuki, K.Ogino, S.Kato
+#REF-CODE   (J,PR/C,30,746,84)
+#REFERENCE  Phys.Rev.C 30 (1984) 746 (doi:10.1103/PhysRevC.30.746)
+#DATASETS   0
+#
+#DATASET    E0928004 
+#DATE       19881025
+#REACTION   8-O-16(P,INL)8-O-16,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         601
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4 601  C 6.5000+7          7.0280-5 1.1600-5 0.985348          1.2797+7         LVLK.Hosono+            (84)E0928  4 
+ 1001  8016   4 601  C 6.5000+7          7.2390-5 5.7400-6 0.968622          1.2797+7         LVLK.Hosono+            (84)E0928  4 
+ 1001  8016   4 601  C 6.5000+7          5.1710-5 8.5200-6 0.948146          1.2797+7         LVLK.Hosono+            (84)E0928  4 
+ 1001  8016   4 601  C 6.5000+7          3.5290-5 2.8000-6 0.921328          1.2797+7         LVLK.Hosono+            (84)E0928  4 
+ 1001  8016   4 601  C 6.5000+7          3.5250-5          0.887430          1.2797+7         LVLK.Hosono+            (84)E0928  4 
+ 1001  8016   4 601  C 6.5000+7          3.0240-5          0.849856          1.2797+7         LVLK.Hosono+            (84)E0928  4 
+ 1001  8016   4 601  C 6.5000+7          1.5450-5 1.7400-6 0.816057          1.2797+7         LVLK.Hosono+            (84)E0928  4 
+ 1001  8016   4 601  C 6.5000+7          9.4720-6 1.2300-6 0.767635          1.2797+7         LVLK.Hosono+            (84)E0928  4 
+ 1001  8016   4 601  C 6.5000+7          4.4830-6 7.3900-7 0.719558          1.2797+7         LVLK.Hosono+            (84)E0928  4 
+ 1001  8016   4 601  C 6.5000+7          1.2440-6 4.4400-7 0.670724          1.2797+7         LVLK.Hosono+            (84)E0928  4 
+ 1001  8016   4 601  C 6.5000+7          1.2240-6 4.6200-7 0.615235          1.2797+7         LVLK.Hosono+            (84)E0928  4 
+ 1001  8016   4 601  C 6.5000+7          1.7110-6 5.0600-7 0.565327          1.2797+7         LVLK.Hosono+            (84)E0928  4 
+ 1001  8016   4 601  C 6.5000+7          1.9310-6 1.3100-6 0.497731          1.2797+7         LVLK.Hosono+            (84)E0928  4 
+#/DATA      13
+#/DATASET

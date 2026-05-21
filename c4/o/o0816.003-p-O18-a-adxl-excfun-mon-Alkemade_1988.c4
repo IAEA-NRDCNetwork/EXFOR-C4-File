@@ -1,0 +1,28 @@
+#ENTRY      O0816
+#AUTHOR1    P.F.A.Alkemade+
+#YEAR       1988
+#INSTITUTE  (2NEDUTR)
+#TITLE      Calibration of the Cross Section of the O-18(P,A)N-15
+#+          Nuclear Reaction at E(P)=1700-1775 KeV.
+#AUTHOR(S)  P.F.A.Alkemade, C.A.M.Stap, F.H.P.M.Habraken, W.F.Van Der Weg
+#REF-CODE   (J,NIM/B,35,135,1988)
+#REFERENCE  Nucl.Instrum.Meth.B 35 (1988) 135 (doi:10.1016/0168-583X(88)90484-3)
+#DATASETS   0
+#
+#DATASET    O0816003 
+#DATE       20010323
+#REACTION   8-O-18(P,A)7-N-15,,DA
+#PROJ       1001
+#TARG       8018
+#MF         4
+#MT         107
+#PRODUCT    7-N-15
+#C4BEGIN    [ 1001  8018   4 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8018   4 107    1746000.          0.043000 1.5000-3-0.906308 1.8440-3                     P.F.A.Alkemade+      (88)O0816  3 
+ 1001  8018   4 107    1756000.          0.048000 1.5000-3-0.906308 1.8440-3                     P.F.A.Alkemade+      (88)O0816  3 
+ 1001  8018   4 107    1756000.          0.046000 1.8000-3-0.906308 1.8440-3                     P.F.A.Alkemade+      (88)O0816  3 
+#/DATA      3
+#/DATASET

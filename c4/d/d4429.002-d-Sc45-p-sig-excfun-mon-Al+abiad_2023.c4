@@ -1,0 +1,34 @@
+#ENTRY      D4429
+#AUTHOR1    M.Al-abiad+
+#YEAR       2023
+#INSTITUTE  (3EGYCAI)
+#TITLE      Deuteron and a-particle-induced nuclear reactions on
+#+          45Sc: activation cross section measurement and thick
+#+          target yield evaluation
+#AUTHOR(S)  M.Al-abiad, H.R.Hassan, A.H.M.Solieman, F.Ditroi, Z.A.Saleh
+#REF-CODE   (J,IJP,97,2787,2023)
+#REFERENCE  Indian J.Phys. 97 (2023) 2787 (doi:10.1007/s12648-022-02574-y)
+#DATASETS   0
+#
+#DATASET    D4429002 
+#DATE       20240124
+#REACTION   21-SC-45(D,P)21-SC-46,,SIG
+#PROJ       1002
+#TARG       21045
+#MF         3
+#MT         103
+#PRODUCT    21-SC-46
+#C4BEGIN    [ 1002 21045   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 21045   3 103    2400000.          0.010100 1.8000-3                                       M.Al-abiad+          (23)D4429  2 
+ 1002 21045   3 103    3500000.          0.200400 0.028500                                       M.Al-abiad+          (23)D4429  2 
+ 1002 21045   3 103    4500000.          0.343100 0.036500                                       M.Al-abiad+          (23)D4429  2 
+ 1002 21045   3 103    4800000.          0.402600 0.042400                                       M.Al-abiad+          (23)D4429  2 
+ 1002 21045   3 103    6400000.          0.368200 0.039400                                       M.Al-abiad+          (23)D4429  2 
+ 1002 21045   3 103    6900000.          0.310400 0.033200                                       M.Al-abiad+          (23)D4429  2 
+ 1002 21045   3 103    7800000.          0.279500 0.029900                                       M.Al-abiad+          (23)D4429  2 
+ 1002 21045   3 103    8500000.          0.236200 0.026400                                       M.Al-abiad+          (23)D4429  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      C0236
+#AUTHOR1    I.Dostrovsky+
+#YEAR       1965
+#INSTITUTE  (1USABNL)
+#TITLE      Cross Sections for the Production of Li9, C16, and
+#+          N17 in Irradiations with GeV-Energy Protons
+#AUTHOR(S)  I.Dostrovsky, R.Davis Jr, A.M.Poskanzer, P.L.Reeder
+#REF-CODE   (J,PR,139,B1513,1965)
+#REFERENCE  Phys.Rev. 139 (1965) B1513 (doi:10.1103/PhysRev.139.B1513)
+#DATASETS   0
+#
+#DATASET    C02360141
+#DATE       20211005
+#REACTION   41-NB-93(P,X)3-LI-9,,SIG
+#PROJ       1001
+#TARG       41093
+#MF         3
+#MT         454
+#PRODUCT    3-LI-9
+#C4BEGIN    [ 1001 41093   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 41093   3 454    2.8000+9          8.1400-4                     3009.9                     I.Dostrovsky+        (65)C0236 141
+#/DATA      1
+#/DATASET

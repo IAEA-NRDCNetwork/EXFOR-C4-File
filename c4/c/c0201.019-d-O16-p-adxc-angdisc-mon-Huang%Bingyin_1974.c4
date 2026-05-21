@@ -1,0 +1,45 @@
+#ENTRY      C0201
+#AUTHOR1    Huang Bingyin+
+#YEAR       1974
+#INSTITUTE  (3CPRAEP)
+#TITLE      Nuclear reactions induced by 3.70 MeV deuteron beam
+#+          on Li-6,li-7,C-12 and O-16 nuclei.
+#AUTHOR(S)  Huang Bingyin, Sun Zuxun, Zhuang Youxiang, Zhang Peihua, 
+#+          Wang Xinlin, Wang Zhifu, Yuan Jian, Yuan Rongfang
+#REF-CODE   (C,74SHANGH,,89,1974)
+#REFERENCE  Proceedings of Conf.on Nucl.Physics,Shanghai 1974 page 89
+#DATASETS   0
+#
+#DATASET    C0201019 
+#DATE       20181008
+#REACTION   8-O-16(D,P)8-O-17,PAR,DA
+#PROJ       1002
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    8-O-17
+#C4BEGIN    [ 1002  8016   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8016   4 600 AC 3700000. 60000.00 0.087030 1.6884-3 0.960779          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 0.057867 2.8304-3 0.930418          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 0.024804 1.5308-3 0.892586          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 0.013200 1.6400-3 0.847122          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 7.9044-3 3.2010-4 0.793353          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 3.7581-3 1.2450-4 0.733730          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 3.6170-3 1.6980-4 0.669131          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 9.0863-3 1.8070-4 0.597625          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 0.012447 3.0780-4 0.522499          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 0.014431 2.7460-4 0.443071          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 0.011946 6.6000-4 0.275637          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 7.3675-3 1.8440-4 0.101056          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 4.2981-3 9.5700-5-0.074979          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 2.7287-3 1.7160-4-0.245307          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 3.9395-3 7.0900-5-0.406737          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 3.9139-3 3.1620-4-0.554844          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 3.4760-3 8.6800-5-0.685818          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 3.8173-3 1.0540-4-0.795473          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+ 1002  8016   4 600 AC 3700000. 60000.00 3.8543-3 1.1200-4-0.883766          871000.0         LVLHuang Bingyin+       (74)C0201 19 
+#/DATA      19
+#/DATASET

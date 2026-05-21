@@ -1,0 +1,39 @@
+#ENTRY      D4434
+#AUTHOR1    F.Ditroi+
+#YEAR       2024
+#INSTITUTE  (3HUNDEB)
+#TITLE      Production of 45Ti radioisotope by proton irradiation
+#+          of natural scandium
+#AUTHOR(S)  F.Ditroi, S.Takacs, M.Aikawa, D.Gantumur, H.Huang, S.Goto, 
+#+          H.Haba, Z.Szucs, F.Tarkanyi
+#REF-CODE   (J,RPC,218,111572,2024)
+#REFERENCE  Radiat.Phys.Chem. 218 (2024) 111572 (doi:10.1016/j.radphyschem.2024.111572)
+#DATASETS   0
+#
+#DATASET    D4434002 
+#DATE       20250330
+#REACTION   21-SC-45(P,N)22-TI-45,,SIG
+#PROJ       1001
+#TARG       21045
+#MF         3
+#MT         4
+#PRODUCT    22-TI-45
+#C4BEGIN    [ 1001 21045   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 21045   3   4    2900000. 500000.0 0.043400 6.1000-3                                       F.Ditroi+            (24)D4434  2 
+ 1001 21045   3   4    4900000. 400000.0 0.199800 0.026200                                       F.Ditroi+            (24)D4434  2 
+ 1001 21045   3   4    6300000. 400000.0 0.266200 0.037500                                       F.Ditroi+            (24)D4434  2 
+ 1001 21045   3   4    6900000. 500000.0 0.309400 0.054400                                       F.Ditroi+            (24)D4434  2 
+ 1001 21045   3   4    8700000. 400000.0 0.333500 0.045000                                       F.Ditroi+            (24)D4434  2 
+ 1001 21045   3   4    9300000. 400000.0 0.434900 0.073200                                       F.Ditroi+            (24)D4434  2 
+ 1001 21045   3   4    9700000. 400000.0 0.336800 0.045700                                       F.Ditroi+            (24)D4434  2 
+ 1001 21045   3   4    1.1200+7 400000.0 0.365200 0.071700                                       F.Ditroi+            (24)D4434  2 
+ 1001 21045   3   4    1.3000+7 300000.0 0.338800 0.080500                                       F.Ditroi+            (24)D4434  2 
+ 1001 21045   3   4    1.3000+7 300000.0 0.356600 0.098200                                       F.Ditroi+            (24)D4434  2 
+ 1001 21045   3   4    1.3800+7 300000.0 0.328100 0.051600                                       F.Ditroi+            (24)D4434  2 
+ 1001 21045   3   4    1.4500+7 300000.0 0.265700 0.052900                                       F.Ditroi+            (24)D4434  2 
+ 1001 21045   3   4    1.6000+7 200000.0 0.147400 0.072100                                       F.Ditroi+            (24)D4434  2 
+#/DATA      13
+#/DATASET

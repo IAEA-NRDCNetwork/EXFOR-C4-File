@@ -1,0 +1,28 @@
+#ENTRY      32654
+#AUTHOR1    Guozhu He+
+#YEAR       2006
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Cross-section measurements for (n,2n),(n,p) and (n,a)
+#+          reactions on strontium at the neutron energy about
+#+          14MeV
+#AUTHOR(S)  Guozhu He, Junhua Luo, Zhongjie Liu, Xiangzhong Kong
+#REF-CODE   (J,ANE,33,37,2006)
+#REFERENCE  Ann.Nucl.Energy 33 (2006) 37 (doi:10.1016/j.anucene.2005.09.001)
+#DATASETS   0
+#
+#DATASET    32654004 
+#DATE       20080808
+#REACTION   38-SR-86(N,2N)38-SR-85,,SIG
+#PROJ       1
+#TARG       38086
+#MF         3
+#MT         16
+#PRODUCT    38-SR-85
+#C4BEGIN    [    1 38086   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 38086   3  16 A  1.4100+7 200000.0 0.892000 0.053000                                       Guozhu He+           (06)32654  4 
+    1 38086   3  16 A  1.4600+7 300000.0 0.955000 0.057000                                       Guozhu He+           (06)32654  4 
+#/DATA      2
+#/DATASET

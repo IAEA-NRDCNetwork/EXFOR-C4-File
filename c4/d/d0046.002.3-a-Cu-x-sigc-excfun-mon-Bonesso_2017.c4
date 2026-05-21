@@ -1,0 +1,31 @@
+#ENTRY      D0046
+#AUTHOR1    O.Bonesso+
+#YEAR       2017
+#INSTITUTE  (3ARGCNE)
+#TITLE      Cross-sections and thick target yields of
+#+          alpha-induced reactions
+#AUTHOR(S)  O.Bonesso, O.A.Capurro, M.J.Ozafran, M.J.Tavelli, M.de la Vega Vedoya, 
+#+          C.Wasilevsky, S.J.Nassiff
+#REF-CODE   (R,INDC(ARG)-14,2017)
+#REFERENCE  Report INDC(ARG)-14, 2017
+#DATASETS   0
+#
+#DATASET    D00460023
+#DATE       20170217
+#REACTION   29-CU-0(A,X)30-ZN-63,CUM,SIG,,DAM
+#PROJ       2004
+#TARG       29000
+#MF         3
+#MT         459
+#PRODUCT    30-ZN-63
+#C4BEGIN    [ 2004 29000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 29000   3 459    3.5980+7          0.013535 6.6088-3           30063.9                     O.Bonesso+           (17)D0046  23
+ 2004 29000   3 459    3.7720+7          0.016268 0.012646           30063.9                     O.Bonesso+           (17)D0046  23
+ 2004 29000   3 459    4.1760+7          0.014552 8.3881-3           30063.9                     O.Bonesso+           (17)D0046  23
+ 2004 29000   3 459    4.6000+7          0.016522 7.9433-3           30063.9                     O.Bonesso+           (17)D0046  23
+ 2004 29000   3 459    5.0020+7          8.8964-3 8.3245-3           30063.9                     O.Bonesso+           (17)D0046  23
+#/DATA      5
+#/DATASET

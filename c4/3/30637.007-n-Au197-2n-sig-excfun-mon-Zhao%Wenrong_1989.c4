@@ -1,0 +1,32 @@
+#ENTRY      30637
+#AUTHOR1    Zhao Wenrong+
+#YEAR       1989
+#INSTITUTE  (3CPRAEP)
+#TITLE      Compilation of measurements and evaluations of nuclear
+#+          activation cross sections for nuclear data application
+#AUTHOR(S)  Zhao Wenrong, Lu Hanlin, Yu Weixiang, Yuan Xialin
+#REF-CODE   (R,INDC(CPR)-16,1989)
+#REFERENCE  Report INDC(CPR)-16, 1989
+#DATASETS   0
+#
+#DATASET    30637007 
+#DATE       20201225
+#REACTION   79-AU-197(N,2N)79-AU-196,,SIG
+#PROJ       1
+#TARG       79197
+#MF         3
+#MT         16
+#PRODUCT    79-AU-196
+#C4BEGIN    [    1 79197   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   3  16    1.2780+7          2.075000 0.118000                                       Zhao Wenrong+        (89)30637  7 
+    1 79197   3  16    1.3680+7          2.127000 0.120000                                       Zhao Wenrong+        (89)30637  7 
+    1 79197   3  16    1.4600+7          2.129000 0.095000                                       Zhao Wenrong+        (89)30637  7 
+    1 79197   3  16    1.6050+7          2.059000 0.116000                                       Zhao Wenrong+        (89)30637  7 
+    1 79197   3  16    1.7180+7          1.925000 0.110000                                       Zhao Wenrong+        (89)30637  7 
+    1 79197   3  16    1.7970+7          1.640000 0.093000                                       Zhao Wenrong+        (89)30637  7 
+    1 79197   3  16    1.8230+7          1.589000 0.050000                                       Zhao Wenrong+        (89)30637  7 
+#/DATA      7
+#/DATASET

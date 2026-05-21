@@ -1,0 +1,32 @@
+#ENTRY      O2096
+#AUTHOR1    G.W.Greenless+
+#YEAR       1956
+#INSTITUTE  (2UK BIR)
+#TITLE      The scattering of 9.6 MeV protons by Mg.
+#AUTHOR(S)  G.W.Greenless, A.E.Souch
+#REF-CODE   (J,PPS/A,69,686,1956)
+#REFERENCE  Proc.Phys.Soc.(UK) A 69 (1956) 686 (doi:10.1088/0370-1298/69/9/304)
+#DATASETS   0
+#
+#DATASET    O2096005 
+#DATE       20121021
+#REACTION   12-MG-24(P,INL)12-MG-24,PAR,DA
+#PROJ       1001
+#TARG       12024
+#MF         4
+#MT         601
+#PRODUCT    12-MG-24
+#C4BEGIN    [ 1001 12024   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12024   4 601  C 9630000.          7.4890-3 2.2467-4 0.851178          5240000.         LVLG.W.Greenless+       (56)O2096  5 
+ 1001 12024   4 601  C 9630000.          6.3180-3 1.8954-4 0.633381          5240000.         LVLG.W.Greenless+       (56)O2096  5 
+ 1001 12024   4 601  C 9630000.          8.1640-3 2.4492-4 0.352658          5240000.         LVLG.W.Greenless+       (56)O2096  5 
+ 1001 12024   4 601  C 9630000.          8.3230-3 2.4969-4 0.046932          5240000.         LVLG.W.Greenless+       (56)O2096  5 
+ 1001 12024   4 601  C 9630000.          7.6840-3 2.3052-4-0.268247          5240000.         LVLG.W.Greenless+       (56)O2096  5 
+ 1001 12024   4 601  C 9630000.          7.2220-3 2.1666-4-0.552810          5240000.         LVLG.W.Greenless+       (56)O2096  5 
+ 1001 12024   4 601  C 9630000.          6.8470-3 2.0541-4-0.771958          5240000.         LVLG.W.Greenless+       (56)O2096  5 
+ 1001 12024   4 601  C 9630000.          7.0410-3 2.1123-4-0.888377          5240000.         LVLG.W.Greenless+       (56)O2096  5 
+#/DATA      8
+#/DATASET

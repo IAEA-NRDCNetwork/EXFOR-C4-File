@@ -1,0 +1,30 @@
+#ENTRY      21673
+#AUTHOR1    R.A.Jarjis+
+#YEAR       1978
+#INSTITUTE  (2UK BIA)
+#TITLE      -Measurements of Cu-63(N,2N)Cu-62 and Al-27(N,P)mg-27
+#+          cross sections for 12.9 to 15.9 MeV neutrons -.
+#AUTHOR(S)  R.A.Jarjis
+#REF-CODE   (J,JP/G,4,(3),445,1978)
+#REFERENCE  J.Phys.G 4 No.3 (1978) 445 (doi:10.1088/0305-4616/4/3/018)
+#DATASETS   0
+#
+#DATASET    21673002 
+#DATE       19801104
+#REACTION   13-AL-27(N,P)12-MG-27,,SIG
+#PROJ       1
+#TARG       13027
+#MF         3
+#MT         103
+#PRODUCT    12-MG-27
+#C4BEGIN    [    1 13027   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   3 103    1.2930+7 110000.0 0.112800 5.9000-3                                       R.A.Jarjis           (78)21673  2 
+    1 13027   3 103    1.3260+7 120000.0 0.108700 5.2000-3                                       R.A.Jarjis           (78)21673  2 
+    1 13027   3 103    1.5320+7 230000.0 0.091700 4.4000-3                                       R.A.Jarjis           (78)21673  2 
+    1 13027   3 103    1.5540+7 220000.0 0.089100 4.4000-3                                       R.A.Jarjis           (78)21673  2 
+    1 13027   3 103    1.5960+7 250000.0 0.087200 4.4000-3                                       R.A.Jarjis           (78)21673  2 
+#/DATA      5
+#/DATASET

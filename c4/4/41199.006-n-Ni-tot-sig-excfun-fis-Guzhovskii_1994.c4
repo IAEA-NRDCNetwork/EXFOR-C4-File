@@ -1,0 +1,28 @@
+#ENTRY      41199
+#AUTHOR1    B.Ya.Guzhovskii+
+#YEAR       1994
+#INSTITUTE  (4RUSEPA)
+#TITLE      The precise measurements of integral (over spectrum
+#+          of Cf-252) total neutron cross-sections and
+#+          transmission coefficients for the testing of
+#+          differential total cross-section
+#AUTHOR(S)  B.Ya.Guzhovskii, A.N.Grebennikov, V.P.Gorelov, G.G.Farafontov, 
+#+          V.S.Rudnev
+#REF-CODE   (C,94GATLIN,,254,1994)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 page 254
+#DATASETS   0
+#
+#DATASET    41199006 
+#DATE       20240916
+#REACTION   28-NI-0(N,TOT),,SIG,,FIS
+#PROJ       1
+#TARG       28000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 28000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28000   3   1    1420000.          3.494000 0.012000                                       B.Ya.Guzhovskii+     (94)41199  6 
+#/DATA      1
+#/DATASET

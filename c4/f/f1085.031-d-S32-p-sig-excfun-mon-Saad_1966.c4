@@ -1,0 +1,34 @@
+#ENTRY      F1085
+#AUTHOR1    H.R.Saad+
+#YEAR       1966
+#INSTITUTE  (3EGYCAI)
+#TITLE      Investigation of the reaction S-32(d,p)S-33 in the
+#+          deuteron energy range 1.5-2.5 MeV.
+#AUTHOR(S)  H.R.Saad, Z.A.Saleh, N.A.Mansour, E.M.Sayed, I.I.Zaloubovsky
+#REF-CODE   (J,NP,84,629,1966)
+#REFERENCE  Nucl.Phys. 84 (1966) 629 (doi:10.1016/0029-5582(66)91020-0)
+#DATASETS   0
+#
+#DATASET    F1085031 
+#DATE       20100921
+#REACTION   16-S-32(D,P)16-S-33,PAR,SIG
+#PROJ       1002
+#TARG       16032
+#MF         3
+#MT         600
+#PRODUCT    16-S-33
+#C4BEGIN    [ 1002 16032   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 16032   3 600    1699500.          6.8526-4                            0.000000         LVLH.R.Saad+            (66)F1085 31 
+ 1002 16032   3 600    1801000.          1.9666-3                            0.000000         LVLH.R.Saad+            (66)F1085 31 
+ 1002 16032   3 600    1900700.          1.3957-3                            0.000000         LVLH.R.Saad+            (66)F1085 31 
+ 1002 16032   3 600    2000300.          1.2977-3                            0.000000         LVLH.R.Saad+            (66)F1085 31 
+ 1002 16032   3 600    2101000.          2.0864-3                            0.000000         LVLH.R.Saad+            (66)F1085 31 
+ 1002 16032   3 600    2201500.          2.9737-3                            0.000000         LVLH.R.Saad+            (66)F1085 31 
+ 1002 16032   3 600    2299200.          3.0136-3                            0.000000         LVLH.R.Saad+            (66)F1085 31 
+ 1002 16032   3 600    2404700.          4.0585-3                            0.000000         LVLH.R.Saad+            (66)F1085 31 
+ 1002 16032   3 600    2502200.          6.2856-3                            0.000000         LVLH.R.Saad+            (66)F1085 31 
+#/DATA      9
+#/DATASET

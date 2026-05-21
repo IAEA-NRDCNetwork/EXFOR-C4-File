@@ -1,0 +1,51 @@
+#ENTRY      K2759
+#AUTHOR1    A.C.Larsen+
+#YEAR       2023
+#INSTITUTE  (2NOROSL)
+#TITLE      New experimental constraint on the 185W(n, gamma)186W
+#+          cross section
+#AUTHOR(S)  A.C.Larsen, G.M.Tveten, T.Renstrom, H.Utsunomiya, E.Algin, 
+#+          T.Ari-izumi, K.O.Ay, F.L.Bello Garrote, L.Crespo Campo, 
+#+          F.Furmyr, S.Goriely, A.Gorgen, M.Guttormsen, V.W.Ingeberg, 
+#+          B.V.Kheswa, I.K.B.Kullmann, T.Laplace, E.Lima, M.Markova, 
+#+          J.E.Midtbo, S.Miyamoto, A.H.Mjos, V.Modamio, M.Ozgur, F.Pogliano, 
+#+          S.Riemer-Sorensen, E.Sahin, S.Shen, S.Siem, A.Spyrou, M.Wiedeking
+#REF-CODE   (J,PR/C,108,025804,2023)
+#REFERENCE  Phys.Rev.C 108 (2023) 025804 (doi:10.1103/PhysRevC.108.025804)
+#DATASETS   0
+#
+#DATASET    K2759004 
+#DATE       20250824
+#REACTION   74-W-184(G,N)74-W-183,,SIG
+#PROJ       0
+#TARG       74184
+#MF         3
+#MT         4
+#PRODUCT    74-W-183
+#C4BEGIN    [    0 74184   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 74184   3   4    7490000.          0.021840 3.9200-3                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    7750000.          0.024010 2.6100-3                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    7980000.          0.024870 3.9200-3                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    8260000.          0.032250 4.7900-3                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    8490000.          0.038770 4.7900-3                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    8740000.          0.036580 4.7900-3                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    9230000.          0.053540 3.0500-3                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    9490000.          0.056570 2.6100-3                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    9740000.          0.067010 4.3500-3                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    9990000.          0.081800 3.9200-3                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    1.0240+7          0.092240 4.3500-3                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    1.0470+7          0.108300 3.4800-3                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    1.0750+7          0.139200 6.0900-3                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    1.1260+7          0.191000 7.4000-3                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    1.1520+7          0.236700 0.012190                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    1.1710+7          0.258500 0.011750                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    1.1980+7          0.321600 0.013490                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    1.2270+7          0.369900 0.018280                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    1.2370+7          0.386400 0.016540                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    1.2480+7          0.448700 0.019590                                       A.C.Larsen+          (23)K2759  4 
+    0 74184   3   4    1.2760+7          0.396000 0.017850                                       A.C.Larsen+          (23)K2759  4 
+#/DATA      21
+#/DATASET

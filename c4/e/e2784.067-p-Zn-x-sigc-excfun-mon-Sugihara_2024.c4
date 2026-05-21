@@ -1,0 +1,28 @@
+#ENTRY      E2784
+#AUTHOR1    K.Sugihara+
+#YEAR       2024
+#INSTITUTE  (2JPNKEK)
+#TITLE      Measurement of nuclide production cross sections for
+#+          GeV-region proton-induced reactions on natMg, natSi,
+#+          natFe, natCu, and natZn
+#AUTHOR(S)  K.Sugihara, S.Meigo, H.Iwamoto, F.Maekawa
+#REF-CODE   (J,NIM/B,549,165299,2024)
+#REFERENCE  Nucl.Instrum.Meth.B 549 (2024) 165299 (doi:10.1016/j.nimb.2024.165299)
+#DATASETS   0
+#
+#DATASET    E2784067 
+#DATE       20241228
+#REACTION   30-ZN-0(P,X)26-FE-52-G,CUM,SIG
+#PROJ       1001
+#TARG       30000
+#MF         3
+#MT         459
+#PRODUCT    26-FE-52-G
+#C4BEGIN    [ 1001 30000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30000   3 459    1.3000+9          2.9300-4 1.4000-5           26052.0                     K.Sugihara+          (24)E2784 67 
+ 1001 30000   3 459    2.2000+9          2.6100-4 1.4000-5           26052.0                     K.Sugihara+          (24)E2784 67 
+#/DATA      2
+#/DATASET

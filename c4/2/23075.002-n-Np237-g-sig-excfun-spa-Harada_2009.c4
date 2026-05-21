@@ -1,0 +1,27 @@
+#ENTRY      23075
+#AUTHOR1    H.Harada+
+#YEAR       2009
+#INSTITUTE  (2JPNJAE)
+#TITLE      Measurements of neutron capture cross section of 237Np
+#+          for fast neutrons
+#AUTHOR(S)  H.Harada, S.Nakamura, Y.Hatsukawa, Y.Toh, A.Kimura, Y.Ishiwatari, 
+#+          A.Yasumi, Y.Mabuchi, T.Nakagawa, K.Okamura, I.Saitoh, Y.Oka
+#REF-CODE   (J,NST,46,460,2009)
+#REFERENCE  J.Nucl.Sci.Technol. 46 (2009) 460 (doi:10.1080/18811248.2007.9711553)
+#DATASETS   0
+#
+#DATASET    23075002 
+#DATE       20131018
+#REACTION   93-NP-237(N,G)93-NP-238,,SIG,,SPA
+#PROJ       1
+#TARG       93237
+#MF         3
+#MT         102
+#PRODUCT    93-NP-238
+#C4BEGIN    [    1 93237   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   3 102 C  182000.0 8000.000 0.900000 0.050000                                       H.Harada+            (09)23075  2 
+#/DATA      1
+#/DATASET

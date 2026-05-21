@@ -1,0 +1,32 @@
+#ENTRY      F0088
+#AUTHOR1    L.Zybert+
+#YEAR       1990
+#INSTITUTE  (2UK BIR)
+#TITLE      Deep proton-hole states in 147Pr, 151Pm and 155Eu.
+#AUTHOR(S)  L.Zybert, J.B.A.England, G.M.Field, O.Karban, R.Zybert, 
+#+          M.Becha, C.N.Pinder, G.C.Morrison, M.Bentley, P.Fallon, 
+#+          R.Moktah, J.W.Roberts, J.F.Sharpey-Schafer
+#REF-CODE   (J,NP/A,510,441,1990)
+#REFERENCE  Nucl.Phys.A 510 (1990) 441 (doi:10.1016/0375-9474(90)90061-P)
+#DATASETS   0
+#
+#DATASET    F0088003 
+#DATE       20210531
+#REACTION   62-SM-152(T,A)61-PM-151,PAR,DA
+#PROJ       1003
+#TARG       62152
+#MF         4
+#MT         800
+#PRODUCT    61-PM-151
+#C4BEGIN    [ 1003 62152   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 62152   4 800    3.5320+7          1.1050-3          0.979045 2.1325-3 115000.0 115000.0LVLL.Zybert+            (90)F0088  3 
+ 1003 62152   4 800    3.5320+7          2.5880-3          0.979045 2.1325-3 355000.0 125000.0LVLL.Zybert+            (90)F0088  3 
+ 1003 62152   4 800    3.5320+7          2.0690-3          0.979045 2.1325-3 640000.0 160000.0LVLL.Zybert+            (90)F0088  3 
+ 1003 62152   4 800    3.5320+7          1.3690-3          0.979045 2.1325-3 1000000. 200000.0LVLL.Zybert+            (90)F0088  3 
+ 1003 62152   4 800    3.5320+7          1.0930-3          0.979045 2.1325-3 1500000. 300000.0LVLL.Zybert+            (90)F0088  3 
+ 1003 62152   4 800    3.5320+7          0.014703 1.9570-3 0.979045 2.1325-3 5900000. 4100000.LVLL.Zybert+            (90)F0088  3 
+#/DATA      6
+#/DATASET

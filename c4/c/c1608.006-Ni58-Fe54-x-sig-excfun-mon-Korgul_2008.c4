@@ -1,0 +1,30 @@
+#ENTRY      C1608
+#AUTHOR1    A.Korgul+
+#YEAR       2008
+#INSTITUTE  (1USAORL)
+#TITLE      Toward 100Sn: Studies of excitation functions for
+#+          the reaction between 58Ni and 54Fe ions
+#AUTHOR(S)  A.Korgul, K.P.Rykaczewski, C.J.Gross, R.K.Grzywacz, S.N.Liddick, 
+#+          C.Mazzocchi, J.C.Batchelder, C.R.Bingham, I.G.Darby, C.Goodin, 
+#+          J.H.Hamilton, J.K.Hwang, S.V.Ilyushkin, W.Krolas, J.A.Winger
+#REF-CODE   (J,PR/C,77,034301,2008)
+#REFERENCE  Phys.Rev.C 77 (2008) 034301 (doi:10.1103/PhysRevC.77.034301)
+#DATASETS   0
+#
+#DATASET    C1608006 
+#DATE       20080403
+#REACTION   26-FE-54(28-NI-58,X)54-XE-109,,SIG
+#PROJ       28058
+#TARG       26054
+#MF         3
+#MT         454
+#PRODUCT    54-XE-109
+#C4BEGIN    [28058 26054   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+28058 26054   3 454    2.0470+8          7.4190-9 1.8620-9           54109.9                     A.Korgul+            (08)C1608  6 
+28058 26054   3 454    2.1480+8          1.0800-8 3.1660-9           54109.9                     A.Korgul+            (08)C1608  6 
+28058 26054   3 454    2.1980+8          7.2080-9 1.9630-9           54109.9                     A.Korgul+            (08)C1608  6 
+#/DATA      3
+#/DATASET

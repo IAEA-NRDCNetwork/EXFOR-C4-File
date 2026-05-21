@@ -1,0 +1,26 @@
+#ENTRY      40848
+#AUTHOR1    E.I.Grigor'ev+
+#YEAR       1983
+#INSTITUTE  (4RUSFRT)
+#TITLE      Measurement of the neutron threshold reactions
+#+          cross-sections for U-235 fission neutrons
+#AUTHOR(S)  E.I.Grigor'ev, G.B.Tarnovskiy, V.P.Yaryna
+#REF-CODE   (R,INDC(CCP)-235,(3),187,1983)
+#REFERENCE  Report INDC(CCP)-235 Vol.(3) page 187, 1983
+#DATASETS   0
+#
+#DATASET    40848004 
+#DATE       20231226
+#REACTION   49-IN-115(N,INL)49-IN-115,,SIG,,FIS
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         4
+#PRODUCT    49-IN-115
+#C4BEGIN    [    1 49115   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3   4    1000000.          0.188000 6.2040-3                                       E.I.Grigor'ev+       (83)40848  4 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      10440
+#AUTHOR1    T.H.Kao+
+#YEAR       1975
+#INSTITUTE  (1USAAUB)
+#TITLE      ISOMERIC CROSS SECTIONS FOR THE (N,2N) REACTION ON
+#+          82-SE, 81-BR AND 45-SC AT 15.1 MEV
+#AUTHOR(S)  T.H.Kao, W.L.Alford
+#REF-CODE   (J,NP/A,237,11,197501)
+#REFERENCE  Nucl.Phys.A 237 (1975) 11 (doi:10.1016/0375-9474(75)90459-5)
+#DATASETS   0
+#
+#DATASET    10440009 
+#DATE       19830608
+#REACTION   35-BR-81(N,2N)35-BR-80,,SIG
+#PROJ       1
+#TARG       35081
+#MF         3
+#MT         16
+#PRODUCT    35-BR-80
+#C4BEGIN    [    1 35081   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 35081   3  16 A  1.5100+7 300000.0 1.100000 0.056000                                       T.H.Kao+             (75)10440  9 
+#/DATA      1
+#/DATASET

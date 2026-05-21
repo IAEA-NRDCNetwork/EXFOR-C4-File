@@ -1,0 +1,35 @@
+#ENTRY      40761
+#AUTHOR1    V.I.Strizhak+
+#YEAR       1960
+#INSTITUTE  (4UKRIFU)
+#TITLE      Neutron angular distribution at the energy 2.9 MeV
+#+          elastically scattered by the atomic nuclei
+#AUTHOR(S)  V.I.Strizhak, A.A.Kozar, N.S.Nazarov
+#REF-CODE   (J,UFZ,5,(5),704,1960)
+#REFERENCE  Ukr.Fiz.Zh. 5 No.5 (1960) 704
+#DATASETS   0
+#
+#DATASET    40761004 
+#DATE       20160528
+#REACTION   42-MO-0(N,EL)42-MO-0,,DA
+#PROJ       1
+#TARG       42000
+#MF         4
+#MT         2
+#PRODUCT    42-MO-0
+#C4BEGIN    [    1 42000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42000   4   2  C 2900000.          0.726200          0.904400                              V.I.Strizhak+        (60)40761  4 
+    1 42000   4   2  C 2900000.          0.452800          0.761700                              V.I.Strizhak+        (60)40761  4 
+    1 42000   4   2  C 2900000.          0.344900          0.701900                              V.I.Strizhak+        (60)40761  4 
+    1 42000   4   2  C 2900000.          0.217100          0.636700                              V.I.Strizhak+        (60)40761  4 
+    1 42000   4   2  C 2900000.          0.128700          0.492200                              V.I.Strizhak+        (60)40761  4 
+    1 42000   4   2  C 2900000.          0.169100          0.249100                              V.I.Strizhak+        (60)40761  4 
+    1 42000   4   2  C 2900000.          0.100000         -0.010400                              V.I.Strizhak+        (60)40761  4 
+    1 42000   4   2  C 2900000.          0.095690         -0.351200                              V.I.Strizhak+        (60)40761  4 
+    1 42000   4   2  C 2900000.          0.096540         -0.770300                              V.I.Strizhak+        (60)40761  4 
+    1 42000   4   2  C 2900000.          0.142600         -0.868600                              V.I.Strizhak+        (60)40761  4 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      31246
+#AUTHOR1    H.S.Hans+
+#YEAR       1960
+#INSTITUTE  (3INDMUA)
+#TITLE      Thermal neutron cross sections for producing
+#+          isomers (II).
+#AUTHOR(S)  H.S.Hans, M.L.Sehgal, P.S.Gill
+#REF-CODE   (J,NP,20,183,1960)
+#REFERENCE  Nucl.Phys. 20 (1960) 183 (doi:10.1016/0029-5582(60)90168-1)
+#DATASETS   0
+#
+#DATASET    31246005 
+#DATE       20090925
+#REACTION   38-SR-84(N,G)38-SR-85-M,,SIG,,MXW
+#PROJ       1
+#TARG       38084
+#MF         3
+#MT         102
+#PRODUCT    38-SR-85-M
+#C4BEGIN    [    1 38084   3 102M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 38084   3 102M   0.025300          0.400000 0.200000                                       H.S.Hans+            (60)31246  5 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,44 @@
+#ENTRY      D4249
+#AUTHOR1    R.Adam Rebeles+
+#YEAR       2011
+#INSTITUTE  (2BLGVUB)
+#TITLE      Activation cross section of deuteron induced
+#+          reactions on natural thallium for the production
+#+          of 203-Pb
+#AUTHOR(S)  R.Adam Rebeles, A.Hermanne, P.Van Den Winkel, F.Tarkanyi, 
+#+          S.Takacs
+#REF-CODE   (J,KPS,59,1975,2011)
+#REFERENCE  J.Korean.Phys.Soc. 59 (2011) 1975 (doi:10.3938/jkps.59.1975)
+#DATASETS   0
+#
+#DATASET    D4249003 
+#DATE       20210929
+#REACTION   81-TL-203(D,2N)82-PB-203,,SIG
+#PROJ       1002
+#TARG       81203
+#MF         3
+#MT         16
+#PRODUCT    82-PB-203
+#C4BEGIN    [ 1002 81203   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 81203   3  16    2.0900+7 100000.0 0.066000 7.0000-3                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    2.0200+7 100000.0 0.066000 7.0000-3                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    1.9600+7 100000.0 0.066000 7.0000-3                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    1.8900+7 200000.0 0.082000 8.0000-3                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    1.8100+7 300000.0 0.091000 9.0000-3                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    1.7400+7 300000.0 0.116000 0.012000                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    1.6700+7 400000.0 0.133000 0.013000                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    1.5900+7 400000.0 0.137000 0.014000                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    1.5100+7 500000.0 0.145000 0.015000                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    1.4200+7 500000.0 0.166000 0.017000                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    1.3400+7 600000.0 0.161000 0.016000                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    1.2400+7 700000.0 0.127000 0.013000                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    1.1500+7 800000.0 0.089000 9.0000-3                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    1.0500+7 900000.0 0.051000 5.0000-3                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    9400000. 1000000. 0.020000 2.0000-3                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    8200000. 1200000. 4.0000-3 4.0000-4                                       R.Adam Rebeles+      (11)D4249  3 
+ 1002 81203   3  16    6900000. 1400000. 2.0000-4 2.0000-5                                       R.Adam Rebeles+      (11)D4249  3 
+#/DATA      17
+#/DATASET

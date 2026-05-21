@@ -1,0 +1,30 @@
+#ENTRY      13613
+#AUTHOR1    B.Siebels+
+#YEAR       1995
+#INSTITUTE  (1USAKTY)
+#TITLE      Gamow-Teller strength in 23Na(n,p) and a comparison
+#+          to 23Na(mu-,neutrino)
+#AUTHOR(S)  B.Siebels, T.P.Gorringe, W.P.Alford, J.Bauer, J.Evans, S.El-Kateb, 
+#+          K.P.Jackson, A.Trudel, S.Yen
+#REF-CODE   (J,PR/C,52,1488,1995)
+#REFERENCE  Phys.Rev.C 52 (1995) 1488 (doi:10.1103/PhysRevC.52.1488)
+#DATASETS   0
+#
+#DATASET    13613003 
+#DATE       20211005
+#REACTION   11-NA-23(N,P)10-NE-23,PAR,DA
+#PROJ       1
+#TARG       11023
+#MF         4
+#MT         600
+#PRODUCT    10-NE-23
+#C4BEGIN    [    1 11023   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023   4 600    1.9800+8          3.0000-4 5.1000-5 0.999657          0.000000         LVLB.Siebels+           (95)13613  3 
+    1 11023   4 600    1.9800+8          3.6400-4 5.5000-5 0.999657          1017000.         LVLB.Siebels+           (95)13613  3 
+    1 11023   4 600    1.9800+8          3.1200-4 5.8000-5 0.999657          1823000.         LVLB.Siebels+           (95)13613  3 
+    1 11023   4 600    1.9800+8          2.3400-3 2.4000-4 0.999657          3445000. 13000.00LVLB.Siebels+           (95)13613  3 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      F1274
+#AUTHOR1    E.M.Kozulin+
+#YEAR       2012
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Mass distributions of the system 136Xe+208Pb at
+#+          laboratory energies around the Coulomb barrier: A
+#+          candidate reaction for the production of neutron-rich
+#+          nuclei at N=126.
+#AUTHOR(S)  E.M.Kozulin, E.Vardaci, G.N.Knyazheva, A.A.Bogachev, S.N.Dmitriev, 
+#+          I.M.Itkis, M.G.Itkis, A.G.Knyazev, T.A.Loktev, K.V.Novikov, 
+#+          E.A.Razinkov, O.V.Rudakov, S.V.Smirnov, W.Trzaska, V.I.Zagrebaev
+#REF-CODE   (J,PR/C,86,044611,2012)
+#REFERENCE  Phys.Rev.C 86 (2012) 044611 (doi:10.1103/PhysRevC.86.044611)
+#DATASETS   0
+#
+#DATASET    F1274002 
+#DATE       20151215
+#REACTION   82-PB-208(54-XE-136,X)84-PO-210,,SIG
+#PROJ       54136
+#TARG       82208
+#MF         3
+#MT         454
+#PRODUCT    84-PO-210
+#C4BEGIN    [54136 82208   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+54136 82208   3 454    8.5000+8 40000.00 2.0000-4 1.0000-4           84210.9                     E.M.Kozulin+         (12)F1274  2 
+#/DATA      1
+#/DATASET

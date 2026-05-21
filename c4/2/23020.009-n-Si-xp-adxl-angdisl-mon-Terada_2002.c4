@@ -1,0 +1,31 @@
+#ENTRY      23020
+#AUTHOR1    Y.Terada+
+#YEAR       2002
+#INSTITUTE  (2JPNOSA)
+#TITLE      Measurements of double differential cross sections for
+#+          charged particle emission reactions by 14.1 MeV
+#+          incident neutrons
+#AUTHOR(S)  Y.Terada, H.Takagi, Kokooo, I.Murata, A.Takahashi
+#REF-CODE   (J,NSTS,2,413,200208)
+#REFERENCE  Nucl.Sci.Techn.Supp. 2 (2002) 413
+#DATASETS   0
+#
+#DATASET    23020009 
+#DATE       20071203
+#REACTION   14-SI-0(N,X)1-H-1,,DA
+#PROJ       1
+#TARG       14000
+#MF         4
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    1 14000   4 203 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14000   4 203 D  1.4100+7          0.029400 1.1200-3 0.707107                              Y.Terada+            (02)23020  9 
+    1 14000   4 203 D  1.4100+7          0.032300 8.5700-4 0.500000                              Y.Terada+            (02)23020  9 
+    1 14000   4 203 D  1.4100+7          0.033900 1.1600-3 0.342020                              Y.Terada+            (02)23020  9 
+    1 14000   4 203 D  1.4100+7          0.022800 8.1400-4 6.123-17                              Y.Terada+            (02)23020  9 
+    1 14000   4 203 D  1.4100+7          0.018400 1.0600-3-0.342020                              Y.Terada+            (02)23020  9 
+#/DATA      5
+#/DATASET

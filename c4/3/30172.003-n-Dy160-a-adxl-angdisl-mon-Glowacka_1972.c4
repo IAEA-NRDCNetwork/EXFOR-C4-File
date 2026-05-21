@@ -1,0 +1,27 @@
+#ENTRY      30172
+#AUTHOR1    L.Glowacka+
+#YEAR       1972
+#INSTITUTE  (3POLIBJ)
+#TITLE      Differential cross sections for the (n,alpha) reactions
+#+          in Dy-160, Dy-162, Dy-164 at 18 MeV
+#AUTHOR(S)  L.Glowacka, M.Jaskola, M.Kozlowski, W.Osakiewicz, J.Turkiewicz, 
+#+          L.Zemlo
+#REF-CODE   (P,INR-1401,13,197205)
+#REFERENCE  Progress report INR-1401 page 13, 1972
+#DATASETS   0
+#
+#DATASET    30172003 
+#DATE       20080208
+#REACTION   66-DY-160(N,A)64-GD-157,,DA
+#PROJ       1
+#TARG       66160
+#MF         4
+#MT         107
+#PRODUCT    64-GD-157
+#C4BEGIN    [    1 66160   4 107 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 66160   4 107 D  1.8150+7 120000.0 5.3000-4 8.0000-5 0.819152 0.500540                     L.Glowacka+          (72)30172  3 
+#/DATA      1
+#/DATASET

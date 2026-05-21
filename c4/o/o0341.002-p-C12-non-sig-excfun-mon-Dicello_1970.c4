@@ -1,0 +1,34 @@
+#ENTRY      O0341
+#AUTHOR1    J.F.Dicello+
+#YEAR       1970
+#INSTITUTE  (1USALAS)
+#TITLE      Proton Total Reaction Cross Sections in the 10-20 MeV
+#+          Range-Calcium-40 and Carbon-12.
+#AUTHOR(S)  J.F.Dicello, G.Igo
+#REF-CODE   (J,PR/C,2,488,70)
+#REFERENCE  Phys.Rev.C 2 (1970) 488 (doi:10.1103/PhysRevC.2.488)
+#DATASETS   0
+#
+#DATASET    O0341002 
+#DATE       19970613
+#REACTION   6-C-12(P,NON),,SIG,,,EXP
+#PROJ       1001
+#TARG       6012
+#MF         3
+#MT         3
+#C4BEGIN    [ 1001  6012   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   3   3    9880000. 50000.00 0.195000 0.047000                                       J.F.Dicello+         (70)O0341  2 
+ 1001  6012   3   3    1.0200+7 50000.00 0.181000 0.053000                                       J.F.Dicello+         (70)O0341  2 
+ 1001  6012   3   3    1.0400+7 50000.00 0.434000 0.058000                                       J.F.Dicello+         (70)O0341  2 
+ 1001  6012   3   3    1.0720+7 50000.00 0.318000 0.061000                                       J.F.Dicello+         (70)O0341  2 
+ 1001  6012   3   3    1.3510+7 50000.00 0.207000 0.039000                                       J.F.Dicello+         (70)O0341  2 
+ 1001  6012   3   3    1.3770+7 50000.00 0.380000 0.043000                                       J.F.Dicello+         (70)O0341  2 
+ 1001  6012   3   3    1.4540+7 50000.00 0.324000 0.042000                                       J.F.Dicello+         (70)O0341  2 
+ 1001  6012   3   3    1.4790+7 50000.00 0.235000 0.040000                                       J.F.Dicello+         (70)O0341  2 
+ 1001  6012   3   3    1.7410+7 50000.00 0.343000 0.024000                                       J.F.Dicello+         (70)O0341  2 
+ 1001  6012   3   3    1.9460+7 50000.00 0.401000 0.024000                                       J.F.Dicello+         (70)O0341  2 
+#/DATA      10
+#/DATASET

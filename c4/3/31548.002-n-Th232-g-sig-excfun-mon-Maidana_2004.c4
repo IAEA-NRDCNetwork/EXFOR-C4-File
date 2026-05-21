@@ -1,0 +1,27 @@
+#ENTRY      31548
+#AUTHOR1    N.L.Maidana+
+#YEAR       2004
+#INSTITUTE  (3BZLUSP)
+#TITLE      232Th(n,g)233Th thermal reaction cross-section
+#+          measurement
+#AUTHOR(S)  N.L.Maidana, V.R.Vanin, R.M.Castro, P.R.Pascholati, O.Helene, 
+#+          M.S.Dias, M.F.Koskinas
+#REF-CODE   (C,2004SANTA,,1466,2004)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn., Santa Fe 2004 page 1466
+#DATASETS   0
+#
+#DATASET    31548002 
+#DATE       20200519
+#REACTION   90-TH-232(N,G)90-TH-233,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         102
+#PRODUCT    90-TH-233
+#C4BEGIN    [    1 90232   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3 102    0.025300          7.200000 0.201600                                       N.L.Maidana+         (04)31548  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      E2750
+#AUTHOR1    T.Pohl+
+#YEAR       2023
+#INSTITUTE  (2GERMUN)
+#TITLE      Multiple mechanisms in proton-induced nucleon removal
+#+          at ~100 MeV/nucleon
+#AUTHOR(S)  T.Pohl, Y.L.Sun, A.Obertelli, J.Lee, M.Gomez-Ramos, K.Ogata, 
+#+          K.Yoshida, B.S.Cai, C.X.Yuan, B.A.Brown, H.Baba, D.Beaumel, 
+#+          A.Corsi, J.Gao, J.Gibelin, A.Gillibert, K.I.Hahn, T.Isobe, 
+#+          D.Kim, Y.Kondo, T.Kobayashi, Y.Kubota, P.Li, P.Liang, H.N.Liu, 
+#+          J.Liu, T.Lokotko, F.M.Marques, Y.Matsuda, T.Motobayashi, 
+#+          T.Nakamura, N.A.Orr, H.Otsu, V.Panin, S.Y.Park, S.Sakaguchi, 
+#+          M.Sasano, H.Sato, H.Sakurai, Y.Shimizu, A.I.Stefanescu, 
+#+          L.Stuhl, D.Suzuki, Y.Togano, D.Tudor, T.Uesaka, H.Wang, 
+#+          X.Xu, Z.H.Yang, K.Yoneda, J.Zenihiro
+#REF-CODE   (J,PRL,130,172501,2023)
+#REFERENCE  Phys.Rev.Lett. 130 (2023) 172501 (doi:10.1103/PhysRevLett.130.172501)
+#DATASETS   0
+#
+#DATASET    E2750002 
+#DATE       20231003
+#REACTION   (1-H-1(8-O-14,X)7-N-13,,SIG)=(8-O-14(P,X)7-N-13,,SIG)
+#PROJ       1001
+#TARG       8014
+#MF         3
+#MT         454
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1001  8014   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8014   3 454    9.4000+7          0.010700 1.6000-3            7013.9                     T.Pohl+              (23)E2750  2 
+#/DATA      1
+#/DATASET

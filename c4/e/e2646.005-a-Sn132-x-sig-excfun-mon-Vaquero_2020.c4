@@ -1,0 +1,39 @@
+#ENTRY      E2646
+#AUTHOR1    V.Vaquero+
+#YEAR       2020
+#INSTITUTE  (2SPNIEM)
+#TITLE      Fragmentation of single-particle strength around the
+#+          doubly magic nucleus 132Sn and the position of the 0f
+#+          5/2 proton-hole state in 131In
+#AUTHOR(S)  V.Vaquero, A.Jungclaus, T.Aumann, J.Tscheuschner, E.V.Litvinova, 
+#+          J.A.Tostevin, H.Baba, D.S.Ahn, R.Avigo, K.Boretzky, A.Bracco, 
+#+          C.Caesar, F.Camera, S.Chen, V.Derya, P.Doornenbal, J.Endres, 
+#+          N.Fukuda, U.Garg, A.Giaz, M.N.Harakeh, M.Heil, A.Horvat, 
+#+          K.Ieki, N.Imai, N.Inabe, N.Kalantar-Nayestanaki, N.Kobayashi, 
+#+          Y.Kondo, S.Koyama, T.Kubo, I.Martel, M.Matsushita, B.Million, 
+#+          T.Motobayashi, T.Nakamura, N.Nakatsuka, M.Nishimura, S.Nishimura, 
+#+          S.Ota, H.Otsu, T.Ozaki, M.Petri, R.Reifarth, J.L.Rodriguez-Sanchez, 
+#+          D.Rossi, A.T.Saito, H.Sakurai, D.Savran, H.Scheit, F.Schindler, 
+#+          P.Schrock, D.Semmler, Y.Shiga, M.Shikata, Y.Shimizu, H.Simon, 
+#+          D.Steppenbeck, H.Suzuki, T.Sumikama, D.Symochko, I.Syndikus, 
+#+          H.Takeda, S.Takeuchi, R.Taniuchi, Y.Togano, J.Tsubota, H.Wang, 
+#+          O.Wieland, K.Yoneda, J.Zenihiro, A.Zilges
+#REF-CODE   (J,PRL,124,022501,2020)
+#REFERENCE  Phys.Rev.Lett. 124 (2020) 022501 (doi:10.1103/PhysRevLett.124.022501)
+#DATASETS   0
+#
+#DATASET    E2646005 
+#DATE       20200818
+#REACTION   (2-HE-4(50-SN-132,X)49-IN-131,,SIG)=(50-SN-132(A,X)49-IN-131,,SIG)
+#PROJ       2004
+#TARG       50132
+#MF         3
+#MT         454
+#PRODUCT    49-IN-131
+#C4BEGIN    [ 2004 50132   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 50132   3 454    8.1200+8          0.018000 3.0000-3           49131.9                     V.Vaquero+           (20)E2646  5 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,43 @@
+#ENTRY      32100
+#AUTHOR1    E.Gadioli+
+#YEAR       1986
+#INSTITUTE  (3POLIPJ)
+#TITLE      (n,a) reaction on Zr-90 and Zr-91 at 14.3 and 18.5 MeV
+#+          incident neutron energy.
+#AUTHOR(S)  E.Gadioli, E.Gadioli-Erba, L.Glowacka, M.Jaskola, J.Turkiewicz, 
+#+          L.Zemlo, J.Dalmas, A.Chiadli
+#REF-CODE   (J,PR/C,34,(6),2065,198612)
+#REFERENCE  Phys.Rev.C 34 No.6 (1986) 2065 (doi:10.1103/PhysRevC.34.2065)
+#DATASETS   0
+#
+#DATASET    32100007 
+#DATE       20100923
+#REACTION   40-ZR-91(N,A)38-SR-88,PAR,SIG
+#PROJ       1
+#TARG       40091
+#MF         3
+#MT         800
+#PRODUCT    38-SR-88
+#C4BEGIN    [    1 40091   3 800 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40091   3 800 D  1.4300+7 70000.00 5.0800-3 3.4000-4                   1.7250+7 3250000. E2E.Gadioli+           (86)32100  7 
+#/DATA      1
+#/DATASET
+#
+#DATASET    32100007 
+#DATE       20100923
+#REACTION   40-ZR-91(N,A)38-SR-88,PAR,SIG
+#PROJ       1
+#TARG       40091
+#MF         3
+#MT         800
+#PRODUCT    38-SR-88
+#C4BEGIN    [    1 40091   3 800 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40091   3 800 D  1.8100+7 100000.0 5.6600-3 2.3000-4                   2.0850+7 3750000. E2E.Gadioli+           (86)32100  7 
+#/DATA      1
+#/DATASET

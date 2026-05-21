@@ -1,0 +1,27 @@
+#ENTRY      O2369
+#AUTHOR1    R.E.Warner+
+#YEAR       1989
+#INSTITUTE  (2NEDKVI)
+#TITLE      Total nuclear reaction probabilities and average
+#+          cross sections for 27 to 92 MeV alpha particles in
+#+          silicon
+#AUTHOR(S)  R.E.Warner, A.M.Van Den Berg, K.M.Berland, J.D.Hinnefeld, 
+#+          Z.Zhang, Y.T.Zhu, X.Q.Hu, S.Li
+#REF-CODE   (J,PR/C,40,2473,1989)
+#REFERENCE  Phys.Rev.C 40 (1989) 2473 (doi:10.1103/PhysRevC.40.2473)
+#DATASETS   0
+#
+#DATASET    O2369002 
+#DATE       20180227
+#REACTION   14-SI-0(A,NON),,SIG,,AV
+#PROJ       2004
+#TARG       14000
+#MF         3
+#MT         3
+#C4BEGIN    [ 2004 14000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 14000   3   3    5.9500+7 3.2500+7 1.170000 0.055000                                       R.E.Warner+          (89)O2369  2 
+#/DATA      1
+#/DATASET

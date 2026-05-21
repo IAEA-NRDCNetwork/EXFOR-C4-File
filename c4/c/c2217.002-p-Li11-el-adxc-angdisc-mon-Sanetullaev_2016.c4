@@ -1,0 +1,45 @@
+#ENTRY      C2217
+#AUTHOR1    A.Sanetullaev+
+#YEAR       2016
+#INSTITUTE  (1CANSMR)
+#TITLE      Investigation of the role of 10Li resonances in the
+#+          halo structure of 11Li through the 11Li(p,d)10Li
+#+          transfer reaction
+#AUTHOR(S)  A.Sanetullaev, R.Kanungo, J.Tanaka, M.Alcorta, C.Andreoiu, 
+#+          P.Bender, A.A.Chen, G.Christian, B.Davids, J.Fallis, J.P.Fortin, 
+#+          N.Galinski, A.T.Gallant, P.E.Garrett, G.Hackman, B.Hadinia, 
+#+          S.Ishimoto, M.Keefe, R.Krucken, J.Lighthall, E.McNeice, 
+#+          D.Miller, J.Purcell, J.S.Randhawa, T.Roger, A.Rojas, H.Savajols, 
+#+          A.Shotter, I.Tanihata, I.J.Thompsonm, C.Unsworth, P.Voss, 
+#+          Z.Wang
+#REF-CODE   (J,PL/B,755,481,2016)
+#REFERENCE  Phys.Lett.B 755 (2016) 481 (doi:10.1016/j.physletb.2016.02.060)
+#DATASETS   0
+#
+#DATASET    C2217002 
+#DATE       20211008
+#REACTION   3-LI-11(P,EL)3-LI-11,,DA
+#PROJ       1001
+#TARG       3011
+#MF         4
+#MT         2
+#PRODUCT    3-LI-11
+#C4BEGIN    [ 1001  3011   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3011   4   2  C 5700000.          1.2300-3 2.8000-4 0.340380                              A.Sanetullaev+       (16)C2217  2 
+ 1001  3011   4   2  C 5700000.          1.6200-3 3.4000-4 0.295708                              A.Sanetullaev+       (16)C2217  2 
+ 1001  3011   4   2  C 5700000.          2.0900-3 3.6000-4 0.257133                              A.Sanetullaev+       (16)C2217  2 
+ 1001  3011   4   2  C 5700000.          2.0900-3 3.3000-4 0.202787                              A.Sanetullaev+       (16)C2217  2 
+ 1001  3011   4   2  C 5700000.          2.6100-3 3.5000-4 0.154710                              A.Sanetullaev+       (16)C2217  2 
+ 1001  3011   4   2  C 5700000.          2.8300-3 3.6000-4 0.092371                              A.Sanetullaev+       (16)C2217  2 
+ 1001  3011   4   2  C 5700000.          3.3900-3 3.7000-4 0.029666                              A.Sanetullaev+       (16)C2217  2 
+ 1001  3011   4   2  C 5700000.          3.7700-3 4.0000-4-0.033155                              A.Sanetullaev+       (16)C2217  2 
+ 1001  3011   4   2  C 5700000.          3.5800-3 3.8000-4-0.101056                              A.Sanetullaev+       (16)C2217  2 
+ 1001  3011   4   2  C 5700000.          3.6800-3 3.6000-4-0.173648                              A.Sanetullaev+       (16)C2217  2 
+ 1001  3011   4   2  C 5700000.          3.5800-3 3.3000-4-0.246999                              A.Sanetullaev+       (16)C2217  2 
+ 1001  3011   4   2  C 5700000.          3.7000-3 3.4000-4-0.325568                              A.Sanetullaev+       (16)C2217  2 
+ 1001  3011   4   2  C 5700000.          3.5900-3 3.4000-4-0.409923                              A.Sanetullaev+       (16)C2217  2 
+#/DATA      13
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      21075
+#AUTHOR1    W.D.Allen+
+#YEAR       1957
+#INSTITUTE  (2UK HAR)
+#TITLE      -The fission cross sections of U-233, U-235, U-238
+#+          and Pu-239 for neutrons in the energy range 0.030
+#+          MeV to 3.0 MeV-.
+#AUTHOR(S)  W.D.Allen, A.T.G.Ferguson
+#REF-CODE   (J,PPS/A,70,573,1957)
+#REFERENCE  Proc.Phys.Soc.(UK) A 70 (1957) 573 (doi:10.1088/0370-1298/70/8/303)
+#DATASETS   0
+#
+#DATASET    21075004 
+#DATE       20101114
+#REACTION   92-U-238(N,F),,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3  18    1000000.          0.018000 1.0000-3                                       W.D.Allen+           (57)21075  4 
+    1 92238   3  18    1330000.          0.066000 4.0000-3                                       W.D.Allen+           (57)21075  4 
+    1 92238   3  18    1500000.          0.320000 0.020000                                       W.D.Allen+           (57)21075  4 
+    1 92238   3  18    2000000.          0.500000 0.030000                                       W.D.Allen+           (57)21075  4 
+    1 92238   3  18    2500000.          0.480000 0.020000                                       W.D.Allen+           (57)21075  4 
+    1 92238   3  18    3000000.          0.430000 0.020000                                       W.D.Allen+           (57)21075  4 
+#/DATA      6
+#/DATASET

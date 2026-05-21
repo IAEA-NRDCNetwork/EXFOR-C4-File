@@ -1,0 +1,31 @@
+#ENTRY      O0862
+#AUTHOR1    J.K.Kim+
+#YEAR       1997
+#INSTITUTE  (3KORKOR)
+#TITLE      Measurement of elastic recoil cross sections of light
+#+          nuclei by 35-Cl using inverse scattering.
+#AUTHOR(S)  J.K.Kim, Y.S.Kim, H.W.Choi, G.D.Kim, H.J.Woo, C.N.Whang
+#REF-CODE   (J,NIM/B,129,323,1997)
+#REFERENCE  Nucl.Instrum.Meth.B 129 (1997) 323 (doi:10.1016/S0168-583X(97)00312-1)
+#DATASETS   0
+#
+#DATASET    O0862005 
+#DATE       20030501
+#REACTION   9-F-19(17-CL-35,EL)9-F-19,,DA
+#PROJ       17035
+#TARG       9019
+#MF         4
+#MT         2
+#PRODUCT    9-F-19
+#C4BEGIN    [17035  9019   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+17035  9019   4   2    9913000. 2000.000 15.44900 0.789000 0.866025                              J.K.Kim+             (97)O0862  5 
+17035  9019   4   2    8921000. 2000.000 19.04300 1.152000 0.866025                              J.K.Kim+             (97)O0862  5 
+17035  9019   4   2    7936000. 2000.000 24.32800 1.536000 0.866025                              J.K.Kim+             (97)O0862  5 
+17035  9019   4   2    6963000. 2000.000 31.71100 1.838000 0.866025                              J.K.Kim+             (97)O0862  5 
+17035  9019   4   2    5958000. 2000.000 43.29700 2.557000 0.866025                              J.K.Kim+             (97)O0862  5 
+17035  9019   4   2    4955000. 2000.000 62.92800 3.390000 0.866025                              J.K.Kim+             (97)O0862  5 
+#/DATA      6
+#/DATASET

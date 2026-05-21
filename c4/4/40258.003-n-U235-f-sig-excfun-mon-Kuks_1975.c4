@@ -1,0 +1,26 @@
+#ENTRY      40258
+#AUTHOR1    I.M.Kuks+
+#YEAR       1975
+#INSTITUTE  (4RUSRI)
+#TITLE      Measurement of the 235U fission cross-sections for
+#+          2.5 MeV neutrons
+#AUTHOR(S)  I.M.Kuks, L.A.Razumovskij, Yu.A.Selitskij, A.V.Fomichev, 
+#+          V.B.Funshtejn, V.I.Shpakov
+#REF-CODE   (R,INDC(CCP)-48,34,1975)
+#REFERENCE  Report INDC(CCP)-48 page 34, 1975
+#DATASETS   0
+#
+#DATASET    40258003 
+#DATE       20201104
+#REACTION   92-U-235(N,F),,SIG
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18    2500000.          1.300000 0.050000                                       I.M.Kuks+            (75)40258  3 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      O0276
+#AUTHOR1    R.Michel+
+#YEAR       1997
+#INSTITUTE  (2GERKLN)
+#TITLE      Cross sections for the production of residual nuclides
+#+          by low- and medium-energy protons from the target
+#+          elements C, N, O, Mg, Al, Si, Ca, Ti, V, Mn, Fe, Co,
+#+          Ni, Cu, Sr, Y, Zr, Nb, Ba and Au.
+#AUTHOR(S)  R.Michel, R.Bodemann, H.Busemann, R.Daunke, M.Gloris, H.-J.Lange, 
+#+          B.Klug, A.Krins, I.Leya, M.Luepke, S.Neumann, H.Reinhardt, 
+#+          M.Schnatz-Buettgen, U.Herpers, Th.Schiekel, F.Sudbrock, 
+#+          B.Holmqvist, H.Conde, P.Malmborg, M.Suter, B.Dittrich-Hannen, 
+#+          P.-W.Kubik, H.-A.Synal, D.Filges
+#REF-CODE   (J,NIM/B,129,153,1997)
+#REFERENCE  Nucl.Instrum.Meth.B 129 (1997) 153 (doi:10.1016/S0168-583X(97)00213-9)
+#DATASETS   0
+#
+#DATASET    O0276057 
+#DATE       20190827
+#REACTION   25-MN-55(P,X)25-MN-54,,SIG
+#PROJ       1001
+#TARG       25055
+#MF         3
+#MT         454
+#PRODUCT    25-MN-54
+#C4BEGIN    [ 1001 25055   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 25055   3 454    2.7800+7 2850000. 0.414000 0.030700           25054.9                     R.Michel+            (97)O0276 57 
+ 1001 25055   3 454    4.7700+7 1690000. 0.177000 0.013200           25054.9                     R.Michel+            (97)O0276 57 
+ 1001 25055   3 454    5.9400+7 1040000. 0.172000 0.013900           25054.9                     R.Michel+            (97)O0276 57 
+ 1001 25055   3 454    6.6000+7 1190000. 0.147000 0.010900           25054.9                     R.Michel+            (97)O0276 57 
+ 1001 25055   3 454    8.1200+7 866000.0 0.125000 9.5100-3           25054.9                     R.Michel+            (97)O0276 57 
+ 1001 25055   3 454    9.1300+7 526000.0 0.121000 9.9800-3           25054.9                     R.Michel+            (97)O0276 57 
+ 1001 25055   3 454    9.4600+7 598000.0 0.109000 8.2500-3           25054.9                     R.Michel+            (97)O0276 57 
+#/DATA      7
+#/DATASET

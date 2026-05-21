@@ -1,0 +1,33 @@
+#ENTRY      12789
+#AUTHOR1    D.L.Smith+
+#YEAR       1982
+#INSTITUTE  (1USAANL)
+#TITLE      FORMATION OF 111M-CD IN FAST-NEUTRON ACTIVATION OF
+#+          110-CD AND 111-CD
+#AUTHOR(S)  D.L.Smith, J.W.Meadows, P.A.Moldauer, W.P.Poenitz
+#REF-CODE   (J,NP/A,388,37,8208)
+#REFERENCE  Nucl.Phys.A 388 (1982) 37 (doi:10.1016/0375-9474(82)90507-3)
+#DATASETS   0
+#
+#DATASET    12789003 
+#DATE       19830126
+#REACTION   48-CD-110(N,G)48-CD-111-M,,SIG
+#PROJ       1
+#TARG       48110
+#MF         3
+#MT         102
+#PRODUCT    48-CD-111-M
+#C4BEGIN    [    1 48110   3 102MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 48110   3 102MA  433000.0 27500.00 0.012110 9.3247-4                                       D.L.Smith+           (82)12789  3 
+    1 48110   3 102MA  490000.0 20500.00 0.013240 1.0062-3                                       D.L.Smith+           (82)12789  3 
+    1 48110   3 102MA  578000.0 32000.00 0.014930 1.1198-3                                       D.L.Smith+           (82)12789  3 
+    1 48110   3 102MA  684000.0 25000.00 0.015790 1.1527-3                                       D.L.Smith+           (82)12789  3 
+    1 48110   3 102MA  789000.0 20500.00 0.010770 9.0468-4                                       D.L.Smith+           (82)12789  3 
+    1 48110   3 102MA  893000.0 23000.00 0.012200 1.0614-3                                       D.L.Smith+           (82)12789  3 
+    1 48110   3 102MA  1493000. 19000.00 0.016820 1.5643-3                                       D.L.Smith+           (82)12789  3 
+    1 48110   3 102MA  1553000. 22500.00 0.017300 1.5743-3                                       D.L.Smith+           (82)12789  3 
+#/DATA      8
+#/DATASET

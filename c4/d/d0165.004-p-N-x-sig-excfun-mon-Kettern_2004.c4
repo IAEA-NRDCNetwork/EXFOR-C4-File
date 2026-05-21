@@ -1,0 +1,38 @@
+#ENTRY      D0165
+#AUTHOR1    K.Kettern+
+#YEAR       2004
+#INSTITUTE  (2GERJUL)
+#TITLE      Formation of short-lived positron emitters in
+#+          reactions of protons of energies up to 200 MeV
+#+          with the target elements carbon, nitrogen and oxygen
+#AUTHOR(S)  K.Kettern, Yu.N.Shubin, G.F.Steyn, T.N.van der Walt, H.H.Coenen, 
+#+          S.M.Qaim
+#REF-CODE   (J,ARI,60,939,2004)
+#REFERENCE  Appl.Radiat.Isot. 60 (2004) 939 (doi:10.1016/j.apradiso.2004.02.007)
+#DATASETS   0
+#
+#DATASET    D0165004 
+#DATE       20040623
+#REACTION   7-N-0(P,X)7-N-13,,SIG
+#PROJ       1001
+#TARG       7000
+#MF         3
+#MT         454
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1001  7000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7000   3 454    2.3400+7 3000000. 0.032000 9.0000-3            7013.9                     K.Kettern+           (04)D0165  4 
+ 1001  7000   3 454    2.7800+7 3000000. 0.028000 8.0000-3            7013.9                     K.Kettern+           (04)D0165  4 
+ 1001  7000   3 454    2.9600+7 3000000. 0.021000 6.0000-3            7013.9                     K.Kettern+           (04)D0165  4 
+ 1001  7000   3 454    3.3500+7 2500000. 0.013000 4.0000-3            7013.9                     K.Kettern+           (04)D0165  4 
+ 1001  7000   3 454    3.6000+7 1000000. 0.012000 4.0000-3            7013.9                     K.Kettern+           (04)D0165  4 
+ 1001  7000   3 454    3.7200+7 2000000. 8.0000-3 2.0000-3            7013.9                     K.Kettern+           (04)D0165  4 
+ 1001  7000   3 454    3.9700+7 1500000. 0.016000 5.0000-3            7013.9                     K.Kettern+           (04)D0165  4 
+ 1001  7000   3 454    4.2800+7 1000000. 7.0000-3 2.0000-3            7013.9                     K.Kettern+           (04)D0165  4 
+ 1001  7000   3 454    4.2900+7 1000000. 6.0000-3 2.0000-3            7013.9                     K.Kettern+           (04)D0165  4 
+ 1001  7000   3 454    5.8100+7 2000000. 2.0000-3 1.0000-3            7013.9                     K.Kettern+           (04)D0165  4 
+ 1001  7000   3 454    8.8900+7 3000000. 8.0000-4 2.0000-4            7013.9                     K.Kettern+           (04)D0165  4 
+#/DATA      11
+#/DATASET

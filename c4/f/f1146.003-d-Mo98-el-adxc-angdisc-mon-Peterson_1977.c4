@@ -1,0 +1,39 @@
+#ENTRY      F1146
+#AUTHOR1    R.J.Peterson+
+#YEAR       1977
+#INSTITUTE  (1USACLU)
+#TITLE      Level structure of Tc-99 by inelastic scattering and
+#+          proton stripping.
+#AUTHOR(S)  R.J.Peterson, R.A.Emigh, R.E.Anderson
+#REF-CODE   (J,NP/A,290,155,1977)
+#REFERENCE  Nucl.Phys.A 290 (1977) 155 (doi:10.1016/0375-9474(77)90672-8)
+#DATASETS   0
+#
+#DATASET    F1146003 
+#DATE       20220429
+#REACTION   42-MO-98(D,EL)42-MO-98,,DA,,RTH
+#PROJ       1002
+#TARG       42098
+#MF         4
+#MT         2
+#PRODUCT    42-MO-98
+#C4BEGIN    [ 1002 42098   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 42098   4   2  C 3.3300+7          5.655861          0.962218                              R.J.Peterson+        (77)F1146  3 
+ 1002 42098   4   2  C 3.3300+7          1.408175          0.932954                              R.J.Peterson+        (77)F1146  3 
+ 1002 42098   4   2  C 3.3300+7          0.452761          0.901833                              R.J.Peterson+        (77)F1146  3 
+ 1002 42098   4   2  C 3.3300+7          0.183526          0.855364                              R.J.Peterson+        (77)F1146  3 
+ 1002 42098   4   2  C 3.3300+7          0.088069          0.809017                              R.J.Peterson+        (77)F1146  3 
+ 1002 42098   4   2  C 3.3300+7          0.036944          0.756995                              R.J.Peterson+        (77)F1146  3 
+ 1002 42098   4   2  C 3.3300+7          0.022842          0.693402                              R.J.Peterson+        (77)F1146  3 
+ 1002 42098   4   2  C 3.3300+7          0.017593          0.621148                              R.J.Peterson+        (77)F1146  3 
+ 1002 42098   4   2  C 3.3300+7          9.1126-3          0.551937                              R.J.Peterson+        (77)F1146  3 
+ 1002 42098   4   2  C 3.3300+7          4.9015-3          0.477159                              R.J.Peterson+        (77)F1146  3 
+ 1002 42098   4   2  C 3.3300+7          2.2381-3          0.401948                              R.J.Peterson+        (77)F1146  3 
+ 1002 42098   4   2  C 3.3300+7          2.1654-3          0.330514                              R.J.Peterson+        (77)F1146  3 
+ 1002 42098   4   2  C 3.3300+7          2.2610-3          0.235142                              R.J.Peterson+        (77)F1146  3 
+ 1002 42098   4   2  C 3.3300+7          1.6931-3          0.151261                              R.J.Peterson+        (77)F1146  3 
+#/DATA      14
+#/DATASET

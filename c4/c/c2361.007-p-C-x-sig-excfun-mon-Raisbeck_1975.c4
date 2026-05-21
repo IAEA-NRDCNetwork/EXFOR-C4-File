@@ -1,0 +1,27 @@
+#ENTRY      C2361
+#AUTHOR1    G.M.Raisbeck+
+#YEAR       1975
+#INSTITUTE  (2FR CSN)
+#TITLE      Cross sections for the production of Li and Be
+#+          isotopes in carbon targets irradiated by 300 GeV
+#+          protons
+#AUTHOR(S)  G.M.Raisbeck, J.Lestringuez, F.Yiou
+#REF-CODE   (J,PL/B,57,186,1975)
+#REFERENCE  Phys.Lett.B 57 (1975) 186 (doi:10.1016/0370-2693(75)90021-0)
+#DATASETS   0
+#
+#DATASET    C2361007 
+#DATE       20181206
+#REACTION   6-C-0(P,X)4-BE-10,,SIG
+#PROJ       1001
+#TARG       6000
+#MF         3
+#MT         454
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1001  6000   3 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6000   3 454 D  3.000+11          3.7000-3 6.0000-4            4010.9                     G.M.Raisbeck+        (75)C2361  7 
+#/DATA      1
+#/DATASET

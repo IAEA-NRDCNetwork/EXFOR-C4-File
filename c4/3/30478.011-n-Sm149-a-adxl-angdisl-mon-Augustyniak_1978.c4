@@ -1,0 +1,26 @@
+#ENTRY      30478
+#AUTHOR1    W.Augustyniak+
+#YEAR       1978
+#INSTITUTE  (3POLIBJ)
+#TITLE      Differential cross sections for the (n,a) reactions
+#+          induced by fast neutrons in 149Sm and 143Nd nuclei
+#AUTHOR(S)  W.Augustyniak, L.Glowacka, M.Jaskola, J.Turkiewicz, L.Zemlo
+#REF-CODE   (P,INR-1773,10,1978)
+#REFERENCE  Progress report INR-1773 page 10, 1978
+#DATASETS   0
+#
+#DATASET    30478011 
+#DATE       20211109
+#REACTION   62-SM-149(N,A)60-ND-146,PAR,DA
+#PROJ       1
+#TARG       62149
+#MF         4
+#MT         800
+#PRODUCT    60-ND-146
+#C4BEGIN    [    1 62149   4 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 62149   4 800 A  1.2270+7          5.9000-4 3.0000-5 0.849893          1.8500+7 3500000. E2W.Augustyniak+       (78)30478 11 
+#/DATA      1
+#/DATASET

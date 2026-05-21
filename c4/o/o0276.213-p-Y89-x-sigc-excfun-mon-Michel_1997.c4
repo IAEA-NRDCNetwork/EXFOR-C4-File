@@ -1,0 +1,38 @@
+#ENTRY      O0276
+#AUTHOR1    R.Michel+
+#YEAR       1997
+#INSTITUTE  (2GERKLN)
+#TITLE      Cross sections for the production of residual nuclides
+#+          by low- and medium-energy protons from the target
+#+          elements C, N, O, Mg, Al, Si, Ca, Ti, V, Mn, Fe, Co,
+#+          Ni, Cu, Sr, Y, Zr, Nb, Ba and Au.
+#AUTHOR(S)  R.Michel, R.Bodemann, H.Busemann, R.Daunke, M.Gloris, H.-J.Lange, 
+#+          B.Klug, A.Krins, I.Leya, M.Luepke, S.Neumann, H.Reinhardt, 
+#+          M.Schnatz-Buettgen, U.Herpers, Th.Schiekel, F.Sudbrock, 
+#+          B.Holmqvist, H.Conde, P.Malmborg, M.Suter, B.Dittrich-Hannen, 
+#+          P.-W.Kubik, H.-A.Synal, D.Filges
+#REF-CODE   (J,NIM/B,129,153,1997)
+#REFERENCE  Nucl.Instrum.Meth.B 129 (1997) 153 (doi:10.1016/S0168-583X(97)00213-9)
+#DATASETS   0
+#
+#DATASET    O0276213 
+#DATE       20190827
+#REACTION   39-Y-89(P,3N)40-ZR-87-G,M+,SIG
+#PROJ       1001
+#TARG       39089
+#MF         3
+#MT         459
+#PRODUCT    40-ZR-87-G
+#C4BEGIN    [ 1001 39089   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 39089   3 459    2.7600+7 834000.0 0.027500 4.1700-3           40087.0                     R.Michel+            (97)O0276213 
+ 1001 39089   3 459    3.0800+7 775000.0 0.210000 0.023700           40087.0                     R.Michel+            (97)O0276213 
+ 1001 39089   3 459    3.4500+7 715000.0 0.368000 0.046000           40087.0                     R.Michel+            (97)O0276213 
+ 1001 39089   3 459    3.7300+7 703000.0 0.390000 0.034000           40087.0                     R.Michel+            (97)O0276213 
+ 1001 39089   3 459    4.2300+7 622000.0 0.325000 0.038800           40087.0                     R.Michel+            (97)O0276213 
+ 1001 39089   3 459    4.4800+7 1250000. 0.306000 0.043000           40087.0                     R.Michel+            (97)O0276213 
+ 1001 39089   3 459    4.9200+7 1210000. 0.202000 0.034000           40087.0                     R.Michel+            (97)O0276213 
+#/DATA      7
+#/DATASET

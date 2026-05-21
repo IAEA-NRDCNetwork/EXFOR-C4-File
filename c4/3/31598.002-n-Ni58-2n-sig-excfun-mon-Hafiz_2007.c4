@@ -1,0 +1,31 @@
+#ENTRY      31598
+#AUTHOR1    M.A.Hafiz+
+#YEAR       2007
+#INSTITUTE  (3BANSAV)
+#TITLE      Measurement of excitation functions of the reactions
+#+          58Ni(n,2n) 57Ni and 65Cu(n,2n)64Cu in the neutron
+#+          energy range 13.90-14.71 MeV
+#AUTHOR(S)  M.A.Hafiz
+#REF-CODE   (J,IPA,45,425,2007)
+#REFERENCE  Ind.J.Pure Appl.Phy. 45 (2007) 425
+#DATASETS   0
+#
+#DATASET    31598002 
+#DATE       20070622
+#REACTION   28-NI-58(N,2N)28-NI-57,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         16
+#PRODUCT    28-NI-57
+#C4BEGIN    [    1 28058   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3  16 A  1.3900+7          0.024710 4.1000-3                                       M.A.Hafiz            (07)31598  2 
+    1 28058   3  16 A  1.4210+7          0.027850 3.9000-3                                       M.A.Hafiz            (07)31598  2 
+    1 28058   3  16 A  1.4410+7          0.034550 4.0000-3                                       M.A.Hafiz            (07)31598  2 
+    1 28058   3  16 A  1.4630+7          0.039630 5.0000-3                                       M.A.Hafiz            (07)31598  2 
+    1 28058   3  16 A  1.4700+7          0.038840 4.8000-3                                       M.A.Hafiz            (07)31598  2 
+#/DATA      5
+#/DATASET

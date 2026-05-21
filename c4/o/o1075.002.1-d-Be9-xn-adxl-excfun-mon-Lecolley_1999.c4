@@ -1,0 +1,32 @@
+#ENTRY      O1075
+#AUTHOR1    J.F.Lecolley+
+#YEAR       1999
+#INSTITUTE  (2FR CAE)
+#TITLE      Deuteron stripping on beryllium target in the 100-2300-
+#+          MeV energy region.
+#AUTHOR(S)  J.F.Lecolley, C.Varignon, J.Thun, F.Borne, E.Martinez, S.Menard, 
+#+          Ph.Pras, A.Boudard, J.C.Duchazeaubeneix, D.Durand, J.M.Durand, 
+#+          J.Frehaut, F.Hanappe, C.Le Brun, F.R.Lecolley, X.Ledoux, 
+#+          F.Lefebvres, R.Legrain, S.Leray, M.Louvel, G.Milleret, Y.Patin, 
+#+          L.Stuttge, Y.Terrien
+#REF-CODE   (J,EPJ/A,5,321,1999)
+#REFERENCE  Eur.Phys.J.A 5 (1999) 321 (doi:10.1007/s100500050290)
+#DATASETS   0
+#
+#DATASET    O10750021
+#DATE       20040406
+#REACTION   4-BE-9(D,X)0-NN-1,,DA
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1002  4009   4 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4 201    1.0000+8          2.100000 0.210000 1.000000                              J.F.Lecolley+        (99)O1075  21
+ 1002  4009   4 201    1.5000+8          3.130000 0.320000 1.000000                              J.F.Lecolley+        (99)O1075  21
+ 1002  4009   4 201    2.0000+8          3.730000 0.340000 1.000000                              J.F.Lecolley+        (99)O1075  21
+#/DATA      3
+#/DATASET

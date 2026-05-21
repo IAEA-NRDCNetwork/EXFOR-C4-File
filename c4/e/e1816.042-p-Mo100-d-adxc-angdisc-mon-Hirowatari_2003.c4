@@ -1,0 +1,36 @@
+#ENTRY      E1816
+#AUTHOR1    S.Hirowatari+
+#YEAR       2003
+#INSTITUTE  (2JPNKYU)
+#TITLE      100Mo(p,d)99Mo reaction at 21 MeV and direct reaction
+#+          analysis of the low-lying continuum spectrum
+#AUTHOR(S)  S.Hirowatari, Syafarudin, F.Aramaki, A.Nohtomi, G.Wakabayashi, 
+#+          Y.Uozumi, N.Ikeda, M.Matoba, Y.Aoki, K.Hirota, N.Okumura, 
+#+          T.Joh
+#REF-CODE   (J,NP/A,714,(1-2),3,200302)
+#REFERENCE  Nucl.Phys.A 714 No.1-2 (2003) 3 (doi:10.1016/S0375-9474(02)01353-2)
+#DATASETS   0
+#
+#DATASET    E1816042 
+#DATE       20050224
+#REACTION   42-MO-100(P,D)42-MO-99,PAR,DA
+#PROJ       1001
+#TARG       42100
+#MF         4
+#MT         650
+#PRODUCT    42-MO-99
+#C4BEGIN    [ 1001 42100   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42100   4 650  C 2.1000+7          3.6776-4 1.8274-5 0.989898          952000.0         LVLS.Hirowatari+        (03)E1816 42 
+ 1001 42100   4 650  C 2.1000+7          3.5549-4 1.7631-5 0.977320          952000.0         LVLS.Hirowatari+        (03)E1816 42 
+ 1001 42100   4 650  C 2.1000+7          5.4122-4 1.5355-5 0.937452          952000.0         LVLS.Hirowatari+        (03)E1816 42 
+ 1001 42100   4 650  C 2.1000+7          3.3081-4 1.2016-5 0.878725          952000.0         LVLS.Hirowatari+        (03)E1816 42 
+ 1001 42100   4 650  C 2.1000+7          1.4921-4 6.3390-6 0.802411          952000.0         LVLS.Hirowatari+        (03)E1816 42 
+ 1001 42100   4 650  C 2.1000+7          2.1261-4 7.5790-6 0.710136          952000.0         LVLS.Hirowatari+        (03)E1816 42 
+ 1001 42100   4 650  C 2.1000+7          1.4671-4 6.3070-6 0.603820          952000.0         LVLS.Hirowatari+        (03)E1816 42 
+ 1001 42100   4 650  C 2.1000+7          9.5832-5 4.1180-6 0.485725          952000.0         LVLS.Hirowatari+        (03)E1816 42 
+ 1001 42100   4 650  C 2.1000+7          7.2827-5 5.8640-6 0.358335          952000.0         LVLS.Hirowatari+        (03)E1816 42 
+#/DATA      9
+#/DATASET

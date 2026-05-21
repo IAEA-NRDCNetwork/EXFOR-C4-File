@@ -1,0 +1,37 @@
+#ENTRY      A0307
+#AUTHOR1    L.W.Mitchell+
+#YEAR       1982
+#INSTITUTE  (3AULAML)
+#TITLE      Cross sections and thermonuclear reaction rates for
+#+          Ca-42(p,gamma)Sc-43, Ca-44(p,gamma)Sc-45,
+#+          Ca-44(p,n)Sc-44 and Sc-45(p,n)Ti-45
+#AUTHOR(S)  L.W.Mitchell, M.R.Anderson, S.R.Kennett, D.G.Sargood
+#REF-CODE   (J,NP/A,380,318,1982)
+#REFERENCE  Nucl.Phys.A 380 (1982) 318 (doi:10.1016/0375-9474(82)90108-7)
+#DATASETS   0
+#
+#DATASET    A0307006 
+#DATE       20240925
+#REACTION   20-CA-44(P,N)21-SC-44-G,,SIG
+#PROJ       1001
+#TARG       20044
+#MF         3
+#MT         4
+#PRODUCT    21-SC-44-G
+#C4BEGIN    [ 1001 20044   3   4G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20044   3   4G   4541000.          0.055720                                                L.W.Mitchell+        (82)A0307  6 
+ 1001 20044   3   4G   4588000.          0.093780                                                L.W.Mitchell+        (82)A0307  6 
+ 1001 20044   3   4G   4635000.          0.073060                                                L.W.Mitchell+        (82)A0307  6 
+ 1001 20044   3   4G   4686000.          0.094720                                                L.W.Mitchell+        (82)A0307  6 
+ 1001 20044   3   4G   4736000.          0.139000                                                L.W.Mitchell+        (82)A0307  6 
+ 1001 20044   3   4G   4788000.          0.111000                                                L.W.Mitchell+        (82)A0307  6 
+ 1001 20044   3   4G   4836000.          0.104200                                                L.W.Mitchell+        (82)A0307  6 
+ 1001 20044   3   4G   4890000.          0.142000                                                L.W.Mitchell+        (82)A0307  6 
+ 1001 20044   3   4G   4939000.          0.103900                                                L.W.Mitchell+        (82)A0307  6 
+ 1001 20044   3   4G   4989000.          0.133100                                                L.W.Mitchell+        (82)A0307  6 
+ 1001 20044   3   4G   5037000.          0.179100                                                L.W.Mitchell+        (82)A0307  6 
+#/DATA      11
+#/DATASET

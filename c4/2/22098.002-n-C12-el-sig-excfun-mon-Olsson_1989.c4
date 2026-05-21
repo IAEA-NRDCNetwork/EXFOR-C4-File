@@ -1,0 +1,32 @@
+#ENTRY      22098
+#AUTHOR1    N.Olsson+
+#YEAR       1989
+#INSTITUTE  (2SWDSWR)
+#TITLE      Neutron elastic and inelastic scattering from carbon
+#+          in the energy range 16.5-22.0 MeV
+#AUTHOR(S)  N.Olsson, B.Trostell, E.Ramstroem
+#REF-CODE   (J,NP/A,496,505,1989)
+#REFERENCE  Nucl.Phys.A 496 (1989) 505 (doi:10.1016/0375-9474(89)90074-2)
+#DATASETS   0
+#
+#DATASET    22098002 
+#DATE       20171107
+#REACTION   6-C-12(N,EL)6-C-12,,SIG
+#PROJ       1
+#TARG       6012
+#MF         3
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012   3   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   3   2    1.6500+7 300000.0 0.885000 0.032000                                       N.Olsson+            (89)22098  2 
+    1  6012   3   2    1.7600+7          0.871000 0.032000                                       N.Olsson+            (89)22098  2 
+    1  6012   3   2    1.8700+7          0.949000 0.034000                                       N.Olsson+            (89)22098  2 
+    1  6012   3   2    1.9800+7          1.028000 0.037000                                       N.Olsson+            (89)22098  2 
+    1  6012   3   2    2.0900+7          0.904000 0.033000                                       N.Olsson+            (89)22098  2 
+    1  6012   3   2    2.1600+7          0.929000 0.034000                                       N.Olsson+            (89)22098  2 
+    1  6012   3   2    2.2000+7 100000.0 0.938000 0.034000                                       N.Olsson+            (89)22098  2 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      32228
+#AUTHOR1    V.A.Mishchenko+
+#YEAR       1989
+#INSTITUTE  (4UKRIJD)
+#TITLE      Neuton scattering cross sections for Te-126 and Te-130
+#+          nuclei with energies 1.5 - 5.0 MeV
+#AUTHOR(S)  V.A.Mishchenko, I.A.Korzh, N.M.Pravdivy
+#REF-CODE   (J,AE,67,(2),147,1989)
+#REFERENCE  At.En. 67 No.2 (1989) 147
+#DATASETS   0
+#
+#DATASET    32228015 
+#DATE       20091027
+#REACTION   52-TE-130(N,EL)52-TE-130,,DA
+#PROJ       1
+#TARG       52130
+#MF         4
+#MT         2
+#PRODUCT    52-TE-130
+#C4BEGIN    [    1 52130   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52130   4   2    1500000.          1.930000 0.091000 0.939693                              V.A.Mishchenko+      (89)32228 15 
+    1 52130   4   2    1500000.          1.578000 0.074000 0.866025                              V.A.Mishchenko+      (89)32228 15 
+    1 52130   4   2    1500000.          1.280000 0.073000 0.766044                              V.A.Mishchenko+      (89)32228 15 
+    1 52130   4   2    1500000.          0.734000 0.042000 0.573576                              V.A.Mishchenko+      (89)32228 15 
+    1 52130   4   2    1500000.          0.295100 0.022300 0.258819                              V.A.Mishchenko+      (89)32228 15 
+    1 52130   4   2    1500000.          0.146600 0.014500 6.123-17                              V.A.Mishchenko+      (89)32228 15 
+    1 52130   4   2    1500000.          0.103400 9.5000-3-0.258819                              V.A.Mishchenko+      (89)32228 15 
+    1 52130   4   2    1500000.          0.099800 0.010500-0.422618                              V.A.Mishchenko+      (89)32228 15 
+    1 52130   4   2    1500000.          0.115700 9.9000-3-0.573576                              V.A.Mishchenko+      (89)32228 15 
+    1 52130   4   2    1500000.          0.161200 0.014000-0.707107                              V.A.Mishchenko+      (89)32228 15 
+    1 52130   4   2    1500000.          0.314700 0.020000-0.866025                              V.A.Mishchenko+      (89)32228 15 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      O0325
+#AUTHOR1    W.F.McGill+
+#YEAR       1974
+#INSTITUTE  (1USACLA)
+#TITLE      Measurements of the proton total reaction cross
+#+          section for light nuclei between 20 and 48 MeV
+#AUTHOR(S)  W.F.McGill, R.E.Carlson, T.H.Short, J.M.Cameron, J.Reginald Richardson, 
+#+          I.Slaus, W.T.H.Van Oers, J.W.Verba, D.J.Margaziotis, P.Doherty
+#REF-CODE   (J,PR/C,10,2237,1974)
+#REFERENCE  Phys.Rev.C 10 (1974) 2237 (doi:10.1103/PhysRevC.10.2237)
+#DATASETS   0
+#
+#DATASET    O0325005 
+#DATE       20230422
+#REACTION   9-F-19(P,NON),,SIG
+#PROJ       1001
+#TARG       9019
+#MF         3
+#MT         3
+#C4BEGIN    [ 1001  9019   3   3 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9019   3   3 D  4.6300+7 1000000. 2.773000 0.080000                                       W.F.McGill+          (74)O0325  5 
+ 1001  9019   3   3 D  4.3300+7 1000000. 2.838000 0.071000                                       W.F.McGill+          (74)O0325  5 
+ 1001  9019   3   3 D  3.9900+7 1000000. 2.928000 0.073000                                       W.F.McGill+          (74)O0325  5 
+ 1001  9019   3   3 D  3.6900+7 1000000. 3.044000 0.069000                                       W.F.McGill+          (74)O0325  5 
+ 1001  9019   3   3 D  3.4300+7 1000000. 3.139000 0.069000                                       W.F.McGill+          (74)O0325  5 
+ 1001  9019   3   3 D  3.0400+7 1000000. 3.318000 0.075000                                       W.F.McGill+          (74)O0325  5 
+ 1001  9019   3   3 D  2.7400+7 1000000. 3.438000 0.078000                                       W.F.McGill+          (74)O0325  5 
+ 1001  9019   3   3 D  2.4900+7 1000000. 3.562000 0.086000                                       W.F.McGill+          (74)O0325  5 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      40808
+#AUTHOR1    A.A.Van'kov+
+#YEAR       1965
+#INSTITUTE  (4RUSFEI)
+#TITLE      Measurement of the mean number of fission neutrons
+#+          emitted by U235 and Pu239 on the capture of a single
+#+          24 keV neutron.
+#AUTHOR(S)  A.A.Van'kov, Yu.Ya.Stavisskii
+#REF-CODE   (J,AE,19,(1),41,196507)
+#REFERENCE  At.En. 19 No.1 (1965) 41
+#DATASETS   0
+#
+#DATASET    40808002 
+#DATE       20130816
+#REACTION   94-PU-239(N,ABS),,SIG
+#PROJ       1
+#TARG       94239
+#MF         3
+#MT         27
+#C4BEGIN    [    1 94239   3  27  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   3  27    24000.00          2.750000 0.160000                                       A.A.Van'kov+         (65)40808  2 
+#/DATA      1
+#/DATASET

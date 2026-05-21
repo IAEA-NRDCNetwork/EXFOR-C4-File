@@ -1,0 +1,26 @@
+#ENTRY      23742
+#AUTHOR1    S.Nakamura+
+#YEAR       2021
+#INSTITUTE  (2JPNJAE)
+#TITLE      Thermal-neutron capture cross-section measurement of
+#+          Tantalum-181 using graphite thermal column at KUR
+#AUTHOR(S)  S.Nakamura, Y.Shibahara, S.Endo, A.Kimura
+#REF-CODE   (J,NST,58,1061,2021)
+#REFERENCE  J.Nucl.Sci.Technol. 58 (2021) 1061 (doi:10.1080/00223131.2021.1908187)
+#DATASETS   0
+#
+#DATASET    23742002 
+#DATE       20210831
+#REACTION   73-TA-181(N,G)73-TA-182,,SIG
+#PROJ       1
+#TARG       73181
+#MF         3
+#MT         102
+#PRODUCT    73-TA-182
+#C4BEGIN    [    1 73181   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 73181   3 102    0.025300          20.50000 0.400000                                       S.Nakamura+          (21)23742  2 
+#/DATA      1
+#/DATASET

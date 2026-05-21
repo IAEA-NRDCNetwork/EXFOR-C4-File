@@ -1,0 +1,27 @@
+#ENTRY      22140
+#AUTHOR1    O.Horibe+
+#YEAR       1989
+#INSTITUTE  (2JPNKNK)
+#TITLE      U-235 fission neutron spectrum averaged cross
+#+          sections measured for some threshold reactions on Mg,
+#+          Al, Ca, Sc, Ti, Fe, Co, Ni, Zn, Sr, Mo, Rh, In and Ce.
+#AUTHOR(S)  O.Horibe, Y.Mizumoto, T.Kusakabe, H.Chatani
+#REF-CODE   (C,89WASH,2,923,1989)
+#REFERENCE  Proceedings of 50 Years Nucl.Fission Conf., Washington D.C., 1989 2 page 923
+#DATASETS   0
+#
+#DATASET    22140026 
+#DATE       20160113
+#REACTION   13-AL-27(N,P)12-MG-27,,SIG,,FIS
+#PROJ       1
+#TARG       13027
+#MF         3
+#MT         103
+#PRODUCT    12-MG-27
+#C4BEGIN    [    1 13027   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   3 103    1500000.          4.0900-3 2.6000-4                                       O.Horibe+            (89)22140 26 
+#/DATA      1
+#/DATASET

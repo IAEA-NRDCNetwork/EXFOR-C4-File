@@ -1,0 +1,27 @@
+#ENTRY      30652
+#AUTHOR1    G.Helfer+
+#YEAR       1984
+#INSTITUTE  (2GERDRE)
+#TITLE      Cross section determination of the (n,a) reactions for
+#+          the average weight nuclei in neutron energy region
+#+          about 3 MeV by activation analysis method
+#AUTHOR(S)  G.Helfer, U.Jahn, M.Florek, J.Oravec, I.Sarka
+#REF-CODE   (J,CZJ/B,34,30,1984)
+#REFERENCE  Czechslov.J.Phys.B 34 (1984) 30 (doi:10.1007/BF01590477)
+#DATASETS   0
+#
+#DATASET    30652003 
+#DATE       20050623
+#REACTION   25-MN-55(N,A)23-V-52,,SIG
+#PROJ       1
+#TARG       25055
+#MF         3
+#MT         107
+#PRODUCT    23-V-52
+#C4BEGIN    [    1 25055   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 25055   3 107    2960000. 200000.0 7.0000-6 3.0000-6                                       G.Helfer+            (84)30652  3 
+#/DATA      1
+#/DATASET

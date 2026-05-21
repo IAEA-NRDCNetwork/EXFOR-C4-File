@@ -1,0 +1,35 @@
+#ENTRY      32892
+#AUTHOR1    Jun Zeng+
+#YEAR       2023
+#INSTITUTE  (3CPRNPC)
+#TITLE      High-precision cross sections measurement of (n,2n)
+#+          reactions on 124Xe and 78Kr isotopes in the 14 MeV
+#+          region
+#AUTHOR(S)  Jun Zeng, Chuanxin Zhu, Youjin Gong, Li Jiang, Changfan Zhang, 
+#+          Jianguo Qin, Xiaofeng Guo, Pu Zheng, Songsong Tang, Qingpei Xiang, 
+#+          Fanhua Hao, Xinxin Lu, Yongchun Xiang, Tonghua Zhu
+#REF-CODE   (J,NP/A,1030,122569,2023)
+#REFERENCE  Nucl.Phys.A 1030 (2023) 122569 (doi:10.1016/j.nuclphysa.2022.122569)
+#DATASETS   0
+#
+#DATASET    32892003 
+#DATE       20241208
+#REACTION   36-KR-78(N,2N)36-KR-77,,SIG
+#PROJ       1
+#TARG       36078
+#MF         3
+#MT         16
+#PRODUCT    36-KR-77
+#C4BEGIN    [    1 36078   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 36078   3  16    1.3400+7 300000.0 0.090300 4.3000-3                                       Jun Zeng+            (23)32892  3 
+    1 36078   3  16    1.3500+7 200000.0 0.110400 4.3000-3                                       Jun Zeng+            (23)32892  3 
+    1 36078   3  16    1.3700+7 200000.0 0.145200 5.4000-3                                       Jun Zeng+            (23)32892  3 
+    1 36078   3  16    1.4100+7 100000.0 0.204000 7.5000-3                                       Jun Zeng+            (23)32892  3 
+    1 36078   3  16    1.4500+7 200000.0 0.257300 9.7000-3                                       Jun Zeng+            (23)32892  3 
+    1 36078   3  16    1.4800+7 400000.0 0.290300 0.011100                                       Jun Zeng+            (23)32892  3 
+    1 36078   3  16    1.4900+7 400000.0 0.310600 0.011800                                       Jun Zeng+            (23)32892  3 
+#/DATA      7
+#/DATASET

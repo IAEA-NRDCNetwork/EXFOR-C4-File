@@ -1,0 +1,37 @@
+#ENTRY      O1099
+#AUTHOR1    R.Michel+
+#YEAR       2002
+#INSTITUTE  (2GERUH)
+#TITLE      Cross sections for the production of radionuclides by
+#+          proton-induced reactions on W, Ta, Pb and Bi from
+#+          thresholds up to 2.6 GeV
+#AUTHOR(S)  R.Michel, M.Gloris, J.Protoschill, U.Herpers, J.Kuhnhenn, 
+#+          F.Sudbrock, P.Malmborg, P.Kubik
+#REF-CODE   (J,NSTS,2,242,2002)
+#REFERENCE  Nucl.Sci.Techn.Supp. 2 (2002) 242
+#DATASETS   0
+#
+#DATASET    O1099019 
+#DATE       20040106
+#REACTION   74-W-0(P,X)40-ZR-89-G,CUM,SIG
+#PROJ       1001
+#TARG       74000
+#MF         3
+#MT         459
+#PRODUCT    40-ZR-89-G
+#C4BEGIN    [ 1001 74000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 74000   3 459    2.5400+8 1720000. 2.3540-4 3.9540-5           40089.0                     R.Michel+            (02)O1099 19 
+ 1001 74000   3 459    2.6000+8 1080000. 1.6730-4 3.2300-5           40089.0                     R.Michel+            (02)O1099 19 
+ 1001 74000   3 459    3.3400+8 1680000. 2.5910-4 6.2420-5           40089.0                     R.Michel+            (02)O1099 19 
+ 1001 74000   3 459    5.5900+8 1480000. 4.9370-4 5.9020-5           40089.0                     R.Michel+            (02)O1099 19 
+ 1001 74000   3 459    7.6400+8 1450000. 5.3980-4 7.2680-5           40089.0                     R.Michel+            (02)O1099 19 
+ 1001 74000   3 459    1.1600+9 1366000. 1.0010-3 1.4320-4           40089.0                     R.Michel+            (02)O1099 19 
+ 1001 74000   3 459    1.3800+9 1016000. 1.2420-3 1.3420-4           40089.0                     R.Michel+            (02)O1099 19 
+ 1001 74000   3 459    1.5700+9 1290000. 1.4030-3 1.8490-4           40089.0                     R.Michel+            (02)O1099 19 
+ 1001 74000   3 459    2.5800+9 1002000. 3.7710-3 7.4910-4           40089.0                     R.Michel+            (02)O1099 19 
+ 1001 74000   3 459    2.5900+9 1010000. 2.6940-3 2.8630-4           40089.0                     R.Michel+            (02)O1099 19 
+#/DATA      10
+#/DATASET

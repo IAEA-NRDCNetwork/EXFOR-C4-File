@@ -1,0 +1,30 @@
+#ENTRY      C0452
+#AUTHOR1    J.Yan+
+#YEAR       1997
+#INSTITUTE  (1USACSM)
+#TITLE      Deuteron-induced reactions on 9Be, 10B, and 11B at low
+#+          energies
+#AUTHOR(S)  J.Yan, F.E.Cecil, J.A.McNeil, M.A.Hofstee, P.D.Kunz
+#REF-CODE   (J,PR/C,55,1890,199704)
+#REFERENCE  Phys.Rev.C 55 (1997) 1890 (doi:10.1103/PhysRevC.55.1890)
+#DATASETS   0
+#
+#DATASET    C0452010 
+#DATE       19970701
+#REACTION   4-BE-9(D,T)4-BE-8,PAR,SIG
+#PROJ       1002
+#TARG       4009
+#MF         3
+#MT         700
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1002  4009   3 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   3 700 A  84420.85          3.0000-7 3.0000-8                   0.000000         LVLJ.Yan+               (97)C0452 10 
+ 1002  4009   3 700 A  103996.7          1.9000-6 2.0000-7                   0.000000         LVLJ.Yan+               (97)C0452 10 
+ 1002  4009   3 700 A  122349.2          7.6000-6 5.0000-7                   0.000000         LVLJ.Yan+               (97)C0452 10 
+ 1002  4009   3 700 A  141925.2          2.3000-5 1.0000-6                   0.000000         LVLJ.Yan+               (97)C0452 10 
+ 1002  4009   3 700 A  161501.2          4.1000-5 2.0000-6                   0.000000         LVLJ.Yan+               (97)C0452 10 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      O0167
+#AUTHOR1    S.F.Eccles+
+#YEAR       1966
+#INSTITUTE  (1USALRL)
+#TITLE      Study of the Strongly Excited 2+ and 3- States in
+#+          The   Fe-54,56   and  Ni-58,60,62  Isotopes  by  Proton
+#+          Scattering at 18.6 and 19.1 MeV.
+#AUTHOR(S)  S.F.Eccles, H.F.Lutz, V.A.Madsen
+#REF-CODE   (J,PR,141,1067,66)
+#REFERENCE  Phys.Rev. 141 (1966) 1067 (doi:10.1103/PhysRev.141.1067)
+#DATASETS   0
+#
+#DATASET    O0167018 
+#DATE       19970128
+#REACTION   26-FE-54(P,INL)26-FE-54,PAR,SIG,,,EXP
+#PROJ       1001
+#TARG       26054
+#MF         3
+#MT         601
+#PRODUCT    26-FE-54
+#C4BEGIN    [ 1001 26054   3 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26054   3 601    1.8600+7 50000.00 0.019000 1.9000-3                   1410000.         LVLS.F.Eccles+          (66)O0167 18 
+ 1001 26054   3 601    1.8600+7 50000.00 3.3000-3 6.6000-4                   4810000.         LVLS.F.Eccles+          (66)O0167 18 
+ 1001 26054   3 601    1.8600+7 50000.00 8.7000-3 1.7400-3                   6400000.         LVLS.F.Eccles+          (66)O0167 18 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      40787
+#AUTHOR1    G.N.Lovchikova+
+#YEAR       1960
+#INSTITUTE  (4RUSFEI)
+#TITLE      Angular distribution of elastically scattered neutrons
+#AUTHOR(S)  G.N.Lovchikova
+#REF-CODE   (J,JET,11,1036,1960)
+#REFERENCE  J.Exp.Theor.Phys. 11 (1960) 1036
+#DATASETS   0
+#
+#DATASET    40787005 
+#DATE       20231113
+#REACTION   50-SN-0(N,EL)50-SN-0,,DA
+#PROJ       1
+#TARG       50000
+#MF         4
+#MT         2
+#PRODUCT    50-SN-0
+#C4BEGIN    [    1 50000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 50000   4   2  C 220000.0          1.015000 0.030000 0.857800 0.089707                     G.N.Lovchikova       (60)40787  5 
+    1 50000   4   2  C 220000.0          0.793300 9.9000-3 0.493700 0.151779                     G.N.Lovchikova       (60)40787  5 
+    1 50000   4   2  C 220000.0          0.773500 9.9000-3 0.493000 0.151849                     G.N.Lovchikova       (60)40787  5 
+    1 50000   4   2  C 220000.0          0.410000 0.010000-8.4000-3 0.174527                     G.N.Lovchikova       (60)40787  5 
+    1 50000   4   2  C 220000.0          0.322700 0.020200-0.506300 0.150510                     G.N.Lovchikova       (60)40787  5 
+    1 50000   4   2  C 220000.0          0.263800 0.020300-0.862200 0.088413                     G.N.Lovchikova       (60)40787  5 
+#/DATA      6
+#/DATASET

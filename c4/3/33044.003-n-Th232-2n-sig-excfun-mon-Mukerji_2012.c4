@@ -1,0 +1,30 @@
+#ENTRY      33044
+#AUTHOR1    S.Mukerji+
+#YEAR       2012
+#INSTITUTE  (3INDTRM)
+#TITLE      Measurement of 232Th(n,g) and 232Th(n,2n)
+#+          cross-sections at neutron energies of 13.5, 15.5 and
+#+          17.28 MeV using neutron activation techniques
+#AUTHOR(S)  S.Mukerji, H.Naik, S.V.Suryanarayana, S.Chachara, B.S.Shivashankar, 
+#+          V.Mulik, R.Crasta, S.Samanta, B.K.Nayak, A.Saxena, S.C.Sharma, 
+#+          P.V.Bhagwat, K.K.Rasheed, R.N.Jindal, S.Ganesan, A.K.Mohanty, 
+#+          A.Goswami, P.D.Krishnani
+#REF-CODE   (J,PRM,79,249,2012)
+#REFERENCE  Pramana 79 (2012) 249 (doi:10.1007/s12043-012-0299-0)
+#DATASETS   0
+#
+#DATASET    33044003 
+#DATE       20130301
+#REACTION   90-TH-232(N,2N)90-TH-231,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         16
+#PRODUCT    90-TH-231
+#C4BEGIN    [    1 90232   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3  16 A  1.7280+7 350000.0 0.656000 0.099000                                       S.Mukerji+           (12)33044  3 
+#/DATA      1
+#/DATASET

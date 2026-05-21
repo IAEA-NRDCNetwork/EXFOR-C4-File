@@ -1,0 +1,38 @@
+#ENTRY      D5146
+#AUTHOR1    A.P.Klyucharev+
+#YEAR       1960
+#INSTITUTE  (4UKRKFT)
+#TITLE      Elastic scattering of protons by chromium isotopes at
+#+          5.40 MeV
+#AUTHOR(S)  A.P.Klyucharev, N.Ya.Rutkevich
+#REF-CODE   (J,ZET,38,285,1960)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 38 (1960) 285
+#DATASETS   0
+#
+#DATASET    D5146002 
+#DATE       20190121
+#REACTION   24-CR-52(P,EL)24-CR-52,,DA,,RTH
+#PROJ       1001
+#TARG       24052
+#MF         4
+#MT         2
+#PRODUCT    24-CR-52
+#C4BEGIN    [ 1001 24052   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24052   4   2    5400000.          30.00407          0.941323                              A.P.Klyucharev+      (60)D5146  2 
+ 1001 24052   4   2    5400000.          5.685201          0.866834                              A.P.Klyucharev+      (60)D5146  2 
+ 1001 24052   4   2    5400000.          1.638958 0.064425 0.761824                              A.P.Klyucharev+      (60)D5146  2 
+ 1001 24052   4   2    5400000.          0.782241          0.635899                              A.P.Klyucharev+      (60)D5146  2 
+ 1001 24052   4   2    5400000.          0.417845 0.018144 0.501754                              A.P.Klyucharev+      (60)D5146  2 
+ 1001 24052   4   2    5400000.          0.191162          0.331282                              A.P.Klyucharev+      (60)D5146  2 
+ 1001 24052   4   2    5400000.          0.120843 4.8858-3 0.168520                              A.P.Klyucharev+      (60)D5146  2 
+ 1001 24052   4   2    5400000.          0.081489 3.0971-3 9.7738-4                              A.P.Klyucharev+      (60)D5146  2 
+ 1001 24052   4   2    5400000.          0.064169 2.6869-3-0.166130                              A.P.Klyucharev+      (60)D5146  2 
+ 1001 24052   4   2    5400000.          0.060197 2.0243-3-0.345311                              A.P.Klyucharev+      (60)D5146  2 
+ 1001 24052   4   2    5400000.          0.063192 2.2881-3-0.487887                              A.P.Klyucharev+      (60)D5146  2 
+ 1001 24052   4   2    5400000.          0.065953 1.5882-3-0.629213                              A.P.Klyucharev+      (60)D5146  2 
+ 1001 24052   4   2    5400000.          0.067036 1.4609-3-0.755420                              A.P.Klyucharev+      (60)D5146  2 
+#/DATA      13
+#/DATASET

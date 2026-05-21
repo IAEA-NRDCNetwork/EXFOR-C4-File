@@ -1,0 +1,26 @@
+#ENTRY      30712
+#AUTHOR1    K.Dietze+
+#YEAR       1986
+#INSTITUTE  (3DDRROS)
+#TITLE      Neutron data check for structural materials by
+#+          reactivity measurements in a fast facility with
+#+          energy-independent adjoint flux
+#AUTHOR(S)  K.Dietze, K.Faehrmann, G.Huettel, E.Lehmann
+#REF-CODE   (J,KE,29,401,1986)
+#REFERENCE  Kernenergie 29 (1986) 401
+#DATASETS   0
+#
+#DATASET    30712013 
+#DATE       20150520
+#REACTION   25-MN-55(N,ABS),,SIG,,SPA
+#PROJ       1
+#TARG       25055
+#MF         3
+#MT         27
+#C4BEGIN    [    1 25055   3  27  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 25055   3  27    1000000.          0.225000 0.025000                                       K.Dietze+            (86)30712 13 
+#/DATA      1
+#/DATASET

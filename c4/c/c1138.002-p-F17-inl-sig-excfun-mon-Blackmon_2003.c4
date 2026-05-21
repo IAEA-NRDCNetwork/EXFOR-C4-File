@@ -1,0 +1,39 @@
+#ENTRY      C1138
+#AUTHOR1    J.C.Blackmon+
+#YEAR       2003
+#INSTITUTE  (1USAORL)
+#TITLE      The 14O(alpha,p)17F reaction rate
+#AUTHOR(S)  J.C.Blackmon, D.W.Bardayan, W.Bradfield-Smith, R.Brummitt, 
+#+          A.E.Champagne, A.A.Chen, T.Davinson, L.Dessieux, M.W.Guidry, 
+#+          K.I.Hahn, G.M.Hale, W.R.Hix, R.L.Kozub, Z.Ma, P.D.Parker, 
+#+          G.Rajbaidya, R.C.Runkle, C.M.Rowland, A.C.Shotter, M.S.Smith, 
+#+          L.A.V.Wormer, D.W.Visser, P.J.Woods, B.Sudarsan, L.E.Linhardt, 
+#+          C.M.Deibel, H.E.Gardiner, K.T.Macon, B.C.Rasco, M.Matos, 
+#+          D.Santiago-Gonzalez, L.T.Baby, I.Wiedenhoever, E.Koshchiy, 
+#+          G.Rogachev
+#REF-CODE   (J,NP/A,718,127,2003)
+#REFERENCE  Nucl.Phys.A 718 (2003) 127 (doi:10.1016/S0375-9474(03)00689-4)
+#DATASETS   0
+#
+#DATASET    C1138002 
+#DATE       20250612
+#REACTION   (1-H-1(9-F-17,INL)1-H-1,PAR,SIG)=(9-F-17(P,INL)9-F-17,PAR,SIG)
+#PROJ       1001
+#TARG       9017
+#MF         3
+#MT         601
+#PRODUCT    9-F-17
+#C4BEGIN    [ 1001  9017   3 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9017   3 601 A  2265936.          0.010000 1.4000-3                   495000.0         LVLJ.C.Blackmon+        (03)C1138  2 
+ 1001  9017   3 601 A  2290303.          0.012300 1.7000-3                   495000.0         LVLJ.C.Blackmon+        (03)C1138  2 
+ 1001  9017   3 601 A  2316788.          0.035100 2.6000-3                   495000.0         LVLJ.C.Blackmon+        (03)C1138  2 
+ 1001  9017   3 601 A  2336917.          0.057000 4.0000-3                   495000.0         LVLJ.C.Blackmon+        (03)C1138  2 
+ 1001  9017   3 601 A  2361284.          0.058000 4.0000-3                   495000.0         LVLJ.C.Blackmon+        (03)C1138  2 
+ 1001  9017   3 601 A  2384591.          0.019000 2.0000-3                   495000.0         LVLJ.C.Blackmon+        (03)C1138  2 
+ 1001  9017   3 601 A  2444978.          7.7000-3 1.2000-3                   495000.0         LVLJ.C.Blackmon+        (03)C1138  2 
+ 1001  9017   3 601 A  2575287.          2.6000-3 1.7000-3                   495000.0         LVLJ.C.Blackmon+        (03)C1138  2 
+#/DATA      8
+#/DATASET

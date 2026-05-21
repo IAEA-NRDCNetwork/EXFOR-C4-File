@@ -1,0 +1,31 @@
+#ENTRY      F0901
+#AUTHOR1    V.V.Okorokov+
+#YEAR       1971
+#INSTITUTE  (4RUSITE)
+#TITLE      (a,n) reactions on nuclei with intermediate atomic
+#+          number.
+#AUTHOR(S)  V.V.Okorokov, V.M.Serezhin, V.A.Smotryaev, D.L.Tolchenkov, 
+#+          I.S.Trostin, Yu.N.Cheblukov
+#REF-CODE   (J,YF,14,287,1971)
+#REFERENCE  Yad.Fiz. 14 (1971) 287
+#DATASETS   0
+#
+#DATASET    F0901003 
+#DATE       20080421
+#REACTION   26-FE-54(A,N)28-NI-57,PAR,DA
+#PROJ       2004
+#TARG       26054
+#MF         4
+#MT         50
+#PRODUCT    28-NI-57
+#C4BEGIN    [ 2004 26054   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 26054   4  50    2.2800+7          1.5000-4          0.956305          0.000000         LVLV.V.Okorokov+        (71)F0901  3 
+ 2004 26054   4  50    2.2800+7          1.3000-4          0.956305          1100000.         LVLV.V.Okorokov+        (71)F0901  3 
+ 2004 26054   4  50    2.2800+7          4.0000-5          0.956305          2530000.         LVLV.V.Okorokov+        (71)F0901  3 
+ 2004 26054   4  50    2.2800+7          2.3000-4          0.956305          3860000.         LVLV.V.Okorokov+        (71)F0901  3 
+ 2004 26054   4  50    2.2800+7          3.5000-4          0.956305          5920000.         LVLV.V.Okorokov+        (71)F0901  3 
+#/DATA      5
+#/DATASET

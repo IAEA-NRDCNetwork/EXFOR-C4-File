@@ -1,0 +1,25 @@
+#ENTRY      10805
+#AUTHOR1    J.C.Browne+
+#YEAR       1984
+#INSTITUTE  (1USALRL)
+#TITLE      242Am(m) fission cross section
+#AUTHOR(S)  J.C.Browne, R.M.White, R.E.Howe, J.H.Landrum, R.J.Dougan, 
+#+          R.J.Dupzyk
+#REF-CODE   (J,PR/C,29,2188,1984)
+#REFERENCE  Phys.Rev.C 29 (1984) 2188 (doi:10.1103/PhysRevC.29.2188)
+#DATASETS   0
+#
+#DATASET    10805002 
+#DATE       20101001
+#REACTION   95-AM-242-M(N,F),,SIG
+#PROJ       1
+#TARG       95242
+#MF         3
+#MT         18
+#C4BEGIN    [    1 95242M  3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95242M  3  18 A  0.025300          6328.000 320.0000                                       J.C.Browne+          (84)10805  2 
+#/DATA      1
+#/DATASET

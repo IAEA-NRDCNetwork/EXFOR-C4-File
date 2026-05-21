@@ -1,0 +1,27 @@
+#ENTRY      11218
+#AUTHOR1    R.B.Day+
+#YEAR       1956
+#INSTITUTE  (1USALAS)
+#TITLE      GAMMA RAYS FROM NEUTRON INELASTIC SCATTERING.
+#AUTHOR(S)  R.B.Day
+#REF-CODE   (J,PR,102,767,56)
+#REFERENCE  Phys.Rev. 102 (1956) 767 (doi:10.1103/PhysRev.102.767)
+#DATASETS   0
+#
+#DATASET    11218023 
+#DATE       19800820
+#REACTION   28-NI-60(N,INL)28-NI-60,PAR,DA,G,4PI
+#PROJ       1
+#TARG       28060
+#MF         14
+#MT         51
+#PRODUCT    28-NI-60
+#C4BEGIN    [    1 28060  14  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28060  14  51 D  2560000. 30000.00 0.016313         -0.087156          827000.0            R.B.Day              (56)11218 23 
+    1 28060  14  51 D  2560000. 30000.00 0.052839         -0.087156          1329000.            R.B.Day              (56)11218 23 
+    1 28060  14  51 D  2560000. 30000.00 4.9338-3         -0.087156          2180000.            R.B.Day              (56)11218 23 
+#/DATA      3
+#/DATASET

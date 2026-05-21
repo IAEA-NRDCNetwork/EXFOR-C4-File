@@ -1,0 +1,40 @@
+#ENTRY      E2233
+#AUTHOR1    T.Nakamura+
+#YEAR       1962
+#INSTITUTE  (2JPNKTO)
+#TITLE      Angular distributions of the alpha particles from the
+#+          (p,a) reactions on Na23 and K39 at 6.9-7.3 MeV
+#AUTHOR(S)  T.Nakamura, K.Takamatsu, A.Masaike, S.Kakigi, D.C.Nguyen, 
+#+          S.Yamashita, T.Yanabu
+#REF-CODE   (J,JPJ,17,19,1962)
+#REFERENCE  J.Phys.Soc.Jpn. 17 (1962) 19 (doi:10.1143/JPSJ.17.19)
+#DATASETS   0
+#
+#DATASET    E2233005 
+#DATE       20160520
+#REACTION   11-NA-23(P,A)10-NE-20,PAR,DA
+#PROJ       1001
+#TARG       11023
+#MF         4
+#MT         800
+#PRODUCT    10-NE-20
+#C4BEGIN    [ 1001 11023   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 11023   4 800  C 7300000.          5.4510-3 5.1900-4 0.844795          1632000.         LVLT.Nakamura+          (62)E2233  5 
+ 1001 11023   4 800  C 7300000.          5.3100-3 4.1500-4 0.738573          1632000.         LVLT.Nakamura+          (62)E2233  5 
+ 1001 11023   4 800  C 7300000.          4.5750-3 3.9800-4 0.595384          1632000.         LVLT.Nakamura+          (62)E2233  5 
+ 1001 11023   4 800  C 7300000.          3.7400-3 3.2900-4 0.441819          1632000.         LVLT.Nakamura+          (62)E2233  5 
+ 1001 11023   4 800  C 7300000.          3.4910-3 4.1500-4 0.264546          1632000.         LVLT.Nakamura+          (62)E2233  5 
+ 1001 11023   4 800  C 7300000.          2.9850-3 3.6400-4 0.085243          1632000.         LVLT.Nakamura+          (62)E2233  5 
+ 1001 11023   4 800  C 7300000.          2.4800-3 2.2500-4-0.087503          1632000.         LVLT.Nakamura+          (62)E2233  5 
+ 1001 11023   4 800  C 7300000.          2.4420-3 2.4200-4-0.257976          1632000.         LVLT.Nakamura+          (62)E2233  5 
+ 1001 11023   4 800  C 7300000.          2.9080-3 3.4600-4-0.417867          1632000.         LVLT.Nakamura+          (62)E2233  5 
+ 1001 11023   4 800  C 7300000.          3.7060-3 3.9800-4-0.551937          1632000.         LVLT.Nakamura+          (62)E2233  5 
+ 1001 11023   4 800  C 7300000.          4.3950-3 3.4600-4-0.687975          1632000.         LVLT.Nakamura+          (62)E2233  5 
+ 1001 11023   4 800  C 7300000.          5.3310-3 4.3300-4-0.793247          1632000.         LVLT.Nakamura+          (62)E2233  5 
+ 1001 11023   4 800  C 7300000.          6.1240-3 4.6800-4-0.886688          1632000.         LVLT.Nakamura+          (62)E2233  5 
+ 1001 11023   4 800  C 7300000.          7.1480-3 4.6700-4-0.944663          1632000.         LVLT.Nakamura+          (62)E2233  5 
+#/DATA      14
+#/DATASET

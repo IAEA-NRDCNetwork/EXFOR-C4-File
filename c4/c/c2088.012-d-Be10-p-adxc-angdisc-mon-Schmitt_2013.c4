@@ -1,0 +1,38 @@
+#ENTRY      C2088
+#AUTHOR1    K.T.Schmitt+
+#YEAR       2013
+#INSTITUTE  (1USATEN)
+#TITLE      Reactions of a 10Be beam on proton and deuteron targets
+#AUTHOR(S)  K.T.Schmitt, K.L.Jones, S.Ahn, D.W.Bardayan, A.Bey, J.C.Blackmon, 
+#+          S.M.Brown, K.Y.Chae, K.A.Chipps, J.A.Cizewski, K.I.Hahn, 
+#+          J.J.Kolata, R.L.Kozub, J.F.Liang, C.Matei, M.Matos, D.Matyas, 
+#+          B.Moazen, C.D.Nesaraja, F.M.Nunes, P.D.O'Malley, S.D.Pain, 
+#+          W.A.Peters, S.T.Pittman, A.Roberts, D.Shapira, J.F.Shriner Jr, 
+#+          M.S.Smith, I.Spassova, D.W.Stracener, N.J.Upadhyay, A.N.Villano, 
+#+          G.L.Wilson
+#REF-CODE   (J,PR/C,88,064612,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 064612 (doi:10.1103/PhysRevC.88.064612)
+#DATASETS   0
+#
+#DATASET    C2088012 
+#DATE       20140123
+#REACTION   4-BE-10(D,P)4-BE-11,PAR,DA
+#PROJ       1002
+#TARG       4010
+#MF         4
+#MT         600
+#PRODUCT    4-BE-11
+#C4BEGIN    [ 1002  4010   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4010   4 600  C 1.8000+7          0.022200 2.2200-3 0.996637          0.000000         LVLK.T.Schmitt+         (13)C2088 12 
+ 1002  4010   4 600  C 1.8000+7          0.017800 1.7800-3 0.994338          0.000000         LVLK.T.Schmitt+         (13)C2088 12 
+ 1002  4010   4 600  C 1.8000+7          0.013000 1.3000-3 0.991216          0.000000         LVLK.T.Schmitt+         (13)C2088 12 
+ 1002  4010   4 600  C 1.8000+7          0.010800 1.0800-3 0.986572          0.000000         LVLK.T.Schmitt+         (13)C2088 12 
+ 1002  4010   4 600  C 1.8000+7          8.1300-3 8.1300-4 0.980615          0.000000         LVLK.T.Schmitt+         (13)C2088 12 
+ 1002  4010   4 600  C 1.8000+7          7.8000-4 7.8000-5 0.601815          0.000000         LVLK.T.Schmitt+         (13)C2088 12 
+ 1002  4010   4 600  C 1.8000+7          7.4000-4 7.4000-5 0.489382          0.000000         LVLK.T.Schmitt+         (13)C2088 12 
+ 1002  4010   4 600  C 1.8000+7          2.3000-4 2.3000-5 0.358368          0.000000         LVLK.T.Schmitt+         (13)C2088 12 
+#/DATA      8
+#/DATASET

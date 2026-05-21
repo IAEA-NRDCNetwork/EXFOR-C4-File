@@ -1,0 +1,29 @@
+#ENTRY      40839
+#AUTHOR1    V.P.Vertebnyy+
+#YEAR       1980
+#INSTITUTE  (4UKRIJD)
+#TITLE      .Determination of the neutron strength functions and
+#+          optical scattering lengths for heavy nuclei using
+#+          resonance neutron self-shielding
+#AUTHOR(S)  V.P.Vertebnyy, N.L.Gnidak, A.V.Grebnev, A.L.Kirilyuk, G.M.Novoselov, 
+#+          E.A.Pavlenko, N.A.Trofimova
+#REF-CODE   (R,INDC(CCP)-169,(2),249,1980)
+#REFERENCE  Report INDC(CCP)-169 Vol.(2) page 249, 1980
+#DATASETS   0
+#
+#DATASET    40839007 
+#DATE       20231226
+#REACTION   79-AU-197(N,EL)79-AU-197,,SIG,,SPA
+#PROJ       1
+#TARG       79197
+#MF         3
+#MT         2
+#PRODUCT    79-AU-197
+#C4BEGIN    [    1 79197   3   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   3   2    2000.000          26.50000 0.300000                                       V.P.Vertebnyy+       (80)40839  7 
+    1 79197   3   2    24500.00          12.93000 0.060000                                       V.P.Vertebnyy+       (80)40839  7 
+#/DATA      2
+#/DATASET

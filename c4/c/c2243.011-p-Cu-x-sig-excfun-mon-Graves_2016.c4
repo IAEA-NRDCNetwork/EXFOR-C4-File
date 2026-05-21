@@ -1,0 +1,32 @@
+#ENTRY      C2243
+#AUTHOR1    S.A.Graves+
+#YEAR       2016
+#INSTITUTE  (1USAWIS)
+#TITLE      Nuclear excitation functions of proton-induced
+#+          reactions (Ep=35-90 MeV) from Fe, Cu, and Al
+#AUTHOR(S)  S.A.Graves, P.A.Ellison, T.E.Barnhart, H.F.Valdovinos, E.R.Birnbaum, 
+#+          F.M.Nortier, R.J.Nickles, J.W.Engle
+#REF-CODE   (J,NIM/B,386,44,2016)
+#REFERENCE  Nucl.Instrum.Meth.B 386 (2016) 44 (doi:10.1016/j.nimb.2016.09.018)
+#DATASETS   0
+#
+#DATASET    C2243011 
+#DATE       20171107
+#REACTION   29-CU-0(P,X)25-MN-54,,SIG
+#PROJ       1001
+#TARG       29000
+#MF         3
+#MT         454
+#PRODUCT    25-MN-54
+#C4BEGIN    [ 1001 29000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   3 454    8.9400+7 600000.0 6.3600-3 4.0000-4           25054.9                     S.A.Graves+          (16)C2243 11 
+ 1001 29000   3 454    7.8600+7 900000.0 3.9300-3 3.7000-4           25054.9                     S.A.Graves+          (16)C2243 11 
+ 1001 29000   3 454    6.9100+7 1100000. 4.7600-3 5.2000-4           25054.9                     S.A.Graves+          (16)C2243 11 
+ 1001 29000   3 454    5.8600+7 1400000. 4.9200-3 5.3000-4           25054.9                     S.A.Graves+          (16)C2243 11 
+ 1001 29000   3 454    4.8000+7 1600000. 9.0700-4 9.5000-5           25054.9                     S.A.Graves+          (16)C2243 11 
+ 1001 29000   3 454    3.5100+7 1900000. 6.6000-5 1.2000-5           25054.9                     S.A.Graves+          (16)C2243 11 
+#/DATA      6
+#/DATASET

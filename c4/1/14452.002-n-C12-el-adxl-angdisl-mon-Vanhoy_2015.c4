@@ -1,0 +1,40 @@
+#ENTRY      14452
+#AUTHOR1    J.R.Vanhoy+
+#YEAR       2015
+#INSTITUTE  (1USAANA)
+#TITLE      The Neutron Time-of-Flight Cross Section Program at
+#+          the University of Kentucky - Adventures in Analysis II
+#AUTHOR(S)  J.R.Vanhoy, S.F.Hicks, B.C.Combs, B.P.Crider, A.J.French, 
+#+          E.A.Garza, S.L.Henderson, T.J.Howard, S.H.Liu, S.Nigam, 
+#+          R.L.Pecha, E.E.Peters, F.M.Prados-Estevez, M.T.McEllistrem, 
+#+          B.J.Rice, T.J.Ross, Z.C.Santonil, L.C.Sidwell, J.L.Steves, 
+#+          S.W.Yates
+#REF-CODE   (J,EPJ/CS,93,02014,2015)
+#REFERENCE  EPJ Web Conf. 93 (2015) 02014 (doi:10.1051/epjconf/20159302014)
+#DATASETS   0
+#
+#DATASET    14452002 
+#DATE       20160420
+#REACTION   6-C-12(N,EL)6-C-12,,DA
+#PROJ       1
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   4   2    3800000.          0.513956 0.044748 0.866025                              J.R.Vanhoy+          (15)14452  2 
+    1  6012   4   2    3800000.          0.324139 0.028680 0.766044                              J.R.Vanhoy+          (15)14452  2 
+    1  6012   4   2    3800000.          0.100061 9.2445-3 0.500000                              J.R.Vanhoy+          (15)14452  2 
+    1  6012   4   2    3800000.          0.039902 3.8900-3 0.173648                              J.R.Vanhoy+          (15)14452  2 
+    1  6012   4   2    3800000.          0.055795 5.5989-3 6.123-17                              J.R.Vanhoy+          (15)14452  2 
+    1  6012   4   2    3800000.          0.091684 9.4722-3-0.173648                              J.R.Vanhoy+          (15)14452  2 
+    1  6012   4   2    3800000.          0.132872 0.014123-0.342020                              J.R.Vanhoy+          (15)14452  2 
+    1  6012   4   2    3800000.          0.181031 0.019766-0.500000                              J.R.Vanhoy+          (15)14452  2 
+    1  6012   4   2    3800000.          0.236762 0.026489-0.642788                              J.R.Vanhoy+          (15)14452  2 
+    1  6012   4   2    3800000.          0.305328 0.034891-0.766044                              J.R.Vanhoy+          (15)14452  2 
+    1  6012   4   2    3800000.          0.368662 0.042861-0.866025                              J.R.Vanhoy+          (15)14452  2 
+#/DATA      11
+#/DATASET

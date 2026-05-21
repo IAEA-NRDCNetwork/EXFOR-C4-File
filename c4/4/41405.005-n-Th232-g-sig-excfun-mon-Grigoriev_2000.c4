@@ -1,0 +1,35 @@
+#ENTRY      41405
+#AUTHOR1    Yu.V.Grigoriev+
+#YEAR       2000
+#INSTITUTE  (4RUSFEI)
+#TITLE      Investigation of the 232Th neutron cross-sections
+#+          in resonance energy range
+#AUTHOR(S)  Yu.V.Grigoriev, V.Ya.Kitaev, V.V.Sinitsa, B.V.Zhuravlev, 
+#+          S.B.Borzakov, H.Fajkov-Stanchik, G.L.Ilchev, Ts.Ts.Panteleev, 
+#+          G.N.Kim
+#REF-CODE   (J,YK,,(2),3,2000)
+#REFERENCE  Yad.Reak.Konst.  No.2 (2000) 3
+#DATASETS   0
+#
+#DATASET    41405005 
+#DATE       20191114
+#REACTION   90-TH-232(N,G)90-TH-233,,SIG,,AV
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         102
+#PRODUCT    90-TH-233
+#C4BEGIN    [    1 90232   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3 102 D  7325.000 2675.000 0.860000 0.100000                                       Yu.V.Grigoriev+      (00)41405  5 
+    1 90232   3 102 D  3400.000 1250.000 1.700000 0.200000                                       Yu.V.Grigoriev+      (00)41405  5 
+    1 90232   3 102 D  1575.000 575.0000 2.340000 0.200000                                       Yu.V.Grigoriev+      (00)41405  5 
+    1 90232   3 102 D  732.5000 267.5000 3.960000 0.400000                                       Yu.V.Grigoriev+      (00)41405  5 
+    1 90232   3 102 D  340.0000 125.0000 5.840000 0.600000                                       Yu.V.Grigoriev+      (00)41405  5 
+    1 90232   3 102 D  157.5000 57.50000 19.90000 3.000000                                       Yu.V.Grigoriev+      (00)41405  5 
+    1 90232   3 102 D  73.25000 26.75000 20.30000 2.000000                                       Yu.V.Grigoriev+      (00)41405  5 
+    1 90232   3 102 D  34.00000 12.50000 57.00000 5.000000                                       Yu.V.Grigoriev+      (00)41405  5 
+#/DATA      8
+#/DATASET

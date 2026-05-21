@@ -1,0 +1,32 @@
+#ENTRY      A1096
+#AUTHOR1    A.Niiler+
+#YEAR       1970
+#INSTITUTE  (1USALAS)
+#TITLE      The D(p,d*)p cross section from the D(p,2p)n reaction
+#AUTHOR(S)  A.Niiler, W.Witsch, G.C.Phillips, C.Joseph, V.Valkovic
+#REF-CODE   (J,PR/C,1,1342,1970)
+#REFERENCE  Phys.Rev.C 1 (1970) 1342 (doi:10.1103/PhysRevC.1.1342)
+#DATASETS   0
+#
+#DATASET    A1096002 
+#DATE       20240708
+#REACTION   1-H-2(P,EL)1-H-2,,DA
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4   2    9000000.          0.071000 2.4850-3 0.866025                              A.Niiler+            (70)A1096  2 
+ 1001  1002   4   2    9500000.          0.065800 2.3030-3 0.866025                              A.Niiler+            (70)A1096  2 
+ 1001  1002   4   2    1.0000+7          0.060600 2.1210-3 0.866025                              A.Niiler+            (70)A1096  2 
+ 1001  1002   4   2    1.0500+7          0.056500 1.9775-3 0.866025                              A.Niiler+            (70)A1096  2 
+ 1001  1002   4   2    1.0750+7          0.054400 1.9040-3 0.866025                              A.Niiler+            (70)A1096  2 
+ 1001  1002   4   2    1.1000+7          0.053000 1.8550-3 0.866025                              A.Niiler+            (70)A1096  2 
+ 1001  1002   4   2    1.1250+7          0.050900 1.7815-3 0.866025                              A.Niiler+            (70)A1096  2 
+ 1001  1002   4   2    1.1500+7          0.049500 1.7325-3 0.866025                              A.Niiler+            (70)A1096  2 
+#/DATA      8
+#/DATASET

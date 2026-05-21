@@ -1,0 +1,29 @@
+#ENTRY      31420
+#AUTHOR1    Zhou Hongyu+
+#YEAR       1989
+#INSTITUTE  (3CPRBNU)
+#TITLE      Production cross section measurement of discrete
+#+          gamma-ray at 90 deg. for interactions of 14.9 MeV
+#+          neutrons with carbon and niobium.
+#AUTHOR(S)  Zhou Hongyu, Yan Yiming, Tanglin, Wen Shenlin, Zhang Shenji, 
+#+          Hua Ming, Han Chongzhan, Ding Xiaoji, Lan Liqiao, Fan Guoying, 
+#+          Yan Hua, Wang Xingfu, Wang Qi, Sun Suxu, Rong Yaning, Liu Shuzhen
+#REF-CODE   (J,CNP,11,(2),63,1989)
+#REFERENCE  Chin.J.Nucl.Phys. 11 No.2 (1989) 63
+#DATASETS   0
+#
+#DATASET    31420002 
+#DATE       20100220
+#REACTION   6-C-12(N,INL)6-C-12,PAR,DA,G
+#PROJ       1
+#TARG       6012
+#MF         14
+#MT         51
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012  14  51    1.4900+7          0.011480 8.0000-4 6.123-17          4439000.            Zhou Hongyu+         (89)31420  2 
+#/DATA      1
+#/DATASET

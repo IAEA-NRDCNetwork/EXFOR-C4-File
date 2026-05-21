@@ -1,0 +1,33 @@
+#ENTRY      41614
+#AUTHOR1    A.A.Filatenkov+
+#YEAR       2016
+#INSTITUTE  (4RUSRI)
+#TITLE      Neutron activation cross sections measured at KRI
+#+          in neutron energy region 13.4 - 14.9 MeV
+#AUTHOR(S)  A.A.Filatenkov
+#REF-CODE   (R,INDC(CCP)-0460,2016)
+#REFERENCE  Report INDC(CCP)-0460, 2016
+#DATASETS   0
+#
+#DATASET    41614239 
+#DATE       20160512
+#REACTION   90-TH-232(N,2N)90-TH-231,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         16
+#PRODUCT    90-TH-231
+#C4BEGIN    [    1 90232   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3  16    1.3480+7          1.921000 0.138696                                       A.A.Filatenkov       (16)41614239 
+    1 90232   3  16    1.3670+7          1.799000 0.124311                                       A.A.Filatenkov       (16)41614239 
+    1 90232   3  16    1.3880+7          1.727000 0.129870                                       A.A.Filatenkov       (16)41614239 
+    1 90232   3  16    1.4060+7          1.521000 0.108143                                       A.A.Filatenkov       (16)41614239 
+    1 90232   3  16    1.4280+7          1.444000 0.099636                                       A.A.Filatenkov       (16)41614239 
+    1 90232   3  16    1.4460+7          1.308000 0.091691                                       A.A.Filatenkov       (16)41614239 
+    1 90232   3  16    1.4670+7          1.281000 0.087492                                       A.A.Filatenkov       (16)41614239 
+    1 90232   3  16    1.4830+7          1.150000 0.083030                                       A.A.Filatenkov       (16)41614239 
+#/DATA      8
+#/DATASET

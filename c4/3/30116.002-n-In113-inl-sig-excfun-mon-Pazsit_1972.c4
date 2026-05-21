@@ -1,0 +1,27 @@
+#ENTRY      30116
+#AUTHOR1    A.Pazsit+
+#YEAR       1972
+#INSTITUTE  (3HUNKOS)
+#TITLE      In-113(n,n'g)In-113m and Rh-103(n,n'g)Rh-103m cross-
+#+          sections for fast neutrons
+#AUTHOR(S)  A.Pazsit, J.Csikai
+#REF-CODE   (J,YF,15,412,197203)
+#REFERENCE  Yad.Fiz. 15 (1972) 412
+#DATASETS   0
+#
+#DATASET    30116002 
+#DATE       20080208
+#REACTION   49-IN-113(N,INL)49-IN-113-M,,SIG
+#PROJ       1
+#TARG       49113
+#MF         3
+#MT         4
+#PRODUCT    49-IN-113-M
+#C4BEGIN    [    1 49113   3   4MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49113   3   4MA  2800000.          0.260000 0.025000                                       A.Pazsit+            (72)30116  2 
+    1 49113   3   4MA  1.4700+7          0.066000 5.0000-3                                       A.Pazsit+            (72)30116  2 
+#/DATA      2
+#/DATASET

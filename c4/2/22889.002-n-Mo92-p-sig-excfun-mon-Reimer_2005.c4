@@ -1,0 +1,30 @@
+#ENTRY      22889
+#AUTHOR1    P.Reimer+
+#YEAR       2005
+#INSTITUTE  (2ZZZGEL)
+#TITLE      Reaction mechanisms of fast neutrons on stable Mo
+#+          isotopes below 21 MeV.
+#AUTHOR(S)  P.Reimer, V.Avrigeanu, S.V.Chuvaev, A.A.Filatenkov, T.Glodariu, 
+#+          A.Koning, A.J.M.Plompen, S.M.Qaim, D.L.Smith, H.Weigmann
+#REF-CODE   (J,PR/C,71,044617,200504)
+#REFERENCE  Phys.Rev.C 71 (2005) 044617 (doi:10.1103/PhysRevC.71.044617)
+#DATASETS   0
+#
+#DATASET    22889002 
+#DATE       20051115
+#REACTION   42-MO-92(N,P)41-NB-92-M,,SIG
+#PROJ       1
+#TARG       42092
+#MF         3
+#MT         103
+#PRODUCT    41-NB-92-M
+#C4BEGIN    [    1 42092   3 103MC]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42092   3 103MC  1.6200+7 300000.0 0.043100 2.9000-3                                       P.Reimer+            (05)22889  2 
+    1 42092   3 103MC  1.8000+7 100000.0 0.034300 3.1000-3                                       P.Reimer+            (05)22889  2 
+    1 42092   3 103MC  1.9300+7 100000.0 0.040900 5.5000-3                                       P.Reimer+            (05)22889  2 
+    1 42092   3 103MC  2.0500+7 100000.0 0.039700 6.7000-3                                       P.Reimer+            (05)22889  2 
+#/DATA      4
+#/DATASET

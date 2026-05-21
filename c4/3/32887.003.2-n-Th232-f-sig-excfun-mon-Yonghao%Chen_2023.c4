@@ -1,0 +1,61 @@
+#ENTRY      32887
+#AUTHOR1    Yonghao Chen+
+#YEAR       2023
+#INSTITUTE  (3CPRIHP)
+#TITLE      Measurement of neutron-induced fission cross sections
+#+          of 232Th from 1 to 300 MeV at CSNS Back-n
+#AUTHOR(S)  Yonghao Chen, Yiwei Yang, Zhizhou Ren, Wei Jiang, Ruirui Fan, 
+#+          Han Yi, Rong Liu, Jingyu Tang, Hantao Jing, Yang Li, Qiang Li, 
+#+          Zhixin Tan, Qi An, Jiangbo Bai, Jie Bao, Yu Bao, Ping Cao, 
+#+          Haolei Chen, Qiping Chen, Zhen Chen, Zengqi Cui, Changqing Feng, 
+#+          Keqing Gao, Xiaolong Gao, Minhao Gu, Changcai Han, Zijie Han, 
+#+          Guozhu He, Yongcheng He, Yang Hong, Yiwei Hu, Hanxiong Huang, 
+#+          Xiru Huang, Haoyu Jiang, Zhijie Jiang, Ling Kang, Bo Li, 
+#+          Chao Li, Jiawen Li, Xiao Li, Jie Liu, Shubin Liu, Xingyan Liu, 
+#+          Ze Long, Guangyuan Luan, Changjun Ning, Mengchen Niu, Binbin Qi, 
+#+          Jie Ren, Xichao Ruan, Zhaohui Song, Kang Sun, Zhijia Sun, 
+#+          Xinyi Tang, Binbin Tian, Lijiao Wang, Pengcheng Wang, Zhaohui Wang, 
+#+          Zhongwei Wen, Xiaoguang Wu, Xuan Wu, Likun Xie, Xiaoyun Yang, 
+#+          Li Yu, Tao Yu, Yongji Yu, Guohui Zhang, Linhao Zhang, Qiwei Zhang, 
+#+          Xianpeng Zhang, Yuliang Zhang, Zhiyong Zhang, Luping Zhou, 
+#+          Zhihao Zhou, Kejun Zhu
+#REF-CODE   (J,PL/B,839,137832,2023)
+#REFERENCE  Phys.Lett.B 839 (2023) 137832 (doi:10.1016/j.physletb.2023.137832)
+#DATASETS   0
+#
+#DATASET    328870032
+#DATE       20230401
+#REACTION   90-TH-232(N,F),,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [    1 90232   3  18 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3  18 C  1.0500+7 500000.0 0.334609 4.3834-3                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  1.1500+7 500000.0 0.303119 4.5250-3                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  1.2500+7 500000.0 0.294924 4.9110-3                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  1.3500+7 500000.0 0.335644 5.8396-3                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  1.4500+7 500000.0 0.383705 6.8260-3                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  1.5500+7 500000.0 0.424953 7.6736-3                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  1.6500+7 500000.0 0.490856 9.3680-3                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  1.7500+7 500000.0 0.513110 0.010325                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  1.8500+7 500000.0 0.511888 0.010947                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  1.9500+7 500000.0 0.553537 0.012391                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  2.1901+7 1007900. 0.638148 0.010639                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  2.4014+7 1105100. 0.675085 0.011960                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  2.6331+7 1211700. 0.726039 0.014308                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  2.8871+7 1328600. 0.778183 0.016199                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  3.1656+7 1456800. 0.837263 0.019302                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  3.4710+7 1597300. 0.810683 0.019823                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  3.8059+7 1751500. 0.857348 0.023343                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  4.1731+7 1920400. 0.931916 0.029560                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  4.5757+7 2105700. 0.937253 0.034420                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  5.0172+7 2308900. 0.935955 0.038328                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  5.5012+7 2531600. 0.943915 0.045651                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  6.0320+7 2775900. 0.990295 0.055618                                       Yonghao Chen+        (23)32887  32
+    1 90232   3  18 C  6.6139+7 3043700. 0.983617 0.059266                                       Yonghao Chen+        (23)32887  32
+#/DATA      23
+#/DATASET

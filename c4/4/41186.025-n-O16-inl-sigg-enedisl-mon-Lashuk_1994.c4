@@ -1,0 +1,30 @@
+#ENTRY      41186
+#AUTHOR1    A.I.Lashuk+
+#YEAR       1994
+#INSTITUTE  (4RUSFEI)
+#TITLE      Gamma-quanta production cross-sections at inelastic
+#+          scattering of the neutrons on the nuclei of reactor
+#+          construction materials.
+#AUTHOR(S)  A.I.Lashuk, I.P.Sadokhin
+#REF-CODE   (J,YK,,(1),26,1994)
+#REFERENCE  Yad.Reak.Konst.  No.1 (1994) 26
+#DATASETS   0
+#
+#DATASET    41186025 
+#DATE       20191107
+#REACTION   8-O-16(N,INL)8-O-16,PAR,SIG,G
+#PROJ       1
+#TARG       8016
+#MF         13
+#MT         51
+#PRODUCT    8-O-16
+#C4BEGIN    [    1  8016  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016  13  51    1.6300+7          0.154000 0.017000                   511000.0            A.I.Lashuk+          (94)41186 25 
+    1  8016  13  51    1.6300+7          9.0000-3 2.0000-3                   2748000.            A.I.Lashuk+          (94)41186 25 
+    1  8016  13  51    1.6300+7          0.272000 0.030000                   6133000.            A.I.Lashuk+          (94)41186 25 
+    1  8016  13  51    1.6300+7          0.015000 2.0000-3                   7112000.            A.I.Lashuk+          (94)41186 25 
+#/DATA      4
+#/DATASET

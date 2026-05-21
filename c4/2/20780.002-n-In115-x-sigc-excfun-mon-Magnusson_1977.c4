@@ -1,0 +1,26 @@
+#ENTRY      20780
+#AUTHOR1    G.Magnusson+
+#YEAR       1977
+#INSTITUTE  (2SWDLND)
+#TITLE      14.7-MeV neutron capture cross-section measurements
+#+          with improved activation technique
+#AUTHOR(S)  G.Magnusson, I.Bergqvist
+#REF-CODE   (J,NT,34,114,197706)
+#REFERENCE  Nucl.Technol. 34 (1977) 114 (doi:10.13182/NT77-A31836)
+#DATASETS   0
+#
+#DATASET    20780002 
+#DATE       20160725
+#REACTION   49-IN-115(N,G)49-IN-116-M1,M+,SIG
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         459
+#PRODUCT    49-IN-116-M1
+#C4BEGIN    [    1 49115   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3 459    1.4700+7          8.3000-4 6.0000-5           49116.1                     G.Magnusson+         (77)20780  2 
+#/DATA      1
+#/DATASET

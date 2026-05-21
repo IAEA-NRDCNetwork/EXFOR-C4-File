@@ -1,0 +1,31 @@
+#ENTRY      C2296
+#AUTHOR1    R.A.Glass+
+#YEAR       1956
+#INSTITUTE  (1USABRK)
+#TITLE      Spallation-Fission Competition in Heaviest Elements;
+#+          Helium-Ion-Induced Reactions in Plutonium Isotopes
+#AUTHOR(S)  R.A.Glass, R.J.Carr, J.W.Cobble, G.T.Seaborg
+#REF-CODE   (J,PR,104,434,1956)
+#REFERENCE  Phys.Rev. 104 (1956) 434 (doi:10.1103/PhysRev.104.434)
+#DATASETS   0
+#
+#DATASET    C2296029 
+#DATE       20180514
+#REACTION   94-PU-239(A,F)48-CD-117,(CUM),SIG
+#PROJ       2004
+#TARG       94239
+#MF         3
+#MT         459
+#PRODUCT    48-CD-117
+#C4BEGIN    [ 2004 94239   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 94239   3 459    2.0200+7          4.0000-5 1.0000-5           48117.9                     R.A.Glass+           (56)C2296 29 
+ 2004 94239   3 459    3.4000+7          6.2000-3 1.5500-3           48117.9                     R.A.Glass+           (56)C2296 29 
+ 2004 94239   3 459    3.8000+7          0.018000 4.5000-3           48117.9                     R.A.Glass+           (56)C2296 29 
+ 2004 94239   3 459    4.0700+7          0.023000 5.7500-3           48117.9                     R.A.Glass+           (56)C2296 29 
+ 2004 94239   3 459    4.6000+7          0.048000 0.012000           48117.9                     R.A.Glass+           (56)C2296 29 
+ 2004 94239   3 459    4.7500+7          0.085000 0.021250           48117.9                     R.A.Glass+           (56)C2296 29 
+#/DATA      6
+#/DATASET

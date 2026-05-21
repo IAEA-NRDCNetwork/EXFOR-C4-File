@@ -1,0 +1,31 @@
+#ENTRY      A0470
+#AUTHOR1    B.Bindu Kumar+
+#YEAR       1998
+#INSTITUTE  (3INDVUU)
+#TITLE      Complete and incomplete fusion reactions in 12-C+89-Y:
+#+          excitation functions and recoil range measurements
+#AUTHOR(S)  B.Bindu Kumar, S.Mukherjee, S.Chakrabarty, B.S.Tomar, A.Goswami, 
+#+          S.B.Manohar
+#REF-CODE   (J,PR/C,57,743,1998)
+#REFERENCE  Phys.Rev.C 57 (1998) 743 (doi:10.1103/PhysRevC.57.743)
+#DATASETS   0
+#
+#DATASET    A0470013 
+#DATE       20250627
+#REACTION   39-Y-89(6-C-12,X)41-NB-90,(CUM),SIG
+#PROJ       6012
+#TARG       39089
+#MF         3
+#MT         459
+#PRODUCT    41-NB-90
+#C4BEGIN    [ 6012 39089   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 39089   3 459    7.6320+7 750000.0 4.2000-3 5.8800-4           41090.9                     B.Bindu Kumar+       (98)A0470 13 
+ 6012 39089   3 459    7.9350+7 750000.0 7.8000-3 1.6380-3           41090.9                     B.Bindu Kumar+       (98)A0470 13 
+ 6012 39089   3 459    8.2160+7 750000.0 0.011900 1.4280-3           41090.9                     B.Bindu Kumar+       (98)A0470 13 
+ 6012 39089   3 459    8.4010+7 750000.0 0.017800 2.1360-3           41090.9                     B.Bindu Kumar+       (98)A0470 13 
+ 6012 39089   3 459    8.6590+7 750000.0 0.022600 2.0340-3           41090.9                     B.Bindu Kumar+       (98)A0470 13 
+#/DATA      5
+#/DATASET

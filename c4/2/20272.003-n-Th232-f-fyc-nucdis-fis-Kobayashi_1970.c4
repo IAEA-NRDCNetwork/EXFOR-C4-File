@@ -1,0 +1,29 @@
+#ENTRY      20272
+#AUTHOR1    K.Kobayashi+
+#YEAR       1970
+#INSTITUTE  (2JPNKTO)
+#TITLE      Measurement of average cross section for the
+#+          232Th(n,f) reaction for the fission-type reactor
+#+          spectrum
+#AUTHOR(S)  K.Kobayashi, I.Kimura
+#REF-CODE   (R,KURRI-AR-3,84,1970)
+#REFERENCE  Report KURRI-AR-3 page 84, 1970
+#DATASETS   0
+#
+#DATASET    20272003 
+#DATE       20221206
+#REACTION   90-TH-232(N,F)ELEM/MASS,CUM,FY,,FIS
+#PROJ       1
+#TARG       90232
+#MF         8
+#MT         459
+#C4BEGIN    [    1 90232   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   8 459    1320000.          0.066000 0.010000 38.00000 91.00000 9.000000            K.Kobayashi+         (70)20272  3 
+    1 90232   8 459    1320000.          0.050000 5.0000-3 40.00000 95.00000 9.000000            K.Kobayashi+         (70)20272  3 
+    1 90232   8 459    1320000.          0.039000 9.0000-3 54.00000 135.0000 9.000000            K.Kobayashi+         (70)20272  3 
+    1 90232   8 459    1320000.          0.025000 3.0000-3 55.00000 132.0000 9.000000            K.Kobayashi+         (70)20272  3 
+#/DATA      4
+#/DATASET

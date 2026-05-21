@@ -1,0 +1,33 @@
+#ENTRY      11721
+#AUTHOR1    S.R.Salisbury+
+#YEAR       1965
+#INSTITUTE  (1USALOK)
+#TITLE      Fe54(n,p), (n,alpha) and (n,2n) Cross Sections.
+#AUTHOR(S)  S.R.Salisbury, R.A.Chalmers
+#REF-CODE   (J,PR,140,B305,1965)
+#REFERENCE  Phys.Rev. 140 (1965) B305 (doi:10.1103/PhysRev.140.B305)
+#DATASETS   0
+#
+#DATASET    11721003 
+#DATE       20050427
+#REACTION   26-FE-54(N,P)25-MN-54,,SIG
+#PROJ       1
+#TARG       26054
+#MF         3
+#MT         103
+#PRODUCT    25-MN-54
+#C4BEGIN    [    1 26054   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26054   3 103    2230000. 75000.00 0.061800 5.0000-3                                       S.R.Salisbury+       (65)11721  3 
+    1 26054   3 103    3220000. 125000.0 0.216000 0.017000                                       S.R.Salisbury+       (65)11721  3 
+    1 26054   3 103    4260000. 145000.0 0.385000 0.032000                                       S.R.Salisbury+       (65)11721  3 
+    1 26054   3 103    4690000. 85000.00 0.395000 0.033000                                       S.R.Salisbury+       (65)11721  3 
+    1 26054   3 103    5380000. 130000.0 0.481000 0.039000                                       S.R.Salisbury+       (65)11721  3 
+    1 26054   3 103    6180000. 80000.00 0.565000 0.046000                                       S.R.Salisbury+       (65)11721  3 
+    1 26054   3 103    1.3100+7 800000.0 0.462000 0.037000                                       S.R.Salisbury+       (65)11721  3 
+    1 26054   3 103    1.4050+7 1050000. 0.368000 0.029000                                       S.R.Salisbury+       (65)11721  3 
+    1 26054   3 103    1.6750+7 550000.0 0.204000 0.016000                                       S.R.Salisbury+       (65)11721  3 
+#/DATA      9
+#/DATASET

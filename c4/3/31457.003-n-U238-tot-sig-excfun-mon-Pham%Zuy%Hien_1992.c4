@@ -1,0 +1,26 @@
+#ENTRY      31457
+#AUTHOR1    Pham Zuy Hien+
+#YEAR       1992
+#INSTITUTE  (3VN DAL)
+#TITLE      Total neutron cross section of U-238 as measured
+#+          with filtered neutrons of 55 keV and 144 keV.
+#AUTHOR(S)  Pham Zuy Hien, Vuong Huu Tang, Nguyen Phuoc Xuan
+#REF-CODE   (R,INDC(NDS)-265,199210)
+#REFERENCE  Report INDC(NDS)-265, 1992
+#DATASETS   0
+#
+#DATASET    31457003 
+#DATE       20100307
+#REACTION   92-U-238(N,TOT),,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         1
+#C4BEGIN    [    1 92238   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3   1    55000.00          13.31000 0.110000                                       Pham Zuy Hien+       (92)31457  3 
+    1 92238   3   1    144000.0          11.52000 0.110000                                       Pham Zuy Hien+       (92)31457  3 
+#/DATA      2
+#/DATASET

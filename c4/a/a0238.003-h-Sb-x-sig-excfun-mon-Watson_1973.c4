@@ -1,0 +1,37 @@
+#ENTRY      A0238
+#AUTHOR1    I.A.Watson+
+#YEAR       1973
+#INSTITUTE  (2UK HHL)
+#TITLE      Excitation functions for the reactions producing
+#+          121I,123I and 124I from irradiation of natural
+#+          antimony with 3He and 4He particles with energies
+#+          up to 30 MeV
+#AUTHOR(S)  I.A.Watson, S.L.Waters, D.J.Silvester
+#REF-CODE   (J,JIN,35,3047,1973)
+#REFERENCE  J.Inorg.Nucl.Chem. 35 (1973) 3047 (doi:10.1016/0022-1902(73)80001-6)
+#DATASETS   0
+#
+#DATASET    A0238003 
+#DATE       20240819
+#REACTION   51-SB-0(HE3,X)53-I-121,,SIG
+#PROJ       2003
+#TARG       51000
+#MF         3
+#MT         454
+#PRODUCT    53-I-121
+#C4BEGIN    [ 2003 51000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 51000   3 454    2.5800+7          0.449000 0.082000           53121.9                     I.A.Watson+          (73)A0238  3 
+ 2003 51000   3 454    2.4600+7          0.421000 0.077000           53121.9                     I.A.Watson+          (73)A0238  3 
+ 2003 51000   3 454    2.3500+7          0.374000 0.072000           53121.9                     I.A.Watson+          (73)A0238  3 
+ 2003 51000   3 454    2.2200+7          0.342000 0.084000           53121.9                     I.A.Watson+          (73)A0238  3 
+ 2003 51000   3 454    2.1200+7          0.251000 0.078000           53121.9                     I.A.Watson+          (73)A0238  3 
+ 2003 51000   3 454    2.0500+7          0.299000 0.051000           53121.9                     I.A.Watson+          (73)A0238  3 
+ 2003 51000   3 454    1.8700+7          0.239000 0.044000           53121.9                     I.A.Watson+          (73)A0238  3 
+ 2003 51000   3 454    1.6400+7          0.215000 0.075000           53121.9                     I.A.Watson+          (73)A0238  3 
+ 2003 51000   3 454    1.4100+7          0.022300                    53121.9                     I.A.Watson+          (73)A0238  3 
+ 2003 51000   3 454    1.2400+7          0.010500 3.9000-3           53121.9                     I.A.Watson+          (73)A0238  3 
+#/DATA      10
+#/DATASET

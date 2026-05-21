@@ -1,0 +1,26 @@
+#ENTRY      31038
+#AUTHOR1    K.H.Purser+
+#YEAR       1959
+#INSTITUTE  (3AULCBR)
+#TITLE      The 58Ni(n,p)58Co, 58Ni(n,2n)57Ni and 58Ni(n,np)57Co
+#+          cross sections at 14.1 MeV
+#AUTHOR(S)  K.H.Purser, F.W.Titterton
+#REF-CODE   (J,AUJ,12,103,1959)
+#REFERENCE  Australian J.Physics 12 (1959) 103 (doi:10.1071/PH590103)
+#DATASETS   0
+#
+#DATASET    31038004 
+#DATE       20090920
+#REACTION   28-NI-58(N,X)27-CO-57,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         454
+#PRODUCT    27-CO-57
+#C4BEGIN    [    1 28058   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3 454    1.4100+7          0.160000 0.040000           27057.9                     K.H.Purser+          (59)31038  4 
+#/DATA      1
+#/DATASET

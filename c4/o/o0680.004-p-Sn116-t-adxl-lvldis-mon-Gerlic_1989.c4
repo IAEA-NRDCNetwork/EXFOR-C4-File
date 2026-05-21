@@ -1,0 +1,27 @@
+#ENTRY      O0680
+#AUTHOR1    E.Gerlic+
+#YEAR       1989
+#INSTITUTE  (2FR PAR)
+#TITLE      Stretched high-spin two-neutron-hole states in Pb-206
+#+          and Sn-114 via the (p,t) reaction at 168 MeV
+#AUTHOR(S)  E.Gerlic, J.Guillot, H.Langevin-Joliot, J.Van de Weile, 
+#+          S.Gales, G.Duhamel, G.Perrin, C.P.Massolo, M.Sakai
+#REF-CODE   (J,PR/C,39,2190,1989)
+#REFERENCE  Phys.Rev.C 39 (1989) 2190 (doi:10.1103/PhysRevC.39.2190)
+#DATASETS   0
+#
+#DATASET    O0680004 
+#DATE       20160715
+#REACTION   50-SN-116(P,T)50-SN-114,PAR,DA
+#PROJ       1001
+#TARG       50116
+#MF         4
+#MT         700
+#PRODUCT    50-SN-114
+#C4BEGIN    [ 1001 50116   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50116   4 700    1.6800+8 130000.0 3.7500-5          0.992546          8150000. 1850000.LVLE.Gerlic+            (89)O0680  4 
+#/DATA      1
+#/DATASET

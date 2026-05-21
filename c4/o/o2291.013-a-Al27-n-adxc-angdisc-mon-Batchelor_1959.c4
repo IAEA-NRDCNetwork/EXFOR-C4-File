@@ -1,0 +1,30 @@
+#ENTRY      O2291
+#AUTHOR1    R.Batchelor+
+#YEAR       1959
+#INSTITUTE  (2UK ALD)
+#TITLE      Neutron spectra and differential cross sections of the
+#+          F-19(a,n)Na-22 and Al-27(a,n)P-30.
+#AUTHOR(S)  R.Batchelor, J.H.Towle
+#REF-CODE   (J,PPS,73,307,1959)
+#REFERENCE  Proc.Phys.Soc.(UK) 73 (1959) 307 (doi:10.1088/0370-1328/73/2/420)
+#DATASETS   0
+#
+#DATASET    O2291013 
+#DATE       20160702
+#REACTION   13-AL-27(A,N)15-P-30,PAR,DA
+#PROJ       2004
+#TARG       13027
+#MF         4
+#MT         50
+#PRODUCT    15-P-30
+#C4BEGIN    [ 2004 13027   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 13027   4  50  C 5370000.          8.6100-4         -0.760000          0.000000         LVLR.Batchelor+         (59)O2291 13 
+ 2004 13027   4  50  C 5370000.          1.2070-3         -0.120000          0.000000         LVLR.Batchelor+         (59)O2291 13 
+ 2004 13027   4  50  C 5370000.          1.6180-3          0.410000          0.000000         LVLR.Batchelor+         (59)O2291 13 
+ 2004 13027   4  50  C 5370000.          1.5410-3          0.830000          0.000000         LVLR.Batchelor+         (59)O2291 13 
+ 2004 13027   4  50  C 5370000.          1.2190-3          0.980000          0.000000         LVLR.Batchelor+         (59)O2291 13 
+#/DATA      5
+#/DATASET

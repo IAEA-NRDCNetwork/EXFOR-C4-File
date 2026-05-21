@@ -1,0 +1,38 @@
+#ENTRY      10267
+#AUTHOR1    R.Gwin+
+#YEAR       1976
+#INSTITUTE  (1USAORL)
+#TITLE      Measurement of the neutron capture and fission cross
+#+          sections of 239Pu and 235U, 0.02 eV to 200 keV, the
+#+          neutron capture cross Sections of 197Au, 10 to 50 keV,
+#+          and neutron fission cross sections of 233U, 5 to
+#+          200 keV
+#AUTHOR(S)  R.Gwin, E.G.Silver, R.W.Ingle, H.Weaver
+#REF-CODE   (J,NSE,59,79,1976)
+#REFERENCE  Nucl.Sci.Eng. 59 (1976) 79 (doi:10.13182/NSE76-A15682)
+#DATASETS   0
+#
+#DATASET    10267041 
+#DATE       20210917
+#REACTION   92-U-233(N,F),,SIG,,AV
+#PROJ       1
+#TARG       92233
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92233   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   3  18 A  7500.000 2500.000 4.260000 0.220000                                       R.Gwin+              (76)10267 41 
+    1 92233   3  18 A  15000.00 5000.000 3.310000 0.190000                                       R.Gwin+              (76)10267 41 
+    1 92233   3  18 A  25000.00 5000.000 2.890000 0.170000                                       R.Gwin+              (76)10267 41 
+    1 92233   3  18 A  35000.00 5000.000 2.660000 0.160000                                       R.Gwin+              (76)10267 41 
+    1 92233   3  18 A  45000.00 5000.000 2.450000 0.160000                                       R.Gwin+              (76)10267 41 
+    1 92233   3  18 A  55000.00 5000.000 2.450000 0.160000                                       R.Gwin+              (76)10267 41 
+    1 92233   3  18 A  65000.00 5000.000 2.400000 0.170000                                       R.Gwin+              (76)10267 41 
+    1 92233   3  18 A  75000.00 5000.000 2.350000 0.180000                                       R.Gwin+              (76)10267 41 
+    1 92233   3  18 A  85000.00 5000.000 2.330000 0.180000                                       R.Gwin+              (76)10267 41 
+    1 92233   3  18 A  95000.00 5000.000 2.220000 0.190000                                       R.Gwin+              (76)10267 41 
+    1 92233   3  18 A  150000.0 50000.00 2.330000 0.240000                                       R.Gwin+              (76)10267 41 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,25 @@
+#ENTRY      40536
+#AUTHOR1    V.P.Vertebnyj+
+#YEAR       1980
+#INSTITUTE  (4UKRIJD)
+#TITLE      The neutron cross-sections of Sm-152,-153,-154 .
+#AUTHOR(S)  V.P.Vertebnyj, P.N.Vorona, A.I.Kal'chenko, V.G.Krivenko, 
+#+          L.E.Chervonnaja
+#REF-CODE   (C,80KIEV,2,111,1980)
+#REFERENCE  Proceedings of 5.All Union Conf.on Neutron Phys.,Kiev,15-19 Sep 1980 2 page 111
+#DATASETS   0
+#
+#DATASET    40536004 
+#DATE       20130116
+#REACTION   62-SM-153(N,TOT),,SIG
+#PROJ       1
+#TARG       62153
+#MF         3
+#MT         1
+#C4BEGIN    [    1 62153   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 62153   3   1    0.025300          420.0000 180.0000                                       V.P.Vertebnyj+       (80)40536  4 
+#/DATA      1
+#/DATASET

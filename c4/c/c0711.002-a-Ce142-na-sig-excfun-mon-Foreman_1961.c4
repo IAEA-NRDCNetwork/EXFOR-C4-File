@@ -1,0 +1,32 @@
+#ENTRY      C0711
+#AUTHOR1    B.M.Foreman+
+#YEAR       1961
+#INSTITUTE  (1USABNL)
+#TITLE      Excitation Functions for the (alpha,aplha n) and
+#+          (alpha,2p) Reactions on Ce142
+#AUTHOR(S)  B.M.Foreman
+#REF-CODE   (J,PR,122,1283,196105)
+#REFERENCE  Phys.Rev. 122 (1961) 1283 (doi:10.1103/PhysRev.122.1283)
+#DATASETS   0
+#
+#DATASET    C0711002 
+#DATE       20000814
+#REACTION   58-CE-142(A,N+A)58-CE-141,,SIG
+#PROJ       2004
+#TARG       58142
+#MF         3
+#MT         22
+#PRODUCT    58-CE-141
+#C4BEGIN    [ 2004 58142   3  22  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 58142   3  22    1.6600+7          8.1000-4 6.0000-5                                       B.M.Foreman          (61)C0711  2 
+ 2004 58142   3  22    2.1200+7          1.6500-3 1.2000-4                                       B.M.Foreman          (61)C0711  2 
+ 2004 58142   3  22    2.6100+7          6.4000-3 4.0000-4                                       B.M.Foreman          (61)C0711  2 
+ 2004 58142   3  22    3.3100+7          0.025000 2.0000-3                                       B.M.Foreman          (61)C0711  2 
+ 2004 58142   3  22    3.3500+7          0.044000 3.0000-3                                       B.M.Foreman          (61)C0711  2 
+ 2004 58142   3  22    3.9300+7          0.087000 0.013000                                       B.M.Foreman          (61)C0711  2 
+ 2004 58142   3  22    4.0100+7          0.069000 5.0000-3                                       B.M.Foreman          (61)C0711  2 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      D8022
+#AUTHOR1    C.Rodriguez-Tajes+
+#YEAR       2010
+#INSTITUTE  (2SPNSAU)
+#TITLE      One-neutron knockout from 24 to 28Ne isotopes
+#AUTHOR(S)  C.Rodriguez-Tajes, D.Cortina-Gil, H.Alvarez-Pol, T.Aumann, 
+#+          E.Benjamim, J.Benlliure, M.J.G.Borge, M.Caamano, E.Casarejos, 
+#+          A.Chatillon, K.Eppinger, T.Faestermann, M.Gascon, H.Geissel, 
+#+          R.Gernhaeuser, B.Jonson, R.Kanungo, R.Kruecken, T.Kurtukian, 
+#+          K.Larsson, P.Maierbeck, T.Nilsson, C.Nociforo, C.Pascual-Izarra, 
+#+          A.Perea, D.Perez-Loureiro, A.Prochazka, H.Simon, K.Suemmerer, 
+#+          O.Tengblad, H.Weick, M.Winkler, M.Zhukov
+#REF-CODE   (J,PL/B,687,26,2010)
+#REFERENCE  Phys.Lett.B 687 (2010) 26 (doi:10.1016/j.physletb.2010.03.006)
+#DATASETS   0
+#
+#DATASET    D8022002 
+#DATE       20200715
+#REACTION   4-BE-9(10-NE-24,X)10-NE-23,,SIG
+#PROJ       10024
+#TARG       4009
+#MF         3
+#MT         454
+#PRODUCT    10-NE-23
+#C4BEGIN    [10024  4009   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10024  4009   3 454    1.680+10          0.070000 8.0000-3           10023.9                     C.Rodriguez-Tajes+   (10)D8022  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      D4052
+#AUTHOR1    A.E.Vlieks+
+#YEAR       1974
+#INSTITUTE  (1USAOSU)
+#TITLE      Total cross sections for some (a,n) and (a,p)
+#+          reactions in medium-weight nuclei
+#AUTHOR(S)  A.E.Vlieks, J.F.Morgan, S.L.Blatt
+#REF-CODE   (J,NP/A,224,492,1974)
+#REFERENCE  Nucl.Phys.A 224 (1974) 492 (doi:10.1016/0375-9474(74)90551-X)
+#DATASETS   0
+#
+#DATASET    D4052002 
+#DATE       20210929
+#REACTION   21-SC-45(A,N)23-V-48,,SIG
+#PROJ       2004
+#TARG       21045
+#MF         3
+#MT         4
+#PRODUCT    23-V-48
+#C4BEGIN    [ 2004 21045   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 21045   3   4    6380000.          0.023000 1.1500-3                                       A.E.Vlieks+          (74)D4052  2 
+ 2004 21045   3   4    6890000.          0.047500 2.3750-3                                       A.E.Vlieks+          (74)D4052  2 
+ 2004 21045   3   4    7400000.          0.064700 3.2350-3                                       A.E.Vlieks+          (74)D4052  2 
+ 2004 21045   3   4    7900000.          0.120000 6.0000-3                                       A.E.Vlieks+          (74)D4052  2 
+ 2004 21045   3   4    8410000.          0.172000 8.6000-3                                       A.E.Vlieks+          (74)D4052  2 
+ 2004 21045   3   4    8910000.          0.235000 0.011750                                       A.E.Vlieks+          (74)D4052  2 
+ 2004 21045   3   4    9420000.          0.231000 0.011550                                       A.E.Vlieks+          (74)D4052  2 
+ 2004 21045   3   4    9920000.          0.344000 0.017200                                       A.E.Vlieks+          (74)D4052  2 
+ 2004 21045   3   4    1.0420+7          0.263000 0.013150                                       A.E.Vlieks+          (74)D4052  2 
+ 2004 21045   3   4    1.0930+7          0.486000 0.024300                                       A.E.Vlieks+          (74)D4052  2 
+#/DATA      10
+#/DATASET

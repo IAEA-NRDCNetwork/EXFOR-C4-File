@@ -1,0 +1,43 @@
+#ENTRY      F1232
+#AUTHOR1    A.Deppman+
+#YEAR       2013
+#INSTITUTE  (3BZLUSP)
+#TITLE      Superasymmetric fission of heavy nuclei induced by
+#+          intermediate-energy protons
+#AUTHOR(S)  A.Deppman, E.Andrade-Ii, V.Guimaraes, G.S.Karapetyan, O.A.P.Tavares, 
+#+          A.R.Balabekyan, N.A.Demekhina, J.Adam, F.Garcia, K.Katovsky
+#REF-CODE   (J,PR/C,88,064609,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 064609 (doi:10.1103/PhysRevC.88.064609)
+#DATASETS   0
+#
+#DATASET    F1232009 
+#DATE       20240216
+#REACTION   93-NP-237(P,X)ELEM/MASS,,SIG
+#PROJ       1001
+#TARG       93237
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 93237   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 93237   3 454 A  6.6000+8          8.0000-5                    16038.9                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          2.8000-4                    17038.0                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          2.2000-4 4.0000-5           19044.9                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          1.5000-4                    21044.0                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          1.2000-4 1.0000-5           21044.1                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          6.3000-4 6.0000-5           21047.9                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          4.2000-4 4.0000-5           21048.9                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          4.8000-4 5.0000-5           23048.9                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          1.0000-5 1.0000-6           24048.9                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          7.7000-5 8.0000-6           25052.0                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          2.0500-4 3.0000-5           25052.1                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          2.8000-4 3.0000-5           25054.9                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          1.0000-5 1.0000-5           26052.0                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          3.0000-5 6.0000-6           27056.9                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          2.0000-4 2.0000-5           27057.9                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          7.0000-6                    28056.9                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          8.7000-4 1.7000-4           30065.9                     A.Deppman+           (13)F1232  9 
+ 1001 93237   3 454 A  6.6000+8          8.4000-5                    31066.9                     A.Deppman+           (13)F1232  9 
+#/DATA      18
+#/DATASET

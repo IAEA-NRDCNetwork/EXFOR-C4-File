@@ -1,0 +1,34 @@
+#ENTRY      41332
+#AUTHOR1    N.V.Kornilov+
+#YEAR       2000
+#INSTITUTE  (4RUSFEI)
+#TITLE      .Inelastic neutron scattering and prompt fission
+#+          neutron spectra for 237Np.
+#AUTHOR(S)  N.V.Kornilov, A.V.Kagalenko, V.Ya.Baryba, V.G.Demenkov, 
+#+          C.V.Pupko, P.A.Androsenko, A.A.Lychagin, B.V.Zhuravlev, 
+#+          V.I.Trykova
+#REF-CODE   (J,ANE,27,1643,200002)
+#REFERENCE  Ann.Nucl.Energy 27 (2000) 1643 (doi:10.1016/S0306-4549(00)00020-7)
+#DATASETS   0
+#
+#DATASET    41332006 
+#DATE       20090429
+#REACTION   93-NP-237(N,INL)93-NP-237,,DA
+#PROJ       1
+#TARG       93237
+#MF         4
+#MT         4
+#PRODUCT    93-NP-237
+#C4BEGIN    [    1 93237   4   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   4   4 A  990000.0          0.063800 9.1000-3-0.500000                              N.V.Kornilov+        (00)41332  6 
+    1 93237   4   4 A  1000000.          0.070400 9.2000-3-0.500000                              N.V.Kornilov+        (00)41332  6 
+    1 93237   4   4 A  1460000.          0.057600 6.0000-3-0.500000                              N.V.Kornilov+        (00)41332  6 
+    1 93237   4   4 A  1490000.          0.059100 6.4000-3-0.500000                              N.V.Kornilov+        (00)41332  6 
+    1 93237   4   4 A  1770000.          0.073800 7.4000-3-0.500000                              N.V.Kornilov+        (00)41332  6 
+    1 93237   4   4 A  1990000.          0.083800 6.8000-3-0.500000                              N.V.Kornilov+        (00)41332  6 
+    1 93237   4   4 A  2470000.          0.090500 6.1000-3-0.500000                              N.V.Kornilov+        (00)41332  6 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,52 @@
+#ENTRY      13985
+#AUTHOR1    A.Celler+
+#YEAR       1991
+#INSTITUTE  (1CANUWO)
+#TITLE      Distribution of spin dipole transition strength in
+#+          the 15N(n p)15C reaction
+#AUTHOR(S)  A.Celler, W.P.Alford, R.Abegg, D.Frekers, O.Hausser, R.Helmer, 
+#+          R.S.Henderson, K.P.Jackson, R.Jeppesen, B.Larson, J.Mildenberger, 
+#+          B.W.Pointon, A.Trudel, M.Vetterli, S.Yen
+#REF-CODE   (J,PR/C,43,639,1991)
+#REFERENCE  Phys.Rev.C 43 (1991) 639 (doi:10.1103/PhysRevC.43.639)
+#DATASETS   0
+#
+#DATASET    13985003 
+#DATE       20050315
+#REACTION   7-N-15(N,P)6-C-15,PAR,DA
+#PROJ       1
+#TARG       7015
+#MF         4
+#MT         600
+#PRODUCT    6-C-15
+#C4BEGIN    [    1  7015   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  7015   4 600    288000.0          4.6500-4 7.7100-5 0.999379          4000000. 2000000.LVLA.Celler+            (91)13985  3 
+    1  7015   4 600    288000.0          4.1200-4 9.6300-5 0.993748          4000000. 2000000.LVLA.Celler+            (91)13985  3 
+    1  7015   4 600    288000.0          4.2200-4 8.2100-5 0.979575          4000000. 2000000.LVLA.Celler+            (91)13985  3 
+    1  7015   4 600    288000.0          2.3400-4 7.6500-5 0.956305          4000000. 2000000.LVLA.Celler+            (91)13985  3 
+    1  7015   4 600    288000.0          1.2400-4 7.8800-5 0.925210          4000000. 2000000.LVLA.Celler+            (91)13985  3 
+#/DATA      5
+#/DATASET
+#
+#DATASET    13985003 
+#DATE       20050315
+#REACTION   7-N-15(N,P)6-C-15,PAR,DA
+#PROJ       1
+#TARG       7015
+#MF         4
+#MT         600
+#PRODUCT    6-C-15
+#C4BEGIN    [    1  7015   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  7015   4 600    288000.0          8.7100-3 6.0400-4 0.999372          1.2000+7 6000000.LVLA.Celler+            (91)13985  3 
+    1  7015   4 600    288000.0          0.013800 9.5700-4 0.993631          1.2000+7 6000000.LVLA.Celler+            (91)13985  3 
+    1  7015   4 600    288000.0          0.011700 6.0600-4 0.979223          1.2000+7 6000000.LVLA.Celler+            (91)13985  3 
+    1  7015   4 600    288000.0          5.9000-3 4.0900-4 0.956305          1.2000+7 6000000.LVLA.Celler+            (91)13985  3 
+    1  7015   4 600    288000.0          3.4700-3 3.0300-4 0.925210          1.2000+7 6000000.LVLA.Celler+            (91)13985  3 
+#/DATA      5
+#/DATASET

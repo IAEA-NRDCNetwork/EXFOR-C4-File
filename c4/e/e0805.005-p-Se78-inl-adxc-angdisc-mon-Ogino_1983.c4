@@ -1,0 +1,38 @@
+#ENTRY      E0805
+#AUTHOR1    K.Ogino+
+#YEAR       1983
+#INSTITUTE  (2JPNKTO)
+#TITLE      Fragmentation of low-lying hexadecapole states in even
+#+          74-82Se and a RPA calculation
+#AUTHOR(S)  K.Ogino, Y.Kadota, H.Haga, S.Matsuki, T.Higo, T.Shiba, N.Sakamoto, 
+#+          Y.Okuma, T.Yanabu
+#REF-CODE   (J,PL/B,130,(3-4),147,198310)
+#REFERENCE  Phys.Lett.B 130 No.3-4 (1983) 147 (doi:10.1016/0370-2693(83)91030-4)
+#DATASETS   0
+#
+#DATASET    E0805005 
+#DATE       20080612
+#REACTION   34-SE-78(P,INL)34-SE-78,PAR,DA
+#PROJ       1001
+#TARG       34078
+#MF         4
+#MT         601
+#PRODUCT    34-SE-78
+#C4BEGIN    [ 1001 34078   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 34078   4 601  C 6.4800+7          6.5080-4          0.979645          3453000.         LVLK.Ogino+             (83)E0805  5 
+ 1001 34078   4 601  C 6.4800+7          6.9980-4          0.962739          3453000.         LVLK.Ogino+             (83)E0805  5 
+ 1001 34078   4 601  C 6.4800+7          6.6690-4 7.6010-5 0.939931          3453000.         LVLK.Ogino+             (83)E0805  5 
+ 1001 34078   4 601  C 6.4800+7          5.2350-4 6.5210-5 0.914112          3453000.         LVLK.Ogino+             (83)E0805  5 
+ 1001 34078   4 601  C 6.4800+7          3.0380-4 3.4610-5 0.883929          3453000.         LVLK.Ogino+             (83)E0805  5 
+ 1001 34078   4 601  C 6.4800+7          1.6390-4          0.849525          3453000.         LVLK.Ogino+             (83)E0805  5 
+ 1001 34078   4 601  C 6.4800+7          1.1130-4 1.2680-5 0.806238          3453000.         LVLK.Ogino+             (83)E0805  5 
+ 1001 34078   4 601  C 6.4800+7          1.1400-4 1.2990-5 0.763571          3453000.         LVLK.Ogino+             (83)E0805  5 
+ 1001 34078   4 601  C 6.4800+7          1.0600-4 1.2080-5 0.717154          3453000.         LVLK.Ogino+             (83)E0805  5 
+ 1001 34078   4 601  C 6.4800+7          5.8620-5 6.6840-6 0.665230          3453000.         LVLK.Ogino+             (83)E0805  5 
+ 1001 34078   4 601  C 6.4800+7          4.8890-5 6.2870-6 0.607792          3453000.         LVLK.Ogino+             (83)E0805  5 
+ 1001 34078   4 601  C 6.4800+7          3.7470-5 4.6680-6 0.551646          3453000.         LVLK.Ogino+             (83)E0805  5 
+#/DATA      12
+#/DATASET

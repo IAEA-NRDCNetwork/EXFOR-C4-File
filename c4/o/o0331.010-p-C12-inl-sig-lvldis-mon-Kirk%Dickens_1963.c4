@@ -1,0 +1,32 @@
+#ENTRY      O0331
+#AUTHOR1    J.Kirk Dickens+
+#YEAR       1963
+#INSTITUTE  (1USAUSC)
+#TITLE      Elastic and inelastic scattering of 31.1-MeV protons by
+#+          carbon-12
+#AUTHOR(S)  J.Kirk Dickens, David A.Haner, Charles N.Waddell
+#REF-CODE   (J,PR,129,743,1963)
+#REFERENCE  Phys.Rev. 129 (1963) 743 (doi:10.1103/PhysRev.129.743)
+#DATASETS   0
+#
+#DATASET    O0331010 
+#DATE       20200112
+#REACTION   6-C-12(P,INL)6-C-12,PAR,SIG
+#PROJ       1001
+#TARG       6012
+#MF         3
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   3 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   3 601    3.1100+7          0.060000                            4430000.         LVLJ.Kirk Dickens+      (63)O0331 10 
+ 1001  6012   3 601    3.1100+7          4.7000-3                            7660000.         LVLJ.Kirk Dickens+      (63)O0331 10 
+ 1001  6012   3 601    3.1100+7          0.019000                            9630000.         LVLJ.Kirk Dickens+      (63)O0331 10 
+ 1001  6012   3 601    3.1100+7          3.8000-3                            1.2700+7         LVLJ.Kirk Dickens+      (63)O0331 10 
+ 1001  6012   3 601    3.1100+7          2.3000-3                            1.4000+7         LVLJ.Kirk Dickens+      (63)O0331 10 
+ 1001  6012   3 601    3.1100+7          3.0000-3                            1.5100+7         LVLJ.Kirk Dickens+      (63)O0331 10 
+ 1001  6012   3 601    3.1100+7          2.4000-3                            1.6100+7         LVLJ.Kirk Dickens+      (63)O0331 10 
+#/DATA      7
+#/DATASET

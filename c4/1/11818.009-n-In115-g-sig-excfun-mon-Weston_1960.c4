@@ -1,0 +1,33 @@
+#ENTRY      11818
+#AUTHOR1    L.W.Weston+
+#YEAR       1960
+#INSTITUTE  (1USADKE)
+#TITLE      NEUTRON CAPTURE CROSS SECTIONS IN THE KEV REGION.
+#+          PART II. SPIN-ORBIT COUPLING AND THE OPTICAL MODEL.
+#AUTHOR(S)  L.W.Weston, K.K.Seth, E.G.Bilpuch, H.W.Newson
+#REF-CODE   (J,AP,10,477,60)
+#REFERENCE  Ann.Phys.(N.Y.) 10 (1960) 477 (doi:10.1016/0003-4916(60)90118-4)
+#DATASETS   0
+#
+#DATASET    11818009 
+#DATE       19860612
+#REACTION   49-IN-115(N,G)49-IN-116-M1+M2,,SIG
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         102
+#PRODUCT    49-IN-116-M1+M2
+#C4BEGIN    [    1 49115   3 102+ ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3 102+   5000.000          1.050000                                                L.W.Weston+          (60)11818  9 
+    1 49115   3 102+   10000.00          0.820000                                                L.W.Weston+          (60)11818  9 
+    1 49115   3 102+   30000.00          0.700000                                                L.W.Weston+          (60)11818  9 
+    1 49115   3 102+   60000.00          0.450000                                                L.W.Weston+          (60)11818  9 
+    1 49115   3 102+   100000.0          0.330000                                                L.W.Weston+          (60)11818  9 
+    1 49115   3 102+   150000.0          0.250000                                                L.W.Weston+          (60)11818  9 
+    1 49115   3 102+   200000.0          0.200000                                                L.W.Weston+          (60)11818  9 
+    1 49115   3 102+   250000.0          0.170000                                                L.W.Weston+          (60)11818  9 
+#/DATA      8
+#/DATASET

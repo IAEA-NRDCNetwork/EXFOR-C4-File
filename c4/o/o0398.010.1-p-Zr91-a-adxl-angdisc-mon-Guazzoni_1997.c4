@@ -1,0 +1,39 @@
+#ENTRY      O0398
+#AUTHOR1    E.Guazzoni+
+#YEAR       1997
+#INSTITUTE  (2ITYMIL)
+#TITLE      Spectroscopy of Y-88 Homologous Levels.
+#AUTHOR(S)  E.Guazzoni, M.Jaskola, L.Zetta, J.Gu, A.Vitturi, G.Graw, 
+#+          R.Hertenberger, D.Hofer, P.Schiemenz, B.Valnion, U.Atzrott, 
+#+          G.Staudt, G.Cata-Danil
+#REF-CODE   (J,ZP/A,356,381,1997)
+#REFERENCE  Z.Phys.A 356 (1997) 381 (doi:10.1007/s002180050193)
+#DATASETS   0
+#
+#DATASET    O03980101
+#DATE       20020911
+#REACTION   40-ZR-91(P,A)39-Y-88,PAR,DA
+#PROJ       1001
+#TARG       40091
+#MF         4
+#MT         800
+#PRODUCT    39-Y-88
+#C4BEGIN    [ 1001 40091   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40091   4 800  C 2.2000+7          1.9001-5 1.4500-6 0.996010          3122000.         LVLE.Guazzoni+          (97)O0398 101
+ 1001 40091   4 800  C 2.2000+7          1.3422-5 6.0300-7 0.984103          3122000.         LVLE.Guazzoni+          (97)O0398 101
+ 1001 40091   4 800  C 2.2000+7          9.5180-6 5.3700-7 0.964327          3122000.         LVLE.Guazzoni+          (97)O0398 101
+ 1001 40091   4 800  C 2.2000+7          7.0130-6 4.7200-7 0.936916          3122000.         LVLE.Guazzoni+          (97)O0398 101
+ 1001 40091   4 800  C 2.2000+7          5.5370-6 4.1400-7 0.902059          3122000.         LVLE.Guazzoni+          (97)O0398 101
+ 1001 40091   4 800  C 2.2000+7          4.7180-6 2.9300-7 0.860119          3122000.         LVLE.Guazzoni+          (97)O0398 101
+ 1001 40091   4 800  C 2.2000+7          3.5950-6 2.8800-7 0.811370          3122000.         LVLE.Guazzoni+          (97)O0398 101
+ 1001 40091   4 800  C 2.2000+7          2.5330-6 2.3000-7 0.756196          3122000.         LVLE.Guazzoni+          (97)O0398 101
+ 1001 40091   4 800  C 2.2000+7          2.4030-6 2.1200-7 0.695286          3122000.         LVLE.Guazzoni+          (97)O0398 101
+ 1001 40091   4 800  C 2.2000+7          2.1010-6 2.2300-7 0.628913          3122000.         LVLE.Guazzoni+          (97)O0398 101
+ 1001 40091   4 800  C 2.2000+7          1.5450-6 1.7600-7 0.557745          3122000.         LVLE.Guazzoni+          (97)O0398 101
+ 1001 40091   4 800  C 2.2000+7          1.2020-6 1.3000-7 0.482212          3122000.         LVLE.Guazzoni+          (97)O0398 101
+ 1001 40091   4 800  C 2.2000+7          9.4600-7 1.0700-7 0.403226          3122000.         LVLE.Guazzoni+          (97)O0398 101
+#/DATA      13
+#/DATASET

@@ -1,0 +1,41 @@
+#ENTRY      E2101
+#AUTHOR1    E.V.Karpechev+
+#YEAR       2008
+#INSTITUTE  (4RUSJIA)
+#TITLE      Study of Energy Dependence of Pion Production by
+#+          Proton on Copper Target near 350 MeV
+#AUTHOR(S)  E.V.Karpechev, A.B.Kurepin, A.I.Reshetin, T.L.Karavicheva, 
+#+          K.Fujita, K.Hatanaka, J.Kamiya, Y.Sakemi, T.Wakasa, H.P.Yoshida, 
+#+          Y.Shimizu, T.Fukuda, P.K.Saha, K.Tamura, T.Ishida
+#REF-CODE   (J,PAN,71,(1),1,200801)
+#REFERENCE  Phys.At.Nucl. 71 No.1 (2008) 1 (doi:10.1134/S1063778808010018)
+#DATASETS   0
+#
+#DATASET    E2101003 
+#DATE       20090409
+#REACTION   29-CU-0(P,X)1-PP-0,,DA
+#PROJ       1001
+#TARG       29000
+#MF         4
+#MT         208
+#PRODUCT    1-PP-0
+#C4BEGIN    [ 1001 29000   4 208  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   4 208    3.4425+8 250000.0 0.373200          6.123-17                              E.V.Karpechev+       (08)E2101  3 
+ 1001 29000   4 208    3.4588+8 250000.0 0.374300          6.123-17                              E.V.Karpechev+       (08)E2101  3 
+ 1001 29000   4 208    3.4712+8 250000.0 0.380000          6.123-17                              E.V.Karpechev+       (08)E2101  3 
+ 1001 29000   4 208    3.4775+8 250000.0 0.380200          6.123-17                              E.V.Karpechev+       (08)E2101  3 
+ 1001 29000   4 208    3.4850+8 250000.0 0.379900          6.123-17                              E.V.Karpechev+       (08)E2101  3 
+ 1001 29000   4 208    3.4912+8 250000.0 0.383000          6.123-17                              E.V.Karpechev+       (08)E2101  3 
+ 1001 29000   4 208    3.4988+8 250000.0 0.384800          6.123-17                              E.V.Karpechev+       (08)E2101  3 
+ 1001 29000   4 208    3.5012+8 250000.0 0.384100          6.123-17                              E.V.Karpechev+       (08)E2101  3 
+ 1001 29000   4 208    3.5100+8 250000.0 0.386000          6.123-17                              E.V.Karpechev+       (08)E2101  3 
+ 1001 29000   4 208    3.5125+8 250000.0 0.388200          6.123-17                              E.V.Karpechev+       (08)E2101  3 
+ 1001 29000   4 208    3.5162+8 250000.0 0.386800          6.123-17                              E.V.Karpechev+       (08)E2101  3 
+ 1001 29000   4 208    3.5312+8 250000.0 0.389500          6.123-17                              E.V.Karpechev+       (08)E2101  3 
+ 1001 29000   4 208    3.5362+8 250000.0 0.392800          6.123-17                              E.V.Karpechev+       (08)E2101  3 
+ 1001 29000   4 208    3.5588+8 250000.0 0.399000          6.123-17                              E.V.Karpechev+       (08)E2101  3 
+#/DATA      14
+#/DATASET

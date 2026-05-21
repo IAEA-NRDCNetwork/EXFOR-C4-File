@@ -1,0 +1,41 @@
+#ENTRY      E1696
+#AUTHOR1    M.Fujiwara+
+#YEAR       1983
+#INSTITUTE  (2JPNOSA)
+#TITLE      M1 states in 58Ni observed by proton inelastic
+#+          scattering at 65 MeV
+#AUTHOR(S)  M.Fujiwara, Y.Fujita, I.Katayama, S.Morinobu, T.Yamazaki, 
+#+          H.Ikegami, S.I.Hayakawa, K.Katori
+#REF-CODE   (J,NP/A,410,(1),137,198311)
+#REFERENCE  Nucl.Phys.A 410 No.1 (1983) 137 (doi:10.1016/0375-9474(83)90406-2)
+#DATASETS   0
+#
+#DATASET    E1696006 
+#DATE       20060906
+#REACTION   28-NI-58(P,INL)28-NI-58,PAR,DA
+#PROJ       1001
+#TARG       28058
+#MF         4
+#MT         601
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 1001 28058   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   4 601  C 6.5000+7          1.0400-4          0.996030          5166000.         LVLM.Fujiwara+          (83)E1696  6 
+ 1001 28058   4 601  C 6.5000+7          8.7080-5          0.992778          5166000.         LVLM.Fujiwara+          (83)E1696  6 
+ 1001 28058   4 601  C 6.5000+7          6.8520-5          0.988581          5166000.         LVLM.Fujiwara+          (83)E1696  6 
+ 1001 28058   4 601  C 6.5000+7          5.8590-5          0.982967          5166000.         LVLM.Fujiwara+          (83)E1696  6 
+ 1001 28058   4 601  C 6.5000+7          5.3930-5          0.977416          5166000.         LVLM.Fujiwara+          (83)E1696  6 
+ 1001 28058   4 601  C 6.5000+7          4.7530-5          0.972451          5166000.         LVLM.Fujiwara+          (83)E1696  6 
+ 1001 28058   4 601  C 6.5000+7          3.9780-5          0.957420          5166000.         LVLM.Fujiwara+          (83)E1696  6 
+ 1001 28058   4 601  C 6.5000+7          3.5040-5          0.934080          5166000.         LVLM.Fujiwara+          (83)E1696  6 
+ 1001 28058   4 601  C 6.5000+7          1.6870-5 2.8430-6 0.874450          5166000.         LVLM.Fujiwara+          (83)E1696  6 
+ 1001 28058   4 601  C 6.5000+7          1.5720-5          0.856267          5166000.         LVLM.Fujiwara+          (83)E1696  6 
+ 1001 28058   4 601  C 6.5000+7          1.0560-5 1.5260-6 0.837433          5166000.         LVLM.Fujiwara+          (83)E1696  6 
+ 1001 28058   4 601  C 6.5000+7          8.5080-6          0.806960          5166000.         LVLM.Fujiwara+          (83)E1696  6 
+ 1001 28058   4 601  C 6.5000+7          8.9950-6 1.7180-6 0.749187          5166000.         LVLM.Fujiwara+          (83)E1696  6 
+ 1001 28058   4 601  C 6.5000+7          5.0060-6          0.661835          5166000.         LVLM.Fujiwara+          (83)E1696  6 
+ 1001 28058   4 601  C 6.5000+7          3.6550-6 6.1430-7 0.552664          5166000.         LVLM.Fujiwara+          (83)E1696  6 
+#/DATA      15
+#/DATASET

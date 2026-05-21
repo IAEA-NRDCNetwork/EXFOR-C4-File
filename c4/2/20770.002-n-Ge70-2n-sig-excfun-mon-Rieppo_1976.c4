@@ -1,0 +1,26 @@
+#ENTRY      20770
+#AUTHOR1    R.Rieppo+
+#YEAR       1976
+#INSTITUTE  (2SF OUL)
+#TITLE      -Activation cross-section for 14.7 MeV neutrons on
+#+          natural germanium -
+#AUTHOR(S)  R.Rieppo, J.K.Keinaenen, M.Valkonen
+#REF-CODE   (J,JIN,38,(11),1927,197611)
+#REFERENCE  J.Inorg.Nucl.Chem. 38 No.11 (1976) 1927 (doi:10.1016/0022-1902(76)80439-3)
+#DATASETS   0
+#
+#DATASET    20770002 
+#DATE       20090108
+#REACTION   32-GE-70(N,2N)32-GE-69,,SIG
+#PROJ       1
+#TARG       32070
+#MF         3
+#MT         16
+#PRODUCT    32-GE-69
+#C4BEGIN    [    1 32070   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32070   3  16    1.4700+7 300000.0 0.575000 0.013000                                       R.Rieppo+            (76)20770  2 
+#/DATA      1
+#/DATASET

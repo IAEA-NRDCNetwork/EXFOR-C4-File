@@ -1,0 +1,40 @@
+#ENTRY      C1224
+#AUTHOR1    X.Tang+
+#YEAR       2003
+#INSTITUTE  (1USATAM)
+#TITLE      Determination of the astrophysical S factor for
+#+          11C(p,gamma)12N from the 12N11C + p asymptotic
+#+          normalization coefficient
+#AUTHOR(S)  X.Tang, A.Azhari, C.A.Gagliardi, A.M.Mukhamedzhanov, F.Pirlepesov, 
+#+          L.Trache, R.E.Tribble, V.Burjan, V.Kroha, F.Carstoiu
+#REF-CODE   (J,PR/C,67,015804,2003)
+#REFERENCE  Phys.Rev.C 67 (2003) 015804 (doi:10.1103/PhysRevC.67.015804)
+#DATASETS   0
+#
+#DATASET    C1224002 
+#DATE       20050502
+#REACTION   7-N-14(6-C-11,EL)7-N-14,,DA
+#PROJ       6011
+#TARG       7014
+#MF         4
+#MT         2
+#PRODUCT    7-N-14
+#C4BEGIN    [ 6011  7014   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6011  7014   4   2  C 1.1000+8          15.40000          0.989851                              X.Tang+              (03)C1224  2 
+ 6011  7014   4   2  C 1.1000+8          5.310000          0.984989                              X.Tang+              (03)C1224  2 
+ 6011  7014   4   2  C 1.1000+8          2.600000          0.978509                              X.Tang+              (03)C1224  2 
+ 6011  7014   4   2  C 1.1000+8          1.000000          0.971549                              X.Tang+              (03)C1224  2 
+ 6011  7014   4   2  C 1.1000+8          0.304000          0.962218                              X.Tang+              (03)C1224  2 
+ 6011  7014   4   2  C 1.1000+8          0.262000          0.951057                              X.Tang+              (03)C1224  2 
+ 6011  7014   4   2  C 1.1000+8          0.149000          0.940881                              X.Tang+              (03)C1224  2 
+ 6011  7014   4   2  C 1.1000+8          0.040700          0.928486                              X.Tang+              (03)C1224  2 
+ 6011  7014   4   2  C 1.1000+8          0.041400          0.913545                              X.Tang+              (03)C1224  2 
+ 6011  7014   4   2  C 1.1000+8          0.038700          0.899558                              X.Tang+              (03)C1224  2 
+ 6011  7014   4   2  C 1.1000+8          0.015200          0.885394                              X.Tang+              (03)C1224  2 
+ 6011  7014   4   2  C 1.1000+8          6.5400-3          0.868632                              X.Tang+              (03)C1224  2 
+ 6011  7014   4   2  C 1.1000+8          3.3100-3 5.3400-4 0.855364                              X.Tang+              (03)C1224  2 
+#/DATA      13
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      D7042
+#AUTHOR1    T.H.Nguyen+
+#YEAR       2022
+#INSTITUTE  (3KORKNU)
+#TITLE      Excitation functions of proton-induced reactions on
+#+          natW target for rhenium isotope production
+#AUTHOR(S)  T.H.Nguyen, V.D.Nguyen, T.T.Kim, G.N.Kim, H.Naik
+#REF-CODE   (J,RPC,196,110145,2022)
+#REFERENCE  Radiat.Phys.Chem. 196 (2022) 110145 (doi:10.1016/j.radphyschem.2022.110145)
+#DATASETS   0
+#
+#DATASET    D7042006 
+#DATE       20230213
+#REACTION   74-W-0(P,X)75-RE-182-M,,SIG
+#PROJ       1001
+#TARG       74000
+#MF         3
+#MT         454
+#PRODUCT    75-RE-182-M
+#C4BEGIN    [ 1001 74000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 74000   3 454 A  1.2500+7 790000.0 0.141420 0.016760           75182.7                     T.H.Nguyen+          (22)D7042  6 
+ 1001 74000   3 454 A  1.8610+7 590000.0 0.177820 0.021050           75182.7                     T.H.Nguyen+          (22)D7042  6 
+ 1001 74000   3 454 A  2.3470+7 510000.0 0.240490 0.028540           75182.7                     T.H.Nguyen+          (22)D7042  6 
+ 1001 74000   3 454 A  2.7690+7 460000.0 0.200080 0.023780           75182.7                     T.H.Nguyen+          (22)D7042  6 
+ 1001 74000   3 454 A  3.1490+7 410000.0 0.122650 0.014510           75182.7                     T.H.Nguyen+          (22)D7042  6 
+ 1001 74000   3 454 A  3.4950+7 380000.0 0.079630 9.4600-3           75182.7                     T.H.Nguyen+          (22)D7042  6 
+ 1001 74000   3 454 A  3.8170+7 370000.0 0.097930 0.011640           75182.7                     T.H.Nguyen+          (22)D7042  6 
+ 1001 74000   3 454 A  4.1190+7 330000.0 0.110550 0.013080           75182.7                     T.H.Nguyen+          (22)D7042  6 
+ 1001 74000   3 454 A  4.4080+7 330000.0 0.148690 0.017660           75182.7                     T.H.Nguyen+          (22)D7042  6 
+#/DATA      9
+#/DATASET

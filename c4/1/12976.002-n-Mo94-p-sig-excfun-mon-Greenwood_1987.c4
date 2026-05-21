@@ -1,0 +1,27 @@
+#ENTRY      12976
+#AUTHOR1    L.R.Greenwood+
+#YEAR       1987
+#INSTITUTE  (1USAANL)
+#TITLE      Production or 91-Nb, 94-Nb, and 95-Nb from Mo
+#+          by 14.5-14.8 MeV neutrons
+#AUTHOR(S)  L.R.Greenwood, D.G.Doran, H.L.Heinisch
+#REF-CODE   (J,PR/C,35,76,1987)
+#REFERENCE  Phys.Rev.C 35 (1987) 76 (doi:10.1103/PhysRevC.35.76)
+#DATASETS   0
+#
+#DATASET    12976002 
+#DATE       20250601
+#REACTION   42-MO-94(N,P)41-NB-94,,SIG
+#PROJ       1
+#TARG       42094
+#MF         3
+#MT         103
+#PRODUCT    41-NB-94
+#C4BEGIN    [    1 42094   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42094   3 103 A  1.4550+7 200000.0 0.057200 5.7200-3                                       L.R.Greenwood+       (87)12976  2 
+    1 42094   3 103 A  1.4780+7 200000.0 0.053100 5.3100-3                                       L.R.Greenwood+       (87)12976  2 
+#/DATA      2
+#/DATASET

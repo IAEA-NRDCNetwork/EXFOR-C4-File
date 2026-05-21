@@ -1,0 +1,27 @@
+#ENTRY      F1325
+#AUTHOR1    V.M.Bystritsky+
+#YEAR       2017
+#INSTITUTE  (3POLITJ)
+#TITLE      Astrophysical S-factor of T(4He,g)7Li reaction at
+#+          Ecm=15.7 keV.
+#AUTHOR(S)  V.M.Bystritsky, G.N.Dudkin, E.G.Emets, A.R.Krylov, B.A.Nechaev, 
+#+          A.Nurkin, V.N.Padalko, A.B.Sadovsky, M.Filipowicz, A.V.Philippov
+#REF-CODE   (J,FCY/L,14,366,2017)
+#REFERENCE  Fiz.El.Ch.At.Yad.Lt. 14 (2017) 366
+#DATASETS   0
+#
+#DATASET    F1325002 
+#DATE       20171101
+#REACTION   (1-H-3(A,G)3-LI-7,,SIG,,SFC)=(2-HE-4(T,G)3-LI-7,,SIG,,SFC)
+#PROJ       1003
+#TARG       2004
+#MF         3
+#MT         102
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1003  2004   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  2004   3 102    27530.32          5.850-12 2.057-12                                       V.M.Bystritsky+      (17)F1325  2 
+#/DATA      1
+#/DATASET

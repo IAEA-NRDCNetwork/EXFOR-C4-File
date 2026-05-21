@@ -1,0 +1,27 @@
+#ENTRY      12858
+#AUTHOR1    Y.Fujita+
+#YEAR       1983
+#INSTITUTE  (1USAMIS)
+#TITLE      MEASUREMENT OF NUCLEAR INELASTIC SCATTERING CROSS
+#+          SECTION OF THORIUM-232 FOR 144 KEV SI-FILTERED
+#+          NEUTRONS,
+#AUTHOR(S)  Y.Fujita, T.Ohsawa, R.M.Bugger, D.M.Alger, W.H.Miller
+#REF-CODE   (J,NST,20,983,8312)
+#REFERENCE  J.Nucl.Sci.Technol. 20 (1983) 983 (doi:10.1080/18811248.1983.9733500)
+#DATASETS   0
+#
+#DATASET    12858004 
+#DATE       19840418
+#REACTION   90-TH-232(N,INL)90-TH-232,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         4
+#PRODUCT    90-TH-232
+#C4BEGIN    [    1 90232   3   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3   4 D  144000.0 500.0000 0.740000 0.050000                                       Y.Fujita+            (83)12858  4 
+#/DATA      1
+#/DATASET

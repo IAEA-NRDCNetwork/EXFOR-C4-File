@@ -1,0 +1,32 @@
+#ENTRY      22144
+#AUTHOR1    M.Ibn Majah+
+#YEAR       1990
+#INSTITUTE  (2GERJUL)
+#TITLE      -ACTIVATION CROSS SECTIONS OF NEUTRON THRESHOLD
+#+          REACTIONS ON SOME ZIRCONIUM ISOTOPES IN THE 5.4- TO
+#+          10.6-MEV ENERGY RANGE.
+#AUTHOR(S)  M.Ibn Majah, S.M.Qaim
+#REF-CODE   (J,NSE,104,271,9003)
+#REFERENCE  Nucl.Sci.Eng. 104 (1990) 271 (doi:10.13182/NSE90-A23725)
+#DATASETS   0
+#
+#DATASET    22144009 
+#DATE       19910205
+#REACTION   40-ZR-90(N,A)38-SR-87-M,,SIG
+#PROJ       1
+#TARG       40090
+#MF         3
+#MT         107
+#PRODUCT    38-SR-87-M
+#C4BEGIN    [    1 40090   3 107M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   3 107M   8215000. 128000.0 2.3000-4 2.6000-5                                       M.Ibn Majah+         (90)22144  9 
+    1 40090   3 107M   8716000. 140000.0 4.4000-4 5.0000-5                                       M.Ibn Majah+         (90)22144  9 
+    1 40090   3 107M   9187000. 188000.0 6.1000-4 6.0000-5                                       M.Ibn Majah+         (90)22144  9 
+    1 40090   3 107M   9643000. 214000.0 8.5000-4 9.0000-5                                       M.Ibn Majah+         (90)22144  9 
+    1 40090   3 107M   1.0127+7 226000.0 1.0000-3 1.0000-4                                       M.Ibn Majah+         (90)22144  9 
+    1 40090   3 107M   1.0614+7 221000.0 1.5200-3 1.5000-4                                       M.Ibn Majah+         (90)22144  9 
+#/DATA      6
+#/DATASET

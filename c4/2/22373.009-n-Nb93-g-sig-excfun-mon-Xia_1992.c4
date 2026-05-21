@@ -1,0 +1,33 @@
+#ENTRY      22373
+#AUTHOR1    Y.Xia+
+#YEAR       1992
+#INSTITUTE  (2GERKFK)
+#TITLE      Neutron cross sections of 122-Te, 123-Te and 124-Te
+#+          between 1 and 60 KeV
+#AUTHOR(S)  Y.Xia, Th.W.Gerstenhoefer, S.Jaad, F.Kaeppeler, K.Wisshak
+#REF-CODE   (J,PR/C,45,(5),2487,199205)
+#REFERENCE  Phys.Rev.C 45 No.5 (1992) 2487 (doi:10.1103/PhysRevC.45.2487)
+#DATASETS   0
+#
+#DATASET    22373009 
+#DATE       19990604
+#REACTION   41-NB-93(N,G)41-NB-94,,SIG,,AV
+#PROJ       1
+#TARG       41093
+#MF         3
+#MT         102
+#PRODUCT    41-NB-94
+#C4BEGIN    [    1 41093   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093   3 102 D  2000.000 1000.000 1.626000 0.134000                                       Y.Xia+               (92)22373  9 
+    1 41093   3 102 D  4000.000 1000.000 0.779000 0.047000                                       Y.Xia+               (92)22373  9 
+    1 41093   3 102 D  7500.000 2500.000 0.670000 0.031000                                       Y.Xia+               (92)22373  9 
+    1 41093   3 102 D  12500.00 2500.000 0.488000 0.018000                                       Y.Xia+               (92)22373  9 
+    1 41093   3 102 D  17500.00 2500.000 0.386000 0.014000                                       Y.Xia+               (92)22373  9 
+    1 41093   3 102 D  25000.00 5000.000 0.300000 0.011000                                       Y.Xia+               (92)22373  9 
+    1 41093   3 102 D  35000.00 5000.000 0.232000 8.2000-3                                       Y.Xia+               (92)22373  9 
+    1 41093   3 102 D  50000.00 10000.00 0.175000 6.0000-3                                       Y.Xia+               (92)22373  9 
+#/DATA      8
+#/DATASET

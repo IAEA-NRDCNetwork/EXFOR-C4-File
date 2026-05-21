@@ -1,0 +1,29 @@
+#ENTRY      22791
+#AUTHOR1    M.Bresesti+
+#YEAR       1967
+#INSTITUTE  (2ZZZISP)
+#TITLE      .Radiochemical determination of fission yields for the
+#+          fission of 232Th by pile neutrons
+#AUTHOR(S)  M.Bresesti, G.Buret, P.Ferrari, L.Moretto
+#REF-CODE   (J,JIN,29,1189,1967)
+#REFERENCE  J.Inorg.Nucl.Chem. 29 (1967) 1189 (doi:10.1016/0022-1902(67)80356-7)
+#DATASETS   0
+#
+#DATASET    22791002 
+#DATE       20091124
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025000          0.068300 4.0000-4 39.00000 93.00000 9.000000            M.Bresesti+          (67)22791  2 
+    1 92235   8 459    0.025000          0.065100 1.5000-3 56.00000 140.0000 9.000000            M.Bresesti+          (67)22791  2 
+    1 92235   8 459    0.025000          0.058200 1.2000-3 58.00000 143.0000 9.000000            M.Bresesti+          (67)22791  2 
+    1 92235   8 459    0.025000          0.024800 6.0000-4 60.00000 147.0000 9.000000            M.Bresesti+          (67)22791  2 
+    1 92235   8 459    0.025000          1.4000-3 3.0000-5 62.00000 153.0000 9.000000            M.Bresesti+          (67)22791  2 
+#/DATA      5
+#/DATASET

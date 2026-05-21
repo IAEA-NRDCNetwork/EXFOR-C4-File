@@ -1,0 +1,28 @@
+#ENTRY      13182
+#AUTHOR1    S.Chiba+
+#YEAR       1989
+#INSTITUTE  (1USAANL)
+#TITLE      SOME REMARKS ON THE NETRON ELASTIC- AND INELEASTIC-
+#+          SCATTERING CROSS SECTIONS OF PALLADIUM
+#AUTHOR(S)  S.Chiba, P.T.Guenther, A.B.Smith
+#REF-CODE   (J,ANE,16,637,89)
+#REFERENCE  Ann.Nucl.Energy 16 (1989) 637 (doi:10.1016/0306-4549(89)90140-0)
+#DATASETS   0
+#
+#DATASET    13182003 
+#DATE       19900208
+#REACTION   46-PD-0(N,INL)46-PD-0,PAR,DA
+#PROJ       1
+#TARG       46000
+#MF         4
+#MT         51
+#PRODUCT    46-PD-0
+#C4BEGIN    [    1 46000   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 46000   4  51 A  5900000.          0.013800 1.3800-3 0.173648          410000.0 150000.0LVLS.Chiba+             (89)13182  3 
+    1 46000   4  51 A  7100000.          0.010700 1.0700-3 0.173648          410000.0 150000.0LVLS.Chiba+             (89)13182  3 
+    1 46000   4  51 A  8000000.          9.8000-3 9.8000-4 0.173648          410000.0 150000.0LVLS.Chiba+             (89)13182  3 
+#/DATA      3
+#/DATASET

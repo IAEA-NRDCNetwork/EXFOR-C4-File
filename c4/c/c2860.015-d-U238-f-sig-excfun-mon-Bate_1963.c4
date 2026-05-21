@@ -1,0 +1,28 @@
+#ENTRY      C2860
+#AUTHOR1    G.L.Bate+
+#YEAR       1963
+#INSTITUTE  (1USAANL)
+#TITLE      Fission Fragment Angular Distributions and Cross
+#+          Sections for Deuteron-Induced Fission
+#AUTHOR(S)  G.L.Bate, R.Chaudhry, J.R.Huizenga
+#REF-CODE   (J,PR,131,722,1963)
+#REFERENCE  Phys.Rev. 131 (1963) 722 (doi:10.1103/PhysRev.131.722)
+#DATASETS   0
+#
+#DATASET    C2860015 
+#DATE       20221118
+#REACTION   92-U-238(D,F),,SIG
+#PROJ       1002
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [ 1002 92238   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 92238   3  18 D  8021000.          2.8290-3 2.2380-4                                       G.L.Bate+            (63)C2860 15 
+ 1002 92238   3  18 D  9094000.          0.015950                                                G.L.Bate+            (63)C2860 15 
+ 1002 92238   3  18 D  1.0022+7          0.054050                                                G.L.Bate+            (63)C2860 15 
+ 1002 92238   3  18 D  1.1043+7          0.142800                                                G.L.Bate+            (63)C2860 15 
+#/DATA      4
+#/DATASET

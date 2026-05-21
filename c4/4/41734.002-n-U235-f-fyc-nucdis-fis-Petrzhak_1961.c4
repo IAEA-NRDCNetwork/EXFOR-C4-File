@@ -1,0 +1,32 @@
+#ENTRY      41734
+#AUTHOR1    K.A.Petrzhak+
+#YEAR       1961
+#INSTITUTE  (4RUSRI)
+#TITLE      Yields of certain fragments in the fission of U235,
+#+          U238, and Pu239 by fission neutrons
+#AUTHOR(S)  K.A.Petrzhak, G.M.Tolmachev, V.N.Ushatskii, M.A.Bak, N.I.Blinova, 
+#+          S.S.Bugorkov, E.A.Moskal'kova, V.B.Osipova, Yu.G.Petrov, 
+#+          A.V.Sorokina, L.P.Chernysheva, L.B.Shiryaeva
+#REF-CODE   (B,NEJTRONFIZ,,217,1961)
+#REFERENCE  Neitronnaya Fizika, Moskva 1961 page 217 (1961)
+#DATASETS   0
+#
+#DATASET    41734002 
+#DATE       20210303
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,FIS
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    1000000.          0.056000 4.0000-3 38.00000 89.00000 9.000000            K.A.Petrzhak+        (61)41734  2 
+    1 92235   8 459    1000000.          0.077000 6.0000-3 40.00000 95.00000 9.000000            K.A.Petrzhak+        (61)41734  2 
+    1 92235   8 459    1000000.          0.064000 4.0000-3 42.00000 99.00000 9.000000            K.A.Petrzhak+        (61)41734  2 
+    1 92235   8 459    1000000.          3.1000-4 2.0000-5 47.00000 111.0000 9.000000            K.A.Petrzhak+        (61)41734  2 
+    1 92235   8 459    1000000.          2.2000-4 2.0000-4 48.00000 115.0000 0.000000            K.A.Petrzhak+        (61)41734  2 
+    1 92235   8 459    1000000.          0.060000 5.0000-3 56.00000 140.0000 9.000000            K.A.Petrzhak+        (61)41734  2 
+#/DATA      6
+#/DATASET

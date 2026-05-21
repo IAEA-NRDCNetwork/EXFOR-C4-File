@@ -1,0 +1,26 @@
+#ENTRY      C2368
+#AUTHOR1    S.B.Kaufman+
+#YEAR       1979
+#INSTITUTE  (1USAANL)
+#TITLE      Spallation of aluminum by 300 GeV protons
+#AUTHOR(S)  S.B.Kaufman, M.W.Weisfield, E.P.Steinberg, B.D.Wilkins, 
+#+          D.J.Henderson
+#REF-CODE   (J,PR/C,19,962,1979)
+#REFERENCE  Phys.Rev.C 19 (1979) 962 (doi:10.1103/PhysRevC.19.962)
+#DATASETS   0
+#
+#DATASET    C2368008 
+#DATE       20181207
+#REACTION   13-AL-27(P,X)4-BE-7,,SIG
+#PROJ       1001
+#TARG       13027
+#MF         3
+#MT         454
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001 13027   3 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   3 454 D  3.000+11          8.7000-3 7.0000-4            4007.9                     S.B.Kaufman+         (79)C2368  8 
+#/DATA      1
+#/DATASET

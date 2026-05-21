@@ -1,0 +1,34 @@
+#ENTRY      D4333
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2016
+#INSTITUTE  (3HUNDEB)
+#TITLE      Investigation of activation cross sections of proton
+#+          induced reactions on indium up to 70 MeV for practical
+#+          applications
+#AUTHOR(S)  F.Tarkanyi, F.Ditroi, A.Hermanne, S.Takacs, M.Baba
+#REF-CODE   (J,ARI,107,391,2016)
+#REFERENCE  Appl.Radiat.Isot. 107 (2016) 391 (doi:10.1016/j.apradiso.2015.11.027)
+#DATASETS   0
+#
+#DATASET    D4333003 
+#DATE       20160504
+#REACTION   49-IN-0(P,X)50-SN-111,,SIG
+#PROJ       1001
+#TARG       49000
+#MF         3
+#MT         454
+#PRODUCT    50-SN-111
+#C4BEGIN    [ 1001 49000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 49000   3 454    2.4500+7 500000.0 4.9000-3 9.0000-4           50111.9                     F.Tarkanyi+          (16)D4333  3 
+ 1001 49000   3 454    2.6200+7 400000.0 0.011100 1.4000-3           50111.9                     F.Tarkanyi+          (16)D4333  3 
+ 1001 49000   3 454    2.7500+7 400000.0 0.016400 2.0000-3           50111.9                     F.Tarkanyi+          (16)D4333  3 
+ 1001 49000   3 454    2.8700+7 300000.0 0.019300 2.4000-3           50111.9                     F.Tarkanyi+          (16)D4333  3 
+ 1001 49000   3 454    2.9900+7 300000.0 0.020700 2.5000-3           50111.9                     F.Tarkanyi+          (16)D4333  3 
+ 1001 49000   3 454    3.1100+7 300000.0 0.020600 2.5000-3           50111.9                     F.Tarkanyi+          (16)D4333  3 
+ 1001 49000   3 454    3.2200+7 200000.0 0.021300 2.7000-3           50111.9                     F.Tarkanyi+          (16)D4333  3 
+ 1001 49000   3 454    3.3300+7 200000.0 0.023100 2.9000-3           50111.9                     F.Tarkanyi+          (16)D4333  3 
+#/DATA      8
+#/DATASET

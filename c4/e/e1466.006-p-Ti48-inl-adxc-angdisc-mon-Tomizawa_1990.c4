@@ -1,0 +1,39 @@
+#ENTRY      E1466
+#AUTHOR1    M.Tomizawa+
+#YEAR       1990
+#INSTITUTE  (2JPNTSU)
+#TITLE      Asymmetry of spin-flip of polarized protons in the
+#+          inelastic scattering to the first 2+ states of 48Ti
+#+          and 50Ti
+#AUTHOR(S)  M.Tomizawa, T.Aoki, Y.Aoki, T.Murayama, T.Sakai, Y.Tagishi, 
+#+          K.Yagi
+#REF-CODE   (J,PR/C,41,(4),1486,199004)
+#REFERENCE  Phys.Rev.C 41 No.4 (1990) 1486 (doi:10.1103/PhysRevC.41.1486)
+#DATASETS   0
+#
+#DATASET    E1466006 
+#DATE       20080131
+#REACTION   22-TI-48(P,INL)22-TI-48,PAR,DA
+#PROJ       1001
+#TARG       22048
+#MF         4
+#MT         601
+#PRODUCT    22-TI-48
+#C4BEGIN    [ 1001 22048   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22048   4 601  C 1.1000+7          6.2810-3 1.3300-4 0.629863          990000.0         LVLM.Tomizawa+          (90)E1466  6 
+ 1001 22048   4 601  C 1.1000+7          4.6270-3 9.7000-5 0.483588          990000.0         LVLM.Tomizawa+          (90)E1466  6 
+ 1001 22048   4 601  C 1.1000+7          3.0060-3 8.9000-5 0.290869          990000.0         LVLM.Tomizawa+          (90)E1466  6 
+ 1001 22048   4 601  C 1.1000+7          2.2590-3 1.1800-4 0.152468          990000.0         LVLM.Tomizawa+          (90)E1466  6 
+ 1001 22048   4 601  C 1.1000+7          2.0120-3 2.9400-4-0.021815          990000.0         LVLM.Tomizawa+          (90)E1466  6 
+ 1001 22048   4 601  C 1.1000+7          2.2840-3 2.7100-4-0.227161          990000.0         LVLM.Tomizawa+          (90)E1466  6 
+ 1001 22048   4 601  C 1.1000+7          2.7190-3 2.0300-4-0.361299          990000.0         LVLM.Tomizawa+          (90)E1466  6 
+ 1001 22048   4 601  C 1.1000+7          3.3900-3 7.2000-5-0.516234          990000.0         LVLM.Tomizawa+          (90)E1466  6 
+ 1001 22048   4 601  C 1.1000+7          3.3550-3 7.1000-5-0.655532          990000.0         LVLM.Tomizawa+          (90)E1466  6 
+ 1001 22048   4 601  C 1.1000+7          3.3590-3 7.2000-5-0.774944          990000.0         LVLM.Tomizawa+          (90)E1466  6 
+ 1001 22048   4 601  C 1.1000+7          2.7710-3 6.1000-5-0.871471          990000.0         LVLM.Tomizawa+          (90)E1466  6 
+ 1001 22048   4 601  C 1.1000+7          1.8880-3 4.3000-5-0.942233          990000.0         LVLM.Tomizawa+          (90)E1466  6 
+#/DATA      12
+#/DATASET

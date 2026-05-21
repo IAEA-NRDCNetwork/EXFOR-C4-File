@@ -1,0 +1,46 @@
+#ENTRY      40025
+#AUTHOR1    M.A.Kurov+
+#YEAR       1971
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Measurement of the ratio of the cross sections for
+#+          radiative capture and fission (alpha) for Pu239 in the
+#+          neutron energy range 0.1 - 30 keV
+#AUTHOR(S)  M.A.Kurov, Yu.V.Ryabov, So Tong Hsik, N.Chikov, V.N.Kononov, 
+#+          E.D.Poletaev, Yu.S.Prokopets, Yu.Ya.Stavisskii
+#REF-CODE   (J,SJA,30,446,1971)
+#REFERENCE  Sov.At.Energy 30 (1971) 446 (doi:10.1007/BF01182174)
+#DATASETS   0
+#
+#DATASET    40025005 
+#DATE       20181217
+#REACTION   94-PU-239(N,F),,SIG,,AV
+#PROJ       1
+#TARG       94239
+#MF         3
+#MT         18
+#C4BEGIN    [    1 94239   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   3  18    150.0000 1.5000-8 21.63000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    250.0000 1.5000-8 18.78000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    350.0000 1.5000-8 7.300000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    450.0000 1.5000-8 12.30000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    550.0000 1.5000-8 18.33000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    650.0000 1.5000-8 7.340000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    750.0000 1.5000-8 6.570000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    850.0000 1.5000-8 7.030000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    950.0000 1.5000-8 10.93000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    1500.000 1.5000-8 5.560000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    2500.000 1.5000-8 3.610000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    3500.000 1.5000-8 3.650000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    4500.000 1.5000-8 2.650000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    5500.000 1.5000-8 2.360000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    6500.000 1.5000-8 2.130000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    7500.000 1.5000-8 2.550000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    8550.000 1.5000-8 2.320000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    9600.000 1.5000-8 2.220000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    15050.00 1.5000-8 2.090000                                                M.A.Kurov+           (71)40025  5 
+    1 94239   3  18    24800.00 1.5000-8 2.050000                                                M.A.Kurov+           (71)40025  5 
+#/DATA      20
+#/DATASET

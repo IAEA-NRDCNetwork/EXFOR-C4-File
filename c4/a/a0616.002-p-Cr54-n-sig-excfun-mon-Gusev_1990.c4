@@ -1,0 +1,27 @@
+#ENTRY      A0616
+#AUTHOR1    V.P.Gusev+
+#YEAR       1990
+#INSTITUTE  (4RUSSUL)
+#TITLE      Total Cross Sections of 54-Cr(P,N) Reactions at Proton
+#+          Energy 5.70 and 5.94 MeV.
+#AUTHOR(S)  V.P.Gusev, A.A.Kolozhvary, A.V.Smirnov, A.E.Antropov, P.P.Zarubin
+#REF-CODE   (C,90LENING,,262,1990)
+#REFERENCE  Proceedings of 40.Conf.Nucl.Spectroscopy Nucl.Struct.,Leningrad 1990 page 262
+#DATASETS   0
+#
+#DATASET    A0616002 
+#DATE       19990318
+#REACTION   24-CR-54(P,N)25-MN-54,,SIG
+#PROJ       1001
+#TARG       24054
+#MF         3
+#MT         4
+#PRODUCT    25-MN-54
+#C4BEGIN    [ 1001 24054   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24054   3   4    5700000.          0.335000 0.035000                                       V.P.Gusev+           (90)A0616  2 
+ 1001 24054   3   4    5940000.          0.490000 0.030000                                       V.P.Gusev+           (90)A0616  2 
+#/DATA      2
+#/DATASET

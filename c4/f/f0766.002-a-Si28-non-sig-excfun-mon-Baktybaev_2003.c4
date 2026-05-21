@@ -1,0 +1,30 @@
+#ENTRY      F0766
+#AUTHOR1    M.K.Baktybaev+
+#YEAR       2003
+#INSTITUTE  (4KASKAZ)
+#TITLE      Total reaction cross section from the interaction of
+#+          He-4 ions with Si-28 at 10-30 MeV.
+#AUTHOR(S)  M.K.Baktybaev, A.Duisebaev, B.A.Duisebaev, K.M.Ismailov, 
+#+          M.G.Itkis, K.K.Kadyrzhanov, R.Kalpakchieva, I.V.Kuznetsov, 
+#+          K.A.Kuterbekov, I.N.Kukhtina, S.M.Lukyanov, A.Mukhamedzhan, 
+#+          Yu.E.Penionzhkevich, B.M.Sadykov, Yu.G.Sobolev, V.Yu.Ugryumov
+#REF-CODE   (J,YF,66,1662,2003)
+#REFERENCE  Yad.Fiz. 66 (2003) 1662
+#DATASETS   0
+#
+#DATASET    F0766002 
+#DATE       20101001
+#REACTION   14-SI-28(A,NON),,SIG
+#PROJ       2004
+#TARG       14028
+#MF         3
+#MT         3
+#C4BEGIN    [ 2004 14028   3   3 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 14028   3   3 A  8574200.          0.283940 0.081887                                       M.K.Baktybaev+       (03)F0766  2 
+ 2004 14028   3   3 A  1.6371+7          0.505720 0.069377                                       M.K.Baktybaev+       (03)F0766  2 
+ 2004 14028   3   3 A  2.4168+7          0.852600 0.075063                                       M.K.Baktybaev+       (03)F0766  2 
+#/DATA      3
+#/DATASET

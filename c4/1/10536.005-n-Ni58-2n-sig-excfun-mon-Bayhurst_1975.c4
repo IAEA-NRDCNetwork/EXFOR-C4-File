@@ -1,0 +1,33 @@
+#ENTRY      10536
+#AUTHOR1    B.P.Bayhurst+
+#YEAR       1975
+#INSTITUTE  (1USALAS)
+#TITLE      Cross sections for (n,xn) reactions between 7.5 and
+#+          28 MeV
+#AUTHOR(S)  B.P.Bayhurst, J.S.Gilmore, R.J.Prestwood, J.B.Wilhelmy, 
+#+          N.Jarmie, B.H.Erkkila, R.A.Hardekopf
+#REF-CODE   (J,PR/C,12,451,197508)
+#REFERENCE  Phys.Rev.C 12 (1975) 451 (doi:10.1103/PhysRevC.12.451)
+#DATASETS   0
+#
+#DATASET    10536005 
+#DATE       20040511
+#REACTION   28-NI-58(N,2N)28-NI-57,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         16
+#PRODUCT    28-NI-57
+#C4BEGIN    [    1 28058   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3  16 A  1.7230+7 170000.0 0.070000 5.0000-3                                       B.P.Bayhurst+        (75)10536  5 
+    1 28058   3  16 A  1.8240+7 90000.00 0.076000 5.0000-3                                       B.P.Bayhurst+        (75)10536  5 
+    1 28058   3  16 A  1.9990+7 110000.0 0.092000 6.0000-3                                       B.P.Bayhurst+        (75)10536  5 
+    1 28058   3  16 A  2.1260+7 180000.0 0.093000 4.0000-3                                       B.P.Bayhurst+        (75)10536  5 
+    1 28058   3  16 A  2.2010+7 130000.0 0.097000 4.0000-3                                       B.P.Bayhurst+        (75)10536  5 
+    1 28058   3  16 A  2.3360+7 110000.0 0.102000 4.0000-3                                       B.P.Bayhurst+        (75)10536  5 
+    1 28058   3  16 A  2.4490+7 120000.0 0.096000 4.0000-3                                       B.P.Bayhurst+        (75)10536  5 
+#/DATA      7
+#/DATASET

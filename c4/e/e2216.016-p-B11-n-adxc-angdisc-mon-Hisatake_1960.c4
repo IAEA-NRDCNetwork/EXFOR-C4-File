@@ -1,0 +1,36 @@
+#ENTRY      E2216
+#AUTHOR1    K.Hisatake+
+#YEAR       1960
+#INSTITUTE  (2JPNTOK)
+#TITLE      The reactions Li7(p,n)Be7, B11(p,n)C11 and
+#+          Al27(p,n)Si27 at 8 to 14 MeV
+#AUTHOR(S)  K.Hisatake, Y.Ishizaki, A.Isoya, T.Nakamura, Y.Nakano, B.Saheki, 
+#+          Y.Saji, K.Yuasa
+#REF-CODE   (J,JPJ,15,(5),741,196005)
+#REFERENCE  J.Phys.Soc.Jpn. 15 No.5 (1960) 741 (doi:10.1143/JPSJ.15.741)
+#DATASETS   0
+#
+#DATASET    E2216016 
+#DATE       20120130
+#REACTION   5-B-11(P,N)6-C-11,PAR,DA
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         50
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  5011   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4  50  C 1.2100+7 150000.0 0.013280 4.1810-4 0.973259          0.000000         LVLK.Hisatake+          (60)E2216 16 
+ 1001  5011   4  50  C 1.2100+7 150000.0 9.4060-3 4.1760-4 0.919684          0.000000         LVLK.Hisatake+          (60)E2216 16 
+ 1001  5011   4  50  C 1.2100+7 150000.0 7.8350-3 4.1810-4 0.829330          0.000000         LVLK.Hisatake+          (60)E2216 16 
+ 1001  5011   4  50  C 1.2100+7 150000.0 5.8630-3 4.1760-4 0.635135          0.000000         LVLK.Hisatake+          (60)E2216 16 
+ 1001  5011   4  50  C 1.2100+7 150000.0 4.9320-3 3.4890-4 0.407693          0.000000         LVLK.Hisatake+          (60)E2216 16 
+ 1001  5011   4  50  C 1.2100+7 150000.0 5.3270-3 3.4840-4 0.139519          0.000000         LVLK.Hisatake+          (60)E2216 16 
+ 1001  5011   4  50  C 1.2100+7 150000.0 4.9530-3 3.4890-4-0.124641          0.000000         LVLK.Hisatake+          (60)E2216 16 
+ 1001  5011   4  50  C 1.2100+7 150000.0 4.4410-3 2.7870-4-0.382683          0.000000         LVLK.Hisatake+          (60)E2216 16 
+ 1001  5011   4  50  C 1.2100+7 150000.0 3.7830-3 4.1860-4-0.587785          0.000000         LVLK.Hisatake+          (60)E2216 16 
+ 1001  5011   4  50  C 1.2100+7 150000.0 3.5460-3 3.4840-4-0.767165          0.000000         LVLK.Hisatake+          (60)E2216 16 
+#/DATA      10
+#/DATASET

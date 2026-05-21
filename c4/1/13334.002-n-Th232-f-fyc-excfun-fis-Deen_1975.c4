@@ -1,0 +1,27 @@
+#ENTRY      13334
+#AUTHOR1    J.R.Deen+
+#YEAR       1975
+#INSTITUTE  (1USATEX)
+#TITLE      Measurement of fission product yields and the energy
+#+          integral fission cross section of thorium-232 in a
+#+          californium-252 fission-neutron spectrum
+#AUTHOR(S)  J.R.Deen, E.L.Draper Jr
+#REF-CODE   (J,NT,25,416,1975)
+#REFERENCE  Nucl.Technol. 25 (1975) 416 (doi:10.13182/NT75-A24378)
+#DATASETS   0
+#
+#DATASET    13334002 
+#DATE       20250707
+#REACTION   90-TH-232(N,F)56-BA-140,CUM,FY,,FIS
+#PROJ       1
+#TARG       90232
+#MF         8
+#MT         459
+#PRODUCT    56-BA-140
+#C4BEGIN    [    1 90232   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   8 459    1420000.          0.073100 5.0000-3 56.00000 140.0000 9.000000            J.R.Deen+            (75)13334  2 
+#/DATA      1
+#/DATASET

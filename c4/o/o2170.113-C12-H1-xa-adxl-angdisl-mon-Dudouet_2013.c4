@@ -1,0 +1,35 @@
+#ENTRY      O2170
+#AUTHOR1    J.Dudouet+
+#YEAR       2013
+#INSTITUTE  (2FR CAE)
+#TITLE      Double-differential fragmentation cross-section
+#+          measurements of 95 MeV/nucleon 12C beams on thin
+#+          targets for hadron therapy
+#AUTHOR(S)  J.Dudouet, D.Juliani, M.Labalme, D.Cussol, J.C.Angelique, 
+#+          B.Braunn, J.Colin, Ch.Finck, J.M.Fontbonne, H.Guerin, P.Henriquet, 
+#+          J.Krimmer, M.Rousseau, M.G.Saint-Laurent, S.Salvador
+#REF-CODE   (J,PR/C,88,024606,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 024606 (doi:10.1103/PhysRevC.88.024606)
+#DATASETS   0
+#
+#DATASET    O2170113 
+#DATE       20161017
+#REACTION   1-H-1(6-C-12,X)2-HE-4,,DA
+#PROJ       6012
+#TARG       1001
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 6012  1001   4 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  1001   4 207    1.1400+9          3.753820 1.538920 0.997564                              J.Dudouet+           (13)O2170113 
+ 6012  1001   4 207    1.1400+9          1.238800 0.580146 0.992546                              J.Dudouet+           (13)O2170113 
+ 6012  1001   4 207    1.1400+9          0.625398 0.368765 0.987688                              J.Dudouet+           (13)O2170113 
+ 6012  1001   4 207    1.1400+9          0.219984 0.177331 0.981627                              J.Dudouet+           (13)O2170113 
+ 6012  1001   4 207    1.1400+9          0.091645 0.109092 0.974370                              J.Dudouet+           (13)O2170113 
+ 6012  1001   4 207    1.1400+9          0.023077 0.056976 0.965926                              J.Dudouet+           (13)O2170113 
+ 6012  1001   4 207    1.1400+9          0.014503 0.038459 0.956305                              J.Dudouet+           (13)O2170113 
+#/DATA      7
+#/DATASET

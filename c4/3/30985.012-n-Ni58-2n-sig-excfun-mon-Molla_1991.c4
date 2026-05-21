@@ -1,0 +1,31 @@
+#ENTRY      30985
+#AUTHOR1    N.I.Molla+
+#YEAR       1991
+#INSTITUTE  (3BANSAV)
+#TITLE      Excitation functions of some (n,p), (n,2n) and
+#+          (n,alpha) reactions on nickel, zirconium and niobium
+#+          isotopes in the energy range 13.63 - 14.83 MeV.
+#AUTHOR(S)  N.I.Molla, R.U.Miah, M.Rahman, Aysha Akhter
+#REF-CODE   (C,91JUELIC,,355,199105)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 355
+#DATASETS   0
+#
+#DATASET    30985012 
+#DATE       20090919
+#REACTION   28-NI-58(N,2N)28-NI-57,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         16
+#PRODUCT    28-NI-57
+#C4BEGIN    [    1 28058   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3  16    1.3640+7          0.019900 1.7000-3                                       N.I.Molla+           (91)30985 12 
+    1 28058   3  16    1.3880+7          0.019400 1.8000-3                                       N.I.Molla+           (91)30985 12 
+    1 28058   3  16    1.4100+7          0.023300 2.1000-3                                       N.I.Molla+           (91)30985 12 
+    1 28058   3  16    1.4300+7          0.034200 3.0000-3                                       N.I.Molla+           (91)30985 12 
+    1 28058   3  16    1.4830+7          0.028400 4.0000-3                                       N.I.Molla+           (91)30985 12 
+#/DATA      5
+#/DATASET

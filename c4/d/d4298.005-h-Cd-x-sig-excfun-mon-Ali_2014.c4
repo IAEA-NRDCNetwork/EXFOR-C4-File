@@ -1,0 +1,33 @@
+#ENTRY      D4298
+#AUTHOR1    B.M.Ali+
+#YEAR       2014
+#INSTITUTE  (3EGYCAI)
+#TITLE      Experimental investigation and theoretical calculation
+#+          of 3He-particle induced nuclear reactions on cadmium
+#+          up to 27 MeV
+#AUTHOR(S)  B.M.Ali, M.Al-Abyad, U.Seddik, S.U.El-Kameesy, F.Ditroi, 
+#+          S.Takacs, F.Tarkanyi
+#REF-CODE   (J,NIM/B,321,30,2014)
+#REFERENCE  Nucl.Instrum.Meth.B 321 (2014) 30 (doi:10.1016/j.nimb.2013.12.022)
+#DATASETS   0
+#
+#DATASET    D4298005 
+#DATE       20140929
+#REACTION   48-CD-0(HE3,X)50-SN-110,,SIG
+#PROJ       2003
+#TARG       48000
+#MF         3
+#MT         454
+#PRODUCT    50-SN-110
+#C4BEGIN    [ 2003 48000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 48000   3 454    2.6400+7 300000.0 0.070400 7.9000-3           50110.9                     B.M.Ali+             (14)D4298  5 
+ 2003 48000   3 454    2.4800+7 370000.0 0.064000 7.2000-3           50110.9                     B.M.Ali+             (14)D4298  5 
+ 2003 48000   3 454    2.3500+7 430000.0 0.050200 5.7000-3           50110.9                     B.M.Ali+             (14)D4298  5 
+ 2003 48000   3 454    2.1800+7 510000.0 0.030800 3.5000-3           50110.9                     B.M.Ali+             (14)D4298  5 
+ 2003 48000   3 454    2.0000+7 590000.0 0.013700 1.6000-3           50110.9                     B.M.Ali+             (14)D4298  5 
+ 2003 48000   3 454    1.8100+7 680000.0 3.0000-3 4.0000-4           50110.9                     B.M.Ali+             (14)D4298  5 
+#/DATA      6
+#/DATASET

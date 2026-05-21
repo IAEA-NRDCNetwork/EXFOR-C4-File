@@ -1,0 +1,31 @@
+#ENTRY      O0177
+#AUTHOR1    B.Ya.Guzhovskii+
+#YEAR       1994
+#INSTITUTE  (4RUSEPA)
+#TITLE      Cross-section activation measurement for U-238
+#+          through protons and deuterons in energy interval
+#+          10-14 MeV.
+#AUTHOR(S)  B.Ya.Guzhovskii, S.N.Abramovich, A.G.Zvenigorodskii, V.S.Rudnev, 
+#+          S.V.Trusillo
+#REF-CODE   (C,94GATLIN,1,390,1994)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 1 page 390
+#DATASETS   0
+#
+#DATASET    O0177003 
+#DATE       20201018
+#REACTION   92-U-238(D,X)93-NP-239,CUM,SIG
+#PROJ       1002
+#TARG       92238
+#MF         3
+#MT         459
+#PRODUCT    93-NP-239
+#C4BEGIN    [ 1002 92238   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 92238   3 459    1.0000+7          0.085600                    93239.9                     B.Ya.Guzhovskii+     (94)O0177  3 
+ 1002 92238   3 459    1.0980+7          0.137500                    93239.9                     B.Ya.Guzhovskii+     (94)O0177  3 
+ 1002 92238   3 459    1.1970+7          0.190000                    93239.9                     B.Ya.Guzhovskii+     (94)O0177  3 
+ 1002 92238   3 459    1.3000+7          0.182000                    93239.9                     B.Ya.Guzhovskii+     (94)O0177  3 
+#/DATA      4
+#/DATASET

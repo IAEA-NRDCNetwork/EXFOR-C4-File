@@ -1,0 +1,28 @@
+#ENTRY      O0109
+#AUTHOR1    S.Shibata+
+#YEAR       1993
+#INSTITUTE  (2JPNTOK)
+#TITLE      Measurements of be-10 and Al-26 Production Cross
+#+          Sections with 12 GeV Protons by Accelerator Mass
+#+          Spectrometry.
+#AUTHOR(S)  S.Shibata, M.Imamura, H.Nagai, K.Kobayashi, K.Sakamoto, 
+#+          M.Furukawa, I.Fujiwara
+#REF-CODE   (J,PR/C,48,2617,1993)
+#REFERENCE  Phys.Rev.C 48 (1993) 2617 (doi:10.1103/PhysRevC.48.2617)
+#DATASETS   0
+#
+#DATASET    O0109011 
+#DATE       20000425
+#REACTION   26-FE-0(P,X)13-AL-26-G,IND,SIG
+#PROJ       1001
+#TARG       26000
+#MF         3
+#MT         454
+#PRODUCT    13-AL-26-G
+#C4BEGIN    [ 1001 26000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26000   3 454    1.200+10          2.0200-3 2.2000-4           13026.0                     S.Shibata+           (93)O0109 11 
+#/DATA      1
+#/DATASET

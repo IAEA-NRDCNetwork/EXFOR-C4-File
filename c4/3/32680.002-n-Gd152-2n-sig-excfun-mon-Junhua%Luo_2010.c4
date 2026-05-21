@@ -1,0 +1,30 @@
+#ENTRY      32680
+#AUTHOR1    Junhua Luo+
+#YEAR       2010
+#INSTITUTE  (3CPRHXU)
+#TITLE      Cross section measurements of (n,2n), (n,p) and (n,a)
+#+          reactions on gadolinium isotopes in the neutron
+#+          energy range of 13.5 to 14.8 MeV
+#AUTHOR(S)  Junhua Luo, Rong Liu, Li Jiang, Guihua Sun, Zhenlai Liu, 
+#+          Fengqun Zhou
+#REF-CODE   (J,RCA,98,127,2010)
+#REFERENCE  Radiochim.Acta 98 (2010) 127 (doi:10.1524/ract.2010.1702)
+#DATASETS   0
+#
+#DATASET    32680002 
+#DATE       20120209
+#REACTION   64-GD-152(N,2N)64-GD-151,,SIG
+#PROJ       1
+#TARG       64152
+#MF         3
+#MT         16
+#PRODUCT    64-GD-151
+#C4BEGIN    [    1 64152   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 64152   3  16    1.3500+7 200000.0 1.500000 0.145000                                       Junhua Luo+          (10)32680  2 
+    1 64152   3  16    1.4100+7 200000.0 1.737000 0.153000                                       Junhua Luo+          (10)32680  2 
+    1 64152   3  16    1.4800+7 200000.0 1.896000 0.157000                                       Junhua Luo+          (10)32680  2 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      D4328
+#AUTHOR1    C.Yalcin+
+#YEAR       2015
+#INSTITUTE  (3HUNDEB)
+#TITLE      Test of statistical model cross section calculations
+#+          for alpha-induced reactions on 107Ag at energies of
+#+          astrophysical interest
+#AUTHOR(S)  C.Yalcin, Gy.Gyurky, T.Rauscher, G.G.Kiss, N.Ozkan, R.T.Guray, 
+#+          Z.Halasz, T.Szucs, Zs.Fulop, J.Farkas, Z.Korkulu, E.Somorjai
+#REF-CODE   (J,PR/C,91,034610,2015)
+#REFERENCE  Phys.Rev.C 91 (2015) 034610 (doi:10.1103/PhysRevC.91.034610)
+#DATASETS   0
+#
+#DATASET    D43280032
+#DATE       20150609
+#REACTION   47-AG-107(A,N)49-IN-110-M,,SIG
+#PROJ       2004
+#TARG       47107
+#MF         3
+#MT         4
+#PRODUCT    49-IN-110-M
+#C4BEGIN    [ 2004 47107   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 47107   3   4M   8891235. 60005.16 7.3000-6 1.3000-6                                       C.Yalcin+            (15)D4328  32
+ 2004 47107   3   4M   9410000. 60005.46 4.8800-5 4.4000-6                                       C.Yalcin+            (15)D4328  32
+ 2004 47107   3   4M   9908016. 90008.63 2.1900-4 1.6000-5                                       C.Yalcin+            (15)D4328  32
+ 2004 47107   3   4M   1.0427+7 90009.08 7.4500-4 5.5000-5                                       C.Yalcin+            (15)D4328  32
+ 2004 47107   3   4M   1.0914+7 70007.39 1.8210-3 1.3000-4                                       C.Yalcin+            (15)D4328  32
+ 2004 47107   3   4M   1.0966+7 70007.43 1.8830-3 1.4800-4                                       C.Yalcin+            (15)D4328  32
+ 2004 47107   3   4M   1.1412+7 70007.73 4.9490-3 3.5200-4                                       C.Yalcin+            (15)D4328  32
+ 2004 47107   3   4M   1.1454+7 70007.76 4.9110-3 3.6300-4                                       C.Yalcin+            (15)D4328  32
+ 2004 47107   3   4M   1.1942+7 70008.09 0.012443 8.8600-4                                       C.Yalcin+            (15)D4328  32
+ 2004 47107   3   4M   1.2450+7 70008.43 0.021663 1.5420-3                                       C.Yalcin+            (15)D4328  32
+ 2004 47107   3   4M   1.2969+7 80010.04 0.032398 2.3210-3                                       C.Yalcin+            (15)D4328  32
+#/DATA      11
+#/DATASET

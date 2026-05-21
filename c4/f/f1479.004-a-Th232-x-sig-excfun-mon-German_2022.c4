@@ -1,0 +1,31 @@
+#ENTRY      F1479
+#AUTHOR1    M.N.German+
+#YEAR       2022
+#INSTITUTE  (4RUSKUR)
+#TITLE      Measurement of cross sections for reactions
+#+          232Th(4He,p5n)230Pa, 232Th(4He,p3n)232Pa,
+#+          232Th(4He,2pn+p2n)233Pa, and 232Th(4He,6n)230U
+#+          induced by the irradiation of ThO2 targets with 4He
+#AUTHOR(S)  M.N.German, V.A.Zagryadskiy, A.V.Kurochkin, K.A.Makoveeva, 
+#+          T.Yu.Malamut, V.I.Novikov, A.A.Smirnov, V.N.Unezhev
+#REF-CODE   (J,PAN,85,515,2022)
+#REFERENCE  Phys.At.Nucl. 85 (2022) 515 (doi:10.1134/S1063778822060072)
+#DATASETS   0
+#
+#DATASET    F1479004 
+#DATE       20231026
+#REACTION   90-TH-232(A,X)91-PA-230,,SIG
+#PROJ       2004
+#TARG       90232
+#MF         3
+#MT         454
+#PRODUCT    91-PA-230
+#C4BEGIN    [ 2004 90232   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 90232   3 454 A  6.2000+7          0.010200 2.5000-3           91230.9                     M.N.German+          (22)F1479  4 
+ 2004 90232   3 454 A  5.9100+7          5.2000-3 1.5000-3           91230.9                     M.N.German+          (22)F1479  4 
+ 2004 90232   3 454 A  5.5800+7          1.0000-3 3.0000-4           91230.9                     M.N.German+          (22)F1479  4 
+#/DATA      3
+#/DATASET

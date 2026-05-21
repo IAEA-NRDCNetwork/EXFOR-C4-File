@@ -1,0 +1,26 @@
+#ENTRY      O0649
+#AUTHOR1    M.Maurette+
+#YEAR       1965
+#INSTITUTE  (2FR PAR)
+#TITLE      Measurements of Absolute Cross Sections of Fission
+#+          Induced by 156-MeV Protons, Using Mica As a Fission
+#+          Fragment Detector.
+#AUTHOR(S)  M.Maurette, C.Stephan
+#REF-CODE   (C,65SALZBURG,2,307,196503)
+#REFERENCE  Proceedings of Physics and Chemistry of Fission Conf., Salzburg 1965 2 page 307
+#DATASETS   0
+#
+#DATASET    O0649010 
+#DATE       20000424
+#REACTION   48-CD-0(P,F),,SIG,,,EXP
+#PROJ       1001
+#TARG       48000
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 48000   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 48000   3  18    1.5600+8          3.0000-7 1.6000-7                                       M.Maurette+          (65)O0649 10 
+#/DATA      1
+#/DATASET

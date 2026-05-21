@@ -1,0 +1,122 @@
+#ENTRY      23231
+#AUTHOR1    D.Karadimos+
+#YEAR       2014
+#INSTITUTE  (2GRCTUA)
+#TITLE      Neutron-induced fission cross section of 234U measured
+#+          at the CERN nTOF facility
+#AUTHOR(S)  D.Karadimos, R.Vlastou, K.Ioannidis, P.Demetriou, M.Diakaki, 
+#+          V.Vlachoudis, P.Pavlopoulos, V.Konovalov, U.Abbondanno, 
+#+          G.Aerts, H.Alvarez, F.Alvarez-Velarde, S.Andriamonje, J.Andrzejewski, 
+#+          P.Assimakopoulos, L.Audouin, G.Badurek, P.Baumann, F.Becvar, 
+#+          E.Berthoumieux, F.Calvino, D.Cano-Ott, R.Capote, A.Carrillo de Albornoz, 
+#+          V.Chepel, E.Chiaveri, N.Colonna, G.Cortes, A.Couture, J.Cox, 
+#+          S.David, R.Dolfini, C.Domingo-Pardo, A.Dorochenko, W.Dridi, 
+#+          I.Duran, Ch.Eleftheriadis, M.Embid-Segura, L.Ferrant, A.Ferrari, 
+#+          R.Ferreira-Marques, L.Fitzpatrick, H.Frais-Koelbl, K.Fuji, 
+#+          W.Furman, I.Goncalves, R.Gallino, P.Cennini, E.Gonzalez-Romero, 
+#+          A.Goverdovski, F.Gramegna, E.Griesmayer, C.Guerrero, F.Gunsing, 
+#+          B.Haas, R.Haight, M.Heil, A.Herrera-Martinez, M.Igashira, 
+#+          S.Isaev, E.Jericha, Y.Kadi, F.Kaeppeler, D.Karamanis, M.Kerveno, 
+#+          V.Ketlerov, P.Koehler, D.Kolokolov, M.Krticka, C.Lamboudis, 
+#+          H.Leeb, A.Lindote, I.Lopes, M.Lozano, S.Lukic, J.Marganiec, 
+#+          L.Marques, S.Marrone, C.Massimi, P.Mastinu, A.Mengoni, P.M.Milazzo, 
+#+          C.Moreau, M.Mosconi, F.Neves, H.Oberhummer, S.O'Brien, M.Oshima, 
+#+          J.Pancin, C.Papadopoulos, C.Paradela, N.Patronis, A.Pavlik, 
+#+          L.Perrot, R.Plag, A.Plompen, A.Plukis, A.Poch, C.Pretel, 
+#+          J.Quesada, T.Rauscher, R.Reifarth, M.Rosetti, C.Rubbia, 
+#+          G.Rudolf, P.Rullhusen, J.Salgado, L.Sarchiapone, I.Savvidis, 
+#+          M.Sedysheva, K.Stamoulis, C.Stephan, G.Tagliente, J.L.Tain, 
+#+          L.Tassan-Got, L.Tavora, R.Terlizzi, A.Tsinganis, G.Vannini, 
+#+          P.Vaz, A.Ventura, D.Villamarin, M.C.Vincente, F.Voss, H.Wendler, 
+#+          M.Wiescher, K.Wisshak
+#REF-CODE   (J,PR/C,89,044606,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 044606 (doi:10.1103/PhysRevC.89.044606)
+#DATASETS   0
+#
+#DATASET    232310032
+#DATE       20151109
+#REACTION   92-U-234(N,F),,SIG
+#PROJ       1
+#TARG       92234
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92234   3  18 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92234   3  18 C  1412663.          1.610997 0.074080                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1479240.          1.332150 0.040825                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1548954.          1.395254 0.038796                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1621954.          1.532181 0.040631                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1698394.          1.539364 0.043177                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1778437.          1.697775 0.042059                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1862253.          1.491437 0.036045                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1950018.          1.566545 0.040085                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  2041919.          1.506997 0.037060                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  2138152.          1.484723 0.036080                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  2238920.          1.504477 0.038157                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  2344437.          1.530057 0.039110                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  2454927.          1.480771 0.037772                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  2570624.          1.531081 0.042803                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  2691774.          1.484344 0.043224                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  2818633.          1.559498 0.049366                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  2951471.          1.504786 0.047344                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  3090570.          1.459839 0.046692                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  3236224.          1.531355 0.055198                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  3388742.          1.534501 0.057952                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  3548449.          1.460840 0.056750                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  3715682.          1.537912 0.065777                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  3890797.          1.491047 0.062425                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  4074165.          1.438965 0.057382                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  4266174.          1.383369 0.055464                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  4467233.          1.383301 0.060246                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  4677767.          1.388479 0.060379                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  4898223.          1.389078 0.066076                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  5129069.          1.304568 0.056865                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  5370795.          1.306724 0.058447                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  5623913.          1.310261 0.059194                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  5888960.          1.333891 0.059081                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  6166498.          1.441407 0.061342                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  6457116.          1.643682 0.067263                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  6761430.          1.765724 0.069203                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  7080087.          1.872554 0.071210                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  7413761.          1.970287 0.074275                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  7763161.          2.072801 0.078893                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  8129027.          2.156838 0.083191                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  8512136.          2.165214 0.084445                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  8913301.          2.149871 0.084435                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  9333372.          2.113404 0.083880                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  9773240.          2.074037 0.083212                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.0234+7          2.051504 0.083453                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.0716+7          2.025412 0.083614                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.1221+7          2.035965 0.086395                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.1750+7          1.993438 0.085861                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.2304+7          1.970386 0.085835                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.2884+7          1.981506 0.086307                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.3491+7          2.068038 0.088837                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.4127+7          2.166090 0.093063                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.4792+7          2.269585 0.098746                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.6797+7          2.171653 0.232343                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.8847+7          2.132147 0.224153                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  2.1147+7          2.329429 0.244443                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  2.3727+7          2.295973 0.232459                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  2.6622+7          2.277946 0.224641                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  2.9870+7          2.378983 0.221949                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  3.3515+7          2.228255 0.197441                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  3.7605+7          2.002834 0.177571                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  4.2193+7          2.065046 0.182820                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  4.7341+7          2.062476 0.178262                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  5.3118+7          1.992082 0.166506                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  5.9599+7          1.987363 0.165995                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  6.6871+7          1.911706 0.163310                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  7.5031+7          1.894339 0.164276                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  8.4186+7          1.863299 0.163690                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  9.4458+7          1.706061 0.148152                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.0598+8          1.712371 0.158419                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.1892+8          1.796756 0.181194                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.3343+8          1.733316 0.168795                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.4971+8          1.570950 0.145963                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.6797+8          1.571774 0.147649                                       D.Karadimos+         (14)23231  32
+    1 92234   3  18 C  1.8847+8          1.627673 0.161607                                       D.Karadimos+         (14)23231  32
+#/DATA      74
+#/DATASET

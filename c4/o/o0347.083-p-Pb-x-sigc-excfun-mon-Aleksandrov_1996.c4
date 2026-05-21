@@ -1,0 +1,27 @@
+#ENTRY      O0347
+#AUTHOR1    Yu.V.Aleksandrov+
+#YEAR       1996
+#INSTITUTE  (4RUSRI)
+#TITLE      Cross sections for the production of radionuclides in
+#+          lead target irradiated with 660 MeV protons
+#AUTHOR(S)  Yu.V.Aleksandrov, S.K.Vasiljev, R.B.Ivanov, M.A.Mikhaylova, 
+#+          V.P.Prikhodtseva, A.V.Saulskij, V.G.Eismont
+#REF-CODE   (C,96KALMAR,2,576,1996)
+#REFERENCE  Proceedings of Conf.on Accel.Driven Transmut.Tech.Appl.,Kalmar, 1996 2 page 576
+#DATASETS   0
+#
+#DATASET    O0347083 
+#DATE       20140121
+#REACTION   82-PB-0(P,X)40-ZR-95,CUM,SIG
+#PROJ       1001
+#TARG       82000
+#MF         3
+#MT         459
+#PRODUCT    40-ZR-95
+#C4BEGIN    [ 1001 82000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82000   3 459    6.6000+8          2.8000-3 9.0000-4           40095.9                     Yu.V.Aleksandrov+    (96)O0347 83 
+#/DATA      1
+#/DATASET

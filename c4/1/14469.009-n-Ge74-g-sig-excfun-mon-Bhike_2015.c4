@@ -1,0 +1,36 @@
+#ENTRY      14469
+#AUTHOR1    M.Bhike+
+#YEAR       2015
+#INSTITUTE  (1USATNL)
+#TITLE      Measurement of the neutron-capture cross section of
+#+          76Ge and 74Ge below 15MeV and its relevance to
+#+          neutrinoless double beta decay searches of 76Ge
+#AUTHOR(S)  M.Bhike, B.Fallin, Krishichayan, W.Tornow
+#REF-CODE   (J,PL/B,741,150,2015)
+#REFERENCE  Phys.Lett.B 741 (2015) 150 (doi:10.1016/j.physletb.2014.12.004)
+#DATASETS   0
+#
+#DATASET    14469009 
+#DATE       20170601
+#REACTION   32-GE-74(N,G)32-GE-75,,SIG
+#PROJ       1
+#TARG       32074
+#MF         3
+#MT         102
+#PRODUCT    32-GE-75
+#C4BEGIN    [    1 32074   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32074   3 102 D  380000.0 110000.0 0.020290 2.2700-3                                       M.Bhike+             (15)14469  9 
+    1 32074   3 102 D  860000.0 110000.0 0.011830 1.4500-3                                       M.Bhike+             (15)14469  9 
+    1 32074   3 102 D  1320000. 110000.0 8.4800-3 5.4000-4                                       M.Bhike+             (15)14469  9 
+    1 32074   3 102 D  1870000. 110000.0 6.1900-3 1.4300-3                                       M.Bhike+             (15)14469  9 
+    1 32074   3 102 D  2770000. 130000.0 6.2600-3 1.1500-3                                       M.Bhike+             (15)14469  9 
+    1 32074   3 102 D  3390000. 150000.0 3.6000-3 6.3000-4                                       M.Bhike+             (15)14469  9 
+    1 32074   3 102 D  4390000. 330000.0 2.5100-3 4.2000-4                                       M.Bhike+             (15)14469  9 
+    1 32074   3 102 D  5330000. 350000.0 1.6200-3 2.8000-4                                       M.Bhike+             (15)14469  9 
+    1 32074   3 102 D  6640000. 330000.0 1.2300-3 3.4000-4                                       M.Bhike+             (15)14469  9 
+    1 32074   3 102 D  7360000. 290000.0 1.2100-3 2.7000-4                                       M.Bhike+             (15)14469  9 
+#/DATA      10
+#/DATASET

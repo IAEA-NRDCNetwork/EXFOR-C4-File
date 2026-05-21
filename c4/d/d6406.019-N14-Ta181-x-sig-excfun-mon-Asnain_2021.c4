@@ -1,0 +1,38 @@
+#ENTRY      D6406
+#AUTHOR1    M.S.Asnain+
+#YEAR       2021
+#INSTITUTE  (3INDMUA)
+#TITLE      Effect of non-alpha-cluster projectile on
+#+          incomplete-fusion dynamics: experimental study of the
+#+          14N + 181Ta system
+#AUTHOR(S)  M.S.Asnain, M.Shuaib, I.Majeed, M.K.Sharma, V.R.Sharma, 
+#+          A.Yadav, D.P.Singh, P.P.Singh, U.Gupta, R.N.Sahoo, A.Sood, 
+#+          M.Kaushik, S.Kumar, R.Kumar, B.P.Singh, R.Prasad
+#REF-CODE   (J,PR/C,104,034616,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) 034616 (doi:10.1103/PhysRevC.104.034616)
+#DATASETS   0
+#
+#DATASET    D6406019 
+#DATE       20220113
+#REACTION   73-TA-181(7-N-14,X)75-RE-181,,SIG
+#PROJ       7014
+#TARG       73181
+#MF         3
+#MT         454
+#PRODUCT    75-RE-181
+#C4BEGIN    [ 7014 73181   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014 73181   3 454    6.9470+7 1060000. 4.0000-4 6.0000-5           75181.9                     M.S.Asnain+          (21)D6406 19 
+ 7014 73181   3 454    7.1540+7 1080000. 6.0000-4 1.0000-4           75181.9                     M.S.Asnain+          (21)D6406 19 
+ 7014 73181   3 454    7.3650+7 950000.0 1.0000-3 1.5000-4           75181.9                     M.S.Asnain+          (21)D6406 19 
+ 7014 73181   3 454    7.5650+7 990000.0 1.3000-3 2.0000-4           75181.9                     M.S.Asnain+          (21)D6406 19 
+ 7014 73181   3 454    7.7080+7 1070000. 1.4000-3 2.2000-4           75181.9                     M.S.Asnain+          (21)D6406 19 
+ 7014 73181   3 454    7.9510+7 890000.0 2.0000-3 3.0000-4           75181.9                     M.S.Asnain+          (21)D6406 19 
+ 7014 73181   3 454    8.1420+7 990000.0 2.4500-3 3.7000-4           75181.9                     M.S.Asnain+          (21)D6406 19 
+ 7014 73181   3 454    8.3050+7 940000.0 2.9000-3 4.3000-4           75181.9                     M.S.Asnain+          (21)D6406 19 
+ 7014 73181   3 454    8.5170+7 830000.0 3.0000-3 4.5000-4           75181.9                     M.S.Asnain+          (21)D6406 19 
+ 7014 73181   3 454    8.7070+7 930000.0 3.5000-3 5.3000-4           75181.9                     M.S.Asnain+          (21)D6406 19 
+#/DATA      10
+#/DATASET

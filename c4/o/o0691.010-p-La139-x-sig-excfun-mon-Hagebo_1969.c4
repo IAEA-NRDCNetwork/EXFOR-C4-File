@@ -1,0 +1,26 @@
+#ENTRY      O0691
+#AUTHOR1    E.Hagebo+
+#YEAR       1969
+#INSTITUTE  (2ZZZCER)
+#TITLE      Cross-Sections For the Formation of Sb and Sc Isotopes
+#+          By Irradiation of Y, La, Ta and Au with 18.2 GeV.
+#AUTHOR(S)  E.Hagebo, H.Ravn
+#REF-CODE   (J,JIN,31,897,1969)
+#REFERENCE  J.Inorg.Nucl.Chem. 31 (1969) 897 (doi:10.1016/0022-1902(69)80135-1)
+#DATASETS   0
+#
+#DATASET    O0691010 
+#DATE       20000427
+#REACTION   57-LA-139(P,X)21-SC-44-G,IND,SIG
+#PROJ       1001
+#TARG       57139
+#MF         3
+#MT         454
+#PRODUCT    21-SC-44-G
+#C4BEGIN    [ 1001 57139   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 57139   3 454    1.820+10          1.3500-3 1.0000-4           21044.0                     E.Hagebo+            (69)O0691 10 
+#/DATA      1
+#/DATASET

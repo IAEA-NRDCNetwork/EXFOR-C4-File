@@ -1,0 +1,30 @@
+#ENTRY      A0355
+#AUTHOR1    K.Sueki+
+#YEAR       1985
+#INSTITUTE  (2JPNTMU)
+#TITLE      Incident energy dependence of isotopic yield
+#+          distributions of target-like and fission-like
+#+          products in N-14 induced reaction on Ni-62.
+#AUTHOR(S)  K.Sueki, Y.Nagame, M.Takahashi, H.Kudo, H.Nakahara, I.Kohno
+#REF-CODE   (J,RCA,38,117,1985)
+#REFERENCE  Radiochim.Acta 38 (1985) 117 (doi:10.1524/ract.1985.38.3.117)
+#DATASETS   0
+#
+#DATASET    A0355005 
+#DATE       20240909
+#REACTION   28-NI-62(7-N-14,X)27-CO-58,,SIG
+#PROJ       7014
+#TARG       28062
+#MF         3
+#MT         454
+#PRODUCT    27-CO-58
+#C4BEGIN    [ 7014 28062   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014 28062   3 454    7.0000+7          2.2000-4 1.5000-4           27058.9                     K.Sueki+             (85)A0355  5 
+ 7014 28062   3 454    8.6000+7          2.2200-3 8.0000-5           27058.9                     K.Sueki+             (85)A0355  5 
+ 7014 28062   3 454    9.7500+7          6.1100-3 2.1000-4           27058.9                     K.Sueki+             (85)A0355  5 
+ 7014 28062   3 454    1.0600+8          7.0200-3 2.6000-4           27058.9                     K.Sueki+             (85)A0355  5 
+#/DATA      4
+#/DATASET

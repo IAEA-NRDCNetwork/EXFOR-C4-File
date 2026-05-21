@@ -1,0 +1,29 @@
+#ENTRY      40969
+#AUTHOR1    N.N.Buleeva+
+#YEAR       1988
+#INSTITUTE  (4RUSFEI)
+#TITLE      Activation-measured radiative neutron-capture cross
+#+          sections for 236U, 238U, and 237Np
+#AUTHOR(S)  N.N.Buleeva, A.N.Davletshin, A.O.Tipunkov, S.V.Tikhonov, 
+#+          V.A.Tolstikov
+#REF-CODE   (J,AE,65,(5),348,1988)
+#REFERENCE  At.En. 65 No.5 (1988) 348
+#DATASETS   0
+#
+#DATASET    40969010 
+#DATE       20170720
+#REACTION   93-NP-237(N,G)93-NP-238,,SIG
+#PROJ       1
+#TARG       93237
+#MF         3
+#MT         102
+#PRODUCT    93-NP-238
+#C4BEGIN    [    1 93237   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   3 102 C  636000.0 34000.00 0.263000 0.015780                                       N.N.Buleeva+         (88)40969 10 
+    1 93237   3 102 C  637000.0 20000.00 0.253000 0.015180                                       N.N.Buleeva+         (88)40969 10 
+    1 93237   3 102 C  763000.0 34000.00 0.210000 0.012600                                       N.N.Buleeva+         (88)40969 10 
+#/DATA      3
+#/DATASET

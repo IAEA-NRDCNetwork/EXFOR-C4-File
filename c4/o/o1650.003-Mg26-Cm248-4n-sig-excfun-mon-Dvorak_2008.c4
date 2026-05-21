@@ -1,0 +1,33 @@
+#ENTRY      O1650
+#AUTHOR1    J.Dvorak+
+#YEAR       2008
+#INSTITUTE  (2GERMUN)
+#TITLE      Observation of the 3n evaporation channel in the
+#+          complete hot-fusion reaction Mg-26+Cm-248 leading to
+#+          the new superheavy nuclide Hs-271.
+#AUTHOR(S)  J.Dvorak, W.Bruchle, M.Chelnokov, Ch.E.Dullmann, Z.Dvorakova, 
+#+          K.Eberhardt, E.Jager, R.Krucken, A.Kuznetsov, Y.Nagame, 
+#+          F.Nebel, K.Nishio, R.Perego, Z.Qin, M.Schadel, B.Schausten, 
+#+          E.Schimpf, R.Schuber, A.Semchenkov, P.Thorle, A.Turler, 
+#+          M.Wegrzecki, B.Wierczinski, A.Yakushev, A.Yeremin
+#REF-CODE   (J,PRL,100,132503,2008)
+#REFERENCE  Phys.Rev.Lett. 100 (2008) 132503 (doi:10.1103/PhysRevLett.100.132503)
+#DATASETS   0
+#
+#DATASET    O1650003 
+#DATE       20080417
+#REACTION   96-CM-248(12-MG-26,4N)108-HS-270,,SIG
+#PROJ       12026
+#TARG       96248
+#MF         3
+#MT         37
+#PRODUCT    108-HS-270
+#C4BEGIN    [12026 96248   3  37  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+12026 96248   3  37    1.3510+8 1500000. 2.800-12 1.680-12                                       J.Dvorak+            (08)O1650  3 
+12026 96248   3  37    1.3970+8 1500000. 1.100-12 1.100-12                                       J.Dvorak+            (08)O1650  3 
+12026 96248   3  37    1.4420+8 1500000. 1.000-12 1.500-12                                       J.Dvorak+            (08)O1650  3 
+#/DATA      3
+#/DATASET

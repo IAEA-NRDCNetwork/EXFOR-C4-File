@@ -1,0 +1,52 @@
+#ENTRY      40105
+#AUTHOR1    V.B.Chelnokov+
+#YEAR       1972
+#INSTITUTE  (4RUSFEI)
+#TITLE      Neutron cross-sections for radiative capture and
+#+          fission for certain heavy nuclei by the slowing-down
+#+          time method in lead
+#AUTHOR(S)  V.B.Chelnokov, V.A.Tolstikov, Yu.Ya.Stavisskiy, A.A.Bergman, 
+#+          A.E.Samsonov
+#REF-CODE   (R,YFI-13,6,1972)
+#REFERENCE  Report YFI-13 page 6, 1972
+#DATASETS   0
+#
+#DATASET    40105005 
+#DATE       20180418
+#REACTION   47-AG-0(N,G),,SIG,,SDT
+#PROJ       1
+#TARG       47000
+#MF         3
+#MT         102
+#C4BEGIN    [    1 47000   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 47000   3 102    200.0000          10.30000 0.500000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    250.0000          9.400000 0.500000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    300.0000          10.00000 0.500000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    350.0000          8.900000 0.500000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    400.0000          8.800000 0.500000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    500.0000          8.600000 0.500000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    600.0000          7.200000 0.400000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    700.0000          5.600000 0.300000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    800.0000          5.100000 0.300000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    920.0000          4.900000 0.280000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    1050.000          4.500000 0.250000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    1230.000          3.900000 0.220000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    1470.000          3.300000 0.180000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    1770.000          2.730000 0.160000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    2170.000          2.350000 0.130000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    2600.000          2.110000 0.120000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    3200.000          1.900000 0.110000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    4000.000          1.700000 0.100000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    5000.000          1.610000 0.100000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    6000.000          1.470000 0.090000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    7500.000          1.400000 0.090000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    9500.000          1.330000 0.090000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    12500.00          1.230000 0.090000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    17300.00          1.100000 0.090000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    24200.00          0.980000 0.090000                                       V.B.Chelnokov+       (72)40105  5 
+    1 47000   3 102    34600.00          0.840000 0.100000                                       V.B.Chelnokov+       (72)40105  5 
+#/DATA      26
+#/DATASET

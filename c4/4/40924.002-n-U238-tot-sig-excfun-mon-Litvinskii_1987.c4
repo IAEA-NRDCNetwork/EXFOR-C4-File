@@ -1,0 +1,31 @@
+#ENTRY      40924
+#AUTHOR1    L.L.Litvinskii+
+#YEAR       1987
+#INSTITUTE  (4UKRIJD)
+#TITLE      Neutron cross sections and average resonance parameters
+#+          of 238U for 55- and 144-keV neutrons
+#AUTHOR(S)  L.L.Litvinskii, V.P.Vertebnyi, V.A.Libman, A.V.Murzin, A.L.Kirilyuk, 
+#+          G.M.Novoselov, V.F.Razbudey, C.V.Sidorov, N.A.Trofimova
+#REF-CODE   (J,AE,62,(3),192,1987)
+#REFERENCE  At.En. 62 No.3 (1987) 192
+#DATASETS   0
+#
+#DATASET    40924002 
+#DATE       20130208
+#REACTION   92-U-238(N,TOT),,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         1
+#C4BEGIN    [    1 92238   3   1 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3   1 C  55000.00 1000.000 13.16000 0.370000                                       L.L.Litvinskii+      (87)40924  2 
+    1 92238   3   1 C  55000.00 1000.000 13.23500 0.084000                                       L.L.Litvinskii+      (87)40924  2 
+    1 92238   3   1 C  55000.00 1000.000 13.00000 0.130000                                       L.L.Litvinskii+      (87)40924  2 
+    1 92238   3   1 C  55000.00 1000.000 12.83100 0.097000                                       L.L.Litvinskii+      (87)40924  2 
+    1 92238   3   1 C  55000.00 1000.000 12.65100 0.070000                                       L.L.Litvinskii+      (87)40924  2 
+    1 92238   3   1 C  55000.00 1000.000 12.02500 0.069000                                       L.L.Litvinskii+      (87)40924  2 
+#/DATA      6
+#/DATASET

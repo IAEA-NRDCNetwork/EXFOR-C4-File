@@ -1,0 +1,36 @@
+#ENTRY      23537
+#AUTHOR1    A.Kalamara+
+#YEAR       2019
+#INSTITUTE  (2GRCTUA)
+#TITLE      Determination of the 193Ir(n,2n) reaction cross
+#+          section and correction methodology for the
+#+          191Ir(n,gamma) contamination
+#AUTHOR(S)  A.Kalamara, N.Patronis, R.Vlastou, M.Kokkoris, S.Chasapoglou, 
+#+          A.Stamatopoulos, M.Serris, V.Paneta, M.Axiotis, A.Lagoyannis, 
+#+          S.Harissopulos, I.E.Stamatelatos
+#REF-CODE   (J,EPJ/A,55,187,2019)
+#REFERENCE  Eur.Phys.J.A 55 (2019) 187 (doi:10.1140/epja/i2019-12879-x)
+#DATASETS   0
+#
+#DATASET    23537003 
+#DATE       20220102
+#REACTION   77-IR-193(N,2N)77-IR-192-G+M1,,SIG
+#PROJ       1
+#TARG       77193
+#MF         3
+#MT         16
+#PRODUCT    77-IR-192-G+M1
+#C4BEGIN    [    1 77193   3  16+D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 77193   3  16+D  1.0000+7 100000.0 1.290000 0.083000                                       A.Kalamara+          (19)23537  3 
+    1 77193   3  16+D  1.0500+7 100000.0 1.590000 0.100000                                       A.Kalamara+          (19)23537  3 
+    1 77193   3  16+D  1.1000+7 100000.0 1.931000 0.119000                                       A.Kalamara+          (19)23537  3 
+    1 77193   3  16+D  1.1300+7 100000.0 1.953000 0.120000                                       A.Kalamara+          (19)23537  3 
+    1 77193   3  16+D  1.5300+7 500000.0 1.830000 0.076000                                       A.Kalamara+          (19)23537  3 
+    1 77193   3  16+D  1.7100+7 300000.0 1.390000 0.068000                                       A.Kalamara+          (19)23537  3 
+    1 77193   3  16+D  1.8900+7 300000.0 0.769000 0.082000                                       A.Kalamara+          (19)23537  3 
+    1 77193   3  16+D  2.0900+7 200000.0 0.270000 0.053000                                       A.Kalamara+          (19)23537  3 
+#/DATA      8
+#/DATASET

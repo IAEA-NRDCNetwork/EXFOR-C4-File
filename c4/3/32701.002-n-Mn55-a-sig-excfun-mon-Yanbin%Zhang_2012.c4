@@ -1,0 +1,28 @@
+#ENTRY      32701
+#AUTHOR1    Yanbin Zhang+
+#YEAR       2012
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Cross sections for (n,2n) and (n,alpha) reactions on
+#+          55Mn isotope around neutron energy of 14 MeV
+#AUTHOR(S)  Yanbin Zhang, Liangyong Zhao, Xiangzhong Kong, Rong Liu, 
+#+          Li Jiang
+#REF-CODE   (J,RPC,81,1563,2012)
+#REFERENCE  Radiat.Phys.Chem. 81 (2012) 1563 (doi:10.1016/j.radphyschem.2012.04.001)
+#DATASETS   0
+#
+#DATASET    32701002 
+#DATE       20120906
+#REACTION   25-MN-55(N,A)23-V-52,,SIG
+#PROJ       1
+#TARG       25055
+#MF         3
+#MT         107
+#PRODUCT    23-V-52
+#C4BEGIN    [    1 25055   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 25055   3 107    1.4100+7 200000.0 0.021300 7.0000-4                                       Yanbin Zhang+        (12)32701  2 
+    1 25055   3 107    1.4700+7 200000.0 0.023800 8.0000-4                                       Yanbin Zhang+        (12)32701  2 
+#/DATA      2
+#/DATASET

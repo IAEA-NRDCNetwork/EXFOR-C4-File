@@ -1,0 +1,31 @@
+#ENTRY      C0435
+#AUTHOR1    J.L.Mildenberger+
+#YEAR       1991
+#INSTITUTE  (1CANTMF)
+#TITLE      13C(p,n)13N reaction to the 3/2- T=3/2 state at 15.06
+#+          MeV
+#AUTHOR(S)  J.L.Mildenberger, W.P.Alford, A.Celler, O.Haeusser, K.P.Jackson, 
+#+          B.Larson, B.Pointon, A.Trudel, M.C.Vetterli, S.Yen
+#REF-CODE   (J,PR/C,43,1777,9104)
+#REFERENCE  Phys.Rev.C 43 (1991) 1777 (doi:10.1103/PhysRevC.43.1777)
+#DATASETS   0
+#
+#DATASET    C0435002 
+#DATE       19961107
+#REACTION   6-C-13(P,N)7-N-13,PAR,DA
+#PROJ       1001
+#TARG       6013
+#MF         4
+#MT         50
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1001  6013   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6013   4  50    2.0000+8          1.3000-3 8.0000-5 0.999877          8920000.         LVLJ.L.Mildenberger+    (91)C0435  2 
+ 1001  6013   4  50    2.0000+8          7.8000-4 5.0000-5 0.999877          9480000.         LVLJ.L.Mildenberger+    (91)C0435  2 
+ 1001  6013   4  50    2.0000+8          1.0700-3 6.0000-5 0.999877          1.0830+7         LVLJ.L.Mildenberger+    (91)C0435  2 
+ 1001  6013   4  50    2.0000+8          3.2700-3 2.0000-4 0.999877          1.1880+7         LVLJ.L.Mildenberger+    (91)C0435  2 
+ 1001  6013   4  50    2.0000+8          1.8500-3 1.1000-4 0.999877          1.5060+7         LVLJ.L.Mildenberger+    (91)C0435  2 
+#/DATA      5
+#/DATASET

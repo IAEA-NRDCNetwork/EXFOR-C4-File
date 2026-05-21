@@ -1,0 +1,31 @@
+#ENTRY      40168
+#AUTHOR1    G.N.Lovchikova+
+#YEAR       1957
+#INSTITUTE  (4RUSFEI)
+#TITLE      Measurement of the angular distribution of 0.9-MeV
+#+          neutrons elastically scattered on Bi, Pb, Sn, Fe, and
+#+          Al
+#AUTHOR(S)  G.N.Lovchikova
+#REF-CODE   (J,SJA,2,197,1957)
+#REFERENCE  Sov.At.Energy 2 (1957) 197 (doi:10.1007/BF01832092)
+#DATASETS   0
+#
+#DATASET    40168002 
+#DATE       20250303
+#REACTION   13-AL-27(N,EL)13-AL-27,,DA
+#PROJ       1
+#TARG       13027
+#MF         4
+#MT         2
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   4   2    900000.0 100000.0 0.130000 0.010000-0.859990 0.106879                     G.N.Lovchikova       (57)40168  2 
+    1 13027   4   2    900000.0 100000.0 0.150000 0.020000-0.500000 0.181380                     G.N.Lovchikova       (57)40168  2 
+    1 13027   4   2    900000.0 100000.0 0.200000 0.020000 6.123-17 0.209440                     G.N.Lovchikova       (57)40168  2 
+    1 13027   4   2    900000.0 100000.0 0.300000 0.020000 0.500000 0.181380                     G.N.Lovchikova       (57)40168  2 
+    1 13027   4   2    900000.0 100000.0 0.400000 7.0000-4 0.859990 0.106879                     G.N.Lovchikova       (57)40168  2 
+#/DATA      5
+#/DATASET

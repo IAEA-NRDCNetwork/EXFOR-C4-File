@@ -1,0 +1,28 @@
+#ENTRY      A1116
+#AUTHOR1    B.Kuhn+
+#YEAR       1963
+#INSTITUTE  (4ZZZDUB)
+#TITLE      The angular distribution for 3He + T reaction
+#AUTHOR(S)  B.Kuhn, B.Schlenk
+#REF-CODE   (J,NP,48,353,1963)
+#REFERENCE  Nucl.Phys. 48 (1963) 353 (doi:10.1016/0029-5582(63)90174-3)
+#DATASETS   0
+#
+#DATASET    A1116006 
+#DATE       20240707
+#REACTION   2-HE-3(T,N+P)2-HE-4,,SIG
+#PROJ       1003
+#TARG       2003
+#MF         3
+#MT         28
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1003  2003   3  28  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  2003   3  28    460000.0          0.014400 1.7000-3                                       B.Kuhn+              (63)A1116  6 
+ 1003  2003   3  28    665000.0          0.022500 2.7000-3                                       B.Kuhn+              (63)A1116  6 
+ 1003  2003   3  28    900000.0          0.027100 3.2000-3                                       B.Kuhn+              (63)A1116  6 
+ 1003  2003   3  28    1087000.          0.027500 3.3000-3                                       B.Kuhn+              (63)A1116  6 
+#/DATA      4
+#/DATASET

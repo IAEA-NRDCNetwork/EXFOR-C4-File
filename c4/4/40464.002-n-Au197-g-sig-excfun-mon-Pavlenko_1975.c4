@@ -1,0 +1,40 @@
+#ENTRY      40464
+#AUTHOR1    E.A.Pavlenko+
+#YEAR       1975
+#INSTITUTE  (4UKRIJD)
+#TITLE      Neutron capture cross-section measurement
+#+          for hafnium and vanadium isotopes
+#AUTHOR(S)  E.A.Pavlenko, N.L.Gnidak
+#REF-CODE   (C,75KIEV,3,171,1975)
+#REFERENCE  Proceedings of 3.All Union Conf.on Neutron Phys.,Kiev,9-13 Jun 1975 3 page 171
+#DATASETS   0
+#
+#DATASET    40464002 
+#DATE       20220722
+#REACTION   79-AU-197(N,G)79-AU-198,,SIG
+#PROJ       1
+#TARG       79197
+#MF         3
+#MT         102
+#PRODUCT    79-AU-198
+#C4BEGIN    [    1 79197   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   3 102    0.021400          104.0000 8.000000                                       E.A.Pavlenko+        (75)40464  2 
+    1 79197   3 102    0.023200          98.50000 6.000000                                       E.A.Pavlenko+        (75)40464  2 
+    1 79197   3 102    0.025200          100.3000 5.000000                                       E.A.Pavlenko+        (75)40464  2 
+    1 79197   3 102    0.027400          108.0000 4.000000                                       E.A.Pavlenko+        (75)40464  2 
+    1 79197   3 102    0.029900          85.90000 2.500000                                       E.A.Pavlenko+        (75)40464  2 
+    1 79197   3 102    0.032900          90.70000 2.000000                                       E.A.Pavlenko+        (75)40464  2 
+    1 79197   3 102    0.036200          80.80000 1.900000                                       E.A.Pavlenko+        (75)40464  2 
+    1 79197   3 102    0.040100          75.80000 1.800000                                       E.A.Pavlenko+        (75)40464  2 
+    1 79197   3 102    0.044700          77.50000 1.800000                                       E.A.Pavlenko+        (75)40464  2 
+    1 79197   3 102    0.050100          67.90000 1.600000                                       E.A.Pavlenko+        (75)40464  2 
+    1 79197   3 102    0.056600          69.40000 1.500000                                       E.A.Pavlenko+        (75)40464  2 
+    1 79197   3 102    0.064400          64.40000 1.500000                                       E.A.Pavlenko+        (75)40464  2 
+    1 79197   3 102    0.074000          61.80000 1.500000                                       E.A.Pavlenko+        (75)40464  2 
+    1 79197   3 102    0.085700          52.20000 1.500000                                       E.A.Pavlenko+        (75)40464  2 
+    1 79197   3 102    0.101000          49.90000 1.500000                                       E.A.Pavlenko+        (75)40464  2 
+#/DATA      15
+#/DATASET

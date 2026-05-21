@@ -1,0 +1,33 @@
+#ENTRY      30600
+#AUTHOR1    Zhang Huanqiao+
+#YEAR       1980
+#INSTITUTE  (3CPRAEP)
+#TITLE      -The dependence of average numbers of prompt fission
+#+          neutron of Pu-239 on incident fast neutron energies.-
+#AUTHOR(S)  Zhang Huanqiao, Xu Jincheng, Liu Zuhua, Wen Tongqing, Ding Shengyao, 
+#+          Chen Zhicai
+#REF-CODE   (J,CNP,2,(1),29,198002)
+#REFERENCE  Chin.J.Nucl.Phys. 2 No.1 (1980) 29
+#DATASETS   0
+#
+#DATASET    30600002 
+#DATE       20120518
+#REACTION   94-PU-239(N,F),PR,NU
+#PROJ       1
+#TARG       94239
+#MF         1
+#MT         456
+#C4BEGIN    [    1 94239   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   1 456    186000.0          2.867000 0.026000                                       Zhang Huanqiao+      (80)30600  2 
+    1 94239   1 456    258000.0          2.872000 0.024000                                       Zhang Huanqiao+      (80)30600  2 
+    1 94239   1 456    385000.0          2.942000 0.024000                                       Zhang Huanqiao+      (80)30600  2 
+    1 94239   1 456    603000.0          2.905000 0.023000                                       Zhang Huanqiao+      (80)30600  2 
+    1 94239   1 456    766000.0          2.924000 0.024000                                       Zhang Huanqiao+      (80)30600  2 
+    1 94239   1 456    1029000.          2.966000 0.024000                                       Zhang Huanqiao+      (80)30600  2 
+    1 94239   1 456    1238000.          2.972000 0.023000                                       Zhang Huanqiao+      (80)30600  2 
+    1 94239   1 456    1440000.          3.012000 0.023000                                       Zhang Huanqiao+      (80)30600  2 
+#/DATA      8
+#/DATASET

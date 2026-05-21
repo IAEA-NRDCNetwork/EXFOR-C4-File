@@ -1,0 +1,31 @@
+#ENTRY      D4156
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2007
+#INSTITUTE  (3HUNDEB)
+#TITLE      Production of longer lived radionuclides in deuteron
+#+          induced reactions on niobium
+#AUTHOR(S)  F.Tarkanyi, A.Hermanne, F.Ditroi, S.Takacs, B.Kiraly, M.Baba, 
+#+          T.Ohtsuki, S.F.Kovalev, A.V.Ignatyuk
+#REF-CODE   (J,NIM/B,255,297,2007)
+#REFERENCE  Nucl.Instrum.Meth.B 255 (2007) 297 (doi:10.1016/j.nimb.2006.11.121)
+#DATASETS   0
+#
+#DATASET    D4156005 
+#DATE       20210929
+#REACTION   41-NB-93(D,X)41-NB-90,,SIG
+#PROJ       1002
+#TARG       41093
+#MF         3
+#MT         454
+#PRODUCT    41-NB-90
+#C4BEGIN    [ 1002 41093   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 41093   3 454 A  3.0190+7 820000.0 9.0000-5 4.0000-5           41090.9                     F.Tarkanyi+          (07)D4156  5 
+ 1002 41093   3 454 A  3.2340+7 680000.0 3.3000-4 6.0000-5           41090.9                     F.Tarkanyi+          (07)D4156  5 
+ 1002 41093   3 454 A  3.4390+7 550000.0 9.7000-4 1.2000-4           41090.9                     F.Tarkanyi+          (07)D4156  5 
+ 1002 41093   3 454 A  3.6360+7 420000.0 2.0500-3 2.3000-4           41090.9                     F.Tarkanyi+          (07)D4156  5 
+ 1002 41093   3 454 A  3.8240+7 300000.0 3.5000-3 4.2000-4           41090.9                     F.Tarkanyi+          (07)D4156  5 
+#/DATA      5
+#/DATASET

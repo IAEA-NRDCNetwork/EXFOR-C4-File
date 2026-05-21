@@ -1,0 +1,40 @@
+#ENTRY      O0212
+#AUTHOR1    J.Kirk Dickens+
+#YEAR       1963
+#INSTITUTE  (1USAUSC)
+#TITLE      Elastic and inelastic scattering of protons by
+#+          carbon-12 for proton energies between 18 and 30 MeV.
+#AUTHOR(S)  J.Kirk Dickens, David A.Haner, Charles N.Waddell
+#REF-CODE   (J,PR,132,2159,1963)
+#REFERENCE  Phys.Rev. 132 (1963) 2159 (doi:10.1103/PhysRev.132.2159)
+#DATASETS   0
+#
+#DATASET    O0212009 
+#DATE       20170417
+#REACTION   6-C-12(P,EL)6-C-12,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4   2  C 1.7600+7          6.7200-3 3.8976-4-0.707107                              J.Kirk Dickens+      (63)O0212  9 
+ 1001  6012   4   2  C 1.8200+7          4.6600-3 2.8892-4-0.707107                              J.Kirk Dickens+      (63)O0212  9 
+ 1001  6012   4   2  C 1.8700+7          5.0300-3 3.0683-4-0.707107                              J.Kirk Dickens+      (63)O0212  9 
+ 1001  6012   4   2  C 1.9200+7          5.7500-3 3.3925-4-0.707107                              J.Kirk Dickens+      (63)O0212  9 
+ 1001  6012   4   2  C 1.9800+7          6.0400-3 4.0468-4-0.707107                              J.Kirk Dickens+      (63)O0212  9 
+ 1001  6012   4   2  C 2.0400+7          6.7700-3 4.4005-4-0.707107                              J.Kirk Dickens+      (63)O0212  9 
+ 1001  6012   4   2  C 2.0900+7          6.6700-3 4.3355-4-0.707107                              J.Kirk Dickens+      (63)O0212  9 
+ 1001  6012   4   2  C 2.1500+7          6.7300-3 4.3745-4-0.707107                              J.Kirk Dickens+      (63)O0212  9 
+ 1001  6012   4   2  C 2.2000+7          5.0800-3 3.5560-4-0.707107                              J.Kirk Dickens+      (63)O0212  9 
+ 1001  6012   4   2  C 2.2500+7          2.8800-3 2.3616-4-0.707107                              J.Kirk Dickens+      (63)O0212  9 
+ 1001  6012   4   2  C 2.3200+7          1.3700-3 1.4522-4-0.707107                              J.Kirk Dickens+      (63)O0212  9 
+ 1001  6012   4   2  C 2.3800+7          1.3100-3 1.2707-4-0.707107                              J.Kirk Dickens+      (63)O0212  9 
+ 1001  6012   4   2  C 2.4500+7          1.7800-3 1.6554-4-0.707107                              J.Kirk Dickens+      (63)O0212  9 
+ 1001  6012   4   2  C 2.5100+7          1.8000-3 1.7280-4-0.707107                              J.Kirk Dickens+      (63)O0212  9 
+ 1001  6012   4   2  C 2.6600+7          2.3900-3 1.7208-4-0.707107                              J.Kirk Dickens+      (63)O0212  9 
+#/DATA      15
+#/DATASET

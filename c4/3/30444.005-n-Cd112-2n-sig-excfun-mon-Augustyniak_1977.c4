@@ -1,0 +1,36 @@
+#ENTRY      30444
+#AUTHOR1    W.Augustyniak+
+#YEAR       1977
+#INSTITUTE  (3POLIBJ)
+#TITLE      Cross sections for the (n,2n) reaction on Pd-102,
+#+          Pd-110, Cd-112 and Os-192.
+#AUTHOR(S)  W.Augustyniak, M.Herman, A.Marcinkowski, B.Zwieglinski
+#REF-CODE   (J,NP/A,285,145,197707)
+#REFERENCE  Nucl.Phys.A 285 (1977) 145 (doi:10.1016/0375-9474(77)90151-8)
+#DATASETS   0
+#
+#DATASET    30444005 
+#DATE       20090310
+#REACTION   48-CD-112(N,2N)48-CD-111-M,,SIG
+#PROJ       1
+#TARG       48112
+#MF         3
+#MT         16
+#PRODUCT    48-CD-111-M
+#C4BEGIN    [    1 48112   3  16MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 48112   3  16MA  1.2900+7 200000.0 0.638000 0.045000                                       W.Augustyniak+       (77)30444  5 
+    1 48112   3  16MA  1.3000+7 400000.0 0.677000 0.032000                                       W.Augustyniak+       (77)30444  5 
+    1 48112   3  16MA  1.3400+7 300000.0 0.616000 0.028000                                       W.Augustyniak+       (77)30444  5 
+    1 48112   3  16MA  1.3900+7 300000.0 0.684000 0.036000                                       W.Augustyniak+       (77)30444  5 
+    1 48112   3  16MA  1.4500+7 300000.0 0.675000 0.032000                                       W.Augustyniak+       (77)30444  5 
+    1 48112   3  16MA  1.5000+7 300000.0 0.647000 0.030000                                       W.Augustyniak+       (77)30444  5 
+    1 48112   3  16MA  1.5400+7 300000.0 0.623000 0.029000                                       W.Augustyniak+       (77)30444  5 
+    1 48112   3  16MA  1.6000+7 300000.0 0.756000 0.046000                                       W.Augustyniak+       (77)30444  5 
+    1 48112   3  16MA  1.6600+7 100000.0 0.664000 0.042000                                       W.Augustyniak+       (77)30444  5 
+    1 48112   3  16MA  1.7400+7 300000.0 0.624000 0.053000                                       W.Augustyniak+       (77)30444  5 
+    1 48112   3  16MA  1.7900+7 100000.0 0.479000 0.042000                                       W.Augustyniak+       (77)30444  5 
+#/DATA      11
+#/DATASET

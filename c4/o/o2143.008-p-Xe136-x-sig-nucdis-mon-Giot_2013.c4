@@ -1,0 +1,53 @@
+#ENTRY      O2143
+#AUTHOR1    L.Giot+
+#YEAR       2013
+#INSTITUTE  (2GERGSI)
+#TITLE      Isotopic production cross sections of the residual
+#+          nuclei in spallation reactions induced by 136Xe
+#+          projectiles on proton at 500 A*MeV.
+#AUTHOR(S)  L.Giot, J.A.Alcantara-Nunez, J.Benlliure, D.Perez-Loureiro, 
+#+          L.Audouin, A.Boudard, E.Casarejos, T.Enqvist, J.E.Ducret, 
+#+          B.Ferandez-Dominguez, M.Fernandez Ordonez, F.Farget, A.Heinz, 
+#+          V.Henzl, D.Henzlova, A.Kelic-Helic, A.Lafriaskh, S.Leray, 
+#+          P.Napolitani, C.Paradela, J.Pereira, M.V.Ricciardi, C.Stephan, 
+#+          K.-H.Schmidt, C.Schmitt, L.Tassan-Got, C.Villagrasa, C.Volant, 
+#+          O.Yordanov
+#REF-CODE   (J,NP/A,899,116,2013)
+#REFERENCE  Nucl.Phys.A 899 (2013) 116 (doi:10.1016/j.nuclphysa.2012.12.119)
+#DATASETS   0
+#
+#DATASET    O2143008 
+#DATE       20130708
+#REACTION   (1-H-1(54-XE-136,X)ELEM/MASS,,SIG)=(54-XE-136(P,X)ELEM/MASS,,SIG)
+#PROJ       1001
+#TARG       54136
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 54136   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 54136   3 454    5.0000+8          1.6000-8 6.0000-9           50132.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          3.0000-7 4.0000-8           50131.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          2.2000-6 3.0000-7           50130.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          9.3000-6 2.0000-6           50129.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          2.4000-5 1.9000-5           50128.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          3.0000-4 1.0000-4           50125.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          6.2000-4 1.2000-4           50124.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          1.1000-3 2.1000-4           50123.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          1.8300-3 2.7000-4           50122.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          2.7600-3 3.3000-4           50121.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          4.2800-3 4.7000-4           50120.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          6.0000-3 6.0000-4           50119.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          7.8300-3 7.0000-4           50118.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          9.6300-3 8.7000-4           50117.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          0.010960 8.8000-4           50116.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          0.011410 9.1000-4           50115.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          0.010660 8.5000-4           50114.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          8.8400-3 7.0000-4           50113.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          6.3400-3 5.1000-4           50112.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          3.6600-3 2.9000-4           50111.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          1.4100-3 1.1000-4           50110.9                     L.Giot+              (13)O2143  8 
+ 1001 54136   3 454    5.0000+8          1.0700-4 1.0000-5           50109.9                     L.Giot+              (13)O2143  8 
+#/DATA      22
+#/DATASET

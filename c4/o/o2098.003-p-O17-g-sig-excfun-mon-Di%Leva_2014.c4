@@ -1,0 +1,40 @@
+#ENTRY      O2098
+#AUTHOR1    A.Di Leva+
+#YEAR       2014
+#INSTITUTE  (2ITYNAP)
+#TITLE      Underground study of the 17O(p,gamma)18F reaction
+#+          relevant for explosive hydrogen burning.
+#AUTHOR(S)  A.Di Leva, D.A.Scott, A.Caciolli, A.Formicola, F.Strieder, 
+#+          M.Aliotta, M.Anders, D.Bemmerer, C.Broggini, P.Corvisiero, 
+#+          Z.Elekes, Zs.Fueloep, G.Gervino, A.Guglielmetti, C.Gustavino, 
+#+          Gy.Gyuerky, G.Imbriani, J.Jose, M.Junker, M.Laubenstein, 
+#+          R.Menegazzo, E.Napolitani, P.Prati, V.Rigato, V.Roca, E.Somorjai, 
+#+          C.Salvo, O.Straniero, T.Szuecs, F.Terrasi, D.Trezzi, Luna Collaboration
+#REF-CODE   (J,PR/C,89,015803,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 015803 (doi:10.1103/PhysRevC.89.015803)
+#DATASETS   0
+#
+#DATASET    O2098003 
+#DATE       20141022
+#REACTION   8-O-17(P,G)9-F-18,,SIG,,SFC
+#PROJ       1001
+#TARG       8017
+#MF         3
+#MT         102
+#PRODUCT    9-F-18
+#C4BEGIN    [ 1001  8017   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8017   3 102 C  170546.0          1.719-10 2.183-11                                       A.Di Leva+           (14)O2098  3 
+ 1001  8017   3 102 C  176901.7          1.715-10 1.491-11                                       A.Di Leva+           (14)O2098  3 
+ 1001  8017   3 102 C  240459.7          2.2589-9 1.210-10                                       A.Di Leva+           (14)O2098  3 
+ 1001  8017   3 102 C  241519.0          2.3720-9 1.248-10                                       A.Di Leva+           (14)O2098  3 
+ 1001  8017   3 102 C  264823.6          4.8725-9 1.572-10                                       A.Di Leva+           (14)O2098  3 
+ 1001  8017   3 102 C  290246.9          9.7533-9 2.721-10                                       A.Di Leva+           (14)O2098  3 
+ 1001  8017   3 102 C  319907.5          1.7802-8 5.236-10                                       A.Di Leva+           (14)O2098  3 
+ 1001  8017   3 102 C  340034.3          2.7799-8 1.1270-9                                       A.Di Leva+           (14)O2098  3 
+ 1001  8017   3 102 C  363339.1          4.3859-8 1.6447-9                                       A.Di Leva+           (14)O2098  3 
+ 1001  8017   3 102 C  389821.8          6.7703-8 2.4179-9                                       A.Di Leva+           (14)O2098  3 
+#/DATA      10
+#/DATASET

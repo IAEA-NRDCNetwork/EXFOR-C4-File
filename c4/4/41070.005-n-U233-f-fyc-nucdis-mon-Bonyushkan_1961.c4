@@ -1,0 +1,34 @@
+#ENTRY      41070
+#AUTHOR1    E.K.Bonyushkan+
+#YEAR       1961
+#INSTITUTE  (4RUSKUR)
+#TITLE      Fragment yield in the fission of 233U and 239Pu
+#+          by fast neutrons
+#AUTHOR(S)  E.K.Bonyushkan, Yu.S.Zamyatnin, V.V.Spektor, V.V.Rachev, 
+#+          V.R.Negina, V.N.Zamyatnina
+#REF-CODE   (J,AE,10,13,1961)
+#REFERENCE  At.En. 10 (1961) 13
+#DATASETS   0
+#
+#DATASET    41070005 
+#DATE       20220325
+#REACTION   92-U-233(N,F)ELEM/MASS,CUM,FY
+#PROJ       1
+#TARG       92233
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92233   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   8 459    1.4500+7          0.035000 3.0000-3 42.00000 99.00000 9.000000            E.K.Bonyushkan+      (61)41070  5 
+    1 92233   8 459    1.4500+7          0.023100 3.0000-3 44.00000 103.0000 0.000000            E.K.Bonyushkan+      (61)41070  5 
+    1 92233   8 459    1.4500+7          0.015200 2.0000-3 44.00000 106.0000 9.000000            E.K.Bonyushkan+      (61)41070  5 
+    1 92233   8 459    1.4500+7          0.012200 1.2000-3 47.00000 111.0000 0.000000            E.K.Bonyushkan+      (61)41070  5 
+    1 92233   8 459    1.4500+7          9.8000-3 1.8000-3 48.00000 115.0000 0.000000            E.K.Bonyushkan+      (61)41070  5 
+    1 92233   8 459    1.4500+7          0.039800 3.5000-3 52.00000 132.0000 9.000000            E.K.Bonyushkan+      (61)41070  5 
+    1 92233   8 459    1.4500+7          5.0000-3          55.00000 136.0000 0.000000            E.K.Bonyushkan+      (61)41070  5 
+    1 92233   8 459    1.4500+7          0.047000 5.0000-3 55.00000 137.0000 9.000000            E.K.Bonyushkan+      (61)41070  5 
+    1 92233   8 459    1.4500+7          0.050000 5.0000-3 58.00000 141.0000 9.000000            E.K.Bonyushkan+      (61)41070  5 
+#/DATA      9
+#/DATASET

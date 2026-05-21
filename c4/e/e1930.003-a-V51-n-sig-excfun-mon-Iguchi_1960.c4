@@ -1,0 +1,30 @@
+#ENTRY      E1930
+#AUTHOR1    A.Iguchi+
+#YEAR       1960
+#INSTITUTE  (2JPNJPN)
+#TITLE      (alpha,n) cross sections for 48Ti and 51V
+#AUTHOR(S)  A.Iguchi, H.Amano, S.Tanaka
+#REF-CODE   (J,AEJ,2,(11),682,196011)
+#REFERENCE  J.At.En.Soc.Japan 2 No.11 (1960) 682 (doi:10.3327/jaesj.2.682)
+#DATASETS   0
+#
+#DATASET    E1930003 
+#DATE       20060411
+#REACTION   23-V-51(A,N)25-MN-54,,SIG
+#PROJ       2004
+#TARG       23051
+#MF         3
+#MT         4
+#PRODUCT    25-MN-54
+#C4BEGIN    [ 2004 23051   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 23051   3   4    7185000.          0.208200                                                A.Iguchi+            (60)E1930  3 
+ 2004 23051   3   4    1.4040+7          0.553500                                                A.Iguchi+            (60)E1930  3 
+ 2004 23051   3   4    1.9230+7          0.229500                                                A.Iguchi+            (60)E1930  3 
+ 2004 23051   3   4    2.3370+7          0.081660                                                A.Iguchi+            (60)E1930  3 
+ 2004 23051   3   4    2.7150+7          0.037440                                                A.Iguchi+            (60)E1930  3 
+ 2004 23051   3   4    3.0410+7          0.029340                                                A.Iguchi+            (60)E1930  3 
+#/DATA      6
+#/DATASET

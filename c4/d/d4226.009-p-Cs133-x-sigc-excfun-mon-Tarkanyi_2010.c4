@@ -1,0 +1,37 @@
+#ENTRY      D4226
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2010
+#INSTITUTE  (3HUNDEB)
+#TITLE      New measurements and evaluation of excitation
+#+          functions for (p,xn), (p,pxn) and (p,2pxn)
+#+          reactions on 133Cs up to 70 MeV proton energy
+#AUTHOR(S)  F.Tarkanyi, A.Hermanne, S.Takacs, F.Ditroi, B.Kiraly, H.Yamazaki, 
+#+          M.Baba, A.Mohammadi, A.V.Ignatyuk
+#REF-CODE   (J,ARI,68,47,2010)
+#REFERENCE  Appl.Radiat.Isot. 68 (2010) 47 (doi:10.1016/j.apradiso.2009.09.069)
+#DATASETS   0
+#
+#DATASET    D4226009 
+#DATE       20091105
+#REACTION   55-CS-133(P,X)55-CS-129,CUM,SIG
+#PROJ       1001
+#TARG       55133
+#MF         3
+#MT         459
+#PRODUCT    55-CS-129
+#C4BEGIN    [ 1001 55133   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 55133   3 459 A  6.8000+7 300000.0 0.468000 0.051000           55129.9                     F.Tarkanyi+          (10)D4226  9 
+ 1001 55133   3 459 A  6.5300+7 500000.0 0.469000 0.051000           55129.9                     F.Tarkanyi+          (10)D4226  9 
+ 1001 55133   3 459 A  6.2600+7 600000.0 0.573000 0.062000           55129.9                     F.Tarkanyi+          (10)D4226  9 
+ 1001 55133   3 459 A  5.9800+7 800000.0 0.549000 0.059000           55129.9                     F.Tarkanyi+          (10)D4226  9 
+ 1001 55133   3 459 A  5.6600+7 1000000. 0.527000 0.057000           55129.9                     F.Tarkanyi+          (10)D4226  9 
+ 1001 55133   3 459 A  5.3500+7 1200000. 0.504000 0.055000           55129.9                     F.Tarkanyi+          (10)D4226  9 
+ 1001 55133   3 459 A  5.0100+7 1400000. 0.351000 0.038000           55129.9                     F.Tarkanyi+          (10)D4226  9 
+ 1001 55133   3 459 A  4.6600+7 1600000. 0.174000 0.019000           55129.9                     F.Tarkanyi+          (10)D4226  9 
+ 1001 55133   3 459 A  4.2900+7 1800000. 0.033200 3.6000-3           55129.9                     F.Tarkanyi+          (10)D4226  9 
+ 1001 55133   3 459 A  3.9200+7 2100000. 1.6900-3 2.8000-4           55129.9                     F.Tarkanyi+          (10)D4226  9 
+#/DATA      10
+#/DATASET

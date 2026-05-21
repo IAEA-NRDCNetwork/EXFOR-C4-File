@@ -1,0 +1,32 @@
+#ENTRY      C2047
+#AUTHOR1    J.W.Engle+
+#YEAR       2013
+#INSTITUTE  (1USALAS)
+#TITLE      Cross sections from proton irradiation of thorium at
+#+          800 MeV
+#AUTHOR(S)  J.W.Engle, s.G.Mashnik, J.W.Weidner, L.E.Wolfsberg, M.E.Fassbender, 
+#+          K.Jackman, A.Couture, L.J.Bitteker, J.L.Ullmann, M.S.Gulley, 
+#+          Ch.Pillai, K.D.John, E.R.Birnbaum, F.M.Nortier
+#REF-CODE   (J,PR/C,88,014604,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 014604 (doi:10.1103/PhysRevC.88.014604)
+#DATASETS   0
+#
+#DATASET    C2047002 
+#DATE       20130717
+#REACTION   90-TH-232(P,X)ELEM/MASS,IND,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 90232   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3 454    8.0000+8          6.4000-3 4.0000-4           39088.9                     J.W.Engle+           (13)C2047  2 
+ 1001 90232   3 454    8.0000+8          0.014200 9.0000-4           41095.9                     J.W.Engle+           (13)C2047  2 
+ 1001 90232   3 454    8.0000+8          2.0000-3 4.0000-4           43099.1                     J.W.Engle+           (13)C2047  2 
+ 1001 90232   3 454    8.0000+8          8.9000-3 6.0000-4           50117.1                     J.W.Engle+           (13)C2047  2 
+ 1001 90232   3 454    8.0000+8          0.013400 0.010500           52121.1                     J.W.Engle+           (13)C2047  2 
+ 1001 90232   3 454    8.0000+8          6.0000-3 4.0000-4           52123.1                     J.W.Engle+           (13)C2047  2 
+#/DATA      6
+#/DATASET

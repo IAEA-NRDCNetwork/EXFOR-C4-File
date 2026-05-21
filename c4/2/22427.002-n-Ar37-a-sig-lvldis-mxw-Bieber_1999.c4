@@ -1,0 +1,27 @@
+#ENTRY      22427
+#AUTHOR1    R.Bieber+
+#YEAR       1999
+#INSTITUTE  (2ZZZGEL)
+#TITLE      Thermal neutron induced (n,p) and (n,alpha) reactions
+#+          on 37Ar
+#AUTHOR(S)  R.Bieber, C.Wagemans, G.Goeminne, J.Wagemans, B.Denecke, 
+#+          M.Loiselet, M.Gaelens, P.Geltenbort, H.Oberhummer
+#REF-CODE   (J,NP/A,647,3,1999)
+#REFERENCE  Nucl.Phys.A 647 (1999) 3 (doi:10.1016/S0375-9474(99)00013-5)
+#DATASETS   0
+#
+#DATASET    22427002 
+#DATE       19991202
+#REACTION   18-AR-37(N,A)16-S-34,PAR,SIG,,MXW
+#PROJ       1
+#TARG       18037
+#MF         3
+#MT         800
+#PRODUCT    16-S-34
+#C4BEGIN    [    1 18037   3 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 18037   3 800    0.025300          1070.000 80.00000                   0.000000         LVLR.Bieber+            (99)22427  2 
+#/DATA      1
+#/DATASET

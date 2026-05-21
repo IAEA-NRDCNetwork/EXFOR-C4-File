@@ -1,0 +1,83 @@
+#ENTRY      F0452
+#AUTHOR1    I.Sledzinska+
+#YEAR       1977
+#INSTITUTE  (3POLIPJ)
+#TITLE      Analysis of the 9Be(d,alpha0)7Li(g.s.) and
+#+          9Be(d,alpha)7Li* (470 keV) reactions in terms of the
+#+          two nucleon distorted-wave born approximation
+#AUTHOR(S)  I.Sledzinska, A.Saganek, Z.Wilhelmi, B.Zwieglinski
+#REF-CODE   (J,APP/B,8,227,1977)
+#REFERENCE  Acta Phys.Pol.B 8 (1977) 227
+#DATASETS   0
+#
+#DATASET    F0452003 
+#DATE       20220607
+#REACTION   4-BE-9(D,A)3-LI-7,PAR,SIG
+#PROJ       1002
+#TARG       4009
+#MF         3
+#MT         800
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1002  4009   3 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   3 800    899000.0          0.024310                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    994000.0          0.029520                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1091000.          0.031350                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1187000.          0.034880                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1284000.          0.036710                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1397000.          0.039410                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1495000.          0.039560                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1606000.          0.045640                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1706000.          0.043250                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1787000.          0.043380                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1886000.          0.041830                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1999000.          0.044540                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2081000.          0.044660                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2148000.          0.040530                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2229000.          0.042350                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2375000.          0.044250                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2491000.          0.041890                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2621000.          0.042930                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2785000.          0.041490                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2935000.          0.036640                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    3082000.          0.036860                            0.000000         LVLI.Sledzinska+        (77)F0452  3 
+#/DATA      21
+#/DATASET
+#
+#DATASET    F0452003 
+#DATE       20220607
+#REACTION   4-BE-9(D,A)3-LI-7,PAR,SIG
+#PROJ       1002
+#TARG       4009
+#MF         3
+#MT         800
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1002  4009   3 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   3 800    906000.0          0.020670                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1003000.          0.025740                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1101000.          0.029160                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1215000.          0.030920                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1297000.          0.033480                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1411000.          0.036080                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1510000.          0.035330                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1606000.          0.042070                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1705000.          0.042150                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1803000.          0.042230                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    1903000.          0.039810                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2002000.          0.038230                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2118000.          0.035830                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2168000.          0.032540                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2267000.          0.031790                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2414000.          0.034410                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2481000.          0.031970                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2644000.          0.035430                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2791000.          0.037220                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    2940000.          0.034010                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+ 1002  4009   3 800    3089000.          0.032470                            480000.0         LVLI.Sledzinska+        (77)F0452  3 
+#/DATA      21
+#/DATASET

@@ -1,0 +1,63 @@
+#ENTRY      C1119
+#AUTHOR1    B.Harss+
+#YEAR       2002
+#INSTITUTE  (1USAANL)
+#TITLE      Widths of astrophysically important resonances in 18Ne
+#AUTHOR(S)  B.Harss, C.L.Jiang, K.E.Rehm, J.P.Schiffer, J.Caggiano, 
+#+          P.Collon, J.P.Greene, D.Henderson, A.Heinz, R.V.F.Janssens, 
+#+          J.Nolen, R.C.Pardo, T.Pennington, R.H.Siemssen, A.A.Sonzogni, 
+#+          J.Uusitalo, I.Wiedenhover, M.Paul, T.F.Wang, F.Borasi, R.E.Segel, 
+#+          J.C.Blackmon, M.Smith, A.Chen, P.Parker
+#REF-CODE   (J,PR/C,65,035803,2002)
+#REFERENCE  Phys.Rev.C 65 (2002) 035803 (doi:10.1103/PhysRevC.65.035803)
+#DATASETS   0
+#
+#DATASET    C1119002 
+#DATE       20181107
+#REACTION   9-F-17(P,EL)9-F-17,,DA
+#PROJ       1001
+#TARG       9017
+#MF         4
+#MT         2
+#PRODUCT    9-F-17
+#C4BEGIN    [ 1001  9017   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9017   4   2  C 3260000.          0.062870 8.9950-3 0.309017                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 3327000.          0.060000 8.9950-3 0.309017                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 3403000.          0.057120 8.9950-3 0.309017                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 3436000.          0.056930 8.9950-3 0.309017                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 3562000.          0.042770 6.3150-3 0.309017                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 3820000.          0.057700 9.1860-3 0.309017                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 3938000.          0.057320 9.3770-3 0.309017                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 3976000.          0.074730 0.011480 0.309017                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 4081000.          0.052910 8.2290-3 0.309017                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 4176000.          0.046790 6.5070-3 0.309017                              B.Harss+             (02)C1119  2 
+#/DATA      10
+#/DATASET
+#
+#DATASET    C1119002 
+#DATE       20181107
+#REACTION   9-F-17(P,EL)9-F-17,,DA
+#PROJ       1001
+#TARG       9017
+#MF         4
+#MT         2
+#PRODUCT    9-F-17
+#C4BEGIN    [ 1001  9017   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9017   4   2  C 3257000.          0.067990 9.9360-3-0.788011                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 3332000.          0.079830 0.012030-0.788011                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 3390000.          0.048300 7.6430-3-0.788011                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 3435000.          0.044280 6.1140-3-0.788011                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 3563000.          0.030700 4.5850-3-0.788011                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 3818000.          0.041180 6.3050-3-0.788011                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 3934000.          0.044230 6.8780-3-0.788011                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 3981000.          0.062180 9.5540-3-0.788011                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 4091000.          0.066370 0.010500-0.788011                              B.Harss+             (02)C1119  2 
+ 1001  9017   4   2  C 4172000.          0.057000 9.7450-3-0.788011                              B.Harss+             (02)C1119  2 
+#/DATA      10
+#/DATASET

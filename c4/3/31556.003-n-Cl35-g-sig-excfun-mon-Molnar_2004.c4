@@ -1,0 +1,26 @@
+#ENTRY      31556
+#AUTHOR1    G.L.Molnar+
+#YEAR       2004
+#INSTITUTE  (3HUNII)
+#TITLE      Accurate absolute intensities for the 35Cl(n,g)
+#+          reaction gamma-ray standard
+#AUTHOR(S)  G.L.Molnar, Zs.Revay, T.Belgya
+#REF-CODE   (J,NIM/B,213,32,2004)
+#REFERENCE  Nucl.Instrum.Meth.B 213 (2004) 32 (doi:10.1016/S0168-583X(03)01529-5)
+#DATASETS   0
+#
+#DATASET    31556003 
+#DATE       20111026
+#REACTION   17-CL-35(N,G)17-CL-36,,SIG,,A
+#PROJ       1
+#TARG       17035
+#MF         3
+#MT         102
+#PRODUCT    17-CL-36
+#C4BEGIN    [    1 17035   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 17035   3 102 D  0.025300          0.434565 1.8470-3                                       G.L.Molnar+          (04)31556  3 
+#/DATA      1
+#/DATASET

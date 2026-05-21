@@ -1,0 +1,37 @@
+#ENTRY      O1534
+#AUTHOR1    A.Spyrou+
+#YEAR       2007
+#INSTITUTE  (2GRCATH)
+#TITLE      Cross section measurements of capture reactions
+#+          relevant to p-process using a 4-pi gamma-summing
+#+          method.
+#AUTHOR(S)  A.Spyrou, H.W.Becker, A.Lagoyannis, S.Harissopulos, C.Rolgs
+#REF-CODE   (J,PR/C,76,015802,2007)
+#REFERENCE  Phys.Rev.C 76 (2007) 015802 (doi:10.1103/PhysRevC.76.015802)
+#DATASETS   0
+#
+#DATASET    O15340041
+#DATE       20170826
+#REACTION   45-RH-103(P,G)46-PD-104,,SIG
+#PROJ       1001
+#TARG       45103
+#MF         3
+#MT         102
+#PRODUCT    46-PD-104
+#C4BEGIN    [ 1001 45103   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 45103   3 102    2996103.          5.2000-6 1.0000-6                                       A.Spyrou+            (07)O1534  41
+ 1001 45103   3 102    3196049.          8.2000-6 1.5000-6                                       A.Spyrou+            (07)O1534  41
+ 1001 45103   3 102    3495968.          1.6000-5 3.0000-6                                       A.Spyrou+            (07)O1534  41
+ 1001 45103   3 102    3595941.          2.2000-5 4.0000-6                                       A.Spyrou+            (07)O1534  41
+ 1001 45103   3 102    3796898.          2.8000-5 6.0000-6                                       A.Spyrou+            (07)O1534  41
+ 1001 45103   3 102    3996845.          4.1000-5 8.0000-6                                       A.Spyrou+            (07)O1534  41
+ 1001 45103   3 102    4196792.          6.3000-5 1.2000-5                                       A.Spyrou+            (07)O1534  41
+ 1001 45103   3 102    4396740.          7.3000-5 1.4000-5                                       A.Spyrou+            (07)O1534  41
+ 1001 45103   3 102    4596688.          1.2200-4 2.2000-5                                       A.Spyrou+            (07)O1534  41
+ 1001 45103   3 102    4796637.          1.1700-4 2.1000-5                                       A.Spyrou+            (07)O1534  41
+ 1001 45103   3 102    4997596.          1.6100-4 2.9000-5                                       A.Spyrou+            (07)O1534  41
+#/DATA      11
+#/DATASET

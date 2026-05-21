@@ -1,0 +1,38 @@
+#ENTRY      O2565
+#AUTHOR1    S.Braccini+
+#YEAR       2022
+#INSTITUTE  (2SWTUBE)
+#TITLE      Optimization of 68Ga production at an 18 MeV medical
+#+          cyclotron with solid targets by means of
+#+          cross-section measurement of 66Ga, 67Ga and 68Ga
+#AUTHOR(S)  S.Braccini, T.S.Carzaniga, G.Dellepiane, P.V.Grundler, P.Scampoli, 
+#+          N.P.van der Meulen, D.Wuethrich
+#REF-CODE   (J,ARI,186,110252,2022)
+#REFERENCE  Appl.Radiat.Isot. 186 (2022) 110252 (doi:10.1016/j.apradiso.2022.110252)
+#DATASETS   0
+#
+#DATASET    O2565007 
+#DATE       20230314
+#REACTION   30-ZN-67(P,N)31-GA-67,,SIG
+#PROJ       1001
+#TARG       30067
+#MF         3
+#MT         4
+#PRODUCT    31-GA-67
+#C4BEGIN    [ 1001 30067   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30067   3   4    3800000. 600000.0 0.125000 0.012000                                       S.Braccini+          (22)O2565  7 
+ 1001 30067   3   4    5100000. 500000.0 0.276000 0.039000                                       S.Braccini+          (22)O2565  7 
+ 1001 30067   3   4    6500000. 400000.0 0.435000 0.063000                                       S.Braccini+          (22)O2565  7 
+ 1001 30067   3   4    7700000. 400000.0 0.490000 0.057000                                       S.Braccini+          (22)O2565  7 
+ 1001 30067   3   4    9700000. 400000.0 0.580000 0.072000                                       S.Braccini+          (22)O2565  7 
+ 1001 30067   3   4    1.1500+7 400000.0 0.549000 0.062000                                       S.Braccini+          (22)O2565  7 
+ 1001 30067   3   4    1.3000+7 400000.0 0.422000 0.038000                                       S.Braccini+          (22)O2565  7 
+ 1001 30067   3   4    1.4500+7 400000.0 0.264000 0.032000                                       S.Braccini+          (22)O2565  7 
+ 1001 30067   3   4    1.5800+7 400000.0 0.183000 0.025000                                       S.Braccini+          (22)O2565  7 
+ 1001 30067   3   4    1.7100+7 400000.0 0.107000 0.013000                                       S.Braccini+          (22)O2565  7 
+ 1001 30067   3   4    1.8200+7 400000.0 0.072000 0.022000                                       S.Braccini+          (22)O2565  7 
+#/DATA      11
+#/DATASET

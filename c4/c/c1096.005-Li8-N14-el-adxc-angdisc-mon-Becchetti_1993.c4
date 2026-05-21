@@ -1,0 +1,32 @@
+#ENTRY      C1096
+#AUTHOR1    F.D.Becchetti+
+#YEAR       1993
+#INSTITUTE  (1USAMHG)
+#TITLE      Systematic  of 8induced radioactive beam reactions:
+#+          E=13-20 MeV
+#AUTHOR(S)  F.D.Becchetti, W.Z.Liu, K.Ashktorab, J.F.Bajema, J.A.Brown, 
+#+          J.W.Janecke, D.A.Roberts, J.J.Kolata, K.L.Lamkin, A.Morsad, 
+#+          R.J.Smith, X.J.Kong, R.E.Warner
+#REF-CODE   (J,PR/C,48,308,199307)
+#REFERENCE  Phys.Rev.C 48 (1993) 308 (doi:10.1103/PhysRevC.48.308)
+#DATASETS   0
+#
+#DATASET    C1096005 
+#DATE       20041227
+#REACTION   7-N-14(3-LI-8,EL)7-N-14,,DA,,RTH
+#PROJ       3008
+#TARG       7014
+#MF         4
+#MT         2
+#PRODUCT    7-N-14
+#C4BEGIN    [ 3008  7014   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3008  7014   4   2  C 1.4000+7          3.003771 1.127451 0.910539                              F.D.Becchetti+       (93)C1096  5 
+ 3008  7014   4   2  C 1.4000+7          0.102544 0.024283 0.722123                              F.D.Becchetti+       (93)C1096  5 
+ 3008  7014   4   2  C 1.4000+7          0.065988 0.012782 0.670686                              F.D.Becchetti+       (93)C1096  5 
+ 3008  7014   4   2  C 1.4000+7          0.052042 0.010082 0.628506                              F.D.Becchetti+       (93)C1096  5 
+ 3008  7014   4   2  C 1.4000+7          9.1900-3 1.0304-3 0.395706                              F.D.Becchetti+       (93)C1096  5 
+#/DATA      5
+#/DATASET

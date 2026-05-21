@@ -1,0 +1,39 @@
+#ENTRY      23367
+#AUTHOR1    Y.Yamanouti+
+#YEAR       1991
+#INSTITUTE  (2JPNJAE)
+#TITLE      Scattering of 28.2 MeV neutrons from 12C and 18.5 MeV
+#+          neutrons from 52Cr and 60Ni
+#AUTHOR(S)  Y.Yamanouti, M.Sugimoto, S.Chiba, M.Mizumoto, K.Hasegawa, 
+#+          Y.Watanabe
+#REF-CODE   (C,91JUELIC,,717,1991)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 717
+#DATASETS   0
+#
+#DATASET    23367004 
+#DATE       20171201
+#REACTION   28-NI-60(N,EL)28-NI-60,,DA
+#PROJ       1
+#TARG       28060
+#MF         4
+#MT         2
+#PRODUCT    28-NI-60
+#C4BEGIN    [    1 28060   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28060   4   2  C 1.8500+7          0.567200          0.934826                              Y.Yamanouti+         (91)23367  4 
+    1 28060   4   2  C 1.8500+7          0.048210          0.860742                              Y.Yamanouti+         (91)23367  4 
+    1 28060   4   2  C 1.8500+7          0.059190          0.756995                              Y.Yamanouti+         (91)23367  4 
+    1 28060   4   2  C 1.8500+7          0.049820          0.629320                              Y.Yamanouti+         (91)23367  4 
+    1 28060   4   2  C 1.8500+7          0.015520          0.486335                              Y.Yamanouti+         (91)23367  4 
+    1 28060   4   2  C 1.8500+7          0.019760          0.327218                              Y.Yamanouti+         (91)23367  4 
+    1 28060   4   2  C 1.8500+7          0.031270          0.151261                              Y.Yamanouti+         (91)23367  4 
+    1 28060   4   2  C 1.8500+7          0.016300 1.5750-3-0.017452                              Y.Yamanouti+         (91)23367  4 
+    1 28060   4   2  C 1.8500+7          6.4060-3 6.1890-4-0.194234                              Y.Yamanouti+         (91)23367  4 
+    1 28060   4   2  C 1.8500+7          6.8510-3 8.8210-4-0.355107                              Y.Yamanouti+         (91)23367  4 
+    1 28060   4   2  C 1.8500+7          0.010080 9.0780-4-0.518027                              Y.Yamanouti+         (91)23367  4 
+    1 28060   4   2  C 1.8500+7          4.5470-3 1.0710-3-0.646790                              Y.Yamanouti+         (91)23367  4 
+    1 28060   4   2  C 1.8500+7          3.8000-3 1.1760-3-0.778243                              Y.Yamanouti+         (91)23367  4 
+#/DATA      13
+#/DATASET

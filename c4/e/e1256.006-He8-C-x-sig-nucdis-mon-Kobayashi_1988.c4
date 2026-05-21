@@ -1,0 +1,27 @@
+#ENTRY      E1256
+#AUTHOR1    T.Kobayashi+
+#YEAR       1988
+#INSTITUTE  (2JPNLEP)
+#TITLE      Projectile fragmentation of the extremely neutron-rich
+#+          nucleus 11Li at 0.79 GeV/nucleon
+#AUTHOR(S)  T.Kobayashi, O.Yamakawa, K.Omata, K.Sugimoto, T.Shimoda, 
+#+          N.Takahashi, I.Tanihata
+#REF-CODE   (J,PRL,60,(25),2599,198806)
+#REFERENCE  Phys.Rev.Lett. 60 No.25 (1988) 2599 (doi:10.1103/PhysRevLett.60.2599)
+#DATASETS   0
+#
+#DATASET    E1256006 
+#DATE       20070712
+#REACTION   6-C-0(2-HE-8,X)ELEM/MASS,,SIG
+#PROJ       2008
+#TARG       6000
+#MF         3
+#MT         454
+#C4BEGIN    [ 2008  6000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2008  6000   3 454    6.3200+9 1.6000+8 0.202000 0.017000            2006.9                     T.Kobayashi+         (88)E1256  6 
+ 2008  6000   3 454    6.3200+9 1.6000+8 0.095000 9.0000-3            2004.9                     T.Kobayashi+         (88)E1256  6 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,43 @@
+#ENTRY      C0385
+#AUTHOR1    J.Jaenecke+
+#YEAR       1991
+#INSTITUTE  (1USAMHG)
+#TITLE      Non-spin-flip (3He,t) charge-exchange and isobaric
+#+          analog states of actinide nuclei studied at 0 degrees,
+#+          E(3He)=76 MeV and 200 MeV
+#AUTHOR(S)  J.Jaenecke, F.D.Becchetti, A.M.Van Den Berg, G.P.A.Berg, 
+#+          G.Brouwer, M.B.Greenfield, M.N.Harakeh, M.A.Hofstee, A.Nadasen, 
+#+          D.A.Roberts, R.Sawafta, J.M.Schippers, E.J.Stephenson, D.P.Stewart, 
+#+          S.Y.Van Der Werf
+#REF-CODE   (J,NP/A,526,1,1991)
+#REFERENCE  Nucl.Phys.A 526 (1991) 1
+#DATASETS   0
+#
+#DATASET    C0385012 
+#DATE       19991004
+#REACTION   50-SN-120(HE3,T)51-SB-120,PAR,DA
+#PROJ       2003
+#TARG       50120
+#MF         4
+#MT         700
+#PRODUCT    51-SB-120
+#C4BEGIN    [ 2003 50120   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 50120   4 700 AC 2.0000+8          6.4610-3 5.3000-4 0.999925          1.0200+7         LVLJ.Jaenecke+          (91)C0385 12 
+ 2003 50120   4 700 AC 2.0000+8          9.1100-4 8.1000-5 0.999194          1.0200+7         LVLJ.Jaenecke+          (91)C0385 12 
+ 2003 50120   4 700 AC 2.0000+8          8.0200-4 7.8000-5 0.996041          1.0200+7         LVLJ.Jaenecke+          (91)C0385 12 
+ 2003 50120   4 700 AC 2.0000+8          8.3600-4 8.3000-5 0.994151          1.0200+7         LVLJ.Jaenecke+          (91)C0385 12 
+ 2003 50120   4 700 AC 2.0000+8          2.7200-4 3.4000-5 0.992115          1.0200+7         LVLJ.Jaenecke+          (91)C0385 12 
+ 2003 50120   4 700 AC 2.0000+8          1.1500-4 1.8000-5 0.989776          1.0200+7         LVLJ.Jaenecke+          (91)C0385 12 
+ 2003 50120   4 700 AC 2.0000+8          2.2000-4 2.9000-5 0.987136          1.0200+7         LVLJ.Jaenecke+          (91)C0385 12 
+ 2003 50120   4 700 AC 2.0000+8          1.7400-4 2.4000-5 0.983885          1.0200+7         LVLJ.Jaenecke+          (91)C0385 12 
+ 2003 50120   4 700 AC 2.0000+8          6.8000-5 1.1000-5 0.980615          1.0200+7         LVLJ.Jaenecke+          (91)C0385 12 
+ 2003 50120   4 700 AC 2.0000+8          6.0000-5 1.1000-5 0.977046          1.0200+7         LVLJ.Jaenecke+          (91)C0385 12 
+ 2003 50120   4 700 AC 2.0000+8          1.5300-4 1.9000-5 0.972776          1.0200+7         LVLJ.Jaenecke+          (91)C0385 12 
+ 2003 50120   4 700 AC 2.0000+8          1.9400-4 2.5000-5 0.968583          1.0200+7         LVLJ.Jaenecke+          (91)C0385 12 
+ 2003 50120   4 700 AC 2.0000+8          1.2600-4 1.5000-5 0.964095          1.0200+7         LVLJ.Jaenecke+          (91)C0385 12 
+ 2003 50120   4 700 AC 2.0000+8          9.1000-5 1.1000-5 0.959314          1.0200+7         LVLJ.Jaenecke+          (91)C0385 12 
+#/DATA      14
+#/DATASET

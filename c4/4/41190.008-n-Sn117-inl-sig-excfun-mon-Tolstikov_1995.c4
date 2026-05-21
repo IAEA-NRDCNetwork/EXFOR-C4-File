@@ -1,0 +1,28 @@
+#ENTRY      41190
+#AUTHOR1    V.A.Tolstikov+
+#YEAR       1995
+#INSTITUTE  (4RUSFEI)
+#TITLE      Isomer production cross-sections for tin isotopes
+#+          for neutrons in the energy range 0.3 - 0.7 MEV
+#AUTHOR(S)  V.A.Tolstikov, A.N.Davletshin, E.V.Teplov, O.A.Tipunkov, 
+#+          O.T.Grudzevich
+#REF-CODE   (J,YK,,(3-4),46,1995)
+#REFERENCE  Yad.Reak.Konst.  No.3-4 (1995) 46
+#DATASETS   0
+#
+#DATASET    41190008 
+#DATE       20191108
+#REACTION   50-SN-117(N,INL)50-SN-117-M,,SIG
+#PROJ       1
+#TARG       50117
+#MF         3
+#MT         4
+#PRODUCT    50-SN-117-M
+#C4BEGIN    [    1 50117   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 50117   3   4M   524000.0 47000.00 2.0400-3 5.9160-5                                       V.A.Tolstikov+       (95)41190  8 
+    1 50117   3   4M   685000.0 45500.00 8.2900-3 5.1398-4                                       V.A.Tolstikov+       (95)41190  8 
+#/DATA      2
+#/DATASET

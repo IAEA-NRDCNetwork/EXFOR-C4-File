@@ -1,0 +1,26 @@
+#ENTRY      10626
+#AUTHOR1    I.L.Barnes+
+#YEAR       1971
+#INSTITUTE  (1USANBS)
+#TITLE      Nickel-63: Standardization, Half-Life and Neutron-
+#+          Capture Cross Section
+#AUTHOR(S)  I.L.Barnes, S.B.Garfinkel, W.B.Main
+#REF-CODE   (J,ARI,22,777,197112)
+#REFERENCE  Appl.Radiat.Isot. 22 (1971) 777 (doi:10.1016/0020-708X(71)90143-8)
+#DATASETS   0
+#
+#DATASET    10626002 
+#DATE       20040726
+#REACTION   28-NI-63(N,G)28-NI-64,,SIG,,SPA
+#PROJ       1
+#TARG       28063
+#MF         3
+#MT         102
+#PRODUCT    28-NI-64
+#C4BEGIN    [    1 28063   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28063   3 102 A  0.025300          23.00000 3.000000                                       I.L.Barnes+          (71)10626  2 
+#/DATA      1
+#/DATASET

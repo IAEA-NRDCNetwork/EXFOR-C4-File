@@ -1,0 +1,35 @@
+#ENTRY      O1750
+#AUTHOR1    R.Wadsworth+
+#YEAR       1983
+#INSTITUTE  (2UK BRD)
+#TITLE      A study of the (Li-6,Be-7) reaction in the mass-90
+#+          region at 60 MeV
+#AUTHOR(S)  R.Wadsworth, M.D.Cohler, M.J.Smithson, D.L.Watson, F.Jundt, 
+#+          L.Kraus, I.Linck, J.C.Sens
+#REF-CODE   (J,JP/G,9,1237,1983)
+#REFERENCE  J.Phys.G 9 (1983) 1237 (doi:10.1088/0305-4616/9/10/011)
+#DATASETS   0
+#
+#DATASET    O1750008 
+#DATE       20160107
+#REACTION   40-ZR-90(3-LI-6,EL)40-ZR-90,,DA,,RTH
+#PROJ       3006
+#TARG       40090
+#MF         4
+#MT         2
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 3006 40090   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 40090   4   2  C 6.0000+7          432.6438 21.63219 0.992289                              R.Wadsworth+         (83)O1750  8 
+ 3006 40090   4   2  C 6.0000+7          138.4689 8.308139 0.985229                              R.Wadsworth+         (83)O1750  8 
+ 3006 40090   4   2  C 6.0000+7          43.55213 2.613128 0.974605                              R.Wadsworth+         (83)O1750  8 
+ 3006 40090   4   2  C 6.0000+7          13.89378 1.111503 0.960682                              R.Wadsworth+         (83)O1750  8 
+ 3006 40090   4   2  C 6.0000+7          3.910009 0.312801 0.943974                              R.Wadsworth+         (83)O1750  8 
+ 3006 40090   4   2  C 6.0000+7          1.356726 0.094971 0.924346                              R.Wadsworth+         (83)O1750  8 
+ 3006 40090   4   2  C 6.0000+7          0.433368 0.026002 0.900167                              R.Wadsworth+         (83)O1750  8 
+ 3006 40090   4   2  C 6.0000+7          0.148477 0.013363 0.869581                              R.Wadsworth+         (83)O1750  8 
+ 3006 40090   4   2  C 6.0000+7          0.058843 6.4727-3 0.843579                              R.Wadsworth+         (83)O1750  8 
+#/DATA      9
+#/DATASET

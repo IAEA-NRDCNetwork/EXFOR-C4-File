@@ -1,0 +1,28 @@
+#ENTRY      10036
+#AUTHOR1    L.N.Rothenberg+
+#YEAR       1970
+#INSTITUTE  (1USAWIS)
+#TITLE      Neutron-proton angular distribution at 24 MeV.
+#AUTHOR(S)  L.N.Rothenberg
+#REF-CODE   (J,PR/C,1,1226,197004)
+#REFERENCE  Phys.Rev.C 1 (1970) 1226 (doi:10.1103/PhysRevC.1.1226)
+#DATASETS   0
+#
+#DATASET    10036002 
+#DATE       19990719
+#REACTION   1-H-1(N,EL)1-H-1,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4   2  C 2.4010+7 10000.00 0.030300 3.3633-4 0.017452                              L.N.Rothenberg       (70)10036  2 
+    1  1001   4   2  C 2.4010+7 10000.00 0.030800 4.6508-4-0.472551                              L.N.Rothenberg       (70)10036  2 
+    1  1001   4   2  C 2.4010+7 10000.00 0.032900 4.2770-4-0.830012                              L.N.Rothenberg       (70)10036  2 
+    1  1001   4   2  C 2.4010+7 10000.00 0.034400 3.1648-4-0.961741                              L.N.Rothenberg       (70)10036  2 
+#/DATA      4
+#/DATASET

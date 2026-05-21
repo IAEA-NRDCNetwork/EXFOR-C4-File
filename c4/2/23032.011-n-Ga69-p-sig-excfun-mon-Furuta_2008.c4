@@ -1,0 +1,32 @@
+#ENTRY      23032
+#AUTHOR1    M.Furuta+
+#YEAR       2008
+#INSTITUTE  (2JPNNAG)
+#TITLE      Measurements of activation cross sections of (n,p)
+#+          and (n,alpha) reactions in the energy range of
+#+          3.5-5.9 MeV using a deuterium gas target
+#AUTHOR(S)  M.Furuta, T.Shimizu, H.Hayashi, I.Miyazaki, H.Yamamoto, 
+#+          M.Shibata, K.Kawade
+#REF-CODE   (J,ANE,35,1652,2008)
+#REFERENCE  Ann.Nucl.Energy 35 (2008) 1652 (doi:10.1016/j.anucene.2008.02.010)
+#DATASETS   0
+#
+#DATASET    23032011 
+#DATE       20081022
+#REACTION   31-GA-69(N,P)30-ZN-69-M,,SIG
+#PROJ       1
+#TARG       31069
+#MF         3
+#MT         103
+#PRODUCT    30-ZN-69-M
+#C4BEGIN    [    1 31069   3 103M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 31069   3 103M   5480000. 100000.0 5.7000-3 2.6790-3                                       M.Furuta+            (08)23032 11 
+    1 31069   3 103M   5240000. 100000.0 4.2000-3 5.0400-4                                       M.Furuta+            (08)23032 11 
+    1 31069   3 103M   4720000. 100000.0 3.1900-3 2.9986-4                                       M.Furuta+            (08)23032 11 
+    1 31069   3 103M   4280000. 100000.0 2.1500-3 1.8920-4                                       M.Furuta+            (08)23032 11 
+    1 31069   3 103M   3570000. 100000.0 1.2100-3 1.2100-4                                       M.Furuta+            (08)23032 11 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      12682
+#AUTHOR1    R.L.Macklin+
+#YEAR       1966
+#INSTITUTE  (1USAORL)
+#TITLE      LACK OF STRUCTURE IN U-235 FISSION CROSS SECTION
+#+          IN THE NEUTRON ENERGY RANGE FROM 150 TO 335 KEV
+#AUTHOR(S)  R.L.Macklin, J.H.Gibbons
+#REF-CODE   (J,PRL,16,248,6602)
+#REFERENCE  Phys.Rev.Lett. 16 (1966) 248 (doi:10.1103/PhysRevLett.16.248)
+#DATASETS   0
+#
+#DATASET    12682002 
+#DATE       19841029
+#REACTION   92-U-235(N,F),,SIG
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18    150000.0 10000.00 1.490000 0.060000                                       R.L.Macklin+         (66)12682  2 
+    1 92235   3  18    153000.0 11000.00 1.440000 0.040000                                       R.L.Macklin+         (66)12682  2 
+    1 92235   3  18    182000.0 10000.00 1.490000 0.060000                                       R.L.Macklin+         (66)12682  2 
+    1 92235   3  18    185000.0 10500.00 1.420000 0.050000                                       R.L.Macklin+         (66)12682  2 
+    1 92235   3  18    238000.0 10000.00 1.260000 0.080000                                       R.L.Macklin+         (66)12682  2 
+    1 92235   3  18    241000.0 10000.00 1.380000 0.040000                                       R.L.Macklin+         (66)12682  2 
+    1 92235   3  18    265000.0 10000.00 1.390000 0.040000                                       R.L.Macklin+         (66)12682  2 
+    1 92235   3  18    283000.0 10000.00 1.230000 0.090000                                       R.L.Macklin+         (66)12682  2 
+    1 92235   3  18    334000.0 8000.000 1.230000 0.060000                                       R.L.Macklin+         (66)12682  2 
+    1 92235   3  18    335000.0 8500.000 1.205000 0.040000                                       R.L.Macklin+         (66)12682  2 
+#/DATA      10
+#/DATASET

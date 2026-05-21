@@ -1,0 +1,29 @@
+#ENTRY      O1796
+#AUTHOR1    T.Siiskonen+
+#YEAR       2009
+#INSTITUTE  (2SF SF)
+#TITLE      Excitation functions of proton-induced reactions on
+#+          natural hafnium- Production of 177Lu for medical use.
+#AUTHOR(S)  T.Siiskonen, J.Huikari, T.Haavisto, J.Bergman, S.-J.Heselius, 
+#+          J.-O.Lill, T.Loennroth, K.Peraejaervi, V.-P.Vartti
+#REF-CODE   (J,NIM/B,267,3500,2009)
+#REFERENCE  Nucl.Instrum.Meth.B 267 (2009) 3500 (doi:10.1016/j.nimb.2009.08.016)
+#DATASETS   0
+#
+#DATASET    O1796003 
+#DATE       20091103
+#REACTION   72-HF-0(P,X)73-TA-175,,SIG
+#PROJ       1001
+#TARG       72000
+#MF         3
+#MT         454
+#PRODUCT    73-TA-175
+#C4BEGIN    [ 1001 72000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 72000   3 454    1.2280+7 450000.0 9.1000-3 7.0000-4           73175.9                     T.Siiskonen+         (09)O1796  3 
+ 1001 72000   3 454    1.3550+7 400000.0 0.021300 1.6000-3           73175.9                     T.Siiskonen+         (09)O1796  3 
+ 1001 72000   3 454    1.6580+7 300000.0 0.049000 4.0000-3           73175.9                     T.Siiskonen+         (09)O1796  3 
+#/DATA      3
+#/DATASET

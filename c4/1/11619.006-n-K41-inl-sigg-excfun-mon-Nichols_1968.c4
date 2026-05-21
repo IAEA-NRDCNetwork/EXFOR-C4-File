@@ -1,0 +1,45 @@
+#ENTRY      11619
+#AUTHOR1    D.B.Nichols+
+#YEAR       1968
+#INSTITUTE  (1USAKTY)
+#TITLE      Differential Cross Sections of the 39,41K(n,n'gamma)
+#+          Reaction
+#AUTHOR(S)  D.B.Nichols, M.T.McEllistrem
+#REF-CODE   (J,PR,166,1074,1968)
+#REFERENCE  Phys.Rev. 166 (1968) 1074 (doi:10.1103/PhysRev.166.1074)
+#DATASETS   0
+#
+#DATASET    11619006 
+#DATE       20210920
+#REACTION   19-K-41(N,INL)19-K-41,PAR,SIG,G
+#PROJ       1
+#TARG       19041
+#MF         13
+#MT         51
+#PRODUCT    19-K-41
+#C4BEGIN    [    1 19041  13  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 19041  13  51 D  1820000.          0.087000                            978000.0            D.B.Nichols+         (68)11619  6 
+    1 19041  13  51 D  2630000.          0.185000                            978000.0            D.B.Nichols+         (68)11619  6 
+    1 19041  13  51 D  3420000.          0.206000                            978000.0            D.B.Nichols+         (68)11619  6 
+    1 19041  13  51 D  3960000.          0.178000                            978000.0            D.B.Nichols+         (68)11619  6 
+#/DATA      4
+#/DATASET
+#
+#DATASET    11619006 
+#DATE       20210920
+#REACTION   19-K-41(N,INL)19-K-41,PAR,SIG,G
+#PROJ       1
+#TARG       19041
+#MF         13
+#MT         51
+#PRODUCT    19-K-41
+#C4BEGIN    [    1 19041  13  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 19041  13  51 D  1820000.          0.076000                            1291000.            D.B.Nichols+         (68)11619  6 
+#/DATA      1
+#/DATASET

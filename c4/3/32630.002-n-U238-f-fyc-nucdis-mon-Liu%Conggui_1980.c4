@@ -1,0 +1,31 @@
+#ENTRY      32630
+#AUTHOR1    Liu Conggui+
+#YEAR       1980
+#INSTITUTE  (3CPRAEP)
+#TITLE      The absolute determination of cumulative yields of
+#+          several nuclides from 14.9 MeV neutron-induced fission
+#+          of U-238
+#AUTHOR(S)  Liu Conggui
+#REF-CODE   (J,HFH,2,(4),193,198011)
+#REFERENCE  He Huax.Fang.Huaxue 2 No.4 (1980) 193
+#DATASETS   0
+#
+#DATASET    32630002 
+#DATE       20101207
+#REACTION   92-U-238(N,F)ELEM/MASS,CUM,FY
+#PROJ       1
+#TARG       92238
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92238   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   8 459    1.4900+7 460000.0 0.049600 2.2000-3 40.00000 95.00000 9.000000            Liu Conggui          (80)32630  2 
+    1 92238   8 459    1.4900+7 460000.0 0.054400 2.0000-3 42.00000 99.00000 9.000000            Liu Conggui          (80)32630  2 
+    1 92238   8 459    1.4900+7 460000.0 0.047500 2.3000-3 44.00000 103.0000 9.000000            Liu Conggui          (80)32630  2 
+    1 92238   8 459    1.4900+7 460000.0 0.025100 1.3000-3 44.00000 106.0000 9.000000            Liu Conggui          (80)32630  2 
+    1 92238   8 459    1.4900+7 460000.0 0.040100 2.1000-3 58.00000 144.0000 9.000000            Liu Conggui          (80)32630  2 
+    1 92238   8 459    1.4900+7 460000.0 0.021300 1.1000-3 60.00000 147.0000 9.000000            Liu Conggui          (80)32630  2 
+#/DATA      6
+#/DATASET

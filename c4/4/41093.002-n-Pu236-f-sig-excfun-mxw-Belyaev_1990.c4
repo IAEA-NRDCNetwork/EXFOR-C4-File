@@ -1,0 +1,26 @@
+#ENTRY      41093
+#AUTHOR1    B.N.Belyaev+
+#YEAR       1990
+#INSTITUTE  (4RUSKUR)
+#TITLE      PU-236 THERMAL NEUTRON CROSS-SECTION
+#AUTHOR(S)  B.N.Belyaev, E.A.Gromova, V.N.Dement'Ev, V.S.Zenkevich, 
+#+          A.V.Lovtsyus, Yu.A.Selitskiy, A.M.Fridkin, V.B.Funshtein, 
+#+          V.A.Yakovlev
+#REF-CODE   (J,AE,68,(4),285,9004)
+#REFERENCE  At.En. 68 No.4 (1990) 285
+#DATASETS   0
+#
+#DATASET    41093002 
+#DATE       19931019
+#REACTION   94-PU-236(N,F),,SIG,,MXW
+#PROJ       1
+#TARG       94236
+#MF         3
+#MT         18
+#C4BEGIN    [    1 94236   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94236   3  18    0.025300          135.0000 16.00000                                       B.N.Belyaev+         (90)41093  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      41653
+#AUTHOR1    T.Khromyleva+
+#YEAR       2018
+#INSTITUTE  (4RUSFEI)
+#TITLE      Investigation of (n,alpha) reaction cross section for a
+#+          number of structural material isotopes
+#AUTHOR(S)  T.Khromyleva, I.P.Bondarenko, A.Gurbich, V.Ketlerov, V.A.Khryachkov, 
+#+          P.Prusachenko
+#REF-CODE   (J,NSE,191,282,2018)
+#REFERENCE  Nucl.Sci.Eng. 191 (2018) 282 (doi:10.1080/00295639.2018.1463746)
+#DATASETS   0
+#
+#DATASET    41653007 
+#DATE       20181001
+#REACTION   28-NI-60(N,A)26-FE-57,,SIG
+#PROJ       1
+#TARG       28060
+#MF         3
+#MT         107
+#PRODUCT    26-FE-57
+#C4BEGIN    [    1 28060   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28060   3 107    6000000. 70000.00 0.015250 1.0000-3                                       T.Khromyleva+        (18)41653  7 
+    1 28060   3 107    6250000. 60000.00 0.016900 1.5000-3                                       T.Khromyleva+        (18)41653  7 
+    1 28060   3 107    6300000. 60000.00 0.018800 1.4000-3                                       T.Khromyleva+        (18)41653  7 
+    1 28060   3 107    6500000. 60000.00 0.023500 2.0000-3                                       T.Khromyleva+        (18)41653  7 
+    1 28060   3 107    6600000. 60000.00 0.022000 1.5000-3                                       T.Khromyleva+        (18)41653  7 
+    1 28060   3 107    6750000. 60000.00 0.024700 2.4000-3                                       T.Khromyleva+        (18)41653  7 
+    1 28060   3 107    6800000. 50000.00 0.027700 3.9000-3                                       T.Khromyleva+        (18)41653  7 
+    1 28060   3 107    6900000. 50000.00 0.025000 1.5000-3                                       T.Khromyleva+        (18)41653  7 
+    1 28060   3 107    7000000. 50000.00 0.027300 2.6000-3                                       T.Khromyleva+        (18)41653  7 
+    1 28060   3 107    7150000. 50000.00 0.025300 1.5000-3                                       T.Khromyleva+        (18)41653  7 
+#/DATA      10
+#/DATASET

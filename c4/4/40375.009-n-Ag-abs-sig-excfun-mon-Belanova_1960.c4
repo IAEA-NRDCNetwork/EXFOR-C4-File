@@ -1,0 +1,26 @@
+#ENTRY      40375
+#AUTHOR1    T.S.Belanova+
+#YEAR       1960
+#INSTITUTE  (4RUSFEI)
+#TITLE      Absorption cross-section for fast neutrons
+#AUTHOR(S)  T.S.Belanova
+#REF-CODE   (J,AE,8,(6),549,1960)
+#REFERENCE  At.En. 8 No.6 (1960) 549
+#DATASETS   0
+#
+#DATASET    40375009 
+#DATE       20100317
+#REACTION   47-AG-0(N,ABS),,SIG
+#PROJ       1
+#TARG       47000
+#MF         3
+#MT         27
+#C4BEGIN    [    1 47000   3  27 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 47000   3  27 C  24000.00 3000.000 0.984000 0.049000                                       T.S.Belanova         (60)40375  9 
+    1 47000   3  27 C  220000.0 20000.00 0.452000 0.040000                                       T.S.Belanova         (60)40375  9 
+    1 47000   3  27 C  830000.0 40000.00 0.230000 0.023000                                       T.S.Belanova         (60)40375  9 
+#/DATA      3
+#/DATASET

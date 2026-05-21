@@ -1,0 +1,31 @@
+#ENTRY      C0413
+#AUTHOR1    J.Van Der Plicht+
+#YEAR       1983
+#INSTITUTE  (1USALAS)
+#TITLE      Fission of polonium, osmium, and erbium composite
+#+          systems
+#AUTHOR(S)  J.Van Der Plicht, H.C.Britt, M.M.Fowler, Z.Fraenkel, A.Gavron, 
+#+          J.B.Wilhelmy, F.Plasil, T.C.Awes, G.R.Young
+#REF-CODE   (J,PR/C,28,2022,1983)
+#REFERENCE  Phys.Rev.C 28 (1983) 2022 (doi:10.1103/PhysRevC.28.2022)
+#DATASETS   0
+#
+#DATASET    C0413004 
+#DATE       20191125
+#REACTION   52-TE-126(16-S-32,F),,SIG
+#PROJ       16032
+#TARG       52126
+#MF         3
+#MT         18
+#C4BEGIN    [16032 52126   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+16032 52126   3  18    1.5000+8          5.0000-3                                                J.Van Der Plicht+    (83)C0413  4 
+16032 52126   3  18    1.5500+8          0.013700                                                J.Van Der Plicht+    (83)C0413  4 
+16032 52126   3  18    1.6000+8          0.038600                                                J.Van Der Plicht+    (83)C0413  4 
+16032 52126   3  18    1.8000+8          0.195000 0.020000                                       J.Van Der Plicht+    (83)C0413  4 
+16032 52126   3  18    2.0000+8          0.372000 0.040000                                       J.Van Der Plicht+    (83)C0413  4 
+16032 52126   3  18    2.2000+8          0.445000 0.050000                                       J.Van Der Plicht+    (83)C0413  4 
+#/DATA      6
+#/DATASET

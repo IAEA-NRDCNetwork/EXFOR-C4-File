@@ -1,0 +1,35 @@
+#ENTRY      11262
+#AUTHOR1    R.B.Sutton+
+#YEAR       1947
+#INSTITUTE  (1USALAS)
+#TITLE      The Capture Cross Section of Boron for Neutrons of
+#+          Energies from 0.01 ev to 1000 ev
+#AUTHOR(S)  R.B.Sutton, B.D.McDaniel, E.E.Anderson, L.S.Lavatelli
+#REF-CODE   (J,PR,71,272(1),1947)
+#REFERENCE  Phys.Rev. 71 (1947) 272(1)
+#DATASETS   0
+#
+#DATASET    11262007 
+#DATE       20220119
+#REACTION   5-B-0(N,TOT),,SIG
+#PROJ       1
+#TARG       5000
+#MF         3
+#MT         1
+#C4BEGIN    [    1  5000   3   1 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5000   3   1 D  0.012810          876.8060 24.52300                                       R.B.Sutton+          (47)11262  7 
+    1  5000   3   1 D  0.019810          863.7690 21.79800                                       R.B.Sutton+          (47)11262  7 
+    1  5000   3   1 D  0.029550          733.5140 16.34100                                       R.B.Sutton+          (47)11262  7 
+    1  5000   3   1 D  0.044020          679.5530 19.08100                                       R.B.Sutton+          (47)11262  7 
+    1  5000   3   1 D  0.054040          636.2310 16.31200                                       R.B.Sutton+          (47)11262  7 
+    1  5000   3   1 D  0.066660          631.0640 16.34100                                       R.B.Sutton+          (47)11262  7 
+    1  5000   3   1 D  0.081430          549.5880 10.89900                                       R.B.Sutton+          (47)11262  7 
+    1  5000   3   1 D  0.124100          449.3360 13.62400                                       R.B.Sutton+          (47)11262  7 
+    1  5000   3   1 D  0.183800          400.8170 16.37100                                       R.B.Sutton+          (47)11262  7 
+    1  5000   3   1 D  0.270900          314.1440 19.08800                                       R.B.Sutton+          (47)11262  7 
+    1  5000   3   1 D  0.403800          230.2100 16.34900                                       R.B.Sutton+          (47)11262  7 
+#/DATA      11
+#/DATASET

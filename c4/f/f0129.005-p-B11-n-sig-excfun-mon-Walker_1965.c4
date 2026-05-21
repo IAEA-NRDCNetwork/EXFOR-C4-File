@@ -1,0 +1,27 @@
+#ENTRY      F0129
+#AUTHOR1    B.D.Walker+
+#YEAR       1965
+#INSTITUTE  (1USALRL)
+#TITLE      Angular distribution and polarization of neutrons from
+#+          Be-9(p,n0)B-9 and B-11(p,n0)C-11 reactions
+#AUTHOR(S)  B.D.Walker, C.Wong, J.D.Anderson, J.W.McClure
+#REF-CODE   (J,PR,137,B1504,1965)
+#REFERENCE  Phys.Rev. 137 (1965) B1504 (doi:10.1103/PhysRev.137.B1504)
+#DATASETS   0
+#
+#DATASET    F0129005 
+#DATE       20200509
+#REACTION   5-B-11(P,N)6-C-11,PAR,SIG
+#PROJ       1001
+#TARG       5011
+#MF         3
+#MT         50
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  5011   3  50 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   3  50 D  7100000.          0.144400                            0.000000         LVLB.D.Walker+          (65)F0129  5 
+ 1001  5011   3  50 D  8200000.          0.123200                            0.000000         LVLB.D.Walker+          (65)F0129  5 
+#/DATA      2
+#/DATASET

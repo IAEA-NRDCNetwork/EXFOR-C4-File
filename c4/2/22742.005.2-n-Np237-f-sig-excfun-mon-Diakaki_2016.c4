@@ -1,0 +1,115 @@
+#ENTRY      22742
+#AUTHOR1    M.Diakaki+
+#YEAR       2016
+#INSTITUTE  (2FR SAC)
+#TITLE      Neutron-induced fission cross section of 237Np in the
+#+          keV to MeV range at the CERN nTOF facility
+#AUTHOR(S)  M.Diakaki, D.Karadimos, R.Vlastou, M.Kokkoris, P.Demetriou, 
+#+          E.Skordis, A.Tsinganis, U.Abbondanno, G.Aerts, H.Alvarez, 
+#+          F.Alvarez-Velarde, S.Andriamonje, J.Andrzejewski, P.Assimakopoulos, 
+#+          L.Audouin, G.Badurek, P.Baumann, F.Becvar, E.Berthoumieux, 
+#+          M.Calviani, F.Calvino, D.Cano-Ott, R.Capote, A.Carrillo de Albornoz, 
+#+          P.Cennini, V.Chepel, E.Chiaveri, N.Colonna, G.Cortes, A.Couture, 
+#+          J.Cox, S.David, R.Dolfini, C.Domingo-Pardo, A.Dorochenko, 
+#+          W.Dridi, I.Duran, Ch.Eleftheriadis, M.Embid-Segura, L.Ferrant, 
+#+          A.Ferrari, R.Ferreira-Marques, L.Fitzpatrick, H.Frais-Koelbl, 
+#+          K.Fujii, W.Furman, I.Goncalves, R.Gallino, E.Gonzalez-Romero, 
+#+          A.Goverdovski, F.Gramegna, E.Griesmayer, C.Guerrero, F.Gunsing, 
+#+          B.Haas, R.Haight, M.Heil, A.Herrera-Martinez, M.Igashira, 
+#+          K.Ioannidis, S.Isaev, E.Jericha, Y.Kadi, F.Kaeppeler, D.Karamanis, 
+#+          M.Kerveno, V.Ketlerov, P.Koehler, D.Kolokolov, V.Konovalov, 
+#+          M.Krticka, C.Lampoudis, H.Leeb, A.Lindote, I.Lopes, M.Lozano, 
+#+          S.Lukic, J.Marganiec, L.Marques, S.Marrone, C.Massimi, P.Mastinu, 
+#+          A.Mengoni, P.M.Milazzo, C.Moreau, M.Mosconi, F.Neves, H.Oberhummer, 
+#+          S.O'Brien, M.Oshima, J.Pancin, C.Papadopoulos, C.Paradela, 
+#+          N.Patronis, A.Pavlik, P.Pavlopoulos, L.Perrot, R.Plag, A.Plompen, 
+#+          A.Plukis, A.Poch, C.Pretel, J.Quesada, T.Rauscher, R.Reifarth, 
+#+          M.Rosetti, C.Rubbia, G.Rudolf, P.Rullhusen, J.Salgado, L.Sarchiapone, 
+#+          I.Savvidis, M.Sedysheva, K.Stamoulis, C.Stephan, G.Tagliente, 
+#+          J.L.Tain, L.Tassan-Got, L.Tavora, R.Terlizzi, G.Vannini, 
+#+          P.Vaz, A.Ventura, D.Villamarin, M.C.Vicente, V.Vlachoudis, 
+#+          F.Voss, H.Wendler, M.Wiescher, K.Wisshak
+#REF-CODE   (J,PR/C,93,034614,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 034614 (doi:10.1103/PhysRevC.93.034614)
+#DATASETS   0
+#
+#DATASET    227420052
+#DATE       20240907
+#REACTION   93-NP-237(N,F),,SIG
+#PROJ       1
+#TARG       93237
+#MF         3
+#MT         18
+#C4BEGIN    [    1 93237   3  18 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   3  18 C  2038160.          1.711300 0.024500                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2081950.          1.690600 0.024300                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2126670.          1.661200 0.023000                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2172360.          1.680600 0.023600                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2219020.          1.725100 0.024400                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2266690.          1.705300 0.023000                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2315390.          1.685200 0.025000                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2365130.          1.664600 0.023500                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2415930.          1.637800 0.023900                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2467830.          1.678500 0.024400                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2520850.          1.662400 0.025300                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2575000.          1.672500 0.025700                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2630320.          1.676500 0.026700                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2686820.          1.697200 0.028400                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2744540.          1.690200 0.027800                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2803500.          1.694900 0.028200                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2863720.          1.687300 0.027300                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2925240.          1.679500 0.030500                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  2988080.          1.618300 0.029000                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  3052270.          1.656300 0.030000                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  3117840.          1.666900 0.030700                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  3184820.          1.672700 0.031700                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  3253240.          1.683400 0.034200                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  3323120.          1.613300 0.033700                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  3394510.          1.629600 0.034500                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  3467430.          1.614700 0.034600                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  3541920.          1.625300 0.035000                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  3618010.          1.622800 0.037200                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  3695730.          1.620300 0.036800                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  3775120.          1.627400 0.037900                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  3856220.          1.581300 0.036700                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  3939060.          1.596700 0.035800                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  4023680.          1.541400 0.035500                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  4110120.          1.591500 0.035300                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  4198410.          1.498000 0.034800                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  4288600.          1.555200 0.037300                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  4380730.          1.540200 0.038200                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  4474840.          1.561000 0.038200                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  4570970.          1.548100 0.042900                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  4669160.          1.530800 0.037500                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  4769470.          1.515200 0.038300                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  4871920.          1.484400 0.038900                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  4976580.          1.483600 0.038400                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  5083490.          1.502700 0.038600                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  5192700.          1.460000 0.035700                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  5304250.          1.480600 0.040800                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  5418190.          1.474000 0.039900                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  5534590.          1.463300 0.039000                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  5653480.          1.452100 0.040200                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  5774930.          1.500300 0.042600                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  5898990.          1.661200 0.045200                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  6025710.          1.655400 0.045100                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  6155150.          1.818300 0.048600                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  6287380.          1.957000 0.050700                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  6422450.          2.015400 0.051300                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  6701350.          2.046600 0.048200                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  6845310.          2.152200 0.050900                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  6992360.          2.105300 0.049200                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  7612840.          2.316900 0.056600                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  7776380.          2.253000 0.052500                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  7943430.          2.286900 0.054700                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  8114070.          2.251300 0.053400                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  8288380.          2.174300 0.051800                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  8466430.          2.243600 0.054300                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  8648310.          2.302000 0.057300                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  8834090.          2.331600 0.057100                                       M.Diakaki+           (16)22742  52
+    1 93237   3  18 C  9023870.          2.317600 0.053000                                       M.Diakaki+           (16)22742  52
+#/DATA      67
+#/DATASET

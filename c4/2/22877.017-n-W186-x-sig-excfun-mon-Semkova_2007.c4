@@ -1,0 +1,31 @@
+#ENTRY      22877
+#AUTHOR1    V.Semkova+
+#YEAR       2007
+#INSTITUTE  (2ZZZGEL)
+#TITLE      New cross section measurements for neutron-induced
+#+          reactions on Cr, Ni, Cu, Ta and W isotopes obtained
+#+          with the activation technique
+#AUTHOR(S)  V.Semkova, R.Capote, R.J.Tornin, A.J.Koning, A.Moens, A.J.M.Plompen
+#REF-CODE   (C,2007NICE,1,559,2007)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 1 page 559
+#DATASETS   0
+#
+#DATASET    22877017 
+#DATE       20231026
+#REACTION   74-W-186(N,X)73-TA-185,,SIG
+#PROJ       1
+#TARG       74186
+#MF         3
+#MT         454
+#PRODUCT    73-TA-185
+#C4BEGIN    [    1 74186   3 454 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74186   3 454 P  1.5200+7 200000.0 4.2000-4 4.0000-5           73185.9                     V.Semkova+           (07)22877 17 
+    1 74186   3 454 P  1.6100+7 300000.0 9.8000-4 6.0000-5           73185.9                     V.Semkova+           (07)22877 17 
+    1 74186   3 454 P  1.7900+7 200000.0 3.3000-3 2.3000-4           73185.9                     V.Semkova+           (07)22877 17 
+    1 74186   3 454 P  1.9300+7 200000.0 6.4700-3 5.3000-4           73185.9                     V.Semkova+           (07)22877 17 
+    1 74186   3 454 P  2.0600+7 100000.0 8.5900-3 7.6000-4           73185.9                     V.Semkova+           (07)22877 17 
+#/DATA      5
+#/DATASET

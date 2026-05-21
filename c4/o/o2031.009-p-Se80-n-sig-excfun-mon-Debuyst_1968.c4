@@ -1,0 +1,31 @@
+#ENTRY      O2031
+#AUTHOR1    R.Debuyst+
+#YEAR       1968
+#INSTITUTE  (2BLGLVN)
+#TITLE      Excitation functions and yield ratios for the isomeric
+#+          pair Br-80 Br-80-m formed in (d,2n), (a,np), (a,p) and
+#+          (p,n) reactions on selenium.
+#AUTHOR(S)  R.Debuyst, A.Vander Stricht
+#REF-CODE   (J,JIN,30,691,1968)
+#REFERENCE  J.Inorg.Nucl.Chem. 30 (1968) 691 (doi:10.1016/0022-1902(68)80426-9)
+#DATASETS   0
+#
+#DATASET    O2031009 
+#DATE       20120903
+#REACTION   34-SE-80(P,N)35-BR-80-M,,SIG
+#PROJ       1001
+#TARG       34080
+#MF         3
+#MT         4
+#PRODUCT    35-BR-80-M
+#C4BEGIN    [ 1001 34080   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 34080   3   4M   3460000.          2.8230-3                                                R.Debuyst+           (68)O2031  9 
+ 1001 34080   3   4M   4200000.          3.0580-3                                                R.Debuyst+           (68)O2031  9 
+ 1001 34080   3   4M   4900000.          0.016685                                                R.Debuyst+           (68)O2031  9 
+ 1001 34080   3   4M   5480000.          0.040734                                                R.Debuyst+           (68)O2031  9 
+ 1001 34080   3   4M   6000000.          0.074572                                                R.Debuyst+           (68)O2031  9 
+#/DATA      5
+#/DATASET

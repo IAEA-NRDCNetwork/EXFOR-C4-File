@@ -1,0 +1,42 @@
+#ENTRY      41201
+#AUTHOR1    V.M.Gorbachev+
+#YEAR       1994
+#INSTITUTE  (4RUSEPA)
+#TITLE      Gamma-ray production cross sections for interactions
+#+          of 13.8 MeV neutrons with Cu, W and U-235
+#AUTHOR(S)  V.M.Gorbachev, V.I.Nagornyi, Yu.Ya.Nefedov, M.S.Shvetsov, 
+#+          E.F.Fomushkin, A.M.Shvetsov
+#REF-CODE   (C,94GATLIN,2,950,1994)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 2 page 950
+#DATASETS   0
+#
+#DATASET    41201010 
+#DATE       20150929
+#REACTION   92-U-235(N,X)0-G-0,,DE
+#PROJ       1
+#TARG       92235
+#MF         5
+#MT         202
+#PRODUCT    0-G-0
+#C4BEGIN    [    1 92235   5 202 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   5 202 C  1.3800+7 200000.0 2.3884-5                            250000.0 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+    1 92235   5 202 C  1.3800+7 200000.0 1.3042-5                            750000.0 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+    1 92235   5 202 C  1.3800+7 200000.0 7.1220-6                            1250000. 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+    1 92235   5 202 C  1.3800+7 200000.0 3.8890-6                            1750000. 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+    1 92235   5 202 C  1.3800+7 200000.0 2.1240-6                            2250000. 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+    1 92235   5 202 C  1.3800+7 200000.0 1.1600-6                            2750000. 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+    1 92235   5 202 C  1.3800+7 200000.0 6.6300-7                            3250000. 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+    1 92235   5 202 C  1.3800+7 200000.0 3.4600-7                            3750000. 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+    1 92235   5 202 C  1.3800+7 200000.0 1.8900-7                            4250000. 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+    1 92235   5 202 C  1.3800+7 200000.0 1.0300-7                            4750000. 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+    1 92235   5 202 C  1.3800+7 200000.0 5.6000-8                            5250000. 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+    1 92235   5 202 C  1.3800+7 200000.0 3.1000-8                            5750000. 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+    1 92235   5 202 C  1.3800+7 200000.0 1.7000-8                            6250000. 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+    1 92235   5 202 C  1.3800+7 200000.0 9.0000-9                            6750000. 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+    1 92235   5 202 C  1.3800+7 200000.0 5.0000-9                            7250000. 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+    1 92235   5 202 C  1.3800+7 200000.0 3.0000-9                            7750000. 250000.0 E2V.M.Gorbachev+       (94)41201 10 
+#/DATA      16
+#/DATASET

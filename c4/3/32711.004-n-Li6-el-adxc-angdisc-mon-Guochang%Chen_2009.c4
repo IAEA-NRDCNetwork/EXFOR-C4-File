@@ -1,0 +1,64 @@
+#ENTRY      32711
+#AUTHOR1    Guochang Chen+
+#YEAR       2009
+#INSTITUTE  (3CPRAEP)
+#TITLE      Double-differential neutron emission cross-section
+#+          measurements of 6Li and 7Li at incident neutron
+#+          energies of 8.17 and 10.27 MeV
+#AUTHOR(S)  Guochang Chen, Xichao Ruan, Zuying Zhou, Jingshang Zhang, 
+#+          Bujia Qi, Xia Li, Hanxiong Huang, Hongqing Tang, Qiping Zhong, 
+#+          Jing Jiang, Biao Xin, Jie Bao, Lin Chen
+#REF-CODE   (J,NSE,163,272,2009)
+#REFERENCE  Nucl.Sci.Eng. 163 (2009) 272 (doi:10.13182/NSE163-272)
+#DATASETS   0
+#
+#DATASET    32711004 
+#DATE       20161102
+#REACTION   3-LI-6(N,EL)3-LI-6,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [    1  3006   4   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4   2 DC 8170000.          0.319100 0.023000 0.811472 5.0998-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 8170000.          0.178100 0.012800 0.682126 6.3812-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 8170000.          0.092700 6.7000-3 0.529031 7.4055-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 8170000.          0.036100 2.6000-3 0.286023 8.3621-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 8170000.          0.020500 1.5000-3 0.102793 8.6804-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 8170000.          0.022800 1.7000-3-0.079329 8.6991-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 8170000.          0.023200 1.7000-3-0.251563 8.4460-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 8170000.          0.026500 1.9000-3-0.410082 7.9591-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 8170000.          0.023500 1.7000-3-0.552664 7.2728-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 8170000.          0.020500 1.5000-3-0.733374 5.9326-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 8170000.          0.020600 1.5000-3-0.829915 4.8685-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 8170000.          0.021400 1.6000-3-0.904604 3.7198-3                     Guochang Chen+       (09)32711  4 
+#/DATA      12
+#/DATASET
+#
+#DATASET    32711004 
+#DATE       20161102
+#REACTION   3-LI-6(N,EL)3-LI-6,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [    1  3006   4   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4   2 DC 1.0270+7          0.241850 0.017410 0.763796 5.6327-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 1.0270+7          0.127110 9.1500-3 0.624152 6.8182-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 1.0270+7          0.054720 3.9400-3 0.464069 7.7301-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 1.0270+7          0.018810 1.3500-3 0.196460 8.5566-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 1.0270+7          0.014670 1.0600-3 0.010995 8.7261-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 1.0270+7          0.016690 1.2000-3-0.167113 8.6039-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 1.0270+7          0.018990 1.3700-3-0.332326 8.2307-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 1.0270+7          0.018060 1.3000-3-0.482671 7.6428-3                     Guochang Chen+       (09)32711  4 
+    1  3006   4   2 DC 1.0270+7          0.014550 1.0500-3-0.616074 6.8739-3                     Guochang Chen+       (09)32711  4 
+#/DATA      9
+#/DATASET

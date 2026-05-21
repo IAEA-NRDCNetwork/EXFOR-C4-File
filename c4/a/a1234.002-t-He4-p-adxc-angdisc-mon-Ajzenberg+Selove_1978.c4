@@ -1,0 +1,57 @@
+#ENTRY      A1234
+#AUTHOR1    F.Ajzenberg-Selove+
+#YEAR       1978
+#INSTITUTE  (1USAPEN)
+#TITLE      (t,p) reactions on 4He, 6Li, 7Li, 9Be, 10B, 11B
+#+          and 12C
+#AUTHOR(S)  F.Ajzenberg-Selove, E.R.Flynn, O.Hansen
+#REF-CODE   (J,PR/C,17,1283,1978)
+#REFERENCE  Phys.Rev.C 17 (1978) 1283 (doi:10.1103/PhysRevC.17.1283)
+#DATASETS   0
+#
+#DATASET    A1234002 
+#DATE       20250903
+#REACTION   2-HE-4(T,P)2-HE-6,PAR,DA
+#PROJ       1003
+#TARG       2004
+#MF         4
+#MT         600
+#PRODUCT    2-HE-6
+#C4BEGIN    [ 1003  2004   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  2004   4 600  C 2.3000+7          9.0950-4          0.971549          0.000000         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+ 1003  2004   4 600  C 2.3000+7          7.8750-4          0.956814          0.000000         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+ 1003  2004   4 600  C 2.3000+7          6.6150-4          0.923210          0.000000         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+ 1003  2004   4 600  C 2.3000+7          6.5710-4          0.865151          0.000000         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+ 1003  2004   4 600  C 2.3000+7          6.9080-4          0.792290          0.000000         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+ 1003  2004   4 600  C 2.3000+7          7.6770-4          0.694658          0.000000         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+ 1003  2004   4 600  C 2.3000+7          8.7830-4          0.593419          0.000000         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+ 1003  2004   4 600  C 2.3000+7          8.4270-4          0.364877          0.000000         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+ 1003  2004   4 600  C 2.3000+7          5.7670-4          0.130526          0.000000         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+#/DATA      9
+#/DATASET
+#
+#DATASET    A1234002 
+#DATE       20250903
+#REACTION   2-HE-4(T,P)2-HE-6,PAR,DA
+#PROJ       1003
+#TARG       2004
+#MF         4
+#MT         600
+#PRODUCT    2-HE-6
+#C4BEGIN    [ 1003  2004   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  2004   4 600  C 2.3000+7          3.9900-3          0.964557          1800000.         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+ 1003  2004   4 600  C 2.3000+7          4.3310-3          0.947210          1800000.         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+ 1003  2004   4 600  C 2.3000+7          2.5720-3          0.887011          1800000.         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+ 1003  2004   4 600  C 2.3000+7          2.5550-3          0.828060          1800000.         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+ 1003  2004   4 600  C 2.3000+7          1.8500-3          0.720551          1800000.         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+ 1003  2004   4 600  C 2.3000+7          1.2320-3          0.618408          1800000.         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+ 1003  2004   4 600  C 2.3000+7          8.9350-4          0.501511          1800000.         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+ 1003  2004   4 600  C 2.3000+7          3.1600-4 2.8200-5 0.275637          1800000.         LVLF.Ajzenberg-Selove+  (78)A1234  2 
+#/DATA      8
+#/DATASET

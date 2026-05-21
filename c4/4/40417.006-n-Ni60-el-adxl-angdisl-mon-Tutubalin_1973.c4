@@ -1,0 +1,41 @@
+#ENTRY      40417
+#AUTHOR1    A.I.Tutubalin+
+#YEAR       1973
+#INSTITUTE  (4UKRKFT)
+#TITLE      Elastic scattering of 14.7 MeV neutrons on iron,
+#+          cobalt and nickel isotopes.
+#AUTHOR(S)  A.I.Tutubalin, A.P.Klyucharev, V.P.Bozhko, V.Ya.Golovnya, 
+#+          G.P.Dolya, A.S.Kachan, N.A.Shlyakhov
+#REF-CODE   (C,73KIEV,3,62,197305)
+#REFERENCE  Proceedings of 2.Conf.on Neutron Physics, Kiev 1973 3 page 62
+#DATASETS   0
+#
+#DATASET    40417006 
+#DATE       20121126
+#REACTION   28-NI-60(N,EL)28-NI-60,,DA
+#PROJ       1
+#TARG       28060
+#MF         4
+#MT         2
+#PRODUCT    28-NI-60
+#C4BEGIN    [    1 28060   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28060   4   2 A  1.4700+7          2.656000 0.242000 0.984808                              A.I.Tutubalin+       (73)40417  6 
+    1 28060   4   2 A  1.4700+7          1.378000 0.076000 0.965926                              A.I.Tutubalin+       (73)40417  6 
+    1 28060   4   2 A  1.4700+7          1.084000 0.075000 0.939693                              A.I.Tutubalin+       (73)40417  6 
+    1 28060   4   2 A  1.4700+7          0.470000 0.051000 0.906308                              A.I.Tutubalin+       (73)40417  6 
+    1 28060   4   2 A  1.4700+7          0.276000 0.016000 0.866025                              A.I.Tutubalin+       (73)40417  6 
+    1 28060   4   2 A  1.4700+7          0.078800 9.7000-3 0.819152                              A.I.Tutubalin+       (73)40417  6 
+    1 28060   4   2 A  1.4700+7          0.040000 5.9000-3 0.766044                              A.I.Tutubalin+       (73)40417  6 
+    1 28060   4   2 A  1.4700+7          0.030300 2.9000-3 0.642788                              A.I.Tutubalin+       (73)40417  6 
+    1 28060   4   2 A  1.4700+7          0.015800 2.4000-3 0.500000                              A.I.Tutubalin+       (73)40417  6 
+    1 28060   4   2 A  1.4700+7          0.011100 1.3000-3 0.342020                              A.I.Tutubalin+       (73)40417  6 
+    1 28060   4   2 A  1.4700+7          0.025400 2.1000-3 0.173648                              A.I.Tutubalin+       (73)40417  6 
+    1 28060   4   2 A  1.4700+7          0.022300 2.4000-3 6.123-17                              A.I.Tutubalin+       (73)40417  6 
+    1 28060   4   2 A  1.4700+7          8.6000-3 7.0000-4-0.173648                              A.I.Tutubalin+       (73)40417  6 
+    1 28060   4   2 A  1.4700+7          5.4000-3 1.3000-3-0.342020                              A.I.Tutubalin+       (73)40417  6 
+    1 28060   4   2 A  1.4700+7          0.012600 1.6000-3-0.500000                              A.I.Tutubalin+       (73)40417  6 
+#/DATA      15
+#/DATASET

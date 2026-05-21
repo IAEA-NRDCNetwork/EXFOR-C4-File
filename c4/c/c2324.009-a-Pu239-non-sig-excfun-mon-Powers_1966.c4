@@ -1,0 +1,26 @@
+#ENTRY      C2324
+#AUTHOR1    J.A.Powers+
+#YEAR       1966
+#INSTITUTE  (1USAPUR)
+#TITLE      Mass Distribution in the Fission of Np237 and Pu239
+#+          by Intermediate-Energy Helium Ions
+#AUTHOR(S)  J.A.Powers, N.A.Wogman, J.W.Cobble
+#REF-CODE   (J,PR,152,1096,1966)
+#REFERENCE  Phys.Rev. 152 (1966) 1096 (doi:10.1103/PhysRev.152.1096)
+#DATASETS   0
+#
+#DATASET    C2324009 
+#DATE       20180618
+#REACTION   94-PU-239(A,NON),,SIG
+#PROJ       2004
+#TARG       94239
+#MF         3
+#MT         3
+#C4BEGIN    [ 2004 94239   3   3 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 94239   3   3 D  2.1500+7          0.051000                                                J.A.Powers+          (66)C2324  9 
+ 2004 94239   3   3 D  3.2000+7          0.921000                                                J.A.Powers+          (66)C2324  9 
+#/DATA      2
+#/DATASET

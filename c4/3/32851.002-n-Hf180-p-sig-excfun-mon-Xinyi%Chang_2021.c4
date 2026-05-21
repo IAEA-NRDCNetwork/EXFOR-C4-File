@@ -1,0 +1,31 @@
+#ENTRY      32851
+#AUTHOR1    Xinyi Chang+
+#YEAR       2021
+#INSTITUTE  (3CPRZHN)
+#TITLE      Measurements of formation cross-sections of
+#+          short-lived nuclei around the 14 MeV neutron induced
+#+          reactions on 180Hf and 90Zr and theoretical
+#+          calculation of excitation functions
+#AUTHOR(S)  Xinyi Chang, Fengqun Zhou, Yong Li, Shuqing Yuan, Pengfei Ji, 
+#+          Guang Lu
+#REF-CODE   (J,ARI,170,109588,2021)
+#REFERENCE  Appl.Radiat.Isot. 170 (2021) 109588 (doi:10.1016/j.apradiso.2021.109588)
+#DATASETS   0
+#
+#DATASET    32851002 
+#DATE       20211028
+#REACTION   72-HF-180(N,P)71-LU-180,,SIG
+#PROJ       1
+#TARG       72180
+#MF         3
+#MT         103
+#PRODUCT    71-LU-180
+#C4BEGIN    [    1 72180   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 72180   3 103    1.3500+7 200000.0 1.3000-3 1.2000-4                                       Xinyi Chang+         (21)32851  2 
+    1 72180   3 103    1.4100+7 200000.0 1.3700-3 1.5000-4                                       Xinyi Chang+         (21)32851  2 
+    1 72180   3 103    1.4800+7 200000.0 1.8800-3 1.6000-4                                       Xinyi Chang+         (21)32851  2 
+#/DATA      3
+#/DATASET

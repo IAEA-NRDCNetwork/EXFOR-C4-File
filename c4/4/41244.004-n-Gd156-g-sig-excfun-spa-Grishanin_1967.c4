@@ -1,0 +1,27 @@
+#ENTRY      41244
+#AUTHOR1    E.I.Grishanin+
+#YEAR       1967
+#INSTITUTE  (4RUSFEI)
+#TITLE      Measurement of reactor absorption cross sections of
+#+          Gd154 and Gd156 .
+#AUTHOR(S)  E.I.Grishanin, G.M.Kukavadze, V.I.Lependin, L.Ya.Mamelova, 
+#+          I.G.Morozov, V.V.Orlov, D.T.Pilipets
+#REF-CODE   (J,AE,22,(2),133,1967)
+#REFERENCE  At.En. 22 No.2 (1967) 133
+#DATASETS   0
+#
+#DATASET    41244004 
+#DATE       20140814
+#REACTION   64-GD-156(N,G)64-GD-157,,SIG,,SPA
+#PROJ       1
+#TARG       64156
+#MF         3
+#MT         102
+#PRODUCT    64-GD-157
+#C4BEGIN    [    1 64156   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 64156   3 102 C  0.025300          11.50000 2.000000                                       E.I.Grishanin+       (67)41244  4 
+#/DATA      1
+#/DATASET

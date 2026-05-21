@@ -1,0 +1,36 @@
+#ENTRY      A0476
+#AUTHOR1    A.N.Andreev+
+#YEAR       1990
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Cross sections for production of neutron-deficient
+#+          isotopes of At and Po in Ho + Ar, Tb + Ca, and Ta + Mg
+#+          reactions
+#AUTHOR(S)  A.N.Andreev, D.D.Bogdanov, V.I.Chepigin, A.V.Eremin, A.P.Kabachenko, 
+#+          Ju.A.Muzychka, O.A.Orlova, B.I.Pustylnik, Sh.Sharo, G.M.Ter-Akopyan
+#REF-CODE   (J,SNP,52,412,1990)
+#REFERENCE  Sov.J.Nucl.Phys. 52 (1990) 412
+#DATASETS   0
+#
+#DATASET    A0476012 
+#DATE       20240914
+#REACTION   67-HO-165(18-AR-40,X)84-PO-196,,SIG
+#PROJ       18040
+#TARG       67165
+#MF         3
+#MT         454
+#PRODUCT    84-PO-196
+#C4BEGIN    [18040 67165   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 67165   3 454    2.2400+8          3.0000-5 1.2000-5           84196.9                     A.N.Andreev+         (90)A0476 12 
+18040 67165   3 454    2.3100+8          8.4000-5 3.3600-5           84196.9                     A.N.Andreev+         (90)A0476 12 
+18040 67165   3 454    2.3650+8          1.5000-4 6.0000-5           84196.9                     A.N.Andreev+         (90)A0476 12 
+18040 67165   3 454    2.4080+8          1.8000-4 7.2000-5           84196.9                     A.N.Andreev+         (90)A0476 12 
+18040 67165   3 454    2.4900+8          3.4500-4 1.3800-4           84196.9                     A.N.Andreev+         (90)A0476 12 
+18040 67165   3 454    2.5600+8          3.3000-4 1.3200-4           84196.9                     A.N.Andreev+         (90)A0476 12 
+18040 67165   3 454    2.6300+8          2.3000-4 9.2000-5           84196.9                     A.N.Andreev+         (90)A0476 12 
+18040 67165   3 454    2.7070+8          1.4000-4 5.6000-5           84196.9                     A.N.Andreev+         (90)A0476 12 
+18040 67165   3 454    2.7870+8          5.6000-5 2.2400-5           84196.9                     A.N.Andreev+         (90)A0476 12 
+#/DATA      9
+#/DATASET

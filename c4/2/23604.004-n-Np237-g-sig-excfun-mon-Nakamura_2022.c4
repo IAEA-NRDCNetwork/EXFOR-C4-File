@@ -1,0 +1,26 @@
+#ENTRY      23604
+#AUTHOR1    S.Nakamura+
+#YEAR       2022
+#INSTITUTE  (2JPNJAE)
+#TITLE      Thermal-Neutron capture cross-section measurements of
+#+          Neptunium-237 with graphite thermal column in KUR
+#AUTHOR(S)  S.Nakamura, Y.Shibahara, S.Endo, A.Kimura
+#REF-CODE   (J,NST,59,1388,2022)
+#REFERENCE  J.Nucl.Sci.Technol. 59 (2022) 1388 (doi:10.1080/00223131.2022.2058639)
+#DATASETS   0
+#
+#DATASET    23604004 
+#DATE       20230629
+#REACTION   93-NP-237(N,G)93-NP-238,,SIG,,AV
+#PROJ       1
+#TARG       93237
+#MF         3
+#MT         102
+#PRODUCT    93-NP-238
+#C4BEGIN    [    1 93237   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   3 102 D  0.025300          173.8000 4.700000                                       S.Nakamura+          (22)23604  4 
+#/DATA      1
+#/DATASET

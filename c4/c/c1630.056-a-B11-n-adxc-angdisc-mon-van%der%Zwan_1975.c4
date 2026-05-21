@@ -1,0 +1,32 @@
+#ENTRY      C1630
+#AUTHOR1    L.van der Zwan+
+#YEAR       1975
+#INSTITUTE  (1CANOTC)
+#TITLE      The 11B(alpha,n)14N cross section for a-energies up
+#+          to 8 MeV
+#AUTHOR(S)  L.van der Zwan, K.W.Geiger
+#REF-CODE   (J,NP/A,246,(1),93,1975)
+#REFERENCE  Nucl.Phys.A 246 No.1 (1975) 93 (doi:10.1016/0375-9474(75)90565-5)
+#DATASETS   0
+#
+#DATASET    C1630056 
+#DATE       20160714
+#REACTION   5-B-11(A,N)7-N-14,PAR,DA
+#PROJ       2004
+#TARG       5011
+#MF         4
+#MT         50
+#PRODUCT    7-N-14
+#C4BEGIN    [ 2004  5011   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  5011   4  50  C 3940000.          2.7600-3          1.000000          2312798.         LVLL.van der Zwan+      (75)C1630 56 
+ 2004  5011   4  50  C 3940000.          2.5440-3          0.931653          2312798.         LVLL.van der Zwan+      (75)C1630 56 
+ 2004  5011   4  50  C 3940000.          1.9440-3          0.777816          2312798.         LVLL.van der Zwan+      (75)C1630 56 
+ 2004  5011   4  50  C 3940000.          1.3440-3          0.529312          2312798.         LVLL.van der Zwan+      (75)C1630 56 
+ 2004  5011   4  50  C 3940000.          9.3600-4          0.209994          2312798.         LVLL.van der Zwan+      (75)C1630 56 
+ 2004  5011   4  50  C 3940000.          6.7200-4         -0.032056          2312798.         LVLL.van der Zwan+      (75)C1630 56 
+ 2004  5011   4  50  C 3940000.          6.0000-4         -0.321192          2312798.         LVLL.van der Zwan+      (75)C1630 56 
+#/DATA      7
+#/DATASET

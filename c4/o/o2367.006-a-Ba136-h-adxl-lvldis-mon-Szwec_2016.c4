@@ -1,0 +1,62 @@
+#ENTRY      O2367
+#AUTHOR1    S.V.Szwec+
+#YEAR       2016
+#INSTITUTE  (2UK MAN)
+#TITLE      Rearrangement of valence neutrons in the neutrinoless
+#+          double-beta decay of 136Xe
+#AUTHOR(S)  S.V.Szwec, B.P.Kay, T.E.Cocolios, J.P.Entwisle, S.J.Freeman, 
+#+          L.P.Gaffney, V.Guimaraes, F.Hammache, P.P.Mc.upper()ee, 
+#+          E.Parr, C.Portail, J.P.Schiffer, N.de Sereville, D.K.Sharp, 
+#+          J.F.Smith, I.Stefan
+#REF-CODE   (J,PR/C,94,054314,2016)
+#REFERENCE  Phys.Rev.C 94 (2016) 054314 (doi:10.1103/PhysRevC.94.054314)
+#DATASETS   0
+#
+#DATASET    O2367006 
+#DATE       20180221
+#REACTION   56-BA-136(A,HE3)56-BA-137,PAR,DA
+#PROJ       2004
+#TARG       56136
+#MF         4
+#MT         750
+#PRODUCT    56-BA-137
+#C4BEGIN    [ 2004 56136   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 56136   4 750    4.0100+7          7.0000-6 1.0000-6 0.994703          0.000000         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          1.0400-4 5.0000-6 0.994703          661000.0         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          3.8000-5 3.0000-6 0.994703          1044000.         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          3.3000-5 3.0000-6 0.994703          1482000.         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          5.7000-5 4.0000-6 0.994703          1798000.         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          2.8000-5 3.0000-6 0.994703          1899000.         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          1.0000-5 2.0000-6 0.994703          2530000.         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          5.3000-5 4.0000-6 0.994703          2750000.         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          8.7000-5 5.0000-6 0.994703          2874000.         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          1.7600-4 7.0000-6 0.994703          3141000.         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          4.0000-5 3.0000-6 0.994703          3640000.         LVLS.V.Szwec+           (16)O2367  6 
+#/DATA      11
+#/DATASET
+#
+#DATASET    O2367006 
+#DATE       20180221
+#REACTION   56-BA-136(A,HE3)56-BA-137,PAR,DA
+#PROJ       2004
+#TARG       56136
+#MF         4
+#MT         750
+#PRODUCT    56-BA-137
+#C4BEGIN    [ 2004 56136   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 56136   4 750    4.0100+7          5.7000-5 5.0000-6 0.981959          661000.0         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          2.0000-5 3.0000-6 0.981959          1044000.         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          2.7000-5 4.0000-6 0.981959          1482000.         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          2.0000-5 3.0000-6 0.981959          1798000.         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          5.0000-6 2.0000-6 0.981959          2530000.         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          2.4000-5 4.0000-6 0.981959          2750000.         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          3.4000-5 4.0000-6 0.981959          2874000.         LVLS.V.Szwec+           (16)O2367  6 
+ 2004 56136   4 750    4.0100+7          7.4000-5 6.0000-6 0.981959          3141000.         LVLS.V.Szwec+           (16)O2367  6 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      O2542
+#AUTHOR1    F.Heim+
+#YEAR       2021
+#INSTITUTE  (2GERKLN)
+#TITLE      Absolute 96Mo(p,n) 96m+gTc cross sections and a new
+#+          branching for the 96mTc decay
+#AUTHOR(S)  F.Heim, M.Mueller, S.Wilden, A.Zilges
+#REF-CODE   (J,PR/C,103,054613,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 054613 (doi:10.1103/PhysRevC.103.054613)
+#DATASETS   0
+#
+#DATASET    O2542003 
+#DATE       20220303
+#REACTION   42-MO-96(P,N)43-TC-96-G,,SIG
+#PROJ       1001
+#TARG       42096
+#MF         3
+#MT         4
+#PRODUCT    43-TC-96-G
+#C4BEGIN    [ 1001 42096   3   4G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42096   3   4G   3876393. 2.2001+7 6.5000-4 3.5000-4                                       F.Heim+              (21)O2542  3 
+ 1001 42096   3   4G   4176527. 2.2001+7 4.9000-3 1.3000-3                                       F.Heim+              (21)O2542  3 
+ 1001 42096   3   4G   4474641. 2.2001+7 6.0000-3 1.4000-3                                       F.Heim+              (21)O2542  3 
+ 1001 42096   3   4G   4779830. 2.2001+7 0.015500 4.0000-3                                       F.Heim+              (21)O2542  3 
+ 1001 42096   3   4G   5076936. 2.2001+7 0.021900 3.3000-3                                       F.Heim+              (21)O2542  3 
+ 1001 42096   3   4G   5379095. 2.2001+7 0.041000 0.010000                                       F.Heim+              (21)O2542  3 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      D6203
+#AUTHOR1    Rohit Sandal+
+#YEAR       2013
+#INSTITUTE  (3INDPUC)
+#TITLE      Effect of N/Z in pre-scission neutron multiplicity
+#+          for 16,18O + 194,198Pt systems
+#AUTHOR(S)  Rohit Sandal, B.R.Behera, Varinderjit Singh, Maninder Kaur, 
+#+          A.Kumar, G.Singh, K.P.Singh, P.Sugathan, A.Jhingan, K.S.Golda, 
+#+          M.B.Chatterjee, R.K.Bhowmik, Sunil Kalkal, D.Siwal, S.Goyal, 
+#+          S.Mandal, E.Prasad, K.Mahata, A.Saxena, Jhilam Sadhukhan, 
+#+          Santanu Pal
+#REF-CODE   (J,PR/C,87,014604,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 014604 (doi:10.1103/PhysRevC.87.014604)
+#DATASETS   0
+#
+#DATASET    D6203002 
+#DATE       20131124
+#REACTION   78-PT-194(8-O-16,F),,NU
+#PROJ       8016
+#TARG       78194
+#MF         1
+#MT         452
+#C4BEGIN    [ 8016 78194   1 452  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 78194   1 452    8.6500+7          3.374000 0.100000                                       Rohit Sandal+        (13)D6203  2 
+ 8016 78194   1 452    9.8400+7          4.130000 0.110000                                       Rohit Sandal+        (13)D6203  2 
+ 8016 78194   1 452    1.0990+8          4.550000 0.140000                                       Rohit Sandal+        (13)D6203  2 
+ 8016 78194   1 452    1.1780+8          4.904000 0.140000                                       Rohit Sandal+        (13)D6203  2 
+#/DATA      4
+#/DATASET

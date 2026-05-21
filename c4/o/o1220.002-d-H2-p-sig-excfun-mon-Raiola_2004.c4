@@ -1,0 +1,53 @@
+#ENTRY      O1220
+#AUTHOR1    F.Raiola+
+#YEAR       2004
+#INSTITUTE  (2GERBOC)
+#TITLE      Enhanced electron screening in D(d,p)T for deuterated
+#+          metals.
+#AUTHOR(S)  F.Raiola, L.Gang, C.Bonomo, G.Gyurky, M.Aliotta, H.W.Becker, 
+#+          R.Bonetti, C.Broggini, P.Corvisiero, A.D'Onofrio, Z.Fuelop, 
+#+          G.Gervino, L.Gialanella, M.Junker, P.Prati, V.Roca, C.Rolfs, 
+#+          M.Romano, E.Somorjai, F.Strieder, F.Terrasi, G.Fiorentini, 
+#+          K.Langanke, J.Winter
+#REF-CODE   (J,EPJ/A,19,(2),283,2004)
+#REFERENCE  Eur.Phys.J.A 19 No.2 (2004) 283 (doi:10.1140/epja/i2003-10125-0)
+#DATASETS   0
+#
+#DATASET    O1220002 
+#DATE       20220202
+#REACTION   1-H-2(D,P)1-H-3,,SIG,,SFC
+#PROJ       1002
+#TARG       1002
+#MF         3
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002  1002   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   3 103    8270.004          4.4690-6 5.2296-7                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    8786.005          5.1764-6 9.2183-7                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    9216.005          9.0508-6 1.1554-6                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    9790.006          9.8055-6 1.4008-6                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    10544.00          1.7447-5 1.0904-6                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    11620.00          2.8011-5 2.2712-6                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    12600.01          4.6827-5 2.9267-6                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    13620.01          6.5474-5 4.3649-6                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    14520.01          7.5354-5 5.9805-6                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    15580.01          1.0346-4 8.3434-6                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    16520.01          1.4590-4 1.5243-5                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    17560.02          1.7641-4 1.4226-5                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    18460.02          2.1446-4 1.7578-5                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    19500.02          2.9927-4 3.0807-5                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    20420.02          2.8011-4 2.6425-5                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    21480.03          4.1746-4 3.8535-5                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    22400.03          4.0573-4 3.7568-5                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    23480.03          5.4393-4 5.3501-5                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    24480.03          5.2700-4 5.1667-5                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    25460.04          6.8609-4 7.0974-5                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    26460.04          7.6739-4 8.0778-5                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    27620.05          8.5202-4 7.7456-5                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    28600.05          8.8294-4 8.6563-5                                       F.Raiola+            (04)O1220  2 
+ 1002  1002   3 103    29500.05          1.0107-3 9.5349-5                                       F.Raiola+            (04)O1220  2 
+#/DATA      24
+#/DATASET

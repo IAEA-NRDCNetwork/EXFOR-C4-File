@@ -1,0 +1,29 @@
+#ENTRY      22241
+#AUTHOR1    L.Koester+
+#YEAR       1993
+#INSTITUTE  (2GERMUN)
+#TITLE      -INTERACTION OF SLOW NEUTRONS WITH NUCLIDES OF SC, TI,
+#+          V AND MN.
+#AUTHOR(S)  L.Koester, K.Knopf, W.Waschkowski
+#REF-CODE   (J,ZP/A,345,175,1993)
+#REFERENCE  Z.Phys.A 345 (1993) 175 (doi:10.1007/BF01293341)
+#DATASETS   0
+#
+#DATASET    22241010 
+#DATE       20060605
+#REACTION   21-SC-45(N,TOT),,SIG
+#PROJ       1
+#TARG       21045
+#MF         3
+#MT         1
+#C4BEGIN    [    1 21045   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 21045   3   1    1.260000          25.04000 0.030000                                       L.Koester+           (93)22241 10 
+    1 21045   3   1    5.190000          22.83000 0.050000                                       L.Koester+           (93)22241 10 
+    1 21045   3   1    18.60000          64.50000 0.300000                                       L.Koester+           (93)22241 10 
+    1 21045   3   1    128.0000          13.53000 0.020000                                       L.Koester+           (93)22241 10 
+    1 21045   3   1    1970.000          0.413000 8.0000-3                                       L.Koester+           (93)22241 10 
+#/DATA      5
+#/DATASET

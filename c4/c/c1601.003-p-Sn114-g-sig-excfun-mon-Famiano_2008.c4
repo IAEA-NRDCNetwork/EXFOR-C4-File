@@ -1,0 +1,33 @@
+#ENTRY      C1601
+#AUTHOR1    M.A.Famiano+
+#YEAR       2008
+#INSTITUTE  (1USAWMU)
+#TITLE      Measurement of the (p,alpha) cross sections of 46Ti,
+#+          64Zn, 114Sn, and 116Sn at astrophysically relevant
+#+          energies
+#AUTHOR(S)  M.A.Famiano, R.S.Kodikara, B.M.Giacherio, V.G.Subramanian, 
+#+          A.Kayani
+#REF-CODE   (J,NP/A,802,26,2008)
+#REFERENCE  Nucl.Phys.A 802 (2008) 26 (doi:10.1016/j.nuclphysa.2008.01.013)
+#DATASETS   0
+#
+#DATASET    C1601003 
+#DATE       20080319
+#REACTION   50-SN-114(P,G)51-SB-115,,SIG,,SFC
+#PROJ       1001
+#TARG       50114
+#MF         3
+#MT         102
+#PRODUCT    51-SB-115
+#C4BEGIN    [ 1001 50114   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50114   3 102    2111539.          8.3372-7 1.2745-7                                       M.A.Famiano+         (08)C1601  3 
+ 1001 50114   3 102    2420253.          4.2369-6 6.8229-7                                       M.A.Famiano+         (08)C1601  3 
+ 1001 50114   3 102    2715853.          1.7302-5 2.6766-6                                       M.A.Famiano+         (08)C1601  3 
+ 1001 50114   3 102    3015489.          6.5231-5 9.2053-6                                       M.A.Famiano+         (08)C1601  3 
+ 1001 50114   3 102    3314116.          1.7569-4 2.7240-5                                       M.A.Famiano+         (08)C1601  3 
+ 1001 50114   3 102    3616781.          4.4071-4 8.0142-5                                       M.A.Famiano+         (08)C1601  3 
+#/DATA      6
+#/DATASET

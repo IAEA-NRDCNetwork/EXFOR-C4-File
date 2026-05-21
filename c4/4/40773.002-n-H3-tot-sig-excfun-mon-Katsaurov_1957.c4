@@ -1,0 +1,26 @@
+#ENTRY      40773
+#AUTHOR1    L.N.Katsaurov+
+#YEAR       1957
+#INSTITUTE  (4RUSLEB)
+#TITLE      Total tritium cross section for neutrons with energies
+#+          of 2.5 and 14 MeV.
+#AUTHOR(S)  L.N.Katsaurov, R.M.Musaeljan, V.I.Popov
+#REF-CODE   (J,AE/S,,(5),71,1957)
+#REFERENCE  At.En. Suppl.  No.5 (1957) 71
+#DATASETS   0
+#
+#DATASET    40773002 
+#DATE       20191214
+#REACTION   1-H-3(N,TOT),,SIG
+#PROJ       1
+#TARG       1003
+#MF         3
+#MT         1
+#C4BEGIN    [    1  1003   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1003   3   1    2500000.          2.500000 0.500000                                       L.N.Katsaurov+       (57)40773  2 
+    1  1003   3   1    1.4000+7          0.630000 0.170000                                       L.N.Katsaurov+       (57)40773  2 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,56 @@
+#ENTRY      10355
+#AUTHOR1    T.C.Montgomery+
+#YEAR       1977
+#INSTITUTE  (1USADAV)
+#TITLE      Neutron-proton differential cross section measurements
+#+          at 25.8 and 50.0 MeV
+#AUTHOR(S)  T.C.Montgomery, F.P.Brady, B.E.Bonner, W.B.Broste, M.W.Mc Naughton
+#REF-CODE   (J,PR/C,16,499,1977)
+#REFERENCE  Phys.Rev.C 16 (1977) 499 (doi:10.1103/PhysRevC.16.499)
+#DATASETS   0
+#
+#DATASET    10355002 
+#DATE       20021120
+#REACTION   1-H-1(N,EL)1-H-1,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  1001   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4   2 AC 2.5800+7 100000.0 0.029970 9.0000-4 0.938794                              T.C.Montgomery+      (77)10355  2 
+    1  1001   4   2 AC 2.5800+7 100000.0 0.029290 8.8000-4 0.864099                              T.C.Montgomery+      (77)10355  2 
+    1  1001   4   2 AC 2.5800+7 100000.0 0.027810 8.3000-4 0.762894                              T.C.Montgomery+      (77)10355  2 
+    1  1001   4   2 AC 2.5800+7 100000.0 0.027370 8.2000-4 0.638231                              T.C.Montgomery+      (77)10355  2 
+    1  1001   4   2 AC 2.5800+7 100000.0 0.027210 8.2000-4 0.494245                              T.C.Montgomery+      (77)10355  2 
+    1  1001   4   2 AC 2.5800+7 100000.0 0.027020 8.1000-4 0.335123                              T.C.Montgomery+      (77)10355  2 
+    1  1001   4   2 AC 2.5800+7 100000.0 0.027940 8.4000-4 0.165908                              T.C.Montgomery+      (77)10355  2 
+    1  1001   4   2 AC 2.5800+7 100000.0 0.028420 8.5000-4-8.2030-3                              T.C.Montgomery+      (77)10355  2 
+#/DATA      8
+#/DATASET
+#
+#DATASET    10355002 
+#DATE       20021120
+#REACTION   1-H-1(N,EL)1-H-1,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  1001   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4   2 AC 5.0000+7 100000.0 0.016170 5.2000-4 0.938070                              T.C.Montgomery+      (77)10355  2 
+    1  1001   4   2 AC 5.0000+7 100000.0 0.015410 4.4000-4 0.862514                              T.C.Montgomery+      (77)10355  2 
+    1  1001   4   2 AC 5.0000+7 100000.0 0.014170 3.6000-4 0.760179                              T.C.Montgomery+      (77)10355  2 
+    1  1001   4   2 AC 5.0000+7 100000.0 0.013020 3.4000-4 0.634461                              T.C.Montgomery+      (77)10355  2 
+    1  1001   4   2 AC 5.0000+7 100000.0 0.012060 3.3000-4 0.489382                              T.C.Montgomery+      (77)10355  2 
+    1  1001   4   2 AC 5.0000+7 100000.0 0.011890 3.2000-4 0.329361                              T.C.Montgomery+      (77)10355  2 
+    1  1001   4   2 AC 5.0000+7 100000.0 0.011170 4.0000-4 0.159709                              T.C.Montgomery+      (77)10355  2 
+    1  1001   4   2 AC 5.0000+7 100000.0 0.011390 3.7000-4-0.014486                              T.C.Montgomery+      (77)10355  2 
+#/DATA      8
+#/DATASET

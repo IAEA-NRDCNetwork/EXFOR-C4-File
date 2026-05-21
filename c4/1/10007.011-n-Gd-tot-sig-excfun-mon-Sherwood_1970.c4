@@ -1,0 +1,29 @@
+#ENTRY      10007
+#AUTHOR1    G.L.Sherwood+
+#YEAR       1970
+#INSTITUTE  (1USAANL)
+#TITLE      Fast neutron cross sections of hafnium, gadolinium
+#+          and samarium.
+#AUTHOR(S)  G.L.Sherwood, A.B.Smith, J.F.Whalen
+#REF-CODE   (J,NSE,39,67,1970)
+#REFERENCE  Nucl.Sci.Eng. 39 (1970) 67 (doi:10.13182/NSE70-A21172)
+#DATASETS   0
+#
+#DATASET    10007011 
+#DATE       19990617
+#REACTION   64-GD-0(N,TOT),,SIG
+#PROJ       1
+#TARG       64000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 64000   3   1 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 64000   3   1 A  606670.0          6.978000 0.135000                                       G.L.Sherwood+        (70)10007 11 
+    1 64000   3   1 A  805740.0          6.960000 0.146000                                       G.L.Sherwood+        (70)10007 11 
+    1 64000   3   1 A  1004800.          7.471000 0.167000                                       G.L.Sherwood+        (70)10007 11 
+    1 64000   3   1 A  1204100.          6.718000 0.183000                                       G.L.Sherwood+        (70)10007 11 
+    1 64000   3   1 A  1403200.          6.944000 0.212000                                       G.L.Sherwood+        (70)10007 11 
+#/DATA      5
+#/DATASET

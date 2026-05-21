@@ -1,0 +1,29 @@
+#ENTRY      E2202
+#AUTHOR1    S.Tokunaga+
+#YEAR       1953
+#INSTITUTE  (2JPNJPN)
+#TITLE      Energy spectra of charged pi-mesons produced in carbon
+#+          aluminium and copper at 90 degree to a 345 MeV proton
+#+          beam
+#AUTHOR(S)  S.Tokunaga, K.Yuasa, K.Nishikawa, T.Isii
+#REF-CODE   (J,JPJ,8,571,1953)
+#REFERENCE  J.Phys.Soc.Jpn. 8 (1953) 571 (doi:10.1143/JPSJ.8.571)
+#DATASETS   0
+#
+#DATASET    E2202003 
+#DATE       20190514
+#REACTION   6-C-0(P,X)1-PN-0,,DA/DE
+#PROJ       1001
+#TARG       6000
+#MF         6
+#MT         210
+#PRODUCT    1-PN-0
+#C4BEGIN    [ 1001  6000   6 210  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6000   6 210    3.4500+8          5.037-13 8.211-14 6.123-17          3.0010+7 1651000. E2S.Tokunaga+          (53)E2202  3 
+ 1001  6000   6 210    3.4500+8          7.346-13 1.261-13 6.123-17          5.0100+7 1413000. E2S.Tokunaga+          (53)E2202  3 
+ 1001  6000   6 210    3.4500+8          3.282-13 6.449-14 6.123-17          6.0280+7 1651000. E2S.Tokunaga+          (53)E2202  3 
+#/DATA      3
+#/DATASET

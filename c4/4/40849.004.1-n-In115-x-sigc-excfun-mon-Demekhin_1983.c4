@@ -1,0 +1,26 @@
+#ENTRY      40849
+#AUTHOR1    V.L.Demekhin+
+#YEAR       1983
+#INSTITUTE  (4UKRKGU)
+#TITLE      14.6 MeV neutron radiation capture cross-section
+#+          determination for In-115
+#AUTHOR(S)  V.L.Demekhin, B.E.Leshchenko, V.K.Maydanyuk, G.Peto
+#REF-CODE   (R,INDC(CCP)-235,(3),195,1983)
+#REFERENCE  Report INDC(CCP)-235 Vol.(3) page 195, 1983
+#DATASETS   0
+#
+#DATASET    408490041
+#DATE       20231226
+#REACTION   49-IN-115(N,G)49-IN-116-M1,M+,SIG
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         459
+#PRODUCT    49-IN-116-M1
+#C4BEGIN    [    1 49115   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3 459    1.4600+7          1.0800-3 1.8000-4           49116.1                     V.L.Demekhin+        (83)40849  41
+#/DATA      1
+#/DATASET

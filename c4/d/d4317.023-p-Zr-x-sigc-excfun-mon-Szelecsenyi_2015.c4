@@ -1,0 +1,34 @@
+#ENTRY      D4317
+#AUTHOR1    F.Szelecsenyi+
+#YEAR       2015
+#INSTITUTE  (3HUNDEB)
+#TITLE      Excitation functions of natZr+p nuclear processes up
+#+          to 70 MeV: New measurements and compilation
+#AUTHOR(S)  F.Szelecsenyi, G.F.Steyn, Z.Kovacs, C.Vermeulen, K.Nagatsu, 
+#+          M.-R.Zhang, K.Suzuki
+#REF-CODE   (J,NIM/B,343,173,2015)
+#REFERENCE  Nucl.Instrum.Meth.B 343 (2015) 173 (doi:10.1016/j.nimb.2014.11.081)
+#DATASETS   0
+#
+#DATASET    D4317023 
+#DATE       20200109
+#REACTION   40-ZR-0(P,X)39-Y-85-M,CUM,SIG
+#PROJ       1001
+#TARG       40000
+#MF         3
+#MT         459
+#PRODUCT    39-Y-85-M
+#C4BEGIN    [ 1001 40000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40000   3 459    4.5300+7 1200000. 0.015300 2.3000-3           39085.7                     F.Szelecsenyi+       (15)D4317 23 
+ 1001 40000   3 459    4.8300+7 1100000. 0.015600 4.8000-3           39085.7                     F.Szelecsenyi+       (15)D4317 23 
+ 1001 40000   3 459    5.1200+7 1000000. 0.012800 2.1000-3           39085.7                     F.Szelecsenyi+       (15)D4317 23 
+ 1001 40000   3 459    5.3900+7 1000000. 0.014000 2.9000-3           39085.7                     F.Szelecsenyi+       (15)D4317 23 
+ 1001 40000   3 459    5.6600+7 900000.0 5.8000-3 3.2000-3           39085.7                     F.Szelecsenyi+       (15)D4317 23 
+ 1001 40000   3 459    5.9800+7 900000.0 8.2000-3 1.9000-3           39085.7                     F.Szelecsenyi+       (15)D4317 23 
+ 1001 40000   3 459    6.3000+7 800000.0 9.3000-3 2.4000-3           39085.7                     F.Szelecsenyi+       (15)D4317 23 
+ 1001 40000   3 459    6.5900+7 700000.0 7.2000-3 2.0000-3           39085.7                     F.Szelecsenyi+       (15)D4317 23 
+#/DATA      8
+#/DATASET

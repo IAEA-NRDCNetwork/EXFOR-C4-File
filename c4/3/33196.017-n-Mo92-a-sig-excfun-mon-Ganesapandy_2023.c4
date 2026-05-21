@@ -1,0 +1,27 @@
+#ENTRY      33196
+#AUTHOR1    T.S.Ganesapandy+
+#YEAR       2023
+#INSTITUTE  (3INDPOO)
+#TITLE      14.77 MeV neutron-induced nuclear reaction cross
+#+          sections for zinc, yttrium, and molybdenum targets
+#AUTHOR(S)  T.S.Ganesapandy, G.T.Bholane, S.H.Patil, S.S.Dahiwale, V.N.Bhoraskar, 
+#+          S.D.Dhole
+#REF-CODE   (J,CPH,47,034002,2023)
+#REFERENCE  Chin.Phys. 47 (2023) 034002
+#DATASETS   0
+#
+#DATASET    33196017 
+#DATE       20240525
+#REACTION   42-MO-92(N,A)40-ZR-89-M,,SIG
+#PROJ       1
+#TARG       42092
+#MF         3
+#MT         107
+#PRODUCT    40-ZR-89-M
+#C4BEGIN    [    1 42092   3 107M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42092   3 107M   1.4770+7 170000.0 4.8500-3 5.3554-4                                       T.S.Ganesapandy+     (23)33196 17 
+#/DATA      1
+#/DATASET

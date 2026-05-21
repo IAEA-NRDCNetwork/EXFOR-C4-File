@@ -1,0 +1,30 @@
+#ENTRY      22391
+#AUTHOR1    H.Sakane+
+#YEAR       1997
+#INSTITUTE  (2JPNNAG)
+#TITLE      Measurement of cross sections producing short-lived
+#+          nuclei by 14 MeV neutron
+#AUTHOR(S)  H.Sakane, T.Iida, A.Takahashi, H.Yamamoto, K.Kawade
+#REF-CODE   (C,97TRIEST,1,619,199705)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 619
+#DATASETS   0
+#
+#DATASET    22391009 
+#DATE       19980720
+#REACTION   66-DY-164(N,P)65-TB-164,,SIG
+#PROJ       1
+#TARG       66164
+#MF         3
+#MT         103
+#PRODUCT    65-TB-164
+#C4BEGIN    [    1 66164   3 103 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 66164   3 103 C  1.3400+7 50000.00 1.4000-3 4.6000-4                                       H.Sakane+            (97)22391  9 
+    1 66164   3 103 C  1.3880+7 50000.00 1.5500-3 5.6000-4                                       H.Sakane+            (97)22391  9 
+    1 66164   3 103 C  1.4280+7 50000.00 2.0200-3 5.9000-4                                       H.Sakane+            (97)22391  9 
+    1 66164   3 103 C  1.4580+7 50000.00 2.6300-3 8.2000-4                                       H.Sakane+            (97)22391  9 
+    1 66164   3 103 C  1.4870+7 50000.00 2.8100-3 7.0000-4                                       H.Sakane+            (97)22391  9 
+#/DATA      5
+#/DATASET

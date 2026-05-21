@@ -1,0 +1,30 @@
+#ENTRY      14372
+#AUTHOR1    P.E.Koehler+
+#YEAR       2013
+#INSTITUTE  (2NOROSL)
+#TITLE      Improved 192,194,195,196Pt(n,gamma) and
+#+          192Ir(n,gamma) astrophysical reaction rates
+#AUTHOR(S)  P.E.Koehler, K.H.Guber
+#REF-CODE   (J,PR/C,88,035802,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 035802 (doi:10.1103/PhysRevC.88.035802)
+#DATASETS   0
+#
+#DATASET    14372009 
+#DATE       20131011
+#REACTION   78-PT-196(N,G)78-PT-197,,SIG,,AV
+#PROJ       1
+#TARG       78196
+#MF         3
+#MT         102
+#PRODUCT    78-PT-197
+#C4BEGIN    [    1 78196   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 78196   3 102    4000.000 1000.000 0.502200 4.1000-3                                       P.E.Koehler+         (13)14372  9 
+    1 78196   3 102    6250.000 1250.000 0.296600 3.0000-3                                       P.E.Koehler+         (13)14372  9 
+    1 78196   3 102    8750.000 1250.000 0.275100 3.3000-3                                       P.E.Koehler+         (13)14372  9 
+    1 78196   3 102    11250.00 1250.000 0.189800 2.6000-3                                       P.E.Koehler+         (13)14372  9 
+    1 78196   3 102    13750.00 1250.000 0.187600 3.0000-3                                       P.E.Koehler+         (13)14372  9 
+#/DATA      5
+#/DATASET

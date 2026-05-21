@@ -1,0 +1,28 @@
+#ENTRY      10445
+#AUTHOR1    L.R.Veeser+
+#YEAR       1977
+#INSTITUTE  (1USALAS)
+#TITLE      Cross sections for (n,2n) and (n,3n) reaction above
+#+          14 MeV
+#AUTHOR(S)  L.R.Veeser, E.D.Arthur, P.G.Young
+#REF-CODE   (J,PR/C,16,1792,197711)
+#REFERENCE  Phys.Rev.C 16 (1977) 1792 (doi:10.1103/PhysRevC.16.1792)
+#DATASETS   0
+#
+#DATASET    10445013 
+#DATE       20030530
+#REACTION   39-Y-89(N,3N)39-Y-87,,SIG
+#PROJ       1
+#TARG       39089
+#MF         3
+#MT         17
+#PRODUCT    39-Y-87
+#C4BEGIN    [    1 39089   3  17 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 39089   3  17 A  2.2000+7 100000.0 0.028000 9.0000-3                                       L.R.Veeser+          (77)10445 13 
+    1 39089   3  17 A  2.3000+7 70000.00 0.060000 0.022000                                       L.R.Veeser+          (77)10445 13 
+    1 39089   3  17 A  2.4000+7 60000.00 0.080000 0.033000                                       L.R.Veeser+          (77)10445 13 
+#/DATA      3
+#/DATASET

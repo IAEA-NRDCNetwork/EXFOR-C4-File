@@ -1,0 +1,35 @@
+#ENTRY      10335
+#AUTHOR1    P.Stoler+
+#YEAR       1973
+#INSTITUTE  (1USARPI)
+#TITLE      Total Cross Sections of Neutrons on Deuterium in the
+#+          keV Region
+#AUTHOR(S)  P.Stoler, N.N.Kaushal, F.Green
+#REF-CODE   (J,PR/C,8,1539,197310)
+#REFERENCE  Phys.Rev.C 8 (1973) 1539 (doi:10.1103/PhysRevC.8.1539)
+#DATASETS   0
+#
+#DATASET    10335002 
+#DATE       20020926
+#REACTION   1-H-2(N,TOT),,SIG
+#PROJ       1
+#TARG       1002
+#MF         3
+#MT         1
+#C4BEGIN    [    1  1002   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   3   1    24700.00          3.368000 0.014000                                       P.Stoler+            (73)10335  2 
+    1  1002   3   1    82100.00          3.217000 0.033000                                       P.Stoler+            (73)10335  2 
+    1  1002   3   1    137000.0          3.189000 0.027000                                       P.Stoler+            (73)10335  2 
+    1  1002   3   1    168000.0          3.109000 0.033000                                       P.Stoler+            (73)10335  2 
+    1  1002   3   1    184000.0          3.150000 0.028000                                       P.Stoler+            (73)10335  2 
+    1  1002   3   1    220000.0          3.052000 0.052000                                       P.Stoler+            (73)10335  2 
+    1  1002   3   1    273000.0          3.032000 0.028000                                       P.Stoler+            (73)10335  2 
+    1  1002   3   1    308000.0          3.024000 0.021000                                       P.Stoler+            (73)10335  2 
+    1  1002   3   1    354000.0          3.031000 0.028000                                       P.Stoler+            (73)10335  2 
+    1  1002   3   1    642000.0          2.971000 0.030000                                       P.Stoler+            (73)10335  2 
+    1  1002   3   1    938000.0          2.897000 0.062000                                       P.Stoler+            (73)10335  2 
+#/DATA      11
+#/DATASET

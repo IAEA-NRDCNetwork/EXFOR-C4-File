@@ -1,0 +1,29 @@
+#ENTRY      33025
+#AUTHOR1    B.Lalremruata+
+#YEAR       2009
+#INSTITUTE  (3INDPOO)
+#TITLE      Double differential cross-sections of (n,alpha)
+#+          reaction in aluminium and nickel at 14.77 MeV neutrons
+#AUTHOR(S)  B.Lalremruata, S.D.Dhole, S.Ganesan, V.N.Bhoraskar
+#REF-CODE   (J,NP/A,821,23,2009)
+#REFERENCE  Nucl.Phys.A 821 (2009) 23 (doi:10.1016/j.nuclphysa.2009.02.005)
+#DATASETS   0
+#
+#DATASET    33025008 
+#DATE       20111202
+#REACTION   13-AL-27(N,A)11-NA-24,PAR,DA
+#PROJ       1
+#TARG       13027
+#MF         4
+#MT         800
+#PRODUCT    11-NA-24
+#C4BEGIN    [    1 13027   4 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   4 800 A  1.4770+7          6.6500-3          0.866025          8000000. 4000000. E2B.Lalremruata+       (09)33025  8 
+    1 13027   4 800 A  1.4770+7          6.1400-3          0.642788          8000000. 4000000. E2B.Lalremruata+       (09)33025  8 
+    1 13027   4 800 A  1.4770+7          5.5100-3          6.123-17          8000000. 4000000. E2B.Lalremruata+       (09)33025  8 
+    1 13027   4 800 A  1.4770+7          5.5700-3         -0.342020          8000000. 4000000. E2B.Lalremruata+       (09)33025  8 
+#/DATA      4
+#/DATASET

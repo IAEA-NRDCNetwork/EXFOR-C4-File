@@ -1,0 +1,30 @@
+#ENTRY      A0848
+#AUTHOR1    S.I.Sidorchuk+
+#YEAR       2003
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Resonance states of hydrogen nuclei H-4 and H-5
+#+          obtained in transfer reactions with exotic beams.
+#AUTHOR(S)  S.I.Sidorchuk, D.D.Bogdanov, A.S.Fomichev, M.S.Golovkov, 
+#+          Yu.Ts.Oganessian, A.M.Rodin, R.S.Slepnev, S.V.Stepantsov, 
+#+          G.M.Ter-Akopian, R.Wolski, V.A.Gorshkov, M.L.Chelnokov, 
+#+          M.G.Itkis, E.M.Kozulin, A.A.Bogatchev, N.A.Kondratiev, I.V.Korzyukov, 
+#+          A.A.Korsheninnikov, E.Yu.Nikolski, I.Tanihata
+#REF-CODE   (J,NP/A,719,229,2003)
+#REFERENCE  Nucl.Phys.A 719 (2003) 229 (doi:10.1016/S0375-9474(03)00924-2)
+#DATASETS   0
+#
+#DATASET    A0848005 
+#DATE       20100405
+#REACTION   1-H-2(T,P)1-H-4,,DA
+#PROJ       1003
+#TARG       1002
+#MF         4
+#MT         103
+#PRODUCT    1-H-4
+#C4BEGIN    [ 1003  1002   4 103 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  1002   4 103 DC 5.8000+7 400000.0 8.0000-4 4.0000-4 0.743145 0.116785                     S.I.Sidorchuk+       (03)A0848  5 
+#/DATA      1
+#/DATASET

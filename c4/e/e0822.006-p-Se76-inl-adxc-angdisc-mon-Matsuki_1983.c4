@@ -1,0 +1,51 @@
+#ENTRY      E0822
+#AUTHOR1    S.Matsuki+
+#YEAR       1983
+#INSTITUTE  (2JPNKTO)
+#TITLE      Inelastic scattering of polarized protons and a
+#+          possible hexadecapole-shape transition between the
+#+          light 74,76,78Se and the heavy 80,82Se isotopes
+#AUTHOR(S)  S.Matsuki, T.Higo, T.Ohsawa, T.Shiba, T.Yanabu, K.Ogino, 
+#+          Y.Kadota, K.Haga, N.Sakamoto, K.Kume, M.Matoba
+#REF-CODE   (J,PRL,51,(19),1741,198311)
+#REFERENCE  Phys.Rev.Lett. 51 No.19 (1983) 1741 (doi:10.1103/PhysRevLett.51.1741)
+#DATASETS   0
+#
+#DATASET    E0822006 
+#DATE       20080612
+#REACTION   34-SE-76(P,INL)34-SE-76,PAR,DA
+#PROJ       1001
+#TARG       34076
+#MF         4
+#MT         601
+#PRODUCT    34-SE-76
+#C4BEGIN    [ 1001 34076   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 34076   4 601  C 6.5000+7          3.3200-4          0.989594          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          2.6240-4          0.977416          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          2.2440-4          0.962739          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          2.3930-4          0.958572          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          2.0790-4          0.939454          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          1.9840-4          0.935506          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          2.2930-4          0.910972          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          2.2590-4          0.901380          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          1.9010-4          0.876978          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          1.7870-4          0.861983          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          1.2420-4          0.841794          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          1.4820-4          0.814419          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          1.4830-4          0.798741          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          1.9470-4          0.756425          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          1.7430-4          0.753793          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          1.8040-4          0.709940          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          1.6410-4          0.696414          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          1.1980-4          0.656981          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          9.1590-5          0.627555          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          6.7850-5          0.600141          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          6.4860-5          0.547417          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          7.9930-5          0.482977          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          6.0280-5          0.407852          1330000.         LVLS.Matsuki+           (83)E0822  6 
+ 1001 34076   4 601  C 6.5000+7          3.0100-5          0.329196          1330000.         LVLS.Matsuki+           (83)E0822  6 
+#/DATA      24
+#/DATASET

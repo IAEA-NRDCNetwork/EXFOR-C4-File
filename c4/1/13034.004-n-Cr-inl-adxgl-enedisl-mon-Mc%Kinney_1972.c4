@@ -1,0 +1,29 @@
+#ENTRY      13034
+#AUTHOR1    H.O.Mc Kinney+
+#YEAR       1972
+#INSTITUTE  (1USAWVU)
+#TITLE      INELASTIC SCATTERING OF 14.4 MEV NEUTRONS FROM SEVERAL
+#+          ELEMENTS
+#AUTHOR(S)  H.O.Mc Kinney
+#REF-CODE   (T,MC KINNEY,72)
+#REFERENCE  Thesis  (1972)
+#DATASETS   0
+#
+#DATASET    13034004 
+#DATE       19860624
+#REACTION   24-CR-0(N,INL)24-CR-52,PAR,DA,G
+#PROJ       1
+#TARG       24000
+#MF         14
+#MT         51
+#PRODUCT    24-CR-52
+#C4BEGIN    [    1 24000  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24000  14  51    1.4400+7          0.012000 3.1000-3 6.123-17          940000.0            H.O.Mc Kinney        (72)13034  4 
+    1 24000  14  51    1.4400+7          3.6000-3 1.5000-3 6.123-17          1330000.            H.O.Mc Kinney        (72)13034  4 
+    1 24000  14  51    1.4400+7          0.035200 5.2000-3 6.123-17          1440000.            H.O.Mc Kinney        (72)13034  4 
+    1 24000  14  51    1.4400+7          3.8000-3 1.2000-3 6.123-17          1530000.            H.O.Mc Kinney        (72)13034  4 
+#/DATA      4
+#/DATASET

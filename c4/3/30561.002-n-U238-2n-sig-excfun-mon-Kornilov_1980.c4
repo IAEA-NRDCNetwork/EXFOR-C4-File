@@ -1,0 +1,43 @@
+#ENTRY      30561
+#AUTHOR1    N.V.Kornilov+
+#YEAR       1980
+#INSTITUTE  (4RUSFEI)
+#TITLE      Measurement of cross sections for the U-238(n,2n)
+#+          reaction from 6.5 to 14.8 MeV
+#AUTHOR(S)  N.V.Kornilov, B.V.Zhuravlev, O.A.Sal'nikov, P.Raics, S.Nagy, 
+#+          S.Daroczy, K.Sailer, J.Csikai
+#REF-CODE   (S,ZFK-410,68,1980)
+#REFERENCE  Report (proceedings) ZFK-410 page 68, 1980
+#DATASETS   0
+#
+#DATASET    30561002 
+#DATE       20090505
+#REACTION   92-U-238(N,2N)92-U-237,,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         16
+#PRODUCT    92-U-237
+#C4BEGIN    [    1 92238   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3  16 A  6540000.          0.072000 5.0000-3                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  6780000.          0.251000 0.013000                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  7000000.          0.402000 0.018000                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  7500000.          0.830000 0.030000                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  7500000.          0.832000 0.032000                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  7990000.          1.077000 0.031000                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  8500000.          1.244000 0.041000                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  8990000.          1.345000 0.035000                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  8990000.          1.343000 0.042000                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  9490000.          1.371000 0.036000                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  1.0000+7          1.413000 0.037000                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  1.0490+7          1.466000 0.063000                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  1.3540+7          1.066000 0.048000                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  1.3760+7          0.997000 0.045000                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  1.4100+7          0.873000 0.040000                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  1.4420+7          0.780000 0.035000                                       N.V.Kornilov+        (80)30561  2 
+    1 92238   3  16 A  1.4760+7          0.678000 0.030000                                       N.V.Kornilov+        (80)30561  2 
+#/DATA      17
+#/DATASET

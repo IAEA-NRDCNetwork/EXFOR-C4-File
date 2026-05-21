@@ -1,0 +1,31 @@
+#ENTRY      E1536
+#AUTHOR1    T.Fujisawa+
+#YEAR       1973
+#INSTITUTE  (2JPNIPC)
+#TITLE      The elastic and inelastic scatterings of 3He from 12C
+#+          at 24.0, 29.2, 34.7 and 39.6 MeV
+#AUTHOR(S)  T.Fujisawa, S.Yamaji, K.Matsuda, S.Motonaga, F.Yoshida, 
+#+          H.Sakaguchi, K.Masui
+#REF-CODE   (J,JPJ,34,(1),5,197301)
+#REFERENCE  J.Phys.Soc.Jpn. 34 No.1 (1973) 5 (doi:10.1143/JPSJ.34.5)
+#DATASETS   0
+#
+#DATASET    E1536012 
+#DATE       20051219
+#REACTION   6-C-12(HE3,INL)6-C-12,PAR,DA
+#PROJ       2003
+#TARG       6012
+#MF         4
+#MT         751
+#PRODUCT    6-C-12
+#C4BEGIN    [ 2003  6012   4 751  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  6012   4 751  C 3.4700+7 69400.00 2.5460-4          0.676362 2.5711-3 1.4100+7         LVLT.Fujisawa+          (73)E1536 12 
+ 2003  6012   4 751  C 3.4700+7 69400.00 1.9770-4          0.645324 2.6665-3 1.4100+7         LVLT.Fujisawa+          (73)E1536 12 
+ 2003  6012   4 751  C 3.4700+7 69400.00 2.3360-4          0.608069 2.7712-3 1.4100+7         LVLT.Fujisawa+          (73)E1536 12 
+ 2003  6012   4 751  C 3.4700+7 69400.00 2.3730-4          0.574148 2.8580-3 1.4100+7         LVLT.Fujisawa+          (73)E1536 12 
+ 2003  6012   4 751  C 3.4700+7 69400.00 1.1130-4          0.536563 2.9456-3 1.4100+7         LVLT.Fujisawa+          (73)E1536 12 
+#/DATA      5
+#/DATASET

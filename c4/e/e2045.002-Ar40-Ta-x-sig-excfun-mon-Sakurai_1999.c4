@@ -1,0 +1,29 @@
+#ENTRY      E2045
+#AUTHOR1    H.Sakurai+
+#YEAR       1999
+#INSTITUTE  (2JPNIPC)
+#TITLE      Evidence for particle stability of 31F and particle
+#+          instability of 25N and 28O
+#AUTHOR(S)  H.Sakurai, S.M.Lukyanov, M.Notani, N.Aoi, D.Beaumel, N.Fukuda, 
+#+          M.Hirai, E.Ideguchi, N.Imai, M.Ishihara, H.Iwasaki, T.Kubo, 
+#+          K.Kusaka, H.Kumagai, T.Nakamura, H.Ogawa, Yu.E.Penionzhkevich, 
+#+          T.Teranishi, Y.X.Watanabe, K.Yoneda, A.Yoshida
+#REF-CODE   (J,PL/B,448,(3-4),180,199902)
+#REFERENCE  Phys.Lett.B 448 No.3-4 (1999) 180 (doi:10.1016/S0370-2693(99)00015-5)
+#DATASETS   0
+#
+#DATASET    E2045002 
+#DATE       20080131
+#REACTION   73-TA-0(18-AR-40,X)9-F-31,,SIG
+#PROJ       18040
+#TARG       73000
+#MF         3
+#MT         454
+#PRODUCT    9-F-31
+#C4BEGIN    [18040 73000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 73000   3 454    3.7640+9          1.500-13 6.000-14            9031.9                     H.Sakurai+           (99)E2045  2 
+#/DATA      1
+#/DATASET

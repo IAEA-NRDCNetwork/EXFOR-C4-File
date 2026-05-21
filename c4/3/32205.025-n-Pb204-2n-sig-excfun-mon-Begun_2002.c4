@@ -1,0 +1,33 @@
+#ENTRY      32205
+#AUTHOR1    S.V.Begun+
+#YEAR       2002
+#INSTITUTE  (4UKRKGU)
+#TITLE      Determination of the cross sections of (n,x) nuclear
+#+          reactions on Y, La, Ta, Pb and Bi at the energy of
+#+          neutrons about 14 MeV
+#AUTHOR(S)  S.V.Begun, I.M.Kadenko, V.K.Maidanyuk, V.M.Neplyuev, V.A.Plujko, 
+#+          G.I.Primenko, V.K.Tarakanov
+#REF-CODE   (J,NSTS,2,425,2002)
+#REFERENCE  Nucl.Sci.Techn.Supp. 2 (2002) 425
+#DATASETS   0
+#
+#DATASET    32205025 
+#DATE       20140921
+#REACTION   82-PB-204(N,2N)82-PB-203,,SIG
+#PROJ       1
+#TARG       82204
+#MF         3
+#MT         16
+#PRODUCT    82-PB-203
+#C4BEGIN    [    1 82204   3  16 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82204   3  16 C  1.3560+7 30000.00 1.990000 0.140000                                       S.V.Begun+           (02)32205 25 
+    1 82204   3  16 C  1.3690+7 30000.00 1.970000 0.110000                                       S.V.Begun+           (02)32205 25 
+    1 82204   3  16 C  1.3950+7 40000.00 2.190000 0.150000                                       S.V.Begun+           (02)32205 25 
+    1 82204   3  16 C  1.4210+7 50000.00 2.160000 0.120000                                       S.V.Begun+           (02)32205 25 
+    1 82204   3  16 C  1.4470+7 40000.00 2.230000 0.120000                                       S.V.Begun+           (02)32205 25 
+    1 82204   3  16 C  1.4530+7 40000.00 2.190000 0.100000                                       S.V.Begun+           (02)32205 25 
+#/DATA      6
+#/DATASET

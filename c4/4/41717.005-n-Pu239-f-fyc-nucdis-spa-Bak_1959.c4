@@ -1,0 +1,27 @@
+#ENTRY      41717
+#AUTHOR1    M.A.Bak+
+#YEAR       1959
+#INSTITUTE  (4RUSRI)
+#TITLE      Yields of Ru103 and Ru106 on fission of U235 and Pu239
+#+          by fast neutrons
+#AUTHOR(S)  M.A.Bak, S.S.Bugorkov, T.A.Il'inskaya, Yu.G.Petrov, K.A.Petrzhak, 
+#+          V.M.Solntsev, A.V.Sorokina, V.N.Ushatskii
+#REF-CODE   (J,AE,6,577,1959)
+#REFERENCE  At.En. 6 (1959) 577
+#DATASETS   0
+#
+#DATASET    41717005 
+#DATE       20201202
+#REACTION   94-PU-239(N,F)ELEM/MASS,CUM,FY,,SPA
+#PROJ       1
+#TARG       94239
+#MF         8
+#MT         459
+#C4BEGIN    [    1 94239   8 459 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   8 459 D  1000000.          0.057000 0.010000 44.00000 103.0000 9.000000            M.A.Bak+             (59)41717  5 
+    1 94239   8 459 D  1000000.          0.046000 8.0000-3 44.00000 106.0000 9.000000            M.A.Bak+             (59)41717  5 
+#/DATA      2
+#/DATASET

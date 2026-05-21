@@ -1,0 +1,28 @@
+#ENTRY      11217
+#AUTHOR1    H.L.Taylor+
+#YEAR       1955
+#INSTITUTE  (1USARIC)
+#TITLE      Nonelastic Scattering Cross Sections for Fast Neutrons
+#AUTHOR(S)  H.L.Taylor, O.Lonsjo, T.W.Bonner
+#REF-CODE   (J,PR,100,174,1955)
+#REFERENCE  Phys.Rev. 100 (1955) 174 (doi:10.1103/PhysRev.100.174)
+#DATASETS   0
+#
+#DATASET    11217009 
+#DATE       20170919
+#REACTION   29-CU-0(N,NON),,SIG
+#PROJ       1
+#TARG       29000
+#MF         3
+#MT         3
+#C4BEGIN    [    1 29000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   3   3    3500000.          1.450000 0.040000                                       H.L.Taylor+          (55)11217  9 
+    1 29000   3   3    4700000.          1.690000 0.040000                                       H.L.Taylor+          (55)11217  9 
+    1 29000   3   3    7100000.          1.370000 0.050000                                       H.L.Taylor+          (55)11217  9 
+    1 29000   3   3    1.2700+7          1.490000 0.050000                                       H.L.Taylor+          (55)11217  9 
+    1 29000   3   3    1.4100+7          1.440000 0.040000                                       H.L.Taylor+          (55)11217  9 
+#/DATA      5
+#/DATASET

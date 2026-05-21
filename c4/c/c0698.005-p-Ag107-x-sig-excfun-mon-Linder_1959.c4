@@ -1,0 +1,32 @@
+#ENTRY      C0698
+#AUTHOR1    B.Linder+
+#YEAR       1959
+#INSTITUTE  (1USACLA)
+#TITLE      Cross Sections for Nuclear Reactions Involving Nuclear
+#+          Isomers
+#AUTHOR(S)  B.Linder, R.A.James
+#REF-CODE   (J,PR,114,322,195904)
+#REFERENCE  Phys.Rev. 114 (1959) 322 (doi:10.1103/PhysRev.114.322)
+#DATASETS   0
+#
+#DATASET    C0698005 
+#DATE       20160809
+#REACTION   47-AG-107(P,X)47-AG-106-G,,SIG
+#PROJ       1001
+#TARG       47107
+#MF         3
+#MT         454
+#PRODUCT    47-AG-106-G
+#C4BEGIN    [ 1001 47107   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 47107   3 454    1.4400+7          3.3000-3 9.9000-4           47106.0                     B.Linder+            (59)C0698  5 
+ 1001 47107   3 454    1.5900+7          0.012900 3.8700-3           47106.0                     B.Linder+            (59)C0698  5 
+ 1001 47107   3 454    1.6700+7          0.019800 5.9400-3           47106.0                     B.Linder+            (59)C0698  5 
+ 1001 47107   3 454    1.7500+7          0.032100 9.6300-3           47106.0                     B.Linder+            (59)C0698  5 
+ 1001 47107   3 454    1.8500+7          0.040200 0.012060           47106.0                     B.Linder+            (59)C0698  5 
+ 1001 47107   3 454    1.9200+7          0.048200 0.014460           47106.0                     B.Linder+            (59)C0698  5 
+ 1001 47107   3 454    1.9800+7          0.061000 0.018300           47106.0                     B.Linder+            (59)C0698  5 
+#/DATA      7
+#/DATASET

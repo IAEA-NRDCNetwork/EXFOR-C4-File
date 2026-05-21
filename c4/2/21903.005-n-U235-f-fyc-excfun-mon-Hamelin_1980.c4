@@ -1,0 +1,28 @@
+#ENTRY      21903
+#AUTHOR1    Ch.Hamelin+
+#YEAR       1980
+#INSTITUTE  (2FR GRE)
+#TITLE      -Experimental determination of I-136 isomeric
+#+          ratio obtained in thermal fission and by
+#+          neutrons with an energy of 3 MeV on U-235
+#AUTHOR(S)  Ch.Hamelin, J.Crancon, J.Blachot, G.Lhospice, J.P.Bocquet, 
+#+          A.Moussa
+#REF-CODE   (J,JPR/L,41,(9),223,198005)
+#REFERENCE  J.Phys.Lett. 41 No.9 (1980) 223 (doi:10.1051/jphyslet:01980004109022300)
+#DATASETS   0
+#
+#DATASET    21903005 
+#DATE       20110304
+#REACTION   92-U-235(N,F)53-I-136-G,CUM,FY
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#PRODUCT    53-I-136-G
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    3000000.          0.022000 1.7000-3 53.00000 136.0000 0.000000            Ch.Hamelin+          (80)21903  5 
+#/DATA      1
+#/DATASET

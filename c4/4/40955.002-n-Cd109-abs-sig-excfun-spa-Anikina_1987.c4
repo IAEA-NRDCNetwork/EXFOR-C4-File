@@ -1,0 +1,27 @@
+#ENTRY      40955
+#AUTHOR1    M.P.Anikina+
+#YEAR       1987
+#INSTITUTE  (4RUSITE)
+#TITLE      Measurement of the resonance integral and evaluation
+#+          of the absorption cross-section for thermal neutrons
+#+          for the radioactive Cd-109
+#AUTHOR(S)  M.P.Anikina, A.G.Beda, A.V.Davydov, M.M.Korotkov, G.M.Kukavadze, 
+#+          L.Ya.Memelova
+#REF-CODE   (J,AE,62,415,1987)
+#REFERENCE  At.En. 62 (1987) 415
+#DATASETS   0
+#
+#DATASET    40955002 
+#DATE       20180202
+#REACTION   48-CD-109(N,ABS),,SIG,,SPA
+#PROJ       1
+#TARG       48109
+#MF         3
+#MT         27
+#C4BEGIN    [    1 48109   3  27  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 48109   3  27    0.025300          184.0000 180.0000                                       M.P.Anikina+         (87)40955  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      22157
+#AUTHOR1    M.Baba+
+#YEAR       1988
+#INSTITUTE  (2JPNTOH)
+#TITLE      Double differential neutron emission cross sections
+#+          of Be-9, O-16, Al-27, V-51, Mn-55
+#AUTHOR(S)  M.Baba, M.Ishikawa, T.Kikuchi, H.Wakabayashi, N.Yabuta, 
+#+          N.Hirakawa
+#REF-CODE   (C,88MITO,209,198805)
+#REFERENCE  Proceedings of Conf.on Nucl.Data For Sci.and Technol.,Mito 1988
+#DATASETS   0
+#
+#DATASET    22157013 
+#DATE       20131226
+#REACTION   4-BE-9(N,EL)4-BE-9,,DA
+#PROJ       1
+#TARG       4009
+#MF         4
+#MT         2
+#PRODUCT    4-BE-9
+#C4BEGIN    [    1  4009   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  4009   4   2  C 1.4100+7 150000.0 0.380900 0.046279 0.885491                              M.Baba+              (88)22157 13 
+    1  4009   4   2  C 1.4100+7 150000.0 0.293850 0.036887 0.836955                              M.Baba+              (88)22157 13 
+    1  4009   4   2  C 1.4100+7 150000.0 0.188110 0.022803 0.750423                              M.Baba+              (88)22157 13 
+    1  4009   4   2  C 1.4100+7 150000.0 0.097208 0.011450 0.649448                              M.Baba+              (88)22157 13 
+    1  4009   4   2  C 1.4100+7 150000.0 0.043614 5.6910-3 0.536563                              M.Baba+              (88)22157 13 
+    1  4009   4   2  C 1.4100+7 150000.0 0.020865 3.4770-3 0.476944                              M.Baba+              (88)22157 13 
+    1  4009   4   2  C 1.4100+7 150000.0 0.013783 2.8800-3 0.064985                              M.Baba+              (88)22157 13 
+    1  4009   4   2  C 1.4100+7 150000.0 0.017816 3.0790-3-0.280231                              M.Baba+              (88)22157 13 
+    1  4009   4   2  C 1.4100+7 150000.0 0.013159 2.1910-3-0.580902                              M.Baba+              (88)22157 13 
+    1  4009   4   2  C 1.4100+7 150000.0 8.3130-3 1.4620-3-0.760406                              M.Baba+              (88)22157 13 
+    1  4009   4   2  C 1.4100+7 150000.0 6.8140-3 1.2030-3-0.892428                              M.Baba+              (88)22157 13 
+#/DATA      11
+#/DATASET

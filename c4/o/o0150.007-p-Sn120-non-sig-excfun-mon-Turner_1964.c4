@@ -1,0 +1,25 @@
+#ENTRY      O0150
+#AUTHOR1    J.F.Turner+
+#YEAR       1964
+#INSTITUTE  (2UK HAR)
+#TITLE      OPTICAL MODEL STUDIES OF PROTON SCATTERING AT 30 MEV.
+#+          PROTON TOTAL REACTION CROSS SECTIONS AT 28.5(1.5) MEV.
+#AUTHOR(S)  J.F.Turner, B.W.Ridley, P.E.Cavanagh, G.A.Gard, A.G.Hardacre
+#REF-CODE   (J,NP,58,509,64)
+#REFERENCE  Nucl.Phys. 58 (1964) 509 (doi:10.1016/0029-5582(64)90562-0)
+#DATASETS   0
+#
+#DATASET    O0150007 
+#DATE       19950627
+#REACTION   50-SN-120(P,NON),,SIG,,,EXP
+#PROJ       1001
+#TARG       50120
+#MF         3
+#MT         3
+#C4BEGIN    [ 1001 50120   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50120   3   3    2.8500+7 1500000. 1.638000 0.068000                                       J.F.Turner+          (64)O0150  7 
+#/DATA      1
+#/DATASET

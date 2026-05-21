@@ -1,0 +1,27 @@
+#ENTRY      D8069
+#AUTHOR1    J.Galin+
+#YEAR       1974
+#INSTITUTE  (2FR PAR)
+#TITLE      Study of charged particles emitted from 117Te compound
+#+          nuclei. I. Argon-induced reactions
+#AUTHOR(S)  J.Galin, B.Gatty, D.Guerreau, C.Rousset, U.C.Schlotthauer-Voos, 
+#+          X.Tarrago
+#REF-CODE   (J,PR/C,9,1113,1974)
+#REFERENCE  Phys.Rev.C 9 (1974) 1113 (doi:10.1103/PhysRevC.9.1113)
+#DATASETS   0
+#
+#DATASET    D8069018 
+#DATE       20240919
+#REACTION   34-SE-0(18-AR-40,X)1-H-3,,SIG
+#PROJ       18040
+#TARG       34000
+#MF         3
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [18040 34000   3 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 34000   3 205    1.9892+8          0.015000 5.0000-3                                       J.Galin+             (74)D8069 18 
+#/DATA      1
+#/DATASET

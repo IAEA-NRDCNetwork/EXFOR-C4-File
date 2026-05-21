@@ -1,0 +1,40 @@
+#ENTRY      F0059
+#AUTHOR1    M.Luomajarvi+
+#YEAR       1985
+#INSTITUTE  (2SF HLS)
+#TITLE      Oxygen detection by non-rutherford proton
+#+          backscattering below 2.5 MeV.
+#AUTHOR(S)  M.Luomajarvi, E.Rauhala, M.Hautala
+#REF-CODE   (J,NIM/B,9,255,1985)
+#REFERENCE  Nucl.Instrum.Meth.B 9 (1985) 255 (doi:10.1016/0168-583X(85)90747-5)
+#DATASETS   0
+#
+#DATASET    F0059002 
+#DATE       20041123
+#REACTION   8-O-16(P,EL)8-O-16,,DA,,RTH
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4   2  C 776650.0          0.180436         -0.984808                              M.Luomajarvi+        (85)F0059  2 
+ 1001  8016   4   2  C 979750.0          0.147990 0.013056-0.984808                              M.Luomajarvi+        (85)F0059  2 
+ 1001  8016   4   2  C 1179800.          0.123463         -0.984808                              M.Luomajarvi+        (85)F0059  2 
+ 1001  8016   4   2  C 1382900.          0.107830         -0.984808                              M.Luomajarvi+        (85)F0059  2 
+ 1001  8016   4   2  C 1490500.          0.105172 5.1286-3-0.984808                              M.Luomajarvi+        (85)F0059  2 
+ 1001  8016   4   2  C 1585900.          0.101087         -0.984808                              M.Luomajarvi+        (85)F0059  2 
+ 1001  8016   4   2  C 1690400.          0.102163         -0.984808                              M.Luomajarvi+        (85)F0059  2 
+ 1001  8016   4   2  C 1788800.          0.097668         -0.984808                              M.Luomajarvi+        (85)F0059  2 
+ 1001  8016   4   2  C 1893400.          0.093238 3.4959-3-0.984808                              M.Luomajarvi+        (85)F0059  2 
+ 1001  8016   4   2  C 1985600.          0.093180         -0.984808                              M.Luomajarvi+        (85)F0059  2 
+ 1001  8016   4   2  C 2090200.          0.091148         -0.984808                              M.Luomajarvi+        (85)F0059  2 
+ 1001  8016   4   2  C 2188500.          0.091251         -0.984808                              M.Luomajarvi+        (85)F0059  2 
+ 1001  8016   4   2  C 2287000.          0.087278         -0.984808                              M.Luomajarvi+        (85)F0059  2 
+ 1001  8016   4   2  C 2385300.          0.086455 2.2027-3-0.984808                              M.Luomajarvi+        (85)F0059  2 
+ 1001  8016   4   2  C 2486700.          0.085827         -0.984808                              M.Luomajarvi+        (85)F0059  2 
+#/DATA      15
+#/DATASET

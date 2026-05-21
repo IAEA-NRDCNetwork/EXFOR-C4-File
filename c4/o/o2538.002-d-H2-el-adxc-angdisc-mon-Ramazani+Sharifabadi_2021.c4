@@ -1,0 +1,39 @@
+#ENTRY      O2538
+#AUTHOR1    R.Ramazani-Sharifabadi+
+#YEAR       2021
+#INSTITUTE  (3IRNTEH)
+#TITLE      Precision measurements of differential cross sections
+#+          and analyzing powers in elastic deuteron-deuteron
+#+          scattering at 65 MeV/nucleon
+#AUTHOR(S)  R.Ramazani-Sharifabadi, A.Ramazani-Moghaddam-Arani, H.R.Amir-Ahmadi, 
+#+          C.D.Bailey, A.Deltuva, M.Eslami-Kalantari, N.Kalantar-Nayestanaki, 
+#+          St.Kistryn, A.Kozela, M.Mahjour-Shafiei, H.Mardanpour, J.G.Messchendorp, 
+#+          M.Mohammadi-Dadkan, E.Stephan, E.J.Stephenson, H.Tavakoli-Zaniani
+#REF-CODE   (J,EPJ/A,57,119,2021)
+#REFERENCE  Eur.Phys.J.A 57 (2021) 119 (doi:10.1140/epja/s10050-021-00420-z)
+#DATASETS   0
+#
+#DATASET    O2538002 
+#DATE       20220224
+#REACTION   1-H-2(D,EL)1-H-2,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1002  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4   2  C 1.3000+8          4.8612-3 2.2084-5 0.781785                              R.Ramazani-Sharifabadi+(21)O2538  2 
+ 1002  1002   4   2  C 1.3000+8          2.7068-3 1.7017-5 0.735535                              R.Ramazani-Sharifabadi+(21)O2538  2 
+ 1002  1002   4   2  C 1.3000+8          1.6918-3 1.4016-5 0.685807                              R.Ramazani-Sharifabadi+(21)O2538  2 
+ 1002  1002   4   2  C 1.3000+8          1.3285-3 1.2582-5 0.632754                              R.Ramazani-Sharifabadi+(21)O2538  2 
+ 1002  1002   4   2  C 1.3000+8          1.1034-3 1.1835-5 0.576600                              R.Ramazani-Sharifabadi+(21)O2538  2 
+ 1002  1002   4   2  C 1.3000+8          8.6147-4 9.5083-6 0.517637                              R.Ramazani-Sharifabadi+(21)O2538  2 
+ 1002  1002   4   2  C 1.3000+8          7.5760-4 1.0529-5 0.456168                              R.Ramazani-Sharifabadi+(21)O2538  2 
+ 1002  1002   4   2  C 1.3000+8          6.7351-4 1.1984-5 0.392508                              R.Ramazani-Sharifabadi+(21)O2538  2 
+ 1002  1002   4   2  C 1.3000+8          7.0155-4 1.6776-5 0.326979                              R.Ramazani-Sharifabadi+(21)O2538  2 
+ 1002  1002   4   2  C 1.3000+8          6.4908-4 2.7331-5 0.259914                              R.Ramazani-Sharifabadi+(21)O2538  2 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      30620
+#AUTHOR1    Bai Xixiang+
+#YEAR       1980
+#INSTITUTE  (3CPRAEP)
+#TITLE      The angular distribution for elastic scattering of
+#+          14.7 MeV neutrons by deuterons and the neutron spectra
+#+          from the break-up of the deuterons.
+#AUTHOR(S)  Bai Xixiang, Wen Shenlin, Sun Daze, Li Anli, Chen Guanren, 
+#+          Huang Tangzi, Sun Fengxian
+#REF-CODE   (J,CNP,2,(4),327,198011)
+#REFERENCE  Chin.J.Nucl.Phys. 2 No.4 (1980) 327
+#DATASETS   0
+#
+#DATASET    30620002 
+#DATE       20090806
+#REACTION   1-H-2(N,EL)1-H-2,,DA
+#PROJ       1
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   4   2    1.4700+7          0.311900 0.012200 0.965926                              Bai Xixiang+         (80)30620  2 
+    1  1002   4   2    1.4700+7          0.181800 8.3000-3 0.866025                              Bai Xixiang+         (80)30620  2 
+    1  1002   4   2    1.4700+7          0.102800 6.8000-3 0.707107                              Bai Xixiang+         (80)30620  2 
+    1  1002   4   2    1.4700+7          0.049900 3.7000-3 0.500000                              Bai Xixiang+         (80)30620  2 
+    1  1002   4   2    1.4700+7          0.019500 1.5000-3 0.258819                              Bai Xixiang+         (80)30620  2 
+    1  1002   4   2    1.4700+7          9.0000-3 8.0000-4 6.123-17                              Bai Xixiang+         (80)30620  2 
+    1  1002   4   2    1.4700+7          7.5000-3 8.0000-4-0.258819                              Bai Xixiang+         (80)30620  2 
+    1  1002   4   2    1.4700+7          0.016300 1.2000-3-0.500000                              Bai Xixiang+         (80)30620  2 
+    1  1002   4   2    1.4700+7          0.021100 1.7000-3-0.707107                              Bai Xixiang+         (80)30620  2 
+#/DATA      9
+#/DATASET

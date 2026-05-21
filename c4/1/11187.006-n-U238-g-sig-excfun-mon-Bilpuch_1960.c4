@@ -1,0 +1,40 @@
+#ENTRY      11187
+#AUTHOR1    E.G.Bilpuch+
+#YEAR       1960
+#INSTITUTE  (1USADKE)
+#TITLE      NEUTRON CAPTURE CROSS SECTIONS IN THE KEV REGION. PART
+#+          1. METHODS OF MEASUREMENT AND ANALYSIS.
+#AUTHOR(S)  E.G.Bilpuch, L.W.Weston, H.W.Weston
+#REF-CODE   (J,AP,10,455,60)
+#REFERENCE  Ann.Phys.(N.Y.) 10 (1960) 455 (doi:10.1016/0003-4916(60)90117-2)
+#DATASETS   0
+#
+#DATASET    11187006 
+#DATE       19800814
+#REACTION   92-U-238(N,G)92-U-239,,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         102
+#PRODUCT    92-U-239
+#C4BEGIN    [    1 92238   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3 102    2500.000          1.130000                                                E.G.Bilpuch+         (60)11187  6 
+    1 92238   3 102    5500.000          0.720000                                                E.G.Bilpuch+         (60)11187  6 
+    1 92238   3 102    5600.000          0.760000                                                E.G.Bilpuch+         (60)11187  6 
+    1 92238   3 102    8500.000          0.630000                                                E.G.Bilpuch+         (60)11187  6 
+    1 92238   3 102    10200.00          0.610000                                                E.G.Bilpuch+         (60)11187  6 
+    1 92238   3 102    10500.00          0.630000                                                E.G.Bilpuch+         (60)11187  6 
+    1 92238   3 102    20000.00          0.520000                                                E.G.Bilpuch+         (60)11187  6 
+    1 92238   3 102    20500.00          0.500000                                                E.G.Bilpuch+         (60)11187  6 
+    1 92238   3 102    30000.00          0.470000                                                E.G.Bilpuch+         (60)11187  6 
+    1 92238   3 102    50000.00          0.430000                                                E.G.Bilpuch+         (60)11187  6 
+    1 92238   3 102    70000.00          0.330000                                                E.G.Bilpuch+         (60)11187  6 
+    1 92238   3 102    100000.0          0.265000                                                E.G.Bilpuch+         (60)11187  6 
+    1 92238   3 102    130000.0          0.230000                                                E.G.Bilpuch+         (60)11187  6 
+    1 92238   3 102    160000.0          0.205000                                                E.G.Bilpuch+         (60)11187  6 
+    1 92238   3 102    220000.0          0.165000                                                E.G.Bilpuch+         (60)11187  6 
+#/DATA      15
+#/DATASET

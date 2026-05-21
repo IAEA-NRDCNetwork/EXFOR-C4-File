@@ -1,0 +1,38 @@
+#ENTRY      F1462
+#AUTHOR1    Yu.E.Titarenko+
+#YEAR       2022
+#INSTITUTE  (4RUSITE)
+#TITLE      206,207,208,natPb(p,x)194Hg and 209Bi(p,x)194Hg
+#+          excitation functions in the energy range 0.04-2.6 GeV
+#AUTHOR(S)  Yu.E.Titarenko, V.F.Batyaev, K.V.Pavlov, A.Yu.Titarenko, 
+#+          S.V.Malinovskiy, V.I.Rogov, V.M.Zhivun, T.V.Kulevoy, M.V.Chauzova, 
+#+          R.S.Khalikov, A.V.Ignatyuk, V.Yu.Blandinskiy, A.A.Kovalishin, 
+#+          M.I.Baznat, A.Yu.Stankovskiy, A.I.Dubrouski, H.I.Kiyavitskaya, 
+#+          Tao Xue, Yang Tian, Ming Zeng, Zhi Zeng, O.Normahmedov, 
+#+          T.Sato
+#REF-CODE   (J,NIM/A,1026,166151,2022)
+#REFERENCE  Nucl.Instrum.Meth.A 1026 (2022) 166151 (doi:10.1016/j.nima.2021.166151)
+#DATASETS   0
+#
+#DATASET    F1462007 
+#DATE       20220324
+#REACTION   82-PB-207(P,X)80-HG-194,CUM,SIG
+#PROJ       1001
+#TARG       82207
+#MF         3
+#MT         459
+#PRODUCT    80-HG-194
+#C4BEGIN    [ 1001 82207   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82207   3 459 A  1.4900+8 1000000. 0.024000 2.9000-3           80194.9                     Yu.E.Titarenko+      (22)F1462  7 
+ 1001 82207   3 459 A  2.5000+8 1000000. 0.066800 5.0000-3           80194.9                     Yu.E.Titarenko+      (22)F1462  7 
+ 1001 82207   3 459 A  4.0000+8 2000000. 0.076400 6.6000-3           80194.9                     Yu.E.Titarenko+      (22)F1462  7 
+ 1001 82207   3 459 A  6.0000+8 2000000. 0.062600 5.1000-3           80194.9                     Yu.E.Titarenko+      (22)F1462  7 
+ 1001 82207   3 459 A  7.9900+8 2000000. 0.043400 4.2000-3           80194.9                     Yu.E.Titarenko+      (22)F1462  7 
+ 1001 82207   3 459 A  1.1990+9 3000000. 0.037200 3.3000-3           80194.9                     Yu.E.Titarenko+      (22)F1462  7 
+ 1001 82207   3 459 A  1.5990+9 4000000. 0.035400 5.2000-3           80194.9                     Yu.E.Titarenko+      (22)F1462  7 
+ 1001 82207   3 459 A  2.6100+9 8000000. 0.022000 8.4000-3           80194.9                     Yu.E.Titarenko+      (22)F1462  7 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      30252
+#AUTHOR1    S.Niese+
+#YEAR       1963
+#INSTITUTE  (3DDRROS)
+#TITLE      Averaged over fission spectrum cross-sections for Ti-
+#+          46,47,48Ti(n,p)Sc-46,47,48 and Ge-72,74(n,a) Zn-69m,71m
+#AUTHOR(S)  S.Niese, P.Morzek, C.Herold
+#REF-CODE   (J,KE,6,37,1963)
+#REFERENCE  Kernenergie 6 (1963) 37
+#DATASETS   0
+#
+#DATASET    30252005 
+#DATE       20220127
+#REACTION   32-GE-72(N,A)30-ZN-69-M,,SIG,,FIS
+#PROJ       1
+#TARG       32072
+#MF         3
+#MT         107
+#PRODUCT    30-ZN-69-M
+#C4BEGIN    [    1 32072   3 107M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32072   3 107M   1500000.          2.0000-5 5.0000-6                                       S.Niese+             (63)30252  5 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      O0203
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1986
+#INSTITUTE  (1USAORL)
+#TITLE      Giant Resonance Structure in Pb-208 Measured Using
+#+          The (P,P') Reaction at 334 MeV.
+#AUTHOR(S)  F.E.Bertrand, E.E.Gross, D.J.Horen, R.O.Sayer, T.P.Sjoreen, 
+#+          D.K.Mc.upper()aniels, J.Lisantti, J.R.Tinsley, L.W.Swenson, 
+#+          J.B.Mc.upper()lelland, T.A.Carey, K.Jones, S.J.Seestrom-Morris
+#REF-CODE   (J,PR/C,34,45,86)
+#REFERENCE  Phys.Rev.C 34 (1986) 45 (doi:10.1103/PhysRevC.34.45)
+#DATASETS   0
+#
+#DATASET    O0203018 
+#DATE       19970101
+#REACTION   82-PB-208(P,INL)82-PB-208,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         601
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 1001 82208   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 601  C 3.3400+8 70000.00 9.0000-4 2.7000-4 0.991828 1.3361-4 1.2000+7         LVLF.E.Bertrand+        (86)O0203 18 
+ 1001 82208   4 601  C 3.3400+8 70000.00 1.9000-3 7.6000-4 0.989626 1.5045-4 1.2000+7         LVLF.E.Bertrand+        (86)O0203 18 
+ 1001 82208   4 601  C 3.3400+8 70000.00 2.1000-3 8.4000-4 0.986686 1.7031-4 1.2000+7         LVLF.E.Bertrand+        (86)O0203 18 
+ 1001 82208   4 601  C 3.3400+8 70000.00 3.5000-3 8.0500-4 0.983823 1.8760-4 1.2000+7         LVLF.E.Bertrand+        (86)O0203 18 
+ 1001 82208   4 601  C 3.3400+8 70000.00 1.1000-3 2.6400-4 0.976710 2.2469-4 1.2000+7         LVLF.E.Bertrand+        (86)O0203 18 
+ 1001 82208   4 601  C 3.3400+8 70000.00 6.2000-4 1.8600-4 0.972492 2.4393-4 1.2000+7         LVLF.E.Bertrand+        (86)O0203 18 
+#/DATA      6
+#/DATASET

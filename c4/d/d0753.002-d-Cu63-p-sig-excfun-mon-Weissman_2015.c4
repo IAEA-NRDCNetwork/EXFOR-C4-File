@@ -1,0 +1,37 @@
+#ENTRY      D0753
+#AUTHOR1    L.Weissman+
+#YEAR       2015
+#INSTITUTE  (3ISLSOR)
+#TITLE      Accurate measurements of the 63Cu(d,p)64Cu and
+#+          natCu(d,x)65Zn cross- sections in the 2.77-5.62 MeV
+#+          energy range
+#AUTHOR(S)  L.Weissman, A.Kreisel, T.Hirsh, O.Aviv, D.Berkovits, O.Girshevitz, 
+#+          Y.Eisen
+#REF-CODE   (J,NIM/B,342,7,2015)
+#REFERENCE  Nucl.Instrum.Meth.B 342 (2015) 7 (doi:10.1016/j.nimb.2014.09.002)
+#DATASETS   0
+#
+#DATASET    D0753002 
+#DATE       20141210
+#REACTION   29-CU-63(D,P)29-CU-64,,SIG
+#PROJ       1002
+#TARG       29063
+#MF         3
+#MT         103
+#PRODUCT    29-CU-64
+#C4BEGIN    [ 1002 29063   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 29063   3 103    5620000. 50000.00 0.287000 0.019000                                       L.Weissman+          (15)D0753  2 
+ 1002 29063   3 103    5080000. 50000.00 0.254000 0.013000                                       L.Weissman+          (15)D0753  2 
+ 1002 29063   3 103    4750000. 50000.00 0.190000 0.011000                                       L.Weissman+          (15)D0753  2 
+ 1002 29063   3 103    4490000. 50000.00 0.161000 5.0000-3                                       L.Weissman+          (15)D0753  2 
+ 1002 29063   3 103    4180000. 50000.00 0.114000 4.5000-3                                       L.Weissman+          (15)D0753  2 
+ 1002 29063   3 103    3830000. 50000.00 0.077000 2.0000-3                                       L.Weissman+          (15)D0753  2 
+ 1002 29063   3 103    3560000. 50000.00 0.052000 1.5000-3                                       L.Weissman+          (15)D0753  2 
+ 1002 29063   3 103    3330000. 50000.00 0.023000 1.0000-3                                       L.Weissman+          (15)D0753  2 
+ 1002 29063   3 103    3030000. 50000.00 0.018000 5.0000-4                                       L.Weissman+          (15)D0753  2 
+ 1002 29063   3 103    2770000. 50000.00 6.5000-3 2.0000-4                                       L.Weissman+          (15)D0753  2 
+#/DATA      10
+#/DATASET

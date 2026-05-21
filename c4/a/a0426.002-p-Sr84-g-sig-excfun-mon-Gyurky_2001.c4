@@ -1,0 +1,40 @@
+#ENTRY      A0426
+#AUTHOR1    Gy.Gyurky+
+#YEAR       2001
+#INSTITUTE  (3HUNDEB)
+#TITLE      Proton capture cross section of Sr isotopes and their
+#+          importance for nucleosynthesis of proton-rich nuclides
+#AUTHOR(S)  Gy.Gyurky, E.Somorjai, Zs.Fulop, S.Harissopulos, P.Demetriou, 
+#+          T.Rauscher
+#REF-CODE   (J,PR/C,64,065803,2001)
+#REFERENCE  Phys.Rev.C 64 (2001) 065803 (doi:10.1103/PhysRevC.64.065803)
+#DATASETS   0
+#
+#DATASET    A0426002 
+#DATE       20120120
+#REACTION   38-SR-84(P,G)39-Y-85-G,,SIG
+#PROJ       1001
+#TARG       38084
+#MF         3
+#MT         102
+#PRODUCT    39-Y-85-G
+#C4BEGIN    [ 1001 38084   3 102G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38084   3 102G   2997000.          5.7480-4 4.7700-5                                       Gy.Gyurky+           (01)A0426  2 
+ 1001 38084   3 102G   2870000.          2.1050-4 1.8700-5                                       Gy.Gyurky+           (01)A0426  2 
+ 1001 38084   3 102G   2797000.          1.3350-4 1.1900-5                                       Gy.Gyurky+           (01)A0426  2 
+ 1001 38084   3 102G   2696000.          1.4000-4 1.2800-5                                       Gy.Gyurky+           (01)A0426  2 
+ 1001 38084   3 102G   2597000.          9.5400-5 8.4000-6                                       Gy.Gyurky+           (01)A0426  2 
+ 1001 38084   3 102G   2497000.          8.7000-5 7.3000-6                                       Gy.Gyurky+           (01)A0426  2 
+ 1001 38084   3 102G   2396000.          6.7600-5 6.0000-6                                       Gy.Gyurky+           (01)A0426  2 
+ 1001 38084   3 102G   2294000.          3.4500-5 2.9000-6                                       Gy.Gyurky+           (01)A0426  2 
+ 1001 38084   3 102G   2196000.          2.9600-5 2.5000-6                                       Gy.Gyurky+           (01)A0426  2 
+ 1001 38084   3 102G   2096000.          1.8500-5 1.7000-6                                       Gy.Gyurky+           (01)A0426  2 
+ 1001 38084   3 102G   1996000.          1.3000-5 1.2000-6                                       Gy.Gyurky+           (01)A0426  2 
+ 1001 38084   3 102G   1893000.          7.5400-6 7.0000-7                                       Gy.Gyurky+           (01)A0426  2 
+ 1001 38084   3 102G   1795000.          4.3900-6 4.0000-7                                       Gy.Gyurky+           (01)A0426  2 
+ 1001 38084   3 102G   1693000.          8.5100-7 2.7000-7                                       Gy.Gyurky+           (01)A0426  2 
+#/DATA      14
+#/DATASET

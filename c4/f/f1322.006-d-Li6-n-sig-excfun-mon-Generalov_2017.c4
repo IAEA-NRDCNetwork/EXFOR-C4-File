@@ -1,0 +1,36 @@
+#ENTRY      F1322
+#AUTHOR1    L.N.Generalov+
+#YEAR       2017
+#INSTITUTE  (4RUSEPA)
+#TITLE      Activation measurements of the integral cross
+#+          sections of reactions 7Li(p,n0+n1)7Be(gs),
+#+          6Li(d,n0+n1)7Be(gs), 7Li(d,2n)7Be(gs), 65Cu(p,n)65Zn,
+#+          65Cu(d,2n)65Zn, 63Cu(d,g)65Zn.
+#AUTHOR(S)  L.N.Generalov, S.N.Abramovich, S.M.Selyankina
+#REF-CODE   (J,IZV,81,717,2017)
+#REFERENCE  Izv.Ross.AN,Fiz. 81 (2017) 717
+#DATASETS   0
+#
+#DATASET    F1322006 
+#DATE       20210626
+#REACTION   3-LI-6(D,N)4-BE-7,,SIG
+#PROJ       1002
+#TARG       3006
+#MF         3
+#MT         4
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1002  3006   3   4 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   3   4 C  2150000.          0.096500 6.7550-4                                       L.N.Generalov+       (17)F1322  6 
+ 1002  3006   3   4 C  2930000.          0.097600 8.7840-4                                       L.N.Generalov+       (17)F1322  6 
+ 1002  3006   3   4 C  3650000.          0.082400 9.8880-4                                       L.N.Generalov+       (17)F1322  6 
+ 1002  3006   3   4 C  4320000.          0.073900 8.8680-4                                       L.N.Generalov+       (17)F1322  6 
+ 1002  3006   3   4 C  4960000.          0.063300 1.8357-3                                       L.N.Generalov+       (17)F1322  6 
+ 1002  3006   3   4 C  5580000.          0.061600 6.7760-4                                       L.N.Generalov+       (17)F1322  6 
+ 1002  3006   3   4 C  6160000.          0.057100 4.5680-4                                       L.N.Generalov+       (17)F1322  6 
+ 1002  3006   3   4 C  6770000.          0.058300 4.0810-4                                       L.N.Generalov+       (17)F1322  6 
+ 1002  3006   3   4 C  7360000.          0.052700 7.9050-4                                       L.N.Generalov+       (17)F1322  6 
+#/DATA      9
+#/DATASET

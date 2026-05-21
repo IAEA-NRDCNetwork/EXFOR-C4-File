@@ -1,0 +1,27 @@
+#ENTRY      E2781
+#AUTHOR1    M.Aikawa+
+#YEAR       2024
+#INSTITUTE  (2JPNHOK)
+#TITLE      Activation cross sections of alpha-particle-induced
+#+          reactions on scandium in the energy range of 22-51 MeV
+#AUTHOR(S)  M.Aikawa, S.Ebata, H.Haba, S.Takacs, F.Ditroi, Z.Szucs
+#REF-CODE   (J,NIM/B,550,165315,2024)
+#REFERENCE  Nucl.Instrum.Meth.B 550 (2024) 165315 (doi:10.1016/j.nimb.2024.165315)
+#DATASETS   0
+#
+#DATASET    E2781010 
+#DATE       20240622
+#REACTION   21-SC-45(A,X)19-K-42,,SIG
+#PROJ       2004
+#TARG       21045
+#MF         3
+#MT         454
+#PRODUCT    19-K-42
+#C4BEGIN    [ 2004 21045   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 21045   3 454    5.0700+7 200000.0 1.6200-3 2.4000-4           19042.9                     M.Aikawa+            (24)E2781 10 
+ 2004 21045   3 454    4.7800+7 200000.0 4.7000-4 1.3000-4           19042.9                     M.Aikawa+            (24)E2781 10 
+#/DATA      2
+#/DATASET

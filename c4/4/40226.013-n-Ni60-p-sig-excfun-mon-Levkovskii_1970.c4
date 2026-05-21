@@ -1,0 +1,26 @@
+#ENTRY      40226
+#AUTHOR1    V.N.Levkovskii+
+#YEAR       1970
+#INSTITUTE  (4KASKAZ)
+#TITLE      Cross sections for (n,p) and (n,alpha) reactions
+#+          with 14.8-MeV neutrons
+#AUTHOR(S)  V.N.Levkovskii, G.P.Vinitskaya, G.E.Kovel'skaya, V.M.Stepanov
+#REF-CODE   (J,SNP,10,25,1970)
+#REFERENCE  Sov.J.Nucl.Phys. 10 (1970) 25
+#DATASETS   0
+#
+#DATASET    40226013 
+#DATE       20151207
+#REACTION   28-NI-60(N,P)27-CO-60,,SIG
+#PROJ       1
+#TARG       28060
+#MF         3
+#MT         103
+#PRODUCT    27-CO-60
+#C4BEGIN    [    1 28060   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28060   3 103    1.4800+7          0.130000 0.040000                                       V.N.Levkovskii+      (70)40226 13 
+#/DATA      1
+#/DATASET

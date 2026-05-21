@@ -1,0 +1,26 @@
+#ENTRY      C0292
+#AUTHOR1    S.Katcoff+
+#YEAR       1965
+#INSTITUTE  (1USABNL)
+#TITLE      Emission of Li8 Fragments from Cu, Ag, and Au
+#+          Irradiated by High-Energy Protons
+#AUTHOR(S)  S.Katcoff, E.W.Baker, N.T.Porile
+#REF-CODE   (J,PR,140,B1549,1965)
+#REFERENCE  Phys.Rev. 140 (1965) B1549 (doi:10.1103/PhysRev.140.B1549)
+#DATASETS   0
+#
+#DATASET    C0292004 
+#DATE       19961010
+#REACTION   79-AU-197(P,X)3-LI-8,,SIG
+#PROJ       1001
+#TARG       79197
+#MF         3
+#MT         454
+#PRODUCT    3-LI-8
+#C4BEGIN    [ 1001 79197   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   3 454    2.0000+9          6.9000-3                     3008.9                     S.Katcoff+           (65)C0292  4 
+#/DATA      1
+#/DATASET

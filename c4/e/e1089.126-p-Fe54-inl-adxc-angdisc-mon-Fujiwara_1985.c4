@@ -1,0 +1,40 @@
+#ENTRY      E1089
+#AUTHOR1    M.Fujiwara+
+#YEAR       1985
+#INSTITUTE  (2JPNOSA)
+#TITLE      Inelastic proton scattering to the 3- and 1+ states in
+#+          50Ti, 52Cr, and 54Fe
+#AUTHOR(S)  M.Fujiwara, Y.Fujita, S.Imanishi, S.Morinobu, T.Yamazaki, 
+#+          H.Ikegami, K.Katori, S.I.Hayakawa
+#REF-CODE   (J,PR/C,32,(3),830,198509)
+#REFERENCE  Phys.Rev.C 32 No.3 (1985) 830 (doi:10.1103/PhysRevC.32.830)
+#DATASETS   0
+#
+#DATASET    E1089126 
+#DATE       20110518
+#REACTION   26-FE-54(P,INL)26-FE-54,PAR,DA
+#PROJ       1001
+#TARG       26054
+#MF         4
+#MT         601
+#PRODUCT    26-FE-54
+#C4BEGIN    [ 1001 26054   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26054   4 601  C 6.5000+7          5.9590-5          0.992300          7377000.         LVLM.Fujiwara+          (85)E1089126 
+ 1001 26054   4 601  C 6.5000+7          5.8510-5          0.987971          7377000.         LVLM.Fujiwara+          (85)E1089126 
+ 1001 26054   4 601  C 6.5000+7          7.1440-5          0.975072          7377000.         LVLM.Fujiwara+          (85)E1089126 
+ 1001 26054   4 601  C 6.5000+7          1.0610-4          0.955793          7377000.         LVLM.Fujiwara+          (85)E1089126 
+ 1001 26054   4 601  C 6.5000+7          9.2300-5          0.933142          7377000.         LVLM.Fujiwara+          (85)E1089126 
+ 1001 26054   4 601  C 6.5000+7          6.2620-5          0.906750          7377000.         LVLM.Fujiwara+          (85)E1089126 
+ 1001 26054   4 601  C 6.5000+7          3.2190-5          0.872411          7377000.         LVLM.Fujiwara+          (85)E1089126 
+ 1001 26054   4 601  C 6.5000+7          1.2180-5          0.836095          7377000.         LVLM.Fujiwara+          (85)E1089126 
+ 1001 26054   4 601  C 6.5000+7          1.1010-5          0.799789          7377000.         LVLM.Fujiwara+          (85)E1089126 
+ 1001 26054   4 601  C 6.5000+7          2.5170-5          0.691135          7377000.         LVLM.Fujiwara+          (85)E1089126 
+ 1001 26054   4 601  C 6.5000+7          8.3120-6          0.620464          7377000.         LVLM.Fujiwara+          (85)E1089126 
+ 1001 26054   4 601  C 6.5000+7          7.1080-6          0.553246          7377000.         LVLM.Fujiwara+          (85)E1089126 
+ 1001 26054   4 601  C 6.5000+7          7.3570-6          0.477159          7377000.         LVLM.Fujiwara+          (85)E1089126 
+ 1001 26054   4 601  C 6.5000+7          5.1470-6 8.8540-7 0.400349          7377000.         LVLM.Fujiwara+          (85)E1089126 
+#/DATA      14
+#/DATASET

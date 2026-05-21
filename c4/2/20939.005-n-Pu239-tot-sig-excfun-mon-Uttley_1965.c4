@@ -1,0 +1,27 @@
+#ENTRY      20939
+#AUTHOR1    C.A.Uttley+
+#YEAR       1965
+#INSTITUTE  (2UK HAR)
+#TITLE      Single level analysis of the resonances in the
+#+          total cross section of Pu-239 from 100 eV to 300 eV
+#AUTHOR(S)  C.A.Uttley
+#REF-CODE   (C,65ANTWERP,,535(98),196507)
+#REFERENCE  Proceedings of Nuclear Structure Study with Neutrons, Antwerp 1965 page 535(98)
+#DATASETS   0
+#
+#DATASET    20939005 
+#DATE       20120708
+#REACTION   94-PU-239(N,TOT),,SIG
+#PROJ       1
+#TARG       94239
+#MF         3
+#MT         1
+#C4BEGIN    [    1 94239   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   3   1    102.3000          0.200100                                                C.A.Uttley           (65)20939  5 
+    1 94239   3   1    108.6000          0.700700                                                C.A.Uttley           (65)20939  5 
+    1 94239   3   1    163.2000          0.302900                                                C.A.Uttley           (65)20939  5 
+#/DATA      3
+#/DATASET

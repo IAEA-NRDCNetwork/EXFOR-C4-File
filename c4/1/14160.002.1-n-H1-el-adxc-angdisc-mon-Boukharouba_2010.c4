@@ -1,0 +1,32 @@
+#ENTRY      14160
+#AUTHOR1    N.Boukharouba+
+#YEAR       2010
+#INSTITUTE  (1USANIS)
+#TITLE      Measurement of the n-p elastic scattering angular
+#+          distribution at En = 14.9 MeV
+#AUTHOR(S)  N.Boukharouba, F.B.Bateman, A.D.Carlson, C.E.Brient, S.M.Grimes, 
+#+          T.N.Massey, R.C.Haight, D.E.Carter
+#REF-CODE   (J,PR/C,82,014001,2010)
+#REFERENCE  Phys.Rev.C 82 (2010) 014001 (doi:10.1103/PhysRevC.82.014001)
+#DATASETS   0
+#
+#DATASET    141600021
+#DATE       20100810
+#REACTION   1-H-1(N,EL)1-H-1,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4   2  C 1.4900+7          0.055230 8.5000-4-0.996637                              N.Boukharouba+       (10)14160  21
+    1  1001   4   2  C 1.4900+7          0.055110 5.1000-4-0.909961                              N.Boukharouba+       (10)14160  21
+    1  1001   4   2  C 1.4900+7          0.053100 6.1000-4-0.665230                              N.Boukharouba+       (10)14160  21
+    1  1001   4   2  C 1.4900+7          0.052660 6.5000-4-0.304033                              N.Boukharouba+       (10)14160  21
+    1  1001   4   2  C 1.4900+7          0.051510 9.2000-4 0.107999                              N.Boukharouba+       (10)14160  21
+    1  1001   4   2  C 1.4900+7          0.049800 3.6000-3 0.504528                              N.Boukharouba+       (10)14160  21
+#/DATA      6
+#/DATASET

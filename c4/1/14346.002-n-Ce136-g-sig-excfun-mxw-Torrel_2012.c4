@@ -1,0 +1,26 @@
+#ENTRY      14346
+#AUTHOR1    S.Torrel+
+#YEAR       2012
+#INSTITUTE  (1USAORU)
+#TITLE      Neutron capture cross sections of 136,138,140,142Ce
+#+          and the decays of 137Ce
+#AUTHOR(S)  S.Torrel, K.S.Krane
+#REF-CODE   (J,PR/C,86,034340,2012)
+#REFERENCE  Phys.Rev.C 86 (2012) 034340 (doi:10.1103/PhysRevC.86.034340)
+#DATASETS   0
+#
+#DATASET    14346002 
+#DATE       20121011
+#REACTION   58-CE-136(N,G)58-CE-137-M,,SIG,,MXW
+#PROJ       1
+#TARG       58136
+#MF         3
+#MT         102
+#PRODUCT    58-CE-137-M
+#C4BEGIN    [    1 58136   3 102M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 58136   3 102M   0.025000          0.344000 0.016000                                       S.Torrel+            (12)14346  2 
+#/DATA      1
+#/DATASET

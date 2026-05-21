@@ -1,0 +1,28 @@
+#ENTRY      40927
+#AUTHOR1    V.A.Kalinin+
+#YEAR       1987
+#INSTITUTE  (4RUSRI)
+#TITLE      Absolute measurements of the 237Np and 233U fission
+#+          cross-sections at 1.9 MeV neutron energy using the
+#+          time-correlated associated particle method and a
+#+          magnetic analyzer
+#AUTHOR(S)  V.A.Kalinin, S.S.Kovalenko, V.N.Kyz'min, Yu.A.Nemilov, L.M.Solin, 
+#+          V.I.Shpakov
+#REF-CODE   (J,YK,,(4),3,1987)
+#REFERENCE  Yad.Reak.Konst.  No.4 (1987) 3
+#DATASETS   0
+#
+#DATASET    40927006 
+#DATE       20210618
+#REACTION   94-PU-239(N,F),,SIG
+#PROJ       1
+#TARG       94239
+#MF         3
+#MT         18
+#C4BEGIN    [    1 94239   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   3  18    1920000.          2.010000 0.054672                                       V.A.Kalinin+         (87)40927  6 
+#/DATA      1
+#/DATASET

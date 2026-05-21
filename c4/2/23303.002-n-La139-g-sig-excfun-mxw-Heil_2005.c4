@@ -1,0 +1,27 @@
+#ENTRY      23303
+#AUTHOR1    M.Heil+
+#YEAR       2005
+#INSTITUTE  (2GERKFK)
+#TITLE      A neutron source to measure stellar neutron capture
+#+          cross sections at kT= 5 keV .
+#AUTHOR(S)  M.Heil, S.Dababneh, F.Kaeppeler, R.Plag, A.Juseviciute, 
+#+          N.Winckler, R.Reifarth, S.O'Brien
+#REF-CODE   (J,NP/A,758,529C,2005)
+#REFERENCE  Nucl.Phys.A 758 (2005) 529C (doi:10.1016/j.nuclphysa.2005.05.183)
+#DATASETS   0
+#
+#DATASET    23303002 
+#DATE       20160920
+#REACTION   57-LA-139(N,G)57-LA-140,,SIG,,MXW
+#PROJ       1
+#TARG       57139
+#MF         3
+#MT         102
+#PRODUCT    57-LA-140
+#C4BEGIN    [    1 57139   3 102 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 57139   3 102 P  5100.000 100.0000 0.102300 3.8000-3                                       M.Heil+              (05)23303  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      D7038
+#AUTHOR1    M.Shahid+
+#YEAR       2020
+#INSTITUTE  (3KORKNU)
+#TITLE      Measurements of production cross-sections of medical
+#+          radioisotopes (57Ni, 55,57,58Co, 54Mn, 51Cr) and other
+#+          by-products (56Ni, 56Co, 56Mn) from the 59Co(p,x)
+#+          reactions
+#AUTHOR(S)  M.Shahid, K.Kim, T.H.Nguyen, G.N.Kim, H.Naik
+#REF-CODE   (J,NIM/B,466,102,2020)
+#REFERENCE  Nucl.Instrum.Meth.B 466 (2020) 102 (doi:10.1016/j.nimb.2020.01.014)
+#DATASETS   0
+#
+#DATASET    D7038004 
+#DATE       20220901
+#REACTION   27-CO-59(P,X)27-CO-55,,SIG
+#PROJ       1001
+#TARG       27059
+#MF         3
+#MT         454
+#PRODUCT    27-CO-55
+#C4BEGIN    [ 1001 27059   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 27059   3 454 A  4.3670+7 230000.0 1.1400-4 9.0000-6           27055.9                     M.Shahid+            (20)D7038  4 
+ 1001 27059   3 454 A  4.2760+7 230000.0 9.5000-5 8.0000-6           27055.9                     M.Shahid+            (20)D7038  4 
+ 1001 27059   3 454 A  4.1840+7 230000.0 5.9000-5 5.0000-6           27055.9                     M.Shahid+            (20)D7038  4 
+ 1001 27059   3 454 A  4.0930+7 230000.0 3.0000-5 3.0000-6           27055.9                     M.Shahid+            (20)D7038  4 
+ 1001 27059   3 454 A  4.0000+7 240000.0 2.4000-5 3.0000-6           27055.9                     M.Shahid+            (20)D7038  4 
+#/DATA      5
+#/DATASET

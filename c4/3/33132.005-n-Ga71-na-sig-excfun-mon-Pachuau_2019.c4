@@ -1,0 +1,28 @@
+#ENTRY      33132
+#AUTHOR1    R.Pachuau+
+#YEAR       2019
+#INSTITUTE  (3INDIND)
+#TITLE      Neutron induced cross section measurements on gallium
+#+          isotopes at neutron energy 14.90 +- 0.01 MeV and
+#+          covariance analysis
+#AUTHOR(S)  R.Pachuau, B.Lalremruata, A.Gandhi, S.V.Suryanarayana, B.K.Nayak, 
+#+          A.Kumar, L.S.Danu
+#REF-CODE   (J,NP/A,992,121613,2019)
+#REFERENCE  Nucl.Phys.A 992 (2019) 121613 (doi:10.1016/j.nuclphysa.2019.121613)
+#DATASETS   0
+#
+#DATASET    33132005 
+#DATE       20191114
+#REACTION   31-GA-71(N,N+A)29-CU-67,,SIG
+#PROJ       1
+#TARG       31071
+#MF         3
+#MT         22
+#PRODUCT    29-CU-67
+#C4BEGIN    [    1 31071   3  22  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 31071   3  22    1.4900+7 10000.00 1.7800-3 1.9242-4                                       R.Pachuau+           (19)33132  5 
+#/DATA      1
+#/DATASET

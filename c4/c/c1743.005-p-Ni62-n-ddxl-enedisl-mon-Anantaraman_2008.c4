@@ -1,0 +1,47 @@
+#ENTRY      C1743
+#AUTHOR1    N.Anantaraman+
+#YEAR       2008
+#INSTITUTE  (1USAMSU)
+#TITLE      Electron capture strength for 60,62Ni and
+#+          58,60,62,64Ni(p,n)58,60,62,64Cu reactions at 134.3 MeV
+#AUTHOR(S)  N.Anantaraman, S.M.Austin, B.A.Brown, G.M.Crawley, A.Galonsky, 
+#+          R.G.T.Zegers, B.D.Anderson, A.R.Baldwin, B.S.Flanders, R.Madey, 
+#+          J.W.Watson, C.C.Foster
+#REF-CODE   (J,PR/C,78,065803,2008)
+#REFERENCE  Phys.Rev.C 78 (2008) 065803 (doi:10.1103/PhysRevC.78.065803)
+#DATASETS   0
+#
+#DATASET    C1743005 
+#DATE       20110216
+#REACTION   28-NI-62(P,N)29-CU-62,PAR,DA/DE
+#PROJ       1001
+#TARG       28062
+#MF         6
+#MT         50
+#PRODUCT    29-CU-62
+#C4BEGIN    [ 1001 28062   6  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28062   6  50    1.3430+8          2.5100-9          0.999986          140000.0          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5400-9          0.999986          240000.0          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.6230-9          0.999986          440000.0          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.6680-9          0.999986          540000.0          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.6460-9          0.999986          740000.0          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5700-9          0.999986          840000.0          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5030-9          0.999986          1040000.          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5260-9          0.999986          1240000.          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5180-9          0.999986          1340000.          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5250-9          0.999986          1440000.          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5030-9          0.999986          1640000.          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5550-9          0.999986          1740000.          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5330-9          0.999986          1940000.          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5250-9          0.999986          2040000.          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5480-9          0.999986          2230000.          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5400-9          0.999986          2340000.          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5630-9          0.999986          2540000.          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5560-9          0.999986          2640000.          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5780-9          0.999986          2840000.          E2N.Anantaraman+       (08)C1743  5 
+ 1001 28062   6  50    1.3430+8          2.5480-9          0.999986          2940000.          E2N.Anantaraman+       (08)C1743  5 
+#/DATA      20
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      12301
+#AUTHOR1    J.Halperin+
+#YEAR       1956
+#INSTITUTE  (1USAORL)
+#TITLE      EFFECTIVE CAPTURE CROSS SECTION OF PA-233 FOR THERMAL
+#+          REACTOR NEUTRONS.
+#AUTHOR(S)  J.Halperin, R.W.Stoughton, C.V.Ellison, D.E.Ferguson
+#REF-CODE   (J,NSE,1,1,5603)
+#REFERENCE  Nucl.Sci.Eng. 1 (1956) 1
+#DATASETS   0
+#
+#DATASET    12301002 
+#DATE       19841005
+#REACTION   91-PA-233(N,G)91-PA-234,,SIG,,SPA
+#PROJ       1
+#TARG       91233
+#MF         3
+#MT         102
+#PRODUCT    91-PA-234
+#C4BEGIN    [    1 91233   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 91233   3 102    0.025300          128.0000 20.00000                                       J.Halperin+          (56)12301  2 
+#/DATA      1
+#/DATASET

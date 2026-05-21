@@ -1,0 +1,29 @@
+#ENTRY      C0824
+#AUTHOR1    J.Rapaport+
+#YEAR       1989
+#INSTITUTE  (1USALAS)
+#TITLE      Fermi and Gamov-Teller strength in p-shell nuclei
+#+          from (p,n) reactions at 492 and 590 MeV
+#AUTHOR(S)  J.Rapaport, P.W.Lisowski, J.L.Ullmann, R.C.Byrd, T.A.Carey, 
+#+          J.B.McClelland, L.J.Rybarcyk, T.N.Taddeucci, R.C.Haight, 
+#+          N.S.P.King, G.L.Morgan, D.A.Clark, D.A.Lind, R.Smythe, C.D.Zafiratos, 
+#+          D.Prout, E.R.Sugarbaker, D.Marchlenski, W.P.Alford, W.G.Love
+#REF-CODE   (J,PR/C,39,1929,198905)
+#REFERENCE  Phys.Rev.C 39 (1989) 1929 (doi:10.1103/PhysRevC.39.1929)
+#DATASETS   0
+#
+#DATASET    C0824005 
+#DATE       20020419
+#REACTION   6-C-13(P,N)7-N-13,PAR,DA
+#PROJ       1001
+#TARG       6013
+#MF         4
+#MT         50
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1001  6013   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6013   4  50 AC 4.9200+8          0.012600 2.7000-4 1.000000          3510000.          E2J.Rapaport+          (89)C0824  5 
+#/DATA      1
+#/DATASET

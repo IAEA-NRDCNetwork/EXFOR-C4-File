@@ -1,0 +1,29 @@
+#ENTRY      32787
+#AUTHOR1    Niu Deqing+
+#YEAR       2019
+#INSTITUTE  (3CPRTSI)
+#TITLE      Fission cross-section measurement for 238U(n,f)Z-X-
+#+          134 reactions induced by D-T neutrons
+#AUTHOR(S)  Niu Deqing, Zhang Zuoyi, Zhou Yong, Yang Chao, Liu Yang, 
+#+          Fang Kaihong
+#REF-CODE   (J,RPC,158,175,2019)
+#REFERENCE  Radiat.Phys.Chem. 158 (2019) 175 (doi:10.1016/j.radphyschem.2018.12.028)
+#DATASETS   0
+#
+#DATASET    32787003 
+#DATE       20191012
+#REACTION   92-U-238(N,F)52-TE-134,(CUM),SIG,,AV
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         459
+#PRODUCT    52-TE-134
+#C4BEGIN    [    1 92238   3 459 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3 459 D  1.4100+7 300000.0 0.050000 3.2000-3           52134.9                     Niu Deqing+          (19)32787  3 
+    1 92238   3 459 D  1.4500+7 300000.0 0.052600 3.4000-3           52134.9                     Niu Deqing+          (19)32787  3 
+    1 92238   3 459 D  1.4700+7 300000.0 0.054300 3.5000-3           52134.9                     Niu Deqing+          (19)32787  3 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      30934
+#AUTHOR1    I.Szarka+
+#YEAR       1986
+#INSTITUTE  (3DDRTUD)
+#TITLE      Gas proportional telescope used to investigate rare
+#+          reactions induced by 3 MeV neutrons
+#AUTHOR(S)  I.Szarka, M.Florek, J.Oravec, K.Holy, H.Helfer, U.Jahn
+#REF-CODE   (J,NIM/B,17,472,1986)
+#REFERENCE  Nucl.Instrum.Meth.B 17 (1986) 472 (doi:10.1016/0168-583X(86)90190-4)
+#DATASETS   0
+#
+#DATASET    30934002 
+#DATE       20090913
+#REACTION   42-MO-95(N,A)40-ZR-92,PAR,SIG
+#PROJ       1
+#TARG       42095
+#MF         3
+#MT         800
+#PRODUCT    40-ZR-92
+#C4BEGIN    [    1 42095   3 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42095   3 800    3000000. 200000.0 9.0000-5 4.0000-5                   0.000000         LVLI.Szarka+            (86)30934  2 
+#/DATA      1
+#/DATASET

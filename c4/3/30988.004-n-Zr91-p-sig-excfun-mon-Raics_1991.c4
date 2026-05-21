@@ -1,0 +1,38 @@
+#ENTRY      30988
+#AUTHOR1    P.Raics+
+#YEAR       1991
+#INSTITUTE  (3HUNKOS)
+#TITLE      Cross section measurements of neutron induced
+#+          reactions on the zirconium isotopes in the energy
+#+          range of 5.4 to 12.3 MeV.
+#AUTHOR(S)  P.Raics, S.Nagy, S.Szegedi, N.V.Kornilov, A.B.Kagalenko
+#REF-CODE   (C,91JUELIC,,660,199105)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 660
+#DATASETS   0
+#
+#DATASET    30988004 
+#DATE       20090919
+#REACTION   40-ZR-91(N,P)39-Y-91-M,,SIG
+#PROJ       1
+#TARG       40091
+#MF         3
+#MT         103
+#PRODUCT    39-Y-91-M
+#C4BEGIN    [    1 40091   3 103M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40091   3 103M   5380000.          1.8000-4 5.0000-5                                       P.Raics+             (91)30988  4 
+    1 40091   3 103M   5890000.          4.2000-4 4.0000-5                                       P.Raics+             (91)30988  4 
+    1 40091   3 103M   6390000.          8.2000-4 6.0000-5                                       P.Raics+             (91)30988  4 
+    1 40091   3 103M   6800000.          9.5000-4 6.0000-5                                       P.Raics+             (91)30988  4 
+    1 40091   3 103M   8200000.          2.3400-3 1.4000-4                                       P.Raics+             (91)30988  4 
+    1 40091   3 103M   8430000.          2.6600-3 1.5000-4                                       P.Raics+             (91)30988  4 
+    1 40091   3 103M   8920000.          3.3500-3 1.0000-4                                       P.Raics+             (91)30988  4 
+    1 40091   3 103M   9430000.          2.2000-3 2.6000-4                                       P.Raics+             (91)30988  4 
+    1 40091   3 103M   1.0230+7          3.5100-3 1.7000-4                                       P.Raics+             (91)30988  4 
+    1 40091   3 103M   1.0950+7          7.2300-3 2.6000-4                                       P.Raics+             (91)30988  4 
+    1 40091   3 103M   1.1560+7          6.7500-3 2.5000-4                                       P.Raics+             (91)30988  4 
+    1 40091   3 103M   1.2250+7          0.012880 3.1000-4                                       P.Raics+             (91)30988  4 
+#/DATA      12
+#/DATASET

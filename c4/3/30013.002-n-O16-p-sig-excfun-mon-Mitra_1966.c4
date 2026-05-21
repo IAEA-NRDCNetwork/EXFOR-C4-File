@@ -1,0 +1,26 @@
+#ENTRY      30013
+#AUTHOR1    B.Mitra+
+#YEAR       1966
+#INSTITUTE  (3INDBOS)
+#TITLE      (n,p) cross sections of some low Z nuclei for 14.8 MeV
+#+          neutrons.
+#AUTHOR(S)  B.Mitra, A.M.Ghose
+#REF-CODE   (J,NP,83,157,1966)
+#REFERENCE  Nucl.Phys. 83 (1966) 157 (doi:10.1016/0029-5582(66)90346-4)
+#DATASETS   0
+#
+#DATASET    30013002 
+#DATE       20070806
+#REACTION   8-O-16(N,P)7-N-16,,SIG
+#PROJ       1
+#TARG       8016
+#MF         3
+#MT         103
+#PRODUCT    7-N-16
+#C4BEGIN    [    1  8016   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016   3 103    1.4800+7 100000.0 0.040100 2.7000-3                                       B.Mitra+             (66)30013  2 
+#/DATA      1
+#/DATASET

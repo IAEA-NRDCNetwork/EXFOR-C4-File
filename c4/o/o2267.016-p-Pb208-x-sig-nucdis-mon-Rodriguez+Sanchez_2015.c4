@@ -1,0 +1,45 @@
+#ENTRY      O2267
+#AUTHOR1    J.L.Rodriguez-Sanchez+
+#YEAR       2015
+#INSTITUTE  (2SPNSAU)
+#TITLE      Complete characterization of the fission fragments
+#+          produced in reactions induced by Pb-208 projectiles on
+#+          proton at 500A*MeV.
+#AUTHOR(S)  J.L.Rodriguez-Sanchez, J.Benlliure, J.Taieb, H.Alvarez-Pol, 
+#+          L.Audouin, Y.Ayyad, G.Belier, G.Boutoux, E.Casarejos, A.Chatillon, 
+#+          D.Cortina-Gil, T.Gorbinet, A.Heinz, A.Kelic-Heil, B.Laurent, 
+#+          J.-F.Martin, C.Paradela, E.Pellereau, B.Pietras, D.Ramos, 
+#+          C.Rodriguez-Tajes, D.Rossi, H.Simon, J.Vargas, B.Voss
+#REF-CODE   (J,PR/C,91,064616,2015)
+#REFERENCE  Phys.Rev.C 91 (2015) 064616 (doi:10.1103/PhysRevC.91.064616)
+#DATASETS   0
+#
+#DATASET    O2267016 
+#DATE       20151024
+#REACTION   (1-H-1(82-PB-208,F)ELEM/MASS,,SIG)=(82-PB-208(P,F)ELEM/MASS,,SIG)
+#PROJ       1001
+#TARG       82208
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 82208   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   3 454    5.0000+8          2.3000-5 9.0000-6           41088.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+ 1001 82208   3 454    5.0000+8          1.1200-4 1.2000-5           41089.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+ 1001 82208   3 454    5.0000+8          3.7400-4 2.1000-5           41090.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+ 1001 82208   3 454    5.0000+8          7.6600-4 2.4000-5           41091.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+ 1001 82208   3 454    5.0000+8          1.2800-3 3.0000-5           41092.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+ 1001 82208   3 454    5.0000+8          1.8800-3 4.0000-5           41093.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+ 1001 82208   3 454    5.0000+8          2.9600-3 6.0000-5           41094.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+ 1001 82208   3 454    5.0000+8          2.6300-3 5.0000-5           41095.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+ 1001 82208   3 454    5.0000+8          2.6700-3 5.0000-5           41096.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+ 1001 82208   3 454    5.0000+8          2.5200-3 5.0000-5           41097.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+ 1001 82208   3 454    5.0000+8          1.6600-3 4.0000-5           41098.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+ 1001 82208   3 454    5.0000+8          1.1300-3 3.0000-5           41099.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+ 1001 82208   3 454    5.0000+8          6.3200-4 2.4000-5           41100.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+ 1001 82208   3 454    5.0000+8          3.0600-4 1.5000-5           41101.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+ 1001 82208   3 454    5.0000+8          8.8000-5 7.0000-6           41102.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+ 1001 82208   3 454    5.0000+8          1.2000-5 2.0000-6           41103.9                     J.L.Rodriguez-Sanchez+(15)O2267 16 
+#/DATA      16
+#/DATASET

@@ -1,0 +1,46 @@
+#ENTRY      E0822
+#AUTHOR1    S.Matsuki+
+#YEAR       1983
+#INSTITUTE  (2JPNKTO)
+#TITLE      Inelastic scattering of polarized protons and a
+#+          possible hexadecapole-shape transition between the
+#+          light 74,76,78Se and the heavy 80,82Se isotopes
+#AUTHOR(S)  S.Matsuki, T.Higo, T.Ohsawa, T.Shiba, T.Yanabu, K.Ogino, 
+#+          Y.Kadota, K.Haga, N.Sakamoto, K.Kume, M.Matoba
+#REF-CODE   (J,PRL,51,(19),1741,198311)
+#REFERENCE  Phys.Rev.Lett. 51 No.19 (1983) 1741 (doi:10.1103/PhysRevLett.51.1741)
+#DATASETS   0
+#
+#DATASET    E0822004 
+#DATE       20080612
+#REACTION   34-SE-74(P,INL)34-SE-74,PAR,DA
+#PROJ       1001
+#TARG       34074
+#MF         4
+#MT         601
+#PRODUCT    34-SE-74
+#C4BEGIN    [ 1001 34074   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 34074   4 601  C 6.5000+7          2.7290-4 4.8780-5 0.989861          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          2.6000-4 3.1720-5 0.976934          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          1.6150-4 1.7560-5 0.959854          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          2.4000-4          0.912406          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          2.5220-4          0.902811          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          2.4010-4          0.880312          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          1.7010-4          0.859496          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          1.1090-4 2.1360-5 0.845448          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          9.5750-5          0.802088          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          1.1480-4          0.785857          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          1.1670-4          0.759271          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          1.3990-4          0.728610          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          1.5200-4          0.696539          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          1.0770-4          0.665621          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          8.5590-5          0.609592          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          5.4050-5 7.4370-6 0.550189          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          6.9220-5 1.1040-5 0.488317          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          5.7820-5          0.406258          1363000.         LVLS.Matsuki+           (83)E0822  4 
+ 1001 34074   4 601  C 6.5000+7          2.8070-5          0.320448          1363000.         LVLS.Matsuki+           (83)E0822  4 
+#/DATA      19
+#/DATASET

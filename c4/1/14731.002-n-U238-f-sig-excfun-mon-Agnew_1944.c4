@@ -1,0 +1,27 @@
+#ENTRY      14731
+#AUTHOR1    H.M.Agnew+
+#YEAR       1944
+#INSTITUTE  (1USALAS)
+#TITLE      Measurement of sigmaf(28),sigmaf(25)/sigmaf(28) and
+#+          sigmaf(49)/sigmaf(25) at 2.5 and 3 MeV
+#AUTHOR(S)  H.M.Agnew, H.H.Barschall, W.C.Bright, J.Coon, R.Christy, 
+#+          E.R.Graves, T.Jorgensen, J.H.Manley, B.Waldman
+#REF-CODE   (R,LA-163,1944)
+#REFERENCE  Report LA-163, 1944
+#DATASETS   0
+#
+#DATASET    14731002 
+#DATE       20220118
+#REACTION   92-U-238(N,F),,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3  18    2500000.          0.450000 0.050000                                       H.M.Agnew+           (44)14731  2 
+    1 92238   3  18    3000000.          0.507000 0.035000                                       H.M.Agnew+           (44)14731  2 
+#/DATA      2
+#/DATASET

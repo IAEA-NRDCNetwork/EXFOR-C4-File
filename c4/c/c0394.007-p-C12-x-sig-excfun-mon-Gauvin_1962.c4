@@ -1,0 +1,36 @@
+#ENTRY      C0394
+#AUTHOR1    H.Gauvin+
+#YEAR       1962
+#INSTITUTE  (2FR PAR)
+#TITLE      Emission of alpha particles from the spallation
+#+          reactions
+#AUTHOR(S)  H.Gauvin, M.Lefort, X.Tarrago
+#REF-CODE   (J,NP,39,447,1962)
+#REFERENCE  Nucl.Phys. 39 (1962) 447 (doi:10.1016/0029-5582(62)90403-0)
+#DATASETS   0
+#
+#DATASET    C0394007 
+#DATE       20220530
+#REACTION   6-C-12(P,X)4-BE-7,,SIG
+#PROJ       1001
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  6012   3 454 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   3 454 C  5.0000+7          0.022000 1.0000-3            4007.9                     H.Gauvin+            (62)C0394  7 
+ 1001  6012   3 454 C  6.0000+7          0.021000 1.0000-3            4007.9                     H.Gauvin+            (62)C0394  7 
+ 1001  6012   3 454 C  7.0000+7          0.019000 1.0000-3            4007.9                     H.Gauvin+            (62)C0394  7 
+ 1001  6012   3 454 C  8.0000+7          0.017500 1.0000-3            4007.9                     H.Gauvin+            (62)C0394  7 
+ 1001  6012   3 454 C  8.5000+7          0.016500 1.0000-3            4007.9                     H.Gauvin+            (62)C0394  7 
+ 1001  6012   3 454 C  9.0000+7          0.016000 1.0000-3            4007.9                     H.Gauvin+            (62)C0394  7 
+ 1001  6012   3 454 C  1.0000+8          0.015000 8.0000-4            4007.9                     H.Gauvin+            (62)C0394  7 
+ 1001  6012   3 454 C  1.1000+8          0.014000 8.0000-4            4007.9                     H.Gauvin+            (62)C0394  7 
+ 1001  6012   3 454 C  1.2000+8          0.013000 7.0000-4            4007.9                     H.Gauvin+            (62)C0394  7 
+ 1001  6012   3 454 C  1.3000+8          0.012000                     4007.9                     H.Gauvin+            (62)C0394  7 
+ 1001  6012   3 454 C  1.5000+8          0.010500 5.0000-4            4007.9                     H.Gauvin+            (62)C0394  7 
+#/DATA      11
+#/DATASET

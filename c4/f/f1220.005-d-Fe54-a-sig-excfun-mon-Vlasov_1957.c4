@@ -1,0 +1,35 @@
+#ENTRY      F1220
+#AUTHOR1    N.A.Vlasov+
+#YEAR       1957
+#INSTITUTE  (4RUSKUR)
+#TITLE      Excitation functions for the reactions Mg-24(d,a)Na-22,
+#+          Fe-54(d,a)Mn-52, Fe-54(d,n)Co-55, Zn-66(d,2n)Ga-66.
+#AUTHOR(S)  N.A.Vlasov, S.P.Kalinin, A.A.Ogloblin, V.M.Pankratov, V.P.Rudakov, 
+#+          I.N.Serikov, V.A.Sidorov
+#REF-CODE   (J,AE,2,169,1957)
+#REFERENCE  At.En. 2 (1957) 169
+#DATASETS   0
+#
+#DATASET    F1220005 
+#DATE       20200117
+#REACTION   26-FE-54(D,A)25-MN-52-G,,SIG
+#PROJ       1002
+#TARG       26054
+#MF         3
+#MT         107
+#PRODUCT    25-MN-52-G
+#C4BEGIN    [ 1002 26054   3 107G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 26054   3 107G   4610000.          9.5000-4 1.4250-4                                       N.A.Vlasov+          (57)F1220  5 
+ 1002 26054   3 107G   6510000.          7.4000-3 1.1100-3                                       N.A.Vlasov+          (57)F1220  5 
+ 1002 26054   3 107G   8040000.          0.014792 2.2188-3                                       N.A.Vlasov+          (57)F1220  5 
+ 1002 26054   3 107G   9540000.          0.022961 3.4441-3                                       N.A.Vlasov+          (57)F1220  5 
+ 1002 26054   3 107G   1.0530+7          0.031611 4.7417-3                                       N.A.Vlasov+          (57)F1220  5 
+ 1002 26054   3 107G   1.1540+7          0.033129 4.9693-3                                       N.A.Vlasov+          (57)F1220  5 
+ 1002 26054   3 107G   1.1830+7          0.034205 5.1307-3                                       N.A.Vlasov+          (57)F1220  5 
+ 1002 26054   3 107G   1.2840+7          0.034947 5.2421-3                                       N.A.Vlasov+          (57)F1220  5 
+ 1002 26054   3 107G   1.3530+7          0.026863 4.0295-3                                       N.A.Vlasov+          (57)F1220  5 
+#/DATA      9
+#/DATASET

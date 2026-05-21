@@ -1,0 +1,26 @@
+#ENTRY      40818
+#AUTHOR1    V.S.Pantuev+
+#YEAR       1965
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Total cross sections for interaction of neutrons with
+#+          protons and neutrons from 2.6 to 8.3 BeV.
+#AUTHOR(S)  V.S.Pantuev, M.N.Khachaturyan, I.V.Chuvilo
+#REF-CODE   (J,YF,1,134,1965)
+#REFERENCE  Yad.Fiz. 1 (1965) 134
+#DATASETS   0
+#
+#DATASET    40818002 
+#DATE       20190715
+#REACTION   0-NN-1(N,TOT),,SIG
+#PROJ       1
+#TARG       0001
+#MF         3
+#MT         1
+#C4BEGIN    [    1  0001   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  0001   3   1    5.5000+9 7.0000+8 0.034800 1.6000-3                                       V.S.Pantuev+         (65)40818  2 
+    1  0001   3   1    8.3000+9 8.5000+8 0.031500 1.7000-3                                       V.S.Pantuev+         (65)40818  2 
+#/DATA      2
+#/DATASET

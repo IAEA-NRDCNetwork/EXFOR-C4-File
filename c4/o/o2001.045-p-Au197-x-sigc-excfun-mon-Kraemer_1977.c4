@@ -1,0 +1,26 @@
+#ENTRY      O2001
+#AUTHOR1    S.Kraemer+
+#YEAR       1977
+#INSTITUTE  (2GERTHD)
+#TITLE      Cross section measurements of high energy protons
+#+          induced reactions in gold, tantalum and silver targets.
+#AUTHOR(S)  S.Kraemer, B.Neidhart, K.Baechmann
+#REF-CODE   (J,INC,13,205,1977)
+#REFERENCE  Inorg.Nucl.Chem.Lett 13 (1977) 205 (doi:10.1016/0020-1650(77)80095-0)
+#DATASETS   0
+#
+#DATASET    O2001045 
+#DATE       20120808
+#REACTION   79-AU-197(P,X)54-XE-127,CUM,SIG
+#PROJ       1001
+#TARG       79197
+#MF         3
+#MT         459
+#PRODUCT    54-XE-127
+#C4BEGIN    [ 1001 79197   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   3 459    2.400+10          7.3700-3 1.8400-3           54127.9                     S.Kraemer+           (77)O2001 45 
+#/DATA      1
+#/DATASET

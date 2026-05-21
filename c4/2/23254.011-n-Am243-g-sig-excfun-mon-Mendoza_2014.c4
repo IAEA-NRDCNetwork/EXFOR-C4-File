@@ -1,0 +1,80 @@
+#ENTRY      23254
+#AUTHOR1    E.Mendoza+
+#YEAR       2014
+#INSTITUTE  (2SPNPCM)
+#TITLE      Measurement and analysis of the 243Am neutron capture
+#+          cross section at the nTOF facility at CERN.
+#AUTHOR(S)  E.Mendoza, D.Cano-Ott, C.Guerrero, E.Berthoumieux, U.Abbondanno, 
+#+          G.Aerts, F.Alvarez-Velarde, S.Andriamonje, J.Andrzejewski, 
+#+          P.Assimakopoulos, L.Audouin, G.Badurek, J.Balibrea, P.Baumann, 
+#+          F.Becvar, F.Belloni, F.Calvino, M.Calviani, R.Capote, C.Carrapico, 
+#+          A.Carrillo de Albornoz, P.Cennini, V.Chepel, E.Chiaveri, 
+#+          N.Colonna, G.Cortes, A.Couture, J.Cox, M.Dahlfors, S.David, 
+#+          I.Dillmann, R.Dolfini, C.Domingo-Pardo, W.Dridi, I.Duran, 
+#+          C.Eleftheriadis, L.Ferrant, A.Ferrari, R.Ferreira-Marques, 
+#+          L.Fitzpatrick, H.Frais-Koelbl, K.Fujii, W.Furman, I.Goncalves, 
+#+          E.Gonzalez-Romero, A.Goverdovski, F.Gramegna, E.Griesmayer, 
+#+          F.Gunsing, B.Haas, R.Haight, M.Heil, A.Herrera-Martinez, 
+#+          M.Igashira, S.Isaev, E.Jericha, F.Kaeppeler, Y.Kadi, D.Karadimos, 
+#+          D.Karamanis, V.Ketlerov, M.Kerveno, P.Koehler, V.Konovalov, 
+#+          E.Kossionides, M.Krticka, C.Lampoudis, H.Leeb, A.Lindote, 
+#+          S.Lo Meo, I.Lopes, R.Lossito, M.Lozano, S.Lukic, J.Marganiec, 
+#+          L.Marques, S.Marrone, T.Martinez, C.Massimi, P.Mastinu, 
+#+          A.Mengoni, P.M.Milazzo, C.Moreau, M.Mosconi, F.Neves, H.Oberhummer, 
+#+          S.O'Brien, M.Oshima, J.Pancin, C.Papachristodoulou, C.Papadopoulos, 
+#+          C.Paradela, N.Patronis, A.Pavlik, P.Pavlopoulos, L.Perrot, 
+#+          M.T.Pigni, R.Plag, A.Plompen, A.Plukis, A.Poch, J.Praena, 
+#+          C.Pretel, J.Quesada, T.Rauscher, R.Reifarth, C.Rubbia, G.Rudolf, 
+#+          P.Rullhusen, J.Salgado, C.Santos, L.Sarchiapone, I.Savvidis, 
+#+          C.Stephan, G.Tagliente, J.L.Tain, L.Tassan-Got, L.Tavora, 
+#+          R.Terlizzi, G.Vannini, P.Vaz, A.Ventura, D.Villamarin, M.C.Vicente, 
+#+          V.Vlachoudis, R.Vlastou, F.Voss, S.Walter, H.Wendler, M.Wiescher, 
+#+          K.Wisshak
+#REF-CODE   (J,PR/C,90,034608,2014)
+#REFERENCE  Phys.Rev.C 90 (2014) 034608 (doi:10.1103/PhysRevC.90.034608)
+#DATASETS   0
+#
+#DATASET    23254011 
+#DATE       20210608
+#REACTION   95-AM-243(N,G)95-AM-244,,SIG
+#PROJ       1
+#TARG       95243
+#MF         3
+#MT         102
+#PRODUCT    95-AM-244
+#C4BEGIN    [    1 95243   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95243   3 102 D  259.9719          31.01783 1.987575                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  280.7112          31.65634 1.948817                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  303.1049          19.93507 2.048256                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  327.2852          20.89207 2.101860                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  353.3944          16.61177 1.969544                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  381.5865          22.31351 1.902982                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  412.0276          19.90961 1.970511                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  444.8972          16.68832 1.888378                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  480.3890          17.17156 1.862660                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  518.7121          14.92906 1.925126                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  560.0924          17.62226 1.906821                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  604.7739          16.74147 1.916003                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  653.0198          13.67768 1.864463                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  705.1146          9.231766 1.981484                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  761.3652          13.15578 1.884542                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  822.1033          12.51165 1.854042                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  887.6867          10.92440 1.843801                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  958.5021          16.43195 1.755151                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  1034.966          15.08871 1.850793                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  1117.531          11.27870 1.876370                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  1206.682          10.74513 1.844393                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  1302.945          7.725727 1.979731                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  1406.888          7.097198 1.935443                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  1519.123          8.693390 1.980427                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  1640.311          9.325047 1.848686                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  1771.167          7.756962 1.887886                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  1912.463          8.704304 1.844896                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  2065.030          8.852734 1.819596                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  2229.768          3.829666 1.929245                                       E.Mendoza+           (14)23254 11 
+    1 95243   3 102 D  2407.648          7.943459 1.859021                                       E.Mendoza+           (14)23254 11 
+#/DATA      30
+#/DATASET

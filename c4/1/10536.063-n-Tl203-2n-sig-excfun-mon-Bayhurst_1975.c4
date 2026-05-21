@@ -1,0 +1,38 @@
+#ENTRY      10536
+#AUTHOR1    B.P.Bayhurst+
+#YEAR       1975
+#INSTITUTE  (1USALAS)
+#TITLE      Cross sections for (n,xn) reactions between 7.5 and
+#+          28 MeV
+#AUTHOR(S)  B.P.Bayhurst, J.S.Gilmore, R.J.Prestwood, J.B.Wilhelmy, 
+#+          N.Jarmie, B.H.Erkkila, R.A.Hardekopf
+#REF-CODE   (J,PR/C,12,451,197508)
+#REFERENCE  Phys.Rev.C 12 (1975) 451 (doi:10.1103/PhysRevC.12.451)
+#DATASETS   0
+#
+#DATASET    10536063 
+#DATE       20040511
+#REACTION   81-TL-203(N,2N)81-TL-202,,SIG
+#PROJ       1
+#TARG       81203
+#MF         3
+#MT         16
+#PRODUCT    81-TL-202
+#C4BEGIN    [    1 81203   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 81203   3  16 A  8610000. 250000.0 0.158000 7.0000-3                                       B.P.Bayhurst+        (75)10536 63 
+    1 81203   3  16 A  9320000. 310000.0 0.576000 0.024000                                       B.P.Bayhurst+        (75)10536 63 
+    1 81203   3  16 A  9360000. 260000.0 0.569000 0.024000                                       B.P.Bayhurst+        (75)10536 63 
+    1 81203   3  16 A  1.4100+7 50000.00 2.090000 0.089000                                       B.P.Bayhurst+        (75)10536 63 
+    1 81203   3  16 A  1.4890+7 50000.00 2.077000 0.088000                                       B.P.Bayhurst+        (75)10536 63 
+    1 81203   3  16 A  1.7230+7 170000.0 2.150000 0.092000                                       B.P.Bayhurst+        (75)10536 63 
+    1 81203   3  16 A  1.8230+7 100000.0 1.865000 0.080000                                       B.P.Bayhurst+        (75)10536 63 
+    1 81203   3  16 A  1.9990+7 110000.0 1.243000 0.053000                                       B.P.Bayhurst+        (75)10536 63 
+    1 81203   3  16 A  2.1250+7 180000.0 0.851000 0.036000                                       B.P.Bayhurst+        (75)10536 63 
+    1 81203   3  16 A  2.2010+7 140000.0 0.728000 0.031000                                       B.P.Bayhurst+        (75)10536 63 
+    1 81203   3  16 A  2.3350+7 120000.0 0.508000 0.021000                                       B.P.Bayhurst+        (75)10536 63 
+    1 81203   3  16 A  2.4490+7 130000.0 0.490000 0.021000                                       B.P.Bayhurst+        (75)10536 63 
+#/DATA      12
+#/DATASET

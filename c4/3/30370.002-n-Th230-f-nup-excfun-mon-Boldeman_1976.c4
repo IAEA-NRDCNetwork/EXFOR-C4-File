@@ -1,0 +1,28 @@
+#ENTRY      30370
+#AUTHOR1    J.W.Boldeman+
+#YEAR       1976
+#INSTITUTE  (3AULAUA)
+#TITLE      nu-p-bar for sub-barrier fission in 230Th
+#AUTHOR(S)  J.W.Boldeman, R.L.Walsh
+#REF-CODE   (J,PL/B,62,149,197605)
+#REFERENCE  Phys.Lett.B 62 (1976) 149 (doi:10.1016/0370-2693(76)90490-1)
+#DATASETS   0
+#
+#DATASET    30370002 
+#DATE       20101129
+#REACTION   90-TH-230(N,F),PR,NU
+#PROJ       1
+#TARG       90230
+#MF         1
+#MT         456
+#C4BEGIN    [    1 90230   1 456 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90230   1 456 P  715000.0 15000.00 2.027000 0.032000                                       J.W.Boldeman+        (76)30370  2 
+    1 90230   1 456 P  1100000. 17000.00 2.089000 0.042000                                       J.W.Boldeman+        (76)30370  2 
+    1 90230   1 456 P  1350000. 50000.00 2.095000 0.031000                                       J.W.Boldeman+        (76)30370  2 
+    1 90230   1 456 P  1650000. 50000.00 2.123000 0.031000                                       J.W.Boldeman+        (76)30370  2 
+    1 90230   1 456 P  1900000. 50000.00 2.147000 0.029000                                       J.W.Boldeman+        (76)30370  2 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      13393
+#AUTHOR1    T.J.Kennett+
+#YEAR       1956
+#INSTITUTE  (1CANMCM)
+#TITLE      Mass spectrometrically determined independent yields
+#+          of I128, I130, Br80, and Br82 for U233, U235, and
+#+          Pu239 fission
+#AUTHOR(S)  T.J.Kennett, H.G.Thode
+#REF-CODE   (J,PR,103,323,1956)
+#REFERENCE  Phys.Rev. 103 (1956) 323 (doi:10.1103/PhysRev.103.323)
+#DATASETS   0
+#
+#DATASET    13393006 
+#DATE       20201215
+#REACTION   94-PU-239(N,F)ELEM/MASS,CUM,FY,,MXW
+#PROJ       1
+#TARG       94239
+#MF         8
+#MT         459
+#C4BEGIN    [    1 94239   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   8 459    0.025300          2.0000-6          53.00000 128.0000 9.000000            T.J.Kennett+         (56)13393  6 
+    1 94239   8 459    0.025300          5.2000-5          53.00000 130.0000 9.000000            T.J.Kennett+         (56)13393  6 
+#/DATA      2
+#/DATASET

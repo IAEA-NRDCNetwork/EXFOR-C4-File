@@ -1,0 +1,31 @@
+#ENTRY      22421
+#AUTHOR1    Eun Joo Kim+
+#YEAR       1999
+#INSTITUTE  (2JPNTOH)
+#TITLE      Measurements of activation cross sections on
+#+          spallation reactions for 59Co and nat-Cu at incident
+#+          neutron energies of 40 to 120 MeV
+#AUTHOR(S)  Eun Joo Kim, T.Nakamura, Y.Uwamino, N.Nakanishi, M.Imamura, 
+#+          N.Nakao, S.Shibata, S.Tanaka
+#REF-CODE   (J,NST,36,(1),29,1999)
+#REFERENCE  J.Nucl.Sci.Technol. 36 No.1 (1999) 29 (doi:10.1080/18811248.1999.9726179)
+#DATASETS   0
+#
+#DATASET    22421008 
+#DATE       20171108
+#REACTION   27-CO-59(N,5N)27-CO-55,,SIG,,SPA
+#PROJ       1
+#TARG       27059
+#MF         3
+#MT         152
+#PRODUCT    27-CO-55
+#C4BEGIN    [    1 27059   3 152  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   3 152    5.5000+7 1450000. 8.6240-4 1.5650-4                                       Eun Joo Kim+         (99)22421  8 
+    1 27059   3 152    5.5000+7 1450000. 6.7910-4 5.3510-5                                       Eun Joo Kim+         (99)22421  8 
+    1 27059   3 152    6.1000+7 1300000. 1.5480-3 2.3220-4                                       Eun Joo Kim+         (99)22421  8 
+    1 27059   3 152    7.5000+7 1700000. 1.8030-3 3.3540-4                                       Eun Joo Kim+         (99)22421  8 
+#/DATA      4
+#/DATASET

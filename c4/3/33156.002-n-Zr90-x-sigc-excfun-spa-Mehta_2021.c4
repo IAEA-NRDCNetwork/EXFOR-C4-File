@@ -1,0 +1,31 @@
+#ENTRY      33156
+#AUTHOR1    M.Mehta+
+#YEAR       2021
+#INSTITUTE  (3INDBDA)
+#TITLE      Measurement of 90Zr(n,2n)89Zr and 90Zr(n,p)90mY
+#+          reaction cross-sections in the neutron energy range
+#+          of 10.95 to 20.02 MeV
+#AUTHOR(S)  M.Mehta, N.L.Singh, R.K.Singh, S.Parashari, P.V.Subhash, 
+#+          H.Naik, R.D.Chauhan, R.Makwana, S.V.Suryanarayana, S.Mukherjee, 
+#+          A.Gandhi, J.Varmuza, K.Katovsky
+#REF-CODE   (J,JRN,328,71,2021)
+#REFERENCE  J.Rad.Nucl.Chem. 328 (2021) 71 (doi:10.1007/s10967-021-07625-y)
+#DATASETS   0
+#
+#DATASET    33156002 
+#DATE       20211201
+#REACTION   40-ZR-90(N,2N)40-ZR-89-G,M+,SIG,,SPA
+#PROJ       1
+#TARG       40090
+#MF         3
+#MT         459
+#PRODUCT    40-ZR-89-G
+#C4BEGIN    [    1 40090   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   3 459    1.3970+7 680000.0 0.515173 0.079507           40089.0                     M.Mehta+             (21)33156  2 
+    1 40090   3 459    1.6990+7 530000.0 1.011788 0.153992           40089.0                     M.Mehta+             (21)33156  2 
+    1 40090   3 459    2.0020+7 580000.0 1.091078 0.178243           40089.0                     M.Mehta+             (21)33156  2 
+#/DATA      3
+#/DATASET

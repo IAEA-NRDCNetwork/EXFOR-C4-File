@@ -1,0 +1,47 @@
+#ENTRY      F1109
+#AUTHOR1    W.J.Naude+
+#YEAR       1968
+#INSTITUTE  (3SAFSUN)
+#TITLE      An analysis of the reaction K-39(d,a)Ar-37 on the basis
+#+          of the statistical model.
+#AUTHOR(S)  W.J.Naude, A.Bottega, W.R.McMurray
+#REF-CODE   (J,NP/A,114,551,1968)
+#REFERENCE  Nucl.Phys.A 114 (1968) 551 (doi:10.1016/0375-9474(68)90284-4)
+#DATASETS   0
+#
+#DATASET    F1109006 
+#DATE       20110128
+#REACTION   19-K-39(D,A)18-AR-37,PAR,DA,,AV
+#PROJ       1002
+#TARG       19039
+#MF         4
+#MT         800
+#PRODUCT    18-AR-37
+#C4BEGIN    [ 1002 19039   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 19039   4 800  C 4935000. 385000.0 1.0002-4 1.5730-5 0.464595          2500000.         LVLW.J.Naude+           (68)F1109  6 
+ 1002 19039   4 800  C 4935000. 385000.0 7.5440-5 1.0130-5-0.040603          2500000.         LVLW.J.Naude+           (68)F1109  6 
+ 1002 19039   4 800  C 4935000. 385000.0 9.4690-5 7.8650-6-0.534647          2500000.         LVLW.J.Naude+           (68)F1109  6 
+ 1002 19039   4 800  C 4935000. 385000.0 1.1283-4 1.0110-5-0.916083          2500000.         LVLW.J.Naude+           (68)F1109  6 
+#/DATA      4
+#/DATASET
+#
+#DATASET    F1109006 
+#DATE       20110128
+#REACTION   19-K-39(D,A)18-AR-37,PAR,DA,,AV
+#PROJ       1002
+#TARG       19039
+#MF         4
+#MT         800
+#PRODUCT    18-AR-37
+#C4BEGIN    [ 1002 19039   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 19039   4 800  C 4935000. 385000.0 1.9904-4 1.4130-5-0.040167          2810000.         LVLW.J.Naude+           (68)F1109  6 
+ 1002 19039   4 800  C 4935000. 385000.0 1.5132-4 1.0870-5-0.532138          2810000.         LVLW.J.Naude+           (68)F1109  6 
+ 1002 19039   4 800  C 4935000. 385000.0 2.2102-4 1.9570-5-0.918446          2810000.         LVLW.J.Naude+           (68)F1109  6 
+#/DATA      3
+#/DATASET

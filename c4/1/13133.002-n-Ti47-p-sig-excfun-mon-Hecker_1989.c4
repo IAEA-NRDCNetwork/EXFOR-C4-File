@@ -1,0 +1,31 @@
+#ENTRY      13133
+#AUTHOR1    W.V.Hecker+
+#YEAR       1989
+#INSTITUTE  (1USAAUB)
+#TITLE      Partial neutron cross sections for 47Ti and 48Ti
+#+          between 14.3 and 19.1 MeV
+#AUTHOR(S)  W.V.Hecker, J.R.Williams, W.L.Alford, S.K.Ghorai
+#REF-CODE   (J,NIM/B,40-41,478,1989)
+#REFERENCE  Nucl.Instrum.Meth.B 40-41 (1989) 478 (doi:10.1016/0168-583X(89)91025-2)
+#DATASETS   0
+#
+#DATASET    13133002 
+#DATE       20210920
+#REACTION   22-TI-47(N,P)21-SC-47,,SIG
+#PROJ       1
+#TARG       22047
+#MF         3
+#MT         103
+#PRODUCT    21-SC-47
+#C4BEGIN    [    1 22047   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22047   3 103 A  1.4300+7 300000.0 0.158000 9.0000-3                                       W.V.Hecker+          (89)13133  2 
+    1 22047   3 103 A  1.4900+7 600000.0 0.142000 0.012000                                       W.V.Hecker+          (89)13133  2 
+    1 22047   3 103 A  1.6200+7 200000.0 0.131000 7.0000-3                                       W.V.Hecker+          (89)13133  2 
+    1 22047   3 103 A  1.7100+7 100000.0 0.103000 6.0000-3                                       W.V.Hecker+          (89)13133  2 
+    1 22047   3 103 A  1.8200+7 100000.0 0.125000 0.010000                                       W.V.Hecker+          (89)13133  2 
+    1 22047   3 103 A  1.9100+7 100000.0 0.122000 9.0000-3                                       W.V.Hecker+          (89)13133  2 
+#/DATA      6
+#/DATASET

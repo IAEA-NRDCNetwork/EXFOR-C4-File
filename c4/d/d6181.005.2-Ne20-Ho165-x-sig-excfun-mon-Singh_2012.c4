@@ -1,0 +1,35 @@
+#ENTRY      D6181
+#AUTHOR1    D.Singh+
+#YEAR       2012
+#INSTITUTE  (3INDNSD)
+#TITLE      Observation of entrance channel mass-asymmetry effect
+#+          on incomplete fusion reaction for 20Ne + 165Ho system
+#AUTHOR(S)  D.Singh, R.Ali, M.A.Ansari, B.S.Tomar, M.H.Rashid, R.Guin, 
+#+          S.K.Das
+#REF-CODE   (J,NP/A,879,107,2012)
+#REFERENCE  Nucl.Phys.A 879 (2012) 107 (doi:10.1016/j.nuclphysa.2012.01.020)
+#DATASETS   0
+#
+#DATASET    D61810052
+#DATE       20220906
+#REACTION   67-HO-165(10-NE-20,X)75-RE-181,,SIG
+#PROJ       10020
+#TARG       67165
+#MF         3
+#MT         454
+#PRODUCT    75-RE-181
+#C4BEGIN    [10020 67165   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10020 67165   3 454    1.0300+8 2100000. 5.7000-3 5.0000-4           75181.9                     D.Singh+             (12)D6181  52
+10020 67165   3 454    1.1000+8 2100000. 0.031600 3.0000-3           75181.9                     D.Singh+             (12)D6181  52
+10020 67165   3 454    1.1710+8 2100000. 0.076800 7.2000-3           75181.9                     D.Singh+             (12)D6181  52
+10020 67165   3 454    1.2370+8 2000000. 0.056000 5.3000-3           75181.9                     D.Singh+             (12)D6181  52
+10020 67165   3 454    1.3010+8 2000000. 0.013900 1.4000-3           75181.9                     D.Singh+             (12)D6181  52
+10020 67165   3 454    1.3410+8 2000000. 7.5000-3 8.0000-4           75181.9                     D.Singh+             (12)D6181  52
+10020 67165   3 454    1.4180+8 1900000. 4.2000-3 5.0000-4           75181.9                     D.Singh+             (12)D6181  52
+10020 67165   3 454    1.4930+8 1900000. 4.9000-3 5.0000-4           75181.9                     D.Singh+             (12)D6181  52
+10020 67165   3 454    1.5650+8 1900000. 7.0000-3 7.0000-4           75181.9                     D.Singh+             (12)D6181  52
+#/DATA      9
+#/DATASET

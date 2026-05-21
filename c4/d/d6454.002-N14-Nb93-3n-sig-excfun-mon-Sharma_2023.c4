@@ -1,0 +1,31 @@
+#ENTRY      D6454
+#AUTHOR1    H.Sharma+
+#YEAR       2023
+#INSTITUTE  (3INDIRR)
+#TITLE      Analysis of residual cross sections from 14N+93Nb
+#+          reaction: fusion dynamics of a non-alpha-cluster
+#+          projectile
+#AUTHOR(S)  H.Sharma, M.Maiti, T.N.Nag, S.Sodaye
+#REF-CODE   (J,PR/C,107,064601,2023)
+#REFERENCE  Phys.Rev.C 107 (2023) 064601 (doi:10.1103/PhysRevC.107.064601)
+#DATASETS   0
+#
+#DATASET    D6454002 
+#DATE       20231117
+#REACTION   41-NB-93(7-N-14,3N)48-CD-104,,SIG
+#PROJ       7014
+#TARG       41093
+#MF         3
+#MT         17
+#PRODUCT    48-CD-104
+#C4BEGIN    [ 7014 41093   3  17 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014 41093   3  17 A  5.8600+7 1400000. 0.050700 5.4000-3                                       H.Sharma+            (23)D6454  2 
+ 7014 41093   3  17 A  5.3900+7 1500000. 0.079900 7.8000-3                                       H.Sharma+            (23)D6454  2 
+ 7014 41093   3  17 A  5.0900+7 1500000. 0.090900 8.8000-3                                       H.Sharma+            (23)D6454  2 
+ 7014 41093   3  17 A  4.5800+7 1600000. 0.043200 4.2000-3                                       H.Sharma+            (23)D6454  2 
+ 7014 41093   3  17 A  4.2600+7 1700000. 0.012100 1.3000-3                                       H.Sharma+            (23)D6454  2 
+#/DATA      5
+#/DATASET

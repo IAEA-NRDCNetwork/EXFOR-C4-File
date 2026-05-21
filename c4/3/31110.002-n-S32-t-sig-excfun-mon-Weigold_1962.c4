@@ -1,0 +1,27 @@
+#ENTRY      31110
+#AUTHOR1    E.Weigold+
+#YEAR       1962
+#INSTITUTE  (3AULCBR)
+#TITLE      Some activation measurements and a comparison with
+#+          theoretical (n,2n) cross sections and isomeric cross
+#+          section ratios.
+#AUTHOR(S)  E.Weigold, R.N.Glover
+#REF-CODE   (J,NP,32,106,1962)
+#REFERENCE  Nucl.Phys. 32 (1962) 106 (doi:10.1016/0029-5582(62)90322-X)
+#DATASETS   0
+#
+#DATASET    31110002 
+#DATE       20211202
+#REACTION   16-S-32(N,T)15-P-30,,SIG
+#PROJ       1
+#TARG       16032
+#MF         3
+#MT         105
+#PRODUCT    15-P-30
+#C4BEGIN    [    1 16032   3 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 16032   3 105    1.4700+7 300000.0 2.0000-5 5.0000-6                                       E.Weigold+           (62)31110  2 
+#/DATA      1
+#/DATASET

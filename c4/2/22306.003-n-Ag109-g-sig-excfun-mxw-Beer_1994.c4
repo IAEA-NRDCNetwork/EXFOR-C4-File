@@ -1,0 +1,29 @@
+#ENTRY      22306
+#AUTHOR1    H.Beer+
+#YEAR       1994
+#INSTITUTE  (2GERKFK)
+#TITLE      The fast cyclic neutron activation technique
+#+          at the Karlsruhe 3.75 MV Van de Graaff
+#+          accelerator and the measurements of the
+#+          107,109Ag(n,gamma)108,110Ag cross sections
+#+          at kT=25 keV
+#AUTHOR(S)  H.Beer, G.Rupp, G.Walter, F.Voss, F.Kaeppeler
+#REF-CODE   (J,NIM/A,337,492,1994)
+#REFERENCE  Nucl.Instrum.Meth.A 337 (1994) 492 (doi:10.1016/0168-9002(94)91119-3)
+#DATASETS   0
+#
+#DATASET    22306003 
+#DATE       20210903
+#REACTION   47-AG-109(N,G)47-AG-110,,SIG,,MXW
+#PROJ       1
+#TARG       47109
+#MF         3
+#MT         102
+#PRODUCT    47-AG-110
+#C4BEGIN    [    1 47109   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 47109   3 102    25000.00          0.887000 0.075000                                       H.Beer+              (94)22306  3 
+#/DATA      1
+#/DATASET

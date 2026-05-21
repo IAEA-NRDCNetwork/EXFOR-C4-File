@@ -1,0 +1,26 @@
+#ENTRY      11703
+#AUTHOR1    G.W.McClure+
+#YEAR       1955
+#INSTITUTE  (1USABAR)
+#TITLE      Inelastic scattering of 14 MeV neutrons.
+#AUTHOR(S)  G.W.McClure, D.W.Kent
+#REF-CODE   (J,JFI,260,238(2),1955)
+#REFERENCE  J.Franklin Inst. 260 (1955) 238(2)
+#DATASETS   0
+#
+#DATASET    11703003 
+#DATE       20200503
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,SIG,G
+#PROJ       1
+#TARG       26056
+#MF         13
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056  13  51    1.4000+7          7.5000-4 7.5000-5                   850000.0            G.W.McClure+         (55)11703  3 
+    1 26056  13  51    1.4000+7          2.6000-4 2.6000-5                   1250000.            G.W.McClure+         (55)11703  3 
+#/DATA      2
+#/DATASET

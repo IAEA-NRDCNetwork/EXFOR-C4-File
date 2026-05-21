@@ -1,0 +1,32 @@
+#ENTRY      D6196
+#AUTHOR1    A.Yadav+
+#YEAR       2012
+#INSTITUTE  (3INDMUA)
+#TITLE      Large influence of incomplete fusion in 12C + 159Tb
+#+          at Elab ~ 4-7 MeV/nucleon
+#AUTHOR(S)  A.Yadav, V.R.Sharma, P.P.Singh, D.P.Singh, M.K.Sharma, U.Gupta, 
+#+          R.Kumar, B.P.Singh, R.Prasad, R.K.Bhowmik
+#REF-CODE   (J,PR/C,85,034614,2012)
+#REFERENCE  Phys.Rev.C 85 (2012) 034614 (doi:10.1103/PhysRevC.85.034614)
+#DATASETS   0
+#
+#DATASET    D6196010 
+#DATE       20220906
+#REACTION   65-TB-159(6-C-12,X)67-HO-160-M1,(CUM),SIG
+#PROJ       6012
+#TARG       65159
+#MF         3
+#MT         459
+#PRODUCT    67-HO-160-M1
+#C4BEGIN    [ 6012 65159   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 65159   3 459    7.4970+7 570000.0 1.4100-3 2.1000-4           67160.1                     A.Yadav+             (12)D6196 10 
+ 6012 65159   3 459    7.7770+7 620000.0 1.5500-3 2.3000-4           67160.1                     A.Yadav+             (12)D6196 10 
+ 6012 65159   3 459    7.9620+7 610000.0 1.8300-3 2.5000-4           67160.1                     A.Yadav+             (12)D6196 10 
+ 6012 65159   3 459    8.2470+7 820000.0 2.2400-3 3.6000-4           67160.1                     A.Yadav+             (12)D6196 10 
+ 6012 65159   3 459    8.4440+7 560000.0 2.5600-3 3.4000-4           67160.1                     A.Yadav+             (12)D6196 10 
+ 6012 65159   3 459    8.7310+7 690000.0 2.0000-3 3.1000-4           67160.1                     A.Yadav+             (12)D6196 10 
+#/DATA      6
+#/DATASET

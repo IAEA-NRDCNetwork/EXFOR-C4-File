@@ -1,0 +1,40 @@
+#ENTRY      30028
+#AUTHOR1    A.Abboud+
+#YEAR       1969
+#INSTITUTE  (3POLWWA)
+#TITLE      Isomeric cross-section ratios and total cross-sections
+#+          for the Se-74(n,2n)Se-73-g,m,Zr-90(n,2n)Zr-89-g,m and
+#+          Mo-92(n,2n)Mo-91-g,m reactions
+#AUTHOR(S)  A.Abboud, P.Decowski, W.Grochulski, A.Marcinkowski, J.Piotrowski, 
+#+          K.Siwek, J.Wilhelmi
+#REF-CODE   (J,NP/A,139,42,196912)
+#REFERENCE  Nucl.Phys.A 139 (1969) 42 (doi:10.1016/0375-9474(69)90258-9)
+#DATASETS   0
+#
+#DATASET    30028006 
+#DATE       20080215
+#REACTION   42-MO-92(N,2N)42-MO-91,,SIG
+#PROJ       1
+#TARG       42092
+#MF         3
+#MT         16
+#PRODUCT    42-MO-91
+#C4BEGIN    [    1 42092   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42092   3  16 A  1.2710+7 170000.0 3.5300-3 1.3000-4                                       A.Abboud+            (69)30028  6 
+    1 42092   3  16 A  1.3140+7 100000.0 0.015500 3.0000-4                                       A.Abboud+            (69)30028  6 
+    1 42092   3  16 A  1.3560+7 130000.0 0.102000 2.0000-3                                       A.Abboud+            (69)30028  6 
+    1 42092   3  16 A  1.4180+7 150000.0 0.150700 2.3000-3                                       A.Abboud+            (69)30028  6 
+    1 42092   3  16 A  1.4530+7 110000.0 0.156300 1.5000-3                                       A.Abboud+            (69)30028  6 
+    1 42092   3  16 A  1.4850+7 130000.0 0.201500 2.6000-3                                       A.Abboud+            (69)30028  6 
+    1 42092   3  16 A  1.5050+7 200000.0 0.232200 3.3000-3                                       A.Abboud+            (69)30028  6 
+    1 42092   3  16 A  1.5410+7 270000.0 0.285900 4.3000-3                                       A.Abboud+            (69)30028  6 
+    1 42092   3  16 A  1.5920+7 190000.0 0.386600 7.7000-3                                       A.Abboud+            (69)30028  6 
+    1 42092   3  16 A  1.6250+7 160000.0 0.383300 6.1000-3                                       A.Abboud+            (69)30028  6 
+    1 42092   3  16 A  1.6560+7 130000.0 0.432100 0.010400                                       A.Abboud+            (69)30028  6 
+    1 42092   3  16 A  1.7090+7 100000.0 0.413100 7.8000-3                                       A.Abboud+            (69)30028  6 
+    1 42092   3  16 A  1.7540+7 110000.0 0.389400 0.010100                                       A.Abboud+            (69)30028  6 
+#/DATA      13
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      30953
+#AUTHOR1    B.Ehrenberg+
+#YEAR       1972
+#INSTITUTE  (3ISLSOR)
+#TITLE      Independent yields of krypton and xenon isotopes in
+#+          thermal-neutron fission of 235U; observation of an
+#+          odd-even effect in the element yield distribution
+#AUTHOR(S)  B.Ehrenberg, S.Amiel
+#REF-CODE   (J,PR/C,6,618,1972)
+#REFERENCE  Phys.Rev.C 6 (1972) 618 (doi:10.1103/PhysRevC.6.618)
+#DATASETS   0
+#
+#DATASET    30953005 
+#DATE       20211116
+#REACTION   92-U-235(N,F)ELEM/MASS,IND,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         454
+#C4BEGIN    [    1 92235   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 454    0.025300          0.029700          54.00000 137.0000 9.000000            B.Ehrenberg+         (72)30953  5 
+    1 92235   8 454    0.025300          0.050300          54.00000 138.0000 9.000000            B.Ehrenberg+         (72)30953  5 
+    1 92235   8 454    0.025300          0.051600          54.00000 139.0000 9.000000            B.Ehrenberg+         (72)30953  5 
+    1 92235   8 454    0.025300          0.029200          54.00000 140.0000 9.000000            B.Ehrenberg+         (72)30953  5 
+    1 92235   8 454    0.025300          6.3000-3          54.00000 142.0000 9.000000            B.Ehrenberg+         (72)30953  5 
+    1 92235   8 454    0.025300          2.7000-3          54.00000 143.0000 9.000000            B.Ehrenberg+         (72)30953  5 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      33097
+#AUTHOR1    P.Panikkath+
+#YEAR       2016
+#INSTITUTE  (3INDMNP)
+#TITLE      Thermal-neutron cross sections and resonance
+#+          integrals of 138Ba and 141Pr using Am-Be neutron
+#+          source
+#AUTHOR(S)  P.Panikkath, P.Mohanakrishnan
+#REF-CODE   (J,EPJ/A,52,276,2016)
+#REFERENCE  Eur.Phys.J.A 52 (2016) 276 (doi:10.1140/epja/i2016-16276-9)
+#DATASETS   0
+#
+#DATASET    33097003 
+#DATE       20181113
+#REACTION   56-BA-138(N,G)56-BA-139,,SIG
+#PROJ       1
+#TARG       56138
+#MF         3
+#MT         102
+#PRODUCT    56-BA-139
+#C4BEGIN    [    1 56138   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 56138   3 102    0.025300          0.386000 0.019000                                       P.Panikkath+         (16)33097  3 
+#/DATA      1
+#/DATASET

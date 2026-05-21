@@ -1,0 +1,39 @@
+#ENTRY      22377
+#AUTHOR1    K.Wisshak+
+#YEAR       1996
+#INSTITUTE  (2GERKFK)
+#TITLE      STELLAR NEUTRON CAPTURE CROSS SECTIONS OF THE TIN
+#+          ISOTOPES
+#AUTHOR(S)  K.Wisshak, F.Voss, Ch.Theis, F.Kaeppeler, K.Guber, L.Kazakov, 
+#+          N.Kornilov, G.Reffo
+#REF-CODE   (J,PR/C,54,(3),1451,199609)
+#REFERENCE  Phys.Rev.C 54 No.3 (1996) 1451 (doi:10.1103/PhysRevC.54.1451)
+#DATASETS   0
+#
+#DATASET    22377025 
+#DATE       19990604
+#REACTION   50-SN-117(N,G)50-SN-118,,SIG,,MXW
+#PROJ       1
+#TARG       50117
+#MF         3
+#MT         102
+#PRODUCT    50-SN-118
+#C4BEGIN    [    1 50117   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 50117   3 102 D  10000.00          0.549400 0.013000                                       K.Wisshak+           (96)22377 25 
+    1 50117   3 102 D  12000.00          0.506600 0.010000                                       K.Wisshak+           (96)22377 25 
+    1 50117   3 102 D  20000.00          0.395500 6.5000-3                                       K.Wisshak+           (96)22377 25 
+    1 50117   3 102 D  25000.00          0.351800 5.5000-3                                       K.Wisshak+           (96)22377 25 
+    1 50117   3 102 D  30000.00          0.318800 4.8000-3                                       K.Wisshak+           (96)22377 25 
+    1 50117   3 102 D  40000.00          0.271400 4.0000-3                                       K.Wisshak+           (96)22377 25 
+    1 50117   3 102 D  50000.00          0.239100 3.5000-3                                       K.Wisshak+           (96)22377 25 
+    1 50117   3 102 D  52000.00          0.233700 3.4000-3                                       K.Wisshak+           (96)22377 25 
+    1 50117   3 102 D  60000.00          0.215000 3.1000-3                                       K.Wisshak+           (96)22377 25 
+    1 50117   3 102 D  70000.00          0.196400 2.8000-3                                       K.Wisshak+           (96)22377 25 
+    1 50117   3 102 D  80000.00          0.181500 2.7000-3                                       K.Wisshak+           (96)22377 25 
+    1 50117   3 102 D  90000.00          0.169300 2.5000-3                                       K.Wisshak+           (96)22377 25 
+    1 50117   3 102 D  100000.0          0.159100 2.6000-3                                       K.Wisshak+           (96)22377 25 
+#/DATA      13
+#/DATASET

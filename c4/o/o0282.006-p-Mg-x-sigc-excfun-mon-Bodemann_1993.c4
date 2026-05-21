@@ -1,0 +1,34 @@
+#ENTRY      O0282
+#AUTHOR1    R.Bodemann+
+#YEAR       1993
+#INSTITUTE  (2GERKLN)
+#TITLE      Production of residual nuclei by proton-induced
+#+          reactions on C, N, O, Mg, Al and Si.
+#AUTHOR(S)  R.Bodemann, H.-J.Lange, I.Leya, R.Michel, T.Schiekel, R.Rosel, 
+#+          U.Herpers, H.J.Hofmann, B.Dittrich, M.Suter, W.Woelfli, 
+#+          B.Holmqvist, H.Conde, P.Malmborg
+#REF-CODE   (J,NIM/B,82,9,1993)
+#REFERENCE  Nucl.Instrum.Meth.B 82 (1993) 9 (doi:10.1016/0168-583X(93)95077-I)
+#DATASETS   0
+#
+#DATASET    O0282006 
+#DATE       20220104
+#REACTION   12-MG-0(P,X)11-NA-22,CUM,SIG
+#PROJ       1001
+#TARG       12000
+#MF         3
+#MT         459
+#PRODUCT    11-NA-22
+#C4BEGIN    [ 1001 12000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12000   3 459    3.0400+7 2520000. 0.023800 2.4300-3           11022.9                     R.Bodemann+          (93)O0282  6 
+ 1001 12000   3 459    5.3200+7 1410000. 0.073300 0.010500           11022.9                     R.Bodemann+          (93)O0282  6 
+ 1001 12000   3 459    6.2300+7 1130000. 0.065400 6.7900-3           11022.9                     R.Bodemann+          (93)O0282  6 
+ 1001 12000   3 459    7.0400+7 948000.0 0.060300 6.1200-3           11022.9                     R.Bodemann+          (93)O0282  6 
+ 1001 12000   3 459    8.5000+7 614000.0 0.052200 5.2900-3           11022.9                     R.Bodemann+          (93)O0282  6 
+ 1001 12000   3 459    9.3500+7 486000.0 0.052000 5.4000-3           11022.9                     R.Bodemann+          (93)O0282  6 
+ 1001 12000   3 459    9.8000+7 343000.0 0.048100 4.8800-3           11022.9                     R.Bodemann+          (93)O0282  6 
+#/DATA      7
+#/DATASET

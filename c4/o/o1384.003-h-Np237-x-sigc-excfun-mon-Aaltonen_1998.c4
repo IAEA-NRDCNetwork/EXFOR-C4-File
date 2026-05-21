@@ -1,0 +1,36 @@
+#ENTRY      O1384
+#AUTHOR1    J.Aaltonen+
+#YEAR       1998
+#INSTITUTE  (2SF HLS)
+#TITLE      Production of plutonium tracers in 237-Np nuclear
+#+          reactions with 3-He-ions in the energy range from 26 to
+#+          60 MeV
+#AUTHOR(S)  J.Aaltonen, P.Dendooven, E.A.Gromova, V.A.Jakovlev, W.H.Trzaska
+#REF-CODE   (J,JALC,271,296,1998)
+#REFERENCE  J.Alloys Comp. 271 (1998) 296
+#DATASETS   0
+#
+#DATASET    O1384003 
+#DATE       20060506
+#REACTION   93-NP-237(HE3,X)94-PU-237,(CUM),SIG
+#PROJ       2003
+#TARG       93237
+#MF         3
+#MT         459
+#PRODUCT    94-PU-237
+#C4BEGIN    [ 2003 93237   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 93237   3 459 A  2.5800+7          0.018300 1.8000-3           94237.9                     J.Aaltonen+          (98)O1384  3 
+ 2003 93237   3 459 A  2.8100+7          0.022500 2.3000-3           94237.9                     J.Aaltonen+          (98)O1384  3 
+ 2003 93237   3 459 A  3.0400+7          0.024100 2.6000-3           94237.9                     J.Aaltonen+          (98)O1384  3 
+ 2003 93237   3 459 A  3.4500+7          0.017200 2.1000-3           94237.9                     J.Aaltonen+          (98)O1384  3 
+ 2003 93237   3 459 A  4.0000+7          0.011800 1.2000-3           94237.9                     J.Aaltonen+          (98)O1384  3 
+ 2003 93237   3 459 A  4.2900+7          0.013400 1.4000-3           94237.9                     J.Aaltonen+          (98)O1384  3 
+ 2003 93237   3 459 A  4.4000+7          0.011500 1.2000-3           94237.9                     J.Aaltonen+          (98)O1384  3 
+ 2003 93237   3 459 A  4.7000+7          0.013100 1.3000-3           94237.9                     J.Aaltonen+          (98)O1384  3 
+ 2003 93237   3 459 A  5.1900+7          0.012200 1.2000-3           94237.9                     J.Aaltonen+          (98)O1384  3 
+ 2003 93237   3 459 A  6.0000+7          7.9900-3 8.6000-4           94237.9                     J.Aaltonen+          (98)O1384  3 
+#/DATA      10
+#/DATASET

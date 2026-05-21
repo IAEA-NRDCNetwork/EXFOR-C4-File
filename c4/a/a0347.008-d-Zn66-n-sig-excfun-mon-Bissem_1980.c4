@@ -1,0 +1,29 @@
+#ENTRY      A0347
+#AUTHOR1    H.H.Bissem+
+#YEAR       1980
+#INSTITUTE  (2GERHAM)
+#TITLE      Entrance and exit channel phenomena in d- and He3-
+#+          induced preequilibrium decay
+#AUTHOR(S)  H.H.Bissem, R.Georgi, W.Scobel, J.Ernst, M.Kaba, J.Rama Rao, 
+#+          H.Strohe
+#REF-CODE   (J,PR/C,22,1468,1980)
+#REFERENCE  Phys.Rev.C 22 (1980) 1468 (doi:10.1103/PhysRevC.22.1468)
+#DATASETS   0
+#
+#DATASET    A0347008 
+#DATE       20220814
+#REACTION   30-ZN-66(D,N)31-GA-67,,SIG
+#PROJ       1002
+#TARG       30066
+#MF         3
+#MT         4
+#PRODUCT    31-GA-67
+#C4BEGIN    [ 1002 30066   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 30066   3   4    2.0000+7          0.064500 5.5000-3                                       H.H.Bissem+          (80)A0347  8 
+ 1002 30066   3   4    2.3800+7          0.052100 4.5000-3                                       H.H.Bissem+          (80)A0347  8 
+ 1002 30066   3   4    2.5800+7          0.047800 4.3000-3                                       H.H.Bissem+          (80)A0347  8 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,39 @@
+#ENTRY      E2704
+#AUTHOR1    M.M.Juhasz+
+#YEAR       2021
+#INSTITUTE  (3HUNDEB)
+#TITLE      First spectroscopic study of 63V at the N = 40 island
+#+          of inversion
+#AUTHOR(S)  M.M.Juhasz, Z.Elekes, D.Sohler, K.Sieja, K.Yoshida, K.Ogata, 
+#+          P.Doornenbal, A.Obertelli, H.Baba, F.Browne, D.Calvet, F.Chateau, 
+#+          S.Chen, N.Chiga, A.Corsi, M.L.Cortes, A.Delbart, J.-M.Gheller, 
+#+          A.Giganon, A.Gillibert, C.Hilaire, T.Isobe, T.Kobayashi, 
+#+          Y.Kubota, V.Lapoux, T.Motobayashi, I.Murray, H.Otsu, V.Panin, 
+#+          N.Paul, W.Rodriguez, H.Sakurai, M.Sasano, D.Steppenbeck, 
+#+          L.Stuhl, Y.L.Sun, Y.Togano, T.Uesaka, K.Wimmer, K.Yoneda, 
+#+          N.L.Achouri, O.Aktas, T.Aumann, L.X.Chung, Zs.Dombradi, 
+#+          F.Flavigny, S.Franchoo, I.Gasparic, R.-B.Gerst, J.Gibelin, 
+#+          K.I.Hahn, D.Kim, T.Koiwai, Y.Kondo, P.Koseoglou, J.Lee, 
+#+          C.Lehr, B.D.Linh, H.N.Liu, T.Lokotko, M.MacCormick, K.Moschner, 
+#+          T.Nakamura, S.Y.Park, D.Rossi, E.Sahin, P.-A.Soderstrom, 
+#+          S.Takeuchi, H.Tornqvist, V.Vaquero, V.Wagner, S.Wang, V.Werner, 
+#+          X.Xu, H.Yamada, D.Yan, Z.Yang, M.Yasuda, L.Zanetti
+#REF-CODE   (J,PR/C,103,064308,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 064308 (doi:10.1103/PhysRevC.103.064308)
+#DATASETS   0
+#
+#DATASET    E2704004 
+#DATE       20220818
+#REACTION   (1-H-1(24-CR-64,2P)23-V-63,,SIG)=(24-CR-64(P,2P)23-V-63,,SIG)
+#PROJ       1001
+#TARG       24064
+#MF         3
+#MT         111
+#PRODUCT    23-V-63
+#C4BEGIN    [ 1001 24064   3 111  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24064   3 111    2.5000+8          8.7000-3 4.0000-4                                       M.M.Juhasz+          (21)E2704  4 
+#/DATA      1
+#/DATASET

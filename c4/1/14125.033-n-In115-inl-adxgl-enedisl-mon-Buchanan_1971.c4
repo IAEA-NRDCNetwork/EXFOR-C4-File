@@ -1,0 +1,32 @@
+#ENTRY      14125
+#AUTHOR1    P.S.Buchanan+
+#YEAR       1971
+#INSTITUTE  (1USATNC)
+#TITLE      A compilation of cross sections and angular
+#+          distributions of gamma rays produced by neutron
+#+          bombardment of various nuclei
+#AUTHOR(S)  P.S.Buchanan, D.O.Nellis, W.E.Tucker
+#REF-CODE   (P,ORO-2791-32,1971)
+#REFERENCE  Progress report ORO-2791-32, 1971
+#DATASETS   0
+#
+#DATASET    14125033 
+#DATE       20140527
+#REACTION   49-IN-115(N,INL)49-IN-115,PAR,DA,G
+#PROJ       1
+#TARG       49115
+#MF         14
+#MT         51
+#PRODUCT    49-IN-115
+#C4BEGIN    [    1 49115  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115  14  51    1500000. 50000.00 7.6000-3 1.5200-3 0.573576          511000.0            P.S.Buchanan+        (71)14125 33 
+    1 49115  14  51    1500000. 50000.00 2.1000-3 4.2000-4 0.573576          700000.0            P.S.Buchanan+        (71)14125 33 
+    1 49115  14  51    1500000. 50000.00 1.6000-3 3.2000-4 0.573576          725000.0            P.S.Buchanan+        (71)14125 33 
+    1 49115  14  51    1500000. 50000.00 2.1000-3 4.2000-4 0.573576          1080000.            P.S.Buchanan+        (71)14125 33 
+    1 49115  14  51    1500000. 50000.00 9.4000-3 1.8800-3 0.573576          1140000.            P.S.Buchanan+        (71)14125 33 
+    1 49115  14  51    1500000. 50000.00 2.0000-3 4.0000-4 0.573576          1300000.            P.S.Buchanan+        (71)14125 33 
+#/DATA      6
+#/DATASET

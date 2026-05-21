@@ -1,0 +1,34 @@
+#ENTRY      10447
+#AUTHOR1    C.M.Bartle+
+#YEAR       1981
+#INSTITUTE  (1USAWIS)
+#TITLE      Total cross sections for the 40Ca(n,p) and (n,alpha)
+#+          reactions between 2.7 and 5.5 MeV
+#AUTHOR(S)  C.M.Bartle, P.A.Quin
+#REF-CODE   (J,ANE,8,43,1981)
+#REFERENCE  Ann.Nucl.Energy 8 (1981) 43 (doi:10.1016/0306-4549(81)90041-4)
+#DATASETS   0
+#
+#DATASET    10447002 
+#DATE       20220320
+#REACTION   20-CA-40(N,A)18-AR-37,PAR,SIG
+#PROJ       1
+#TARG       20040
+#MF         3
+#MT         800
+#PRODUCT    18-AR-37
+#C4BEGIN    [    1 20040   3 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20040   3 800 A  2690000. 70000.00 0.035000 2.0000-3                   0.000000         LVLC.M.Bartle+          (81)10447  2 
+    1 20040   3 800 A  2690000. 70000.00 0.037000 3.0000-3                   0.000000         LVLC.M.Bartle+          (81)10447  2 
+    1 20040   3 800 A  3210000. 80000.00 0.107000 5.0000-3                   0.000000         LVLC.M.Bartle+          (81)10447  2 
+    1 20040   3 800 A  3510000. 80000.00 0.131000 5.0000-3                   0.000000         LVLC.M.Bartle+          (81)10447  2 
+    1 20040   3 800 A  3750000. 100000.0 0.172000 6.0000-3                   0.000000         LVLC.M.Bartle+          (81)10447  2 
+    1 20040   3 800 A  4060000. 90000.00 0.153000 0.011000                   0.000000         LVLC.M.Bartle+          (81)10447  2 
+    1 20040   3 800 A  4380000. 90000.00 0.166000 7.0000-3                   0.000000         LVLC.M.Bartle+          (81)10447  2 
+    1 20040   3 800 A  4690000. 100000.0 0.191000 0.011000                   0.000000         LVLC.M.Bartle+          (81)10447  2 
+    1 20040   3 800 A  5540000. 130000.0 0.189000 0.023000                   0.000000         LVLC.M.Bartle+          (81)10447  2 
+#/DATA      9
+#/DATASET

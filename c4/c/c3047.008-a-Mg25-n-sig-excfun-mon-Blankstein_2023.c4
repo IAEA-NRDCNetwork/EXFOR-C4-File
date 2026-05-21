@@ -1,0 +1,32 @@
+#ENTRY      C3047
+#AUTHOR1    D.Blankstein+
+#YEAR       2023
+#INSTITUTE  (1USANOT)
+#TITLE      First total cross section measurements of
+#+          25,26Mg(alpha,n)28,29Si via direct recoil detection
+#AUTHOR(S)  D.Blankstein, D.W.Bardayan, P.D.O'Malley, J.Allen, T.L.Bailey, 
+#+          C.Boomershine, E.Briley, D.P.Burdette, L.K.Callahan, S.Carmichael, 
+#+          A.M.Clark, A.C.Dombos, O.Olivas-Gomez, S.L.Henderson, L.Morales, 
+#+          A.D.Nelson, J.Wilkinson
+#REF-CODE   (T,BLANKSTEIN,2023)
+#REFERENCE  Thesis  (2023)
+#DATASETS   0
+#
+#DATASET    C3047008 
+#DATE       20250228
+#REACTION   12-MG-25(A,N)14-SI-28,,SIG,,SFC
+#PROJ       2004
+#TARG       12025
+#MF         3
+#MT         4
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 2004 12025   3   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 12025   3   4 D  3744172. 113015.6 0.013812 1.2004-3                                       D.Blankstein         (23)C3047  8 
+ 2004 12025   3   4 D  4018012. 118017.5 0.026694                                                D.Blankstein         (23)C3047  8 
+ 2004 12025   3   4 D  4293015. 139022.0 0.043683                                                D.Blankstein         (23)C3047  8 
+ 2004 12025   3   4 D  4590067. 108018.3 0.057650                                                D.Blankstein         (23)C3047  8 
+#/DATA      4
+#/DATASET

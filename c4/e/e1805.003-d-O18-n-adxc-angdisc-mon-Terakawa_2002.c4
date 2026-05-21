@@ -1,0 +1,41 @@
+#ENTRY      E1805
+#AUTHOR1    A.Terakawa+
+#YEAR       2002
+#INSTITUTE  (2JPNTOH)
+#TITLE      Proton single-particle strength in 19F measured via
+#+          the 18O(d,n) reaction
+#AUTHOR(S)  A.Terakawa, H.Orihara, M.Oura, M.Hosaka, H.Suzuki, K.Kumagai, 
+#+          Y.Kikuchi, T.Tohei, T.Nakagawa, J.Takamatsu, A.Narita, K.Hosomi, 
+#+          K.Ishii, G.C.Jon, K.Miura, H.Ohnuma
+#REF-CODE   (J,PR/C,66,(6),064313,200212)
+#REFERENCE  Phys.Rev.C 66 No.6 (2002) 064313 (doi:10.1103/PhysRevC.66.064313)
+#DATASETS   0
+#
+#DATASET    E1805003 
+#DATE       20050224
+#REACTION   8-O-18(D,N)9-F-19,PAR,DA
+#PROJ       1002
+#TARG       8018
+#MF         4
+#MT         50
+#PRODUCT    9-F-19
+#C4BEGIN    [ 1002  8018   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8018   4  50  C 2.5000+7          1.7110-3 2.5665-4 0.982320          6260000.         LVLA.Terakawa+          (02)E1805  3 
+ 1002  8018   4  50  C 2.5000+7          1.0740-3 1.6110-4 0.974566          6260000.         LVLA.Terakawa+          (02)E1805  3 
+ 1002  8018   4  50  C 2.5000+7          5.4620-4 8.1930-5 0.960391          6260000.         LVLA.Terakawa+          (02)E1805  3 
+ 1002  8018   4  50  C 2.5000+7          4.8030-4 7.2045-5 0.943165          6260000.         LVLA.Terakawa+          (02)E1805  3 
+ 1002  8018   4  50  C 2.5000+7          6.2930-4 9.4395-5 0.923009          6260000.         LVLA.Terakawa+          (02)E1805  3 
+ 1002  8018   4  50  C 2.5000+7          6.3160-4 9.4740-5 0.899863          6260000.         LVLA.Terakawa+          (02)E1805  3 
+ 1002  8018   4  50  C 2.5000+7          4.7700-4 7.1550-5 0.874027          6260000.         LVLA.Terakawa+          (02)E1805  3 
+ 1002  8018   4  50  C 2.5000+7          4.1150-4 6.1725-5 0.845448          6260000.         LVLA.Terakawa+          (02)E1805  3 
+ 1002  8018   4  50  C 2.5000+7          2.8600-4 4.2900-5 0.792077          6260000.         LVLA.Terakawa+          (02)E1805  3 
+ 1002  8018   4  50  C 2.5000+7          1.2990-4 1.9485-5 0.732067          6260000.         LVLA.Terakawa+          (02)E1805  3 
+ 1002  8018   4  50  C 2.5000+7          1.3970-4 2.0955-5 0.666272          6260000.         LVLA.Terakawa+          (02)E1805  3 
+ 1002  8018   4  50  C 2.5000+7          1.0810-4 1.6215-5 0.594963          6260000.         LVLA.Terakawa+          (02)E1805  3 
+ 1002  8018   4  50  C 2.5000+7          9.7560-5 1.4634-5 0.519072          6260000.         LVLA.Terakawa+          (02)E1805  3 
+ 1002  8018   4  50  C 2.5000+7          9.4590-5 1.4188-5 0.439155          6260000.         LVLA.Terakawa+          (02)E1805  3 
+#/DATA      14
+#/DATASET

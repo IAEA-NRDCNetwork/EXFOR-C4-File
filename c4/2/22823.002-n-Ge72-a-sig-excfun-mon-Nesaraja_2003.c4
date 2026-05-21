@@ -1,0 +1,35 @@
+#ENTRY      22823
+#AUTHOR1    C.D.Nesaraja+
+#YEAR       2003
+#INSTITUTE  (2GERJUL)
+#TITLE      .Cross sections for the formation of Zn-69-m,g and
+#+          Zn-71-m,g in neutron induced reactions near their
+#+          thresholds: effect of reaction channel on the
+#+          isomeric cross section
+#AUTHOR(S)  C.D.Nesaraja, S.Sudar, S.M.Qaim
+#REF-CODE   (J,PR/C,68,(2),024603,2003)
+#REFERENCE  Phys.Rev.C 68 No.2 (2003) 024603 (doi:10.1103/PhysRevC.68.024603)
+#DATASETS   0
+#
+#DATASET    22823002 
+#DATE       20040123
+#REACTION   32-GE-72(N,A)30-ZN-69-M,,SIG
+#PROJ       1
+#TARG       32072
+#MF         3
+#MT         107
+#PRODUCT    30-ZN-69-M
+#C4BEGIN    [    1 32072   3 107M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32072   3 107M   7460000. 260000.0 6.2000-4 6.0000-5                                       C.D.Nesaraja+        (03)22823  2 
+    1 32072   3 107M   8280000. 270000.0 8.3000-4 9.0000-5                                       C.D.Nesaraja+        (03)22823  2 
+    1 32072   3 107M   9160000. 550000.0 1.3500-3 1.4000-4                                       C.D.Nesaraja+        (03)22823  2 
+    1 32072   3 107M   9960000. 340000.0 2.3000-3 3.0000-4                                       C.D.Nesaraja+        (03)22823  2 
+    1 32072   3 107M   1.0710+7 350000.0 2.5000-3 3.0000-4                                       C.D.Nesaraja+        (03)22823  2 
+    1 32072   3 107M   1.1370+7 380000.0 2.8000-3 4.0000-4                                       C.D.Nesaraja+        (03)22823  2 
+    1 32072   3 107M   1.1800+7 310000.0 3.2000-3 4.0000-4                                       C.D.Nesaraja+        (03)22823  2 
+    1 32072   3 107M   1.1960+7 700000.0 4.5000-3 5.0000-4                                       C.D.Nesaraja+        (03)22823  2 
+#/DATA      8
+#/DATASET

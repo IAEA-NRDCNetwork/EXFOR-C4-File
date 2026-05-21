@@ -1,0 +1,31 @@
+#ENTRY      41590
+#AUTHOR1    V.M.Piksaykin+
+#YEAR       2013
+#INSTITUTE  (4RUSFEI)
+#TITLE      The absolute total delayed neutron yields, relative
+#+          abundances and half-lives of delayed neutron groups
+#+          from neutron induced fission of 232Th, 233U, 236U,
+#+          239Pu and 241Am
+#AUTHOR(S)  V.M.Piksaykin, A.S.Egorov, K.V.Mitrofanov
+#REF-CODE   (R,INDC(NDS)-0646,2013)
+#REFERENCE  Report INDC(NDS)-0646, 2013
+#DATASETS   0
+#
+#DATASET    41590002 
+#DATE       20131129
+#REACTION   95-AM-241(N,F),DL,NU
+#PROJ       1
+#TARG       95241
+#MF         1
+#MT         455
+#C4BEGIN    [    1 95241   1 455  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95241   1 455    860000.0          3.3000-3 5.0000-4                                       V.M.Piksaykin+       (13)41590  2 
+    1 95241   1 455    960000.0          3.6000-3 5.4000-4                                       V.M.Piksaykin+       (13)41590  2 
+    1 95241   1 455    1010000.          4.6000-3 6.9000-4                                       V.M.Piksaykin+       (13)41590  2 
+    1 95241   1 455    3850000.          4.9000-3 7.4000-4                                       V.M.Piksaykin+       (13)41590  2 
+    1 95241   1 455    4850000.          5.4000-3 8.2000-4                                       V.M.Piksaykin+       (13)41590  2 
+#/DATA      5
+#/DATASET

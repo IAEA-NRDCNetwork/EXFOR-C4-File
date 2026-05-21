@@ -1,0 +1,50 @@
+#ENTRY      21268
+#AUTHOR1    L.Colli+
+#YEAR       1963
+#INSTITUTE  (2ITYCIS)
+#TITLE      Measurement of the Angular Distribution in the
+#+          Reaction 27Al(n,p)27Mg at 14 MeV
+#AUTHOR(S)  L.Colli, M.Mangialajo, F.Marcelja, F.Merzari, P.G.Sona
+#REF-CODE   (J,NC,29,983,1963)
+#REFERENCE  Nuovo Cim. 29 (1963) 983 (doi:10.1007/BF02827961)
+#DATASETS   0
+#
+#DATASET    21268002 
+#DATE       20220218
+#REACTION   13-AL-27(N,P)12-MG-27,PAR,DA
+#PROJ       1
+#TARG       13027
+#MF         4
+#MT         600
+#PRODUCT    12-MG-27
+#C4BEGIN    [    1 13027   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   4 600  C 1.4100+7 100000.0 3.8000-4 8.0000-5 0.551900          0.000000         LVLL.Colli+             (63)21268  2 
+    1 13027   4 600  C 1.4100+7 100000.0 7.7000-4 1.2000-4 0.686200          0.000000         LVLL.Colli+             (63)21268  2 
+    1 13027   4 600  C 1.4100+7 100000.0 7.2000-4 1.2000-4 0.822300          0.000000         LVLL.Colli+             (63)21268  2 
+    1 13027   4 600  C 1.4100+7 100000.0 1.8000-3 1.8000-4 0.914700          0.000000         LVLL.Colli+             (63)21268  2 
+    1 13027   4 600  C 1.4100+7 100000.0 3.4100-3 2.5000-4 0.962000          0.000000         LVLL.Colli+             (63)21268  2 
+    1 13027   4 600  C 1.4100+7 100000.0 3.2700-3 2.5000-4 0.985800          0.000000         LVLL.Colli+             (63)21268  2 
+#/DATA      6
+#/DATASET
+#
+#DATASET    21268002 
+#DATE       20220218
+#REACTION   13-AL-27(N,P)12-MG-27,PAR,DA
+#PROJ       1
+#TARG       13027
+#MF         4
+#MT         600
+#PRODUCT    12-MG-27
+#C4BEGIN    [    1 13027   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   4 600  C 1.4100+7 100000.0 2.2000-4 1.1000-4 0.551900          1172000.         LVLL.Colli+             (63)21268  2 
+    1 13027   4 600  C 1.4100+7 100000.0 2.2000-4 1.1000-4 0.686200          1172000.         LVLL.Colli+             (63)21268  2 
+    1 13027   4 600  C 1.4100+7 100000.0 4.1000-4 1.1000-4 0.822300          1172000.         LVLL.Colli+             (63)21268  2 
+    1 13027   4 600  C 1.4100+7 100000.0 5.7000-4 1.1000-4 0.914700          1172000.         LVLL.Colli+             (63)21268  2 
+#/DATA      4
+#/DATASET

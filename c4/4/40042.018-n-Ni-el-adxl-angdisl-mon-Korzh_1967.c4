@@ -1,0 +1,34 @@
+#ENTRY      40042
+#AUTHOR1    I.A.Korzh+
+#YEAR       1967
+#INSTITUTE  (4UKRIFU)
+#TITLE      Elastic scattering of 1.5 MeV neutrons by
+#+          medium-atomic-weight nuclei
+#AUTHOR(S)  I.A.Korzh, V.A.Mishchenko, M.V.Pasechnik, N.M.Pravdivyi, 
+#+          I.E.Sanzhur, I.A.Tockii
+#REF-CODE   (J,UPJ,12,1522,1967)
+#REFERENCE  Ukr.Phys.J. 12 (1967) 1522
+#DATASETS   0
+#
+#DATASET    40042018 
+#DATE       20220126
+#REACTION   28-NI-0(N,EL)28-NI-0,,DA
+#PROJ       1
+#TARG       28000
+#MF         4
+#MT         2
+#PRODUCT    28-NI-0
+#C4BEGIN    [    1 28000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28000   4   2    1500000. 50000.00 0.621520          0.873710 0.033960                     I.A.Korzh+           (67)40042 18 
+    1 28000   4   2    1500000. 50000.00 0.480130          0.770550 0.044497                     I.A.Korzh+           (67)40042 18 
+    1 28000   4   2    1500000. 50000.00 0.322050          0.636930 0.053820                     I.A.Korzh+           (67)40042 18 
+    1 28000   4   2    1500000. 50000.00 0.135860          0.331930 0.065855                     I.A.Korzh+           (67)40042 18 
+    1 28000   4   2    1500000. 50000.00 0.113230          4.8800-3 0.069812                     I.A.Korzh+           (67)40042 18 
+    1 28000   4   2    1500000. 50000.00 0.119530         -0.341720 0.065611                     I.A.Korzh+           (67)40042 18 
+    1 28000   4   2    1500000. 50000.00 0.139450         -0.502140 0.060373                     I.A.Korzh+           (67)40042 18 
+    1 28000   4   2    1500000. 50000.00 0.164660         -0.773020 0.044288                     I.A.Korzh+           (67)40042 18 
+#/DATA      8
+#/DATASET

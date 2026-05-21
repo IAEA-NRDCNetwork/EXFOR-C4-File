@@ -1,0 +1,31 @@
+#ENTRY      D4217
+#AUTHOR1    S.Takacs+
+#YEAR       2010
+#INSTITUTE  (3HUNDEB)
+#TITLE      Cross sections for alpha particle produced
+#+          radionuclides on natural silver
+#AUTHOR(S)  S.Takacs, A.Hermanne, F.Tarkanyi, A.Ignatyuk
+#REF-CODE   (J,NIM/B,268,2,2010)
+#REFERENCE  Nucl.Instrum.Meth.B 268 (2010) 2 (doi:10.1016/j.nimb.2009.09.035)
+#DATASETS   0
+#
+#DATASET    D4217002 
+#DATE       20090608
+#REACTION   47-AG-0(A,X)49-IN-108-M,,SIG
+#PROJ       2004
+#TARG       47000
+#MF         3
+#MT         454
+#PRODUCT    49-IN-108-M
+#C4BEGIN    [ 2004 47000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 47000   3 454    3.8200+7 300000.0 0.209000 0.024000           49108.7                     S.Takacs+            (10)D4217  2 
+ 2004 47000   3 454    3.6700+7 330000.0 0.171000 0.020000           49108.7                     S.Takacs+            (10)D4217  2 
+ 2004 47000   3 454    3.5100+7 360000.0 0.147000 0.017000           49108.7                     S.Takacs+            (10)D4217  2 
+ 2004 47000   3 454    3.3500+7 400000.0 0.083000 0.010000           49108.7                     S.Takacs+            (10)D4217  2 
+ 2004 47000   3 454    3.1900+7 440000.0 0.038000 4.0000-3           49108.7                     S.Takacs+            (10)D4217  2 
+ 2004 47000   3 454    3.0200+7 490000.0 9.0000-3 1.0000-3           49108.7                     S.Takacs+            (10)D4217  2 
+#/DATA      6
+#/DATASET

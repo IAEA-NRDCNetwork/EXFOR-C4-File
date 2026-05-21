@@ -1,0 +1,39 @@
+#ENTRY      20007
+#AUTHOR1    N.Ahmed+
+#YEAR       1970
+#INSTITUTE  (2ZZZGEL)
+#TITLE      Measurements of neutron elastic scattering from carbon
+#+          in the energy region of 0.50 to 2.00 MeV.
+#AUTHOR(S)  N.Ahmed, M.Coppola, H.-H.Knitter
+#REF-CODE   (C,70HELSINKI,1,177,197006)
+#REFERENCE  Proceedings of Nuclear Data for Reactors Conf., Helsinki 1970 1 page 177
+#DATASETS   0
+#
+#DATASET    20007021 
+#DATE       20120708
+#REACTION   6-C-0(N,EL)6-C-0,,DA
+#PROJ       1
+#TARG       6000
+#MF         4
+#MT         2
+#PRODUCT    6-C-0
+#C4BEGIN    [    1  6000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   4   2    1450000.          0.124900 3.8000-3-0.866030                              N.Ahmed+             (70)20007 21 
+    1  6000   4   2    1450000.          0.137400 4.4000-3-0.766040                              N.Ahmed+             (70)20007 21 
+    1  6000   4   2    1450000.          0.133100 4.1000-3-0.642790                              N.Ahmed+             (70)20007 21 
+    1  6000   4   2    1450000.          0.136400 4.4000-3-0.500000                              N.Ahmed+             (70)20007 21 
+    1  6000   4   2    1450000.          0.142800 4.5000-3-0.342020                              N.Ahmed+             (70)20007 21 
+    1  6000   4   2    1450000.          0.148700 4.8000-3-0.173650                              N.Ahmed+             (70)20007 21 
+    1  6000   4   2    1450000.          0.162000 5.2000-3 6.123-17                              N.Ahmed+             (70)20007 21 
+    1  6000   4   2    1450000.          0.167700 5.2000-3 0.173650                              N.Ahmed+             (70)20007 21 
+    1  6000   4   2    1450000.          0.174200 5.6000-3 0.342020                              N.Ahmed+             (70)20007 21 
+    1  6000   4   2    1450000.          0.194300 6.0000-3 0.500000                              N.Ahmed+             (70)20007 21 
+    1  6000   4   2    1450000.          0.210000 6.6000-3 0.642790                              N.Ahmed+             (70)20007 21 
+    1  6000   4   2    1450000.          0.244100 7.6000-3 0.766040                              N.Ahmed+             (70)20007 21 
+    1  6000   4   2    1450000.          0.237300 7.2000-3 0.866030                              N.Ahmed+             (70)20007 21 
+    1  6000   4   2    1450000.          0.264100 8.2000-3 0.939690                              N.Ahmed+             (70)20007 21 
+#/DATA      14
+#/DATASET

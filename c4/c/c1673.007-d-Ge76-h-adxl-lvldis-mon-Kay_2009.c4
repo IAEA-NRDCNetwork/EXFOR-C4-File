@@ -1,0 +1,41 @@
+#ENTRY      C1673
+#AUTHOR1    B.P.Kay+
+#YEAR       2009
+#INSTITUTE  (1USAANL)
+#TITLE      Nuclear structure relevant to neutrinoless double
+#+          beta decay: The valence protons in 76Ge and 76Se
+#AUTHOR(S)  B.P.Kay, J.P.Schiffer, S.J.Freeman, T.Adachi, J.A.Clark, 
+#+          C.M.Deibel, H.Fujita, Y.Fujita, P.Grabmayr, K.Hatanaka, 
+#+          D.Ishikawa, H.Matsubara, Y.Meada, H.Okamura, K.E.Rehm, Y.Sakemi, 
+#+          Y.Shimizu, H.Shimoda, K.Suda, Y.Tameshige, A.Tamii, C.Wrede
+#REF-CODE   (J,PR/C,79,021301,2009)
+#REFERENCE  Phys.Rev.C 79 (2009) 021301 (doi:10.1103/PhysRevC.79.021301)
+#DATASETS   0
+#
+#DATASET    C1673007 
+#DATE       20090519
+#REACTION   32-GE-76(D,HE3)31-GA-75,PAR,DA
+#PROJ       1002
+#TARG       32076
+#MF         4
+#MT         750
+#PRODUCT    31-GA-75
+#C4BEGIN    [ 1002 32076   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 32076   4 750    8.0000+7          1.1600-3 1.1600-5 0.990268          0.000000         LVLB.P.Kay+             (09)C1673  7 
+ 1002 32076   4 750    8.0000+7          2.6000-5 2.6000-7 0.990268          178000.0         LVLB.P.Kay+             (09)C1673  7 
+ 1002 32076   4 750    8.0000+7          1.2500-3 1.3000-4 0.990268          229000.0         LVLB.P.Kay+             (09)C1673  7 
+ 1002 32076   4 750    8.0000+7          1.6000-4 1.6000-6 0.990268          882000.0         LVLB.P.Kay+             (09)C1673  7 
+ 1002 32076   4 750    8.0000+7          4.9000-5 4.9000-7 0.990268          1167000.         LVLB.P.Kay+             (09)C1673  7 
+ 1002 32076   4 750    8.0000+7          3.4000-4 3.4000-6 0.990268          1256000.         LVLB.P.Kay+             (09)C1673  7 
+ 1002 32076   4 750    8.0000+7          4.7000-5 4.7000-7 0.990268          1508000.         LVLB.P.Kay+             (09)C1673  7 
+ 1002 32076   4 750    8.0000+7          1.7000-5 1.7000-7 0.990268          1545000.         LVLB.P.Kay+             (09)C1673  7 
+ 1002 32076   4 750    8.0000+7          8.5000-5 8.5000-7 0.990268          1622000.         LVLB.P.Kay+             (09)C1673  7 
+ 1002 32076   4 750    8.0000+7          2.8000-5 2.8000-7 0.990268          1865000.         LVLB.P.Kay+             (09)C1673  7 
+ 1002 32076   4 750    8.0000+7          8.2000-5 8.2000-7 0.990268          1935000.         LVLB.P.Kay+             (09)C1673  7 
+ 1002 32076   4 750    8.0000+7          3.9000-4 3.9000-6 0.990268          2015000.         LVLB.P.Kay+             (09)C1673  7 
+ 1002 32076   4 750    8.0000+7          2.1000-5 2.1000-7 0.990268          2265000.         LVLB.P.Kay+             (09)C1673  7 
+#/DATA      13
+#/DATASET

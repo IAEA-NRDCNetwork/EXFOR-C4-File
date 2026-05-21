@@ -1,0 +1,26 @@
+#ENTRY      12901
+#AUTHOR1    R.J.Prestwood+
+#YEAR       1984
+#INSTITUTE  (1USALRL)
+#TITLE      DETERMINATION OF THE CROSS SECTION FOR
+#+          TB-159(N,2N)TB-158 AND THE HALF-LIFE OF TB-158.
+#AUTHOR(S)  R.J.Prestwood, D.B.Curtis, D.J.Rokop, D.R.Nethaway, N.L.Smith
+#REF-CODE   (J,PR/C,30,823,8409)
+#REFERENCE  Phys.Rev.C 30 (1984) 823 (doi:10.1103/PhysRevC.30.823)
+#DATASETS   0
+#
+#DATASET    12901002 
+#DATE       19841010
+#REACTION   65-TB-159(N,2N)65-TB-158,,SIG
+#PROJ       1
+#TARG       65159
+#MF         3
+#MT         16
+#PRODUCT    65-TB-158
+#C4BEGIN    [    1 65159   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 65159   3  16 A  1.4800+7 300000.0 1.930000 0.135100                                       R.J.Prestwood+       (84)12901  2 
+#/DATA      1
+#/DATASET

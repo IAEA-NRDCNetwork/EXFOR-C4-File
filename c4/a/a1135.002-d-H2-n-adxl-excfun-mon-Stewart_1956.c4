@@ -1,0 +1,36 @@
+#ENTRY      A1135
+#AUTHOR1    L.Stewart+
+#YEAR       1956
+#INSTITUTE  (1USALAS)
+#TITLE      Zero-degree cross sections for the D(d,n)3He reaction
+#+          between 1.15 and 4.60 MeV and for the T(p,n)3He
+#+          reaction 8.8 to 11.4 MeV
+#AUTHOR(S)  L.Stewart, G.M.Frye Jr, L.Rosen
+#REF-CODE   (J,BAP,1,(2),93(M2),1956)
+#REFERENCE  Bull.Am.Phys.Soc. 1 No.2 (1956) 93(M2)
+#DATASETS   0
+#
+#DATASET    A1135002 
+#DATE       20180129
+#REACTION   1-H-2(D,N)2-HE-3,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1002   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4   4    1150000.          0.030100 2.1070-3 1.000000                              L.Stewart+           (56)A1135  2 
+ 1002  1002   4   4    1550000.          0.038300 2.6810-3 1.000000                              L.Stewart+           (56)A1135  2 
+ 1002  1002   4   4    1850000.          0.045900 3.2130-3 1.000000                              L.Stewart+           (56)A1135  2 
+ 1002  1002   4   4    2150000.          0.044500 3.1150-3 1.000000                              L.Stewart+           (56)A1135  2 
+ 1002  1002   4   4    2450000.          0.054600 3.8220-3 1.000000                              L.Stewart+           (56)A1135  2 
+ 1002  1002   4   4    3150000.          0.057900 4.0530-3 1.000000                              L.Stewart+           (56)A1135  2 
+ 1002  1002   4   4    3750000.          0.064900 4.5430-3 1.000000                              L.Stewart+           (56)A1135  2 
+ 1002  1002   4   4    4150000.          0.068600 4.8020-3 1.000000                              L.Stewart+           (56)A1135  2 
+ 1002  1002   4   4    4550000.          0.065600 4.5920-3 1.000000                              L.Stewart+           (56)A1135  2 
+ 1002  1002   4   4    4600000.          0.074500 5.2150-3 1.000000                              L.Stewart+           (56)A1135  2 
+#/DATA      10
+#/DATASET

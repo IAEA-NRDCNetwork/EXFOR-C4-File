@@ -1,0 +1,31 @@
+#ENTRY      A1220
+#AUTHOR1    P.Thambidurai+
+#YEAR       1982
+#INSTITUTE  (1USANCA)
+#TITLE      Tritium break-up contribution to the neutron source
+#+          reaction 3H(p,n) from 9 to 14 MeV
+#AUTHOR(S)  P.Thambidurai, A.G.Beyerle, C.R.Gould
+#REF-CODE   (J,NIM,196,415,1982)
+#REFERENCE  Nucl.Intrum.Meth. 196 (1982) 415 (doi:10.1016/0029-554X(82)90106-9)
+#DATASETS   0
+#
+#DATASET    A1220002 
+#DATE       20250824
+#REACTION   1-H-3(P,X)0-NN-1,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1001  1003   4 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4 201    9770000.          9.1000-4 1.8000-4 1.000000                              P.Thambidurai+       (82)A1220  2 
+ 1001  1003   4 201    1.0770+7          1.9900-3 2.4000-4 1.000000                              P.Thambidurai+       (82)A1220  2 
+ 1001  1003   4 201    1.1770+7          4.6700-3 4.5000-4 1.000000                              P.Thambidurai+       (82)A1220  2 
+ 1001  1003   4 201    1.2770+7          5.2000-3 4.4000-4 1.000000                              P.Thambidurai+       (82)A1220  2 
+ 1001  1003   4 201    1.3770+7          8.3400-3 4.2000-4 1.000000                              P.Thambidurai+       (82)A1220  2 
+ 1001  1003   4 201    1.4770+7          0.010870 8.6000-4 1.000000                              P.Thambidurai+       (82)A1220  2 
+#/DATA      6
+#/DATASET

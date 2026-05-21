@@ -1,0 +1,27 @@
+#ENTRY      10517
+#AUTHOR1    K.F.Flynn+
+#YEAR       1975
+#INSTITUTE  (1USAANL)
+#TITLE      Independent yields of 84Rb, 86Rb and 136Cs for thermal-
+#+          neutron-induced fission of 233U, 235U and 239Pu
+#AUTHOR(S)  K.F.Flynn, L.E.Glendenin
+#REF-CODE   (J,JIN,37,869,1975)
+#REFERENCE  J.Inorg.Nucl.Chem. 37 (1975) 869 (doi:10.1016/0022-1902(75)80664-6)
+#DATASETS   0
+#
+#DATASET    10517002 
+#DATE       20240403
+#REACTION   92-U-233(N,F)ELEM/MASS,IND,FY
+#PROJ       1
+#TARG       92233
+#MF         8
+#MT         454
+#C4BEGIN    [    1 92233   8 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   8 454 A  0.025300          6.600-10 7.000-11 37.00000 84.00000 9.000000            K.F.Flynn+           (75)10517  2 
+    1 92233   8 454 A  0.025300          9.2000-6 9.0000-7 37.00000 86.00000 9.000000            K.F.Flynn+           (75)10517  2 
+    1 92233   8 454 A  0.025300          1.0500-3 1.1000-4 55.00000 136.0000 9.000000            K.F.Flynn+           (75)10517  2 
+#/DATA      3
+#/DATASET

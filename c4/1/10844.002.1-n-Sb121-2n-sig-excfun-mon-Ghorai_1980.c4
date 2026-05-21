@@ -1,0 +1,32 @@
+#ENTRY      10844
+#AUTHOR1    S.K.Ghorai+
+#YEAR       1980
+#INSTITUTE  (1USAAUB)
+#TITLE      Activation cross sections for the (n,2n) reactions
+#+          on 121,123-Sb between 12.8 and 18.1 MeV
+#AUTHOR(S)  S.K.Ghorai, J.E.Gaiser, W.L.Alford
+#REF-CODE   (J,JP/G,6,393,1980)
+#REFERENCE  J.Phys.G 6 (1980) 393 (doi:10.1088/0305-4616/6/3/015)
+#DATASETS   0
+#
+#DATASET    108440021
+#DATE       20240403
+#REACTION   51-SB-121(N,2N)51-SB-120-M,,SIG
+#PROJ       1
+#TARG       51121
+#MF         3
+#MT         16
+#PRODUCT    51-SB-120-M
+#C4BEGIN    [    1 51121   3  16MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 51121   3  16MA  1.2800+7 200000.0 0.490000 0.044000                                       S.K.Ghorai+          (80)10844  21
+    1 51121   3  16MA  1.3400+7 200000.0 0.508000 0.046000                                       S.K.Ghorai+          (80)10844  21
+    1 51121   3  16MA  1.4400+7 200000.0 0.531000 0.048000                                       S.K.Ghorai+          (80)10844  21
+    1 51121   3  16MA  1.5300+7 100000.0 0.553000 0.050000                                       S.K.Ghorai+          (80)10844  21
+    1 51121   3  16MA  1.6100+7 100000.0 0.570000 0.051000                                       S.K.Ghorai+          (80)10844  21
+    1 51121   3  16MA  1.7000+7 200000.0 0.603000 0.054000                                       S.K.Ghorai+          (80)10844  21
+    1 51121   3  16MA  1.8100+7 200000.0 0.548000 0.049000                                       S.K.Ghorai+          (80)10844  21
+#/DATA      7
+#/DATASET

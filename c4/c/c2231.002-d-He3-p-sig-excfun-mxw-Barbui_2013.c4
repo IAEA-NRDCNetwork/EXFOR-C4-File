@@ -1,0 +1,36 @@
+#ENTRY      C2231
+#AUTHOR1    M.Barbui+
+#YEAR       2013
+#INSTITUTE  (1USATAM)
+#TITLE      Measurement of the Plasma Astrophysical S Factor for
+#+          the 3He(d,p)4He Reaction in Exploding Molecular
+#+          Clusters
+#AUTHOR(S)  M.Barbui, W.Bang, A.Bonasera, K.Hagel, K.Schmidt, J.B.Natowitz, 
+#+          R.Burch, G.Giuliani, M.Barbarino, H.Zheng, G.Dyer, H.J.Quevedo, 
+#+          E.Gaul, A.C.Bernstein, M.Donovan, S.Kimura, M.Mazzocco, 
+#+          F.Consoli, R.De Angelis, P.Andreoli, T.Ditmire
+#REF-CODE   (J,PRL,111,082502,2013)
+#REFERENCE  Phys.Rev.Lett. 111 (2013) 082502 (doi:10.1103/PhysRevLett.111.082502)
+#DATASETS   0
+#
+#DATASET    C2231002 
+#DATE       20160718
+#REACTION   2-HE-3(D,P)2-HE-4,,SIG,,MXW
+#PROJ       1002
+#TARG       2003
+#MF         3
+#MT         103
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  2003   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  2003   3 103    4770.000 150.0000 2.2300-5 8.2000-6                                       M.Barbui+            (13)C2231  2 
+ 1002  2003   3 103    5180.000 150.0000 4.0200-5 1.0000-5                                       M.Barbui+            (13)C2231  2 
+ 1002  2003   3 103    5590.000 150.0000 4.7600-5 1.1000-5                                       M.Barbui+            (13)C2231  2 
+ 1002  2003   3 103    6000.000 150.0000 6.4600-5 1.9000-5                                       M.Barbui+            (13)C2231  2 
+ 1002  2003   3 103    6570.000 150.0000 1.1000-4 3.0000-5                                       M.Barbui+            (13)C2231  2 
+ 1002  2003   3 103    8840.000 150.0000 4.6000-4 2.9000-4                                       M.Barbui+            (13)C2231  2 
+ 1002  2003   3 103    9540.000 150.0000 6.9900-4 3.1000-4                                       M.Barbui+            (13)C2231  2 
+#/DATA      7
+#/DATASET

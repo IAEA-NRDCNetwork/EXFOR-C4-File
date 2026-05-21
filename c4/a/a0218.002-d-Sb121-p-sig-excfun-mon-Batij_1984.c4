@@ -1,0 +1,34 @@
+#ENTRY      A0218
+#AUTHOR1    V.G.Batij+
+#YEAR       1984
+#INSTITUTE  (4RUSMOS)
+#TITLE      Excitation function of (d,p) and (d,2n) reactions
+#+          induced by deuterons on the antimony isotopes
+#AUTHOR(S)  V.G.Batij, K.A.Baskova, Ju.N.Rakivnenko, O.A.Rastrepin, 
+#+          E.A.Skakun, T.V.Chugaj, L.Ja.Shavtvalov
+#REF-CODE   (C,84ALMAAT,,356,1984)
+#REFERENCE  Proceedings of 34.Conf.on Nucl.Spectr.A.Nucl.Struct.,Alma-Ata 1984 page 356
+#DATASETS   0
+#
+#DATASET    A0218002 
+#DATE       20220331
+#REACTION   51-SB-121(D,P)51-SB-122,,SIG
+#PROJ       1002
+#TARG       51121
+#MF         3
+#MT         103
+#PRODUCT    51-SB-122
+#C4BEGIN    [ 1002 51121   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 51121   3 103 A  4200000.          0.020900 2.9000-3                                       V.G.Batij+           (84)A0218  2 
+ 1002 51121   3 103 A  5500000.          0.087000 0.012000                                       V.G.Batij+           (84)A0218  2 
+ 1002 51121   3 103 A  7800000.          0.205000 0.027000                                       V.G.Batij+           (84)A0218  2 
+ 1002 51121   3 103 A  9900000.          0.240000 0.030000                                       V.G.Batij+           (84)A0218  2 
+ 1002 51121   3 103 A  1.1300+7          0.224000 0.030000                                       V.G.Batij+           (84)A0218  2 
+ 1002 51121   3 103 A  1.2700+7          0.203000 0.027000                                       V.G.Batij+           (84)A0218  2 
+ 1002 51121   3 103 A  1.3900+7          0.194000 0.026000                                       V.G.Batij+           (84)A0218  2 
+ 1002 51121   3 103 A  1.5100+7          0.140000 0.019000                                       V.G.Batij+           (84)A0218  2 
+#/DATA      8
+#/DATASET

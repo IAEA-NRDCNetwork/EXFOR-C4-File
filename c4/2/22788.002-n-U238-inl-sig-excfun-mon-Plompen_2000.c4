@@ -1,0 +1,48 @@
+#ENTRY      22788
+#AUTHOR1    A.J.M.Plompen+
+#YEAR       2000
+#INSTITUTE  (2ZZZGEL)
+#TITLE      .Excitation of octupole, beta and gamma bands of 238U
+#+          by inelastic neutron scattering
+#AUTHOR(S)  A.J.M.Plompen, C.Goddio, V.M.Maslov, Yu.V.Porodzinskij
+#REF-CODE   (S,ISINN-8,153,200005)
+#REFERENCE  Report (proceedings) ISINN-8 page 153, 2000
+#DATASETS   0
+#
+#DATASET    22788002 
+#DATE       20091011
+#REACTION   92-U-238(N,INL)92-U-238,PAR,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         51
+#PRODUCT    92-U-238
+#C4BEGIN    [    1 92238   3  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3  51    2049400.          0.126430 5.6440-3                   760000.0 130000.0LVLA.J.M.Plompen+       (00)22788  2 
+    1 92238   3  51    2502800.          0.103740 8.4740-3                   760000.0 130000.0LVLA.J.M.Plompen+       (00)22788  2 
+    1 92238   3  51    3007800.          0.081470 7.9090-3                   760000.0 130000.0LVLA.J.M.Plompen+       (00)22788  2 
+    1 92238   3  51    3511000.          0.065990 6.2090-3                   760000.0 130000.0LVLA.J.M.Plompen+       (00)22788  2 
+#/DATA      4
+#/DATASET
+#
+#DATASET    22788002 
+#DATE       20091011
+#REACTION   92-U-238(N,INL)92-U-238,PAR,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         51
+#PRODUCT    92-U-238
+#C4BEGIN    [    1 92238   3  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3  51    2501900.          0.507260 0.027440                   1105000. 215000.0LVLA.J.M.Plompen+       (00)22788  2 
+    1 92238   3  51    2746700.          0.653160 0.022370                   1105000. 215000.0LVLA.J.M.Plompen+       (00)22788  2 
+    1 92238   3  51    3003100.          0.284060 0.022330                   1105000. 215000.0LVLA.J.M.Plompen+       (00)22788  2 
+    1 92238   3  51    3511000.          0.216860 0.030910                   1105000. 215000.0LVLA.J.M.Plompen+       (00)22788  2 
+#/DATA      4
+#/DATASET

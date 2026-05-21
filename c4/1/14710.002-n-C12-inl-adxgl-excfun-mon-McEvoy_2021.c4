@@ -1,0 +1,28 @@
+#ENTRY      14710
+#AUTHOR1    A.M.McEvoy+
+#YEAR       2021
+#INSTITUTE  (1USALAS)
+#TITLE      13C(n,2ng)12C gamma-ray production in the 14 - 16 MeV
+#+          incident neutron energy range
+#AUTHOR(S)  A.M.McEvoy, H.W.Herrmann, Y.Kim, T.S.Sedillo, H.Geppert-Kleinrath, 
+#+          C.R.Brune, T.N.Massey, A.V.Voinov, C.E.Parker, M.S.Rubery, 
+#+          W.Stoeffl
+#REF-CODE   (J,PR/C,103,064607,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 064607 (doi:10.1103/PhysRevC.103.064607)
+#DATASETS   0
+#
+#DATASET    14710002 
+#DATE       20210726
+#REACTION   6-C-12(N,INL)6-C-12,PAR,DA,G
+#PROJ       1
+#TARG       6012
+#MF         14
+#MT         51
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012  14  51    1.5050+7          0.013800 1.3000-3 6.123-17          4440000.            A.M.McEvoy+          (21)14710  2 
+#/DATA      1
+#/DATASET

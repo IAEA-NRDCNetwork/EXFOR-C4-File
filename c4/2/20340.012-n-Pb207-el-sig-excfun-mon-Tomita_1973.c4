@@ -1,0 +1,29 @@
+#ENTRY      20340
+#AUTHOR1    Y.Tomita+
+#YEAR       1973
+#INSTITUTE  (2JPNJAE)
+#TITLE      Neutron scattering from Pb-207
+#AUTHOR(S)  Y.Tomita, S.Tanaka, M.Maruyama
+#REF-CODE   (R,JAERI-M-5418,1973)
+#REFERENCE  Report JAERI-M-5418, 1973
+#DATASETS   0
+#
+#DATASET    20340012 
+#DATE       20230319
+#REACTION   82-PB-207(N,EL)82-PB-207,,SIG
+#PROJ       1
+#TARG       82207
+#MF         3
+#MT         2
+#PRODUCT    82-PB-207
+#C4BEGIN    [    1 82207   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82207   3   2 D  1470000. 30000.00 4.524100 0.068017                                       Y.Tomita+            (73)20340 12 
+    1 82207   3   2 D  2020000. 30000.00 5.473400 0.081787                                       Y.Tomita+            (73)20340 12 
+    1 82207   3   2 D  2530000. 30000.00 6.039700 0.075822                                       Y.Tomita+            (73)20340 12 
+    1 82207   3   2 D  3040000. 30000.00 5.823000 0.097990                                       Y.Tomita+            (73)20340 12 
+    1 82207   3   2 D  3560000. 30000.00 5.538700 0.087483                                       Y.Tomita+            (73)20340 12 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      22082
+#AUTHOR1    S.Chiba+
+#YEAR       1988
+#INSTITUTE  (2JPNJAE)
+#TITLE      Measurements of fast neutron scattering cross sections
+#+          of Li-7 at 11.0 and 13.0 MeV
+#AUTHOR(S)  S.Chiba, Y.Yamanouti, M.Mizumoto, M.Hyakutake, S.Iwasaki
+#REF-CODE   (J,NST,25,210,1988)
+#REFERENCE  J.Nucl.Sci.Technol. 25 (1988) 210 (doi:10.1080/18811248.1988.9733579)
+#DATASETS   0
+#
+#DATASET    22082007 
+#DATE       20150930
+#REACTION   3-LI-7(N,INL)3-LI-7,PAR,SIG
+#PROJ       1
+#TARG       3007
+#MF         3
+#MT         51
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  3007   3  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3007   3  51    1.1000+7          0.125000 7.0000-3                   4630000.         LVLS.Chiba+             (88)22082  7 
+    1  3007   3  51    1.3000+7          0.100000 7.0000-3                   4630000.         LVLS.Chiba+             (88)22082  7 
+#/DATA      2
+#/DATASET

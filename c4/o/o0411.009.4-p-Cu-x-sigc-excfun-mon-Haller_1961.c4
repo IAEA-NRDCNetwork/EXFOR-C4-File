@@ -1,0 +1,27 @@
+#ENTRY      O0411
+#AUTHOR1    I.B.Haller+
+#YEAR       1961
+#INSTITUTE  (2SWDUPP)
+#TITLE      Relative yields of the isomeric pairs 69g-Zn - 69m-Zn
+#+          and 52g-Mn - 52m-Mn in some spallation reactions
+#+          induced by 20-153 MeV protons
+#AUTHOR(S)  I.B.Haller, G.Rudstam
+#REF-CODE   (J,JIN,19,1,1961)
+#REFERENCE  J.Inorg.Nucl.Chem. 19 (1961) 1
+#DATASETS   0
+#
+#DATASET    O04110094
+#DATE       20220107
+#REACTION   29-CU-0(P,X)26-FE-52,CUM,SIG
+#PROJ       1001
+#TARG       29000
+#MF         3
+#MT         459
+#PRODUCT    26-FE-52
+#C4BEGIN    [ 1001 29000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   3 459    1.5300+8 8000000. 9.2000-5 1.3000-5           26052.9                     I.B.Haller+          (61)O0411  94
+#/DATA      1
+#/DATASET

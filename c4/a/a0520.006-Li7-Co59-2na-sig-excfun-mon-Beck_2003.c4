@@ -1,0 +1,45 @@
+#ENTRY      A0520
+#AUTHOR1    C.Beck+
+#YEAR       2003
+#INSTITUTE  (2FR STR)
+#TITLE      Near-barrier fusion of weakly bound 6-Li and 7-Li
+#+          nuclei with 59Co
+#AUTHOR(S)  C.Beck, F.A.Souza, N.Rowley, S.J.Sanders, N.Aissaoui, E.E.Alonso, 
+#+          P.Bednarczyk, N.Carlin, S.Courtin, A.Diaz-Torres, A.Dummer, 
+#+          F.Haas, A.Hachem, K.Hagino, F.Hoellinger, R.V.F.Janssens, 
+#+          N.Kintz, R.Liguori Neto, E.Martin, M.M.Moura, M.G.Munhoz, 
+#+          P.Papka, M.Rousseau, A.Sanchez I Zafra, O.Stezowski, A.A.Suaide, 
+#+          E.M.Szanto, Szanto De Toledo, S.Szilner, J.Takahashi
+#REF-CODE   (J,PR/C,67,054602,20030502)
+#REFERENCE  Phys.Rev.C 67 (2003) 054602 (doi:10.1103/PhysRevC.67.054602)
+#DATASETS   0
+#
+#DATASET    A0520006 
+#DATE       20030708
+#REACTION   27-CO-59(3-LI-7,2N+A)28-NI-60,,SIG
+#PROJ       3007
+#TARG       27059
+#MF         3
+#MT         24
+#PRODUCT    28-NI-60
+#C4BEGIN    [ 3007 27059   3  24  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 27059   3  24    1.1986+7 70013.65 2.2900-3 1.1450-4                                       C.Beck+              (03)A0520  6 
+ 3007 27059   3  24    1.2736+7 70014.51 4.2800-3 2.1400-4                                       C.Beck+              (03)A0520  6 
+ 3007 27059   3  24    1.3598+7 70015.49 6.8800-3 3.4400-4                                       C.Beck+              (03)A0520  6 
+ 3007 27059   3  24    1.4684+7 70016.72 8.5000-3 4.2500-4                                       C.Beck+              (03)A0520  6 
+ 3007 27059   3  24    1.5769+7 70017.96 0.011800 5.9000-4                                       C.Beck+              (03)A0520  6 
+ 3007 27059   3  24    1.6799+7 70019.13 0.015000 7.5000-4                                       C.Beck+              (03)A0520  6 
+ 3007 27059   3  24    1.7717+7 70020.18 0.018500 9.2500-4                                       C.Beck+              (03)A0520  6 
+ 3007 27059   3  24    1.8747+7 70021.35 0.023500 1.1750-3                                       C.Beck+              (03)A0520  6 
+ 3007 27059   3  24    1.9776+7 70022.53 0.025000 1.2500-3                                       C.Beck+              (03)A0520  6 
+ 3007 27059   3  24    2.0862+7 70023.76 0.034800 1.7400-3                                       C.Beck+              (03)A0520  6 
+ 3007 27059   3  24    2.1724+7 70024.75 0.032800 1.6400-3                                       C.Beck+              (03)A0520  6 
+ 3007 27059   3  24    2.2866+7 70026.05 0.026000 1.3000-3                                       C.Beck+              (03)A0520  6 
+ 3007 27059   3  24    2.3739+7 70027.04 0.030200 1.5100-3                                       C.Beck+              (03)A0520  6 
+ 3007 27059   3  24    2.4814+7 70028.26 0.039600 1.9800-3                                       C.Beck+              (03)A0520  6 
+ 3007 27059   3  24    2.5844+7 70029.44 0.051800 2.5900-3                                       C.Beck+              (03)A0520  6 
+#/DATA      15
+#/DATASET

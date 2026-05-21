@@ -1,0 +1,28 @@
+#ENTRY      C1211
+#AUTHOR1    R.Goloskie+
+#YEAR       1962
+#INSTITUTE  (1USAHRV)
+#TITLE      Measurement of proton inelastic cross sections between
+#+          77 MeV and 133 MeV
+#AUTHOR(S)  R.Goloskie, K.Strauch
+#REF-CODE   (J,NP,29,474,1962)
+#REFERENCE  Nucl.Phys. 29 (1962) 474 (doi:10.1016/0029-5582(62)90197-9)
+#DATASETS   0
+#
+#DATASET    C1211005 
+#DATE       20120623
+#REACTION   47-AG-0(P,NON),,SIG
+#PROJ       1001
+#TARG       47000
+#MF         3
+#MT         3
+#C4BEGIN    [ 1001 47000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 47000   3   3    1.3300+8 5000000. 1.077000 0.041000                                       R.Goloskie+          (62)C1211  5 
+ 1001 47000   3   3    1.1300+8 5000000. 1.125000 0.038000                                       R.Goloskie+          (62)C1211  5 
+ 1001 47000   3   3    9.5000+7 5000000. 1.050000 0.036000                                       R.Goloskie+          (62)C1211  5 
+ 1001 47000   3   3    7.7000+7 5000000. 0.989000 0.038000                                       R.Goloskie+          (62)C1211  5 
+#/DATA      4
+#/DATASET

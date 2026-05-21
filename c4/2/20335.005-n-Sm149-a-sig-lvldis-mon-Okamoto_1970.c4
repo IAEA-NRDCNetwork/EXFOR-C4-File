@@ -1,0 +1,29 @@
+#ENTRY      20335
+#AUTHOR1    K.Okamoto+
+#YEAR       1970
+#INSTITUTE  (2JPNJAE)
+#TITLE      -THE (N,A) REACTION ON SAMARIUM AND NEODYMIUM ISOTOPES
+#+          INDUCED BY THERMAL NEUTRONS.-
+#AUTHOR(S)  K.Okamoto
+#REF-CODE   (J,NP/A,141,193,7001)
+#REFERENCE  Nucl.Phys.A 141 (1970) 193 (doi:10.1016/0375-9474(70)90303-9)
+#DATASETS   0
+#
+#DATASET    20335005 
+#DATE       19831128
+#REACTION   62-SM-149(N,A)60-ND-146,PAR,SIG
+#PROJ       1
+#TARG       62149
+#MF         3
+#MT         800
+#PRODUCT    60-ND-146
+#C4BEGIN    [    1 62149   3 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 62149   3 800    0.025300          5.0000-3 5.0000-4                   0.000000         LVLK.Okamoto            (70)20335  5 
+    1 62149   3 800    0.025300          0.023500 3.7000-3                   460000.0         LVLK.Okamoto            (70)20335  5 
+    1 62149   3 800    0.025300          1.1000-3 6.0000-4                   1060000.         LVLK.Okamoto            (70)20335  5 
+    1 62149   3 800    0.025300          1.2000-3                            1210000.         LVLK.Okamoto            (70)20335  5 
+#/DATA      4
+#/DATASET

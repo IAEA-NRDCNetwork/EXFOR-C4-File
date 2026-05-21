@@ -1,0 +1,34 @@
+#ENTRY      14719
+#AUTHOR1    P.W.Lisowski+
+#YEAR       2021
+#INSTITUTE  (1USALAS)
+#TITLE      Cross Sections for Neutron Production from 6- and
+#+          10-MeV Neutrons Incident on 10B and 11B
+#AUTHOR(S)  P.W.Lisowski, M.Drosg, D.M.Drake, B.Hoop
+#REF-CODE   (J,NSE,195,1131,2021)
+#REFERENCE  Nucl.Sci.Eng. 195 (2021) 1131 (doi:10.1080/00295639.2021.1906588)
+#DATASETS   0
+#
+#DATASET    14719013 
+#DATE       20211102
+#REACTION   5-B-11(N,INL)5-B-11,,DA
+#PROJ       1
+#TARG       5011
+#MF         4
+#MT         4
+#PRODUCT    5-B-11
+#C4BEGIN    [    1  5011   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5011   4   4  C 1.0000+7 15000.00 0.042800 3.6300-3 0.937889 6.0552-4                     P.W.Lisowski+        (21)14719 13 
+    1  5011   4   4  C 1.0000+7 15000.00 0.038700 2.2600-3 0.819152 1.0011-3                     P.W.Lisowski+        (21)14719 13 
+    1  5011   4   4  C 1.0000+7 15000.00 0.031600 1.7500-3 0.705872 1.2363-3                     P.W.Lisowski+        (21)14719 13 
+    1  5011   4   4  C 1.0000+7 15000.00 0.027300 2.4570-4 0.496974 1.5145-3                     P.W.Lisowski+        (21)14719 13 
+    1  5011   4   4  C 1.0000+7 15000.00 0.024700 2.2230-4 0.258819 1.6859-3                     P.W.Lisowski+        (21)14719 13 
+    1  5011   4   4  C 1.0000+7 15000.00 0.022500 2.0250-4-1.7453-3 1.7453-3                     P.W.Lisowski+        (21)14719 13 
+    1  5011   4   4  C 1.0000+7 15000.00 0.018000 1.6200-4-0.342020 1.6401-3                     P.W.Lisowski+        (21)14719 13 
+    1  5011   4   4  C 1.0000+7 15000.00 0.018300 1.6470-4-0.644124 1.3350-3                     P.W.Lisowski+        (21)14719 13 
+    1  5011   4   4  C 1.0000+7 15000.00 0.019700 1.7730-4-0.820152 9.9858-4                     P.W.Lisowski+        (21)14719 13 
+#/DATA      9
+#/DATASET

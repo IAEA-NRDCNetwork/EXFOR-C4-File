@@ -1,0 +1,29 @@
+#ENTRY      23467
+#AUTHOR1    A.Wallner+
+#YEAR       2019
+#INSTITUTE  (3AULCBR)
+#TITLE      Stellar and thermal neutron capture cross section of
+#+          9Be
+#AUTHOR(S)  A.Wallner, M.Bichler, L.Coquard, I.Dillmann, O.Forstner, 
+#+          R.Golser, M.Heil, F.Kappeler, W.Kutschera, C.Lederer-Woods, 
+#+          M.Martschini, A.Mengoni, S.Merchel, L.Michlmayr, A.Priller, 
+#+          P.Steier, M.Wiescher
+#REF-CODE   (J,PR/C,99,015804,2019)
+#REFERENCE  Phys.Rev.C 99 (2019) 015804 (doi:10.1103/PhysRevC.99.015804)
+#DATASETS   0
+#
+#DATASET    23467003 
+#DATE       20190226
+#REACTION   4-BE-9(N,G)4-BE-10,,SIG,,MXW
+#PROJ       1
+#TARG       4009
+#MF         3
+#MT         102
+#PRODUCT    4-BE-10
+#C4BEGIN    [    1  4009   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  4009   3 102 D  25000.00          1.0440-5 6.3000-7                                       A.Wallner+           (19)23467  3 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      C1750
+#AUTHOR1    A.Barioni+
+#YEAR       2009
+#INSTITUTE  (3BZLUSP)
+#TITLE      Elastic scattering and total reaction cross sections
+#+          for the 8Li + 12C system
+#AUTHOR(S)  A.Barioni, V.Guimaraes, A.Lepine-Szily, R.Lichtenthaler, 
+#+          D.R.Mendes Jr, E.Crema, K.C.C.Pires, M.C.Morais, V.Morcelle, 
+#+          P.N.de Faria, R.P.Condori, A.M.Moro, D.S.Monteiro, J.M.B.Shorto, 
+#+          J.Lubian, M.Assuncao
+#REF-CODE   (J,PR/C,80,034617,2009)
+#REFERENCE  Phys.Rev.C 80 (2009) 034617 (doi:10.1103/PhysRevC.80.034617)
+#DATASETS   0
+#
+#DATASET    C1750002 
+#DATE       20091028
+#REACTION   6-C-12(3-LI-8,EL)6-C-12,,DA
+#PROJ       3008
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 3008  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3008  6012   4   2  C 2.3900+7          0.166000 0.012500 0.880725                              A.Barioni+           (09)C1750  2 
+ 3008  6012   4   2  C 2.3900+7          0.037600 2.8200-3 0.803441                              A.Barioni+           (09)C1750  2 
+ 3008  6012   4   2  C 2.3900+7          9.2000-3 9.1000-4 0.674173                              A.Barioni+           (09)C1750  2 
+ 3008  6012   4   2  C 2.3900+7          2.9200-3 3.5700-4 0.560928                              A.Barioni+           (09)C1750  2 
+ 3008  6012   4   2  C 2.3900+7          8.8200-4 1.6600-4 0.421985                              A.Barioni+           (09)C1750  2 
+ 3008  6012   4   2  C 2.3900+7          8.0300-5 1.4700-4 0.201249                              A.Barioni+           (09)C1750  2 
+ 3008  6012   4   2  C 2.3900+7          5.0300-5 3.0100-5 0.069234                              A.Barioni+           (09)C1750  2 
+#/DATA      7
+#/DATASET

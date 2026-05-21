@@ -1,0 +1,45 @@
+#ENTRY      A0511
+#AUTHOR1    L.Sydow+
+#YEAR       1993
+#INSTITUTE  (2GERKLN)
+#TITLE      Optimized polarimetry for polarization-transfer
+#+          experiments with protons and deuterons
+#AUTHOR(S)  L.Sydow, S.Vohl, S.Lemaitre, P.Neissen, K.R.Nyga, R.Reckenfelderbaumer, 
+#+          G.Rauprich, H.Paetz gen.Schieck
+#REF-CODE   (J,NIM/A,327,441,1993)
+#REFERENCE  Nucl.Instrum.Meth.A 327 (1993) 441 (doi:10.1016/0168-9002(93)90710-Y)
+#DATASETS   0
+#
+#DATASET    A0511002 
+#DATE       20180621
+#REACTION   6-C-12(P,EL)6-C-12,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4   2  C 6200000. 20000.00 0.061600 1.8000-3 0.435231 7.8568-3                     L.Sydow+             (93)A0511  2 
+ 1001  6012   4   2  C 6200000. 20000.00 0.081400 2.4000-3-0.414693 7.9409-3                     L.Sydow+             (93)A0511  2 
+#/DATA      2
+#/DATASET
+#
+#DATASET    A0511002 
+#DATE       20180621
+#REACTION   6-C-12(P,EL)6-C-12,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4   2  C 7200000. 20000.00 0.064500 1.9000-3-0.083678 8.6960-3                     L.Sydow+             (93)A0511  2 
+ 1001  6012   4   2  C 7200000. 20000.00 0.080800 2.4000-3-0.414693 7.9409-3                     L.Sydow+             (93)A0511  2 
+#/DATA      2
+#/DATASET

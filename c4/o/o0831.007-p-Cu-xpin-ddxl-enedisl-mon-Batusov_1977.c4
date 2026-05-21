@@ -1,0 +1,31 @@
+#ENTRY      O0831
+#AUTHOR1    Yu.A.Batusov+
+#YEAR       1977
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Pion production in nuclei by 660-MeV protons
+#AUTHOR(S)  Yu.A.Batusov, I.F.Grishashvili, D.D.Dzhalaganiya, N.I.Kostanashvili, 
+#+          G.I.Lebedevich
+#REF-CODE   (J,YF,26,966,1977)
+#REFERENCE  Yad.Fiz. 26 (1977) 966
+#DATASETS   0
+#
+#DATASET    O0831007 
+#DATE       20010323
+#REACTION   29-CU-0(P,X)1-PN-0,,DA/DE
+#PROJ       1001
+#TARG       29000
+#MF         6
+#MT         210
+#PRODUCT    1-PN-0
+#C4BEGIN    [ 1001 29000   6 210  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   6 210    6.0000+8          1.3700-8 1.2000-9-0.258819          1.4370+7          E2Yu.A.Batusov+        (77)O0831  7 
+ 1001 29000   6 210    6.0000+8          1.6000-8 1.7000-9-0.258819          2.1550+7          E2Yu.A.Batusov+        (77)O0831  7 
+ 1001 29000   6 210    6.0000+8          1.5300-8 1.4000-9-0.258819          2.8230+7          E2Yu.A.Batusov+        (77)O0831  7 
+ 1001 29000   6 210    6.0000+8          1.4500-8 1.4000-9-0.258819          3.7760+7          E2Yu.A.Batusov+        (77)O0831  7 
+ 1001 29000   6 210    6.0000+8          9.4000-9 1.2000-9-0.258819          4.7100+7          E2Yu.A.Batusov+        (77)O0831  7 
+ 1001 29000   6 210    6.0000+8          9.8000-9 1.3000-9-0.258819          5.7290+7          E2Yu.A.Batusov+        (77)O0831  7 
+#/DATA      6
+#/DATASET

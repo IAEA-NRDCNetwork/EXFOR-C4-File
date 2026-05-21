@@ -1,0 +1,27 @@
+#ENTRY      O0630
+#AUTHOR1    O.E.Shigaev+
+#YEAR       1982
+#INSTITUTE  (4RUSRI)
+#TITLE      Anisotropy and cross sections of fission of
+#+          intermediate nuclei (100 <= A <= 150) induced by
+#+          155- and 200-MeV protons
+#AUTHOR(S)  O.E.Shigaev, A.I.Obukhov, V.D.Dmitriev, N.A.Perfilov, M.F.Lomanov, 
+#+          G.G.Shimchuk, I.A.Nazarov
+#REF-CODE   (J,YF,35,567,1982)
+#REFERENCE  Yad.Fiz. 35 (1982) 567
+#DATASETS   0
+#
+#DATASET    O06300051
+#DATE       20120602
+#REACTION   62-SM-0(P,F),,SIG
+#PROJ       1001
+#TARG       62000
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 62000   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 62000   3  18    2.0000+8          8.0400-5 6.3000-6                                       O.E.Shigaev+         (82)O0630  51
+#/DATA      1
+#/DATASET

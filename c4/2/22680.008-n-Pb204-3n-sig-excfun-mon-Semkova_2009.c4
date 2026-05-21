@@ -1,0 +1,31 @@
+#ENTRY      22680
+#AUTHOR1    V.Semkova+
+#YEAR       2009
+#INSTITUTE  (2ZZZGEL)
+#TITLE      Neutron activation cross sections on lead isotopes
+#AUTHOR(S)  V.Semkova, P.Reimer, T.Altzitzoglou, A.J.M.Plompen, C.Quetel, 
+#+          S.Sudar, J.Vogl, A.J.Koning, S.M.Qaim, D.L.Smith, F.Cserpak, 
+#+          V.Avrigeanu
+#REF-CODE   (J,PR/C,80,024610,2009)
+#REFERENCE  Phys.Rev.C 80 (2009) 024610 (doi:10.1103/PhysRevC.80.024610)
+#DATASETS   0
+#
+#DATASET    22680008 
+#DATE       20200119
+#REACTION   82-PB-204(N,3N)82-PB-202-M,,SIG
+#PROJ       1
+#TARG       82204
+#MF         3
+#MT         17
+#PRODUCT    82-PB-202-M
+#C4BEGIN    [    1 82204   3  17M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82204   3  17M   1.8000+7 50000.00 1.7000-4 7.0000-5                                       V.Semkova+           (09)22680  8 
+    1 82204   3  17M   1.8700+7 100000.0 3.8000-3 5.0000-4                                       V.Semkova+           (09)22680  8 
+    1 82204   3  17M   1.9200+7 100000.0 0.013400 2.2000-3                                       V.Semkova+           (09)22680  8 
+    1 82204   3  17M   1.9400+7 50000.00 0.018300 2.2000-3                                       V.Semkova+           (09)22680  8 
+    1 82204   3  17M   2.0500+7 50000.00 0.082000 0.014000                                       V.Semkova+           (09)22680  8 
+#/DATA      5
+#/DATASET

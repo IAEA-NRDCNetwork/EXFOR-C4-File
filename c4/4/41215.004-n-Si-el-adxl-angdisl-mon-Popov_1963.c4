@@ -1,0 +1,35 @@
+#ENTRY      41215
+#AUTHOR1    V.I.Popov+
+#YEAR       1963
+#INSTITUTE  (4RUSFEI)
+#TITLE      Angle distribution of 3.1-MeV neutrons elastically
+#+          scattered on Al, Si, K, Ca, and Th
+#AUTHOR(S)  V.I.Popov
+#REF-CODE   (B,SPN,,224,1963)
+#REFERENCE  Soviet Progress in Neutron Physics, New York 1963 page 224 (1963)
+#DATASETS   0
+#
+#DATASET    41215004 
+#DATE       20191217
+#REACTION   14-SI-0(N,EL)14-SI-0,,DA
+#PROJ       1
+#TARG       14000
+#MF         4
+#MT         2
+#PRODUCT    14-SI-0
+#C4BEGIN    [    1 14000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14000   4   2    3100000.          0.750000 0.050000 0.940000 0.053592                     V.I.Popov            (63)41215  4 
+    1 14000   4   2    3100000.          0.440000 0.020000 0.880000 0.074609                     V.I.Popov            (63)41215  4 
+    1 14000   4   2    3100000.          0.243000 8.0000-3 0.750000 0.103898                     V.I.Popov            (63)41215  4 
+    1 14000   4   2    3100000.          0.131000 4.0000-3 0.530000 0.133203                     V.I.Popov            (63)41215  4 
+    1 14000   4   2    3100000.          0.109000 3.0000-3 0.290000 0.150329                     V.I.Popov            (63)41215  4 
+    1 14000   4   2    3100000.          0.066000 2.0000-3 0.020000 0.157048                     V.I.Popov            (63)41215  4 
+    1 14000   4   2    3100000.          0.068000 2.0000-3-0.240000 0.152489                     V.I.Popov            (63)41215  4 
+    1 14000   4   2    3100000.          0.054000 3.0000-3-0.480000 0.137801                     V.I.Popov            (63)41215  4 
+    1 14000   4   2    3100000.          0.079000 4.0000-3-0.700000 0.112177                     V.I.Popov            (63)41215  4 
+    1 14000   4   2    3100000.          0.084000 5.0000-3-0.870000 0.077448                     V.I.Popov            (63)41215  4 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      12670
+#AUTHOR1    W.P.Poenitz+
+#YEAR       1975
+#INSTITUTE  (1USAANL)
+#TITLE      Fast neutron capture and activation cross sections
+#AUTHOR(S)  W.P.Poenitz
+#REF-CODE   (C,75WASH,,901,1975)
+#REFERENCE  Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 page 901
+#DATASETS   0
+#
+#DATASET    12670009 
+#DATE       20211002
+#REACTION   29-CU-0(N,G),,SIG
+#PROJ       1
+#TARG       29000
+#MF         3
+#MT         102
+#C4BEGIN    [    1 29000   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   3 102    507200.0          0.013360 1.3640-3                                       W.P.Poenitz          (75)12670  9 
+    1 29000   3 102    704800.0          0.013620 1.3140-3                                       W.P.Poenitz          (75)12670  9 
+    1 29000   3 102    912500.0          0.013290 1.4330-3                                       W.P.Poenitz          (75)12670  9 
+    1 29000   3 102    1222000.          0.011350 1.2890-3                                       W.P.Poenitz          (75)12670  9 
+    1 29000   3 102    1504000.          7.7150-3 7.4380-4                                       W.P.Poenitz          (75)12670  9 
+    1 29000   3 102    1691000.          7.1520-3 7.7030-4                                       W.P.Poenitz          (75)12670  9 
+    1 29000   3 102    1992000.          6.8880-3 8.1980-4                                       W.P.Poenitz          (75)12670  9 
+    1 29000   3 102    2549000.          6.6770-3 8.3210-4                                       W.P.Poenitz          (75)12670  9 
+    1 29000   3 102    3039000.          6.5530-3 8.5300-4                                       W.P.Poenitz          (75)12670  9 
+#/DATA      9
+#/DATASET

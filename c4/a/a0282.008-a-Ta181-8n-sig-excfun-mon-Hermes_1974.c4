@@ -1,0 +1,33 @@
+#ENTRY      A0282
+#AUTHOR1    F.Hermes+
+#YEAR       1974
+#INSTITUTE  (2GERBON)
+#TITLE      Analysis of (PARTICLE,XN) Reactions on Tantalum and
+#+          Gold
+#+          [1] 181-Ta(A,XN) Excitation Functions Up to 104 MeV and
+#+          Equilibrium Statistical Model Analysis.
+#AUTHOR(S)  F.Hermes, E.W.Jasper, H.E.Kurz, T.Mayer-Kuckuk
+#REF-CODE   (J,NP/A,228,165,1974)
+#REFERENCE  Nucl.Phys.A 228 (1974) 165 (doi:10.1016/0375-9474(74)90452-7)
+#DATASETS   0
+#
+#DATASET    A0282008 
+#DATE       20020405
+#REACTION   73-TA-181(A,8N)75-RE-177,,SIG
+#PROJ       2004
+#TARG       73181
+#MF         3
+#MT         161
+#PRODUCT    75-RE-177
+#C4BEGIN    [ 2004 73181   3 161  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 73181   3 161    8.5700+7 1000000. 0.023800 4.7600-3                                       F.Hermes+            (74)A0282  8 
+ 2004 73181   3 161    8.9800+7 1000000. 0.115000 0.023000                                       F.Hermes+            (74)A0282  8 
+ 2004 73181   3 161    9.3700+7 1000000. 0.227000 0.045400                                       F.Hermes+            (74)A0282  8 
+ 2004 73181   3 161    9.7500+7 1000000. 0.305000 0.061000                                       F.Hermes+            (74)A0282  8 
+ 2004 73181   3 161    9.9400+7 1000000. 0.317000 0.063400                                       F.Hermes+            (74)A0282  8 
+ 2004 73181   3 161    1.0310+8 1000000. 0.323000 0.064600                                       F.Hermes+            (74)A0282  8 
+#/DATA      6
+#/DATASET

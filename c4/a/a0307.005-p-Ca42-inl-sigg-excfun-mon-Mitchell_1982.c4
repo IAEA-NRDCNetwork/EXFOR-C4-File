@@ -1,0 +1,35 @@
+#ENTRY      A0307
+#AUTHOR1    L.W.Mitchell+
+#YEAR       1982
+#INSTITUTE  (3AULAML)
+#TITLE      Cross sections and thermonuclear reaction rates for
+#+          Ca-42(p,gamma)Sc-43, Ca-44(p,gamma)Sc-45,
+#+          Ca-44(p,n)Sc-44 and Sc-45(p,n)Ti-45
+#AUTHOR(S)  L.W.Mitchell, M.R.Anderson, S.R.Kennett, D.G.Sargood
+#REF-CODE   (J,NP/A,380,318,1982)
+#REFERENCE  Nucl.Phys.A 380 (1982) 318 (doi:10.1016/0375-9474(82)90108-7)
+#DATASETS   0
+#
+#DATASET    A0307005 
+#DATE       20240925
+#REACTION   20-CA-42(P,INL)20-CA-42,,SIG,G
+#PROJ       1001
+#TARG       20042
+#MF         13
+#MT         103
+#PRODUCT    20-CA-42
+#C4BEGIN    [ 1001 20042  13 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20042  13 103    2253000.          8.7870-6 2.2400-6                                       L.W.Mitchell+        (82)A0307  5 
+ 1001 20042  13 103    2344000.          3.6020-5 3.8250-6                                       L.W.Mitchell+        (82)A0307  5 
+ 1001 20042  13 103    2435000.          2.1830-4                                                L.W.Mitchell+        (82)A0307  5 
+ 1001 20042  13 103    2525000.          5.2700-4                                                L.W.Mitchell+        (82)A0307  5 
+ 1001 20042  13 103    2615000.          1.3720-3                                                L.W.Mitchell+        (82)A0307  5 
+ 1001 20042  13 103    2704000.          1.7190-3                                                L.W.Mitchell+        (82)A0307  5 
+ 1001 20042  13 103    2795000.          4.2540-3                                                L.W.Mitchell+        (82)A0307  5 
+ 1001 20042  13 103    2886000.          5.4650-3                                                L.W.Mitchell+        (82)A0307  5 
+ 1001 20042  13 103    2976000.          0.010380                                                L.W.Mitchell+        (82)A0307  5 
+#/DATA      9
+#/DATASET

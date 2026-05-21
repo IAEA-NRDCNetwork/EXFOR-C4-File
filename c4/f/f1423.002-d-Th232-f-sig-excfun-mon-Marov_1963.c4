@@ -1,0 +1,26 @@
+#ENTRY      F1423
+#AUTHOR1    G.I.Marov+
+#YEAR       1963
+#INSTITUTE  (4RUSRI)
+#TITLE      Uranium and thorium fission induced by sub-barrier
+#+          deuterons.
+#AUTHOR(S)  G.I.Marov, Yu.A.Nemilov, Yu.A.Selitskiy, V.P.Eismont
+#REF-CODE   (J,ZET,44,1445,1963)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 44 (1963) 1445
+#DATASETS   0
+#
+#DATASET    F1423002 
+#DATE       20200629
+#REACTION   90-TH-232(D,F),,SIG
+#PROJ       1002
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [ 1002 90232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 90232   3  18    5800000. 100000.0 1.7650-5 2.2400-6                                       G.I.Marov+           (63)F1423  2 
+ 1002 90232   3  18    6200000. 100000.0 4.8410-5 2.6800-6                                       G.I.Marov+           (63)F1423  2 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      C1347
+#AUTHOR1    B.Dasmahapatra+
+#YEAR       1993
+#INSTITUTE  (1CANLUQ)
+#TITLE      Measurement of cross sections for 12C + 14C reaction
+#+          at subbarrier energies
+#AUTHOR(S)  B.Dasmahapatra, B.Cujec
+#REF-CODE   (J,NP/A,565,657,1993)
+#REFERENCE  Nucl.Phys.A 565 (1993) 657 (doi:10.1016/0375-9474(93)90051-X)
+#DATASETS   0
+#
+#DATASET    C1347012 
+#DATE       20051020
+#REACTION   6-C-14(6-C-12,N+A)10-NE-21,,SIG
+#PROJ       6012
+#TARG       6014
+#MF         3
+#MT         22
+#PRODUCT    10-NE-21
+#C4BEGIN    [ 6012  6014   3  22  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  6014   3  22    1.0344+7          6.1900-3 1.1700-3                                       B.Dasmahapatra+      (93)C1347 12 
+ 6012  6014   3  22    1.0827+7          0.020800 5.0000-3                                       B.Dasmahapatra+      (93)C1347 12 
+ 6012  6014   3  22    1.1830+7          0.068900 0.018600                                       B.Dasmahapatra+      (93)C1347 12 
+ 6012  6014   3  22    1.2852+7          0.175000 0.045300                                       B.Dasmahapatra+      (93)C1347 12 
+ 6012  6014   3  22    1.3855+7          0.338000 0.097300                                       B.Dasmahapatra+      (93)C1347 12 
+ 6012  6014   3  22    1.4877+7          0.550000 0.151000                                       B.Dasmahapatra+      (93)C1347 12 
+#/DATA      6
+#/DATASET

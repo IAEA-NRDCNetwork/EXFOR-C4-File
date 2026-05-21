@@ -1,0 +1,36 @@
+#ENTRY      D4047
+#AUTHOR1    B.Scholten+
+#YEAR       1997
+#INSTITUTE  (2GERJUL)
+#TITLE      Excitation functions of deuteron induced reactions on
+#+          123Te: Relevance to the production of 123I and 124I
+#+          at low and medium sized cyclotrons
+#AUTHOR(S)  B.Scholten, S.Takacs, Z.Kovacs, F.Tarkanyi, S.M.Qaim
+#REF-CODE   (J,ARI,48,267,1997)
+#REFERENCE  Appl.Radiat.Isot. 48 (1997) 267 (doi:10.1016/S0969-8043(96)00149-2)
+#DATASETS   0
+#
+#DATASET    D40470031
+#DATE       20180717
+#REACTION   52-TE-123(D,N)53-I-124,,SIG
+#PROJ       1002
+#TARG       52123
+#MF         3
+#MT         4
+#PRODUCT    53-I-124
+#C4BEGIN    [ 1002 52123   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 52123   3   4    1.2490+7 200000.0 0.081800 0.010100                                       B.Scholten+          (97)D4047  31
+ 1002 52123   3   4    1.1650+7 200000.0 0.092700 9.9000-3                                       B.Scholten+          (97)D4047  31
+ 1002 52123   3   4    1.1010+7 210000.0 0.105100 0.012800                                       B.Scholten+          (97)D4047  31
+ 1002 52123   3   4    1.0380+7 220000.0 0.102100 0.011700                                       B.Scholten+          (97)D4047  31
+ 1002 52123   3   4    9760000. 250000.0 0.120100 0.013200                                       B.Scholten+          (97)D4047  31
+ 1002 52123   3   4    8770000. 240000.0 0.129700 0.014100                                       B.Scholten+          (97)D4047  31
+ 1002 52123   3   4    8020000. 270000.0 0.115400 0.014300                                       B.Scholten+          (97)D4047  31
+ 1002 52123   3   4    7420000. 280000.0 0.091400 9.4000-3                                       B.Scholten+          (97)D4047  31
+ 1002 52123   3   4    7210000. 300000.0 0.083600 0.013300                                       B.Scholten+          (97)D4047  31
+ 1002 52123   3   4    6100000. 300000.0 0.032000 4.3000-3                                       B.Scholten+          (97)D4047  31
+#/DATA      10
+#/DATASET

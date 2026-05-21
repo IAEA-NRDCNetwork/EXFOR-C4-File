@@ -1,0 +1,26 @@
+#ENTRY      C2354
+#AUTHOR1    D.A.Divaratne+
+#YEAR       2018
+#INSTITUTE  (1USAOHO)
+#TITLE      One- and two-neutron removal cross sections of 24-O
+#AUTHOR(S)  D.A.Divaratne, C.R.Brune, H.N.Attanayake, T.Baumann, D.Bazin, 
+#+          A.Gade, S.M.Grimes, P.M.King, M.Thoennessen, J.A.Tostevin
+#REF-CODE   (J,PR/C,98,024306,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 024306 (doi:10.1103/PhysRevC.98.024306)
+#DATASETS   0
+#
+#DATASET    C2354003 
+#DATE       20180918
+#REACTION   8-O-24(4-BE-9,X)8-O-22,,SIG
+#PROJ       4009
+#TARG       8024
+#MF         3
+#MT         454
+#PRODUCT    8-O-22
+#C4BEGIN    [ 4009  8024   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4009  8024   3 454    8.3070+8          0.146000 0.033000            8022.9                     D.A.Divaratne+       (18)C2354  3 
+#/DATA      1
+#/DATASET

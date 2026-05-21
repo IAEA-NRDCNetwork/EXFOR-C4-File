@@ -1,0 +1,39 @@
+#ENTRY      O2448
+#AUTHOR1    V.Foteinou+
+#YEAR       2019
+#INSTITUTE  (2GRCATH)
+#TITLE      Cross section measurements of proton capture
+#+          reactions on Mo isotopes relevant to the
+#+          astrophysical p process
+#AUTHOR(S)  V.Foteinou, M.Axiotis, S.Harissopulos, P.Dimitriou, G.Provatas, 
+#+          A.Lagoyannis, H.-W.Becker, D.Rogalla, A.Zilges, A.Schreckling, 
+#+          A.Endres
+#REF-CODE   (J,EPJ/A,55,67,2019)
+#REFERENCE  Eur.Phys.J.A 55 (2019) 67 (doi:10.1140/epja/i2019-12738-x)
+#DATASETS   0
+#
+#DATASET    O24480082
+#DATE       20200311
+#REACTION   42-MO-98(P,G)43-TC-99,,SIG,,SFC
+#PROJ       1001
+#TARG       42098
+#MF         3
+#MT         102
+#PRODUCT    43-TC-99
+#C4BEGIN    [ 1001 42098   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42098   3 102    1989289. 5000.107 4.1764-6 9.2489-7                                       V.Foteinou+          (19)O2448  82
+ 1001 42098   3 102    2189332. 5000.118 1.6163-5 3.5103-6                                       V.Foteinou+          (19)O2448  82
+ 1001 42098   3 102    2390385. 5000.129 5.0301-5 1.0882-5                                       V.Foteinou+          (19)O2448  82
+ 1001 42098   3 102    2490407. 5000.135 8.1330-5 1.7791-5                                       V.Foteinou+          (19)O2448  82
+ 1001 42098   3 102    2590429. 5000.140 6.8904-5 1.4857-5                                       V.Foteinou+          (19)O2448  82
+ 1001 42098   3 102    2790473. 5000.151 1.4266-5 3.0901-6                                       V.Foteinou+          (19)O2448  82
+ 1001 42098   3 102    2991528. 5000.162 1.4330-5 3.0466-6                                       V.Foteinou+          (19)O2448  82
+ 1001 42098   3 102    3391618. 5000.184 2.2666-5 4.8787-6                                       V.Foteinou+          (19)O2448  82
+ 1001 42098   3 102    3792720. 5000.205 4.5369-5 9.9204-6                                       V.Foteinou+          (19)O2448  82
+ 1001 42098   3 102    4392861. 5000.238 9.3717-5 2.0305-5                                       V.Foteinou+          (19)O2448  82
+ 1001 42098   3 102    4994016. 5000.271 1.4257-4 3.1068-5                                       V.Foteinou+          (19)O2448  82
+#/DATA      11
+#/DATASET

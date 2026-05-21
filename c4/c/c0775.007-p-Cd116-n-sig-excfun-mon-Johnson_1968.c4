@@ -1,0 +1,35 @@
+#ENTRY      C0775
+#AUTHOR1    C.H.Johnson+
+#YEAR       1968
+#INSTITUTE  (1USAORL)
+#TITLE      Use of the (p,n) reaction to measure proton atomic
+#+          stopping powers in Ag, Cd, in, and Sn
+#AUTHOR(S)  C.H.Johnson, R.L.Kernell
+#REF-CODE   (J,PR,169,974,1968)
+#REFERENCE  Phys.Rev. 169 (1968) 974 (doi:10.1103/PhysRev.169.974)
+#DATASETS   0
+#
+#DATASET    C0775007 
+#DATE       20220715
+#REACTION   48-CD-116(P,N)49-IN-116,,SIG
+#PROJ       1001
+#TARG       48116
+#MF         3
+#MT         4
+#PRODUCT    49-IN-116
+#C4BEGIN    [ 1001 48116   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 48116   3   4    2500000.          1.3200-5                                                C.H.Johnson+         (68)C0775  7 
+ 1001 48116   3   4    2750000.          4.6600-5                                                C.H.Johnson+         (68)C0775  7 
+ 1001 48116   3   4    3000000.          1.3800-4                                                C.H.Johnson+         (68)C0775  7 
+ 1001 48116   3   4    3250000.          3.5700-4                                                C.H.Johnson+         (68)C0775  7 
+ 1001 48116   3   4    3500000.          8.2600-4                                                C.H.Johnson+         (68)C0775  7 
+ 1001 48116   3   4    4000000.          3.3900-3                                                C.H.Johnson+         (68)C0775  7 
+ 1001 48116   3   4    4500000.          0.010540                                                C.H.Johnson+         (68)C0775  7 
+ 1001 48116   3   4    5000000.          0.026400                                                C.H.Johnson+         (68)C0775  7 
+ 1001 48116   3   4    5500000.          0.054800                                                C.H.Johnson+         (68)C0775  7 
+ 1001 48116   3   4    6000000.          0.096900                                                C.H.Johnson+         (68)C0775  7 
+#/DATA      10
+#/DATASET

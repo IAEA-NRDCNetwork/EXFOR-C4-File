@@ -1,0 +1,28 @@
+#ENTRY      13158
+#AUTHOR1    P.P.Guss+
+#YEAR       1989
+#INSTITUTE  (1USATNL)
+#TITLE      OPTICAL MODEL DESCRIPTION OF THE NEUTRON INTERACTION
+#+          WITH 116SN AND 120SN OVER A WIDE ENERGY RANGE
+#AUTHOR(S)  P.P.Guss, R.C.Byrd, C.R.Howell, R.S.Pedroni, G.Tungate, 
+#+          R.L.Walter, J.P.Delaroche
+#REF-CODE   (J,PR/C,39,405,8902)
+#REFERENCE  Phys.Rev.C 39 (1989) 405 (doi:10.1103/PhysRevC.39.405)
+#DATASETS   0
+#
+#DATASET    13158009 
+#DATE       19890711
+#REACTION   50-SN-116(N,EL)50-SN-116,,SIG
+#PROJ       1
+#TARG       50116
+#MF         3
+#MT         2
+#PRODUCT    50-SN-116
+#C4BEGIN    [    1 50116   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 50116   3   2 D  9945000. 71000.00 2.239000 0.212000                                       P.P.Guss+            (89)13158  9 
+    1 50116   3   2 D  1.3925+7 47000.00 2.325000 0.071000                                       P.P.Guss+            (89)13158  9 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      11354
+#AUTHOR1    L.F.Hansen+
+#YEAR       1968
+#INSTITUTE  (1USALRL)
+#TITLE      Non Elastic and Some Inelastic Cross Sections in C12
+#+          and N14 at 15.3 MeV
+#AUTHOR(S)  L.F.Hansen, J.D.Anderson, M.L.Stelts, C.Wong
+#REF-CODE   (C,68WASH,,225,1968)
+#REFERENCE  Proceedings of Nuclear Cross-Sections Techn. Conf., Washington 1968 page 225
+#DATASETS   0
+#
+#DATASET    11354002 
+#DATE       19820324
+#REACTION   6-C-0(N,INL),PAR,SIG
+#PROJ       1
+#TARG       6000
+#MF         3
+#MT         51
+#PRODUCT    6-C-0
+#C4BEGIN    [    1  6000   3  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   3  51    1.5300+7          0.220000 0.020000                   4430000.         LVLL.F.Hansen+          (68)11354  2 
+    1  6000   3  51    1.5300+7          0.100000 0.030000                   9600000.         LVLL.F.Hansen+          (68)11354  2 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      14547
+#AUTHOR1    E.L.Reber+
+#YEAR       2005
+#INSTITUTE  (1USAINL)
+#TITLE      Measurement of the fission yields of selected prompt
+#+          and decay fission product gamma-rays of spontaneously
+#+          fissioning 252Cf and 244Cm
+#AUTHOR(S)  E.L.Reber, R.J.Gehrke, R.Aryaeinejad, J.K.Hartwell
+#REF-CODE   (J,JRN,264,243,2005)
+#REFERENCE  J.Rad.Nucl.Chem. 264 (2005) 243 (doi:10.1007/s10967-005-0701-1)
+#DATASETS   0
+#
+#DATASET    14547005 
+#DATE       20191021
+#REACTION   98-CF-252(0,F)ELEM/MASS,IND,FY
+#PROJ       -1
+#TARG       98252
+#MF         8
+#MT         454
+#C4BEGIN    [   -1 98252   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+   -1 98252   8 454                      0.028000          43.00000 107.0000 9.000000            E.L.Reber+           (05)14547  5 
+   -1 98252   8 454                      0.046100          44.00000 110.0000 9.000000            E.L.Reber+           (05)14547  5 
+   -1 98252   8 454                      0.030500          46.00000 114.0000 9.000000            E.L.Reber+           (05)14547  5 
+   -1 98252   8 454                      0.023700          52.00000 134.0000 9.000000            E.L.Reber+           (05)14547  5 
+   -1 98252   8 454                      0.022800          54.00000 140.0000 9.000000            E.L.Reber+           (05)14547  5 
+#/DATA      5
+#/DATASET

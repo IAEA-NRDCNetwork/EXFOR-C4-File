@@ -1,0 +1,75 @@
+#ENTRY      14139
+#AUTHOR1    D.S.Sorenson+
+#YEAR       2007
+#INSTITUTE  (1USALAS)
+#TITLE      Limitations of the distorted-wave impulse approximation
+#+          in describing the energy dependence of the
+#+          10B(n,p)10Be (g.s.) reaction
+#AUTHOR(S)  D.S.Sorenson, J.L.Ullmann, A.Ling, B.K.Park, R.C.Haight, 
+#+          N.S.P.King, R.A.Lindgren, H.Baghaei, E.J.Stephenson, F.P.Brady, 
+#+          J.L.Romero, J.Rapaport, B.L.Clausen, C.Wuest, F.Sammarruca
+#REF-CODE   (J,PR/C,75,034611,2007)
+#REFERENCE  Phys.Rev.C 75 (2007) 034611 (doi:10.1103/PhysRevC.75.034611)
+#DATASETS   0
+#
+#DATASET    14139003 
+#DATE       20070604
+#REACTION   5-B-10(N,P)4-BE-10,PAR,DA
+#PROJ       1
+#TARG       5010
+#MF         4
+#MT         600
+#PRODUCT    4-BE-10
+#C4BEGIN    [    1  5010   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   4 600    7.0000+7          1.5900-4 1.7000-5 0.923612 4.4290-3 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+    1  5010   4 600    7.0000+7          1.8900-4 1.3000-5 0.894076 6.0977-3 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+    1  5010   4 600    7.0000+7          2.0200-4 1.3000-5 0.859139 8.0295-3 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+    1  5010   4 600    7.0000+7          1.9600-4 1.4000-5 0.817648 0.010279 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+#/DATA      4
+#/DATASET
+#
+#DATASET    14139003 
+#DATE       20070604
+#REACTION   5-B-10(N,P)4-BE-10,PAR,DA
+#PROJ       1
+#TARG       5010
+#MF         4
+#MT         600
+#PRODUCT    4-BE-10
+#C4BEGIN    [    1  5010   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   4 600    9.0000+7          1.8600-4 1.8000-5 0.922942 5.8988-3 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+    1  5010   4 600    9.0000+7          1.8400-4 1.3000-5 0.893214 8.1144-3 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+    1  5010   4 600    9.0000+7          1.3500-4 1.1000-5 0.857975 0.010678 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+    1  5010   4 600    9.0000+7          9.7000-5 9.0000-6 0.816238 0.013673 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+    1  5010   4 600    9.0000+7          8.8000-5 7.0000-6 0.770847 0.014509 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+    1  5010   4 600    9.0000+7          5.8000-5 6.0000-6 0.720430 0.017442 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+    1  5010   4 600    9.0000+7          2.8000-5 4.0000-6 0.666012 0.020505 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+#/DATA      7
+#/DATASET
+#
+#DATASET    14139003 
+#DATE       20070604
+#REACTION   5-B-10(N,P)4-BE-10,PAR,DA
+#PROJ       1
+#TARG       5010
+#MF         4
+#MT         600
+#PRODUCT    4-BE-10
+#C4BEGIN    [    1  5010   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   4 600    1.2000+8          1.4700-4 2.6000-5 0.921931 7.8085-3 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+    1  5010   4 600    1.2000+8          1.1100-4 1.5000-5 0.891798 0.010739 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+    1  5010   4 600    1.2000+8          3.9000-5 8.0000-6 0.856177 0.014140 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+    1  5010   4 600    1.2000+8          2.0000-5 6.0000-6 0.813913 0.018080 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+    1  5010   4 600    1.2000+8          1.9000-5 4.0000-6 0.768395 0.019759 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+    1  5010   4 600    1.2000+8          9.0000-6 3.0000-6 0.717397 0.023747 0.000000         LVLD.S.Sorenson+        (07)14139  3 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      13556
+#AUTHOR1    M.Wagner+
+#YEAR       1993
+#INSTITUTE  (1USALAS)
+#TITLE      MEASUREMENT OF THE ACTIVATION CROSS SECTION FOR THE
+#+          REACTION 93NB(N,N')93MNB IN THE NEUTRON ENERGY RANGE
+#+          6-9 MEV.
+#AUTHOR(S)  M.Wagner, H.Vonach, R.C.Haight
+#REF-CODE   (J,ANE,20,1,9301)
+#REFERENCE  Ann.Nucl.Energy 20 (1993) 1
+#DATASETS   0
+#
+#DATASET    13556002 
+#DATE       19921130
+#REACTION   41-NB-93(N,INL)41-NB-93-M,,SIG
+#PROJ       1
+#TARG       41093
+#MF         3
+#MT         4
+#PRODUCT    41-NB-93-M
+#C4BEGIN    [    1 41093   3   4MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093   3   4MA  5931000. 25000.00 0.265100 0.010000                                       M.Wagner+            (93)13556  2 
+    1 41093   3   4MA  6970000. 29000.00 0.267400 0.012300                                       M.Wagner+            (93)13556  2 
+    1 41093   3   4MA  7944000. 33000.00 0.241000 0.017200                                       M.Wagner+            (93)13556  2 
+    1 41093   3   4MA  8900000. 36000.00 0.239500 0.019500                                       M.Wagner+            (93)13556  2 
+#/DATA      4
+#/DATASET

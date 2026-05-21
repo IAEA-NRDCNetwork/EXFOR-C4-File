@@ -1,0 +1,27 @@
+#ENTRY      20530
+#AUTHOR1    F.Rigaud+
+#YEAR       1970
+#INSTITUTE  (2FR BOR)
+#TITLE      Radiative neutron capture on Si,Rb,Sr and Y in the
+#+          dipole giant resonance region
+#AUTHOR(S)  F.Rigaud, J.Roturier, J.L.Irigaray, G.Y.Petit, G.Longo, 
+#+          F.Saporetti
+#REF-CODE   (J,NP/A,154,243,197010)
+#REFERENCE  Nucl.Phys.A 154 (1970) 243 (doi:10.1016/0375-9474(70)90153-3)
+#DATASETS   0
+#
+#DATASET    20530004 
+#DATE       20120710
+#REACTION   38-SR-88(N,G)38-SR-89,,SIG
+#PROJ       1
+#TARG       38088
+#MF         3
+#MT         102
+#PRODUCT    38-SR-89
+#C4BEGIN    [    1 38088   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 38088   3 102 D  1.4060+7 10000.00 1.9700-3 5.8000-4                                       F.Rigaud+            (70)20530  4 
+#/DATA      1
+#/DATASET

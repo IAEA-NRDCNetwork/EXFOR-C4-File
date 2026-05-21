@@ -1,0 +1,38 @@
+#ENTRY      14329
+#AUTHOR1    J.L.Kammerdiener+
+#YEAR       1972
+#INSTITUTE  (1USADAV)
+#TITLE      Neutron spectra emitted by 239Pu, 238U, 235U, Pb, Nb,
+#+          Ni, Al and C irradiated by 14 MeV neutrons
+#AUTHOR(S)  J.L.Kammerdiener
+#REF-CODE   (R,UCRL-51232,1972)
+#REFERENCE  Report UCRL-51232, 1972
+#DATASETS   0
+#
+#DATASET    14329071 
+#DATE       20121207
+#REACTION   82-PB-0(N,EL)82-PB-0,,DA
+#PROJ       1
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [    1 82000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   4   2  C 1.4000+7          0.096990 9.3940-3 0.906308                              J.L.Kammerdiener     (72)14329 71 
+    1 82000   4   2  C 1.4000+7          0.387100          0.819152                              J.L.Kammerdiener     (72)14329 71 
+    1 82000   4   2  C 1.4000+7          0.247000          0.707107                              J.L.Kammerdiener     (72)14329 71 
+    1 82000   4   2  C 1.4000+7          0.043110          0.573576                              J.L.Kammerdiener     (72)14329 71 
+    1 82000   4   2  C 1.4000+7          0.060480          0.422618                              J.L.Kammerdiener     (72)14329 71 
+    1 82000   4   2  C 1.4000+7          0.045430 3.8390-3 0.258819                              J.L.Kammerdiener     (72)14329 71 
+    1 82000   4   2  C 1.4000+7          9.7870-3 1.0070-3 0.087156                              J.L.Kammerdiener     (72)14329 71 
+    1 82000   4   2  C 1.4000+7          0.016600         -0.087156                              J.L.Kammerdiener     (72)14329 71 
+    1 82000   4   2  C 1.4000+7          0.017750         -0.258819                              J.L.Kammerdiener     (72)14329 71 
+    1 82000   4   2  C 1.4000+7          7.1420-3 7.7860-4-0.422618                              J.L.Kammerdiener     (72)14329 71 
+    1 82000   4   2  C 1.4000+7          6.6220-3 9.1890-4-0.573576                              J.L.Kammerdiener     (72)14329 71 
+    1 82000   4   2  C 1.4000+7          6.4820-3 1.0860-3-0.707107                              J.L.Kammerdiener     (72)14329 71 
+    1 82000   4   2  C 1.4000+7          0.012180 1.5460-3-0.819152                              J.L.Kammerdiener     (72)14329 71 
+#/DATA      13
+#/DATASET

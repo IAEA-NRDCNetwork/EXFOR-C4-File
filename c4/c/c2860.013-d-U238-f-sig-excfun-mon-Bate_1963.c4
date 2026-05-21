@@ -1,0 +1,37 @@
+#ENTRY      C2860
+#AUTHOR1    G.L.Bate+
+#YEAR       1963
+#INSTITUTE  (1USAANL)
+#TITLE      Fission Fragment Angular Distributions and Cross
+#+          Sections for Deuteron-Induced Fission
+#AUTHOR(S)  G.L.Bate, R.Chaudhry, J.R.Huizenga
+#REF-CODE   (J,PR,131,722,1963)
+#REFERENCE  Phys.Rev. 131 (1963) 722 (doi:10.1103/PhysRev.131.722)
+#DATASETS   0
+#
+#DATASET    C2860013 
+#DATE       20221118
+#REACTION   92-U-238(D,F),,SIG
+#PROJ       1002
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [ 1002 92238   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 92238   3  18 D  8791000.          0.014120 1.1170-3                                       G.L.Bate+            (63)C2860 13 
+ 1002 92238   3  18 D  9374000.          0.039010 3.0960-3                                       G.L.Bate+            (63)C2860 13 
+ 1002 92238   3  18 D  1.0205+7          0.092430                                                G.L.Bate+            (63)C2860 13 
+ 1002 92238   3  18 D  1.1862+7          0.282900                                                G.L.Bate+            (63)C2860 13 
+ 1002 92238   3  18 D  1.3144+7          0.454100                                                G.L.Bate+            (63)C2860 13 
+ 1002 92238   3  18 D  1.4230+7          0.601800                                                G.L.Bate+            (63)C2860 13 
+ 1002 92238   3  18 D  1.5420+7          0.733700                                                G.L.Bate+            (63)C2860 13 
+ 1002 92238   3  18 D  1.6275+7          0.837000                                                G.L.Bate+            (63)C2860 13 
+ 1002 92238   3  18 D  1.7202+7          0.941200                                                G.L.Bate+            (63)C2860 13 
+ 1002 92238   3  18 D  1.8315+7          1.086000                                                G.L.Bate+            (63)C2860 13 
+ 1002 92238   3  18 D  1.8983+7          1.191000                                                G.L.Bate+            (63)C2860 13 
+ 1002 92238   3  18 D  2.0276+7          1.299000                                                G.L.Bate+            (63)C2860 13 
+ 1002 92238   3  18 D  2.1084+7          1.274000                                                G.L.Bate+            (63)C2860 13 
+#/DATA      13
+#/DATASET

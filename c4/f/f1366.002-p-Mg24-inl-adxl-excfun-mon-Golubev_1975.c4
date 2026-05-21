@@ -1,0 +1,40 @@
+#ENTRY      F1366
+#AUTHOR1    S.L.Golubev+
+#YEAR       1975
+#INSTITUTE  (4RUSJIA)
+#TITLE      Measurement of the proton spin-flip probability at
+#+          24Mg(p,p') resonances.
+#AUTHOR(S)  S.L.Golubev, A.B.Kurepin, V.N.Likhosherstov, N.S.Topilskaya, 
+#+          G.M.Osetinsky
+#REF-CODE   (J,PL/B,53,(5),445,1975)
+#REFERENCE  Phys.Lett.B 53 No.5 (1975) 445 (doi:10.1016/0370-2693(75)90214-2)
+#DATASETS   0
+#
+#DATASET    F1366002 
+#DATE       20181107
+#REACTION   12-MG-24(P,INL)12-MG-24,PAR,DA
+#PROJ       1001
+#TARG       12024
+#MF         4
+#MT         601
+#PRODUCT    12-MG-24
+#C4BEGIN    [ 1001 12024   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12024   4 601    2402400.          2.7330-4         -0.866025          1370000.         LVLS.L.Golubev+         (75)F1366  2 
+ 1001 12024   4 601    2404000.          1.1632-3         -0.866025          1370000.         LVLS.L.Golubev+         (75)F1366  2 
+ 1001 12024   4 601    2405400.          3.1353-3         -0.866025          1370000.         LVLS.L.Golubev+         (75)F1366  2 
+ 1001 12024   4 601    2406800.          5.0370-3         -0.866025          1370000.         LVLS.L.Golubev+         (75)F1366  2 
+ 1001 12024   4 601    2408500.          9.9135-3         -0.866025          1370000.         LVLS.L.Golubev+         (75)F1366  2 
+ 1001 12024   4 601    2409900.          0.010103         -0.866025          1370000.         LVLS.L.Golubev+         (75)F1366  2 
+ 1001 12024   4 601    2411500.          0.010118         -0.866025          1370000.         LVLS.L.Golubev+         (75)F1366  2 
+ 1001 12024   4 601    2413000.          7.6503-3         -0.866025          1370000.         LVLS.L.Golubev+         (75)F1366  2 
+ 1001 12024   4 601    2414500.          4.7630-3         -0.866025          1370000.         LVLS.L.Golubev+         (75)F1366  2 
+ 1001 12024   4 601    2415900.          3.3435-3         -0.866025          1370000.         LVLS.L.Golubev+         (75)F1366  2 
+ 1001 12024   4 601    2417600.          1.9270-3         -0.866025          1370000.         LVLS.L.Golubev+         (75)F1366  2 
+ 1001 12024   4 601    2419000.          1.1010-3         -0.866025          1370000.         LVLS.L.Golubev+         (75)F1366  2 
+ 1001 12024   4 601    2422100.          3.9710-4         -0.866025          1370000.         LVLS.L.Golubev+         (75)F1366  2 
+ 1001 12024   4 601    2423500.          3.0610-4         -0.866025          1370000.         LVLS.L.Golubev+         (75)F1366  2 
+#/DATA      14
+#/DATASET

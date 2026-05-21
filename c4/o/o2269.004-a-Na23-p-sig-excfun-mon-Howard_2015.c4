@@ -1,0 +1,34 @@
+#ENTRY      O2269
+#AUTHOR1    A.M.Howard+
+#YEAR       2015
+#INSTITUTE  (2DENAAU)
+#TITLE      Na-23(a,p)Mg-26 reaction rate at astrophysically
+#+          relevant energies.
+#AUTHOR(S)  A.M.Howard, M.Munch, H.O.U.Fynbo, O.S.Kirsebom, K.L.Laursen, 
+#+          C.Aa.Diget, N.J.Hubbard
+#REF-CODE   (J,PRL,115,052701,2015)
+#REFERENCE  Phys.Rev.Lett. 115 (2015) 052701 (doi:10.1103/PhysRevLett.115.052701)
+#DATASETS   0
+#
+#DATASET    O2269004 
+#DATE       20151101
+#REACTION   11-NA-23(A,P)12-MG-26,PAR,SIG
+#PROJ       2004
+#TARG       11023
+#MF         3
+#MT         600
+#PRODUCT    12-MG-26
+#C4BEGIN    [ 2004 11023   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 11023   3 600    2047707.          5.0000-5 1.0000-5                   0.000000         LVLA.M.Howard+          (15)O2269  4 
+ 2004 11023   3 600    2149862.          9.0000-5 2.0000-5                   0.000000         LVLA.M.Howard+          (15)O2269  4 
+ 2004 11023   3 600    2345952.          8.0000-5 2.0000-5                   0.000000         LVLA.M.Howard+          (15)O2269  4 
+ 2004 11023   3 600    2431668.          2.0000-4 4.0000-5                   0.000000         LVLA.M.Howard+          (15)O2269  4 
+ 2004 11023   3 600    2511514.          2.8000-4 6.0000-5                   0.000000         LVLA.M.Howard+          (15)O2269  4 
+ 2004 11023   3 600    2733439.          2.8000-4 6.0000-5                   0.000000         LVLA.M.Howard+          (15)O2269  4 
+ 2004 11023   3 600    2817983.          5.7000-4 1.1000-4                   0.000000         LVLA.M.Howard+          (15)O2269  4 
+ 2004 11023   3 600    2899004.          1.6200-3 3.3000-4                   0.000000         LVLA.M.Howard+          (15)O2269  4 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      O0360
+#AUTHOR1    J.-P.Garron+
+#YEAR       1960
+#INSTITUTE  (2FR PAR)
+#TITLE      Elastic and Inelastic Scattering of 155 MeV Protons
+#+          on Carbon
+#AUTHOR(S)  J.-P.Garron, J.-C.Jacmart, L.Massonnet, M.Riou, Ch.Ruhla
+#REF-CODE   (J,JPR,21,317,1960)
+#REFERENCE  J.Phys.(Paris) 21 (1960) 317 (doi:10.1051/jphysrad:01960002105031701)
+#DATASETS   0
+#
+#DATASET    O0360002 
+#DATE       20210204
+#REACTION   6-C-12(P,EL)6-C-12,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4   2    1.5500+8          0.170000 0.010000 0.965926                              J.-P.Garron+         (60)O0360  2 
+ 1001  6012   4   2    1.5500+8          0.034700 1.3000-3 0.939693                              J.-P.Garron+         (60)O0360  2 
+ 1001  6012   4   2    1.5500+8          7.8000-3 4.0000-4 0.906308                              J.-P.Garron+         (60)O0360  2 
+ 1001  6012   4   2    1.5500+8          2.7000-3 2.0000-4 0.866025                              J.-P.Garron+         (60)O0360  2 
+#/DATA      4
+#/DATASET

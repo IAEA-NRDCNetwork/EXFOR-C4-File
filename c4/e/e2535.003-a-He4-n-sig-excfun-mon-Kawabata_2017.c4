@@ -1,0 +1,52 @@
+#ENTRY      E2535
+#AUTHOR1    T.Kawabata+
+#YEAR       2017
+#INSTITUTE  (2JPNKTO)
+#TITLE      Time-Reversal Measurement of the p-Wave Cross Sections
+#+          of the 7Be(n,alpha)4He Reaction for the Cosmological
+#+          Li Problem
+#AUTHOR(S)  T.Kawabata, Y.Fujikawa, T.Furuno, T.Goto, T.Hashimoto, M.Ichikawa, 
+#+          M.Itoh, N.Iwasa, Y.Kanada-En'yo, A.Koshikawa, S.Kubono, 
+#+          E.Miyawaki, M.Mizuno, K.Mizutani, T.Morimoto, M.Murata, 
+#+          T.Nanamura, S.Nishimura, S.Okamoto, Y.Sakaguchi, I.Sakata, 
+#+          A.Sakaue, R.Sawada, Y.Shikata, Y.Takahashi, D.Takechi, T.Takeda, 
+#+          C.Takimoto, M.Tsumura, K.Watanabe, S.Yoshida
+#REF-CODE   (J,PRL,118,052701,2017)
+#REFERENCE  Phys.Rev.Lett. 118 (2017) 052701 (doi:10.1103/PhysRevLett.118.052701)
+#DATASETS   0
+#
+#DATASET    E2535003 
+#DATE       20181224
+#REACTION   2-HE-4(A,N)4-BE-7,PAR,SIG
+#PROJ       2004
+#TARG       2004
+#MF         3
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 2004  2004   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  2004   3  50    3.8501+7 7000.000 1.6200-3 7.4000-4                   0.000000         LVLT.Kawabata+          (17)E2535  3 
+ 2004  2004   3  50    3.8903+7 11000.00 5.3900-3 1.3000-4                   0.000000         LVLT.Kawabata+          (17)E2535  3 
+ 2004  2004   3  50    3.9300+7 9000.000 0.011140 4.3000-4                   0.000000         LVLT.Kawabata+          (17)E2535  3 
+ 2004  2004   3  50    3.9644+7 15000.00 0.019520 2.2300-3                   0.000000         LVLT.Kawabata+          (17)E2535  3 
+#/DATA      4
+#/DATASET
+#
+#DATASET    E2535003 
+#DATE       20181224
+#REACTION   2-HE-4(A,N)4-BE-7,PAR,SIG
+#PROJ       2004
+#TARG       2004
+#MF         3
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 2004  2004   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  2004   3  50    3.9300+7 9000.000 3.4100-3 1.9900-3                   429000.0         LVLT.Kawabata+          (17)E2535  3 
+ 2004  2004   3  50    3.9644+7 15000.00 0.011380 8.3000-4                   429000.0         LVLT.Kawabata+          (17)E2535  3 
+#/DATA      2
+#/DATASET

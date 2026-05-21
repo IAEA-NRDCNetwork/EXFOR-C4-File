@@ -1,0 +1,32 @@
+#ENTRY      O2231
+#AUTHOR1    T.Kotthaus+
+#YEAR       2011
+#INSTITUTE  (2GERKLN)
+#TITLE      Probing Nilsson states in U-233.
+#AUTHOR(S)  T.Kotthaus, P.Reiter, H.Hess, M.Kalkuehler, A.Wendt, A.Wiens, 
+#+          R.Hertenberger, T.Morgan, P.G.Thirolf, H.-F.Wirth, T.Faestermann
+#REF-CODE   (J,PR/C,84,014334,2011)
+#REFERENCE  Phys.Rev.C 84 (2011) 014334 (doi:10.1103/PhysRevC.84.014334)
+#DATASETS   0
+#
+#DATASET    O2231003 
+#DATE       20140805
+#REACTION   92-U-234(D,T)92-U-233,PAR,DA
+#PROJ       1002
+#TARG       92234
+#MF         4
+#MT         700
+#PRODUCT    92-U-233
+#C4BEGIN    [ 1002 92234   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 92234   4 700    2.2000+7          6.1350-6 4.8490-7 0.996478          495500.0         LVLT.Kotthaus+          (11)O2231  3 
+ 1002 92234   4 700    2.2000+7          7.4430-6 3.3290-7 0.984929          495500.0         LVLT.Kotthaus+          (11)O2231  3 
+ 1002 92234   4 700    2.2000+7          1.1230-5 4.3530-7 0.966421          495500.0         LVLT.Kotthaus+          (11)O2231  3 
+ 1002 92234   4 700    2.2000+7          1.5970-5 6.6230-7 0.940169          495500.0         LVLT.Kotthaus+          (11)O2231  3 
+ 1002 92234   4 700    2.2000+7          1.3910-5 6.0270-7 0.907191          495500.0         LVLT.Kotthaus+          (11)O2231  3 
+ 1002 92234   4 700    2.2000+7          1.2500-5 4.9120-7 0.866549          495500.0         LVLT.Kotthaus+          (11)O2231  3 
+ 1002 92234   4 700    2.2000+7          1.3730-5 5.0490-7 0.818551          495500.0         LVLT.Kotthaus+          (11)O2231  3 
+#/DATA      7
+#/DATASET

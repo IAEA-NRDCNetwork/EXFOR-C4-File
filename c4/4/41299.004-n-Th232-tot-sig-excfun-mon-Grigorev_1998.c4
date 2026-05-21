@@ -1,0 +1,39 @@
+#ENTRY      41299
+#AUTHOR1    Yu.V.Grigor'ev+
+#YEAR       1998
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Investigation of the resonance structure of neutron
+#+          cross-sections for thorium-232 and neptunium-237
+#+          in the 2 eV-100 keV energy range
+#AUTHOR(S)  Yu.V.Grigor'ev, V.V.Sinitsa, G.N.Gundorin, Yu.P.Popov, Kh.Fajkov-Stanchik
+#REF-CODE   (J,YK,,(1),9,1998)
+#REFERENCE  Yad.Reak.Konst.  No.1 (1998) 9
+#DATASETS   0
+#
+#DATASET    41299004 
+#DATE       20191109
+#REACTION   90-TH-232(N,TOT),,SIG,,AV
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         1
+#C4BEGIN    [    1 90232   3   1 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3   1 D  3.400000 1.250000 13.30000 0.700000                                       Yu.V.Grigor'ev+      (98)41299  4 
+    1 90232   3   1 D  7.325000 2.675000 13.30000 0.700000                                       Yu.V.Grigor'ev+      (98)41299  4 
+    1 90232   3   1 D  15.75000 5.750000 12.40000 0.600000                                       Yu.V.Grigor'ev+      (98)41299  4 
+    1 90232   3   1 D  34.00000 12.50000 74.60000 4.000000                                       Yu.V.Grigor'ev+      (98)41299  4 
+    1 90232   3   1 D  73.25000 26.75000 71.80000 3.000000                                       Yu.V.Grigor'ev+      (98)41299  4 
+    1 90232   3   1 D  157.5000 57.50000 45.30000 1.500000                                       Yu.V.Grigor'ev+      (98)41299  4 
+    1 90232   3   1 D  340.0000 125.0000 33.50000 1.300000                                       Yu.V.Grigor'ev+      (98)41299  4 
+    1 90232   3   1 D  732.5000 267.5000 24.90000 1.100000                                       Yu.V.Grigor'ev+      (98)41299  4 
+    1 90232   3   1 D  1575.000 575.0000 21.90000 0.900000                                       Yu.V.Grigor'ev+      (98)41299  4 
+    1 90232   3   1 D  3400.000 1250.000 19.60000 0.900000                                       Yu.V.Grigor'ev+      (98)41299  4 
+    1 90232   3   1 D  7325.000 2675.000 17.70000 0.800000                                       Yu.V.Grigor'ev+      (98)41299  4 
+    1 90232   3   1 D  15750.00 5750.000 16.10000 0.700000                                       Yu.V.Grigor'ev+      (98)41299  4 
+    1 90232   3   1 D  34000.00 12500.00 15.00000 0.700000                                       Yu.V.Grigor'ev+      (98)41299  4 
+    1 90232   3   1 D  73250.00 26750.00 13.30000 0.600000                                       Yu.V.Grigor'ev+      (98)41299  4 
+#/DATA      14
+#/DATASET

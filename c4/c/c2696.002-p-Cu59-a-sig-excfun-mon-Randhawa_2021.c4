@@ -1,0 +1,32 @@
+#ENTRY      C2696
+#AUTHOR1    J.S.Randhawa+
+#YEAR       2021
+#INSTITUTE  (1USANOT)
+#TITLE      First direct measurement of 59Cu(p,alpha)56Ni: A step
+#+          towards constraining the Ni-Cu cycle in the cosmos
+#AUTHOR(S)  J.S.Randhawa, R.Kanungo, J.Refsgaard, P.Mohr, T.Ahn, M.Alcorta, 
+#+          C.Andreoiu, S.S.Bhattacharjee, B.Davids, G.Christian, A.A.Chen, 
+#+          R.Coleman, P.E.Garrett, G.F.Grinyer, E.G.Fuakye, G.Hackman, 
+#+          J.Hollett, R.Jain, K.Kapoor, R.Krucken, A.Laffoley, A.Lennarz, 
+#+          J.Liang, Z.Meisel, B.Nikhil, A.Psaltis, A.Radich, M.Rocchini, 
+#+          N.Saei, M.Saxena, M.Singh, C.Svensson, P.Subramaniam, A.Talebitaher, 
+#+          S.Upadhyayula, C.Waterfield, J.Williams, M.Williams
+#REF-CODE   (J,PR/C,104,L042801,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) L042801 (doi:10.1103/PhysRevC.104.L042801)
+#DATASETS   0
+#
+#DATASET    C2696002 
+#DATE       20211209
+#REACTION   (1-H-1(29-CU-59,A)28-NI-56,,SIG)=(29-CU-59(P,A)28-NI-56,,SIG)
+#PROJ       1001
+#TARG       29059
+#MF         3
+#MT         107
+#PRODUCT    28-NI-56
+#C4BEGIN    [ 1001 29059   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29059   3 107    6102923.          4.7600-3 9.6000-4                                       J.S.Randhawa+        (21)C2696  2 
+#/DATA      1
+#/DATASET

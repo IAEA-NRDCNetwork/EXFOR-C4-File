@@ -1,0 +1,33 @@
+#ENTRY      22813
+#AUTHOR1    K.Wisshak+
+#YEAR       2002
+#INSTITUTE  (2GERKFK)
+#TITLE      .Neutron capture cross sections for stellar cadmium
+#+          production
+#AUTHOR(S)  K.Wisshak, F.Voss, F.Kaeppeler, L.Kazakov
+#REF-CODE   (J,PR/C,66,(2),025801,2002)
+#REFERENCE  Phys.Rev.C 66 No.2 (2002) 025801 (doi:10.1103/PhysRevC.66.025801)
+#DATASETS   0
+#
+#DATASET    22813021 
+#DATE       20121231
+#REACTION   48-CD-111(N,TOT),,SIG,,AV
+#PROJ       1
+#TARG       48111
+#MF         3
+#MT         1
+#C4BEGIN    [    1 48111   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 48111   3   1    12500.00 2500.000 7.400000 0.347800                                       K.Wisshak+           (02)22813 21 
+    1 48111   3   1    17500.00 2500.000 7.400000 0.347800                                       K.Wisshak+           (02)22813 21 
+    1 48111   3   1    25000.00 5000.000 6.800000 0.319600                                       K.Wisshak+           (02)22813 21 
+    1 48111   3   1    35000.00 5000.000 7.300000 0.343100                                       K.Wisshak+           (02)22813 21 
+    1 48111   3   1    50000.00 10000.00 7.300000 0.343100                                       K.Wisshak+           (02)22813 21 
+    1 48111   3   1    70000.00 10000.00 7.300000 0.343100                                       K.Wisshak+           (02)22813 21 
+    1 48111   3   1    90000.00 10000.00 7.300000 0.343100                                       K.Wisshak+           (02)22813 21 
+    1 48111   3   1    125000.0 25000.00 7.800000 0.366600                                       K.Wisshak+           (02)22813 21 
+    1 48111   3   1    175000.0 25000.00 7.600000 0.357200                                       K.Wisshak+           (02)22813 21 
+#/DATA      9
+#/DATASET

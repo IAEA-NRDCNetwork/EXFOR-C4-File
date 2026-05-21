@@ -1,0 +1,36 @@
+#ENTRY      C0324
+#AUTHOR1    B.Neidhart+
+#YEAR       1971
+#INSTITUTE  (2GERTHD)
+#TITLE      Investigation of lanthanide recoil products created
+#+          by the interaction of high energy protons with tantalum
+#+          nuclei: I. Formation cross sections of lanthanides
+#+          at 580 MeV proton energy
+#AUTHOR(S)  B.Neidhart, K.Bachmann
+#REF-CODE   (J,JIN,33,2751,1971)
+#REFERENCE  J.Inorg.Nucl.Chem. 33 (1971) 2751 (doi:10.1016/0022-1902(71)80036-2)
+#DATASETS   0
+#
+#DATASET    C0324003 
+#DATE       19880331
+#REACTION   73-TA-0(P,X)ELEM/MASS,,SIG
+#PROJ       1001
+#TARG       73000
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 73000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 73000   3 454    5.8000+8          2.0500-3 5.7000-4           63146.9                     B.Neidhart+          (71)C0324  3 
+ 1001 73000   3 454    5.8000+8          1.9200-3 3.6000-4           63147.9                     B.Neidhart+          (71)C0324  3 
+ 1001 73000   3 454    5.8000+8          7.6000-4 5.0000-5           63148.9                     B.Neidhart+          (71)C0324  3 
+ 1001 73000   3 454    5.8000+8          4.0000-4 1.2000-4           63149.9                     B.Neidhart+          (71)C0324  3 
+ 1001 73000   3 454    5.8000+8          1.8000-3 3.0000-4           65156.0                     B.Neidhart+          (71)C0324  3 
+ 1001 73000   3 454    5.8000+8          6.2000-3 8.0000-4           69166.9                     B.Neidhart+          (71)C0324  3 
+ 1001 73000   3 454    5.8000+8          1.4000-3 7.0000-4           69168.9                     B.Neidhart+          (71)C0324  3 
+ 1001 73000   3 454    5.8000+8          0.011300 2.7000-3           70169.9                     B.Neidhart+          (71)C0324  3 
+ 1001 73000   3 454    5.8000+8          0.047800 4.2000-3           71171.9                     B.Neidhart+          (71)C0324  3 
+ 1001 73000   3 454    5.8000+8          9.6000-3 2.7000-3           71172.9                     B.Neidhart+          (71)C0324  3 
+#/DATA      10
+#/DATASET

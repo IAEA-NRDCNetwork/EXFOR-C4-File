@@ -1,0 +1,31 @@
+#ENTRY      10117
+#AUTHOR1    M.S.Krick+
+#YEAR       1972
+#INSTITUTE  (1USALAS)
+#TITLE      The Measurement of Total Delayed-Neutron Yields as a
+#+          Function of the Energy of the Neutron Inducing Fission
+#AUTHOR(S)  M.S.Krick, A.E.Evans
+#REF-CODE   (J,NSE,47,311,197203)
+#REFERENCE  Nucl.Sci.Eng. 47 (1972) 311 (doi:10.13182/NSE72-A22417)
+#DATASETS   0
+#
+#DATASET    10117005 
+#DATE       19980814
+#REACTION   92-U-233(N,F),DL,NU
+#PROJ       1
+#TARG       92233
+#MF         1
+#MT         455
+#C4BEGIN    [    1 92233   1 455  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   1 455    4000000.          8.0000-3 9.0000-4                                       M.S.Krick+           (72)10117  5 
+    1 92233   1 455    4500000.          7.4000-3 9.0000-4                                       M.S.Krick+           (72)10117  5 
+    1 92233   1 455    5100000.          7.0000-3 8.0000-4                                       M.S.Krick+           (72)10117  5 
+    1 92233   1 455    5350000.          6.5000-3 8.0000-4                                       M.S.Krick+           (72)10117  5 
+    1 92233   1 455    5600000.          5.5000-3 7.0000-4                                       M.S.Krick+           (72)10117  5 
+    1 92233   1 455    6100000.          5.0000-3 6.0000-4                                       M.S.Krick+           (72)10117  5 
+    1 92233   1 455    6600000.          5.1000-3 6.0000-4                                       M.S.Krick+           (72)10117  5 
+#/DATA      7
+#/DATASET

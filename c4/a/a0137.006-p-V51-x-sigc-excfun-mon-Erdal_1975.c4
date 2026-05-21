@@ -1,0 +1,27 @@
+#ENTRY      A0137
+#AUTHOR1    B.R.Erdal+
+#YEAR       1975
+#INSTITUTE  (1USALAS)
+#TITLE      Spallation cross sections and the LAMPF medical
+#+          radioisotope program
+#AUTHOR(S)  B.R.Erdal, P.M.Grant, V.R.Casella, A.E.Ogard, H.A.O'Brien Jr
+#REF-CODE   (C,75WASH,2,492,1975)
+#REFERENCE  Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 492
+#DATASETS   0
+#
+#DATASET    A0137006 
+#DATE       20250702
+#REACTION   23-V-51(P,X)19-K-43,CUM,SIG
+#PROJ       1001
+#TARG       23051
+#MF         3
+#MT         459
+#PRODUCT    19-K-43
+#C4BEGIN    [ 1001 23051   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 23051   3 459    5.9000+8          3.8000-3 8.0000-4           19043.9                     B.R.Erdal+           (75)A0137  6 
+ 1001 23051   3 459    8.0000+8          5.4000-3 3.0000-4           19043.9                     B.R.Erdal+           (75)A0137  6 
+#/DATA      2
+#/DATASET

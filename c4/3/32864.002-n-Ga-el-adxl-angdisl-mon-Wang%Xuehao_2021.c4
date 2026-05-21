@@ -1,0 +1,49 @@
+#ENTRY      32864
+#AUTHOR1    Wang Xuehao+
+#YEAR       2021
+#INSTITUTE  (3CPRAEP)
+#TITLE      Experimental study of elastic scatting differential
+#+          cross section of secondary neutron for natural
+#+          gallium at 8.0 MeV incident neutrons
+#AUTHOR(S)  Wang Xuehao, Huang Hanxiong, Lan Xiaofei, Ruan Xichao, Zhang Qiwei, 
+#+          Ren Jie, Sun Qi, Luan Guangyuan, Liu Chao, Ding Yanyan, 
+#+          Wang Jincheng, Ma Xu, Hu Zhijie, Guo Mingwei, Jiang Liyang
+#REF-CODE   (J,NTC,44,120501,2021)
+#REFERENCE  Nucl.Tech. 44 (2021) 120501
+#DATASETS   0
+#
+#DATASET    32864002 
+#DATE       20250804
+#REACTION   31-GA-0(N,EL)31-GA-0,,DA
+#PROJ       1
+#TARG       31000
+#MF         4
+#MT         2
+#PRODUCT    31-GA-0
+#C4BEGIN    [    1 31000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 31000   4   2    8000000.          2.102540 0.115170 0.939693                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          1.405890 0.077010 0.906308                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          0.944230 0.051730 0.866025                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          0.490470 0.026870 0.819152                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          0.248260 0.013600 0.766044                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          0.083460 4.5800-3 0.707107                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          0.018160 1.0000-3 0.642788                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          0.016230 8.9000-4 0.573576                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          0.028070 1.5500-3 0.500000                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          0.040920 2.2500-3 0.422618                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          0.047710 2.6200-3 0.342020                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          0.050230 2.7600-3 0.258819                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          0.030330 1.6700-3 6.123-17                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          0.013850 7.7000-4-0.173648                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          8.9900-3 5.0000-4-0.258819                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          6.1700-3 3.4000-4-0.342020                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          6.7100-3 3.8000-4-0.422618                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          8.2100-3 4.5000-4-0.500000                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          8.8300-3 4.9000-4-0.573576                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          9.1000-3 5.1000-4-0.642788                              Wang Xuehao+         (21)32864  2 
+    1 31000   4   2    8000000.          8.7000-3 4.8000-4-0.766044                              Wang Xuehao+         (21)32864  2 
+#/DATA      21
+#/DATASET

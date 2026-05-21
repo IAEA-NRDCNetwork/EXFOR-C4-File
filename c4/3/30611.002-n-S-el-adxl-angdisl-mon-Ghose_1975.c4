@@ -1,0 +1,32 @@
+#ENTRY      30611
+#AUTHOR1    A.M.Ghose+
+#YEAR       1975
+#INSTITUTE  (3INDBOS)
+#TITLE      Differential elastic scattering cross sections of
+#+          sulphur for 14.8 MeV neutrons by surface of
+#+          revolution technique
+#AUTHOR(S)  A.M.Ghose, A.Chatterjee, S.Nath
+#REF-CODE   (C,75WASH,2,886,1975)
+#REFERENCE  Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 886
+#DATASETS   0
+#
+#DATASET    30611002 
+#DATE       20220218
+#REACTION   16-S-0(N,EL)16-S-0,,DA
+#PROJ       1
+#TARG       16000
+#MF         4
+#MT         2
+#PRODUCT    16-S-0
+#C4BEGIN    [    1 16000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 16000   4   2 A  1.4800+7          0.078200 2.7000-3 0.866025                              A.M.Ghose+           (75)30611  2 
+    1 16000   4   2 A  1.4800+7          5.7000-3 4.0000-4 0.766044                              A.M.Ghose+           (75)30611  2 
+    1 16000   4   2 A  1.4800+7          0.047500 1.9000-3 0.500000                              A.M.Ghose+           (75)30611  2 
+    1 16000   4   2 A  1.4800+7          0.031200 1.6000-3 0.342020                              A.M.Ghose+           (75)30611  2 
+    1 16000   4   2 A  1.4800+7          0.015500 8.0000-4-0.173648                              A.M.Ghose+           (75)30611  2 
+    1 16000   4   2 A  1.4800+7          8.1000-3 6.0000-4-0.500000                              A.M.Ghose+           (75)30611  2 
+#/DATA      6
+#/DATASET

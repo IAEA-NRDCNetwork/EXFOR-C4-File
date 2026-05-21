@@ -1,0 +1,31 @@
+#ENTRY      D4129
+#AUTHOR1    B.Strohmaier+
+#YEAR       1997
+#INSTITUTE  (2AUSIRK)
+#TITLE      Production cross sections of ground and isomeric states
+#+          in the reaction systems 93Nb+3He, 92Mo+a and 94,95Mo+p
+#AUTHOR(S)  B.Strohmaier, M.Fasbender, S.M.Qaim
+#REF-CODE   (J,PR/C,56,2654,1997)
+#REFERENCE  Phys.Rev.C 56 (1997) 2654 (doi:10.1103/PhysRevC.56.2654)
+#DATASETS   0
+#
+#DATASET    D41290023
+#DATE       20030821
+#REACTION   41-NB-93(HE3,X)40-ZR-89-G,M+,SIG
+#PROJ       2003
+#TARG       41093
+#MF         3
+#MT         459
+#PRODUCT    40-ZR-89-G
+#C4BEGIN    [ 2003 41093   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 41093   3 459    3.5000+7 400000.0 0.015700 1.9000-3           40089.0                     B.Strohmaier+        (97)D4129  23
+ 2003 41093   3 459    3.4200+7 600000.0 8.6000-3 1.0000-3           40089.0                     B.Strohmaier+        (97)D4129  23
+ 2003 41093   3 459    3.3400+7 600000.0 7.2000-3 9.0000-4           40089.0                     B.Strohmaier+        (97)D4129  23
+ 2003 41093   3 459    3.2700+7 400000.0 3.5000-3 7.0000-4           40089.0                     B.Strohmaier+        (97)D4129  23
+ 2003 41093   3 459    3.1900+7 400000.0 4.0000-3 6.0000-4           40089.0                     B.Strohmaier+        (97)D4129  23
+ 2003 41093   3 459    3.0900+7 400000.0 1.2000-3 3.0000-4           40089.0                     B.Strohmaier+        (97)D4129  23
+#/DATA      6
+#/DATASET

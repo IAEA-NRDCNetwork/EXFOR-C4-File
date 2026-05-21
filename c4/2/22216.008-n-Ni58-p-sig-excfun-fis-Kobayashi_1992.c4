@@ -1,0 +1,27 @@
+#ENTRY      22216
+#AUTHOR1    K.Kobayashi+
+#YEAR       1992
+#INSTITUTE  (2JPNKTO)
+#TITLE      Measurements of U-235 fission spectrum-averaged cross
+#+          sections and neutron spectrum adjusted with the
+#+          activation data
+#AUTHOR(S)  K.Kobayashi, T.Kobayashi
+#REF-CODE   (R,KURRI-AR-25,21,1992)
+#REFERENCE  Report KURRI-AR-25 page 21, 1992
+#DATASETS   0
+#
+#DATASET    22216008 
+#DATE       20140808
+#REACTION   28-NI-58(N,P)27-CO-58,,SIG,,FIS
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         103
+#PRODUCT    27-CO-58
+#C4BEGIN    [    1 28058   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3 103 A  1500000.          0.105000 6.0200-3                                       K.Kobayashi+         (92)22216  8 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      32216
+#AUTHOR1    O.Gritzay+
+#YEAR       2007
+#INSTITUTE  (4UKRIJD)
+#TITLE      The total neutron cross section for natural carbon in
+#+          the energy range 2 to 148 keV
+#AUTHOR(S)  O.Gritzay, V.Kolotyi, N.Klimova, O.Kalchenko, M.Gnidak, 
+#+          P.Vorona
+#REF-CODE   (C,2007NICE,,543,2007)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 page 543
+#DATASETS   0
+#
+#DATASET    32216002 
+#DATE       20200312
+#REACTION   6-C-0(N,TOT),,SIG,,SPA
+#PROJ       1
+#TARG       6000
+#MF         3
+#MT         1
+#C4BEGIN    [    1  6000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   3   1    1755.500 684.5000 4.635000 0.110000                                       O.Gritzay+           (07)32216  2 
+    1  6000   3   1    3164.000 1383.000 4.674000 0.021000                                       O.Gritzay+           (07)32216  2 
+    1  6000   3   1    12540.00 913.0000 4.714000 0.046000                                       O.Gritzay+           (07)32216  2 
+    1  6000   3   1    133450.5 1980.500 4.265000 0.014000                                       O.Gritzay+           (07)32216  2 
+#/DATA      4
+#/DATASET

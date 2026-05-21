@@ -1,0 +1,46 @@
+#ENTRY      A0228
+#AUTHOR1    M.Aliotta+
+#YEAR       2001
+#INSTITUTE  (2GERBOC)
+#TITLE      Electron screening effect in the reactions
+#+          3-He(d,p)4-He and D(3-He,p)4-He
+#AUTHOR(S)  M.Aliotta, F.Raiola, G.Gyurky, A.Formicola, R.Bonetti, C.Broggini, 
+#+          L.Campajola, P.Corvisiero, H.Costantini, A.D'Onofrio, Z.Fuelop, 
+#+          G.Gervino, L.Gialanella, A.Guglielmetti, C.Gustavino, G.Imbriani, 
+#+          M.Junker, P.G.Moroni, A.Ordine, P.Prati, V.Roca, D.Rogalla, 
+#+          C.Rolfs, M.Romano, F.Schumann, E.Somorjai, O.Straniero, 
+#+          F.Strieder, F.Terrasi, H.P.Trautvetter, S.Zavatarelli
+#REF-CODE   (J,NP/A,690,790,2001)
+#REFERENCE  Nucl.Phys.A 690 (2001) 790 (doi:10.1016/S0375-9474(01)00366-9)
+#DATASETS   0
+#
+#DATASET    A0228003 
+#DATE       20030929
+#REACTION   2-HE-3(D,P)2-HE-4,,SIG,,SFC
+#PROJ       1002
+#TARG       2003
+#MF         3
+#MT         103
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  2003   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  2003   3 103    19930.22 0.119501 1.3780-6 6.7080-8                                       M.Aliotta+           (01)A0228  3 
+ 1002  2003   3 103    23265.83 0.139501 5.0190-6 1.6610-7                                       M.Aliotta+           (01)A0228  3 
+ 1002  2003   3 103    26601.44 0.159501 1.4307-5 3.7486-7                                       M.Aliotta+           (01)A0228  3 
+ 1002  2003   3 103    29920.37 0.179401 3.4197-5 9.4029-7                                       M.Aliotta+           (01)A0228  3 
+ 1002  2003   3 103    33239.30 0.199301 6.9094-5 1.8425-6                                       M.Aliotta+           (01)A0228  3 
+ 1002  2003   3 103    36558.24 0.219202 1.3253-4 3.6180-6                                       M.Aliotta+           (01)A0228  3 
+ 1002  2003   3 103    39893.85 0.239202 2.2616-4 6.2097-6                                       M.Aliotta+           (01)A0228  3 
+ 1002  2003   3 103    43229.47 0.259202 3.7610-4 9.9663-6                                       M.Aliotta+           (01)A0228  3 
+ 1002  2003   3 103    46498.37 0.278803 5.5439-4 1.5026-5                                       M.Aliotta+           (01)A0228  3 
+ 1002  2003   3 103    49833.99 0.298803 8.2666-4 2.1845-5                                       M.Aliotta+           (01)A0228  3 
+ 1002  2003   3 103    53202.97 0.319004 1.1575-3 3.0674-5                                       M.Aliotta+           (01)A0228  3 
+ 1002  2003   3 103    56521.91 0.338904 1.6230-3 4.3689-5                                       M.Aliotta+           (01)A0228  3 
+ 1002  2003   3 103    59857.54 0.358905 2.1286-3 5.4726-5                                       M.Aliotta+           (01)A0228  3 
+ 1002  2003   3 103    59857.54 0.358905 2.1833-3 5.7607-5                                       M.Aliotta+           (01)A0228  3 
+ 1002  2003   3 103    63176.48 0.378805 2.8265-3 7.4090-5                                       M.Aliotta+           (01)A0228  3 
+ 1002  2003   3 103    66495.43 0.398706 3.5712-3 9.3365-5                                       M.Aliotta+           (01)A0228  3 
+#/DATA      16
+#/DATASET

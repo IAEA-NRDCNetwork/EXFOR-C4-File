@@ -1,0 +1,35 @@
+#ENTRY      D4421
+#AUTHOR1    B.M.Ali+
+#YEAR       2020
+#INSTITUTE  (3EGYCAI)
+#TITLE      New experimental data on excitation functions of
+#+          3He-induced nuclear reactions on Ta up to 27MeV
+#AUTHOR(S)  B.M.Ali, G.Y.Mohamed, F.Ditroi, S.Takacs, M.Al-Abyad
+#REF-CODE   (J,PR/C,102,064608,2020)
+#REFERENCE  Phys.Rev.C 102 (2020) 064608 (doi:10.1103/PhysRevC.102.064608)
+#DATASETS   0
+#
+#DATASET    D4421003 
+#DATE       20220607
+#REACTION   73-TA-181(HE3,2N)75-RE-182-G,,SIG
+#PROJ       2003
+#TARG       73181
+#MF         3
+#MT         16
+#PRODUCT    75-RE-182-G
+#C4BEGIN    [ 2003 73181   3  16G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 73181   3  16G   2.6410+7 390000.0 0.011440 1.3200-3                                       B.M.Ali+             (20)D4421  3 
+ 2003 73181   3  16G   2.5690+7 430000.0 0.010310 7.6000-4                                       B.M.Ali+             (20)D4421  3 
+ 2003 73181   3  16G   2.4480+7 500000.0 0.010140 1.2200-3                                       B.M.Ali+             (20)D4421  3 
+ 2003 73181   3  16G   2.3720+7 550000.0 0.010140 7.7000-4                                       B.M.Ali+             (20)D4421  3 
+ 2003 73181   3  16G   2.2430+7 620000.0 0.010370 1.3000-3                                       B.M.Ali+             (20)D4421  3 
+ 2003 73181   3  16G   2.1620+7 670000.0 0.010010 6.4000-4                                       B.M.Ali+             (20)D4421  3 
+ 2003 73181   3  16G   2.0250+7 750000.0 8.5700-3 1.1500-3                                       B.M.Ali+             (20)D4421  3 
+ 2003 73181   3  16G   1.9380+7 800000.0 6.8700-3 5.8000-4                                       B.M.Ali+             (20)D4421  3 
+ 2003 73181   3  16G   1.7890+7 890000.0 3.0900-3 5.5000-4                                       B.M.Ali+             (20)D4421  3 
+ 2003 73181   3  16G   1.6940+7 940000.0 8.9000-4 1.0000-4                                       B.M.Ali+             (20)D4421  3 
+#/DATA      10
+#/DATASET

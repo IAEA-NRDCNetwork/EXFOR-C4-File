@@ -1,0 +1,42 @@
+#ENTRY      C0134
+#AUTHOR1    B.D.Anderson+
+#YEAR       1985
+#INSTITUTE  (1USAINU)
+#TITLE      Particle-hole strength excited in the 48Ca(p,n)48Sc
+#+          reaction at 134 and 160 MeV: pi f(7/2), nu f-1(7/2)
+#+          band
+#AUTHOR(S)  B.D.Anderson, T.Chittrakarn, A.R.Baldwin, C.Lebo, R.Madey, 
+#+          R.J.McCarthy, J.W.Watson, B.A.Brown, C.C.Foster
+#REF-CODE   (J,PR/C,31,1147,198504)
+#REFERENCE  Phys.Rev.C 31 (1985) 1147 (doi:10.1103/PhysRevC.31.1147)
+#DATASETS   0
+#
+#DATASET    C0134006 
+#DATE       20160504
+#REACTION   20-CA-48(P,N)21-SC-48,PAR,DA
+#PROJ       1001
+#TARG       20048
+#MF         4
+#MT         50
+#PRODUCT    21-SC-48
+#C4BEGIN    [ 1001 20048   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20048   4  50  C 1.6000+8          9.4850-5          1.000000          1100000.         LVLB.D.Anderson+        (85)C0134  6 
+ 1001 20048   4  50  C 1.6000+8          1.2110-4 1.3910-5 0.998299          1100000.         LVLB.D.Anderson+        (85)C0134  6 
+ 1001 20048   4  50  C 1.6000+8          2.0710-4 2.1550-5 0.993203          1100000.         LVLB.D.Anderson+        (85)C0134  6 
+ 1001 20048   4  50  C 1.6000+8          1.7460-4 1.4300-5 0.985680          1100000.         LVLB.D.Anderson+        (85)C0134  6 
+ 1001 20048   4  50  C 1.6000+8          1.7250-4 1.0210-5 0.977802          1100000.         LVLB.D.Anderson+        (85)C0134  6 
+ 1001 20048   4  50  C 1.6000+8          1.0720-4 2.3210-5 0.962427          1100000.         LVLB.D.Anderson+        (85)C0134  6 
+ 1001 20048   4  50  C 1.6000+8          5.1520-5 1.4010-5 0.947651          1100000.         LVLB.D.Anderson+        (85)C0134  6 
+ 1001 20048   4  50  C 1.6000+8          2.0970-4 2.8570-5 0.911044          1100000.         LVLB.D.Anderson+        (85)C0134  6 
+ 1001 20048   4  50  C 1.6000+8          4.1530-4          0.885459          1100000.         LVLB.D.Anderson+        (85)C0134  6 
+ 1001 20048   4  50  C 1.6000+8          5.3660-4          0.856862          1100000.         LVLB.D.Anderson+        (85)C0134  6 
+ 1001 20048   4  50  C 1.6000+8          5.8450-4          0.826914          1100000.         LVLB.D.Anderson+        (85)C0134  6 
+ 1001 20048   4  50  C 1.6000+8          5.1110-4          0.802765          1100000.         LVLB.D.Anderson+        (85)C0134  6 
+ 1001 20048   4  50  C 1.6000+8          3.4160-4          0.764854          1100000.         LVLB.D.Anderson+        (85)C0134  6 
+ 1001 20048   4  50  C 1.6000+8          2.2560-4          0.729804          1100000.         LVLB.D.Anderson+        (85)C0134  6 
+ 1001 20048   4  50  C 1.6000+8          7.8020-5 1.2250-5 0.655822          1100000.         LVLB.D.Anderson+        (85)C0134  6 
+#/DATA      15
+#/DATASET

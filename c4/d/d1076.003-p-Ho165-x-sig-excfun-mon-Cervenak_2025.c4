@@ -1,0 +1,33 @@
+#ENTRY      D1076
+#AUTHOR1    J.Cervenak+
+#YEAR       2025
+#INSTITUTE  (3CZRUJF)
+#TITLE      New cross sections for 165Ho(p,x) reactions focused
+#+          on production of a perspective auger electron emitter
+#+          165Er
+#AUTHOR(S)  J.Cervenak, K.O.Fialova, L.Ondrak, O.Lebeda
+#REF-CODE   (J,ARI,225,112088,2025)
+#REFERENCE  Appl.Radiat.Isot. 225 (2025) 112088 (doi:10.1016/j.apradiso.2025.112088)
+#DATASETS   0
+#
+#DATASET    D1076003 
+#DATE       20250815
+#REACTION   67-HO-165(P,X)67-HO-164-G,,SIG
+#PROJ       1001
+#TARG       67165
+#MF         3
+#MT         454
+#PRODUCT    67-HO-164-G
+#C4BEGIN    [ 1001 67165   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 67165   3 454 A  1.9800+7 200000.0 0.033000 2.3000-3           67164.0                     J.Cervenak+          (25)D1076  3 
+ 1001 67165   3 454 A  1.8730+7 210000.0 0.023200 1.6000-3           67164.0                     J.Cervenak+          (25)D1076  3 
+ 1001 67165   3 454 A  1.7610+7 220000.0 0.013900 1.0000-3           67164.0                     J.Cervenak+          (25)D1076  3 
+ 1001 67165   3 454 A  1.6460+7 230000.0 8.7100-3 6.0000-4           67164.0                     J.Cervenak+          (25)D1076  3 
+ 1001 67165   3 454 A  1.5250+7 240000.0 4.3800-3 3.1000-4           67164.0                     J.Cervenak+          (25)D1076  3 
+ 1001 67165   3 454 A  1.3990+7 260000.0 1.8600-3 1.4000-4           67164.0                     J.Cervenak+          (25)D1076  3 
+ 1001 67165   3 454 A  1.2650+7 270000.0 4.9900-4 5.4000-5           67164.0                     J.Cervenak+          (25)D1076  3 
+#/DATA      7
+#/DATASET

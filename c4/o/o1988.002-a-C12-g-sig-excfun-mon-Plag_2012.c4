@@ -1,0 +1,30 @@
+#ENTRY      O1988
+#AUTHOR1    R.Plag+
+#YEAR       2012
+#INSTITUTE  (2GERFRK)
+#TITLE      C-12(a,g)O-16 studied with the Karlsruhe 4pi BaF(2)
+#+          detector.
+#AUTHOR(S)  R.Plag, R.Reifarth, M.Heil, F.Kaeppeler, G.Rupp, F.Voss, 
+#+          K.Wisshak
+#REF-CODE   (J,PR/C,86,015805,2012)
+#REFERENCE  Phys.Rev.C 86 (2012) 015805 (doi:10.1103/PhysRevC.86.015805)
+#DATASETS   0
+#
+#DATASET    O1988002 
+#DATE       20120726
+#REACTION   6-C-12(A,G)8-O-16,,SIG
+#PROJ       2004
+#TARG       6012
+#MF         3
+#MT         102
+#PRODUCT    8-O-16
+#C4BEGIN    [ 2004  6012   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6012   3 102 D  1336262.          1.000-10 4.000-11                                       R.Plag+              (12)O1988  2 
+ 2004  6012   3 102 D  1744360.          3.600-10 4.000-11                                       R.Plag+              (12)O1988  2 
+ 2004  6012   3 102 D  1888396.          5.800-10 6.000-11                                       R.Plag+              (12)O1988  2 
+ 2004  6012   3 102 D  2013762.          8.300-10 7.000-11                                       R.Plag+              (12)O1988  2 
+#/DATA      4
+#/DATASET

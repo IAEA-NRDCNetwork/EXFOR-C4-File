@@ -1,0 +1,32 @@
+#ENTRY      13634
+#AUTHOR1    R.W.Bauer+
+#YEAR       1991
+#INSTITUTE  (1USALRL)
+#TITLE      Neutron capture cross sections of 86Sr and 87Sr from
+#+          100 eV to 1 MeV, the conditions for the astrophysical
+#+          s process, and the 87Rb-87Sr cosmochronometer
+#AUTHOR(S)  R.W.Bauer, G.Bazan, J.A.Becker, R.E.Howe, G.J.Mathews
+#REF-CODE   (J,PR/C,43,2004,9104)
+#REFERENCE  Phys.Rev.C 43 (1991) 2004 (doi:10.1103/PhysRevC.43.2004)
+#DATASETS   0
+#
+#DATASET    13634003 
+#DATE       19961023
+#REACTION   38-SR-87(N,G)38-SR-88,,SIG,,SPA
+#PROJ       1
+#TARG       38087
+#MF         3
+#MT         102
+#PRODUCT    38-SR-88
+#C4BEGIN    [    1 38087   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 38087   3 102    10000.00          0.197000 8.0000-3                                       R.W.Bauer+           (91)13634  3 
+    1 38087   3 102    20000.00          0.128000 6.0000-3                                       R.W.Bauer+           (91)13634  3 
+    1 38087   3 102    30000.00          0.097000 5.0000-3                                       R.W.Bauer+           (91)13634  3 
+    1 38087   3 102    40000.00          0.079000 4.0000-3                                       R.W.Bauer+           (91)13634  3 
+    1 38087   3 102    50000.00          0.068000 4.0000-3                                       R.W.Bauer+           (91)13634  3 
+    1 38087   3 102    100000.0          0.040000 3.0000-3                                       R.W.Bauer+           (91)13634  3 
+#/DATA      6
+#/DATASET

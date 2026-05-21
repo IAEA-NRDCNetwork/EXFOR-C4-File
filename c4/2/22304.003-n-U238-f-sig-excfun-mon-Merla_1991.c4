@@ -1,0 +1,29 @@
+#ENTRY      22304
+#AUTHOR1    K.Merla+
+#YEAR       1991
+#INSTITUTE  (2GERDRE)
+#TITLE      Absolute measurements of neutron induced fission
+#+          cross-sections of 235U, 238U, 237Np and 239Pu
+#AUTHOR(S)  K.Merla, P.Hausch, C.M.Herbach, G.Musiol, G.Pausch, U.Todt, 
+#+          L.V.Drapchinsky, V.A.Kalinin, V.I.Shpakov
+#REF-CODE   (C,91JUELIC,,510,1991)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 510
+#DATASETS   0
+#
+#DATASET    22304003 
+#DATE       20180724
+#REACTION   92-U-238(N,F),,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3  18    4800000.          0.562000 0.017478                                       K.Merla+             (91)22304  3 
+    1 92238   3  18    5100000.          0.554000 0.013241                                       K.Merla+             (91)22304  3 
+    1 92238   3  18    8200000.          1.041000 0.033000                                       K.Merla+             (91)22304  3 
+    1 92238   3  18    1.8800+7          1.363000 0.043207                                       K.Merla+             (91)22304  3 
+#/DATA      4
+#/DATASET

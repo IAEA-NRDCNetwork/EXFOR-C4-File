@@ -1,0 +1,40 @@
+#ENTRY      12670
+#AUTHOR1    W.P.Poenitz+
+#YEAR       1975
+#INSTITUTE  (1USAANL)
+#TITLE      Fast neutron capture and activation cross sections
+#AUTHOR(S)  W.P.Poenitz
+#REF-CODE   (C,75WASH,,901,1975)
+#REFERENCE  Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 page 901
+#DATASETS   0
+#
+#DATASET    12670011 
+#DATE       20211002
+#REACTION   67-HO-165(N,G)67-HO-166,,SIG
+#PROJ       1
+#TARG       67165
+#MF         3
+#MT         102
+#PRODUCT    67-HO-166
+#C4BEGIN    [    1 67165   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 67165   3 102    399700.0          0.321100 0.034390                                       W.P.Poenitz          (75)12670 11 
+    1 67165   3 102    493600.0          0.280100 0.017180                                       W.P.Poenitz          (75)12670 11 
+    1 67165   3 102    595800.0          0.218000 0.013320                                       W.P.Poenitz          (75)12670 11 
+    1 67165   3 102    710800.0          0.169700 0.014320                                       W.P.Poenitz          (75)12670 11 
+    1 67165   3 102    858200.0          0.125500 7.6990-3                                       W.P.Poenitz          (75)12670 11 
+    1 67165   3 102    899800.0          0.112100 6.8480-3                                       W.P.Poenitz          (75)12670 11 
+    1 67165   3 102    999800.0          0.108100 7.8880-3                                       W.P.Poenitz          (75)12670 11 
+    1 67165   3 102    1112000.          0.088400 6.4520-3                                       W.P.Poenitz          (75)12670 11 
+    1 67165   3 102    1206000.          0.094250 6.8680-3                                       W.P.Poenitz          (75)12670 11 
+    1 67165   3 102    1294000.          0.086340 0.011190                                       W.P.Poenitz          (75)12670 11 
+    1 67165   3 102    1405000.          0.083200 7.0410-3                                       W.P.Poenitz          (75)12670 11 
+    1 67165   3 102    1507000.          0.080170 7.6870-3                                       W.P.Poenitz          (75)12670 11 
+    1 67165   3 102    1694000.          0.080270 7.7250-3                                       W.P.Poenitz          (75)12670 11 
+    1 67165   3 102    1997000.          0.069990 6.7110-3                                       W.P.Poenitz          (75)12670 11 
+    1 67165   3 102    2495000.          0.058050 9.4030-3                                       W.P.Poenitz          (75)12670 11 
+    1 67165   3 102    3014000.          0.039820 5.6100-3                                       W.P.Poenitz          (75)12670 11 
+#/DATA      16
+#/DATASET

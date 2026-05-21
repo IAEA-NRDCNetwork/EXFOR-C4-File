@@ -1,0 +1,30 @@
+#ENTRY      C0228
+#AUTHOR1    P.Fontes+
+#YEAR       1971
+#INSTITUTE  (2FR CSN)
+#TITLE      PRODUCTION CROSS SECTIONS OF LITHIUM AND BERYLLIUM
+#+          ISOTOPES IN C-12 BY HIGH-ENERGY PROTONS AND ALPHA
+#+          PARTICLES
+#AUTHOR(S)  P.Fontes, C.Perron, J.Lestringuez, F.Yiou, R.Bernas
+#REF-CODE   (J,NP/A,165,405,71)
+#REFERENCE  Nucl.Phys.A 165 (1971) 405 (doi:10.1016/0375-9474(71)90769-X)
+#DATASETS   0
+#
+#DATASET    C02280051
+#DATE       19871103
+#REACTION   6-C-12(A,X)3-LI-7,,SIG
+#PROJ       2004
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 2004  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6012   3 454    1.1000+8          0.046000 0.010000            3007.9                     P.Fontes+            (71)C0228  51
+ 2004  6012   3 454    1.1400+8          0.060000 0.012000            3007.9                     P.Fontes+            (71)C0228  51
+ 2004  6012   3 454    1.2600+8          0.055000 0.011000            3007.9                     P.Fontes+            (71)C0228  51
+ 2004  6012   3 454    1.3700+8          0.060000 0.012000            3007.9                     P.Fontes+            (71)C0228  51
+#/DATA      4
+#/DATASET

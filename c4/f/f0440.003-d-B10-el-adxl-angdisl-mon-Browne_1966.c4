@@ -1,0 +1,26 @@
+#ENTRY      F0440
+#AUTHOR1    C.P.Browne+
+#YEAR       1966
+#INSTITUTE  (1USAANL)
+#TITLE      Isobaric-spin selection rule in the 10B(d,alpha)8Be
+#+          reaction at 7.5 MeV
+#AUTHOR(S)  C.P.Browne, J.R.Erskine
+#REF-CODE   (J,PR,143,683,1966)
+#REFERENCE  Phys.Rev. 143 (1966) 683 (doi:10.1103/PhysRev.143.683)
+#DATASETS   0
+#
+#DATASET    F0440003 
+#DATE       20220606
+#REACTION   5-B-10(D,EL)5-B-10,,DA
+#PROJ       1002
+#TARG       5010
+#MF         4
+#MT         2
+#PRODUCT    5-B-10
+#C4BEGIN    [ 1002  5010   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5010   4   2    7510000.          0.011500          6.123-17                              C.P.Browne+          (66)F0440  3 
+#/DATA      1
+#/DATASET

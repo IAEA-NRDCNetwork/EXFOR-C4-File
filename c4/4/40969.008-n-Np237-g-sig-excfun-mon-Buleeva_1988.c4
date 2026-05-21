@@ -1,0 +1,39 @@
+#ENTRY      40969
+#AUTHOR1    N.N.Buleeva+
+#YEAR       1988
+#INSTITUTE  (4RUSFEI)
+#TITLE      Activation-measured radiative neutron-capture cross
+#+          sections for 236U, 238U, and 237Np
+#AUTHOR(S)  N.N.Buleeva, A.N.Davletshin, A.O.Tipunkov, S.V.Tikhonov, 
+#+          V.A.Tolstikov
+#REF-CODE   (J,AE,65,(5),348,1988)
+#REFERENCE  At.En. 65 No.5 (1988) 348
+#DATASETS   0
+#
+#DATASET    40969008 
+#DATE       20170720
+#REACTION   93-NP-237(N,G)93-NP-238,,SIG
+#PROJ       1
+#TARG       93237
+#MF         3
+#MT         102
+#PRODUCT    93-NP-238
+#C4BEGIN    [    1 93237   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   3 102 C  166000.0 22000.00 0.866000 0.043300                                       N.N.Buleeva+         (88)40969  8 
+    1 93237   3 102 C  344000.0 24000.00 0.471000 0.023550                                       N.N.Buleeva+         (88)40969  8 
+    1 93237   3 102 C  471000.0 22000.00 0.326000 0.016300                                       N.N.Buleeva+         (88)40969  8 
+    1 93237   3 102 C  475000.0 21000.00 0.337000 0.016850                                       N.N.Buleeva+         (88)40969  8 
+    1 93237   3 102 C  544000.0 27000.00 0.266000 0.013300                                       N.N.Buleeva+         (88)40969  8 
+    1 93237   3 102 C  636000.0 34000.00 0.248000 0.012400                                       N.N.Buleeva+         (88)40969  8 
+    1 93237   3 102 C  637000.0 20000.00 0.247000 0.012350                                       N.N.Buleeva+         (88)40969  8 
+    1 93237   3 102 C  708000.0 22000.00 0.198000 9.9000-3                                       N.N.Buleeva+         (88)40969  8 
+    1 93237   3 102 C  763000.0 34000.00 0.211000 0.010550                                       N.N.Buleeva+         (88)40969  8 
+    1 93237   3 102 C  881000.0 21000.00 0.146000 7.3000-3                                       N.N.Buleeva+         (88)40969  8 
+    1 93237   3 102 C  885000.0 21000.00 0.142000 7.1000-3                                       N.N.Buleeva+         (88)40969  8 
+    1 93237   3 102 C  1042000. 22000.00 0.099000 4.9500-3                                       N.N.Buleeva+         (88)40969  8 
+    1 93237   3 102 C  1142000. 17000.00 0.094000 4.7000-3                                       N.N.Buleeva+         (88)40969  8 
+#/DATA      13
+#/DATASET

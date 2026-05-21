@@ -1,0 +1,27 @@
+#ENTRY      21100
+#AUTHOR1    K.Debertin+
+#YEAR       1967
+#INSTITUTE  (2GERFRK)
+#TITLE      -The reactions Al-27(N,P)mg-27 and Si-28(N,P)Al-28 at
+#+          neutron energies around 8 MeV-
+#AUTHOR(S)  K.Debertin, H.Gunther, E.Rossle
+#REF-CODE   (J,NP/A,101,473,196709)
+#REFERENCE  Nucl.Phys.A 101 (1967) 473 (doi:10.1016/0375-9474(67)90200-X)
+#DATASETS   0
+#
+#DATASET    21100005 
+#DATE       20070927
+#REACTION   13-AL-27(N,P)12-MG-27,PAR,SIG
+#PROJ       1
+#TARG       13027
+#MF         3
+#MT         600
+#PRODUCT    12-MG-27
+#C4BEGIN    [    1 13027   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   3 600    7900000.          7.1000-3 7.0000-4                   0.000000         LVLK.Debertin+          (67)21100  5 
+    1 13027   3 600    7900000.          9.8000-3 1.0000-3                   980000.0         LVLK.Debertin+          (67)21100  5 
+#/DATA      2
+#/DATASET

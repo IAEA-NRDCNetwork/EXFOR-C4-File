@@ -1,0 +1,30 @@
+#ENTRY      32651
+#AUTHOR1    Guohui Zhang+
+#YEAR       2006
+#INSTITUTE  (3CPRBJG)
+#TITLE      Differential and Angle-Integrated Cross-Section
+#+          measurement for the Li-6(n,t)He-4 reaction at En=1.05,
+#+          1.54, and 2.25 MeV
+#AUTHOR(S)  Guohui Zhang, Rongtai Cao, Jinxiang Chen, Guoyou Tang, Yu.M.Gledenov, 
+#+          M.Sedysheva, G.Khuukhenkhuu
+#REF-CODE   (J,NSE,153,41,2006)
+#REFERENCE  Nucl.Sci.Eng. 153 (2006) 41 (doi:10.13182/NSE153-41)
+#DATASETS   0
+#
+#DATASET    32651002 
+#DATE       20090519
+#REACTION   3-LI-6(N,T)2-HE-4,,SIG
+#PROJ       1
+#TARG       3006
+#MF         3
+#MT         105
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1  3006   3 105 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   3 105 D  1050000. 90000.00 0.240600 0.017800                                       Guohui Zhang+        (06)32651  2 
+    1  3006   3 105 D  1540000. 80000.00 0.233400 0.017300                                       Guohui Zhang+        (06)32651  2 
+    1  3006   3 105 D  2250000. 60000.00 0.203100 0.013800                                       Guohui Zhang+        (06)32651  2 
+#/DATA      3
+#/DATASET

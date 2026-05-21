@@ -1,0 +1,26 @@
+#ENTRY      31039
+#AUTHOR1    E.Weigold+
+#YEAR       1960
+#INSTITUTE  (3AULCBR)
+#TITLE      Cross sections for the interactions of 14.5 MeV
+#+          neutrons with manganese and cobalt.
+#AUTHOR(S)  E.Weigold
+#REF-CODE   (J,AUJ,13,186,1960)
+#REFERENCE  Australian J.Physics 13 (1960) 186 (doi:10.1071/PH600186)
+#DATASETS   0
+#
+#DATASET    31039007 
+#DATE       20090920
+#REACTION   25-MN-55(N,A)23-V-52,,SIG
+#PROJ       1
+#TARG       25055
+#MF         3
+#MT         107
+#PRODUCT    23-V-52
+#C4BEGIN    [    1 25055   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 25055   3 107    1.4500+7 500000.0 0.027000 5.0000-3                                       E.Weigold            (60)31039  7 
+#/DATA      1
+#/DATASET

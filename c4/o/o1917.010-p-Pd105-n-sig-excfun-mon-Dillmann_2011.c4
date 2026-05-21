@@ -1,0 +1,33 @@
+#ENTRY      O1917
+#AUTHOR1    I.Dillmann+
+#YEAR       2011
+#INSTITUTE  (2GERKFK)
+#TITLE      Cross section for proton-induced reactions on Pd
+#+          isotopes at energies relevant for the gamma process.
+#AUTHOR(S)  I.Dillmann, L.Coquard, C.Domingo-Pardo, F.Kaeppeler, J.Marganiec, 
+#+          E.Uberseder, U.Giesen, A.Heiske, G.Feinberg, D.Hentschel, 
+#+          S.Hilpp, H.Leiste, T.Rauscher, F.-K.Thielemann
+#REF-CODE   (J,PR/C,84,015802,2011)
+#REFERENCE  Phys.Rev.C 84 (2011) 015802 (doi:10.1103/PhysRevC.84.015802)
+#DATASETS   0
+#
+#DATASET    O1917010 
+#DATE       20140205
+#REACTION   46-PD-105(P,N)47-AG-105-G,,SIG
+#PROJ       1001
+#TARG       46105
+#MF         3
+#MT         4
+#PRODUCT    47-AG-105-G
+#C4BEGIN    [ 1001 46105   3   4G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 46105   3   4G   2740111.          1.7000-5 2.0000-6                                       I.Dillmann+          (11)O1917 10 
+ 1001 46105   3   4G   2989491.          6.8000-5 6.0000-6                                       I.Dillmann+          (11)O1917 10 
+ 1001 46105   3   4G   3686143.          7.9400-4 5.2000-5                                       I.Dillmann+          (11)O1917 10 
+ 1001 46105   3   4G   4029423.          1.8610-3 1.2200-4                                       I.Dillmann+          (11)O1917 10 
+ 1001 46105   3   4G   4516074.          4.3830-3 2.7900-4                                       I.Dillmann+          (11)O1917 10 
+ 1001 46105   3   4G   5086530.          7.5710-3 4.1000-4                                       I.Dillmann+          (11)O1917 10 
+#/DATA      6
+#/DATASET

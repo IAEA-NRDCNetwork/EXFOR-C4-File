@@ -1,0 +1,27 @@
+#ENTRY      C0935
+#AUTHOR1    H.R.Worthington+
+#YEAR       1953
+#INSTITUTE  (1USAWIS)
+#TITLE      Proton-Proton Scattering from 1.8 MeV to 4.2 MeV
+#AUTHOR(S)  H.R.Worthington, J.N.McGruer, D.E.Findley
+#REF-CODE   (J,PR,90,899,195306)
+#REFERENCE  Phys.Rev. 90 (1953) 899 (doi:10.1103/PhysRev.90.899)
+#DATASETS   0
+#
+#DATASET    C0935002 
+#DATE       20030929
+#REACTION   1-H-1(P,EL)1-H-1,,DA
+#PROJ       1001
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1001   4   2  C 1855000.          0.278240 4.4518-4 0.965926                              H.R.Worthington+     (53)C0935  2 
+ 1001  1001   4   2  C 1855000.          0.196730 2.9509-4 0.953717                              H.R.Worthington+     (53)C0935  2 
+ 1001  1001   4   2  C 1855000.          0.159920 3.3583-4 0.866025                              H.R.Worthington+     (53)C0935  2 
+#/DATA      3
+#/DATASET

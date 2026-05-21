@@ -1,0 +1,30 @@
+#ENTRY      30374
+#AUTHOR1    C.M.Bartle+
+#YEAR       1974
+#INSTITUTE  (3NZLNZW)
+#TITLE      Absolute (n,p) and (n,alpha) cross sections for K-39
+#+          and Ca-40 between 2.4 and 2.9 MeV.
+#AUTHOR(S)  C.M.Bartle, P.B.Johnson, N.C.Chapman
+#REF-CODE   (J,NP/A,220,395,197402)
+#REFERENCE  Nucl.Phys.A 220 (1974) 395 (doi:10.1016/0375-9474(74)90728-3)
+#DATASETS   0
+#
+#DATASET    30374004 
+#DATE       20090104
+#REACTION   19-K-39(N,P)18-AR-39,PAR,SIG
+#PROJ       1
+#TARG       19039
+#MF         3
+#MT         600
+#PRODUCT    18-AR-39
+#C4BEGIN    [    1 19039   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 19039   3 600    2401000. 38000.00 0.088000 4.0000-3                   0.000000         LVLC.M.Bartle+          (74)30374  4 
+    1 19039   3 600    2473000. 58000.00 0.087000 4.0000-3                   0.000000         LVLC.M.Bartle+          (74)30374  4 
+    1 19039   3 600    2589000. 82000.00 0.086000 4.0000-3                   0.000000         LVLC.M.Bartle+          (74)30374  4 
+    1 19039   3 600    2751000. 140000.0 0.117000 6.0000-3                   0.000000         LVLC.M.Bartle+          (74)30374  4 
+    1 19039   3 600    2843000. 162000.0 0.114000 5.0000-3                   0.000000         LVLC.M.Bartle+          (74)30374  4 
+#/DATA      5
+#/DATASET

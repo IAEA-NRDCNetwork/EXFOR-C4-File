@@ -1,0 +1,35 @@
+#ENTRY      C1604
+#AUTHOR1    R.Kanungo+
+#YEAR       2008
+#INSTITUTE  (1CANTMF)
+#TITLE      Spectroscopic factors for the 9Li ground state and
+#+          N=6 shell closure
+#AUTHOR(S)  R.Kanungo, A.N.Andreyev, L.Buchmann, B.Davids, G.Hackman, 
+#+          D.Howell, P.Khalili, B.Mills, E.Padilla Rodal, Steven C.Pieper, 
+#+          J.Pearson, C.Ruiz, G.Ruprecht, A.Shotter, I.Tanihata, C.Vockenhuber, 
+#+          P.Walden, R.B.Wiringa
+#REF-CODE   (J,PL/B,660,26,2008)
+#REFERENCE  Phys.Lett.B 660 (2008) 26 (doi:10.1016/j.physletb.2007.12.024)
+#DATASETS   0
+#
+#DATASET    C1604005 
+#DATE       20080304
+#REACTION   1-H-2(3-LI-9,T)3-LI-8,PAR,DA
+#PROJ       3009
+#TARG       1002
+#MF         4
+#MT         700
+#PRODUCT    3-LI-8
+#C4BEGIN    [ 3009  1002   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3009  1002   4 700  C 1.5120+7          0.051990 0.012450 0.889177          2250000.         LVLR.Kanungo+           (08)C1604  5 
+ 3009  1002   4 700  C 1.5120+7          0.031810 9.7290-3 0.846658          2250000.         LVLR.Kanungo+           (08)C1604  5 
+ 3009  1002   4 700  C 1.5120+7          0.032520 7.2170-3 0.797584          2250000.         LVLR.Kanungo+           (08)C1604  5 
+ 3009  1002   4 700  C 1.5120+7          0.018370 3.9120-3 0.713373          2250000.         LVLR.Kanungo+           (08)C1604  5 
+ 3009  1002   4 700  C 1.5120+7          6.7950-3 2.4890-3 0.507388          2250000.         LVLR.Kanungo+           (08)C1604  5 
+ 3009  1002   4 700  C 1.5120+7          4.5000-3 3.0120-3 0.348408          2250000.         LVLR.Kanungo+           (08)C1604  5 
+ 3009  1002   4 700  C 1.5120+7          3.8740-3 1.9420-3 0.182236          2250000.         LVLR.Kanungo+           (08)C1604  5 
+#/DATA      7
+#/DATASET

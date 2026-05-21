@@ -1,0 +1,47 @@
+#ENTRY      O0742
+#AUTHOR1    H.B.Jeppesen+
+#YEAR       2005
+#INSTITUTE  (2DENAAU)
+#TITLE      Low energy reactions with radioactive ions at REX-
+#+          ISOLDE -the Li-9+H-2 case.
+#AUTHOR(S)  H.B.Jeppesen, F.Ames, P.Van Den Bergh, U.C.Bergmann, G.Bollen, 
+#+          M.J.G.Borge, J.Cederkall, P.Van Duppen, S.Emhofer, O.Forstner, 
+#+          L.M.Fraile, H.O.U.Fynbo, J.Gomez-Camacho, D.Habs, R.Von Hahn, 
+#+          G.Huber, M.Huyse, H.T.Johansson, B.Jonson, O.Kester, L.Liljeby, 
+#+          M.Meister, A.M.Moro, T.Nilsson, G.Nyman, M.Oinonen, M.Pantea, 
+#+          H.Podlech, U.Ratzinger, K.Reisinger, K.G.Rensfelt, R.Repnow, 
+#+          K.Riisager, A.Richter, K.Rudolph, H.Scheit, A.Schempp, P.Schmidt, 
+#+          G.Schrieder, D.Schwalt, T.Sieber, H.Simon, O.Tengblad, E.Tengborn, 
+#+          M.Turrion, L.Weissmann, F.Wenander, B.Wolf
+#REF-CODE   (J,NP/A,748,374,2005)
+#REFERENCE  Nucl.Phys.A 748 (2005) 374 (doi:10.1016/j.nuclphysa.2004.11.013)
+#DATASETS   0
+#
+#DATASET    O0742004 
+#DATE       20060209
+#REACTION   1-H-2(8-O-18,EL)1-H-2,,DA,,RTH
+#PROJ       8018
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 8018  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8018  1002   4   2  C 4.2480+7 934560.0 0.186179 0.124119 0.758134 0.034144                     H.B.Jeppesen+        (05)O0742  4 
+ 8018  1002   4   2  C 4.2480+7 934560.0 0.132649 0.066325 0.669131 0.038911                     H.B.Jeppesen+        (05)O0742  4 
+ 8018  1002   4   2  C 4.2480+7 934560.0 0.039995 0.022561 0.579281 0.042680                     H.B.Jeppesen+        (05)O0742  4 
+ 8018  1002   4   2  C 4.2480+7 934560.0 0.046537 0.018487 0.466387 0.046317                     H.B.Jeppesen+        (05)O0742  4 
+ 8018  1002   4   2  C 4.2480+7 934560.0 0.020545 8.8048-3 0.342020 0.049202                     H.B.Jeppesen+        (05)O0742  4 
+ 8018  1002   4   2  C 4.2480+7 934560.0 0.010576 4.8349-3 0.224951 0.051018                     H.B.Jeppesen+        (05)O0742  4 
+ 8018  1002   4   2  C 4.2480+7 934560.0 0.015846 6.7912-3 0.104528 0.052073                     H.B.Jeppesen+        (05)O0742  4 
+ 8018  1002   4   2  C 4.2480+7 934560.0 0.015606 4.9097-3-0.017452 0.052352                     H.B.Jeppesen+        (05)O0742  4 
+ 8018  1002   4   2  C 4.2480+7 934560.0 7.1217-3 2.1913-3-0.151261 0.051757                     H.B.Jeppesen+        (05)O0742  4 
+ 8018  1002   4   2  C 4.2480+7 934560.0 8.0955-3 1.9114-3-0.270600 0.050406                     H.B.Jeppesen+        (05)O0742  4 
+ 8018  1002   4   2  C 4.2480+7 934560.0 0.010065 1.7873-3-0.389124 0.048233                     H.B.Jeppesen+        (05)O0742  4 
+ 8018  1002   4   2  C 4.2480+7 934560.0 6.1314-3 8.8744-4-0.500000 0.045345                     H.B.Jeppesen+        (05)O0742  4 
+ 8018  1002   4   2  C 4.2480+7 934560.0 7.9528-3 9.1493-4-0.605988 0.041651                     H.B.Jeppesen+        (05)O0742  4 
+ 8018  1002   4   2  C 4.2480+7 934560.0 6.6410-3 6.2651-4-0.702153 0.037282                     H.B.Jeppesen+        (05)O0742  4 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      C0215
+#AUTHOR1    R.F.Carlson+
+#YEAR       1985
+#INSTITUTE  (1USARDL)
+#TITLE      Measurements of proton total reaction cross sections
+#+          for 6Li, 7Li, 14N, 20Ne and 40Ar between 23 and 49
+#+          MeV
+#AUTHOR(S)  R.F.Carlson, A.J.Cox, T.N.Nasr, M.S.De Jong, D.L.Ginther, 
+#+          D.K.Hasell, A.M.Sourkes, W.T.H.Van Oers, D.J.Margaziotis
+#REF-CODE   (J,NP/A,445,57,198507)
+#REFERENCE  Nucl.Phys.A 445 (1985) 57 (doi:10.1016/0375-9474(85)90360-4)
+#DATASETS   0
+#
+#DATASET    C0215005 
+#DATE       19990218
+#REACTION   10-NE-20(P,NON),,SIG
+#PROJ       1001
+#TARG       10020
+#MF         3
+#MT         3
+#C4BEGIN    [ 1001 10020   3   3 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 10020   3   3 A  2.2900+7 100000.0 0.718000 0.027000                                       R.F.Carlson+         (85)C0215  5 
+ 1001 10020   3   3 A  2.8900+7 100000.0 0.686000 0.026000                                       R.F.Carlson+         (85)C0215  5 
+ 1001 10020   3   3 A  3.5900+7 100000.0 0.607000 0.020000                                       R.F.Carlson+         (85)C0215  5 
+ 1001 10020   3   3 A  4.3000+7 100000.0 0.581000 0.017000                                       R.F.Carlson+         (85)C0215  5 
+ 1001 10020   3   3 A  4.7000+7 100000.0 0.528000 0.029000                                       R.F.Carlson+         (85)C0215  5 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      A1076
+#AUTHOR1    N.Ying+
+#YEAR       1973
+#INSTITUTE  (1USAABD)
+#TITLE      A study of the 2H(d,p)3H and 2H(d,n)3He reactions
+#+          and the excited state of 4He at 23.9 MeV
+#AUTHOR(S)  N.Ying, B.B.Cox, B.K.Barnes, A.W.Barrows
+#REF-CODE   (J,NP/A,206,481,1973)
+#REFERENCE  Nucl.Phys.A 206 (1973) 481 (doi:10.1016/0375-9474(73)90080-8)
+#DATASETS   0
+#
+#DATASET    A1076009 
+#DATE       20240703
+#REACTION   1-H-2(D,P)1-H-3,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002  1002   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4 103    298000.0 1500.000 2.5000-3          6.123-17                              N.Ying+              (73)A1076  9 
+ 1002  1002   4 103    349000.0 1500.000 2.7300-3          6.123-17                              N.Ying+              (73)A1076  9 
+ 1002  1002   4 103    399500.0 1500.000 2.9300-3          6.123-17                              N.Ying+              (73)A1076  9 
+ 1002  1002   4 103    448500.0 1500.000 3.0900-3          6.123-17                              N.Ying+              (73)A1076  9 
+ 1002  1002   4 103    499000.0 1500.000 3.2600-3          6.123-17                              N.Ying+              (73)A1076  9 
+ 1002  1002   4 103    551500.0 1500.000 3.4200-3          6.123-17                              N.Ying+              (73)A1076  9 
+ 1002  1002   4 103    602500.0 1500.000 3.5100-3          6.123-17                              N.Ying+              (73)A1076  9 
+ 1002  1002   4 103    654000.0 1500.000 3.7300-3          6.123-17                              N.Ying+              (73)A1076  9 
+ 1002  1002   4 103    703000.0 1500.000 3.8800-3          6.123-17                              N.Ying+              (73)A1076  9 
+#/DATA      9
+#/DATASET

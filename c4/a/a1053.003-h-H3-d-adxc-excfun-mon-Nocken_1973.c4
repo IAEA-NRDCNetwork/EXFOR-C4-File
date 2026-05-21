@@ -1,0 +1,49 @@
+#ENTRY      A1053
+#AUTHOR1    U.Nocken+
+#YEAR       1973
+#INSTITUTE  (2GERBOC)
+#TITLE      The reaction 3H(3He,d)4He at very low energies :
+#+          energy dependent violations of the Barshay-Temmer
+#+          isospin theorem
+#AUTHOR(S)  U.Nocken, U.Quast, A.Richter, G.Schreider
+#REF-CODE   (J,NP/A,213,97,1973)
+#REFERENCE  Nucl.Phys.A 213 (1973) 97 (doi:10.1016/0375-9474(73)90184-X)
+#DATASETS   0
+#
+#DATASET    A1053003 
+#DATE       20240305
+#REACTION   1-H-3(HE3,D)2-HE-4,,DA
+#PROJ       2003
+#TARG       1003
+#MF         4
+#MT         104
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 2003  1003   4 104  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  1003   4 104  C 274002.4          3.2000-4          0.984808                              U.Nocken+            (73)A1053  3 
+ 2003  1003   4 104  C 352004.3          4.6000-4          0.984808                              U.Nocken+            (73)A1053  3 
+ 2003  1003   4 104  C 570012.5          7.7000-4          0.984808                              U.Nocken+            (73)A1053  3 
+ 2003  1003   4 104  C 764023.4          9.2000-4          0.984808                              U.Nocken+            (73)A1053  3 
+#/DATA      4
+#/DATASET
+#
+#DATASET    A1053003 
+#DATE       20240305
+#REACTION   1-H-3(HE3,D)2-HE-4,,DA
+#PROJ       2003
+#TARG       1003
+#MF         4
+#MT         104
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 2003  1003   4 104  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  1003   4 104  C 268002.3          4.4000-4          6.123-17                              U.Nocken+            (73)A1053  3 
+ 2003  1003   4 104  C 352004.3          6.5000-4          6.123-17                              U.Nocken+            (73)A1053  3 
+ 2003  1003   4 104  C 580013.0          1.2600-3          6.123-17                              U.Nocken+            (73)A1053  3 
+ 2003  1003   4 104  C 774024.0          1.8100-3          6.123-17                              U.Nocken+            (73)A1053  3 
+#/DATA      4
+#/DATASET

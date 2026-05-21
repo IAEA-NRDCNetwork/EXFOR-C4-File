@@ -1,0 +1,30 @@
+#ENTRY      31460
+#AUTHOR1    D.Kielan+
+#YEAR       1995
+#INSTITUTE  (3POLIPJ)
+#TITLE      Cross sections for the (n,p) reaction on zinc isotopes
+#+          in terms of the novel multistep compound reaction model
+#AUTHOR(S)  D.Kielan, A.Marcinkowski
+#REF-CODE   (J,ZP/A,352,137,1995)
+#REFERENCE  Z.Phys.A 352 (1995) 137 (doi:10.1007/BF01298899)
+#DATASETS   0
+#
+#DATASET    31460006 
+#DATE       20100309
+#REACTION   30-ZN-68(N,P)29-CU-68,,SIG
+#PROJ       1
+#TARG       30068
+#MF         3
+#MT         103
+#PRODUCT    29-CU-68
+#C4BEGIN    [    1 30068   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 30068   3 103    1.3400+7 200000.0 0.025300 7.3000-3                                       D.Kielan+            (95)31460  6 
+    1 30068   3 103    1.3900+7 300000.0 0.028700 0.012300                                       D.Kielan+            (95)31460  6 
+    1 30068   3 103    1.4500+7 300000.0 0.029300 0.010400                                       D.Kielan+            (95)31460  6 
+    1 30068   3 103    1.5000+7 300000.0 0.027200 0.010000                                       D.Kielan+            (95)31460  6 
+    1 30068   3 103    1.5400+7 200000.0 0.024300 0.012600                                       D.Kielan+            (95)31460  6 
+#/DATA      5
+#/DATASET

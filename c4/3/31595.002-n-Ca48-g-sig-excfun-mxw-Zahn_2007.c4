@@ -1,0 +1,25 @@
+#ENTRY      31595
+#AUTHOR1    G.S.Zahn+
+#YEAR       2007
+#INSTITUTE  (3BZLIPE)
+#TITLE      Thermal neutron activation cross section for 48Ca
+#AUTHOR(S)  G.S.Zahn, C.B.Zamboni, L.C.Olivera, F.A.Genezini
+#REF-CODE   (C,2007NICE,2,1263,2007)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 2 page 1263
+#DATASETS   0
+#
+#DATASET    31595002 
+#DATE       20070511
+#REACTION   20-CA-48(N,G)20-CA-49,,SIG,,MXW
+#PROJ       1
+#TARG       20048
+#MF         3
+#MT         102
+#PRODUCT    20-CA-49
+#C4BEGIN    [    1 20048   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20048   3 102 A  0.025300          0.979000 0.020000                                       G.S.Zahn+            (07)31595  2 
+#/DATA      1
+#/DATASET

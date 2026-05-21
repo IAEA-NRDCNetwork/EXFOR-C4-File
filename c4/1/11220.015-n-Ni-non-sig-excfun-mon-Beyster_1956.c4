@@ -1,0 +1,27 @@
+#ENTRY      11220
+#AUTHOR1    J.R.Beyster+
+#YEAR       1956
+#INSTITUTE  (1USALAS)
+#TITLE      Interaction of 1.0-, 1.77-, 2.5-, 3.25-, and 7.0-Mev
+#+          Neutrons with Nuclei
+#AUTHOR(S)  J.R.Beyster, M.Walt, E.W.Salmi
+#REF-CODE   (J,PR,104,1319,1956)
+#REFERENCE  Phys.Rev. 104 (1956) 1319 (doi:10.1103/PhysRev.104.1319)
+#DATASETS   0
+#
+#DATASET    11220015 
+#DATE       20140131
+#REACTION   28-NI-0(N,NON),,SIG
+#PROJ       1
+#TARG       28000
+#MF         3
+#MT         3
+#C4BEGIN    [    1 28000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28000   3   3    1000000.          0.060000 0.030000                                       J.R.Beyster+         (56)11220 15 
+    1 28000   3   3    2500000.          0.800000 0.060000                                       J.R.Beyster+         (56)11220 15 
+    1 28000   3   3    7000000.          1.480000 0.060000                                       J.R.Beyster+         (56)11220 15 
+#/DATA      3
+#/DATASET

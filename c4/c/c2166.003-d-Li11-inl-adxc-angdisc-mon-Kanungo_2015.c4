@@ -1,0 +1,34 @@
+#ENTRY      C2166
+#AUTHOR1    R.Kanungo+
+#YEAR       2015
+#INSTITUTE  (1CANTMF)
+#TITLE      Evidence of Soft Dipole Resonance in 11Li with
+#+          Isoscalar Character
+#AUTHOR(S)  R.Kanungo, A.Sanetullaev, J.Tanaka, S.Ishimoto, G.Hagen, 
+#+          T.Myo, T.Suzuki, C.Andreoiu, P.Bender, A.A.Chen, B.Davids, 
+#+          J.Fallis, J.P.Fortin, N.Galinski, A.T.Gallant, P.E.Garrett, 
+#+          G.Hackman, B.Hadinia, G.Jansen, M.Keefe, R.Krucken, J.Lighthall, 
+#+          E.McNeice, D.Miller, T.Otsuka, J.Purcell, J.S.Randhawa, 
+#+          T.Roger, A.Rojas, H.Savajols, A.Shotter, I.Tanihata, I.J.Thompson, 
+#+          C.Unsworth, P.Voss, Z.Wang
+#REF-CODE   (J,PRL,114,192502,2015)
+#REFERENCE  Phys.Rev.Lett. 114 (2015) 192502 (doi:10.1103/PhysRevLett.114.192502)
+#DATASETS   0
+#
+#DATASET    C2166003 
+#DATE       20150922
+#REACTION   (1-H-2(3-LI-11,INL)1-H-2,PAR,DA)=(3-LI-11(D,INL)3-LI-11,PAR,DA)
+#PROJ       1002
+#TARG       3011
+#MF         4
+#MT         651
+#PRODUCT    3-LI-11
+#C4BEGIN    [ 1002  3011   4 651  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3011   4 651  C 5.5300+7          8.5000-4 1.0000-4 0.258482          1030000.         LVLR.Kanungo+           (15)C2166  3 
+ 1002  3011   4 651  C 5.5300+7          4.0000-4 9.0000-5-0.017801          1030000.         LVLR.Kanungo+           (15)C2166  3 
+ 1002  3011   4 651  C 5.5300+7          2.8000-4 7.0000-5-0.291871          1030000.         LVLR.Kanungo+           (15)C2166  3 
+#/DATA      3
+#/DATASET

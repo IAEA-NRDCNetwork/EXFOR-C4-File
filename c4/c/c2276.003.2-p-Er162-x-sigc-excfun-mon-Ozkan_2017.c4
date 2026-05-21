@@ -1,0 +1,33 @@
+#ENTRY      C2276
+#AUTHOR1    N.Ozkan+
+#YEAR       2017
+#INSTITUTE  (2TUKKOC)
+#TITLE      Proton capture reaction cross section measurements on
+#+          162Er as a probe of statistical model calculations
+#AUTHOR(S)  N.Ozkan, R.T.Guray, C.Yalcyn, W.P.Tan, A.Aprahamian, M.Beard, 
+#+          R.J.deBoer, S.Almaraz-Calderon, S.Falahat, J.Gorres, Q.Li, 
+#+          A.Sauerwein, K.Sonnabend, M.Wiescher, Zs.Fulop, Gy.Gyurky, 
+#+          E.Somorjai, J.Greene
+#REF-CODE   (J,PR/C,96,045805,2017)
+#REFERENCE  Phys.Rev.C 96 (2017) 045805 (doi:10.1103/PhysRevC.96.045805)
+#DATASETS   0
+#
+#DATASET    C22760032
+#DATE       20171113
+#REACTION   68-ER-162(P,N)69-TM-162-G,M+,SIG,,SFC
+#PROJ       1001
+#TARG       68162
+#MF         3
+#MT         459
+#PRODUCT    69-TM-162-G
+#C4BEGIN    [ 1001 68162   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 68162   3 459    5999224. 1000.039 9.8969-4 1.5906-4           69162.0                     N.Ozkan+             (17)C2276  32
+ 1001 68162   3 459    6499338. 1000.042 7.7037-3 7.2222-4           69162.0                     N.Ozkan+             (17)C2276  32
+ 1001 68162   3 459    6999453. 1000.046 0.019932 1.7587-3           69162.0                     N.Ozkan+             (17)C2276  32
+ 1001 68162   3 459    7998683. 1000.052 0.064512 5.8648-3           69162.0                     N.Ozkan+             (17)C2276  32
+ 1001 68162   3 459    8999931. 1000.059 0.141400 0.011163           69162.0                     N.Ozkan+             (17)C2276  32
+#/DATA      5
+#/DATASET

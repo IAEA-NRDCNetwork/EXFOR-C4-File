@@ -1,0 +1,35 @@
+#ENTRY      D4090
+#AUTHOR1    Z.Szucs+
+#YEAR       1998
+#INSTITUTE  (2GERJUL)
+#TITLE      Excitation Function of 14N(d,t)13N and 14N(d,an)11C
+#+          Reactions from Threshold to 12.3 MeV: Radionuclidic
+#+          Purity of 15O Produced via the 14(d,n)15O Reaction
+#AUTHOR(S)  Z.Szucs, W.Hamkens, S.Takacs, F.Tarkanyi, H.H.Coenen, S.M.Qaim
+#REF-CODE   (J,RCA,80,59,1998)
+#REFERENCE  Radiochim.Acta 80 (1998) 59 (doi:10.1524/ract.1998.80.2.59)
+#DATASETS   0
+#
+#DATASET    D40900023
+#DATE       20010914
+#REACTION   7-N-14(D,N+A)6-C-11,,SIG
+#PROJ       1002
+#TARG       7014
+#MF         3
+#MT         22
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1002  7014   3  22  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7014   3  22    8030000.          4.0000-4                                                Z.Szucs+             (98)D4090  23
+ 1002  7014   3  22    8180000.          3.9000-4                                                Z.Szucs+             (98)D4090  23
+ 1002  7014   3  22    8940000.          5.0000-5                                                Z.Szucs+             (98)D4090  23
+ 1002  7014   3  22    9220000.          3.3300-3                                                Z.Szucs+             (98)D4090  23
+ 1002  7014   3  22    9700000.          4.7500-3                                                Z.Szucs+             (98)D4090  23
+ 1002  7014   3  22    1.0800+7          0.010150                                                Z.Szucs+             (98)D4090  23
+ 1002  7014   3  22    1.1210+7          0.016310                                                Z.Szucs+             (98)D4090  23
+ 1002  7014   3  22    1.1950+7          0.015330                                                Z.Szucs+             (98)D4090  23
+ 1002  7014   3  22    1.2310+7          0.024360                                                Z.Szucs+             (98)D4090  23
+#/DATA      9
+#/DATASET

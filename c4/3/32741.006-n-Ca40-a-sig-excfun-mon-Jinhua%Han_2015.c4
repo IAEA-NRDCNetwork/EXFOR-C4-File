@@ -1,0 +1,33 @@
+#ENTRY      32741
+#AUTHOR1    Jinhua Han+
+#YEAR       2015
+#INSTITUTE  (3CPRBJG)
+#TITLE      Differential and angle-integrated cross sections for
+#+          the 40Ca(n,a)37Ar reaction from 4.0 to 6.5MeV
+#AUTHOR(S)  Jinhua Han, Jiaming Liu, Xiang Liu, Xiao Fan, Zhimin Wang, 
+#+          Jinxiang Chen, Guohui Zhang, Yu.M.Gledenov, M.V.Sedysheva, 
+#+          L.Krupa, G.Khuukhenkhuu, P.J.Szalanski
+#REF-CODE   (J,EPJ/A,51,12,2015)
+#REFERENCE  Eur.Phys.J.A 51 (2015) 12 (doi:10.1140/epja/i2015-15012-5)
+#DATASETS   0
+#
+#DATASET    32741006 
+#DATE       20171009
+#REACTION   20-CA-40(N,A)18-AR-37,PAR,SIG
+#PROJ       1
+#TARG       20040
+#MF         3
+#MT         800
+#PRODUCT    18-AR-37
+#C4BEGIN    [    1 20040   3 800 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20040   3 800 D  4000000. 210000.0 0.148800 8.6304-3                   0.000000         LVLJinhua Han+          (15)32741  6 
+    1 20040   3 800 D  4500000. 190000.0 0.151400 8.6298-3                   0.000000         LVLJinhua Han+          (15)32741  6 
+    1 20040   3 800 D  5000000. 160000.0 0.134200 7.6494-3                   0.000000         LVLJinhua Han+          (15)32741  6 
+    1 20040   3 800 D  5500000. 140000.0 0.117800 6.8324-3                   0.000000         LVLJinhua Han+          (15)32741  6 
+    1 20040   3 800 D  6000000. 120000.0 0.095600 5.5448-3                   0.000000         LVLJinhua Han+          (15)32741  6 
+    1 20040   3 800 D  6500000. 100000.0 0.081600 5.3856-3                   0.000000         LVLJinhua Han+          (15)32741  6 
+#/DATA      6
+#/DATASET

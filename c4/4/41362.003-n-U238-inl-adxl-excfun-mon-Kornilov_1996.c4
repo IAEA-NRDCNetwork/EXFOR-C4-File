@@ -1,0 +1,29 @@
+#ENTRY      41362
+#AUTHOR1    N.V.Kornilov+
+#YEAR       1996
+#INSTITUTE  (4RUSFEI)
+#TITLE      Inelastic Neutron Scattering on the First Level
+#+          of U-238.
+#AUTHOR(S)  N.V.Kornilov, A.B.Kagalenko
+#REF-CODE   (S,ISINN-4,245,1996)
+#REFERENCE  Report (proceedings) ISINN-4 page 245, 1996
+#DATASETS   0
+#
+#DATASET    41362003 
+#DATE       20000404
+#REACTION   92-U-238(N,INL)92-U-238,PAR,DA
+#PROJ       1
+#TARG       92238
+#MF         4
+#MT         51
+#PRODUCT    92-U-238
+#C4BEGIN    [    1 92238   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   4  51 A  312000.0          0.111000 7.0000-3-0.500000          44900.00         LVLN.V.Kornilov+        (96)41362  3 
+    1 92238   4  51 A  387000.0          0.110000 5.0000-3-0.500000          44900.00         LVLN.V.Kornilov+        (96)41362  3 
+    1 92238   4  51 A  474000.0          0.132000 6.0000-3-0.500000          44900.00         LVLN.V.Kornilov+        (96)41362  3 
+    1 92238   4  51 A  569000.0          0.111000 5.0000-3-0.500000          44900.00         LVLN.V.Kornilov+        (96)41362  3 
+#/DATA      4
+#/DATASET

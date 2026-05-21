@@ -1,0 +1,32 @@
+#ENTRY      D0412
+#AUTHOR1    M.U.Khandaker+
+#YEAR       2006
+#INSTITUTE  (3KORPUE)
+#TITLE      Measurements of the proton-induced reaction
+#+          cross-sections of natMo by using the MC50 cyclotron
+#+          at the Korea Institute of Radiological and Medical
+#+          Sciences
+#AUTHOR(S)  M.U.Khandaker, A.K.M.M.H.Meaze, K.Kim, D.Son, G.Kim, Y.S.Lee
+#REF-CODE   (J,KPS,48,821,2006)
+#REFERENCE  J.Korean.Phys.Soc. 48 (2006) 821
+#DATASETS   0
+#
+#DATASET    D0412004 
+#DATE       20230830
+#REACTION   42-MO-0(P,X)43-TC-95-M,,SIG
+#PROJ       1001
+#TARG       42000
+#MF         3
+#MT         454
+#PRODUCT    43-TC-95-M
+#C4BEGIN    [ 1001 42000   3 454 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42000   3 454 C  2.6235+7          0.043750 5.2200-3           43095.7                     M.U.Khandaker+       (06)D0412  4 
+ 1001 42000   3 454 C  2.3252+7          0.051100 8.1700-3           43095.7                     M.U.Khandaker+       (06)D0412  4 
+ 1001 42000   3 454 C  1.9931+7          0.050470 6.4600-3           43095.7                     M.U.Khandaker+       (06)D0412  4 
+ 1001 42000   3 454 C  1.6311+7          0.050530 6.6500-3           43095.7                     M.U.Khandaker+       (06)D0412  4 
+ 1001 42000   3 454 C  1.1755+7          0.044220 7.6400-3           43095.7                     M.U.Khandaker+       (06)D0412  4 
+#/DATA      5
+#/DATASET

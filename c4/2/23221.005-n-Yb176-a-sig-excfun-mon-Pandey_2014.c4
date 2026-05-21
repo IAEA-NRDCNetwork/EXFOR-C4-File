@@ -1,0 +1,26 @@
+#ENTRY      23221
+#AUTHOR1    B.Pandey+
+#YEAR       2014
+#INSTITUTE  (2GERKIG)
+#TITLE      .Neutron activation cross-sections for Ytterbium
+#+          isotopes at (14.6+-0.3) MeV.
+#AUTHOR(S)  B.Pandey, H.M.Agrawal, R.Pepelnik
+#REF-CODE   (J,ARI,85,128,2014)
+#REFERENCE  Appl.Radiat.Isot. 85 (2014) 128 (doi:10.1016/j.apradiso.2013.11.114)
+#DATASETS   0
+#
+#DATASET    23221005 
+#DATE       20140219
+#REACTION   70-YB-176(N,A)68-ER-173,,SIG
+#PROJ       1
+#TARG       70176
+#MF         3
+#MT         107
+#PRODUCT    68-ER-173
+#C4BEGIN    [    1 70176   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 70176   3 107    1.4600+7 300000.0 5.6000-4 5.0000-5                                       B.Pandey+            (14)23221  5 
+#/DATA      1
+#/DATASET

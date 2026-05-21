@@ -1,0 +1,34 @@
+#ENTRY      14515
+#AUTHOR1    S.J.Daugherty+
+#YEAR       2018
+#INSTITUTE  (1USAINU)
+#TITLE      Neutron inelastic scattering measurements on 136Xe at
+#+          En = 0.7 to 100 MeV
+#AUTHOR(S)  S.J.Daugherty, J.B.Albert, L.J.Kaufman, M.Devlin, N.Fotiades, 
+#+          R.O.Nelson, M.Krticka
+#REF-CODE   (J,PR/C,98,064606,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 064606 (doi:10.1103/PhysRevC.98.064606)
+#DATASETS   0
+#
+#DATASET    14515006 
+#DATE       20190205
+#REACTION   54-XE-136(N,INL)54-XE-136,PAR,SIG,G
+#PROJ       1
+#TARG       54136
+#MF         13
+#MT         51
+#PRODUCT    54-XE-136
+#C4BEGIN    [    1 54136  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 54136  13  51    2643210. 152330.0 0.086884 0.020534                   2290000.            S.J.Daugherty+       (18)14515  6 
+    1 54136  13  51    2966505. 170965.0 0.119365 0.027888                   2290000.            S.J.Daugherty+       (18)14515  6 
+    1 54136  13  51    3329350. 191880.0 0.154747 0.035838                   2290000.            S.J.Daugherty+       (18)14515  6 
+    1 54136  13  51    3736575. 215345.0 0.158560 0.036861                   2290000.            S.J.Daugherty+       (18)14515  6 
+    1 54136  13  51    4193605. 241685.0 0.152295 0.035787                   2290000.            S.J.Daugherty+       (18)14515  6 
+    1 54136  13  51    4706535. 271245.0 0.129876 0.030927                   2290000.            S.J.Daugherty+       (18)14515  6 
+    1 54136  13  51    5282205. 304425.0 0.113923 0.028001                   2290000.            S.J.Daugherty+       (18)14515  6 
+    1 54136  13  51    5928290. 341660.0 0.091277 0.023230                   2290000.            S.J.Daugherty+       (18)14515  6 
+#/DATA      8
+#/DATASET

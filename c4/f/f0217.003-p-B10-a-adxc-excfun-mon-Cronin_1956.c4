@@ -1,0 +1,44 @@
+#ENTRY      F0217
+#AUTHOR1    J.W.Cronin+
+#YEAR       1956
+#INSTITUTE  (1USACHI)
+#TITLE      Excitation functions and angular distributions of
+#+          alpha particles leading to the ground and first excited
+#+          states of Be-7 in the reaction B-10(p,alpha)Be-7
+#AUTHOR(S)  J.W.Cronin
+#REF-CODE   (J,PR,101,298,1956)
+#REFERENCE  Phys.Rev. 101 (1956) 298 (doi:10.1103/PhysRev.101.298)
+#DATASETS   0
+#
+#DATASET    F0217003 
+#DATE       20200520
+#REACTION   5-B-10(P,A)4-BE-7,PAR,DA
+#PROJ       1001
+#TARG       5010
+#MF         4
+#MT         800
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  5010   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5010   4 800  C 1200000.          0.017300 3.5000-3-0.173648          0.000000         LVLJ.W.Cronin           (56)F0217  3 
+ 1001  5010   4 800  C 1500000. 45000.00 0.021100 4.0000-3-0.173648          0.000000         LVLJ.W.Cronin           (56)F0217  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    F0217003 
+#DATE       20200520
+#REACTION   5-B-10(P,A)4-BE-7,PAR,DA
+#PROJ       1001
+#TARG       5010
+#MF         4
+#MT         800
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  5010   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5010   4 800  C 1500000.          0.010000 2.0000-3-0.173648          430000.0         LVLJ.W.Cronin           (56)F0217  3 
+#/DATA      1
+#/DATASET

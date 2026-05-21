@@ -1,0 +1,27 @@
+#ENTRY      C1527
+#AUTHOR1    M.Thoennessen+
+#YEAR       2004
+#INSTITUTE  (1USAMSU)
+#TITLE      Single proton knock-out from 24F
+#AUTHOR(S)  M.Thoennessen, T.Baumann, B.A.Brown, J.Enders, N.H.Frank, 
+#+          P.G.Hansen, P.Heckman, B.A.Luther, J.P.Seitz, A.Stolz, E.Tryggestad
+#REF-CODE   (J,NP/A,746,536,2004)
+#REFERENCE  Nucl.Phys.A 746 (2004) 536 (doi:10.1016/j.nuclphysa.2004.09.109)
+#DATASETS   0
+#
+#DATASET    C1527004 
+#DATE       20170109
+#REACTION   6-C-12(9-F-24,X)ELEM/MASS,,SIG
+#PROJ       9024
+#TARG       6012
+#MF         3
+#MT         454
+#C4BEGIN    [ 9024  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 9024  6012   3 454    4.6700+7          0.013000 1.9000-3            8020.9                     M.Thoennessen+       (04)C1527  4 
+ 9024  6012   3 454    4.6700+7          0.015100 1.7000-3            8021.9                     M.Thoennessen+       (04)C1527  4 
+ 9024  6012   3 454    4.6700+7          0.011600 1.6000-3            8022.9                     M.Thoennessen+       (04)C1527  4 
+#/DATA      3
+#/DATASET

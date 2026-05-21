@@ -1,0 +1,29 @@
+#ENTRY      31654
+#AUTHOR1    Changlin Lan+
+#YEAR       2008
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Measurement of cross sections for (n,2n), (n,p)
+#+          and (n,a) reactions on germanium isotopes induced
+#+          by 14 MeV neutrons
+#AUTHOR(S)  Changlin Lan, Xiaosan Xu, Kaihong Fang, Gang Liu, Xiangzhong Kong, 
+#+          Rong Liu, Li Jiang
+#REF-CODE   (J,ANE,35,2105,2008)
+#REFERENCE  Ann.Nucl.Energy 35 (2008) 2105 (doi:10.1016/j.anucene.2008.05.009)
+#DATASETS   0
+#
+#DATASET    31654002 
+#DATE       20080926
+#REACTION   32-GE-70(N,2N)32-GE-69,,SIG
+#PROJ       1
+#TARG       32070
+#MF         3
+#MT         16
+#PRODUCT    32-GE-69
+#C4BEGIN    [    1 32070   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32070   3  16    1.3600+7 300000.0 0.350900 0.032200                                       Changlin Lan+        (08)31654  2 
+    1 32070   3  16    1.4100+7 200000.0 0.456800 0.047400                                       Changlin Lan+        (08)31654  2 
+#/DATA      2
+#/DATASET

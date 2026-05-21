@@ -1,0 +1,36 @@
+#ENTRY      O0096
+#AUTHOR1    T.Suehiro+
+#YEAR       1974
+#INSTITUTE  (2JPNTOK)
+#TITLE      Core-excited states of Fe-54 from the Fe-56(p,t)Fe-54
+#+          reaction at 52 MeV.
+#AUTHOR(S)  T.Suehiro, J.Kokame, Y.Ishizaki, H.Ogata, Y.Sugiyama, Y.Saji, 
+#+          I.Nonaka, K.Itonaga
+#REF-CODE   (J,NP/A,220,461,1974)
+#REFERENCE  Nucl.Phys.A 220 (1974) 461 (doi:10.1016/0375-9474(74)90128-6)
+#DATASETS   0
+#
+#DATASET    O0096016 
+#DATE       20140126
+#REACTION   26-FE-56(P,T)26-FE-54,PAR,DA
+#PROJ       1001
+#TARG       26056
+#MF         4
+#MT         700
+#PRODUCT    26-FE-54
+#C4BEGIN    [ 1001 26056   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056   4 700  C 5.1900+7 80000.00 3.6100-5          0.995837          6400000.         LVLT.Suehiro+           (74)O0096 16 
+ 1001 26056   4 700  C 5.1900+7 80000.00 4.1700-5          0.988175          6400000.         LVLT.Suehiro+           (74)O0096 16 
+ 1001 26056   4 700  C 5.1900+7 80000.00 3.6500-5          0.976145          6400000.         LVLT.Suehiro+           (74)O0096 16 
+ 1001 26056   4 700  C 5.1900+7 80000.00 3.0400-5          0.954293          6400000.         LVLT.Suehiro+           (74)O0096 16 
+ 1001 26056   4 700  C 5.1900+7 80000.00 2.7000-5          0.932954          6400000.         LVLT.Suehiro+           (74)O0096 16 
+ 1001 26056   4 700  C 5.1900+7 80000.00 2.4700-5          0.895323          6400000.         LVLT.Suehiro+           (74)O0096 16 
+ 1001 26056   4 700  C 5.1900+7 80000.00 1.8100-5          0.863748          6400000.         LVLT.Suehiro+           (74)O0096 16 
+ 1001 26056   4 700  C 5.1900+7 80000.00 1.4420-5          0.825113          6400000.         LVLT.Suehiro+           (74)O0096 16 
+ 1001 26056   4 700  C 5.1900+7 80000.00 9.1100-6          0.766829          6400000.         LVLT.Suehiro+           (74)O0096 16 
+ 1001 26056   4 700  C 5.1900+7 80000.00 6.4200-6          0.702029          6400000.         LVLT.Suehiro+           (74)O0096 16 
+#/DATA      10
+#/DATASET

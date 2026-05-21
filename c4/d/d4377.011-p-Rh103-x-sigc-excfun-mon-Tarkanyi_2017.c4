@@ -1,0 +1,41 @@
+#ENTRY      D4377
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2017
+#INSTITUTE  (3HUNDEB)
+#TITLE      Investigation of activation cross sections of proton
+#+          induced reactions on rhodium up to 70 MeV for practical
+#+          applications
+#AUTHOR(S)  F.Tarkanyi, F.Ditroi, S.Takacs, A.Hermanne, M.Baba, H.Yuki, 
+#+          A.V.Ignatyuk
+#REF-CODE   (J,NIM/B,412,190,2017)
+#REFERENCE  Nucl.Instrum.Meth.B 412 (2017) 190 (doi:10.1016/j.nimb.2017.09.001)
+#DATASETS   0
+#
+#DATASET    D4377011 
+#DATE       20171129
+#REACTION   45-RH-103(P,X)44-RU-97,CUM,SIG
+#PROJ       1001
+#TARG       45103
+#MF         3
+#MT         459
+#PRODUCT    44-RU-97
+#C4BEGIN    [ 1001 45103   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 45103   3 459    3.5650+7 950000.0 8.0000-4 3.5000-4           44097.9                     F.Tarkanyi+          (17)D4377 11 
+ 1001 45103   3 459    3.8380+7 890000.0 5.1200-3 6.5000-4           44097.9                     F.Tarkanyi+          (17)D4377 11 
+ 1001 45103   3 459    4.0520+7 840000.0 0.015220 1.7100-3           44097.9                     F.Tarkanyi+          (17)D4377 11 
+ 1001 45103   3 459    4.2990+7 790000.0 0.030080 3.3000-3           44097.9                     F.Tarkanyi+          (17)D4377 11 
+ 1001 45103   3 459    4.4940+7 750000.0 0.042000 4.5800-3           44097.9                     F.Tarkanyi+          (17)D4377 11 
+ 1001 45103   3 459    4.7230+7 700000.0 0.053500 5.8200-3           44097.9                     F.Tarkanyi+          (17)D4377 11 
+ 1001 45103   3 459    4.9040+7 660000.0 0.059450 6.4700-3           44097.9                     F.Tarkanyi+          (17)D4377 11 
+ 1001 45103   3 459    5.1170+7 610000.0 0.061950 6.7300-3           44097.9                     F.Tarkanyi+          (17)D4377 11 
+ 1001 45103   3 459    5.3740+7 550000.0 0.057990 6.3000-3           44097.9                     F.Tarkanyi+          (17)D4377 11 
+ 1001 45103   3 459    5.7390+7 470000.0 0.040700 4.4300-3           44097.9                     F.Tarkanyi+          (17)D4377 11 
+ 1001 45103   3 459    6.0530+7 400000.0 0.032800 3.5800-3           44097.9                     F.Tarkanyi+          (17)D4377 11 
+ 1001 45103   3 459    6.3860+7 330000.0 0.025060 2.7400-3           44097.9                     F.Tarkanyi+          (17)D4377 11 
+ 1001 45103   3 459    6.6740+7 270000.0 0.022130 2.4300-3           44097.9                     F.Tarkanyi+          (17)D4377 11 
+ 1001 45103   3 459    6.9810+7 200000.0 0.021190 2.3300-3           44097.9                     F.Tarkanyi+          (17)D4377 11 
+#/DATA      14
+#/DATASET

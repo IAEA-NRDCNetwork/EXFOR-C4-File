@@ -1,0 +1,31 @@
+#ENTRY      31630
+#AUTHOR1    Lu Hanlin+
+#YEAR       1999
+#INSTITUTE  (3CPRAEP)
+#TITLE      The cross sections of 176-Hf(n,2n)175-Hf and
+#+          185-Re(n,2n)184-Re-m,g reactions
+#AUTHOR(S)  Lu Hanlin, Zhao Wenrong, Yu Weixiang, Han Xiaogang, Huang Xiaolong, 
+#+          Han Yinlu
+#REF-CODE   (J,CST,33,(5),410,199909)
+#REFERENCE  At.En.Sci.Technol. 33 No.5 (1999) 410
+#DATASETS   0
+#
+#DATASET    31630002 
+#DATE       20080718
+#REACTION   72-HF-176(N,2N)72-HF-175,,SIG
+#PROJ       1
+#TARG       72176
+#MF         3
+#MT         16
+#PRODUCT    72-HF-175
+#C4BEGIN    [    1 72176   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 72176   3  16    1.0600+7          1.648000 0.071000                                       Lu Hanlin+           (99)31630  2 
+    1 72176   3  16    1.1600+7          1.807000 0.081000                                       Lu Hanlin+           (99)31630  2 
+    1 72176   3  16    1.4200+7          2.081000 0.108000                                       Lu Hanlin+           (99)31630  2 
+    1 72176   3  16    1.4700+7          2.166000 0.112000                                       Lu Hanlin+           (99)31630  2 
+    1 72176   3  16    1.8000+7          1.730000 0.173000                                       Lu Hanlin+           (99)31630  2 
+#/DATA      5
+#/DATASET

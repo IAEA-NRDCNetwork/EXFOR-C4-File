@@ -1,0 +1,45 @@
+#ENTRY      D0767
+#AUTHOR1    F.C.L.Crespi+
+#YEAR       2015
+#INSTITUTE  (2ITYMIL)
+#TITLE      1- and 2+ discrete states in 90Zr populated via the
+#+          (17O, 17O'gamma) reaction
+#AUTHOR(S)  F.C.L.Crespi, A.Bracco, R.Nicolini, E.G.Lanza, A.Vitturi, 
+#+          D.Mengoni, S.Leoni, G.Benzoni, N.Blasi, C.Boiano, S.Bottoni, 
+#+          S.Brambilla, F.Camera, A.Corsi, A.Giaz, B.Million, L.Pellegri, 
+#+          V.Vandone, O.Wieland, P.Bednarczyk, M.Ciemala, M.Kmiecik, 
+#+          M.Krzysiek, A.Maj, D.Bazzacco, M.Bellato, B.Birkenbach, 
+#+          D.Bortolato, E.Calore, B.Cederwall, G.de Angelis, P.Desesquelles, 
+#+          J.Eberth, E.Farnea, A.Gadea, A.Goergen, A.Gottardo, H.Hess, 
+#+          R.Isocrate, J.Jolie, A.Jungclaus, R.S.Kempley, M.Labiche, 
+#+          R.Menegazzo, C.Michelagnoli, P.Molini, D.R.Napoli, A.Pullia, 
+#+          B.Quintana, F.Recchia, P.Reiter, E.Sahin, S.Siem, P.-A.Soederstroem, 
+#+          O.Stezowski, Ch.Theisen, C.Ur, J.J.Valiente-Dobon
+#REF-CODE   (J,PR/C,91,024323,2015)
+#REFERENCE  Phys.Rev.C 91 (2015) 024323 (doi:10.1103/PhysRevC.91.024323)
+#DATASETS   0
+#
+#DATASET    D0767003 
+#DATE       20150518
+#REACTION   40-ZR-90(8-O-17,EL)40-ZR-90,,DA
+#PROJ       8017
+#TARG       40090
+#MF         4
+#MT         2
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 8017 40090   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8017 40090   4   2 CC 3.4000+8          13.59000 1.668387 0.986572                              F.C.L.Crespi+        (15)D0767  3 
+ 8017 40090   4   2 CC 3.4000+8          4.215600 0.618770 0.983255                              F.C.L.Crespi+        (15)D0767  3 
+ 8017 40090   4   2 CC 3.4000+8          1.190800 0.176113 0.978509                              F.C.L.Crespi+        (15)D0767  3 
+ 8017 40090   4   2 CC 3.4000+8          0.847500 0.126862 0.976672                              F.C.L.Crespi+        (15)D0767  3 
+ 8017 40090   4   2 CC 3.4000+8          0.416200 0.064066 0.975535                              F.C.L.Crespi+        (15)D0767  3 
+ 8017 40090   4   2 CC 3.4000+8          0.105780 0.018630 0.969445                              F.C.L.Crespi+        (15)D0767  3 
+ 8017 40090   4   2 CC 3.4000+8          0.106350 0.026861 0.969445                              F.C.L.Crespi+        (15)D0767  3 
+ 8017 40090   4   2 CC 3.4000+8          0.099810 0.039934 0.967709                              F.C.L.Crespi+        (15)D0767  3 
+ 8017 40090   4   2 CC 3.4000+8          0.097839 0.017290 0.967268                              F.C.L.Crespi+        (15)D0767  3 
+ 8017 40090   4   2 CC 3.4000+8          0.050500 0.011550 0.966376                              F.C.L.Crespi+        (15)D0767  3 
+#/DATA      10
+#/DATASET

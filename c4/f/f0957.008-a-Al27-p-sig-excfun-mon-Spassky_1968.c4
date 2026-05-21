@@ -1,0 +1,53 @@
+#ENTRY      F0957
+#AUTHOR1    A.V.Spassky+
+#YEAR       1968
+#INSTITUTE  (4RUSMOS)
+#TITLE      Investigation of the mechanism of the reaction
+#+          27Al(a,p)30Si in the a-particle region from 10 to
+#+          25 MeV.
+#AUTHOR(S)  A.V.Spassky, I.B.Teplov, L.N.Fateeva
+#REF-CODE   (J,YF,7,251,1968)
+#REFERENCE  Yad.Fiz. 7 (1968) 251
+#DATASETS   0
+#
+#DATASET    F0957008 
+#DATE       20080701
+#REACTION   13-AL-27(A,P)14-SI-30,PAR,SIG
+#PROJ       2004
+#TARG       13027
+#MF         3
+#MT         600
+#PRODUCT    14-SI-30
+#C4BEGIN    [ 2004 13027   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 13027   3 600    1.3000+7          8.2000-4                            0.000000         LVLA.V.Spassky+         (68)F0957  8 
+ 2004 13027   3 600    1.3500+7          6.0000-4                            0.000000         LVLA.V.Spassky+         (68)F0957  8 
+ 2004 13027   3 600    1.6900+7          2.8000-4                            0.000000         LVLA.V.Spassky+         (68)F0957  8 
+ 2004 13027   3 600    1.9800+7          1.5000-4                            0.000000         LVLA.V.Spassky+         (68)F0957  8 
+ 2004 13027   3 600    2.2500+7          1.2000-4                            0.000000         LVLA.V.Spassky+         (68)F0957  8 
+ 2004 13027   3 600    2.5100+7          8.0000-5                            0.000000         LVLA.V.Spassky+         (68)F0957  8 
+#/DATA      6
+#/DATASET
+#
+#DATASET    F0957008 
+#DATE       20080701
+#REACTION   13-AL-27(A,P)14-SI-30,PAR,SIG
+#PROJ       2004
+#TARG       13027
+#MF         3
+#MT         600
+#PRODUCT    14-SI-30
+#C4BEGIN    [ 2004 13027   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 13027   3 600    1.3000+7          3.0700-3                            2230000.         LVLA.V.Spassky+         (68)F0957  8 
+ 2004 13027   3 600    1.3500+7          2.4900-3                            2230000.         LVLA.V.Spassky+         (68)F0957  8 
+ 2004 13027   3 600    1.6900+7          8.8000-4                            2230000.         LVLA.V.Spassky+         (68)F0957  8 
+ 2004 13027   3 600    1.9800+7          3.4000-4                            2230000.         LVLA.V.Spassky+         (68)F0957  8 
+ 2004 13027   3 600    2.2400+7          2.4000-4                            2230000.         LVLA.V.Spassky+         (68)F0957  8 
+ 2004 13027   3 600    2.5100+7          1.8000-4                            2230000.         LVLA.V.Spassky+         (68)F0957  8 
+#/DATA      6
+#/DATASET

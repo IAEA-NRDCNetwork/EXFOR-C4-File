@@ -1,0 +1,28 @@
+#ENTRY      C0737
+#AUTHOR1    J.L.Osborne+
+#YEAR       1984
+#INSTITUTE  (1USACAL)
+#TITLE      Low-energy behavior of the 3He(alpha,gamma) cross
+#+          section
+#AUTHOR(S)  J.L.Osborne, C.A.Barnes, R.W.Kavannagh, R.M.Kremer, G.J.Mathews, 
+#+          J.L.Zyskind, P.D.Parker, A.J.Howard
+#REF-CODE   (J,NP/A,419,115,1984)
+#REFERENCE  Nucl.Phys.A 419 (1984) 115 (doi:10.1016/0375-9474(84)90288-4)
+#DATASETS   0
+#
+#DATASET    C0737003 
+#DATE       20010123
+#REACTION   2-HE-3(A,G)4-BE-7,,SIG
+#PROJ       2004
+#TARG       2003
+#MF         3
+#MT         102
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 2004  2003   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  2003   3 102 A  2203932. 5001.685 1.8500-6                                                J.L.Osborne+         (84)C0737  3 
+ 2004  2003   3 102 A  2920803. 4001.786 2.3400-6                                                J.L.Osborne+         (84)C0737  3 
+#/DATA      2
+#/DATASET

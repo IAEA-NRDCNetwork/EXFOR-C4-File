@@ -1,0 +1,30 @@
+#ENTRY      30656
+#AUTHOR1    Shi Xiamin+
+#YEAR       1982
+#INSTITUTE  (3CPRAEP)
+#TITLE      -Measurements of the induced gamma ray cross-sections
+#+          by 14.2 MeV neutrons with Fe,Ni and Cu.
+#+          (And data for Bi and Pb from another ref.).-
+#AUTHOR(S)  Shi Xiamin, Shen Ronglin, Xing Jinqiang, Wu Yongshun, Ding Dazhao
+#REF-CODE   (C,82ANTWER,,373,1982)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Antwerp 1982 page 373
+#DATASETS   0
+#
+#DATASET    30656017 
+#DATE       20090515
+#REACTION   29-CU-65(N,INL)29-CU-65,PAR,DA,G
+#PROJ       1
+#TARG       29065
+#MF         14
+#MT         51
+#PRODUCT    29-CU-65
+#C4BEGIN    [    1 29065  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29065  14  51    1.4200+7 100000.0 1.0000-3 3.0000-4 0.573576          366300.0            Shi Xiamin+          (82)30656 17 
+    1 29065  14  51    1.4200+7 100000.0 0.021400 1.7000-3 0.573576          1115500.            Shi Xiamin+          (82)30656 17 
+    1 29065  14  51    1.4200+7 100000.0 0.012900 1.3000-3 0.573576          1481800.            Shi Xiamin+          (82)30656 17 
+    1 29065  14  51    1.4200+7 100000.0 2.6000-3 6.0000-4 0.573576          1724900.            Shi Xiamin+          (82)30656 17 
+#/DATA      4
+#/DATASET

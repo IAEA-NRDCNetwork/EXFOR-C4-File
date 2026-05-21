@@ -1,0 +1,52 @@
+#ENTRY      11153
+#AUTHOR1    J.C.Hopkins+
+#YEAR       1968
+#INSTITUTE  (1USALAS)
+#TITLE      Elastic and inelastic scattering of fast neutrons from
+#+          6Li and 7Li
+#AUTHOR(S)  J.C.Hopkins, D.M.Drake, H.Conde
+#REF-CODE   (J,NP/A,107,139,1968)
+#REFERENCE  Nucl.Phys.A 107 (1968) 139 (doi:10.1016/0375-9474(68)90731-8)
+#DATASETS   0
+#
+#DATASET    11153019 
+#DATE       20160921
+#REACTION   3-LI-7(N,INL)3-LI-7,PAR,DA
+#PROJ       1
+#TARG       3007
+#MF         4
+#MT         51
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  3007   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3007   4  51  C 3350000. 62000.00 0.022000 1.7000-3 0.697000          478000.0         LVLJ.C.Hopkins+         (68)11153 19 
+    1  3007   4  51  C 3350000. 62000.00 0.017200 1.3000-3 0.463000          478000.0         LVLJ.C.Hopkins+         (68)11153 19 
+    1  3007   4  51  C 3350000. 62000.00 0.014700 1.1000-3 0.155000          478000.0         LVLJ.C.Hopkins+         (68)11153 19 
+    1  3007   4  51  C 3350000. 62000.00 0.016800 1.3000-3-0.156000          478000.0         LVLJ.C.Hopkins+         (68)11153 19 
+    1  3007   4  51  C 3350000. 62000.00 0.020000 1.5000-3-0.477000          478000.0         LVLJ.C.Hopkins+         (68)11153 19 
+    1  3007   4  51  C 3350000. 62000.00 0.021500 1.6000-3-0.782000          478000.0         LVLJ.C.Hopkins+         (68)11153 19 
+#/DATA      6
+#/DATASET
+#
+#DATASET    11153019 
+#DATE       20160921
+#REACTION   3-LI-7(N,INL)3-LI-7,PAR,DA
+#PROJ       1
+#TARG       3007
+#MF         4
+#MT         51
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  3007   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3007   4  51  C 4830000. 47000.00 0.012700 4.3000-3 0.700000          478000.0         LVLJ.C.Hopkins+         (68)11153 19 
+    1  3007   4  51  C 4830000. 47000.00 0.015400 1.5000-3 0.466000          478000.0         LVLJ.C.Hopkins+         (68)11153 19 
+    1  3007   4  51  C 4830000. 47000.00 0.018700 5.1000-3 0.158000          478000.0         LVLJ.C.Hopkins+         (68)11153 19 
+    1  3007   4  51  C 4830000. 47000.00 0.014100 2.1000-3-0.156000          478000.0         LVLJ.C.Hopkins+         (68)11153 19 
+    1  3007   4  51  C 4830000. 47000.00 0.013900 2.2000-3-0.473000          478000.0         LVLJ.C.Hopkins+         (68)11153 19 
+    1  3007   4  51  C 4830000. 47000.00 8.5000-3 3.3000-3-0.779000          478000.0         LVLJ.C.Hopkins+         (68)11153 19 
+#/DATA      6
+#/DATASET

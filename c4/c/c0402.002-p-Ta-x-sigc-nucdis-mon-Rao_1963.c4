@@ -1,0 +1,60 @@
+#ENTRY      C0402
+#AUTHOR1    C.L.Rao+
+#YEAR       1963
+#INSTITUTE  (1CANMCG)
+#TITLE      Nuclear reactions induced in tantalum by protons of
+#+          energy up to 84 MeV
+#AUTHOR(S)  C.L.Rao, L.Yaffe
+#REF-CODE   (J,CJC,41,2516,1963)
+#REFERENCE  Can.J.Chem. 41 (1963) 2516 (doi:10.1139/v63-372)
+#DATASETS   0
+#
+#DATASET    C0402002 
+#DATE       20240418
+#REACTION   73-TA-0(P,X)ELEM/MASS,CUM,SIG
+#PROJ       1001
+#TARG       73000
+#MF         3
+#MT         459
+#C4BEGIN    [ 1001 73000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 73000   3 459    6.4000+7 2000000. 0.130000 0.036400           73175.9                     C.L.Rao+             (63)C0402  2 
+#/DATA      1
+#/DATASET
+#
+#DATASET    C0402002 
+#DATE       20240418
+#REACTION   73-TA-0(P,X)ELEM/MASS,CUM,SIG
+#PROJ       1001
+#TARG       73000
+#MF         3
+#MT         459
+#C4BEGIN    [ 1001 73000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 73000   3 459    7.4000+7 2000000. 3.5000-3 9.8000-4           72171.9                     C.L.Rao+             (63)C0402  2 
+ 1001 73000   3 459    7.4000+7 2000000. 0.022000 6.1600-3           72172.9                     C.L.Rao+             (63)C0402  2 
+ 1001 73000   3 459    7.4000+7 2000000. 0.440000 0.123200           73175.9                     C.L.Rao+             (63)C0402  2 
+#/DATA      3
+#/DATASET
+#
+#DATASET    C0402002 
+#DATE       20240418
+#REACTION   73-TA-0(P,X)ELEM/MASS,CUM,SIG
+#PROJ       1001
+#TARG       73000
+#MF         3
+#MT         459
+#C4BEGIN    [ 1001 73000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 73000   3 459    8.4000+7 2000000. 0.021000 5.8800-3           72171.9                     C.L.Rao+             (63)C0402  2 
+ 1001 73000   3 459    8.4000+7 2000000. 0.160000 0.044800           73173.9                     C.L.Rao+             (63)C0402  2 
+ 1001 73000   3 459    8.4000+7 2000000. 0.300000 0.084000           73174.9                     C.L.Rao+             (63)C0402  2 
+ 1001 73000   3 459    8.4000+7 2000000. 0.290000 0.081200           73175.9                     C.L.Rao+             (63)C0402  2 
+#/DATA      4
+#/DATASET

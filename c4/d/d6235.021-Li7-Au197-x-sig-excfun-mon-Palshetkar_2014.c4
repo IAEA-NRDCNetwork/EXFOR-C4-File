@@ -1,0 +1,31 @@
+#ENTRY      D6235
+#AUTHOR1    C.S.Palshetkar+
+#YEAR       2014
+#INSTITUTE  (3INDTAT)
+#TITLE      Fusion and quasi-elastic scattering in the 6,7Li+197Au
+#+          systems
+#AUTHOR(S)  C.S.Palshetkar, Shital Thakur, V.Nanal, A.Shrivastava, N.Dokania, 
+#+          V.Singh, V.V.Parkar, P.C.Rout, R.Palit, R.G.Pillay, S.Bhattacharyya, 
+#+          A.Chatterjee, S.Santra, K.Ramachandran, N.L.Singh
+#REF-CODE   (J,PR/C,89,024607,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 024607 (doi:10.1103/PhysRevC.89.024607)
+#DATASETS   0
+#
+#DATASET    D6235021 
+#DATE       20210505
+#REACTION   79-AU-197(3-LI-7,X)81-TL-199,,SIG
+#PROJ       3007
+#TARG       79197
+#MF         3
+#MT         454
+#PRODUCT    81-TL-199
+#C4BEGIN    [ 3007 79197   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 79197   3 454    3.2231+7 280047.4 3.5000-3 3.0000-4           81199.9                     C.S.Palshetkar+      (14)D6235 21 
+ 3007 79197   3 454    3.5815+7 180033.9 0.017000 1.0000-3           81199.9                     C.S.Palshetkar+      (14)D6235 21 
+ 3007 79197   3 454    3.9834+7 160033.5 0.050000 2.0000-3           81199.9                     C.S.Palshetkar+      (14)D6235 21 
+ 3007 79197   3 454    4.3822+7 180041.5 0.127000 0.010000           81199.9                     C.S.Palshetkar+      (14)D6235 21 
+#/DATA      4
+#/DATASET

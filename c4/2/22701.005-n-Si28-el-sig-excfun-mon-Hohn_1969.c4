@@ -1,0 +1,26 @@
+#ENTRY      22701
+#AUTHOR1    J.Hohn+
+#YEAR       1969
+#INSTITUTE  (2GERDRE)
+#TITLE      Elastic and inelastic scattering of 14.7 MeV
+#+          neutrons from 28Si
+#AUTHOR(S)  J.Hohn, H.Pose, D.Seeliger, R.Reif
+#REF-CODE   (J,NP/A,134,289,1969)
+#REFERENCE  Nucl.Phys.A 134 (1969) 289 (doi:10.1016/0375-9474(69)91053-7)
+#DATASETS   0
+#
+#DATASET    22701005 
+#DATE       20011018
+#REACTION   14-SI-28(N,EL)14-SI-28,,SIG
+#PROJ       1
+#TARG       14028
+#MF         3
+#MT         2
+#PRODUCT    14-SI-28
+#C4BEGIN    [    1 14028   3   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14028   3   2    1.4700+7          0.745000 0.065000                                       J.Hohn+              (69)22701  5 
+#/DATA      1
+#/DATASET

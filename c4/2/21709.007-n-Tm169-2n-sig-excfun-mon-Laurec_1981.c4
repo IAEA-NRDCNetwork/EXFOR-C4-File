@@ -1,0 +1,28 @@
+#ENTRY      21709
+#AUTHOR1    J.Laurec+
+#YEAR       1981
+#INSTITUTE  (2FR BRC)
+#TITLE      Measurement of the (n,2n) reaction cross sections
+#+          of the nuclei Y-89, Nb-93, Rh-103, Ag-107, Tm-169,
+#+          Lu-175, and Au-197 at 14.1 and 14.8 MeV.
+#AUTHOR(S)  J.Laurec, A.Adam, T.de Bruyne
+#REF-CODE   (R,CEA-R-5109,198106)
+#REFERENCE  Report CEA-R-5109, 1981
+#DATASETS   0
+#
+#DATASET    21709007 
+#DATE       20151213
+#REACTION   69-TM-169(N,2N)69-TM-168,,SIG
+#PROJ       1
+#TARG       69169
+#MF         3
+#MT         16
+#PRODUCT    69-TM-168
+#C4BEGIN    [    1 69169   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 69169   3  16    1.4100+7 100000.0 2.024000 0.130000                                       J.Laurec+            (81)21709  7 
+    1 69169   3  16    1.4800+7 300000.0 2.016000 0.130000                                       J.Laurec+            (81)21709  7 
+#/DATA      2
+#/DATASET

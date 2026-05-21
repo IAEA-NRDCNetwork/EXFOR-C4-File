@@ -1,0 +1,35 @@
+#ENTRY      D0915
+#AUTHOR1    E.Simeckova+
+#YEAR       2018
+#INSTITUTE  (3CZRUJF)
+#TITLE      Consistent account of deuteron-induced reactions
+#+          on natCr up to 60 MeV
+#AUTHOR(S)  E.Simeckova, M.Avrigeanu, U.Fischer, J.Mrazek, J.Novak, 
+#+          M.Stefanik, C.Costache, V.Avrigeanu
+#REF-CODE   (J,PR/C,98,034606,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 034606 (doi:10.1103/PhysRevC.98.034606)
+#DATASETS   0
+#
+#DATASET    D0915004 
+#DATE       20181004
+#REACTION   24-CR-0(D,X)25-MN-52-M,,SIG
+#PROJ       1002
+#TARG       24000
+#MF         3
+#MT         454
+#PRODUCT    25-MN-52-M
+#C4BEGIN    [ 1002 24000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 24000   3 454    8290000. 500000.0 1.3100-3 1.5000-4           25052.7                     E.Simeckova+         (18)D0915  4 
+ 1002 24000   3 454    8540000. 490000.0 4.5000-3 6.3000-4           25052.7                     E.Simeckova+         (18)D0915  4 
+ 1002 24000   3 454    1.0000+7 430000.0 0.032320 3.0400-3           25052.7                     E.Simeckova+         (18)D0915  4 
+ 1002 24000   3 454    1.1260+7 400000.0 0.049050 3.4100-3           25052.7                     E.Simeckova+         (18)D0915  4 
+ 1002 24000   3 454    1.3560+7 350000.0 0.092650 0.010360           25052.7                     E.Simeckova+         (18)D0915  4 
+ 1002 24000   3 454    1.5830+7 310000.0 0.114900 0.010500           25052.7                     E.Simeckova+         (18)D0915  4 
+ 1002 24000   3 454    1.7450+7 290000.0 0.118900 7.4000-3           25052.7                     E.Simeckova+         (18)D0915  4 
+ 1002 24000   3 454    1.8460+7 290000.0 0.112450 0.013010           25052.7                     E.Simeckova+         (18)D0915  4 
+ 1002 24000   3 454    1.9450+7 270000.0 0.080800 8.2000-3           25052.7                     E.Simeckova+         (18)D0915  4 
+#/DATA      9
+#/DATASET

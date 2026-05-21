@@ -1,0 +1,31 @@
+#ENTRY      40777
+#AUTHOR1    V.M.Bezotosnyi+
+#YEAR       1966
+#INSTITUTE  (4RUSKUR)
+#TITLE      Cross sections for the production of gamma quanta in
+#+          inelastic interaction between 14-MeV neutrons and C,
+#+          O, Al, Fe, and Pb nuclei
+#AUTHOR(S)  V.M.Bezotosnyi, V.G.Vershinin, L.M.Surov, M.S.Shvetsov
+#REF-CODE   (J,YF,3,861,1966)
+#REFERENCE  Yad.Fiz. 3 (1966) 861
+#DATASETS   0
+#
+#DATASET    40777005 
+#DATE       20210623
+#REACTION   6-C-0(N,INL)6-C-0,PAR,SIG,G
+#PROJ       1
+#TARG       6000
+#MF         13
+#MT         51
+#PRODUCT    6-C-0
+#C4BEGIN    [    1  6000  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000  13  51    1.4000+7          0.035000 0.010000                   2640000.            V.M.Bezotosnyi+      (66)40777  5 
+    1  6000  13  51    1.4000+7          0.013000 6.6000-3                   3160000.            V.M.Bezotosnyi+      (66)40777  5 
+    1  6000  13  51    1.4000+7          0.133000 0.017000                   4450000.            V.M.Bezotosnyi+      (66)40777  5 
+    1  6000  13  51    1.4000+7          0.061000 0.016000                   6100000.            V.M.Bezotosnyi+      (66)40777  5 
+    1  6000  13  51    1.4000+7          6.5000-3 2.7000-3                   7500000.            V.M.Bezotosnyi+      (66)40777  5 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,39 @@
+#ENTRY      O1099
+#AUTHOR1    R.Michel+
+#YEAR       2002
+#INSTITUTE  (2GERUH)
+#TITLE      Cross sections for the production of radionuclides by
+#+          proton-induced reactions on W, Ta, Pb and Bi from
+#+          thresholds up to 2.6 GeV
+#AUTHOR(S)  R.Michel, M.Gloris, J.Protoschill, U.Herpers, J.Kuhnhenn, 
+#+          F.Sudbrock, P.Malmborg, P.Kubik
+#REF-CODE   (J,NSTS,2,242,2002)
+#REFERENCE  Nucl.Sci.Techn.Supp. 2 (2002) 242
+#DATASETS   0
+#
+#DATASET    O1099250 
+#DATE       20040106
+#REACTION   83-BI-209(P,X)76-OS-185,(CUM),SIG
+#PROJ       1001
+#TARG       83209
+#MF         3
+#MT         459
+#PRODUCT    76-OS-185
+#C4BEGIN    [ 1001 83209   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 83209   3 459    2.3500+8          3.1000-3 2.8850-4           76185.9                     R.Michel+            (02)O1099250 
+ 1001 83209   3 459    2.7650+8 836100.0 2.4530-3 1.5660-4           76185.9                     R.Michel+            (02)O1099250 
+ 1001 83209   3 459    2.7790+8 781800.0 1.6980-3 1.7220-4           76185.9                     R.Michel+            (02)O1099250 
+ 1001 83209   3 459    3.1800+8 1960000. 9.5300-3 6.9360-4           76185.9                     R.Michel+            (02)O1099250 
+ 1001 83209   3 459    5.5100+8 1690000. 0.029610 1.9130-3           76185.9                     R.Michel+            (02)O1099250 
+ 1001 83209   3 459    7.5700+8 1650000. 0.039320 2.6690-3           76185.9                     R.Michel+            (02)O1099250 
+ 1001 83209   3 459    9.9800+8 690000.0 0.036500 2.2400-3           76185.9                     R.Michel+            (02)O1099250 
+ 1001 83209   3 459    1.1700+9 1450000. 0.032950 2.1580-3           76185.9                     R.Michel+            (02)O1099250 
+ 1001 83209   3 459    1.3980+9 685900.0 0.027240 1.6640-3           76185.9                     R.Michel+            (02)O1099250 
+ 1001 83209   3 459    1.5700+9 1470000. 0.026510 1.8120-3           76185.9                     R.Michel+            (02)O1099250 
+ 1001 83209   3 459    2.5980+9 723500.0 0.014650 1.4940-3           76185.9                     R.Michel+            (02)O1099250 
+ 1001 83209   3 459    2.5980+9 725100.0 0.014060 9.7250-4           76185.9                     R.Michel+            (02)O1099250 
+#/DATA      12
+#/DATASET

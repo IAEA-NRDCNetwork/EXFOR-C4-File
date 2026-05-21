@@ -1,0 +1,34 @@
+#ENTRY      20019
+#AUTHOR1    B.Holmqvist+
+#YEAR       1969
+#INSTITUTE  (2SWDAE)
+#TITLE      Neutron elastic scattering cross sections experimental
+#+          data and optical model cross section calculations.-
+#AUTHOR(S)  B.Holmqvist, T.Wiedling, S.G.Johansson, G.Lodin, A.Kiss, 
+#+          B.Gustavsson, B.Antolkovic
+#REF-CODE   (R,AE-366,1969)
+#REFERENCE  Report AE-366, 1969
+#DATASETS   0
+#
+#DATASET    20019168 
+#DATE       20190114
+#REACTION   30-ZN-0(N,EL)30-ZN-0,,SIG
+#PROJ       1
+#TARG       30000
+#MF         3
+#MT         2
+#PRODUCT    30-ZN-0
+#C4BEGIN    [    1 30000   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 30000   3   2 D  2470000. 50000.00 1.760000 0.090000                                       B.Holmqvist+         (69)20019168 
+    1 30000   3   2 D  3000000. 50000.00 1.730000 0.090000                                       B.Holmqvist+         (69)20019168 
+    1 30000   3   2 D  3490000. 50000.00 1.670000 0.080000                                       B.Holmqvist+         (69)20019168 
+    1 30000   3   2 D  4000000. 50000.00 1.760000 0.090000                                       B.Holmqvist+         (69)20019168 
+    1 30000   3   2 D  4560000. 50000.00 1.810000 0.090000                                       B.Holmqvist+         (69)20019168 
+    1 30000   3   2 D  6090000. 90000.00 1.700000 0.090000                                       B.Holmqvist+         (69)20019168 
+    1 30000   3   2 D  7050000. 90000.00 1.740000 0.090000                                       B.Holmqvist+         (69)20019168 
+    1 30000   3   2 D  8050000. 90000.00 1.820000 0.090000                                       B.Holmqvist+         (69)20019168 
+#/DATA      8
+#/DATASET

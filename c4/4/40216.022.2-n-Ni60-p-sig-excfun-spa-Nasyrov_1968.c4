@@ -1,0 +1,26 @@
+#ENTRY      40216
+#AUTHOR1    F.Nasyrov+
+#YEAR       1968
+#INSTITUTE  (4RUSKUR)
+#TITLE      Cross-sections for (n,2n), (n,p), and (n,a) reactions
+#+          averaged over the neutron fission spectrum
+#AUTHOR(S)  F.Nasyrov, B.D.Stsiborskii
+#REF-CODE   (J,AE,25,(5),437,1968)
+#REFERENCE  At.En. 25 No.5 (1968) 437
+#DATASETS   0
+#
+#DATASET    402160222
+#DATE       20150915
+#REACTION   28-NI-60(N,P)27-CO-60,,SIG,,SPA
+#PROJ       1
+#TARG       28060
+#MF         3
+#MT         103
+#PRODUCT    27-CO-60
+#C4BEGIN    [    1 28060   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28060   3 103    1420000. 40000.00 9.4000-4 1.0000-4                                       F.Nasyrov+           (68)40216 222
+#/DATA      1
+#/DATASET

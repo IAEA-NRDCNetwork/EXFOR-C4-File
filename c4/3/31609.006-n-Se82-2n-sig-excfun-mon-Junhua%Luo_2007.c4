@@ -1,0 +1,29 @@
+#ENTRY      31609
+#AUTHOR1    Junhua Luo+
+#YEAR       2007
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Activation cross sections and isomeric cross section
+#+          ratios for the (n,2n) reactions on 175Lu, 198Pt and
+#+          82Se from 13.5 to 14.6 MeV
+#AUTHOR(S)  Junhua Luo, Xiaosan Xu, Xuexiang Cao, Xiangzhong Kong
+#REF-CODE   (J,NIM/B,265,453,2007)
+#REFERENCE  Nucl.Instrum.Meth.B 265 (2007) 453 (doi:10.1016/j.nimb.2007.10.005)
+#DATASETS   0
+#
+#DATASET    31609006 
+#DATE       20220902
+#REACTION   34-SE-82(N,2N)34-SE-81-G,,SIG
+#PROJ       1
+#TARG       34082
+#MF         3
+#MT         16
+#PRODUCT    34-SE-81-G
+#C4BEGIN    [    1 34082   3  16GA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34082   3  16GA  1.3500+7 200000.0 0.414000 0.025000                                       Junhua Luo+          (07)31609  6 
+    1 34082   3  16GA  1.4100+7 200000.0 0.441000 0.026000                                       Junhua Luo+          (07)31609  6 
+    1 34082   3  16GA  1.4600+7 200000.0 0.431000 0.025000                                       Junhua Luo+          (07)31609  6 
+#/DATA      3
+#/DATASET

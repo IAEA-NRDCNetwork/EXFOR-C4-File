@@ -1,0 +1,34 @@
+#ENTRY      C0385
+#AUTHOR1    J.Jaenecke+
+#YEAR       1991
+#INSTITUTE  (1USAMHG)
+#TITLE      Non-spin-flip (3He,t) charge-exchange and isobaric
+#+          analog states of actinide nuclei studied at 0 degrees,
+#+          E(3He)=76 MeV and 200 MeV
+#AUTHOR(S)  J.Jaenecke, F.D.Becchetti, A.M.Van Den Berg, G.P.A.Berg, 
+#+          G.Brouwer, M.B.Greenfield, M.N.Harakeh, M.A.Hofstee, A.Nadasen, 
+#+          D.A.Roberts, R.Sawafta, J.M.Schippers, E.J.Stephenson, D.P.Stewart, 
+#+          S.Y.Van Der Werf
+#REF-CODE   (J,NP/A,526,1,1991)
+#REFERENCE  Nucl.Phys.A 526 (1991) 1
+#DATASETS   0
+#
+#DATASET    C0385007 
+#DATE       19990917
+#REACTION   14-SI-29(HE3,T)15-P-29,PAR,DA
+#PROJ       2003
+#TARG       14029
+#MF         4
+#MT         700
+#PRODUCT    15-P-29
+#C4BEGIN    [ 2003 14029   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 14029   4 700 A  2.0000+8          3.8300-4 6.4000-5 0.999701          0.000000         LVLJ.Jaenecke+          (91)C0385  7 
+ 2003 14029   4 700 A  2.0000+8          1.1000-4 2.2000-5 0.999701          1384000.         LVLJ.Jaenecke+          (91)C0385  7 
+ 2003 14029   4 700 A  2.0000+8          1.5200-4 2.6000-5 0.999701          2423000.         LVLJ.Jaenecke+          (91)C0385  7 
+ 2003 14029   4 700 A  2.0000+8          1.1400-4 2.2000-5 0.999701          3448000.         LVLJ.Jaenecke+          (91)C0385  7 
+ 2003 14029   4 700 A  2.0000+8          6.4300-4 5.3000-5 0.999701          4760000.         LVLJ.Jaenecke+          (91)C0385  7 
+#/DATA      5
+#/DATASET

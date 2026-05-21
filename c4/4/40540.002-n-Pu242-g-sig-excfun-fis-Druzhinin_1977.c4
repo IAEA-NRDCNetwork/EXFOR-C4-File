@@ -1,0 +1,26 @@
+#ENTRY      40540
+#AUTHOR1    A.A.Druzhinin+
+#YEAR       1977
+#INSTITUTE  (4RUSKUR)
+#TITLE      Fast neutrons radiative capture cross section for 242Pu
+#AUTHOR(S)  A.A.Druzhinin, V.K.Grigor'ev, A.A.Lbov, S.P.Vesnovskii, 
+#+          N.G.Krylov, V.N.Polynov
+#REF-CODE   (J,AE,42,314,1977)
+#REFERENCE  At.En. 42 (1977) 314
+#DATASETS   0
+#
+#DATASET    40540002 
+#DATE       20180325
+#REACTION   94-PU-242(N,G)94-PU-243,,SIG,,FIS
+#PROJ       1
+#TARG       94242
+#MF         3
+#MT         102
+#PRODUCT    94-PU-243
+#C4BEGIN    [    1 94242   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94242   3 102    1000000.          0.140000 0.017000                                       A.A.Druzhinin+       (77)40540  2 
+#/DATA      1
+#/DATASET

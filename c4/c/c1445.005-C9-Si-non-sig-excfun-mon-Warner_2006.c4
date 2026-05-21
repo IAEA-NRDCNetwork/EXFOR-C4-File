@@ -1,0 +1,30 @@
+#ENTRY      C1445
+#AUTHOR1    R.E.Warner+
+#YEAR       2006
+#INSTITUTE  (1USAOBR)
+#TITLE      Reaction and proton-removal cross sections of 6Li,
+#+          7Be, 10B, 9,10,11C, 12N, 13,15O, and 17Ne on Si at
+#+          15 to 53 MeV/nucleon
+#AUTHOR(S)  R.E.Warner, F.Carstoiu, J.A.Brown, F.D.Becchetti, D.A.Roberts, 
+#+          B.Davids, A.Galonsky, R.M.Ronningen, M.Steiner, M.Horoi, 
+#+          J.J.Kolata, A.Nadasen, C.Samanta, J.Schwartzenberg, K.Subotic
+#REF-CODE   (J,PR/C,74,014605,2006)
+#REFERENCE  Phys.Rev.C 74 (2006) 014605 (doi:10.1103/PhysRevC.74.014605)
+#DATASETS   0
+#
+#DATASET    C1445005 
+#DATE       20060718
+#REACTION   14-SI-0(6-C-9,NON),,SIG
+#PROJ       6009
+#TARG       14000
+#MF         3
+#MT         3
+#C4BEGIN    [ 6009 14000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6009 14000   3   3    3.1300+7 3600000. 1.750000 0.180000                                       R.E.Warner+          (06)C1445  5 
+ 6009 14000   3   3    3.7950+7 3050000. 1.650000 0.190000                                       R.E.Warner+          (06)C1445  5 
+ 6009 14000   3   3    4.3800+7 2800000. 1.690000 0.200000                                       R.E.Warner+          (06)C1445  5 
+#/DATA      3
+#/DATASET

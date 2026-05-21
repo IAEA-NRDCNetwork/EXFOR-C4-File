@@ -1,0 +1,37 @@
+#ENTRY      E2389
+#AUTHOR1    J.H.Thies+
+#YEAR       2012
+#INSTITUTE  (2GERMST)
+#TITLE      High-resolution 100Mo(3He,t)100Tc charge-exchange
+#+          experiment and the impact on double-beta decays and
+#+          neutrino charged-current reactions
+#AUTHOR(S)  J.H.Thies, T.Adachi, M.Dozono, H.Ejiri, D.Frekers, H.Fujita, 
+#+          Y.Fujita, M.Fujiwara, E.-W.Grewe, K.Hatanaka, P.Heinrichs, 
+#+          D.Ishikawa, N.T.Khai, A.Lennarz, H.Matsubara, H.Okamura, 
+#+          Y.Y.Oo, P.Puppe, T.Ruhe, K.Suda, A.Tamii, H.P.Yoshida, R.G.T.Zegers
+#REF-CODE   (J,PR/C,86,(4),044309,2012)
+#REFERENCE  Phys.Rev.C 86 No.4 (2012) 044309 (doi:10.1103/PhysRevC.86.044309)
+#DATASETS   0
+#
+#DATASET    E2389002 
+#DATE       20130607
+#REACTION   42-MO-100(HE3,T)43-TC-100,PAR,DA
+#PROJ       2003
+#TARG       42100
+#MF         4
+#MT         700
+#PRODUCT    43-TC-100
+#C4BEGIN    [ 2003 42100   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 42100   4 700  C 4.2000+8          2.3120-3 7.4070-5 0.999989          0.000000         LVLJ.H.Thies+           (12)E2389  2 
+ 2003 42100   4 700  C 4.2000+8          1.7160-3 4.8200-5 0.999906          0.000000         LVLJ.H.Thies+           (12)E2389  2 
+ 2003 42100   4 700  C 4.2000+8          9.4300-4 2.6490-5 0.999747          0.000000         LVLJ.H.Thies+           (12)E2389  2 
+ 2003 42100   4 700  C 4.2000+8          4.6540-4 1.5930-5 0.999500          0.000000         LVLJ.H.Thies+           (12)E2389  2 
+ 2003 42100   4 700  C 4.2000+8          2.6490-4 2.4770-5 0.999170          0.000000         LVLJ.H.Thies+           (12)E2389  2 
+ 2003 42100   4 700  C 4.2000+8          2.4240-4 2.3310-5 0.998761          0.000000         LVLJ.H.Thies+           (12)E2389  2 
+ 2003 42100   4 700  C 4.2000+8          1.9730-4 1.9720-5 0.998279          0.000000         LVLJ.H.Thies+           (12)E2389  2 
+ 2003 42100   4 700  C 4.2000+8          1.1890-4 1.6050-5 0.997710          0.000000         LVLJ.H.Thies+           (12)E2389  2 
+#/DATA      8
+#/DATASET

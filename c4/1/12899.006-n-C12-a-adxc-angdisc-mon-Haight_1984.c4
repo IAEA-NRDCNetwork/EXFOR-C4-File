@@ -1,0 +1,31 @@
+#ENTRY      12899
+#AUTHOR1    R.C.Haight+
+#YEAR       1984
+#INSTITUTE  (1USALRL)
+#TITLE      The 12-C(n,alpha) Reaction and the Kerma Factor for
+#+          Carbon at En = 14.1 MeV
+#AUTHOR(S)  R.C.Haight, S.M.Grimes, R.G.Johnson, H.H.Barschall
+#REF-CODE   (J,NSE,87,41,198405)
+#REFERENCE  Nucl.Sci.Eng. 87 (1984) 41 (doi:10.13182/NSE84-A17444)
+#DATASETS   0
+#
+#DATASET    12899006 
+#DATE       20141126
+#REACTION   6-C-12(N,A)4-BE-9,PAR,DA
+#PROJ       1
+#TARG       6012
+#MF         4
+#MT         800
+#PRODUCT    4-BE-9
+#C4BEGIN    [    1  6012   4 800 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   4 800 DC 1.4100+7 150000.0 0.010292 1.2570-3 0.911087          0.000000         LVLR.C.Haight+          (84)12899  6 
+    1  6012   4 800 DC 1.4100+7 150000.0 6.3880-3 7.5700-4 0.791863          0.000000         LVLR.C.Haight+          (84)12899  6 
+    1  6012   4 800 DC 1.4100+7 150000.0 3.5540-3 3.7200-4 0.560596          0.000000         LVLR.C.Haight+          (84)12899  6 
+    1  6012   4 800 DC 1.4100+7 150000.0 5.7160-3 6.4300-4 0.095811          0.000000         LVLR.C.Haight+          (84)12899  6 
+    1  6012   4 800 DC 1.4100+7 150000.0 5.5380-3 6.5700-4-0.268029          0.000000         LVLR.C.Haight+          (84)12899  6 
+    1  6012   4 800 DC 1.4100+7 150000.0 3.3320-3 3.5700-4-0.562069          0.000000         LVLR.C.Haight+          (84)12899  6 
+#/DATA      6
+#/DATASET

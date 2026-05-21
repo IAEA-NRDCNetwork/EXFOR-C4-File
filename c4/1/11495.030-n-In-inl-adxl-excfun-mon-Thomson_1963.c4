@@ -1,0 +1,47 @@
+#ENTRY      11495
+#AUTHOR1    D.B.Thomson+
+#YEAR       1963
+#INSTITUTE  (1USALAS)
+#TITLE      Nuclear level densities and reaction mechanisms from
+#+          inelastic neutron scattering.
+#AUTHOR(S)  D.B.Thomson
+#REF-CODE   (J,PR,129,1649,1963)
+#REFERENCE  Phys.Rev. 129 (1963) 1649 (doi:10.1103/PhysRev.129.1649)
+#DATASETS   0
+#
+#DATASET    11495030 
+#DATE       19821124
+#REACTION   49-IN-0(N,INL),PAR,DA
+#PROJ       1
+#TARG       49000
+#MF         4
+#MT         51
+#PRODUCT    49-IN-0
+#C4BEGIN    [    1 49000   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49000   4  51    4000000.          0.120000 0.012000 6.123-17          1750000. 1250000. E2D.B.Thomson          (63)11495 30 
+    1 49000   4  51    5000000.          0.125000 0.010000 6.123-17          1750000. 1250000. E2D.B.Thomson          (63)11495 30 
+    1 49000   4  51    6000000.          0.131000 0.013000 6.123-17          1750000. 1250000. E2D.B.Thomson          (63)11495 30 
+    1 49000   4  51    7000000.          0.118000 9.0000-3 6.123-17          1750000. 1250000. E2D.B.Thomson          (63)11495 30 
+#/DATA      4
+#/DATASET
+#
+#DATASET    11495030 
+#DATE       19821124
+#REACTION   49-IN-0(N,INL),PAR,DA
+#PROJ       1
+#TARG       49000
+#MF         4
+#MT         51
+#PRODUCT    49-IN-0
+#C4BEGIN    [    1 49000   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49000   4  51    5000000.          6.7000-3 2.0000-3 6.123-17          3500000. 500000.0 E2D.B.Thomson          (63)11495 30 
+    1 49000   4  51    6000000.          0.014500 3.0000-3 6.123-17          3500000. 500000.0 E2D.B.Thomson          (63)11495 30 
+    1 49000   4  51    7000000.          0.012400 2.0000-3 6.123-17          3500000. 500000.0 E2D.B.Thomson          (63)11495 30 
+#/DATA      3
+#/DATASET

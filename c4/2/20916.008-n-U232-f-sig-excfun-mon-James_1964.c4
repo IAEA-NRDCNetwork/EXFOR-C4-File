@@ -1,0 +1,31 @@
+#ENTRY      20916
+#AUTHOR1    G.D.James+
+#YEAR       1964
+#INSTITUTE  (2UK HAR)
+#TITLE      The fission cross section of U-232 from 4eV to 400eV
+#AUTHOR(S)  G.D.James
+#REF-CODE   (J,NP,55,517,196407)
+#REFERENCE  Nucl.Phys. 55 (1964) 517 (doi:10.1016/0029-5582(64)90174-9)
+#DATASETS   0
+#
+#DATASET    20916008 
+#DATE       20150921
+#REACTION   92-U-232(N,F),,SIG
+#PROJ       1
+#TARG       92232
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92232   3  18    4.098000          0.199500                                                G.D.James            (64)20916  8 
+    1 92232   3  18    4.751000          0.652400                                                G.D.James            (64)20916  8 
+    1 92232   3  18    4.823000          0.368300                                                G.D.James            (64)20916  8 
+    1 92232   3  18    4.943000          3.230000                                                G.D.James            (64)20916  8 
+    1 92232   3  18    5.211000          1.983000                                                G.D.James            (64)20916  8 
+    1 92232   3  18    5.362000          1.373000                                                G.D.James            (64)20916  8 
+    1 92232   3  18    5.396000          1.153000                                                G.D.James            (64)20916  8 
+    1 92232   3  18    6.445000          0.284900                                                G.D.James            (64)20916  8 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      D6457
+#AUTHOR1    M.Choudhary+
+#YEAR       2023
+#INSTITUTE  (3INDBHU)
+#TITLE      Measurement of alpha-induced reaction cross-sections
+#+          for natZn with detailed covariance analysis
+#AUTHOR(S)  M.Choudhary, A.Sharma, N.Singh, A.Gandhi, S.Dasgupta, J.Datta, 
+#+          K.Katovsky, A.Kumar
+#REF-CODE   (J,NP/A,1038,122720,2023)
+#REFERENCE  Nucl.Phys.A 1038 (2023) 122720 (doi:10.1016/j.nuclphysa.2023.122720)
+#DATASETS   0
+#
+#DATASET    D6457004 
+#DATE       20240226
+#REACTION   30-ZN-0(A,X)32-GE-69,,SIG
+#PROJ       2004
+#TARG       30000
+#MF         3
+#MT         454
+#PRODUCT    32-GE-69
+#C4BEGIN    [ 2004 30000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 30000   3 454    1.4470+7 1170000. 0.232550 0.017260           32069.9                     M.Choudhary+         (23)D6457  4 
+ 2004 30000   3 454    1.9480+7 1150000. 0.257650 0.016640           32069.9                     M.Choudhary+         (23)D6457  4 
+ 2004 30000   3 454    2.2230+7 980000.0 0.291900 0.017770           32069.9                     M.Choudhary+         (23)D6457  4 
+ 2004 30000   3 454    2.3750+7 1090000. 0.171250 9.9800-3           32069.9                     M.Choudhary+         (23)D6457  4 
+ 2004 30000   3 454    2.6180+7 960000.0 0.119370 6.9400-3           32069.9                     M.Choudhary+         (23)D6457  4 
+ 2004 30000   3 454    2.7680+7 890000.0 0.085280 5.0300-3           32069.9                     M.Choudhary+         (23)D6457  4 
+ 2004 30000   3 454    2.9750+7 920000.0 0.082200 4.9100-3           32069.9                     M.Choudhary+         (23)D6457  4 
+ 2004 30000   3 454    3.1250+7 520000.0 0.075200 4.6700-3           32069.9                     M.Choudhary+         (23)D6457  4 
+ 2004 30000   3 454    3.3150+7 780000.0 0.077230 4.7900-3           32069.9                     M.Choudhary+         (23)D6457  4 
+ 2004 30000   3 454    3.6320+7 460000.0 0.105500 7.1700-3           32069.9                     M.Choudhary+         (23)D6457  4 
+#/DATA      10
+#/DATASET

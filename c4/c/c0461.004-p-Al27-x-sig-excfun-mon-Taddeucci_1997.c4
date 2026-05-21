@@ -1,0 +1,28 @@
+#ENTRY      C0461
+#AUTHOR1    T.N.Taddeucci+
+#YEAR       1997
+#INSTITUTE  (1USALAS)
+#TITLE      Total cross sections for production of 7Be, 22Na, and
+#+          24Na in p + 7Li and p + 27Al reactions at 495 and 795
+#+          MeV.
+#AUTHOR(S)  T.N.Taddeucci, J.Ullmann, L.J.Rybarcyk, G.W.Butler, T.E.Ward
+#REF-CODE   (J,PR/C,55,1551,199703)
+#REFERENCE  Phys.Rev.C 55 (1997) 1551 (doi:10.1103/PhysRevC.55.1551)
+#DATASETS   0
+#
+#DATASET    C0461004 
+#DATE       20160809
+#REACTION   13-AL-27(P,X)11-NA-24,,SIG
+#PROJ       1001
+#TARG       13027
+#MF         3
+#MT         454
+#PRODUCT    11-NA-24
+#C4BEGIN    [ 1001 13027   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   3 454    4.9500+8          0.010300 4.0000-4           11024.9                     T.N.Taddeucci+       (97)C0461  4 
+ 1001 13027   3 454    7.9500+8          0.010600 4.0000-4           11024.9                     T.N.Taddeucci+       (97)C0461  4 
+#/DATA      2
+#/DATASET

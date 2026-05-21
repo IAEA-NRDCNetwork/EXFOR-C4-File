@@ -1,0 +1,46 @@
+#ENTRY      F0396
+#AUTHOR1    J.J.Leigh+
+#YEAR       1961
+#INSTITUTE  (1USAMIN)
+#TITLE      Differential cross sections of the 9Be (6Li,alpha)11B
+#+          reaction
+#AUTHOR(S)  J.J.Leigh, J.M.Blair
+#REF-CODE   (J,PR,121,246,1961)
+#REFERENCE  Phys.Rev. 121 (1961) 246 (doi:10.1103/PhysRev.121.246)
+#DATASETS   0
+#
+#DATASET    F0396002 
+#DATE       20220603
+#REACTION   4-BE-9(3-LI-6,A)5-B-11,PAR,SIG
+#PROJ       3006
+#TARG       4009
+#MF         3
+#MT         800
+#PRODUCT    5-B-11
+#C4BEGIN    [ 3006  4009   3 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006  4009   3 800    3000000.          4.9000-4 1.9600-4                   0.000000         LVLJ.J.Leigh+           (61)F0396  2 
+ 3006  4009   3 800    3250000.          7.0000-4 2.8000-4                   0.000000         LVLJ.J.Leigh+           (61)F0396  2 
+ 3006  4009   3 800    3500000.          9.7000-4 3.8800-4                   0.000000         LVLJ.J.Leigh+           (61)F0396  2 
+#/DATA      3
+#/DATASET
+#
+#DATASET    F0396002 
+#DATE       20220603
+#REACTION   4-BE-9(3-LI-6,A)5-B-11,PAR,SIG
+#PROJ       3006
+#TARG       4009
+#MF         3
+#MT         800
+#PRODUCT    5-B-11
+#C4BEGIN    [ 3006  4009   3 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006  4009   3 800    3000000.          3.5000-4 1.4000-4                   2124000.         LVLJ.J.Leigh+           (61)F0396  2 
+ 3006  4009   3 800    3250000.          4.9000-4 1.9600-4                   2124000.         LVLJ.J.Leigh+           (61)F0396  2 
+ 3006  4009   3 800    3500000.          6.5000-4 2.6000-4                   2124000.         LVLJ.J.Leigh+           (61)F0396  2 
+#/DATA      3
+#/DATASET

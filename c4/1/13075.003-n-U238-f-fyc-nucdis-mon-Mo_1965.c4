@@ -1,0 +1,26 @@
+#ENTRY      13075
+#AUTHOR1    T.Mo+
+#YEAR       1965
+#INSTITUTE  (1USAARK)
+#TITLE      Yields of zirconium isotopes from spontaneous and
+#+          14.7 MeV neutron-induced fission of uranium-238
+#AUTHOR(S)  T.Mo, P.K.Kuroda
+#REF-CODE   (J,JIN,27,503,1965)
+#REFERENCE  J.Inorg.Nucl.Chem. 27 (1965) 503 (doi:10.1016/0022-1902(65)80254-8)
+#DATASETS   0
+#
+#DATASET    13075003 
+#DATE       20120711
+#REACTION   92-U-238(N,F)ELEM/MASS,CUM,FY
+#PROJ       1
+#TARG       92238
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92238   8 459 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   8 459 D  1.4700+7 400000.0 0.061000 6.0000-3 40.00000 95.00000 9.000000            T.Mo+                (65)13075  3 
+    1 92238   8 459 D  1.4700+7 400000.0 0.047000 5.0000-3 40.00000 97.00000 9.000000            T.Mo+                (65)13075  3 
+#/DATA      2
+#/DATASET

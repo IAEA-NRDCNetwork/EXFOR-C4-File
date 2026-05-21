@@ -1,0 +1,31 @@
+#ENTRY      21742
+#AUTHOR1    M.T.Swinhoe+
+#YEAR       1980
+#INSTITUTE  (2UK HAR)
+#TITLE      -An absolute measurement of the Li-7(N,N'at)
+#+          reaction cross section between 5 and 14 MeV
+#+          by tritium assaying.-
+#AUTHOR(S)  M.T.Swinhoe, C.A.Uttley
+#REF-CODE   (R,AERE-R-9929,198009)
+#REFERENCE  Report AERE-R-9929, 1980
+#DATASETS   0
+#
+#DATASET    21742002 
+#DATE       19811030
+#REACTION   3-LI-7(N,N+T)2-HE-4,,SIG
+#PROJ       1
+#TARG       3007
+#MF         3
+#MT         33
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1  3007   3  33  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3007   3  33    5470000. 720000.0 0.282000 0.027000                                       M.T.Swinhoe+         (80)21742  2 
+    1  3007   3  33    7350000. 410000.0 0.322000 0.026000                                       M.T.Swinhoe+         (80)21742  2 
+    1  3007   3  33    9720000. 390000.0 0.310000 0.021000                                       M.T.Swinhoe+         (80)21742  2 
+    1  3007   3  33    9770000. 260000.0 0.314000 0.019000                                       M.T.Swinhoe+         (80)21742  2 
+    1  3007   3  33    1.1760+7 220000.0 0.289000 0.015000                                       M.T.Swinhoe+         (80)21742  2 
+#/DATA      5
+#/DATASET

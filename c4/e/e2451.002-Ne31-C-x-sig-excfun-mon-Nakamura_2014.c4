@@ -1,0 +1,29 @@
+#ENTRY      E2451
+#AUTHOR1    T.Nakamura+
+#YEAR       2014
+#INSTITUTE  (2JPNTIT)
+#TITLE      Deformation-driven p-wave halos at the drip line: 31Ne
+#AUTHOR(S)  T.Nakamura, N.Kobayashi, Y.Kondo, Y.Satou, J.A.Tostevin, 
+#+          Y.Utsuno, N.Aoi, H.Baba, N.Fukuda, J.Gibelin, N.Inabe, M.Ishihara, 
+#+          D.Kameda, T.Kubo, T.Motobayashi, T.Ohnishi, N.A.Orr, H.Otsu, 
+#+          T.Otsuka, H.Sakurai, T.Sumikama, H.Takeda, E.Takeshita, 
+#+          M.Takechi, S.Takeuchi, Y.Togano, K.Yoneda
+#REF-CODE   (J,PRL,112,142501,2014)
+#REFERENCE  Phys.Rev.Lett. 112 (2014) 142501 (doi:10.1103/PhysRevLett.112.142501)
+#DATASETS   0
+#
+#DATASET    E2451002 
+#DATE       20140528
+#REACTION   6-C-0(10-NE-31,X)10-NE-30,,SIG
+#PROJ       10031
+#TARG       6000
+#MF         3
+#MT         454
+#PRODUCT    10-NE-30
+#C4BEGIN    [10031  6000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10031  6000   3 454    7.1300+9          0.090000 7.0000-3           10030.9                     T.Nakamura+          (14)E2451  2 
+#/DATA      1
+#/DATASET

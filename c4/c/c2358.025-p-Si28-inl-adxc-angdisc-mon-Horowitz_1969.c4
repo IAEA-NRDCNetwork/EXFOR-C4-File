@@ -1,0 +1,33 @@
+#ENTRY      C2358
+#AUTHOR1    Y.S.Horowitz+
+#YEAR       1969
+#INSTITUTE  (1CANMCG)
+#TITLE      Inelastic scattering of 100 MeV protons from Mg and
+#+          Si using a Ge(Li) total absorption proton counter
+#AUTHOR(S)  Y.S.Horowitz, N.K.Sherman, R.E.Bell
+#REF-CODE   (J,NP/A,134,577,1969)
+#REFERENCE  Nucl.Phys.A 134 (1969) 577 (doi:10.1016/0375-9474(69)90023-2)
+#DATASETS   0
+#
+#DATASET    C2358025 
+#DATE       20190208
+#REACTION   14-SI-28(P,INL)14-SI-28,PAR,DA
+#PROJ       1001
+#TARG       14028
+#MF         4
+#MT         601
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 1001 14028   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14028   4 601  C 1.0000+8 350000.0 1.2480-4 3.8330-5 0.865624          1.1450+7         LVLY.S.Horowitz+        (69)C2358 25 
+ 1001 14028   4 601  C 1.0000+8 350000.0 2.0900-4 3.7740-5 0.814369          1.1450+7         LVLY.S.Horowitz+        (69)C2358 25 
+ 1001 14028   4 601  C 1.0000+8 350000.0 3.1870-4 4.3510-5 0.750526          1.1450+7         LVLY.S.Horowitz+        (69)C2358 25 
+ 1001 14028   4 601  C 1.0000+8 350000.0 2.2570-4 2.6670-5 0.730341          1.1450+7         LVLY.S.Horowitz+        (69)C2358 25 
+ 1001 14028   4 601  C 1.0000+8 350000.0 2.3070-4 3.3560-5 0.697027          1.1450+7         LVLY.S.Horowitz+        (69)C2358 25 
+ 1001 14028   4 601  C 1.0000+8 350000.0 1.7790-4 1.4290-5 0.634771          1.1450+7         LVLY.S.Horowitz+        (69)C2358 25 
+ 1001 14028   4 601  C 1.0000+8 350000.0 1.0120-4 1.1960-5 0.562978          1.1450+7         LVLY.S.Horowitz+        (69)C2358 25 
+ 1001 14028   4 601  C 1.0000+8 350000.0 7.2510-5 8.5700-6 0.483344          1.1450+7         LVLY.S.Horowitz+        (69)C2358 25 
+#/DATA      8
+#/DATASET

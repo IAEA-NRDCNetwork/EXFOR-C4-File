@@ -1,0 +1,41 @@
+#ENTRY      21741
+#AUTHOR1    A.Paulsen+
+#YEAR       1966
+#INSTITUTE  (2ZZZGEL)
+#TITLE      -CROSS SECTIONS FOR SOME (N,P) REACTIONS NEAR
+#+          THRESHOLD -.
+#AUTHOR(S)  A.Paulsen, H.Liskien
+#REF-CODE   (C,66PARIS,217,6610)
+#REFERENCE  Proceedings of Nuclear Data For Reactors Conf., Paris 1966
+#DATASETS   0
+#
+#DATASET    21741003 
+#DATE       19810310
+#REACTION   16-S-32(N,P)15-P-32,,SIG
+#PROJ       1
+#TARG       16032
+#MF         3
+#MT         103
+#PRODUCT    15-P-32
+#C4BEGIN    [    1 16032   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 16032   3 103    1560000.          4.0000-4 1.6000-5                                       A.Paulsen+           (66)21741  3 
+    1 16032   3 103    1630000.          1.1000-3 4.4000-5                                       A.Paulsen+           (66)21741  3 
+    1 16032   3 103    1690000.          2.1000-3 8.4000-5                                       A.Paulsen+           (66)21741  3 
+    1 16032   3 103    1760000.          2.7000-3 1.0800-4                                       A.Paulsen+           (66)21741  3 
+    1 16032   3 103    1820000.          5.4000-3 2.1600-4                                       A.Paulsen+           (66)21741  3 
+    1 16032   3 103    1880000.          7.5000-3 3.0000-4                                       A.Paulsen+           (66)21741  3 
+    1 16032   3 103    1940000.          0.011000 4.4000-4                                       A.Paulsen+           (66)21741  3 
+    1 16032   3 103    1990000.          0.015300 6.1200-4                                       A.Paulsen+           (66)21741  3 
+    1 16032   3 103    2040000.          0.027500 1.1000-3                                       A.Paulsen+           (66)21741  3 
+    1 16032   3 103    2080000.          0.036100 1.4440-3                                       A.Paulsen+           (66)21741  3 
+    1 16032   3 103    2120000.          0.041700 1.6680-3                                       A.Paulsen+           (66)21741  3 
+    1 16032   3 103    2150000.          0.045100 1.8040-3                                       A.Paulsen+           (66)21741  3 
+    1 16032   3 103    2180000.          0.048700 1.9480-3                                       A.Paulsen+           (66)21741  3 
+    1 16032   3 103    2200000.          0.050000 2.0000-3                                       A.Paulsen+           (66)21741  3 
+    1 16032   3 103    2210000.          0.051500 2.0600-3                                       A.Paulsen+           (66)21741  3 
+    1 16032   3 103    2220000.          0.054800 2.1920-3                                       A.Paulsen+           (66)21741  3 
+#/DATA      16
+#/DATASET

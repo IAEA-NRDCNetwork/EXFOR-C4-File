@@ -1,0 +1,28 @@
+#ENTRY      11500
+#AUTHOR1    V.E.Scherrer+
+#YEAR       1955
+#INSTITUTE  (1USANRL)
+#TITLE      Cascade gamma-rays from 2.5-MeV neutron bombardment
+#+          of gold, iodine, and chromium.
+#AUTHOR(S)  V.E.Scherrer, W.R.Faust, B.A.Allison
+#REF-CODE   (J,PR,98,224(B7),1955)
+#REFERENCE  Phys.Rev. 98 (1955) 224(B7)
+#DATASETS   0
+#
+#DATASET    11500005 
+#DATE       20120412
+#REACTION   26-FE-0(N,INL)26-FE-0,PAR,DA,G,4PI
+#PROJ       1
+#TARG       26000
+#MF         14
+#MT         51
+#PRODUCT    26-FE-0
+#C4BEGIN    [    1 26000  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000  14  51    2500000.          9.5493-5 2.3873-5 6.123-17          830000.0            V.E.Scherrer+        (55)11500  5 
+    1 26000  14  51    2500000.          1.5915-5 3.9789-6 6.123-17          1180000.            V.E.Scherrer+        (55)11500  5 
+    1 26000  14  51    2500000.          1.0345-5 2.5863-6 6.123-17          1500000.            V.E.Scherrer+        (55)11500  5 
+#/DATA      3
+#/DATASET

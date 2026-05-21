@@ -1,0 +1,31 @@
+#ENTRY      F0011
+#AUTHOR1    R.V.Pyle+
+#YEAR       1978
+#INSTITUTE  (1USABRK)
+#TITLE      Measurement of the 6Li(3He,d)7Be and
+#+          7Li(3He,t)7Be cross sections
+#AUTHOR(S)  R.V.Pyle, L.Ruby, J.W.Sterbentz
+#REF-CODE   (J,ANS,30,623,1978)
+#REFERENCE  Trans.Am.Nucl.Soc. 30 (1978) 623
+#DATASETS   0
+#
+#DATASET    F0011004 
+#DATE       20240207
+#REACTION   3-LI-7(HE3,T)4-BE-7,,SIG
+#PROJ       2003
+#TARG       3007
+#MF         3
+#MT         105
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 2003  3007   3 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  3007   3 105    1700000.          6.5000-3 7.0000-4                                       R.V.Pyle+            (78)F0011  4 
+ 2003  3007   3 105    1700000.          7.2000-3 7.0000-4                                       R.V.Pyle+            (78)F0011  4 
+ 2003  3007   3 105    2800000.          0.098000 6.0000-3                                       R.V.Pyle+            (78)F0011  4 
+ 2003  3007   3 105    2800000.          0.092000 5.0000-3                                       R.V.Pyle+            (78)F0011  4 
+ 2003  3007   3 105    5900000.          0.208000 0.012000                                       R.V.Pyle+            (78)F0011  4 
+ 2003  3007   3 105    5900000.          0.199000 0.011000                                       R.V.Pyle+            (78)F0011  4 
+#/DATA      6
+#/DATASET

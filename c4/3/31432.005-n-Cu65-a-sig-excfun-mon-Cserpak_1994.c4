@@ -1,0 +1,36 @@
+#ENTRY      31432
+#AUTHOR1    F.Cserpak+
+#YEAR       1994
+#INSTITUTE  (3HUNKOS)
+#TITLE      Excitation functions and isomeric cross section ratios
+#+          of the 63Cu(n,alpha)Co-60-m,g, 65Cu(n,alpha)Co-62-m,g
+#+          and 60Ni(n,p)Co-60-m,g processes from 6 to 15 MeV.
+#AUTHOR(S)  F.Cserpak, S.Sudar, J.Csikai, S.M.Qaim
+#REF-CODE   (J,PR/C,49,1525,1994)
+#REFERENCE  Phys.Rev.C 49 (1994) 1525 (doi:10.1103/PhysRevC.49.1525)
+#DATASETS   0
+#
+#DATASET    31432005 
+#DATE       20220901
+#REACTION   29-CU-65(N,A)27-CO-62-G,,SIG
+#PROJ       1
+#TARG       29065
+#MF         3
+#MT         107
+#PRODUCT    27-CO-62-G
+#C4BEGIN    [    1 29065   3 107GD]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29065   3 107GD  6320000. 140000.0 5.6000-5 3.0000-5                                       F.Cserpak+           (94)31432  5 
+    1 29065   3 107GD  7310000. 140000.0 3.1000-4 9.0000-5                                       F.Cserpak+           (94)31432  5 
+    1 29065   3 107GD  8260000. 150000.0 8.1000-4 2.0000-4                                       F.Cserpak+           (94)31432  5 
+    1 29065   3 107GD  9180000. 160000.0 1.8200-3 3.0000-4                                       F.Cserpak+           (94)31432  5 
+    1 29065   3 107GD  1.0100+7 170000.0 2.3400-3 5.0000-4                                       F.Cserpak+           (94)31432  5 
+    1 29065   3 107GD  1.1000+7 180000.0 3.3500-3 3.0000-4                                       F.Cserpak+           (94)31432  5 
+    1 29065   3 107GD  1.1940+7 180000.0 4.7500-3 7.0000-4                                       F.Cserpak+           (94)31432  5 
+    1 29065   3 107GD  1.4120+7 160000.0 5.8800-3 9.0000-4                                       F.Cserpak+           (94)31432  5 
+    1 29065   3 107GD  1.4450+7 150000.0 5.4300-3 9.0000-4                                       F.Cserpak+           (94)31432  5 
+    1 29065   3 107GD  1.4710+7 300000.0 4.2600-3 5.0000-4                                       F.Cserpak+           (94)31432  5 
+#/DATA      10
+#/DATASET

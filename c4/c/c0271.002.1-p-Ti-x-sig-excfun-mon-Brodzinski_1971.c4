@@ -1,0 +1,31 @@
+#ENTRY      C0271
+#AUTHOR1    R.L.Brodzinski+
+#YEAR       1971
+#INSTITUTE  (1USABAT)
+#TITLE      High-Energy Proton Spallation of Titanium
+#AUTHOR(S)  R.L.Brodzinski, L.A.Rancitelli, J.A.Cooper, N.A.Wogman
+#REF-CODE   (J,PR/C,4,1250,1971)
+#REFERENCE  Phys.Rev.C 4 (1971) 1250 (doi:10.1103/PhysRevC.4.1250)
+#DATASETS   0
+#
+#DATASET    C02710021
+#DATE       20080701
+#REACTION   22-TI-0(P,X)23-V-48,,SIG
+#PROJ       1001
+#TARG       22000
+#MF         3
+#MT         454
+#PRODUCT    23-V-48
+#C4BEGIN    [ 1001 22000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22000   3 454    1.5000+7          0.408000 0.050000           23048.9                     R.L.Brodzinski+      (71)C0271  21
+ 1001 22000   3 454    3.0000+7          0.029100 3.9000-3           23048.9                     R.L.Brodzinski+      (71)C0271  21
+ 1001 22000   3 454    4.5000+7          0.024700 3.2000-3           23048.9                     R.L.Brodzinski+      (71)C0271  21
+ 1001 22000   3 454    1.1800+8          5.1000-3 6.8000-4           23048.9                     R.L.Brodzinski+      (71)C0271  21
+ 1001 22000   3 454    3.1900+8          1.9100-3 4.4000-4           23048.9                     R.L.Brodzinski+      (71)C0271  21
+ 1001 22000   3 454    4.3300+8          7.8000-4 1.5000-4           23048.9                     R.L.Brodzinski+      (71)C0271  21
+ 1001 22000   3 454    5.8400+8          1.0200-3 3.5000-4           23048.9                     R.L.Brodzinski+      (71)C0271  21
+#/DATA      7
+#/DATASET

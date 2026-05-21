@@ -1,0 +1,30 @@
+#ENTRY      O0573
+#AUTHOR1    L.D.Miller+
+#YEAR       1973
+#INSTITUTE  (1CANMCG)
+#TITLE      Charge dispersion in the fission of U-238 by protons
+#+          of energies 30-160 MeV.
+#AUTHOR(S)  L.D.Miller, L.Yaffe
+#REF-CODE   (J,JIN,35,1805,1973)
+#REFERENCE  J.Inorg.Nucl.Chem. 35 (1973) 1805 (doi:10.1016/0022-1902(73)80115-0)
+#DATASETS   0
+#
+#DATASET    O0573012 
+#DATE       20140121
+#REACTION   92-U-0(P,F)51-SB-127,CUM,SIG
+#PROJ       1001
+#TARG       92000
+#MF         3
+#MT         459
+#PRODUCT    51-SB-127
+#C4BEGIN    [ 1001 92000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92000   3 459    3.0000+7          0.033000 3.0000-3           51127.9                     L.D.Miller+          (73)O0573 12 
+ 1001 92000   3 459    5.0000+7          0.033000 3.0000-3           51127.9                     L.D.Miller+          (73)O0573 12 
+ 1001 92000   3 459    7.0000+7          0.033000 3.0000-3           51127.9                     L.D.Miller+          (73)O0573 12 
+ 1001 92000   3 459    8.5000+7          0.033000 3.0000-3           51127.9                     L.D.Miller+          (73)O0573 12 
+ 1001 92000   3 459    1.6000+8          0.020000 2.0000-3           51127.9                     L.D.Miller+          (73)O0573 12 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      21644
+#AUTHOR1    G.Benedetti+
+#YEAR       1982
+#INSTITUTE  (2ITYMIL)
+#TITLE      Delayed neutron yields from fission of uranium-233,
+#+          neptunium-237, plutonium-238, -240, -241, and
+#+          americium-241
+#AUTHOR(S)  G.Benedetti, A.Cesana, V.Sangiust, M.Terrani, G.Sandrelli
+#REF-CODE   (J,NSE,80,379,1982)
+#REFERENCE  Nucl.Sci.Eng. 80 (1982) 379 (doi:10.13182/NSE82-A19822)
+#DATASETS   0
+#
+#DATASET    21644005 
+#DATE       20220209
+#REACTION   94-PU-240(N,F),DL,NU,,SPA
+#PROJ       1
+#TARG       94240
+#MF         1
+#MT         455
+#C4BEGIN    [    1 94240   1 455 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94240   1 455 D  1500000.          9.1100-5 4.1000-6                                       G.Benedetti+         (82)21644  5 
+#/DATA      1
+#/DATASET

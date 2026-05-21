@@ -1,0 +1,36 @@
+#ENTRY      13867
+#AUTHOR1    J.W.Meadows+
+#YEAR       1991
+#INSTITUTE  (1USAANL)
+#TITLE      Measurements of the neutron cross section for
+#+          Fe-54(n,alpha)Cr-51 between 5.3 and 14.6 MeV
+#AUTHOR(S)  J.W.Meadows, D.L.Smith, L.R.Greenwood, L.P.Geraldo, W.Mannhart, 
+#+          G.Boerker, G.Mueller
+#REF-CODE   (C,91JUELIC,,288,1991)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 288
+#DATASETS   0
+#
+#DATASET    13867002 
+#DATE       20140416
+#REACTION   26-FE-54(N,A)24-CR-51,,SIG
+#PROJ       1
+#TARG       26054
+#MF         3
+#MT         107
+#PRODUCT    24-CR-51
+#C4BEGIN    [    1 26054   3 107 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26054   3 107 C  5290000. 270000.0 3.6500-3 4.8618-4                                       J.W.Meadows+         (91)13867  2 
+    1 26054   3 107 C  5840000. 250000.0 8.0100-3 6.9767-4                                       J.W.Meadows+         (91)13867  2 
+    1 26054   3 107 C  6370000. 240000.0 0.014750 9.1303-4                                       J.W.Meadows+         (91)13867  2 
+    1 26054   3 107 C  6880000. 220000.0 0.021260 1.1714-3                                       J.W.Meadows+         (91)13867  2 
+    1 26054   3 107 C  7390000. 210000.0 0.026450 1.1109-3                                       J.W.Meadows+         (91)13867  2 
+    1 26054   3 107 C  7880000. 200000.0 0.033470 1.7137-3                                       J.W.Meadows+         (91)13867  2 
+    1 26054   3 107 C  8370000. 180000.0 0.037030 1.7256-3                                       J.W.Meadows+         (91)13867  2 
+    1 26054   3 107 C  8860000. 160000.0 0.041910 2.2380-3                                       J.W.Meadows+         (91)13867  2 
+    1 26054   3 107 C  9340000. 170000.0 0.046080 1.8662-3                                       J.W.Meadows+         (91)13867  2 
+    1 26054   3 107 C  9820000. 200000.0 0.046590 2.0220-3                                       J.W.Meadows+         (91)13867  2 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      A0299
+#AUTHOR1    H.Lundqvist+
+#YEAR       1979
+#INSTITUTE  (2SWDUPP)
+#TITLE      Production of carrier-free Mg-28 and Na-24 by
+#+          50-180 MeV protons on Si,P,Cl,S,Ar and K: Excitation
+#+          functions and chemical separation.
+#AUTHOR(S)  H.Lundqvist, P.Malmborg
+#REF-CODE   (J,ARI,30,33,1979)
+#REFERENCE  Appl.Radiat.Isot. 30 (1979) 33 (doi:10.1016/0020-708X(79)90094-2)
+#DATASETS   0
+#
+#DATASET    A0299003 
+#DATE       20240109
+#REACTION   17-CL-0(P,X)12-MG-28,,SIG
+#PROJ       1001
+#TARG       17000
+#MF         3
+#MT         454
+#PRODUCT    12-MG-28
+#C4BEGIN    [ 1001 17000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 17000   3 454    5.0200+7          4.0000-7                    12028.9                     H.Lundqvist+         (79)A0299  3 
+ 1001 17000   3 454    7.5400+7          4.2000-5                    12028.9                     H.Lundqvist+         (79)A0299  3 
+ 1001 17000   3 454    7.5400+7          3.4300-5                    12028.9                     H.Lundqvist+         (79)A0299  3 
+ 1001 17000   3 454    8.7700+7          5.2900-5                    12028.9                     H.Lundqvist+         (79)A0299  3 
+ 1001 17000   3 454    1.0050+8          8.7600-5                    12028.9                     H.Lundqvist+         (79)A0299  3 
+ 1001 17000   3 454    1.0050+8          8.0500-5                    12028.9                     H.Lundqvist+         (79)A0299  3 
+ 1001 17000   3 454    1.1330+8          7.9600-5                    12028.9                     H.Lundqvist+         (79)A0299  3 
+ 1001 17000   3 454    1.2530+8          1.2700-4                    12028.9                     H.Lundqvist+         (79)A0299  3 
+ 1001 17000   3 454    1.4020+8          1.3200-4                    12028.9                     H.Lundqvist+         (79)A0299  3 
+ 1001 17000   3 454    1.5490+8          1.3100-4                    12028.9                     H.Lundqvist+         (79)A0299  3 
+#/DATA      10
+#/DATASET

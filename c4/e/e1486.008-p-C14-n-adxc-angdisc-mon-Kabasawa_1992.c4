@@ -1,0 +1,41 @@
+#ENTRY      E1486
+#AUTHOR1    M.Kabasawa+
+#YEAR       1992
+#INSTITUTE  (2JPNTOH)
+#TITLE      14C(p,n)14N reaction at Ep=35 MeV
+#AUTHOR(S)  M.Kabasawa, A.Satoh, Y.Takahashi, T.Kawamura, K.Furukawa, 
+#+          T.Nakagawa, H.Orihara, T.Niizeki, K.Ishii, K.Miura, H.Ohnuma
+#REF-CODE   (J,PR/C,45,(3),1220,199203)
+#REFERENCE  Phys.Rev.C 45 No.3 (1992) 1220 (doi:10.1103/PhysRevC.45.1220)
+#DATASETS   0
+#
+#DATASET    E1486008 
+#DATE       20070909
+#REACTION   6-C-14(P,N)7-N-14,PAR,DA
+#PROJ       1001
+#TARG       6014
+#MF         4
+#MT         50
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  6014   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6014   4  50  C 3.5000+7          5.9590-3          1.000000          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+ 1001  6014   4  50  C 3.5000+7          6.6030-3          0.998270          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+ 1001  6014   4  50  C 3.5000+7          4.5530-3          0.982189          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+ 1001  6014   4  50  C 3.5000+7          4.3320-3          0.957319          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+ 1001  6014   4  50  C 3.5000+7          4.2290-3          0.925276          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+ 1001  6014   4  50  C 3.5000+7          4.3430-3          0.886769          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+ 1001  6014   4  50  C 3.5000+7          4.3110-3          0.843016          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+ 1001  6014   4  50  C 3.5000+7          3.7360-3          0.790048          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+ 1001  6014   4  50  C 3.5000+7          2.6420-3          0.721277          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+ 1001  6014   4  50  C 3.5000+7          1.4490-3 1.4180-4 0.584958          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+ 1001  6014   4  50  C 3.5000+7          6.7680-4 5.3710-5 0.429093          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+ 1001  6014   4  50  C 3.5000+7          4.0080-4 5.0560-5 0.259830          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+ 1001  6014   4  50  C 3.5000+7          3.1910-4 2.8200-5 0.182064          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+ 1001  6014   4  50  C 3.5000+7          2.7420-4 3.9870-5 0.090980          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+ 1001  6014   4  50  C 3.5000+7          1.3050-4 2.2830-5-0.257133          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+ 1001  6014   4  50  C 3.5000+7          1.2890-4 2.1260-5-0.566406          3947000.         LVLM.Kabasawa+          (92)E1486  8 
+#/DATA      16
+#/DATASET

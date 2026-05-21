@@ -1,0 +1,31 @@
+#ENTRY      30640
+#AUTHOR1    J.Csikai+
+#YEAR       1982
+#INSTITUTE  (3HUNKOS)
+#TITLE      Study of excitation functions around 14 MeV neutron
+#+          energy
+#AUTHOR(S)  J.Csikai
+#REF-CODE   (C,82ANTWER,,414,1982)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Antwerp 1982 page 414
+#DATASETS   0
+#
+#DATASET    30640005 
+#DATE       20220204
+#REACTION   28-NI-58(N,2N)28-NI-57,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         16
+#PRODUCT    28-NI-57
+#C4BEGIN    [    1 28058   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3  16    1.3500+7          0.016500 1.0000-3                                       J.Csikai             (82)30640  5 
+    1 28058   3  16    1.3770+7          0.019200 1.2000-3                                       J.Csikai             (82)30640  5 
+    1 28058   3  16    1.4100+7          0.025000 1.5000-3                                       J.Csikai             (82)30640  5 
+    1 28058   3  16    1.4390+7          0.029400 1.8000-3                                       J.Csikai             (82)30640  5 
+    1 28058   3  16    1.4660+7          0.032000 1.9000-3                                       J.Csikai             (82)30640  5 
+    1 28058   3  16    1.4780+7          0.034800 2.1000-3                                       J.Csikai             (82)30640  5 
+#/DATA      6
+#/DATASET

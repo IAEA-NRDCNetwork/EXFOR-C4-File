@@ -1,0 +1,32 @@
+#ENTRY      22195
+#AUTHOR1    K.Wisshak+
+#YEAR       1990
+#INSTITUTE  (2GERKFK)
+#TITLE      -MEASUREMENTS OF KEV NEUTRON CAPTURE CROSS SECTIONS
+#+          WITH A 4-PI BARIUM FLUORIDE DETECTOR: EXAMPLES OF
+#+          93-NB, 103-RH, AND 181-TA.
+#AUTHOR(S)  K.Wisshak, F.Voss, F.Kaeppeler, G.Reffo
+#REF-CODE   (J,PR/C,42,1731,199010)
+#REFERENCE  Phys.Rev.C 42 (1990) 1731 (doi:10.1103/PhysRevC.42.1731)
+#DATASETS   0
+#
+#DATASET    22195010 
+#DATE       19990604
+#REACTION   73-TA-181(N,G)73-TA-182,,SIG,,MXW
+#PROJ       1
+#TARG       73181
+#MF         3
+#MT         102
+#PRODUCT    73-TA-182
+#C4BEGIN    [    1 73181   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 73181   3 102 D  12000.00          1.430300 0.048000                                       K.Wisshak+           (90)22195 10 
+    1 73181   3 102 D  20000.00          1.002100 0.023500                                       K.Wisshak+           (90)22195 10 
+    1 73181   3 102 D  25000.00          0.863000 0.018100                                       K.Wisshak+           (90)22195 10 
+    1 73181   3 102 D  30000.00          0.766200 0.015100                                       K.Wisshak+           (90)22195 10 
+    1 73181   3 102 D  40000.00          0.638700 0.011700                                       K.Wisshak+           (90)22195 10 
+    1 73181   3 102 D  52000.00          0.544300 9.5000-3                                       K.Wisshak+           (90)22195 10 
+#/DATA      6
+#/DATASET

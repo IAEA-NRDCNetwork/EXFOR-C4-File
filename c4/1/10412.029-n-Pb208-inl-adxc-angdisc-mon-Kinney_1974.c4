@@ -1,0 +1,32 @@
+#ENTRY      10412
+#AUTHOR1    W.E.Kinney+
+#YEAR       1974
+#INSTITUTE  (1USAORL)
+#TITLE      206Pb, 207Pb and 208Pb neutron elastic and inelastic
+#+          scattering cross sections from 5.50 to 8.50 MeV.
+#AUTHOR(S)  W.E.Kinney, F.G.Perey
+#REF-CODE   (R,ORNL-4909,197406)
+#REFERENCE  Report ORNL-4909, 1974
+#DATASETS   0
+#
+#DATASET    10412029 
+#DATE       20030220
+#REACTION   82-PB-208(N,INL)82-PB-208,PAR,DA
+#PROJ       1
+#TARG       82208
+#MF         4
+#MT         51
+#PRODUCT    82-PB-208
+#C4BEGIN    [    1 82208   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82208   4  51 AC 8500000. 40000.00 0.019280          0.568849          4278000. 202000.0LVLW.E.Kinney+          (74)10412 29 
+    1 82208   4  51 AC 8500000. 40000.00 0.019790          0.568849          4278000. 202000.0LVLW.E.Kinney+          (74)10412 29 
+    1 82208   4  51 AC 8500000. 40000.00 0.017390          0.456322          4278000. 202000.0LVLW.E.Kinney+          (74)10412 29 
+    1 82208   4  51 AC 8500000. 40000.00 0.017550          0.209960          4278000. 202000.0LVLW.E.Kinney+          (74)10412 29 
+    1 82208   4  51 AC 8500000. 40000.00 0.017190         -0.050419          4278000. 202000.0LVLW.E.Kinney+          (74)10412 29 
+    1 82208   4  51 AC 8500000. 40000.00 0.016280         -0.307024          4278000. 202000.0LVLW.E.Kinney+          (74)10412 29 
+    1 82208   4  51 AC 8500000. 40000.00 0.016070         -0.482518          4278000. 202000.0LVLW.E.Kinney+          (74)10412 29 
+#/DATA      7
+#/DATASET

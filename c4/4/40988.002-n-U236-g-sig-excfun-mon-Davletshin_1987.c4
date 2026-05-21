@@ -1,0 +1,27 @@
+#ENTRY      40988
+#AUTHOR1    A.N.Davletshin+
+#YEAR       1987
+#INSTITUTE  (4RUSFEI)
+#TITLE      Thermal neutrons radiation capture cross-section
+#+          for U-236 and Th-232
+#AUTHOR(S)  A.N.Davletshin, V.V.Sinitsa, O.A.Tipunkov, S.V.Tikhonov, 
+#+          V.A.Tolstikov
+#REF-CODE   (C,87KIEV,2,309,1987)
+#REFERENCE  Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 2 page 309
+#DATASETS   0
+#
+#DATASET    40988002 
+#DATE       20240208
+#REACTION   92-U-236(N,G)92-U-237,,SIG
+#PROJ       1
+#TARG       92236
+#MF         3
+#MT         102
+#PRODUCT    92-U-237
+#C4BEGIN    [    1 92236   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92236   3 102    0.025300          5.090000 0.100000                                       A.N.Davletshin+      (87)40988  2 
+#/DATA      1
+#/DATASET

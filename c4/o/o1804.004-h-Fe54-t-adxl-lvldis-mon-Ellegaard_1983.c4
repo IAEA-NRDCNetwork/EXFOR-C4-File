@@ -1,0 +1,29 @@
+#ENTRY      O1804
+#AUTHOR1    C.Ellegaard+
+#YEAR       1983
+#INSTITUTE  (2DENNBI)
+#TITLE      (He3,t) reaction at intermediate energies.
+#AUTHOR(S)  C.Ellegaard, C.Gaarde, J.S.Larsen, C.Goodman, I.Bergqvist, 
+#+          L.Carlen, P.Ekstroem, B.Jakobsson, J.Lyttkens, M.Bedjidian, 
+#+          M.Chamcham, J.Y.Grossiord, A.Guichard, M.Gusakow, R.Haroutunian, 
+#+          J.R.Pizzi, D.Bachelier, J.L.Boyard, T.Hennino, J.C.Jourdain, 
+#+          M.Roy-Stephan, P.Radvanyi, M.Boivin
+#REF-CODE   (J,PRL,50,1745,1983)
+#REFERENCE  Phys.Rev.Lett. 50 (1983) 1745 (doi:10.1103/PhysRevLett.50.1745)
+#DATASETS   0
+#
+#DATASET    O1804004 
+#DATE       20120613
+#REACTION   26-FE-54(HE3,T)27-CO-54,PAR,DA
+#PROJ       2003
+#TARG       26054
+#MF         4
+#MT         700
+#PRODUCT    27-CO-54
+#C4BEGIN    [ 2003 26054   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 26054   4 700    2.0000+9 3200000. 0.130000 0.026000 1.000000          2.6174+8         LVLC.Ellegaard+         (83)O1804  4 
+#/DATA      1
+#/DATASET

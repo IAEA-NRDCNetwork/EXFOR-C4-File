@@ -1,0 +1,29 @@
+#ENTRY      12380
+#AUTHOR1    A.J.Elwyn+
+#YEAR       1966
+#INSTITUTE  (1USAANL)
+#TITLE      Polarization and differential cross sections in the
+#+          small angle scattering of neutrons by uranium
+#AUTHOR(S)  A.J.Elwyn, J.E.Monahan, R.O.Lane, A.Langsdorf Jr, F.P.Mooring
+#REF-CODE   (J,PR,142,758,1966)
+#REFERENCE  Phys.Rev. 142 (1966) 758 (doi:10.1103/PhysRev.142.758)
+#DATASETS   0
+#
+#DATASET    12380005 
+#DATE       20110928
+#REACTION   92-U-0(N,EL)92-U-0,,DA
+#PROJ       1
+#TARG       92000
+#MF         4
+#MT         2
+#PRODUCT    92-U-0
+#C4BEGIN    [    1 92000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92000   4   2    830000.0          3.360000 0.210000 0.999585                              A.J.Elwyn+           (66)12380  5 
+    1 92000   4   2    830000.0          2.730000 0.160000 0.999159                              A.J.Elwyn+           (66)12380  5 
+    1 92000   4   2    830000.0          2.270000 0.130000 0.996779                              A.J.Elwyn+           (66)12380  5 
+    1 92000   4   2    830000.0          1.940000 0.120000 0.984808                              A.J.Elwyn+           (66)12380  5 
+#/DATA      4
+#/DATASET

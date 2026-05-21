@@ -1,0 +1,30 @@
+#ENTRY      22037
+#AUTHOR1    G.Walter+
+#YEAR       1984
+#INSTITUTE  (2GERKFK)
+#TITLE      Neutron density and temperature of the weak s-process
+#+          component
+#AUTHOR(S)  G.Walter, B.Leugers, F.Kaeppeler, Z.Y.Bao, G.Reffo, F.Fabbri, 
+#+          H.Beer
+#REF-CODE   (R,KFK-3706,1984)
+#REFERENCE  Report KFK-3706, 1984
+#DATASETS   0
+#
+#DATASET    22037015 
+#DATE       20161018
+#REACTION   38-SR-87(N,G)38-SR-88,,SIG,,MXW
+#PROJ       1
+#TARG       38087
+#MF         3
+#MT         102
+#PRODUCT    38-SR-88
+#C4BEGIN    [    1 38087   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 38087   3 102 D  20000.00          0.135000 0.010000                                       G.Walter+            (84)22037 15 
+    1 38087   3 102 D  30000.00          0.100000 7.0000-3                                       G.Walter+            (84)22037 15 
+    1 38087   3 102 D  40000.00          0.082000 6.0000-3                                       G.Walter+            (84)22037 15 
+    1 38087   3 102 D  50000.00          0.071000 5.0000-3                                       G.Walter+            (84)22037 15 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      41183
+#AUTHOR1    A.N.Davletshin+
+#YEAR       1993
+#INSTITUTE  (4RUSFEI)
+#TITLE      Neutron radiation cross-sections for the 232Th
+#+          and 197Au nuclei in the 0.37 - 1 MeV range
+#AUTHOR(S)  A.N.Davletshin, E.V.Teplov, A.O.Tipunkov, S.V.Tikhonov, 
+#+          V.A.Tolstikov
+#REF-CODE   (J,YK,,(1),13,1993)
+#REFERENCE  Yad.Reak.Konst.  No.1 (1993) 13
+#DATASETS   0
+#
+#DATASET    411830032
+#DATE       20191107
+#REACTION   90-TH-232(N,G)90-TH-233,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         102
+#PRODUCT    90-TH-233
+#C4BEGIN    [    1 90232   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3 102    370000.0 32000.00 0.135000 6.7500-3                                       A.N.Davletshin+      (93)41183  32
+    1 90232   3 102    439000.0 38000.00 0.130000 4.5500-3                                       A.N.Davletshin+      (93)41183  32
+    1 90232   3 102    592000.0 31000.00 0.136000 6.1200-3                                       A.N.Davletshin+      (93)41183  32
+    1 90232   3 102    800000.0 32000.00 0.137000 6.1650-3                                       A.N.Davletshin+      (93)41183  32
+    1 90232   3 102    1000000. 31000.00 0.112000 3.3600-3                                       A.N.Davletshin+      (93)41183  32
+#/DATA      5
+#/DATASET

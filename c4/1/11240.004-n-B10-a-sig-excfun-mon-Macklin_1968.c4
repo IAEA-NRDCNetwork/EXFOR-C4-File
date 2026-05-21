@@ -1,0 +1,30 @@
+#ENTRY      11240
+#AUTHOR1    R.L.Macklin+
+#YEAR       1968
+#INSTITUTE  (1USAORL)
+#TITLE      Study of B-10(n,alpha)Li-7, Li-7* for 30 < En keV < 500
+#AUTHOR(S)  R.L.Macklin, J.H.Gibbons
+#REF-CODE   (J,PR,165,1147,1968)
+#REFERENCE  Phys.Rev. 165 (1968) 1147 (doi:10.1103/PhysRev.165.1147)
+#DATASETS   0
+#
+#DATASET    11240004 
+#DATE       20151209
+#REACTION   5-B-10(N,A)3-LI-7,PAR,SIG
+#PROJ       1
+#TARG       5010
+#MF         3
+#MT         800
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  5010   3 800 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   3 800 D  98000.00 9000.000 1.785000 0.044000                   478000.0         LVLR.L.Macklin+         (68)11240  4 
+    1  5010   3 800 D  166000.0 7500.000 1.345000 0.030000                   478000.0         LVLR.L.Macklin+         (68)11240  4 
+    1  5010   3 800 D  224000.0 7000.000 1.022000 0.023000                   478000.0         LVLR.L.Macklin+         (68)11240  4 
+    1  5010   3 800 D  269000.0 6500.000 0.874000 0.018000                   478000.0         LVLR.L.Macklin+         (68)11240  4 
+    1  5010   3 800 D  351000.0 6000.000 0.649000 0.017000                   478000.0         LVLR.L.Macklin+         (68)11240  4 
+    1  5010   3 800 D  505000.0 6000.000 0.458000 9.0000-3                   478000.0         LVLR.L.Macklin+         (68)11240  4 
+#/DATA      6
+#/DATASET

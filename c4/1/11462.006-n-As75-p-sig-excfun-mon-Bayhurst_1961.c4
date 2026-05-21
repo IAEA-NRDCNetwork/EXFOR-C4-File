@@ -1,0 +1,32 @@
+#ENTRY      11462
+#AUTHOR1    B.P.Bayhurst+
+#YEAR       1961
+#INSTITUTE  (1USALAS)
+#TITLE      (N,P) AND (N,ALPHA) EXCITATION FUNCTIONS OF SEVERAL
+#+          NUCLEI FROM 7.0 TO 19.8 MEV.
+#AUTHOR(S)  B.P.Bayhurst, R.J.Prestwood
+#REF-CODE   (J,JIN,23,173,61)
+#REFERENCE  J.Inorg.Nucl.Chem. 23 (1961) 173 (doi:10.1016/0022-1902(61)80244-3)
+#DATASETS   0
+#
+#DATASET    11462006 
+#DATE       19820813
+#REACTION   33-AS-75(N,P)32-GE-75,,SIG
+#PROJ       1
+#TARG       33075
+#MF         3
+#MT         103
+#PRODUCT    32-GE-75
+#C4BEGIN    [    1 33075   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 33075   3 103    7000000. 250000.0 4.3000-3 4.0000-4                                       B.P.Bayhurst+        (61)11462  6 
+    1 33075   3 103    1.3330+7 230000.0 0.017300 1.2000-3                                       B.P.Bayhurst+        (61)11462  6 
+    1 33075   3 103    1.3690+7 100000.0 0.019500 1.4000-3                                       B.P.Bayhurst+        (61)11462  6 
+    1 33075   3 103    1.4010+7 100000.0 0.020700 1.4000-3                                       B.P.Bayhurst+        (61)11462  6 
+    1 33075   3 103    1.4310+7 130000.0 0.019300 1.4000-3                                       B.P.Bayhurst+        (61)11462  6 
+    1 33075   3 103    1.4500+7 200000.0 0.018100 1.3000-3                                       B.P.Bayhurst+        (61)11462  6 
+    1 33075   3 103    1.4930+7 360000.0 0.015900 1.1000-3                                       B.P.Bayhurst+        (61)11462  6 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      O0386
+#AUTHOR1    G.Duhamel-Chretien+
+#YEAR       1991
+#INSTITUTE  (2FR GRE)
+#TITLE      Neutron Hole States in Zr-89 Via the (P,D) Reaction at
+#+          58 MeV.
+#AUTHOR(S)  G.Duhamel-Chretien, G.Perrin, C.Perrin, V.Comparat, E.Gerlic, 
+#+          S.Gales, C.P.Massolo
+#REF-CODE   (J,PR/C,43,1116,91)
+#REFERENCE  Phys.Rev.C 43 (1991) 1116 (doi:10.1103/PhysRevC.43.1116)
+#DATASETS   0
+#
+#DATASET    O0386006 
+#DATE       19970709
+#REACTION   40-ZR-90(P,D)40-ZR-89,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       40090
+#MF         4
+#MT         650
+#PRODUCT    40-ZR-89
+#C4BEGIN    [ 1001 40090   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   4 650  C 5.8000+7 80000.00 6.3200-3 1.8960-4 0.994522 9.1218-4 595000.0         LVLG.Duhamel-Chretien+  (91)O0386  6 
+ 1001 40090   4 650  C 5.8000+7 80000.00 3.8500-3 1.1550-4 0.984196 1.5454-3 595000.0         LVLG.Duhamel-Chretien+  (91)O0386  6 
+ 1001 40090   4 650  C 5.8000+7 80000.00 1.5800-3 4.7400-5 0.965473 2.2733-3 595000.0         LVLG.Duhamel-Chretien+  (91)O0386  6 
+ 1001 40090   4 650  C 5.8000+7 80000.00 1.0400-3 3.1200-5 0.934204 3.1131-3 595000.0         LVLG.Duhamel-Chretien+  (91)O0386  6 
+ 1001 40090   4 650  C 5.8000+7 80000.00 8.7000-4 2.6100-5 0.917755 3.4658-3 595000.0         LVLG.Duhamel-Chretien+  (91)O0386  6 
+ 1001 40090   4 650  C 5.8000+7 80000.00 3.9500-4 1.1850-5 0.891798 3.9482-3 595000.0         LVLG.Duhamel-Chretien+  (91)O0386  6 
+ 1001 40090   4 650  C 5.8000+7 80000.00 3.7600-4 1.1280-5 0.867765 4.3369-3 595000.0         LVLG.Duhamel-Chretien+  (91)O0386  6 
+ 1001 40090   4 650  C 5.8000+7 80000.00 2.6800-4 8.0400-6 0.838671 4.7529-3 595000.0         LVLG.Duhamel-Chretien+  (91)O0386  6 
+ 1001 40090   4 650  C 5.8000+7 80000.00 2.1200-4 6.3600-6 0.806960 5.1540-3 595000.0         LVLG.Duhamel-Chretien+  (91)O0386  6 
+ 1001 40090   4 650  C 5.8000+7 80000.00 1.4300-4 4.2900-6 0.772734 5.5391-3 595000.0         LVLG.Duhamel-Chretien+  (91)O0386  6 
+ 1001 40090   4 650  C 5.8000+7 80000.00 8.7000-5 2.6100-6 0.710799 6.1383-3 595000.0         LVLG.Duhamel-Chretien+  (91)O0386  6 
+ 1001 40090   4 650  C 5.8000+7 80000.00 5.9400-5 1.7820-6 0.636078 6.7337-3 595000.0         LVLG.Duhamel-Chretien+  (91)O0386  6 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      C0835
+#AUTHOR1    F.D.Becchetti+
+#YEAR       1971
+#INSTITUTE  (1USAMIN)
+#TITLE      Coulomb displacement energies for 1f-2p shell nuclei
+#AUTHOR(S)  F.D.Becchetti, D.Dehnhard, T.G.Dzubay
+#REF-CODE   (J,NP/A,168,151,1971)
+#REFERENCE  Nucl.Phys.A 168 (1971) 151 (doi:10.1016/0375-9474(71)90656-7)
+#DATASETS   0
+#
+#DATASET    C0835020 
+#DATE       20010831
+#REACTION   26-FE-56(HE3,T)27-CO-56,PAR,DA
+#PROJ       2003
+#TARG       26056
+#MF         4
+#MT         700
+#PRODUCT    27-CO-56
+#C4BEGIN    [ 2003 26056   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 26056   4 700  C 2.4600+7 5000.000 5.5000-5          0.951057          3522000. 9000.000LVLF.D.Becchetti+       (71)C0835 20 
+ 2003 26056   4 700  C 2.4600+7 5000.000 1.1500-4          0.951057          3592000. 9000.000LVLF.D.Becchetti+       (71)C0835 20 
+#/DATA      2
+#/DATASET

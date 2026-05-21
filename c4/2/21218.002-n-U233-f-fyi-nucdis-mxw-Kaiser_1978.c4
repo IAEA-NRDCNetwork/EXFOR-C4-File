@@ -1,0 +1,27 @@
+#ENTRY      21218
+#AUTHOR1    T.Kaiser+
+#YEAR       1978
+#INSTITUTE  (2SWTWUR)
+#TITLE      Independent yields of 96Nb and 51 min 98Nb in
+#+          the thermal neutron-induced fission of 233U, 235U
+#+          and 239Pu
+#AUTHOR(S)  T.Kaiser, H.R.Von Gunten
+#REF-CODE   (J,JIN,40,377,1978)
+#REFERENCE  J.Inorg.Nucl.Chem. 40 (1978) 377 (doi:10.1016/0022-1902(78)80408-4)
+#DATASETS   0
+#
+#DATASET    21218002 
+#DATE       20201224
+#REACTION   92-U-233(N,F)ELEM/MASS,IND,FY,,MXW
+#PROJ       1
+#TARG       92233
+#MF         8
+#MT         454
+#C4BEGIN    [    1 92233   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   8 454    0.025300          5.3000-5 3.0000-6 41.00000 96.00000 9.000000            T.Kaiser+            (78)21218  2 
+    1 92233   8 454    0.025300          1.3000-3 3.0000-4 41.00000 98.00000 1.000000            T.Kaiser+            (78)21218  2 
+#/DATA      2
+#/DATASET

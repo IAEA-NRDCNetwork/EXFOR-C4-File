@@ -1,0 +1,44 @@
+#ENTRY      O2280
+#AUTHOR1    R.Orlandi+
+#YEAR       2015
+#INSTITUTE  (2SPNSAU)
+#TITLE      Single-neutron orbits near 78Ni-Spectroscopy of the
+#+          N=49 isotope 79Zn.
+#AUTHOR(S)  R.Orlandi, D.Mucher, R.Raabe, A.Jungclaus, S.D.Pain, V.Bildstein, 
+#+          R.Chapman, G.De Angelis, J.G.Johansen, P.Van Duppen, A.N.Andreyev, 
+#+          S.Bottoni, T.E.Cocolios, H.De Witte, J.Diriken, J.Elseviers, 
+#+          F.Flavigny, L.P.Gaffney, R.Gernhauser, A.Gottardo, M.Huyse, 
+#+          A.Illana, J.Konki, T.Kroell, R.Kruecken, J.F.W.Lane, V.Liberati, 
+#+          B.Marsh, K.Nowak, F.Nowacki, J.Pakarinen, E.Rapisarda, F.Recchia, 
+#+          P.Reiter, T.Roger, E.Sahin, M.Seidlitz, K.Sieja, J.F.Smith, 
+#+          J.J.Valiente Dobon, M.Von Schmid, D.Voulot, N.Warr, F.K.Wenander, 
+#+          K.Wimmer
+#REF-CODE   (J,PL/B,740,298,2015)
+#REFERENCE  Phys.Lett.B 740 (2015) 298 (doi:10.1016/j.physletb.2014.12.006)
+#DATASETS   0
+#
+#DATASET    O2280002 
+#DATE       20151114
+#REACTION   (1-H-2(30-ZN-78,P)30-ZN-79,PAR,DA,RSD)=(30-ZN-78(D,P)30-ZN-79,PAR,DA)
+#PROJ       1002
+#TARG       30078
+#MF         4
+#MT         600
+#PRODUCT    30-ZN-79
+#C4BEGIN    [ 1002 30078   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 30078   4 600  C 5660000.          0.011300 8.0400-4 0.950407 8.9021-3 1200000. 350000.0LVLR.Orlandi+           (15)O2280  2 
+ 1002 30078   4 600  C 5660000.          0.010100 5.5000-4 0.933518 9.1986-3 1200000. 350000.0LVLR.Orlandi+           (15)O2280  2 
+ 1002 30078   4 600  C 5660000.          8.8900-3 5.5000-4 0.911905 0.012893 1200000. 350000.0LVLR.Orlandi+           (15)O2280  2 
+ 1002 30078   4 600  C 5660000.          0.010100 6.3400-4 0.468084 0.058300 1200000. 350000.0LVLR.Orlandi+           (15)O2280  2 
+ 1002 30078   4 600  C 5660000.          9.4000-3 3.8000-4 0.345790 0.067144 1200000. 350000.0LVLR.Orlandi+           (15)O2280  2 
+ 1002 30078   4 600  C 5660000.          9.3700-3 3.8200-4 0.205350 0.061834 1200000. 350000.0LVLR.Orlandi+           (15)O2280  2 
+ 1002 30078   4 600  C 5660000.          8.2400-3 2.5200-4 0.058784 0.080146 1200000. 350000.0LVLR.Orlandi+           (15)O2280  2 
+ 1002 30078   4 600  C 5660000.          6.6000-3 2.9600-4-0.100188 0.079881 1200000. 350000.0LVLR.Orlandi+           (15)O2280  2 
+ 1002 30078   4 600  C 5660000.          6.8100-3 3.3700-4-0.263705 0.071888 1200000. 350000.0LVLR.Orlandi+           (15)O2280  2 
+ 1002 30078   4 600  C 5660000.          5.8500-3 2.5500-4-0.418977 0.077970 1200000. 350000.0LVLR.Orlandi+           (15)O2280  2 
+ 1002 30078   4 600  C 5660000.          5.3000-3 4.2400-4-0.565399 0.070971 1200000. 350000.0LVLR.Orlandi+           (15)O2280  2 
+#/DATA      11
+#/DATASET

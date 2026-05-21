@@ -1,0 +1,40 @@
+#ENTRY      O0284
+#AUTHOR1    Th.Schiekel+
+#YEAR       1996
+#INSTITUTE  (2GERKLN)
+#TITLE      Nuclide production by proton-induced reactions on
+#+          elements (6<=Z<=296) in the energy range from 200 MeV
+#+          to 400 MeV.
+#AUTHOR(S)  Th.Schiekel, F.Sudbrock, U.Herpers, M.Gloris, H.-J.Lange, 
+#+          I.Leya, R.Michel, B.Dittrich-Hannen, H.-A.Synal, M.Suter, 
+#+          P.W.Kubik, M.Blann, D.Filges
+#REF-CODE   (J,NIM/B,114,91,1996)
+#REFERENCE  Nucl.Instrum.Meth.B 114 (1996) 91 (doi:10.1016/0168-583X(96)00145-0)
+#DATASETS   0
+#
+#DATASET    O0284102 
+#DATE       20191005
+#REACTION   28-NI-0(P,X)27-CO-58-G,M+,SIG
+#PROJ       1001
+#TARG       28000
+#MF         3
+#MT         459
+#PRODUCT    27-CO-58-G
+#C4BEGIN    [ 1001 28000   3 459 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28000   3 459 C  2.1100+8 1760000. 0.012900 1.3000-3           27058.0                     Th.Schiekel+         (96)O0284102 
+ 1001 28000   3 459 C  2.3000+8 1600000. 0.011700 1.3400-3           27058.0                     Th.Schiekel+         (96)O0284102 
+ 1001 28000   3 459 C  2.3900+8 1630000. 0.014500 1.4300-3           27058.0                     Th.Schiekel+         (96)O0284102 
+ 1001 28000   3 459 C  2.5700+8 1330000. 0.013600 1.4600-3           27058.0                     Th.Schiekel+         (96)O0284102 
+ 1001 28000   3 459 C  2.7500+8 1110000. 0.013400 1.4000-3           27058.0                     Th.Schiekel+         (96)O0284102 
+ 1001 28000   3 459 C  2.8200+8 1060000. 0.019500 1.8000-3           27058.0                     Th.Schiekel+         (96)O0284102 
+ 1001 28000   3 459 C  3.2600+8 1750000. 0.013700 1.4300-3           27058.0                     Th.Schiekel+         (96)O0284102 
+ 1001 28000   3 459 C  3.4100+8 1590000. 0.012300 1.3900-3           27058.0                     Th.Schiekel+         (96)O0284102 
+ 1001 28000   3 459 C  3.4800+8 1590000. 0.013300 1.3700-3           27058.0                     Th.Schiekel+         (96)O0284102 
+ 1001 28000   3 459 C  3.6300+8 1330000. 0.014200 1.4600-3           27058.0                     Th.Schiekel+         (96)O0284102 
+ 1001 28000   3 459 C  3.7800+8 1090000. 0.012200 1.3800-3           27058.0                     Th.Schiekel+         (96)O0284102 
+ 1001 28000   3 459 C  3.8400+8 1040000. 0.014900 1.5300-3           27058.0                     Th.Schiekel+         (96)O0284102 
+#/DATA      12
+#/DATASET

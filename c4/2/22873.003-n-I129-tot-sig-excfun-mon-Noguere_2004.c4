@@ -1,0 +1,41 @@
+#ENTRY      22873
+#AUTHOR1    G.Noguere+
+#YEAR       2004
+#INSTITUTE  (2FR CAD)
+#TITLE      .Average neutron capture and total cross sections of
+#+          I-129 from 3.5 to 100 keV
+#AUTHOR(S)  G.Noguere, A.Brusegan, A.Lepretre, N.Herault, O.Bouland, 
+#+          G.Rudolf
+#REF-CODE   (C,2004SANTA,,1462,200409)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn., Santa Fe 2004 page 1462
+#DATASETS   0
+#
+#DATASET    22873003 
+#DATE       20090507
+#REACTION   53-I-129(N,TOT),,SIG
+#PROJ       1
+#TARG       53129
+#MF         3
+#MT         1
+#C4BEGIN    [    1 53129   3   1 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 53129   3   1 D  3650.000          8.806000 0.307000                                       G.Noguere+           (04)22873  3 
+    1 53129   3   1 D  4500.000          8.587000 0.315500                                       G.Noguere+           (04)22873  3 
+    1 53129   3   1 D  5500.000          7.145000 0.329800                                       G.Noguere+           (04)22873  3 
+    1 53129   3   1 D  6500.000          7.794000 0.293700                                       G.Noguere+           (04)22873  3 
+    1 53129   3   1 D  7500.000          6.802000 0.320400                                       G.Noguere+           (04)22873  3 
+    1 53129   3   1 D  8500.000          7.246000 0.314000                                       G.Noguere+           (04)22873  3 
+    1 53129   3   1 D  9500.000          6.385000 0.330800                                       G.Noguere+           (04)22873  3 
+    1 53129   3   1 D  12500.00          6.292000 0.320100                                       G.Noguere+           (04)22873  3 
+    1 53129   3   1 D  17500.00          6.695000 0.296400                                       G.Noguere+           (04)22873  3 
+    1 53129   3   1 D  22500.00          5.749000 0.319500                                       G.Noguere+           (04)22873  3 
+    1 53129   3   1 D  27500.00          5.122000 0.352200                                       G.Noguere+           (04)22873  3 
+    1 53129   3   1 D  32500.00          5.529000 0.343800                                       G.Noguere+           (04)22873  3 
+    1 53129   3   1 D  37500.00          4.955000 0.392100                                       G.Noguere+           (04)22873  3 
+    1 53129   3   1 D  42500.00          5.531000 0.385500                                       G.Noguere+           (04)22873  3 
+    1 53129   3   1 D  47500.00          5.240000 0.385000                                       G.Noguere+           (04)22873  3 
+    1 53129   3   1 D  52500.00          5.402000 0.371500                                       G.Noguere+           (04)22873  3 
+#/DATA      16
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      22393
+#AUTHOR1    Y.Kasugai+
+#YEAR       1997
+#INSTITUTE  (2JPNJAE)
+#TITLE      Activation cross section measurements for La, Ce, Pr,
+#+          Nd, Gd, Dy AND Er isotopes by 14 MeV neutrons
+#AUTHOR(S)  Y.Kasugai, Y.Ikeda, Y.Uno
+#REF-CODE   (C,97TRIEST,1,635,199705)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 635
+#DATASETS   0
+#
+#DATASET    22393006 
+#DATE       19980723
+#REACTION   58-CE-140(N,2N)58-CE-139,,SIG
+#PROJ       1
+#TARG       58140
+#MF         3
+#MT         16
+#PRODUCT    58-CE-139
+#C4BEGIN    [    1 58140   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 58140   3  16    1.3380+7          1.560000 0.090000                                       Y.Kasugai+           (97)22393  6 
+    1 58140   3  16    1.3700+7          1.580000 0.090000                                       Y.Kasugai+           (97)22393  6 
+    1 58140   3  16    1.4030+7          1.650000 0.080000                                       Y.Kasugai+           (97)22393  6 
+    1 58140   3  16    1.4360+7          1.690000 0.090000                                       Y.Kasugai+           (97)22393  6 
+    1 58140   3  16    1.4660+7          1.630000 0.090000                                       Y.Kasugai+           (97)22393  6 
+    1 58140   3  16    1.4950+7          1.690000 0.120000                                       Y.Kasugai+           (97)22393  6 
+#/DATA      6
+#/DATASET

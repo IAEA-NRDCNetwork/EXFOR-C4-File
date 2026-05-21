@@ -1,0 +1,35 @@
+#ENTRY      13960
+#AUTHOR1    K.H.Guber+
+#YEAR       2003
+#INSTITUTE  (1USAORL)
+#TITLE      Neutron capture reaction rates for silicon and their
+#+          impact on the origin of presolar mainstream SiC grains
+#AUTHOR(S)  K.H.Guber, P.E.Koehler, H.Derrien, T.E.Valentine, L.C.Leal, 
+#+          R.O.Sayer, T.Rauscher
+#REF-CODE   (J,PR/C,67,062802,2003)
+#REFERENCE  Phys.Rev.C 67 (2003) 062802 (doi:10.1103/PhysRevC.67.062802)
+#DATASETS   0
+#
+#DATASET    13960002 
+#DATE       20150729
+#REACTION   14-SI-28(N,G)14-SI-29,,SIG,,MXW
+#PROJ       1
+#TARG       14028
+#MF         3
+#MT         102
+#PRODUCT    14-SI-29
+#C4BEGIN    [    1 14028   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14028   3 102 D  5000.000          1.9000-4 1.0000-5                                       K.H.Guber+           (03)13960  2 
+    1 14028   3 102 D  8000.000          2.4000-4 1.0000-5                                       K.H.Guber+           (03)13960  2 
+    1 14028   3 102 D  10000.00          3.3000-4 2.0000-5                                       K.H.Guber+           (03)13960  2 
+    1 14028   3 102 D  15000.00          6.5000-4 3.0000-5                                       K.H.Guber+           (03)13960  2 
+    1 14028   3 102 D  20000.00          9.4000-4 5.0000-5                                       K.H.Guber+           (03)13960  2 
+    1 14028   3 102 D  25000.00          1.1100-3 6.0000-5                                       K.H.Guber+           (03)13960  2 
+    1 14028   3 102 D  30000.00          1.1900-3 6.0000-5                                       K.H.Guber+           (03)13960  2 
+    1 14028   3 102 D  40000.00          1.2300-3 6.0000-5                                       K.H.Guber+           (03)13960  2 
+    1 14028   3 102 D  50000.00          1.1800-3 6.0000-5                                       K.H.Guber+           (03)13960  2 
+#/DATA      9
+#/DATASET

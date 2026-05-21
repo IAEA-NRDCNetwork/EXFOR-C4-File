@@ -1,0 +1,26 @@
+#ENTRY      40735
+#AUTHOR1    V.A.Anufriev+
+#YEAR       1983
+#INSTITUTE  (4RUSNIR)
+#TITLE      Measurement of the total cross-section and resonance
+#+          parameters of 249Cf in the  energy range 0.02-66.eV
+#AUTHOR(S)  V.A.Anufriev, A.B.Alekseev, S.I.Babich, Yu.V.Efremov, E.A.Erin, 
+#+          N.G.Kocherygin, V.N.Nefedov, G.A.Timofeev, S.N.Nikol'skii
+#REF-CODE   (J,AE,55,285,1983)
+#REFERENCE  At.En. 55 (1983) 285
+#DATASETS   0
+#
+#DATASET    40735002 
+#DATE       20180320
+#REACTION   98-CF-249(N,TOT),,SIG
+#PROJ       1
+#TARG       98249
+#MF         3
+#MT         1
+#C4BEGIN    [    1 98249   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 98249   3   1    0.025000          2400.000 200.0000                                       V.A.Anufriev+        (83)40735  2 
+#/DATA      1
+#/DATASET

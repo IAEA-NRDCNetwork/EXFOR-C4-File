@@ -1,0 +1,33 @@
+#ENTRY      A1350
+#AUTHOR1    A.K.Valter+
+#YEAR       1961
+#INSTITUTE  (4UKRKFT)
+#TITLE      Neutron yield of the reactions 6Li(t,n) and 7Li(t,n)
+#AUTHOR(S)  A.K.Valter, P.I.Vatset, L.Y.Kolesnikov, S.G.Tonapetyan, 
+#+          K.K.Chernyavskii, A.I.Shpetnyi
+#REF-CODE   (J,AE,10,577,1961)
+#REFERENCE  At.En. 10 (1961) 577
+#DATASETS   0
+#
+#DATASET    A1350004 
+#DATE       20180421
+#REACTION   3-LI-6(T,X)0-NN-1,,SIG
+#PROJ       1003
+#TARG       3006
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1003  3006   3 201 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  3006   3 201 D  358000.0          0.016350 2.0000-3                                       A.K.Valter+          (61)A1350  4 
+ 1003  3006   3 201 D  559000.0          0.043500 5.3000-3                                       A.K.Valter+          (61)A1350  4 
+ 1003  3006   3 201 D  761000.0          0.072950 9.5000-3                                       A.K.Valter+          (61)A1350  4 
+ 1003  3006   3 201 D  1066000.          0.110000 9.9000-3                                       A.K.Valter+          (61)A1350  4 
+ 1003  3006   3 201 D  1218000.          0.138100 0.011600                                       A.K.Valter+          (61)A1350  4 
+ 1003  3006   3 201 D  1370000.          0.143300 0.013000                                       A.K.Valter+          (61)A1350  4 
+ 1003  3006   3 201 D  1572000.          0.162900 0.016500                                       A.K.Valter+          (61)A1350  4 
+ 1003  3006   3 201 D  2123000.          0.324500 0.032300                                       A.K.Valter+          (61)A1350  4 
+#/DATA      8
+#/DATASET

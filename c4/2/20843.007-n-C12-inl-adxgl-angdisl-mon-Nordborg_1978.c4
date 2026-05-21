@@ -1,0 +1,27 @@
+#ENTRY      20843
+#AUTHOR1    C.Nordborg+
+#YEAR       1978
+#INSTITUTE  (2SWDUPP)
+#TITLE      -Gamma-ray Production Cross Sections Of Neutron-induced
+#+          Reactions In Oxygen-.
+#AUTHOR(S)  C.Nordborg, L.Nilsson, H.Conde, L-G.Stroemberg
+#REF-CODE   (J,NSE,66,75,197804)
+#REFERENCE  Nucl.Sci.Eng. 66 (1978) 75 (doi:10.13182/NSE78-A15189)
+#DATASETS   0
+#
+#DATASET    20843007 
+#DATE       20160620
+#REACTION   6-C-12(N,INL)6-C-12,PAR,DA,G
+#PROJ       1
+#TARG       6012
+#MF         14
+#MT         51
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012  14  51 A  8600000.          0.023400 2.1000-3 0.573576          4440000.            C.Nordborg+          (78)20843  7 
+    1  6012  14  51 A  8600000.          0.014600 1.3000-3 6.123-17          4440000.            C.Nordborg+          (78)20843  7 
+#/DATA      2
+#/DATASET

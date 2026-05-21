@@ -1,0 +1,28 @@
+#ENTRY      A0119
+#AUTHOR1    R.C.Rudy+
+#YEAR       1973
+#INSTITUTE  (1USAPUR)
+#TITLE      Spallation reactions of 6Li with 238U
+#AUTHOR(S)  R.C.Rudy
+#REF-CODE   (R,COO-1716-17,15,1973)
+#REFERENCE  Report COO-1716-17 page 15, 1973
+#DATASETS   0
+#
+#DATASET    A0119003 
+#DATE       20240716
+#REACTION   92-U-0(3-LI-6,X)95-AM-238,,SIG
+#PROJ       3006
+#TARG       92000
+#MF         3
+#MT         454
+#PRODUCT    95-AM-238
+#C4BEGIN    [ 3006 92000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 92000   3 454    4.7900+7 1500000. 3.6000-4 5.0000-5           95238.9                     R.C.Rudy             (73)A0119  3 
+ 3006 92000   3 454    5.1600+7 1500000. 4.7000-4 8.0000-5           95238.9                     R.C.Rudy             (73)A0119  3 
+ 3006 92000   3 454    5.6100+7 1500000. 1.9000-4 1.0000-5           95238.9                     R.C.Rudy             (73)A0119  3 
+ 3006 92000   3 454    5.8700+7 1500000. 2.1000-4 2.0000-5           95238.9                     R.C.Rudy             (73)A0119  3 
+#/DATA      4
+#/DATASET

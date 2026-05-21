@@ -1,0 +1,34 @@
+#ENTRY      10445
+#AUTHOR1    L.R.Veeser+
+#YEAR       1977
+#INSTITUTE  (1USALAS)
+#TITLE      Cross sections for (n,2n) and (n,3n) reaction above
+#+          14 MeV
+#AUTHOR(S)  L.R.Veeser, E.D.Arthur, P.G.Young
+#REF-CODE   (J,PR/C,16,1792,197711)
+#REFERENCE  Phys.Rev.C 16 (1977) 1792 (doi:10.1103/PhysRevC.16.1792)
+#DATASETS   0
+#
+#DATASET    10445016 
+#DATE       20030530
+#REACTION   69-TM-169(N,3N)69-TM-167,,SIG
+#PROJ       1
+#TARG       69169
+#MF         3
+#MT         17
+#PRODUCT    69-TM-167
+#C4BEGIN    [    1 69169   3  17 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 69169   3  17 A  1.6000+7 200000.0 0.070000 0.027000                                       L.R.Veeser+          (77)10445 16 
+    1 69169   3  17 A  1.7000+7 200000.0 0.241000 0.026000                                       L.R.Veeser+          (77)10445 16 
+    1 69169   3  17 A  1.8000+7 150000.0 0.516000 0.046000                                       L.R.Veeser+          (77)10445 16 
+    1 69169   3  17 A  1.9000+7 150000.0 0.892000 0.056000                                       L.R.Veeser+          (77)10445 16 
+    1 69169   3  17 A  2.0000+7 110000.0 1.059000 0.074000                                       L.R.Veeser+          (77)10445 16 
+    1 69169   3  17 A  2.1000+7 120000.0 1.216000 0.074000                                       L.R.Veeser+          (77)10445 16 
+    1 69169   3  17 A  2.2000+7 100000.0 1.319000 0.083000                                       L.R.Veeser+          (77)10445 16 
+    1 69169   3  17 A  2.3000+7 70000.00 1.389000 0.094000                                       L.R.Veeser+          (77)10445 16 
+    1 69169   3  17 A  2.4000+7 60000.00 1.551000 0.100000                                       L.R.Veeser+          (77)10445 16 
+#/DATA      9
+#/DATASET

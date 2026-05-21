@@ -1,0 +1,31 @@
+#ENTRY      E0094
+#AUTHOR1    T.Maki+
+#YEAR       1978
+#INSTITUTE  (2JPNKYU)
+#TITLE      An Analysis of Cross Section Fluctuations in the
+#+          Reaction 55Mn(p,p)55Mn
+#AUTHOR(S)  T.Maki
+#REF-CODE   (J,JPJ,44,16,197801)
+#REFERENCE  J.Phys.Soc.Jpn. 44 (1978) 16 (doi:10.1143/JPSJ.44.16)
+#DATASETS   0
+#
+#DATASET    E0094004 
+#DATE       20110518
+#REACTION   25-MN-55(P,EL)25-MN-55,,DA
+#PROJ       1001
+#TARG       25055
+#MF         4
+#MT         2
+#PRODUCT    25-MN-55
+#C4BEGIN    [ 1001 25055   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 25055   4   2  C 5160000. 1000.000 1.322000          0.693905                              T.Maki               (78)E0094  4 
+ 1001 25055   4   2  C 5160000. 1000.000 0.105400         -6.1086-3                              T.Maki               (78)E0094  4 
+ 1001 25055   4   2  C 5160000. 1000.000 0.062940         -0.398749                              T.Maki               (78)E0094  4 
+ 1001 25055   4   2  C 5160000. 1000.000 0.051520         -0.854459                              T.Maki               (78)E0094  4 
+ 1001 25055   4   2  C 5160000. 1000.000 0.046530         -0.957822                              T.Maki               (78)E0094  4 
+ 1001 25055   4   2  C 5160000. 1000.000 0.046790         -0.992966                              T.Maki               (78)E0094  4 
+#/DATA      6
+#/DATASET

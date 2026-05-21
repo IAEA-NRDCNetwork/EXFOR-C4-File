@@ -1,0 +1,36 @@
+#ENTRY      40514
+#AUTHOR1    G.P.Dolya+
+#YEAR       1975
+#INSTITUTE  (4UKRKFT)
+#TITLE      Differential and integral cross-sections for
+#+          (N,ALFA) reactions on nuclei Fe-54,-56,-57,-58
+#+          and Ni-58,-60,-62 at neutron energy  14.7 MeV
+#AUTHOR(S)  G.P.Dolya, A.P.Klyucharev, V.P.Bozhko, V.Ya.Golovnya, A.S.Kachan, 
+#+          A.I.Tutubalin
+#REF-CODE   (C,75KIEV,4,173,1975)
+#REFERENCE  Proceedings of 3.All Union Conf.on Neutron Phys.,Kiev,9-13 Jun 1975 4 page 173
+#DATASETS   0
+#
+#DATASET    40514014 
+#DATE       20230724
+#REACTION   28-NI-62(N,X)2-HE-4,,DA
+#PROJ       1
+#TARG       28062
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1 28062   4 207 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28062   4 207 A  1.4700+7          3.2000-3 3.0000-4 1.000000                              G.P.Dolya+           (75)40514 14 
+    1 28062   4 207 A  1.4700+7          2.3000-3 3.0000-4 0.939693                              G.P.Dolya+           (75)40514 14 
+    1 28062   4 207 A  1.4700+7          2.4000-3 3.0000-4 0.766044                              G.P.Dolya+           (75)40514 14 
+    1 28062   4 207 A  1.4700+7          2.3000-3 3.0000-4 0.500000                              G.P.Dolya+           (75)40514 14 
+    1 28062   4 207 A  1.4700+7          2.1000-3 2.0000-4 0.173648                              G.P.Dolya+           (75)40514 14 
+    1 28062   4 207 A  1.4700+7          2.1000-3 2.0000-4 6.123-17                              G.P.Dolya+           (75)40514 14 
+    1 28062   4 207 A  1.4700+7          1.9000-3 3.0000-4-0.173648                              G.P.Dolya+           (75)40514 14 
+    1 28062   4 207 A  1.4700+7          3.3000-3 3.0000-4-0.500000                              G.P.Dolya+           (75)40514 14 
+    1 28062   4 207 A  1.4700+7          3.4000-3 6.0000-4-0.766044                              G.P.Dolya+           (75)40514 14 
+#/DATA      9
+#/DATASET

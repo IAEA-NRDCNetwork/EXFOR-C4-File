@@ -1,0 +1,28 @@
+#ENTRY      20593
+#AUTHOR1    I.Kimura+
+#YEAR       1973
+#INSTITUTE  (2JPNKTO)
+#TITLE      Measurement of average cross sections for some
+#+          threshold reactions by means of a small fission
+#+          foil in large thermal neutron field
+#AUTHOR(S)  I.Kimura, K.Kobayashi, T.Shibata
+#REF-CODE   (J,NST,10,574,1973)
+#REFERENCE  J.Nucl.Sci.Technol. 10 (1973) 574 (doi:10.1080/18811248.1973.9735451)
+#DATASETS   0
+#
+#DATASET    20593004 
+#DATE       20211219
+#REACTION   49-IN-115(N,INL)49-IN-115-M,,SIG,,FIS
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         4
+#PRODUCT    49-IN-115-M
+#C4BEGIN    [    1 49115   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3   4M   1500000.          0.176500 8.8000-3                                       I.Kimura+            (73)20593  4 
+    1 49115   3   4M   1500000.          0.177400 9.8000-3                                       I.Kimura+            (73)20593  4 
+#/DATA      2
+#/DATASET

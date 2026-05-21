@@ -1,0 +1,27 @@
+#ENTRY      31527
+#AUTHOR1    Gongping Li+
+#YEAR       2002
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Cross section measurements for (n,3n) reactions
+#+          induced by 14.8 MeV neutrons
+#AUTHOR(S)  Gongping Li, Zhongsheng Pu, Xiangzhong Kong, Feng Zhang, 
+#+          Xuebin Zhu
+#REF-CODE   (J,ARI,56,731,200205)
+#REFERENCE  Appl.Radiat.Isot. 56 (2002) 731 (doi:10.1016/S0969-8043(01)00247-0)
+#DATASETS   0
+#
+#DATASET    31527005 
+#DATE       20030320
+#REACTION   75-RE-185(N,3N)75-RE-183,,SIG
+#PROJ       1
+#TARG       75185
+#MF         3
+#MT         17
+#PRODUCT    75-RE-183
+#C4BEGIN    [    1 75185   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 75185   3  17    1.4800+7 200000.0 0.066000 5.6000-3                                       Gongping Li+         (02)31527  5 
+#/DATA      1
+#/DATASET

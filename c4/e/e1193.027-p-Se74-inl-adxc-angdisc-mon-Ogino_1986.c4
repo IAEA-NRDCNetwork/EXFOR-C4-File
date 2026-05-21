@@ -1,0 +1,31 @@
+#ENTRY      E1193
+#AUTHOR1    K.Ogino+
+#YEAR       1986
+#INSTITUTE  (2JPNKTO)
+#TITLE      74, 76, 78, 80, 82Se by inelastic scattering of 64.8
+#+          MeV protons
+#AUTHOR(S)  K.Ogino
+#REF-CODE   (J,PR/C,33,(1),71,1986)
+#REFERENCE  Phys.Rev.C 33 No.1 (1986) 71 (doi:10.1103/PhysRevC.33.71)
+#DATASETS   0
+#
+#DATASET    E1193027 
+#DATE       20060214
+#REACTION   34-SE-74(P,INL)34-SE-74,PAR,DA
+#PROJ       1001
+#TARG       34074
+#MF         4
+#MT         601
+#PRODUCT    34-SE-74
+#C4BEGIN    [ 1001 34074   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 34074   4 601  C 6.4800+7          1.9140-4 2.2760-5 0.975304          4005000. 4000.000LVLK.Ogino              (86)E1193 27 
+ 1001 34074   4 601  C 6.4800+7          1.7110-4 2.0340-5 0.956712          4005000. 4000.000LVLK.Ogino              (86)E1193 27 
+ 1001 34074   4 601  C 6.4800+7          1.3670-4 1.6250-5 0.933955          4005000. 4000.000LVLK.Ogino              (86)E1193 27 
+ 1001 34074   4 601  C 6.4800+7          9.6480-5 1.2690-5 0.905421          4005000. 4000.000LVLK.Ogino              (86)E1193 27 
+ 1001 34074   4 601  C 6.4800+7          4.5970-5 8.4360-6 0.873007          4005000. 4000.000LVLK.Ogino              (86)E1193 27 
+ 1001 34074   4 601  C 6.4800+7          1.2630-5 5.2620-6 0.834175          4005000. 4000.000LVLK.Ogino              (86)E1193 27 
+#/DATA      6
+#/DATASET

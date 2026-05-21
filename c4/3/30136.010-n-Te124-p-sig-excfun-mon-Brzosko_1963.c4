@@ -1,0 +1,27 @@
+#ENTRY      30136
+#AUTHOR1    J.Brzosko+
+#YEAR       1963
+#INSTITUTE  (3POLWWA)
+#TITLE      The cross sections of (n,p) reactions producing
+#+          isomeric and ground states of indium and antimony
+#+          isotopes
+#AUTHOR(S)  J.Brzosko, P.Decowski, Z.Wilhelmi
+#REF-CODE   (J,NP,45,579,1963)
+#REFERENCE  Nucl.Phys. 45 (1963) 579 (doi:10.1016/0029-5582(63)90833-2)
+#DATASETS   0
+#
+#DATASET    30136010 
+#DATE       20100303
+#REACTION   52-TE-124(N,P)51-SB-124-G,,SIG
+#PROJ       1
+#TARG       52124
+#MF         3
+#MT         103
+#PRODUCT    51-SB-124-G
+#C4BEGIN    [    1 52124   3 103G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52124   3 103G   1.4200+7 200000.0 0.144000 0.040000                                       J.Brzosko+           (63)30136 10 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      41102
+#AUTHOR1    G.A.Prokopets+
+#YEAR       1980
+#INSTITUTE  (4UKRKGU)
+#TITLE      Neutron production cross sections for Fe, Au, and Bi
+#+          nuclei at an energy E0=20.6 MeV
+#AUTHOR(S)  G.A.Prokopets
+#REF-CODE   (R,INDC(CCP)-169,(2),54,1980)
+#REFERENCE  Report INDC(CCP)-169 Vol.(2) page 54, 1980
+#DATASETS   0
+#
+#DATASET    41102007 
+#DATE       20240916
+#REACTION   41-NB-93(N,X)0-NN-1,,SIG
+#PROJ       1
+#TARG       41093
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    1 41093   3 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093   3 201    2.0600+7 93000.00 3.210000 0.642000                                       G.A.Prokopets        (80)41102  7 
+#/DATA      1
+#/DATASET

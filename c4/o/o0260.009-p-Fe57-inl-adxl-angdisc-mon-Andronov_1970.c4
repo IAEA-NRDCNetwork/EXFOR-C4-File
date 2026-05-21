@@ -1,0 +1,35 @@
+#ENTRY      O0260
+#AUTHOR1    Yu.F.Andronov+
+#YEAR       1970
+#INSTITUTE  (4RUSSUL)
+#TITLE      Elastic and Inelastic Protons Scattering on the
+#+          Iron Isotopes.
+#AUTHOR(S)  Yu.F.Andronov, A.E.Antropov, P.P.Zarubin, P.D.Ioannu, V.I.Nikitaeva, 
+#+          B.N.Orlov, V.S.Romanov
+#REF-CODE   (J,IZV,34,2168,70)
+#REFERENCE  Izv.Ross.AN,Fiz. 34 (1970) 2168
+#DATASETS   0
+#
+#DATASET    O0260009 
+#DATE       19961224
+#REACTION   26-FE-57(P,INL)26-FE-57,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       26057
+#MF         4
+#MT         601
+#PRODUCT    26-FE-57
+#C4BEGIN    [ 1001 26057   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26057   4 601  C 6000000.          2.9000-4 7.0000-5 0.317305 0.011586 135000.0         LVLYu.F.Andronov+       (70)O0260  9 
+ 1001 26057   4 601  C 6000000.          6.5000-4 5.0000-5-0.099320 0.012157 135000.0         LVLYu.F.Andronov+       (70)O0260  9 
+ 1001 26057   4 601  C 6000000.          5.8000-4 4.0000-5-0.310676 0.011613 135000.0         LVLYu.F.Andronov+       (70)O0260  9 
+ 1001 26057   4 601  C 6000000.          5.2900-4 5.1000-5-0.481754 0.010706 135000.0         LVLYu.F.Andronov+       (70)O0260  9 
+ 1001 26057   4 601  C 6000000.          5.3100-4 5.0000-5-0.560639 0.010117 135000.0         LVLYu.F.Andronov+       (70)O0260  9 
+ 1001 26057   4 601  C 6000000.          4.8100-4 7.9000-5-0.678160 8.9787-3 135000.0         LVLYu.F.Andronov+       (70)O0260  9 
+ 1001 26057   4 601  C 6000000.          2.9800-4 7.8000-5-0.772734 7.7547-3 135000.0         LVLYu.F.Andronov+       (70)O0260  9 
+ 1001 26057   4 601  C 6000000.          2.8300-4 5.8000-5-0.876307 5.8857-3 135000.0         LVLYu.F.Andronov+       (70)O0260  9 
+ 1001 26057   4 601  C 6000000.          3.3000-4 6.0000-5-0.916363 4.8912-3 135000.0         LVLYu.F.Andronov+       (70)O0260  9 
+#/DATA      9
+#/DATASET

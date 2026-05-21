@@ -1,0 +1,25 @@
+#ENTRY      40559
+#AUTHOR1    A.I.Tutubalin+
+#YEAR       1977
+#INSTITUTE  (4UKRKFT)
+#TITLE      Total cross-sections of 14.7 MeV neutrons interaction
+#+          with nuclei Ni, Mo, Sn, W, Bi
+#AUTHOR(S)  A.I.Tutubalin, V.P.Bozhko, D.D.Dakhno, G.P.Dolya
+#REF-CODE   (R,INDC(CCP)-118,(2),65,1977)
+#REFERENCE  Report INDC(CCP)-118 Vol.(2) page 65, 1977
+#DATASETS   0
+#
+#DATASET    40559005 
+#DATE       20230724
+#REACTION   42-MO-0(N,TOT),,SIG
+#PROJ       1
+#TARG       42000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 42000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42000   3   1    1.4700+7          4.060000 0.030000                                       A.I.Tutubalin+       (77)40559  5 
+#/DATA      1
+#/DATASET

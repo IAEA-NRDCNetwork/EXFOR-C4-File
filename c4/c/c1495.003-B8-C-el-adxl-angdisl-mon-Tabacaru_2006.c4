@@ -1,0 +1,37 @@
+#ENTRY      C1495
+#AUTHOR1    G.Tabacaru+
+#YEAR       2006
+#INSTITUTE  (1USATAM)
+#TITLE      Scattering of 7Be and 8B and the astrophysical S17
+#+          factor
+#AUTHOR(S)  G.Tabacaru, A.Azhari, J.Brinkley, V.Burjan, F.Carstoiu, 
+#+          C.Fu, C.A.Gagliardi, V.Kroha, A.M.Mukhamedzhanov, X.Tang, 
+#+          L.Trache, R.E.Tribble, S.Zhou
+#REF-CODE   (J,PR/C,73,025808,2006)
+#REFERENCE  Phys.Rev.C 73 (2006) 025808 (doi:10.1103/PhysRevC.73.025808)
+#DATASETS   0
+#
+#DATASET    C1495003 
+#DATE       20061229
+#REACTION   6-C-0(5-B-8,EL)6-C-0,,DA
+#PROJ       5008
+#TARG       6000
+#MF         4
+#MT         2
+#PRODUCT    6-C-0
+#C4BEGIN    [ 5008  6000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5008  6000   4   2    9.5000+7          8.367000          0.991070                              G.Tabacaru+          (06)C1495  3 
+ 5008  6000   4   2    9.5000+7          4.071000          0.986329                              G.Tabacaru+          (06)C1495  3 
+ 5008  6000   4   2    9.5000+7          1.017000          0.978423                              G.Tabacaru+          (06)C1495  3 
+ 5008  6000   4   2    9.5000+7          0.344900          0.970207                              G.Tabacaru+          (06)C1495  3 
+ 5008  6000   4   2    9.5000+7          0.132800          0.959186                              G.Tabacaru+          (06)C1495  3 
+ 5008  6000   4   2    9.5000+7          0.041960          0.941323                              G.Tabacaru+          (06)C1495  3 
+ 5008  6000   4   2    9.5000+7          0.038430          0.921741                              G.Tabacaru+          (06)C1495  3 
+ 5008  6000   4   2    9.5000+7          0.028340          0.904142                              G.Tabacaru+          (06)C1495  3 
+ 5008  6000   4   2    9.5000+7          0.013080          0.879200                              G.Tabacaru+          (06)C1495  3 
+ 5008  6000   4   2    9.5000+7          1.7360-3 5.8970-4 0.860573                              G.Tabacaru+          (06)C1495  3 
+#/DATA      10
+#/DATASET

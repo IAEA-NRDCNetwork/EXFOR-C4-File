@@ -1,0 +1,32 @@
+#ENTRY      11708
+#AUTHOR1    W.E.Kinney+
+#YEAR       1968
+#INSTITUTE  (1USAORL)
+#TITLE      Neutron elastic and inelastic scattering from Fe56 from
+#+          4.60 to 7.55 MeV.
+#AUTHOR(S)  W.E.Kinney
+#REF-CODE   (R,ORNL-TM-2052,1968)
+#REFERENCE  Report ORNL-TM-2052, 1968
+#DATASETS   0
+#
+#DATASET    11708003 
+#DATE       20200503
+#REACTION   26-FE-56(N,EL)26-FE-56,,SIG
+#PROJ       1
+#TARG       26056
+#MF         3
+#MT         2
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   3   2 D  4600000. 50000.00 2.200000 0.300000                                       W.E.Kinney           (68)11708  3 
+    1 26056   3   2 D  5000000. 40000.00 1.960000 0.100000                                       W.E.Kinney           (68)11708  3 
+    1 26056   3   2 D  5040000. 40000.00 2.070000 0.100000                                       W.E.Kinney           (68)11708  3 
+    1 26056   3   2 D  5560000. 40000.00 1.960000 0.110000                                       W.E.Kinney           (68)11708  3 
+    1 26056   3   2 D  6120000. 40000.00 1.970000 0.110000                                       W.E.Kinney           (68)11708  3 
+    1 26056   3   2 D  6530000. 30000.00 1.960000 0.050000                                       W.E.Kinney           (68)11708  3 
+    1 26056   3   2 D  7550000. 40000.00 1.910000 0.030000                                       W.E.Kinney           (68)11708  3 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      40515
+#AUTHOR1    V.M.Bezotosnyj+
+#YEAR       1980
+#INSTITUTE  (4RUSKUR)
+#TITLE      The spectra and formation cross-sections of the
+#+          discrete gamma-lines in the nonelastic interaction of
+#+          14 MeV neutrons with Mg,Si,P,S,Ti and Zn nuclei
+#AUTHOR(S)  V.M.Bezotosnyj, V.M.Gorbachjov, M.S.Shvetsov, L.M.Surov
+#REF-CODE   (C,80KIEV,2,21,1980)
+#REFERENCE  Proceedings of 5.All Union Conf.on Neutron Phys.,Kiev,15-19 Sep 1980 2 page 21
+#DATASETS   0
+#
+#DATASET    40515007 
+#DATE       20191212
+#REACTION   30-ZN-0(N,INL)30-ZN-0,PAR,SIG,G
+#PROJ       1
+#TARG       30000
+#MF         13
+#MT         51
+#PRODUCT    30-ZN-0
+#C4BEGIN    [    1 30000  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 30000  13  51    1.4000+7          0.081000 0.015000                   800000.0            V.M.Bezotosnyj+      (80)40515  7 
+    1 30000  13  51    1.4000+7          0.590000 0.110000                   1000000.            V.M.Bezotosnyj+      (80)40515  7 
+    1 30000  13  51    1.4000+7          0.255000 0.036000                   1300000.            V.M.Bezotosnyj+      (80)40515  7 
+    1 30000  13  51    1.4000+7          0.065000 0.010000                   1780000.            V.M.Bezotosnyj+      (80)40515  7 
+#/DATA      4
+#/DATASET

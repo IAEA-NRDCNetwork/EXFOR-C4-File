@@ -1,0 +1,34 @@
+#ENTRY      D0726
+#AUTHOR1    A.Vasidov+
+#YEAR       1981
+#INSTITUTE  (4UZ UZB)
+#TITLE      The excitation functions of nuclear reactions (p,n)
+#+          on the isotopes Te, Cs, Ba
+#AUTHOR(S)  A.Vasidov, G.Vakilova, S.Muhammedov
+#REF-CODE   (J,IZU,,(3),93,1981)
+#REFERENCE  Izv.AN.Uz.,Fiz.Mat.  No.3 (1981) 93
+#DATASETS   0
+#
+#DATASET    D0726004 
+#DATE       20131127
+#REACTION   55-CS-133(P,N)56-BA-133-M,,SIG
+#PROJ       1001
+#TARG       55133
+#MF         3
+#MT         4
+#PRODUCT    56-BA-133-M
+#C4BEGIN    [ 1001 55133   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 55133   3   4M   6400000.          0.019860 2.3832-3                                       A.Vasidov+           (81)D0726  4 
+ 1001 55133   3   4M   7570000.          0.025470 3.0564-3                                       A.Vasidov+           (81)D0726  4 
+ 1001 55133   3   4M   8340000.          0.043460 5.2152-3                                       A.Vasidov+           (81)D0726  4 
+ 1001 55133   3   4M   9960000.          0.104220 0.012506                                       A.Vasidov+           (81)D0726  4 
+ 1001 55133   3   4M   1.1360+7          0.163270 0.019592                                       A.Vasidov+           (81)D0726  4 
+ 1001 55133   3   4M   1.2680+7          0.228140 0.027377                                       A.Vasidov+           (81)D0726  4 
+ 1001 55133   3   4M   1.3580+7          0.311670 0.037400                                       A.Vasidov+           (81)D0726  4 
+ 1001 55133   3   4M   1.4830+7          0.232930 0.027952                                       A.Vasidov+           (81)D0726  4 
+ 1001 55133   3   4M   1.6110+7          0.112670 0.013520                                       A.Vasidov+           (81)D0726  4 
+#/DATA      9
+#/DATASET

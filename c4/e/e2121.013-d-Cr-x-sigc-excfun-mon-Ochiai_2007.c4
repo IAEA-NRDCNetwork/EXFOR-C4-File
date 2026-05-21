@@ -1,0 +1,27 @@
+#ENTRY      E2121
+#AUTHOR1    K.Ochiai+
+#YEAR       2007
+#INSTITUTE  (2JPNJAE)
+#TITLE      Deuteron induced activation cross section measurement
+#+          for IFMIF
+#AUTHOR(S)  K.Ochiai, M.Nakao, N.Kubota, S.Sato, M.Yamauchi, N.H.Ishioka, 
+#+          T.Nishitani, C.Konno
+#REF-CODE   (C,2007NICE,2,1011,2007)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 2 page 1011
+#DATASETS   0
+#
+#DATASET    E2121013 
+#DATE       20170216
+#REACTION   24-CR-0(D,X)23-V-48,(CUM),SIG
+#PROJ       1002
+#TARG       24000
+#MF         3
+#MT         459
+#PRODUCT    23-V-48
+#C4BEGIN    [ 1002 24000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 24000   3 459    3.9500+7          0.069300 9.8000-3           23048.9                     K.Ochiai+            (07)E2121 13 
+#/DATA      1
+#/DATASET

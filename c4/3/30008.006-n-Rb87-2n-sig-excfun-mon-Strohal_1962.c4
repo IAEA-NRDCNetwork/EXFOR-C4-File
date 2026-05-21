@@ -1,0 +1,26 @@
+#ENTRY      30008
+#AUTHOR1    P.Strohal+
+#YEAR       1962
+#INSTITUTE  (3CRORBZ)
+#TITLE      Reaction mechanism and shell effects from the
+#+          interaction of 14.6 MeV neutrons with nuclei
+#AUTHOR(S)  P.Strohal, N.Cindro, B.Eman
+#REF-CODE   (J,NP,30,49,196202)
+#REFERENCE  Nucl.Phys. 30 (1962) 49 (doi:10.1016/0029-5582(62)90031-7)
+#DATASETS   0
+#
+#DATASET    30008006 
+#DATE       20040109
+#REACTION   37-RB-87(N,2N)37-RB-86,,SIG
+#PROJ       1
+#TARG       37087
+#MF         3
+#MT         16
+#PRODUCT    37-RB-86
+#C4BEGIN    [    1 37087   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 37087   3  16    1.4600+7          0.838000 0.136000                                       P.Strohal+           (62)30008  6 
+#/DATA      1
+#/DATASET

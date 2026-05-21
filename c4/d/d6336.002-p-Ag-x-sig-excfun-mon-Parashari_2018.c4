@@ -1,0 +1,31 @@
+#ENTRY      D6336
+#AUTHOR1    S.Parashari+
+#YEAR       2018
+#INSTITUTE  (3INDBDA)
+#TITLE      Excitation function of the p + natAg reactions in the
+#+          energy range 10-22 MeV
+#AUTHOR(S)  S.Parashari, S.Mukherjee, S.V.Suryanarayana, R.Makwana, 
+#+          B.K.Nayak, A.Shanbhag, H.Naik
+#REF-CODE   (J,NP/A,979,102,2018)
+#REFERENCE  Nucl.Phys.A 979 (2018) 102 (doi:10.1016/j.nuclphysa.2018.09.042)
+#DATASETS   0
+#
+#DATASET    D6336002 
+#DATE       20191017
+#REACTION   47-AG-0(P,X)48-CD-107,,SIG
+#PROJ       1001
+#TARG       47000
+#MF         3
+#MT         454
+#PRODUCT    48-CD-107
+#C4BEGIN    [ 1001 47000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 47000   3 454    1.1130+7 280000.0 0.222520 0.020440           48107.9                     S.Parashari+         (18)D6336  2 
+ 1001 47000   3 454    1.3900+7 230000.0 0.175590 0.016850           48107.9                     S.Parashari+         (18)D6336  2 
+ 1001 47000   3 454    1.6770+7 200000.0 0.047760 4.6300-3           48107.9                     S.Parashari+         (18)D6336  2 
+ 1001 47000   3 454    1.9480+7 180000.0 0.028450 2.2500-3           48107.9                     S.Parashari+         (18)D6336  2 
+ 1001 47000   3 454    2.1820+7 170000.0 0.104180 9.8900-3           48107.9                     S.Parashari+         (18)D6336  2 
+#/DATA      5
+#/DATASET

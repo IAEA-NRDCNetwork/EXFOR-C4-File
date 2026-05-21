@@ -1,0 +1,34 @@
+#ENTRY      D5102
+#AUTHOR1    Yu.N.Pavlenko+
+#YEAR       2013
+#INSTITUTE  (4UKRIJD)
+#TITLE      Sub-barrier interaction of deuterons with 58, 62Ni,
+#+          124Sn and 208Pb nuclei
+#AUTHOR(S)  Yu.N.Pavlenko, O.I.Rundel, K.O.Terenetsky, V.P.Verbytskyy, 
+#+          I.P.Dryapachenko, V.V.Ostashko, O.K.Gorpinich, L.I.Slusarenko, 
+#+          Yu.Ya.Karlyshev, A.V.Stepanyuk, E.M.Mozhzhukhin
+#REF-CODE   (C,2012KYIV,,206,2013)
+#REFERENCE  Proceedings of 4 Int.Conf.Cur.Prob.in Nucl.Phys.Atom.Ene.,Kyiv,2012 page 206
+#DATASETS   0
+#
+#DATASET    D5102004 
+#DATE       20131111
+#REACTION   82-PB-208(D,P)82-PB-209,,DA
+#PROJ       1002
+#TARG       82208
+#MF         4
+#MT         103
+#PRODUCT    82-PB-209
+#C4BEGIN    [ 1002 82208   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 82208   4 103    7300000.          0.027442 1.3680-3 0.173648                              Yu.N.Pavlenko+       (13)D5102  4 
+ 1002 82208   4 103    7300000.          0.028675 1.4020-3 0.087156                              Yu.N.Pavlenko+       (13)D5102  4 
+ 1002 82208   4 103    7300000.          0.023964 9.4600-4-0.342020                              Yu.N.Pavlenko+       (13)D5102  4 
+ 1002 82208   4 103    7300000.          0.020131 7.1700-4-0.500000                              Yu.N.Pavlenko+       (13)D5102  4 
+ 1002 82208   4 103    7300000.          0.020064 6.8200-4-0.642788                              Yu.N.Pavlenko+       (13)D5102  4 
+ 1002 82208   4 103    7300000.          0.015656 6.9400-4-0.766044                              Yu.N.Pavlenko+       (13)D5102  4 
+ 1002 82208   4 103    7300000.          0.013213 5.1700-4-0.866025                              Yu.N.Pavlenko+       (13)D5102  4 
+#/DATA      7
+#/DATASET

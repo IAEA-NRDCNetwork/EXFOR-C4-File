@@ -1,0 +1,32 @@
+#ENTRY      E1895
+#AUTHOR1    C.Signorini+
+#YEAR       2004
+#INSTITUTE  (2ITYITY)
+#TITLE      Subbarrier fusion in the systems 11,10Be+209Bi
+#AUTHOR(S)  C.Signorini, A.Yoshida, Y.Watanabe, D.Pierroutsakou, L.Stroe, 
+#+          T.Fukuda, M.Mazzocco, N.Fukuda, Y.Mizoi, M.Ishihara, H.Sakurai, 
+#+          A.Diaz-Torres, K.Hagino
+#REF-CODE   (J,NP/A,735,(3-4),329,200405)
+#REFERENCE  Nucl.Phys.A 735 No.3-4 (2004) 329 (doi:10.1016/j.nuclphysa.2004.02.015)
+#DATASETS   0
+#
+#DATASET    E18950022
+#DATE       20050914
+#REACTION   83-BI-209(4-BE-11,5N)87-FR-215,,SIG
+#PROJ       4011
+#TARG       83209
+#MF         3
+#MT         152
+#PRODUCT    87-FR-215
+#C4BEGIN    [ 4011 83209   3 152  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4011 83209   3 152    4.6326+7          0.053100 0.019000                                       C.Signorini+         (04)E1895  22
+ 4011 83209   3 152    4.8431+7          0.146800 0.023300                                       C.Signorini+         (04)E1895  22
+ 4011 83209   3 152    5.0537+7          0.298100 0.026200                                       C.Signorini+         (04)E1895  22
+ 4011 83209   3 152    5.2643+7          0.433900 0.025200                                       C.Signorini+         (04)E1895  22
+ 4011 83209   3 152    5.4749+7          0.489300 0.021000                                       C.Signorini+         (04)E1895  22
+ 4011 83209   3 152    5.6855+7          0.536900 0.046700                                       C.Signorini+         (04)E1895  22
+#/DATA      6
+#/DATASET

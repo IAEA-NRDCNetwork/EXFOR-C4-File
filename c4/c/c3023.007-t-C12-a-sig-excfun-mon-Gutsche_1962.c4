@@ -1,0 +1,33 @@
+#ENTRY      C3023
+#AUTHOR1    G.D.Gutsche+
+#YEAR       1962
+#INSTITUTE  (1USANRL)
+#TITLE      Differential cross sections for tritium-induced
+#+          reactions on C12
+#AUTHOR(S)  G.D.Gutsche, H.D.Holmgren, L.M.Cameron, R.L.Johnston
+#REF-CODE   (J,PR,125,648,1962)
+#REFERENCE  Phys.Rev. 125 (1962) 648 (doi:10.1103/PhysRev.125.648)
+#DATASETS   0
+#
+#DATASET    C3023007 
+#DATE       20241218
+#REACTION   6-C-12(T,A)5-B-11,PAR,SIG
+#PROJ       1003
+#TARG       6012
+#MF         3
+#MT         800
+#PRODUCT    5-B-11
+#C4BEGIN    [ 1003  6012   3 800 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  6012   3 800 D  950000.0          0.024409                            0.000000         LVLG.D.Gutsche+         (62)C3023  7 
+ 1003  6012   3 800 D  1001000.          0.034631                            0.000000         LVLG.D.Gutsche+         (62)C3023  7 
+ 1003  6012   3 800 D  1130000.          0.062190                            0.000000         LVLG.D.Gutsche+         (62)C3023  7 
+ 1003  6012   3 800 D  1249000.          0.123160                            0.000000         LVLG.D.Gutsche+         (62)C3023  7 
+ 1003  6012   3 800 D  1499000.          0.192535                            0.000000         LVLG.D.Gutsche+         (62)C3023  7 
+ 1003  6012   3 800 D  1748000.          0.358569                            0.000000         LVLG.D.Gutsche+         (62)C3023  7 
+ 1003  6012   3 800 D  1872000.          0.311297                            0.000000         LVLG.D.Gutsche+         (62)C3023  7 
+ 1003  6012   3 800 D  1947000.          0.328635                            0.000000         LVLG.D.Gutsche+         (62)C3023  7 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      D7046
+#AUTHOR1    M.H.Jung+
+#YEAR       2025
+#INSTITUTE  (3KORKAE)
+#TITLE      First 70Zn(p,x) nuclear cross section measurements for
+#+          theranostic 67Cu radionuclide production extended up to
+#+          100 MeV
+#AUTHOR(S)  M.H.Jung, J.K.Park, S.C.Yang, H.M.Jang, K.S.Chun, W.J.Cho, 
+#+          S.W.Kim
+#REF-CODE   (J,ARI,215,111579,2025)
+#REFERENCE  Appl.Radiat.Isot. 215 (2025) 111579 (doi:10.1016/j.apradiso.2024.111579)
+#DATASETS   0
+#
+#DATASET    D7046006 
+#DATE       20250507
+#REACTION   30-ZN-70(P,X)30-ZN-65,CUM,SIG
+#PROJ       1001
+#TARG       30070
+#MF         3
+#MT         459
+#PRODUCT    30-ZN-65
+#C4BEGIN    [ 1001 30070   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30070   3 459 A  9.8080+7 110000.0 0.062530 3.3700-3           30065.9                     M.H.Jung+            (25)D7046  6 
+ 1001 30070   3 459 A  9.2090+7 340000.0 0.066410 2.9800-3           30065.9                     M.H.Jung+            (25)D7046  6 
+ 1001 30070   3 459 A  8.5830+7 480000.0 0.070250 3.7900-3           30065.9                     M.H.Jung+            (25)D7046  6 
+ 1001 30070   3 459 A  7.9110+7 610000.0 0.078850 4.1200-3           30065.9                     M.H.Jung+            (25)D7046  6 
+ 1001 30070   3 459 A  7.4000+7 700000.0 0.074480 4.2200-3           30065.9                     M.H.Jung+            (25)D7046  6 
+ 1001 30070   3 459 A  6.8500+7 810000.0 0.059090 4.1900-3           30065.9                     M.H.Jung+            (25)D7046  6 
+ 1001 30070   3 459 A  6.2710+7 1030000. 0.031260 2.6700-3           30065.9                     M.H.Jung+            (25)D7046  6 
+ 1001 30070   3 459 A  5.6430+7 1080000. 0.012400 1.8900-3           30065.9                     M.H.Jung+            (25)D7046  6 
+ 1001 30070   3 459 A  4.9510+7 1310000. 9.2600-3 8.9000-4           30065.9                     M.H.Jung+            (25)D7046  6 
+ 1001 30070   3 459 A  4.1990+7 1370000. 5.2800-3 9.3000-4           30065.9                     M.H.Jung+            (25)D7046  6 
+#/DATA      10
+#/DATASET

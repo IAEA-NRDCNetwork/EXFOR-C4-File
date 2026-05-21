@@ -1,0 +1,40 @@
+#ENTRY      F1487
+#AUTHOR1    E.V.Chernysheva+
+#YEAR       2022
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Cross sections of the production of mercury and radon
+#+          isotopes in complete fusion reactions with 36,40Ar
+#+          and 40,48Ca projectiles
+#AUTHOR(S)  E.V.Chernysheva, A.M.Rodin, V.Yu.Vedeneev, A.V.Gulyaev, 
+#+          A.V.Gulyaeva, M.Holik, S.N.Dmitriev, D.Kamas, J.Kliman, 
+#+          A.B.Komarov, L.Krupa, P.Kohout, A.Kohoutova, A.S.Novoselov, 
+#+          Yu.Ts.Oganessian, A.Opichal, J.Pechousek, A.V.Podshibyakin, 
+#+          V.S.Salamatin, S.V.Stepantsov, S.A.Yukhimchuk
+#REF-CODE   (J,BAS,86,883,2022)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 86 (2022) 883 (doi:10.3103/S1062873822080044)
+#DATASETS   0
+#
+#DATASET    F1487009 
+#DATE       20231206
+#REACTION   62-SM-148(18-AR-36,5N)80-HG-179,,SIG
+#PROJ       18036
+#TARG       62148
+#MF         3
+#MT         152
+#PRODUCT    80-HG-179
+#C4BEGIN    [18036 62148   3 152 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18036 62148   3 152 A  5.3440+7          1.5000-5 1.0000-5                                       E.V.Chernysheva+     (22)F1487  9 
+18036 62148   3 152 A  5.7540+7          1.1900-4 5.3000-5                                       E.V.Chernysheva+     (22)F1487  9 
+18036 62148   3 152 A  6.0680+7          4.1900-4 1.8900-4                                       E.V.Chernysheva+     (22)F1487  9 
+18036 62148   3 152 A  7.1300+7          8.3200-4 3.7400-4                                       E.V.Chernysheva+     (22)F1487  9 
+18036 62148   3 152 A  7.5240+7          9.8900-4 4.4500-4                                       E.V.Chernysheva+     (22)F1487  9 
+18036 62148   3 152 A  7.8290+7          7.8500-4 3.5300-4                                       E.V.Chernysheva+     (22)F1487  9 
+18036 62148   3 152 A  8.1750+7          3.7100-4 1.6700-4                                       E.V.Chernysheva+     (22)F1487  9 
+18036 62148   3 152 A  8.9230+7          1.2200-4 5.5000-5                                       E.V.Chernysheva+     (22)F1487  9 
+18036 62148   3 152 A  9.3330+7          9.4000-5 4.2000-5                                       E.V.Chernysheva+     (22)F1487  9 
+18036 62148   3 152 A  9.6070+7          3.6000-5 2.6000-5                                       E.V.Chernysheva+     (22)F1487  9 
+#/DATA      10
+#/DATASET

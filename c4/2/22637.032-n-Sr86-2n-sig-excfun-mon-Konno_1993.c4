@@ -1,0 +1,33 @@
+#ENTRY      22637
+#AUTHOR1    C.Konno+
+#YEAR       1993
+#INSTITUTE  (2JPNJAE)
+#TITLE      Activation Cross section measurements at neutron
+#+          energy from 13.3 to 14.9 MeV
+#AUTHOR(S)  C.Konno, Y.Ikeda, K.Oishi, K.Kawade, H.Yamamoto, H.Maekawa
+#REF-CODE   (R,JAERI-1329,1993)
+#REFERENCE  Report JAERI-1329, 1993
+#DATASETS   0
+#
+#DATASET    22637032 
+#DATE       20080228
+#REACTION   38-SR-86(N,2N)38-SR-85,,SIG
+#PROJ       1
+#TARG       38086
+#MF         3
+#MT         16
+#PRODUCT    38-SR-85
+#C4BEGIN    [    1 38086   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 38086   3  16    1.4950+7          0.973000 0.052000                                       C.Konno+             (93)22637 32 
+    1 38086   3  16    1.4680+7          0.904000 0.050000                                       C.Konno+             (93)22637 32 
+    1 38086   3  16    1.4440+7          0.852000 0.047000                                       C.Konno+             (93)22637 32 
+    1 38086   3  16    1.4230+7          0.815000 0.045000                                       C.Konno+             (93)22637 32 
+    1 38086   3  16    1.3990+7          0.736000 0.040000                                       C.Konno+             (93)22637 32 
+    1 38086   3  16    1.3760+7          0.679000 0.039000                                       C.Konno+             (93)22637 32 
+    1 38086   3  16    1.3580+7          0.611000 0.035000                                       C.Konno+             (93)22637 32 
+    1 38086   3  16    1.3360+7          0.529000 0.030000                                       C.Konno+             (93)22637 32 
+#/DATA      8
+#/DATASET

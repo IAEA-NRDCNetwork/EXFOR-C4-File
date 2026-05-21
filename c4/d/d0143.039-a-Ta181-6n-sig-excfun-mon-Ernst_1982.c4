@@ -1,0 +1,39 @@
+#ENTRY      D0143
+#AUTHOR1    J.Ernst+
+#YEAR       1982
+#INSTITUTE  (2GERBON)
+#TITLE      Investigation of alpha-induced reactions on niobium
+#+          and tantalum. I. Measurement of 93Nb, 181Ta(a, x n y p)
+#+          excitation functions up to 171 MeV
+#AUTHOR(S)  J.Ernst, R.Ibowski, H.Klampfl, H.Machner, T.Mayer-Kuckuk, 
+#+          R.Schanz
+#REF-CODE   (J,ZP/A,308,301,1982)
+#REFERENCE  Z.Phys.A 308 (1982) 301 (doi:10.1007/BF01415879)
+#DATASETS   0
+#
+#DATASET    D0143039 
+#DATE       20040302
+#REACTION   73-TA-181(A,6N)75-RE-179,,SIG
+#PROJ       2004
+#TARG       73181
+#MF         3
+#MT         153
+#PRODUCT    75-RE-179
+#C4BEGIN    [ 2004 73181   3 153  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 73181   3 153    6.6000+7 500000.0 0.195000                                                J.Ernst+             (82)D0143 39 
+ 2004 73181   3 153    7.5500+7 500000.0 0.736000                                                J.Ernst+             (82)D0143 39 
+ 2004 73181   3 153    8.4200+7 500000.0 0.495000                                                J.Ernst+             (82)D0143 39 
+ 2004 73181   3 153    9.2300+7 500000.0 0.241000                                                J.Ernst+             (82)D0143 39 
+ 2004 73181   3 153    1.0000+8 500000.0 0.132000                                                J.Ernst+             (82)D0143 39 
+ 2004 73181   3 153    1.0730+8 500000.0 0.113000                                                J.Ernst+             (82)D0143 39 
+ 2004 73181   3 153    1.1430+8 500000.0 0.078000                                                J.Ernst+             (82)D0143 39 
+ 2004 73181   3 153    1.2100+8 500000.0 0.069000                                                J.Ernst+             (82)D0143 39 
+ 2004 73181   3 153    1.2740+8 500000.0 0.056000                                                J.Ernst+             (82)D0143 39 
+ 2004 73181   3 153    1.3360+8 500000.0 0.050000                                                J.Ernst+             (82)D0143 39 
+ 2004 73181   3 153    1.3960+8 500000.0 0.039000                                                J.Ernst+             (82)D0143 39 
+ 2004 73181   3 153    1.4540+8 500000.0 0.037000                                                J.Ernst+             (82)D0143 39 
+#/DATA      12
+#/DATASET

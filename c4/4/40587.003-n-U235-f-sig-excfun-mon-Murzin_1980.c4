@@ -1,0 +1,25 @@
+#ENTRY      40587
+#AUTHOR1    A.V.Murzin+
+#YEAR       1980
+#INSTITUTE  (4UKRIJD)
+#TITLE      measurement of the fission cross-section for
+#+          U-233 and U-235 at the neutron energy 24.5 keV
+#AUTHOR(S)  A.V.Murzin, A.F.Rudyk, V.A.Libman
+#REF-CODE   (C,80KIEV,2,257,198009)
+#REFERENCE  Proceedings of 5.All Union Conf.on Neutron Phys.,Kiev,15-19 Sep 1980 2 page 257
+#DATASETS   0
+#
+#DATASET    40587003 
+#DATE       20090416
+#REACTION   92-U-235(N,F),,SIG
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18    24500.00 1000.000 1.970000 0.060000                                       A.V.Murzin+          (80)40587  3 
+#/DATA      1
+#/DATASET

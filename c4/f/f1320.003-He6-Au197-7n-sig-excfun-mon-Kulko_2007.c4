@@ -1,0 +1,28 @@
+#ENTRY      F1320
+#AUTHOR1    A.A.Kulko+
+#YEAR       2007
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Isomer ratios for 196,198Tl and 196,198Au from fusion
+#+          and transfer in the interaction of 6He with 197Au
+#AUTHOR(S)  A.A.Kulko, N.A.Demekhina, R.Kalpakchieva, N.N.Kolesnikov, 
+#+          V.G.Lukashik, Yu.E.Penionzhkevich, D.N.Rassadov, N.K.Skobelev
+#REF-CODE   (J,JP/G,34,2297,2007)
+#REFERENCE  J.Phys.G 34 (2007) 2297 (doi:10.1088/0954-3899/34/11/007)
+#DATASETS   0
+#
+#DATASET    F1320003 
+#DATE       20240216
+#REACTION   79-AU-197(2-HE-6,7N)81-TL-196-M,,SIG
+#PROJ       2006
+#TARG       79197
+#MF         3
+#MT         160
+#PRODUCT    81-TL-196-M
+#C4BEGIN    [ 2006 79197   3 160M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 79197   3 160M   6.0000+7 1200000. 0.549000 0.066000                                       A.A.Kulko+           (07)F1320  3 
+ 2006 79197   3 160M   5.7400+7 3700000. 0.465000 9.0000-3                                       A.A.Kulko+           (07)F1320  3 
+#/DATA      2
+#/DATASET

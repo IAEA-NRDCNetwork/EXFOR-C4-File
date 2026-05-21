@@ -1,0 +1,29 @@
+#ENTRY      40991
+#AUTHOR1    V.P.Vertebnyy+
+#YEAR       1987
+#INSTITUTE  (4UKRIJD)
+#TITLE      Total Cross-Section and Average Resonance Parameters
+#+          For U-238
+#AUTHOR(S)  V.P.Vertebnyy, V.A.Libman, L.L.Litvinskiy, V.A.Muravitskiy, 
+#+          A.V.Murzin, G.M.Novoselov, V.F.Razbudey, S.V.Sidorov, N.A.Trofimova
+#REF-CODE   (C,87KIEV,2,175,1987)
+#REFERENCE  Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 2 page 175
+#DATASETS   0
+#
+#DATASET    40991005 
+#DATE       20240208
+#REACTION   92-U-238(N,TOT),,SIG,,SPA
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         1
+#C4BEGIN    [    1 92238   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3   1    2050.000          24.20000 0.300000                                       V.P.Vertebnyy+       (87)40991  5 
+    1 92238   3   1    24000.00          14.20000 0.400000                                       V.P.Vertebnyy+       (87)40991  5 
+    1 92238   3   1    53000.00          13.50000 0.200000                                       V.P.Vertebnyy+       (87)40991  5 
+    1 92238   3   1    144000.0          11.50000 0.200000                                       V.P.Vertebnyy+       (87)40991  5 
+#/DATA      4
+#/DATASET

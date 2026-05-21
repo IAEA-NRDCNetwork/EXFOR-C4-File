@@ -1,0 +1,34 @@
+#ENTRY      D4194
+#AUTHOR1    G.G.Kiss+
+#YEAR       2007
+#INSTITUTE  (3HUNDEB)
+#TITLE      70Ge(p,g)71As and 76Ge(p,n)76As cross sections for the
+#+          astrophysical p process: Sensitivity of the optical
+#+          proton potential at low energies
+#AUTHOR(S)  G.G.Kiss, Gy.Gyurky, Z.Elekes, Zs.Fulop, E.Somorjai, T.Rauscher, 
+#+          M.Wiescher
+#REF-CODE   (J,PR/C,76,055807,2007)
+#REFERENCE  Phys.Rev.C 76 (2007) 055807 (doi:10.1103/PhysRevC.76.055807)
+#DATASETS   0
+#
+#DATASET    D4194004 
+#DATE       20120201
+#REACTION   32-GE-76(P,N)33-AS-76,,SIG
+#PROJ       1001
+#TARG       32076
+#MF         3
+#MT         4
+#PRODUCT    33-AS-76
+#C4BEGIN    [ 1001 32076   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 32076   3   4 A  1991111. 13000.36 3.7000-4 4.0000-5                                       G.G.Kiss+            (07)D4194  4 
+ 1001 32076   3   4 A  2397447. 4000.133 1.9000-3 2.0000-4                                       G.G.Kiss+            (07)D4194  4 
+ 1001 32076   3   4 A  2796691. 9000.351 6.8000-3 8.0000-4                                       G.G.Kiss+            (07)D4194  4 
+ 1001 32076   3   4 A  3197965. 10000.44 0.017000 2.0000-3                                       G.G.Kiss+            (07)D4194  4 
+ 1001 32076   3   4 A  3596200. 12000.60 0.040000 4.0000-3                                       G.G.Kiss+            (07)D4194  4 
+ 1001 32076   3   4 A  3998491. 12000.66 0.062000 7.0000-3                                       G.G.Kiss+            (07)D4194  4 
+ 1001 32076   3   4 A  4398758. 13000.79 0.115000 0.013000                                       G.G.Kiss+            (07)D4194  4 
+#/DATA      7
+#/DATASET

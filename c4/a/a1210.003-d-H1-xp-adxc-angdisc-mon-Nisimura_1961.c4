@@ -1,0 +1,39 @@
+#ENTRY      A1210
+#AUTHOR1    K.Nisimura+
+#YEAR       1961
+#INSTITUTE  (2JPNTOK)
+#TITLE      Breakup of deuterons by the reactions H(d,p)pn with
+#+          Ed=18 MeV and D(p,p)pn with Ep=9 MeV
+#AUTHOR(S)  K.Nisimura
+#REF-CODE   (J,JPJ,16,2097,1961)
+#REFERENCE  J.Phys.Soc.Jpn. 16 (1961) 2097 (doi:10.1143/JPSJ.16.2097)
+#DATASETS   0
+#
+#DATASET    A1210003 
+#DATE       20250816
+#REACTION   1-H-1(D,X)1-H-1,,DA
+#PROJ       1002
+#TARG       1001
+#MF         4
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1002  1001   4 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1001   4 203  C 1.8000+7          0.034130          0.941471                              K.Nisimura           (61)A1210  3 
+ 1002  1001   4 203  C 1.8000+7          0.026330          0.871214                              K.Nisimura           (61)A1210  3 
+ 1002  1001   4 203  C 1.8000+7          0.022420          0.764921                              K.Nisimura           (61)A1210  3 
+ 1002  1001   4 203  C 1.8000+7          0.020160          0.645458                              K.Nisimura           (61)A1210  3 
+ 1002  1001   4 203  C 1.8000+7          0.017360          0.507538                              K.Nisimura           (61)A1210  3 
+ 1002  1001   4 203  C 1.8000+7          0.015660          0.337095                              K.Nisimura           (61)A1210  3 
+ 1002  1001   4 203  C 1.8000+7          0.013960          0.173648                              K.Nisimura           (61)A1210  3 
+ 1002  1001   4 203  C 1.8000+7          0.012260         -0.013962                              K.Nisimura           (61)A1210  3 
+ 1002  1001   4 203  C 1.8000+7          0.011120         -0.182236                              K.Nisimura           (61)A1210  3 
+ 1002  1001   4 203  C 1.8000+7          0.011640         -0.345298                              K.Nisimura           (61)A1210  3 
+ 1002  1001   4 203  C 1.8000+7          0.011600         -0.500000                              K.Nisimura           (61)A1210  3 
+ 1002  1001   4 203  C 1.8000+7          0.013780         -0.653421                              K.Nisimura           (61)A1210  3 
+ 1002  1001   4 203  C 1.8000+7          0.018730         -0.772734                              K.Nisimura           (61)A1210  3 
+ 1002  1001   4 203  C 1.8000+7          0.034220         -0.860742                              K.Nisimura           (61)A1210  3 
+#/DATA      14
+#/DATASET

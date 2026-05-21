@@ -1,0 +1,29 @@
+#ENTRY      C0387
+#AUTHOR1    J.B.J.Read+
+#YEAR       1965
+#INSTITUTE  (1USACOL)
+#TITLE      Nuclear-structure effects in high-energy (p,n)
+#+          reactions
+#AUTHOR(S)  J.B.J.Read, J.M.Miller
+#REF-CODE   (J,PR,140,B623,1965)
+#REFERENCE  Phys.Rev. 140 (1965) B623 (doi:10.1103/PhysRev.140.B623)
+#DATASETS   0
+#
+#DATASET    C0387006 
+#DATE       19880226
+#REACTION   47-AG-109(P,N)48-CD-109,,SIG
+#PROJ       1001
+#TARG       47109
+#MF         3
+#MT         4
+#PRODUCT    48-CD-109
+#C4BEGIN    [ 1001 47109   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 47109   3   4    3.8000+8          1.4500-3 1.5000-4                                       J.B.J.Read+          (65)C0387  6 
+ 1001 47109   3   4    2.9000+8          1.7000-3 1.5000-4                                       J.B.J.Read+          (65)C0387  6 
+ 1001 47109   3   4    2.1000+8          3.0000-3 1.5000-4                                       J.B.J.Read+          (65)C0387  6 
+ 1001 47109   3   4    1.4000+8          3.2200-3 1.5000-4                                       J.B.J.Read+          (65)C0387  6 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,39 @@
+#ENTRY      32673
+#AUTHOR1    Xichao Ruan+
+#YEAR       2009
+#INSTITUTE  (3CPRAEP)
+#TITLE      Measurement of Secondary Neutron Emission Double
+#+          Differential Cross Section for Natural Iron Induced
+#+          by 8.17 MeV Neutron
+#AUTHOR(S)  Xichao Ruan, Hanxiong Huang, Jing Jiang, Xia Li, Qiping Zhong, 
+#+          Ji Bao, Guochang Chen, Zhuying Zhou, Bujiaqi, Hongqingtang, 
+#+          Yangbonie, Changlin Lan, Gan Liu
+#REF-CODE   (J,CST,43,(9),793,2009)
+#REFERENCE  At.En.Sci.Technol. 43 No.9 (2009) 793
+#DATASETS   0
+#
+#DATASET    32673002 
+#DATE       20091223
+#REACTION   26-FE-0(N,EL)26-FE-0,,DA
+#PROJ       1
+#TARG       26000
+#MF         4
+#MT         2
+#PRODUCT    26-FE-0
+#C4BEGIN    [    1 26000   4   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   4   2 DC 8170000. 610000.0 0.808600 0.058200 0.858423                              Xichao Ruan+         (09)32673  2 
+    1 26000   4   2 DC 8170000. 610000.0 0.274300 0.019800 0.758362                              Xichao Ruan+         (09)32673  2 
+    1 26000   4   2 DC 8170000. 610000.0 0.057100 4.1000-3 0.637020                              Xichao Ruan+         (09)32673  2 
+    1 26000   4   2 DC 8170000. 610000.0 5.8000-3 5.0000-4 0.411037                              Xichao Ruan+         (09)32673  2 
+    1 26000   4   2 DC 8170000. 610000.0 0.020100 1.5000-3 0.072542                              Xichao Ruan+         (09)32673  2 
+    1 26000   4   2 DC 8170000. 610000.0 0.021700 1.6000-3-0.098799                              Xichao Ruan+         (09)32673  2 
+    1 26000   4   2 DC 8170000. 610000.0 0.020800 1.5000-3-0.266734                              Xichao Ruan+         (09)32673  2 
+    1 26000   4   2 DC 8170000. 610000.0 0.013600 1.0000-3-0.425779                              Xichao Ruan+         (09)32673  2 
+    1 26000   4   2 DC 8170000. 610000.0 3.8000-3 4.0000-4-0.642921                              Xichao Ruan+         (09)32673  2 
+    1 26000   4   2 DC 8170000. 610000.0 5.3000-3 5.0000-4-0.776156                              Xichao Ruan+         (09)32673  2 
+    1 26000   4   2 DC 8170000. 610000.0 0.014500 1.1000-3-0.871556                              Xichao Ruan+         (09)32673  2 
+#/DATA      11
+#/DATASET

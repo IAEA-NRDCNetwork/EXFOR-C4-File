@@ -1,0 +1,32 @@
+#ENTRY      32776
+#AUTHOR1    Junhua Luo+
+#YEAR       2018
+#INSTITUTE  (3CPRHXU)
+#TITLE      Activation cross sections for the 110Pd(n,2n)
+#+          reaction and the isomeric cross-sections ratio of
+#+          109m,gPd in the neutron energy range of 13-15 MeV
+#AUTHOR(S)  Junhua Luo, Li Jiang, Long He
+#REF-CODE   (J,JRN,316,733,2018)
+#REFERENCE  J.Rad.Nucl.Chem. 316 (2018) 733 (doi:10.1007/s10967-018-5805-5)
+#DATASETS   0
+#
+#DATASET    32776002 
+#DATE       20201208
+#REACTION   46-PD-110(N,2N)46-PD-109-G,,SIG
+#PROJ       1
+#TARG       46110
+#MF         3
+#MT         16
+#PRODUCT    46-PD-109-G
+#C4BEGIN    [    1 46110   3  16G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 46110   3  16G   1.3500+7 200000.0 1.302000 0.089000                                       Junhua Luo+          (18)32776  2 
+    1 46110   3  16G   1.3500+7 200000.0 1.251000 0.099000                                       Junhua Luo+          (18)32776  2 
+    1 46110   3  16G   1.4100+7 200000.0 1.311000 0.098000                                       Junhua Luo+          (18)32776  2 
+    1 46110   3  16G   1.4100+7 200000.0 1.231000 0.088000                                       Junhua Luo+          (18)32776  2 
+    1 46110   3  16G   1.4800+7 200000.0 1.331000 0.107000                                       Junhua Luo+          (18)32776  2 
+    1 46110   3  16G   1.4800+7 200000.0 1.197000 0.078000                                       Junhua Luo+          (18)32776  2 
+#/DATA      6
+#/DATASET

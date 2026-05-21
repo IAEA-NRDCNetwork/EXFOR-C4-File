@@ -1,0 +1,35 @@
+#ENTRY      O0233
+#AUTHOR1    H.P.Morsch+
+#YEAR       1978
+#INSTITUTE  (1USAMSU)
+#TITLE      Fine Structure in the Giant Resonance Region and the
+#+          Collective Dipole Spin-Flip Excitation in Pb-208.
+#AUTHOR(S)  H.P.Morsch, P.Decowski, W.Benenson
+#REF-CODE   (J,NP/A,297,317,78)
+#REFERENCE  Nucl.Phys.A 297 (1978) 317 (doi:10.1016/0375-9474(78)90279-8)
+#DATASETS   0
+#
+#DATASET    O0233003 
+#DATE       19961111
+#REACTION   82-PB-208(P,INL)82-PB-208,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         601
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 1001 82208   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 601  C 4.5000+7          2.3500-5 2.5850-6 0.975611 3.4480-4 8750000.         LVLH.P.Morsch+          (78)O0233  3 
+ 1001 82208   4 601  C 4.5000+7          3.4000-5 4.0800-6 0.961021 4.3429-4 8750000.         LVLH.P.Morsch+          (78)O0233  3 
+ 1001 82208   4 601  C 4.5000+7          4.0000-5 4.0000-6 0.945519 5.1140-4 8750000.         LVLH.P.Morsch+          (78)O0233  3 
+ 1001 82208   4 601  C 4.5000+7          5.0000-5 6.0000-6 0.924812 5.9757-4 8750000.         LVLH.P.Morsch+          (78)O0233  3 
+ 1001 82208   4 601  C 4.5000+7          4.1500-5 1.6600-6 0.903186 6.7426-4 8750000.         LVLH.P.Morsch+          (78)O0233  3 
+ 1001 82208   4 601  C 4.5000+7          2.6000-5 7.0200-6 0.880229 7.4542-4 8750000.         LVLH.P.Morsch+          (78)O0233  3 
+ 1001 82208   4 601  C 4.5000+7          1.9700-5 1.7730-6 0.851269 8.2424-4 8750000.         LVLH.P.Morsch+          (78)O0233  3 
+ 1001 82208   4 601  C 4.5000+7          1.0600-5 1.6960-6 0.792183 9.5863-4 8750000.         LVLH.P.Morsch+          (78)O0233  3 
+ 1001 82208   4 601  C 4.5000+7          8.4000-6 2.5200-6 0.758476 1.0237-3 8750000.         LVLH.P.Morsch+          (78)O0233  3 
+ 1001 82208   4 601  C 4.5000+7          1.0000-5 2.8000-6 0.723931 1.0836-3 8750000.         LVLH.P.Morsch+          (78)O0233  3 
+#/DATA      10
+#/DATASET

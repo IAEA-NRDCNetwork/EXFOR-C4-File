@@ -1,0 +1,52 @@
+#ENTRY      C2990
+#AUTHOR1    F.T.Baker+
+#YEAR       1977
+#INSTITUTE  (1USAGEO)
+#TITLE      Sensitivity of (alpha, alpha') cross sections to
+#+          excited-state quadrupole moments
+#AUTHOR(S)  F.T.Baker, A.Scott, R.M.Ronningen, T.H.Kruse, R.Suchannek, 
+#+          W.Savin, J.H.Hamilton
+#REF-CODE   (J,PL/B,70,167,1977)
+#REFERENCE  Phys.Lett.B 70 (1977) 167 (doi:10.1016/0370-2693(77)90512-3)
+#DATASETS   0
+#
+#DATASET    C2990002 
+#DATE       20240917
+#REACTION   72-HF-180(A,INL)72-HF-180,PAR,DA
+#PROJ       2004
+#TARG       72180
+#MF         4
+#MT         801
+#PRODUCT    72-HF-180
+#C4BEGIN    [ 2004 72180   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 72180   4 801  C 2.1000+7          2.6830-4 2.6080-5-0.011344          1200000.         LVLF.T.Baker+           (77)C2990  2 
+ 2004 72180   4 801  C 2.1000+7          2.6560-4 2.2460-5-0.185255          1200000.         LVLF.T.Baker+           (77)C2990  2 
+ 2004 72180   4 801  C 2.1000+7          2.8620-4 2.3000-5-0.357472          1200000.         LVLF.T.Baker+           (77)C2990  2 
+ 2004 72180   4 801  C 2.1000+7          2.4090-4 2.2410-5-0.510723          1200000.         LVLF.T.Baker+           (77)C2990  2 
+ 2004 72180   4 801  C 2.1000+7          2.3210-4 1.4760-5-0.651039          1200000.         LVLF.T.Baker+           (77)C2990  2 
+ 2004 72180   4 801  C 2.1000+7          2.2530-4 1.9930-5-0.779393          1200000.         LVLF.T.Baker+           (77)C2990  2 
+#/DATA      6
+#/DATASET
+#
+#DATASET    C2990002 
+#DATE       20240917
+#REACTION   72-HF-180(A,INL)72-HF-180,PAR,DA
+#PROJ       2004
+#TARG       72180
+#MF         4
+#MT         801
+#PRODUCT    72-HF-180
+#C4BEGIN    [ 2004 72180   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 72180   4 801  C 2.4000+7          3.6820-4 3.1260-5-2.0246-3          1200000.         LVLF.T.Baker+           (77)C2990  2 
+ 2004 72180   4 801  C 2.4000+7          2.6970-4 1.9050-5-0.182562          1200000.         LVLF.T.Baker+           (77)C2990  2 
+ 2004 72180   4 801  C 2.4000+7          2.2870-4 1.8350-5-0.348474          1200000.         LVLF.T.Baker+           (77)C2990  2 
+ 2004 72180   4 801  C 2.4000+7          1.5270-4 1.4180-5-0.509973          1200000.         LVLF.T.Baker+           (77)C2990  2 
+ 2004 72180   4 801  C 2.4000+7          9.2210-5 8.1650-6-0.648837          1200000.         LVLF.T.Baker+           (77)C2990  2 
+#/DATA      5
+#/DATASET

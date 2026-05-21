@@ -1,0 +1,26 @@
+#ENTRY      14165
+#AUTHOR1    M.C.Eastman+
+#YEAR       2008
+#INSTITUTE  (1USAORU)
+#TITLE      Neutron capture cross sections of even-mass tellurium
+#+          isotopes
+#AUTHOR(S)  M.C.Eastman, K.S.Krane
+#REF-CODE   (J,PR/C,77,024303,2008)
+#REFERENCE  Phys.Rev.C 77 (2008) 024303 (doi:10.1103/PhysRevC.77.024303)
+#DATASETS   0
+#
+#DATASET    14165007 
+#DATE       20080303
+#REACTION   52-TE-126(N,G)52-TE-127-M,,SIG,,MXW
+#PROJ       1
+#TARG       52126
+#MF         3
+#MT         102
+#PRODUCT    52-TE-127-M
+#C4BEGIN    [    1 52126   3 102M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52126   3 102M   0.025300          0.056000 3.0000-3                                       M.C.Eastman+         (08)14165  7 
+#/DATA      1
+#/DATASET

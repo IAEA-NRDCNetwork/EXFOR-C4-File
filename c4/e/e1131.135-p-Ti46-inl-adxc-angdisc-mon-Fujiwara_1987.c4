@@ -1,0 +1,31 @@
+#ENTRY      E1131
+#AUTHOR1    M.Fujiwara+
+#YEAR       1987
+#INSTITUTE  (2JPNOSA)
+#TITLE      Low energy octupole resonance in 46Ti studied by
+#+          inelastic proton scattering at 65 MeV
+#AUTHOR(S)  M.Fujiwara, S.Morinobu, M.Tosaki, H.Ito, I.Katayama, H.Ikegami, 
+#+          S.I.Hayakawa, N.Ikeda, H.Ohsumi, A.Higashi, K.Katori
+#REF-CODE   (J,PR/C,35,(4),1257,198704)
+#REFERENCE  Phys.Rev.C 35 No.4 (1987) 1257 (doi:10.1103/PhysRevC.35.1257)
+#DATASETS   0
+#
+#DATASET    E1131135 
+#DATE       20061228
+#REACTION   22-TI-46(P,INL)22-TI-46,PAR,DA
+#PROJ       1001
+#TARG       22046
+#MF         4
+#MT         601
+#PRODUCT    22-TI-46
+#C4BEGIN    [ 1001 22046   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22046   4 601  C 6.5000+7          6.1170-6 1.9000-6 0.909236          7710000. 5000.000LVLM.Fujiwara+          (87)E1131135 
+ 1001 22046   4 601  C 6.5000+7          1.9010-5 3.8600-6 0.894154          7710000. 5000.000LVLM.Fujiwara+          (87)E1131135 
+ 1001 22046   4 601  C 6.5000+7          1.1380-5 2.4900-6 0.868632          7710000. 5000.000LVLM.Fujiwara+          (87)E1131135 
+ 1001 22046   4 601  C 6.5000+7          2.1000-5 2.1600-6 0.841511          7710000. 5000.000LVLM.Fujiwara+          (87)E1131135 
+ 1001 22046   4 601  C 6.5000+7          3.2770-5 4.4700-6 0.669131          7710000. 5000.000LVLM.Fujiwara+          (87)E1131135 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      13244
+#AUTHOR1    B.R.Erdal+
+#YEAR       1969
+#INSTITUTE  (1USAWAS)
+#TITLE      Cumulative yields of tin and antimony nuclides from
+#+          thermal-neutron fission of 235U
+#AUTHOR(S)  B.R.Erdal, J.C.Williams, A.C.Wahl
+#REF-CODE   (J,JIN,31,2993,1969)
+#REFERENCE  J.Inorg.Nucl.Chem. 31 (1969) 2993 (doi:10.1016/0022-1902(69)80080-1)
+#DATASETS   0
+#
+#DATASET    13244003 
+#DATE       20210409
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025300          6.7000-4 1.0000-5 50.00000 127.0000 0.000000            B.R.Erdal+           (69)13244  3 
+    1 92235   8 459    0.025300          3.1400-3 4.0000-5 50.00000 128.0000 9.000000            B.R.Erdal+           (69)13244  3 
+#/DATA      2
+#/DATASET

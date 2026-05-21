@@ -1,0 +1,27 @@
+#ENTRY      21907
+#AUTHOR1    K.Sakurai+
+#YEAR       1981
+#INSTITUTE  (2JPNJAE)
+#TITLE      Experimental evaluation of fission spectrum averaged
+#+          cross sections of Nb-93(n,inl)Nb-93-m and
+#+          Hg-199(n,inl)Hg-199-m reactions
+#AUTHOR(S)  K.Sakurai, I.Kondo
+#REF-CODE   (J,NIM,187,649,1981)
+#REFERENCE  Nucl.Intrum.Meth. 187 (1981) 649 (doi:10.1016/0029-554X(81)90405-5)
+#DATASETS   0
+#
+#DATASET    21907002 
+#DATE       20211225
+#REACTION   41-NB-93(N,INL)41-NB-93-M,,SIG,,FIS
+#PROJ       1
+#TARG       41093
+#MF         3
+#MT         4
+#PRODUCT    41-NB-93-M
+#C4BEGIN    [    1 41093   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093   3   4M   1500000.          0.125000 0.028000                                       K.Sakurai+           (81)21907  2 
+#/DATA      1
+#/DATASET

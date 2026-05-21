@@ -1,0 +1,30 @@
+#ENTRY      12419
+#AUTHOR1    J.W.Meadows+
+#YEAR       1962
+#INSTITUTE  (1USAANL)
+#TITLE      Energy Dependence of Prompt nu bar for
+#+          Neutron-Induced Fission of U235
+#AUTHOR(S)  J.W.Meadows, J.F.Whalen
+#REF-CODE   (J,PR,126,197,1962)
+#REFERENCE  Phys.Rev. 126 (1962) 197 (doi:10.1103/PhysRev.126.197)
+#DATASETS   0
+#
+#DATASET    124190022
+#DATE       20180521
+#REACTION   92-U-235(N,F),PR,NU
+#PROJ       1
+#TARG       92235
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92235   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   1 456    30000.00          2.421000 0.038978                                       J.W.Meadows+         (62)12419  22
+    1 92235   1 456    200000.0          2.436000 0.034104                                       J.W.Meadows+         (62)12419  22
+    1 92235   1 456    620000.0          2.470000 0.036062                                       J.W.Meadows+         (62)12419  22
+    1 92235   1 456    1110000.          2.520000 0.035784                                       J.W.Meadows+         (62)12419  22
+    1 92235   1 456    1580000.          2.580000 0.037410                                       J.W.Meadows+         (62)12419  22
+    1 92235   1 456    1760000.          2.575000 0.037853                                       J.W.Meadows+         (62)12419  22
+#/DATA      6
+#/DATASET

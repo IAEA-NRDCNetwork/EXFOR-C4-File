@@ -1,0 +1,33 @@
+#ENTRY      E2554
+#AUTHOR1    H.Suzuki+
+#YEAR       2017
+#INSTITUTE  (2JPNIPC)
+#TITLE      Discovery of new isotopes 81,82Mo and 85,86Ru and a
+#+          determination of the particle instability of 103Sb
+#AUTHOR(S)  H.Suzuki, T.Kubo, N.Fukuda, N.Inabe, D.Kameda, H.Takeda, 
+#+          K.Yoshida, K.Kusaka, Y.Yanagisawa, M.Ohtake, H.Sato, Y.Shimizu, 
+#+          H.Baba, M.Kurokawa, K.Tanaka, O.B.Tarasov, D.Bazin, D.J.Morrissey, 
+#+          B.M.Sherrill, K.Ieki, D.Murai, N.Iwasa, A.Chiba, Y.Ohkoda, 
+#+          E.Ideguchi, S.Go, R.Yokoyama, T.Fujii, D.Nishimura, H.Nishibata, 
+#+          S.Momota, M.Lewitowicz, G.DeFrance, I.Celikovic, K.Steiger
+#REF-CODE   (J,PR/C,96,034604,2017)
+#REFERENCE  Phys.Rev.C 96 (2017) 034604 (doi:10.1103/PhysRevC.96.034604)
+#DATASETS   0
+#
+#DATASET    E2554002 
+#DATE       20180301
+#REACTION   4-BE-9(54-XE-124,X)ELEM/MASS,,SIG
+#PROJ       54124
+#TARG       4009
+#MF         3
+#MT         454
+#C4BEGIN    [54124  4009   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+54124  4009   3 454    4.278+10          2.000-14                    42081.9                     H.Suzuki+            (17)E2554  2 
+54124  4009   3 454    4.278+10          1.4000-7                    42082.9                     H.Suzuki+            (17)E2554  2 
+54124  4009   3 454    4.278+10          4.0000-9                    44085.9                     H.Suzuki+            (17)E2554  2 
+54124  4009   3 454    4.278+10          2.0000-8                    44086.9                     H.Suzuki+            (17)E2554  2 
+#/DATA      4
+#/DATASET

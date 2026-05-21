@@ -1,0 +1,33 @@
+#ENTRY      D0009
+#AUTHOR1    N.Jarmie+
+#YEAR       1977
+#INSTITUTE  (1USALAS)
+#TITLE      Neutron source reaction cross sections.
+#AUTHOR(S)  N.Jarmie, J.H.Jett
+#REF-CODE   (J,PR/C,16,15,197707)
+#REFERENCE  Phys.Rev.C 16 (1977) 15 (doi:10.1103/PhysRevC.16.15)
+#DATASETS   0
+#
+#DATASET    D0009005 
+#DATE       20060724
+#REACTION   1-H-3(P,N)2-HE-3,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1003   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4   4  C 1.3600+7          0.011760          0.221548                              N.Jarmie+            (77)D0009  5 
+ 1001  1003   4   4  C 1.3600+7          0.011610          0.041876                              N.Jarmie+            (77)D0009  5 
+ 1001  1003   4   4  C 1.3600+7          0.010460         -0.139173                              N.Jarmie+            (77)D0009  5 
+ 1001  1003   4   4  C 1.3600+7          8.5340-3         -0.315649                              N.Jarmie+            (77)D0009  5 
+ 1001  1003   4   4  C 1.3600+7          6.9220-3         -0.478692                              N.Jarmie+            (77)D0009  5 
+ 1001  1003   4   4  C 1.3600+7          7.3720-3         -0.627963                              N.Jarmie+            (77)D0009  5 
+ 1001  1003   4   4  C 1.3600+7          0.011440         -0.756995                              N.Jarmie+            (77)D0009  5 
+ 1001  1003   4   4  C 1.3600+7          0.019420         -0.860742                              N.Jarmie+            (77)D0009  5 
+ 1001  1003   4   4  C 1.3600+7          0.025320         -0.909961                              N.Jarmie+            (77)D0009  5 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,25 @@
+#ENTRY      40740
+#AUTHOR1    V.Ya.Baryba+
+#YEAR       1979
+#INSTITUTE  (4RUSFEI)
+#TITLE      Prompt neutron fission spectrum of U-238 for 14.3 MeV
+#+          incident neutrons
+#AUTHOR(S)  V.Ya.Baryba, N.V.Kornilov, O.A.Sal'nikov
+#REF-CODE   (R,FEI-947,1979)
+#REFERENCE  Report FEI-947, 1979
+#DATASETS   0
+#
+#DATASET    40740003 
+#DATE       20111220
+#REACTION   92-U-238(N,F),PR,NU
+#PROJ       1
+#TARG       92238
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92238   1 456 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   1 456 D  1.4300+7          5.070000 0.130000                                       V.Ya.Baryba+         (79)40740  3 
+#/DATA      1
+#/DATASET

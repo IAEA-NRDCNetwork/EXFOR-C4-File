@@ -1,0 +1,34 @@
+#ENTRY      O0236
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1981
+#INSTITUTE  (1USAORL)
+#TITLE      Excitation of giant resonance modes in Zr-90 and
+#+          Sn-120 by 200 MeV protons.
+#AUTHOR(S)  F.E.Bertrand, E.E.Gross, D.J.Horen, J.R.Wu, J.Tinsley, D.K.McDaniels, 
+#+          L.W.Swenson, R.Liljestrand
+#REF-CODE   (J,PL/B,103,326,1981)
+#REFERENCE  Phys.Lett.B 103 (1981) 326 (doi:10.1016/0370-2693(81)90235-5)
+#DATASETS   0
+#
+#DATASET    O0236004 
+#DATE       20120520
+#REACTION   50-SN-120(P,INL)50-SN-120,PAR,DA
+#PROJ       1001
+#TARG       50120
+#MF         4
+#MT         601
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 1001 50120   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50120   4 601  C 2.0000+8 500000.0 2.8000-3 1.1200-3 0.996330          1.3200+7         LVLF.E.Bertrand+        (81)O0236  4 
+ 1001 50120   4 601  C 2.0000+8 500000.0 6.9000-3 1.7250-3 0.993130          1.3200+7         LVLF.E.Bertrand+        (81)O0236  4 
+ 1001 50120   4 601  C 2.0000+8 500000.0 7.7000-3 7.7000-4 0.987933          1.3200+7         LVLF.E.Bertrand+        (81)O0236  4 
+ 1001 50120   4 601  C 2.0000+8 500000.0 5.5000-3 1.1000-3 0.981124          1.3200+7         LVLF.E.Bertrand+        (81)O0236  4 
+ 1001 50120   4 601  C 2.0000+8 500000.0 2.0000-3 5.0000-4 0.974956          1.3200+7         LVLF.E.Bertrand+        (81)O0236  4 
+ 1001 50120   4 601  C 2.0000+8 500000.0 1.2000-3 3.6000-4 0.966555          1.3200+7         LVLF.E.Bertrand+        (81)O0236  4 
+ 1001 50120   4 601  C 2.0000+8 500000.0 7.0000-4 1.6100-4 0.957471          1.3200+7         LVLF.E.Bertrand+        (81)O0236  4 
+ 1001 50120   4 601  C 2.0000+8 500000.0 7.5000-4 2.2500-4 0.935998          1.3200+7         LVLF.E.Bertrand+        (81)O0236  4 
+#/DATA      8
+#/DATASET

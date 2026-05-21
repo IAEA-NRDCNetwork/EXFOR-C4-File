@@ -1,0 +1,35 @@
+#ENTRY      20338
+#AUTHOR1    Y.Kanda+
+#YEAR       1972
+#INSTITUTE  (2JPNKYU)
+#TITLE      The excitation functions and isomeric ratios for
+#+          neutron induced reactions on Mo-92 and Zr-90
+#AUTHOR(S)  Y.Kanda
+#REF-CODE   (J,NP/A,185,177,1972)
+#REFERENCE  Nucl.Phys.A 185 (1972) 177 (doi:10.1016/0375-9474(72)90558-1)
+#DATASETS   0
+#
+#DATASET    20338015 
+#DATE       20080829
+#REACTION   42-MO-92(N,A)40-ZR-89,,SIG
+#PROJ       1
+#TARG       42092
+#MF         3
+#MT         107
+#PRODUCT    40-ZR-89
+#C4BEGIN    [    1 42092   3 107 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42092   3 107 D  1.3410+7          0.076900 8.7000-3                                       Y.Kanda              (72)20338 15 
+    1 42092   3 107 D  1.3570+7          0.068200 9.5000-3                                       Y.Kanda              (72)20338 15 
+    1 42092   3 107 D  1.3830+7          0.071300 8.0000-3                                       Y.Kanda              (72)20338 15 
+    1 42092   3 107 D  1.3880+7          0.072000 0.010100                                       Y.Kanda              (72)20338 15 
+    1 42092   3 107 D  1.4010+7          0.084900 0.010300                                       Y.Kanda              (72)20338 15 
+    1 42092   3 107 D  1.4170+7          0.086500 7.1000-3                                       Y.Kanda              (72)20338 15 
+    1 42092   3 107 D  1.4310+7          0.083900 6.1000-3                                       Y.Kanda              (72)20338 15 
+    1 42092   3 107 D  1.4600+7          0.076500 7.5000-3                                       Y.Kanda              (72)20338 15 
+    1 42092   3 107 D  1.4740+7          0.070200 6.6000-3                                       Y.Kanda              (72)20338 15 
+    1 42092   3 107 D  1.4920+7          0.076600 7.9000-3                                       Y.Kanda              (72)20338 15 
+#/DATA      10
+#/DATASET

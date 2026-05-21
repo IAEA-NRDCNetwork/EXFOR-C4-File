@@ -1,0 +1,26 @@
+#ENTRY      20091
+#AUTHOR1    R.Wenusch+
+#YEAR       1962
+#INSTITUTE  (2AUSIRK)
+#TITLE      (n,2n) cross-section measurements on Mn-55, Co-59,
+#+          Cr-52, Fe-56 and Zn-68 for 14 MeV neutrons
+#AUTHOR(S)  R.Wenusch, H.Vonach
+#REF-CODE   (J,OSA,99,1,1962)
+#REFERENCE  Anz.Oest.A.W.Nat. 99 (1962) 1
+#DATASETS   0
+#
+#DATASET    20091005 
+#DATE       20230319
+#REACTION   27-CO-59(N,2N)27-CO-58,,SIG
+#PROJ       1
+#TARG       27059
+#MF         3
+#MT         16
+#PRODUCT    27-CO-58
+#C4BEGIN    [    1 27059   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   3  16    1.4000+7          0.630000 0.120000                                       R.Wenusch+           (62)20091  5 
+#/DATA      1
+#/DATASET

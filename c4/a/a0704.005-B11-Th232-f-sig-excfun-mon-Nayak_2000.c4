@@ -1,0 +1,33 @@
+#ENTRY      A0704
+#AUTHOR1    B.K.Nayak+
+#YEAR       2000
+#INSTITUTE  (3INDTRM)
+#TITLE      Effect of projectile ground state spin on fission
+#+          fragment anisotropies in 10-B, 11-B+232-Th reactions
+#AUTHOR(S)  B.K.Nayak, R.G.Thomas, R.K.Choudhury, A.Saxena, P.K.Sahu, 
+#+          S.S.Kapoor, Raghav Varma, D.Umakanth
+#REF-CODE   (J,PR/C,62,031601,2000)
+#REFERENCE  Phys.Rev.C 62 (2000) 031601 (doi:10.1103/PhysRevC.62.031601)
+#DATASETS   0
+#
+#DATASET    A0704005 
+#DATE       20051207
+#REACTION   90-TH-232(5-B-11,F),,SIG
+#PROJ       5011
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [ 5011 90232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5011 90232   3  18    4.9989+7          4.0900-3                                                B.K.Nayak+           (00)A0704  5 
+ 5011 90232   3  18    5.2064+7          0.027200                                                B.K.Nayak+           (00)A0704  5 
+ 5011 90232   3  18    5.4033+7          0.077000                                                B.K.Nayak+           (00)A0704  5 
+ 5011 90232   3  18    5.6129+7          0.189000                                                B.K.Nayak+           (00)A0704  5 
+ 5011 90232   3  18    5.8109+7          0.326000                                                B.K.Nayak+           (00)A0704  5 
+ 5011 90232   3  18    5.9963+7          0.490000                                                B.K.Nayak+           (00)A0704  5 
+ 5011 90232   3  18    6.3934+7          0.650000                                                B.K.Nayak+           (00)A0704  5 
+ 5011 90232   3  18    6.8020+7          1.020000                                                B.K.Nayak+           (00)A0704  5 
+#/DATA      8
+#/DATASET

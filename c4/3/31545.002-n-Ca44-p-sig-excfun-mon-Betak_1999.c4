@@ -1,0 +1,28 @@
+#ENTRY      31545
+#AUTHOR1    E.Betak+
+#YEAR       1999
+#INSTITUTE  (3SLKSLO)
+#TITLE      Activation Cross Sections for Reactions Induced by
+#+          14.7-MeV Neutrons on Natural Calcium and Enriched
+#+          44Ca Targets
+#AUTHOR(S)  E.Betak, E.Droste, S.Mikolajewski, W.Ratynski, E.Rurarz, 
+#+          T.Kempisty, S.Raman
+#REF-CODE   (J,NSE,132,295,1999)
+#REFERENCE  Nucl.Sci.Eng. 132 (1999) 295 (doi:10.13182/NSE99-A2064)
+#DATASETS   0
+#
+#DATASET    31545002 
+#DATE       20211005
+#REACTION   20-CA-44(N,P)19-K-44,,SIG
+#PROJ       1
+#TARG       20044
+#MF         3
+#MT         103
+#PRODUCT    19-K-44
+#C4BEGIN    [    1 20044   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20044   3 103    1.4700+7 200000.0 0.039000 4.0000-3                                       E.Betak+             (99)31545  2 
+#/DATA      1
+#/DATASET

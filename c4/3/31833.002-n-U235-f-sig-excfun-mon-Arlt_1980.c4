@@ -1,0 +1,25 @@
+#ENTRY      31833
+#AUTHOR1    R.Arlt+
+#YEAR       1980
+#INSTITUTE  (3DDRTUD)
+#TITLE      A method for the absolute measurement of fission cross
+#+          sections at neutron energies of about 8.5 MeV
+#AUTHOR(S)  R.Arlt, M.Josch, G.Musiol, H.-G.Ortlepp, R.Teichner, W.Wagner
+#REF-CODE   (S,ZFK-410,122,1980)
+#REFERENCE  Report (proceedings) ZFK-410 page 122, 1980
+#DATASETS   0
+#
+#DATASET    31833002 
+#DATE       20201103
+#REACTION   92-U-235(N,F),,SIG
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18 C  8200000.          1.740000 0.110000                                       R.Arlt+              (80)31833  2 
+#/DATA      1
+#/DATASET

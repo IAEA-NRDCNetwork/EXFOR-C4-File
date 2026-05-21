@@ -1,0 +1,28 @@
+#ENTRY      O2424
+#AUTHOR1    C.Baumer+
+#YEAR       2019
+#INSTITUTE  (2GERGER)
+#TITLE      Measurement of absolute activation cross sections
+#+          from carbon and aluminum for proton therapy
+#AUTHOR(S)  C.Baumer, C.Maximilian Backer, M.Gerhardt, E.Grusell, B.Koska, 
+#+          K.Kroninger, C.Nitsch, H.Rullkotter, H.M.Siregar, B.Timmermann, 
+#+          N.Verbeek, J.Wulff, A.Yazgan
+#REF-CODE   (J,NIM/B,440,75,2019)
+#REFERENCE  Nucl.Instrum.Meth.B 440 (2019) 75 (doi:10.1016/j.nimb.2018.11.020)
+#DATASETS   0
+#
+#DATASET    O2424002 
+#DATE       20190106
+#REACTION   6-C-0(P,X)6-C-11,,SIG,,AV
+#PROJ       1001
+#TARG       6000
+#MF         3
+#MT         454
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  6000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6000   3 454    1.0010+8 400000.0 0.070200 2.0000-4            6011.9                     C.Baumer+            (19)O2424  2 
+#/DATA      1
+#/DATASET

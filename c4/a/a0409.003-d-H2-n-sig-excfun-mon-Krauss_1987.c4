@@ -1,0 +1,35 @@
+#ENTRY      A0409
+#AUTHOR1    A.Krauss+
+#YEAR       1987
+#INSTITUTE  (2GERMST)
+#TITLE      Low-energy fusion cross-sections of d+d and d+He3
+#+          reactions.
+#AUTHOR(S)  A.Krauss, H.W.Becker, H.P.Trautvetter, C.Rolfs, K.Brand
+#REF-CODE   (J,NP/A,465,150,1987)
+#REFERENCE  Nucl.Phys.A 465 (1987) 150 (doi:10.1016/0375-9474(87)90302-2)
+#DATASETS   0
+#
+#DATASET    A0409003 
+#DATE       20120925
+#REACTION   1-H-2(D,N)2-HE-3,,SIG,,SFC
+#PROJ       1002
+#TARG       1002
+#MF         3
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1002   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   3   4    13260.01          3.9416-5 4.0407-6                                       A.Krauss+            (87)A0409  3 
+ 1002  1002   3   4    19880.02          2.4438-4 9.5091-6                                       A.Krauss+            (87)A0409  3 
+ 1002  1002   3   4    29820.05          1.0547-3 3.5484-5                                       A.Krauss+            (87)A0409  3 
+ 1002  1002   3   4    39760.10          2.3998-3 6.1535-5                                       A.Krauss+            (87)A0409  3 
+ 1002  1002   3   4    44720.13          3.3005-3 6.4258-5                                       A.Krauss+            (87)A0409  3 
+ 1002  1002   3   4    59640.23          6.2099-3 1.0670-4                                       A.Krauss+            (87)A0409  3 
+ 1002  1002   3   4    69560.32          8.3185-3 1.4004-4                                       A.Krauss+            (87)A0409  3 
+ 1002  1002   3   4    79580.42          0.010195 1.3848-4                                       A.Krauss+            (87)A0409  3 
+ 1002  1002   3   4    89440.53          0.012440 2.4513-4                                       A.Krauss+            (87)A0409  3 
+ 1002  1002   3   4    99340.65          0.013866 1.8706-4                                       A.Krauss+            (87)A0409  3 
+#/DATA      10
+#/DATASET

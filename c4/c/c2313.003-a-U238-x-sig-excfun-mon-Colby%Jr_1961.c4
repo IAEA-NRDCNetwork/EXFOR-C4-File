@@ -1,0 +1,27 @@
+#ENTRY      C2313
+#AUTHOR1    L.J.Colby Jr+
+#YEAR       1961
+#INSTITUTE  (1USAPUR)
+#TITLE      Charge Distribution in the Fission of Uranium
+#+          Isotopes Induced by 20-40 MeV Helium Ions
+#AUTHOR(S)  L.J.Colby Jr, J.W.Cobble
+#REF-CODE   (J,PR,121,1410,1961)
+#REFERENCE  Phys.Rev. 121 (1961) 1410 (doi:10.1103/PhysRev.121.1410)
+#DATASETS   0
+#
+#DATASET    C2313003 
+#DATE       20180611
+#REACTION   92-U-238(A,F)57-LA-140,,SIG
+#PROJ       2004
+#TARG       92238
+#MF         3
+#MT         454
+#PRODUCT    57-LA-140
+#C4BEGIN    [ 2004 92238   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 92238   3 454    3.3800+7          4.2000-3                    57140.9                     L.J.Colby Jr+        (61)C2313  3 
+ 2004 92238   3 454    3.9900+7          1.8000-3                    57140.9                     L.J.Colby Jr+        (61)C2313  3 
+#/DATA      2
+#/DATASET

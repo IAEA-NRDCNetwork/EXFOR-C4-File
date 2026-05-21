@@ -1,0 +1,28 @@
+#ENTRY      30473
+#AUTHOR1    S.Sudar+
+#YEAR       1979
+#INSTITUTE  (3HUNKOS)
+#TITLE      Measurement of (n,t) cross-sections at 14 MeV and
+#+          calculation of excitation functions for fast neutron
+#+          reactions.
+#AUTHOR(S)  S.Sudar, J.Csikai
+#REF-CODE   (J,NP/A,319,157,197904)
+#REFERENCE  Nucl.Phys.A 319 (1979) 157 (doi:10.1016/0375-9474(79)90177-5)
+#DATASETS   0
+#
+#DATASET    30473003 
+#DATE       20090312
+#REACTION   25-MN-55(N,T)24-CR-53,,SIG
+#PROJ       1
+#TARG       25055
+#MF         3
+#MT         105
+#PRODUCT    24-CR-53
+#C4BEGIN    [    1 25055   3 105 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 25055   3 105 A  1.4600+7          9.9000-4 1.0000-4                                       S.Sudar+             (79)30473  3 
+    1 25055   3 105 A  1.4800+7          1.2500-3 1.5000-4                                       S.Sudar+             (79)30473  3 
+#/DATA      2
+#/DATASET

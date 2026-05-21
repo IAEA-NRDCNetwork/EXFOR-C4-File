@@ -1,0 +1,26 @@
+#ENTRY      40171
+#AUTHOR1    A.A.Druzhinin+
+#YEAR       1972
+#INSTITUTE  (4RUSKUR)
+#TITLE      The (n,2n) reaction cross sections for Tm,Ir,Tl and
+#+          Pb isotopes at 14.8 MeV neutron energy
+#AUTHOR(S)  A.A.Druzhinin, N.I.Ivanova, A.A.Lbov
+#REF-CODE   (J,SNP,14,383,1972)
+#REFERENCE  Sov.J.Nucl.Phys. 14 (1972) 383
+#DATASETS   0
+#
+#DATASET    40171005 
+#DATE       20221014
+#REACTION   82-PB-204(N,2N)82-PB-203,,SIG
+#PROJ       1
+#TARG       82204
+#MF         3
+#MT         16
+#PRODUCT    82-PB-203
+#C4BEGIN    [    1 82204   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82204   3  16    1.4800+7          2.200000 0.200000                                       A.A.Druzhinin+       (72)40171  5 
+#/DATA      1
+#/DATASET

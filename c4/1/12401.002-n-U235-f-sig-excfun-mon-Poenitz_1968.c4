@@ -1,0 +1,38 @@
+#ENTRY      12401
+#AUTHOR1    W.P.Poenitz+
+#YEAR       1968
+#INSTITUTE  (1USAANL)
+#TITLE      Measurements of the U-235 fission cross section in the
+#+          keV neutron energy region.
+#AUTHOR(S)  W.P.Poenitz
+#REF-CODE   (C,68WASH,,503,1968)
+#REFERENCE  Proceedings of Nuclear Cross-Sections Techn. Conf., Washington 1968 page 503
+#DATASETS   0
+#
+#DATASET    12401002 
+#DATE       20250629
+#REACTION   92-U-235(N,F),,SIG
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18    30000.00 9000.000 2.190000 0.060000                                       W.P.Poenitz          (68)12401  2 
+    1 92235   3  18    55000.00 9900.000 1.810000 0.090000                                       W.P.Poenitz          (68)12401  2 
+    1 92235   3  18    76000.00 15200.00 1.660000 0.100000                                       W.P.Poenitz          (68)12401  2 
+    1 92235   3  18    267000.0 8010.000 1.030000 0.080000                                       W.P.Poenitz          (68)12401  2 
+    1 92235   3  18    280000.0 14000.00 1.260000 0.150000                                       W.P.Poenitz          (68)12401  2 
+    1 92235   3  18    285000.0 14250.00 1.190000 0.090000                                       W.P.Poenitz          (68)12401  2 
+    1 92235   3  18    290000.0 78300.00 1.070000 0.060000                                       W.P.Poenitz          (68)12401  2 
+    1 92235   3  18    400000.0 80000.00 1.010000 0.050000                                       W.P.Poenitz          (68)12401  2 
+    1 92235   3  18    496000.0 19840.00 1.030000 0.050000                                       W.P.Poenitz          (68)12401  2 
+    1 92235   3  18    695000.0 83400.00 1.000000 0.050000                                       W.P.Poenitz          (68)12401  2 
+    1 92235   3  18    850000.0 76500.00 0.990000 0.050000                                       W.P.Poenitz          (68)12401  2 
+    1 92235   3  18    1040000. 83200.00 1.100000 0.050000                                       W.P.Poenitz          (68)12401  2 
+    1 92235   3  18    1150000. 80500.00 1.090000 0.050000                                       W.P.Poenitz          (68)12401  2 
+    1 92235   3  18    1470000. 73500.00 1.110000 0.060000                                       W.P.Poenitz          (68)12401  2 
+#/DATA      14
+#/DATASET

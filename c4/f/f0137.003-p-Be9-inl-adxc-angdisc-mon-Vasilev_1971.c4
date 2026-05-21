@@ -1,0 +1,35 @@
+#ENTRY      F0137
+#AUTHOR1    S.S.Vasilev+
+#YEAR       1971
+#INSTITUTE  (4RUSMOS)
+#TITLE      Mechanism of the reaction 9Be(p,p1)9Be* (1.68 MeV).
+#AUTHOR(S)  S.S.Vasilev, B.S.Galakhmatova, A.S.Demyanova, T.N.Mikhaleva, 
+#+          E.A.Romanovskii, D.L.Chuprunov
+#REF-CODE   (J,IZV,35,(11),2364,1971)
+#REFERENCE  Izv.Ross.AN,Fiz. 35 No.11 (1971) 2364
+#DATASETS   0
+#
+#DATASET    F0137003 
+#DATE       20141003
+#REACTION   4-BE-9(P,INL)4-BE-9,PAR,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         601
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1001  4009   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4 601  C 6400000.          8.5800-3          0.846193          2430000.         LVLS.S.Vasilev+         (71)F0137  3 
+ 1001  4009   4 601  C 6400000.          8.9000-3          0.709571          2430000.         LVLS.S.Vasilev+         (71)F0137  3 
+ 1001  4009   4 601  C 6400000.          8.2000-3          0.576432          2430000.         LVLS.S.Vasilev+         (71)F0137  3 
+ 1001  4009   4 601  C 6400000.          7.8300-3          0.369747          2430000.         LVLS.S.Vasilev+         (71)F0137  3 
+ 1001  4009   4 601  C 6400000.          7.1300-3          0.130526          2430000.         LVLS.S.Vasilev+         (71)F0137  3 
+ 1001  4009   4 601  C 6400000.          6.4200-3         -0.146083          2430000.         LVLS.S.Vasilev+         (71)F0137  3 
+ 1001  4009   4 601  C 6400000.          5.0300-3         -0.411514          2430000.         LVLS.S.Vasilev+         (71)F0137  3 
+ 1001  4009   4 601  C 6400000.          5.0000-3         -0.611527          2430000.         LVLS.S.Vasilev+         (71)F0137  3 
+ 1001  4009   4 601  C 6400000.          4.1300-3         -0.768284          2430000.         LVLS.S.Vasilev+         (71)F0137  3 
+ 1001  4009   4 601  C 6400000.          3.7600-3         -0.908508          2430000.         LVLS.S.Vasilev+         (71)F0137  3 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      E1415
+#AUTHOR1    M.Motoba+
+#YEAR       1975
+#INSTITUTE  (2JPNKYU)
+#TITLE      Elastic and inelastic scattering of 51.9 MeV protons
+#+          by doubly even tellurium nuclei
+#AUTHOR(S)  M.Motoba, M.Hyakutake, K.Yagi, Y.Aoki
+#REF-CODE   (J,NP/A,237,260,1975)
+#REFERENCE  Nucl.Phys.A 237 (1975) 260 (doi:10.1016/0375-9474(75)90424-8)
+#DATASETS   0
+#
+#DATASET    E1415025 
+#DATE       20240319
+#REACTION   52-TE-126(P,INL)52-TE-126,PAR,DA
+#PROJ       1001
+#TARG       52126
+#MF         4
+#MT         601
+#PRODUCT    52-TE-126
+#C4BEGIN    [ 1001 52126   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 52126   4 601  C 5.1900+7          4.3380-4          0.961741          2740000.         LVLM.Matoba+            (75)E1415 25 
+ 1001 52126   4 601  C 5.1900+7          5.0970-4          0.946818          2740000.         LVLM.Matoba+            (75)E1415 25 
+ 1001 52126   4 601  C 5.1900+7          4.4790-4          0.929519          2740000.         LVLM.Matoba+            (75)E1415 25 
+ 1001 52126   4 601  C 5.1900+7          3.1570-4          0.905495          2740000.         LVLM.Matoba+            (75)E1415 25 
+ 1001 52126   4 601  C 5.1900+7          2.4670-4          0.878650          2740000.         LVLM.Matoba+            (75)E1415 25 
+ 1001 52126   4 601  C 5.1900+7          1.7540-4          0.855906          2740000.         LVLM.Matoba+            (75)E1415 25 
+ 1001 52126   4 601  C 5.1900+7          7.8200-5          0.828549          2740000.         LVLM.Matoba+            (75)E1415 25 
+ 1001 52126   4 601  C 5.1900+7          1.2180-4          0.797689          2740000.         LVLM.Matoba+            (75)E1415 25 
+ 1001 52126   4 601  C 5.1900+7          9.7350-5          0.762217          2740000.         LVLM.Matoba+            (75)E1415 25 
+ 1001 52126   4 601  C 5.1900+7          1.0140-4          0.725014          2740000.         LVLM.Matoba+            (75)E1415 25 
+ 1001 52126   4 601  C 5.1900+7          1.3970-4          0.690504          2740000.         LVLM.Matoba+            (75)E1415 25 
+#/DATA      11
+#/DATASET

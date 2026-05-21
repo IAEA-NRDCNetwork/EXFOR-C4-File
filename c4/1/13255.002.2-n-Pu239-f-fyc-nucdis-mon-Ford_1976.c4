@@ -1,0 +1,32 @@
+#ENTRY      13255
+#AUTHOR1    G.P.Ford+
+#YEAR       1976
+#INSTITUTE  (1USALAS)
+#TITLE      A compilation of yields from neutron-induced fission
+#+          of 232Th, 235U, 236U, 237Np, 238U, and 239Pu
+#+          measured radiochemically at Los Alamos
+#AUTHOR(S)  G.P.Ford, A.E.Norris
+#REF-CODE   (R,LA-6129-MS,43,1976)
+#REFERENCE  Report LA-6129-MS page 43, 1976
+#DATASETS   0
+#
+#DATASET    132550022
+#DATE       20241201
+#REACTION   94-PU-239(N,F)ELEM/MASS,CUM,FY
+#PROJ       1
+#TARG       94239
+#MF         8
+#MT         459
+#C4BEGIN    [    1 94239   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   8 459    1.4000+7          0.021200          38.00000 89.00000 9.000000            G.P.Ford+            (76)13255  22
+    1 94239   8 459    1.4000+7          0.021100          47.00000 111.0000 9.000000            G.P.Ford+            (76)13255  22
+    1 94239   8 459    1.4000+7          0.041900          56.00000 140.0000 9.000000            G.P.Ford+            (76)13255  22
+    1 94239   8 459    1.4000+7          0.028700          58.00000 144.0000 9.000000            G.P.Ford+            (76)13255  22
+    1 94239   8 459    1.4000+7          0.018900          60.00000 147.0000 9.000000            G.P.Ford+            (76)13255  22
+    1 94239   8 459    1.4000+7          2.3000-3          63.00000 156.0000 9.000000            G.P.Ford+            (76)13255  22
+    1 94239   8 459    1.4000+7          1.9600-4          65.00000 161.0000 9.000000            G.P.Ford+            (76)13255  22
+#/DATA      7
+#/DATASET

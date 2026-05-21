@@ -1,0 +1,45 @@
+#ENTRY      21883
+#AUTHOR1    B.Haesner+
+#YEAR       1983
+#INSTITUTE  (2GERKFK)
+#TITLE      Measurement of the He-3 and the He-4 total
+#+          neutron cross sections up to 40 MeV
+#AUTHOR(S)  B.Haesner, W.Heeringa, H.O.Klages, H.Dobiasch, G.Schmalz, 
+#+          P.Schwarz, J.Wilczynski, B.Zeitnitz, F.Kaeppeler
+#REF-CODE   (J,PR/C,28,(3),995,1983)
+#REFERENCE  Phys.Rev.C 28 No.3 (1983) 995 (doi:10.1103/PhysRevC.28.995)
+#DATASETS   0
+#
+#DATASET    21883003 
+#DATE       20110227
+#REACTION   2-HE-4(N,TOT),,SIG
+#PROJ       1
+#TARG       2004
+#MF         3
+#MT         1
+#C4BEGIN    [    1  2004   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  2004   3   1    2000000.          4.095000 9.0000-3                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    4000000.          2.505000 7.0000-3                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    6000000.          2.047000 7.0000-3                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    8000000.          1.714000 6.0000-3                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    1.0000+7          1.450000 5.0000-3                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    1.2000+7          1.253000 4.0000-3                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    1.4000+7          1.090000 4.0000-3                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    1.6000+7          0.966000 4.0000-3                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    1.8000+7          0.864000 4.0000-3                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    2.0000+7          0.779000 4.0000-3                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    2.2000+7          0.731000 6.0000-3                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    2.4000+7          0.669000 7.0000-3                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    2.6000+7          0.626000 8.0000-3                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    2.8000+7          0.605000 0.011000                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    3.0000+7          0.560000 0.013000                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    3.2000+7          0.550000 0.016000                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    3.4000+7          0.515000 0.018000                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    3.6000+7          0.506000 0.021000                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    3.8000+7          0.463000 0.023000                                       B.Haesner+           (83)21883  3 
+    1  2004   3   1    4.0000+7          0.436000 0.027000                                       B.Haesner+           (83)21883  3 
+#/DATA      20
+#/DATASET

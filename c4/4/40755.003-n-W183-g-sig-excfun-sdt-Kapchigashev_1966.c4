@@ -1,0 +1,32 @@
+#ENTRY      40755
+#AUTHOR1    S.V.Kapchigashev+
+#YEAR       1966
+#INSTITUTE  (4RUSLEB)
+#TITLE      Radiative capture cross-sections measurements for
+#+          neutrons in the energy range up to 50 keV for elements
+#+          with even proton number
+#AUTHOR(S)  S.V.Kapchigashev, Yu.P.Popov, F.L.Shapiro
+#REF-CODE   (W,KAPCHIGASHEV,1966)
+#REFERENCE  Private communication  (1966)
+#DATASETS   0
+#
+#DATASET    40755003 
+#DATE       20140627
+#REACTION   74-W-183(N,G)74-W-184,,SIG,,SDT
+#PROJ       1
+#TARG       74183
+#MF         3
+#MT         102
+#PRODUCT    74-W-184
+#C4BEGIN    [    1 74183   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74183   3 102    5000.000          2.500000                                                S.V.Kapchigashev+    (66)40755  3 
+    1 74183   3 102    10000.00          1.150000                                                S.V.Kapchigashev+    (66)40755  3 
+    1 74183   3 102    15000.00          0.940000                                                S.V.Kapchigashev+    (66)40755  3 
+    1 74183   3 102    20000.00          0.960000 0.290000                                       S.V.Kapchigashev+    (66)40755  3 
+    1 74183   3 102    30000.00          0.810000 0.240000                                       S.V.Kapchigashev+    (66)40755  3 
+    1 74183   3 102    50000.00          0.830000 0.220000                                       S.V.Kapchigashev+    (66)40755  3 
+#/DATA      6
+#/DATASET

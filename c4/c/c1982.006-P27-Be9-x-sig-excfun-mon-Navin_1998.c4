@@ -1,0 +1,30 @@
+#ENTRY      C1982
+#AUTHOR1    A.Navin+
+#YEAR       1998
+#INSTITUTE  (1USAMSU)
+#TITLE      Spectroscopy of Radioactive Beams from Single-Nucleon
+#+          Knockout Reactions: Application to the sd Shell
+#+          Nuclei 25Al and 26,27,28P
+#AUTHOR(S)  A.Navin, D.Bazin, B.A.Brown, B.Davids, G.Gervais, T.Glasmacher, 
+#+          K.Govaert, P.G.Hansen, M.Hellstrom, R.W.Ibbotson, V.Maddalena, 
+#+          B.Pritychenko, H.Scheit, B.M.Sherrill, M.Steiner, J.A.Tostevin, 
+#+          J.Yurkon
+#REF-CODE   (J,PRL,81,(23),5089,1998)
+#REFERENCE  Phys.Rev.Lett. 81 No.23 (1998) 5089 (doi:10.1103/PhysRevLett.81.5089)
+#DATASETS   0
+#
+#DATASET    C1982006 
+#DATE       20130319
+#REACTION   4-BE-9(15-P-27,X)14-SI-26,,SIG
+#PROJ       15027
+#TARG       4009
+#MF         3
+#MT         454
+#PRODUCT    14-SI-26
+#C4BEGIN    [15027  4009   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+15027  4009   3 454    1.7550+9          0.074000 0.011000           14026.9                     A.Navin+             (98)C1982  6 
+#/DATA      1
+#/DATASET

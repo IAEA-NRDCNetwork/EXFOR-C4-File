@@ -1,0 +1,25 @@
+#ENTRY      12916
+#AUTHOR1    C.I.Zanelli+
+#YEAR       1986
+#INSTITUTE  (1USADAV)
+#TITLE      NEUTRON TOTAL CROSS SECTIONS OF CA AND FE AT 35.3,
+#+          40.3 AND 50.4 MEV.
+#AUTHOR(S)  C.I.Zanelli, F.P.Brady, J.L.Romero, C.M.Castaneda, D.L.Johnson
+#REF-CODE   (J,PR/C,33,66,8601)
+#REFERENCE  Phys.Rev.C 33 (1986) 66 (doi:10.1103/PhysRevC.33.66)
+#DATASETS   0
+#
+#DATASET    12916002 
+#DATE       19851104
+#REACTION   6-C-0(N,TOT),,SIG
+#PROJ       1
+#TARG       6000
+#MF         3
+#MT         1
+#C4BEGIN    [    1  6000   3   1 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   3   1 A  5.0400+7          0.922000 0.024000                                       C.I.Zanelli+         (86)12916  2 
+#/DATA      1
+#/DATASET

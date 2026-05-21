@@ -1,0 +1,28 @@
+#ENTRY      A0689
+#AUTHOR1    G.K.Gubbi+
+#YEAR       1999
+#INSTITUTE  (3INDTRM)
+#TITLE      Mass distribution in 11-B induced fission of 232-Th
+#AUTHOR(S)  G.K.Gubbi, A.Goswami, B.S.Tomar, A.Ramaswami, A.V.R.Reddy, 
+#+          P.P.Burte, S.B.Manohar, B.John
+#REF-CODE   (J,PR/C,59,3224,1999)
+#REFERENCE  Phys.Rev.C 59 (1999) 3224 (doi:10.1103/PhysRevC.59.3224)
+#DATASETS   0
+#
+#DATASET    A0689006 
+#DATE       20160302
+#REACTION   90-TH-232(5-B-11,X)91-PA-233,(CUM),SIG
+#PROJ       5011
+#TARG       90232
+#MF         3
+#MT         459
+#PRODUCT    91-PA-233
+#C4BEGIN    [ 5011 90232   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5011 90232   3 459    5.5000+7          0.012100 1.2000-3           91233.9                     G.K.Gubbi+           (99)A0689  6 
+ 5011 90232   3 459    6.0000+7          0.027700 1.0000-3           91233.9                     G.K.Gubbi+           (99)A0689  6 
+ 5011 90232   3 459    7.2000+7          0.051400 2.0000-3           91233.9                     G.K.Gubbi+           (99)A0689  6 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      O2553
+#AUTHOR1    F.Horst+
+#YEAR       2019
+#INSTITUTE  (2GERGSI)
+#TITLE      Measurement of PET isotope production cross sections
+#+          for protons and carbon ions on carbon and oxygen
+#+          targets for applications in particle therapy range
+#+          verification
+#AUTHOR(S)  F.Horst, W.Adi, G.Arico, K.-T.Brinkmann, M.Durante, C.-A.Reidel, 
+#+          M.Rovituso, U.Weber, H.-G.Zaunick, K.Zink, C.Schuy
+#REF-CODE   (J,PMB,64,205012,2019)
+#REFERENCE  Phys.Med.Biol. 64 (2019) 205012 (doi:10.1088/1361-6560/ab4511)
+#DATASETS   0
+#
+#DATASET    O2553003 
+#DATE       20230202
+#REACTION   6-C-12(P,X)6-C-11,,SIG
+#PROJ       1001
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   3 454    2.1510+8          0.040400 4.8000-3            6011.9                     F.Horst+             (19)O2553  3 
+ 1001  6012   3 454    1.8430+8          0.041900 5.1000-3            6011.9                     F.Horst+             (19)O2553  3 
+ 1001  6012   3 454    1.5280+8          0.045600 5.6000-3            6011.9                     F.Horst+             (19)O2553  3 
+ 1001  6012   3 454    1.2170+8          0.050000 6.3000-3            6011.9                     F.Horst+             (19)O2553  3 
+ 1001  6012   3 454    9.6500+7          0.058000 6.8000-3            6011.9                     F.Horst+             (19)O2553  3 
+ 1001  6012   3 454    7.5400+7          0.065700 7.9000-3            6011.9                     F.Horst+             (19)O2553  3 
+ 1001  6012   3 454    4.9300+7          0.075800 9.6000-3            6011.9                     F.Horst+             (19)O2553  3 
+ 1001  6012   3 454    4.0700+7          0.083400 0.011700            6011.9                     F.Horst+             (19)O2553  3 
+#/DATA      8
+#/DATASET

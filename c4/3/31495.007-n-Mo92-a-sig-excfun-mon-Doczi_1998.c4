@@ -1,0 +1,31 @@
+#ENTRY      31495
+#AUTHOR1    R.Doczi+
+#YEAR       1998
+#INSTITUTE  (3HUNKOS)
+#TITLE      Excitation functions of some (n,p) and (n,alpha)
+#+          reactions from threshold to 16 MeV
+#AUTHOR(S)  R.Doczi, V.Semkova, A.Fenyvesi, N.Yamamuro, Cs.M.Buczko, 
+#+          J.Csikai
+#REF-CODE   (J,NSE,129,164,1998)
+#REFERENCE  Nucl.Sci.Eng. 129 (1998) 164 (doi:10.13182/NSE98-A1970)
+#DATASETS   0
+#
+#DATASET    31495007 
+#DATE       20020307
+#REACTION   42-MO-92(N,A)40-ZR-89,,SIG
+#PROJ       1
+#TARG       42092
+#MF         3
+#MT         107
+#PRODUCT    40-ZR-89
+#C4BEGIN    [    1 42092   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42092   3 107    8970000. 180000.0 7.9700-3 7.0000-4                                       R.Doczi+             (98)31495  7 
+    1 42092   3 107    1.0300+7 200000.0 0.012100 8.0000-4                                       R.Doczi+             (98)31495  7 
+    1 42092   3 107    1.1190+7 220000.0 0.013100 1.1000-3                                       R.Doczi+             (98)31495  7 
+    1 42092   3 107    1.1340+7 290000.0 0.013800 1.1000-3                                       R.Doczi+             (98)31495  7 
+    1 42092   3 107    1.2530+7 300000.0 0.019700 1.5000-3                                       R.Doczi+             (98)31495  7 
+#/DATA      5
+#/DATASET

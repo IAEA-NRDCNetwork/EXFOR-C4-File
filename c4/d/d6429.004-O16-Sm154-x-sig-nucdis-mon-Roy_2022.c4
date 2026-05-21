@@ -1,0 +1,55 @@
+#ENTRY      D6429
+#AUTHOR1    B.J.Roy+
+#YEAR       2022
+#INSTITUTE  (3INDTRM)
+#TITLE      Reaction mechanism study for multinucleon transfer
+#+          processes in collisions of spherical and deformed
+#+          nuclei at energies near and above the coulomb
+#+          barrier: the 16O + 154Sm reaction
+#AUTHOR(S)  B.J.Roy, S.Santra, A.Pal, H.Kumawat, S.K.Pandit, V.V.Parkar, 
+#+          K.Ramachandran, K.Mahata, K.Sekizawa
+#REF-CODE   (J,PR/C,105,044611,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) 044611 (doi:10.1103/PhysRevC.105.044611)
+#DATASETS   0
+#
+#DATASET    D6429004 
+#DATE       20231110
+#REACTION   62-SM-154(8-O-16,X)ELEM/MASS,,SIG
+#PROJ       8016
+#TARG       62154
+#MF         3
+#MT         454
+#C4BEGIN    [ 8016 62154   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 62154   3 454    8.5000+7          6.9806-4                     7013.9                     B.J.Roy+             (22)D6429  4 
+ 8016 62154   3 454    8.5000+7          4.2031-3                     7014.9                     B.J.Roy+             (22)D6429  4 
+ 8016 62154   3 454    8.5000+7          0.043055                     7015.9                     B.J.Roy+             (22)D6429  4 
+ 8016 62154   3 454    8.5000+7          0.020233                     6012.9                     B.J.Roy+             (22)D6429  4 
+ 8016 62154   3 454    8.5000+7          0.015760                     6013.9                     B.J.Roy+             (22)D6429  4 
+ 8016 62154   3 454    8.5000+7          6.7040-4                     5010.9                     B.J.Roy+             (22)D6429  4 
+ 8016 62154   3 454    8.5000+7          2.2097-3                     5011.9                     B.J.Roy+             (22)D6429  4 
+ 8016 62154   3 454    8.5000+7          1.1335-3                     4009.9                     B.J.Roy+             (22)D6429  4 
+ 8016 62154   3 454    8.5000+7          4.9792-3                     3006.9                     B.J.Roy+             (22)D6429  4 
+ 8016 62154   3 454    8.5000+7          1.8664-3                     3007.9                     B.J.Roy+             (22)D6429  4 
+#/DATA      10
+#/DATASET
+#
+#DATASET    D6429004 
+#DATE       20231110
+#REACTION   62-SM-154(8-O-16,X)ELEM/MASS,,SIG
+#PROJ       8016
+#TARG       62154
+#MF         3
+#MT         454
+#C4BEGIN    [ 8016 62154   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 62154   3 454    1.3400+8          0.316200                     8017.9                     B.J.Roy+             (22)D6429  4 
+ 8016 62154   3 454    1.3400+8          0.017010                     8018.9                     B.J.Roy+             (22)D6429  4 
+ 8016 62154   3 454    1.3400+8          0.245600                     7014.9                     B.J.Roy+             (22)D6429  4 
+ 8016 62154   3 454    1.3400+8          0.118400                     7015.9                     B.J.Roy+             (22)D6429  4 
+#/DATA      4
+#/DATASET

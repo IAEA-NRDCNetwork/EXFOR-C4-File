@@ -1,0 +1,44 @@
+#ENTRY      C0144
+#AUTHOR1    B.S.Flanders+
+#YEAR       1991
+#INSTITUTE  (1USAAMW)
+#TITLE      Empirical density-dependent effective interaction for
+#+          nucleon-nucleus scattering at 500 MeV
+#AUTHOR(S)  B.S.Flanders, J.J.Kelly, H.Seifert, D.Lopiano, B.Aas, A.Azizi, 
+#+          G.Igo, G.Weston, C.Whitten, A.Wong, M.V.Hynes, J.McClelland, 
+#+          W.Bertozzi, J.M.Finn, C.E.Hyde-Wright, R.W.Lourie, B.E.Norum, 
+#+          P.Ulmer, B.L.Berman
+#REF-CODE   (J,PR/C,43,2103,199105)
+#REFERENCE  Phys.Rev.C 43 (1991) 2103 (doi:10.1103/PhysRevC.43.2103)
+#DATASETS   0
+#
+#DATASET    C0144002 
+#DATE       19970415
+#REACTION   8-O-16(P,EL)8-O-16,,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4   2 AC 4.9750+8          0.962000 3.0784-3 0.993433                              B.S.Flanders+        (91)C0144  2 
+ 1001  8016   4   2 AC 4.9750+8          0.618800 2.2896-3 0.991076                              B.S.Flanders+        (91)C0144  2 
+ 1001  8016   4   2 AC 4.9750+8          0.548800 2.0854-3 0.989751                              B.S.Flanders+        (91)C0144  2 
+ 1001  8016   4   2 AC 4.9750+8          0.268800 1.9891-3 0.985289                              B.S.Flanders+        (91)C0144  2 
+ 1001  8016   4   2 AC 4.9750+8          0.080070 3.5231-4 0.978039                              B.S.Flanders+        (91)C0144  2 
+ 1001  8016   4   2 AC 4.9750+8          0.013160 9.3436-5 0.969360                              B.S.Flanders+        (91)C0144  2 
+ 1001  8016   4   2 AC 4.9750+8          1.4480-3 2.7078-5 0.959314                              B.S.Flanders+        (91)C0144  2 
+ 1001  8016   4   2 AC 4.9750+8          3.0220-3 2.9616-5 0.947824                              B.S.Flanders+        (91)C0144  2 
+ 1001  8016   4   2 AC 4.9750+8          4.1730-3 2.5455-5 0.935073                              B.S.Flanders+        (91)C0144  2 
+ 1001  8016   4   2 AC 4.9750+8          2.7710-3 1.4963-5 0.920914                              B.S.Flanders+        (91)C0144  2 
+ 1001  8016   4   2 AC 4.9750+8          1.2020-3 7.9332-6 0.905495                              B.S.Flanders+        (91)C0144  2 
+ 1001  8016   4   2 AC 4.9750+8          2.8030-4 1.4295-6 0.888697                              B.S.Flanders+        (91)C0144  2 
+ 1001  8016   4   2 AC 4.9750+8          5.8000-5 3.6540-7 0.870699                              B.S.Flanders+        (91)C0144  2 
+ 1001  8016   4   2 AC 4.9750+8          6.1190-5 3.1819-7 0.851544                              B.S.Flanders+        (91)C0144  2 
+ 1001  8016   4   2 AC 4.9750+8          8.1300-5 4.0650-7 0.831082                              B.S.Flanders+        (91)C0144  2 
+ 1001  8016   4   2 AC 4.9750+8          5.8560-5 3.1622-7 0.809632                              B.S.Flanders+        (91)C0144  2 
+#/DATA      16
+#/DATASET

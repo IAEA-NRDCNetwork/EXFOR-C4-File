@@ -1,0 +1,33 @@
+#ENTRY      F1456
+#AUTHOR1    A.N.Moiseeva+
+#YEAR       2021
+#INSTITUTE  (4RUSKUR)
+#TITLE      Alpha particle induced reactions on 151Eu:
+#+          Possibility of production of 152Tb radioisotope for
+#+          PET imaging
+#AUTHOR(S)  A.N.Moiseeva, R.A.Aliev, V.N.Unezhev, N.S.Gustova, A.S.Madumarov, 
+#+          N.V.Aksenov, V.A.Zagryadskiy
+#REF-CODE   (J,NIM/B,497,59,2021)
+#REFERENCE  Nucl.Instrum.Meth.B 497 (2021) 59 (doi:10.1016/j.nimb.2021.04.007)
+#DATASETS   0
+#
+#DATASET    F1456002 
+#DATE       20230125
+#REACTION   63-EU-151(A,6N)65-TB-149-G,,SIG
+#PROJ       2004
+#TARG       63151
+#MF         3
+#MT         153
+#PRODUCT    65-TB-149-G
+#C4BEGIN    [ 2004 63151   3 153GA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 63151   3 153GA  5.3200+7          1.2000-5 2.0000-6                                       A.N.Moiseeva+        (21)F1456  2 
+ 2004 63151   3 153GA  5.4600+7          1.4000-4 2.4000-5                                       A.N.Moiseeva+        (21)F1456  2 
+ 2004 63151   3 153GA  5.5900+7          7.0000-4 1.2000-4                                       A.N.Moiseeva+        (21)F1456  2 
+ 2004 63151   3 153GA  5.7200+7          2.0200-3 3.5000-4                                       A.N.Moiseeva+        (21)F1456  2 
+ 2004 63151   3 153GA  5.8500+7          4.2100-3 7.3000-4                                       A.N.Moiseeva+        (21)F1456  2 
+ 2004 63151   3 153GA  5.9500+7          6.6700-3 1.1600-3                                       A.N.Moiseeva+        (21)F1456  2 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      C2389
+#AUTHOR1    Y.S.Horowitz+
+#YEAR       1970
+#INSTITUTE  (1CANMCG)
+#TITLE      Inelastic scattering of 100 MeV protons from 12C
+#+          using a Ge(Li) total-absorption proton counter
+#AUTHOR(S)  Y.S.Horowitz, R.E.Bell
+#REF-CODE   (J,CJP,48,(2),201,1970)
+#REFERENCE  Can.J.Phys. 48 No.2 (1970) 201 (doi:10.1139/p70-026)
+#DATASETS   0
+#
+#DATASET    C2389010 
+#DATE       20190220
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601  C 1.0000+8          5.9970-4 1.7580-4 0.977955          1.6106+7         LVLY.S.Horowitz+        (70)C2389 10 
+ 1001  6012   4 601  C 1.0000+8          6.3570-4 1.4120-4 0.959594          1.6106+7         LVLY.S.Horowitz+        (70)C2389 10 
+ 1001  6012   4 601  C 1.0000+8          8.3580-4 1.3730-4 0.935820          1.6106+7         LVLY.S.Horowitz+        (70)C2389 10 
+ 1001  6012   4 601  C 1.0000+8          3.8790-4 4.7830-5 0.896741          1.6106+7         LVLY.S.Horowitz+        (70)C2389 10 
+ 1001  6012   4 601  C 1.0000+8          3.5610-4 5.4900-5 0.850774          1.6106+7         LVLY.S.Horowitz+        (70)C2389 10 
+ 1001  6012   4 601  C 1.0000+8          2.3660-4 3.1630-5 0.796139          1.6106+7         LVLY.S.Horowitz+        (70)C2389 10 
+ 1001  6012   4 601  C 1.0000+8          1.4810-4 2.4330-5 0.736581          1.6106+7         LVLY.S.Horowitz+        (70)C2389 10 
+ 1001  6012   4 601  C 1.0000+8          9.3840-5 1.4470-5 0.673361          1.6106+7         LVLY.S.Horowitz+        (70)C2389 10 
+ 1001  6012   4 601  C 1.0000+8          6.3870-5 9.8490-6 0.598940          1.6106+7         LVLY.S.Horowitz+        (70)C2389 10 
+ 1001  6012   4 601  C 1.0000+8          3.2960-5 7.0130-6 0.445510          1.6106+7         LVLY.S.Horowitz+        (70)C2389 10 
+#/DATA      10
+#/DATASET

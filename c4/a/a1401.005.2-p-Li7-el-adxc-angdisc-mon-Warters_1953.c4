@@ -1,0 +1,53 @@
+#ENTRY      A1401
+#AUTHOR1    W.D.Warters+
+#YEAR       1953
+#INSTITUTE  (1USACAL)
+#TITLE      The elastic scattering of protons by lithium
+#AUTHOR(S)  W.D.Warters, W.A.Fowler, C.C.Lauritsen
+#REF-CODE   (J,PR,91,917,1953)
+#REFERENCE  Phys.Rev. 91 (1953) 917 (doi:10.1103/PhysRev.91.917)
+#DATASETS   0
+#
+#DATASET    A14010052
+#DATE       20200323
+#REACTION   3-LI-7(P,EL)3-LI-7,,DA,,RTH
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         2
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1001  3007   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4   2  C 441000.0 2205.000 3.049027 0.152451 0.642788                              W.D.Warters+         (53)A1401  52
+ 1001  3007   4   2  C 441000.0 2205.000 1.079826 0.053991 0.342020                              W.D.Warters+         (53)A1401  52
+ 1001  3007   4   2  C 441000.0 2205.000 0.548598 0.027430 0.013962                              W.D.Warters+         (53)A1401  52
+ 1001  3007   4   2  C 441000.0 2205.000 0.327516 0.016376-0.342020                              W.D.Warters+         (53)A1401  52
+ 1001  3007   4   2  C 441000.0 2205.000 0.232520 0.011626-0.642788                              W.D.Warters+         (53)A1401  52
+ 1001  3007   4   2  C 441000.0 2205.000 0.208518 0.010426-0.802817                              W.D.Warters+         (53)A1401  52
+ 1001  3007   4   2  C 441000.0 2205.000 0.190135 9.5067-3-0.939693                              W.D.Warters+         (53)A1401  52
+#/DATA      7
+#/DATASET
+#
+#DATASET    A14010052
+#DATE       20200323
+#REACTION   3-LI-7(P,EL)3-LI-7,,DA,,RTH
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         2
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1001  3007   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4   2  C 1030000. 5150.000 0.513863 0.025693 0.642788                              W.D.Warters+         (53)A1401  52
+ 1001  3007   4   2  C 1030000. 5150.000 0.203265 0.010163 0.342020                              W.D.Warters+         (53)A1401  52
+ 1001  3007   4   2  C 1030000. 5150.000 0.125413 6.2707-3 0.013962                              W.D.Warters+         (53)A1401  52
+ 1001  3007   4   2  C 1030000. 5150.000 0.102514 5.1257-3-0.342020                              W.D.Warters+         (53)A1401  52
+ 1001  3007   4   2  C 1030000. 5150.000 0.098890 4.9445-3-0.642788                              W.D.Warters+         (53)A1401  52
+ 1001  3007   4   2  C 1030000. 5150.000 0.091138 4.5569-3-0.802817                              W.D.Warters+         (53)A1401  52
+ 1001  3007   4   2  C 1030000. 5150.000 0.105176 5.2588-3-0.939693                              W.D.Warters+         (53)A1401  52
+#/DATA      7
+#/DATASET

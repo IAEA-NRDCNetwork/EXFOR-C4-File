@@ -1,0 +1,31 @@
+#ENTRY      23103
+#AUTHOR1    T.Wang+
+#YEAR       2010
+#INSTITUTE  (2JPNTIT)
+#TITLE      Measurement of keV-neutron capture cross-sections and
+#+          capture gamma-ray spectra of Fe-56 and Fe-57.
+#AUTHOR(S)  T.Wang, M.Lee, G.Kim, Y.Oh, W.Namkung, T.-I.Ro, Y.-R.Kang, 
+#+          M.Igashira, T.Katabuchi
+#REF-CODE   (J,NIM/B,268,440,2010)
+#REFERENCE  Nucl.Instrum.Meth.B 268 (2010) 440 (doi:10.1016/j.nimb.2009.11.019)
+#DATASETS   0
+#
+#DATASET    23103002 
+#DATE       20140317
+#REACTION   26-FE-56(N,G)26-FE-57,,SIG,,SPA
+#PROJ       1
+#TARG       26056
+#MF         3
+#MT         102
+#PRODUCT    26-FE-57
+#C4BEGIN    [    1 26056   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   3 102    20000.00 5000.000 0.011640 4.7000-4                                       T.Wang+              (10)23103  2 
+    1 26056   3 102    30000.00 5000.000 0.019720 7.7000-4                                       T.Wang+              (10)23103  2 
+    1 26056   3 102    40000.00 5000.000 9.4600-3 3.8000-4                                       T.Wang+              (10)23103  2 
+    1 26056   3 102    50000.00 5000.000 0.011910 4.4000-4                                       T.Wang+              (10)23103  2 
+    1 26056   3 102    72500.00 17500.00 9.3100-3 3.4000-4                                       T.Wang+              (10)23103  2 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      11672
+#AUTHOR1    V.E.Scherrer+
+#YEAR       1954
+#INSTITUTE  (1USANRL)
+#TITLE      Gamma radiation from interaction of 3.2 MeV neutrons
+#+          with various materials.
+#AUTHOR(S)  V.E.Scherrer, B.A.Allison, W.R.Faust
+#REF-CODE   (J,PR,96,386,195410)
+#REFERENCE  Phys.Rev. 96 (1954) 386 (doi:10.1103/PhysRev.96.386)
+#DATASETS   0
+#
+#DATASET    11672014 
+#DATE       20120520
+#REACTION   82-PB-0(N,INL)82-PB-0,PAR,SIG,G
+#PROJ       1
+#TARG       82000
+#MF         13
+#MT         51
+#PRODUCT    82-PB-0
+#C4BEGIN    [    1 82000  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000  13  51    3200000. 200000.0 0.520000 0.104000                   350000.0            V.E.Scherrer+        (54)11672 14 
+    1 82000  13  51    3200000. 200000.0 1.020000 0.204000                   520000.0            V.E.Scherrer+        (54)11672 14 
+    1 82000  13  51    3200000. 200000.0 1.050000 0.210000                   800000.0            V.E.Scherrer+        (54)11672 14 
+    1 82000  13  51    3200000. 200000.0 0.180000 0.036000                   1100000.            V.E.Scherrer+        (54)11672 14 
+    1 82000  13  51    3200000. 200000.0 0.250000 0.050000                   1400000.            V.E.Scherrer+        (54)11672 14 
+    1 82000  13  51    3200000. 200000.0 0.160000 0.032000                   2200000.            V.E.Scherrer+        (54)11672 14 
+#/DATA      6
+#/DATASET

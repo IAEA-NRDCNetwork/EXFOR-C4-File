@@ -1,0 +1,27 @@
+#ENTRY      30752
+#AUTHOR1    T.Garlea+
+#YEAR       1982
+#INSTITUTE  (3RUMPIT)
+#TITLE      Determination of some fission yields in the spectrum
+#+          for the reactions 235U(n,f),239Pu(n,f),238U(n,f)
+#AUTHOR(S)  T.Garlea, C.Miron, T.Musat, C.Roth
+#REF-CODE   (P,INDC(ROM)-014,2,198212)
+#REFERENCE  Progress report INDC(ROM)-014 page 2, 1982
+#DATASETS   0
+#
+#DATASET    30752003 
+#DATE       19871214
+#REACTION   94-PU-239(N,F)ELEM/MASS,CUM,FY,,SPA
+#PROJ       1
+#TARG       94239
+#MF         8
+#MT         459
+#C4BEGIN    [    1 94239   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   8 459    450000.0          0.051100 2.1462-3 40.00000 95.00000 9.000000            T.Garlea+            (82)30752  3 
+    1 94239   8 459    450000.0          0.071800 2.8720-3 44.00000 103.0000 9.000000            T.Garlea+            (82)30752  3 
+    1 94239   8 459    450000.0          0.057300 2.1774-3 56.00000 140.0000 9.000000            T.Garlea+            (82)30752  3 
+#/DATA      3
+#/DATASET

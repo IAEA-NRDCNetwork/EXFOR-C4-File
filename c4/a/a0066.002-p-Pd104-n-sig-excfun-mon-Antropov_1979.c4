@@ -1,0 +1,27 @@
+#ENTRY      A0066
+#AUTHOR1    A.E.Antropov+
+#YEAR       1979
+#INSTITUTE  (4RUSSUL)
+#TITLE      Study of proton interaction with nuclei 102,104,106,
+#+          108,110 Pd at E(p)=6 MeV.
+#AUTHOR(S)  A.E.Antropov, T.Bayumi, V.P.Gusev, P.P.Zarubin, P.D.Ioannu, 
+#+          B.N.Orlov
+#REF-CODE   (J,YF,29,(6),1432,1979)
+#REFERENCE  Yad.Fiz. 29 No.6 (1979) 1432
+#DATASETS   0
+#
+#DATASET    A0066002 
+#DATE       20080625
+#REACTION   46-PD-104(P,N)47-AG-104,,SIG
+#PROJ       1001
+#TARG       46104
+#MF         3
+#MT         4
+#PRODUCT    47-AG-104
+#C4BEGIN    [ 1001 46104   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 46104   3   4    6020000. 60000.00 0.144000 0.030000                                       A.E.Antropov+        (79)A0066  2 
+#/DATA      1
+#/DATASET

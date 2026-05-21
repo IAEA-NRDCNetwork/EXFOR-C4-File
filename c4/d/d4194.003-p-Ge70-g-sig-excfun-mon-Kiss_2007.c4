@@ -1,0 +1,35 @@
+#ENTRY      D4194
+#AUTHOR1    G.G.Kiss+
+#YEAR       2007
+#INSTITUTE  (3HUNDEB)
+#TITLE      70Ge(p,g)71As and 76Ge(p,n)76As cross sections for the
+#+          astrophysical p process: Sensitivity of the optical
+#+          proton potential at low energies
+#AUTHOR(S)  G.G.Kiss, Gy.Gyurky, Z.Elekes, Zs.Fulop, E.Somorjai, T.Rauscher, 
+#+          M.Wiescher
+#REF-CODE   (J,PR/C,76,055807,2007)
+#REFERENCE  Phys.Rev.C 76 (2007) 055807 (doi:10.1103/PhysRevC.76.055807)
+#DATASETS   0
+#
+#DATASET    D4194003 
+#DATE       20121012
+#REACTION   32-GE-70(P,G)33-AS-71,,SIG,,SFC
+#PROJ       1001
+#TARG       32070
+#MF         3
+#MT         102
+#PRODUCT    33-AS-71
+#C4BEGIN    [ 1001 32070   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 32070   3 102 D  1587575. 13000.31 3.1768-5 3.5298-6                                       G.G.Kiss+            (07)D4194  3 
+ 1001 32070   3 102 D  1991322. 13000.39 2.0146-4 2.5182-5                                       G.G.Kiss+            (07)D4194  3 
+ 1001 32070   3 102 D  2397101. 4000.145 6.6646-4 5.1266-5                                       G.G.Kiss+            (07)D4194  3 
+ 1001 32070   3 102 D  2796795. 9000.380 1.3106-3 1.4114-4                                       G.G.Kiss+            (07)D4194  3 
+ 1001 32070   3 102 D  3197506. 10000.48 2.2345-3 2.4157-4                                       G.G.Kiss+            (07)D4194  3 
+ 1001 32070   3 102 D  3596190. 12000.65 2.9614-3 2.9614-4                                       G.G.Kiss+            (07)D4194  3 
+ 1001 32070   3 102 D  3998935. 12000.72 4.7509-3 6.3345-4                                       G.G.Kiss+            (07)D4194  3 
+ 1001 32070   3 102 D  4398639. 13000.86 6.6349-3 6.0317-4                                       G.G.Kiss+            (07)D4194  3 
+#/DATA      8
+#/DATASET

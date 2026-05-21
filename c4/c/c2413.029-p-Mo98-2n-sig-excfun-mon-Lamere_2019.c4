@@ -1,0 +1,36 @@
+#ENTRY      C2413
+#AUTHOR1    E.Lamere+
+#YEAR       2019
+#INSTITUTE  (1USANOT)
+#TITLE      Proton-induced reactions on molybdenum
+#AUTHOR(S)  E.Lamere, M.Couder, M.Beard, A.Simon, A.Simonetti, M.Skulski, 
+#+          G.Seymour, P.Huestis, K.Manukyan, Z.Meisel, L.Morales, M.Moran, 
+#+          S.Moylan, C.Seymour, E.Stech
+#REF-CODE   (J,PR/C,100,034614,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 034614 (doi:10.1103/PhysRevC.100.034614)
+#DATASETS   0
+#
+#DATASET    C2413029 
+#DATE       20191030
+#REACTION   42-MO-98(P,2N)43-TC-97-M,,SIG
+#PROJ       1001
+#TARG       42098
+#MF         3
+#MT         16
+#PRODUCT    43-TC-97-M
+#C4BEGIN    [ 1001 42098   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42098   3  16M   1.0060+7 30000.00 6.4000-3 1.5000-3                                       E.Lamere+            (19)C2413 29 
+ 1001 42098   3  16M   1.1060+7 30000.00 0.071000 0.015000                                       E.Lamere+            (19)C2413 29 
+ 1001 42098   3  16M   1.2050+7 40000.00 0.158000 0.036000                                       E.Lamere+            (19)C2413 29 
+ 1001 42098   3  16M   1.3060+7 30000.00 0.209000 0.044000                                       E.Lamere+            (19)C2413 29 
+ 1001 42098   3  16M   1.4050+7 30000.00 0.256000 0.052000                                       E.Lamere+            (19)C2413 29 
+ 1001 42098   3  16M   1.5050+7 30000.00 0.290000 0.060000                                       E.Lamere+            (19)C2413 29 
+ 1001 42098   3  16M   1.6060+7 30000.00 0.268000 0.056000                                       E.Lamere+            (19)C2413 29 
+ 1001 42098   3  16M   1.7060+7 30000.00 0.262000 0.054000                                       E.Lamere+            (19)C2413 29 
+ 1001 42098   3  16M   1.8020+7 20000.00 0.202000 0.054000                                       E.Lamere+            (19)C2413 29 
+ 1001 42098   3  16M   1.9050+7 40000.00 0.213000 0.045000                                       E.Lamere+            (19)C2413 29 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,54 @@
+#ENTRY      O1043
+#AUTHOR1    G.Montagnoli+
+#YEAR       1997
+#INSTITUTE  (2ITYPAD)
+#TITLE      Multinucleon transfer reactions in Ca-40 + Zr-90,96.
+#AUTHOR(S)  G.Montagnoli, S.Beghini, F.Scarlassara, G.F.Segato, L.Corradi, 
+#+          C.J.Lin, A.M.Stefanini
+#REF-CODE   (J,JP/G,23,1431,1997)
+#REFERENCE  J.Phys.G 23 (1997) 1431 (doi:10.1088/0954-3899/23/10/033)
+#DATASETS   0
+#
+#DATASET    O1043003 
+#DATE       20030404
+#REACTION   40-ZR-90(20-CA-40,EL)40-ZR-90,,DA,,RTH
+#PROJ       20040
+#TARG       40090
+#MF         4
+#MT         2
+#PRODUCT    40-ZR-90
+#C4BEGIN    [20040 40090   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+20040 40090   4   2    1.3980+8          0.188153 0.018815 0.088373                              G.Montagnoli+        (97)O1043  3 
+20040 40090   4   2    1.3980+8          0.139342 0.013934-0.083678                              G.Montagnoli+        (97)O1043  3 
+20040 40090   4   2    1.3980+8          0.089777 8.9777-3-0.257133                              G.Montagnoli+        (97)O1043  3 
+20040 40090   4   2    1.3980+8          0.069316 6.2385-3-0.340380                              G.Montagnoli+        (97)O1043  3 
+#/DATA      4
+#/DATASET
+#
+#DATASET    O1043003 
+#DATE       20030404
+#REACTION   40-ZR-90(20-CA-40,EL)40-ZR-90,,DA,,RTH
+#PROJ       20040
+#TARG       40090
+#MF         4
+#MT         2
+#PRODUCT    40-ZR-90
+#C4BEGIN    [20040 40090   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+20040 40090   4   2    1.5200+8          2.743826 0.192068 0.768619                              G.Montagnoli+        (97)O1043  3 
+20040 40090   4   2    1.5200+8          1.734762 0.156129 0.709448                              G.Montagnoli+        (97)O1043  3 
+20040 40090   4   2    1.5200+8          1.197281 0.095783 0.647588                              G.Montagnoli+        (97)O1043  3 
+20040 40090   4   2    1.5200+8          0.424289 0.038186 0.422935                              G.Montagnoli+        (97)O1043  3 
+20040 40090   4   2    1.5200+8          0.335093 0.030158 0.341692                              G.Montagnoli+        (97)O1043  3 
+20040 40090   4   2    1.5200+8          0.230603 0.023060 0.261347                              G.Montagnoli+        (97)O1043  3 
+20040 40090   4   2    1.5200+8          0.118222 0.010640 0.088547                              G.Montagnoli+        (97)O1043  3 
+20040 40090   4   2    1.5200+8          0.032607 2.9346-3-0.083156                              G.Montagnoli+        (97)O1043  3 
+20040 40090   4   2    1.5200+8          0.019220 2.1142-3-0.170209                              G.Montagnoli+        (97)O1043  3 
+20040 40090   4   2    1.5200+8          0.012111 1.0900-3-0.258819                              G.Montagnoli+        (97)O1043  3 
+#/DATA      10
+#/DATASET

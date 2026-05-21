@@ -1,0 +1,30 @@
+#ENTRY      32814
+#AUTHOR1    Yong Li+
+#YEAR       2020
+#INSTITUTE  (3CPRPDU)
+#TITLE      Cross section measurements on zirconium isotopes for
+#+          about 14 MeV neutrons and their theoretical
+#+          calculations of excitation functions
+#AUTHOR(S)  Yong Li, Yueli Song, Fengqun Zhou, Xinyi Chang, Xiaopeng Zhang, 
+#+          Mingli Tian, Shuqing Yuan
+#REF-CODE   (J,CPH/C,44,124001,2020)
+#REFERENCE  Chin.Phys.C 44 (2020) 124001 (doi:10.1088/1674-1137/abb4d3)
+#DATASETS   0
+#
+#DATASET    32814007 
+#DATE       20230406
+#REACTION   40-ZR-94(N,P)39-Y-94,,SIG
+#PROJ       1
+#TARG       40094
+#MF         3
+#MT         103
+#PRODUCT    39-Y-94
+#C4BEGIN    [    1 40094   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40094   3 103    1.3500+7 300000.0 5.2000-3 3.0000-4                                       Yong Li+             (20)32814  7 
+    1 40094   3 103    1.4100+7 200000.0 6.5000-3 3.0000-4                                       Yong Li+             (20)32814  7 
+    1 40094   3 103    1.4800+7 200000.0 7.3000-3 4.0000-4                                       Yong Li+             (20)32814  7 
+#/DATA      3
+#/DATASET

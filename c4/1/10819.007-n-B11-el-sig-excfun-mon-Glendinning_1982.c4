@@ -1,0 +1,34 @@
+#ENTRY      10819
+#AUTHOR1    S.G.Glendinning+
+#YEAR       1982
+#INSTITUTE  (1USATNL)
+#TITLE      Elastic and inelastic neutron cross sections for
+#+          boron-10 and boron-11.
+#AUTHOR(S)  S.G.Glendinning, S.El-Kadi, C.E.Nelson, R.S.Pedroni, F.O.Purser, 
+#+          R.W.Walter, A.G.Beyerle, C.R.Gould, L.W.Seagondollar, P.Thambidurai
+#REF-CODE   (J,NSE,80,256,1982)
+#REFERENCE  Nucl.Sci.Eng. 80 (1982) 256 (doi:10.13182/NSE82-A21429)
+#DATASETS   0
+#
+#DATASET    10819007 
+#DATE       20250629
+#REACTION   5-B-11(N,EL)5-B-11,,SIG
+#PROJ       1
+#TARG       5011
+#MF         3
+#MT         2
+#PRODUCT    5-B-11
+#C4BEGIN    [    1  5011   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5011   3   2 D  7980000. 159600.0 1.246200 0.024900                                       S.G.Glendinning+     (82)10819  7 
+    1  5011   3   2 D  8960000. 250880.0 0.930800 0.026100                                       S.G.Glendinning+     (82)10819  7 
+    1  5011   3   2 D  9690000. 387600.0 0.946700 0.023700                                       S.G.Glendinning+     (82)10819  7 
+    1  5011   3   2 D  9920000. 248000.0 0.962000 0.038500                                       S.G.Glendinning+     (82)10819  7 
+    1  5011   3   2 D  1.0960+7 252080.0 0.837400 0.019300                                       S.G.Glendinning+     (82)10819  7 
+    1  5011   3   2 D  1.1960+7 287040.0 0.858400 0.021100                                       S.G.Glendinning+     (82)10819  7 
+    1  5011   3   2 D  1.2950+7 582750.0 0.816100 0.023800                                       S.G.Glendinning+     (82)10819  7 
+    1  5011   3   2 D  1.3940+7 557600.0 0.800200 0.033100                                       S.G.Glendinning+     (82)10819  7 
+#/DATA      8
+#/DATASET

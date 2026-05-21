@@ -1,0 +1,33 @@
+#ENTRY      O0404
+#AUTHOR1    J.V.Maher+
+#YEAR       1972
+#INSTITUTE  (1USAANL)
+#TITLE      Population of 0+ States in Actinide and Atomic Mass
+#+          Approx. 190 Nuclides by the (P,T) Reaction.
+#AUTHOR(S)  J.V.Maher, J.R.Erskine, A.M.Friedman, R.H.Siemssen, J.P.Schiffer
+#REF-CODE   (J,PR/C,5,1380,1972)
+#REFERENCE  Phys.Rev.C 5 (1972) 1380 (doi:10.1103/PhysRevC.5.1380)
+#DATASETS   0
+#
+#DATASET    O0404025 
+#DATE       20000426
+#REACTION   90-TH-230(P,T)90-TH-228,PAR,DA
+#PROJ       1001
+#TARG       90230
+#MF         4
+#MT         700
+#PRODUCT    90-TH-228
+#C4BEGIN    [ 1001 90230   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90230   4 700  C 1.7000+7          1.5100-5 6.0400-7 0.965245 1.3684-3 874000.0         LVLJ.V.Maher+           (72)O0404 25 
+ 1001 90230   4 700  C 1.7000+7          1.1000-5 5.5000-7 0.935629 1.8482-3 874000.0         LVLJ.V.Maher+           (72)O0404 25 
+ 1001 90230   4 700  C 1.7000+7          1.5000-5 4.0500-7 0.904976 2.2277-3 874000.0         LVLJ.V.Maher+           (72)O0404 25 
+ 1001 90230   4 700  C 1.7000+7          1.5400-5 4.0040-7 0.863396 2.6417-3 874000.0         LVLJ.V.Maher+           (72)O0404 25 
+ 1001 90230   4 700  C 1.7000+7          1.1800-5 3.5400-7 0.810757 3.0651-3 874000.0         LVLJ.V.Maher+           (72)O0404 25 
+ 1001 90230   4 700  C 1.7000+7          3.6000-6 6.8400-7 0.755625 3.4296-3 874000.0         LVLJ.V.Maher+           (72)O0404 25 
+ 1001 90230   4 700  C 1.7000+7          3.4000-6 7.1400-7 0.635405 4.0431-3 874000.0         LVLJ.V.Maher+           (72)O0404 25 
+ 1001 90230   4 700  C 1.7000+7          5.6000-6 7.8400-7 0.484657 4.5799-3 874000.0         LVLJ.V.Maher+           (72)O0404 25 
+#/DATA      8
+#/DATASET

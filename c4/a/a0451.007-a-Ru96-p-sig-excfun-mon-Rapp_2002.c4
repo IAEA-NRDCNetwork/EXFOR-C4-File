@@ -1,0 +1,31 @@
+#ENTRY      A0451
+#AUTHOR1    W.Rapp+
+#YEAR       2002
+#INSTITUTE  (2GERKFK)
+#TITLE      Alpha- and neutron-induced reactions on ruthenium
+#+          isotopes
+#AUTHOR(S)  W.Rapp, M.Heil, D.Hentschel, F.Kaeppeler, R.Reifarth, H.J.Brede, 
+#+          H.Klein, T.Rauscher
+#REF-CODE   (J,PR/C,66,015803,2002)
+#REFERENCE  Phys.Rev.C 66 (2002) 015803 (doi:10.1103/PhysRevC.66.015803)
+#DATASETS   0
+#
+#DATASET    A0451007 
+#DATE       20110705
+#REACTION   44-RU-96(A,P)45-RH-99-M,,SIG,,SFC
+#PROJ       2004
+#TARG       44096
+#MF         3
+#MT         103
+#PRODUCT    45-RH-99-M
+#C4BEGIN    [ 2004 44096   3 103MD]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 44096   3 103MD  1.0997+7 24002.83 1.0155-3 1.8860-4                                       W.Rapp+              (02)A0451  7 
+ 2004 44096   3 103MD  1.0541+7 24002.71 2.9481-4 7.3703-5                                       W.Rapp+              (02)A0451  7 
+ 2004 44096   3 103MD  1.0541+7 24002.71 2.8007-4 6.8789-5                                       W.Rapp+              (02)A0451  7 
+ 2004 44096   3 103MD  1.0228+7 24002.63 1.5711-4 3.3665-5                                       W.Rapp+              (02)A0451  7 
+ 2004 44096   3 103MD  9694860. 24002.50 1.7220-5 3.4549-6                                       W.Rapp+              (02)A0451  7 
+#/DATA      5
+#/DATASET

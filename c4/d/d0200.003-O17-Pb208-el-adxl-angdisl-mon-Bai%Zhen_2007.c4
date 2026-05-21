@@ -1,0 +1,49 @@
+#ENTRY      D0200
+#AUTHOR1    Bai Zhen+
+#YEAR       2007
+#INSTITUTE  (3CPRIMP)
+#TITLE      Angular dispersion and deflection function for heavy
+#+          ion elastic scattering
+#AUTHOR(S)  Bai Zhen, Wang Qi, Han Jian-Long, Xiao Zhi-Gan, Xu Hu-Sha, 
+#+          Sun Zhi-Yu, Hu Zheng-Guo, Zhang Xue-Ying, Wang Hong-Wei, 
+#+          Mao Rui-Shi, Yuan Xiao-Hua, Xu Zhi-Guo, Zhang Hong-Bin, 
+#+          Xu Hua-Gen, Qi Hui-Rong, Wang Yue, Jia Fei, Wu Li-Jie, Ding Xian-Li, 
+#+          Gao Qi, Gao Hui, Li Song-Lin, Li Jun-Qing, Zhang Ya-Peng, 
+#+          Xiao Guo-Qing, Jin Gen-Ming, Ren Zhong-Zhou, Zhou Shan-Gui, 
+#+          Xu Wang, Fan Gong-Tao, Zhang Shuang-Quan, Pang Dan-Yang, 
+#+          Sergey Yu-Kun
+#REF-CODE   (J,CPL,24,3384,2007)
+#REFERENCE  Chin.Phys.Lett. 24 (2007) 3384 (doi:10.1088/0256-307X/24/12/027)
+#DATASETS   0
+#
+#DATASET    D0200003 
+#DATE       20080326
+#REACTION   82-PB-208(8-O-17,EL)82-PB-208,,DA
+#PROJ       8017
+#TARG       82208
+#MF         4
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 8017 82208   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8017 82208   4   2 A  1.2800+8          1592.850 3.644800 0.994522                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          1749.495 3.819800 0.992546                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          1273.838 3.259400 0.990268                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          821.9090 2.618200 0.987688                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          633.4805 2.298500 0.984808                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          427.5976 1.888400 0.981627                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          341.6999 1.688100 0.978148                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          244.6105 1.428300 0.974370                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          198.1564 1.285500 0.970296                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          113.2265 0.971800 0.965926                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          77.37580 0.803300 0.961262                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          47.54780 0.629700 0.956305                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          34.12510 0.533500 0.951057                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          23.92180 0.446700 0.945519                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          16.49230 0.370900 0.939693                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          16.09750 0.366400 0.933580                              Bai Zhen+            (07)D0200  3 
+ 8017 82208   4   2 A  1.2800+8          12.51790 0.323100 0.927184                              Bai Zhen+            (07)D0200  3 
+#/DATA      17
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      31501
+#AUTHOR1    S.Hlavac+
+#YEAR       1999
+#INSTITUTE  (3SLKSLO)
+#TITLE      Cross sections for discrete gamma-ray production in
+#+          interaction of 14.6 MeV neutrons with light and
+#+          medium heavy nuclei
+#AUTHOR(S)  S.Hlavac, M.Benovic, E.Betak, L.Dostal, I.Turzo, S.P.Simakov
+#REF-CODE   (R,INDC(NDS)-412,12,1999)
+#REFERENCE  Report INDC(NDS)-412 page 12, 1999
+#DATASETS   0
+#
+#DATASET    31501002 
+#DATE       20120502
+#REACTION   13-AL-27(N,INL)13-AL-27,PAR,SIG,G
+#PROJ       1
+#TARG       13027
+#MF         13
+#MT         51
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027  13  51    1.4600+7          0.035900 5.9000-3                   843700.0            S.Hlavac+            (99)31501  2 
+    1 13027  13  51    1.4600+7          0.072100 5.6000-3                   1014400.            S.Hlavac+            (99)31501  2 
+    1 13027  13  51    1.4600+7          0.176000 0.013000                   2211100.            S.Hlavac+            (99)31501  2 
+    1 13027  13  51    1.4600+7          0.137000 0.012000                   2981800.            S.Hlavac+            (99)31501  2 
+#/DATA      4
+#/DATASET

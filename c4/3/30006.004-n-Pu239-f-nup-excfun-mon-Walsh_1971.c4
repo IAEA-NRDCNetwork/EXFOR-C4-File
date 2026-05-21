@@ -1,0 +1,32 @@
+#ENTRY      30006
+#AUTHOR1    R.L.Walsh+
+#YEAR       1971
+#INSTITUTE  (3AULAUA)
+#TITLE      The energy dependence of prompt nu-bar for U-233, U-235
+#+          and Pu-239 below 5.0 MeV.
+#AUTHOR(S)  R.L.Walsh, J.W.Boldeman
+#REF-CODE   (J,JNE,25,321,1971)
+#REFERENCE  J.Nucl.Energy 25 (1971) 321 (doi:10.1016/0022-3107(71)90064-5)
+#DATASETS   0
+#
+#DATASET    30006004 
+#DATE       20160929
+#REACTION   94-PU-239(N,F),PR,NU
+#PROJ       1
+#TARG       94239
+#MF         1
+#MT         456
+#C4BEGIN    [    1 94239   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   1 456    200000.0 55000.00 2.893000 0.013000                                       R.L.Walsh+           (71)30006  4 
+    1 94239   1 456    350000.0 52000.00 2.914000 0.017000                                       R.L.Walsh+           (71)30006  4 
+    1 94239   1 456    550000.0 36000.00 2.938000 0.017000                                       R.L.Walsh+           (71)30006  4 
+    1 94239   1 456    700000.0 36000.00 2.960000 0.017000                                       R.L.Walsh+           (71)30006  4 
+    1 94239   1 456    900000.0 48000.00 2.984000 0.014000                                       R.L.Walsh+           (71)30006  4 
+    1 94239   1 456    1300000. 50000.00 3.022000 0.020000                                       R.L.Walsh+           (71)30006  4 
+    1 94239   1 456    1600000. 50000.00 3.076000 0.021000                                       R.L.Walsh+           (71)30006  4 
+    1 94239   1 456    1900000. 50000.00 3.150000 0.019000                                       R.L.Walsh+           (71)30006  4 
+#/DATA      8
+#/DATASET

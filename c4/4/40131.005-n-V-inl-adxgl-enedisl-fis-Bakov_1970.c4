@@ -1,0 +1,30 @@
+#ENTRY      40131
+#AUTHOR1    A.T.Bakov+
+#YEAR       1970
+#INSTITUTE  (4RUSFEI)
+#TITLE      Cross sections for the production of gamma-rays
+#+          as a result of inelastic scattering of neutrons of
+#+          a fission spectrum
+#AUTHOR(S)  A.T.Bakov, V.G.Dvukhsherstnov, Yu.A.Kazanskii
+#REF-CODE   (J,SJA,29,1080,1970)
+#REFERENCE  Sov.At.Energy 29 (1970) 1080 (doi:10.1007/BF01666690)
+#DATASETS   0
+#
+#DATASET    40131005 
+#DATE       20150109
+#REACTION   23-V-0(N,INL)23-V-0,PAR,DA,G,4PI/FIS
+#PROJ       1
+#TARG       23000
+#MF         14
+#MT         51
+#PRODUCT    23-V-0
+#C4BEGIN    [    1 23000  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 23000  14  51    1000000.          7.9577-3 7.9577-4 6.123-17          920000.0            A.T.Bakov+           (70)40131  5 
+    1 23000  14  51    1000000.          0.022282 2.2282-3 6.123-17          1620000.            A.T.Bakov+           (70)40131  5 
+    1 23000  14  51    1000000.          0.012732 1.2732-3 6.123-17          1830000.            A.T.Bakov+           (70)40131  5 
+    1 23000  14  51    1000000.          7.9577-3 1.3528-3 6.123-17          3600000.            A.T.Bakov+           (70)40131  5 
+#/DATA      4
+#/DATASET

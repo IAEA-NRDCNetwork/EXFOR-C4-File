@@ -1,0 +1,32 @@
+#ENTRY      C0704
+#AUTHOR1    N.T.Porile+
+#YEAR       1959
+#INSTITUTE  (1USABNL)
+#TITLE      Excitation Functions for Alpha-Induced Reactions on
+#+          Zinc-64
+#AUTHOR(S)  N.T.Porile
+#REF-CODE   (J,PR,115,939,195908)
+#REFERENCE  Phys.Rev. 115 (1959) 939 (doi:10.1103/PhysRev.115.939)
+#DATASETS   0
+#
+#DATASET    C0704012 
+#DATE       20000814
+#REACTION   30-ZN-64(A,N+P+A)29-CU-62,,SIG
+#PROJ       2004
+#TARG       30064
+#MF         3
+#MT         45
+#PRODUCT    29-CU-62
+#C4BEGIN    [ 2004 30064   3  45  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 30064   3  45    2.5400+7          4.0000-5 4.0000-6                                       N.T.Porile           (59)C0704 12 
+ 2004 30064   3  45    2.7600+7          2.4000-4 2.4000-5                                       N.T.Porile           (59)C0704 12 
+ 2004 30064   3  45    2.8900+7          5.9000-4 5.9000-5                                       N.T.Porile           (59)C0704 12 
+ 2004 30064   3  45    3.1000+7          2.0000-3 2.0000-4                                       N.T.Porile           (59)C0704 12 
+ 2004 30064   3  45    3.4400+7          9.5000-3 9.5000-4                                       N.T.Porile           (59)C0704 12 
+ 2004 30064   3  45    3.7700+7          0.037500 3.7500-3                                       N.T.Porile           (59)C0704 12 
+ 2004 30064   3  45    4.0500+7          0.095000 9.5000-3                                       N.T.Porile           (59)C0704 12 
+#/DATA      7
+#/DATASET

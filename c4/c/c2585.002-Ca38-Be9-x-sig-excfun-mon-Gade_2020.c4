@@ -1,0 +1,28 @@
+#ENTRY      C2585
+#AUTHOR1    A.Gade+
+#YEAR       2020
+#INSTITUTE  (1USAMSU)
+#TITLE      In-beam gamma-ray spectroscopy at the proton
+#+          dripline: 40Sc
+#AUTHOR(S)  A.Gade, D.Weisshaar, B.A.Brown, J.A.Tostevin, D.Bazin, K.Brown, 
+#+          R.J.Charity, P.J.Farris, A.M.Hill, J.Li, B.Longfellow, W.Reviol, 
+#+          D.Rhodes
+#REF-CODE   (J,PL/B,808,135637,2020)
+#REFERENCE  Phys.Lett.B 808 (2020) 135637 (doi:10.1016/j.physletb.2020.135637)
+#DATASETS   0
+#
+#DATASET    C2585002 
+#DATE       20210128
+#REACTION   4-BE-9(20-CA-38,X)21-SC-40,,SIG
+#PROJ       20038
+#TARG       4009
+#MF         3
+#MT         454
+#PRODUCT    21-SC-40
+#C4BEGIN    [20038  4009   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+20038  4009   3 454    2.3142+9          8.0000-6 3.0000-7           21040.9                     A.Gade+              (20)C2585  2 
+#/DATA      1
+#/DATASET

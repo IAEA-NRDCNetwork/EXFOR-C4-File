@@ -1,0 +1,27 @@
+#ENTRY      41220
+#AUTHOR1    G.M.Kukavadse+
+#YEAR       1955
+#INSTITUTE  (4RUSITE)
+#TITLE      Determination of the absorption cross section and of
+#+          the radiative capture cross section of uranium-233
+#+          for pile neutrons
+#AUTHOR(S)  G.M.Kukavadse, L.L.Goldin, M.P.Anikina, B.W.Ershler
+#REF-CODE   (C,55GENEVA,4,230,1955)
+#REFERENCE  Proceedings of 1st UN Conf.Peaceful Uses Atomic Energy, Geneva 1955 4 page 230
+#DATASETS   0
+#
+#DATASET    41220004 
+#DATE       20241212
+#REACTION   92-U-233(N,G)92-U-234,,SIG,,SPA
+#PROJ       1
+#TARG       92233
+#MF         3
+#MT         102
+#PRODUCT    92-U-234
+#C4BEGIN    [    1 92233   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   3 102 D  0.025300          50.00000 2.000000                                       G.M.Kukavadse+       (55)41220  4 
+#/DATA      1
+#/DATASET

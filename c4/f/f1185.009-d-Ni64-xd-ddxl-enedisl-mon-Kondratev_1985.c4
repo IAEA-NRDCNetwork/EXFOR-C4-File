@@ -1,0 +1,39 @@
+#ENTRY      F1185
+#AUTHOR1    V.P.Kondratev+
+#YEAR       1985
+#INSTITUTE  (4RUSSUL)
+#TITLE      Investigation of energetic particle spectra with Z=1,2,
+#+          resulting from the interaction of deuterons with Ni-58
+#+          and Ni-64 nuclei.
+#AUTHOR(S)  V.P.Kondratev, L.V.Krasnov, V.F.Litvin, N.Ya.Skorohodova, 
+#+          I.V.Stepanov, I.G.Yatsyshin
+#REF-CODE   (J,IZV,49,(1),147,1985)
+#REFERENCE  Izv.Ross.AN,Fiz. 49 No.1 (1985) 147
+#DATASETS   0
+#
+#DATASET    F1185009 
+#DATE       20130402
+#REACTION   28-NI-64(D,X)1-H-2,,DA/DE
+#PROJ       1002
+#TARG       28064
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1002 28064   6 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28064   6 204    6.7000+9          3.5261-9 9.230-11 6.123-17          5032000.          E2V.P.Kondratev+       (85)F1185  9 
+ 1002 28064   6 204    6.7000+9          3.8700-9 1.231-10 6.123-17          6009000.          E2V.P.Kondratev+       (85)F1185  9 
+ 1002 28064   6 204    6.7000+9          4.3066-9 1.077-10 6.123-17          7038000.          E2V.P.Kondratev+       (85)F1185  9 
+ 1002 28064   6 204    6.7000+9          4.5737-9 1.079-10 6.123-17          8021000.          E2V.P.Kondratev+       (85)F1185  9 
+ 1002 28064   6 204    6.7000+9          4.5638-9 1.232-10 6.123-17          9026000.          E2V.P.Kondratev+       (85)F1185  9 
+ 1002 28064   6 204    6.7000+9          4.4459-9 1.385-10 6.123-17          9981000.          E2V.P.Kondratev+       (85)F1185  9 
+ 1002 28064   6 204    6.7000+9          4.1902-9 1.025-10 6.123-17          1.1066+7          E2V.P.Kondratev+       (85)F1185  9 
+ 1002 28064   6 204    6.7000+9          3.9803-9 9.170-11 6.123-17          1.2087+7          E2V.P.Kondratev+       (85)F1185  9 
+ 1002 28064   6 204    6.7000+9          3.9397-9 1.794-10 6.123-17          1.3095+7          E2V.P.Kondratev+       (85)F1185  9 
+ 1002 28064   6 204    6.7000+9          3.7602-9 1.229-10 6.123-17          1.4056+7          E2V.P.Kondratev+       (85)F1185  9 
+ 1002 28064   6 204    6.7000+9          3.6427-9 1.234-10 6.123-17          1.5070+7          E2V.P.Kondratev+       (85)F1185  9 
+ 1002 28064   6 204    6.7000+9          3.5405-9 1.080-10 6.123-17          1.6083+7          E2V.P.Kondratev+       (85)F1185  9 
+#/DATA      12
+#/DATASET

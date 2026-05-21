@@ -1,0 +1,35 @@
+#ENTRY      D5079
+#AUTHOR1    Ye.Skakun+
+#YEAR       2010
+#INSTITUTE  (4UKRKFT)
+#TITLE      Cross sections of low energy (p,g) and (p,n) -
+#+          reactions on selenium isotopes as nuclear data for
+#+          the astrophysical gamma-process
+#AUTHOR(S)  Ye.Skakun, S.Utenkov, V.Mishchenko, J.Farkas, Zs.Fulop, 
+#+          Gy.Gyurky, G.G.Kiss, E.Somorjai, T.Rauscher
+#REF-CODE   (C,2010KYIV,,207,2010)
+#REFERENCE  Proceedings of 3 Int.Conf.Cur.Prob.in Nucl.Phys.Atom.Ene.,Kyiv,2010 page 207
+#DATASETS   0
+#
+#DATASET    D5079010 
+#DATE       20240312
+#REACTION   34-SE-80(P,N)35-BR-80,,SIG
+#PROJ       1001
+#TARG       34080
+#MF         3
+#MT         4
+#PRODUCT    35-BR-80
+#C4BEGIN    [ 1001 34080   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 34080   3   4    2778655.          2.1810-3                                                Ye.Skakun+           (10)D5079 10 
+ 1001 34080   3   4    2976121.          5.5590-3 6.6700-4                                       Ye.Skakun+           (10)D5079 10 
+ 1001 34080   3   4    3077386.          4.8870-3 6.1100-4                                       Ye.Skakun+           (10)D5079 10 
+ 1001 34080   3   4    3178652.          8.3260-3 9.4500-4                                       Ye.Skakun+           (10)D5079 10 
+ 1001 34080   3   4    3279917.          0.012431 1.5560-3                                       Ye.Skakun+           (10)D5079 10 
+ 1001 34080   3   4    3384220.          0.020203 2.5000-3                                       Ye.Skakun+           (10)D5079 10 
+ 1001 34080   3   4    3485486.          0.022031 2.6670-3                                       Ye.Skakun+           (10)D5079 10 
+ 1001 34080   3   4    3584727.          0.025304 3.0000-3                                       Ye.Skakun+           (10)D5079 10 
+#/DATA      8
+#/DATASET

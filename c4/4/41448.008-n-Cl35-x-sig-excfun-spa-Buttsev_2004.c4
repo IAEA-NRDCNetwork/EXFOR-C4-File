@@ -1,0 +1,28 @@
+#ENTRY      41448
+#AUTHOR1    V.S.Buttsev+
+#YEAR       2004
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Effective reaction cross-sections for 7Be production
+#+          by interaction of fast neutrons in an
+#+          accelerator-driven system with light nuclei
+#AUTHOR(S)  V.S.Buttsev, T.N.Korbut, S.V.Korneev, B.A.Martsynkevich, 
+#+          A.M.Khil'manovich, S.E.Chigrinov, D.Chultehm
+#REF-CODE   (J,YK,,(1),42,2004)
+#REFERENCE  Yad.Reak.Konst.  No.1 (2004) 42
+#DATASETS   0
+#
+#DATASET    41448008 
+#DATE       20130712
+#REACTION   17-CL-35(N,X)4-BE-7,,SIG,,SPA
+#PROJ       1
+#TARG       17035
+#MF         3
+#MT         454
+#PRODUCT    4-BE-7
+#C4BEGIN    [    1 17035   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 17035   3 454    2.9000+7          1.5000-4 1.5000-6            4007.9                     V.S.Buttsev+         (04)41448  8 
+#/DATA      1
+#/DATASET

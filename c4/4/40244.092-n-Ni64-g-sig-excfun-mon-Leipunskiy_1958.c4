@@ -1,0 +1,28 @@
+#ENTRY      40244
+#AUTHOR1    A.I.Leipunskiy+
+#YEAR       1958
+#INSTITUTE  (4RUSFEI)
+#TITLE      Radiative capture cross-section measurements
+#+          for fast neutrons.
+#AUTHOR(S)  A.I.Leipunskiy, O.D.Kazachkovskiy, G.Ja.Artyukhov, A.I.Baryshnikov, 
+#+          T.S.Belanova, V.I.Galkov, Yu.Ja.Stavisskiy, E.A.Stumbur, 
+#+          L.E.Sherman
+#REF-CODE   (C,58GENEVA,15,50,1958)
+#REFERENCE  Proceedings of Second Internat. At.En. Conf., Geneva 1958 15 page 50
+#DATASETS   0
+#
+#DATASET    40244092 
+#DATE       20191120
+#REACTION   28-NI-64(N,G)28-NI-65,,SIG
+#PROJ       1
+#TARG       28064
+#MF         3
+#MT         102
+#PRODUCT    28-NI-65
+#C4BEGIN    [    1 28064   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28064   3 102    4000000.          2.6000-3 1.3000-3                                       A.I.Leipunskiy+      (58)40244 92 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,40 @@
+#ENTRY      40638
+#AUTHOR1    V.M.Pankratov+
+#YEAR       1961
+#INSTITUTE  (4RUSKUR)
+#TITLE      Cross sections for the fission of Th232, U235, and U238
+#+          induced by 10-22 MeV neutrons
+#AUTHOR(S)  V.M.Pankratov, N.A.Vlasov, B.V.Rybakov
+#REF-CODE   (J,SJA,9,939,1961)
+#REFERENCE  Sov.At.Energy 9 (1961) 939 (doi:10.1007/BF02033265)
+#DATASETS   0
+#
+#DATASET    40638002 
+#DATE       20231006
+#REACTION   90-TH-232(N,F),,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [    1 90232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3  18    1.0700+7          0.270000                                                V.M.Pankratov+       (61)40638  2 
+    1 90232   3  18    1.1600+7          0.280000                                                V.M.Pankratov+       (61)40638  2 
+    1 90232   3  18    1.2400+7          0.280000                                                V.M.Pankratov+       (61)40638  2 
+    1 90232   3  18    1.3200+7          0.330000                                                V.M.Pankratov+       (61)40638  2 
+    1 90232   3  18    1.3800+7          0.360000                                                V.M.Pankratov+       (61)40638  2 
+    1 90232   3  18    1.3900+7          0.340000                                                V.M.Pankratov+       (61)40638  2 
+    1 90232   3  18    1.4500+7          0.370000                                                V.M.Pankratov+       (61)40638  2 
+    1 90232   3  18    1.5000+7          0.430000                                                V.M.Pankratov+       (61)40638  2 
+    1 90232   3  18    1.5900+7          0.460000                                                V.M.Pankratov+       (61)40638  2 
+    1 90232   3  18    1.6400+7          0.510000                                                V.M.Pankratov+       (61)40638  2 
+    1 90232   3  18    1.7100+7          0.540000                                                V.M.Pankratov+       (61)40638  2 
+    1 90232   3  18    1.7800+7          0.510000                                                V.M.Pankratov+       (61)40638  2 
+    1 90232   3  18    1.8900+7          0.510000                                                V.M.Pankratov+       (61)40638  2 
+    1 90232   3  18    1.9400+7          0.510000                                                V.M.Pankratov+       (61)40638  2 
+    1 90232   3  18    2.0400+7          0.540000                                                V.M.Pankratov+       (61)40638  2 
+    1 90232   3  18    2.1500+7          0.590000                                                V.M.Pankratov+       (61)40638  2 
+#/DATA      16
+#/DATASET

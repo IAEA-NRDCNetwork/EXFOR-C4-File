@@ -1,0 +1,30 @@
+#ENTRY      11069
+#AUTHOR1    W.Selove+
+#YEAR       1953
+#INSTITUTE  (1USAHRV)
+#TITLE      NEUTRON-PROTON SCATTERING NEAR 180 DEGREES AT 93 MEV.
+#AUTHOR(S)  W.Selove, K.Strauch, F.Titus
+#REF-CODE   (J,PR,92,724,5311)
+#REFERENCE  Phys.Rev. 92 (1953) 724 (doi:10.1103/PhysRev.92.724)
+#DATASETS   0
+#
+#DATASET    11069002 
+#DATE       19830909
+#REACTION   1-H-1(N,EL)1-H-1,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4   2  C 9.3000+7 1.7000+7 9.8300-3 0.027000-0.909200                              W.Selove+            (53)11069  2 
+    1  1001   4   2  C 9.3000+7 1.7000+7 0.011080 0.028000-0.947800                              W.Selove+            (53)11069  2 
+    1  1001   4   2  C 9.3000+7 1.7000+7 0.012320 0.030000-0.976300                              W.Selove+            (53)11069  2 
+    1  1001   4   2  C 9.3000+7 1.7000+7 0.012890 0.031000-0.989000                              W.Selove+            (53)11069  2 
+    1  1001   4   2  C 9.3000+7 1.7000+7 0.013120 0.032000-0.996800                              W.Selove+            (53)11069  2 
+    1  1001   4   2  C 9.3000+7 1.7000+7 0.013300 0.034000-0.999000                              W.Selove+            (53)11069  2 
+#/DATA      6
+#/DATASET

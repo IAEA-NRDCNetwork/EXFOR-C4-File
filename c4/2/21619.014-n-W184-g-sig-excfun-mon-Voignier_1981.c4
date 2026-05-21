@@ -1,0 +1,29 @@
+#ENTRY      21619
+#AUTHOR1    J.Voignier+
+#YEAR       1981
+#INSTITUTE  (2FR BRC)
+#TITLE      Neutron capture cross section measurements of
+#+          rubidium, yttrium, niobium, gadolinium, tungsten,
+#+          platinum and thallium between 0.5 and 3.0 MeV
+#AUTHOR(S)  J.Voignier, S.Joly, G.Grenier, D.M.Drake, L.Nilsson
+#REF-CODE   (R,CEA-R-5089,1981)
+#REFERENCE  Report CEA-R-5089, 1981
+#DATASETS   0
+#
+#DATASET    21619014 
+#DATE       20080825
+#REACTION   74-W-184(N,G)74-W-185,,SIG
+#PROJ       1
+#TARG       74184
+#MF         3
+#MT         102
+#PRODUCT    74-W-185
+#C4BEGIN    [    1 74184   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74184   3 102 C  500000.0 80000.00 0.049000 6.0000-3                                       J.Voignier+          (81)21619 14 
+    1 74184   3 102 C  1000000. 70000.00 0.064000 0.011000                                       J.Voignier+          (81)21619 14 
+    1 74184   3 102 C  2500000. 60000.00 0.024000 5.0000-3                                       J.Voignier+          (81)21619 14 
+#/DATA      3
+#/DATASET

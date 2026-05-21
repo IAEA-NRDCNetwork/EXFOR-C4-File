@@ -1,0 +1,26 @@
+#ENTRY      21286
+#AUTHOR1    W.Breunlich+
+#YEAR       1971
+#INSTITUTE  (2AUSIRK)
+#TITLE      Determination of (n,n+gamma) cross sections for
+#+          14.4 MeV neutrons in the mass range A=46 to 88
+#AUTHOR(S)  W.Breunlich, G.Stengel, H.Vonach
+#REF-CODE   (J,ZN/A,26,451,1971)
+#REFERENCE  Z.Naturforsch. A 26 (1971) 451 (doi:10.1515/zna-1971-0315)
+#DATASETS   0
+#
+#DATASET    21286005 
+#DATE       20200807
+#REACTION   24-CR-52(N,INL)24-CR-52,PAR,SIG,G
+#PROJ       1
+#TARG       24052
+#MF         13
+#MT         51
+#PRODUCT    24-CR-52
+#C4BEGIN    [    1 24052  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24052  13  51    1.4400+7 300000.0 0.727000 0.033300                   1433000.            W.Breunlich+         (71)21286  5 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      21141
+#AUTHOR1    P.Cuzzocrea+
+#YEAR       1967
+#INSTITUTE  (2ITYNAP)
+#TITLE      Activation cross-sections of Mo isotopes for 14.1 MeV
+#+          neutrons
+#AUTHOR(S)  P.Cuzzocrea, E.Perillo, S.Notarrigo
+#REF-CODE   (J,NP/A,103,616,196711)
+#REFERENCE  Nucl.Phys.A 103 (1967) 616 (doi:10.1016/0375-9474(67)90927-X)
+#DATASETS   0
+#
+#DATASET    21141003 
+#DATE       20101114
+#REACTION   42-MO-100(N,2N)42-MO-99,,SIG
+#PROJ       1
+#TARG       42100
+#MF         3
+#MT         16
+#PRODUCT    42-MO-99
+#C4BEGIN    [    1 42100   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42100   3  16    1.4100+7 200000.0 1.510000 0.180000                                       P.Cuzzocrea+         (67)21141  3 
+#/DATA      1
+#/DATASET

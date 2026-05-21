@@ -1,0 +1,26 @@
+#ENTRY      10809
+#AUTHOR1    H.T.Heaton Ii+
+#YEAR       1976
+#INSTITUTE  (1USANBS)
+#TITLE      Fission cross sections of 235U, 238U and 239Pu
+#+          averaged over the 252Cf neutron spectrum.
+#AUTHOR(S)  H.T.Heaton Ii, D.M.Gilliam, V.Spiegel Jr, C.Eisenhauser, 
+#+          J.A.Grundl
+#REF-CODE   (R,ANL-76-90,333,197606)
+#REFERENCE  Report ANL-76-90 page 333, 1976
+#DATASETS   0
+#
+#DATASET    108090032
+#DATE       20101103
+#REACTION   92-U-238(N,F),,SIG,,FIS
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92238   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3  18 A  2130000.          0.326000 6.5000-3                                       H.T.Heaton Ii+       (76)10809  32
+#/DATA      1
+#/DATASET

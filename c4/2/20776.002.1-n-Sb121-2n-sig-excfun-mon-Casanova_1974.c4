@@ -1,0 +1,27 @@
+#ENTRY      20776
+#AUTHOR1    J.L.Casanova+
+#YEAR       1974
+#INSTITUTE  (2SPNVLD)
+#TITLE      Measurement of the Sb-121(n,2n) and Sb-123(n,2n)
+#+          cross-sections for 14.1 MeV neutrons and
+#+          determination of the isomeric ratio
+#AUTHOR(S)  J.L.Casanova, M.L.Sanchez
+#REF-CODE   (P,NEANDC(OR)-140,9,1974)
+#REFERENCE  Progress report NEANDC(OR)-140 page 9, 1974
+#DATASETS   0
+#
+#DATASET    207760021
+#DATE       20230202
+#REACTION   51-SB-121(N,2N)51-SB-120-G,,SIG
+#PROJ       1
+#TARG       51121
+#MF         3
+#MT         16
+#PRODUCT    51-SB-120-G
+#C4BEGIN    [    1 51121   3  16G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 51121   3  16G   1.4100+7 300000.0 1.040000 0.125000                                       J.L.Casanova+        (74)20776  21
+#/DATA      1
+#/DATASET

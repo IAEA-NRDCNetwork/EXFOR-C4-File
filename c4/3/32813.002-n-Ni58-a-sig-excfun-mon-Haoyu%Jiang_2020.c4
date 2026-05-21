@@ -1,0 +1,33 @@
+#ENTRY      32813
+#AUTHOR1    Haoyu Jiang+
+#YEAR       2020
+#INSTITUTE  (3CPRBJG)
+#TITLE      Cross-section measurements for 58,60,61Ni(n,a)
+#+          55,57,58Fe reactions in the 4.50 - 5.50 MeV neutron
+#+          energy region
+#AUTHOR(S)  Haoyu Jiang, Zengqi Cui, Yiwei Hu, Jie Liu, Jinxiang Chen, 
+#+          Guohui Zhang, Yu.M.Gledenov, E.Sansarbayar, G.Khuukhenkhuu, 
+#+          L.Krupa, I.Chuprakov
+#REF-CODE   (J,CPH/C,44,114102,2020)
+#REFERENCE  Chin.Phys.C 44 (2020) 114102 (doi:10.1088/1674-1137/abadf2)
+#DATASETS   0
+#
+#DATASET    32813002 
+#DATE       20211129
+#REACTION   28-NI-58(N,A)26-FE-55,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         107
+#PRODUCT    26-FE-55
+#C4BEGIN    [    1 28058   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3 107    4500000. 70000.00 0.025700 1.3000-3                                       Haoyu Jiang+         (20)32813  2 
+    1 28058   3 107    4750000. 70000.00 0.028700 2.0000-3                                       Haoyu Jiang+         (20)32813  2 
+    1 28058   3 107    5000000. 70000.00 0.037200 2.2000-3                                       Haoyu Jiang+         (20)32813  2 
+    1 28058   3 107    5250000. 80000.00 0.044600 2.7000-3                                       Haoyu Jiang+         (20)32813  2 
+    1 28058   3 107    5500000. 80000.00 0.051700 3.0000-3                                       Haoyu Jiang+         (20)32813  2 
+#/DATA      5
+#/DATASET

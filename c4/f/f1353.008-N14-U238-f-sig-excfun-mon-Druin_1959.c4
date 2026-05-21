@@ -1,0 +1,30 @@
+#ENTRY      F1353
+#AUTHOR1    V.A.Druin+
+#YEAR       1959
+#INSTITUTE  (4RUSKUR)
+#TITLE      Fission induced in heavy elements by carbon, nitrogen
+#+          and oxigen nuclei.
+#AUTHOR(S)  V.A.Druin, S.M.Polikanov
+#REF-CODE   (J,ZET,36,744,1959)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 36 (1959) 744
+#DATASETS   0
+#
+#DATASET    F1353008 
+#DATE       20190221
+#REACTION   92-U-238(7-N-14,F),,SIG
+#PROJ       7014
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [ 7014 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014 92238   3  18    7.4051+7          0.035073 0.010252                                       V.A.Druin+           (59)F1353  8 
+ 7014 92238   3  18    7.8097+7          0.127650 0.018564                                       V.A.Druin+           (59)F1353  8 
+ 7014 92238   3  18    8.1155+7          0.198680 0.023472                                       V.A.Druin+           (59)F1353  8 
+ 7014 92238   3  18    8.9958+7          0.452860 0.252850                                       V.A.Druin+           (59)F1353  8 
+ 7014 92238   3  18    9.2124+7          0.704370 0.094364                                       V.A.Druin+           (59)F1353  8 
+ 7014 92238   3  18    9.6955+7          1.187500 0.156620                                       V.A.Druin+           (59)F1353  8 
+#/DATA      6
+#/DATASET

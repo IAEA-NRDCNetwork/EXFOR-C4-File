@@ -1,0 +1,28 @@
+#ENTRY      11107
+#AUTHOR1    J.D.Seagrave+
+#YEAR       1960
+#INSTITUTE  (1USALAS)
+#TITLE      ELASTIC SCATTERING OF FAST NEUTRONS BY TRITIUM AND HE3.
+#AUTHOR(S)  J.D.Seagrave, L.Cranberg, J.E.Simmons
+#REF-CODE   (J,PR,119,1981,60)
+#REFERENCE  Phys.Rev. 119 (1960) 1981 (doi:10.1103/PhysRev.119.1981)
+#DATASETS   0
+#
+#DATASET    11107004 
+#DATE       19840207
+#REACTION   2-HE-3(N,EL)2-HE-3,,SIG
+#PROJ       1
+#TARG       2003
+#MF         3
+#MT         2
+#PRODUCT    2-HE-3
+#C4BEGIN    [    1  2003   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  2003   3   2 D  1000000. 200000.0 1.960000 0.060000                                       J.D.Seagrave+        (60)11107  4 
+    1  2003   3   2 D  2000000. 100000.0 2.520000 0.070000                                       J.D.Seagrave+        (60)11107  4 
+    1  2003   3   2 D  3500000. 100000.0 2.340000 0.060000                                       J.D.Seagrave+        (60)11107  4 
+    1  2003   3   2 D  6000000. 100000.0 1.690000 0.070000                                       J.D.Seagrave+        (60)11107  4 
+#/DATA      4
+#/DATASET

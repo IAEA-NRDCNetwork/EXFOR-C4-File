@@ -1,0 +1,40 @@
+#ENTRY      D0978
+#AUTHOR1    A.Azzam+
+#YEAR       2020
+#INSTITUTE  (3EGYCAI)
+#TITLE      Excitation functions for proton-induced reactions on
+#+          Te and natTi targets: Measurements and model
+#+          calculations special relevant to the 128Te(p,n)128I
+#+          reaction
+#AUTHOR(S)  A.Azzam, M.S.Hamada, S.A.Said, G.Y.Mohamed, M.Al-Abyad
+#REF-CODE   (J,NP/A,999,121790,2020)
+#REFERENCE  Nucl.Phys.A 999 (2020) 121790 (doi:10.1016/j.nuclphysa.2020.121790)
+#DATASETS   0
+#
+#DATASET    D0978004 
+#DATE       20200410
+#REACTION   22-TI-0(P,X)21-SC-47,,SIG
+#PROJ       1001
+#TARG       22000
+#MF         3
+#MT         454
+#PRODUCT    21-SC-47
+#C4BEGIN    [ 1001 22000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22000   3 454 A  3100000.          5.0000-5 1.0000-5           21047.9                     A.Azzam+             (20)D0978  4 
+ 1001 22000   3 454 A  4400000.          7.0000-5 1.0000-5           21047.9                     A.Azzam+             (20)D0978  4 
+ 1001 22000   3 454 A  5400000.          5.0000-5 1.0000-5           21047.9                     A.Azzam+             (20)D0978  4 
+ 1001 22000   3 454 A  6700000.          1.0000-4 1.0000-5           21047.9                     A.Azzam+             (20)D0978  4 
+ 1001 22000   3 454 A  7600000.          7.0000-5 1.0000-5           21047.9                     A.Azzam+             (20)D0978  4 
+ 1001 22000   3 454 A  8400000.          1.0000-4 1.0000-5           21047.9                     A.Azzam+             (20)D0978  4 
+ 1001 22000   3 454 A  9100000.          3.0000-4 4.0000-5           21047.9                     A.Azzam+             (20)D0978  4 
+ 1001 22000   3 454 A  9800000.          6.0000-4 9.0000-5           21047.9                     A.Azzam+             (20)D0978  4 
+ 1001 22000   3 454 A  1.0800+7          6.8000-4 1.0000-4           21047.9                     A.Azzam+             (20)D0978  4 
+ 1001 22000   3 454 A  1.1500+7          8.2000-4 1.2000-4           21047.9                     A.Azzam+             (20)D0978  4 
+ 1001 22000   3 454 A  1.2100+7          8.5000-4 1.2000-4           21047.9                     A.Azzam+             (20)D0978  4 
+ 1001 22000   3 454 A  1.2600+7          8.7000-4 1.3000-4           21047.9                     A.Azzam+             (20)D0978  4 
+ 1001 22000   3 454 A  1.3100+7          9.0000-4 1.3000-4           21047.9                     A.Azzam+             (20)D0978  4 
+#/DATA      13
+#/DATASET

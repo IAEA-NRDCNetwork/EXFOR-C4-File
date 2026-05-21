@@ -1,0 +1,36 @@
+#ENTRY      E2728
+#AUTHOR1    D.Gantumur+
+#YEAR       2022
+#INSTITUTE  (2JPNHOK)
+#TITLE      Production cross sections of 52Mn in
+#+          alpha-particle-induced reactions on natural vanadium
+#AUTHOR(S)  D.Gantumur, M.Aikawa, T.Khishigjargal, E.Norov, S.Ebata, 
+#+          H.Haba
+#REF-CODE   (J,ARI,184,110204,2022)
+#REFERENCE  Appl.Radiat.Isot. 184 (2022) 110204 (doi:10.1016/j.apradiso.2022.110204)
+#DATASETS   0
+#
+#DATASET    E2728003 
+#DATE       20230122
+#REACTION   23-V-0(A,X)25-MN-52-G,M+,SIG
+#PROJ       2004
+#TARG       23000
+#MF         3
+#MT         459
+#PRODUCT    25-MN-52-G
+#C4BEGIN    [ 2004 23000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 23000   3 459    4.9600+7 200000.0 0.145000 0.010000           25052.0                     D.Gantumur+          (22)E2728  3 
+ 2004 23000   3 459    4.6800+7 200000.0 0.190000 0.014000           25052.0                     D.Gantumur+          (22)E2728  3 
+ 2004 23000   3 459    4.3800+7 200000.0 0.230000 0.017000           25052.0                     D.Gantumur+          (22)E2728  3 
+ 2004 23000   3 459    4.0700+7 300000.0 0.259000 0.019000           25052.0                     D.Gantumur+          (22)E2728  3 
+ 2004 23000   3 459    3.7400+7 300000.0 0.239000 0.017000           25052.0                     D.Gantumur+          (22)E2728  3 
+ 2004 23000   3 459    3.3900+7 300000.0 0.172000 0.012000           25052.0                     D.Gantumur+          (22)E2728  3 
+ 2004 23000   3 459    3.0100+7 400000.0 0.059200 4.3000-3           25052.0                     D.Gantumur+          (22)E2728  3 
+ 2004 23000   3 459    2.5800+7 500000.0 2.0300-3 1.6000-4           25052.0                     D.Gantumur+          (22)E2728  3 
+ 2004 23000   3 459    2.1000+7 600000.0 8.8900-4 8.1000-5           25052.0                     D.Gantumur+          (22)E2728  3 
+ 2004 23000   3 459    1.5100+7 800000.0 1.8700-4 3.0000-5           25052.0                     D.Gantumur+          (22)E2728  3 
+#/DATA      10
+#/DATASET

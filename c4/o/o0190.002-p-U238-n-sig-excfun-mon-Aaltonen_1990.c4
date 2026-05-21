@@ -1,0 +1,32 @@
+#ENTRY      O0190
+#AUTHOR1    J.Aaltonen+
+#YEAR       1990
+#INSTITUTE  (2SF HLS)
+#TITLE      Formation of Isomers in the Reaction U-238(P,3N)Np-236.
+#AUTHOR(S)  J.Aaltonen, M.Brenner, S.A.Egorov, A.M.Fridkin, V.B.Funschtein, 
+#+          E.A.Gromova, P.Manngard, V.A.Rubchen'A, Yu.A.Selitsky, V.A.Yakovlev, 
+#+          V.S.Zenkevich
+#REF-CODE   (J,PR/C,41,513,1990)
+#REFERENCE  Phys.Rev.C 41 (1990) 513 (doi:10.1103/PhysRevC.41.513)
+#DATASETS   0
+#
+#DATASET    O0190002 
+#DATE       20001215
+#REACTION   92-U-238(P,N)93-NP-238,,SIG,,,EXP
+#PROJ       1001
+#TARG       92238
+#MF         3
+#MT         4
+#PRODUCT    93-NP-238
+#C4BEGIN    [ 1001 92238   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92238   3   4    1.1900+7 400000.0 5.5000-3 5.0000-4                                       J.Aaltonen+          (90)O0190  2 
+ 1001 92238   3   4    1.3200+7 400000.0 6.9000-3 5.0000-4                                       J.Aaltonen+          (90)O0190  2 
+ 1001 92238   3   4    1.3800+7 400000.0 6.4000-3 5.0000-4                                       J.Aaltonen+          (90)O0190  2 
+ 1001 92238   3   4    1.5000+7 400000.0 6.8600-3 3.0000-4                                       J.Aaltonen+          (90)O0190  2 
+ 1001 92238   3   4    1.6200+7 400000.0 8.2000-3 6.0000-4                                       J.Aaltonen+          (90)O0190  2 
+ 1001 92238   3   4    1.7400+7 400000.0 0.010300 7.0000-4                                       J.Aaltonen+          (90)O0190  2 
+#/DATA      6
+#/DATASET

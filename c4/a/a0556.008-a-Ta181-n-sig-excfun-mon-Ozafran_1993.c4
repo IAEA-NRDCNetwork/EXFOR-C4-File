@@ -1,0 +1,37 @@
+#ENTRY      A0556
+#AUTHOR1    M.J.Ozafran+
+#YEAR       1993
+#INSTITUTE  (3ARGCNE)
+#TITLE      Re-184(m,gamma) cross sections and isomeric ratios in
+#+          Ta-181(alpha,n) and W(alpha,xnp) reactions.
+#AUTHOR(S)  M.J.Ozafran, H.O.Mosca, M.E.Vazquez, W.R.Frosch, S.J.Nassiff
+#REF-CODE   (J,JRN,172,155,1993)
+#REFERENCE  J.Rad.Nucl.Chem. 172 (1993) 155 (doi:10.1007/BF02040672)
+#DATASETS   0
+#
+#DATASET    A0556008 
+#DATE       20160228
+#REACTION   73-TA-181(A,N)75-RE-184,,SIG
+#PROJ       2004
+#TARG       73181
+#MF         3
+#MT         4
+#PRODUCT    75-RE-184
+#C4BEGIN    [ 2004 73181   3   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 73181   3   4 D  9900000.          3.1000-4 1.2000-4                                       M.J.Ozafran+         (93)A0556  8 
+ 2004 73181   3   4 D  1.8700+7          0.015740 2.8000-3                                       M.J.Ozafran+         (93)A0556  8 
+ 2004 73181   3   4 D  2.5300+7          0.012510 2.4000-3                                       M.J.Ozafran+         (93)A0556  8 
+ 2004 73181   3   4 D  3.2900+7          7.0700-3 1.2500-3                                       M.J.Ozafran+         (93)A0556  8 
+ 2004 73181   3   4 D  4.1800+7          3.5300-3 7.1000-4                                       M.J.Ozafran+         (93)A0556  8 
+ 2004 73181   3   4 D  4.9900+7          1.7300-3 3.8000-4                                       M.J.Ozafran+         (93)A0556  8 
+ 2004 73181   3   4 D  5.7200+7          1.2200-3 2.2000-4                                       M.J.Ozafran+         (93)A0556  8 
+ 2004 73181   3   4 D  6.7800+7          6.6000-4 1.1000-4                                       M.J.Ozafran+         (93)A0556  8 
+ 2004 73181   3   4 D  7.0800+7          6.0000-4 1.2000-4                                       M.J.Ozafran+         (93)A0556  8 
+ 2004 73181   3   4 D  7.3900+7          5.2000-4 7.0000-5                                       M.J.Ozafran+         (93)A0556  8 
+ 2004 73181   3   4 D  7.6900+7          4.9000-4 9.0000-5                                       M.J.Ozafran+         (93)A0556  8 
+ 2004 73181   3   4 D  8.1100+7          3.8000-4 1.0000-4                                       M.J.Ozafran+         (93)A0556  8 
+#/DATA      12
+#/DATASET

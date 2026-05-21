@@ -1,0 +1,36 @@
+#ENTRY      C2249
+#AUTHOR1    M.L.Avila+
+#YEAR       2016
+#INSTITUTE  (1USAANL)
+#TITLE      Experimental study of the astrophysically important
+#+          23Na(alpha,p)26Mg and 23Na(alpha,n)26Al reactions
+#AUTHOR(S)  M.L.Avila, K.E.Rehm, S.Almaraz-Calderon, A.D.Ayangeakaa, 
+#+          C.Dickerson, C.R.Hoffman, C.L.Jiang, B.P.Kay, J.Lai, O.Nusair, 
+#+          R.C.Pardo, D.Santiago-Gonzalez, R.Talwar, C.Ugalde
+#REF-CODE   (J,PR/C,94,065804,2016)
+#REFERENCE  Phys.Rev.C 94 (2016) 065804 (doi:10.1103/PhysRevC.94.065804)
+#DATASETS   0
+#
+#DATASET    C2249005 
+#DATE       20170308
+#REACTION   (2-HE-4(11-NA-23,N)13-AL-26,,SIG)=(11-NA-23(A,N)13-AL-26,,SIG)
+#PROJ       2004
+#TARG       11023
+#MF         3
+#MT         4
+#PRODUCT    13-AL-26
+#C4BEGIN    [ 2004 11023   3   4 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 11023   3   4 C  6794145.          0.188090 7.7400-3                                       M.L.Avila+           (16)C2249  5 
+ 2004 11023   3   4 C  6407779.          0.162590 7.2000-3                                       M.L.Avila+           (16)C2249  5 
+ 2004 11023   3   4 C  6012022.          0.109030 5.9000-3                                       M.L.Avila+           (16)C2249  5 
+ 2004 11023   3   4 C  5606877.          0.081930 5.1100-3                                       M.L.Avila+           (16)C2249  5 
+ 2004 11023   3   4 C  5191168.          0.052600 4.1000-3                                       M.L.Avila+           (16)C2249  5 
+ 2004 11023   3   4 C  4766071.          0.043360 3.7200-3                                       M.L.Avila+           (16)C2249  5 
+ 2004 11023   3   4 C  4331586.          0.020080 2.5300-3                                       M.L.Avila+           (16)C2249  5 
+ 2004 11023   3   4 C  3887713.          7.7200-3 1.6500-3                                       M.L.Avila+           (16)C2249  5 
+ 2004 11023   3   4 C  3553051.          4.2000-3 2.1000-3                                       M.L.Avila+           (16)C2249  5 
+#/DATA      9
+#/DATASET

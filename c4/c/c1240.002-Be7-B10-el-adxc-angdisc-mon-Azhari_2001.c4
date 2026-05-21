@@ -1,0 +1,37 @@
+#ENTRY      C1240
+#AUTHOR1    A.Azhari+
+#YEAR       2001
+#INSTITUTE  (1USATAM)
+#TITLE      Asymptotic normalization coefficients and the
+#+          7Be(p,g)8B astrophysical S factor
+#AUTHOR(S)  A.Azhari, V.Burjan, F.Carstoiu, C.A.Gagliardi, V.Kroha, 
+#+          A.M.Mukhamedzhanov, F.M.Nunes, X.Tang, L.Trache, R.E.Tribble
+#REF-CODE   (J,PR/C,63,055803,2001)
+#REFERENCE  Phys.Rev.C 63 (2001) 055803 (doi:10.1103/PhysRevC.63.055803)
+#DATASETS   0
+#
+#DATASET    C1240002 
+#DATE       20050601
+#REACTION   5-B-10(4-BE-7,EL)5-B-10,,DA
+#PROJ       4007
+#TARG       5010
+#MF         4
+#MT         2
+#PRODUCT    5-B-10
+#C4BEGIN    [ 4007  5010   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4007  5010   4   2  C 8.5000+7          18.50000          0.992180                              A.Azhari+            (01)C1240  2 
+ 4007  5010   4   2  C 8.5000+7          4.980000          0.987824                              A.Azhari+            (01)C1240  2 
+ 4007  5010   4   2  C 8.5000+7          1.010000          0.981293                              A.Azhari+            (01)C1240  2 
+ 4007  5010   4   2  C 8.5000+7          0.372000          0.971549                              A.Azhari+            (01)C1240  2 
+ 4007  5010   4   2  C 8.5000+7          0.248000          0.960779                              A.Azhari+            (01)C1240  2 
+ 4007  5010   4   2  C 8.5000+7          0.114000          0.948324                              A.Azhari+            (01)C1240  2 
+ 4007  5010   4   2  C 8.5000+7          0.040200          0.935444                              A.Azhari+            (01)C1240  2 
+ 4007  5010   4   2  C 8.5000+7          0.020400          0.916363                              A.Azhari+            (01)C1240  2 
+ 4007  5010   4   2  C 8.5000+7          0.018500          0.898028                              A.Azhari+            (01)C1240  2 
+ 4007  5010   4   2  C 8.5000+7          0.013800          0.879649                              A.Azhari+            (01)C1240  2 
+ 4007  5010   4   2  C 8.5000+7          7.3300-3          0.864275                              A.Azhari+            (01)C1240  2 
+#/DATA      11
+#/DATASET

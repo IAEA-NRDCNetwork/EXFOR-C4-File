@@ -1,0 +1,35 @@
+#ENTRY      O2228
+#AUTHOR1    M.Vandebrouck+
+#YEAR       2014
+#INSTITUTE  (2FR PAR)
+#TITLE      Measurement of the isoscalar monopole response in the
+#+          neutron-rich nucleus Ni-68.
+#AUTHOR(S)  M.Vandebrouck, J.Gibelin, E.Khan, N.L.Achouri, H.Baba, D.Beaumel, 
+#+          Y.Blumenfeld, M.Caamaso, L.Caceres, G.Colt, F.Delaunay, 
+#+          B.Fernandez-Dominguez, U.Garg, G.F.Grinyer, M.N.Harakeh, 
+#+          N.Kalantar-Nayestanaki, N.Keeley, W.Mittig, J.Pancin, R.Raabe, 
+#+          T.Roger, P.Roussel-Chomaz, H.Savajols, O.Sorlin, C.Stodel, 
+#+          D.Suzuki, J.C.Thomas
+#REF-CODE   (J,PRL,113,032504,2014)
+#REFERENCE  Phys.Rev.Lett. 113 (2014) 032504 (doi:10.1103/PhysRevLett.113.032504)
+#DATASETS   0
+#
+#DATASET    O2228002 
+#DATE       20140731
+#REACTION   (2-HE-4(28-NI-68,INL)2-HE-4,PAR,DA)=(28-NI-68(A,INL)28-NI-68,PAR,DA)
+#PROJ       2004
+#TARG       28068
+#MF         4
+#MT         801
+#PRODUCT    28-NI-68
+#C4BEGIN    [ 2004 28068   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28068   4 801  C 2.0000+8          0.018610 0.012990 0.996862          1.2900+7         LVLM.Vandebrouck+       (14)O2228  2 
+ 2004 28068   4 801  C 2.0000+8          0.017410 0.010880 0.995295          1.2900+7         LVLM.Vandebrouck+       (14)O2228  2 
+ 2004 28068   4 801  C 2.0000+8          2.6650-3 2.6540-3 0.993512          1.2900+7         LVLM.Vandebrouck+       (14)O2228  2 
+ 2004 28068   4 801  C 2.0000+8          0.011930 7.1010-3 0.991353          1.2900+7         LVLM.Vandebrouck+       (14)O2228  2 
+ 2004 28068   4 801  C 2.0000+8          8.3700-3 8.3590-3 0.988912          1.2900+7         LVLM.Vandebrouck+       (14)O2228  2 
+#/DATA      5
+#/DATASET

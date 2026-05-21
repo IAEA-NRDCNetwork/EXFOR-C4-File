@@ -1,0 +1,30 @@
+#ENTRY      31593
+#AUTHOR1    G.D.Kim+
+#YEAR       2007
+#INSTITUTE  (3KORKRM)
+#TITLE      Measurements of fast neutron capture cross sections
+#+          on 63Cu and 186W
+#AUTHOR(S)  G.D.Kim, H.J.Woo, H.W.Choi, N.B.Kim, T.K.Yang, J.H.Chang, 
+#+          K.S.Park
+#REF-CODE   (J,JRN,271,553,2007)
+#REFERENCE  J.Rad.Nucl.Chem. 271 (2007) 553 (doi:10.1007/s10967-007-0305-z)
+#DATASETS   0
+#
+#DATASET    31593002 
+#DATE       20070515
+#REACTION   29-CU-63(N,G)29-CU-64,,SIG
+#PROJ       1
+#TARG       29063
+#MF         3
+#MT         102
+#PRODUCT    29-CU-64
+#C4BEGIN    [    1 29063   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29063   3 102 A  2015000.          5.9000-3 1.1800-5                                       G.D.Kim+             (07)31593  2 
+    1 29063   3 102 A  1813000.          6.2000-3 1.2400-5                                       G.D.Kim+             (07)31593  2 
+    1 29063   3 102 A  1611000.          7.8000-3 1.5600-5                                       G.D.Kim+             (07)31593  2 
+    1 29063   3 102 A  1409000.          8.3000-3 1.6600-5                                       G.D.Kim+             (07)31593  2 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,63 @@
+#ENTRY      12835
+#AUTHOR1    C.Budtz-Jorgensen+
+#YEAR       1984
+#INSTITUTE  (1USAANL)
+#TITLE      Neutron total,scattering and inelastic gamma-ray
+#+          production cross sections of yttrium at few MeV
+#+          energies.
+#AUTHOR(S)  C.Budtz-Jorgensen, P.Guenther, A.Smith, J.Whalen, W.R.McMurray, 
+#+          M.J.Renan, I.J.van Heerden
+#REF-CODE   (J,ZP/A,319,47,198410)
+#REFERENCE  Z.Phys.A 319 (1984) 47 (doi:10.1007/BF01429766)
+#DATASETS   0
+#
+#DATASET    12835002 
+#DATE       20110727
+#REACTION   39-Y-89(N,TOT),,SIG,,AV
+#PROJ       1
+#TARG       39089
+#MF         3
+#MT         1
+#C4BEGIN    [    1 39089   3   1 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 39089   3   1 A  472300.0          8.988000 0.116600                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  569200.0          8.343000 0.089090                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  661900.0          8.151000 0.097160                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  760700.0          7.424000 0.102300                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  868800.0          6.860000 0.094150                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  937800.0          6.836000 0.117900                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  1052000.          6.449000 0.091080                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  1169000.          5.978000 0.084080                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  1247000.          5.892000 0.086870                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  1329000.          5.752000 0.084050                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  1430000.          5.404000 0.085420                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  1548000.          5.134000 0.083190                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  1678000.          4.923000 0.084120                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  1770000.          4.880000 0.085350                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  1846000.          4.582000 0.089070                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  1928000.          4.645000 0.083670                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  2047000.          4.573000 0.084180                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  2169000.          4.370000 0.086240                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  2269000.          4.302000 0.087130                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  2375000.          4.327000 0.084320                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  2453000.          4.225000 0.084140                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  2531000.          4.293000 0.087850                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  2636000.          4.161000 0.079260                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  2735000.          4.141000 0.103100                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  2828000.          4.126000 0.069920                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  2930000.          4.014000 0.062700                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  3038000.          4.065000 0.078580                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  3140000.          4.064000 0.066810                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  3241000.          4.106000 0.069930                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  3349000.          4.052000 0.067320                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  3450000.          4.033000 0.068580                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  3552000.          3.992000 0.069240                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  3654000.          3.959000 0.070840                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  3755000.          4.015000 0.072580                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  3849000.          3.910000 0.075590                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  3956000.          3.860000 0.076280                                       C.Budtz-Jorgensen+   (84)12835  2 
+    1 39089   3   1 A  4055000.          3.852000 0.066160                                       C.Budtz-Jorgensen+   (84)12835  2 
+#/DATA      37
+#/DATASET

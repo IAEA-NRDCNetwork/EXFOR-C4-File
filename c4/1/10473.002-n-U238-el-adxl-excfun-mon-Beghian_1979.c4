@@ -1,0 +1,37 @@
+#ENTRY      10473
+#AUTHOR1    L.E.Beghian+
+#YEAR       1979
+#INSTITUTE  (1USALTI)
+#TITLE      Neutron scattering cross sections of uranium-238
+#AUTHOR(S)  L.E.Beghian, G.H.R.Kegel, T.V.Marcella, B.K.Barnes, G.P.Couchell, 
+#+          J.J.Egan, A.Mittler, D.J.Pullen, W.A.Schier
+#REF-CODE   (J,NSE,69,191,197902)
+#REFERENCE  Nucl.Sci.Eng. 69 (1979) 191 (doi:10.13182/NSE79-A20610)
+#DATASETS   0
+#
+#DATASET    10473002 
+#DATE       20031103
+#REACTION   92-U-238(N,EL)92-U-238,,DA
+#PROJ       1
+#TARG       92238
+#MF         4
+#MT         2
+#PRODUCT    92-U-238
+#C4BEGIN    [    1 92238   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   4   2 A  890000.0          0.211000 0.019000 6.123-17                              L.E.Beghian+         (79)10473  2 
+    1 92238   4   2 A  1100000.          0.169000 0.015000 6.123-17                              L.E.Beghian+         (79)10473  2 
+    1 92238   4   2 A  1310000.          0.147000 0.012000 6.123-17                              L.E.Beghian+         (79)10473  2 
+    1 92238   4   2 A  1510000.          0.159000 0.014000 6.123-17                              L.E.Beghian+         (79)10473  2 
+    1 92238   4   2 A  1710000.          0.164000 0.016000 6.123-17                              L.E.Beghian+         (79)10473  2 
+    1 92238   4   2 A  1970000.          0.177000 0.015000 6.123-17                              L.E.Beghian+         (79)10473  2 
+    1 92238   4   2 A  2020000.          0.173000 0.017000 6.123-17                              L.E.Beghian+         (79)10473  2 
+    1 92238   4   2 A  2320000.          0.147000 0.015000 6.123-17                              L.E.Beghian+         (79)10473  2 
+    1 92238   4   2 A  2520000.          0.135000 0.012000 6.123-17                              L.E.Beghian+         (79)10473  2 
+    1 92238   4   2 A  2720000.          0.125000 0.013000 6.123-17                              L.E.Beghian+         (79)10473  2 
+    1 92238   4   2 A  2920000.          0.122000 0.013000 6.123-17                              L.E.Beghian+         (79)10473  2 
+    1 92238   4   2 A  3100000.          0.110000 9.5000-3 6.123-17                              L.E.Beghian+         (79)10473  2 
+#/DATA      12
+#/DATASET

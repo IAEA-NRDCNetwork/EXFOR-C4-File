@@ -1,0 +1,26 @@
+#ENTRY      10157
+#AUTHOR1    P.Venugopala Rao+
+#YEAR       1971
+#INSTITUTE  (1USAGIT)
+#TITLE      Neutron Activation Cross Sections for As, Br, Rb and
+#+          Sr Isotopes at 14.4 MeV.
+#AUTHOR(S)  P.Venugopala Rao, R.E.Wood, J.M.Palms, R.W.Fink
+#REF-CODE   (J,PR/C,3,629,197102)
+#REFERENCE  Phys.Rev.C 3 (1971) 629 (doi:10.1103/PhysRevC.3.629)
+#DATASETS   0
+#
+#DATASET    10157006 
+#DATE       20001211
+#REACTION   37-RB-85(N,2N)37-RB-84-M,,SIG
+#PROJ       1
+#TARG       37085
+#MF         3
+#MT         16
+#PRODUCT    37-RB-84-M
+#C4BEGIN    [    1 37085   3  16MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 37085   3  16MA  1.4400+7 300000.0 0.478000 0.048000                                       P.Venugopala Rao+    (71)10157  6 
+#/DATA      1
+#/DATASET

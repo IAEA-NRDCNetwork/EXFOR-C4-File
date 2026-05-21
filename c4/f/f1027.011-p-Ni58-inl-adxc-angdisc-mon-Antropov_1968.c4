@@ -1,0 +1,42 @@
+#ENTRY      F1027
+#AUTHOR1    A.E.Antropov+
+#YEAR       1968
+#INSTITUTE  (4RUSLIN)
+#TITLE      Elastic and inelastic scattering of approx. 6 MeV
+#+          protons on Co-59 and the excited core model.
+#AUTHOR(S)  A.E.Antropov, K.A.Gridnev, P.P.Zarubin, B.N.Orlov, A.V.Plavko, 
+#+          A.I.Sorokin
+#REF-CODE   (J,IZV,32,(10),1747,1968)
+#REFERENCE  Izv.Ross.AN,Fiz. 32 No.10 (1968) 1747
+#DATASETS   0
+#
+#DATASET    F1027011 
+#DATE       20120803
+#REACTION   28-NI-58(P,INL)28-NI-58,PAR,DA
+#PROJ       1001
+#TARG       28058
+#MF         4
+#MT         601
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 1001 28058   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   4 601  C 6050000.          9.3937-3 3.6842-4 0.803078          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+ 1001 28058   4 601  C 6050000.          8.1829-3 2.6316-4 0.686758          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+ 1001 28058   4 601  C 6050000.          7.8405-3 1.8421-4 0.578242          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+ 1001 28058   4 601  C 6050000.          7.2350-3 2.1053-4 0.450566          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+ 1001 28058   4 601  C 6050000.          6.6295-3 2.1261-4 0.321208          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+ 1001 28058   4 601  C 6050000.          5.8135-3 1.8423-4 0.159623          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+ 1001 28058   4 601  C 6050000.          5.6817-3 1.5789-4 0.019826          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+ 1001 28058   4 601  C 6050000.          5.5499-3 2.1338-4-0.102914          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+ 1001 28058   4 601  C 6050000.          6.1286-3 2.1259-4-0.283681          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+ 1001 28058   4 601  C 6050000.          6.4471-3 2.6318-4-0.399229          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+ 1001 28058   4 601  C 6050000.          6.6018-3 3.1579-4-0.523689          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+ 1001 28058   4 601  C 6050000.          6.7068-3 2.3684-4-0.637827          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+ 1001 28058   4 601  C 6050000.          6.2856-3 2.4216-4-0.709079          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+ 1001 28058   4 601  C 6050000.          6.1276-3 2.6823-4-0.784776          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+ 1001 28058   4 601  C 6050000.          5.8905-3 4.7368-4-0.863836          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+ 1001 28058   4 601  C 6050000.          6.1798-3 5.2633-4-0.908362          1450000.         LVLA.E.Antropov+        (68)F1027 11 
+#/DATA      16
+#/DATASET

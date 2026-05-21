@@ -1,0 +1,38 @@
+#ENTRY      C1764
+#AUTHOR1    A.Morgenstern+
+#YEAR       2009
+#INSTITUTE  (2ZZZITU)
+#TITLE      Cross sections of the reaction 231Pa(d,3n)230U for
+#+          the production of 230U/226Th for targeted alpha
+#+          therapy
+#AUTHOR(S)  A.Morgenstern, O.Lebeda, J.Stursa, R.Capote, M.Sin, F.Bruchertseifer, 
+#+          B.Zielinska, C.Apostolidis
+#REF-CODE   (J,PR/C,80,054612,2009)
+#REFERENCE  Phys.Rev.C 80 (2009) 054612 (doi:10.1103/PhysRevC.80.054612)
+#DATASETS   0
+#
+#DATASET    C1764002 
+#DATE       20100120
+#REACTION   91-PA-231(D,3N)92-U-230,,SIG
+#PROJ       1002
+#TARG       91231
+#MF         3
+#MT         17
+#PRODUCT    92-U-230
+#C4BEGIN    [ 1002 91231   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 91231   3  17    1.1200+7 200000.0 8.9000-4 1.1000-4                                       A.Morgenstern+       (09)C1764  2 
+ 1002 91231   3  17    1.2000+7 200000.0 2.4400-3 3.0000-4                                       A.Morgenstern+       (09)C1764  2 
+ 1002 91231   3  17    1.3100+7 200000.0 5.4900-3 6.7000-4                                       A.Morgenstern+       (09)C1764  2 
+ 1002 91231   3  17    1.4100+7 200000.0 9.9500-3 1.2200-3                                       A.Morgenstern+       (09)C1764  2 
+ 1002 91231   3  17    1.5100+7 200000.0 0.015400 1.9000-3                                       A.Morgenstern+       (09)C1764  2 
+ 1002 91231   3  17    1.6200+7 200000.0 0.021500 2.6000-3                                       A.Morgenstern+       (09)C1764  2 
+ 1002 91231   3  17    1.6900+7 200000.0 0.025500 3.1000-3                                       A.Morgenstern+       (09)C1764  2 
+ 1002 91231   3  17    1.7900+7 200000.0 0.027800 3.4000-3                                       A.Morgenstern+       (09)C1764  2 
+ 1002 91231   3  17    1.8300+7 200000.0 0.027400 3.4000-3                                       A.Morgenstern+       (09)C1764  2 
+ 1002 91231   3  17    1.9300+7 200000.0 0.022700 2.8000-3                                       A.Morgenstern+       (09)C1764  2 
+ 1002 91231   3  17    1.9900+7 200000.0 0.019900 2.4000-3                                       A.Morgenstern+       (09)C1764  2 
+#/DATA      11
+#/DATASET

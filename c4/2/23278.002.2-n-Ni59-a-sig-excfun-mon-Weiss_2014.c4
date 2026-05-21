@@ -1,0 +1,68 @@
+#ENTRY      23278
+#AUTHOR1    C.Weiss+
+#YEAR       2014
+#INSTITUTE  (2AUSATI)
+#TITLE      The (n,a) reaction in the s-process branching point
+#+          59Ni
+#AUTHOR(S)  C.Weiss, C.Guerrero, E.Griesmayer, J.Andrzejewski, G.Badurek, 
+#+          E.Chiaveri, R.Dressler, S.Ganesan, E.Jericha, F.Kaeppeler, 
+#+          P.Koehler, C.Lederer, H.Leeb, J.Marganiec, A.Pavlik, J.Perkowski, 
+#+          T.Rauscher, R.Reifarth, D.Schumann, G.Tagliente, V.Vlachoudis, 
+#+          S.Altstadt, L.Audouin, M.Barbagallo, V.Becares, F.Becvar, 
+#+          F.Belloni, E.Berthoumieux, J.Billowes, V.Boccone, D.Bosnar, 
+#+          M.Brugger, M.Calviani, F.Calvino, D.Cano-Ott, C.Carrapico, 
+#+          F.Cerutti, M.Chin, N.Colonna, G.Cortes, M.A.Cortes-Giraldo, 
+#+          M.Diakaki, C.Domingo-Pardo, I.Duran, N.Dzysiuk, C.Eleftheriadis, 
+#+          A.Ferrari, K.Fraval, A.R.Garcia, G.Giubrone, M.B.Gomez-Hornillos, 
+#+          I.F.Goncalves, E.Gonzalez-Romero, F.Gunsing, P.Gurusamy, 
+#+          A.Hernandez-Prieto, D.G.Jenkins, Y.Kadi, D.Karadimos, N.Kivel, 
+#+          M.Kokkoris, M.Krticka, J.Kroll, C.Lampoudis, C.Langer, E.Leal-Cidoncha, 
+#+          L.S.Leong, R.Losito, A.Mallick, A.Manousos, T.Martinez, 
+#+          C.Massimi, P.F.Mastinu, M.Mastromarco, M.Meaze, E.Mendoza, 
+#+          A.Mengoni, P.M.Milazzo, F.Mingrone, M.Mirea, W.Mondalaers, 
+#+          C.Paradela, A.Plompen, J.Praena, J.M.Quesada, A.Riego, M.S.Robles, 
+#+          F.Roman, C.Rubbia, M.Sabate-Gilarte, R.Sarmento, A.Saxena, 
+#+          P.Schillebeeckx, S.Schmidt, J.L.Tain, D.Tarrio, L.Tassan-Got, 
+#+          A.Tsinganis, S.Valenta, G.Vannini, V.Variale, P.Vaz, A.Ventura, 
+#+          R.Versaci, M.J.Vermeulen, R.Vlastou, A.Wallner, T.Ware, 
+#+          M.Weigand, T.Wright, P.Zugec
+#REF-CODE   (J,NDS,120,208,2014)
+#REFERENCE  Nucl.Data Sheets 120 (2014) 208 (doi:10.1016/j.nds.2014.07.048)
+#DATASETS   0
+#
+#DATASET    232780022
+#DATE       20151107
+#REACTION   28-NI-59(N,A)26-FE-56,,SIG,,AV
+#PROJ       1
+#TARG       28059
+#MF         3
+#MT         107
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 28059   3 107 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28059   3 107 A  0.364718 0.189465 2.953190                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  1.153291 0.599109 1.858760                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  3.646755 1.894355 0.870363                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  11.53050 5.989395 0.668247                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  36.45405 18.93415 0.379383                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  113.2376 57.84940 1.236560                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  173.0785 1.991500 3.000650                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  177.1080 2.038000 4.456760                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  181.2315 2.085500 11.02750                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  185.4505 2.133500 12.75870                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  189.7675 2.183500 24.60940                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  194.1855 2.234500 44.89740                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  198.7060 2.286000 89.53900                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  203.3315 2.339500 107.7930                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  208.0650 2.394000 60.44960                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  212.9085 2.449500 32.08220                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  217.8650 2.507000 17.86550                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  222.9370 2.565000 7.275190                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  228.1265 2.624500 6.801990                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  233.4370 2.686000 4.360890                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  238.8710 2.748000 2.469680                                                C.Weiss+             (14)23278  22
+    1 28059   3 107 A  335.5520 93.93300 0.847624                                                C.Weiss+             (14)23278  22
+#/DATA      22
+#/DATASET

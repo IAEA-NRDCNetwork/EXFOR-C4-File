@@ -1,0 +1,26 @@
+#ENTRY      11232
+#AUTHOR1    J.B.Marion+
+#YEAR       1959
+#INSTITUTE  (1USALAS)
+#TITLE      ELASTIC AND NONELASTIC NEUTRON CROSS SECTIONS FOR
+#+          BERYLLIUM.
+#AUTHOR(S)  J.B.Marion, J.S.Levin, L.Cranberg
+#REF-CODE   (J,PR,114,1584,59)
+#REFERENCE  Phys.Rev. 114 (1959) 1584 (doi:10.1103/PhysRev.114.1584)
+#DATASETS   0
+#
+#DATASET    11232007 
+#DATE       19800820
+#REACTION   4-BE-9(N,TOT),,SIG
+#PROJ       1
+#TARG       4009
+#MF         3
+#MT         1
+#C4BEGIN    [    1  4009   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  4009   3   1    5000000. 290000.0 1.830000 0.050000                                       J.B.Marion+          (59)11232  7 
+    1  4009   3   1    6000000. 210000.0 1.810000 0.050000                                       J.B.Marion+          (59)11232  7 
+#/DATA      2
+#/DATASET

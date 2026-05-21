@@ -1,0 +1,31 @@
+#ENTRY      D6087
+#AUTHOR1    Manoj Kumar Sharma+
+#YEAR       2003
+#INSTITUTE  (3INDNSD)
+#TITLE      Complete and incomplete fusion: measurement and
+#+          analysis of excitation functions in 12C+128Te System
+#+          at energies near and above the Coulomb barrier.
+#AUTHOR(S)  Manoj Kumar Sharma, B.P.Singh, Sunita Gupta, M.M.Musthafa, 
+#+          H.D.Bhardwaj, R.Prasad, A.K.Sinha
+#REF-CODE   (J,JPJ,72,1917,2003)
+#REFERENCE  J.Phys.Soc.Jpn. 72 (2003) 1917 (doi:10.1143/JPSJ.72.1917)
+#DATASETS   0
+#
+#DATASET    D6087005 
+#DATE       20091104
+#REACTION   52-TE-128(6-C-12,X)56-BA-133-M,,SIG
+#PROJ       6012
+#TARG       52128
+#MF         3
+#MT         454
+#PRODUCT    56-BA-133-M
+#C4BEGIN    [ 6012 52128   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 52128   3 454    4.2200+7 1400000. 8.0000-5 1.0000-5           56133.7                     Manoj Kumar Sharma+  (03)D6087  5 
+ 6012 52128   3 454    5.7700+7 1200000. 7.8000-3 8.0000-4           56133.7                     Manoj Kumar Sharma+  (03)D6087  5 
+ 6012 52128   3 454    7.0800+7 1000000. 0.043600 4.8000-3           56133.7                     Manoj Kumar Sharma+  (03)D6087  5 
+ 6012 52128   3 454    8.2000+7 900000.0 0.037600 4.2000-3           56133.7                     Manoj Kumar Sharma+  (03)D6087  5 
+#/DATA      4
+#/DATASET

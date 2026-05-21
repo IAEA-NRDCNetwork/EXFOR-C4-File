@@ -1,0 +1,26 @@
+#ENTRY      10296
+#AUTHOR1    W.P.Poenitz+
+#YEAR       1970
+#INSTITUTE  (1USAANL)
+#TITLE      Measurements of the 235U fission cross section at 552
+#+          and 644 keV
+#AUTHOR(S)  W.P.Poenitz
+#REF-CODE   (C,70ANL,,281,1970)
+#REFERENCE  Proceedings of Neutron Standards Symp., Argonne 1970 page 281
+#DATASETS   0
+#
+#DATASET    10296002 
+#DATE       20011227
+#REACTION   92-U-235(N,F),,SIG
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18 A  552000.0          1.085000 0.043000                                       W.P.Poenitz          (70)10296  2 
+    1 92235   3  18 A  644000.0          1.066000 0.042000                                       W.P.Poenitz          (70)10296  2 
+#/DATA      2
+#/DATASET

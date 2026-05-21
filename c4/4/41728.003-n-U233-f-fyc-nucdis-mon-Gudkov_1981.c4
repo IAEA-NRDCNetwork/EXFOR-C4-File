@@ -1,0 +1,35 @@
+#ENTRY      41728
+#AUTHOR1    A.N.Gudkov+
+#YEAR       1981
+#INSTITUTE  (4RUSMIF)
+#TITLE      Short-lived fission product yields measurement for
+#+          thermal neutron induced fission of 233U by gamma-ray
+#+          spectroscopy of gross fission products in circle
+#+          irradiation
+#AUTHOR(S)  A.N.Gudkov, V.V.Kazantsev, V.V.Kovalenko, A.B.Koldobskii, 
+#+          V.M.Kolobashkin, A.I.Slyusarenko
+#REF-CODE   (R,INDC(CCP)-173,49,1981)
+#REFERENCE  Report INDC(CCP)-173 page 49, 1981
+#DATASETS   0
+#
+#DATASET    41728003 
+#DATE       20210119
+#REACTION   92-U-233(N,F)ELEM/MASS,CUM,FY
+#PROJ       1
+#TARG       92233
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92233   8 459 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   8 459 D  0.025300          0.010900 2.2000-3 35.00000 88.00000 9.000000            A.N.Gudkov+          (81)41728  3 
+    1 92233   8 459 D  0.025300          0.042900 3.8000-3 40.00000 100.0000 9.000000            A.N.Gudkov+          (81)41728  3 
+    1 92233   8 459 D  0.025300          0.021600 2.0000-3 41.00000 99.00000 9.000000            A.N.Gudkov+          (81)41728  3 
+    1 92233   8 459 D  0.025300          0.012700 1.1000-3 41.00000 101.0000 9.000000            A.N.Gudkov+          (81)41728  3 
+    1 92233   8 459 D  0.025300          0.015700 2.1000-3 43.00000 103.0000 9.000000            A.N.Gudkov+          (81)41728  3 
+    1 92233   8 459 D  0.025300          0.033900          53.00000 136.0000 9.000000            A.N.Gudkov+          (81)41728  3 
+    1 92233   8 459 D  0.025300          0.039700 7.3000-3 56.00000 143.0000 9.000000            A.N.Gudkov+          (81)41728  3 
+    1 92233   8 459 D  0.025300          0.046000 2.3000-3 57.00000 144.0000 9.000000            A.N.Gudkov+          (81)41728  3 
+#/DATA      8
+#/DATASET

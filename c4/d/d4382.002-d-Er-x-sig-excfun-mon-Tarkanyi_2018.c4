@@ -1,0 +1,36 @@
+#ENTRY      D4382
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2018
+#INSTITUTE  (3HUNDEB)
+#TITLE      Study of activation cross sections of deuteron induced
+#+          reactions on erbium in the 32-50 MeV energy range
+#AUTHOR(S)  F.Tarkanyi, A.Hermanne, F.Ditroi, S.Takacs
+#REF-CODE   (J,ARI,135,67,2018)
+#REFERENCE  Appl.Radiat.Isot. 135 (2018) 67 (doi:10.1016/j.apradiso.2018.01.009)
+#DATASETS   0
+#
+#DATASET    D4382002 
+#DATE       20180404
+#REACTION   68-ER-0(D,X)69-TM-170,,SIG
+#PROJ       1002
+#TARG       68000
+#MF         3
+#MT         454
+#PRODUCT    69-TM-170
+#C4BEGIN    [ 1002 68000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 68000   3 454    4.9570+7 200000.0 5.7500-3 3.5000-3           69170.9                     F.Tarkanyi+          (18)D4382  2 
+ 1002 68000   3 454    4.8050+7 240000.0 5.6200-3 1.0900-3           69170.9                     F.Tarkanyi+          (18)D4382  2 
+ 1002 68000   3 454    4.6490+7 280000.0 7.5100-3 1.1100-3           69170.9                     F.Tarkanyi+          (18)D4382  2 
+ 1002 68000   3 454    4.4890+7 320000.0 8.3900-3 2.0100-3           69170.9                     F.Tarkanyi+          (18)D4382  2 
+ 1002 68000   3 454    4.3250+7 360000.0 3.5100-3 4.9000-4           69170.9                     F.Tarkanyi+          (18)D4382  2 
+ 1002 68000   3 454    4.1560+7 400000.0 5.9300-3 2.2900-3           69170.9                     F.Tarkanyi+          (18)D4382  2 
+ 1002 68000   3 454    3.9820+7 440000.0 4.8800-3 1.2100-3           69170.9                     F.Tarkanyi+          (18)D4382  2 
+ 1002 68000   3 454    3.8020+7 490000.0 7.3800-3 1.6300-3           69170.9                     F.Tarkanyi+          (18)D4382  2 
+ 1002 68000   3 454    3.6160+7 540000.0 0.010110 4.8500-3           69170.9                     F.Tarkanyi+          (18)D4382  2 
+ 1002 68000   3 454    3.4220+7 580000.0 8.3100-3 3.5200-3           69170.9                     F.Tarkanyi+          (18)D4382  2 
+ 1002 68000   3 454    3.2190+7 630000.0 6.2900-3 2.0600-3           69170.9                     F.Tarkanyi+          (18)D4382  2 
+#/DATA      11
+#/DATASET

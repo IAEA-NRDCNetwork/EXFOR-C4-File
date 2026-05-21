@@ -1,0 +1,36 @@
+#ENTRY      O0316
+#AUTHOR1    S.Harissopulos+
+#YEAR       2021
+#INSTITUTE  (2GRCATH)
+#TITLE      Cross section measurements of proton capture
+#+          reactions on Sr isotopes for astrophysics applications
+#AUTHOR(S)  S.Harissopulos, E.Vagena, P.Dimitriou, M.Axiotis, S.Galanopoulos, 
+#+          V.Foteinou, A.Lagoyannis
+#REF-CODE   (J,PR/C,104,025804,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) 025804 (doi:10.1103/PhysRevC.104.025804)
+#DATASETS   0
+#
+#DATASET    O03160071
+#DATE       20230313
+#REACTION   38-SR-87(P,G)39-Y-88-L,,SIG
+#PROJ       1001
+#TARG       38087
+#MF         3
+#MT         102
+#PRODUCT    39-Y-88-L
+#C4BEGIN    [ 1001 38087   3 102? ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   3 102?   2595796. 7500.237 2.4000-5 7.0000-6                                       S.Harissopulos+      (21)O0316  71
+ 1001 38087   3 102?   2796099. 7500.256 4.2000-5 1.2000-5                                       S.Harissopulos+      (21)O0316  71
+ 1001 38087   3 102?   2996402. 7500.274 7.2000-5 1.9000-5                                       S.Harissopulos+      (21)O0316  71
+ 1001 38087   3 102?   3196706. 7500.292 7.3000-5 2.0000-5                                       S.Harissopulos+      (21)O0316  71
+ 1001 38087   3 102?   3397010. 7500.311 7.7000-5 2.2000-5                                       S.Harissopulos+      (21)O0316  71
+ 1001 38087   3 102?   3596303. 7500.329 9.4000-5 2.5000-5                                       S.Harissopulos+      (21)O0316  71
+ 1001 38087   3 102?   3796608. 7500.347 1.0500-4 2.9000-5                                       S.Harissopulos+      (21)O0316  71
+ 1001 38087   3 102?   3996913. 7500.366 1.5100-4 4.4000-5                                       S.Harissopulos+      (21)O0316  71
+ 1001 38087   3 102?   4197219. 7500.384 1.7300-4 4.6000-5                                       S.Harissopulos+      (21)O0316  71
+ 1001 38087   3 102?   4997436. 7500.457 1.5800-4 3.7000-5                                       S.Harissopulos+      (21)O0316  71
+#/DATA      10
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      C0941
+#AUTHOR1    K.J.Kim+
+#YEAR       2002
+#INSTITUTE  (3NZLNZH)
+#TITLE      Experimental cross-sections for the production of 10Be
+#+          from natural carbon targets with 40.6 to 500 MeV
+#+          protons
+#AUTHOR(S)  K.J.Kim, J.M.Sisterson, P.A.J.Englert, M.W.Caffee, R.C.Reedy, 
+#+          J.Vincent, C.Casteneda
+#REF-CODE   (J,NIM/B,196,239,2002)
+#REFERENCE  Nucl.Instrum.Meth.B 196 (2002) 239 (doi:10.1016/S0168-583X(02)01297-1)
+#DATASETS   0
+#
+#DATASET    C0941004 
+#DATE       20031231
+#REACTION   6-C-0(P,X)4-BE-10,,SIG
+#PROJ       1001
+#TARG       6000
+#MF         3
+#MT         454
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1001  6000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6000   3 454 A  2.0000+8          1.4700-3 8.0000-5            4010.9                     K.J.Kim+             (02)C0941  4 
+ 1001  6000   3 454 A  3.0000+8          1.8900-3 1.1000-4            4010.9                     K.J.Kim+             (02)C0941  4 
+ 1001  6000   3 454 A  4.0000+8          2.2900-3 1.3000-4            4010.9                     K.J.Kim+             (02)C0941  4 
+ 1001  6000   3 454 A  5.0000+8          2.7500-3 1.5000-4            4010.9                     K.J.Kim+             (02)C0941  4 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,25 @@
+#ENTRY      23592
+#AUTHOR1    M.G.Brown+
+#YEAR       1971
+#INSTITUTE  (2UK KEN)
+#TITLE      Delayed neutron yields from 14.8 MeV neutron induced
+#+          fission of 238U, 232Th and 231Pa
+#AUTHOR(S)  M.G.Brown, S.J.Lyle, E.B.M.Martin
+#REF-CODE   (J,RCA,15,109,1971)
+#REFERENCE  Radiochim.Acta 15 (1971) 109 (doi:10.1524/ract.1971.15.3.109)
+#DATASETS   0
+#
+#DATASET    23592003 
+#DATE       20210308
+#REACTION   92-U-238(N,F),DL,NU
+#PROJ       1
+#TARG       92238
+#MF         1
+#MT         455
+#C4BEGIN    [    1 92238   1 455 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   1 455 D  1.4800+7 200000.0 0.018200 2.7300-3                                       M.G.Brown+           (71)23592  3 
+#/DATA      1
+#/DATASET

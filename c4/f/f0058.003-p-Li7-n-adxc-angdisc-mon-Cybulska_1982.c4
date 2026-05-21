@@ -1,0 +1,40 @@
+#ENTRY      F0058
+#AUTHOR1    E.W.Cybulska+
+#YEAR       1982
+#INSTITUTE  (3BZLUSP)
+#TITLE      Analysis of the Li-7(p,p')Li-7* and the
+#+          Li-7(p,n2)Be-7* cross sections.
+#AUTHOR(S)  E.W.Cybulska, E.F.Pessoa, R.A.Douglas, A.Galonsky
+#REF-CODE   (R,INIS-SU-143,17,1982)
+#REFERENCE  Report INIS-SU-143 page 17, 1982
+#DATASETS   0
+#
+#DATASET    F0058003 
+#DATE       20200130
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,DA
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4  50  C 1.2800+7          2.0610-3          0.999986          4630000.         LVLE.W.Cybulska+        (82)F0058  3 
+ 1001  3007   4  50  C 1.2800+7          1.8200-3          0.980615          4630000.         LVLE.W.Cybulska+        (82)F0058  3 
+ 1001  3007   4  50  C 1.2800+7          1.7670-3          0.914254          4630000.         LVLE.W.Cybulska+        (82)F0058  3 
+ 1001  3007   4  50  C 1.2800+7          1.5120-3          0.813101          4630000.         LVLE.W.Cybulska+        (82)F0058  3 
+ 1001  3007   4  50  C 1.2800+7          1.4450-3          0.666532          4630000.         LVLE.W.Cybulska+        (82)F0058  3 
+ 1001  3007   4  50  C 1.2800+7          1.4020-3          0.518027          4630000.         LVLE.W.Cybulska+        (82)F0058  3 
+ 1001  3007   4  50  C 1.2800+7          1.2580-3          0.381070          4630000.         LVLE.W.Cybulska+        (82)F0058  3 
+ 1001  3007   4  50  C 1.2800+7          1.1460-3          0.187381          4630000.         LVLE.W.Cybulska+        (82)F0058  3 
+ 1001  3007   4  50  C 1.2800+7          1.2410-3          3.4907-3          4630000.         LVLE.W.Cybulska+        (82)F0058  3 
+ 1001  3007   4  50  C 1.2800+7          1.3030-3         -0.180519          4630000.         LVLE.W.Cybulska+        (82)F0058  3 
+ 1001  3007   4  50  C 1.2800+7          1.1500-3         -0.327218          4630000.         LVLE.W.Cybulska+        (82)F0058  3 
+ 1001  3007   4  50  C 1.2800+7          1.0480-3         -0.481754          4630000.         LVLE.W.Cybulska+        (82)F0058  3 
+ 1001  3007   4  50  C 1.2800+7          1.0330-3         -0.608761          4630000.         LVLE.W.Cybulska+        (82)F0058  3 
+ 1001  3007   4  50  C 1.2800+7          9.2700-4         -0.734915          4630000.         LVLE.W.Cybulska+        (82)F0058  3 
+ 1001  3007   4  50  C 1.2800+7          8.4400-4         -0.810042          4630000.         LVLE.W.Cybulska+        (82)F0058  3 
+#/DATA      15
+#/DATASET

@@ -1,0 +1,25 @@
+#ENTRY      D0533
+#AUTHOR1    A.Johansson+
+#YEAR       1961
+#INSTITUTE  (2SWDUPP)
+#TITLE      Total nuclear reaction cross sections for 180 MeV
+#+          protons
+#AUTHOR(S)  A.Johansson, U.Svanberg, O.Sundberg
+#REF-CODE   (J,AF,19,527,1961)
+#REFERENCE  Arkiv foer Fysik 19 (1961) 527
+#DATASETS   0
+#
+#DATASET    D0533007 
+#DATE       20130602
+#REACTION   26-FE-0(P,NON),,SIG
+#PROJ       1001
+#TARG       26000
+#MF         3
+#MT         3
+#C4BEGIN    [ 1001 26000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26000   3   3    1.7960+8          0.662000 0.019000                                       A.Johansson+         (61)D0533  7 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,39 @@
+#ENTRY      E0795
+#AUTHOR1    H.Ejiri+
+#YEAR       1981
+#INSTITUTE  (2JPNOSA)
+#TITLE      INELASTIC PROTON SCATTERING TO PARTICLE-HOLE STATES
+#+          IN 40CA AND SPIN-ISOSPIN EXCITATION OF PION SYMMETRY
+#+          STATES
+#AUTHOR(S)  H.Ejiri, M.Sasao, T.Shibata, H.Ohsumi, Y.Fujita, M.Fujiwara, 
+#+          T.Yamazaki, I.Katayama, S.Morinobu, H.Ikegami
+#REF-CODE   (J,PR/C,24,2001,1981)
+#REFERENCE  Phys.Rev.C 24 (1981) 2001 (doi:10.1103/PhysRevC.24.2001)
+#DATASETS   0
+#
+#DATASET    E0795006 
+#DATE       20040622
+#REACTION   20-CA-40(P,INL)20-CA-40,PAR,DA
+#PROJ       1001
+#TARG       20040
+#MF         4
+#MT         601
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 1001 20040   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20040   4 601  C 6.5000+7          2.0740-5 1.1000-5 0.967290          5614000.         LVLH.Ejiri+             (81)E0795  6 
+ 1001 20040   4 601  C 6.5000+7          4.2850-5 2.3500-5 0.943339          5614000.         LVLH.Ejiri+             (81)E0795  6 
+ 1001 20040   4 601  C 6.5000+7          6.0710-5 2.2800-5 0.911346          5614000.         LVLH.Ejiri+             (81)E0795  6 
+ 1001 20040   4 601  C 6.5000+7          6.4120-5 2.4000-5 0.866636          5614000.         LVLH.Ejiri+             (81)E0795  6 
+ 1001 20040   4 601  C 6.5000+7          6.3780-5 1.9900-5 0.819752          5614000.         LVLH.Ejiri+             (81)E0795  6 
+ 1001 20040   4 601  C 6.5000+7          8.2290-5 2.3200-5 0.761991          5614000.         LVLH.Ejiri+             (81)E0795  6 
+ 1001 20040   4 601  C 6.5000+7          5.4170-5 7.5300-6 0.703295          5614000.         LVLH.Ejiri+             (81)E0795  6 
+ 1001 20040   4 601  C 6.5000+7          4.7880-5 7.9100-6 0.640257          5614000.         LVLH.Ejiri+             (81)E0795  6 
+ 1001 20040   4 601  C 6.5000+7          3.6310-5 6.0200-6 0.572074          5614000.         LVLH.Ejiri+             (81)E0795  6 
+ 1001 20040   4 601  C 6.5000+7          3.0270-5 7.1800-6 0.497640          5614000.         LVLH.Ejiri+             (81)E0795  6 
+ 1001 20040   4 601  C 6.5000+7          1.9250-5 4.8200-6 0.408410          5614000.         LVLH.Ejiri+             (81)E0795  6 
+ 1001 20040   4 601  C 6.5000+7          8.6880-6 2.7000-6 0.329295          5614000.         LVLH.Ejiri+             (81)E0795  6 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      C1466
+#AUTHOR1    A.L.Cole+
+#YEAR       2006
+#INSTITUTE  (1USAMSU)
+#TITLE      Measurement of the Gamow-Teller strength distribution
+#+          in 58Co via the 58Ni(t,3He) reaction at 115 MeV/nucleon
+#AUTHOR(S)  A.L.Cole, H.Akimune, S.M.Austin, D.Bazin, A.M.Van Den Berg, 
+#+          G.P.A.Berg, J.Brown, I.Daito, Y.Fujita, M.Fujiwara, S.Gupta, 
+#+          K.Hara, M.N.Harakeh, J.Jaenecke, T.Kawabata, T.Nakamura, 
+#+          D.A.Roberts, B.M.Sherrill, M.Steiner, H.Ueno, R.G.T.Zegers
+#REF-CODE   (J,PR/C,74,034333,2006)
+#REFERENCE  Phys.Rev.C 74 (2006) 034333 (doi:10.1103/PhysRevC.74.034333)
+#DATASETS   0
+#
+#DATASET    C1466002 
+#DATE       20161214
+#REACTION   6-C-12(T,HE3)5-B-12,PAR,DA
+#PROJ       1003
+#TARG       6012
+#MF         4
+#MT         750
+#PRODUCT    5-B-12
+#C4BEGIN    [ 1003  6012   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  6012   4 750  C 3.4500+8 3450000. 0.023780 2.7980-3 0.999985          0.000000         LVLA.L.Cole+            (06)C1466  2 
+ 1003  6012   4 750  C 3.4500+8 3450000. 0.018420 1.3990-3 0.999858          0.000000         LVLA.L.Cole+            (06)C1466  2 
+ 1003  6012   4 750  C 3.4500+8 3450000. 0.015470 1.0880-3 0.999610          0.000000         LVLA.L.Cole+            (06)C1466  2 
+ 1003  6012   4 750  C 3.4500+8 3450000. 0.013760 8.9380-4 0.999235          0.000000         LVLA.L.Cole+            (06)C1466  2 
+ 1003  6012   4 750  C 3.4500+8 3450000. 0.010340 7.3840-4 0.998730          0.000000         LVLA.L.Cole+            (06)C1466  2 
+ 1003  6012   4 750  C 3.4500+8 3450000. 8.7430-3 7.3840-4 0.998103          0.000000         LVLA.L.Cole+            (06)C1466  2 
+ 1003  6012   4 750  C 3.4500+8 3450000. 7.9270-3 6.6060-4 0.997351          0.000000         LVLA.L.Cole+            (06)C1466  2 
+ 1003  6012   4 750  C 3.4500+8 3450000. 5.1670-3 6.9950-4 0.996475          0.000000         LVLA.L.Cole+            (06)C1466  2 
+#/DATA      8
+#/DATASET

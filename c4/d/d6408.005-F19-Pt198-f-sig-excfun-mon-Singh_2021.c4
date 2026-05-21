@@ -1,0 +1,28 @@
+#ENTRY      D6408
+#AUTHOR1    V.Singh+
+#YEAR       2021
+#INSTITUTE  (3INDPUC)
+#TITLE      Measurement of fission excitation function for
+#+          19F + 194,196,198Pt reactions
+#AUTHOR(S)  V.Singh, B R.Behera, M.Kaur, A.Jhingan, R.Kaur, P.Sugathan, 
+#+          D.Siwal, S.Goyal, K.P.Singh, S.Pal, A.Saxena, S.Kailas
+#REF-CODE   (J,JP/G,48,075104,2021)
+#REFERENCE  J.Phys.G 48 (2021) 075104 (doi:10.1088/1361-6471/abe8cd)
+#DATASETS   0
+#
+#DATASET    D6408005 
+#DATE       20230224
+#REACTION   78-PT-198(9-F-19,F),,SIG
+#PROJ       9019
+#TARG       78198
+#MF         3
+#MT         18
+#C4BEGIN    [ 9019 78198   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 9019 78198   3  18    1.0688+8          0.365400 0.023200                                       V.Singh+             (21)D6408  5 
+ 9019 78198   3  18    1.1269+8          0.504600 0.033000                                       V.Singh+             (21)D6408  5 
+ 9019 78198   3  18    1.1686+8          0.684800 0.057700                                       V.Singh+             (21)D6408  5 
+#/DATA      3
+#/DATASET

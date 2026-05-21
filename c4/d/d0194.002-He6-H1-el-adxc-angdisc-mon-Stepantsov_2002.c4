@@ -1,0 +1,46 @@
+#ENTRY      D0194
+#AUTHOR1    S.V.Stepantsov+
+#YEAR       2002
+#INSTITUTE  (4ZZZDUB)
+#TITLE      24.5A MeV 6He+p elastic and inelastic scattering
+#AUTHOR(S)  S.V.Stepantsov, D.D.Bogdanov, A.S.Fomichev, A.M.Rodin, S.I.Sidorchuk, 
+#+          R.S.Slepnev, G.M.Ter-Akopian, R.Wolski, M.L.Chelnokov, V.A.Gorshkov, 
+#+          Yu.Ts.Oganessian, N.Alamanos, F.Auger, V.Lapoux, G.Lobo, 
+#+          K.Amos, P.K.Deb, S.Karataglidis, M.S.Golovkov, A.A.Korsheninnikov, 
+#+          I.Tahihata, E.A.Kuzmin, E.Yu.Nikolskii, R.L.Kavalov
+#REF-CODE   (J,PL/B,542,35,2002)
+#REFERENCE  Phys.Lett.B 542 (2002) 35 (doi:10.1016/S0370-2693(02)02308-0)
+#DATASETS   0
+#
+#DATASET    D0194002 
+#DATE       20040929
+#REACTION   1-H-1(2-HE-6,EL)1-H-1,,DA
+#PROJ       2006
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 2006  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006  1001   4   2  C 1.4700+8 2719500. 0.082724          0.762668 7.9020-4                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 0.080807          0.739631 8.2224-4                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 0.059927          0.715693 8.5328-4                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 0.044555          0.690882 8.8327-4                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 0.038604          0.665230 9.1219-4                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 0.031163          0.640110 9.3864-4                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 0.029117          0.612907 9.6536-4                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 0.025267          0.584958 9.9090-4                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 0.015785          0.556296 1.0152-3                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 0.013050          0.526956 1.0383-3                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 0.011106          0.498488 1.0591-3                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 8.5199-3          0.467930 1.0797-3                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 6.5261-3          0.436802 1.0990-3                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 4.4142-3          0.390731 1.1246-3                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 2.8093-3          0.325568 1.1552-3                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 1.8934-3          0.258819 1.1801-3                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 1.4870-3          0.190809 1.1993-3                     S.V.Stepantsov+      (02)D0194  2 
+ 2006  1001   4   2  C 1.4700+8 2719500. 1.2580-3          0.121869 1.2126-3                     S.V.Stepantsov+      (02)D0194  2 
+#/DATA      18
+#/DATASET

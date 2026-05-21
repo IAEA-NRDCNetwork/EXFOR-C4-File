@@ -1,0 +1,40 @@
+#ENTRY      O0276
+#AUTHOR1    R.Michel+
+#YEAR       1997
+#INSTITUTE  (2GERKLN)
+#TITLE      Cross sections for the production of residual nuclides
+#+          by low- and medium-energy protons from the target
+#+          elements C, N, O, Mg, Al, Si, Ca, Ti, V, Mn, Fe, Co,
+#+          Ni, Cu, Sr, Y, Zr, Nb, Ba and Au.
+#AUTHOR(S)  R.Michel, R.Bodemann, H.Busemann, R.Daunke, M.Gloris, H.-J.Lange, 
+#+          B.Klug, A.Krins, I.Leya, M.Luepke, S.Neumann, H.Reinhardt, 
+#+          M.Schnatz-Buettgen, U.Herpers, Th.Schiekel, F.Sudbrock, 
+#+          B.Holmqvist, H.Conde, P.Malmborg, M.Suter, B.Dittrich-Hannen, 
+#+          P.-W.Kubik, H.-A.Synal, D.Filges
+#REF-CODE   (J,NIM/B,129,153,1997)
+#REFERENCE  Nucl.Instrum.Meth.B 129 (1997) 153 (doi:10.1016/S0168-583X(97)00213-9)
+#DATASETS   0
+#
+#DATASET    O0276084 
+#DATE       20190827
+#REACTION   27-CO-59(P,X)21-SC-46-G,M+,SIG
+#PROJ       1001
+#TARG       27059
+#MF         3
+#MT         459
+#PRODUCT    21-SC-46-G
+#C4BEGIN    [ 1001 27059   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 27059   3 459    7.7600+7 999000.0 1.6100-4 2.5200-5           21046.0                     R.Michel+            (97)O0276 84 
+ 1001 27059   3 459    8.8500+7 950000.0 3.0700-4 3.7000-5           21046.0                     R.Michel+            (97)O0276 84 
+ 1001 27059   3 459    9.1400+7 720000.0 2.9600-4 3.5600-5           21046.0                     R.Michel+            (97)O0276 84 
+ 1001 27059   3 459    9.4900+7 1490000. 2.8500-4 2.5700-5           21046.0                     R.Michel+            (97)O0276 84 
+ 1001 27059   3 459    1.0800+8 1600000. 4.4300-4 4.4000-5           21046.0                     R.Michel+            (97)O0276 84 
+ 1001 27059   3 459    1.0800+8 1610000. 3.8100-4 3.1600-5           21046.0                     R.Michel+            (97)O0276 84 
+ 1001 27059   3 459    1.5200+8 1200000. 1.8000-3 1.6000-4           21046.0                     R.Michel+            (97)O0276 84 
+ 1001 27059   3 459    1.5300+8 1200000. 1.6600-3 1.1800-4           21046.0                     R.Michel+            (97)O0276 84 
+ 1001 27059   3 459    1.5400+8 1080000. 1.7000-3 1.2000-4           21046.0                     R.Michel+            (97)O0276 84 
+#/DATA      9
+#/DATASET

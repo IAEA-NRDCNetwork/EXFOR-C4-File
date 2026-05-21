@@ -1,0 +1,35 @@
+#ENTRY      O2043
+#AUTHOR1    A.Djaloeis+
+#YEAR       1975
+#INSTITUTE  (2GERJUL)
+#TITLE      Investigation of multinucleon emission induced by alpha
+#+          particles on Au-197 in the energy range 20-170 MeV.
+#AUTHOR(S)  A.Djaloeis, P.Jahn, H.-J.Probst, C.Mayer-Boericke
+#REF-CODE   (J,NP/A,250,149,1975)
+#REFERENCE  Nucl.Phys.A 250 (1975) 149 (doi:10.1016/0375-9474(75)90206-7)
+#DATASETS   0
+#
+#DATASET    O2043007 
+#DATE       20120821
+#REACTION   79-AU-197(A,8N)81-TL-193,,SIG
+#PROJ       2004
+#TARG       79197
+#MF         3
+#MT         161
+#PRODUCT    81-TL-193
+#C4BEGIN    [ 2004 79197   3 161  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 79197   3 161    8.5300+7          0.018300                                                A.Djaloeis+          (75)O2043  7 
+ 2004 79197   3 161    9.1600+7          0.289000                                                A.Djaloeis+          (75)O2043  7 
+ 2004 79197   3 161    9.7600+7          0.454000                                                A.Djaloeis+          (75)O2043  7 
+ 2004 79197   3 161    1.0730+8          0.432000                                                A.Djaloeis+          (75)O2043  7 
+ 2004 79197   3 161    1.1650+8          0.279000                                                A.Djaloeis+          (75)O2043  7 
+ 2004 79197   3 161    1.2510+8          0.215000                                                A.Djaloeis+          (75)O2043  7 
+ 2004 79197   3 161    1.3330+8          0.170000                                                A.Djaloeis+          (75)O2043  7 
+ 2004 79197   3 161    1.4120+8          0.127000                                                A.Djaloeis+          (75)O2043  7 
+ 2004 79197   3 161    1.4870+8          0.107000                                                A.Djaloeis+          (75)O2043  7 
+ 2004 79197   3 161    1.5600+8          0.084000                                                A.Djaloeis+          (75)O2043  7 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      40120
+#AUTHOR1    I.R.Barabanov+
+#YEAR       1972
+#INSTITUTE  (4UKRIJD)
+#TITLE      Measurement of the cross-section for the reaction
+#+          Kr-80(n,gamma)Kr-81 on thermal neutrons
+#AUTHOR(S)  I.R.Barabanov, A.A.Pomanskiy, V.G.Rjasnyi
+#REF-CODE   (J,ZEP,15,(11),643,197206)
+#REFERENCE  Z.E.T.F. Pisma Red. 15 No.11 (1972) 643
+#DATASETS   0
+#
+#DATASET    40120002 
+#DATE       20131211
+#REACTION   36-KR-80(N,G)36-KR-81,,SIG
+#PROJ       1
+#TARG       36080
+#MF         3
+#MT         102
+#PRODUCT    36-KR-81
+#C4BEGIN    [    1 36080   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 36080   3 102    0.025000          15.60000 1.900000                                       I.R.Barabanov+       (72)40120  2 
+#/DATA      1
+#/DATASET

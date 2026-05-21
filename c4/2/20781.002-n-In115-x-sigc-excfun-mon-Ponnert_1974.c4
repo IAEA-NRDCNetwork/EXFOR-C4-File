@@ -1,0 +1,26 @@
+#ENTRY      20781
+#AUTHOR1    K.Ponnert+
+#YEAR       1974
+#INSTITUTE  (2SWDLND)
+#TITLE      -MULTIPLE REACTION CORRECTION TO 15 MEV NEUTRON
+#+          CAPTURE CROSS SECTION IN IN-115
+#AUTHOR(S)  K.Ponnert, G.Magnusson, I.Bergqvist
+#REF-CODE   (J,PS,10,35,7403)
+#REFERENCE  Phys.Scr. 10 (1974) 35 (doi:10.1088/0031-8949/10/1-2/002)
+#DATASETS   0
+#
+#DATASET    20781002 
+#DATE       19860807
+#REACTION   49-IN-115(N,G)49-IN-116-M1,M+,SIG
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         459
+#PRODUCT    49-IN-116-M1
+#C4BEGIN    [    1 49115   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3 459 A  1.5000+7          7.0000-4 3.0000-4           49116.1                     K.Ponnert+           (74)20781  2 
+#/DATA      1
+#/DATASET

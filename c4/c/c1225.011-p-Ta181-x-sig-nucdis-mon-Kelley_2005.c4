@@ -1,0 +1,32 @@
+#ENTRY      C1225
+#AUTHOR1    K.C.Kelley+
+#YEAR       2005
+#INSTITUTE  (1USAGIT)
+#TITLE      148Gd production cross section measurements for 600-
+#+          and 800-MeV protons on tantalum, tungsten, and gold
+#AUTHOR(S)  K.C.Kelley, N.E.Hertel, E.J.Pitcher, M.Devlin, S.G.Mashnik
+#REF-CODE   (J,NP/A,760,225,2005)
+#REFERENCE  Nucl.Phys.A 760 (2005) 225 (doi:10.1016/j.nuclphysa.2005.06.002)
+#DATASETS   0
+#
+#DATASET    C1225011 
+#DATE       20111127
+#REACTION   73-TA-181(P,X)ELEM/MASS,,SIG
+#PROJ       1001
+#TARG       73181
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 73181   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 73181   3 454    6.0000+8          1.6300-4 1.8000-5           21046.9                     K.C.Kelley+          (05)C1225 11 
+ 1001 73181   3 454    6.0000+8          1.5400-4 1.7000-5           25054.9                     K.C.Kelley+          (05)C1225 11 
+ 1001 73181   3 454    6.0000+8          3.3200-4 6.6000-5           33074.9                     K.C.Kelley+          (05)C1225 11 
+ 1001 73181   3 454    6.0000+8          2.0800-4 5.5000-5           45102.9                     K.C.Kelley+          (05)C1225 11 
+ 1001 73181   3 454    6.0000+8          1.0000-3 1.6000-4           61146.9                     K.C.Kelley+          (05)C1225 11 
+ 1001 73181   3 454    6.0000+8          9.3300-4 9.6000-5           63148.9                     K.C.Kelley+          (05)C1225 11 
+ 1001 73181   3 454    6.0000+8          1.3000-3 7.0000-5           69168.9                     K.C.Kelley+          (05)C1225 11 
+ 1001 73181   3 454    6.0000+8          4.3600-3 4.8000-4           71174.9                     K.C.Kelley+          (05)C1225 11 
+#/DATA      8
+#/DATASET

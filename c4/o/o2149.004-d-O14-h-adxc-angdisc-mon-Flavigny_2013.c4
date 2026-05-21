@@ -1,0 +1,55 @@
+#ENTRY      O2149
+#AUTHOR1    F.Flavigny+
+#YEAR       2013
+#INSTITUTE  (2FR SAC)
+#TITLE      Limited asymmetry dependence of correlations from
+#+          single nucleon transfer.
+#AUTHOR(S)  F.Flavigny, A.Gillibert, L.Nalpas, A.Obertelli, N.Keeley, 
+#+          C.Barbieri, D.Beaumel, S.Boissinot, G.Burgunder, A.Cipollone, 
+#+          A.Corsi, J.Gibelin, S.Giron, J.Guillot, F.Hammache, V.Lapoux, 
+#+          A.Matta, E.C.Pollacco, R.Raabe, M.Rejmund, N.de Sereville, 
+#+          A.Shrivastava, A.Signoracci, Y.Utsuno
+#REF-CODE   (J,PRL,110,122503,2013)
+#REFERENCE  Phys.Rev.Lett. 110 (2013) 122503 (doi:10.1103/PhysRevLett.110.122503)
+#DATASETS   0
+#
+#DATASET    O2149004 
+#DATE       20091027
+#REACTION   (1-H-2(8-O-14,HE3)7-N-13,PAR,DA,RSD)=(8-O-14(D,HE3)7-N-13,PAR,DA)
+#PROJ       1002
+#TARG       8014
+#MF         4
+#MT         750
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1002  8014   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8014   4 750  C 3.6000+7          0.027900 3.6200-3 0.991581 3.5030-3 0.000000         LVLF.Flavigny+          (13)O2149  4 
+ 1002  8014   4 750  C 3.6000+7          0.020200 4.9300-3 0.983350 4.5989-3 0.000000         LVLF.Flavigny+          (13)O2149  4 
+ 1002  8014   4 750  C 3.6000+7          0.012900 2.5400-3 0.972370 6.1116-3 0.000000         LVLF.Flavigny+          (13)O2149  4 
+ 1002  8014   4 750  C 3.6000+7          6.4100-3 1.9300-3 0.958572 7.4574-3 0.000000         LVLF.Flavigny+          (13)O2149  4 
+ 1002  8014   4 750  C 3.6000+7          1.9000-3 1.2200-3 0.942932 8.7175-3 0.000000         LVLF.Flavigny+          (13)O2149  4 
+#/DATA      5
+#/DATASET
+#
+#DATASET    O2149004 
+#DATE       20091027
+#REACTION   (1-H-2(8-O-14,HE3)7-N-13,PAR,DA,RSD)=(8-O-14(D,HE3)7-N-13,PAR,DA)
+#PROJ       1002
+#TARG       8014
+#MF         4
+#MT         750
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1002  8014   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8014   4 750  C 3.6000+7          0.014400 4.1300-3 0.996917 2.1636-3 3500000.         LVLF.Flavigny+          (13)O2149  4 
+ 1002  8014   4 750  C 3.6000+7          0.013000 2.7500-3 0.991308 3.3295-3 3500000.         LVLF.Flavigny+          (13)O2149  4 
+ 1002  8014   4 750  C 3.6000+7          0.010200 2.3200-3 0.983000 4.3582-3 3500000.         LVLF.Flavigny+          (13)O2149  4 
+ 1002  8014   4 750  C 3.6000+7          8.3000-3 1.7700-3 0.972329 6.2383-3 3500000.         LVLF.Flavigny+          (13)O2149  4 
+ 1002  8014   4 750  C 3.6000+7          3.8000-3 1.0900-3 0.958820 7.1381-3 3500000.         LVLF.Flavigny+          (13)O2149  4 
+ 1002  8014   4 750  C 3.6000+7          2.2100-3 9.4500-4 0.942874 8.8962-3 3500000.         LVLF.Flavigny+          (13)O2149  4 
+#/DATA      6
+#/DATASET

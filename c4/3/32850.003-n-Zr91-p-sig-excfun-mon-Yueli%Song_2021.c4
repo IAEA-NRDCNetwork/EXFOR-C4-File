@@ -1,0 +1,32 @@
+#ENTRY      32850
+#AUTHOR1    Yueli Song+
+#YEAR       2021
+#INSTITUTE  (3CPRPDU)
+#TITLE      Methods to subtract the effect of the decay of
+#+          different nuclear reaction products on the
+#+          cross-section measurements and their application to
+#+          the reactions studied
+#AUTHOR(S)  Yueli Song, Fengqun Zhou, Yong Li, Xiaopeng Zhang, Mingli Tian, 
+#+          Shuqing Yuan, Xinyi Chang
+#REF-CODE   (J,PR/C,103,014611,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 014611 (doi:10.1103/PhysRevC.103.014611)
+#DATASETS   0
+#
+#DATASET    32850003 
+#DATE       20250730
+#REACTION   40-ZR-91(N,P)39-Y-91-M,,SIG
+#PROJ       1
+#TARG       40091
+#MF         3
+#MT         103
+#PRODUCT    39-Y-91-M
+#C4BEGIN    [    1 40091   3 103MC]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40091   3 103MC  1.3500+7 300000.0 0.015500 7.0000-4                                       Yueli Song+          (21)32850  3 
+    1 40091   3 103MC  1.4100+7 200000.0 0.017500 8.0000-4                                       Yueli Song+          (21)32850  3 
+    1 40091   3 103MC  1.4400+7 300000.0 0.016600 8.0000-4                                       Yueli Song+          (21)32850  3 
+    1 40091   3 103MC  1.4800+7 200000.0 0.018600 9.0000-4                                       Yueli Song+          (21)32850  3 
+#/DATA      4
+#/DATASET

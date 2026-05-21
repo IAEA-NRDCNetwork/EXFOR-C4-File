@@ -1,0 +1,29 @@
+#ENTRY      10445
+#AUTHOR1    L.R.Veeser+
+#YEAR       1977
+#INSTITUTE  (1USALAS)
+#TITLE      Cross sections for (n,2n) and (n,3n) reaction above
+#+          14 MeV
+#AUTHOR(S)  L.R.Veeser, E.D.Arthur, P.G.Young
+#REF-CODE   (J,PR/C,16,1792,197711)
+#REFERENCE  Phys.Rev.C 16 (1977) 1792 (doi:10.1103/PhysRevC.16.1792)
+#DATASETS   0
+#
+#DATASET    10445012 
+#DATE       20030530
+#REACTION   27-CO-59(N,3N)27-CO-57,,SIG
+#PROJ       1
+#TARG       27059
+#MF         3
+#MT         17
+#PRODUCT    27-CO-57
+#C4BEGIN    [    1 27059   3  17 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   3  17 A  2.1000+7 120000.0 0.021000 0.011000                                       L.R.Veeser+          (77)10445 12 
+    1 27059   3  17 A  2.2000+7 100000.0 0.039000 0.015000                                       L.R.Veeser+          (77)10445 12 
+    1 27059   3  17 A  2.3000+7 70000.00 0.081000 0.020000                                       L.R.Veeser+          (77)10445 12 
+    1 27059   3  17 A  2.4000+7 60000.00 0.112000 0.030000                                       L.R.Veeser+          (77)10445 12 
+#/DATA      4
+#/DATASET

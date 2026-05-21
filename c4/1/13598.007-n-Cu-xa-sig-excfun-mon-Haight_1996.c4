@@ -1,0 +1,26 @@
+#ENTRY      13598
+#AUTHOR1    R.C.Haight+
+#YEAR       1996
+#INSTITUTE  (1USALAS)
+#TITLE      Helium production by 9.85-MeV neutrons in elemental
+#+          iron, nickel, and copper and in 56Fe and 58,60,61Ni
+#AUTHOR(S)  R.C.Haight, D.W.Kneff, B.M.Oliver, L.R.Greenwood, H.Vonach
+#REF-CODE   (J,NSE,124,219,199610)
+#REFERENCE  Nucl.Sci.Eng. 124 (1996) 219 (doi:10.13182/NSE96-A28573)
+#DATASETS   0
+#
+#DATASET    13598007 
+#DATE       19970204
+#REACTION   29-CU-0(N,X)2-HE-4,,SIG
+#PROJ       1
+#TARG       29000
+#MF         3
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1 29000   3 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   3 207    9850000. 300000.0 0.021200 1.4000-3                                       R.C.Haight+          (96)13598  7 
+#/DATA      1
+#/DATASET

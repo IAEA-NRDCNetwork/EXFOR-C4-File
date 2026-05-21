@@ -1,0 +1,35 @@
+#ENTRY      D4332
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2015
+#INSTITUTE  (3HUNDEB)
+#TITLE      Extension of the energy range of experimental
+#+          activation cross-sections data of deuteron induced
+#+          nuclear reactions on indium up to 50 MeV
+#AUTHOR(S)  F.Tarkanyi, F.Ditroi, S.Takacs, A.Hermanne, A.V.Ignatyuk
+#REF-CODE   (J,ARI,105,26,2015)
+#REFERENCE  Appl.Radiat.Isot. 105 (2015) 26 (doi:10.1016/j.apradiso.2015.07.015)
+#DATASETS   0
+#
+#DATASET    D4332006 
+#DATE       20160504
+#REACTION   49-IN-0(D,X)49-IN-114-M,,SIG
+#PROJ       1002
+#TARG       49000
+#MF         3
+#MT         454
+#PRODUCT    49-IN-114-M
+#C4BEGIN    [ 1002 49000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 49000   3 454    3.2120+7 670000.0 0.232400 0.026600           49114.7                     F.Tarkanyi+          (15)D4332  6 
+ 1002 49000   3 454    3.3970+7 630000.0 0.247600 0.028200           49114.7                     F.Tarkanyi+          (15)D4332  6 
+ 1002 49000   3 454    3.5750+7 590000.0 0.275200 0.031000           49114.7                     F.Tarkanyi+          (15)D4332  6 
+ 1002 49000   3 454    3.8220+7 540000.0 0.293400 0.033400           49114.7                     F.Tarkanyi+          (15)D4332  6 
+ 1002 49000   3 454    4.0580+7 490000.0 0.297800 0.033900           49114.7                     F.Tarkanyi+          (15)D4332  6 
+ 1002 49000   3 454    4.2840+7 440000.0 0.294300 0.033500           49114.7                     F.Tarkanyi+          (15)D4332  6 
+ 1002 49000   3 454    4.5010+7 390000.0 0.295800 0.033600           49114.7                     F.Tarkanyi+          (15)D4332  6 
+ 1002 49000   3 454    4.7110+7 340000.0 0.267500 0.030500           49114.7                     F.Tarkanyi+          (15)D4332  6 
+ 1002 49000   3 454    4.9140+7 300000.0 0.269000 0.030600           49114.7                     F.Tarkanyi+          (15)D4332  6 
+#/DATA      9
+#/DATASET

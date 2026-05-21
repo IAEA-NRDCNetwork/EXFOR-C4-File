@@ -1,0 +1,31 @@
+#ENTRY      E1923
+#AUTHOR1    H.Yashima+
+#YEAR       2004
+#INSTITUTE  (2JPNTOH)
+#TITLE      Cross sections for the production of residual nuclides
+#+          by high-energy heavy ions
+#AUTHOR(S)  H.Yashima, Y.Uwamino, H.Iwase, H.Sugita, T.Nakamura, S.Ito, 
+#+          A.Fukumura
+#REF-CODE   (J,NIM/B,226,243,2004)
+#REFERENCE  Nucl.Instrum.Meth.B 226 (2004) 243 (doi:10.1016/j.nimb.2004.06.025)
+#DATASETS   0
+#
+#DATASET    E1923119 
+#DATE       20060411
+#REACTION   82-PB-0(18-AR-40,X)ELEM/MASS,CUM,SIG
+#PROJ       18040
+#TARG       82000
+#MF         3
+#MT         459
+#C4BEGIN    [18040 82000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 82000   3 459    1.600+10          0.013400 1.0000-3           12028.9                     H.Yashima+           (04)E1923119 
+18040 82000   3 459    1.600+10          0.015900 9.0000-4           18041.9                     H.Yashima+           (04)E1923119 
+18040 82000   3 459    1.600+10          3.9800-3 2.6000-4           26059.9                     H.Yashima+           (04)E1923119 
+18040 82000   3 459    1.600+10          0.055900 1.6000-3           81202.9                     H.Yashima+           (04)E1923119 
+18040 82000   3 459    1.600+10          0.105000 2.0000-3           82201.9                     H.Yashima+           (04)E1923119 
+18040 82000   3 459    1.600+10          0.055300 1.7000-3           83204.9                     H.Yashima+           (04)E1923119 
+#/DATA      6
+#/DATASET

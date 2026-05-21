@@ -1,0 +1,39 @@
+#ENTRY      10934
+#AUTHOR1    W.P.Poenitz+
+#YEAR       1979
+#INSTITUTE  (1USAANL)
+#TITLE      Fast neutron capture cross section measurements,
+#+          evaluation and model calculations of fission product
+#+          nuclei
+#AUTHOR(S)  W.P.Poenitz
+#REF-CODE   (C,79BOLOGN,,85,1979)
+#REFERENCE  Proceedings of Meet.Neutr.Cross Sect.of Fiss.Prod.Nucl.,Bologna 1979 page 85
+#DATASETS   0
+#
+#DATASET    10934003 
+#DATE       19810820
+#REACTION   62-SM-0(N,G),,SIG
+#PROJ       1
+#TARG       62000
+#MF         3
+#MT         102
+#C4BEGIN    [    1 62000   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 62000   3 102 A  500000.0          0.164000 0.016000                                       W.P.Poenitz          (79)10934  3 
+    1 62000   3 102 A  600000.0          0.157000 0.017000                                       W.P.Poenitz          (79)10934  3 
+    1 62000   3 102 A  700000.0          0.152000 0.018000                                       W.P.Poenitz          (79)10934  3 
+    1 62000   3 102 A  850000.0          0.137000 0.018000                                       W.P.Poenitz          (79)10934  3 
+    1 62000   3 102 A  1000000.          0.126000 0.014000                                       W.P.Poenitz          (79)10934  3 
+    1 62000   3 102 A  1300000.          0.110000 0.012000                                       W.P.Poenitz          (79)10934  3 
+    1 62000   3 102 A  1400000.          0.087000 0.010000                                       W.P.Poenitz          (79)10934  3 
+    1 62000   3 102 A  1500000.          0.092000 0.010000                                       W.P.Poenitz          (79)10934  3 
+    1 62000   3 102 A  1700000.          0.085000 9.0000-3                                       W.P.Poenitz          (79)10934  3 
+    1 62000   3 102 A  2000000.          0.077000 0.010000                                       W.P.Poenitz          (79)10934  3 
+    1 62000   3 102 A  2500000.          0.062000 0.010000                                       W.P.Poenitz          (79)10934  3 
+    1 62000   3 102 A  3000000.          0.044000 9.0000-3                                       W.P.Poenitz          (79)10934  3 
+    1 62000   3 102 A  3500000.          0.028000 4.0000-3                                       W.P.Poenitz          (79)10934  3 
+    1 62000   3 102 A  4000000.          0.019000 3.0000-3                                       W.P.Poenitz          (79)10934  3 
+#/DATA      14
+#/DATASET

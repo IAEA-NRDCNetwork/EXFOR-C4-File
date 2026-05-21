@@ -1,0 +1,28 @@
+#ENTRY      11856
+#AUTHOR1    E.E.Carroll+
+#YEAR       1966
+#INSTITUTE  (1USABET)
+#TITLE      Zirconium (n,p) cross-section measurements.
+#AUTHOR(S)  E.E.Carroll, R.W.Stooksberry
+#REF-CODE   (J,NSE,25,285,1966)
+#REFERENCE  Nucl.Sci.Eng. 25 (1966) 285 (doi:10.13182/NSE66-A17836)
+#DATASETS   0
+#
+#DATASET    11856004 
+#DATE       20200503
+#REACTION   40-ZR-91(N,P)39-Y-91,,SIG
+#PROJ       1
+#TARG       40091
+#MF         3
+#MT         103
+#PRODUCT    39-Y-91
+#C4BEGIN    [    1 40091   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40091   3 103    4320000. 280000.0 1.0000-4 1.0000-4                                       E.E.Carroll+         (66)11856  4 
+    1 40091   3 103    4930000. 320000.0 8.0000-4 4.0000-4                                       E.E.Carroll+         (66)11856  4 
+    1 40091   3 103    5490000. 340000.0 1.2000-3 2.0000-4                                       E.E.Carroll+         (66)11856  4 
+    1 40091   3 103    6020000. 360000.0 2.2000-3 3.0000-4                                       E.E.Carroll+         (66)11856  4 
+#/DATA      4
+#/DATASET

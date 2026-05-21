@@ -1,0 +1,33 @@
+#ENTRY      23393
+#AUTHOR1    A.Stamatopoulos+
+#YEAR       2018
+#INSTITUTE  (2GRCTUA)
+#TITLE      Measurement of the 234U(n,f) cross-section with
+#+          quasimonoenergetic beams in the keV and MeV range using
+#+          a Micromegas detector assembly
+#AUTHOR(S)  A.Stamatopoulos, A.Kanellakopoulos, A.Kalamara, M.Diakaki, 
+#+          A.Tsinganis, M.Kokkoris, V.Michalopoulou, M.Axiotis, A.Lagoyiannis, 
+#+          R.Vlastou
+#REF-CODE   (J,EPJ/A,54,7,2018)
+#REFERENCE  Eur.Phys.J.A 54 (2018) 7 (doi:10.1140/epja/i2018-12429-2)
+#DATASETS   0
+#
+#DATASET    23393002 
+#DATE       20180411
+#REACTION   92-U-234(N,F),,SIG
+#PROJ       1
+#TARG       92234
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92234   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92234   3  18    425000.0 8000.000 0.415000 0.028000                                       A.Stamatopoulos+     (18)23393  2 
+    1 92234   3  18    550000.0 8000.000 0.871000 0.050000                                       A.Stamatopoulos+     (18)23393  2 
+    1 92234   3  18    651000.0 8000.000 0.993000 6.0000-3                                       A.Stamatopoulos+     (18)23393  2 
+    1 92234   3  18    7500000. 100000.0 1.900000 0.040000                                       A.Stamatopoulos+     (18)23393  2 
+    1 92234   3  18    8700000. 100000.0 2.170000 0.030000                                       A.Stamatopoulos+     (18)23393  2 
+    1 92234   3  18    1.0000+7 100000.0 2.130000 0.040000                                       A.Stamatopoulos+     (18)23393  2 
+#/DATA      6
+#/DATASET

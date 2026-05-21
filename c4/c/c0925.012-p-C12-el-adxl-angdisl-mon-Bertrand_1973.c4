@@ -1,0 +1,80 @@
+#ENTRY      C0925
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1973
+#INSTITUTE  (1USAORL)
+#TITLE      Complete Hydrogen and Helium particle spectra from 30-
+#+          to 60-MeV proton bombardment of nuclei with A=12 to
+#+          209 and comparison with intranuclear cascade model
+#AUTHOR(S)  F.E.Bertrand, R.W.Peelle
+#REF-CODE   (J,PR/C,8,1045,1973)
+#REFERENCE  Phys.Rev.C 8 (1973) 1045 (doi:10.1103/PhysRevC.8.1045)
+#DATASETS   0
+#
+#DATASET    C0925012 
+#DATE       20110125
+#REACTION   6-C-12(P,EL)6-C-12,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4   2    6.1000+7          0.669000 1.3380-3 0.974370                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          0.599000 5.9900-4 0.959805                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          0.347000 1.3880-3 0.923210                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          0.133000 3.9900-3 0.890213                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          0.067400 2.0220-4 0.844328                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          0.023500 9.4000-5 0.789084                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          7.0100-3 9.8140-5 0.727773                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          5.9100-3 5.9100-5 0.662620                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          3.6200-3 5.4300-5 0.590606                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          2.9000-3 4.0600-5 0.513541                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          2.2000-3 1.5400-5 0.433659                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          9.5000-4 2.4700-5 0.350207                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          4.9000-4 2.4500-5 0.263873                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          3.7100-4 1.0017-5 0.177085                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          3.0500-4 1.5250-5 0.088894                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          1.7700-4 7.9650-6-0.088894                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          4.7000-5 2.5850-6-0.419452                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          2.0000-5 2.4200-6-0.750111                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    6.1000+7          5.6000-6 1.5120-6-0.949425                              F.E.Bertrand+        (73)C0925 12 
+#/DATA      19
+#/DATASET
+#
+#DATASET    C0925012 
+#DATE       20110125
+#REACTION   6-C-12(P,EL)6-C-12,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4   2    3.9000+7          0.017900 5.3700-5 0.663926                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    3.9000+7          9.9000-3 2.9700-5 0.435231                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    3.9000+7          1.4000-3 7.0000-6-0.087156                              F.E.Bertrand+        (73)C0925 12 
+#/DATA      3
+#/DATASET
+#
+#DATASET    C0925012 
+#DATE       20110125
+#REACTION   6-C-12(P,EL)6-C-12,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4   2    2.9000+7          0.935000 1.8700-3 0.977783                              F.E.Bertrand+        (73)C0925 12 
+ 1001  6012   4   2    2.9000+7          0.268000 5.3600-4 0.844328                              F.E.Bertrand+        (73)C0925 12 
+#/DATA      2
+#/DATASET

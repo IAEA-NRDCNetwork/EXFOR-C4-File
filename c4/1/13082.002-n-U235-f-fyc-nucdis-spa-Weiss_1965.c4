@@ -1,0 +1,27 @@
+#ENTRY      13082
+#AUTHOR1    H.V.Weiss+
+#YEAR       1965
+#INSTITUTE  (1USANRD)
+#TITLE      Near-symmetric fission-identification and yield of
+#+          Cd121.
+#AUTHOR(S)  H.V.Weiss
+#REF-CODE   (J,PR,139,B304,1965)
+#REFERENCE  Phys.Rev. 139 (1965) B304 (doi:10.1103/PhysRev.139.B304)
+#DATASETS   0
+#
+#DATASET    13082002 
+#DATE       20210103
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025300          6.4000-5 5.0000-6 48.00000 121.0000 0.000000            H.V.Weiss            (65)13082  2 
+    1 92235   8 459    0.025300          3.2000-5          49.00000 121.0000 1.000000            H.V.Weiss            (65)13082  2 
+    1 92235   8 459    0.025300          1.1000-4 1.0000-5 50.00000 121.0000 0.000000            H.V.Weiss            (65)13082  2 
+#/DATA      3
+#/DATASET

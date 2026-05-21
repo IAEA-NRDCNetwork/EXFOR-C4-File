@@ -1,0 +1,40 @@
+#ENTRY      F0078
+#AUTHOR1    H.D.Holmgren+
+#YEAR       1954
+#INSTITUTE  (1USAMIN)
+#TITLE      Differential cross sections for the 12C(d,p)13C and
+#+          13C(d,t)12C reactions
+#AUTHOR(S)  H.D.Holmgren, J.M.Blair, B.E.Simmons, T.F.Stratton, R.V.Stuart
+#REF-CODE   (J,PR,95,1544,1954)
+#REFERENCE  Phys.Rev. 95 (1954) 1544 (doi:10.1103/PhysRev.95.1544)
+#DATASETS   0
+#
+#DATASET    F0078003 
+#DATE       20200423
+#REACTION   6-C-12(D,P)6-C-13,,DA
+#PROJ       1002
+#TARG       6012
+#MF         4
+#MT         103
+#PRODUCT    6-C-13
+#C4BEGIN    [ 1002  6012   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6012   4 103  C 3290000.          0.011600          0.995562                              H.D.Holmgren+        (54)F0078  3 
+ 1002  6012   4 103  C 3290000.          0.013900          0.982287                              H.D.Holmgren+        (54)F0078  3 
+ 1002  6012   4 103  C 3290000.          0.017800          0.960294                              H.D.Holmgren+        (54)F0078  3 
+ 1002  6012   4 103  C 3290000.          0.019300          0.929776                              H.D.Holmgren+        (54)F0078  3 
+ 1002  6012   4 103  C 3290000.          0.021100          0.891007                              H.D.Holmgren+        (54)F0078  3 
+ 1002  6012   4 103  C 3290000.          0.018500          0.845262                              H.D.Holmgren+        (54)F0078  3 
+ 1002  6012   4 103  C 3290000.          0.014100          0.731354                              H.D.Holmgren+        (54)F0078  3 
+ 1002  6012   4 103  C 3290000.          9.4000-3          0.593419                              H.D.Holmgren+        (54)F0078  3 
+ 1002  6012   4 103  C 3290000.          6.9000-3          0.438371                              H.D.Holmgren+        (54)F0078  3 
+ 1002  6012   4 103  C 3290000.          5.9000-3          0.268920                              H.D.Holmgren+        (54)F0078  3 
+ 1002  6012   4 103  C 3290000.          5.9000-3          0.094108                              H.D.Holmgren+        (54)F0078  3 
+ 1002  6012   4 103  C 3290000.          6.2000-3         -0.080199                              H.D.Holmgren+        (54)F0078  3 
+ 1002  6012   4 103  C 3290000.          9.1000-3         -0.333807                              H.D.Holmgren+        (54)F0078  3 
+ 1002  6012   4 103  C 3290000.          0.010900         -0.559193                              H.D.Holmgren+        (54)F0078  3 
+ 1002  6012   4 103  C 3290000.          0.011900         -0.746638                              H.D.Holmgren+        (54)F0078  3 
+#/DATA      15
+#/DATASET

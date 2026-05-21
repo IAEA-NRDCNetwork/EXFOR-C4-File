@@ -1,0 +1,35 @@
+#ENTRY      22081
+#AUTHOR1    J.Chardine+
+#YEAR       1986
+#INSTITUTE  (2FR BRC)
+#TITLE      -NEUTRON ELASTIC AND INELASTIC SCATTERING FROM N-14
+#+          BETWEEN 7.7 AND 13.5 MEV.
+#AUTHOR(S)  J.Chardine, G.Haouat, S.Seguin, C.Humeau
+#REF-CODE   (R,CEA-N-2506,86)
+#REFERENCE  Report CEA-N-2506, 1986
+#DATASETS   0
+#
+#DATASET    22081083 
+#DATE       19881216
+#REACTION   7-N-14(N,EL)7-N-14,,SIG
+#PROJ       1
+#TARG       7014
+#MF         3
+#MT         2
+#PRODUCT    7-N-14
+#C4BEGIN    [    1  7014   3   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  7014   3   2    7700000. 50000.00 0.980240 0.033328                                       J.Chardine+          (86)22081 83 
+    1  7014   3   2    7900000. 50000.00 1.076100 0.040892                                       J.Chardine+          (86)22081 83 
+    1  7014   3   2    8120000. 50000.00 0.845050 0.030422                                       J.Chardine+          (86)22081 83 
+    1  7014   3   2    9000000. 50000.00 0.925230 0.035159                                       J.Chardine+          (86)22081 83 
+    1  7014   3   2    1.0300+7 50000.00 0.886480 0.036346                                       J.Chardine+          (86)22081 83 
+    1  7014   3   2    1.0650+7 50000.00 0.807330 0.027449                                       J.Chardine+          (86)22081 83 
+    1  7014   3   2    1.1100+7 50000.00 0.880170 0.036087                                       J.Chardine+          (86)22081 83 
+    1  7014   3   2    1.1500+7 50000.00 0.839340 0.029377                                       J.Chardine+          (86)22081 83 
+    1  7014   3   2    1.2400+7 50000.00 0.971590 0.042750                                       J.Chardine+          (86)22081 83 
+    1  7014   3   2    1.4500+7 50000.00 1.002500 0.045112                                       J.Chardine+          (86)22081 83 
+#/DATA      10
+#/DATASET

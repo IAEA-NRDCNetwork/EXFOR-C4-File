@@ -1,0 +1,36 @@
+#ENTRY      F1309
+#AUTHOR1    Yu.G.Sobolev+
+#YEAR       2005
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Energy dependence of total reaction cross section for
+#+          4,6He, 7Li+28Si interaction at E=5-50 MeV/nucleon
+#AUTHOR(S)  Yu.G.Sobolev, A.Budzanowski, E.Bialkowski, T.K.Zholdybaev, 
+#+          E.V.Zemlyanaya, R.Kalpakchieva, A.Kugler, I.V.Kuznetsov, 
+#+          A.A.Kulko, K.A.Kuterbekov, I.N.Kukhtina, V.F.Kushniruk, 
+#+          S.P.Lobastov, V.K.Luk'yanov, S.M.Luk'yanov, V.A.Maslov, 
+#+          L.Mikhailov, Yu.E.Penionzhkevich, I.Skwirczynska, N.K.Skobelev, 
+#+          W.H.Trzaska, V.Yu.Ugryumov
+#REF-CODE   (J,IZV,69,1603,2005)
+#REFERENCE  Izv.Ross.AN,Fiz. 69 (2005) 1603
+#DATASETS   0
+#
+#DATASET    F1309004 
+#DATE       20200324
+#REACTION   14-SI-28(3-LI-7,NON),,SIG
+#PROJ       3007
+#TARG       14028
+#MF         3
+#MT         3
+#C4BEGIN    [ 3007 14028   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 14028   3   3    7.0000+7 7000000. 1.516000 0.060000                                       Yu.G.Sobolev+        (05)F1309  4 
+ 3007 14028   3   3    9.5200+7 7000000. 1.565000 0.060000                                       Yu.G.Sobolev+        (05)F1309  4 
+ 3007 14028   3   3    1.1480+8 7000000. 1.559000 0.040000                                       Yu.G.Sobolev+        (05)F1309  4 
+ 3007 14028   3   3    1.2950+8 4200000. 1.562000 0.040000                                       Yu.G.Sobolev+        (05)F1309  4 
+ 3007 14028   3   3    1.4000+8 4900000. 1.558000 0.050000                                       Yu.G.Sobolev+        (05)F1309  4 
+ 3007 14028   3   3    1.6030+8 4200000. 1.589000 0.060000                                       Yu.G.Sobolev+        (05)F1309  4 
+ 3007 14028   3   3    2.1140+8 3500000. 1.562000 0.086000                                       Yu.G.Sobolev+        (05)F1309  4 
+#/DATA      7
+#/DATASET

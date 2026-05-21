@@ -1,0 +1,30 @@
+#ENTRY      E1242
+#AUTHOR1    M.Noguchi+
+#YEAR       1988
+#INSTITUTE  (2JPNKEK)
+#TITLE      Nuclear reactions of 48Ti, 56Fe, 57Fe, 58Ni, 60Ni,
+#+          63Cu, and 65Cu by 12-GeV protons
+#AUTHOR(S)  M.Noguchi, H.Hirabayashi, K.Katoh, K.Kondo, M.Takasaki, 
+#+          Y.Asano, S.Mori, M.Sakano
+#REF-CODE   (J,PR/C,38,(4),1811,198810)
+#REFERENCE  Phys.Rev.C 38 No.4 (1988) 1811 (doi:10.1103/PhysRevC.38.1811)
+#DATASETS   0
+#
+#DATASET    E1242002 
+#DATE       20080131
+#REACTION   22-TI-48(P,X)ELEM/MASS,IND,SIG
+#PROJ       1001
+#TARG       22048
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 22048   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22048   3 454    1.200+10          6.8000-3 4.0000-4           19042.9                     M.Noguchi+           (88)E1242  2 
+ 1001 22048   3 454    1.200+10          6.0000-3 3.0000-4           21044.0                     M.Noguchi+           (88)E1242  2 
+ 1001 22048   3 454    1.200+10          3.1000-3 2.0000-4           21044.1                     M.Noguchi+           (88)E1242  2 
+ 1001 22048   3 454    1.200+10          0.021000 1.1000-3           21046.9                     M.Noguchi+           (88)E1242  2 
+ 1001 22048   3 454    1.200+10          3.0000-4 2.0000-5           21048.9                     M.Noguchi+           (88)E1242  2 
+#/DATA      5
+#/DATASET

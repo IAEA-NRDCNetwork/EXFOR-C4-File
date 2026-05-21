@@ -1,0 +1,27 @@
+#ENTRY      20739
+#AUTHOR1    H.Braun+
+#YEAR       1968
+#INSTITUTE  (2GERKFK)
+#TITLE      -FISSION SPECTRUM AVERAGE CROSS SECTIONS FOR THE
+#+          (N,P)-,(N,A)- AND (N,2N)-REACTIONS OF CO-59, NI-58,
+#+          FE-54 AND Y-89.- (IN GERMAN).
+#AUTHOR(S)  H.Braun, L.Nagy
+#REF-CODE   (J,RCA,10,15,68)
+#REFERENCE  Radiochim.Acta 10 (1968) 15 (doi:10.1524/ract.1968.10.12.15)
+#DATASETS   0
+#
+#DATASET    20739007 
+#DATE       19840201
+#REACTION   28-NI-58(N,P)27-CO-58,,SIG,,FIS
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         103
+#PRODUCT    27-CO-58
+#C4BEGIN    [    1 28058   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3 103    1500000.          0.075700 9.0840-3                                       H.Braun+             (68)20739  7 
+#/DATA      1
+#/DATASET

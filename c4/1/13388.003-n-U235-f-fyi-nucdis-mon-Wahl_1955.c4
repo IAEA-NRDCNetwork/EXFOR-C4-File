@@ -1,0 +1,29 @@
+#ENTRY      13388
+#AUTHOR1    A.C.Wahl+
+#YEAR       1955
+#INSTITUTE  (1USALAS)
+#TITLE      Fission of U-235 by 14-MeV neutrons: nuclear charge
+#+          distribution and yield fine structure
+#AUTHOR(S)  A.C.Wahl
+#REF-CODE   (J,PR,99,730,1955)
+#REFERENCE  Phys.Rev. 99 (1955) 730 (doi:10.1103/PhysRev.99.730)
+#DATASETS   0
+#
+#DATASET    13388003 
+#DATE       20201222
+#REACTION   92-U-235(N,F)ELEM/MASS,IND,FY
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         454
+#C4BEGIN    [    1 92235   8 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 454 D  1.4000+7          0.044700          53.00000 131.0000 9.000000            A.C.Wahl             (55)13388  3 
+    1 92235   8 454 D  1.4000+7          0.050300          53.00000 132.0000 9.000000            A.C.Wahl             (55)13388  3 
+    1 92235   8 454 D  1.4000+7          0.053600          53.00000 133.0000 9.000000            A.C.Wahl             (55)13388  3 
+    1 92235   8 454 D  1.4000+7          0.052000          53.00000 134.0000 9.000000            A.C.Wahl             (55)13388  3 
+    1 92235   8 454 D  1.4000+7          0.043500          53.00000 135.0000 9.000000            A.C.Wahl             (55)13388  3 
+#/DATA      5
+#/DATASET

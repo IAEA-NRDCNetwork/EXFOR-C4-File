@@ -1,0 +1,27 @@
+#ENTRY      20748
+#AUTHOR1    J.L.Casanova+
+#YEAR       1976
+#INSTITUTE  (2SPNVLD)
+#TITLE      Measurement of the (n,p),(n,alpha),(n,2n)
+#+          cross sections of Zn,Ga,Ge,As,and Se for 14.1 MeV
+#+          neutrons, and (n,p) cross section analysis
+#AUTHOR(S)  J.L.Casanova, M.L.Sanchez
+#REF-CODE   (J,ARS,72,(3),186,197607)
+#REFERENCE  An.Fis. 72 No.3 (1976) 186
+#DATASETS   0
+#
+#DATASET    207480201
+#DATE       20080416
+#REACTION   32-GE-76(N,2N)32-GE-75-M,,SIG
+#PROJ       1
+#TARG       32076
+#MF         3
+#MT         16
+#PRODUCT    32-GE-75-M
+#C4BEGIN    [    1 32076   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32076   3  16M   1.4100+7          0.770000 0.080000                                       J.L.Casanova+        (76)20748 201
+#/DATA      1
+#/DATASET

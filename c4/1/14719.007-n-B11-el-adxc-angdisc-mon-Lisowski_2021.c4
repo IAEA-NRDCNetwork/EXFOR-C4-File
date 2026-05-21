@@ -1,0 +1,33 @@
+#ENTRY      14719
+#AUTHOR1    P.W.Lisowski+
+#YEAR       2021
+#INSTITUTE  (1USALAS)
+#TITLE      Cross Sections for Neutron Production from 6- and
+#+          10-MeV Neutrons Incident on 10B and 11B
+#AUTHOR(S)  P.W.Lisowski, M.Drosg, D.M.Drake, B.Hoop
+#REF-CODE   (J,NSE,195,1131,2021)
+#REFERENCE  Nucl.Sci.Eng. 195 (2021) 1131 (doi:10.1080/00295639.2021.1906588)
+#DATASETS   0
+#
+#DATASET    14719007 
+#DATE       20211102
+#REACTION   5-B-11(N,EL)5-B-11,,DA
+#PROJ       1
+#TARG       5011
+#MF         4
+#MT         2
+#PRODUCT    5-B-11
+#C4BEGIN    [    1  5011   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5011   4   2  C 1.0000+7 15000.00 0.376000 3.3840-3 0.928486 6.4816-4                     P.W.Lisowski+        (21)14719  7 
+    1  5011   4   2  C 1.0000+7 15000.00 0.293000 2.6370-3 0.871214 8.5679-4                     P.W.Lisowski+        (21)14719  7 
+    1  5011   4   2  C 1.0000+7 15000.00 0.083200 7.4880-4 0.661312 1.3092-3                     P.W.Lisowski+        (21)14719  7 
+    1  5011   4   2  C 1.0000+7 15000.00 0.022500 2.0250-4 0.430511 1.5753-3                     P.W.Lisowski+        (21)14719  7 
+    1  5011   4   2  C 1.0000+7 15000.00 0.026400 2.3760-4 0.171929 1.7193-3                     P.W.Lisowski+        (21)14719  7 
+    1  5011   4   2  C 1.0000+7 15000.00 0.046200 4.1580-4-0.425779 1.5792-3                     P.W.Lisowski+        (21)14719  7 
+    1  5011   4   2  C 1.0000+7 15000.00 0.024600 2.2140-4-0.695913 1.2534-3                     P.W.Lisowski+        (21)14719  7 
+    1  5011   4   2  C 1.0000+7 15000.00 0.019100 1.7190-4-0.846193 9.3004-4                     P.W.Lisowski+        (21)14719  7 
+#/DATA      8
+#/DATASET

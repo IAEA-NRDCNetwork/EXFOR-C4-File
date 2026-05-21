@@ -1,0 +1,37 @@
+#ENTRY      21343
+#AUTHOR1    M.Bormann+
+#YEAR       1963
+#INSTITUTE  (2GERHAM)
+#TITLE      -Investigations of the energy dependence of neutron
+#+          induced reactions in the energy range of 12-19 MeV.-
+#+          (In German).
+#AUTHOR(S)  M.Bormann, S.Cierjacks, E.Fretwurst, K.-J.Giesicke, H.Neuert, 
+#+          H.Pollehn
+#REF-CODE   (J,ZP,174,1,196302)
+#REFERENCE  Z.Phys. 174 (1963) 1
+#DATASETS   0
+#
+#DATASET    21343008 
+#DATE       20081106
+#REACTION   29-CU-65(N,P)28-NI-65,,SIG
+#PROJ       1
+#TARG       29065
+#MF         3
+#MT         103
+#PRODUCT    28-NI-65
+#C4BEGIN    [    1 29065   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29065   3 103    1.3200+7 300000.0 0.027400 9.8640-3                                       M.Bormann+           (63)21343  8 
+    1 29065   3 103    1.4100+7 400000.0 0.025600 8.9600-3                                       M.Bormann+           (63)21343  8 
+    1 29065   3 103    1.4600+7 300000.0 0.021500 7.3100-3                                       M.Bormann+           (63)21343  8 
+    1 29065   3 103    1.5200+7 400000.0 0.021100 6.7520-3                                       M.Bormann+           (63)21343  8 
+    1 29065   3 103    1.5400+7 400000.0 0.019100 5.9210-3                                       M.Bormann+           (63)21343  8 
+    1 29065   3 103    1.5900+7 300000.0 0.021900 7.0080-3                                       M.Bormann+           (63)21343  8 
+    1 29065   3 103    1.6400+7 300000.0 0.017100 5.4720-3                                       M.Bormann+           (63)21343  8 
+    1 29065   3 103    1.7500+7 300000.0 0.018000 5.7600-3                                       M.Bormann+           (63)21343  8 
+    1 29065   3 103    1.8000+7 300000.0 0.015900 4.6110-3                                       M.Bormann+           (63)21343  8 
+    1 29065   3 103    1.8700+7 300000.0 0.016300 4.5640-3                                       M.Bormann+           (63)21343  8 
+#/DATA      10
+#/DATASET

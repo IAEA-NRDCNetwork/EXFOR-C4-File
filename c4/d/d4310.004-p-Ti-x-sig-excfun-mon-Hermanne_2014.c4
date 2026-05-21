@@ -1,0 +1,39 @@
+#ENTRY      D4310
+#AUTHOR1    A.Hermanne+
+#YEAR       2014
+#INSTITUTE  (2BLGVUB)
+#TITLE      Excitation functions for production of 46Sc by
+#+          deuteron and proton beams in natTi: A basis for
+#+          additional monitor reactions
+#AUTHOR(S)  A.Hermanne, F.Tarkanyi, S.Takacs, F.Ditroi, N.Amjed
+#REF-CODE   (J,NIM/B,338,31,2014)
+#REFERENCE  Nucl.Instrum.Meth.B 338 (2014) 31 (doi:10.1016/j.nimb.2014.07.026)
+#DATASETS   0
+#
+#DATASET    D4310004 
+#DATE       20141001
+#REACTION   22-TI-0(P,X)21-SC-46,,SIG
+#PROJ       1001
+#TARG       22000
+#MF         3
+#MT         454
+#PRODUCT    21-SC-46
+#C4BEGIN    [ 1001 22000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22000   3 454    3.4500+7 300000.0 0.035800 4.1000-3           21046.9                     A.Hermanne+          (14)D4310  4 
+ 1001 22000   3 454    3.3300+7 300000.0 0.029700 3.4000-3           21046.9                     A.Hermanne+          (14)D4310  4 
+ 1001 22000   3 454    3.2000+7 400000.0 0.023400 2.7000-3           21046.9                     A.Hermanne+          (14)D4310  4 
+ 1001 22000   3 454    3.0700+7 400000.0 0.017000 2.0000-3           21046.9                     A.Hermanne+          (14)D4310  4 
+ 1001 22000   3 454    2.9400+7 500000.0 0.012200 1.4000-3           21046.9                     A.Hermanne+          (14)D4310  4 
+ 1001 22000   3 454    2.8000+7 500000.0 0.010100 1.2000-3           21046.9                     A.Hermanne+          (14)D4310  4 
+ 1001 22000   3 454    2.6500+7 500000.0 9.9000-3 1.2000-3           21046.9                     A.Hermanne+          (14)D4310  4 
+ 1001 22000   3 454    2.5000+7 600000.0 9.0000-3 1.1000-3           21046.9                     A.Hermanne+          (14)D4310  4 
+ 1001 22000   3 454    2.3400+7 600000.0 8.6000-3 1.1000-3           21046.9                     A.Hermanne+          (14)D4310  4 
+ 1001 22000   3 454    2.1700+7 700000.0 6.4000-3 9.0000-4           21046.9                     A.Hermanne+          (14)D4310  4 
+ 1001 22000   3 454    1.9900+7 800000.0 6.0000-3 8.0000-4           21046.9                     A.Hermanne+          (14)D4310  4 
+ 1001 22000   3 454    1.8000+7 800000.0 4.7000-3 8.0000-4           21046.9                     A.Hermanne+          (14)D4310  4 
+ 1001 22000   3 454    1.5900+7 900000.0 4.1000-3 1.0000-3           21046.9                     A.Hermanne+          (14)D4310  4 
+#/DATA      13
+#/DATASET

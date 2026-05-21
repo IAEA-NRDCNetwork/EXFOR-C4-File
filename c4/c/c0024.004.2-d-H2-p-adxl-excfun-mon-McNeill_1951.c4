@@ -1,0 +1,30 @@
+#ENTRY      C0024
+#AUTHOR1    K.G.McNeill+
+#YEAR       1951
+#INSTITUTE  (2UK OXF)
+#TITLE      The Relative Probabilities and Absolute Cross Sections
+#+          of the D-D Reactions
+#AUTHOR(S)  K.G.McNeill, G.M.Keyser
+#REF-CODE   (J,PR,81,602,1951)
+#REFERENCE  Phys.Rev. 81 (1951) 602 (doi:10.1103/PhysRev.81.602)
+#DATASETS   0
+#
+#DATASET    C00240042
+#DATE       20181107
+#REACTION   1-H-2(D,P)1-H-3,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002  1002   4 103 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4 103 D  120000.0          1.3000-3 3.9000-5 6.123-17                              K.G.McNeill+         (51)C0024  42
+ 1002  1002   4 103 D  140000.0          1.7000-3 8.5000-5 6.123-17                              K.G.McNeill+         (51)C0024  42
+ 1002  1002   4 103 D  160000.0          1.6000-3 4.8000-5 6.123-17                              K.G.McNeill+         (51)C0024  42
+ 1002  1002   4 103 D  250000.0          2.1000-3 6.3000-5 6.123-17                              K.G.McNeill+         (51)C0024  42
+ 1002  1002   4 103 D  300000.0          2.3000-3 1.3800-4 6.123-17                              K.G.McNeill+         (51)C0024  42
+#/DATA      5
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      30848
+#AUTHOR1    M.Zaman+
+#YEAR       2017
+#INSTITUTE  (3KORKNU)
+#TITLE      Measurement of activation cross sections of the
+#+          27Al(n,a)24Na and 27Al(n,p)27Mg reactions with
+#+          quasi-monoenergetic neutrons
+#AUTHOR(S)  M.Zaman, G.N.Kim, K.Kim, H.Naik, Y.O.Lee, Y.S.Cho, M.W.Lee, 
+#+          Y.R.Kang
+#REF-CODE   (J,RCA,105,593,2017)
+#REFERENCE  Radiochim.Acta 105 (2017) 593 (doi:10.1515/ract-2016-2739)
+#DATASETS   0
+#
+#DATASET    30848003 
+#DATE       20210305
+#REACTION   13-AL-27(N,P)12-MG-27,,SIG,,SPA
+#PROJ       1
+#TARG       13027
+#MF         3
+#MT         103
+#PRODUCT    12-MG-27
+#C4BEGIN    [    1 13027   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   3 103 A  1.5200+7 3650000. 0.057000 6.0000-3                                       M.Zaman+             (17)30848  3 
+    1 13027   3 103 A  2.6400+7 2770000. 0.016630 2.9900-3                                       M.Zaman+             (17)30848  3 
+    1 13027   3 103 A  3.7200+7 2200000. 6.8600-3 1.3800-3                                       M.Zaman+             (17)30848  3 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      40803
+#AUTHOR1    V.A.Tolstikov+
+#YEAR       1963
+#INSTITUTE  (4RUSFEI)
+#TITLE      Measurement of the 238U and 232Th capture cross
+#+          sections for neutrons of 5-200 keV
+#AUTHOR(S)  V.A.Tolstikov, L.E.Sherman, Yu.Ya.Stavisskii
+#REF-CODE   (J,SJA,15,1170,1963)
+#REFERENCE  Sov.At.Energy 15 (1963) 1170 (doi:10.1007/BF01115941)
+#DATASETS   0
+#
+#DATASET    40803002 
+#DATE       20231226
+#REACTION   90-TH-232(N,G)90-TH-233,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         102
+#PRODUCT    90-TH-233
+#C4BEGIN    [    1 90232   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3 102    5300.000          1.750000                                                V.A.Tolstikov+       (63)40803  2 
+    1 90232   3 102    12000.00          1.200000                                                V.A.Tolstikov+       (63)40803  2 
+    1 90232   3 102    17000.00          0.830000                                                V.A.Tolstikov+       (63)40803  2 
+    1 90232   3 102    19000.00          0.830000                                                V.A.Tolstikov+       (63)40803  2 
+    1 90232   3 102    26000.00          0.780000                                                V.A.Tolstikov+       (63)40803  2 
+    1 90232   3 102    30000.00          0.620000                                                V.A.Tolstikov+       (63)40803  2 
+    1 90232   3 102    40000.00          0.600000                                                V.A.Tolstikov+       (63)40803  2 
+    1 90232   3 102    50000.00          0.385000                                                V.A.Tolstikov+       (63)40803  2 
+    1 90232   3 102    70000.00          0.390000                                                V.A.Tolstikov+       (63)40803  2 
+    1 90232   3 102    100000.0          0.275000                                                V.A.Tolstikov+       (63)40803  2 
+#/DATA      10
+#/DATASET

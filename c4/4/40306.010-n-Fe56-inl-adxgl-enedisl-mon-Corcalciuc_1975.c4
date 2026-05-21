@@ -1,0 +1,26 @@
+#ENTRY      40306
+#AUTHOR1    V.Corcalciuc+
+#YEAR       1975
+#INSTITUTE  (2SWDAE)
+#TITLE      Interaction of 16-22 MeV neutrons with iron nuclei
+#AUTHOR(S)  V.Corcalciuc, G.A.Prokopets, B.Holmqvist
+#REF-CODE   (J,SNP,20,574,1975)
+#REFERENCE  Sov.J.Nucl.Phys. 20 (1975) 574
+#DATASETS   0
+#
+#DATASET    40306010 
+#DATE       20161012
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,DA,G,4PI
+#PROJ       1
+#TARG       26056
+#MF         14
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056  14  51    2.0500+7 400000.0 0.019496          0.573576          846800.0            V.Corcalciuc+        (75)40306 10 
+    1 26056  14  51    2.0500+7 400000.0 5.0930-3          0.573576          1239000.            V.Corcalciuc+        (75)40306 10 
+#/DATA      2
+#/DATASET

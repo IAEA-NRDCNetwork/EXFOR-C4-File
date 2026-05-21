@@ -1,0 +1,32 @@
+#ENTRY      30081
+#AUTHOR1    T.Kozlowski+
+#YEAR       1965
+#INSTITUTE  (3POLIPJ)
+#TITLE      Angular distribution of gamma rays from inelastic
+#+          scattering of 14.1 MeV neutrons on C-12 and O-16
+#AUTHOR(S)  T.Kozlowski, W.Kusch, J.Wojtkowska
+#REF-CODE   (R,INR-661,196509)
+#REFERENCE  Report INR-661, 1965
+#DATASETS   0
+#
+#DATASET    30081002 
+#DATE       20080215
+#REACTION   6-C-12(N,INL)6-C-12,PAR,DA,G
+#PROJ       1
+#TARG       6012
+#MF         14
+#MT         51
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012  14  51    1.4100+7          0.024300 1.6000-3 0.866025          4470000.            T.Kozlowski+         (65)30081  2 
+    1  6012  14  51    1.4100+7          0.024600 1.8000-3 0.707107          4470000.            T.Kozlowski+         (65)30081  2 
+    1  6012  14  51    1.4100+7          0.024000 1.6000-3 0.500000          4470000.            T.Kozlowski+         (65)30081  2 
+    1  6012  14  51    1.4100+7          0.019200 1.6000-3 0.258819          4470000.            T.Kozlowski+         (65)30081  2 
+    1  6012  14  51    1.4100+7          0.011300 1.3000-3 6.123-17          4470000.            T.Kozlowski+         (65)30081  2 
+    1  6012  14  51    1.4100+7          0.018000 1.6000-3-0.500000          4470000.            T.Kozlowski+         (65)30081  2 
+    1  6012  14  51    1.4100+7          0.024000 2.0000-3-0.707107          4470000.            T.Kozlowski+         (65)30081  2 
+#/DATA      7
+#/DATASET

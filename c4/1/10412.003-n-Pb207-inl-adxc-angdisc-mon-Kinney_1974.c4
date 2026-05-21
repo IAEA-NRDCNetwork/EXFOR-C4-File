@@ -1,0 +1,43 @@
+#ENTRY      10412
+#AUTHOR1    W.E.Kinney+
+#YEAR       1974
+#INSTITUTE  (1USAORL)
+#TITLE      206Pb, 207Pb and 208Pb neutron elastic and inelastic
+#+          scattering cross sections from 5.50 to 8.50 MeV.
+#AUTHOR(S)  W.E.Kinney, F.G.Perey
+#REF-CODE   (R,ORNL-4909,197406)
+#REFERENCE  Report ORNL-4909, 1974
+#DATASETS   0
+#
+#DATASET    10412003 
+#DATE       20030220
+#REACTION   82-PB-207(N,INL)82-PB-207,PAR,DA
+#PROJ       1
+#TARG       82207
+#MF         4
+#MT         51
+#PRODUCT    82-PB-207
+#C4BEGIN    [    1 82207   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82207   4  51 AC 5500000. 90000.00 7.1500-3         -5.0614-3          570000.0         LVLW.E.Kinney+          (74)10412  3 
+    1 82207   4  51 AC 5500000. 90000.00 4.5600-3         -0.135543          570000.0         LVLW.E.Kinney+          (74)10412  3 
+#/DATA      2
+#/DATASET
+#
+#DATASET    10412003 
+#DATE       20030220
+#REACTION   82-PB-207(N,INL)82-PB-207,PAR,DA
+#PROJ       1
+#TARG       82207
+#MF         4
+#MT         51
+#PRODUCT    82-PB-207
+#C4BEGIN    [    1 82207   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82207   4  51 AC 6000000. 40000.00 7.7000-4         -0.135716          570000.0         LVLW.E.Kinney+          (74)10412  3 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      10940
+#AUTHOR1    C.Zanelli+
+#YEAR       1981
+#INSTITUTE  (1USADAV)
+#TITLE      TOTAL NON-ELASTIC CROSS SECTIONS OF NEUTRONS ON
+#+          C,O,CA,AND FE AT 40.3 AND 50.4 MEV
+#AUTHOR(S)  C.Zanelli, P.Urone, J.Romero, F.Brady, M.Johnson, G.Needham, 
+#+          J.Ullmann, D.Johnson
+#REF-CODE   (J,PR/C,23,1015,8103)
+#REFERENCE  Phys.Rev.C 23 (1981) 1015 (doi:10.1103/PhysRevC.23.1015)
+#DATASETS   0
+#
+#DATASET    10940004 
+#DATE       19860529
+#REACTION   20-CA-0(N,NON),,SIG
+#PROJ       1
+#TARG       20000
+#MF         3
+#MT         3
+#C4BEGIN    [    1 20000   3   3 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20000   3   3 C  4.0300+7          0.930000 0.053000                                       C.Zanelli+           (81)10940  4 
+    1 20000   3   3 C  5.0400+7          0.849000 0.112000                                       C.Zanelli+           (81)10940  4 
+#/DATA      2
+#/DATASET

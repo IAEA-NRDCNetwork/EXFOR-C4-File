@@ -1,0 +1,31 @@
+#ENTRY      D6372
+#AUTHOR1    D.Choudhury+
+#YEAR       2019
+#INSTITUTE  (3INDSAH)
+#TITLE      Production cross sections of 190-193Au radioisotopes
+#+          produced from 11B + natW reactions up to 63 MeV
+#+          projectile energy
+#AUTHOR(S)  D.Choudhury, S.Lahiri
+#REF-CODE   (J,EPJ/A,55,168,2019)
+#REFERENCE  Eur.Phys.J.A 55 (2019) 168 (doi:10.1140/epja/i2019-12858-3)
+#DATASETS   0
+#
+#DATASET    D6372003 
+#DATE       20200503
+#REACTION   74-W-0(5-B-11,X)79-AU-191,,SIG
+#PROJ       5011
+#TARG       74000
+#MF         3
+#MT         454
+#PRODUCT    79-AU-191
+#C4BEGIN    [ 5011 74000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5011 74000   3 454    4.2000+7          8.0000-3 1.4000-3           79191.9                     D.Choudhury+         (19)D6372  3 
+ 5011 74000   3 454    4.8000+7          0.015000 2.5000-3           79191.9                     D.Choudhury+         (19)D6372  3 
+ 5011 74000   3 454    5.2000+7          0.032000 2.9000-3           79191.9                     D.Choudhury+         (19)D6372  3 
+ 5011 74000   3 454    5.7000+7          0.065000 5.4000-3           79191.9                     D.Choudhury+         (19)D6372  3 
+ 5011 74000   3 454    6.3000+7          0.076000 6.1000-3           79191.9                     D.Choudhury+         (19)D6372  3 
+#/DATA      5
+#/DATASET

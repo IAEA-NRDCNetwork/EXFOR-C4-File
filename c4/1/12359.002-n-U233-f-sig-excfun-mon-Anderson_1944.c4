@@ -1,0 +1,36 @@
+#ENTRY      12359
+#AUTHOR1    E.E.Anderson+
+#YEAR       1944
+#INSTITUTE  (1USALAS)
+#TITLE      Relative fission cross section of 23 for neutrons
+#+          in the range 0.025 to 100 eV
+#AUTHOR(S)  E.E.Anderson, B.D.Mc Daniel, R.B.Sutton
+#REF-CODE   (R,LA-190,1944)
+#REFERENCE  Report LA-190, 1944
+#DATASETS   0
+#
+#DATASET    12359002 
+#DATE       19820519
+#REACTION   92-U-233(N,F),,SIG
+#PROJ       1
+#TARG       92233
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92233   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   3  18    0.021800          600.0000                                                E.E.Anderson+        (44)12359  2 
+    1 92233   3  18    0.026500          492.0000                                                E.E.Anderson+        (44)12359  2 
+    1 92233   3  18    0.030000          455.0000                                                E.E.Anderson+        (44)12359  2 
+    1 92233   3  18    0.035900          428.0000                                                E.E.Anderson+        (44)12359  2 
+    1 92233   3  18    0.044500          412.0000                                                E.E.Anderson+        (44)12359  2 
+    1 92233   3  18    0.066000          320.0000                                                E.E.Anderson+        (44)12359  2 
+    1 92233   3  18    0.105000          265.0000                                                E.E.Anderson+        (44)12359  2 
+    1 92233   3  18    0.139000          205.0000                                                E.E.Anderson+        (44)12359  2 
+    1 92233   3  18    0.174000          197.0000                                                E.E.Anderson+        (44)12359  2 
+    1 92233   3  18    0.221000          171.0000                                                E.E.Anderson+        (44)12359  2 
+    1 92233   3  18    0.294000          168.0000                                                E.E.Anderson+        (44)12359  2 
+    1 92233   3  18    0.460000          119.0000                                                E.E.Anderson+        (44)12359  2 
+#/DATA      12
+#/DATASET

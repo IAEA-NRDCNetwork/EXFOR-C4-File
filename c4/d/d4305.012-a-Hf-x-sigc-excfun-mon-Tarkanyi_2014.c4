@@ -1,0 +1,32 @@
+#ENTRY      D4305
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2014
+#INSTITUTE  (3HUNDEB)
+#TITLE      Activation cross sections of alpha-particle induced
+#+          nuclear reactions on hafnium and deuteron induced
+#+          nuclear reaction on tantalum: production of
+#+          178W/178mTa generator
+#AUTHOR(S)  F.Tarkanyi, S.Takacs, F.Ditroi, A.Hermanne, A.V.Ignatyuk, 
+#+          M.S.Uddin
+#REF-CODE   (J,ARI,91,114,2014)
+#REFERENCE  Appl.Radiat.Isot. 91 (2014) 114 (doi:10.1016/j.apradiso.2014.05.016)
+#DATASETS   0
+#
+#DATASET    D4305012 
+#DATE       20190129
+#REACTION   72-HF-0(A,X)73-TA-175,CUM,SIG
+#PROJ       2004
+#TARG       72000
+#MF         3
+#MT         459
+#PRODUCT    73-TA-175
+#C4BEGIN    [ 2004 72000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 72000   3 459    3.8900+7 500000.0 1.9000-3 4.0000-4           73175.9                     F.Tarkanyi+          (14)D4305 12 
+ 2004 72000   3 459    3.6300+7 600000.0 1.7000-3 2.0000-4           73175.9                     F.Tarkanyi+          (14)D4305 12 
+ 2004 72000   3 459    3.3600+7 600000.0 6.0000-4 1.0000-4           73175.9                     F.Tarkanyi+          (14)D4305 12 
+ 2004 72000   3 459    3.0700+7 700000.0 2.0000-4 4.0000-5           73175.9                     F.Tarkanyi+          (14)D4305 12 
+#/DATA      4
+#/DATASET

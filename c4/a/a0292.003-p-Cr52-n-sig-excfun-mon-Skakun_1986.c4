@@ -1,0 +1,30 @@
+#ENTRY      A0292
+#AUTHOR1    E.A.Skakun+
+#YEAR       1986
+#INSTITUTE  (4UKRKFT)
+#TITLE      Investigation of cross sections of Cr-52(p,n)Mn-52-m,g
+#+          and Cr-54(p,n)Mn-54 reactions in the energy
+#+          range from 5 to 9 MeV.
+#AUTHOR(S)  E.A.Skakun, V.G.Batij, Ju.N.Rakivnenko, O.A.Rastrepin
+#REF-CODE   (C,86KHARKO,,277,1986)
+#REFERENCE  Proceedings of 36.Conf.Nucl.Spectrosc.and Nucl.Struct.,Kharkov 1986 page 277
+#DATASETS   0
+#
+#DATASET    A0292003 
+#DATE       20110826
+#REACTION   24-CR-52(P,N)25-MN-52-M,,SIG
+#PROJ       1001
+#TARG       24052
+#MF         3
+#MT         4
+#PRODUCT    25-MN-52-M
+#C4BEGIN    [ 1001 24052   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24052   3   4M   6000000.          0.012500 8.0000-4                                       E.A.Skakun+          (86)A0292  3 
+ 1001 24052   3   4M   7000000.          0.199000 0.013000                                       E.A.Skakun+          (86)A0292  3 
+ 1001 24052   3   4M   8000000.          0.245000 0.016000                                       E.A.Skakun+          (86)A0292  3 
+ 1001 24052   3   4M   9000000.          0.236000 0.015000                                       E.A.Skakun+          (86)A0292  3 
+#/DATA      4
+#/DATASET

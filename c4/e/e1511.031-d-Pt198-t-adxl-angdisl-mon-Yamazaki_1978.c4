@@ -1,0 +1,32 @@
+#ENTRY      E1511
+#AUTHOR1    Y.Yamazaki+
+#YEAR       1978
+#INSTITUTE  (1USAFSU)
+#TITLE      STATES IN 197PT POPULATED BY THE (D,P), (D,T) AND
+#+          (N,GAMMA) REACTIONS
+#AUTHOR(S)  Y.Yamazaki, K.Sheline, E.B.Shera
+#REF-CODE   (J,PR/C,17,2061,1978)
+#REFERENCE  Phys.Rev.C 17 (1978) 2061 (doi:10.1103/PhysRevC.17.2061)
+#DATASETS   0
+#
+#DATASET    E1511031 
+#DATE       20001017
+#REACTION   78-PT-198(D,T)78-PT-197,PAR,DA
+#PROJ       1002
+#TARG       78198
+#MF         4
+#MT         700
+#PRODUCT    78-PT-197
+#C4BEGIN    [ 1002 78198   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 78198   4 700    1.3500+7          3.7170-5          0.848233          1158000.         LVLY.Yamazaki+          (78)E1511 31 
+ 1002 78198   4 700    1.3500+7          4.4180-5          0.741391          1158000.         LVLY.Yamazaki+          (78)E1511 31 
+ 1002 78198   4 700    1.3500+7          6.9170-5          0.612217          1158000.         LVLY.Yamazaki+          (78)E1511 31 
+ 1002 78198   4 700    1.3500+7          1.2750-4          0.492727          1158000.         LVLY.Yamazaki+          (78)E1511 31 
+ 1002 78198   4 700    1.3500+7          1.2020-4          0.356738          1158000.         LVLY.Yamazaki+          (78)E1511 31 
+ 1002 78198   4 700    1.3500+7          1.2060-4          0.191666          1158000.         LVLY.Yamazaki+          (78)E1511 31 
+ 1002 78198   4 700    1.3500+7          9.0420-5         -0.173648          1158000.         LVLY.Yamazaki+          (78)E1511 31 
+#/DATA      7
+#/DATASET

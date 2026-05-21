@@ -1,0 +1,29 @@
+#ENTRY      11675
+#AUTHOR1    A.E.Johnsrud+
+#YEAR       1959
+#INSTITUTE  (1USAWIS)
+#TITLE      Energy dependence of fast-neutron activation cross
+#+          section.
+#AUTHOR(S)  A.E.Johnsrud, M.G.Silbert, H.H.Barschall
+#REF-CODE   (J,PR,116,927,1959)
+#REFERENCE  Phys.Rev. 116 (1959) 927 (doi:10.1103/PhysRev.116.927)
+#DATASETS   0
+#
+#DATASET    11675011 
+#DATE       20091005
+#REACTION   38-SR-86(N,G)38-SR-87-M,,SIG
+#PROJ       1
+#TARG       38086
+#MF         3
+#MT         102
+#PRODUCT    38-SR-87-M
+#C4BEGIN    [    1 38086   3 102M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 38086   3 102M   165000.0          0.031500                                                A.E.Johnsrud+        (59)11675 11 
+    1 38086   3 102M   240000.0          0.029000                                                A.E.Johnsrud+        (59)11675 11 
+    1 38086   3 102M   310000.0          0.024500                                                A.E.Johnsrud+        (59)11675 11 
+    1 38086   3 102M   325000.0          0.024500                                                A.E.Johnsrud+        (59)11675 11 
+#/DATA      4
+#/DATASET

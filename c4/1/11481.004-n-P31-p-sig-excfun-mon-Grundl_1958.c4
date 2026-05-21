@@ -1,0 +1,32 @@
+#ENTRY      11481
+#AUTHOR1    J.A.Grundl+
+#YEAR       1958
+#INSTITUTE  (1USALAS)
+#TITLE      P-31(n,p)Si-31 and Al-27(n,alpha)Na-24 cross sections.
+#AUTHOR(S)  J.A.Grundl, R.L.Henkel, B.L.Perkins
+#REF-CODE   (J,PR,109,425,1958)
+#REFERENCE  Phys.Rev. 109 (1958) 425 (doi:10.1103/PhysRev.109.425)
+#DATASETS   0
+#
+#DATASET    11481004 
+#DATE       20110727
+#REACTION   15-P-31(N,P)14-SI-31,,SIG
+#PROJ       1
+#TARG       15031
+#MF         3
+#MT         103
+#PRODUCT    14-SI-31
+#C4BEGIN    [    1 15031   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 15031   3 103    6110000. 120000.0 0.145900                                                J.A.Grundl+          (58)11481  4 
+    1 15031   3 103    6610000. 110000.0 0.148100                                                J.A.Grundl+          (58)11481  4 
+    1 15031   3 103    7110000. 110000.0 0.136400                                                J.A.Grundl+          (58)11481  4 
+    1 15031   3 103    7610000. 100000.0 0.136700                                                J.A.Grundl+          (58)11481  4 
+    1 15031   3 103    8090000. 90000.00 0.144200                                                J.A.Grundl+          (58)11481  4 
+    1 15031   3 103    8580000. 90000.00 0.138900                                                J.A.Grundl+          (58)11481  4 
+    1 15031   3 103    9070000. 90000.00 0.143400                                                J.A.Grundl+          (58)11481  4 
+    1 15031   3 103    9570000. 100000.0 0.142100                                                J.A.Grundl+          (58)11481  4 
+#/DATA      8
+#/DATASET

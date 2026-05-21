@@ -1,0 +1,32 @@
+#ENTRY      10379
+#AUTHOR1    I.F.Bubb+
+#YEAR       1974
+#INSTITUTE  (1CANMNA)
+#TITLE      Neutron Total Cross Sections between 20 and 45 MeV
+#AUTHOR(S)  I.F.Bubb, S.N.Bunker, M.Jain, J.W.Leonard, A.McIlwain, K.I.Roulston, 
+#+          K.G.Standing, D.O.Wells, B.G.Whitmore
+#REF-CODE   (J,CJP,52,648,197404)
+#REFERENCE  Can.J.Phys. 52 (1974) 648 (doi:10.1139/p74-088)
+#DATASETS   0
+#
+#DATASET    10379006 
+#DATE       20021206
+#REACTION   6-C-0(N,TOT),,SIG
+#PROJ       1
+#TARG       6000
+#MF         3
+#MT         1
+#C4BEGIN    [    1  6000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   3   1    2.1000+7          1.446000 5.0000-3                                       I.F.Bubb+            (74)10379  6 
+    1  6000   3   1    2.6800+7          1.381000 7.0000-3                                       I.F.Bubb+            (74)10379  6 
+    1  6000   3   1    2.7550+7          1.369000 3.0000-3                                       I.F.Bubb+            (74)10379  6 
+    1  6000   3   1    3.5100+7          1.245000 5.0000-3                                       I.F.Bubb+            (74)10379  6 
+    1  6000   3   1    3.6300+7          1.243000 5.0000-3                                       I.F.Bubb+            (74)10379  6 
+    1  6000   3   1    4.0150+7          1.162000 3.0000-3                                       I.F.Bubb+            (74)10379  6 
+    1  6000   3   1    4.2000+7          1.112000 9.0000-3                                       I.F.Bubb+            (74)10379  6 
+    1  6000   3   1    4.4000+7          1.111000 7.0000-3                                       I.F.Bubb+            (74)10379  6 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      C1146
+#AUTHOR1    D.Peterson+
+#YEAR       2003
+#INSTITUTE  (1USANOT)
+#TITLE      Elastic scattering of 9Li and 11Li from 12C at 50 MeV
+#+          per nucleon
+#AUTHOR(S)  D.Peterson, J.J.Kolata, P.Santi, J.von Schwarzenberg, D.Bazin, 
+#+          B.M.Sherrill
+#REF-CODE   (J,PR/C,67,014601,2003)
+#REFERENCE  Phys.Rev.C 67 (2003) 014601 (doi:10.1103/PhysRevC.67.014601)
+#DATASETS   0
+#
+#DATASET    C1146007 
+#DATE       20120618
+#REACTION   6-C-12(3-LI-11,EL)6-C-12,,DA,,RTH
+#PROJ       3011
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 3011  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3011  6012   4   2  C 5.5000+8          37.96631          0.998938                              D.Peterson+          (03)C1146  7 
+ 3011  6012   4   2  C 5.5000+8          7.259354          0.997770                              D.Peterson+          (03)C1146  7 
+ 3011  6012   4   2  C 5.5000+8          2.108934 0.570244 0.996320                              D.Peterson+          (03)C1146  7 
+ 3011  6012   4   2  C 5.5000+8          0.679972 0.264920 0.994485                              D.Peterson+          (03)C1146  7 
+ 3011  6012   4   2  C 5.5000+8          0.242620 0.148845 0.992258                              D.Peterson+          (03)C1146  7 
+ 3011  6012   4   2  C 5.5000+8          0.143229 0.109539 0.989746                              D.Peterson+          (03)C1146  7 
+ 3011  6012   4   2  C 5.5000+8          0.258832 0.240807 0.986689                              D.Peterson+          (03)C1146  7 
+#/DATA      7
+#/DATASET

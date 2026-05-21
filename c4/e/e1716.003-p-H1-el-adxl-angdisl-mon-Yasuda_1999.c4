@@ -1,0 +1,39 @@
+#ENTRY      E1716
+#AUTHOR1    K.Yasuda+
+#YEAR       1999
+#INSTITUTE  (2JPNOSA)
+#TITLE      Measurement of proton-proton bremsstrahlung at 389MeV
+#AUTHOR(S)  K.Yasuda, H.Akiyoshi, T.Hotta, K.Imai, M.Kato, M.Kawabata, 
+#+          Y.Maeda, N.Matsuoka, T.Matsuzuka, Y.Mizuno, T.Murakami, 
+#+          J.Murata, I.Nakagawa, M.Nomachi, T.Noro, Y.Sugaya, K.Takahisa, 
+#+          T.Tamae, K.Tamura, H.Tsubota, Y.Yokota, H.P.Yoshida, M.Yoshimura, 
+#+          Y.Yuasa
+#REF-CODE   (J,PRL,82,(24),4775,199906)
+#REFERENCE  Phys.Rev.Lett. 82 No.24 (1999) 4775 (doi:10.1103/PhysRevLett.82.4775)
+#DATASETS   0
+#
+#DATASET    E1716003 
+#DATE       20061121
+#REACTION   1-H-1(P,EL)1-H-1,,DA
+#PROJ       1001
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1001   4   2    3.8900+8          0.016710 4.1590-4 0.919273                              K.Yasuda+            (99)E1716  3 
+ 1001  1001   4   2    3.8900+8          0.015630 3.8130-4 0.911188                              K.Yasuda+            (99)E1716  3 
+ 1001  1001   4   2    3.8900+8          0.016460 4.1590-4 0.902886                              K.Yasuda+            (99)E1716  3 
+ 1001  1001   4   2    3.8900+8          0.015630          0.901833                              K.Yasuda+            (99)E1716  3 
+ 1001  1001   4   2    3.8900+8          0.015320 3.1200-4 0.901833                              K.Yasuda+            (99)E1716  3 
+ 1001  1001   4   2    3.8900+8          0.015810 3.4660-4 0.895401                              K.Yasuda+            (99)E1716  3 
+ 1001  1001   4   2    3.8900+8          0.015320          0.895401                              K.Yasuda+            (99)E1716  3 
+ 1001  1001   4   2    3.8900+8          0.016260 3.8130-4 0.894076                              K.Yasuda+            (99)E1716  3 
+ 1001  1001   4   2    3.8900+8          0.016120 4.1590-4 0.884825                              K.Yasuda+            (99)E1716  3 
+ 1001  1001   4   2    3.8900+8          0.014520 3.4660-4 0.875549                              K.Yasuda+            (99)E1716  3 
+ 1001  1001   4   2    3.8900+8          0.010920          0.740805                              K.Yasuda+            (99)E1716  3 
+#/DATA      11
+#/DATASET

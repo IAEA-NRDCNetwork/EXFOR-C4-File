@@ -1,0 +1,30 @@
+#ENTRY      22291
+#AUTHOR1    I.Birn+
+#YEAR       1994
+#INSTITUTE  (2GERJUL)
+#TITLE      Excitation functions of neutron threshold reactions
+#+          on some isotopes of germanium, arsenic and selenium
+#+          in the 6.3- to 14.7-MeV energy range.
+#AUTHOR(S)  I.Birn, S.M.Qaim, B.Strohmaier, H.Freiesleben
+#REF-CODE   (J,NSE,116,125,1994)
+#REFERENCE  Nucl.Sci.Eng. 116 (1994) 125 (doi:10.13182/NSE94-A21488)
+#DATASETS   0
+#
+#DATASET    22291014 
+#DATE       20150819
+#REACTION   32-GE-76(N,2N)32-GE-75,,SIG
+#PROJ       1
+#TARG       32076
+#MF         3
+#MT         16
+#PRODUCT    32-GE-75
+#C4BEGIN    [    1 32076   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32076   3  16    9980000. 200000.0 0.104000                                                I.Birn+              (94)22291 14 
+    1 32076   3  16    1.0850+7 220000.0 0.680000                                                I.Birn+              (94)22291 14 
+    1 32076   3  16    1.1720+7 240000.0 1.161000                                                I.Birn+              (94)22291 14 
+    1 32076   3  16    1.4680+7 100000.0 1.019000                                                I.Birn+              (94)22291 14 
+#/DATA      4
+#/DATASET

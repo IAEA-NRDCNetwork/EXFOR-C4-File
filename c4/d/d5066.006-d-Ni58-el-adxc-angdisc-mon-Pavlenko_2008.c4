@@ -1,0 +1,34 @@
+#ENTRY      D5066
+#AUTHOR1    Yu.N.Pavlenko+
+#YEAR       2008
+#INSTITUTE  (4UKRIJD)
+#TITLE      Elastic  deuterons  scattering  by  58Ni  and  124Sn
+#+          nuclei at  sub-barrier  energies
+#AUTHOR(S)  Yu.N.Pavlenko, K.O.Terenetsky, V.P.Verbitsky, I.P.Dryapachenko, 
+#+          E.M.Mozhzhukhin, V.M.Dobrikov, Yu.Ya.Karlyshev, O.K.Gorpinich, 
+#+          O.I.Rundel, V.O.Kyva, T.O.Korzyna, O.V.Oboznova
+#REF-CODE   (A,2008KYIV,,179,2008)
+#REFERENCE  Abstract of 2 Int.Conf.Cur.Prob.in Nucl.Phys.Atom.Ene.,Kyiv,2008 page 179
+#DATASETS   0
+#
+#DATASET    D5066006 
+#DATE       20090202
+#REACTION   28-NI-58(D,EL)28-NI-58,,DA,,RTH
+#PROJ       1002
+#TARG       28058
+#MF         4
+#MT         2
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 1002 28058   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28058   4   2 AC 4500000.          3.980971 0.094224 0.766044                              Yu.N.Pavlenko+       (08)D5066  6 
+ 1002 28058   4   2 AC 4500000.          2.517475 0.052604 0.707107                              Yu.N.Pavlenko+       (08)D5066  6 
+ 1002 28058   4   2 AC 4500000.          0.632355 0.012892 0.422618                              Yu.N.Pavlenko+       (08)D5066  6 
+ 1002 28058   4   2 AC 4500000.          0.080990 1.8146-3-0.500000                              Yu.N.Pavlenko+       (08)D5066  6 
+ 1002 28058   4   2 AC 4500000.          0.069832 1.5129-3-0.642788                              Yu.N.Pavlenko+       (08)D5066  6 
+ 1002 28058   4   2 AC 4500000.          0.057806 1.4469-3-0.766044                              Yu.N.Pavlenko+       (08)D5066  6 
+ 1002 28058   4   2 AC 4500000.          0.044064 1.2960-3-0.866025                              Yu.N.Pavlenko+       (08)D5066  6 
+#/DATA      7
+#/DATASET

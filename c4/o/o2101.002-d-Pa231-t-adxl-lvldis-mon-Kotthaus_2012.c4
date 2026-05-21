@@ -1,0 +1,36 @@
+#ENTRY      O2101
+#AUTHOR1    T.Kotthaus+
+#YEAR       2012
+#INSTITUTE  (2GERKLN)
+#TITLE      Energy splitting between the first two quasi-particle
+#+          states in 230Pa in comparison with the isotone 229Th.
+#AUTHOR(S)  T.Kotthaus, P.Reiter, H.Hess, M.Kalkuhler, A.Wendt, A.Wiens, 
+#+          R.Hertenberger, T.Morgan, P.G.Thirolf, H.-F.Wirth, T.Faestermann
+#REF-CODE   (J,PL/B,718,460,2012)
+#REFERENCE  Phys.Lett.B 718 (2012) 460 (doi:10.1016/j.physletb.2012.10.083)
+#DATASETS   0
+#
+#DATASET    O2101002 
+#DATE       20121028
+#REACTION   91-PA-231(D,T)91-PA-230,PAR,DA
+#PROJ       1002
+#TARG       91231
+#MF         4
+#MT         700
+#PRODUCT    91-PA-230
+#C4BEGIN    [ 1002 91231   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 91231   4 700    2.2000+7          1.1700-4          0.939693          0.000000         LVLT.Kotthaus+          (12)O2101  2 
+ 1002 91231   4 700    2.2000+7          1.1000-4          0.939693          2.8200+7         LVLT.Kotthaus+          (12)O2101  2 
+ 1002 91231   4 700    2.2000+7          3.7000-5          0.939693          4.8000+7         LVLT.Kotthaus+          (12)O2101  2 
+ 1002 91231   4 700    2.2000+7          3.3700-4          0.939693          6.5900+7         LVLT.Kotthaus+          (12)O2101  2 
+ 1002 91231   4 700    2.2000+7          8.6000-5          0.939693          7.1500+7         LVLT.Kotthaus+          (12)O2101  2 
+ 1002 91231   4 700    2.2000+7          4.0000-5          0.939693          1.0290+8         LVLT.Kotthaus+          (12)O2101  2 
+ 1002 91231   4 700    2.2000+7          1.9000-5          0.939693          1.1300+8         LVLT.Kotthaus+          (12)O2101  2 
+ 1002 91231   4 700    2.2000+7          7.7000-5          0.939693          1.4210+8         LVLT.Kotthaus+          (12)O2101  2 
+ 1002 91231   4 700    2.2000+7          2.5800-4          0.939693          1.6940+8         LVLT.Kotthaus+          (12)O2101  2 
+ 1002 91231   4 700    2.2000+7          3.9000-5          0.939693          1.8920+8         LVLT.Kotthaus+          (12)O2101  2 
+#/DATA      10
+#/DATASET

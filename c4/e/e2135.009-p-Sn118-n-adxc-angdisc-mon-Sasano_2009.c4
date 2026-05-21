@@ -1,0 +1,35 @@
+#ENTRY      E2135
+#AUTHOR1    M.Sasano+
+#YEAR       2009
+#INSTITUTE  (2JPNTOK)
+#TITLE      Gamow-Teller unit cross sections of the (p,n) reaction
+#+          at 198 and 297 MeV on medium-heavy nuclei
+#AUTHOR(S)  M.Sasano, H.Sakai, K.Yako, T.Wakasa, S.Asaji, K.Fujita, 
+#+          Y.Fujita, M.B.Greenfield, Y.Hagihara, K.Hatanaka, T.Kawabata, 
+#+          H.Kuboki, Y.Maeda, H.Okamura, T.Saito, Y.Sakemi, K.Sekiguchi, 
+#+          Y.Shimizu, Y.Takahashi, Y.Tameshige, A.Tamii
+#REF-CODE   (J,PR/C,79,(2),024602,200902)
+#REFERENCE  Phys.Rev.C 79 No.2 (2009) 024602 (doi:10.1103/PhysRevC.79.024602)
+#DATASETS   0
+#
+#DATASET    E2135009 
+#DATE       20120614
+#REACTION   50-SN-118(P,N)51-SB-118,PAR,DA
+#PROJ       1001
+#TARG       50118
+#MF         4
+#MT         50
+#PRODUCT    51-SB-118
+#C4BEGIN    [ 1001 50118   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50118   4  50  C 2.9700+8 500000.0 1.2190-3 1.9000-5 1.000000          0.000000         LVLM.Sasano+            (09)E2135  9 
+ 1001 50118   4  50  C 2.9700+8 500000.0 9.8200-4 1.4000-5 0.999391          0.000000         LVLM.Sasano+            (09)E2135  9 
+ 1001 50118   4  50  C 2.9700+8 500000.0 7.4700-4 1.5000-5 0.997441          0.000000         LVLM.Sasano+            (09)E2135  9 
+ 1001 50118   4  50  C 2.9700+8 500000.0 5.9200-4 1.2000-5 0.994338          0.000000         LVLM.Sasano+            (09)E2135  9 
+ 1001 50118   4  50  C 2.9700+8 500000.0 4.2300-4 1.3000-5 0.990024          0.000000         LVLM.Sasano+            (09)E2135  9 
+ 1001 50118   4  50  C 2.9700+8 500000.0 3.4600-4 1.1000-5 0.984503          0.000000         LVLM.Sasano+            (09)E2135  9 
+ 1001 50118   4  50  C 2.9700+8 500000.0 2.6100-4 9.0000-6 0.977783          0.000000         LVLM.Sasano+            (09)E2135  9 
+#/DATA      7
+#/DATASET

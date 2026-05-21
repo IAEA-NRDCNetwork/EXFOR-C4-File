@@ -1,0 +1,27 @@
+#ENTRY      F1232
+#AUTHOR1    A.Deppman+
+#YEAR       2013
+#INSTITUTE  (3BZLUSP)
+#TITLE      Superasymmetric fission of heavy nuclei induced by
+#+          intermediate-energy protons
+#AUTHOR(S)  A.Deppman, E.Andrade-Ii, V.Guimaraes, G.S.Karapetyan, O.A.P.Tavares, 
+#+          A.R.Balabekyan, N.A.Demekhina, J.Adam, F.Garcia, K.Katovsky
+#REF-CODE   (J,PR/C,88,064609,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 064609 (doi:10.1103/PhysRevC.88.064609)
+#DATASETS   0
+#
+#DATASET    F1232011 
+#DATE       20240216
+#REACTION   93-NP-237(P,X)27-CO-58,,SIG
+#PROJ       1001
+#TARG       93237
+#MF         3
+#MT         454
+#PRODUCT    27-CO-58
+#C4BEGIN    [ 1001 93237   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 93237   3 454 A  6.6000+8          1.3000-4 2.0000-5           27058.9                     A.Deppman+           (13)F1232 11 
+#/DATA      1
+#/DATASET

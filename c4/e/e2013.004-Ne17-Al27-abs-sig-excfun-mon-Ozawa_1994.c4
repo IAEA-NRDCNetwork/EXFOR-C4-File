@@ -1,0 +1,26 @@
+#ENTRY      E2013
+#AUTHOR1    A.Ozawa+
+#YEAR       1994
+#INSTITUTE  (2JPNIPC)
+#TITLE      Interaction cross sections and radii of the mass
+#+          number A=17 isobar (17N, 17F, and 17Ne)
+#AUTHOR(S)  A.Ozawa, T.Kobayashi, H.Sato, D.Hirata, I.Tanihata, O.Yamakawa, 
+#+          K.Omata, K.Sugimoto, D.Olson, W.Christie, H.Wieman
+#REF-CODE   (J,PL/B,334,(1-2),18,199408)
+#REFERENCE  Phys.Lett.B 334 No.1-2 (1994) 18 (doi:10.1016/0370-2693(94)90585-1)
+#DATASETS   0
+#
+#DATASET    E2013004 
+#DATE       20070712
+#REACTION   13-AL-27(10-NE-17,ABS),,SIG
+#PROJ       10017
+#TARG       13027
+#MF         3
+#MT         27
+#C4BEGIN    [10017 13027   3  27  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10017 13027   3  27    1.139+10          1.412000 0.224000                                       A.Ozawa+             (94)E2013  4 
+#/DATA      1
+#/DATASET

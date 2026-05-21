@@ -1,0 +1,31 @@
+#ENTRY      O1100
+#AUTHOR1    M.H.Miah+
+#YEAR       2002
+#INSTITUTE  (3BANBAN)
+#TITLE      Production of residual nuclides by proton-induced
+#+          reactions on target W at an energy of 72 MeV
+#AUTHOR(S)  M.H.Miah, J.Kuhnhenn, U.Herpers, R.Michel, P.Kubik
+#REF-CODE   (J,NSTS,2,369,2002)
+#REFERENCE  Nucl.Sci.Techn.Supp. 2 (2002) 369
+#DATASETS   0
+#
+#DATASET    O1100010 
+#DATE       20040116
+#REACTION   74-W-0(P,X)73-TA-177,CUM,SIG
+#PROJ       1001
+#TARG       74000
+#MF         3
+#MT         459
+#PRODUCT    73-TA-177
+#C4BEGIN    [ 1001 74000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 74000   3 459    5.2100+7 904000.0 0.099200 3.6700-3           73177.9                     M.H.Miah+            (02)O1100 10 
+ 1001 74000   3 459    5.5400+7 870000.0 0.126100 5.4130-3           73177.9                     M.H.Miah+            (02)O1100 10 
+ 1001 74000   3 459    5.8600+7 833000.0 0.143600 5.2330-3           73177.9                     M.H.Miah+            (02)O1100 10 
+ 1001 74000   3 459    6.3200+7 759000.0 0.187800 7.6990-3           73177.9                     M.H.Miah+            (02)O1100 10 
+ 1001 74000   3 459    6.6100+7 712000.0 0.194200 8.4940-3           73177.9                     M.H.Miah+            (02)O1100 10 
+ 1001 74000   3 459    6.8900+7 662000.0 0.197800 7.2080-3           73177.9                     M.H.Miah+            (02)O1100 10 
+#/DATA      6
+#/DATASET

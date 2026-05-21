@@ -1,0 +1,29 @@
+#ENTRY      20192
+#AUTHOR1    A.Prosdocimi+
+#YEAR       1963
+#INSTITUTE  (2BLGMOL)
+#TITLE      A precise determination of the thermal neutron
+#+          absorption cross-section of B-10 and natural boron
+#+          by time-of-flight
+#AUTHOR(S)  A.Prosdocimi, A.J.Deruytter, G.Debus, P.J.Debievre, J.Spaepen, 
+#+          K.Lauer, H.Moret
+#REF-CODE   (J,JNE/AB,17,83,1963)
+#REFERENCE  J.Nucl.Energy A/B 17 (1963) 83 (doi:10.1016/0368-3230(63)90027-2)
+#DATASETS   0
+#
+#DATASET    20192004 
+#DATE       20230202
+#REACTION   5-B-10(N,A)3-LI-7,,SIG
+#PROJ       1
+#TARG       5010
+#MF         3
+#MT         107
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  5010   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   3 107    0.025300          3835.000 11.00000                                       A.Prosdocimi+        (63)20192  4 
+    1  5010   3 107    0.025300          3836.000 9.000000                                       A.Prosdocimi+        (63)20192  4 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      C1247
+#AUTHOR1    E.F.Aguilera+
+#YEAR       2001
+#INSTITUTE  (1USANOT)
+#TITLE      Elastic scattering and transfer in the 6He+209Bi
+#+          system below the Coulomb barrier
+#AUTHOR(S)  E.F.Aguilera, J.J.Kolata, F.D.Becchetti, P.A.DeYoung, J.D.Hinnefeld, 
+#+          A.Horvath, L.O.Lamm, H.-Y.Lee, D.Lizcano, E.Martinez-Quiroz, 
+#+          P.Mohr, T.W.O'Donnell, D.A.Roberts, G.Rogachev
+#REF-CODE   (J,PR/C,63,061603,2001)
+#REFERENCE  Phys.Rev.C 63 (2001) 061603 (doi:10.1103/PhysRevC.63.061603)
+#DATASETS   0
+#
+#DATASET    C1247004 
+#DATE       20200923
+#REACTION   83-BI-209(2-HE-6,EL)83-BI-209,,DA
+#PROJ       2006
+#TARG       83209
+#MF         4
+#MT         2
+#PRODUCT    83-BI-209
+#C4BEGIN    [ 2006 83209   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 83209   4   2  C 1.9137+7          0.066346 0.014423-0.289149                              E.F.Aguilera+        (01)C1247  4 
+ 2006 83209   4   2  C 1.9137+7          0.062260 0.013702-0.526437                              E.F.Aguilera+        (01)C1247  4 
+ 2006 83209   4   2  C 1.9137+7          0.072356 0.015385-0.726035                              E.F.Aguilera+        (01)C1247  4 
+ 2006 83209   4   2  C 1.9137+7          0.054567 0.015144-0.877523                              E.F.Aguilera+        (01)C1247  4 
+#/DATA      4
+#/DATASET

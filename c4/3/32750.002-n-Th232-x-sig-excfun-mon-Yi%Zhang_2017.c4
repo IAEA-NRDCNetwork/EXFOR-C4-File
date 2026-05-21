@@ -1,0 +1,29 @@
+#ENTRY      32750
+#AUTHOR1    Yi Zhang+
+#YEAR       2017
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Fission cross section of the 232Th(n,f)131Sb reaction
+#+          induced by neutrons around 14 MeV
+#AUTHOR(S)  Yi Zhang, Tao Lv, Xiaodong Pan, Qiang Wang, Kaihong Fang, 
+#+          Changlin Lan
+#REF-CODE   (J,RPC,135,1,2017)
+#REFERENCE  Radiat.Phys.Chem. 135 (2017) 1
+#DATASETS   0
+#
+#DATASET    32750002 
+#DATE       20170401
+#REACTION   90-TH-232(N,F)51-SB-131,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         454
+#PRODUCT    51-SB-131
+#C4BEGIN    [    1 90232   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3 454    1.4100+7 300000.0 6.2700-3 4.7000-4           51131.9                     Yi Zhang+            (17)32750  2 
+    1 90232   3 454    1.4500+7 300000.0 6.1900-3 5.4000-4           51131.9                     Yi Zhang+            (17)32750  2 
+    1 90232   3 454    1.4800+7 300000.0 6.0000-3 5.1000-4           51131.9                     Yi Zhang+            (17)32750  2 
+#/DATA      3
+#/DATASET

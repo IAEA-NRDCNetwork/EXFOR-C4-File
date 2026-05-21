@@ -1,0 +1,26 @@
+#ENTRY      30732
+#AUTHOR1    Yuin Chihsu+
+#YEAR       1963
+#INSTITUTE  (3CHFNTU)
+#TITLE      Neutron total cross section of praseodymium at 14 MeV
+#AUTHOR(S)  Yuin Chihsu, Chia Yihuang, Yuin Kweitai
+#REF-CODE   (J,CHP,1,39,196310)
+#REFERENCE  Chin.J.Phys. 1 (1963) 39
+#DATASETS   0
+#
+#DATASET    30732002 
+#DATE       20090906
+#REACTION   59-PR-141(N,TOT),,SIG
+#PROJ       1
+#TARG       59141
+#MF         3
+#MT         1
+#C4BEGIN    [    1 59141   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 59141   3   1    1.4750+7 150000.0 5.040000 0.150000                                       Yuin Chihsu+         (63)30732  2 
+    1 59141   3   1    1.4420+7 90000.00 5.060000 0.150000                                       Yuin Chihsu+         (63)30732  2 
+    1 59141   3   1    1.3950+7 30000.00 5.110000 0.150000                                       Yuin Chihsu+         (63)30732  2 
+#/DATA      3
+#/DATASET

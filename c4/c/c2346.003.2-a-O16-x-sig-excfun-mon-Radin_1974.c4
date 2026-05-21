@@ -1,0 +1,27 @@
+#ENTRY      C2346
+#AUTHOR1    J.R.Radin+
+#YEAR       1974
+#INSTITUTE  (3ISLTEL)
+#TITLE      Alpha-spallation cross sections at 920 MeV (230
+#+          MeV/N) in 27Al, 16O, 12C, and 9Be, and application to
+#+          cosmic-ray transport
+#AUTHOR(S)  J.R.Radin, A.R.Smith, N.Little
+#REF-CODE   (J,PR/C,9,1718,1974)
+#REFERENCE  Phys.Rev.C 9 (1974) 1718 (doi:10.1103/PhysRevC.9.1718)
+#DATASETS   0
+#
+#DATASET    C23460032
+#DATE       20180703
+#REACTION   8-O-16(A,X)8-O-15,,SIG
+#PROJ       2004
+#TARG       8016
+#MF         3
+#MT         454
+#PRODUCT    8-O-15
+#C4BEGIN    [ 2004  8016   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  8016   3 454    9.2000+8          0.046600 2.7960-3            8015.9                     J.R.Radin+           (74)C2346  32
+#/DATA      1
+#/DATASET

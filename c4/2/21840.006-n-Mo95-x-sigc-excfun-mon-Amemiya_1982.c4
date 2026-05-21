@@ -1,0 +1,26 @@
+#ENTRY      21840
+#AUTHOR1    S.Amemiya+
+#YEAR       1982
+#INSTITUTE  (2JPNNAG)
+#TITLE      Neutron activation cross section of
+#+          molybdenum isotopes at 14.8 MeV.
+#AUTHOR(S)  S.Amemiya, K.Ishibashi, T.Katoh
+#REF-CODE   (J,NST,19,(10),781,198210)
+#REFERENCE  J.Nucl.Sci.Technol. 19 No.10 (1982) 781 (doi:10.1080/18811248.1982.9734218)
+#DATASETS   0
+#
+#DATASET    21840006 
+#DATE       20151213
+#REACTION   42-MO-95(N,P)41-NB-95-G,(M),SIG
+#PROJ       1
+#TARG       42095
+#MF         3
+#MT         459
+#PRODUCT    41-NB-95-G
+#C4BEGIN    [    1 42095   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42095   3 459    1.4800+7 300000.0 0.041100 3.6000-3           41095.0                     S.Amemiya+           (82)21840  6 
+#/DATA      1
+#/DATASET

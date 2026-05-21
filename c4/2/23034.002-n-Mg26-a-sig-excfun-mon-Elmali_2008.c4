@@ -1,0 +1,32 @@
+#ENTRY      23034
+#AUTHOR1    A.Elmali+
+#YEAR       2008
+#INSTITUTE  (2TUKCNA)
+#TITLE      .Measurements and statistical model calculations of
+#+          activation cross-sections for 26Mg(n,a)23Ne reaction
+#+          between 13.6 and 14.9 MeV neutron energies
+#AUTHOR(S)  A.Elmali, I.A.Reyhancan
+#REF-CODE   (J,ANE,35,1068,2008)
+#REFERENCE  Ann.Nucl.Energy 35 (2008) 1068 (doi:10.1016/j.anucene.2007.11.001)
+#DATASETS   0
+#
+#DATASET    23034002 
+#DATE       20081106
+#REACTION   12-MG-26(N,A)10-NE-23,,SIG
+#PROJ       1
+#TARG       12026
+#MF         3
+#MT         107
+#PRODUCT    10-NE-23
+#C4BEGIN    [    1 12026   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 12026   3 107    1.3600+7 80000.00 0.068490 4.1100-3                                       A.Elmali+            (08)23034  2 
+    1 12026   3 107    1.3680+7 80000.00 0.065700 3.9400-3                                       A.Elmali+            (08)23034  2 
+    1 12026   3 107    1.4100+7 100000.0 0.055980 3.3600-3                                       A.Elmali+            (08)23034  2 
+    1 12026   3 107    1.4460+7 110000.0 0.063010 3.7800-3                                       A.Elmali+            (08)23034  2 
+    1 12026   3 107    1.4720+7 110000.0 0.053190 3.1900-3                                       A.Elmali+            (08)23034  2 
+    1 12026   3 107    1.4860+7 120000.0 0.049140 2.9500-3                                       A.Elmali+            (08)23034  2 
+#/DATA      6
+#/DATASET

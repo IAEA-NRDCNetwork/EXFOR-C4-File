@@ -1,0 +1,27 @@
+#ENTRY      11233
+#AUTHOR1    R.B.Day+
+#YEAR       1960
+#INSTITUTE  (1USALAS)
+#TITLE      GAMMA RAYS FROM NEUTRON INELASTIC SCATTERING IN B10,
+#+          F19 AND FE56.
+#AUTHOR(S)  R.B.Day, M.Walt
+#REF-CODE   (J,PR,117,1330,60)
+#REFERENCE  Phys.Rev. 117 (1960) 1330 (doi:10.1103/PhysRev.117.1330)
+#DATASETS   0
+#
+#DATASET    11233006 
+#DATE       19800820
+#REACTION   9-F-19(N,INL)9-F-19,PAR,SIG,G
+#PROJ       1
+#TARG       9019
+#MF         13
+#MT         51
+#PRODUCT    9-F-19
+#C4BEGIN    [    1  9019  13  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  9019  13  51 D  2560000.          0.182000 0.010000                   110000.0            R.B.Day+             (60)11233  6 
+    1  9019  13  51 D  2560000.          0.530000 0.018000                   197000.0            R.B.Day+             (60)11233  6 
+#/DATA      2
+#/DATASET

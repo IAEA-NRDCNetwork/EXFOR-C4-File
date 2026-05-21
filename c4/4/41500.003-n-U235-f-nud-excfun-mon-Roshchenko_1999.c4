@@ -1,0 +1,31 @@
+#ENTRY      41500
+#AUTHOR1    V.A.Roshchenko+
+#YEAR       1999
+#INSTITUTE  (4RUSFEI)
+#TITLE      Cumulative yields of delayed neutrons precursors in
+#+          neutron induced fission of 237-Np and 238-U in the
+#+          energy range from 0.5 up to 5. MeV.
+#AUTHOR(S)  V.A.Roshchenko, V.M.Piksaykin, G.G.Korolev, Yu.F.Balakshev, 
+#+          S.G.Isaev
+#REF-CODE   (J,YF,62,1358,1999)
+#REFERENCE  Yad.Fiz. 62 (1999) 1358
+#DATASETS   0
+#
+#DATASET    41500003 
+#DATE       20191116
+#REACTION   92-U-235(N,F),DL,NU
+#PROJ       1
+#TARG       92235
+#MF         1
+#MT         455
+#C4BEGIN    [    1 92235   1 455 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   1 455 D  769000.0          0.016600 7.3200-4                                       V.A.Roshchenko+      (99)41500  3 
+    1 92235   1 455 D  3302000.          0.015800 1.0200-3                                       V.A.Roshchenko+      (99)41500  3 
+    1 92235   1 455 D  3848000.          0.015900 1.0200-3                                       V.A.Roshchenko+      (99)41500  3 
+    1 92235   1 455 D  4325000.          0.014400 8.6500-4                                       V.A.Roshchenko+      (99)41500  3 
+    1 92235   1 455 D  4882000.          0.013900 8.6500-4                                       V.A.Roshchenko+      (99)41500  3 
+#/DATA      5
+#/DATASET

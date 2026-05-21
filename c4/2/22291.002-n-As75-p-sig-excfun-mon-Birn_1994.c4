@@ -1,0 +1,35 @@
+#ENTRY      22291
+#AUTHOR1    I.Birn+
+#YEAR       1994
+#INSTITUTE  (2GERJUL)
+#TITLE      Excitation functions of neutron threshold reactions
+#+          on some isotopes of germanium, arsenic and selenium
+#+          in the 6.3- to 14.7-MeV energy range.
+#AUTHOR(S)  I.Birn, S.M.Qaim, B.Strohmaier, H.Freiesleben
+#REF-CODE   (J,NSE,116,125,1994)
+#REFERENCE  Nucl.Sci.Eng. 116 (1994) 125 (doi:10.13182/NSE94-A21488)
+#DATASETS   0
+#
+#DATASET    22291002 
+#DATE       20150819
+#REACTION   33-AS-75(N,P)32-GE-75,,SIG
+#PROJ       1
+#TARG       33075
+#MF         3
+#MT         103
+#PRODUCT    32-GE-75
+#C4BEGIN    [    1 33075   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 33075   3 103    6340000. 140000.0 4.0600-3                                                I.Birn+              (94)22291  2 
+    1 33075   3 103    7320000. 160000.0 6.0600-3                                                I.Birn+              (94)22291  2 
+    1 33075   3 103    7800000. 170000.0 6.9100-3                                                I.Birn+              (94)22291  2 
+    1 33075   3 103    8260000. 180000.0 8.0000-3                                                I.Birn+              (94)22291  2 
+    1 33075   3 103    9180000. 200000.0 0.011300                                                I.Birn+              (94)22291  2 
+    1 33075   3 103    1.0090+7 220000.0 0.016600                                                I.Birn+              (94)22291  2 
+    1 33075   3 103    1.0980+7 240000.0 0.019100                                                I.Birn+              (94)22291  2 
+    1 33075   3 103    1.1870+7 255000.0 0.020300                                                I.Birn+              (94)22291  2 
+    1 33075   3 103    1.4680+7 100000.0 0.017600                                                I.Birn+              (94)22291  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      21135
+#AUTHOR1    D.S.Mather+
+#YEAR       1965
+#INSTITUTE  (2UK ALD)
+#TITLE      -MEASUREMENT OF PROMPT NU FOR THE NEUTRON-INDUCED
+#+          FISSION OF TH-232, U-233, U-234 AND PU-239-
+#AUTHOR(S)  D.S.Mather, P.Fieldhouse, A.Moat
+#REF-CODE   (J,NP,66,149,6504)
+#REFERENCE  Nucl.Phys. 66 (1965) 149 (doi:10.1016/0029-5582(65)90139-2)
+#DATASETS   0
+#
+#DATASET    21135003 
+#DATE       19810722
+#REACTION   92-U-233(N,F),PR,NU
+#PROJ       1
+#TARG       92233
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92233   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   1 456    960000.0 205000.0 2.532000 0.040000                                       D.S.Mather+          (65)21135  3 
+    1 92233   1 456    1980000. 145000.0 2.639000 0.037000                                       D.S.Mather+          (65)21135  3 
+    1 92233   1 456    3000000. 115000.0 2.855000 0.042000                                       D.S.Mather+          (65)21135  3 
+    1 92233   1 456    4000000. 90000.00 2.923000 0.047000                                       D.S.Mather+          (65)21135  3 
+#/DATA      4
+#/DATASET

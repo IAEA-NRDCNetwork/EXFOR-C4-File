@@ -1,0 +1,35 @@
+#ENTRY      11313
+#AUTHOR1    R.N.Little Jr+
+#YEAR       1955
+#INSTITUTE  (1USATEX)
+#TITLE      Liquid scintillator Measurements of Angular Elastic
+#+          Scattering of Neutrons from Carbon, Aluminum, and
+#+          Sulfur
+#AUTHOR(S)  R.N.Little Jr, B.P.Leonard Jr, J.T.Prud'Homme, L.D.Vincent
+#REF-CODE   (J,PR,98,634,195505)
+#REFERENCE  Phys.Rev. 98 (1955) 634 (doi:10.1103/PhysRev.98.634)
+#DATASETS   0
+#
+#DATASET    11313002 
+#DATE       19860417
+#REACTION   6-C-0(N,EL)6-C-0,,DA
+#PROJ       1
+#TARG       6000
+#MF         4
+#MT         2
+#PRODUCT    6-C-0
+#C4BEGIN    [    1  6000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   4   2  C 2700000. 40000.00 0.163000          0.750000                              R.N.Little Jr+       (55)11313  2 
+    1  6000   4   2  C 2700000. 40000.00 0.116000          0.590000                              R.N.Little Jr+       (55)11313  2 
+    1  6000   4   2  C 2700000. 40000.00 0.094000          0.435000                              R.N.Little Jr+       (55)11313  2 
+    1  6000   4   2  C 2700000. 40000.00 0.077000          0.265000                              R.N.Little Jr+       (55)11313  2 
+    1  6000   4   2  C 2700000. 40000.00 0.068000          0.090000                              R.N.Little Jr+       (55)11313  2 
+    1  6000   4   2  C 2700000. 40000.00 0.060000         -0.090000                              R.N.Little Jr+       (55)11313  2 
+    1  6000   4   2  C 2700000. 40000.00 0.056000         -0.260000                              R.N.Little Jr+       (55)11313  2 
+    1  6000   4   2  C 2700000. 40000.00 0.065000         -0.425000                              R.N.Little Jr+       (55)11313  2 
+    1  6000   4   2  C 2700000. 40000.00 0.064000         -0.570000                              R.N.Little Jr+       (55)11313  2 
+#/DATA      9
+#/DATASET

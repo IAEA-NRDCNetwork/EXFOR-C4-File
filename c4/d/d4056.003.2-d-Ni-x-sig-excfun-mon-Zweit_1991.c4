@@ -1,0 +1,34 @@
+#ENTRY      D4056
+#AUTHOR1    J.Zweit+
+#YEAR       1991
+#INSTITUTE  (2UK MAN)
+#TITLE      Excitation functions for deuteron induced reactions in
+#+          natural nickel: production of no-carrier-added Cu-64
+#+          from enriched Ni-64 targets for positron emission
+#+          tomography
+#AUTHOR(S)  J.Zweit, A.M.Smith, S.Downey, H.L.Sharma
+#REF-CODE   (J,ARI,42,193,1991)
+#REFERENCE  Appl.Radiat.Isot. 42 (1991) 193 (doi:10.1016/0883-2889(91)90073-A)
+#DATASETS   0
+#
+#DATASET    D40560032
+#DATE       20100610
+#REACTION   28-NI-0(D,X)27-CO-55,,SIG
+#PROJ       1002
+#TARG       28000
+#MF         3
+#MT         454
+#PRODUCT    27-CO-55
+#C4BEGIN    [ 1002 28000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28000   3 454    9400000.          5.0000-5 6.0000-6           27055.9                     J.Zweit+             (91)D4056  32
+ 1002 28000   3 454    1.1300+7          1.9000-4 2.0000-5           27055.9                     J.Zweit+             (91)D4056  32
+ 1002 28000   3 454    1.3000+7          1.8000-3 2.0000-4           27055.9                     J.Zweit+             (91)D4056  32
+ 1002 28000   3 454    1.4600+7          6.6000-3 8.0000-4           27055.9                     J.Zweit+             (91)D4056  32
+ 1002 28000   3 454    1.6200+7          0.012700 1.1000-3           27055.9                     J.Zweit+             (91)D4056  32
+ 1002 28000   3 454    1.7600+7          0.019600 2.3000-3           27055.9                     J.Zweit+             (91)D4056  32
+ 1002 28000   3 454    1.8900+7          0.024600 3.2000-3           27055.9                     J.Zweit+             (91)D4056  32
+#/DATA      7
+#/DATASET

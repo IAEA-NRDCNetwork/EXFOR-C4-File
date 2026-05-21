@@ -1,0 +1,31 @@
+#ENTRY      22969
+#AUTHOR1    R.Vlastou+
+#YEAR       2007
+#INSTITUTE  (2GRCTUA)
+#TITLE      Neutron Induced Reactions at the Athens Tandem
+#+          Accelerator NCSR "Demokritos".
+#AUTHOR(S)  R.Vlastou, C.T.Papadopoulos, M.Kokkoris, G.Perdikakis, S.Galanopoulos, 
+#+          M.Serris, A.Lagoyannis, S.Harissopulos, C.A.Kalfas, N.Patronis, 
+#+          P.Demetriou
+#REF-CODE   (J,JRN,272,219,2007)
+#REFERENCE  J.Rad.Nucl.Chem. 272 (2007) 219 (doi:10.1007/s10967-007-0503-8)
+#DATASETS   0
+#
+#DATASET    22969005 
+#DATE       20180831
+#REACTION   32-GE-72(N,A)30-ZN-69-M,,SIG
+#PROJ       1
+#TARG       32072
+#MF         3
+#MT         107
+#PRODUCT    30-ZN-69-M
+#C4BEGIN    [    1 32072   3 107MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32072   3 107MA  9600000. 50000.00 1.8000-3 2.0000-4                                       R.Vlastou+           (07)22969  5 
+    1 32072   3 107MA  1.0600+7 50000.00 2.2000-3 1.0000-4                                       R.Vlastou+           (07)22969  5 
+    1 32072   3 107MA  1.1100+7 40000.00 2.6000-3 4.0000-4                                       R.Vlastou+           (07)22969  5 
+    1 32072   3 107MA  1.1400+7 40000.00 3.0000-3 2.0000-4                                       R.Vlastou+           (07)22969  5 
+#/DATA      4
+#/DATASET

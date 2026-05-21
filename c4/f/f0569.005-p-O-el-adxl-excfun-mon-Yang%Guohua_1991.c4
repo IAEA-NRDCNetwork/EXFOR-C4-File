@@ -1,0 +1,30 @@
+#ENTRY      F0569
+#AUTHOR1    Yang Guohua+
+#YEAR       1991
+#INSTITUTE  (3CPRNRS)
+#TITLE      Proton elastic scattering for light element cross secti
+#+          enhancement with Ep>2.5 MeV.
+#AUTHOR(S)  Yang Guohua, Zhu Dezhang, Xu Hongjie, Pan Haochang
+#REF-CODE   (J,NIM/B,61,175,1991)
+#REFERENCE  Nucl.Instrum.Meth.B 61 (1991) 175 (doi:10.1016/0168-583X(91)95457-O)
+#DATASETS   0
+#
+#DATASET    F0569005 
+#DATE       20030429
+#REACTION   8-O-0(P,EL)8-O-0,,DA,,RTH
+#PROJ       1001
+#TARG       8000
+#MF         4
+#MT         2
+#PRODUCT    8-O-0
+#C4BEGIN    [ 1001  8000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8000   4   2    2700000.          0.073677 2.9471-3-0.984808                              Yang Guohua+         (91)F0569  5 
+ 1001  8000   4   2    2800000.          0.077031 3.0812-3-0.984808                              Yang Guohua+         (91)F0569  5 
+ 1001  8000   4   2    2900000.          0.075881 3.0352-3-0.984808                              Yang Guohua+         (91)F0569  5 
+ 1001  8000   4   2    3000000.          0.075917 3.0367-3-0.984808                              Yang Guohua+         (91)F0569  5 
+ 1001  8000   4   2    3100000.          0.075878 3.0351-3-0.984808                              Yang Guohua+         (91)F0569  5 
+#/DATA      5
+#/DATASET

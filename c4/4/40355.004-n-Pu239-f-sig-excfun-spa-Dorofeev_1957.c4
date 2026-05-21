@@ -1,0 +1,30 @@
+#ENTRY      40355
+#AUTHOR1    G.A.Dorofeev+
+#YEAR       1957
+#INSTITUTE  (4RUSKUR)
+#TITLE      Effective cross-sections for fission of U-233, U-235,
+#+          Pu-239 and Pu-240 by neutrons with energies from 30 keV
+#+          to 5 MeV .
+#AUTHOR(S)  G.A.Dorofeev, Yu.P.Dobrynin
+#REF-CODE   (J,SJA,2,9,1957)
+#REFERENCE  Sov.At.Energy 2 (1957) 9 (doi:10.1007/BF01480700)
+#DATASETS   0
+#
+#DATASET    40355004 
+#DATE       20161227
+#REACTION   94-PU-239(N,F),,SIG,,SPA
+#PROJ       1
+#TARG       94239
+#MF         3
+#MT         18
+#C4BEGIN    [    1 94239   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   3  18 D  30000.00          1.790000 0.017900                                       G.A.Dorofeev+        (57)40355  4 
+    1 94239   3  18 D  250000.0          1.580000 0.015800                                       G.A.Dorofeev+        (57)40355  4 
+    1 94239   3  18 D  900000.0          1.790000 0.017900                                       G.A.Dorofeev+        (57)40355  4 
+    1 94239   3  18 D  2000000.          1.860000 0.018600                                       G.A.Dorofeev+        (57)40355  4 
+    1 94239   3  18 D  5000000.          2.100000 0.021000                                       G.A.Dorofeev+        (57)40355  4 
+#/DATA      5
+#/DATASET

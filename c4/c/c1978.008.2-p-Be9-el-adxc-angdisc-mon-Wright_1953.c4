@@ -1,0 +1,35 @@
+#ENTRY      C1978
+#AUTHOR1    B.T.Wright+
+#YEAR       1953
+#INSTITUTE  (1USABRK)
+#TITLE      Angular Distribution of 30.6 MeV Protons Elastically
+#+          Scattered by Be, C, and Al
+#AUTHOR(S)  B.T.Wright
+#REF-CODE   (P,UCRL-2422,1953)
+#REFERENCE  Progress report UCRL-2422, 1953
+#DATASETS   0
+#
+#DATASET    C19780082
+#DATE       20130207
+#REACTION   4-BE-9(P,EL)4-BE-9,,DA,,RTH
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         2
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1001  4009   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4   2  C 3.0600+7 400000.0 0.711481          0.981293                              B.T.Wright           (53)C1978  82
+ 1001  4009   4   2  C 3.0600+7 400000.0 0.608986          0.957822                              B.T.Wright           (53)C1978  82
+ 1001  4009   4   2  C 3.0600+7 400000.0 0.491769          0.925871                              B.T.Wright           (53)C1978  82
+ 1001  4009   4   2  C 3.0600+7 400000.0 0.320619          0.885394                              B.T.Wright           (53)C1978  82
+ 1001  4009   4   2  C 3.0600+7 400000.0 0.195890          0.836764                              B.T.Wright           (53)C1978  82
+ 1001  4009   4   2  C 3.0600+7 400000.0 2.9391-3         -0.111469                              B.T.Wright           (53)C1978  82
+ 1001  4009   4   2  C 3.0600+7 400000.0 1.3613-3         -0.280667                              B.T.Wright           (53)C1978  82
+ 1001  4009   4   2  C 3.0600+7 400000.0 8.6161-4         -0.438371                              B.T.Wright           (53)C1978  82
+ 1001  4009   4   2  C 3.0600+7 400000.0 5.6224-4         -0.580703                              B.T.Wright           (53)C1978  82
+ 1001  4009   4   2  C 3.0600+7 400000.0 4.4814-4 5.2490-5-0.705872                              B.T.Wright           (53)C1978  82
+#/DATA      10
+#/DATASET

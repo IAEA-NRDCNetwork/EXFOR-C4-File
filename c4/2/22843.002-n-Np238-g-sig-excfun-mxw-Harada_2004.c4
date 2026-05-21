@@ -1,0 +1,26 @@
+#ENTRY      22843
+#AUTHOR1    H.Harada+
+#YEAR       2004
+#INSTITUTE  (2JPNJAE)
+#TITLE      Measurement of the effective capture cross section
+#+          of 238Np for thermal neutrons
+#AUTHOR(S)  H.Harada, S.Nakamura, T.Fujii, H.Yamana
+#REF-CODE   (J,NST,41,(1),1,200401)
+#REFERENCE  J.Nucl.Sci.Technol. 41 No.1 (2004) 1 (doi:10.1080/18811248.2004.9715451)
+#DATASETS   0
+#
+#DATASET    22843002 
+#DATE       20161111
+#REACTION   93-NP-238(N,G)93-NP-239,,SIG,,MXW
+#PROJ       1
+#TARG       93238
+#MF         3
+#MT         102
+#PRODUCT    93-NP-239
+#C4BEGIN    [    1 93238   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93238   3 102    0.025300          479.0000 24.00000                                       H.Harada+            (04)22843  2 
+#/DATA      1
+#/DATASET

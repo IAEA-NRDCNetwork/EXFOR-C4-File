@@ -1,0 +1,29 @@
+#ENTRY      C1504
+#AUTHOR1    K.Yoneda+
+#YEAR       2006
+#INSTITUTE  (1USAMSU)
+#TITLE      Two-neutron knockout from neutron-deficient 34Ar, 30S,
+#+          and 26Si
+#AUTHOR(S)  K.Yoneda, A.Obertelli, A.Gade, D.Bazin, B.A.Brown, C.M.Campbell, 
+#+          J.M.Cook, P.D.Cottle, A.D.Davies, D.C.Dinca, T.Glasmacher, 
+#+          P.G.Hansen, T.Hoagland, K.W.Kemper, J.L.Lecouey, W.F.Mueller, 
+#+          R.R.Reynolds, B.T.Roeder, J.R.Terry, J.A.Tostevin, H.Zwahlen
+#REF-CODE   (J,PR/C,74,021303,2006)
+#REFERENCE  Phys.Rev.C 74 (2006) 021303 (doi:10.1103/PhysRevC.74.021303)
+#DATASETS   0
+#
+#DATASET    C1504005 
+#DATE       20070116
+#REACTION   5-B-9(18-AR-34,X)18-AR-32,,SIG
+#PROJ       18034
+#TARG       5009
+#MF         3
+#MT         454
+#PRODUCT    18-AR-32
+#C4BEGIN    [18034  5009   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18034  5009   3 454    3.7400+9          4.8000-4 6.0000-5           18032.9                     K.Yoneda+            (06)C1504  5 
+#/DATA      1
+#/DATASET

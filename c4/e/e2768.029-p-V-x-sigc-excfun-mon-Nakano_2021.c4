@@ -1,0 +1,28 @@
+#ENTRY      E2768
+#AUTHOR1    K.Nakano+
+#YEAR       2021
+#INSTITUTE  (2JPNJAE)
+#TITLE      Measurement of Nuclide Production Cross-sections in
+#+          High-energy Proton-induced Spallation Reactions at
+#+          J-PARC
+#AUTHOR(S)  K.Nakano, H.Matsuda, S.Meigo, H.Iwamoto, H.Takeshita, F.Maekawa
+#REF-CODE   (R,JAEA-R-2021-014,1,2021)
+#REFERENCE  Report JAEA-R-2021-014 page 1, 2021
+#DATASETS   0
+#
+#DATASET    E2768029 
+#DATE       20231202
+#REACTION   23-V-0(P,X)20-CA-47,CUM,SIG
+#PROJ       1001
+#TARG       23000
+#MF         3
+#MT         459
+#PRODUCT    20-CA-47
+#C4BEGIN    [ 1001 23000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 23000   3 459    4.0000+8          4.4200-4 9.0000-5           20047.9                     K.Nakano+            (21)E2768 29 
+ 1001 23000   3 459    3.0000+9          5.9600-4 1.2100-4           20047.9                     K.Nakano+            (21)E2768 29 
+#/DATA      2
+#/DATASET

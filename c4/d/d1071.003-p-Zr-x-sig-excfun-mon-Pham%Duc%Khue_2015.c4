@@ -1,0 +1,26 @@
+#ENTRY      D1071
+#AUTHOR1    Pham Duc Khue+
+#YEAR       2015
+#INSTITUTE  (3VN IPH)
+#TITLE      Cross sections for the natZr(p,xn)89,90Nb reactions
+#+          induced by 27.7 MeV protons
+#AUTHOR(S)  Pham Duc Khue, Nguyen Van Do, Le Tuan Anh
+#REF-CODE   (J,CMPH,25,257,2015)
+#REFERENCE  Commun.Phys. 25 (2015) 257
+#DATASETS   0
+#
+#DATASET    D1071003 
+#DATE       20250426
+#REACTION   40-ZR-0(P,X)41-NB-90,,SIG
+#PROJ       1001
+#TARG       40000
+#MF         3
+#MT         454
+#PRODUCT    41-NB-90
+#C4BEGIN    [ 1001 40000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40000   3 454    2.7700+7          0.140900 0.011300           41090.9                     Pham Duc Khue+       (15)D1071  3 
+#/DATA      1
+#/DATASET

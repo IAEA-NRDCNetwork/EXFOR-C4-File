@@ -1,0 +1,32 @@
+#ENTRY      C2517
+#AUTHOR1    H.Jayatissa+
+#YEAR       2020
+#INSTITUTE  (1USATAM)
+#TITLE      Constraining the 22Ne(a,g)26Mg and 22Ne(a,n)25Mg
+#+          reaction rates using sub- Coulomb alpha-transfer
+#+          reactions
+#AUTHOR(S)  H.Jayatissa, G.V.Rogachev, V.Z.Goldberg, E.Koshchiy, G.Christian, 
+#+          J.Hooker, S.Ota, B.T.Roeder, A.Saastamoinen, O.Trippella, 
+#+          S.Upadhyayula, E.Uberseder
+#REF-CODE   (J,PL/B,802,135267,2020)
+#REFERENCE  Phys.Lett.B 802 (2020) 135267 (doi:10.1016/j.physletb.2020.135267)
+#DATASETS   0
+#
+#DATASET    C2517002 
+#DATE       20200716
+#REACTION   3-LI-6(10-NE-22,D)12-MG-26,PAR,DA
+#PROJ       10022
+#TARG       3006
+#MF         4
+#MT         650
+#PRODUCT    12-MG-26
+#C4BEGIN    [10022  3006   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10022  3006   4 650    2.2000+7          8.2000-5 6.0000-6 0.996195          1.1320+7 2500.000LVLH.Jayatissa+         (20)C2517  2 
+10022  3006   4 650    2.2000+7          2.6000-5 3.0000-6 0.996195          1.1081+7 4000.000LVLH.Jayatissa+         (20)C2517  2 
+10022  3006   4 650    2.2000+7          3.9000-5 4.0000-6 0.996195          1.0949+7 800.0000LVLH.Jayatissa+         (20)C2517  2 
+10022  3006   4 650    2.2000+7          2.4000-5 3.0000-6 0.996195          1.0823+7 3000.000LVLH.Jayatissa+         (20)C2517  2 
+#/DATA      4
+#/DATASET

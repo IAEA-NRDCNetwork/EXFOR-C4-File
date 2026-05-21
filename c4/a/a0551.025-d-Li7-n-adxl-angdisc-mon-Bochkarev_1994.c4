@@ -1,0 +1,40 @@
+#ENTRY      A0551
+#AUTHOR1    O.V.Bochkarev+
+#YEAR       1994
+#INSTITUTE  (4RUSKUR)
+#TITLE      The Neutron from Li-7+D Reaction in Deutron Energy
+#+          Range 0.7-12.1 MeV.
+#AUTHOR(S)  O.V.Bochkarev, V.A.Vukolov, E.A.Koltynin, E.A.Kuz'Min, Yu.D.Molchanov, 
+#+          L.V.Chulkov, G.B.Yan'Kov
+#REF-CODE   (P,IAE-5784/2,94)
+#REFERENCE  Progress report IAE-5784/2, 1994
+#DATASETS   0
+#
+#DATASET    A0551025 
+#DATE       19980615
+#REACTION   3-LI-7(D,N)4-BE-8,PAR,DA
+#PROJ       1002
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1002  3007   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3007   4  50 AC 7800000.          0.031300          0.978509 1.7995-3 1.6750+7 150000.0LVLO.V.Bochkarev+       (94)A0551 25 
+ 1002  3007   4  50 AC 7800000.          0.028100          0.949425 2.7401-3 1.6750+7 150000.0LVLO.V.Bochkarev+       (94)A0551 25 
+ 1002  3007   4  50 AC 7800000.          0.022000          0.912120 3.5773-3 1.6750+7 150000.0LVLO.V.Bochkarev+       (94)A0551 25 
+ 1002  3007   4  50 AC 7800000.          0.016200          0.866025 4.3633-3 1.6750+7 150000.0LVLO.V.Bochkarev+       (94)A0551 25 
+ 1002  3007   4  50 AC 7800000.          9.1000-3          0.806960 5.1540-3 1.6750+7 150000.0LVLO.V.Bochkarev+       (94)A0551 25 
+ 1002  3007   4  50 AC 7800000.          5.1000-3          0.656059 6.5861-3 1.6750+7 150000.0LVLO.V.Bochkarev+       (94)A0551 25 
+ 1002  3007   4  50 AC 7800000.          3.1000-3          0.483282 7.6399-3 1.6750+7 150000.0LVLO.V.Bochkarev+       (94)A0551 25 
+ 1002  3007   4  50 AC 7800000.          2.9000-3          0.297375 8.3319-3 1.6750+7 150000.0LVLO.V.Bochkarev+       (94)A0551 25 
+ 1002  3007   4  50 AC 7800000.          2.2000-3         -0.034899 8.7213-3 1.6750+7 150000.0LVLO.V.Bochkarev+       (94)A0551 25 
+ 1002  3007   4  50 AC 7800000.          2.3000-3         -0.397148 8.0089-3 1.6750+7 150000.0LVLO.V.Bochkarev+       (94)A0551 25 
+ 1002  3007   4  50 AC 7800000.          3.3000-3         -0.641450 6.6948-3 1.6750+7 150000.0LVLO.V.Bochkarev+       (94)A0551 25 
+ 1002  3007   4  50 AC 7800000.          4.4000-3         -0.778243 5.4800-3 1.6750+7 150000.0LVLO.V.Bochkarev+       (94)A0551 25 
+ 1002  3007   4  50 AC 7800000.          4.9000-3         -0.852640 4.5597-3 1.6750+7 150000.0LVLO.V.Bochkarev+       (94)A0551 25 
+ 1002  3007   4  50 AC 7800000.          5.5000-3         -0.913545 3.5494-3 1.6750+7 150000.0LVLO.V.Bochkarev+       (94)A0551 25 
+#/DATA      14
+#/DATASET

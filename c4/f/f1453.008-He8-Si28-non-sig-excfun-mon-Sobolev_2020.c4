@@ -1,0 +1,31 @@
+#ENTRY      F1453
+#AUTHOR1    Yu.G.Sobolev+
+#YEAR       2020
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Total reaction cross sections for 6,8He and 9Li
+#+          nuclei on 28Si, 59Co, and 181Ta targets
+#AUTHOR(S)  Yu.G.Sobolev, Yu.E.Penionzhkevich, V.V.Samarin, M.A.Naumenko, 
+#+          S.S.Stukalov, I.Sivacek, S.A.Krupko, A.Kugler, J.Louko
+#REF-CODE   (J,IZV,84,1152,2020)
+#REFERENCE  Izv.Ross.AN,Fiz. 84 (2020) 1152 (doi:10.31857/S0367676520080293)
+#DATASETS   0
+#
+#DATASET    F1453008 
+#DATE       20220214
+#REACTION   14-SI-28(2-HE-8,NON),,SIG
+#PROJ       2008
+#TARG       14028
+#MF         3
+#MT         3
+#C4BEGIN    [ 2008 14028   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2008 14028   3   3    5.2800+7 1.5200+7 1.612000 0.085000                                       Yu.G.Sobolev+        (20)F1453  8 
+ 2008 14028   3   3    7.2800+7 1.2000+7 2.035000 0.100000                                       Yu.G.Sobolev+        (20)F1453  8 
+ 2008 14028   3   3    1.0400+8 9600000. 1.995000 0.098000                                       Yu.G.Sobolev+        (20)F1453  8 
+ 2008 14028   3   3    1.2960+8 8000000. 1.956000 0.098000                                       Yu.G.Sobolev+        (20)F1453  8 
+ 2008 14028   3   3    1.5440+8 7200000. 1.893000 0.094000                                       Yu.G.Sobolev+        (20)F1453  8 
+ 2008 14028   3   3    1.7040+8 6400000. 1.824000 0.090000                                       Yu.G.Sobolev+        (20)F1453  8 
+#/DATA      6
+#/DATASET

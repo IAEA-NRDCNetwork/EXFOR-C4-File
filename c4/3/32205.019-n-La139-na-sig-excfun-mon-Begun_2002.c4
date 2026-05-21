@@ -1,0 +1,28 @@
+#ENTRY      32205
+#AUTHOR1    S.V.Begun+
+#YEAR       2002
+#INSTITUTE  (4UKRKGU)
+#TITLE      Determination of the cross sections of (n,x) nuclear
+#+          reactions on Y, La, Ta, Pb and Bi at the energy of
+#+          neutrons about 14 MeV
+#AUTHOR(S)  S.V.Begun, I.M.Kadenko, V.K.Maidanyuk, V.M.Neplyuev, V.A.Plujko, 
+#+          G.I.Primenko, V.K.Tarakanov
+#REF-CODE   (J,NSTS,2,425,2002)
+#REFERENCE  Nucl.Sci.Techn.Supp. 2 (2002) 425
+#DATASETS   0
+#
+#DATASET    32205019 
+#DATE       20140921
+#REACTION   57-LA-139(N,N+A)55-CS-135-M,,SIG
+#PROJ       1
+#TARG       57139
+#MF         3
+#MT         22
+#PRODUCT    55-CS-135-M
+#C4BEGIN    [    1 57139   3  22MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 57139   3  22MA  1.4500+7 40000.00 7.6000-7 1.9000-7                                       S.V.Begun+           (02)32205 19 
+#/DATA      1
+#/DATASET

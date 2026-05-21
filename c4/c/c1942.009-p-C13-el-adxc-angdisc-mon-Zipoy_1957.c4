@@ -1,0 +1,31 @@
+#ENTRY      C1942
+#AUTHOR1    D.Zipoy+
+#YEAR       1957
+#INSTITUTE  (1USAMIN)
+#TITLE      C13(p,p)C13: Experiment and Analysis
+#AUTHOR(S)  D.Zipoy, G.Freier, K.Famularo
+#REF-CODE   (J,PR,106,(1),93,1957)
+#REFERENCE  Phys.Rev. 106 No.1 (1957) 93 (doi:10.1103/PhysRev.106.93)
+#DATASETS   0
+#
+#DATASET    C1942009 
+#DATE       20121211
+#REACTION   6-C-13(P,EL)6-C-13,,DA,,RTH
+#PROJ       1001
+#TARG       6013
+#MF         4
+#MT         2
+#PRODUCT    6-C-13
+#C4BEGIN    [ 1001  6013   4   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6013   4   2 DC 2400000.          0.442858 0.026572 0.707107                              D.Zipoy+             (57)C1942  9 
+ 1001  6013   4   2 DC 2400000.          0.260893 0.015654 0.577858                              D.Zipoy+             (57)C1942  9 
+ 1001  6013   4   2 DC 2400000.          0.145213 8.7128-3 0.273959                              D.Zipoy+             (57)C1942  9 
+ 1001  6013   4   2 DC 2400000.          0.120895 7.2537-3 6.123-17                              D.Zipoy+             (57)C1942  9 
+ 1001  6013   4   2 DC 2400000.          0.121144 7.2687-3-0.282341                              D.Zipoy+             (57)C1942  9 
+ 1001  6013   4   2 DC 2400000.          0.100303 6.0182-3-0.612907                              D.Zipoy+             (57)C1942  9 
+ 1001  6013   4   2 DC 2400000.          0.081884 4.9131-3-0.856267                              D.Zipoy+             (57)C1942  9 
+#/DATA      7
+#/DATASET

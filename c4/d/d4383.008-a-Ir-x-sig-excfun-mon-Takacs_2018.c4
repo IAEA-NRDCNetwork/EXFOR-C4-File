@@ -1,0 +1,35 @@
+#ENTRY      D4383
+#AUTHOR1    S.Takacs+
+#YEAR       2018
+#INSTITUTE  (3HUNDEB)
+#TITLE      Measurement of activation cross sections of alpha
+#+          particle induced reactions on iridium up to an energy
+#+          of 50 MeV
+#AUTHOR(S)  S.Takacs, F.Ditroi, Z.Szucs, M.Aikawa, H.Haba, Y.Komori, 
+#+          M.Saito
+#REF-CODE   (J,ARI,136,133,2018)
+#REFERENCE  Appl.Radiat.Isot. 136 (2018) 133 (doi:10.1016/j.apradiso.2018.02.023)
+#DATASETS   0
+#
+#DATASET    D4383008 
+#DATE       20180406
+#REACTION   77-IR-0(A,X)79-AU-191,,SIG
+#PROJ       2004
+#TARG       77000
+#MF         3
+#MT         454
+#PRODUCT    79-AU-191
+#C4BEGIN    [ 2004 77000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 77000   3 454    4.9480+7 200000.0 0.450000 0.055000           79191.9                     S.Takacs+            (18)D4383  8 
+ 2004 77000   3 454    4.8520+7 210000.0 0.462000 0.049000           79191.9                     S.Takacs+            (18)D4383  8 
+ 2004 77000   3 454    4.5790+7 220000.0 0.394000 0.042000           79191.9                     S.Takacs+            (18)D4383  8 
+ 2004 77000   3 454    4.4960+7 220000.0 0.410000 0.046000           79191.9                     S.Takacs+            (18)D4383  8 
+ 2004 77000   3 454    4.1890+7 230000.0 0.246000 0.038000           79191.9                     S.Takacs+            (18)D4383  8 
+ 2004 77000   3 454    4.1210+7 230000.0 0.177000 0.027000           79191.9                     S.Takacs+            (18)D4383  8 
+ 2004 77000   3 454    3.7740+7 250000.0 0.049000 0.032000           79191.9                     S.Takacs+            (18)D4383  8 
+ 2004 77000   3 454    3.7220+7 250000.0 6.6000-3 6.7000-3           79191.9                     S.Takacs+            (18)D4383  8 
+#/DATA      8
+#/DATASET

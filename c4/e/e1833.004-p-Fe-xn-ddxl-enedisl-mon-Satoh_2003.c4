@@ -1,0 +1,40 @@
+#ENTRY      E1833
+#AUTHOR1    D.Satoh+
+#YEAR       2003
+#INSTITUTE  (2JPNKYU)
+#TITLE      Neutron-production double-differential cross sections
+#+          of iron and lead by 0.8 and 1.5 GeV protons in the
+#+          most-forward direction
+#AUTHOR(S)  D.Satoh, N.Shigyo, K.Ishibashi, Y.Takayama, S.Ishimoto, 
+#+          Y.Iwamoto, H.Tenzou, T.Nakamoto, M.Numajiri, S.Meigo
+#REF-CODE   (J,NST,40,(5),283,200305)
+#REFERENCE  J.Nucl.Sci.Technol. 40 No.5 (2003) 283 (doi:10.1080/18811248.2003.9715357)
+#DATASETS   0
+#
+#DATASET    E1833004 
+#DATE       20100514
+#REACTION   26-FE-0(P,X)0-NN-1,,DA/DE
+#PROJ       1001
+#TARG       26000
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1001 26000   6 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26000   6 201 A  1.5000+9          1.3735-9 2.747-10 1.000000          4.0000+8          E2D.Satoh+             (03)E1833  4 
+ 1001 26000   6 201 A  1.5000+9          1.3430-9 2.686-10 1.000000          4.5000+8          E2D.Satoh+             (03)E1833  4 
+ 1001 26000   6 201 A  1.5000+9          1.1952-9 2.390-10 1.000000          5.0000+8          E2D.Satoh+             (03)E1833  4 
+ 1001 26000   6 201 A  1.5000+9          1.0583-9 2.117-10 1.000000          5.5000+8          E2D.Satoh+             (03)E1833  4 
+ 1001 26000   6 201 A  1.5000+9          1.0773-9 2.155-10 1.000000          6.0000+8          E2D.Satoh+             (03)E1833  4 
+ 1001 26000   6 201 A  1.5000+9          1.0140-9 2.028-10 1.000000          6.5000+8          E2D.Satoh+             (03)E1833  4 
+ 1001 26000   6 201 A  1.5000+9          1.0467-9 1.935-10 1.000000          7.3000+8          E2D.Satoh+             (03)E1833  4 
+ 1001 26000   6 201 A  1.5000+9          1.3961-9 2.432-10 1.000000          8.5000+8          E2D.Satoh+             (03)E1833  4 
+ 1001 26000   6 201 A  1.5000+9          1.3841-9 2.648-10 1.000000          1.0000+9          E2D.Satoh+             (03)E1833  4 
+ 1001 26000   6 201 A  1.5000+9          8.595-10 1.638-10 1.000000          1.1500+9          E2D.Satoh+             (03)E1833  4 
+ 1001 26000   6 201 A  1.5000+9          5.273-10 1.102-10 1.000000          1.3000+9          E2D.Satoh+             (03)E1833  4 
+ 1001 26000   6 201 A  1.5000+9          3.330-10 6.226-11 1.000000          1.4500+9          E2D.Satoh+             (03)E1833  4 
+ 1001 26000   6 201 A  1.5000+9          1.876-10 4.809-11 1.000000          1.6000+9          E2D.Satoh+             (03)E1833  4 
+#/DATA      13
+#/DATASET

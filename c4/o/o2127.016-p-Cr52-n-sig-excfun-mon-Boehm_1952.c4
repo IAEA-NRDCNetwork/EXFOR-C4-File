@@ -1,0 +1,30 @@
+#ENTRY      O2127
+#AUTHOR1    F.Boehm+
+#YEAR       1952
+#INSTITUTE  (2SWTETH)
+#TITLE      Relative cross sections for the excitation of isomers
+#+          and ground states by (p,n) reaction.
+#AUTHOR(S)  F.Boehm, P.Marmier, P.Preiswerk
+#REF-CODE   (J,HPA,25,599,1952)
+#REFERENCE  Helv.Phys.Acta 25 (1952) 599
+#DATASETS   0
+#
+#DATASET    O2127016 
+#DATE       20130615
+#REACTION   24-CR-52(P,N)25-MN-52-M,,SIG
+#PROJ       1001
+#TARG       24052
+#MF         3
+#MT         4
+#PRODUCT    25-MN-52-M
+#C4BEGIN    [ 1001 24052   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24052   3   4M   5955000.          2.4360-3                                                F.Boehm+             (52)O2127 16 
+ 1001 24052   3   4M   5958000.          0.012180                                                F.Boehm+             (52)O2127 16 
+ 1001 24052   3   4M   6101000.          0.066340                                                F.Boehm+             (52)O2127 16 
+ 1001 24052   3   4M   6318000.          0.106000                                                F.Boehm+             (52)O2127 16 
+ 1001 24052   3   4M   6613000.          0.165200                                                F.Boehm+             (52)O2127 16 
+#/DATA      5
+#/DATASET

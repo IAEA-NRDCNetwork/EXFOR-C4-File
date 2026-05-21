@@ -1,0 +1,33 @@
+#ENTRY      22825
+#AUTHOR1    I.A.Reyhancan+
+#YEAR       2003
+#INSTITUTE  (2TUKCNA)
+#TITLE      .Measurements of isomeric cross sections for (n,2n)
+#+          reaction on 140Ce, 142Nd and 144Sm isotopes
+#+          around 14 MeV incident neutron energy
+#AUTHOR(S)  I.A.Reyhancan, M.Bostan, A.Durusoy, A.Elmali, A.Baykal, 
+#+          Y.Oezbir
+#REF-CODE   (J,ANE,30,1539,2003)
+#REFERENCE  Ann.Nucl.Energy 30 (2003) 1539 (doi:10.1016/S0306-4549(03)00100-2)
+#DATASETS   0
+#
+#DATASET    22825004 
+#DATE       20040131
+#REACTION   62-SM-144(N,2N)62-SM-143-M,,SIG
+#PROJ       1
+#TARG       62144
+#MF         3
+#MT         16
+#PRODUCT    62-SM-143-M
+#C4BEGIN    [    1 62144   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 62144   3  16M   1.3570+7 40000.00 0.397000 0.016000                                       I.A.Reyhancan+       (03)22825  4 
+    1 62144   3  16M   1.3750+7 50000.00 0.424000 0.017000                                       I.A.Reyhancan+       (03)22825  4 
+    1 62144   3  16M   1.4150+7 70000.00 0.432000 0.018000                                       I.A.Reyhancan+       (03)22825  4 
+    1 62144   3  16M   1.4520+7 90000.00 0.486000 0.020000                                       I.A.Reyhancan+       (03)22825  4 
+    1 62144   3  16M   1.4750+7 90000.00 0.597000 0.025000                                       I.A.Reyhancan+       (03)22825  4 
+    1 62144   3  16M   1.4830+7 100000.0 0.635000 0.026000                                       I.A.Reyhancan+       (03)22825  4 
+#/DATA      6
+#/DATASET

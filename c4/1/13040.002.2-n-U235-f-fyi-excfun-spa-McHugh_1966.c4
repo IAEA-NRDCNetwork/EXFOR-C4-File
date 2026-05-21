@@ -1,0 +1,26 @@
+#ENTRY      13040
+#AUTHOR1    J.A.McHugh+
+#YEAR       1966
+#INSTITUTE  (1USAKAP)
+#TITLE      The independent yields of 86Rb, 132Cs, 134Cs and
+#+          136Cs in the thermal neutron fission of 235U
+#AUTHOR(S)  J.A.McHugh
+#REF-CODE   (J,JIN,28,1787,1966)
+#REFERENCE  J.Inorg.Nucl.Chem. 28 (1966) 1787 (doi:10.1016/0022-1902(66)80263-4)
+#DATASETS   0
+#
+#DATASET    130400022
+#DATE       20201222
+#REACTION   92-U-235(N,F)37-RB-86,IND,FY,,SPA
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         454
+#PRODUCT    37-RB-86
+#C4BEGIN    [    1 92235   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 454    0.025300          2.4000-7          37.00000 86.00000 9.000000            J.A.McHugh           (66)13040  22
+#/DATA      1
+#/DATASET

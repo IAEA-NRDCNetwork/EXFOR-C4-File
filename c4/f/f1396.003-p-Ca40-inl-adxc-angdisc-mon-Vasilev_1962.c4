@@ -1,0 +1,32 @@
+#ENTRY      F1396
+#AUTHOR1    S.S.Vasil'ev+
+#YEAR       1962
+#INSTITUTE  (4RUSMOS)
+#TITLE      Inelastic scattering of 6.6-MeV protons on Ca-40 and
+#+          Mn-55.
+#AUTHOR(S)  S.S.Vasil'ev, E.A.Romanovskii, G.F.Timushev
+#REF-CODE   (J,ZET,42,395,1962)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 42 (1962) 395
+#DATASETS   0
+#
+#DATASET    F1396003 
+#DATE       20190822
+#REACTION   20-CA-40(P,INL)20-CA-40,PAR,DA
+#PROJ       1001
+#TARG       20040
+#MF         4
+#MT         601
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 1001 20040   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20040   4 601  C 6600000.          4.4430-3 6.0860-4 0.674431          3912000. 15000.00LVLS.S.Vasil'ev+        (62)F1396  3 
+ 1001 20040   4 601  C 6600000.          8.0456-3 8.0180-4 0.414217          3912000. 15000.00LVLS.S.Vasil'ev+        (62)F1396  3 
+ 1001 20040   4 601  C 6600000.          7.9796-3 8.1660-4 0.161776          3912000. 15000.00LVLS.S.Vasil'ev+        (62)F1396  3 
+ 1001 20040   4 601  C 6600000.          4.0510-3 4.1560-4-0.016754          3912000. 15000.00LVLS.S.Vasil'ev+        (62)F1396  3 
+ 1001 20040   4 601  C 6600000.          1.7588-3 3.2680-4-0.301538          3912000. 15000.00LVLS.S.Vasil'ev+        (62)F1396  3 
+ 1001 20040   4 601  C 6600000.          1.8274-3 4.0060-4-0.565831          3912000. 15000.00LVLS.S.Vasil'ev+        (62)F1396  3 
+ 1001 20040   4 601  C 6600000.          4.2835-3 4.1580-4-0.722847          3912000. 15000.00LVLS.S.Vasil'ev+        (62)F1396  3 
+#/DATA      7
+#/DATASET

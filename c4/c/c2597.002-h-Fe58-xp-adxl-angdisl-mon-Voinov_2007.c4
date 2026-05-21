@@ -1,0 +1,36 @@
+#ENTRY      C2597
+#AUTHOR1    A.V.Voinov+
+#YEAR       2007
+#INSTITUTE  (1USAOHO)
+#TITLE      Test of nuclear level density inputs for
+#+          Hauser-Feshbach model calculations
+#AUTHOR(S)  A.V.Voinov, S.M.Grimes, C.R.Brune, M.J.Hornish, T.N.Massey, 
+#+          A.Salas
+#REF-CODE   (J,PR/C,76,044602,2007)
+#REFERENCE  Phys.Rev.C 76 (2007) 044602 (doi:10.1103/PhysRevC.76.044602)
+#DATASETS   0
+#
+#DATASET    C2597002 
+#DATE       20210223
+#REACTION   26-FE-58(HE3,X)1-H-1,,DA
+#PROJ       2003
+#TARG       26058
+#MF         4
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 2003 26058   4 203 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 26058   4 203 A  1.0000+7          3.1587-3 3.1587-4 0.923880                              A.V.Voinov+          (07)C2597  2 
+ 2003 26058   4 203 A  1.0000+7          3.1486-3 3.1486-4 0.793353                              A.V.Voinov+          (07)C2597  2 
+ 2003 26058   4 203 A  1.0000+7          3.1663-3 3.1663-4 0.608761                              A.V.Voinov+          (07)C2597  2 
+ 2003 26058   4 203 A  1.0000+7          2.7322-3 2.7322-4 0.382683                              A.V.Voinov+          (07)C2597  2 
+ 2003 26058   4 203 A  1.0000+7          2.5037-3 2.5037-4 0.130526                              A.V.Voinov+          (07)C2597  2 
+ 2003 26058   4 203 A  1.0000+7          2.7339-3 2.7339-4-0.130526                              A.V.Voinov+          (07)C2597  2 
+ 2003 26058   4 203 A  1.0000+7          2.3684-3 2.3684-4-0.382683                              A.V.Voinov+          (07)C2597  2 
+ 2003 26058   4 203 A  1.0000+7          2.3990-3 2.3990-4-0.608761                              A.V.Voinov+          (07)C2597  2 
+ 2003 26058   4 203 A  1.0000+7          2.1548-3 2.1548-4-0.793353                              A.V.Voinov+          (07)C2597  2 
+ 2003 26058   4 203 A  1.0000+7          2.4298-3 2.4298-4-0.923880                              A.V.Voinov+          (07)C2597  2 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      23295
+#AUTHOR1    A.Wallner+
+#YEAR       2016
+#INSTITUTE  (2GERKFK)
+#TITLE      Accelerator mass spectrometry measurements of the
+#+          13C(n,gamma)14C and 14N(n,p)14C cross sections.
+#AUTHOR(S)  A.Wallner, M.Bichler, K.Buczak, I.Dillmann, F.Kaeppeler, 
+#+          A.Karakas, C.Lederer, M.Lugaro, K.Mair, A.Mengoni, G.Schaetzel, 
+#+          P.Steier, H.P.Trautvetter
+#REF-CODE   (J,PR/C,93,045803,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 045803 (doi:10.1103/PhysRevC.93.045803)
+#DATASETS   0
+#
+#DATASET    23295003 
+#DATE       20160421
+#REACTION   7-N-14(N,P)6-C-14,,SIG,,SPA
+#PROJ       1
+#TARG       7014
+#MF         3
+#MT         103
+#PRODUCT    6-C-14
+#C4BEGIN    [    1  7014   3 103 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  7014   3 103 C  123000.0 30000.00 8.8000-4 5.0000-5                                       A.Wallner+           (16)23295  3 
+    1  7014   3 103 C  178000.0 30000.00 9.0000-4 5.0000-5                                       A.Wallner+           (16)23295  3 
+#/DATA      2
+#/DATASET

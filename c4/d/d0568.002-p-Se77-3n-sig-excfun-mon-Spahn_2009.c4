@@ -1,0 +1,42 @@
+#ENTRY      D0568
+#AUTHOR1    I.Spahn+
+#YEAR       2009
+#INSTITUTE  (2GERJUL)
+#TITLE      New cross section measurements for production of the
+#+          positron emitters 75Br and 76Br via intermediate
+#+          energy proton induced reactions
+#AUTHOR(S)  I.Spahn, G.F.Steyn, C.Vermeulen, Z.Kovacs, F.Szelecsenyi, 
+#+          H.H.Coenen, S.M.Qaim
+#REF-CODE   (J,RCA,97,535,2009)
+#REFERENCE  Radiochim.Acta 97 (2009) 535 (doi:10.1524/ract.2009.1636)
+#DATASETS   0
+#
+#DATASET    D0568002 
+#DATE       20090407
+#REACTION   34-SE-77(P,3N)35-BR-75,,SIG
+#PROJ       1001
+#TARG       34077
+#MF         3
+#MT         17
+#PRODUCT    35-BR-75
+#C4BEGIN    [ 1001 34077   3  17 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 34077   3  17 A  2.4300+7 1000000. 0.027400 3.6000-3                                       I.Spahn+             (09)D0568  2 
+ 1001 34077   3  17 A  2.6600+7 800000.0 0.026300 3.5000-3                                       I.Spahn+             (09)D0568  2 
+ 1001 34077   3  17 A  2.8700+7 700000.0 0.106700 0.013900                                       I.Spahn+             (09)D0568  2 
+ 1001 34077   3  17 A  3.1100+7 500000.0 0.178400 0.023200                                       I.Spahn+             (09)D0568  2 
+ 1001 34077   3  17 A  3.1500+7 1000000. 0.182600 0.023700                                       I.Spahn+             (09)D0568  2 
+ 1001 34077   3  17 A  3.5700+7 400000.0 0.267500 0.034800                                       I.Spahn+             (09)D0568  2 
+ 1001 34077   3  17 A  3.7000+7 400000.0 0.161200 0.021000                                       I.Spahn+             (09)D0568  2 
+ 1001 34077   3  17 A  3.8600+7 300000.0 0.188200 0.024500                                       I.Spahn+             (09)D0568  2 
+ 1001 34077   3  17 A  3.9900+7 300000.0 0.101100 0.013100                                       I.Spahn+             (09)D0568  2 
+ 1001 34077   3  17 A  3.9900+7 500000.0 0.116400 0.015140                                       I.Spahn+             (09)D0568  2 
+ 1001 34077   3  17 A  4.1400+7 200000.0 0.097800 0.012700                                       I.Spahn+             (09)D0568  2 
+ 1001 34077   3  17 A  4.3700+7 200000.0 0.063900 8.3000-3                                       I.Spahn+             (09)D0568  2 
+ 1001 34077   3  17 A  4.4500+7 200000.0 0.087300 0.011400                                       I.Spahn+             (09)D0568  2 
+ 1001 34077   3  17 A  4.8400+7 500000.0 0.037400 6.4000-3                                       I.Spahn+             (09)D0568  2 
+ 1001 34077   3  17 A  5.6600+7 300000.0 0.028300 4.8000-3                                       I.Spahn+             (09)D0568  2 
+#/DATA      15
+#/DATASET

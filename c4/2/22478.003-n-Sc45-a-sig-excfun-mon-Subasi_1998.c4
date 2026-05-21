@@ -1,0 +1,32 @@
+#ENTRY      22478
+#AUTHOR1    M.Subasi+
+#YEAR       1998
+#INSTITUTE  (2TUKCNA)
+#TITLE      .(n,alpha) reaction cross sections of 44Ca, 45Sc,
+#+          and 51V nuclei from 13.6 to 14.9 MeV
+#AUTHOR(S)  M.Subasi, M.N.Erduran, M.Bostan, I.A.Reyhancan, E.Gueltekin, 
+#+          G.Tarcan, Y.Ozbir, A.Durusoy
+#REF-CODE   (J,NSE,130,254,1998)
+#REFERENCE  Nucl.Sci.Eng. 130 (1998) 254 (doi:10.13182/NSE98-A2004)
+#DATASETS   0
+#
+#DATASET    22478003 
+#DATE       20010611
+#REACTION   21-SC-45(N,A)19-K-42,,SIG
+#PROJ       1
+#TARG       21045
+#MF         3
+#MT         107
+#PRODUCT    19-K-42
+#C4BEGIN    [    1 21045   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 21045   3 107    1.3600+7 100000.0 0.055400 4.3000-3                                       M.Subasi+            (98)22478  3 
+    1 21045   3 107    1.3700+7 100000.0 0.056400 4.3000-3                                       M.Subasi+            (98)22478  3 
+    1 21045   3 107    1.4100+7 100000.0 0.061800 4.8000-3                                       M.Subasi+            (98)22478  3 
+    1 21045   3 107    1.4500+7 100000.0 0.058200 4.5000-3                                       M.Subasi+            (98)22478  3 
+    1 21045   3 107    1.4700+7 100000.0 0.059700 4.6000-3                                       M.Subasi+            (98)22478  3 
+    1 21045   3 107    1.4900+7 100000.0 0.056200 4.3000-3                                       M.Subasi+            (98)22478  3 
+#/DATA      6
+#/DATASET

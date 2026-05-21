@@ -1,0 +1,29 @@
+#ENTRY      12122
+#AUTHOR1    J.S.McCarthy+
+#YEAR       1968
+#INSTITUTE  (1USASTF)
+#TITLE      Inversion in the deformation effect for neutron
+#+          transmission through oriented Ho165.
+#AUTHOR(S)  J.S.McCarthy, T.R.Fisher, E.G.Shelley, R.S.Safrata, D.Healy
+#REF-CODE   (J,PRL,20,502,1968)
+#REFERENCE  Phys.Rev.Lett. 20 (1968) 502 (doi:10.1103/PhysRevLett.20.502)
+#DATASETS   0
+#
+#DATASET    12122002 
+#DATE       19821012
+#REACTION   67-HO-165(N,TOT),,SIG
+#PROJ       1
+#TARG       67165
+#MF         3
+#MT         1
+#C4BEGIN    [    1 67165   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 67165   3   1    330000.0 85000.00 7.800000 0.150000                                       J.S.McCarthy+        (68)12122  2 
+    1 67165   3   1    935000.0 60000.00 7.650000 0.150000                                       J.S.McCarthy+        (68)12122  2 
+    1 67165   3   1    1850000. 45000.00 7.100000 0.150000                                       J.S.McCarthy+        (68)12122  2 
+    1 67165   3   1    4500000. 200000.0 5.760000 0.120000                                       J.S.McCarthy+        (68)12122  2 
+    1 67165   3   1    5600000. 120000.0 5.210000 0.120000                                       J.S.McCarthy+        (68)12122  2 
+#/DATA      5
+#/DATASET

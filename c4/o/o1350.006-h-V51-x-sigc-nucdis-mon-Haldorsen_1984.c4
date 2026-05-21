@@ -1,0 +1,33 @@
+#ENTRY      O1350
+#AUTHOR1    I.R.Haldorsen+
+#YEAR       1984
+#INSTITUTE  (2ZZZCER)
+#TITLE      Spallation of vanadium induced by 1-GeV C-12 ions and
+#+          BY 258-, 350- and 910-MeV He-3 ions.
+#AUTHOR(S)  I.R.Haldorsen, S.Engelsen, E.Hagebo, J.Petterson, T.Lund, 
+#+          C.Richard-Serre
+#REF-CODE   (J,ZP/A,315,355,1984)
+#REFERENCE  Z.Phys.A 315 (1984) 355 (doi:10.1007/BF01438461)
+#DATASETS   0
+#
+#DATASET    O1350006 
+#DATE       20070528
+#REACTION   23-V-51(HE3,X)ELEM/MASS,CUM,SIG
+#PROJ       2003
+#TARG       23051
+#MF         3
+#MT         459
+#C4BEGIN    [ 2003 23051   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 23051   3 459    9.1000+8          3.0000-3 5.0000-4           11022.9                     I.R.Haldorsen+       (84)O1350  6 
+ 2003 23051   3 459    9.1000+8          5.0000-4 1.0000-4           20047.9                     I.R.Haldorsen+       (84)O1350  6 
+ 2003 23051   3 459    9.1000+8          0.025000 2.0000-3           21047.9                     I.R.Haldorsen+       (84)O1350  6 
+ 2003 23051   3 459    9.1000+8          0.022000 1.0000-3           23048.9                     I.R.Haldorsen+       (84)O1350  6 
+ 2003 23051   3 459    9.1000+8          2.9000-3 2.0000-4           24051.9                     I.R.Haldorsen+       (84)O1350  6 
+ 2003 23051   3 459    9.1000+8          3.0000-4 2.0000-4           25051.9                     I.R.Haldorsen+       (84)O1350  6 
+ 2003 23051   3 459    9.1000+8          6.0000-4 4.0000-4           25052.9                     I.R.Haldorsen+       (84)O1350  6 
+ 2003 23051   3 459    9.1000+8          1.3000-3 2.0000-4           25052.1                     I.R.Haldorsen+       (84)O1350  6 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      D6399
+#AUTHOR1    R.Prajapat+
+#YEAR       2021
+#INSTITUTE  (3INDIRR)
+#TITLE      Probing the influence of incomplete fusion in the
+#+          6Li + 89Y reaction up to 7.2 MeV/nucleon energy
+#AUTHOR(S)  R.Prajapat, M.Maiti
+#REF-CODE   (J,PR/C,103,034620,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 034620 (doi:10.1103/PhysRevC.103.034620)
+#DATASETS   0
+#
+#DATASET    D6399003 
+#DATE       20210607
+#REACTION   39-Y-89(3-LI-6,X)42-MO-91-G,(M),SIG
+#PROJ       3006
+#TARG       39089
+#MF         3
+#MT         459
+#PRODUCT    42-MO-91-G
+#C4BEGIN    [ 3006 39089   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 39089   3 459    3.0200+7 600000.0 7.9000-3 5.1000-3           42091.0                     R.Prajapat+          (21)D6399  3 
+ 3006 39089   3 459    3.1900+7 500000.0 0.011900 6.0000-3           42091.0                     R.Prajapat+          (21)D6399  3 
+ 3006 39089   3 459    3.3500+7 600000.0 0.027000 5.4000-3           42091.0                     R.Prajapat+          (21)D6399  3 
+ 3006 39089   3 459    3.6200+7 500000.0 0.053000 0.034900           42091.0                     R.Prajapat+          (21)D6399  3 
+ 3006 39089   3 459    3.7600+7 400000.0 0.098900 0.030800           42091.0                     R.Prajapat+          (21)D6399  3 
+ 3006 39089   3 459    3.8900+7 400000.0 0.112200 0.029800           42091.0                     R.Prajapat+          (21)D6399  3 
+ 3006 39089   3 459    4.0100+7 400000.0 0.134800 0.026900           42091.0                     R.Prajapat+          (21)D6399  3 
+ 3006 39089   3 459    4.1500+7 400000.0 0.156300 0.030000           42091.0                     R.Prajapat+          (21)D6399  3 
+ 3006 39089   3 459    4.2700+7 400000.0 0.183800 0.028000           42091.0                     R.Prajapat+          (21)D6399  3 
+#/DATA      9
+#/DATASET

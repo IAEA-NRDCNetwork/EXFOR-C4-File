@@ -1,0 +1,34 @@
+#ENTRY      C2921
+#AUTHOR1    A.S.Voyles+
+#YEAR       2021
+#INSTITUTE  (1USAUCX)
+#TITLE      Proton-induced reactions on Fe, Cu, and Ti from
+#+          threshold to 55 MeV
+#AUTHOR(S)  A.S.Voyles, A.M.Lewis, J.T.Morrell, M.S.Basunia, L.A.Bernstein, 
+#+          J.W.Engle, S.A.Graves, E.F.Matthews
+#REF-CODE   (J,EPJ/A,57,94,2021)
+#REFERENCE  Eur.Phys.J.A 57 (2021) 94 (doi:10.1140/epja/s10050-021-00401-2)
+#DATASETS   0
+#
+#DATASET    C2921023 
+#DATE       20230211
+#REACTION   29-CU-0(P,X)27-CO-57,,SIG
+#PROJ       1001
+#TARG       29000
+#MF         3
+#MT         454
+#PRODUCT    27-CO-57
+#C4BEGIN    [ 1001 29000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   3 454    5.3040+7 610000.0 0.049800 3.4000-3           27057.9                     A.S.Voyles+          (21)C2921 23 
+ 1001 29000   3 454    4.6180+7 680000.0 0.033800 2.3000-3           27057.9                     A.S.Voyles+          (21)C2921 23 
+ 1001 29000   3 454    3.8420+7 790000.0 3.7900-3 4.2000-4           27057.9                     A.S.Voyles+          (21)C2921 23 
+ 1001 29000   3 454    3.4060+7 860000.0 1.2060-3 8.0000-5           27057.9                     A.S.Voyles+          (21)C2921 23 
+ 1001 29000   3 454    2.9210+7 970000.0 1.6700-3 1.1000-4           27057.9                     A.S.Voyles+          (21)C2921 23 
+ 1001 29000   3 454    2.3600+7 1200000. 1.0530-3 7.2000-5           27057.9                     A.S.Voyles+          (21)C2921 23 
+ 1001 29000   3 454    2.1700+7 330000.0 7.0700-4 4.6000-5           27057.9                     A.S.Voyles+          (21)C2921 23 
+ 1001 29000   3 454    1.8300+7 380000.0 2.6400-4 2.7000-5           27057.9                     A.S.Voyles+          (21)C2921 23 
+#/DATA      8
+#/DATASET

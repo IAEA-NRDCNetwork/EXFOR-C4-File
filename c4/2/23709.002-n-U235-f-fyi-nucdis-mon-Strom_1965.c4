@@ -1,0 +1,35 @@
+#ENTRY      23709
+#AUTHOR1    P.O.Strom+
+#YEAR       1965
+#INSTITUTE  (2NOROSL)
+#TITLE      Independent yields of 124Sb and 126Sb in thermal
+#+          neutron induced fission and their implication on the
+#+          empirical Zp function
+#AUTHOR(S)  P.O.Strom, G.R.Grant, A.C.Pappas
+#REF-CODE   (J,CJC,43,2493,1965)
+#REFERENCE  Can.J.Chem. 43 (1965) 2493 (doi:10.1139/v65-342)
+#DATASETS   0
+#
+#DATASET    23709002 
+#DATE       20200520
+#REACTION   92-U-235(N,F)ELEM/MASS,IND,FY
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         454
+#C4BEGIN    [    1 92235   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 454    0.025300          1.3500-6          51.00000 124.0000 0.000000            P.O.Strom+           (65)23709  2 
+    1 92235   8 454    0.025300          5.5000-7          51.00000 124.0000 0.000000            P.O.Strom+           (65)23709  2 
+    1 92235   8 454    0.025300          9.3000-8          51.00000 124.0000 0.000000            P.O.Strom+           (65)23709  2 
+    1 92235   8 454    0.025300          9.6000-8          51.00000 124.0000 0.000000            P.O.Strom+           (65)23709  2 
+    1 92235   8 454    0.025300          9.5000-8 1.4000-8 51.00000 124.0000 0.000000            P.O.Strom+           (65)23709  2 
+    1 92235   8 454    0.025300          9.1000-6          51.00000 126.0000 0.000000            P.O.Strom+           (65)23709  2 
+    1 92235   8 454    0.025300          8.8000-6          51.00000 126.0000 0.000000            P.O.Strom+           (65)23709  2 
+    1 92235   8 454    0.025300          1.1100-5          51.00000 126.0000 0.000000            P.O.Strom+           (65)23709  2 
+    1 92235   8 454    0.025300          1.2300-5          51.00000 126.0000 0.000000            P.O.Strom+           (65)23709  2 
+    1 92235   8 454    0.025300          1.0400-5 1.8000-6 51.00000 126.0000 0.000000            P.O.Strom+           (65)23709  2 
+#/DATA      10
+#/DATASET

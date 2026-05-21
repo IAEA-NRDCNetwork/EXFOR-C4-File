@@ -1,0 +1,40 @@
+#ENTRY      12284
+#AUTHOR1    P.F.Rago+
+#YEAR       1967
+#INSTITUTE  (1USANRD)
+#TITLE      THORIUM FISSION CROSS SECTION FOR NEUTRONS BETWEEN 12.5
+#+          AND 18MEV USING FISSION FRAGMENT DAMAGE TRACKS IN LEXAN
+#AUTHOR(S)  P.F.Rago, N.Goldstein
+#REF-CODE   (J,HP,13,654,6706)
+#REFERENCE  Health Phys. 13 (1967) 654
+#DATASETS   0
+#
+#DATASET    122840022
+#DATE       19841005
+#REACTION   90-TH-232(N,F),,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [    1 90232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3  18    1.2500+7          0.280000                                                P.F.Rago+            (67)12284  22
+    1 90232   3  18    1.3000+7          0.320000                                                P.F.Rago+            (67)12284  22
+    1 90232   3  18    1.3000+7          0.360000                                                P.F.Rago+            (67)12284  22
+    1 90232   3  18    1.3500+7          0.360000                                                P.F.Rago+            (67)12284  22
+    1 90232   3  18    1.4000+7          0.380000                                                P.F.Rago+            (67)12284  22
+    1 90232   3  18    1.4500+7          0.420000                                                P.F.Rago+            (67)12284  22
+    1 90232   3  18    1.4500+7          0.390000                                                P.F.Rago+            (67)12284  22
+    1 90232   3  18    1.5000+7          0.440000                                                P.F.Rago+            (67)12284  22
+    1 90232   3  18    1.5500+7          0.450000                                                P.F.Rago+            (67)12284  22
+    1 90232   3  18    1.6000+7          0.500000                                                P.F.Rago+            (67)12284  22
+    1 90232   3  18    1.6000+7          0.450000                                                P.F.Rago+            (67)12284  22
+    1 90232   3  18    1.6500+7          0.510000                                                P.F.Rago+            (67)12284  22
+    1 90232   3  18    1.7000+7          0.540000                                                P.F.Rago+            (67)12284  22
+    1 90232   3  18    1.7500+7          0.540000                                                P.F.Rago+            (67)12284  22
+    1 90232   3  18    1.8000+7          0.510000                                                P.F.Rago+            (67)12284  22
+    1 90232   3  18    1.8000+7          0.500000                                                P.F.Rago+            (67)12284  22
+#/DATA      16
+#/DATASET

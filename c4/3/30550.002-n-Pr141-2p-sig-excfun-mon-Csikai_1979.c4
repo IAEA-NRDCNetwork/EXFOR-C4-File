@@ -1,0 +1,26 @@
+#ENTRY      30550
+#AUTHOR1    J.Csikai+
+#YEAR       1979
+#INSTITUTE  (3HUNKOS)
+#TITLE      Determination of (n,2p) and (n,t) cross sections
+#+          for Pr-141 at 14.7 MeV
+#AUTHOR(S)  J.Csikai, A.K.Chouak
+#REF-CODE   (J,RCA,26,135,1979)
+#REFERENCE  Radiochim.Acta 26 (1979) 135 (doi:10.1524/ract.1979.26.34.135)
+#DATASETS   0
+#
+#DATASET    30550002 
+#DATE       20090505
+#REACTION   59-PR-141(N,2P)57-LA-140,,SIG
+#PROJ       1
+#TARG       59141
+#MF         3
+#MT         111
+#PRODUCT    57-LA-140
+#C4BEGIN    [    1 59141   3 111 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 59141   3 111 A  1.4700+7          7.3000-7 1.0000-7                                       J.Csikai+            (79)30550  2 
+#/DATA      1
+#/DATASET

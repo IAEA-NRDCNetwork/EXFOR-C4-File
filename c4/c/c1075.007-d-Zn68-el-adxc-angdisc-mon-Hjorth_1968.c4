@@ -1,0 +1,38 @@
+#ENTRY      C1075
+#AUTHOR1    S.A.Hjorth+
+#YEAR       1968
+#INSTITUTE  (1USAPUP)
+#TITLE      Analysis of elastic scattering of 14.5 MeV deuterons
+#+          on isotopes between 54Fe and 124Sn
+#AUTHOR(S)  S.A.Hjorth, E.K.Lin
+#REF-CODE   (J,NP/A,116,1,1968)
+#REFERENCE  Nucl.Phys.A 116 (1968) 1
+#DATASETS   0
+#
+#DATASET    C1075007 
+#DATE       20041118
+#REACTION   30-ZN-68(D,EL)30-ZN-68,,DA,,RTH
+#PROJ       1002
+#TARG       30068
+#MF         4
+#MT         2
+#PRODUCT    30-ZN-68
+#C4BEGIN    [ 1002 30068   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 30068   4   2  C 1.4500+7          0.547080          0.866897                              S.A.Hjorth+          (68)C1075  7 
+ 1002 30068   4   2  C 1.4500+7          0.322242          0.819152                              S.A.Hjorth+          (68)C1075  7 
+ 1002 30068   4   2  C 1.4500+7          0.166201          0.767165                              S.A.Hjorth+          (68)C1075  7 
+ 1002 30068   4   2  C 1.4500+7          0.069886          0.705872                              S.A.Hjorth+          (68)C1075  7 
+ 1002 30068   4   2  C 1.4500+7          0.029606          0.640110                              S.A.Hjorth+          (68)C1075  7 
+ 1002 30068   4   2  C 1.4500+7          0.023206          0.569280                              S.A.Hjorth+          (68)C1075  7 
+ 1002 30068   4   2  C 1.4500+7          0.022826          0.495459                              S.A.Hjorth+          (68)C1075  7 
+ 1002 30068   4   2  C 1.4500+7          0.018435          0.416281                              S.A.Hjorth+          (68)C1075  7 
+ 1002 30068   4   2  C 1.4500+7          0.010336          0.333807                              S.A.Hjorth+          (68)C1075  7 
+ 1002 30068   4   2  C 1.4500+7          5.5261-3          0.250380                              S.A.Hjorth+          (68)C1075  7 
+ 1002 30068   4   2  C 1.4500+7          3.3745-3          0.165048                              S.A.Hjorth+          (68)C1075  7 
+ 1002 30068   4   2  C 1.4500+7          2.5555-3          0.076719                              S.A.Hjorth+          (68)C1075  7 
+ 1002 30068   4   2  C 1.4500+7          2.2118-3         -0.010472                              S.A.Hjorth+          (68)C1075  7 
+#/DATA      13
+#/DATASET

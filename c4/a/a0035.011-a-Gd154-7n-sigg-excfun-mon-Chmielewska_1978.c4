@@ -1,0 +1,33 @@
+#ENTRY      A0035
+#AUTHOR1    D.Chmielewska+
+#YEAR       1978
+#INSTITUTE  (3POLIBJ)
+#TITLE      Cross-section of reaction (alpha,xn) on Gd-154
+#+          and Gd-160 nuclei for energy interval E(a)=47-130 MeV.
+#AUTHOR(S)  D.Chmielewska, Z.Sujkowski, W.J.Ockels, J.F.W.Jansen, M.J.A.De Voigt
+#REF-CODE   (J,IZV,42,(11),2369,197811)
+#REFERENCE  Izv.Ross.AN,Fiz. 42 No.11 (1978) 2369
+#DATASETS   0
+#
+#DATASET    A0035011 
+#DATE       20080617
+#REACTION   64-GD-154(A,7N)66-DY-151,,SIG,G
+#PROJ       2004
+#TARG       64154
+#MF         13
+#MT         160
+#PRODUCT    66-DY-151
+#C4BEGIN    [ 2004 64154  13 160 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 64154  13 160 A  7.1000+7          0.019200                                                D.Chmielewska+       (78)A0035 11 
+ 2004 64154  13 160 A  8.0000+7          0.133000                                                D.Chmielewska+       (78)A0035 11 
+ 2004 64154  13 160 A  8.4000+7          0.245000                                                D.Chmielewska+       (78)A0035 11 
+ 2004 64154  13 160 A  9.0000+7          0.320000                                                D.Chmielewska+       (78)A0035 11 
+ 2004 64154  13 160 A  1.0000+8          0.280000                                                D.Chmielewska+       (78)A0035 11 
+ 2004 64154  13 160 A  1.1000+8          0.180000                                                D.Chmielewska+       (78)A0035 11 
+ 2004 64154  13 160 A  1.2000+8          0.126000                                                D.Chmielewska+       (78)A0035 11 
+ 2004 64154  13 160 A  1.3000+8          0.079000                                                D.Chmielewska+       (78)A0035 11 
+#/DATA      8
+#/DATASET

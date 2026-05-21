@@ -1,0 +1,29 @@
+#ENTRY      C0919
+#AUTHOR1    R.E.Warner+
+#YEAR       1996
+#INSTITUTE  (1USAMSU)
+#TITLE      Total reaction and 2n-removal cross sections of 20-60A
+#+          MeV 4,6,8He, 6-9,11Li, and 10Be on Si
+#AUTHOR(S)  R.E.Warner, R.A.Patty, P.M.Voyles, A.Nadasen, F.D.Becchetti, 
+#+          J.A.Brown, H.Esbensen, A.Galonsky, J.J.Kolata, J.Kruse, 
+#+          M.Y.Lee, R.M.Ronningen, P.Schwandt, J.V.Schwarzenberg, B.M.Sherrill, 
+#+          K.Subotic, J.Wang, P.Zecher
+#REF-CODE   (J,PR/C,54,1700,1996)
+#REFERENCE  Phys.Rev.C 54 (1996) 1700 (doi:10.1103/PhysRevC.54.1700)
+#DATASETS   0
+#
+#DATASET    C0919010 
+#DATE       20091001
+#REACTION   14-SI-28(4-BE-10,NON),,SIG
+#PROJ       4010
+#TARG       14028
+#MF         3
+#MT         3
+#C4BEGIN    [ 4010 14028   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4010 14028   3   3    3.4000+8 1.2700+8 1.570000                                                R.E.Warner+          (96)C0919 10 
+ 4010 14028   3   3    5.5300+8 8.6000+7 1.530000                                                R.E.Warner+          (96)C0919 10 
+#/DATA      2
+#/DATASET

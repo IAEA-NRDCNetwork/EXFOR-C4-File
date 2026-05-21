@@ -1,0 +1,41 @@
+#ENTRY      O2547
+#AUTHOR1    F.Barbaro+
+#YEAR       2021
+#INSTITUTE  (2ITYUPV)
+#TITLE      New results on proton-induced reactions on vanadium
+#+          for 47Sc production and the impact of level densities
+#+          on theoretical cross sections
+#AUTHOR(S)  F.Barbaro, L.Canton, M.P.Carante, A.Colombi, L.De Dominicis, 
+#+          A.Fontana, F.Haddad, L.Mou, G.Pupillo
+#REF-CODE   (J,PR/C,104,044619,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) 044619 (doi:10.1103/PhysRevC.104.044619)
+#DATASETS   0
+#
+#DATASET    O2547010 
+#DATE       20220305
+#REACTION   23-V-0(P,X)23-V-48,,SIG
+#PROJ       1001
+#TARG       23000
+#MF         3
+#MT         454
+#PRODUCT    23-V-48
+#C4BEGIN    [ 1001 23000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 23000   3 454    7.0000+7 600000.0 0.072400 6.7000-3           23048.9                     F.Barbaro+           (21)O2547 10 
+ 1001 23000   3 454    6.7800+7 700000.0 0.079000 7.2000-3           23048.9                     F.Barbaro+           (21)O2547 10 
+ 1001 23000   3 454    6.5500+7 800000.0 0.080900 0.011200           23048.9                     F.Barbaro+           (21)O2547 10 
+ 1001 23000   3 454    6.0700+7 600000.0 0.091800 7.6000-3           23048.9                     F.Barbaro+           (21)O2547 10 
+ 1001 23000   3 454    5.8300+7 700000.0 0.103300 0.010600           23048.9                     F.Barbaro+           (21)O2547 10 
+ 1001 23000   3 454    5.5700+7 800000.0 0.100900 9.8000-3           23048.9                     F.Barbaro+           (21)O2547 10 
+ 1001 23000   3 454    5.3600+7 600000.0 0.100800 9.8000-3           23048.9                     F.Barbaro+           (21)O2547 10 
+ 1001 23000   3 454    5.1000+7 700000.0 0.091100 9.3000-3           23048.9                     F.Barbaro+           (21)O2547 10 
+ 1001 23000   3 454    4.8100+7 800000.0 0.074500 7.3000-3           23048.9                     F.Barbaro+           (21)O2547 10 
+ 1001 23000   3 454    3.9500+7 600000.0 8.3000-3 8.0000-4           23048.9                     F.Barbaro+           (21)O2547 10 
+ 1001 23000   3 454    3.3300+7 600000.0 2.4000-3 2.0000-4           23048.9                     F.Barbaro+           (21)O2547 10 
+ 1001 23000   3 454    3.1200+7 700000.0 1.2000-3 1.0000-4           23048.9                     F.Barbaro+           (21)O2547 10 
+ 1001 23000   3 454    2.9200+7 800000.0 4.0000-4 2.0000-5           23048.9                     F.Barbaro+           (21)O2547 10 
+ 1001 23000   3 454    2.6500+7 800000.0 1.5000-4 2.0000-5           23048.9                     F.Barbaro+           (21)O2547 10 
+#/DATA      14
+#/DATASET

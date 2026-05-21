@@ -1,0 +1,32 @@
+#ENTRY      D0950
+#AUTHOR1    H.Showaimy+
+#YEAR       2019
+#INSTITUTE  (3EGYCAI)
+#TITLE      Measurements of activation cross sections for proton
+#+          induced reactions on natural platinum targets leading
+#+          to the formation of gold radioisotopes
+#AUTHOR(S)  H.Showaimy, A.H.M.Solieman, A.S.Aabdel Hamid, A.M.Khalaf, 
+#+          Z.A.Saleh
+#REF-CODE   (J,RPC,157,97,2019)
+#REFERENCE  Radiat.Phys.Chem. 157 (2019) 97 (doi:10.1016/j.radphyschem.2018.12.024)
+#DATASETS   0
+#
+#DATASET    D0950005 
+#DATE       20200713
+#REACTION   78-PT-0(P,X)79-AU-196-M2,,SIG
+#PROJ       1001
+#TARG       78000
+#MF         3
+#MT         454
+#PRODUCT    79-AU-196-M2
+#C4BEGIN    [ 1001 78000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 78000   3 454    1.4120+7 410000.0 4.0000-4 1.0000-4           79196.2                     H.Showaimy+          (19)D0950  5 
+ 1001 78000   3 454    1.3290+7 420000.0 4.0000-4 1.0000-4           79196.2                     H.Showaimy+          (19)D0950  5 
+ 1001 78000   3 454    1.2450+7 420000.0 4.0000-4 1.0000-4           79196.2                     H.Showaimy+          (19)D0950  5 
+ 1001 78000   3 454    1.1370+7 470000.0 3.0000-4 1.0000-4           79196.2                     H.Showaimy+          (19)D0950  5 
+ 1001 78000   3 454    1.0410+7 490000.0 2.0000-4 1.0000-4           79196.2                     H.Showaimy+          (19)D0950  5 
+#/DATA      5
+#/DATASET

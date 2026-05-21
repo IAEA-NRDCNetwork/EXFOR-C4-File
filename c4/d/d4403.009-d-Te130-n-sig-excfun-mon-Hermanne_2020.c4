@@ -1,0 +1,36 @@
+#ENTRY      D4403
+#AUTHOR1    A.Hermanne+
+#YEAR       2020
+#INSTITUTE  (2BLGVUB)
+#TITLE      Deuteron induced reactions on tellurium: An alternative
+#+          for production of 123I?
+#AUTHOR(S)  A.Hermanne, F.Tarkanyi, S.Takacs, F.Ditroi, A.Ignatyuk
+#REF-CODE   (J,NIM/B,466,20,2020)
+#REFERENCE  Nucl.Instrum.Meth.B 466 (2020) 20 (doi:10.1016/j.nimb.2019.11.040)
+#DATASETS   0
+#
+#DATASET    D4403009 
+#DATE       20200210
+#REACTION   52-TE-130(D,N)53-I-131,,SIG
+#PROJ       1002
+#TARG       52130
+#MF         3
+#MT         4
+#PRODUCT    53-I-131
+#C4BEGIN    [ 1002 52130   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 52130   3   4    2.1400+7 200000.0 0.059000 6.0000-3                                       A.Hermanne+          (20)D4403  9 
+ 1002 52130   3   4    2.0800+7 200000.0 0.043000 5.0000-3                                       A.Hermanne+          (20)D4403  9 
+ 1002 52130   3   4    2.0100+7 300000.0 0.059000 6.0000-3                                       A.Hermanne+          (20)D4403  9 
+ 1002 52130   3   4    1.9400+7 400000.0 0.057000 6.0000-3                                       A.Hermanne+          (20)D4403  9 
+ 1002 52130   3   4    1.8600+7 500000.0 0.065000 7.0000-3                                       A.Hermanne+          (20)D4403  9 
+ 1002 52130   3   4    1.7900+7 600000.0 0.075000 8.0000-3                                       A.Hermanne+          (20)D4403  9 
+ 1002 52130   3   4    1.7100+7 700000.0 0.083000 9.0000-3                                       A.Hermanne+          (20)D4403  9 
+ 1002 52130   3   4    1.6200+7 800000.0 0.085000 9.0000-3                                       A.Hermanne+          (20)D4403  9 
+ 1002 52130   3   4    1.5400+7 900000.0 0.098000 0.011000                                       A.Hermanne+          (20)D4403  9 
+ 1002 52130   3   4    1.4400+7 1000000. 0.078000 9.0000-3                                       A.Hermanne+          (20)D4403  9 
+ 1002 52130   3   4    1.3500+7 1100000. 0.096000 0.011000                                       A.Hermanne+          (20)D4403  9 
+#/DATA      11
+#/DATASET

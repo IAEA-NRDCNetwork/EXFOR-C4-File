@@ -1,0 +1,28 @@
+#ENTRY      23377
+#AUTHOR1    A.Letourneau+
+#YEAR       2002
+#INSTITUTE  (2FR SAC)
+#TITLE      Thermal neutron capture branching ratio of 209Bi using
+#+          a gamma-ray technique
+#AUTHOR(S)  A.Letourneau, E.berthoumieux, O.Deruelle, M.Fadil, G.Fioni, 
+#+          F.Gunsing, F.Marie, L.Perrot, D.Ridikas, H.Boerner, H.Faust, 
+#+          P.Muttu, G.Simpson, P.Schillebeeckx
+#REF-CODE   (C,2002PRUHON,,734,2002)
+#REFERENCE  Proceedings of Symp.on Capt.Gamma Ray Spectroscopy, Pruhonice, 2002 page 734
+#DATASETS   0
+#
+#DATASET    23377002 
+#DATE       20180724
+#REACTION   83-BI-209(N,G)83-BI-210,,SIG,,MXW
+#PROJ       1
+#TARG       83209
+#MF         3
+#MT         102
+#PRODUCT    83-BI-210
+#C4BEGIN    [    1 83209   3 102 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209   3 102 P  0.025300          0.035000 1.7500-3                                       A.Letourneau+        (02)23377  2 
+#/DATA      1
+#/DATASET

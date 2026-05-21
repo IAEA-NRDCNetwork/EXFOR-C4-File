@@ -1,0 +1,31 @@
+#ENTRY      32780
+#AUTHOR1    Junhua Luo+
+#YEAR       2018
+#INSTITUTE  (3CPRHXU)
+#TITLE      Isomer ratios and cross sections for the isomeric
+#+          pair 122mSb and 122gSb in the 123Sb(n,2n) reaction
+#AUTHOR(S)  Junhua Luo, Li Jiang, Long He
+#REF-CODE   (J,ARI,140,115,2018)
+#REFERENCE  Appl.Radiat.Isot. 140 (2018) 115 (doi:10.1016/j.apradiso.2018.07.003)
+#DATASETS   0
+#
+#DATASET    32780002 
+#DATE       20201208
+#REACTION   51-SB-123(N,2N)51-SB-122-M,,SIG
+#PROJ       1
+#TARG       51123
+#MF         3
+#MT         16
+#PRODUCT    51-SB-122-M
+#C4BEGIN    [    1 51123   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 51123   3  16M   1.3500+7 200000.0 0.466000 0.071000                                       Junhua Luo+          (18)32780  2 
+    1 51123   3  16M   1.3500+7 200000.0 0.528000 0.075000                                       Junhua Luo+          (18)32780  2 
+    1 51123   3  16M   1.4100+7 200000.0 0.522000 0.072000                                       Junhua Luo+          (18)32780  2 
+    1 51123   3  16M   1.4100+7 200000.0 0.594000 0.082000                                       Junhua Luo+          (18)32780  2 
+    1 51123   3  16M   1.4800+7 200000.0 0.571000 0.085000                                       Junhua Luo+          (18)32780  2 
+    1 51123   3  16M   1.4800+7 200000.0 0.611000 0.090000                                       Junhua Luo+          (18)32780  2 
+#/DATA      6
+#/DATASET

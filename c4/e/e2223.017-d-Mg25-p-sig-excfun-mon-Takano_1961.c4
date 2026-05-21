@@ -1,0 +1,31 @@
+#ENTRY      E2223
+#AUTHOR1    N.Takano+
+#YEAR       1961
+#INSTITUTE  (2JPNKYU)
+#TITLE      The reaction 25Mg(d,p)26Mg in the energy range of
+#+          deuterons from 1.5 MeV to 3.0 MeV
+#AUTHOR(S)  N.Takano
+#REF-CODE   (J,JPJ,16,(4),598,196104)
+#REFERENCE  J.Phys.Soc.Jpn. 16 No.4 (1961) 598 (doi:10.1143/JPSJ.16.598)
+#DATASETS   0
+#
+#DATASET    E2223017 
+#DATE       20110201
+#REACTION   12-MG-25(D,P)12-MG-26,PAR,SIG
+#PROJ       1002
+#TARG       12025
+#MF         3
+#MT         600
+#PRODUCT    12-MG-26
+#C4BEGIN    [ 1002 12025   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 12025   3 600    1655544. 98966.51 2.1080-3 1.8270-4                   2970000.         LVLN.Takano             (61)E2223 17 
+ 1002 12025   3 600    1960296. 87546.82 3.6760-3 1.6750-4                   2970000.         LVLN.Takano             (61)E2223 17 
+ 1002 12025   3 600    2206694. 83747.34 4.5290-3 2.4360-4                   2970000.         LVLN.Takano             (61)E2223 17 
+ 1002 12025   3 600    2444449. 76127.39 5.6100-3 2.7400-4                   2970000.         LVLN.Takano             (61)E2223 17 
+ 1002 12025   3 600    2715707. 72327.80 6.8890-3 2.8920-4                   2970000.         LVLN.Takano             (61)E2223 17 
+ 1002 12025   3 600    3007503. 68508.19 8.8070-3 4.1100-4                   2970000.         LVLN.Takano             (61)E2223 17 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      40305
+#AUTHOR1    T.S.Belanova+
+#YEAR       1976
+#INSTITUTE  (4RUSNIR)
+#TITLE      total neutron cross section and neutron resonance
+#+          parameters of Am-241 in energy range 0.004-30 eV.
+#AUTHOR(S)  T.S.Belanova, A.G.Kolesov, V.A.Poruchikov, G.A.Timofeev, 
+#+          S.M.Kalebin, V.S.Artamonov, R.N.Ivanov
+#REF-CODE   (J,AE,40,(4),303,197604)
+#REFERENCE  At.En. 40 No.4 (1976) 303
+#DATASETS   0
+#
+#DATASET    403050061
+#DATE       20091125
+#REACTION   95-AM-241(N,TOT),,SIG
+#PROJ       1
+#TARG       95241
+#MF         3
+#MT         1
+#C4BEGIN    [    1 95241   3   1 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95241   3   1 A  0.025300          640.0000 20.00000                                       T.S.Belanova+        (76)40305  61
+#/DATA      1
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      23122
+#AUTHOR1    M.Beau+
+#YEAR       1984
+#INSTITUTE  (2FR BRC)
+#TITLE      Measurement of the mean number of neutrons emitted in
+#+          the neutron induced fission of Th-230.
+#AUTHOR(S)  M.Beau, F.Brisard, J.Frehaut, G.Simon, J.Trochon
+#REF-CODE   (R,CEA-N-2396,73,198410)
+#REFERENCE  Report CEA-N-2396 page 73, 1984
+#DATASETS   0
+#
+#DATASET    23122002 
+#DATE       20101130
+#REACTION   90-TH-230(N,F),PR,NU
+#PROJ       1
+#TARG       90230
+#MF         1
+#MT         456
+#C4BEGIN    [    1 90230   1 456 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90230   1 456 P  723000.0          2.067000 0.061000                                       M.Beau+              (84)23122  2 
+    1 90230   1 456 P  1110000.          2.100000 0.068000                                       M.Beau+              (84)23122  2 
+    1 90230   1 456 P  1986000.          2.162000 0.029000                                       M.Beau+              (84)23122  2 
+    1 90230   1 456 P  2943000.          2.216000 0.044000                                       M.Beau+              (84)23122  2 
+    1 90230   1 456 P  2974000.          2.253000 0.029000                                       M.Beau+              (84)23122  2 
+#/DATA      5
+#/DATASET

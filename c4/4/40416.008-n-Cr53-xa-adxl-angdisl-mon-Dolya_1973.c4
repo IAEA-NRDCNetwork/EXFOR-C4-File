@@ -1,0 +1,34 @@
+#ENTRY      40416
+#AUTHOR1    G.P.Dolya+
+#YEAR       1973
+#INSTITUTE  (4UKRKFT)
+#TITLE      Differential cross-sections of (n,alpha) reactions
+#+          induced by 14.7 MeV energy neutrons on Cr-50,52,53,54
+#+          nuclei
+#AUTHOR(S)  G.P.Dolya, V.P.Bozhko, V.Ya.Golovnya, A.P.Klyucharev, A.I.Tutubalin
+#REF-CODE   (R,YK-11,9,1973)
+#REFERENCE  Report YK-11 page 9, 1973
+#DATASETS   0
+#
+#DATASET    40416008 
+#DATE       20170203
+#REACTION   24-CR-53(N,X)2-HE-4,,DA
+#PROJ       1
+#TARG       24053
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1 24053   4 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24053   4 207    1.4700+7          5.9000-3 7.0000-4 1.000000                              G.P.Dolya+           (73)40416  8 
+    1 24053   4 207    1.4700+7          4.7000-3 6.0000-4 0.906308                              G.P.Dolya+           (73)40416  8 
+    1 24053   4 207    1.4700+7          4.1000-3 6.0000-4 0.642788                              G.P.Dolya+           (73)40416  8 
+    1 24053   4 207    1.4700+7          2.7000-3 4.0000-4 0.258819                              G.P.Dolya+           (73)40416  8 
+    1 24053   4 207    1.4700+7          2.7000-3 4.0000-4 6.123-17                              G.P.Dolya+           (73)40416  8 
+    1 24053   4 207    1.4700+7          2.4000-3 4.0000-4-0.258819                              G.P.Dolya+           (73)40416  8 
+    1 24053   4 207    1.4700+7          3.7000-3 5.0000-4-0.573576                              G.P.Dolya+           (73)40416  8 
+    1 24053   4 207    1.4700+7          5.5000-3 8.0000-4-0.866025                              G.P.Dolya+           (73)40416  8 
+#/DATA      8
+#/DATASET

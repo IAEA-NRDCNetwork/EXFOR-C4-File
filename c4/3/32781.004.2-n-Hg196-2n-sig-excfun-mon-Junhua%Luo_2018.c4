@@ -1,0 +1,29 @@
+#ENTRY      32781
+#AUTHOR1    Junhua Luo+
+#YEAR       2018
+#INSTITUTE  (3CPRHXU)
+#TITLE      Measurement of cross sections and isomeric
+#+          cross-section ratios for the (n,2n) reactions on
+#+          196,198Hg at energies between 13 and 15 MeV
+#AUTHOR(S)  Junhua Luo, Li Jiang, Long He
+#REF-CODE   (J,PR/C,98,014619,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 014619 (doi:10.1103/PhysRevC.98.014619)
+#DATASETS   0
+#
+#DATASET    327810042
+#DATE       20230103
+#REACTION   80-HG-196(N,2N)80-HG-195-G,,SIG,,AV
+#PROJ       1
+#TARG       80196
+#MF         3
+#MT         16
+#PRODUCT    80-HG-195-G
+#C4BEGIN    [    1 80196   3  16GD]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 80196   3  16GD  1.3500+7 200000.0 0.688000 0.057000                                       Junhua Luo+          (18)32781  42
+    1 80196   3  16GD  1.4100+7 200000.0 0.733000 0.059000                                       Junhua Luo+          (18)32781  42
+    1 80196   3  16GD  1.4800+7 200000.0 0.686000 0.055000                                       Junhua Luo+          (18)32781  42
+#/DATA      3
+#/DATASET

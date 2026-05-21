@@ -1,0 +1,37 @@
+#ENTRY      A1483
+#AUTHOR1    R.Batchelor+
+#YEAR       1955
+#INSTITUTE  (2UK HAR)
+#TITLE      The angular distribution of 7Li(p,n)7Be* neutrons for
+#+          proton energies between 2.5 and 2.9 MeV
+#AUTHOR(S)  R.Batchelor, G.C.Morrison
+#REF-CODE   (J,PPS/A,68,1081,1955)
+#REFERENCE  Proc.Phys.Soc.(UK) A 68 (1955) 1081 (doi:10.1088/0370-1298/68/11/419)
+#DATASETS   0
+#
+#DATASET    A1483002 
+#DATE       20251006
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,SIG
+#PROJ       1001
+#TARG       3007
+#MF         3
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   3  50    2510000.          7.7900-3 9.4000-4                   430000.0         LVLR.Batchelor+         (55)A1483  2 
+ 1001  3007   3  50    2557000.          8.2900-3 1.1000-3                   430000.0         LVLR.Batchelor+         (55)A1483  2 
+ 1001  3007   3  50    2577000.          8.3000-3 1.0200-3                   430000.0         LVLR.Batchelor+         (55)A1483  2 
+ 1001  3007   3  50    2607000.          8.5500-3 8.7000-4                   430000.0         LVLR.Batchelor+         (55)A1483  2 
+ 1001  3007   3  50    2646000.          0.010220 1.2600-3                   430000.0         LVLR.Batchelor+         (55)A1483  2 
+ 1001  3007   3  50    2678000.          0.011660 1.1000-3                   430000.0         LVLR.Batchelor+         (55)A1483  2 
+ 1001  3007   3  50    2747000.          0.014370 1.2600-3                   430000.0         LVLR.Batchelor+         (55)A1483  2 
+ 1001  3007   3  50    2778000.          0.015010 1.4200-3                   430000.0         LVLR.Batchelor+         (55)A1483  2 
+ 1001  3007   3  50    2797000.          0.017230 1.8100-3                   430000.0         LVLR.Batchelor+         (55)A1483  2 
+ 1001  3007   3  50    2846000.          0.015680 1.8900-3                   430000.0         LVLR.Batchelor+         (55)A1483  2 
+ 1001  3007   3  50    2876000.          0.021520 1.5800-3                   430000.0         LVLR.Batchelor+         (55)A1483  2 
+ 1001  3007   3  50    2889000.          0.018450 1.9700-3                   430000.0         LVLR.Batchelor+         (55)A1483  2 
+#/DATA      12
+#/DATASET

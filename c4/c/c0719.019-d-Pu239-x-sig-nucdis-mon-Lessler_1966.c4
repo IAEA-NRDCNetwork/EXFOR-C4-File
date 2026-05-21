@@ -1,0 +1,26 @@
+#ENTRY      C0719
+#AUTHOR1    R.M.Lessler+
+#YEAR       1966
+#INSTITUTE  (1USABRK)
+#TITLE      Radiative capture, particle emission and fission in
+#+          heavy nuclei
+#AUTHOR(S)  R.M.Lessler, W.M.Gibson, R.A.Glass
+#REF-CODE   (J,NP,81,401,1966)
+#REFERENCE  Nucl.Phys. 81 (1966) 401 (doi:10.1016/S0029-5582(66)80031-7)
+#DATASETS   0
+#
+#DATASET    C0719019 
+#DATE       20220625
+#REACTION   94-PU-239(D,F)ELEM/MASS,,SIG
+#PROJ       1002
+#TARG       94239
+#MF         3
+#MT         454
+#C4BEGIN    [ 1002 94239   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 94239   3 454    2.0600+7 500000.0 4.6000-4                    39090.9                     R.M.Lessler+         (66)C0719 19 
+ 1002 94239   3 454    2.0600+7 500000.0 6.3000-3                    59143.9                     R.M.Lessler+         (66)C0719 19 
+#/DATA      2
+#/DATASET

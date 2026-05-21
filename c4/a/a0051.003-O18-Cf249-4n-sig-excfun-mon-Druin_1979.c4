@@ -1,0 +1,30 @@
+#ENTRY      A0051
+#AUTHOR1    V.A.Druin+
+#YEAR       1979
+#INSTITUTE  (4ZZZDUB)
+#TITLE      On spontaneous fission of heavy isotopes of
+#+          nielsbohrium (Z=105) and element 106.
+#AUTHOR(S)  V.A.Druin, B.Bochev, Ju.V.Lobanov, R.N.Sagaydak, Ju.P.Kharitonov, 
+#+          S.P.Tretyakova, G.G.Gulbekyan, G.V.Buklanov, E.A.Erin, V.N.Kosyakov, 
+#+          A.G.Rykov
+#REF-CODE   (J,YF,29,1149,1979)
+#REFERENCE  Yad.Fiz. 29 (1979) 1149
+#DATASETS   0
+#
+#DATASET    A0051003 
+#DATE       20110513
+#REACTION   98-CF-249(8-O-18,4N)106-SG-263,,SIG
+#PROJ       8018
+#TARG       98249
+#MF         3
+#MT         37
+#PRODUCT    106-SG-263
+#C4BEGIN    [ 8018 98249   3  37 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8018 98249   3  37 A  9.0000+7 1500000. 2.000-10 1.000-10                                       V.A.Druin+           (79)A0051  3 
+ 8018 98249   3  37 A  9.5000+7 1500000. 6.000-10 1.300-10                                       V.A.Druin+           (79)A0051  3 
+ 8018 98249   3  37 A  1.0200+8 1500000. 5.300-10 1.300-10                                       V.A.Druin+           (79)A0051  3 
+#/DATA      3
+#/DATASET

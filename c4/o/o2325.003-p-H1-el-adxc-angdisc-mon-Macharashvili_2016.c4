@@ -1,0 +1,58 @@
+#ENTRY      O2325
+#AUTHOR1    G.Macharashvili+
+#YEAR       2016
+#INSTITUTE  (4GRGTGU)
+#TITLE      Measurement of the absolute differential cross section
+#+          of proton -proton elastic scattering at small angles.
+#AUTHOR(S)  G.Macharashvili, D.Chiladze, S.Dymov, Z.Bagdasarian, S.Barsov, 
+#+          R.Gebel, B.Gou, M.Hartmann, A.Kacharava, I.Keshelashvili, 
+#+          A.Khoukaz, P.Kulessa, A.Kulikov, A.Lehrach, N.Lomidze, B.Lorentz, 
+#+          R.Maier, D.Mc.upper()edlishvili, S.Merzliakov, S.Mikirtychyants, 
+#+          M.Nioradze, H.Ohm, D.Prasuhn, F.Rathmann, V.Serdyuk, D.Schroer, 
+#+          V.Shmakova, R.Stassen, H.J.Stein, H.Stockhorst, I.I.Strakovsky, 
+#+          H.Stroeher, M.Tabidze, A.Taeschner, S.Trusov, D.Tsirkov, 
+#+          Yu.Uzikov, Yu.Valdau, C.Wilkin, R.L.Workman, P.Wuestner
+#REF-CODE   (J,PL/B,755,92,2016)
+#REFERENCE  Phys.Lett.B 755 (2016) 92 (doi:10.1016/j.physletb.2016.01.066)
+#DATASETS   0
+#
+#DATASET    O2325003 
+#DATE       20170228
+#REACTION   1-H-1(P,EL)1-H-1,,DA
+#PROJ       1001
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1001   4   2  C 1.8000+9          0.023159 1.4600-4 0.967046                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.022345 1.4100-4 0.964787                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.021790 1.3800-4 0.962455                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.020948 1.3300-4 0.960050                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.020554 1.3100-4 0.957571                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.019991 1.2800-4 0.955020                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.019390 1.2500-4 0.952396                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.018710 1.2100-4 0.949699                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.018103 1.1700-4 0.946930                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.017538 1.1400-4 0.944089                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.016836 1.1000-4 0.941176                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.016167 1.0600-4 0.938191                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.015960 1.0500-4 0.935135                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.015194 1.0000-4 0.932008                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.014477 9.6000-5 0.928810                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.014325 9.5000-5 0.925541                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.013700 9.2000-5 0.922201                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.012943 8.7000-5 0.918791                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.012434 8.5000-5 0.915311                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.012044 8.2000-5 0.911762                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.011695 8.0000-5 0.908143                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.011134 7.7000-5 0.904455                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.010568 7.4000-5 0.900698                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          0.010258 7.2000-5 0.896873                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          9.7560-3 6.9000-5 0.892979                              G.Macharashvili+     (16)O2325  3 
+ 1001  1001   4   2  C 1.8000+9          9.5320-3 6.8000-5 0.889017                              G.Macharashvili+     (16)O2325  3 
+#/DATA      26
+#/DATASET

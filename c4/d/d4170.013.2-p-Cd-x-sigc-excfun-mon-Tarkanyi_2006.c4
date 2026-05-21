@@ -1,0 +1,34 @@
+#ENTRY      D4170
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2006
+#INSTITUTE  (3HUNDEB)
+#TITLE      Activation cross-sections on cadmium: Proton induced
+#+          nuclear reactions up to 80 MeV
+#AUTHOR(S)  F.Tarkanyi, B.Kiraly, F.Ditroi, S.Takacs, J.Csikai, A.Hermanne, 
+#+          M.S.Uddin, M.Hagiwara, M.Baba, T.Ido, Yu.N.Shubin, S.F.Kovalev
+#REF-CODE   (J,NIM/B,245,379,2006)
+#REFERENCE  Nucl.Instrum.Meth.B 245 (2006) 379 (doi:10.1016/j.nimb.2005.12.004)
+#DATASETS   0
+#
+#DATASET    D41700132
+#DATE       20060410
+#REACTION   48-CD-0(P,X)47-AG-113-G,CUM,SIG
+#PROJ       1001
+#TARG       48000
+#MF         3
+#MT         459
+#PRODUCT    47-AG-113-G
+#C4BEGIN    [ 1001 48000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 48000   3 459    3.9700+7 2000000. 1.6000-3 6.0000-4           47113.0                     F.Tarkanyi+          (06)D4170 132
+ 1001 48000   3 459    4.5200+7 1800000. 1.6000-3 5.0000-4           47113.0                     F.Tarkanyi+          (06)D4170 132
+ 1001 48000   3 459    5.0100+7 1600000. 2.5000-3 8.0000-4           47113.0                     F.Tarkanyi+          (06)D4170 132
+ 1001 48000   3 459    5.4700+7 1400000. 1.9000-3 7.0000-4           47113.0                     F.Tarkanyi+          (06)D4170 132
+ 1001 48000   3 459    6.0200+7 1100000. 2.9000-3 7.0000-4           47113.0                     F.Tarkanyi+          (06)D4170 132
+ 1001 48000   3 459    6.5200+7 900000.0 3.0000-3 6.0000-4           47113.0                     F.Tarkanyi+          (06)D4170 132
+ 1001 48000   3 459    7.0000+7 700000.0 4.1000-3 7.0000-4           47113.0                     F.Tarkanyi+          (06)D4170 132
+ 1001 48000   3 459    7.4500+7 500000.0 4.3000-3 7.0000-4           47113.0                     F.Tarkanyi+          (06)D4170 132
+#/DATA      8
+#/DATASET

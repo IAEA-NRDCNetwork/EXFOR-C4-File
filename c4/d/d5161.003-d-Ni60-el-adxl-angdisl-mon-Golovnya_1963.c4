@@ -1,0 +1,34 @@
+#ENTRY      D5161
+#AUTHOR1    V.Ya.Golovnya+
+#YEAR       1963
+#INSTITUTE  (4UKRKFT)
+#TITLE      Elastic scattering of 4.2-MeV protons on nickel
+#+          isotopes
+#AUTHOR(S)  V.Ya.Golovnya, A.P.Klyucharev, B.A.Shilyaev, N.A.Shlyakhov
+#REF-CODE   (J,ZET,44,1184,1963)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 44 (1963) 1184
+#DATASETS   0
+#
+#DATASET    D5161003 
+#DATE       20190131
+#REACTION   28-NI-60(D,EL)28-NI-60,,DA,,RTH
+#PROJ       1002
+#TARG       28060
+#MF         4
+#MT         2
+#PRODUCT    28-NI-60
+#C4BEGIN    [ 1002 28060   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28060   4   2    4200000.          12.99420 0.087079 0.866869                              V.Ya.Golovnya+       (63)D5161  3 
+ 1002 28060   4   2    4200000.          6.594172 0.065366 0.811339                              V.Ya.Golovnya+       (63)D5161  3 
+ 1002 28060   4   2    4200000.          4.421429 0.045604 0.768610                              V.Ya.Golovnya+       (63)D5161  3 
+ 1002 28060   4   2    4200000.          2.705556 0.026819 0.702567                              V.Ya.Golovnya+       (63)D5161  3 
+ 1002 28060   4   2    4200000.          1.863400 0.017310 0.642591                              V.Ya.Golovnya+       (63)D5161  3 
+ 1002 28060   4   2    4200000.          1.231920 0.012196 0.563255                              V.Ya.Golovnya+       (63)D5161  3 
+ 1002 28060   4   2    4200000.          0.949417 9.4763-3 0.504538                              V.Ya.Golovnya+       (63)D5161  3 
+ 1002 28060   4   2    4200000.          0.512371 5.1712-3 0.339362                              V.Ya.Golovnya+       (63)D5161  3 
+ 1002 28060   4   2    4200000.          0.305161          0.172441                              V.Ya.Golovnya+       (63)D5161  3 
+#/DATA      9
+#/DATASET

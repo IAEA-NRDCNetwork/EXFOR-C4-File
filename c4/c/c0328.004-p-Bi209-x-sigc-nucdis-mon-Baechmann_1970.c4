@@ -1,0 +1,35 @@
+#ENTRY      C0328
+#AUTHOR1    K.Baechmann+
+#YEAR       1970
+#INSTITUTE  (1USABNL)
+#TITLE      Rare earth yields in the interaction of 28-GeV protons
+#+          with uranium, bismuth and gold
+#AUTHOR(S)  K.Baechmann
+#REF-CODE   (J,JIN,32,1,1970)
+#REFERENCE  J.Inorg.Nucl.Chem. 32 (1970) 1
+#DATASETS   0
+#
+#DATASET    C0328004 
+#DATE       19961011
+#REACTION   83-BI-209(P,X)ELEM/MASS,CUM,SIG
+#PROJ       1001
+#TARG       83209
+#MF         3
+#MT         459
+#C4BEGIN    [ 1001 83209   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 83209   3 459    2.800+10          9.9000-3 2.0000-3           58134.9                     K.Baechmann          (70)C0328  4 
+ 1001 83209   3 459    2.800+10          2.2500-3                    58139.0                     K.Baechmann          (70)C0328  4 
+ 1001 83209   3 459    2.800+10          8.3400-3 6.0000-4           63146.9                     K.Baechmann          (70)C0328  4 
+ 1001 83209   3 459    2.800+10          9.5600-3 9.0000-4           63147.9                     K.Baechmann          (70)C0328  4 
+ 1001 83209   3 459    2.800+10          6.1000-3 5.0000-4           64146.9                     K.Baechmann          (70)C0328  4 
+ 1001 83209   3 459    2.800+10          8.5000-3 8.0000-4           64147.9                     K.Baechmann          (70)C0328  4 
+ 1001 83209   3 459    2.800+10          9.4000-3 2.0000-3           64149.9                     K.Baechmann          (70)C0328  4 
+ 1001 83209   3 459    2.800+10          8.4000-3 2.0000-3           65149.0                     K.Baechmann          (70)C0328  4 
+ 1001 83209   3 459    2.800+10          2.3000-3 3.0000-4           65151.0                     K.Baechmann          (70)C0328  4 
+ 1001 83209   3 459    2.800+10          0.014200 3.5000-3           65153.9                     K.Baechmann          (70)C0328  4 
+ 1001 83209   3 459    2.800+10          0.012100 3.5000-3           66153.9                     K.Baechmann          (70)C0328  4 
+#/DATA      11
+#/DATASET

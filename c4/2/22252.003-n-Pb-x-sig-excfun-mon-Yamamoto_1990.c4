@@ -1,0 +1,28 @@
+#ENTRY      22252
+#AUTHOR1    J.Yamamoto+
+#YEAR       1990
+#INSTITUTE  (2JPNOSA)
+#TITLE      Measurement of production cross sections of short
+#+          lived nuclei by cyclic activation using a pulsed
+#+          neutron source
+#AUTHOR(S)  J.Yamamoto, J.Datemichi, T.Kanaoka, T.Takayama, A.Takahashi, 
+#+          K.Sumita
+#REF-CODE   (S,JAERI-M-90-025,259,199002)
+#REFERENCE  Report (proceedings) JAERI-M-90-025 page 259, 1990
+#DATASETS   0
+#
+#DATASET    22252003 
+#DATE       20121209
+#REACTION   82-PB-0(N,X)82-PB-207-M,,SIG
+#PROJ       1
+#TARG       82000
+#MF         3
+#MT         454
+#PRODUCT    82-PB-207-M
+#C4BEGIN    [    1 82000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   3 454    1.4000+7          0.860000 0.055000           82207.7                     J.Yamamoto+          (90)22252  3 
+#/DATA      1
+#/DATASET

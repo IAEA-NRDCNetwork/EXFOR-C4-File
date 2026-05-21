@@ -1,0 +1,35 @@
+#ENTRY      20835
+#AUTHOR1    M.Bormann+
+#YEAR       1969
+#INSTITUTE  (2GERHAM)
+#TITLE      -EXCITATION FUNCTIONS OF (N,P) AND (N,2N) REACTIONS
+#+          FOR SOME ISOTOPES OF K,MN,ZN AND CU-.
+#AUTHOR(S)  M.Bormann, B.Lammers
+#REF-CODE   (J,NP/A,130,195,6906)
+#REFERENCE  Nucl.Phys.A 130 (1969) 195 (doi:10.1016/0375-9474(69)90971-3)
+#DATASETS   0
+#
+#DATASET    20835006 
+#DATE       19840208
+#REACTION   30-ZN-64(N,P)29-CU-64,,SIG
+#PROJ       1
+#TARG       30064
+#MF         3
+#MT         103
+#PRODUCT    29-CU-64
+#C4BEGIN    [    1 30064   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 30064   3 103    1.4100+7 140000.0 0.191700 0.012400                                       M.Bormann+           (69)20835  6 
+    1 30064   3 103    1.4820+7 140000.0 0.145400 9.8000-3                                       M.Bormann+           (69)20835  6 
+    1 30064   3 103    1.5460+7 150000.0 0.155400 0.010300                                       M.Bormann+           (69)20835  6 
+    1 30064   3 103    1.6050+7 150000.0 0.133300 8.7000-3                                       M.Bormann+           (69)20835  6 
+    1 30064   3 103    1.6510+7 150000.0 0.141400 9.3000-3                                       M.Bormann+           (69)20835  6 
+    1 30064   3 103    1.7080+7 140000.0 0.132800 8.9000-3                                       M.Bormann+           (69)20835  6 
+    1 30064   3 103    1.7480+7 140000.0 0.120300 8.0000-3                                       M.Bormann+           (69)20835  6 
+    1 30064   3 103    1.7840+7 130000.0 0.118100 7.7000-3                                       M.Bormann+           (69)20835  6 
+    1 30064   3 103    1.8060+7 130000.0 0.125700 8.0000-3                                       M.Bormann+           (69)20835  6 
+    1 30064   3 103    1.8190+7 120000.0 0.113900 7.6000-3                                       M.Bormann+           (69)20835  6 
+#/DATA      10
+#/DATASET

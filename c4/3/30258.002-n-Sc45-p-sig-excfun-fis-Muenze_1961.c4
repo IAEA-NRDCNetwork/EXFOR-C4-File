@@ -1,0 +1,26 @@
+#ENTRY      30258
+#AUTHOR1    R.Muenze+
+#YEAR       1961
+#INSTITUTE  (2GERZFK)
+#TITLE      Fission spectrum averaged cross-section for
+#+          Sc-45(n,p)Ca-45
+#AUTHOR(S)  R.Muenze, K.Jantsch, O.Hladik
+#REF-CODE   (J,KE,4,293,1961)
+#REFERENCE  Kernenergie 4 (1961) 293
+#DATASETS   0
+#
+#DATASET    30258002 
+#DATE       20081203
+#REACTION   21-SC-45(N,P)20-CA-45,,SIG,,FIS
+#PROJ       1
+#TARG       21045
+#MF         3
+#MT         103
+#PRODUCT    20-CA-45
+#C4BEGIN    [    1 21045   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 21045   3 103    1500000.          9.0000-3 1.0000-3                                       R.Muenze+            (61)30258  2 
+#/DATA      1
+#/DATASET

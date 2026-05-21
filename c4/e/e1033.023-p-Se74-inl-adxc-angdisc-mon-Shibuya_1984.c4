@@ -1,0 +1,31 @@
+#ENTRY      E1033
+#AUTHOR1    A.Shibuya+
+#YEAR       1984
+#INSTITUTE  (2JPNKYU)
+#TITLE      Study of proton elastic and inelastic scattering from
+#+          74Se at the isobaric analogue resonances
+#AUTHOR(S)  A.Shibuya
+#REF-CODE   (J,NP/A,417,(2),331,198404)
+#REFERENCE  Nucl.Phys.A 417 No.2 (1984) 331 (doi:10.1016/0375-9474(84)90511-6)
+#DATASETS   0
+#
+#DATASET    E1033023 
+#DATE       20080131
+#REACTION   34-SE-74(P,INL)34-SE-74,PAR,DA
+#PROJ       1001
+#TARG       34074
+#MF         4
+#MT         601
+#PRODUCT    34-SE-74
+#C4BEGIN    [ 1001 34074   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 34074   4 601  C 3885000. 2500.000 1.2200-3 8.9110-5 0.483588          635000.0         LVLA.Shibuya            (84)E1033 23 
+ 1001 34074   4 601  C 3885000. 2500.000 1.1440-3 6.2710-5 0.328042          635000.0         LVLA.Shibuya            (84)E1033 23 
+ 1001 34074   4 601  C 3885000. 2500.000 1.1630-3 5.9410-5 0.167801          635000.0         LVLA.Shibuya            (84)E1033 23 
+ 1001 34074   4 601  C 3885000. 2500.000 1.1890-3 4.6200-5-2.7925-3          635000.0         LVLA.Shibuya            (84)E1033 23 
+ 1001 34074   4 601  C 3885000. 2500.000 8.9660-4 9.5720-5-0.680721          635000.0         LVLA.Shibuya            (84)E1033 23 
+ 1001 34074   4 601  C 3885000. 2500.000 7.6280-4 4.2900-5-0.985109          635000.0         LVLA.Shibuya            (84)E1033 23 
+#/DATA      6
+#/DATASET

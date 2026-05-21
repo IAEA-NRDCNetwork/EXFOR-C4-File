@@ -1,0 +1,30 @@
+#ENTRY      13909
+#AUTHOR1    P.E.Koehler+
+#YEAR       2001
+#INSTITUTE  (1USAORL)
+#TITLE      High-resolution neutron capture and transmission
+#+          measurements for 116,120Sn, and their stellar
+#+          neutron-capture cross sections at s-process
+#+          temperatures
+#AUTHOR(S)  P.E.Koehler, J.A.Harvey, R.R.Winters, K.H.Guber, R.R.Spencer
+#REF-CODE   (J,PR/C,64,065802,2001)
+#REFERENCE  Phys.Rev.C 64 (2001) 065802 (doi:10.1103/PhysRevC.64.065802)
+#DATASETS   0
+#
+#DATASET    13909008 
+#DATE       20150729
+#REACTION   50-SN-120(N,G)50-SN-121,,SIG,,MXW
+#PROJ       1
+#TARG       50120
+#MF         3
+#MT         102
+#PRODUCT    50-SN-121
+#C4BEGIN    [    1 50120   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 50120   3 102 D  8000.000          0.083500 2.6000-3                                       P.E.Koehler+         (01)13909  8 
+    1 50120   3 102 D  23000.00          0.044100 1.4000-3                                       P.E.Koehler+         (01)13909  8 
+    1 50120   3 102 D  30000.00          0.037800 1.2000-3                                       P.E.Koehler+         (01)13909  8 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      40221
+#AUTHOR1    G.V.Gorlov+
+#YEAR       1965
+#INSTITUTE  (4RUSKUR)
+#TITLE      Elastic scattering of polarized neutrons by Be9, C12,
+#+          Co59, Ni62, Se80, Nb93, Cd114, In115, Sn118, I127, Pb
+#+          and Bi209 nuclei
+#AUTHOR(S)  G.V.Gorlov, N.S.Lebedeva, V.M.Morozov
+#REF-CODE   (J,SPD,9,806,1965)
+#REFERENCE  Sov.Phys.-Dokl. 9 (1965) 806
+#DATASETS   0
+#
+#DATASET    40221006 
+#DATE       20130816
+#REACTION   6-C-12(N,EL)6-C-12,,SIG
+#PROJ       1
+#TARG       6012
+#MF         3
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   3   2 D  4000000. 50000.00 1.980000 0.080000                                       G.V.Gorlov+          (65)40221  6 
+#/DATA      1
+#/DATASET

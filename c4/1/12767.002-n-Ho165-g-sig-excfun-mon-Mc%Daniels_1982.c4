@@ -1,0 +1,33 @@
+#ENTRY      12767
+#AUTHOR1    D.K.Mc Daniels+
+#YEAR       1982
+#INSTITUTE  (1USALAS)
+#TITLE      RADIATIVE CAPTURE OF FAST NEUTRONS BY 165-HO AND 238-U
+#AUTHOR(S)  D.K.Mc Daniels, P.Varghese, D.M.Drake, E.Arthur, A.Lindholm, 
+#+          I.Bergqvist, J.Krumlinde
+#REF-CODE   (J,NP/A,384,88,8208)
+#REFERENCE  Nucl.Phys.A 384 (1982) 88 (doi:10.1016/0375-9474(82)90306-2)
+#DATASETS   0
+#
+#DATASET    12767002 
+#DATE       19821026
+#REACTION   67-HO-165(N,G)67-HO-166,,SIG
+#PROJ       1
+#TARG       67165
+#MF         3
+#MT         102
+#PRODUCT    67-HO-166
+#C4BEGIN    [    1 67165   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 67165   3 102 A  7200000.          9.4500-4 2.3000-4                                       D.K.Mc Daniels+      (82)12767  2 
+    1 67165   3 102 A  8200000.          1.0200-3 1.9500-4                                       D.K.Mc Daniels+      (82)12767  2 
+    1 67165   3 102 A  9200000.          1.0650-3 1.9000-4                                       D.K.Mc Daniels+      (82)12767  2 
+    1 67165   3 102 A  1.0200+7          1.0350-3 1.8000-4                                       D.K.Mc Daniels+      (82)12767  2 
+    1 67165   3 102 A  1.1200+7          1.1250-3 1.9000-4                                       D.K.Mc Daniels+      (82)12767  2 
+    1 67165   3 102 A  1.2200+7          7.9000-4 1.5000-4                                       D.K.Mc Daniels+      (82)12767  2 
+    1 67165   3 102 A  1.3200+7          1.1600-3 2.0500-4                                       D.K.Mc Daniels+      (82)12767  2 
+    1 67165   3 102 A  1.4200+7          8.4500-4 1.6500-4                                       D.K.Mc Daniels+      (82)12767  2 
+#/DATA      8
+#/DATASET

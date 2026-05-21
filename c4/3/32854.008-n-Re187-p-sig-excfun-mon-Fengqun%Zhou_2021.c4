@@ -1,0 +1,32 @@
+#ENTRY      32854
+#AUTHOR1    Fengqun Zhou+
+#YEAR       2021
+#INSTITUTE  (3CPRPDU)
+#TITLE      Cross section measurements for(n,2n), (n,a), and (n,p)
+#+          reactions on rhenium isotopes around 14 MeV neutrons
+#+          and their theoretical calculations of excitation
+#+          functions
+#AUTHOR(S)  Fengqun Zhou, Yueli Song, Xinyi Chang, Yong Li, Shuqing Yuan, 
+#+          Pengfei Ji, Mingli Tian
+#REF-CODE   (J,CPH/C,45,074101,2021)
+#REFERENCE  Chin.Phys.C 45 (2021) 074101 (doi:10.1088/1674-1137/abf5ca)
+#DATASETS   0
+#
+#DATASET    32854008 
+#DATE       20250731
+#REACTION   75-RE-187(N,P)74-W-187,,SIG
+#PROJ       1
+#TARG       75187
+#MF         3
+#MT         103
+#PRODUCT    74-W-187
+#C4BEGIN    [    1 75187   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 75187   3 103    1.3500+7 200000.0 2.0500-3 9.0000-5                                       Fengqun Zhou+        (21)32854  8 
+    1 75187   3 103    1.4100+7 200000.0 2.5000-3 1.1000-4                                       Fengqun Zhou+        (21)32854  8 
+    1 75187   3 103    1.4400+7 200000.0 2.9800-3 1.3000-4                                       Fengqun Zhou+        (21)32854  8 
+    1 75187   3 103    1.4800+7 200000.0 3.2700-3 1.4000-4                                       Fengqun Zhou+        (21)32854  8 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      33038
+#AUTHOR1    M.Bhike+
+#YEAR       2012
+#INSTITUTE  (3INDTRM)
+#TITLE      Measurement of 232Th(n,g)233Th, 98Mo(n,g)99Mo,
+#+          186W(n,g)187W, 115In(n,g)116m1In, and 92Mo(n,p)92mNb
+#+          cross sections in the energy range of 1.6 to 3.7 MeV
+#AUTHOR(S)  M.Bhike, B.J.Roy, A.Saxena, R.K.Choudhury, S.Ganesan
+#REF-CODE   (J,NSE,170,44,2012)
+#REFERENCE  Nucl.Sci.Eng. 170 (2012) 44 (doi:10.13182/NSE10-63)
+#DATASETS   0
+#
+#DATASET    33038003 
+#DATE       20120606
+#REACTION   42-MO-98(N,G)42-MO-99,,SIG
+#PROJ       1
+#TARG       42098
+#MF         3
+#MT         102
+#PRODUCT    42-MO-99
+#C4BEGIN    [    1 42098   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42098   3 102    3200000. 30000.00 0.011500 1.2000-3                                       M.Bhike+             (12)33038  3 
+#/DATA      1
+#/DATASET

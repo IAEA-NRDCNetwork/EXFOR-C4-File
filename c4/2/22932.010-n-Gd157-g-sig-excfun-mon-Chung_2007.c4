@@ -1,0 +1,31 @@
+#ENTRY      22932
+#AUTHOR1    W.C.Chung+
+#YEAR       2007
+#INSTITUTE  (2JPNTIT)
+#TITLE      .Measurements of keV-Neutron Capture Cross Section
+#+          and Capture gamma-Ray Spectra of 155-Gd and 157-Gd
+#AUTHOR(S)  W.C.Chung, T.I.Ro, G.N.Kim, S.Lee, M.Igashira, T.Ohsaki
+#REF-CODE   (J,KPS,50,409,2007)
+#REFERENCE  J.Korean.Phys.Soc. 50 (2007) 409 (doi:10.3938/jkps.50.409)
+#DATASETS   0
+#
+#DATASET    22932010 
+#DATE       20180831
+#REACTION   64-GD-157(N,G)64-GD-158,,SIG,,AV
+#PROJ       1
+#TARG       64157
+#MF         3
+#MT         102
+#PRODUCT    64-GD-158
+#C4BEGIN    [    1 64157   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 64157   3 102    20000.00 5000.000 2.216000 0.100000                                       W.C.Chung+           (07)22932 10 
+    1 64157   3 102    30000.00 5000.000 1.661000 0.071000                                       W.C.Chung+           (07)22932 10 
+    1 64157   3 102    40000.00 5000.000 1.440000 0.062000                                       W.C.Chung+           (07)22932 10 
+    1 64157   3 102    50000.00 5000.000 1.275000 0.056000                                       W.C.Chung+           (07)22932 10 
+    1 64157   3 102    60000.00 5000.000 1.040000 0.047000                                       W.C.Chung+           (07)22932 10 
+    1 64157   3 102    81500.00 16500.00 0.885000 0.040000                                       W.C.Chung+           (07)22932 10 
+#/DATA      6
+#/DATASET

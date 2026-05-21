@@ -1,0 +1,30 @@
+#ENTRY      O0839
+#AUTHOR1    I.Leya+
+#YEAR       2005
+#INSTITUTE  (2SWTETH)
+#TITLE      Production of noble gas isotopes by proton-induced
+#+          reactions on lead
+#AUTHOR(S)  I.Leya, R.Wieler, J.-C.David, S.Leray, L.Donadille, J.Cugnon, 
+#+          R.Michel
+#REF-CODE   (J,NIM/B,229,1,2005)
+#REFERENCE  Nucl.Instrum.Meth.B 229 (2005) 1
+#DATASETS   0
+#
+#DATASET    O0839007 
+#DATE       20050523
+#REACTION   82-PB-0(P,X)18-AR-36,CUM,SIG
+#PROJ       1001
+#TARG       82000
+#MF         3
+#MT         459
+#PRODUCT    18-AR-36
+#C4BEGIN    [ 1001 82000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82000   3 459    1.3000+8 1000000. 1.4700-4 4.6000-5           18036.9                     I.Leya+              (05)O0839  7 
+ 1001 82000   3 459    1.7100+8 1000000. 2.5100-4 4.7000-5           18036.9                     I.Leya+              (05)O0839  7 
+ 1001 82000   3 459    9.9300+8 1000000. 3.9300-4 3.9000-5           18036.9                     I.Leya+              (05)O0839  7 
+ 1001 82000   3 459    1.5670+9 1000000. 9.5600-4 8.3000-5           18036.9                     I.Leya+              (05)O0839  7 
+#/DATA      4
+#/DATASET

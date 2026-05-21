@@ -1,0 +1,30 @@
+#ENTRY      32720
+#AUTHOR1    Wang Zhaohui+
+#YEAR       2013
+#INSTITUTE  (3CPRAEP)
+#TITLE      Study on coincidence measurement for 56Fe(n,xng)
+#+          reaction cross section
+#AUTHOR(S)  Wang Zhaohui, Su Xiaobin, Zhang Xiaopeng, Hou Long, Yu Guoliang, 
+#+          Li Xia, Wang Qi
+#REF-CODE   (J,CST,47,2177,2013)
+#REFERENCE  At.En.Sci.Technol. 47 (2013) 2177
+#DATASETS   0
+#
+#DATASET    32720003 
+#DATE       20140611
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,SIG,G
+#PROJ       1
+#TARG       26056
+#MF         13
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056  13  51    1.4800+7          0.611550                            846800.0            Wang Zhaohui+        (13)32720  3 
+    1 26056  13  51    1.4800+7          0.073921                            1037800.            Wang Zhaohui+        (13)32720  3 
+    1 26056  13  51    1.4800+7          0.283850                            1238300.            Wang Zhaohui+        (13)32720  3 
+    1 26056  13  51    1.4800+7          0.062761                            1303300.            Wang Zhaohui+        (13)32720  3 
+#/DATA      4
+#/DATASET

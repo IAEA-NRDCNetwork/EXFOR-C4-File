@@ -1,0 +1,32 @@
+#ENTRY      E0828
+#AUTHOR1    T.Motobayashi+
+#YEAR       1984
+#INSTITUTE  (2JPNOSA)
+#TITLE      Breakup process for 100 MeV 3He interacting with 165Ho
+#+          and 166, 167Er nuclei
+#AUTHOR(S)  T.Motobayashi, H.Ejiri, T.Shibata, K.Okada, M.Sasao, K.Maeda, 
+#+          H.Suzuki, A.Shimizu, H.Sakai
+#REF-CODE   (J,NP/A,413,(2),290,198401)
+#REFERENCE  Nucl.Phys.A 413 No.2 (1984) 290 (doi:10.1016/0375-9474(84)90376-2)
+#DATASETS   0
+#
+#DATASET    E0828027 
+#DATE       20080612
+#REACTION   67-HO-165(HE3,X)1-H-3,,DA/DE
+#PROJ       2003
+#TARG       67165
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 2003 67165   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 67165   6 205    1.0000+8          2.887-11         -0.500000          1.7310+7          E2T.Motobayashi+       (84)E0828 27 
+ 2003 67165   6 205    1.0000+8          1.895-11         -0.500000          2.2250+7          E2T.Motobayashi+       (84)E0828 27 
+ 2003 67165   6 205    1.0000+8          1.181-11         -0.500000          2.7330+7          E2T.Motobayashi+       (84)E0828 27 
+ 2003 67165   6 205    1.0000+8          7.517-12         -0.500000          3.2420+7          E2T.Motobayashi+       (84)E0828 27 
+ 2003 67165   6 205    1.0000+8          4.985-12         -0.500000          3.7490+7          E2T.Motobayashi+       (84)E0828 27 
+ 2003 67165   6 205    1.0000+8          3.205-12         -0.500000          4.2300+7          E2T.Motobayashi+       (84)E0828 27 
+#/DATA      6
+#/DATASET

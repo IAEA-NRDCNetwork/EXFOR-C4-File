@@ -1,0 +1,31 @@
+#ENTRY      13951
+#AUTHOR1    C.J.Martoff+
+#YEAR       1996
+#INSTITUTE  (1USASTF)
+#TITLE      Reaction 13C(n,p)13B at 118 MeV.
+#AUTHOR(S)  C.J.Martoff, S.S.Hanna, D.Pocanic, K.Wang, W.J.Cummings, 
+#+          R.C.Byrd, C.C.Foster
+#REF-CODE   (J,PR/C,54,2767,199611)
+#REFERENCE  Phys.Rev.C 54 (1996) 2767 (doi:10.1103/PhysRevC.54.2767)
+#DATASETS   0
+#
+#DATASET    13951002 
+#DATE       20050106
+#REACTION   6-C-13(N,P)5-B-13,PAR,DA
+#PROJ       1
+#TARG       6013
+#MF         4
+#MT         600
+#PRODUCT    5-B-13
+#C4BEGIN    [    1  6013   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6013   4 600  C 1.1800+8          6.3480-3 9.8470-4 1.000000          0.000000         LVLC.J.Martoff+         (96)13951  2 
+    1  6013   4 600  C 1.1800+8          5.1220-3 6.5410-4 0.998083          0.000000         LVLC.J.Martoff+         (96)13951  2 
+    1  6013   4 600  C 1.1800+8          3.4750-3 5.1990-4 0.993550          0.000000         LVLC.J.Martoff+         (96)13951  2 
+    1  6013   4 600  C 1.1800+8          1.9270-3 3.2040-4 0.985387          0.000000         LVLC.J.Martoff+         (96)13951  2 
+    1  6013   4 600  C 1.1800+8          2.1150-3 3.0470-4 0.973976          0.000000         LVLC.J.Martoff+         (96)13951  2 
+    1  6013   4 600  C 1.1800+8          8.5960-4 1.3810-4 0.940881          0.000000         LVLC.J.Martoff+         (96)13951  2 
+#/DATA      6
+#/DATASET

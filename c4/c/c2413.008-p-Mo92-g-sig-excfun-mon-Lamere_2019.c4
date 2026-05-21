@@ -1,0 +1,32 @@
+#ENTRY      C2413
+#AUTHOR1    E.Lamere+
+#YEAR       2019
+#INSTITUTE  (1USANOT)
+#TITLE      Proton-induced reactions on molybdenum
+#AUTHOR(S)  E.Lamere, M.Couder, M.Beard, A.Simon, A.Simonetti, M.Skulski, 
+#+          G.Seymour, P.Huestis, K.Manukyan, Z.Meisel, L.Morales, M.Moran, 
+#+          S.Moylan, C.Seymour, E.Stech
+#REF-CODE   (J,PR/C,100,034614,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 034614 (doi:10.1103/PhysRevC.100.034614)
+#DATASETS   0
+#
+#DATASET    C2413008 
+#DATE       20191030
+#REACTION   42-MO-92(P,G)43-TC-93-G,,SIG
+#PROJ       1001
+#TARG       42092
+#MF         3
+#MT         102
+#PRODUCT    43-TC-93-G
+#C4BEGIN    [ 1001 42092   3 102G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42092   3 102G   1.0520+7 60000.00 3.4000-3 5.0000-4                                       E.Lamere+            (19)C2413  8 
+ 1001 42092   3 102G   1.3030+7 60000.00 1.4200-3 2.2000-4                                       E.Lamere+            (19)C2413  8 
+ 1001 42092   3 102G   1.5070+7 20000.00 1.0900-3 2.4000-4                                       E.Lamere+            (19)C2413  8 
+ 1001 42092   3 102G   1.6070+7 20000.00 1.0400-3 2.1000-4                                       E.Lamere+            (19)C2413  8 
+ 1001 42092   3 102G   1.7050+7 40000.00 9.8000-4 2.0000-4                                       E.Lamere+            (19)C2413  8 
+ 1001 42092   3 102G   1.8070+7 20000.00 1.1300-3 2.6000-4                                       E.Lamere+            (19)C2413  8 
+#/DATA      6
+#/DATASET

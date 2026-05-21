@@ -1,0 +1,26 @@
+#ENTRY      10042
+#AUTHOR1    G.H.E.Sims+
+#YEAR       1969
+#INSTITUTE  (1CANCPO)
+#TITLE      The thermal neutron capture cross section and resonance
+#+          capture integral of 35Cl for (n,g) and (n,p) reactions
+#AUTHOR(S)  G.H.E.Sims, D.G.Juhnke
+#REF-CODE   (J,JIN,31,3721,196904)
+#REFERENCE  J.Inorg.Nucl.Chem. 31 (1969) 3721 (doi:10.1016/0022-1902(69)80288-5)
+#DATASETS   0
+#
+#DATASET    10042006 
+#DATE       19990719
+#REACTION   17-CL-35(N,G)17-CL-36,,SIG,,MXW
+#PROJ       1
+#TARG       17035
+#MF         3
+#MT         102
+#PRODUCT    17-CL-36
+#C4BEGIN    [    1 17035   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 17035   3 102 A  0.025300          41.80000 1.200000                                       G.H.E.Sims+          (69)10042  6 
+#/DATA      1
+#/DATASET

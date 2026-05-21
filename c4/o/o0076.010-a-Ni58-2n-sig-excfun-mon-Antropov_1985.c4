@@ -1,0 +1,29 @@
+#ENTRY      O0076
+#AUTHOR1    A.E.Antropov+
+#YEAR       1985
+#INSTITUTE  (4RUSSUL)
+#TITLE      Cross sections measurements of (p,n),(alpha,pn),
+#+          (alpha,xn) reactions on nuclei of middle atomic weight
+#AUTHOR(S)  A.E.Antropov, P.P.Zarubin, Yu.A.Aleksandrov, I.Yu.Gorshkov
+#REF-CODE   (C,85LENING,,369,1985)
+#REFERENCE  Proceedings of 35.Conf.Nucl.Spectr.and Nucl.Struct.,Leningrad 1985 page 369
+#DATASETS   0
+#
+#DATASET    O0076010 
+#DATE       20190206
+#REACTION   28-NI-58(A,2N)30-ZN-60,,SIG
+#PROJ       2004
+#TARG       28058
+#MF         3
+#MT         16
+#PRODUCT    30-ZN-60
+#C4BEGIN    [ 2004 28058   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28058   3  16    1.6500+7          0.011000 1.0000-3                                       A.E.Antropov+        (85)O0076 10 
+ 2004 28058   3  16    1.9100+7          0.045000 2.0000-3                                       A.E.Antropov+        (85)O0076 10 
+ 2004 28058   3  16    2.1800+7          0.038000 1.0000-3                                       A.E.Antropov+        (85)O0076 10 
+ 2004 28058   3  16    2.4500+7          0.031000 5.0000-3                                       A.E.Antropov+        (85)O0076 10 
+#/DATA      4
+#/DATASET

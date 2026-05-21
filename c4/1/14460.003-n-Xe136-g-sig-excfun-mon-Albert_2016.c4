@@ -1,0 +1,26 @@
+#ENTRY      14460
+#AUTHOR1    J.B.Albert+
+#YEAR       2016
+#INSTITUTE  (1USAINU)
+#TITLE      Measurement of neutron capture on 136Xe
+#AUTHOR(S)  J.B.Albert, S.J.Daugherty, T.N.Johnson, T.O'Conner, L.J.Kaufman, 
+#+          A.Couture, J.L.Ullmann, M.Krticka
+#REF-CODE   (J,PR/C,94,034617,2016)
+#REFERENCE  Phys.Rev.C 94 (2016) 034617 (doi:10.1103/PhysRevC.94.034617)
+#DATASETS   0
+#
+#DATASET    14460003 
+#DATE       20161026
+#REACTION   54-XE-136(N,G)54-XE-137,,SIG
+#PROJ       1
+#TARG       54136
+#MF         3
+#MT         102
+#PRODUCT    54-XE-137
+#C4BEGIN    [    1 54136   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 54136   3 102 D  0.024950 6.5000-4 0.238000 0.019000                                       J.B.Albert+          (16)14460  3 
+#/DATA      1
+#/DATASET

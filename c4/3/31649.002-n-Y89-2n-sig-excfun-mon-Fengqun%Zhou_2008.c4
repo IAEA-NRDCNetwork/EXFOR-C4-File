@@ -1,0 +1,30 @@
+#ENTRY      31649
+#AUTHOR1    Fengqun Zhou+
+#YEAR       2008
+#INSTITUTE  (3CPRPDU)
+#TITLE      Cross-section measurements for (n,2n) and (n,a)
+#+          reactions on yttrium at neutron energies from 13.5 to
+#+          14.6 MeV
+#AUTHOR(S)  Fengqun Zhou, Hongwei Zhang, Hongchun Huang, Kuohu Li, Yanling Yi, 
+#+          Fei Tuo, Xiangzhong Kong
+#REF-CODE   (J,ARI,66,1898,2008)
+#REFERENCE  Appl.Radiat.Isot. 66 (2008) 1898 (doi:10.1016/j.apradiso.2008.06.002)
+#DATASETS   0
+#
+#DATASET    31649002 
+#DATE       20150526
+#REACTION   39-Y-89(N,2N)39-Y-88,,SIG
+#PROJ       1
+#TARG       39089
+#MF         3
+#MT         16
+#PRODUCT    39-Y-88
+#C4BEGIN    [    1 39089   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 39089   3  16    1.3500+7 300000.0 0.762000 0.036000                                       Fengqun Zhou+        (08)31649  2 
+    1 39089   3  16    1.4100+7 200000.0 0.840000 0.035000                                       Fengqun Zhou+        (08)31649  2 
+    1 39089   3  16    1.4600+7 300000.0 0.962000 0.045000                                       Fengqun Zhou+        (08)31649  2 
+#/DATA      3
+#/DATASET

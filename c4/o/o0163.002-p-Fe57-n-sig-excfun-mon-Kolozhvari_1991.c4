@@ -1,0 +1,27 @@
+#ENTRY      O0163
+#AUTHOR1    A.A.Kolozhvari+
+#YEAR       1991
+#INSTITUTE  (4RUSSUL)
+#TITLE      Total cross sections of 57-Fe(P,N) reaction at E/p=5.2
+#+          and 6.1 MeV.
+#AUTHOR(S)  A.A.Kolozhvari, V.P.Gusev, A.B.Smirnov, A.E.Antropov, P.P.Zarubin
+#REF-CODE   (J,IZV,55,168,1991)
+#REFERENCE  Izv.Ross.AN,Fiz. 55 (1991) 168
+#DATASETS   0
+#
+#DATASET    O0163002 
+#DATE       20040716
+#REACTION   26-FE-57(P,N)27-CO-57,,SIG
+#PROJ       1001
+#TARG       26057
+#MF         3
+#MT         4
+#PRODUCT    27-CO-57
+#C4BEGIN    [ 1001 26057   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26057   3   4    5200000.          0.235000 0.030000                                       A.A.Kolozhvari+      (91)O0163  2 
+ 1001 26057   3   4    6100000.          0.330000 0.030000                                       A.A.Kolozhvari+      (91)O0163  2 
+#/DATA      2
+#/DATASET

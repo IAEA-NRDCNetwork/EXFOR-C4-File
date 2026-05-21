@@ -1,0 +1,33 @@
+#ENTRY      12400
+#AUTHOR1    E.J.Seppi+
+#YEAR       1957
+#INSTITUTE  (1USAHAN)
+#TITLE      U-235 FISSION CROSS SECTION
+#AUTHOR(S)  E.J.Seppi, W.J.Friesen, B.R.Leonard Jr
+#REF-CODE   (P,HW-53492,22,5711)
+#REFERENCE  Progress report HW-53492 page 22, 1957
+#DATASETS   0
+#
+#DATASET    12400002 
+#DATE       19820519
+#REACTION   92-U-235(N,F),,SIG,,RTE
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18    2.6900-3          1795.037 26.92556                                       E.J.Seppi+           (57)12400  2 
+    1 92235   3  18    2.8600-3          1699.733 22.09653                                       E.J.Seppi+           (57)12400  2 
+    1 92235   3  18    3.0500-3          1636.886 18.00574                                       E.J.Seppi+           (57)12400  2 
+    1 92235   3  18    3.2600-3          1600.801 16.00801                                       E.J.Seppi+           (57)12400  2 
+    1 92235   3  18    3.4900-3          1552.231 12.41785                                       E.J.Seppi+           (57)12400  2 
+    1 92235   3  18    3.7500-3          1508.885 12.07108                                       E.J.Seppi+           (57)12400  2 
+    1 92235   3  18    4.0400-3          1441.135 10.08794                                       E.J.Seppi+           (57)12400  2 
+    1 92235   3  18    4.3600-3          1396.328 8.377972                                       E.J.Seppi+           (57)12400  2 
+    1 92235   3  18    4.7300-3          1336.241 5.344966                                       E.J.Seppi+           (57)12400  2 
+    1 92235   3  18    5.1400-3          1286.024 9.002174                                       E.J.Seppi+           (57)12400  2 
+#/DATA      10
+#/DATASET

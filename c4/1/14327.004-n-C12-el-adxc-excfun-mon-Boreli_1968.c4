@@ -1,0 +1,35 @@
+#ENTRY      14327
+#AUTHOR1    F.Boreli+
+#YEAR       1968
+#INSTITUTE  (1USATEX)
+#TITLE      Neutron Cross-Section Measurements of 12C between 14
+#+          and 25 MeV
+#AUTHOR(S)  F.Boreli, B.B.Kinsey, P.N.Shrivastava
+#REF-CODE   (J,PR,174,(4),1147,1968)
+#REFERENCE  Phys.Rev. 174 No.4 (1968) 1147 (doi:10.1103/PhysRev.174.1147)
+#DATASETS   0
+#
+#DATASET    14327004 
+#DATE       20180404
+#REACTION   6-C-12(N,EL)6-C-12,,DA
+#PROJ       1
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   4   2  C 1.4170+7          0.040430          0.577145                              F.Boreli+            (68)14327  4 
+    1  6012   4   2  C 1.4610+7          0.045190          0.577145                              F.Boreli+            (68)14327  4 
+    1  6012   4   2  C 1.5040+7          0.047250          0.577145                              F.Boreli+            (68)14327  4 
+    1  6012   4   2  C 1.5500+7          0.046340          0.577145                              F.Boreli+            (68)14327  4 
+    1  6012   4   2  C 1.5920+7          0.043760          0.577145                              F.Boreli+            (68)14327  4 
+    1  6012   4   2  C 1.6310+7          0.038570 9.4570-4 0.577145                              F.Boreli+            (68)14327  4 
+    1  6012   4   2  C 1.6660+7          0.035370          0.577145                              F.Boreli+            (68)14327  4 
+    1  6012   4   2  C 1.6930+7          0.034910          0.577145                              F.Boreli+            (68)14327  4 
+    1  6012   4   2  C 1.7170+7          0.034280          0.577145                              F.Boreli+            (68)14327  4 
+    1  6012   4   2  C 1.7310+7          0.031620          0.577145                              F.Boreli+            (68)14327  4 
+#/DATA      10
+#/DATASET

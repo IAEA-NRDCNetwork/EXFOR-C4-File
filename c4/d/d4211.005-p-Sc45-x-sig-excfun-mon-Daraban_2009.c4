@@ -1,0 +1,33 @@
+#ENTRY      D4211
+#AUTHOR1    L.Daraban+
+#YEAR       2009
+#INSTITUTE  (3RUMBBU)
+#TITLE      Study of the excitation functions for 43K, 43,44,44mSc
+#+          and 44Ti by proton irradiation on 45Sc up to 37 MeV
+#AUTHOR(S)  L.Daraban, R.Adam Rebeles, A.Hermanne, F.Tarkanyi, S.Takacs
+#REF-CODE   (J,NIM/B,267,755,2009)
+#REFERENCE  Nucl.Instrum.Meth.B 267 (2009) 755 (doi:10.1016/j.nimb.2009.01.010)
+#DATASETS   0
+#
+#DATASET    D4211005 
+#DATE       20090309
+#REACTION   21-SC-45(P,X)21-SC-44-G,IND,SIG
+#PROJ       1001
+#TARG       21045
+#MF         3
+#MT         454
+#PRODUCT    21-SC-44-G
+#C4BEGIN    [ 1001 21045   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 21045   3 454 A  3.6400+7 100000.0 0.161900 0.023500           21044.0                     L.Daraban+           (09)D4211  5 
+ 1001 21045   3 454 A  3.4200+7 100000.0 0.177800 0.025800           21044.0                     L.Daraban+           (09)D4211  5 
+ 1001 21045   3 454 A  3.1900+7 200000.0 0.208800 0.030400           21044.0                     L.Daraban+           (09)D4211  5 
+ 1001 21045   3 454 A  2.9500+7 400000.0 0.239200 0.034800           21044.0                     L.Daraban+           (09)D4211  5 
+ 1001 21045   3 454 A  2.6900+7 600000.0 0.311500 0.045300           21044.0                     L.Daraban+           (09)D4211  5 
+ 1001 21045   3 454 A  2.4100+7 800000.0 0.321100 0.046700           21044.0                     L.Daraban+           (09)D4211  5 
+ 1001 21045   3 454 A  2.1100+7 1000000. 0.304800 0.044300           21044.0                     L.Daraban+           (09)D4211  5 
+ 1001 21045   3 454 A  1.7600+7 1400000. 0.198900 0.028900           21044.0                     L.Daraban+           (09)D4211  5 
+#/DATA      8
+#/DATASET

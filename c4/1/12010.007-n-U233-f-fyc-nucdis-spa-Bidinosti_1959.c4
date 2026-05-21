@@ -1,0 +1,31 @@
+#ENTRY      12010
+#AUTHOR1    D.Bidinosti+
+#YEAR       1959
+#INSTITUTE  (1CANMCM)
+#TITLE      Mass spectrometric studies of pile poisons and their
+#+          yields in the fission of uranium-233, uranium-235, and
+#+          plutonium-239
+#AUTHOR(S)  D.Bidinosti, H.Fickel, R.Tomlinson
+#REF-CODE   (B,PR.NUC.EN.,3,(1),261,1959)
+#REFERENCE  Progress in Nuclear Energy Ser.1 Phys. & Mathematics 3  Part (1) page 261 (1959)
+#DATASETS   0
+#
+#DATASET    12010007 
+#DATE       20220520
+#REACTION   92-U-233(N,F)ELEM/MASS,CUM,FY,,SPA
+#PROJ       1
+#TARG       92233
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92233   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   8 459    0.025300          0.056000 1.6800-3 54.00000 135.0000 9.000000            D.Bidinosti+         (59)12010  7 
+    1 92233   8 459    0.025300          0.060000 1.8000-3 55.00000 133.0000 9.000000            D.Bidinosti+         (59)12010  7 
+    1 92233   8 459    0.025300          0.064500 1.9350-3 60.00000 143.0000 9.000000            D.Bidinosti+         (59)12010  7 
+    1 92233   8 459    0.025300          0.021000 6.3000-4 61.00000 147.0000 9.000000            D.Bidinosti+         (59)12010  7 
+    1 92233   8 459    0.025300          8.0000-3 2.4000-4 62.00000 149.0000 9.000000            D.Bidinosti+         (59)12010  7 
+    1 92233   8 459    0.025300          3.0000-3 9.0000-5 62.00000 151.0000 9.000000            D.Bidinosti+         (59)12010  7 
+#/DATA      6
+#/DATASET

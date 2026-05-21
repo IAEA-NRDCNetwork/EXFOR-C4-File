@@ -1,0 +1,35 @@
+#ENTRY      O1840
+#AUTHOR1    M.Dasgupta+
+#YEAR       2010
+#INSTITUTE  (3AULCBR)
+#TITLE      Suppression of fusion by breakup-Resolving the
+#+          discrepancy between the reactions of Be-9 with Pb-208
+#+          and Bi-209.
+#AUTHOR(S)  M.Dasgupta, D.J.Hinde, S.L.Sheehy, B.Bouriquet
+#REF-CODE   (J,PR/C,81,024608,2010)
+#REFERENCE  Phys.Rev.C 81 (2010) 024608 (doi:10.1103/PhysRevC.81.024608)
+#DATASETS   0
+#
+#DATASET    O1840003 
+#DATE       20100226
+#REACTION   82-PB-208(4-BE-9,4N)86-RN-213,,SIG
+#PROJ       4009
+#TARG       82208
+#MF         3
+#MT         37
+#PRODUCT    86-RN-213
+#C4BEGIN    [ 4009 82208   3  37  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4009 82208   3  37    4.3898+7          0.070200 2.4000-3                                       M.Dasgupta+          (10)O1840  3 
+ 4009 82208   3  37    4.4785+7          0.125000 0.010000                                       M.Dasgupta+          (10)O1840  3 
+ 4009 82208   3  37    4.7884+7          0.341000 0.011000                                       M.Dasgupta+          (10)O1840  3 
+ 4009 82208   3  37    4.9919+7          0.429000 0.010000                                       M.Dasgupta+          (10)O1840  3 
+ 4009 82208   3  37    5.0921+7          0.451000 0.011000                                       M.Dasgupta+          (10)O1840  3 
+ 4009 82208   3  37    5.5909+7          0.311000 0.011000                                       M.Dasgupta+          (10)O1840  3 
+ 4009 82208   3  37    5.9927+7          0.160400 4.1000-3                                       M.Dasgupta+          (10)O1840  3 
+ 4009 82208   3  37    6.0866+7          0.123000 8.0000-3                                       M.Dasgupta+          (10)O1840  3 
+ 4009 82208   3  37    6.9946+7          0.020300 3.6000-3                                       M.Dasgupta+          (10)O1840  3 
+#/DATA      9
+#/DATASET

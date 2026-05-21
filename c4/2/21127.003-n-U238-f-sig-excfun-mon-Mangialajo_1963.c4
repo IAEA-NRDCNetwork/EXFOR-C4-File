@@ -1,0 +1,32 @@
+#ENTRY      21127
+#AUTHOR1    M.Mangialajo+
+#YEAR       1963
+#INSTITUTE  (2ITYCIS)
+#TITLE      -Good resolution measurement of the fission excitation
+#+          curve of U-238 by fast neutrons around 14 MeV-
+#AUTHOR(S)  M.Mangialajo, F.Merzari, P.G.Sona
+#REF-CODE   (J,NP,43,124,196305)
+#REFERENCE  Nucl.Phys. 43 (1963) 124 (doi:10.1016/0029-5582(63)90334-1)
+#DATASETS   0
+#
+#DATASET    21127003 
+#DATE       20071015
+#REACTION   92-U-238(N,F),,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3  18    1.3740+7 60000.00 1.280000 0.030000                                       M.Mangialajo+        (63)21127  3 
+    1 92238   3  18    1.3900+7 60000.00 1.320000 0.030000                                       M.Mangialajo+        (63)21127  3 
+    1 92238   3  18    1.4070+7 60000.00 1.290000 0.030000                                       M.Mangialajo+        (63)21127  3 
+    1 92238   3  18    1.4240+7 60000.00 1.300000 0.030000                                       M.Mangialajo+        (63)21127  3 
+    1 92238   3  18    1.4410+7 60000.00 1.350000 0.030000                                       M.Mangialajo+        (63)21127  3 
+    1 92238   3  18    1.4550+7 60000.00 1.310000 0.040000                                       M.Mangialajo+        (63)21127  3 
+    1 92238   3  18    1.4660+7 50000.00 1.280000 0.030000                                       M.Mangialajo+        (63)21127  3 
+    1 92238   3  18    1.4760+7 50000.00 1.330000 0.030000                                       M.Mangialajo+        (63)21127  3 
+#/DATA      8
+#/DATASET

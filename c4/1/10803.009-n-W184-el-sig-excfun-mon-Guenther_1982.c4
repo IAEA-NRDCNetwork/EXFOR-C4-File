@@ -1,0 +1,38 @@
+#ENTRY      10803
+#AUTHOR1    P.T.Guenther+
+#YEAR       1982
+#INSTITUTE  (1USAANL)
+#TITLE      Fast Neutron Total and Scattering Cross Sections of
+#+          182W,184W,186W
+#AUTHOR(S)  P.T.Guenther, A.B.Smith, J.F.Whalen
+#REF-CODE   (J,PR/C,26,2433,198212)
+#REFERENCE  Phys.Rev.C 26 (1982) 2433 (doi:10.1103/PhysRevC.26.2433)
+#DATASETS   0
+#
+#DATASET    10803009 
+#DATE       20080723
+#REACTION   74-W-184(N,EL)74-W-184,,SIG
+#PROJ       1
+#TARG       74184
+#MF         3
+#MT         2
+#PRODUCT    74-W-184
+#C4BEGIN    [    1 74184   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74184   3   2 D  1500000.          3.800000 0.171000                                       P.T.Guenther+        (82)10803  9 
+    1 74184   3   2 D  1700000.          3.760000 0.225000                                       P.T.Guenther+        (82)10803  9 
+    1 74184   3   2 D  1900000.          3.750000 0.225000                                       P.T.Guenther+        (82)10803  9 
+    1 74184   3   2 D  2100000.          3.740000 0.224000                                       P.T.Guenther+        (82)10803  9 
+    1 74184   3   2 D  2300000.          3.630000 0.217000                                       P.T.Guenther+        (82)10803  9 
+    1 74184   3   2 D  2500000.          3.740000 0.170000                                       P.T.Guenther+        (82)10803  9 
+    1 74184   3   2 D  2600000.          3.730000 0.223000                                       P.T.Guenther+        (82)10803  9 
+    1 74184   3   2 D  2700000.          3.780000 0.227000                                       P.T.Guenther+        (82)10803  9 
+    1 74184   3   2 D  3050000.          3.710000 0.166000                                       P.T.Guenther+        (82)10803  9 
+    1 74184   3   2 D  3350000.          3.600000 0.216000                                       P.T.Guenther+        (82)10803  9 
+    1 74184   3   2 D  3500000.          3.670000 0.183000                                       P.T.Guenther+        (82)10803  9 
+    1 74184   3   2 D  3700000.          3.610000 0.252000                                       P.T.Guenther+        (82)10803  9 
+    1 74184   3   2 D  3900000.          3.800000 0.290000                                       P.T.Guenther+        (82)10803  9 
+#/DATA      13
+#/DATASET

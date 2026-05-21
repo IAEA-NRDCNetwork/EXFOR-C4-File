@@ -1,0 +1,28 @@
+#ENTRY      C2127
+#AUTHOR1    D.A.Mayorov+
+#YEAR       2014
+#INSTITUTE  (1USATAM)
+#TITLE      Production cross sections of elements near the N =
+#+          126 shell in 48Ca- induced reactions with 154Gd,159Tb,
+#+          162Dy, and 165Ho targets
+#AUTHOR(S)  D.A.Mayorov, T.A.Werke, M.C.Alfonso, M.E.Bennett, C.M.Folden Iii
+#REF-CODE   (J,PR/C,90,024602,2014)
+#REFERENCE  Phys.Rev.C 90 (2014) 024602 (doi:10.1103/PhysRevC.90.024602)
+#DATASETS   0
+#
+#DATASET    C2127004 
+#DATE       20140814
+#REACTION   64-GD-154(20-CA-48,5N)84-PO-197,,SIG
+#PROJ       20048
+#TARG       64154
+#MF         3
+#MT         152
+#PRODUCT    84-PO-197
+#C4BEGIN    [20048 64154   3 152  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+20048 64154   3 152    1.9690+8          3.0000-4 1.5000-4                                       D.A.Mayorov+         (14)C2127  4 
+20048 64154   3 152    2.0150+8          1.0000-3 5.0000-4                                       D.A.Mayorov+         (14)C2127  4 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      D0046
+#AUTHOR1    O.Bonesso+
+#YEAR       2017
+#INSTITUTE  (3ARGCNE)
+#TITLE      Cross-sections and thick target yields of
+#+          alpha-induced reactions
+#AUTHOR(S)  O.Bonesso, O.A.Capurro, M.J.Ozafran, M.J.Tavelli, M.de la Vega Vedoya, 
+#+          C.Wasilevsky, S.J.Nassiff
+#REF-CODE   (R,INDC(ARG)-14,2017)
+#REFERENCE  Report INDC(ARG)-14, 2017
+#DATASETS   0
+#
+#DATASET    D00460062
+#DATE       20170217
+#REACTION   73-TA-181(A,N)75-RE-184-M,,SIG
+#PROJ       2004
+#TARG       73181
+#MF         3
+#MT         4
+#PRODUCT    75-RE-184-M
+#C4BEGIN    [ 2004 73181   3   4MC]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 73181   3   4MC  1.8810+7          0.037540 7.1300-3                                       O.Bonesso+           (17)D0046  62
+ 2004 73181   3   4MC  2.0690+7          0.048120 0.010110                                       O.Bonesso+           (17)D0046  62
+ 2004 73181   3   4MC  2.5470+7          0.042030 7.1500-3                                       O.Bonesso+           (17)D0046  62
+ 2004 73181   3   4MC  2.9820+7          0.017120 3.2500-3                                       O.Bonesso+           (17)D0046  62
+ 2004 73181   3   4MC  3.1410+7          0.013110 2.3600-3                                       O.Bonesso+           (17)D0046  62
+ 2004 73181   3   4MC  3.4830+7          9.2700-3 1.9500-3                                       O.Bonesso+           (17)D0046  62
+ 2004 73181   3   4MC  3.8180+7          6.3100-3 1.3900-3                                       O.Bonesso+           (17)D0046  62
+ 2004 73181   3   4MC  3.9670+7          5.3000-3 1.1100-3                                       O.Bonesso+           (17)D0046  62
+ 2004 73181   3   4MC  4.2780+7          3.8700-3 7.4000-4                                       O.Bonesso+           (17)D0046  62
+#/DATA      9
+#/DATASET

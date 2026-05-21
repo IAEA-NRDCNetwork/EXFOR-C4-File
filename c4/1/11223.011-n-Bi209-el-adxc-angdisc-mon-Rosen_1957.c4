@@ -1,0 +1,29 @@
+#ENTRY      11223
+#AUTHOR1    L.Rosen+
+#YEAR       1957
+#INSTITUTE  (1USALAS)
+#TITLE      Neutron emission probabilities from the interaction of
+#+          14-MeV neutrons with Be, Ta and Bi.
+#AUTHOR(S)  L.Rosen, L.Stewart
+#REF-CODE   (J,PR,107,824,1957)
+#REFERENCE  Phys.Rev. 107 (1957) 824 (doi:10.1103/PhysRev.107.824)
+#DATASETS   0
+#
+#DATASET    11223011 
+#DATE       20230912
+#REACTION   83-BI-209(N,EL)83-BI-209,,DA
+#PROJ       1
+#TARG       83209
+#MF         4
+#MT         2
+#PRODUCT    83-BI-209
+#C4BEGIN    [    1 83209   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209   4   2  C 1.4000+7          1.250000 0.200000 0.940000 0.047637                     L.Rosen+             (57)11223 11 
+    1 83209   4   2  C 1.4000+7          0.270000 0.060000 0.866000 0.069819                     L.Rosen+             (57)11223 11 
+    1 83209   4   2  C 1.4000+7          0.113000 0.040000 0.643000 0.106935                     L.Rosen+             (57)11223 11 
+    1 83209   4   2  C 1.4000+7          0.031000 0.015000 0.342000 0.131207                     L.Rosen+             (57)11223 11 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,40 @@
+#ENTRY      41214
+#AUTHOR1    V.Ya.Averchenkov+
+#YEAR       1961
+#INSTITUTE  (4RUSNIR)
+#TITLE      Total cross sections of U235 and Th232 for 2 to 8 MeV
+#+          neutrons
+#AUTHOR(S)  V.Ya.Averchenkov, A.I.Veritennikov
+#REF-CODE   (B,NEJTRONFIZ,,258,1961)
+#REFERENCE  Neitronnaya Fizika, Moskva 1961 page 258 (1961)
+#DATASETS   0
+#
+#DATASET    41214002 
+#DATE       20130122
+#REACTION   90-TH-232(N,TOT),,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         1
+#C4BEGIN    [    1 90232   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3   1    1900000.          6.200000 1.000000                                       V.Ya.Averchenkov+    (61)41214  2 
+    1 90232   3   1    2050000.          6.850000                                                V.Ya.Averchenkov+    (61)41214  2 
+    1 90232   3   1    2250000.          7.350000                                                V.Ya.Averchenkov+    (61)41214  2 
+    1 90232   3   1    2400000.          7.300000                                                V.Ya.Averchenkov+    (61)41214  2 
+    1 90232   3   1    2570000.          7.500000                                                V.Ya.Averchenkov+    (61)41214  2 
+    1 90232   3   1    2800000.          7.900000                                                V.Ya.Averchenkov+    (61)41214  2 
+    1 90232   3   1    3000000.          7.450000                                                V.Ya.Averchenkov+    (61)41214  2 
+    1 90232   3   1    3220000.          7.900000                                                V.Ya.Averchenkov+    (61)41214  2 
+    1 90232   3   1    3600000.          7.800000                                                V.Ya.Averchenkov+    (61)41214  2 
+    1 90232   3   1    3900000.          8.250000                                                V.Ya.Averchenkov+    (61)41214  2 
+    1 90232   3   1    4400000.          8.100000                                                V.Ya.Averchenkov+    (61)41214  2 
+    1 90232   3   1    4900000.          7.550000 0.500000                                       V.Ya.Averchenkov+    (61)41214  2 
+    1 90232   3   1    5500000.          7.800000                                                V.Ya.Averchenkov+    (61)41214  2 
+    1 90232   3   1    6200000.          7.950000                                                V.Ya.Averchenkov+    (61)41214  2 
+    1 90232   3   1    7000000.          7.400000                                                V.Ya.Averchenkov+    (61)41214  2 
+    1 90232   3   1    8000000.          6.650000 0.900000                                       V.Ya.Averchenkov+    (61)41214  2 
+#/DATA      16
+#/DATASET

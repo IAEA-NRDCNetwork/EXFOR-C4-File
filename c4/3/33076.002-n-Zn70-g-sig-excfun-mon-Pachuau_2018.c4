@@ -1,0 +1,31 @@
+#ENTRY      33076
+#AUTHOR1    R.Pachuau+
+#YEAR       2018
+#INSTITUTE  (3INDIND)
+#TITLE      Energy dependence of the neutron capture cross section
+#+          on 70Zn near the inelastic scattering threshold
+#AUTHOR(S)  R.Pachuau, B.Lalremruata, N.Otuka, S.V.Suryanarayana, L.R.M.Punte, 
+#+          L.R.Hlondo, V.V.Desai, B.Satheesh, S.Kailas, S.Ganesan, 
+#+          B.K.Nayak, A.Saxena
+#REF-CODE   (J,PR/C,97,064617,2018)
+#REFERENCE  Phys.Rev.C 97 (2018) 064617 (doi:10.1103/PhysRevC.97.064617)
+#DATASETS   0
+#
+#DATASET    33076002 
+#DATE       20180708
+#REACTION   30-ZN-70(N,G)30-ZN-71-M,,SIG
+#PROJ       1
+#TARG       30070
+#MF         3
+#MT         102
+#PRODUCT    30-ZN-71-M
+#C4BEGIN    [    1 30070   3 102M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 30070   3 102M   400000.0 150000.0 1.8200-3 1.1397-4                                       R.Pachuau+           (18)33076  2 
+    1 30070   3 102M   700000.0 100000.0 1.9900-3 6.3740-5                                       R.Pachuau+           (18)33076  2 
+    1 30070   3 102M   960000.0 150000.0 1.8300-3 1.6360-4                                       R.Pachuau+           (18)33076  2 
+    1 30070   3 102M   1690000. 150000.0 1.3300-3 9.5321-5                                       R.Pachuau+           (18)33076  2 
+#/DATA      4
+#/DATASET

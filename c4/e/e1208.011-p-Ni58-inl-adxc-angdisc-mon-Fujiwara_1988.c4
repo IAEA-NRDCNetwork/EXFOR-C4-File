@@ -1,0 +1,36 @@
+#ENTRY      E1208
+#AUTHOR1    M.Fujiwara+
+#YEAR       1988
+#INSTITUTE  (2JPNOSA)
+#TITLE      Location of the low-energy isoscalar octupole
+#+          resonance in 58Ni
+#AUTHOR(S)  M.Fujiwara, Y.Fujita, I.Katayama, S.Morinobu, T.Yamazaki, 
+#+          H.Ikegami, S.I.Hayakawa, K.Katori
+#REF-CODE   (J,PR/C,37,(6),2885,198806)
+#REFERENCE  Phys.Rev.C 37 No.6 (1988) 2885 (doi:10.1103/PhysRevC.37.2885)
+#DATASETS   0
+#
+#DATASET    E1208011 
+#DATE       20061228
+#REACTION   28-NI-58(P,INL)28-NI-58,PAR,DA
+#PROJ       1001
+#TARG       28058
+#MF         4
+#MT         601
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 1001 28058   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   4 601  C 6.5000+7          1.3000-5 6.0000-6 0.984257          3775600.         LVLM.Fujiwara+          (88)E1208 11 
+ 1001 28058   4 601  C 6.5000+7          1.8500-5 3.0000-6 0.937525          3775600.         LVLM.Fujiwara+          (88)E1208 11 
+ 1001 28058   4 601  C 6.5000+7          1.7040-5 3.0000-6 0.902961          3775600.         LVLM.Fujiwara+          (88)E1208 11 
+ 1001 28058   4 601  C 6.5000+7          1.1800-5 2.5000-6 0.861275          3775600.         LVLM.Fujiwara+          (88)E1208 11 
+ 1001 28058   4 601  C 6.5000+7          7.5000-6 1.5000-6 0.812898          3775600.         LVLM.Fujiwara+          (88)E1208 11 
+ 1001 28058   4 601  C 6.5000+7          6.0000-6 1.0000-6 0.758248          3775600.         LVLM.Fujiwara+          (88)E1208 11 
+ 1001 28058   4 601  C 6.5000+7          3.8000-6 6.0000-6 0.697665          3775600.         LVLM.Fujiwara+          (88)E1208 11 
+ 1001 28058   4 601  C 6.5000+7          3.4000-6 5.0000-6 0.631623          3775600.         LVLM.Fujiwara+          (88)E1208 11 
+ 1001 28058   4 601  C 6.5000+7          1.2500-6 2.5000-7 0.407056          3775600.         LVLM.Fujiwara+          (88)E1208 11 
+ 1001 28058   4 601  C 6.5000+7          6.8000-7 1.2000-7 0.241922          3775600.         LVLM.Fujiwara+          (88)E1208 11 
+#/DATA      10
+#/DATASET

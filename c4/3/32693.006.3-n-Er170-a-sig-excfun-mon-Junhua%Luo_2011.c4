@@ -1,0 +1,27 @@
+#ENTRY      32693
+#AUTHOR1    Junhua Luo+
+#YEAR       2011
+#INSTITUTE  (3CPRHXU)
+#TITLE      Cross sections for fast-neutron interaction with
+#+          erbium isotopes
+#AUTHOR(S)  Junhua Luo, Rong Liu, Li Jiang, Zhenlai Liu
+#REF-CODE   (J,JRN,289,455,2011)
+#REFERENCE  J.Rad.Nucl.Chem. 289 (2011) 455 (doi:10.1007/s10967-011-1095-x)
+#DATASETS   0
+#
+#DATASET    326930063
+#DATE       20211005
+#REACTION   68-ER-170(N,A)66-DY-167,,SIG
+#PROJ       1
+#TARG       68170
+#MF         3
+#MT         107
+#PRODUCT    66-DY-167
+#C4BEGIN    [    1 68170   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 68170   3 107    1.3500+7 200000.0 8.4000-4 8.0000-5                                       Junhua Luo+          (11)32693  63
+    1 68170   3 107    1.4800+7 200000.0 9.7000-4 3.9000-4                                       Junhua Luo+          (11)32693  63
+#/DATA      2
+#/DATASET

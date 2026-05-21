@@ -1,0 +1,26 @@
+#ENTRY      C0530
+#AUTHOR1    S.Mordechai+
+#YEAR       1984
+#INSTITUTE  (1USAPEN)
+#TITLE      Distribution of 0+ strengths in Ge(t,p) reactions
+#AUTHOR(S)  S.Mordechai, H.T.Fortune, M.Carchidi, R.Gilman
+#REF-CODE   (J,PR/C,29,1699,198405)
+#REFERENCE  Phys.Rev.C 29 (1984) 1699 (doi:10.1103/PhysRevC.29.1699)
+#DATASETS   0
+#
+#DATASET    C0530008 
+#DATE       19990629
+#REACTION   32-GE-72(T,P)32-GE-74,PAR,DA
+#PROJ       1003
+#TARG       32072
+#MF         4
+#MT         600
+#PRODUCT    32-GE-74
+#C4BEGIN    [ 1003 32072   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 32072   4 600  C 1.5000+7          3.7000-3 1.5000-4 0.997441          0.000000         LVLS.Mordechai+         (84)C0530  8 
+ 1003 32072   4 600  C 1.5000+7          1.3200-3 8.0000-5 0.979925          0.000000         LVLS.Mordechai+         (84)C0530  8 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      F1450
+#AUTHOR1    N.E.Villa+
+#YEAR       2020
+#INSTITUTE  (4RUSTPI)
+#TITLE      Cross section of the 96Zr(alpha,n)99Mo reaction
+#+          induced by alpha-particles beams on natZr targets
+#AUTHOR(S)  N.E.Villa, V.S.Skuridin, V.M.Golovkov, A.A.Garapatsky
+#REF-CODE   (J,ARI,166,109367,2020)
+#REFERENCE  Appl.Radiat.Isot. 166 (2020) 109367 (doi:10.1016/j.apradiso.2020.109367)
+#DATASETS   0
+#
+#DATASET    F1450002 
+#DATE       20210716
+#REACTION   40-ZR-96(A,X)42-MO-99,CUM,SIG
+#PROJ       2004
+#TARG       40096
+#MF         3
+#MT         459
+#PRODUCT    42-MO-99
+#C4BEGIN    [ 2004 40096   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 40096   3 459 A  2.3800+7 400000.0 0.032300 4.3000-3           42099.9                     N.E.Villa+           (20)F1450  2 
+ 2004 40096   3 459 A  2.2700+7 400000.0 0.042700 5.1000-3           42099.9                     N.E.Villa+           (20)F1450  2 
+ 2004 40096   3 459 A  2.0300+7 400000.0 0.060600 7.9000-3           42099.9                     N.E.Villa+           (20)F1450  2 
+ 2004 40096   3 459 A  1.9100+7 400000.0 0.077600 8.4000-3           42099.9                     N.E.Villa+           (20)F1450  2 
+ 2004 40096   3 459 A  1.6300+7 500000.0 0.178300 0.020000           42099.9                     N.E.Villa+           (20)F1450  2 
+ 2004 40096   3 459 A  1.4900+7 500000.0 0.227800 0.024200           42099.9                     N.E.Villa+           (20)F1450  2 
+ 2004 40096   3 459 A  1.1600+7 500000.0 0.097200 9.3000-3           42099.9                     N.E.Villa+           (20)F1450  2 
+ 2004 40096   3 459 A  9800000. 600000.0 0.023400 1.7000-3           42099.9                     N.E.Villa+           (20)F1450  2 
+#/DATA      8
+#/DATASET

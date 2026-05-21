@@ -1,0 +1,40 @@
+#ENTRY      D6017
+#AUTHOR1    S.Kailas+
+#YEAR       1975
+#INSTITUTE  (3INDTRM)
+#TITLE      Total (p,n) reaction cross-section measurements on
+#+          Ti-50, Cr-54, Co-59
+#AUTHOR(S)  S.Kailas, S.K.Gupta, M.K.Mehta, S.S.Kerekatte, L.V.Namjoshi, 
+#+          N.K.Ganguly, S.Chintalapudi
+#REF-CODE   (J,PR/C,12,1789,1975)
+#REFERENCE  Phys.Rev.C 12 (1975) 1789 (doi:10.1103/PhysRevC.12.1789)
+#DATASETS   0
+#
+#DATASET    D6017004 
+#DATE       20091106
+#REACTION   22-TI-50(P,N)23-V-50,,SIG
+#PROJ       1001
+#TARG       22050
+#MF         3
+#MT         4
+#PRODUCT    23-V-50
+#C4BEGIN    [ 1001 22050   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22050   3   4    3406400.          7.7800-3                                                S.Kailas+            (75)D6017  4 
+ 1001 22050   3   4    3494400.          0.050150 0.012100                                       S.Kailas+            (75)D6017  4 
+ 1001 22050   3   4    3598300.          0.083250                                                S.Kailas+            (75)D6017  4 
+ 1001 22050   3   4    3695500.          0.112200 9.6700-3                                       S.Kailas+            (75)D6017  4 
+ 1001 22050   3   4    3795800.          0.135820                                                S.Kailas+            (75)D6017  4 
+ 1001 22050   3   4    3894100.          0.161610                                                S.Kailas+            (75)D6017  4 
+ 1001 22050   3   4    3996400.          0.183460                                                S.Kailas+            (75)D6017  4 
+ 1001 22050   3   4    4093500.          0.213790 9.6700-3                                       S.Kailas+            (75)D6017  4 
+ 1001 22050   3   4    4193000.          0.230890                                                S.Kailas+            (75)D6017  4 
+ 1001 22050   3   4    4298000.          0.261230                                                S.Kailas+            (75)D6017  4 
+ 1001 22050   3   4    4396100.          0.292550 0.014520                                       S.Kailas+            (75)D6017  4 
+ 1001 22050   3   4    4498200.          0.321500                                                S.Kailas+            (75)D6017  4 
+ 1001 22050   3   4    4599200.          0.351840                                                S.Kailas+            (75)D6017  4 
+ 1001 22050   3   4    4702100.          0.387310 0.016920                                       S.Kailas+            (75)D6017  4 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      40605
+#AUTHOR1    Vo Kim Tkhan+
+#YEAR       1979
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Investigation of reaction Sm-147(n,a)Nd-144
+#+          and Te-123(n,a)Sn-120 by the time-of-flight method
+#AUTHOR(S)  Vo Kim Tkhan, V.A.Vtyurin, A.Koreyvo, Yu.P.Popov, M.Stempin'sky, 
+#+          V.I.Salatsky, A.M.Sukhovoy, G.Kuukhenkhuu, V.P.Vertebnyj, 
+#+          V.A.Dolgov, A.L.Kirilyuk, A.F.Fedorova
+#REF-CODE   (C,79RIGA,,294,1979)
+#REFERENCE  Proceedings of 29.Conf.on Nucl.Spectr.and Nucl.Struct.,Riga 1979 page 294
+#DATASETS   0
+#
+#DATASET    40605003 
+#DATE       20211201
+#REACTION   62-SM-147(N,A)60-ND-144,PAR,SIG,,AV
+#PROJ       1
+#TARG       62147
+#MF         3
+#MT         800
+#PRODUCT    60-ND-144
+#C4BEGIN    [    1 62147   3 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 62147   3 800    375.0000 125.0000 2.6000-4 5.0000-5                   0.000000         LVLVo Kim Tkhan+        (79)40605  3 
+    1 62147   3 800    1100.000 400.0000 1.8000-4 4.0000-5                   0.000000         LVLVo Kim Tkhan+        (79)40605  3 
+    1 62147   3 800    2400.000 900.0000 1.1000-4 2.0000-5                   0.000000         LVLVo Kim Tkhan+        (79)40605  3 
+    1 62147   3 800    5900.000 2600.000 7.0000-5 2.5000-5                   0.000000         LVLVo Kim Tkhan+        (79)40605  3 
+#/DATA      4
+#/DATASET

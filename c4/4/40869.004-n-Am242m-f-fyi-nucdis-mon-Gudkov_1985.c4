@@ -1,0 +1,30 @@
+#ENTRY      40869
+#AUTHOR1    A.N.Gudkov+
+#YEAR       1985
+#INSTITUTE  (4RUSMIF)
+#TITLE      Measurements of cumulative and independent yields
+#+          of fission products from thermal-neutron fission of
+#+          242m-Am
+#AUTHOR(S)  A.N.Gudkov, V.M.Zhivun, V.V.Kovalenko, A.B.Koldobskii, V.M.Kolobashkin, 
+#+          S.V.Krivasheev, N.S.Piven, E.V.Semenova, V.A.Khristoforov
+#REF-CODE   (J,YF,41,573,1985)
+#REFERENCE  Yad.Fiz. 41 (1985) 573
+#DATASETS   0
+#
+#DATASET    40869004 
+#DATE       20180220
+#REACTION   95-AM-242-M(N,F)ELEM/MASS,IND,FY
+#PROJ       1
+#TARG       95242
+#MF         8
+#MT         454
+#C4BEGIN    [    1 95242M  8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95242M  8 454    0.025000          2.1300-3 6.7000-4 53.00000 132.0000 9.000000            A.N.Gudkov+          (85)40869  4 
+    1 95242M  8 454    0.025000          0.024000 0.014000 53.00000 134.0000 9.000000            A.N.Gudkov+          (85)40869  4 
+    1 95242M  8 454    0.025000          5.5000-3 1.6000-3 54.00000 135.0000 9.000000            A.N.Gudkov+          (85)40869  4 
+    1 95242M  8 454    0.025000          3.3000-3 1.0000-3 57.00000 140.0000 9.000000            A.N.Gudkov+          (85)40869  4 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      C0469
+#AUTHOR1    R.M.Gaedke+
+#YEAR       1968
+#INSTITUTE  (1USAORL)
+#TITLE      Cross-Section Measurement for the Nucleon-Transfer
+#+          Reactions 10B(19F,18F)11B and 10B(19F,18O)11C.
+#AUTHOR(S)  R.M.Gaedke, K.S.Toth, I.R.Williams
+#REF-CODE   (J,PR,167,957,1968)
+#REFERENCE  Phys.Rev. 167 (1968) 957 (doi:10.1103/PhysRev.167.957)
+#DATASETS   0
+#
+#DATASET    C0469005 
+#DATE       19990308
+#REACTION   6-C-12(9-F-19,2P)13-AL-29,,SIG
+#PROJ       9019
+#TARG       6012
+#MF         3
+#MT         111
+#PRODUCT    13-AL-29
+#C4BEGIN    [ 9019  6012   3 111  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 9019  6012   3 111    1.9000+7 100000.0 1.8700-4 5.6100-5                                       R.M.Gaedke+          (68)C0469  5 
+ 9019  6012   3 111    2.0000+7 100000.0 4.4500-4 1.3350-4                                       R.M.Gaedke+          (68)C0469  5 
+ 9019  6012   3 111    2.1000+7 100000.0 1.0700-3 3.2100-4                                       R.M.Gaedke+          (68)C0469  5 
+ 9019  6012   3 111    2.2000+7 100000.0 2.0000-3 6.0000-4                                       R.M.Gaedke+          (68)C0469  5 
+ 9019  6012   3 111    2.3000+7 100000.0 3.5300-3 1.0590-3                                       R.M.Gaedke+          (68)C0469  5 
+ 9019  6012   3 111    2.4000+7 100000.0 5.3800-3 1.6140-3                                       R.M.Gaedke+          (68)C0469  5 
+ 9019  6012   3 111    2.5000+7 100000.0 7.9200-3 2.3760-3                                       R.M.Gaedke+          (68)C0469  5 
+ 9019  6012   3 111    2.6000+7 100000.0 0.010400 3.1200-3                                       R.M.Gaedke+          (68)C0469  5 
+#/DATA      8
+#/DATASET

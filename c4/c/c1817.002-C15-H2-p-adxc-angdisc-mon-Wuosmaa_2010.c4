@@ -1,0 +1,37 @@
+#ENTRY      C1817
+#AUTHOR1    A.H.Wuosmaa+
+#YEAR       2010
+#INSTITUTE  (1USAWMU)
+#TITLE      15C(d,p)16C Reaction and Exotic Behavior in 16C
+#AUTHOR(S)  A.H.Wuosmaa, B.B.Back, S.Baker, B.A.Brown, C.M.Deibel, P.Fallon, 
+#+          C.R.Ho Ffman, B.P.Kay, H.Y.Lee, J.C.Lighthall, A.O.Macchiavelli, 
+#+          S.T.Marley, R.C.Pardo, K.E.Rehm, J.P.Schiffer, D.V.Shetty, 
+#+          M.Wiedeking
+#REF-CODE   (J,PRL,105,132501,2010)
+#REFERENCE  Phys.Rev.Lett. 105 (2010) 132501 (doi:10.1103/PhysRevLett.105.132501)
+#DATASETS   0
+#
+#DATASET    C1817002 
+#DATE       20101020
+#REACTION   1-H-2(6-C-15,P)6-C-16,PAR,DA
+#PROJ       6015
+#TARG       1002
+#MF         4
+#MT         600
+#PRODUCT    6-C-16
+#C4BEGIN    [ 6015  1002   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6015  1002   4 600  C 1.2300+8          0.012590 2.6500-3 0.987551 7.6046-3 0.000000         LVLA.H.Wuosmaa+         (10)C1817  2 
+ 6015  1002   4 600  C 1.2300+8          4.5000-3 1.2600-3 0.961502 0.013765 0.000000         LVLA.H.Wuosmaa+         (10)C1817  2 
+ 6015  1002   4 600  C 1.2300+8          1.4500-3 6.5000-4 0.929455 0.013587 0.000000         LVLA.H.Wuosmaa+         (10)C1817  2 
+ 6015  1002   4 600  C 1.2300+8          1.8700-3 8.0000-4 0.901908 0.014097 0.000000         LVLA.H.Wuosmaa+         (10)C1817  2 
+ 6015  1002   4 600  C 1.2300+8          2.7400-3 9.9000-4 0.881303 0.014021 0.000000         LVLA.H.Wuosmaa+         (10)C1817  2 
+ 6015  1002   4 600  C 1.2300+8          3.3300-3 1.2500-3 0.855274 0.012028 0.000000         LVLA.H.Wuosmaa+         (10)C1817  2 
+ 6015  1002   4 600  C 1.2300+8          2.3100-3 1.0500-3 0.832245 0.013547 0.000000         LVLA.H.Wuosmaa+         (10)C1817  2 
+ 6015  1002   4 600  C 1.2300+8          2.4100-3 1.1700-3 0.801880 0.016789 0.000000         LVLA.H.Wuosmaa+         (10)C1817  2 
+ 6015  1002   4 600  C 1.2300+8          1.8700-3 9.5000-4 0.779666 0.012022 0.000000         LVLA.H.Wuosmaa+         (10)C1817  2 
+ 6015  1002   4 600  C 1.2300+8          1.4800-3 1.0800-3 0.754595 0.013056 0.000000         LVLA.H.Wuosmaa+         (10)C1817  2 
+#/DATA      10
+#/DATASET

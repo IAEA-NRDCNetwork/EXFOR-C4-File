@@ -1,0 +1,26 @@
+#ENTRY      40016
+#AUTHOR1    V.N.Levkovskii+
+#YEAR       1964
+#INSTITUTE  (4KASKAZ)
+#TITLE      Empirical behavior of the (n,p) reaction cross-
+#+          sections for 14 - 15 MeV neutrons
+#AUTHOR(S)  V.N.Levkovskii
+#REF-CODE   (J,JET,18,213,1964)
+#REFERENCE  J.Exp.Theor.Phys. 18 (1964) 213
+#DATASETS   0
+#
+#DATASET    40016003 
+#DATE       20150903
+#REACTION   56-BA-138(N,P)55-CS-138-G,M+,SIG
+#PROJ       1
+#TARG       56138
+#MF         3
+#MT         459
+#PRODUCT    55-CS-138-G
+#C4BEGIN    [    1 56138   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 56138   3 459    1.4000+7          1.9000-3 5.0000-4           55138.0                     V.N.Levkovskii       (64)40016  3 
+#/DATA      1
+#/DATASET

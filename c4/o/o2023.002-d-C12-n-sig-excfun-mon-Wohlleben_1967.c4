@@ -1,0 +1,40 @@
+#ENTRY      O2023
+#AUTHOR1    K.Wohlleben+
+#YEAR       1967
+#INSTITUTE  (2GERSIE)
+#TITLE      The total effective cross-section of the reaction
+#+          C-12(d,n)N-13 for deuteron from 0.4 to 3.0 MeV.
+#AUTHOR(S)  K.Wohlleben, E.Schuster
+#REF-CODE   (J,RCA,8,78,1967)
+#REFERENCE  Radiochim.Acta 8 (1967) 78 (doi:10.1524/ract.1967.8.2.78)
+#DATASETS   0
+#
+#DATASET    O2023002 
+#DATE       20120829
+#REACTION   6-C-12(D,N)7-N-13,,SIG,,AV
+#PROJ       1002
+#TARG       6012
+#MF         3
+#MT         4
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1002  6012   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6012   3   4    450000.0 50000.00 3.0000-3                                                K.Wohlleben+         (67)O2023  2 
+ 1002  6012   3   4    550000.0 50000.00 7.0000-3                                                K.Wohlleben+         (67)O2023  2 
+ 1002  6012   3   4    675000.0 75000.00 0.019000                                                K.Wohlleben+         (67)O2023  2 
+ 1002  6012   3   4    825000.0 75000.00 0.051000                                                K.Wohlleben+         (67)O2023  2 
+ 1002  6012   3   4    1000000. 100000.0 0.094000                                                K.Wohlleben+         (67)O2023  2 
+ 1002  6012   3   4    1200000. 100000.0 0.140000                                                K.Wohlleben+         (67)O2023  2 
+ 1002  6012   3   4    1400000. 100000.0 0.170000                                                K.Wohlleben+         (67)O2023  2 
+ 1002  6012   3   4    1600000. 100000.0 0.180000                                                K.Wohlleben+         (67)O2023  2 
+ 1002  6012   3   4    1800000. 100000.0 0.190000                                                K.Wohlleben+         (67)O2023  2 
+ 1002  6012   3   4    2000000. 100000.0 0.200000                                                K.Wohlleben+         (67)O2023  2 
+ 1002  6012   3   4    2200000. 100000.0 0.220000                                                K.Wohlleben+         (67)O2023  2 
+ 1002  6012   3   4    2400000. 100000.0 0.230000                                                K.Wohlleben+         (67)O2023  2 
+ 1002  6012   3   4    2600000. 100000.0 0.240000                                                K.Wohlleben+         (67)O2023  2 
+ 1002  6012   3   4    2775000. 75000.00 0.250000                                                K.Wohlleben+         (67)O2023  2 
+ 1002  6012   3   4    2925000. 75000.00 0.260000                                                K.Wohlleben+         (67)O2023  2 
+#/DATA      15
+#/DATASET

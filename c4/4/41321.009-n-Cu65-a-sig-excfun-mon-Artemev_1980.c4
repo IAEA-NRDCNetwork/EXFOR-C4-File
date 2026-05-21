@@ -1,0 +1,28 @@
+#ENTRY      41321
+#AUTHOR1    O.I.Artem'ev+
+#YEAR       1980
+#INSTITUTE  (4KASKAZ)
+#TITLE      Cross sections for (n,p) and (n,alpha) reactions on
+#+          chromium, iron, copper, and molybdenum nuclei at a
+#+          neutron energy of 14.8 MeV
+#AUTHOR(S)  O.I.Artem'ev, I.V.Kazachevskii, V.N.Levkovskii, V.L.Poznyak, 
+#+          V.F.Reutov
+#REF-CODE   (J,SJA,49,655,1980)
+#REFERENCE  Sov.At.Energy 49 (1980) 655 (doi:10.1007/BF01146379)
+#DATASETS   0
+#
+#DATASET    41321009 
+#DATE       20230213
+#REACTION   29-CU-65(N,A)27-CO-62-G,,SIG
+#PROJ       1
+#TARG       29065
+#MF         3
+#MT         107
+#PRODUCT    27-CO-62-G
+#C4BEGIN    [    1 29065   3 107G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29065   3 107G   1.4800+7          5.7000-3 6.0000-4                                       O.I.Artem'ev+        (80)41321  9 
+#/DATA      1
+#/DATASET

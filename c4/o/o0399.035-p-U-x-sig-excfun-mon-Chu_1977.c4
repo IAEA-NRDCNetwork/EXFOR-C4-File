@@ -1,0 +1,30 @@
+#ENTRY      O0399
+#AUTHOR1    Y.Y.Chu+
+#YEAR       1977
+#INSTITUTE  (1USABNL)
+#TITLE      Production of Nuclides with Atomic Mass 43<=A<=51
+#+          In the Interaction of 1-28.5 GeV Protons with
+#+          V, Ag, In, Pb and U Targets.
+#AUTHOR(S)  Y.Y.Chu, G.Friedlander, L.Husain
+#REF-CODE   (J,PR/C,15,352,1977)
+#REFERENCE  Phys.Rev.C 15 (1977) 352 (doi:10.1103/PhysRevC.15.352)
+#DATASETS   0
+#
+#DATASET    O0399035 
+#DATE       20020909
+#REACTION   92-U-0(P,X)21-SC-44-G,IND,SIG
+#PROJ       1001
+#TARG       92000
+#MF         3
+#MT         454
+#PRODUCT    21-SC-44-G
+#C4BEGIN    [ 1001 92000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92000   3 454    1.0000+9          5.6000-6 2.0000-6           21044.0                     Y.Y.Chu+             (77)O0399 35 
+ 1001 92000   3 454    2.0000+9          7.9000-5 2.0000-5           21044.0                     Y.Y.Chu+             (77)O0399 35 
+ 1001 92000   3 454    3.0000+9          2.1000-4 7.0000-5           21044.0                     Y.Y.Chu+             (77)O0399 35 
+ 1001 92000   3 454    2.850+10          3.2000-4 3.0000-5           21044.0                     Y.Y.Chu+             (77)O0399 35 
+#/DATA      4
+#/DATASET

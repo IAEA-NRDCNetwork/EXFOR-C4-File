@@ -1,0 +1,25 @@
+#ENTRY      13700
+#AUTHOR1    G.R.Keepin+
+#YEAR       1957
+#INSTITUTE  (1USALAS)
+#TITLE      Delayed neutrons from fissionable isotopes of uranium,
+#+          plutonium, and thorium
+#AUTHOR(S)  G.R.Keepin, T.F.Wimett, R.K.Zeigler
+#REF-CODE   (J,PR,107,1044,1957)
+#REFERENCE  Phys.Rev. 107 (1957) 1044 (doi:10.1103/PhysRev.107.1044)
+#DATASETS   0
+#
+#DATASET    13700022 
+#DATE       20170620
+#REACTION   92-U-235(N,F),DL,NU,,FIS
+#PROJ       1
+#TARG       92235
+#MF         1
+#MT         455
+#C4BEGIN    [    1 92235   1 455  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   1 455    1000000.          0.016500 5.0000-4                                       G.R.Keepin+          (57)13700 22 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      12222
+#AUTHOR1    E.Hallett+
+#YEAR       1959
+#INSTITUTE  (1USALRL)
+#TITLE      GAMMA RAYS FROM INELASTIC SCATTERING OF 14-MEV NEUTRONS
+#+          ON PB208.
+#AUTHOR(S)  E.Hallett, R.Jensen
+#REF-CODE   (R,UCRL-5768,59)
+#REFERENCE  Report UCRL-5768, 1959
+#DATASETS   0
+#
+#DATASET    12222003 
+#DATE       19821012
+#REACTION   82-PB-0(N,INL),PAR,DA,G
+#PROJ       1
+#TARG       82000
+#MF         14
+#MT         51
+#PRODUCT    82-PB-0
+#C4BEGIN    [    1 82000  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000  14  51    1.4000+7          2.1000-3 3.5000-4 0.643000          2610000.            E.Hallett+           (59)12222  3 
+    1 82000  14  51    1.4000+7          2.1500-3 4.0000-4 0.342000          2610000.            E.Hallett+           (59)12222  3 
+    1 82000  14  51    1.4000+7          1.5500-3 2.5000-4 6.123-17          2610000.            E.Hallett+           (59)12222  3 
+    1 82000  14  51    1.4000+7          1.9500-3 3.5000-4-0.342000          2610000.            E.Hallett+           (59)12222  3 
+    1 82000  14  51    1.4000+7          2.3000-3 4.0000-4-0.643000          2610000.            E.Hallett+           (59)12222  3 
+#/DATA      5
+#/DATASET

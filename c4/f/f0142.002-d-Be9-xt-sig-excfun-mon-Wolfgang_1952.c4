@@ -1,0 +1,35 @@
+#ENTRY      F0142
+#AUTHOR1    R.L.Wolfgang+
+#YEAR       1952
+#INSTITUTE  (1USACHI)
+#TITLE      Absolute excitation function of the 9Be(d,t) reaction.
+#AUTHOR(S)  R.L.Wolfgang, W.F.Libby
+#REF-CODE   (J,PR,85,437,1952)
+#REFERENCE  Phys.Rev. 85 (1952) 437 (doi:10.1103/PhysRev.85.437)
+#DATASETS   0
+#
+#DATASET    F0142002 
+#DATE       20130625
+#REACTION   4-BE-9(D,X)1-H-3,,SIG
+#PROJ       1002
+#TARG       4009
+#MF         3
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002  4009   3 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   3 205    175000.0 175000.0 1.6200-3 1.6000-4                                       R.L.Wolfgang+        (52)F0142  2 
+ 1002  4009   3 205    175000.0 175000.0 1.7400-3 1.7000-4                                       R.L.Wolfgang+        (52)F0142  2 
+ 1002  4009   3 205    890000.0 890000.0 0.054000 3.0000-3                                       R.L.Wolfgang+        (52)F0142  2 
+ 1002  4009   3 205    1060000. 1060000. 0.104000 6.0000-3                                       R.L.Wolfgang+        (52)F0142  2 
+ 1002  4009   3 205    1435000. 685000.0 0.109000 6.0000-3                                       R.L.Wolfgang+        (52)F0142  2 
+ 1002  4009   3 205    3020000. 420000.0 0.228000 0.014000                                       R.L.Wolfgang+        (52)F0142  2 
+ 1002  4009   3 205    3955000. 345000.0 0.215000 0.013000                                       R.L.Wolfgang+        (52)F0142  2 
+ 1002  4009   3 205    4170000. 310000.0 0.226000 0.013000                                       R.L.Wolfgang+        (52)F0142  2 
+ 1002  4009   3 205    5395000. 275000.0 0.212000 0.013000                                       R.L.Wolfgang+        (52)F0142  2 
+ 1002  4009   3 205    6995000. 235000.0 0.233000 0.014000                                       R.L.Wolfgang+        (52)F0142  2 
+ 1002  4009   3 205    7475000. 205000.0 0.231000 0.014000                                       R.L.Wolfgang+        (52)F0142  2 
+#/DATA      11
+#/DATASET

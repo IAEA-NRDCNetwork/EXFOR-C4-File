@@ -1,0 +1,28 @@
+#ENTRY      20034
+#AUTHOR1    P.Hille+
+#YEAR       1966
+#INSTITUTE  (2AUSIRK)
+#TITLE      Cross-section measurements of the reactions
+#+          Se-76(n,2n)Se-75, Se-74(n,p)Se-74 and As-75(n,2n)As-74
+#+          with neutron energies of about 14 MeV
+#AUTHOR(S)  P.Hille, H.Muenzer
+#REF-CODE   (J,APA,23,44,1966)
+#REFERENCE  Acta Physica Austr. 23 (1966) 44
+#DATASETS   0
+#
+#DATASET    20034004 
+#DATE       20190117
+#REACTION   34-SE-76(N,2N)34-SE-75,,SIG
+#PROJ       1
+#TARG       34076
+#MF         3
+#MT         16
+#PRODUCT    34-SE-75
+#C4BEGIN    [    1 34076   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34076   3  16    1.4050+7 100000.0 0.845000 0.059150                                       P.Hille+             (66)20034  4 
+    1 34076   3  16    1.4750+7 100000.0 0.944000 0.066080                                       P.Hille+             (66)20034  4 
+#/DATA      2
+#/DATASET

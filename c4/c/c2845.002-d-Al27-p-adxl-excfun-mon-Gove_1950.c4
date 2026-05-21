@@ -1,0 +1,26 @@
+#ENTRY      C2845
+#AUTHOR1    H.K.Gove+
+#YEAR       1950
+#INSTITUTE  (1USAMIT)
+#TITLE      Energy Spectrum and Differential Cross Sections of (dp)
+#+          Reactions Using 14 Mev Deuterons
+#AUTHOR(S)  H.K.Gove, K.Boyer
+#REF-CODE   (J,PR,79,241(X6),1950)
+#REFERENCE  Phys.Rev. 79 (1950) 241(X6)
+#DATASETS   0
+#
+#DATASET    C2845002 
+#DATE       20221103
+#REACTION   13-AL-27(D,P)13-AL-28,PAR,DA
+#PROJ       1002
+#TARG       13027
+#MF         4
+#MT         600
+#PRODUCT    13-AL-28
+#C4BEGIN    [ 1002 13027   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 13027   4 600    1.4000+7          2.5000-3 1.0000-3 0.707107 0.555360 0.000000         LVLH.K.Gove+            (50)C2845  2 
+#/DATA      1
+#/DATASET

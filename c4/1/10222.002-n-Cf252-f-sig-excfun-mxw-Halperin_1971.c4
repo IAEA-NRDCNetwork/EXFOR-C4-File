@@ -1,0 +1,25 @@
+#ENTRY      10222
+#AUTHOR1    J.Halperin+
+#YEAR       1971
+#INSTITUTE  (1USAORL)
+#TITLE      The thermal cross section and resonance integral
+#+          for neutron fission of 252Cf
+#AUTHOR(S)  J.Halperin, J.H.Oliver, R.W.Stoughton
+#REF-CODE   (P,ORNL-4706,53,197105)
+#REFERENCE  Progress report ORNL-4706 page 53, 1971
+#DATASETS   0
+#
+#DATASET    10222002 
+#DATE       20010309
+#REACTION   98-CF-252(N,F),,SIG,,MXW
+#PROJ       1
+#TARG       98252
+#MF         3
+#MT         18
+#C4BEGIN    [    1 98252   3  18 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 98252   3  18 P  0.025000          32.00000 4.000000                                       J.Halperin+          (71)10222  2 
+#/DATA      1
+#/DATASET

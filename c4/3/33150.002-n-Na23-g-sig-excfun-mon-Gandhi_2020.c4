@@ -1,0 +1,29 @@
+#ENTRY      33150
+#AUTHOR1    A.Gandhi+
+#YEAR       2020
+#INSTITUTE  (3INDBHU)
+#TITLE      Measurement of (n,g), (n,p), and (n,2n) reaction
+#+          cross sections for sodium, potassium, copper, and
+#+          iodine at neutron energy 14.92 +/- 0.02 MeV with
+#+          covariance analysis
+#AUTHOR(S)  A.Gandhi, A.Sharma, A.Kumar, R.Pachuau, B.Lalremruata, S.V.Suryanarayana, 
+#+          L.S.Danu, T.Patel, S.Bishnoi, B.K.Nayak
+#REF-CODE   (J,PR/C,102,014603,2020)
+#REFERENCE  Phys.Rev.C 102 (2020) 014603 (doi:10.1103/PhysRevC.102.014603)
+#DATASETS   0
+#
+#DATASET    33150002 
+#DATE       20201230
+#REACTION   11-NA-23(N,G)11-NA-24,,SIG
+#PROJ       1
+#TARG       11023
+#MF         3
+#MT         102
+#PRODUCT    11-NA-24
+#C4BEGIN    [    1 11023   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023   3 102    1.4920+7 20000.00 2.9000-4 2.0618-5                                       A.Gandhi+            (20)33150  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      30660
+#AUTHOR1    I.Ribansky+
+#YEAR       1983
+#INSTITUTE  (3SLKSLO)
+#TITLE      Neutron activation cross sections for Ti isotopes
+#+          at 14.8 MeV
+#AUTHOR(S)  I.Ribansky, S.Gmuca
+#REF-CODE   (J,JP/G,9,1537,1983)
+#REFERENCE  J.Phys.G 9 (1983) 1537 (doi:10.1088/0305-4616/9/12/014)
+#DATASETS   0
+#
+#DATASET    30660003M
+#DATE       20211005
+#REACTION   22-TI-47(N,X)21-SC-46-M,,SIG
+#PROJ       1
+#TARG       22047
+#MF         3
+#MT         454
+#PRODUCT    21-SC-46-M
+#C4BEGIN    [    1 22047   3 454 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22047   3 454 C  1.4800+7 250000.0 6.9200-3 3.2524-4           21046.7                     I.Ribansky+          (83)30660  3M
+#/DATA      1
+#/DATASET

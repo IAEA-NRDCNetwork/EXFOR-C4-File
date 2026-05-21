@@ -1,0 +1,26 @@
+#ENTRY      23515
+#AUTHOR1    J.B.Hunt+
+#YEAR       1969
+#INSTITUTE  (2UK NPL)
+#TITLE      A measurement of the thermal neutron radiative
+#+          capture cross section of 238U
+#AUTHOR(S)  J.B.Hunt, J.C.Robertson, T.B.Ryves
+#REF-CODE   (J,JNE,23,705,1969)
+#REFERENCE  J.Nucl.Energy 23 (1969) 705 (doi:10.1016/0022-3107(69)90026-4)
+#DATASETS   0
+#
+#DATASET    23515002 
+#DATE       20230517
+#REACTION   92-U-238(N,G)92-U-239,,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         102
+#PRODUCT    92-U-239
+#C4BEGIN    [    1 92238   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3 102    0.025300          2.690000 0.030000                                       J.B.Hunt+            (69)23515  2 
+#/DATA      1
+#/DATASET

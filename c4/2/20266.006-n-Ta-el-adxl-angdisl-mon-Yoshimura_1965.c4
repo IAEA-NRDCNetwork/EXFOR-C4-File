@@ -1,0 +1,32 @@
+#ENTRY      20266
+#AUTHOR1    A.Yoshimura+
+#YEAR       1965
+#INSTITUTE  (2JPNKYU)
+#TITLE      Time-of-flight spectrometer for fast neutrons
+#AUTHOR(S)  A.Yoshimura, M.Sonoda, A.Katase, Y.Wakuta, M.Seki, T.Akiyoshi, 
+#+          I.Fujita, H.Hyakutake
+#REF-CODE   (P,EANDC(J)-1,24,1965)
+#REFERENCE  Progress report EANDC(J)-1 page 24, 1965
+#DATASETS   0
+#
+#DATASET    20266006 
+#DATE       20170425
+#REACTION   73-TA-0(N,EL)73-TA-0,,DA
+#PROJ       1
+#TARG       73000
+#MF         4
+#MT         2
+#PRODUCT    73-TA-0
+#C4BEGIN    [    1 73000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 73000   4   2    1.4100+7 100000.0 0.029000         -0.866000                              A.Yoshimura+         (65)20266  6 
+    1 73000   4   2    1.4100+7 100000.0 0.036000         -0.573600                              A.Yoshimura+         (65)20266  6 
+    1 73000   4   2    1.4100+7 100000.0 0.026000         -0.173600                              A.Yoshimura+         (65)20266  6 
+    1 73000   4   2    1.4100+7 100000.0 0.050000          0.173600                              A.Yoshimura+         (65)20266  6 
+    1 73000   4   2    1.4100+7 100000.0 0.058000          0.500000                              A.Yoshimura+         (65)20266  6 
+    1 73000   4   2    1.4100+7 100000.0 0.257000          0.766000                              A.Yoshimura+         (65)20266  6 
+    1 73000   4   2    1.4100+7 100000.0 0.228000          0.866000                              A.Yoshimura+         (65)20266  6 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      D6028
+#AUTHOR1    G.V.Ravi Prasad+
+#YEAR       1998
+#INSTITUTE  (3INDIPB)
+#TITLE      Fission fragment angular distributions at
+#+          near-barrier energies in 11B, 12C, 14N + 209Bi
+#AUTHOR(S)  G.V.Ravi Prasad, A.M.Samant, A.Shrivastava, A.Navin, A.Chatterjee, 
+#+          P.Singh, S.Kailas, V.S.Ramamurthy
+#REF-CODE   (J,PR/C,57,971,1998)
+#REFERENCE  Phys.Rev.C 57 (1998) 971 (doi:10.1103/PhysRevC.57.971)
+#DATASETS   0
+#
+#DATASET    D6028004 
+#DATE       20071101
+#REACTION   83-BI-209(7-N-14,F),,SIG
+#PROJ       7014
+#TARG       83209
+#MF         3
+#MT         18
+#C4BEGIN    [ 7014 83209   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014 83209   3  18    6.9029+7          4.5017-3                                                G.V.Ravi Prasad+     (98)D6028  4 
+ 7014 83209   3  18    7.0021+7          0.012529                                                G.V.Ravi Prasad+     (98)D6028  4 
+ 7014 83209   3  18    7.8071+7          0.297940                                                G.V.Ravi Prasad+     (98)D6028  4 
+ 7014 83209   3  18    8.2037+7          0.473060                                                G.V.Ravi Prasad+     (98)D6028  4 
+#/DATA      4
+#/DATASET

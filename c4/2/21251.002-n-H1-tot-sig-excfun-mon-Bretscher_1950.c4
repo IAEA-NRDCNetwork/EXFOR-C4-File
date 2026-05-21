@@ -1,0 +1,35 @@
+#ENTRY      21251
+#AUTHOR1    E.Bretscher+
+#YEAR       1950
+#INSTITUTE  (2UK CAV)
+#TITLE      -DETERMINATION OF THE COLLISION CROSS SECTION OF
+#+          HYDROGEN, DEUTERIUM, CARBON, AND OXYGEN FOR FAST
+#+          NEUTRONS.-
+#AUTHOR(S)  E.Bretscher, E.B.Martin
+#REF-CODE   (J,HPA,23,15,5002)
+#REFERENCE  Helv.Phys.Acta 23 (1950) 15
+#DATASETS   0
+#
+#DATASET    21251002 
+#DATE       19800908
+#REACTION   1-H-1(N,TOT),,SIG
+#PROJ       1
+#TARG       1001
+#MF         3
+#MT         1
+#C4BEGIN    [    1  1001   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   3   1    220000.0          8.300000                                                E.Bretscher+         (50)21251  2 
+    1  1001   3   1    300000.0          7.220000                                                E.Bretscher+         (50)21251  2 
+    1  1001   3   1    380000.0          6.900000                                                E.Bretscher+         (50)21251  2 
+    1  1001   3   1    460000.0          6.240000                                                E.Bretscher+         (50)21251  2 
+    1  1001   3   1    600000.0          5.470000                                                E.Bretscher+         (50)21251  2 
+    1  1001   3   1    1900000.          2.880000                                                E.Bretscher+         (50)21251  2 
+    1  1001   3   1    2200000.          2.780000                                                E.Bretscher+         (50)21251  2 
+    1  1001   3   1    2700000.          2.300000                                                E.Bretscher+         (50)21251  2 
+    1  1001   3   1    3110000.          2.500000                                                E.Bretscher+         (50)21251  2 
+    1  1001   3   1    4050000.          1.970000                                                E.Bretscher+         (50)21251  2 
+#/DATA      10
+#/DATASET

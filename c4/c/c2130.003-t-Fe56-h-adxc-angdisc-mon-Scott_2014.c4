@@ -1,0 +1,36 @@
+#ENTRY      C2130
+#AUTHOR1    M.Scott+
+#YEAR       2014
+#INSTITUTE  (1USAMSU)
+#TITLE      Gamow-Teller transition strengths from 56Fe extracted
+#+          from the 56Fe(t,3He) reaction
+#AUTHOR(S)  M.Scott, Y.Shimbara, S.M.Austin, D.Bazin, B.A.Brown, J.M.Deaven, 
+#+          Y.Fujita, C.J.Guess, S.Gupta, G.W.Hitt, D.Koeppe, R.Meharchand, 
+#+          M.Nagashima, G.Perdikakis, A.Prinke, M.Sasano, C.Sullivan, 
+#+          L.Valdez, R.G.T.Zegers
+#REF-CODE   (J,PR/C,90,025801,2014)
+#REFERENCE  Phys.Rev.C 90 (2014) 025801 (doi:10.1103/PhysRevC.90.025801)
+#DATASETS   0
+#
+#DATASET    C2130003 
+#DATE       20140905
+#REACTION   26-FE-56(T,HE3)25-MN-56,PAR,DA
+#PROJ       1003
+#TARG       26056
+#MF         4
+#MT         750
+#PRODUCT    25-MN-56
+#C4BEGIN    [ 1003 26056   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 26056   4 750  C 3.4500+8          3.1170-3 3.3400-4 0.999979          1170000.         LVLM.Scott+             (14)C2130  3 
+ 1003 26056   4 750  C 3.4500+8          2.7360-3 1.8400-4 0.999815          1170000.         LVLM.Scott+             (14)C2130  3 
+ 1003 26056   4 750  C 3.4500+8          1.8140-3 1.1500-4 0.999487          1170000.         LVLM.Scott+             (14)C2130  3 
+ 1003 26056   4 750  C 3.4500+8          1.2220-3 8.0000-5 0.998993          1170000.         LVLM.Scott+             (14)C2130  3 
+ 1003 26056   4 750  C 3.4500+8          1.0340-3 6.7000-5 0.998337          1170000.         LVLM.Scott+             (14)C2130  3 
+ 1003 26056   4 750  C 3.4500+8          1.1720-3 8.0000-5 0.997515          1170000.         LVLM.Scott+             (14)C2130  3 
+ 1003 26056   4 750  C 3.4500+8          1.1440-3 9.1000-5 0.996531          1170000.         LVLM.Scott+             (14)C2130  3 
+ 1003 26056   4 750  C 3.4500+8          9.6600-4 1.0000-4 0.995381          1170000.         LVLM.Scott+             (14)C2130  3 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      D0076
+#AUTHOR1    M.Cogneau+
+#YEAR       1967
+#INSTITUTE  (2BLGLEU)
+#TITLE      Absolute cross sections and excitation functions for
+#+          deuteron-induced reactions on the nickel isotopes
+#+          between 2 and 12 MeV
+#AUTHOR(S)  M.Cogneau, L.J.Gilly, J.Cara
+#REF-CODE   (J,NP/A,99,686,1967)
+#REFERENCE  Nucl.Phys.A 99 (1967) 686 (doi:10.1016/0375-9474(67)90379-X)
+#DATASETS   0
+#
+#DATASET    D0076002 
+#DATE       20220429
+#REACTION   28-NI-58(D,N)29-CU-59,,SIG
+#PROJ       1002
+#TARG       28058
+#MF         3
+#MT         4
+#PRODUCT    29-CU-59
+#C4BEGIN    [ 1002 28058   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28058   3   4    8000000.          0.200000 0.040000                                       M.Cogneau+           (67)D0076  2 
+ 1002 28058   3   4    1.2000+7          0.067000 0.014000                                       M.Cogneau+           (67)D0076  2 
+#/DATA      2
+#/DATASET

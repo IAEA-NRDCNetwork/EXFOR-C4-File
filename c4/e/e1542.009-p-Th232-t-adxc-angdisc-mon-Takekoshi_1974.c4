@@ -1,0 +1,35 @@
+#ENTRY      E1542
+#AUTHOR1    E.Takekoshi+
+#YEAR       1974
+#INSTITUTE  (2JPNTOK)
+#TITLE      Ground state band members is 236U and 230Th studied
+#+          with the (p,t) reaction
+#AUTHOR(S)  E.Takekoshi, Y.Ishizaki, H.Orihara, M.Kanazawa, J.Kasagi, 
+#+          K.Koyama, N.Matsuoka, T.Takemasa
+#REF-CODE   (J,JPJ,36,(2),336,197402)
+#REFERENCE  J.Phys.Soc.Jpn. 36 No.2 (1974) 336 (doi:10.1143/JPSJ.36.336)
+#DATASETS   0
+#
+#DATASET    E1542009 
+#DATE       20051219
+#REACTION   90-TH-232(P,T)90-TH-230,PAR,DA
+#PROJ       1001
+#TARG       90232
+#MF         4
+#MT         700
+#PRODUCT    90-TH-230
+#C4BEGIN    [ 1001 90232   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   4 700  C 5.2000+7          8.9120-6 3.9510-6 0.996657          174000.0         LVLE.Takekoshi+         (74)E1542  9 
+ 1001 90232   4 700  C 5.2000+7          8.6280-6 1.3000-6 0.990653          174000.0         LVLE.Takekoshi+         (74)E1542  9 
+ 1001 90232   4 700  C 5.2000+7          8.2630-6 1.2450-6 0.975496          174000.0         LVLE.Takekoshi+         (74)E1542  9 
+ 1001 90232   4 700  C 5.2000+7          4.7140-6 1.3940-6 0.953032          174000.0         LVLE.Takekoshi+         (74)E1542  9 
+ 1001 90232   4 700  C 5.2000+7          3.6780-6 5.9990-7 0.923746          174000.0         LVLE.Takekoshi+         (74)E1542  9 
+ 1001 90232   4 700  C 5.2000+7          2.7780-6 1.6890-6 0.880725          174000.0         LVLE.Takekoshi+         (74)E1542  9 
+ 1001 90232   4 700  C 5.2000+7          2.8080-6 4.5810-7 0.842734          174000.0         LVLE.Takekoshi+         (74)E1542  9 
+ 1001 90232   4 700  C 5.2000+7          2.6320-6 2.6850-7 0.790903          174000.0         LVLE.Takekoshi+         (74)E1542  9 
+ 1001 90232   4 700  C 5.2000+7          1.0740-6 2.7340-7 0.730162          174000.0         LVLE.Takekoshi+         (74)E1542  9 
+#/DATA      9
+#/DATASET

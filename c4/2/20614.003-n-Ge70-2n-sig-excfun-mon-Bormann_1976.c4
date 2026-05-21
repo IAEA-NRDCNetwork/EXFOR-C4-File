@@ -1,0 +1,33 @@
+#ENTRY      20614
+#AUTHOR1    M.Bormann+
+#YEAR       1976
+#INSTITUTE  (2GERHAM)
+#TITLE      -(N,2N) EXCITATION FUNCTIONS FOR FE-54, GE-70, SE-74,
+#+          RB-85, SR-86,88, Y-89, MO-92, AND HG-204 IN THE
+#+          NEUTRON ENERGY REGION 13-18 MEV-. (GERMAN)
+#AUTHOR(S)  M.Bormann, H-K.Feddersen, H.-H.Holscher, W.Scobel, H.Wagner
+#REF-CODE   (J,ZP/A,277,203,7606)
+#REFERENCE  Z.Phys.A 277 (1976) 203 (doi:10.1007/BF01433714)
+#DATASETS   0
+#
+#DATASET    20614003 
+#DATE       19840127
+#REACTION   32-GE-70(N,2N)32-GE-69,,SIG
+#PROJ       1
+#TARG       32070
+#MF         3
+#MT         16
+#PRODUCT    32-GE-69
+#C4BEGIN    [    1 32070   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32070   3  16    1.3370+7 140000.0 0.430100 0.053400                                       M.Bormann+           (76)20614  3 
+    1 32070   3  16    1.5370+7 140000.0 0.733000 0.052800                                       M.Bormann+           (76)20614  3 
+    1 32070   3  16    1.5910+7 150000.0 0.835900 0.060100                                       M.Bormann+           (76)20614  3 
+    1 32070   3  16    1.6440+7 160000.0 0.863200 0.057800                                       M.Bormann+           (76)20614  3 
+    1 32070   3  16    1.6930+7 160000.0 0.895900 0.059100                                       M.Bormann+           (76)20614  3 
+    1 32070   3  16    1.7560+7 150000.0 0.880100 0.058100                                       M.Bormann+           (76)20614  3 
+    1 32070   3  16    1.8230+7 140000.0 0.897200 0.059200                                       M.Bormann+           (76)20614  3 
+#/DATA      7
+#/DATASET

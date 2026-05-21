@@ -1,0 +1,33 @@
+#ENTRY      14159
+#AUTHOR1    M.Devlin+
+#YEAR       2009
+#INSTITUTE  (1USALAS)
+#TITLE      6Li(n,t)alpha angular distribution measurements for
+#+          0.2 < En < 10MeV at LANSCE/WNR.
+#AUTHOR(S)  M.Devlin, T.N.Taddeucci, G.M.Hale, R.C.Haight, J.M.O'Donnell
+#REF-CODE   (S,AIP-1090,215,2009)
+#REFERENCE  Report (proceedings) AIP-1090 page 215, 2009
+#DATASETS   0
+#
+#DATASET    14159017 
+#DATE       20210713
+#REACTION   3-LI-6(N,T)2-HE-4,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         105
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1  3006   4 105 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4 105 DC 4000000.          0.013900 7.6300-4 0.910106                              M.Devlin+            (09)14159 17 
+    1  3006   4 105 DC 4000000.          0.012700 6.7100-4 0.803234                              M.Devlin+            (09)14159 17 
+    1  3006   4 105 DC 4000000.          0.011100 8.3600-4 0.583683                              M.Devlin+            (09)14159 17 
+    1  3006   4 105 DC 4000000.          0.011700 6.9700-4 0.318959                              M.Devlin+            (09)14159 17 
+    1  3006   4 105 DC 4000000.          0.010600 6.6900-4 0.132429                              M.Devlin+            (09)14159 17 
+    1  3006   4 105 DC 4000000.          8.1400-3 4.5800-4-0.228181                              M.Devlin+            (09)14159 17 
+    1  3006   4 105 DC 4000000.          7.2500-3 8.4100-4-0.661312                              M.Devlin+            (09)14159 17 
+    1  3006   4 105 DC 4000000.          8.7300-3 5.8100-4-0.811982                              M.Devlin+            (09)14159 17 
+#/DATA      8
+#/DATASET

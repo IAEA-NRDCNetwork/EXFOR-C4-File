@@ -1,0 +1,33 @@
+#ENTRY      20303
+#AUTHOR1    S.Okumura+
+#YEAR       1967
+#INSTITUTE  (2JPNKTO)
+#TITLE      Isomer pair cross sections by 13.4 - 15.0 MeV
+#+          neutrons
+#AUTHOR(S)  S.Okumura
+#REF-CODE   (J,NP/A,93,74,1967)
+#REFERENCE  Nucl.Phys.A 93 (1967) 74 (doi:10.1016/0375-9474(67)90172-8)
+#DATASETS   0
+#
+#DATASET    20303006 
+#DATE       20230130
+#REACTION   32-GE-76(N,2N)32-GE-75,,SIG
+#PROJ       1
+#TARG       32076
+#MF         3
+#MT         16
+#PRODUCT    32-GE-75
+#C4BEGIN    [    1 32076   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32076   3  16 A  1.3390+7 60000.00 0.974000 0.039000                                       S.Okumura            (67)20303  6 
+    1 32076   3  16 A  1.3640+7 80000.00 1.024000 0.041000                                       S.Okumura            (67)20303  6 
+    1 32076   3  16 A  1.3780+7 80000.00 1.084000 0.043000                                       S.Okumura            (67)20303  6 
+    1 32076   3  16 A  1.4110+7 80000.00 1.154000 0.046000                                       S.Okumura            (67)20303  6 
+    1 32076   3  16 A  1.4440+7 80000.00 1.123000 0.045000                                       S.Okumura            (67)20303  6 
+    1 32076   3  16 A  1.4590+7 80000.00 1.178000 0.047000                                       S.Okumura            (67)20303  6 
+    1 32076   3  16 A  1.4860+7 90000.00 1.334000 0.053000                                       S.Okumura            (67)20303  6 
+    1 32076   3  16 A  1.4960+7 100000.0 1.438000 0.057000                                       S.Okumura            (67)20303  6 
+#/DATA      8
+#/DATASET

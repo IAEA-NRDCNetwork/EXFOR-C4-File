@@ -1,0 +1,55 @@
+#ENTRY      C1246
+#AUTHOR1    E.F.Aguilera+
+#YEAR       2000
+#INSTITUTE  (1USANOT)
+#TITLE      Transfer and/or Breakup Modes in the 6He+209Bi Reaction
+#+          near the Coulomb Barrier
+#AUTHOR(S)  E.F.Aguilera, J.J.Kolata, F.M.Nunes, F.D.Becchetti, P.A.DeYoung, 
+#+          M.Goupell, V.Guimaraes, B.Hughey, M.Y.Lee, D.Lizcano, E.Martinez-Quiroz, 
+#+          A.Nowlin, T.W.O'Donnell, G.F.Peaslee, D.Peterson, P.Santi, 
+#+          R.White-Stevens
+#REF-CODE   (J,PRL,84,5058,2000)
+#REFERENCE  Phys.Rev.Lett. 84 (2000) 5058 (doi:10.1103/PhysRevLett.84.5058)
+#DATASETS   0
+#
+#DATASET    C1246003 
+#DATE       20050606
+#REACTION   83-BI-209(2-HE-6,EL)83-BI-209,,DA,,RTH
+#PROJ       2006
+#TARG       83209
+#MF         4
+#MT         2
+#PRODUCT    83-BI-209
+#C4BEGIN    [ 2006 83209   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 83209   4   2  C 1.9000+7          4.529176          0.695913                              E.F.Aguilera+        (00)C1246  3 
+ 2006 83209   4   2  C 1.9000+7          0.688096          0.230050                              E.F.Aguilera+        (00)C1246  3 
+ 2006 83209   4   2  C 1.9000+7          0.159828         -0.275637                              E.F.Aguilera+        (00)C1246  3 
+ 2006 83209   4   2  C 1.9000+7          0.065029 0.010385-0.719340                              E.F.Aguilera+        (00)C1246  3 
+ 2006 83209   4   2  C 1.9000+7          0.035602 6.4588-3-0.866025                              E.F.Aguilera+        (00)C1246  3 
+#/DATA      5
+#/DATASET
+#
+#DATASET    C1246003 
+#DATE       20050606
+#REACTION   83-BI-209(2-HE-6,EL)83-BI-209,,DA,,RTH
+#PROJ       2006
+#TARG       83209
+#MF         4
+#MT         2
+#PRODUCT    83-BI-209
+#C4BEGIN    [ 2006 83209   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 83209   4   2  C 2.2500+7          1.010196          0.828060                              E.F.Aguilera+        (00)C1246  3 
+ 2006 83209   4   2  C 2.2500+7          3.791369          0.719340                              E.F.Aguilera+        (00)C1246  3 
+ 2006 83209   4   2  C 2.2500+7          0.380675          0.245307                              E.F.Aguilera+        (00)C1246  3 
+ 2006 83209   4   2  C 2.2500+7          0.037881 3.6562-3-0.258819                              E.F.Aguilera+        (00)C1246  3 
+ 2006 83209   4   2  C 2.2500+7          0.020948 2.8884-3-0.515038                              E.F.Aguilera+        (00)C1246  3 
+ 2006 83209   4   2  C 2.2500+7          0.012093 2.4595-3-0.707107                              E.F.Aguilera+        (00)C1246  3 
+ 2006 83209   4   2  C 2.2500+7          5.9780-3 1.3380-3-0.866025                              E.F.Aguilera+        (00)C1246  3 
+#/DATA      7
+#/DATASET

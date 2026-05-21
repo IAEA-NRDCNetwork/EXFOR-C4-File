@@ -1,0 +1,34 @@
+#ENTRY      C1225
+#AUTHOR1    K.C.Kelley+
+#YEAR       2005
+#INSTITUTE  (1USAGIT)
+#TITLE      148Gd production cross section measurements for 600-
+#+          and 800-MeV protons on tantalum, tungsten, and gold
+#AUTHOR(S)  K.C.Kelley, N.E.Hertel, E.J.Pitcher, M.Devlin, S.G.Mashnik
+#REF-CODE   (J,NP/A,760,225,2005)
+#REFERENCE  Nucl.Phys.A 760 (2005) 225 (doi:10.1016/j.nuclphysa.2005.06.002)
+#DATASETS   0
+#
+#DATASET    C1225012 
+#DATE       20111127
+#REACTION   74-W-0(P,X)ELEM/MASS,,SIG
+#PROJ       1001
+#TARG       74000
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 74000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 74000   3 454    6.0000+8          1.2700-4 6.0000-6           21046.9                     K.C.Kelley+          (05)C1225 12 
+ 1001 74000   3 454    6.0000+8          1.5200-4 7.0000-6           25054.9                     K.C.Kelley+          (05)C1225 12 
+ 1001 74000   3 454    6.0000+8          3.1500-4 3.5000-5           33074.9                     K.C.Kelley+          (05)C1225 12 
+ 1001 74000   3 454    6.0000+8          3.4800-4 2.8000-5           45102.9                     K.C.Kelley+          (05)C1225 12 
+ 1001 74000   3 454    6.0000+8          3.1000-5 3.0000-6           61144.9                     K.C.Kelley+          (05)C1225 12 
+ 1001 74000   3 454    6.0000+8          5.9800-4 4.7000-5           61146.9                     K.C.Kelley+          (05)C1225 12 
+ 1001 74000   3 454    6.0000+8          6.4000-4 3.8000-5           63148.9                     K.C.Kelley+          (05)C1225 12 
+ 1001 74000   3 454    6.0000+8          9.3200-4 2.6000-5           69168.9                     K.C.Kelley+          (05)C1225 12 
+ 1001 74000   3 454    6.0000+8          1.6200-3 9.0000-5           71174.9                     K.C.Kelley+          (05)C1225 12 
+ 1001 74000   3 454    6.0000+8          1.4000-3 1.7000-4           75184.9                     K.C.Kelley+          (05)C1225 12 
+#/DATA      10
+#/DATASET

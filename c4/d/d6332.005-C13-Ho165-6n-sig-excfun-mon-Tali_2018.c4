@@ -1,0 +1,32 @@
+#ENTRY      D6332
+#AUTHOR1    S.A.Tali+
+#YEAR       2018
+#INSTITUTE  (3INDMUA)
+#TITLE      Study of incomplete fusion reaction dynamics in 13C +
+#+          165Ho system and its dependence on various entrance
+#+          channel parameters
+#AUTHOR(S)  S.A.Tali, H.Kumar, M.A.Ansari, A.Ali, D.Singh, R.Ali, P.K.Giri, 
+#+          S.B.Linda, S.Parashari, R.Kumar, R.P.Singh, S.Muralithar
+#REF-CODE   (J,NP/A,970,208,2018)
+#REFERENCE  Nucl.Phys.A 970 (2018) 208 (doi:10.1016/j.nuclphysa.2017.11.012)
+#DATASETS   0
+#
+#DATASET    D6332005 
+#DATE       20190925
+#REACTION   67-HO-165(6-C-13,6N)73-TA-172,,SIG
+#PROJ       6013
+#TARG       67165
+#MF         3
+#MT         153
+#PRODUCT    73-TA-172
+#C4BEGIN    [ 6013 67165   3 153  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6013 67165   3 153    7.0178+7 749000.0 1.6170-5 4.5750-6                                       S.A.Tali+            (18)D6332  5 
+ 6013 67165   3 153    7.4442+7 643000.0 4.0550-3 1.0850-3                                       S.A.Tali+            (18)D6332  5 
+ 6013 67165   3 153    7.8735+7 586000.0 0.072580 0.018890                                       S.A.Tali+            (18)D6332  5 
+ 6013 67165   3 153    8.3071+7 651000.0 0.234000 0.060900                                       S.A.Tali+            (18)D6332  5 
+ 6013 67165   3 153    8.7404+7 651000.0 0.383700 0.105200                                       S.A.Tali+            (18)D6332  5 
+#/DATA      5
+#/DATASET

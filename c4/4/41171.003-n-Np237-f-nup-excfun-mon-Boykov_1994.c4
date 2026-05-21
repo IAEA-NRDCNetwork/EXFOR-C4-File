@@ -1,0 +1,26 @@
+#ENTRY      41171
+#AUTHOR1    G.S.Boykov+
+#YEAR       1994
+#INSTITUTE  (4RUSRI)
+#TITLE      Neutron spectra in 237Np fission induced by neutrons
+#+          of energy 2.9 and 14.7 MeV
+#AUTHOR(S)  G.S.Boykov, V.D.Dmitriev, M.I.Svirin, G.N.Smirenkin
+#REF-CODE   (J,YF,57,2126,1994)
+#REFERENCE  Yad.Fiz. 57 (1994) 2126
+#DATASETS   0
+#
+#DATASET    41171003 
+#DATE       20210126
+#REACTION   93-NP-237(N,F),PR,NU
+#PROJ       1
+#TARG       93237
+#MF         1
+#MT         456
+#C4BEGIN    [    1 93237   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   1 456    2.900000          3.010000 0.070000                                       G.S.Boykov+          (94)41171  3 
+    1 93237   1 456    14.70000          4.520000 0.100000                                       G.S.Boykov+          (94)41171  3 
+#/DATA      2
+#/DATASET

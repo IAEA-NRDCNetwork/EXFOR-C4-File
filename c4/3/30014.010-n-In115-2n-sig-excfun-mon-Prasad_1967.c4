@@ -1,0 +1,26 @@
+#ENTRY      30014
+#AUTHOR1    R.Prasad+
+#YEAR       1967
+#INSTITUTE  (3INDMUA)
+#TITLE      Isomeric cross-section ratios for (n,2n) reactions of
+#+          Cl-35, Sc-45, Mo-92 and In-115 at 14.8 MeV.
+#AUTHOR(S)  R.Prasad, D.C.Sarkar
+#REF-CODE   (J,NP/A,94,476,196703)
+#REFERENCE  Nucl.Phys.A 94 (1967) 476 (doi:10.1016/0375-9474(67)90018-8)
+#DATASETS   0
+#
+#DATASET    30014010 
+#DATE       20070806
+#REACTION   49-IN-115(N,2N)49-IN-114-G,,SIG
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         16
+#PRODUCT    49-IN-114-G
+#C4BEGIN    [    1 49115   3  16G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3  16G   1.4800+7          0.360000 0.040000                                       R.Prasad+            (67)30014 10 
+#/DATA      1
+#/DATASET

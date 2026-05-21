@@ -1,0 +1,35 @@
+#ENTRY      O0896
+#AUTHOR1    R.Bilger+
+#YEAR       2002
+#INSTITUTE  (2GERTUE)
+#TITLE      Measurement of the p+d-->3-He+ETA cross section between
+#+          930 and 1100 MeV
+#AUTHOR(S)  R.Bilger, W.Brodowski, H.Calen, H.Clement, C.Ekstrom, G.Faeldt, 
+#+          K.Fransson, L.Gustafsson, B.Hoeistad, A.Johansson, T.Johansson, 
+#+          K.Kilian, S.Kullander, A.Kupsc, G.Kurz, P.Marciniewski, 
+#+          B.Morosov, A.Moertsell, W.Oelert, V.Renken, R.J.M.Y.Ruber, 
+#+          B.Shwartz, J.Stepaniak, A.Sukhanov, P.Thoerngren-Engblom, 
+#+          A.Turowiecki, G.J.Wagner, Z.Wilhelmi, C.Wilkin, J.Zabierowski, 
+#+          J.Zlomanczuk
+#REF-CODE   (J,PR/C,65,044608,2002)
+#REFERENCE  Phys.Rev.C 65 (2002) 044608 (doi:10.1103/PhysRevC.65.044608)
+#DATASETS   0
+#
+#DATASET    O0896004 
+#DATE       20040326
+#REACTION   1-H-2(P,HE3)0-ET-0,,SIG
+#PROJ       1001
+#TARG       1002
+#MF         3
+#MT         106
+#PRODUCT    0-ET-0
+#C4BEGIN    [ 1001  1002   3 106  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   3 106    9.3000+8          3.1600-7 1.6000-8                                       R.Bilger+            (02)O0896  4 
+ 1001  1002   3 106    9.6500+8          4.1300-7 1.5000-8                                       R.Bilger+            (02)O0896  4 
+ 1001  1002   3 106    1.0370+9          4.1200-7 1.6000-8                                       R.Bilger+            (02)O0896  4 
+ 1001  1002   3 106    1.1000+9          3.8600-7 2.0000-8                                       R.Bilger+            (02)O0896  4 
+#/DATA      4
+#/DATASET

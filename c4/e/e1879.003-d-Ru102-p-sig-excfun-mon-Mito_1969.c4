@@ -1,0 +1,35 @@
+#ENTRY      E1879
+#AUTHOR1    A.Mito+
+#YEAR       1969
+#INSTITUTE  (2JPNOSA)
+#TITLE      Excitation functions for the (d,p) reactions on 96Ru,
+#+          102Ru and 104Ru
+#AUTHOR(S)  A.Mito, K.Komura, T.Mitsugashira, K.Otozai
+#REF-CODE   (J,NP/A,129,(1),165,196905)
+#REFERENCE  Nucl.Phys.A 129 No.1 (1969) 165 (doi:10.1016/0375-9474(69)90917-8)
+#DATASETS   0
+#
+#DATASET    E1879003 
+#DATE       20050914
+#REACTION   44-RU-102(D,P)44-RU-103,,SIG
+#PROJ       1002
+#TARG       44102
+#MF         3
+#MT         103
+#PRODUCT    44-RU-103
+#C4BEGIN    [ 1002 44102   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 44102   3 103    4487066. 100004.6 0.020000                                                A.Mito+              (69)E1879  3 
+ 1002 44102   3 103    6016794. 100006.2 0.120000                                                A.Mito+              (69)E1879  3 
+ 1002 44102   3 103    6628692. 100006.8 0.190000                                                A.Mito+              (69)E1879  3 
+ 1002 44102   3 103    7240594. 100007.4 0.220000                                                A.Mito+              (69)E1879  3 
+ 1002 44102   3 103    8158454. 100008.4 0.240000                                                A.Mito+              (69)E1879  3 
+ 1002 44102   3 103    8872350. 100009.1 0.280000                                                A.Mito+              (69)E1879  3 
+ 1002 44102   3 103    9994199. 100010.3 0.280000                                                A.Mito+              (69)E1879  3 
+ 1002 44102   3 103    1.1932+7 100012.3 0.230000 0.030000                                       A.Mito+              (69)E1879  3 
+ 1002 44102   3 103    1.2952+7 100013.3 0.220000                                                A.Mito+              (69)E1879  3 
+ 1002 44102   3 103    1.4278+7 100014.7 0.190000 0.040000                                       A.Mito+              (69)E1879  3 
+#/DATA      10
+#/DATASET

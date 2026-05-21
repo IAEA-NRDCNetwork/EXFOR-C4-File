@@ -1,0 +1,40 @@
+#ENTRY      11140
+#AUTHOR1    C.L.Bailey+
+#YEAR       1946
+#INSTITUTE  (1USAMIN)
+#TITLE      THE NEUTRON-PROTON AND NEUTRON-CARBON SCATTERING CROSS
+#+          SECTIONS FOR FAST NEUTRONS.
+#AUTHOR(S)  C.L.Bailey, W.E.Bennett, T.Bergstralh, R.C.Nuckolls, H.T.Richards, 
+#+          J.H.Williams
+#REF-CODE   (J,PR,70,583,4611)
+#REFERENCE  Phys.Rev. 70 (1946) 583 (doi:10.1103/PhysRev.70.583)
+#DATASETS   0
+#
+#DATASET    11140002 
+#DATE       19800814
+#REACTION   1-H-1(N,TOT),,SIG
+#PROJ       1
+#TARG       1001
+#MF         3
+#MT         1
+#C4BEGIN    [    1  1001   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   3   1    350000.0          7.150000 0.240000                                       C.L.Bailey+          (46)11140  2 
+    1  1001   3   1    460000.0          6.520000 0.150000                                       C.L.Bailey+          (46)11140  2 
+    1  1001   3   1    720000.0          5.220000 0.120000                                       C.L.Bailey+          (46)11140  2 
+    1  1001   3   1    970000.0          4.450000 0.080000                                       C.L.Bailey+          (46)11140  2 
+    1  1001   3   1    1000000. 100000.0 4.160000 0.150000                                       C.L.Bailey+          (46)11140  2 
+    1  1001   3   1    1600000.          3.360000 0.080000                                       C.L.Bailey+          (46)11140  2 
+    1  1001   3   1    2000000.          2.960000 0.070000                                       C.L.Bailey+          (46)11140  2 
+    1  1001   3   1    2600000.          2.600000 0.050000                                       C.L.Bailey+          (46)11140  2 
+    1  1001   3   1    3000000.          2.330000 0.130000                                       C.L.Bailey+          (46)11140  2 
+    1  1001   3   1    3500000.          2.090000 0.090000                                       C.L.Bailey+          (46)11140  2 
+    1  1001   3   1    4000000.          1.850000 0.090000                                       C.L.Bailey+          (46)11140  2 
+    1  1001   3   1    4500000.          1.830000 0.100000                                       C.L.Bailey+          (46)11140  2 
+    1  1001   3   1    5000000.          1.630000 0.050000                                       C.L.Bailey+          (46)11140  2 
+    1  1001   3   1    5500000.          1.480000 0.060000                                       C.L.Bailey+          (46)11140  2 
+    1  1001   3   1    6000000.          1.320000 0.120000                                       C.L.Bailey+          (46)11140  2 
+#/DATA      15
+#/DATASET

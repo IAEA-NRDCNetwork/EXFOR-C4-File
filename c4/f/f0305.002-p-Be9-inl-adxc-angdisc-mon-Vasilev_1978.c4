@@ -1,0 +1,33 @@
+#ENTRY      F0305
+#AUTHOR1    S.S.Vasilev+
+#YEAR       1978
+#INSTITUTE  (4RUSMOS)
+#TITLE      The experimental checking of the nonelastic scattering
+#+          6.4 MeV protons on the 9Be.
+#AUTHOR(S)  S.S.Vasilev, M.S.Golovkov, C.N.Kondratev, T.N.Mikhaleva, 
+#+          E.A.Romanovskii, D.L.Chuprunov
+#REF-CODE   (C,78ALMAATA,,168,1978)
+#REFERENCE  Proceedings of 28.Conf.on Nucl.Spectr.and Nucl.Struct.,Alma-Ata 1978 page 168
+#DATASETS   0
+#
+#DATASET    F0305002 
+#DATE       20141028
+#REACTION   4-BE-9(P,INL)4-BE-9,PAR,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         601
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1001  4009   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4 601  C 6400000.          4.4450-4 1.5300-4 0.971134          1694000.         LVLS.S.Vasilev+         (78)F0305  2 
+ 1001  4009   4 601  C 6400000.          5.7930-4 1.6480-4 0.964095          1694000.         LVLS.S.Vasilev+         (78)F0305  2 
+ 1001  4009   4 601  C 6400000.          6.9610-4 1.4690-4 0.950516          1694000.         LVLS.S.Vasilev+         (78)F0305  2 
+ 1001  4009   4 601  C 6400000.          1.0420-3 8.2300-5 0.933580          1694000.         LVLS.S.Vasilev+         (78)F0305  2 
+ 1001  4009   4 601  C 6400000.          8.7030-4 7.6400-5 0.905569          1694000.         LVLS.S.Vasilev+         (78)F0305  2 
+ 1001  4009   4 601  C 6400000.          8.5100-4 7.0500-5 0.863396          1694000.         LVLS.S.Vasilev+         (78)F0305  2 
+ 1001  4009   4 601  C 6400000.          3.2820-4 4.7200-5 0.700909          1694000.         LVLS.S.Vasilev+         (78)F0305  2 
+#/DATA      7
+#/DATASET

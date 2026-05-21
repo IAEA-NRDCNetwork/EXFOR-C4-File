@@ -1,0 +1,27 @@
+#ENTRY      32652
+#AUTHOR1    Fenqun Zhou+
+#YEAR       2006
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Cross-section measurements for the Te-128(n,2n)Te-127m
+#+          reactions induced by neutrons  around 14MeV
+#AUTHOR(S)  Fenqun Zhou, Yimin Zhang, Fei Tuo, Yanling Yi, Xiangzhong Kong
+#REF-CODE   (J,ARI,64,815,2006)
+#REFERENCE  Appl.Radiat.Isot. 64 (2006) 815 (doi:10.1016/j.apradiso.2006.01.007)
+#DATASETS   0
+#
+#DATASET    32652002 
+#DATE       20060701
+#REACTION   52-TE-128(N,2N)52-TE-127-M,,SIG
+#PROJ       1
+#TARG       52128
+#MF         3
+#MT         16
+#PRODUCT    52-TE-127-M
+#C4BEGIN    [    1 52128   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52128   3  16M   1.4100+7 200000.0 0.737000 0.069000                                       Fenqun Zhou+         (06)32652  2 
+    1 52128   3  16M   1.4600+7 300000.0 0.853000 0.082000                                       Fenqun Zhou+         (06)32652  2 
+#/DATA      2
+#/DATASET

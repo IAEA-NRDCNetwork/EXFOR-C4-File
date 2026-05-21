@@ -1,0 +1,35 @@
+#ENTRY      40139
+#AUTHOR1    D.L.Broder+
+#YEAR       1964
+#INSTITUTE  (4RUSFEI)
+#TITLE      Cross sections of level excitation for Mg, Cr52, Ni58,
+#+          Ni60 and Nb93 in neutron inelastic scattering
+#AUTHOR(S)  D.L.Broder, V.E.Kolesov, A.I.Lashuk, I.P.Sadokhin, A.G.Dovbenko
+#REF-CODE   (J,AE,16,103,1964)
+#REFERENCE  At.En. 16 (1964) 103
+#DATASETS   0
+#
+#DATASET    40139003 
+#DATE       20200121
+#REACTION   28-NI-58(N,INL)28-NI-58,PAR,SIG,G
+#PROJ       1
+#TARG       28058
+#MF         13
+#MT         51
+#PRODUCT    28-NI-58
+#C4BEGIN    [    1 28058  13  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058  13  51 A  2800000. 30000.00 0.150000                            1000000.            D.L.Broder+          (64)40139  3 
+    1 28058  13  51 A  2900000. 30000.00 0.150000                            1000000.            D.L.Broder+          (64)40139  3 
+    1 28058  13  51 A  3000000. 30000.00 0.190000                            1000000.            D.L.Broder+          (64)40139  3 
+    1 28058  13  51 A  3250000. 80000.00 0.160000                            1000000.            D.L.Broder+          (64)40139  3 
+    1 28058  13  51 A  3400000. 80000.00 0.160000                            1000000.            D.L.Broder+          (64)40139  3 
+    1 28058  13  51 A  3500000. 80000.00 0.220000                            1000000.            D.L.Broder+          (64)40139  3 
+    1 28058  13  51 A  3550000. 80000.00 0.160000                            1000000.            D.L.Broder+          (64)40139  3 
+    1 28058  13  51 A  3780000. 80000.00 0.180000                            1000000.            D.L.Broder+          (64)40139  3 
+    1 28058  13  51 A  4000000. 80000.00 0.210000                            1000000.            D.L.Broder+          (64)40139  3 
+    1 28058  13  51 A  4100000. 80000.00 0.220000                            1000000.            D.L.Broder+          (64)40139  3 
+#/DATA      10
+#/DATASET

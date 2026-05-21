@@ -1,0 +1,32 @@
+#ENTRY      A1104
+#AUTHOR1    L.Rosen+
+#YEAR       1949
+#INSTITUTE  (1USALAS)
+#TITLE      Range distribution of charged particles from the D-D
+#+          reactions for 10 MeV deuterons: differential elastic
+#+          cross section at 40 degrees, 60 degrees and 80 degrees
+#+          in the center-of-mass system
+#AUTHOR(S)  L.Rosen, F.K.Tallmadge, J.H.Williams
+#REF-CODE   (J,PR,76,1283,1949)
+#REFERENCE  Phys.Rev. 76 (1949) 1283 (doi:10.1103/PhysRev.76.1283)
+#DATASETS   0
+#
+#DATASET    A1104002 
+#DATE       20240708
+#REACTION   1-H-2(D,EL)1-H-2,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1002  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4   2  C 1.0000+7          0.260000 0.016000 0.772734 5.5391-3                     L.Rosen+             (49)A1104  2 
+ 1002  1002   4   2  C 1.0000+7          0.254000 0.015000 0.763796 5.6327-3                     L.Rosen+             (49)A1104  2 
+ 1002  1002   4   2  C 1.0000+7          0.134000 8.0000-3 0.509041 7.5114-3                     L.Rosen+             (49)A1104  2 
+ 1002  1002   4   2  C 1.0000+7          0.132000 8.0000-3 0.500000 7.5575-3                     L.Rosen+             (49)A1104  2 
+ 1002  1002   4   2  C 1.0000+7          0.106000 6.0000-3 0.163326 8.6095-3                     L.Rosen+             (49)A1104  2 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      21614
+#AUTHOR1    E.Mezzetti+
+#YEAR       1978
+#INSTITUTE  (2ITYTUP)
+#TITLE      -BACKWARD SCATTERING OF 14.2 MEV NEUTRONS FROM
+#+          CARBON AND SULFUR.-
+#AUTHOR(S)  E.Mezzetti, B.Minetti, A.Pasquarelli
+#REF-CODE   (J,NCL,22,3,91,7805)
+#REFERENCE  Nuovo Cim.Lett. 22 No.3 (1978) 91 (doi:10.1007/BF02789683)
+#DATASETS   0
+#
+#DATASET    21614002 
+#DATE       19800808
+#REACTION   6-C-12(N,EL)6-C-12,,DA
+#PROJ       1
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   4   2  C 1.4200+7 150000.0 0.017900 9.0000-4-0.845262 0.013989                     E.Mezzetti+          (78)21614  2 
+    1  6012   4   2  C 1.4200+7 150000.0 0.020300 1.0000-3-0.886204 0.012129                     E.Mezzetti+          (78)21614  2 
+    1  6012   4   2  C 1.4200+7 150000.0 0.021300 1.1000-3-0.921185 0.010187                     E.Mezzetti+          (78)21614  2 
+    1  6012   4   2  C 1.4200+7 150000.0 0.023800 1.1000-3-0.948876 8.2637-3                     E.Mezzetti+          (78)21614  2 
+    1  6012   4   2  C 1.4200+7 150000.0 0.028200 1.2000-3-0.971134 6.2448-3                     E.Mezzetti+          (78)21614  2 
+    1  6012   4   2  C 1.4200+7 150000.0 0.031800 1.4000-3-0.987136 4.1857-3                     E.Mezzetti+          (78)21614  2 
+    1  6012   4   2  C 1.4200+7 150000.0 0.029300 1.2000-3-0.996779 2.0996-3                     E.Mezzetti+          (78)21614  2 
+#/DATA      7
+#/DATASET

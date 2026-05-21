@@ -1,0 +1,34 @@
+#ENTRY      41354
+#AUTHOR1    G.V.Muradyan+
+#YEAR       1999
+#INSTITUTE  (4RUSKUR)
+#TITLE      Measurements of Neutron Capture Cross Sections of
+#+          234-U and 236-U and Fission Cross Section of 236-U.
+#AUTHOR(S)  G.V.Muradyan, M.A.Voskanyan, L.P.Yastrebova, V.L.Volkov, 
+#+          O.Ya.Shatrov, V.I.Furman, V.Yu.Konovalov
+#REF-CODE   (S,ISINN-7,287,1999)
+#REFERENCE  Report (proceedings) ISINN-7 page 287, 1999
+#DATASETS   0
+#
+#DATASET    41354005 
+#DATE       20091214
+#REACTION   92-U-234(N,G)92-U-235,,SIG,,AV
+#PROJ       1
+#TARG       92234
+#MF         3
+#MT         102
+#PRODUCT    92-U-235
+#C4BEGIN    [    1 92234   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92234   3 102    7.325000 2.675000 676.0000                                                G.V.Muradyan+        (99)41354  5 
+    1 92234   3 102    15.75000 5.750000 0.250000                                                G.V.Muradyan+        (99)41354  5 
+    1 92234   3 102    34.00000 12.50000 33.30000                                                G.V.Muradyan+        (99)41354  5 
+    1 92234   3 102    73.25000 26.75000 31.80000                                                G.V.Muradyan+        (99)41354  5 
+    1 92234   3 102    157.5000 57.50000 20.10000                                                G.V.Muradyan+        (99)41354  5 
+    1 92234   3 102    340.0000 125.0000 7.300000                                                G.V.Muradyan+        (99)41354  5 
+    1 92234   3 102    732.5000 267.5000 5.700000                                                G.V.Muradyan+        (99)41354  5 
+    1 92234   3 102    1575.000 575.0000 3.700000                                                G.V.Muradyan+        (99)41354  5 
+#/DATA      8
+#/DATASET

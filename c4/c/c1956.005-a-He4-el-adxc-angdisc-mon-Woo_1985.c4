@@ -1,0 +1,35 @@
+#ENTRY      C1956
+#AUTHOR1    L.W.Woo+
+#YEAR       1985
+#INSTITUTE  (1USAINU)
+#TITLE      Cross sections for He, Li, and Be isotopes produced
+#+          in the alpha+alpha reaction at 198.4 Mev
+#AUTHOR(S)  L.W.Woo, K.Kwiatkowski, S.H.Zhou, V.E.Viola
+#REF-CODE   (J,PR/C,32,706,1985)
+#REFERENCE  Phys.Rev.C 32 (1985) 706 (doi:10.1103/PhysRevC.32.706)
+#DATASETS   0
+#
+#DATASET    C1956005 
+#DATE       20121103
+#REACTION   2-HE-4(A,EL)2-HE-4,,DA
+#PROJ       2004
+#TARG       2004
+#MF         4
+#MT         2
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 2004  2004   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  2004   4   2  C 1.9840+8          1.350000 0.262000 0.985109                              L.W.Woo+             (85)C1956  5 
+ 2004  2004   4   2  C 1.9840+8          0.387000 0.040400 0.971134                              L.W.Woo+             (85)C1956  5 
+ 2004  2004   4   2  C 1.9840+8          0.101000 8.2400-3 0.952129                              L.W.Woo+             (85)C1956  5 
+ 2004  2004   4   2  C 1.9840+8          0.072700          0.927836                              L.W.Woo+             (85)C1956  5 
+ 2004  2004   4   2  C 1.9840+8          0.060700          0.898794                              L.W.Woo+             (85)C1956  5 
+ 2004  2004   4   2  C 1.9840+8          0.016700 1.2900-3 0.825113                              L.W.Woo+             (85)C1956  5 
+ 2004  2004   4   2  C 1.9840+8          2.0700-3 1.7700-4 0.738455                              L.W.Woo+             (85)C1956  5 
+ 2004  2004   4   2  C 1.9840+8          7.5700-4 1.4000-4 0.637424                              L.W.Woo+             (85)C1956  5 
+ 2004  2004   4   2  C 1.9840+8          1.4900-4 2.6500-5 0.523986                              L.W.Woo+             (85)C1956  5 
+ 2004  2004   4   2  C 1.9840+8          6.3900-5 1.8000-5 0.400349                              L.W.Woo+             (85)C1956  5 
+#/DATA      10
+#/DATASET

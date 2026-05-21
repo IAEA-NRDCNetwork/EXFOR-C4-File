@@ -1,0 +1,39 @@
+#ENTRY      D0041
+#AUTHOR1    A.Peetermans+
+#YEAR       1970
+#INSTITUTE  (2BLGLIE)
+#TITLE      Absolute measurement of the flux of monoenergetic
+#+          neutrons less than 100 keV
+#+          -(Li-7(p,n) angular distribution)-
+#AUTHOR(S)  A.Peetermans
+#REF-CODE   (T,PEETERMANS,1970)
+#REFERENCE  Thesis  (1970)
+#DATASETS   0
+#
+#DATASET    D0041002 
+#DATE       20060726
+#REACTION   3-LI-7(P,N)4-BE-7,,DA
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         4
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   4   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4   4 A  1950000.          0.059200          1.000000                              A.Peetermans         (70)D0041  2 
+ 1001  3007   4   4 A  2000000.          0.036400          1.000000                              A.Peetermans         (70)D0041  2 
+ 1001  3007   4   4 A  2050000.          0.026000          1.000000                              A.Peetermans         (70)D0041  2 
+ 1001  3007   4   4 A  2100000.          0.026500          1.000000                              A.Peetermans         (70)D0041  2 
+ 1001  3007   4   4 A  2150000.          0.041000          1.000000                              A.Peetermans         (70)D0041  2 
+ 1001  3007   4   4 A  2200000.          0.081000          1.000000                              A.Peetermans         (70)D0041  2 
+ 1001  3007   4   4 A  2230000.          0.118000          1.000000                              A.Peetermans         (70)D0041  2 
+ 1001  3007   4   4 A  2250000.          0.140000          1.000000                              A.Peetermans         (70)D0041  2 
+ 1001  3007   4   4 A  2270000.          0.153400          1.000000                              A.Peetermans         (70)D0041  2 
+ 1001  3007   4   4 A  2300000.          0.154000          1.000000                              A.Peetermans         (70)D0041  2 
+ 1001  3007   4   4 A  2350000.          0.131000          1.000000                              A.Peetermans         (70)D0041  2 
+ 1001  3007   4   4 A  2400000.          0.107500          1.000000                              A.Peetermans         (70)D0041  2 
+ 1001  3007   4   4 A  2450000.          0.091100          1.000000                              A.Peetermans         (70)D0041  2 
+#/DATA      13
+#/DATASET

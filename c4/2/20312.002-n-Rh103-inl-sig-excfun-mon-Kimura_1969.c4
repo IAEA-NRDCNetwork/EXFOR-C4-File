@@ -1,0 +1,40 @@
+#ENTRY      20312
+#AUTHOR1    I.Kimura+
+#YEAR       1969
+#INSTITUTE  (2JPNKTO)
+#TITLE      -MEASUREMENT OF CROSS SECTION FOR THE
+#+          RH-103(N,N')RH-103(METASTABLE) REACTION AND ITS
+#+          APPLICATION TO FAST NEUTRON FLUX MEASUREMENTS-
+#AUTHOR(S)  I.Kimura, K.Kobayashi, T.Shibata
+#REF-CODE   (J,NST,6,485,6909)
+#REFERENCE  J.Nucl.Sci.Technol. 6 (1969) 485 (doi:10.1080/18811248.1969.9732932)
+#DATASETS   0
+#
+#DATASET    20312002 
+#DATE       19860609
+#REACTION   45-RH-103(N,INL)45-RH-103-M,,SIG
+#PROJ       1
+#TARG       45103
+#MF         3
+#MT         4
+#PRODUCT    45-RH-103-M
+#C4BEGIN    [    1 45103   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 45103   3   4M   180000.0 75000.00 0.051000 5.0000-3                                       I.Kimura+            (69)20312  2 
+    1 45103   3   4M   280000.0 75000.00 0.057000 5.0000-3                                       I.Kimura+            (69)20312  2 
+    1 45103   3   4M   360000.0 75000.00 0.098000 8.0000-3                                       I.Kimura+            (69)20312  2 
+    1 45103   3   4M   480000.0 75000.00 0.148000 6.0000-3                                       I.Kimura+            (69)20312  2 
+    1 45103   3   4M   570000.0 75000.00 0.218000 0.013000                                       I.Kimura+            (69)20312  2 
+    1 45103   3   4M   580000.0 75000.00 0.179000 9.0000-3                                       I.Kimura+            (69)20312  2 
+    1 45103   3   4M   680000.0 75000.00 0.211000 0.010000                                       I.Kimura+            (69)20312  2 
+    1 45103   3   4M   770000.0 75000.00 0.265000 0.030000                                       I.Kimura+            (69)20312  2 
+    1 45103   3   4M   890000.0 75000.00 0.267000 0.030000                                       I.Kimura+            (69)20312  2 
+    1 45103   3   4M   1800000. 75000.00 0.688000 0.075000                                       I.Kimura+            (69)20312  2 
+    1 45103   3   4M   2200000. 75000.00 0.765000 0.092000                                       I.Kimura+            (69)20312  2 
+    1 45103   3   4M   2900000. 75000.00 0.968000 0.135000                                       I.Kimura+            (69)20312  2 
+    1 45103   3   4M   3800000. 75000.00 0.912000 0.109000                                       I.Kimura+            (69)20312  2 
+    1 45103   3   4M   4600000. 75000.00 0.863000 0.136000                                       I.Kimura+            (69)20312  2 
+#/DATA      14
+#/DATASET

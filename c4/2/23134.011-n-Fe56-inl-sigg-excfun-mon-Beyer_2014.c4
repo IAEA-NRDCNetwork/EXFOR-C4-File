@@ -1,0 +1,36 @@
+#ENTRY      23134
+#AUTHOR1    R.Beyer+
+#YEAR       2014
+#INSTITUTE  (2GERZFK)
+#TITLE      Inelastic scattering of fast neutrons from excited
+#+          states in 56Fe.
+#AUTHOR(S)  R.Beyer, R.Schwengner, R.Hannaske, A.R.Junghans, R.Massarczyk, 
+#+          M.Anders, D.Bemmerer, A.Ferrari, A.Hartmann, T.Koegler, 
+#+          M.Roeder, K.Schmidt, A.Wagner
+#REF-CODE   (J,NP/A,927,41,2014)
+#REFERENCE  Nucl.Phys.A 927 (2014) 41 (doi:10.1016/j.nuclphysa.2014.03.010)
+#DATASETS   0
+#
+#DATASET    23134011 
+#DATE       20160628
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,SIG,G
+#PROJ       1
+#TARG       26056
+#MF         13
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056  13  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056  13  51 A  3498000.          0.024000 3.0000-3                   2523000.            R.Beyer+             (14)23134 11 
+    1 26056  13  51 A  3870000.          0.056000 6.0000-3                   2523000.            R.Beyer+             (14)23134 11 
+    1 26056  13  51 A  4305000.          0.066000 7.0000-3                   2523000.            R.Beyer+             (14)23134 11 
+    1 26056  13  51 A  4818000.          0.064000 6.0000-3                   2523000.            R.Beyer+             (14)23134 11 
+    1 26056  13  51 A  5428000.          0.100000 8.0000-3                   2523000.            R.Beyer+             (14)23134 11 
+    1 26056  13  51 A  6163000.          0.106000 0.013000                   2523000.            R.Beyer+             (14)23134 11 
+    1 26056  13  51 A  7060000.          0.048000 8.0000-3                   2523000.            R.Beyer+             (14)23134 11 
+    1 26056  13  51 A  8168000.          0.086000 0.017000                   2523000.            R.Beyer+             (14)23134 11 
+    1 26056  13  51 A  9562000.          0.038000 8.0000-3                   2523000.            R.Beyer+             (14)23134 11 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,47 @@
+#ENTRY      E1935
+#AUTHOR1    F.Szelecsenyi+
+#YEAR       2005
+#INSTITUTE  (3HUNDEB)
+#TITLE      New cross-section data for the 66Zn(p,n)66Ga,
+#+          68Zn(p,3n)66Ga, natZn(p,x)66Ga, 68Zn(p,2n)67Ga and
+#+          natZn(p,x)67Ga nuclear reactions up to 100 MeV
+#AUTHOR(S)  F.Szelecsenyi, G.F.Steyn, Z.Kovacs, T.N.van der Walt, K.Suzuki, 
+#+          K.Okada, K.Mukai
+#REF-CODE   (J,NIM/B,234,(4),375,200507)
+#REFERENCE  Nucl.Instrum.Meth.B 234 No.4 (2005) 375 (doi:10.1016/j.nimb.2005.02.011)
+#DATASETS   0
+#
+#DATASET    E1935006 
+#DATE       20060411
+#REACTION   30-ZN-68(P,2N)31-GA-67,,SIG
+#PROJ       1001
+#TARG       30068
+#MF         3
+#MT         16
+#PRODUCT    31-GA-67
+#C4BEGIN    [ 1001 30068   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30068   3  16    2.4780+7 2190000. 0.632560 0.068720                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    3.1240+7 1940000. 0.239730 0.026050                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    3.6860+7 1710000. 0.105130 0.011450                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    4.1910+7 1510000. 0.069320 7.5600-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    4.6550+7 1320000. 0.056080 6.1200-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    5.0910+7 1150000. 0.051280 5.5800-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    5.5030+7 980000.0 0.046550 5.0600-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    5.9000+7 830000.0 0.040250 4.3800-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    6.1770+7 2430000. 0.043610 4.7600-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    6.2860+7 670000.0 0.037670 4.1000-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    6.6560+7 520000.0 0.035180 3.8300-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    6.6600+7 2520000. 0.036420 3.9800-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    7.1220+7 2080000. 0.035660 3.8900-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    7.5610+7 1910000. 0.029280 3.2000-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    7.9830+7 1760000. 0.028910 3.1600-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    8.3930+7 1600000. 0.028630 3.1200-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    8.7870+7 1450000. 0.026960 2.9400-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    9.1740+7 1310000. 0.025200 2.7500-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    9.5550+7 1170000. 0.023570 2.5700-3                                       F.Szelecsenyi+       (05)E1935  6 
+ 1001 30068   3  16    9.9260+7 1030000. 0.024870 2.7100-3                                       F.Szelecsenyi+       (05)E1935  6 
+#/DATA      20
+#/DATASET

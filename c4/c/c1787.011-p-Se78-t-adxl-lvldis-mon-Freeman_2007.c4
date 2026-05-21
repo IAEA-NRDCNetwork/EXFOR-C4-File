@@ -1,0 +1,28 @@
+#ENTRY      C1787
+#AUTHOR1    S.J.Freeman+
+#YEAR       2007
+#INSTITUTE  (2UK MAN)
+#TITLE      Pair correlations in nuclei involved in neutrinoless
+#+          double beta decay: 76Ge and 76Se.
+#AUTHOR(S)  S.J.Freeman, J.P.Schiffer, A.C.C.Villari, J.A.Clark, C.Deibel, 
+#+          S.Gros, A.Heinz, D.Hirata, C.L.Jiang, B.P.Kay, A.Parikh, 
+#+          P.D.Parker, J.Qian, K.E.Rehm, X.D.Tang, V.Werner, C.Wrede
+#REF-CODE   (J,PR/C,75,051301,2007)
+#REFERENCE  Phys.Rev.C 75 (2007) 051301 (doi:10.1103/PhysRevC.75.051301)
+#DATASETS   0
+#
+#DATASET    C1787011 
+#DATE       20100308
+#REACTION   34-SE-78(P,T)34-SE-76,PAR,DA
+#PROJ       1001
+#TARG       34078
+#MF         4
+#MT         700
+#PRODUCT    34-SE-76
+#C4BEGIN    [ 1001 34078   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 34078   4 700    2.3000+7          7.1000-3 7.1000-4 0.998630          0.000000         LVLS.J.Freeman+         (07)C1787 11 
+#/DATA      1
+#/DATASET

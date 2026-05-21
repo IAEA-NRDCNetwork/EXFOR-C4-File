@@ -1,0 +1,31 @@
+#ENTRY      40037
+#AUTHOR1    O.A.Salnikov+
+#YEAR       1971
+#INSTITUTE  (4RUSFEI)
+#TITLE      Differential cross sections of inelastic scattering
+#+          neutrons on nuclei Cr,Mn,Fe,Co,Ni,Cu,Y,Zr,Nb,W,Bi
+#AUTHOR(S)  O.A.Salnikov, G.N.Lovchikova, G.V.Kotelnikova, A.M.Trufanov, 
+#+          N.I.Fetisov
+#REF-CODE   (R,YK-7,102,197103)
+#REFERENCE  Report YK-7 page 102, 1971
+#DATASETS   0
+#
+#DATASET    40037045 
+#DATE       20060324
+#REACTION   41-NB-93(N,INL)41-NB-93,PAR,DA
+#PROJ       1
+#TARG       41093
+#MF         4
+#MT         51
+#PRODUCT    41-NB-93
+#C4BEGIN    [    1 41093   4  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093   4  51 D  1.4360+7 140000.0 7.5000-3 1.1000-3 0.857167 0.071913 5900000. 530000.0 E2O.A.Salnikov+        (71)40037 45 
+    1 41093   4  51 D  1.4360+7 140000.0 6.4000-3 9.0000-4 0.484810 0.122120 5900000. 530000.0 E2O.A.Salnikov+        (71)40037 45 
+    1 41093   4  51 D  1.4360+7 140000.0 5.7000-3 8.0000-4-0.017452 0.139605 5900000. 530000.0 E2O.A.Salnikov+        (71)40037 45 
+    1 41093   4  51 D  1.4360+7 140000.0 4.6000-3 8.0000-4-0.515038 0.119683 5900000. 530000.0 E2O.A.Salnikov+        (71)40037 45 
+    1 41093   4  51 D  1.4360+7 140000.0 4.3000-3 7.0000-4-0.874620 0.067692 5900000. 530000.0 E2O.A.Salnikov+        (71)40037 45 
+#/DATA      5
+#/DATASET

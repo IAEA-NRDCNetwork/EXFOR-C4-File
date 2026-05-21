@@ -1,0 +1,39 @@
+#ENTRY      22917
+#AUTHOR1    K.Wisshak+
+#YEAR       2006
+#INSTITUTE  (2GERKFK)
+#TITLE      .Stellar neutron capture cross sections of the Lu-
+#+          isotopes.
+#AUTHOR(S)  K.Wisshak, F.Voss, F.Kaeppeler, L.Kazakov
+#REF-CODE   (J,PR/C,73,015807,2006)
+#REFERENCE  Phys.Rev.C 73 (2006) 015807 (doi:10.1103/PhysRevC.73.015807)
+#DATASETS   0
+#
+#DATASET    22917010 
+#DATE       20160503
+#REACTION   71-LU-175(N,G)71-LU-176,,SIG,,MXW
+#PROJ       1
+#TARG       71175
+#MF         3
+#MT         102
+#PRODUCT    71-LU-176
+#C4BEGIN    [    1 71175   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 71175   3 102 D  8000.000          2.661000 0.045000                                       K.Wisshak+           (06)22917 10 
+    1 71175   3 102 D  10000.00          2.309000 0.033000                                       K.Wisshak+           (06)22917 10 
+    1 71175   3 102 D  15000.00          1.802000 0.020000                                       K.Wisshak+           (06)22917 10 
+    1 71175   3 102 D  20000.00          1.525000 0.015000                                       K.Wisshak+           (06)22917 10 
+    1 71175   3 102 D  25000.00          1.346000 0.012000                                       K.Wisshak+           (06)22917 10 
+    1 71175   3 102 D  30000.00          1.219000 0.010000                                       K.Wisshak+           (06)22917 10 
+    1 71175   3 102 D  40000.00          1.043000 8.0000-3                                       K.Wisshak+           (06)22917 10 
+    1 71175   3 102 D  50000.00          0.924000 7.0000-3                                       K.Wisshak+           (06)22917 10 
+    1 71175   3 102 D  52000.00          0.904000 7.0000-3                                       K.Wisshak+           (06)22917 10 
+    1 71175   3 102 D  60000.00          0.834000 6.0000-3                                       K.Wisshak+           (06)22917 10 
+    1 71175   3 102 D  70000.00          0.761000 6.0000-3                                       K.Wisshak+           (06)22917 10 
+    1 71175   3 102 D  80000.00          0.701000 6.0000-3                                       K.Wisshak+           (06)22917 10 
+    1 71175   3 102 D  90000.00          0.649000 6.0000-3                                       K.Wisshak+           (06)22917 10 
+    1 71175   3 102 D  100000.0          0.604000 6.0000-3                                       K.Wisshak+           (06)22917 10 
+#/DATA      14
+#/DATASET

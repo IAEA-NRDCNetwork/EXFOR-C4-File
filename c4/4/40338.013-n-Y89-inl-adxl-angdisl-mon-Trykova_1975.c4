@@ -1,0 +1,30 @@
+#ENTRY      40338
+#AUTHOR1    V.I.Trykova+
+#YEAR       1975
+#INSTITUTE  (4RUSFEI)
+#TITLE      Differential cross-section of elastic and inelastic
+#+          neutron scattering on  Be, Al, V, Zr, Mo and Bi
+#AUTHOR(S)  V.I.Trykova, V.Ja.Baryba
+#REF-CODE   (R,YK-19,66,1975)
+#REFERENCE  Report YK-19 page 66, 1975
+#DATASETS   0
+#
+#DATASET    40338013 
+#DATE       20200317
+#REACTION   39-Y-89(N,INL)39-Y-89,PAR,DA
+#PROJ       1
+#TARG       39089
+#MF         4
+#MT         51
+#PRODUCT    39-Y-89
+#C4BEGIN    [    1 39089   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 39089   4  51    4370000. 130000.0 0.144000 0.026000 0.866025 0.078540 2150000. 1650000. E2V.I.Trykova+         (75)40338 13 
+    1 39089   4  51    4370000. 130000.0 0.107000 0.016000 0.500000 0.136035 2150000. 1650000. E2V.I.Trykova+         (75)40338 13 
+    1 39089   4  51    4370000. 130000.0 0.111000 0.014000 6.123-17 0.157080 2150000. 1650000. E2V.I.Trykova+         (75)40338 13 
+    1 39089   4  51    4370000. 130000.0 0.142000 0.020000-0.500000 0.136035 2150000. 1650000. E2V.I.Trykova+         (75)40338 13 
+    1 39089   4  51    4370000. 130000.0 0.133000 0.019000-0.866025 0.078540 2150000. 1650000. E2V.I.Trykova+         (75)40338 13 
+#/DATA      5
+#/DATASET

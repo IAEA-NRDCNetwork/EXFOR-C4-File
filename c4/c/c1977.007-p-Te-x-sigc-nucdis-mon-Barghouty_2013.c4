@@ -1,0 +1,40 @@
+#ENTRY      C1977
+#AUTHOR1    A.F.Barghouty+
+#YEAR       2013
+#INSTITUTE  (2ITYMIL)
+#TITLE      Measurements of proton-induced radionuclide
+#+          production cross sections to evaluate cosmic-ray
+#+          activation of tellurium
+#AUTHOR(S)  A.F.Barghouty, C.Brofferio, S.Capelli, M.Clemenza, O.Cremonesi, 
+#+          S.Cebrian, E.Fiorini, R.C.Haight, E.B.Norman, M.Pavan, E.Previtali, 
+#+          B.J.Quiter, M.Sisti, A.R.Smith, S.A.Wender
+#REF-CODE   (J,NIM/B,295,16,2013)
+#REFERENCE  Nucl.Instrum.Meth.B 295 (2013) 16 (doi:10.1016/j.nimb.2012.10.008)
+#DATASETS   0
+#
+#DATASET    C1977007 
+#DATE       20130201
+#REACTION   52-TE-0(P,X)ELEM/MASS,CUM,SIG
+#PROJ       1001
+#TARG       52000
+#MF         3
+#MT         459
+#C4BEGIN    [ 1001 52000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 52000   3 459    2.300+10          0.024000 5.0000-3           23048.9                     A.F.Barghouty+       (13)C1977  7 
+ 1001 52000   3 459    2.300+10          7.4000-4 1.7000-4           26059.9                     A.F.Barghouty+       (13)C1977  7 
+ 1001 52000   3 459    2.300+10          1.8000-4 3.0000-5           27056.9                     A.F.Barghouty+       (13)C1977  7 
+ 1001 52000   3 459    2.300+10          8.7000-4 9.0000-5           27057.9                     A.F.Barghouty+       (13)C1977  7 
+ 1001 52000   3 459    2.300+10          1.8000-3 2.0000-4           30065.9                     A.F.Barghouty+       (13)C1977  7 
+ 1001 52000   3 459    2.300+10          3.1000-3 3.0000-4           34075.9                     A.F.Barghouty+       (13)C1977  7 
+ 1001 52000   3 459    2.300+10          5.3000-3 8.0000-4           37083.9                     A.F.Barghouty+       (13)C1977  7 
+ 1001 52000   3 459    2.300+10          5.4000-3 9.0000-4           38085.9                     A.F.Barghouty+       (13)C1977  7 
+ 1001 52000   3 459    2.300+10          4.2000-3 6.0000-4           39088.9                     A.F.Barghouty+       (13)C1977  7 
+ 1001 52000   3 459    2.300+10          2.8000-3 6.0000-4           40088.9                     A.F.Barghouty+       (13)C1977  7 
+ 1001 52000   3 459    2.300+10          1.5000-3 5.0000-4           41095.9                     A.F.Barghouty+       (13)C1977  7 
+ 1001 52000   3 459    2.300+10          0.019000 3.0000-3           44103.9                     A.F.Barghouty+       (13)C1977  7 
+ 1001 52000   3 459    2.300+10          3.7000-3 1.0000-3           47105.9                     A.F.Barghouty+       (13)C1977  7 
+#/DATA      13
+#/DATASET

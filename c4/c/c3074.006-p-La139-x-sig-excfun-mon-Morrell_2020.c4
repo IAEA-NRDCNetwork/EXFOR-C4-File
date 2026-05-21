@@ -1,0 +1,35 @@
+#ENTRY      C3074
+#AUTHOR1    J.T.Morrell+
+#YEAR       2020
+#INSTITUTE  (1USAUCX)
+#TITLE      Measurement of 139La(p,x) cross sections from 35-60
+#+          MeV by stacked-target activation
+#AUTHOR(S)  J.T.Morrell, A.S.Voyles, M.S.Basunia, J.C.Batchelder, E.F.Matthews, 
+#+          L.A.Bernstein
+#REF-CODE   (J,EPJ/A,56,13,2020)
+#REFERENCE  Eur.Phys.J.A 56 (2020) 13 (doi:10.1140/epja/s10050-019-00010-0)
+#DATASETS   0
+#
+#DATASET    C3074006 
+#DATE       20250710
+#REACTION   57-LA-139(P,X)58-CE-139,,SIG
+#PROJ       1001
+#TARG       57139
+#MF         3
+#MT         454
+#PRODUCT    58-CE-139
+#C4BEGIN    [ 1001 57139   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 57139   3 454 A  5.6070+7 310000.0 0.018900 1.2000-3           58139.9                     J.T.Morrell+         (20)C3074  6 
+ 1001 57139   3 454 A  5.4420+7 320000.0 0.019100 1.9000-3           58139.9                     J.T.Morrell+         (20)C3074  6 
+ 1001 57139   3 454 A  5.0990+7 330000.0 0.020800 1.7000-3           58139.9                     J.T.Morrell+         (20)C3074  6 
+ 1001 57139   3 454 A  4.9210+7 340000.0 0.017600 1.6000-3           58139.9                     J.T.Morrell+         (20)C3074  6 
+ 1001 57139   3 454 A  4.7380+7 350000.0 0.019800 1.7000-3           58139.9                     J.T.Morrell+         (20)C3074  6 
+ 1001 57139   3 454 A  4.4800+7 370000.0 0.023900 1.1000-3           58139.9                     J.T.Morrell+         (20)C3074  6 
+ 1001 57139   3 454 A  4.2090+7 390000.0 0.023290 7.8000-4           58139.9                     J.T.Morrell+         (20)C3074  6 
+ 1001 57139   3 454 A  3.9250+7 410000.0 0.031700 1.6000-3           58139.9                     J.T.Morrell+         (20)C3074  6 
+ 1001 57139   3 454 A  3.6230+7 440000.0 0.029900 1.1000-3           58139.9                     J.T.Morrell+         (20)C3074  6 
+#/DATA      9
+#/DATASET

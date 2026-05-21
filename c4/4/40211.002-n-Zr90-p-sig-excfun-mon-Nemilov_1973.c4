@@ -1,0 +1,28 @@
+#ENTRY      40211
+#AUTHOR1    Yu.A.Nemilov+
+#YEAR       1973
+#INSTITUTE  (4RUSRI)
+#TITLE      Cross section of the Zr-90(n,p)Y-90 Reaction
+#AUTHOR(S)  Yu.A.Nemilov, Yu.N.Trofimov
+#REF-CODE   (R,YK-12,(1),61,1973)
+#REFERENCE  Report YK-12 Vol.(1) page 61, 1973
+#DATASETS   0
+#
+#DATASET    40211002 
+#DATE       20210830
+#REACTION   40-ZR-90(N,P)39-Y-90,,SIG
+#PROJ       1
+#TARG       40090
+#MF         3
+#MT         103
+#PRODUCT    39-Y-90
+#C4BEGIN    [    1 40090   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   3 103    7600000. 300000.0 0.016000 2.0000-3                                       Yu.A.Nemilov+        (73)40211  2 
+    1 40090   3 103    8300000. 300000.0 0.033000 4.0000-3                                       Yu.A.Nemilov+        (73)40211  2 
+    1 40090   3 103    8800000. 300000.0 0.022000 3.0000-3                                       Yu.A.Nemilov+        (73)40211  2 
+    1 40090   3 103    9300000. 300000.0 0.024000 3.0000-3                                       Yu.A.Nemilov+        (73)40211  2 
+#/DATA      4
+#/DATASET

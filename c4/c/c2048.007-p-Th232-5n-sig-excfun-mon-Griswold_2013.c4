@@ -1,0 +1,36 @@
+#ENTRY      C2048
+#AUTHOR1    J.R.Griswold+
+#YEAR       2013
+#INSTITUTE  (1USAORL)
+#TITLE      Production of 229Th for medical applications:
+#+          Excitation functions of low-energy protons on 232Th
+#+          targets
+#AUTHOR(S)  J.R.Griswold, C.U.Jost, D.W.Stracener, S.H.Bruffey, D.Denton, 
+#+          M.Garland, L.Heilbronn, S.Mirzadeh, C.L.Williams
+#REF-CODE   (S,AIP-1525,520,2013)
+#REFERENCE  Report (proceedings) AIP-1525 page 520, 2013
+#DATASETS   0
+#
+#DATASET    C2048007 
+#DATE       20210218
+#REACTION   90-TH-232(P,5N)91-PA-228,,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         152
+#PRODUCT    91-PA-228
+#C4BEGIN    [ 1001 90232   3 152  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3 152    2.5000+7 400000.0 2.3000-3 5.0000-4                                       J.R.Griswold+        (13)C2048  7 
+ 1001 90232   3 152    2.7200+7 500000.0 3.7000-3 3.0000-4                                       J.R.Griswold+        (13)C2048  7 
+ 1001 90232   3 152    2.9600+7 500000.0 3.8000-3 3.0000-4                                       J.R.Griswold+        (13)C2048  7 
+ 1001 90232   3 152    2.9800+7 200000.0 3.9000-3 5.0000-4                                       J.R.Griswold+        (13)C2048  7 
+ 1001 90232   3 152    3.1900+7 400000.0 0.013000 9.0000-4                                       J.R.Griswold+        (13)C2048  7 
+ 1001 90232   3 152    3.4000+7 500000.0 0.034600 2.4000-3                                       J.R.Griswold+        (13)C2048  7 
+ 1001 90232   3 152    3.6000+7 300000.0 0.060300 4.1000-3                                       J.R.Griswold+        (13)C2048  7 
+ 1001 90232   3 152    3.8000+7 300000.0 0.078800 5.4000-3                                       J.R.Griswold+        (13)C2048  7 
+ 1001 90232   3 152    3.9900+7 200000.0 0.066900 4.6000-3                                       J.R.Griswold+        (13)C2048  7 
+#/DATA      9
+#/DATASET

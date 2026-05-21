@@ -1,0 +1,28 @@
+#ENTRY      41110
+#AUTHOR1    G.S.Boikov+
+#YEAR       1991
+#INSTITUTE  (4RUSFEI)
+#TITLE      Spectrum of neutron accompanying fission of 232Th,
+#+          235U, and 238U by 2.9-MeV and 14.7-MeV neutrons (below
+#+          and above the threshold of emission fission)
+#AUTHOR(S)  G.S.Boikov, V.D.Dmitriev, G.A.Kudyaev, Yu.B.Ostapenko, M.I.Svirin, 
+#+          G.N.Smirenkin
+#REF-CODE   (J,YF,53,628,1991)
+#REFERENCE  Yad.Fiz. 53 (1991) 628
+#DATASETS   0
+#
+#DATASET    411100052
+#DATE       20210126
+#REACTION   90-TH-232(N,F),PR,NU
+#PROJ       1
+#TARG       90232
+#MF         1
+#MT         456
+#C4BEGIN    [    1 90232   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   1 456    2900000.          2.310000 0.060000                                       G.S.Boikov+          (91)41110  52
+    1 90232   1 456    1.4700+7          4.040000 0.120000                                       G.S.Boikov+          (91)41110  52
+#/DATA      2
+#/DATASET

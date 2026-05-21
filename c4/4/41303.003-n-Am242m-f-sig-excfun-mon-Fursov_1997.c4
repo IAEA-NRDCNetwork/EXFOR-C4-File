@@ -1,0 +1,32 @@
+#ENTRY      41303
+#AUTHOR1    B.I.Fursov+
+#YEAR       1997
+#INSTITUTE  (4RUSFEI)
+#TITLE      Fission cross sections measurements for some minor
+#+          actinides
+#AUTHOR(S)  B.I.Fursov, B.F.Samylin, V.S.Shorin, S.A.Badikov, M.I.Svirin, 
+#+          E.Yu.Baranov, E.S.Lavrov, V.I.Mil'shin, V.B.Pavlovich, S.V.Pupko, 
+#+          u.M.Turchin, V.N.Polynov
+#REF-CODE   (C,97TRIEST,1,488,199705)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 488
+#DATASETS   0
+#
+#DATASET    41303003 
+#DATE       20071022
+#REACTION   95-AM-242-M(N,F),,SIG
+#PROJ       1
+#TARG       95242
+#MF         3
+#MT         18
+#C4BEGIN    [    1 95242M  3  18 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95242M  3  18 P  130000.0 27000.00 2.730000 0.035000                                       B.I.Fursov+          (97)41303  3 
+    1 95242M  3  18 P  500000.0 26000.00 2.108000 0.032000                                       B.I.Fursov+          (97)41303  3 
+    1 95242M  3  18 P  1000000. 35000.00 1.842000 0.040000                                       B.I.Fursov+          (97)41303  3 
+    1 95242M  3  18 P  4000000. 72000.00 1.805000 0.027000                                       B.I.Fursov+          (97)41303  3 
+    1 95242M  3  18 P  5000000. 76000.00 1.701000 0.026000                                       B.I.Fursov+          (97)41303  3 
+    1 95242M  3  18 P  1.5000+7 235000.0 2.432000 0.044000                                       B.I.Fursov+          (97)41303  3 
+#/DATA      6
+#/DATASET

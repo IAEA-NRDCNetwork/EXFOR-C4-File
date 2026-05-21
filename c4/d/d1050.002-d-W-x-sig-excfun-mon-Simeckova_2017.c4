@@ -1,0 +1,28 @@
+#ENTRY      D1050
+#AUTHOR1    E.Simeckova+
+#YEAR       2017
+#INSTITUTE  (3CZRUJF)
+#TITLE      The activation of W and Zr by deuterons at energies up
+#+          to 20 MeV
+#AUTHOR(S)  E.Simeckova, M.Stefanik, P.Bem, J.Mrazek, J.Novak
+#REF-CODE   (J,EPJ/CS,146,11049,2017)
+#REFERENCE  EPJ Web Conf. 146 (2017) 11049 (doi:10.1051/epjconf/201714611049)
+#DATASETS   0
+#
+#DATASET    D1050002 
+#DATE       20231030
+#REACTION   74-W-0(D,X)75-RE-179,,SIG
+#PROJ       1002
+#TARG       74000
+#MF         3
+#MT         454
+#PRODUCT    75-RE-179
+#C4BEGIN    [ 1002 74000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 74000   3 454    1.6700+7 500000.0 1.2230-4 3.1610-5           75179.9                     E.Simeckova+         (17)D1050  2 
+ 1002 74000   3 454    1.8200+7 500000.0 3.3300-4 3.1890-5           75179.9                     E.Simeckova+         (17)D1050  2 
+ 1002 74000   3 454    1.9600+7 500000.0 6.3080-4                    75179.9                     E.Simeckova+         (17)D1050  2 
+#/DATA      3
+#/DATASET

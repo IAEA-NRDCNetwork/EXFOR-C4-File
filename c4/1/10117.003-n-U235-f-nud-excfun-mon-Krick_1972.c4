@@ -1,0 +1,33 @@
+#ENTRY      10117
+#AUTHOR1    M.S.Krick+
+#YEAR       1972
+#INSTITUTE  (1USALAS)
+#TITLE      The Measurement of Total Delayed-Neutron Yields as a
+#+          Function of the Energy of the Neutron Inducing Fission
+#AUTHOR(S)  M.S.Krick, A.E.Evans
+#REF-CODE   (J,NSE,47,311,197203)
+#REFERENCE  Nucl.Sci.Eng. 47 (1972) 311 (doi:10.13182/NSE72-A22417)
+#DATASETS   0
+#
+#DATASET    10117003 
+#DATE       19980814
+#REACTION   92-U-235(N,F),DL,NU
+#PROJ       1
+#TARG       92235
+#MF         1
+#MT         455
+#C4BEGIN    [    1 92235   1 455  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   1 455    4000000.          0.015300 1.5000-3                                       M.S.Krick+           (72)10117  3 
+    1 92235   1 455    4400000.          0.014600 1.5000-3                                       M.S.Krick+           (72)10117  3 
+    1 92235   1 455    4800000.          0.015100 1.4000-3                                       M.S.Krick+           (72)10117  3 
+    1 92235   1 455    5100000.          0.013600 1.4000-3                                       M.S.Krick+           (72)10117  3 
+    1 92235   1 455    5500000.          0.012500 1.3000-3                                       M.S.Krick+           (72)10117  3 
+    1 92235   1 455    5700000.          0.011100 1.3000-3                                       M.S.Krick+           (72)10117  3 
+    1 92235   1 455    6000000.          0.012300 1.3000-3                                       M.S.Krick+           (72)10117  3 
+    1 92235   1 455    6400000.          0.010200 1.2000-3                                       M.S.Krick+           (72)10117  3 
+    1 92235   1 455    6700000.          0.010500 1.2000-3                                       M.S.Krick+           (72)10117  3 
+#/DATA      9
+#/DATASET

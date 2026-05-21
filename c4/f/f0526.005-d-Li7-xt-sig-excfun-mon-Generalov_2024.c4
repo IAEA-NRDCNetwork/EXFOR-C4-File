@@ -1,0 +1,38 @@
+#ENTRY      F0526
+#AUTHOR1    S.N.Abramovich+
+#YEAR       2024
+#INSTITUTE  (4RUSEPA)
+#TITLE      Measurements of cross sections for the reactions
+#+          6,7Li(d,t) with radiochemical methods
+#AUTHOR(S)  S.N.Abramovich, L.N.Generalov, A.G.Zvenigorodskii
+#REF-CODE   (J,BAS,88,1342,2024)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 88 (2024) 1342 (doi:10.1134/S1062873824707530)
+#DATASETS   0
+#
+#DATASET    F0526005 
+#DATE       20250122
+#REACTION   3-LI-7(D,X)1-H-3,,SIG
+#PROJ       1002
+#TARG       3007
+#MF         3
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002  3007   3 205 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3007   3 205 A  1700000.          0.024254 3.9179-3                                       L.N.Generalov+       (24)F0526  5 
+ 1002  3007   3 205 A  2100000.          0.060634 7.9291-3                                       L.N.Generalov+       (24)F0526  5 
+ 1002  3007   3 205 A  3000000.          0.105410 0.014925                                       L.N.Generalov+       (24)F0526  5 
+ 1002  3007   3 205 A  3700000.          0.107276 0.014925                                       L.N.Generalov+       (24)F0526  5 
+ 1002  3007   3 205 A  3900000.          0.200560 0.026119                                       L.N.Generalov+       (24)F0526  5 
+ 1002  3007   3 205 A  4400000.          0.195896 0.023321                                       L.N.Generalov+       (24)F0526  5 
+ 1002  3007   3 205 A  4900000.          0.251866 0.029851                                       L.N.Generalov+       (24)F0526  5 
+ 1002  3007   3 205 A  5500000.          0.213619 0.011194                                       L.N.Generalov+       (24)F0526  5 
+ 1002  3007   3 205 A  5600000.          0.236007 0.046642                                       L.N.Generalov+       (24)F0526  5 
+ 1002  3007   3 205 A  5800000.          0.243470 0.021455                                       L.N.Generalov+       (24)F0526  5 
+ 1002  3007   3 205 A  6000000.          0.172575 0.030784                                       L.N.Generalov+       (24)F0526  5 
+ 1002  3007   3 205 A  6700000.          0.261194 0.052239                                       L.N.Generalov+       (24)F0526  5 
+ 1002  3007   3 205 A  7300000.          0.291045 0.072761                                       L.N.Generalov+       (24)F0526  5 
+#/DATA      13
+#/DATASET

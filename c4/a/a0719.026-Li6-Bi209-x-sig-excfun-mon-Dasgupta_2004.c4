@@ -1,0 +1,37 @@
+#ENTRY      A0719
+#AUTHOR1    M.Dasgupta+
+#YEAR       2004
+#INSTITUTE  (3AULCBR)
+#TITLE      Effect of breakup on the fusion of 6-Li, 7-Li, and 9-Be
+#+          with heavy nuclei
+#AUTHOR(S)  M.Dasgupta, P.R.S.Gomes, D.J.Hinde, S.B.Moraes, R.M.Anjos, 
+#+          A.C.Berriman, R.D.Butt, N.Carlin, J.Lubian, C.R.Morton, 
+#+          J.O.Newton, A.Szanto de Toledo
+#REF-CODE   (J,PR/C,70,024606,2004)
+#REFERENCE  Phys.Rev.C 70 (2004) 024606 (doi:10.1103/PhysRevC.70.024606)
+#DATASETS   0
+#
+#DATASET    A0719026 
+#DATE       20250728
+#REACTION   83-BI-209(3-LI-6,X)84-PO-210,,SIG
+#PROJ       3006
+#TARG       83209
+#MF         3
+#MT         454
+#PRODUCT    84-PO-210
+#C4BEGIN    [ 3006 83209   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 83209   3 454    2.9919+7          0.061200 7.5000-3           84210.9                     M.Dasgupta+          (04)A0719 26 
+ 3006 83209   3 454    3.0907+7          0.063000 0.010000           84210.9                     M.Dasgupta+          (04)A0719 26 
+ 3006 83209   3 454    3.1874+7          0.065000 0.010000           84210.9                     M.Dasgupta+          (04)A0719 26 
+ 3006 83209   3 454    3.2924+7          0.066500 0.010000           84210.9                     M.Dasgupta+          (04)A0719 26 
+ 3006 83209   3 454    3.3911+7          0.068600 8.7000-3           84210.9                     M.Dasgupta+          (04)A0719 26 
+ 3006 83209   3 454    3.5928+7          0.070500 0.010000           84210.9                     M.Dasgupta+          (04)A0719 26 
+ 3006 83209   3 454    3.7924+7          0.072600 8.7000-3           84210.9                     M.Dasgupta+          (04)A0719 26 
+ 3006 83209   3 454    3.9931+7          0.084000 0.010000           84210.9                     M.Dasgupta+          (04)A0719 26 
+ 3006 83209   3 454    4.3934+7          0.105000 0.023000           84210.9                     M.Dasgupta+          (04)A0719 26 
+ 3006 83209   3 454    4.7926+7          0.336000 0.022000           84210.9                     M.Dasgupta+          (04)A0719 26 
+#/DATA      10
+#/DATASET

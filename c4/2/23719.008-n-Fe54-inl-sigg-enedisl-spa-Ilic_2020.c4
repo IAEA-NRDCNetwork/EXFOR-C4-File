@@ -1,0 +1,35 @@
+#ENTRY      23719
+#AUTHOR1    Z.Ilic+
+#YEAR       2020
+#INSTITUTE  (2GERJUL)
+#TITLE      Prompt gamma rays induced by inelastic scattering of
+#+          fission neutrons on iron
+#AUTHOR(S)  Z.Ilic, E.Mauerhofer, C.Stieghorst, Z.Revay, M.Rossbach, 
+#+          T.H.Randriamalala, T.Bruckel
+#REF-CODE   (J,JRN,325,641,2020)
+#REFERENCE  J.Rad.Nucl.Chem. 325 (2020) 641 (doi:10.1007/s10967-020-07271-w)
+#DATASETS   0
+#
+#DATASET    23719008 
+#DATE       20200817
+#REACTION   26-FE-54(N,INL)26-FE-54,PAR,SIG,G,SPA
+#PROJ       1
+#TARG       26054
+#MF         13
+#MT         51
+#PRODUCT    26-FE-54
+#C4BEGIN    [    1 26054  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26054  13  51    1000000.          6.0000-3 1.0000-3                   757600.0            Z.Ilic+              (20)23719  8 
+    1 26054  13  51    1000000.          0.034000 3.0000-3                   1130460.            Z.Ilic+              (20)23719  8 
+    1 26054  13  51    1000000.          0.013000 1.0000-3                   1153180.            Z.Ilic+              (20)23719  8 
+    1 26054  13  51    1000000.          0.321000 0.022000                   1408320.            Z.Ilic+              (20)23719  8 
+    1 26054  13  51    1000000.          4.9000-4 9.0000-5                   1509700.            Z.Ilic+              (20)23719  8 
+    1 26054  13  51    1000000.          0.014000 3.0000-3                   1550470.            Z.Ilic+              (20)23719  8 
+    1 26054  13  51    1000000.          9.0000-3 1.0000-3                   1937000.            Z.Ilic+              (20)23719  8 
+    1 26054  13  51    1000000.          6.0000-3 1.0000-3                   3095400.            Z.Ilic+              (20)23719  8 
+    1 26054  13  51    1000000.          0.012000 2.0000-3                   3166600.            Z.Ilic+              (20)23719  8 
+#/DATA      9
+#/DATASET

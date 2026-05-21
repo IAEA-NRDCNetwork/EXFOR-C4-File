@@ -1,0 +1,35 @@
+#ENTRY      E2252
+#AUTHOR1    A.Uchida+
+#YEAR       1966
+#INSTITUTE  (2JPNISS)
+#TITLE      Low energy (p,n) reaction on 55Mn and the low-lying
+#+          excited states of 55Fe
+#AUTHOR(S)  A.Uchida, K.Nagamine, M.Imaizumi, H.Kamitsubo, S.Kobayashi
+#REF-CODE   (J,JPJ,21,2115,1966)
+#REFERENCE  J.Phys.Soc.Jpn. 21 (1966) 2115 (doi:10.1143/JPSJ.21.2115)
+#DATASETS   0
+#
+#DATASET    E2252032 
+#DATE       20151116
+#REACTION   25-MN-55(P,N)26-FE-55,PAR,SIG
+#PROJ       1001
+#TARG       25055
+#MF         3
+#MT         50
+#PRODUCT    26-FE-55
+#C4BEGIN    [ 1001 25055   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 25055   3  50    2330000.          1.7040-3 2.8200-4                   410000.0         LVLA.Uchida+            (66)E2252 32 
+ 1001 25055   3  50    2400000.          3.0690-3 9.3300-4                   410000.0         LVLA.Uchida+            (66)E2252 32 
+ 1001 25055   3  50    2450000.          2.2060-3 3.9900-4                   410000.0         LVLA.Uchida+            (66)E2252 32 
+ 1001 25055   3  50    2500000.          3.9190-3 3.1800-4                   410000.0         LVLA.Uchida+            (66)E2252 32 
+ 1001 25055   3  50    2540000.          2.5960-3 3.5100-4                   410000.0         LVLA.Uchida+            (66)E2252 32 
+ 1001 25055   3  50    2580000.          2.9970-3 4.1900-4                   410000.0         LVLA.Uchida+            (66)E2252 32 
+ 1001 25055   3  50    2630000.          2.7030-3 5.4100-4                   410000.0         LVLA.Uchida+            (66)E2252 32 
+ 1001 25055   3  50    2680000.          2.6990-3 3.3100-4                   410000.0         LVLA.Uchida+            (66)E2252 32 
+ 1001 25055   3  50    2710000.          3.2140-3 3.3800-4                   410000.0         LVLA.Uchida+            (66)E2252 32 
+ 1001 25055   3  50    2770000.          3.6230-3 4.3900-4                   410000.0         LVLA.Uchida+            (66)E2252 32 
+#/DATA      10
+#/DATASET

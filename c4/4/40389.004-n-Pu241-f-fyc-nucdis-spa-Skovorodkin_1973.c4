@@ -1,0 +1,32 @@
+#ENTRY      40389
+#AUTHOR1    N.V.Skovorodkin+
+#YEAR       1973
+#INSTITUTE  (4RUSRI)
+#TITLE      Fragment yields from the slow-neutron fission of 241Am
+#+          and 241Pu
+#AUTHOR(S)  N.V.Skovorodkin, A.V.Sorokina, K.A.Petrzhak, A.S.Krivokhatskii, 
+#+          G.E.Lozhkomoev
+#REF-CODE   (J,SJA,35,1109,1973)
+#REFERENCE  Sov.At.Energy 35 (1973) 1109 (doi:10.1007/BF01161890)
+#DATASETS   0
+#
+#DATASET    40389004 
+#DATE       20220322
+#REACTION   94-PU-241(N,F)ELEM/MASS,CUM,FY,,SPA
+#PROJ       1
+#TARG       94241
+#MF         8
+#MT         459
+#C4BEGIN    [    1 94241   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94241   8 459    0.025300          0.012100 4.0000-5 38.00000 89.00000 9.000000            N.V.Skovorodkin+     (73)40389  4 
+    1 94241   8 459    0.025300          0.014600 4.0000-4 38.00000 90.00000 9.000000            N.V.Skovorodkin+     (73)40389  4 
+    1 94241   8 459    0.025300          0.040800 1.2000-3 40.00000 95.00000 9.000000            N.V.Skovorodkin+     (73)40389  4 
+    1 94241   8 459    0.025300          2.2300-3 7.0000-5 46.00000 112.0000 9.000000            N.V.Skovorodkin+     (73)40389  4 
+    1 94241   8 459    0.025300          5.9000-3 2.0000-4 47.00000 111.0000 9.000000            N.V.Skovorodkin+     (73)40389  4 
+    1 94241   8 459    0.025300          2.2700-3 7.0000-5 51.00000 127.0000 9.000000            N.V.Skovorodkin+     (73)40389  4 
+    1 94241   8 459    0.025300          0.044900 1.2000-3 52.00000 132.0000 9.000000            N.V.Skovorodkin+     (73)40389  4 
+#/DATA      7
+#/DATASET

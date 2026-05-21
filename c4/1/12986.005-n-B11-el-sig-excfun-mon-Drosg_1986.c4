@@ -1,0 +1,27 @@
+#ENTRY      12986
+#AUTHOR1    M.Drosg+
+#YEAR       1986
+#INSTITUTE  (1USALAS)
+#TITLE      CROSS SECTIONS FOR NEUTRON PRODUCING REACTIONS INDUCED
+#+          BY 6- AND 10-MEV NEUTRONS INCIDENT ON 10B AND 11B.
+#AUTHOR(S)  M.Drosg, P.W.Lisowski, D.M.Drake, R.A.Hardekopf, S.M.Muellner
+#REF-CODE   (R,LA-10665-MS,8605)
+#REFERENCE  Report LA-10665-MS, 1986
+#DATASETS   0
+#
+#DATASET    12986005 
+#DATE       19860911
+#REACTION   5-B-11(N,EL)5-B-11,,SIG
+#PROJ       1
+#TARG       5011
+#MF         3
+#MT         2
+#PRODUCT    5-B-11
+#C4BEGIN    [    1  5011   3   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5011   3   2    6000000. 75000.00 1.331000                                                M.Drosg+             (86)12986  5 
+    1  5011   3   2    1.0000+7 50000.00 0.876000                                                M.Drosg+             (86)12986  5 
+#/DATA      2
+#/DATASET

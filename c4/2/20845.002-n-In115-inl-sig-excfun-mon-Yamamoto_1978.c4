@@ -1,0 +1,32 @@
+#ENTRY      20845
+#AUTHOR1    S.Yamamoto+
+#YEAR       1978
+#INSTITUTE  (2JPNKTO)
+#TITLE      Measurement of the 115-In(n,inl) In-115-m reaction
+#+          cross section using a proton recoil detector with
+#+          a CsI(Tl) scintillator
+#AUTHOR(S)  S.Yamamoto, K.Kobayashi, S.A.Hayashi, I.Kimura, H.Gotoh, 
+#+          H.Yagi
+#REF-CODE   (R,KURRI-AR-11,121,1978)
+#REFERENCE  Report KURRI-AR-11 page 121, 1978
+#DATASETS   0
+#
+#DATASET    20845002 
+#DATE       20230413
+#REACTION   49-IN-115(N,INL)49-IN-115-M,,SIG
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         4
+#PRODUCT    49-IN-115-M
+#C4BEGIN    [    1 49115   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3   4M   5600000. 50000.00 0.302700 0.014500                                       S.Yamamoto+          (78)20845  2 
+    1 49115   3   4M   6120000. 50000.00 0.310600 0.014900                                       S.Yamamoto+          (78)20845  2 
+    1 49115   3   4M   6640000. 50000.00 0.317300 0.015200                                       S.Yamamoto+          (78)20845  2 
+    1 49115   3   4M   7150000. 50000.00 0.304800 0.014600                                       S.Yamamoto+          (78)20845  2 
+    1 49115   3   4M   7650000. 50000.00 0.316700 0.015200                                       S.Yamamoto+          (78)20845  2 
+#/DATA      5
+#/DATASET

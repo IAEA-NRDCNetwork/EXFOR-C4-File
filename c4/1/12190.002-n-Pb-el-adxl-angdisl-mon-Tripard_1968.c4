@@ -1,0 +1,32 @@
+#ENTRY      12190
+#AUTHOR1    G.E.Tripard+
+#YEAR       1968
+#INSTITUTE  (1CANUBC)
+#TITLE      ELASTIC SCATTERING OF 4.56-MEV NEUTRONS ON LEAD FROM 10
+#+          DEGREES TO 40 DEGREES.
+#AUTHOR(S)  G.E.Tripard, P.W.Martin, B.L.White
+#REF-CODE   (J,CJP,46,1883,68)
+#REFERENCE  Can.J.Phys. 46 (1968) 1883 (doi:10.1139/p68-527)
+#DATASETS   0
+#
+#DATASET    12190002 
+#DATE       19821012
+#REACTION   82-PB-0(N,EL),,DA
+#PROJ       1
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [    1 82000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   4   2    4560000.          8.020000 0.960000 0.984808                              G.E.Tripard+         (68)12190  2 
+    1 82000   4   2    4560000.          5.860000 0.620000 0.965926                              G.E.Tripard+         (68)12190  2 
+    1 82000   4   2    4560000.          4.860000 0.390000 0.939693                              G.E.Tripard+         (68)12190  2 
+    1 82000   4   2    4560000.          3.900000 0.350000 0.906308                              G.E.Tripard+         (68)12190  2 
+    1 82000   4   2    4560000.          2.040000 0.370000 0.866025                              G.E.Tripard+         (68)12190  2 
+    1 82000   4   2    4560000.          1.020000 0.160000 0.819152                              G.E.Tripard+         (68)12190  2 
+    1 82000   4   2    4560000.          0.390000 0.012000 0.766044                              G.E.Tripard+         (68)12190  2 
+#/DATA      7
+#/DATASET

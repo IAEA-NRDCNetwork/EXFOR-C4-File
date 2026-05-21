@@ -1,0 +1,101 @@
+#ENTRY      O1058
+#AUTHOR1    J.Martensson+
+#YEAR       2000
+#INSTITUTE  (2SWDLND)
+#TITLE      Pion production excitation functions in proton-nucleus
+#+          collisions from the absolute threshold to 500 MeV
+#AUTHOR(S)  J.Martensson, M.Berg, L.Carlen, R.Elmer, A.Fokin, R.Ghetti, 
+#+          B.Jakobsson, B.Noren, A.Oskarsson, H.J.Whitlow, C.Ekstrom, 
+#+          G.Ericsson, J.Romanski, E.J.van Veldhuizen, L.Westerberg, 
+#+          J.Julien, K.Nybo, T.F.Thorsteinsen, S.Amirelmi, M.Guttormsen, 
+#+          G.Lovhoiden, V.Bellini, F.Palazzolo, M.L.Sperduto, C.Sutera, 
+#+          V.Avdeichikov, A.Kuznetsov, Yu.Murin
+#REF-CODE   (J,PR/C,62,014610,2000)
+#REFERENCE  Phys.Rev.C 62 (2000) 014610 (doi:10.1103/PhysRevC.62.014610)
+#DATASETS   0
+#
+#DATASET    O1058005 
+#DATE       20170418
+#REACTION   18-AR-0(P,X)1-PP-0,,SIG
+#PROJ       1001
+#TARG       18000
+#MF         3
+#MT         208
+#PRODUCT    1-PP-0
+#C4BEGIN    [ 1001 18000   3 208  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 18000   3 208    1.7100+8          4.8600-6                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    1.7380+8          2.1100-5                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    1.7440+8          4.9900-5                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    1.7670+8          8.7900-5                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    1.8060+8          9.1600-5                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    1.8210+8          1.3900-4                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    1.8530+8          1.1500-4                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    1.8530+8          1.3600-4                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    1.9160+8          1.8300-4                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    1.9460+8          3.2200-4                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    1.9690+8          4.5100-4                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.0630+8          6.0500-4                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.0780+8          8.4600-4                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.0870+8          7.0000-4                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.1110+8          5.2200-4                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.1260+8          8.6400-4                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.1810+8          9.3900-4                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.1880+8          1.2300-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.2760+8          9.1900-4                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.2900+8          1.8000-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.2990+8          1.1800-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.3380+8          1.5200-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.3690+8          1.8000-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.4010+8          1.6900-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.4400+8          2.7300-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.4870+8          2.5100-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.4960+8          1.8300-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.5420+8          2.5100-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.5820+8          1.9500-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.6450+8          2.6200-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.6520+8          3.3700-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.7000+8          3.3600-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.7550+8          3.3600-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.7790+8          3.7300-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.8500+8          3.8100-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.8810+8          4.5100-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    2.9600+8          4.9000-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.0150+8          5.4400-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.0700+8          5.7900-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.1570+8          6.4300-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.2280+8          6.9900-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.2590+8          7.9200-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.3380+8          8.6100-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.4010+8          0.010400                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.4090+8          9.1700-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.4880+8          9.7600-3                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.5350+8          0.011500                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.5820+8          0.011800                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.6300+8          0.013100                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.6930+8          0.012000                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.7240+8          0.013300                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.8110+8          0.014200                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.8740+8          0.014800                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.9530+8          0.015800                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    3.9930+8          0.017100                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.0480+8          0.018200                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.1350+8          0.018200                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.1900+8          0.019400                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.2530+8          0.020700                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.3400+8          0.020600                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.4110+8          0.022400                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.4190+8          0.024400                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.5060+8          0.024900                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.5610+8          0.024900                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.6080+8          0.027100                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.6630+8          0.027600                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.7110+8          0.028200                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.7580+8          0.032000                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.8290+8          0.030000                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.9080+8          0.031300                                                J.Martensson+        (00)O1058  5 
+ 1001 18000   3 208    4.9790+8          0.031300                                                J.Martensson+        (00)O1058  5 
+#/DATA      71
+#/DATASET

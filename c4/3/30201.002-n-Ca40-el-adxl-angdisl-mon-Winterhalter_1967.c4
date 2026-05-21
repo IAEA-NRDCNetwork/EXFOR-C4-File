@@ -1,0 +1,30 @@
+#ENTRY      30201
+#AUTHOR1    D.Winterhalter+
+#YEAR       1967
+#INSTITUTE  (3CRORBZ)
+#TITLE      Elastic scattering of 2.76 MeV neutrons by Ca-40
+#AUTHOR(S)  D.Winterhalter
+#REF-CODE   (J,ZP,200,487,196703)
+#REFERENCE  Z.Phys. 200 (1967) 487 (doi:10.1007/BF01326239)
+#DATASETS   0
+#
+#DATASET    30201002 
+#DATE       20081203
+#REACTION   20-CA-40(N,EL)20-CA-40,,DA
+#PROJ       1
+#TARG       20040
+#MF         4
+#MT         2
+#PRODUCT    20-CA-40
+#C4BEGIN    [    1 20040   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20040   4   2    2760000. 100000.0 0.682000 0.093000 0.819152                              D.Winterhalter       (67)30201  2 
+    1 20040   4   2    2760000. 100000.0 0.195000 0.034000 0.573576                              D.Winterhalter       (67)30201  2 
+    1 20040   4   2    2760000. 100000.0 0.065000 0.011000 0.258819                              D.Winterhalter       (67)30201  2 
+    1 20040   4   2    2760000. 100000.0 0.041000 7.0000-3-0.087156                              D.Winterhalter       (67)30201  2 
+    1 20040   4   2    2760000. 100000.0 0.090000 0.011000-0.422618                              D.Winterhalter       (67)30201  2 
+    1 20040   4   2    2760000. 100000.0 0.163000 0.021000-0.707107                              D.Winterhalter       (67)30201  2 
+#/DATA      6
+#/DATASET

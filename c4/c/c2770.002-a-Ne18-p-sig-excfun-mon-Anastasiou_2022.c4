@@ -1,0 +1,39 @@
+#ENTRY      C2770
+#AUTHOR1    M.Anastasiou+
+#YEAR       2022
+#INSTITUTE  (1USAFSU)
+#TITLE      Measurement of the 18Ne(a,p)21Na reaction with the
+#+          ANASEN active-target detector system at
+#+          Ec.m.=2.5-4 MeV
+#AUTHOR(S)  M.Anastasiou, I.Wiedenhover, J.C.Blackmon, L.T.Baby, D.D.Caussyn, 
+#+          A.A.Hood, E.Koshchiy, J.C.Lighthall, K.T.Macon, J.J.Parker, 
+#+          T.Rauscher, N.Rijal
+#REF-CODE   (J,PR/C,105,055806,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) 055806 (doi:10.1103/PhysRevC.105.055806)
+#DATASETS   0
+#
+#DATASET    C2770002 
+#DATE       20220620
+#REACTION   (2-HE-4(10-NE-18,P)11-NA-21,PAR,SIG)=(10-NE-18(A,P)11-NA-21,PAR,SIG)
+#PROJ       2004
+#TARG       10018
+#MF         3
+#MT         600
+#PRODUCT    11-NA-21
+#C4BEGIN    [ 2004 10018   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 10018   3 600    3025366.          3.0000-3 3.0000-3                   0.000000         LVLM.Anastasiou+        (22)C2770  2 
+ 2004 10018   3 600    3208733.          3.0000-3 3.0000-3                   0.000000         LVLM.Anastasiou+        (22)C2770  2 
+ 2004 10018   3 600    3392101.          5.0000-3 3.0000-3                   0.000000         LVLM.Anastasiou+        (22)C2770  2 
+ 2004 10018   3 600    3575471.          8.0000-3 4.0000-3                   0.000000         LVLM.Anastasiou+        (22)C2770  2 
+ 2004 10018   3 600    3758843.          0.011000 5.0000-3                   0.000000         LVLM.Anastasiou+        (22)C2770  2 
+ 2004 10018   3 600    3942215.          0.013000 5.0000-3                   0.000000         LVLM.Anastasiou+        (22)C2770  2 
+ 2004 10018   3 600    4125589.          0.015000 6.0000-3                   0.000000         LVLM.Anastasiou+        (22)C2770  2 
+ 2004 10018   3 600    4308965.          0.018000 6.0000-3                   0.000000         LVLM.Anastasiou+        (22)C2770  2 
+ 2004 10018   3 600    4492341.          0.026000 7.0000-3                   0.000000         LVLM.Anastasiou+        (22)C2770  2 
+ 2004 10018   3 600    4675719.          0.023000 7.0000-3                   0.000000         LVLM.Anastasiou+        (22)C2770  2 
+ 2004 10018   3 600    4859099.          0.038000 9.0000-3                   0.000000         LVLM.Anastasiou+        (22)C2770  2 
+#/DATA      11
+#/DATASET

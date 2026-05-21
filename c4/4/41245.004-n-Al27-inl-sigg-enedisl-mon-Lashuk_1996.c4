@@ -1,0 +1,28 @@
+#ENTRY      41245
+#AUTHOR1    A.I.Lashuk+
+#YEAR       1996
+#INSTITUTE  (4RUSFEI)
+#TITLE      Gamma-quanta production cross sections at neutron
+#+          inelastic scattering at the energy 3 MeV
+#AUTHOR(S)  A.I.Lashuk, I.P.Sadokhin
+#REF-CODE   (J,YK,,(2),59,1996)
+#REFERENCE  Yad.Reak.Konst.  No.2 (1996) 59
+#DATASETS   0
+#
+#DATASET    41245004 
+#DATE       20241224
+#REACTION   13-AL-27(N,INL)13-AL-27,PAR,SIG,G
+#PROJ       1
+#TARG       13027
+#MF         13
+#MT         51
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027  13  51 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027  13  51 C  3000000.          0.079000 0.010000                   840000.0            A.I.Lashuk           (96)41245  4 
+    1 13027  13  51 C  3000000.          0.246000 0.035000                   1000000.            A.I.Lashuk           (96)41245  4 
+    1 13027  13  51 C  3000000.          0.243000 0.030000                   2120000.            A.I.Lashuk           (96)41245  4 
+#/DATA      3
+#/DATASET

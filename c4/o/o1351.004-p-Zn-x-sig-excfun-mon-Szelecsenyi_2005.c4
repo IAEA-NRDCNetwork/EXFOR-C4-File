@@ -1,0 +1,32 @@
+#ENTRY      O1351
+#AUTHOR1    F.Szelecsenyi+
+#YEAR       2005
+#INSTITUTE  (3HUNDEB)
+#TITLE      Investigation of the Zn-66(p,n+2p)Cu-64 and
+#+          Zn-68(p,x)Cu-64 nuclear processes up to 100-MeV.
+#+          Production of Cu-64.
+#AUTHOR(S)  F.Szelecsenyi, G.F.Steyn, Z.Kovacs, C.Vermeulen, N.P.Van Der Meulen, 
+#+          S.G.Dolley, T.N.Van Der Walt, K.Suzuki, K.Mukai
+#REF-CODE   (J,NIM/B,240,625,2005)
+#REFERENCE  Nucl.Instrum.Meth.B 240 (2005) 625 (doi:10.1016/j.nimb.2005.05.057)
+#DATASETS   0
+#
+#DATASET    O1351004 
+#DATE       20060529
+#REACTION   30-ZN-0(P,X)29-CU-64,,SIG
+#PROJ       1001
+#TARG       30000
+#MF         3
+#MT         454
+#PRODUCT    29-CU-64
+#C4BEGIN    [ 1001 30000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30000   3 454    2.6100+7 1000000. 6.9000-3 1.7000-3           29064.9                     F.Szelecsenyi+       (05)O1351  4 
+ 1001 30000   3 454    3.0100+7 800000.0 0.012100 3.0000-3           29064.9                     F.Szelecsenyi+       (05)O1351  4 
+ 1001 30000   3 454    3.3700+7 700000.0 0.013600 3.4000-3           29064.9                     F.Szelecsenyi+       (05)O1351  4 
+ 1001 30000   3 454    3.7000+7 500000.0 0.020500 5.1000-3           29064.9                     F.Szelecsenyi+       (05)O1351  4 
+ 1001 30000   3 454    4.0200+7 400000.0 0.017900 4.5000-3           29064.9                     F.Szelecsenyi+       (05)O1351  4 
+#/DATA      5
+#/DATASET

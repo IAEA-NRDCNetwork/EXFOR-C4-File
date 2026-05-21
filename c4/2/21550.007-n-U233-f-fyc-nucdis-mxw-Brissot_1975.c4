@@ -1,0 +1,31 @@
+#ENTRY      21550
+#AUTHOR1    R.Brissot+
+#YEAR       1975
+#INSTITUTE  (2FR GRE)
+#TITLE      -ISOTOPIC DISTRIBUTIONS OF RARE GASES IN THERMAL
+#+          NEUTRON FISSION OF U-235 AND U-233 -.
+#AUTHOR(S)  R.Brissot, J.Crancon, Ch.Ristori, J.P.Bocquet, A.Moussa
+#REF-CODE   (J,NP/A,255,461,7512)
+#REFERENCE  Nucl.Phys.A 255 (1975) 461 (doi:10.1016/0375-9474(75)90693-4)
+#DATASETS   0
+#
+#DATASET    21550007 
+#DATE       19800612
+#REACTION   92-U-233(N,F)ELEM/MASS,CUM,FY,,MXW
+#PROJ       1
+#TARG       92233
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92233   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   8 459    0.025300          0.021800 1.3000-3 35.00000 87.00000 9.000000            R.Brissot+           (75)21550  7 
+    1 92233   8 459    0.025300          0.013700 1.0000-3 35.00000 88.00000 9.000000            R.Brissot+           (75)21550  7 
+    1 92233   8 459    0.025300          7.3000-3 1.6000-3 35.00000 89.00000 9.000000            R.Brissot+           (75)21550  7 
+    1 92233   8 459    0.025300          3.5000-3 9.0000-4 35.00000 90.00000 9.000000            R.Brissot+           (75)21550  7 
+    1 92233   8 459    0.025300          0.016000 1.0000-3 53.00000 137.0000 9.000000            R.Brissot+           (75)21550  7 
+    1 92233   8 459    0.025300          7.0000-3 1.3000-3 53.00000 138.0000 9.000000            R.Brissot+           (75)21550  7 
+    1 92233   8 459    0.025300          2.1000-3 1.2000-3 53.00000 139.0000 9.000000            R.Brissot+           (75)21550  7 
+#/DATA      7
+#/DATASET

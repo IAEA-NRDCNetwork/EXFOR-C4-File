@@ -1,0 +1,33 @@
+#ENTRY      D0737
+#AUTHOR1    N.K.Skobelev+
+#YEAR       2014
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Fusion and transfer cross sections of 3He induced
+#+          reaction on Pt and Au in energy range 10-24.5 MeV
+#AUTHOR(S)  N.K.Skobelev, Yu.E.Penionzhkevich, E.I.Voskoboynik, V.Kroha, 
+#+          V.Burjan, Z.Hons, J.Mrazek, S.Piskor, E.Simeckova, A.Kugler
+#REF-CODE   (J,PPN/L,11,114,2014)
+#REFERENCE  Phys.Part.Nucl.Lett. 11 (2014) 114 (doi:10.1134/S1547477114020265)
+#DATASETS   0
+#
+#DATASET    D0737006 
+#DATE       20141020
+#REACTION   79-AU-197(HE3,X)79-AU-196,,SIG
+#PROJ       2003
+#TARG       79197
+#MF         3
+#MT         454
+#PRODUCT    79-AU-196
+#C4BEGIN    [ 2003 79197   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 79197   3 454    2.4200+7          0.010125 3.7500-4           79196.9                     N.K.Skobelev+        (14)D0737  6 
+ 2003 79197   3 454    2.2410+7          8.0625-3 3.1250-4           79196.9                     N.K.Skobelev+        (14)D0737  6 
+ 2003 79197   3 454    2.0780+7          4.8750-3 2.5000-4           79196.9                     N.K.Skobelev+        (14)D0737  6 
+ 2003 79197   3 454    1.8970+7          2.3125-3 1.2500-4           79196.9                     N.K.Skobelev+        (14)D0737  6 
+ 2003 79197   3 454    1.7270+7          7.1375-4 6.6250-5           79196.9                     N.K.Skobelev+        (14)D0737  6 
+ 2003 79197   3 454    1.5470+7          2.1687-4 6.0000-5           79196.9                     N.K.Skobelev+        (14)D0737  6 
+ 2003 79197   3 454    1.3860+7          6.4370-5 6.1250-5           79196.9                     N.K.Skobelev+        (14)D0737  6 
+#/DATA      7
+#/DATASET

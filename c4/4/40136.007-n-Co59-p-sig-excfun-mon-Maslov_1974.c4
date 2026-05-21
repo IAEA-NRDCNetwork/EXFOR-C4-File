@@ -1,0 +1,26 @@
+#ENTRY      40136
+#AUTHOR1    G.N.Maslov+
+#YEAR       1974
+#INSTITUTE  (4RUSKUR)
+#TITLE      Experimental cross-sections for nuclear reactions
+#+          involving neutrons with energies of about 14 MeV
+#AUTHOR(S)  G.N.Maslov, F.Nasyrov, N.F.Pashkin
+#REF-CODE   (R,INDC(CCP)-42,10,1974)
+#REFERENCE  Report INDC(CCP)-42 page 10, 1974
+#DATASETS   0
+#
+#DATASET    40136007 
+#DATE       20150109
+#REACTION   27-CO-59(N,P)26-FE-59,,SIG
+#PROJ       1
+#TARG       27059
+#MF         3
+#MT         103
+#PRODUCT    26-FE-59
+#C4BEGIN    [    1 27059   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   3 103    1.4600+7 200000.0 0.064000 7.0000-3                                       G.N.Maslov+          (74)40136  7 
+#/DATA      1
+#/DATASET

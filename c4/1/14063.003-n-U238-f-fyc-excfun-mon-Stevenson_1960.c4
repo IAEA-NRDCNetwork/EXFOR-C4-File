@@ -1,0 +1,27 @@
+#ENTRY      14063
+#AUTHOR1    P.C.Stevenson+
+#YEAR       1960
+#INSTITUTE  (1USALRL)
+#TITLE      Calorimetric Determination of the Average Total Kinetic
+#+          Energy of Fragments from Fission of U235 and U238 by
+#+          14-Mev Neutrons
+#AUTHOR(S)  P.C.Stevenson, H.G.Hicks, J.C.Armstrong Jr, S.R.Gunn
+#REF-CODE   (J,PR,117,186,1960)
+#REFERENCE  Phys.Rev. 117 (1960) 186 (doi:10.1103/PhysRev.117.186)
+#DATASETS   0
+#
+#DATASET    14063003 
+#DATE       20180818
+#REACTION   92-U-238(N,F)42-MO-99,CUM,FY
+#PROJ       1
+#TARG       92238
+#MF         8
+#MT         459
+#PRODUCT    42-MO-99
+#C4BEGIN    [    1 92238   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   8 459    1.4000+7          0.058600 1.6000-3 42.00000 99.00000 9.000000            P.C.Stevenson+       (60)14063  3 
+#/DATA      1
+#/DATASET

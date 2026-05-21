@@ -1,0 +1,35 @@
+#ENTRY      23280
+#AUTHOR1    P.Salvador-Castineira+
+#YEAR       2015
+#INSTITUTE  (2ZZZGEL)
+#TITLE      Neutron induced fission cross sections of 242Pu from
+#+          0.3 MeV to 3 MeV.
+#AUTHOR(S)  P.Salvador-Castineira, T.Brys, R.Eykens, F.-J.Hambsch, A.Goeoek, 
+#+          A.Moens, S.Oberstedt, G.Sibbens, D.Vanleeuw, M.Vidali, C.Pretel
+#REF-CODE   (J,PR/C,92,044606,2015)
+#REFERENCE  Phys.Rev.C 92 (2015) 044606 (doi:10.1103/PhysRevC.92.044606)
+#DATASETS   0
+#
+#DATASET    23280003 
+#DATE       20151226
+#REACTION   94-PU-242(N,F),,SIG
+#PROJ       1
+#TARG       94242
+#MF         3
+#MT         18
+#C4BEGIN    [    1 94242   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94242   3  18    1600000. 87000.00 1.334361 0.033250                                       P.Salvador-Castineira+(15)23280  3 
+    1 94242   3  18    1700000. 85000.00 1.341442 0.033751                                       P.Salvador-Castineira+(15)23280  3 
+    1 94242   3  18    1800000. 82500.00 1.354618 0.034748                                       P.Salvador-Castineira+(15)23280  3 
+    1 94242   3  18    1900000. 80000.00 1.391845 0.035870                                       P.Salvador-Castineira+(15)23280  3 
+    1 94242   3  18    2000000. 78000.00 1.420137 0.037132                                       P.Salvador-Castineira+(15)23280  3 
+    1 94242   3  18    2200000. 74000.00 1.377791 0.036149                                       P.Salvador-Castineira+(15)23280  3 
+    1 94242   3  18    2400000. 71000.00 1.385526 0.036859                                       P.Salvador-Castineira+(15)23280  3 
+    1 94242   3  18    2600000. 68000.00 1.424230 0.038180                                       P.Salvador-Castineira+(15)23280  3 
+    1 94242   3  18    2800000. 65000.00 1.434743 0.038517                                       P.Salvador-Castineira+(15)23280  3 
+    1 94242   3  18    3000000. 62500.00 1.468687 0.044433                                       P.Salvador-Castineira+(15)23280  3 
+#/DATA      10
+#/DATASET

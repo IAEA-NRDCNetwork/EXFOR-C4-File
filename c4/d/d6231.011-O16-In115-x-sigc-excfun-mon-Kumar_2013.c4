@@ -1,0 +1,31 @@
+#ENTRY      D6231
+#AUTHOR1    K.Kumar+
+#YEAR       2013
+#INSTITUTE  (3INDMUA)
+#TITLE      Influence of projectile breakup on the 16O + 115In
+#+          reaction at energies ~4-7 MeV/nucleon
+#AUTHOR(S)  K.Kumar, T.Ahmad, S.Ali, I.A.Rizvi, A.Agarwal, R.Kumar, 
+#+          A.K.Chaubey
+#REF-CODE   (J,PR/C,88,064613,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 064613 (doi:10.1103/PhysRevC.88.064613)
+#DATASETS   0
+#
+#DATASET    D6231011 
+#DATE       20150122
+#REACTION   49-IN-115(8-O-16,X)54-XE-121,(CUM),SIG
+#PROJ       8016
+#TARG       49115
+#MF         3
+#MT         459
+#PRODUCT    54-XE-121
+#C4BEGIN    [ 8016 49115   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 49115   3 459    6.5700+7 1930000. 4.9000-3 5.3000-4           54121.9                     K.Kumar+             (13)D6231 11 
+ 8016 49115   3 459    7.4600+7 1870000. 5.5000-3 5.1000-4           54121.9                     K.Kumar+             (13)D6231 11 
+ 8016 49115   3 459    8.3200+7 1720000. 8.5000-3 8.2000-4           54121.9                     K.Kumar+             (13)D6231 11 
+ 8016 49115   3 459    9.1100+7 1600000. 2.9200-3 3.3000-4           54121.9                     K.Kumar+             (13)D6231 11 
+ 8016 49115   3 459    9.6350+7 800000.0 4.3900-3 5.5000-4           54121.9                     K.Kumar+             (13)D6231 11 
+#/DATA      5
+#/DATASET

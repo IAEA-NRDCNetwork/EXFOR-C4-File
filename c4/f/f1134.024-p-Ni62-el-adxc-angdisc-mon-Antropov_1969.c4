@@ -1,0 +1,37 @@
+#ENTRY      F1134
+#AUTHOR1    A.E.Antropov+
+#YEAR       1969
+#INSTITUTE  (4RUSSUL)
+#TITLE      Elastic and inelastic scattering of approx. 6 MeV
+#+          protons on nickel isotopes.
+#AUTHOR(S)  A.E.Antropov, V.P.Bochin, P.P.Zarubin, B.N.Orlov, A.V.Plavko, 
+#+          A.I.Sorokin
+#REF-CODE   (J,IZV,32,1741,1969)
+#REFERENCE  Izv.Ross.AN,Fiz. 32 (1969) 1741
+#DATASETS   0
+#
+#DATASET    F1134024 
+#DATE       20110706
+#REACTION   28-NI-62(P,EL)28-NI-62,,DA,,RTH
+#PROJ       1001
+#TARG       28062
+#MF         4
+#MT         2
+#PRODUCT    28-NI-62
+#C4BEGIN    [ 1001 28062   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28062   4   2  C 6060000. 10000.00 1.281648 0.107657 0.706749                              A.E.Antropov+        (69)F1134 24 
+ 1001 28062   4   2  C 6060000. 10000.00 0.350839 0.017465 0.496747                              A.E.Antropov+        (69)F1134 24 
+ 1001 28062   4   2  C 6060000. 10000.00 0.223863 0.012567 0.408267                              A.E.Antropov+        (69)F1134 24 
+ 1001 28062   4   2  C 6060000. 10000.00 0.149171 7.9745-3 0.251394                              A.E.Antropov+        (69)F1134 24 
+ 1001 28062   4   2  C 6060000. 10000.00 0.119344 6.6392-3 0.078737                              A.E.Antropov+        (69)F1134 24 
+ 1001 28062   4   2  C 6060000. 10000.00 0.106949 4.7119-3-0.012950                              A.E.Antropov+        (69)F1134 24 
+ 1001 28062   4   2  C 6060000. 10000.00 0.096125 4.4237-3-0.087816                              A.E.Antropov+        (69)F1134 24 
+ 1001 28062   4   2  C 6060000. 10000.00 0.082482 3.4731-3-0.178459                              A.E.Antropov+        (69)F1134 24 
+ 1001 28062   4   2  C 6060000. 10000.00 0.066366 2.9494-3-0.283346                              A.E.Antropov+        (69)F1134 24 
+ 1001 28062   4   2  C 6060000. 10000.00 0.054652 2.1212-3-0.377194                              A.E.Antropov+        (69)F1134 24 
+ 1001 28062   4   2  C 6060000. 10000.00 0.045266 1.8609-3-0.474549                              A.E.Antropov+        (69)F1134 24 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,41 @@
+#ENTRY      D5080
+#AUTHOR1    Yu.N.Pavlenko+
+#YEAR       2010
+#INSTITUTE  (4UKRIJD)
+#TITLE      Deuterons interaction with nuclei 208-Pb at sub-barrier
+#+          energies
+#AUTHOR(S)  Yu.N.Pavlenko, K.O.Terenetsky, V.P.Verbitsky, O.I.Rundel, 
+#+          I.P.Dryapachenko, E.M.Mozhzhukhin, V.M.Dobrikov, Yu.Ya.Karlyshev, 
+#+          O.K.Gorpinich, T.O.Korzyna
+#REF-CODE   (J,YFE,11,(4),400,2010)
+#REFERENCE  Yad.Fiz.Energetika 11 No.4 (2010) 400
+#DATASETS   0
+#
+#DATASET    D5080004 
+#DATE       20110701
+#REACTION   82-PB-208(D,EL)82-PB-208,,DA,,RTH
+#PROJ       1002
+#TARG       82208
+#MF         4
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 1002 82208   4   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 82208   4   2 DC 7300000.          5.260213 0.049718 0.643055                              Yu.N.Pavlenko+       (10)D5080  4 
+ 1002 82208   4   2 DC 7300000.          2.696634 0.027522 0.500453                              Yu.N.Pavlenko+       (10)D5080  4 
+ 1002 82208   4   2 DC 7300000.          1.520429 0.014654 0.342512                              Yu.N.Pavlenko+       (10)D5080  4 
+ 1002 82208   4   2 DC 7300000.          0.978701 9.0965-3 0.174336                              Yu.N.Pavlenko+       (10)D5080  4 
+ 1002 82208   4   2 DC 7300000.          0.789729 7.5334-3 0.087851                              Yu.N.Pavlenko+       (10)D5080  4 
+ 1002 82208   4   2 DC 7300000.          0.663193 6.3435-3 6.9813-4                              Yu.N.Pavlenko+       (10)D5080  4 
+ 1002 82208   4   2 DC 7300000.          0.547328 5.3100-3-0.086460                              Yu.N.Pavlenko+       (10)D5080  4 
+ 1002 82208   4   2 DC 7300000.          0.445283 4.5086-3-0.172789                              Yu.N.Pavlenko+       (10)D5080  4 
+ 1002 82208   4   2 DC 7300000.          0.445283 4.3147-3-0.172789                              Yu.N.Pavlenko+       (10)D5080  4 
+ 1002 82208   4   2 DC 7300000.          0.349967 3.5215-3-0.341200                              Yu.N.Pavlenko+       (10)D5080  4 
+ 1002 82208   4   2 DC 7300000.          0.287220 2.7595-3-0.499093                              Yu.N.Pavlenko+       (10)D5080  4 
+ 1002 82208   4   2 DC 7300000.          0.236982 2.3001-3-0.641985                              Yu.N.Pavlenko+       (10)D5080  4 
+ 1002 82208   4   2 DC 7300000.          0.202386 2.1184-3-0.765259                              Yu.N.Pavlenko+       (10)D5080  4 
+ 1002 82208   4   2 DC 7300000.          0.177097 1.8013-3-0.865414                              Yu.N.Pavlenko+       (10)D5080  4 
+#/DATA      14
+#/DATASET

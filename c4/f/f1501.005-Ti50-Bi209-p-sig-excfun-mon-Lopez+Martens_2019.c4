@@ -1,0 +1,33 @@
+#ENTRY      F1501
+#AUTHOR1    A.Lopez-Martens+
+#YEAR       2019
+#INSTITUTE  (2FR PAR)
+#TITLE      Measurement of proton-evaporation rates in fusion
+#+          reactions leading to transfermium nuclei
+#AUTHOR(S)  A.Lopez-Martens, A.V.Yeremin, M.S.Tezekbayeva, Z.Asfari, 
+#+          P.Brionnet, O.Dorvaux, B.Gall, K.Hauschild, D.Ackermann, 
+#+          L.Caceres, M.L.Chelnokov, V.I.Chepigin, M.V.Gustova, A.V.Isaev, 
+#+          A.V.Karpov, A.A.Kuznetsova, J.Piot, O.N.Malyshev, A.G.Popeko, 
+#+          Yu.A.Popov, K.Rezynkina, H.Savajols, A.I.Svirikhin, E.A.Sokol, 
+#+          P.Steinegger
+#REF-CODE   (J,PL/B,795,271,2019)
+#REFERENCE  Phys.Lett.B 795 (2019) 271 (doi:10.1016/j.physletb.2019.06.010)
+#DATASETS   0
+#
+#DATASET    F1501005 
+#DATE       20240408
+#REACTION   83-BI-209(22-TI-50,P)104-RF-258,,SIG
+#PROJ       22050
+#TARG       83209
+#MF         3
+#MT         103
+#PRODUCT    104-RF-258
+#C4BEGIN    [22050 83209   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+22050 83209   3 103    2.3790+8 3000000. 4.700-11                                                A.Lopez-Martens+     (19)F1501  5 
+22050 83209   3 103    2.4850+8 3000000. 2.700-11                                                A.Lopez-Martens+     (19)F1501  5 
+22050 83209   3 103    2.5840+8 3000000. 5.880-12                                                A.Lopez-Martens+     (19)F1501  5 
+#/DATA      3
+#/DATASET

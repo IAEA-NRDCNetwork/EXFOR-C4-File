@@ -1,0 +1,30 @@
+#ENTRY      23008
+#AUTHOR1    T.Iguchi+
+#YEAR       1987
+#INSTITUTE  (2JPNTOK)
+#TITLE      Improvement of accuracy of Zr/Nb activation-rate ratio
+#+          method for D-T neutron source energy determination
+#AUTHOR(S)  T.Iguchi, K.Nakata, M.Nakazawa
+#REF-CODE   (J,NST,24,(12),1076,198712)
+#REFERENCE  J.Nucl.Sci.Technol. 24 No.12 (1987) 1076 (doi:10.1080/18811248.1987.9733544)
+#DATASETS   0
+#
+#DATASET    23008003 
+#DATE       20071203
+#REACTION   40-ZR-90(N,2N)40-ZR-89,,SIG
+#PROJ       1
+#TARG       40090
+#MF         3
+#MT         16
+#PRODUCT    40-ZR-89
+#C4BEGIN    [    1 40090   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   3  16    1.3810+7          0.559000 0.023000                                       T.Iguchi+            (87)23008  3 
+    1 40090   3  16    1.4070+7          0.636000 0.026000                                       T.Iguchi+            (87)23008  3 
+    1 40090   3  16    1.4330+7          0.704000 0.029000                                       T.Iguchi+            (87)23008  3 
+    1 40090   3  16    1.4700+7          0.785000 0.032000                                       T.Iguchi+            (87)23008  3 
+    1 40090   3  16    1.4760+7          0.786000 0.032000                                       T.Iguchi+            (87)23008  3 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      C1903
+#AUTHOR1    D.W.Lee+
+#YEAR       2011
+#INSTITUTE  (1USABRK)
+#TITLE      Study of the 11C(p,g) reaction via the indirect
+#+          d(11C,12N)n transfer reaction
+#AUTHOR(S)  D.W.Lee, J.Powell, K.Perajarvi, F.Q.Guo, D.M.Moltz, J.Cerny
+#REF-CODE   (J,JP/G,38,075201,2011)
+#REFERENCE  J.Phys.G 38 (2011) 075201 (doi:10.1088/0954-3899/38/7/075201)
+#DATASETS   0
+#
+#DATASET    C1903002 
+#DATE       20120404
+#REACTION   (1-H-2(6-C-12,N)7-N-13,,DA,RSD)=(6-C-12(D,N)7-N-13,,DA)
+#PROJ       1002
+#TARG       6012
+#MF         4
+#MT         4
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1002  6012   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6012   4   4  C 2.5199+7 1182275. 0.012000 1.6000-3 0.980271                              D.W.Lee+             (11)C1903  2 
+ 1002  6012   4   4  C 2.5199+7 1182275. 5.3500-3 7.1100-4 0.941471                              D.W.Lee+             (11)C1903  2 
+ 1002  6012   4   4  C 2.5199+7 1182275. 2.2200-3 2.7800-4 0.879649                              D.W.Lee+             (11)C1903  2 
+ 1002  6012   4   4  C 2.5199+7 1182275. 1.2700-3 1.7900-4 0.791224                              D.W.Lee+             (11)C1903  2 
+ 1002  6012   4   4  C 2.5199+7 1182275. 1.0300-3 1.5300-4 0.669131                              D.W.Lee+             (11)C1903  2 
+ 1002  6012   4   4  C 2.5199+7 1182275. 6.0000-4 7.4900-5 0.492424                              D.W.Lee+             (11)C1903  2 
+ 1002  6012   4   4  C 2.5199+7 1182275. 1.4900-4 2.2300-5 0.211325                              D.W.Lee+             (11)C1903  2 
+#/DATA      7
+#/DATASET

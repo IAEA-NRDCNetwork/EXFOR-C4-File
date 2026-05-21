@@ -1,0 +1,37 @@
+#ENTRY      22983
+#AUTHOR1    Y.Maeda+
+#YEAR       2007
+#INSTITUTE  (2JPNTOK)
+#TITLE      .Differential cross section and analyzing power
+#+          measurement for n,d elastic scattering at 248 MeV.
+#AUTHOR(S)  Y.Maeda, H.Sakai, K.Fujita, M.B.Greenfield, K.Hatanaka, 
+#+          M.Hatano, J.Kamiya, T.Kawabata, H.Kuboki, H.Okamura, J.Rapaport, 
+#+          T.Saito, Y.Sakemi, M.Sasano, K.Sekiguchi, Y.Shimizu, K.Suda, 
+#+          Y.Tameshige, A.Tamii, T.Wasaka, K.Yako, J.Blomgren, P.Mermod, 
+#+          A.Oehrn, M.Oesterlund, H.Witala, A.Deltuva, A.C.Fonseca, 
+#+          P.U.Sauer, W.Gloeckle, J.Golak, H.Kamada, A.Nogga, R.Skibinski, 
+#+          S.Sakoda, H.Kato, N.Uchigashima, D.Hirooka, Y.Kitamura, 
+#+          N.Sakamoto, T.Ikeda, K.Itoh, Y.Sato
+#REF-CODE   (J,PR/C,76,014004,2007)
+#REFERENCE  Phys.Rev.C 76 (2007) 014004 (doi:10.1103/PhysRevC.76.014004)
+#DATASETS   0
+#
+#DATASET    22983003 
+#DATE       20071026
+#REACTION   1-H-2(N,EL)1-H-2,,DA
+#PROJ       1
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   4   2  C 2.4800+8 1000000. 0.011150 7.8000-4 0.981293                              Y.Maeda+             (07)22983  3 
+    1  1002   4   2  C 2.4800+8 1000000. 6.1800-3 3.3000-4 0.936060                              Y.Maeda+             (07)22983  3 
+    1  1002   4   2  C 2.4800+8 1000000. 2.6800-3 1.6000-4 0.866897                              Y.Maeda+             (07)22983  3 
+    1  1002   4   2  C 2.4800+8 1000000. 1.6400-3 1.4000-4 0.774944                              Y.Maeda+             (07)22983  3 
+    1  1002   4   2  C 2.4800+8 1000000. 8.1000-4 2.0000-4 0.521010                              Y.Maeda+             (07)22983  3 
+#/DATA      5
+#/DATASET

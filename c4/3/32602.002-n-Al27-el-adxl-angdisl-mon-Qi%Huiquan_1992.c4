@@ -1,0 +1,31 @@
+#ENTRY      32602
+#AUTHOR1    Qi Huiquan+
+#YEAR       1992
+#INSTITUTE  (3CPRTSI)
+#TITLE      The small angle scattering cross sections of 14.8 MeV
+#+          neutrons from 27Al and 16O
+#AUTHOR(S)  Qi Huiquan, Chen Quojie, Chen Yingtan, Chen Qiankun, Chen Zhenpeng, 
+#+          Chen Zemin
+#REF-CODE   (J,CNP,14,15,1992)
+#REFERENCE  Chin.J.Nucl.Phys. 14 (1992) 15
+#DATASETS   0
+#
+#DATASET    32602002 
+#DATE       20240216
+#REACTION   13-AL-27(N,EL)13-AL-27,,DA
+#PROJ       1
+#TARG       13027
+#MF         4
+#MT         2
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   4   2    1.4800+7          1.380000 0.100000 0.998971                              Qi Huiquan+          (92)32602  2 
+    1 13027   4   2    1.4800+7          1.360000 0.100000 0.998240                              Qi Huiquan+          (92)32602  2 
+    1 13027   4   2    1.4800+7          1.360000 0.100000 0.996345                              Qi Huiquan+          (92)32602  2 
+    1 13027   4   2    1.4800+7          1.310000 0.100000 0.993373                              Qi Huiquan+          (92)32602  2 
+    1 13027   4   2    1.4800+7          1.200000 0.100000 0.988756                              Qi Huiquan+          (92)32602  2 
+#/DATA      5
+#/DATASET

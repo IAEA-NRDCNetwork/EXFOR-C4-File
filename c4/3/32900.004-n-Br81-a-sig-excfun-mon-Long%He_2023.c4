@@ -1,0 +1,30 @@
+#ENTRY      32900
+#AUTHOR1    Long He+
+#YEAR       2023
+#INSTITUTE  (3CPRHXU)
+#TITLE      New cross-section measurements for the (n,2n), (n,p),
+#+          and (n,a) reactions on bromine in the 14 MeV region
+#+          with detailed uncertainty quantification
+#AUTHOR(S)  Long He, Junhua Luo, Li Jiang
+#REF-CODE   (J,CPH/C,47,034001,2023)
+#REFERENCE  Chin.Phys.C 47 (2023) 034001 (doi:10.1088/1674-1137/aca9bf)
+#DATASETS   0
+#
+#DATASET    32900004 
+#DATE       20241210
+#REACTION   35-BR-81(N,A)33-AS-78,,SIG
+#PROJ       1
+#TARG       35081
+#MF         3
+#MT         107
+#PRODUCT    33-AS-78
+#C4BEGIN    [    1 35081   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 35081   3 107    1.3500+7 200000.0 3.9000-3 6.0000-4                                       Long He+             (23)32900  4 
+    1 35081   3 107    1.4100+7 200000.0 4.3000-3 7.0000-4                                       Long He+             (23)32900  4 
+    1 35081   3 107    1.4400+7 200000.0 5.3000-3 7.0000-4                                       Long He+             (23)32900  4 
+    1 35081   3 107    1.4800+7 200000.0 5.7000-3 9.0000-4                                       Long He+             (23)32900  4 
+#/DATA      4
+#/DATASET

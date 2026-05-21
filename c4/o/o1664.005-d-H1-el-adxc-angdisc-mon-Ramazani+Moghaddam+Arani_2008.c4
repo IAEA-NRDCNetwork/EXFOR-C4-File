@@ -1,0 +1,33 @@
+#ENTRY      O1664
+#AUTHOR1    A.Ramazani-Moghaddam-Arani+
+#YEAR       2008
+#INSTITUTE  (2NEDKVI)
+#TITLE      Elastic proton-deuteron scattering at intermediate
+#+          energies.
+#AUTHOR(S)  A.Ramazani-Moghaddam-Arani, H.R.Amir-Ahmadi, A.D.Bacher, 
+#+          C.D.Bailey, A.Biegun, M.Eslami-Kalantari, I.Gasparic, L.Joulaeizadeh, 
+#+          N.Kalantar-Nayestanaki, St.Kistryn, A.Kozela, H.Mardanpour, 
+#+          J.G.Messchendorp, A.Micherdzinska, H.Moeini, S.V.Shende, 
+#+          E.Stephan, E.J.Stephenson, R.Sworst
+#REF-CODE   (J,PR/C,78,014006,2008)
+#REFERENCE  Phys.Rev.C 78 (2008) 014006 (doi:10.1103/PhysRevC.78.014006)
+#DATASETS   0
+#
+#DATASET    O1664005 
+#DATE       20081022
+#REACTION   1-H-1(D,EL)1-H-1,,DA
+#PROJ       1002
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1002  1001   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1001   4   2 AC 1.3000+8          5.7522-3 1.3115-4 0.546531                              A.Ramazani-Moghaddam-Arani+(08)O1664  5 
+ 1002  1001   4   2 AC 1.3000+8          3.9158-3 1.0021-4 0.439830                              A.Ramazani-Moghaddam-Arani+(08)O1664  5 
+ 1002  1001   4   2 AC 1.3000+8          2.9227-3 8.1890-5 0.320498                              A.Ramazani-Moghaddam-Arani+(08)O1664  5 
+ 1002  1001   4   2 AC 1.3000+8          2.1465-3 6.6990-5 0.186607                              A.Ramazani-Moghaddam-Arani+(08)O1664  5 
+#/DATA      4
+#/DATASET

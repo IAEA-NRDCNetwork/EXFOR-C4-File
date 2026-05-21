@@ -1,0 +1,31 @@
+#ENTRY      C2539
+#AUTHOR1    D.J.Morrissey+
+#YEAR       1980
+#INSTITUTE  (1USABRK)
+#TITLE      Target residues from the reaction of 8 GeV 20Ne with
+#+          181Ta and 197Au
+#AUTHOR(S)  D.J.Morrissey, W.Loveland, M.de Saint Simon, G.T.Seaborg
+#REF-CODE   (J,PR/C,21,1783,1980)
+#REFERENCE  Phys.Rev.C 21 (1980) 1783 (doi:10.1103/PhysRevC.21.1783)
+#DATASETS   0
+#
+#DATASET    C2539003 
+#DATE       20200501
+#REACTION   79-AU-197(10-NE-20,X)ELEM/MASS,,SIG
+#PROJ       10020
+#TARG       79197
+#MF         3
+#MT         454
+#C4BEGIN    [10020 79197   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10020 79197   3 454    8.0000+9          2.8000-3 4.0000-4           21048.9                     D.J.Morrissey+       (80)C2539  3 
+10020 79197   3 454    8.0000+9          5.2000-3 9.0000-4           33074.9                     D.J.Morrissey+       (80)C2539  3 
+10020 79197   3 454    8.0000+9          3.8000-3 1.4000-3           37084.9                     D.J.Morrissey+       (80)C2539  3 
+10020 79197   3 454    8.0000+9          4.1000-3 4.0000-4           42093.1                     D.J.Morrissey+       (80)C2539  3 
+10020 79197   3 454    8.0000+9          5.5000-3 9.0000-4           77190.9                     D.J.Morrissey+       (80)C2539  3 
+10020 79197   3 454    8.0000+9          0.174000 0.025000           79196.9                     D.J.Morrissey+       (80)C2539  3 
+10020 79197   3 454    8.0000+9          0.043100 3.8000-3           79198.9                     D.J.Morrissey+       (80)C2539  3 
+#/DATA      7
+#/DATASET

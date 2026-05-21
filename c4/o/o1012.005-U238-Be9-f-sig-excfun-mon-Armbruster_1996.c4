@@ -1,0 +1,28 @@
+#ENTRY      O1012
+#AUTHOR1    P.Armbruster+
+#YEAR       1996
+#INSTITUTE  (2GERGSI)
+#TITLE      Low-energy fission investigated in reactions of 750*A
+#+          MeV U-238 ions with Pb and Be targets
+#AUTHOR(S)  P.Armbruster, M.Bernas, S.Czajkowski, H.Geissel, T.Aumann, 
+#+          Ph.Dessagne, C.Donzaud, E.Hanelt, A.Heinz, M.Hesse, C.Kozhuharov, 
+#+          Ch.Miehe, G.Muenzenberg, M.Pfuetzner, K.-H.Schmidt, W.Schwab, 
+#+          C.Stephan, K.Suemmerer, L.Tassan-Got, B.Voss
+#REF-CODE   (J,ZP/A,355,191,1996)
+#REFERENCE  Z.Phys.A 355 (1996) 191 (doi:10.1007/BF02769684)
+#DATASETS   0
+#
+#DATASET    O1012005 
+#DATE       20200829
+#REACTION   4-BE-9(92-U-238,F),,SIG
+#PROJ       92238
+#TARG       4009
+#MF         3
+#MT         18
+#C4BEGIN    [92238  4009   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+92238  4009   3  18    1.785+11          0.115000 0.040000                                       P.Armbruster+        (96)O1012  5 
+#/DATA      1
+#/DATASET

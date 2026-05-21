@@ -1,0 +1,27 @@
+#ENTRY      F0185
+#AUTHOR1    T.Yanabu+
+#YEAR       1964
+#INSTITUTE  (2JPNKTO)
+#TITLE      Alpha emitting reactions on 9Be, 10B and 11B induced
+#+          by protons, deuterons and alpha-particles
+#AUTHOR(S)  T.Yanabu, S.Yamashita, S.Kakigi, Dai-Ca Nguyen, K.Takimoto, 
+#+          Y.Yamada, K.Ogino
+#REF-CODE   (J,JPJ,19,1818,1964)
+#REFERENCE  J.Phys.Soc.Jpn. 19 (1964) 1818 (doi:10.1143/JPSJ.19.1818)
+#DATASETS   0
+#
+#DATASET    F0185017 
+#DATE       20200625
+#REACTION   5-B-11(P,A)4-BE-8,PAR,SIG
+#PROJ       1001
+#TARG       5011
+#MF         3
+#MT         800
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1001  5011   3 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   3 800    7000000.          3.4000-3                            0.000000         LVLT.Yanabu+            (64)F0185 17 
+#/DATA      1
+#/DATASET

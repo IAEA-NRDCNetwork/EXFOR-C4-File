@@ -1,0 +1,27 @@
+#ENTRY      13861
+#AUTHOR1    H.H.Barschall+
+#YEAR       1947
+#INSTITUTE  (1USALAS)
+#TITLE      Measurement of Transport and Inelastic Scattering Cross
+#+          Sections for Fast Neutrons. II. Experimental Results
+#AUTHOR(S)  H.H.Barschall, M.E.Battat, W.C.Bright, E.R.Graves, T.Jorgensen, 
+#+          J.H.Manley
+#REF-CODE   (J,PR,72,881,194711)
+#REFERENCE  Phys.Rev. 72 (1947) 881 (doi:10.1103/PhysRev.72.881)
+#DATASETS   0
+#
+#DATASET    13861019 
+#DATE       20030106
+#REACTION   27-CO-59(N,EL)27-CO-59,,DA,,4PI
+#PROJ       1
+#TARG       27059
+#MF         4
+#MT         2
+#PRODUCT    27-CO-59
+#C4BEGIN    [    1 27059   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   4   2    600000.0          0.270563          0.866025                              H.H.Barschall+       (47)13861 19 
+#/DATA      1
+#/DATASET

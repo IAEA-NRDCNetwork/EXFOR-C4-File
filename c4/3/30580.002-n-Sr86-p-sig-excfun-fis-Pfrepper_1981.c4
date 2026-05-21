@@ -1,0 +1,27 @@
+#ENTRY      30580
+#AUTHOR1    G.Pfrepper+
+#YEAR       1981
+#INSTITUTE  (3DDRZFI)
+#TITLE      -Measurement of cross sections of the reactions
+#+          Sr-86(n,p)Rb-86 and Sr-84(n,p)Rb-84 with fission
+#+          neutrons-
+#AUTHOR(S)  G.Pfrepper
+#REF-CODE   (J,IP,17,6,198101)
+#REFERENCE  Isot.Env.Health St. 17 (1981) 6 (doi:10.1080/10256018108544527)
+#DATASETS   0
+#
+#DATASET    30580002 
+#DATE       20090506
+#REACTION   38-SR-86(N,P)37-RB-86,,SIG,,FIS
+#PROJ       1
+#TARG       38086
+#MF         3
+#MT         103
+#PRODUCT    37-RB-86
+#C4BEGIN    [    1 38086   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 38086   3 103    2000000.          2.8000-4 2.0000-5                                       G.Pfrepper           (81)30580  2 
+#/DATA      1
+#/DATASET

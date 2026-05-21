@@ -1,0 +1,28 @@
+#ENTRY      22971
+#AUTHOR1    G.Rugel+
+#YEAR       2007
+#INSTITUTE  (2GERMUN)
+#TITLE      Measurement of (n,gamma) reaction cross sections
+#+          at stellar energies for 58Ni and 78Se
+#AUTHOR(S)  G.Rugel, I.Dillmann, T.Faestermann, M.Heil, F.Kaeppeler, 
+#+          K.Knie, G.Korschinek, W.Kutschera, M.Poutivtsev, A.Wallner, 
+#+          P.Ludwig, L.Fimiani, K.Hain
+#REF-CODE   (J,NIM/B,259,683,2007)
+#REFERENCE  Nucl.Instrum.Meth.B 259 (2007) 683 (doi:10.1016/j.nimb.2007.01.206)
+#DATASETS   0
+#
+#DATASET    229710062
+#DATE       20211025
+#REACTION   34-SE-78(N,G)34-SE-79,,SIG,,SPA
+#PROJ       1
+#TARG       34078
+#MF         3
+#MT         102
+#PRODUCT    34-SE-79
+#C4BEGIN    [    1 34078   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34078   3 102    25000.00 500.0000 0.065000 0.011000                                       G.Rugel+             (07)22971  62
+#/DATA      1
+#/DATASET

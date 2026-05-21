@@ -1,0 +1,33 @@
+#ENTRY      40761
+#AUTHOR1    V.I.Strizhak+
+#YEAR       1960
+#INSTITUTE  (4UKRIFU)
+#TITLE      Neutron angular distribution at the energy 2.9 MeV
+#+          elastically scattered by the atomic nuclei
+#AUTHOR(S)  V.I.Strizhak, A.A.Kozar, N.S.Nazarov
+#REF-CODE   (J,UFZ,5,(5),704,1960)
+#REFERENCE  Ukr.Fiz.Zh. 5 No.5 (1960) 704
+#DATASETS   0
+#
+#DATASET    40761005 
+#DATE       20160528
+#REACTION   52-TE-0(N,EL)52-TE-0,,DA
+#PROJ       1
+#TARG       52000
+#MF         4
+#MT         2
+#PRODUCT    52-TE-0
+#C4BEGIN    [    1 52000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52000   4   2  C 2900000.          0.790500 0.029600 0.762800                              V.I.Strizhak+        (60)40761  5 
+    1 52000   4   2  C 2900000.          0.277800          0.494100                              V.I.Strizhak+        (60)40761  5 
+    1 52000   4   2  C 2900000.          0.149400          0.251500                              V.I.Strizhak+        (60)40761  5 
+    1 52000   4   2  C 2900000.          0.076000         -7.8000-3                              V.I.Strizhak+        (60)40761  5 
+    1 52000   4   2  C 2900000.          0.027150         -0.348900                              V.I.Strizhak+        (60)40761  5 
+    1 52000   4   2  C 2900000.          0.053480         -0.578800                              V.I.Strizhak+        (60)40761  5 
+    1 52000   4   2  C 2900000.          0.070850         -0.769300                              V.I.Strizhak+        (60)40761  5 
+    1 52000   4   2  C 2900000.          0.062850         -0.868000                              V.I.Strizhak+        (60)40761  5 
+#/DATA      8
+#/DATASET

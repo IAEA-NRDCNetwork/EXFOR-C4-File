@@ -1,0 +1,34 @@
+#ENTRY      D0351
+#AUTHOR1    R.Liguori Neto+
+#YEAR       1990
+#INSTITUTE  (3BZLUSP)
+#TITLE      Fusion of 16O + 46,50Ti Near and Below the Coulomb
+#+          Barrier
+#AUTHOR(S)  R.Liguori Neto, J.C.Acquadro, P.R.S.Gomes, A.Szanto de Toledo, 
+#+          C.F.Tenreiro, E.Crema, N.Carlin Filho, M.M.Coimbra
+#REF-CODE   (J,NP/A,512,333,1990)
+#REFERENCE  Nucl.Phys.A 512 (1990) 333
+#DATASETS   0
+#
+#DATASET    D0351005 
+#DATE       20060627
+#REACTION   22-TI-50(8-O-16,2N+P)29-CU-63,,SIG
+#PROJ       8016
+#TARG       22050
+#MF         3
+#MT         41
+#PRODUCT    29-CU-63
+#C4BEGIN    [ 8016 22050   3  41  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 22050   3  41    2.8785+7          3.1303-4 8.4705-5                                       R.Liguori Neto+      (90)D0351  5 
+ 8016 22050   3  41    3.1424+7          3.5189-3 4.4655-4                                       R.Liguori Neto+      (90)D0351  5 
+ 8016 22050   3  41    3.3691+7          0.027054 3.1113-3                                       R.Liguori Neto+      (90)D0351  5 
+ 8016 22050   3  41    3.8728+7          0.153470 0.015867                                       R.Liguori Neto+      (90)D0351  5 
+ 8016 22050   3  41    4.3624+7          0.251630 0.026015                                       R.Liguori Neto+      (90)D0351  5 
+ 8016 22050   3  41    4.8698+7          0.307260 0.025703                                       R.Liguori Neto+      (90)D0351  5 
+ 8016 22050   3  41    5.6133+7          0.360070 0.037226                                       R.Liguori Neto+      (90)D0351  5 
+ 8016 22050   3  41    6.3874+7          0.275610 0.028494                                       R.Liguori Neto+      (90)D0351  5 
+#/DATA      8
+#/DATASET

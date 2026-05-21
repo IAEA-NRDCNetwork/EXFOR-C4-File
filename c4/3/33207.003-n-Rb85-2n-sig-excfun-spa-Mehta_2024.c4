@@ -1,0 +1,31 @@
+#ENTRY      33207
+#AUTHOR1    M.Mehta+
+#YEAR       2024
+#INSTITUTE  (3INDBDA)
+#TITLE      Activation cross section for 85Rb(n,2n)84mRb and
+#+          85Rb(n,p)85mKr reactions with uncertainty propagation
+#+          and covariance analysis
+#AUTHOR(S)  M.Mehta, N.L.Singh, R.Singh, R.Makwana, P.V.Subhash, R.Chauhan, 
+#+          S.V.Suryanarayana, K.Katovsky
+#REF-CODE   (J,JRN,333,5231,2024)
+#REFERENCE  J.Rad.Nucl.Chem. 333 (2024) 5231 (doi:10.1007/s10967-024-09682-5)
+#DATASETS   0
+#
+#DATASET    33207003 
+#DATE       20250130
+#REACTION   37-RB-85(N,2N)37-RB-84-M,,SIG,,SPA
+#PROJ       1
+#TARG       37085
+#MF         3
+#MT         16
+#PRODUCT    37-RB-84-M
+#C4BEGIN    [    1 37085   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 37085   3  16M   1.2970+7 510000.0 0.474760 0.037350                                       M.Mehta+             (24)33207  3 
+    1 37085   3  16M   1.5720+7 600000.0 0.580630 0.038890                                       M.Mehta+             (24)33207  3 
+    1 37085   3  16M   1.6730+7 660000.0 0.645040 0.033720                                       M.Mehta+             (24)33207  3 
+    1 37085   3  16M   1.8990+7 740000.0 0.630070 0.040620                                       M.Mehta+             (24)33207  3 
+#/DATA      4
+#/DATASET

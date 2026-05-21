@@ -1,0 +1,31 @@
+#ENTRY      40893
+#AUTHOR1    A.V.Polyakov+
+#YEAR       1986
+#INSTITUTE  (4RUSFEI)
+#TITLE      Scattering of 6 MeV neutrons on vanadium
+#AUTHOR(S)  A.V.Polyakov, G.N.Lovchikova, V.A.Vinogradov, B.V.Zhuravlev, 
+#+          O.A.Sal'nikov, S.Eh.Sukhikh
+#REF-CODE   (J,YK,,(3),21,1986)
+#REFERENCE  Yad.Reak.Konst.  No.3 (1986) 21
+#DATASETS   0
+#
+#DATASET    40893006 
+#DATE       20191103
+#REACTION   23-V-51(N,EL)23-V-51,,DA
+#PROJ       1
+#TARG       23051
+#MF         4
+#MT         2
+#PRODUCT    23-V-51
+#C4BEGIN    [    1 23051   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 23051   4   2  C 5860000. 70000.00 0.942900 0.056600 0.861000                              A.V.Polyakov+        (86)40893  6 
+    1 23051   4   2  C 5860000. 70000.00 0.262300 0.015700 0.697000                              A.V.Polyakov+        (86)40893  6 
+    1 23051   4   2  C 5860000. 70000.00 0.037780 2.2700-3 0.485000                              A.V.Polyakov+        (86)40893  6 
+    1 23051   4   2  C 5860000. 70000.00 0.031180 1.8700-3-0.020000                              A.V.Polyakov+        (86)40893  6 
+    1 23051   4   2  C 5860000. 70000.00 0.036700 2.2000-3-0.515000                              A.V.Polyakov+        (86)40893  6 
+    1 23051   4   2  C 5860000. 70000.00 0.022460 1.3500-3-0.871000                              A.V.Polyakov+        (86)40893  6 
+#/DATA      6
+#/DATASET

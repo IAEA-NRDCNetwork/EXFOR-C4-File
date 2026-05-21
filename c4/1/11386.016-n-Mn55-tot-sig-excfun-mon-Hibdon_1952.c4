@@ -1,0 +1,39 @@
+#ENTRY      11386
+#AUTHOR1    C.T.Hibdon+
+#YEAR       1952
+#INSTITUTE  (1USAANL)
+#TITLE      Neutron Transmission Cross Sections in the Kilovolt
+#+          Region
+#AUTHOR(S)  C.T.Hibdon, A.Langsdorf Jr, R.E.Holland
+#REF-CODE   (J,PR,85,595,1952)
+#REFERENCE  Phys.Rev. 85 (1952) 595 (doi:10.1103/PhysRev.85.595)
+#DATASETS   0
+#
+#DATASET    11386016 
+#DATE       20210922
+#REACTION   25-MN-55(N,TOT),,SIG
+#PROJ       1
+#TARG       25055
+#MF         3
+#MT         1
+#C4BEGIN    [    1 25055   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 25055   3   1    309.0000          10.01400                                                C.T.Hibdon+          (52)11386 16 
+    1 25055   3   1    22115.00          8.624000 1.053000                                       C.T.Hibdon+          (52)11386 16 
+    1 25055   3   1    23556.00          4.811000                                                C.T.Hibdon+          (52)11386 16 
+    1 25055   3   1    26578.00          9.881000                                                C.T.Hibdon+          (52)11386 16 
+    1 25055   3   1    27559.00          19.09200                                                C.T.Hibdon+          (52)11386 16 
+    1 25055   3   1    31226.00          13.23900                                                C.T.Hibdon+          (52)11386 16 
+    1 25055   3   1    35857.00          7.055000                                                C.T.Hibdon+          (52)11386 16 
+    1 25055   3   1    37180.00          5.427000                                                C.T.Hibdon+          (52)11386 16 
+    1 25055   3   1    40010.00          3.624000                                                C.T.Hibdon+          (52)11386 16 
+    1 25055   3   1    44540.00          8.601000                                                C.T.Hibdon+          (52)11386 16 
+    1 25055   3   1    45747.00          9.319000                                                C.T.Hibdon+          (52)11386 16 
+    1 25055   3   1    48639.00          8.729000                                                C.T.Hibdon+          (52)11386 16 
+    1 25055   3   1    51650.00          6.925000                                                C.T.Hibdon+          (52)11386 16 
+    1 25055   3   1    53217.00          6.426000                                                C.T.Hibdon+          (52)11386 16 
+    1 25055   3   1    59845.00          4.916000                                                C.T.Hibdon+          (52)11386 16 
+#/DATA      15
+#/DATASET

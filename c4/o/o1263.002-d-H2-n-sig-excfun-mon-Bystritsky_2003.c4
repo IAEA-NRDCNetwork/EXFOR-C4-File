@@ -1,0 +1,30 @@
+#ENTRY      O1263
+#AUTHOR1    Vyach.M.Bystritsky+
+#YEAR       2003
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Measurement of astrophysical S factor for dd
+#+          interaction at ultralow deuteron-collision energies
+#+          using the inverse Z  pinch.
+#AUTHOR(S)  Vyach.M.Bystritsky, V.V.Gerasimov, A.R.Krylov, S.S.Parzhitski, 
+#+          F.M.Penkov, O.M.Shvyryaev, V.A.Stolupin, G.N.Dudkin, B.A.Nechaev, 
+#+          V.M.Padalko, J.Wozniak, G.A.Mesyats, V.M.Bystritskii, V.I.Makhrin, 
+#+          N.A.Ratakhin
+#REF-CODE   (J,YF,66,1731,2003)
+#REFERENCE  Yad.Fiz. 66 (2003) 1731
+#DATASETS   0
+#
+#DATASET    O1263002 
+#DATE       20050324
+#REACTION   1-H-2(D,N)2-HE-3,,SIG,,SFC
+#PROJ       1002
+#TARG       1002
+#MF         3
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1002   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   3   4    7120.003          9.6758-7 3.0092-7                                       Vyach.M.Bystritsky+  (03)O1263  2 
+#/DATA      1
+#/DATASET

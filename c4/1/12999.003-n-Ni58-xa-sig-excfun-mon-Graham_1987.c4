@@ -1,0 +1,29 @@
+#ENTRY      12999
+#AUTHOR1    S.L.Graham+
+#YEAR       1987
+#INSTITUTE  (1USAOHO)
+#TITLE      CROSS SECTIONS AND SPECTRA FOR (N,XP) AND
+#+          (N,X ALPHA) REACTIONS ON 58NI AND 60NI AT ENERGIES
+#+          OF 9.4 AND 11 MEV.
+#AUTHOR(S)  S.L.Graham, M.Ahmad, S.M.Grimes, H.Satyanarayana, S.K.Saraf
+#REF-CODE   (J,NSE,95,60,8701)
+#REFERENCE  Nucl.Sci.Eng. 95 (1987) 60 (doi:10.13182/NSE87-A20432)
+#DATASETS   0
+#
+#DATASET    12999003 
+#DATE       19890308
+#REACTION   28-NI-58(N,X)2-HE-4,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1 28058   3 207 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3 207 D  8000000. 300000.0 0.068000 0.012000                                       S.L.Graham+          (87)12999  3 
+    1 28058   3 207 D  9400000. 240000.0 0.085000 0.016000                                       S.L.Graham+          (87)12999  3 
+    1 28058   3 207 D  1.1000+7 210000.0 0.092000 0.017000                                       S.L.Graham+          (87)12999  3 
+#/DATA      3
+#/DATASET

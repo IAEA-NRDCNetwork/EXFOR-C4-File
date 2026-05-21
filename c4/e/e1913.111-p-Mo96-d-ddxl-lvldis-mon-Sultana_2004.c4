@@ -1,0 +1,37 @@
+#ENTRY      E1913
+#AUTHOR1    S.A.Sultana+
+#YEAR       2004
+#INSTITUTE  (2JPNKYU)
+#TITLE      The 96Mo(p,d)95Mo reaction at 50 MeV
+#AUTHOR(S)  S.A.Sultana, D.Maki, G.Wakabayashi, Y.Uozumi, N.Ikeda, Syafarudin, 
+#+          F.Aramaki, T.Kawaguchi, M.Matoba, H.M.Sen Gupta
+#REF-CODE   (J,PR/C,70,(3),034612,200409)
+#REFERENCE  Phys.Rev.C 70 No.3 (2004) 034612 (doi:10.1103/PhysRevC.70.034612)
+#DATASETS   0
+#
+#DATASET    E1913111 
+#DATE       20051025
+#REACTION   42-MO-96(P,D)42-MO-95,,DA/DE
+#PROJ       1001
+#TARG       42096
+#MF         6
+#MT         104
+#PRODUCT    42-MO-95
+#C4BEGIN    [ 1001 42096   6 104  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42096   6 104    5.0000+7          3.500-10          0.669131          50000.00         LVLS.A.Sultana+         (04)E1913111 
+ 1001 42096   6 104    5.0000+7          7.124-11          0.669131          550000.0         LVLS.A.Sultana+         (04)E1913111 
+ 1001 42096   6 104    5.0000+7          1.065-10          0.669131          1050000.         LVLS.A.Sultana+         (04)E1913111 
+ 1001 42096   6 104    5.0000+7          6.660-11          0.669131          1550000.         LVLS.A.Sultana+         (04)E1913111 
+ 1001 42096   6 104    5.0000+7          1.249-10          0.669131          2050000.         LVLS.A.Sultana+         (04)E1913111 
+ 1001 42096   6 104    5.0000+7          3.734-10          0.669131          2550000.         LVLS.A.Sultana+         (04)E1913111 
+ 1001 42096   6 104    5.0000+7          1.451-10          0.669131          3050000.         LVLS.A.Sultana+         (04)E1913111 
+ 1001 42096   6 104    5.0000+7          2.086-10          0.669131          3550000.         LVLS.A.Sultana+         (04)E1913111 
+ 1001 42096   6 104    5.0000+7          1.281-10          0.669131          4050000.         LVLS.A.Sultana+         (04)E1913111 
+ 1001 42096   6 104    5.0000+7          1.366-10          0.669131          4550000.         LVLS.A.Sultana+         (04)E1913111 
+ 1001 42096   6 104    5.0000+7          1.127-10          0.669131          5050000.         LVLS.A.Sultana+         (04)E1913111 
+ 1001 42096   6 104    5.0000+7          9.785-11          0.669131          5550000.         LVLS.A.Sultana+         (04)E1913111 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      12670
+#AUTHOR1    W.P.Poenitz+
+#YEAR       1975
+#INSTITUTE  (1USAANL)
+#TITLE      Fast neutron capture and activation cross sections
+#AUTHOR(S)  W.P.Poenitz
+#REF-CODE   (C,75WASH,,901,1975)
+#REFERENCE  Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 page 901
+#DATASETS   0
+#
+#DATASET    12670015 
+#DATE       20211002
+#REACTION   92-U-238(N,G)92-U-239,,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         102
+#PRODUCT    92-U-239
+#C4BEGIN    [    1 92238   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3 102    392200.0          0.111200 8.0780-3                                       W.P.Poenitz          (75)12670 15 
+    1 92238   3 102    490400.0          0.118600 0.010000                                       W.P.Poenitz          (75)12670 15 
+    1 92238   3 102    584900.0          0.123300 7.5020-3                                       W.P.Poenitz          (75)12670 15 
+    1 92238   3 102    689800.0          0.138300 0.010050                                       W.P.Poenitz          (75)12670 15 
+    1 92238   3 102    775600.0          0.131600 0.011090                                       W.P.Poenitz          (75)12670 15 
+    1 92238   3 102    842100.0          0.131700 0.011110                                       W.P.Poenitz          (75)12670 15 
+    1 92238   3 102    893400.0          0.145700 0.012280                                       W.P.Poenitz          (75)12670 15 
+    1 92238   3 102    981200.0          0.135200 9.8450-3                                       W.P.Poenitz          (75)12670 15 
+    1 92238   3 102    1090000.          0.116300 9.8200-3                                       W.P.Poenitz          (75)12670 15 
+    1 92238   3 102    1183000.          0.106600 0.010200                                       W.P.Poenitz          (75)12670 15 
+#/DATA      10
+#/DATASET

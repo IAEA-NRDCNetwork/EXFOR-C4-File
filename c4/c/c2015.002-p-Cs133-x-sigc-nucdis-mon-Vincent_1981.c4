@@ -1,0 +1,28 @@
+#ENTRY      C2015
+#AUTHOR1    J.S.Vincent+
+#YEAR       1981
+#INSTITUTE  (1CANTMF)
+#TITLE      A facility for the production of iodine-123 by
+#+          spallation of caesium
+#AUTHOR(S)  J.S.Vincent, A.H.Dougan, D.L.Lyster, J.W.Blue
+#REF-CODE   (J,JRC,65,17,1981)
+#REFERENCE  J.Radioanal.Chem. 65 (1981) 17 (doi:10.1007/BF02516084)
+#DATASETS   0
+#
+#DATASET    C2015002 
+#DATE       20130702
+#REACTION   55-CS-133(P,X)ELEM/MASS,CUM,SIG
+#PROJ       1001
+#TARG       55133
+#MF         3
+#MT         459
+#C4BEGIN    [ 1001 55133   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 55133   3 459    4.8200+8          0.023500 1.9000-3           54122.9                     J.S.Vincent+         (81)C2015  2 
+ 1001 55133   3 459    4.8200+8          0.036200 2.8000-3           54123.9                     J.S.Vincent+         (81)C2015  2 
+ 1001 55133   3 459    4.8200+8          0.048100 3.9000-3           54125.9                     J.S.Vincent+         (81)C2015  2 
+ 1001 55133   3 459    4.8200+8          0.061500 5.0000-3           54127.9                     J.S.Vincent+         (81)C2015  2 
+#/DATA      4
+#/DATASET

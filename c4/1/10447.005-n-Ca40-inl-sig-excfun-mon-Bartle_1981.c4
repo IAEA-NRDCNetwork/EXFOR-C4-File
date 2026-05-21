@@ -1,0 +1,29 @@
+#ENTRY      10447
+#AUTHOR1    C.M.Bartle+
+#YEAR       1981
+#INSTITUTE  (1USAWIS)
+#TITLE      Total cross sections for the 40Ca(n,p) and (n,alpha)
+#+          reactions between 2.7 and 5.5 MeV
+#AUTHOR(S)  C.M.Bartle, P.A.Quin
+#REF-CODE   (J,ANE,8,43,1981)
+#REFERENCE  Ann.Nucl.Energy 8 (1981) 43 (doi:10.1016/0306-4549(81)90041-4)
+#DATASETS   0
+#
+#DATASET    10447005 
+#DATE       20220320
+#REACTION   20-CA-40(N,INL)20-CA-40,PAR,SIG
+#PROJ       1
+#TARG       20040
+#MF         3
+#MT         51
+#PRODUCT    20-CA-40
+#C4BEGIN    [    1 20040   3  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20040   3  51 A  3510000. 80000.00 0.022000 1.0000-3                   3350000.         LVLC.M.Bartle+          (81)10447  5 
+    1 20040   3  51 A  3750000. 100000.0 0.034000 2.0000-3                   3350000.         LVLC.M.Bartle+          (81)10447  5 
+    1 20040   3  51 A  4060000. 90000.00 0.037000 3.0000-3                   3350000.         LVLC.M.Bartle+          (81)10447  5 
+    1 20040   3  51 A  4380000. 90000.00 0.046000 3.0000-3                   3350000.         LVLC.M.Bartle+          (81)10447  5 
+#/DATA      4
+#/DATASET

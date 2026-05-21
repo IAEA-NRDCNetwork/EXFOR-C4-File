@@ -1,0 +1,26 @@
+#ENTRY      10022
+#AUTHOR1    R.C.Barrall+
+#YEAR       1969
+#INSTITUTE  (1USASTF)
+#TITLE      High energy neutron cross section validation and
+#+          neutron flux spectrum using the HENRE source.
+#AUTHOR(S)  R.C.Barrall, J.A.Holmes, M.Silbergeld
+#REF-CODE   (R,AFWL-TR-68-134,1969)
+#REFERENCE  Report AFWL-TR-68-134, 1969
+#DATASETS   0
+#
+#DATASET    10022009 
+#DATE       19990719
+#REACTION   26-FE-54(N,P)25-MN-54,,SIG
+#PROJ       1
+#TARG       26054
+#MF         3
+#MT         103
+#PRODUCT    25-MN-54
+#C4BEGIN    [    1 26054   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26054   3 103 A  1.4600+7 200000.0 0.346000 0.030000                                       R.C.Barrall+         (69)10022  9 
+#/DATA      1
+#/DATASET

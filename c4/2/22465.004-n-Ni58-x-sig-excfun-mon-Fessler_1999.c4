@@ -1,0 +1,30 @@
+#ENTRY      22465
+#AUTHOR1    A.Fessler+
+#YEAR       1999
+#INSTITUTE  (2GERJUL)
+#TITLE      Excitation Functions of 50Cr(n,np+pn+d),58Ni(n,alpha),
+#+          58Ni(n,(alpha-p)+(p-alpha)), and 62Ni(n,alpha)59Fe
+#+          reactions
+#AUTHOR(S)  A.Fessler, S.M.Qaim
+#REF-CODE   (J,RCA,84,1,1999)
+#REFERENCE  Radiochim.Acta 84 (1999) 1
+#DATASETS   0
+#
+#DATASET    22465004 
+#DATE       20170822
+#REACTION   28-NI-58(N,X)25-MN-54,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         454
+#PRODUCT    25-MN-54
+#C4BEGIN    [    1 28058   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3 454 A  1.4250+7 200000.0 3.0000-4 1.0000-4           25054.9                     A.Fessler+           (99)22465  4 
+    1 28058   3 454 A  1.7200+7 250000.0 0.012400 1.1000-3           25054.9                     A.Fessler+           (99)22465  4 
+    1 28058   3 454 A  1.8800+7 300000.0 0.022200 1.9000-3           25054.9                     A.Fessler+           (99)22465  4 
+    1 28058   3 454 A  1.9400+7 320000.0 0.026800 2.3000-3           25054.9                     A.Fessler+           (99)22465  4 
+#/DATA      4
+#/DATASET

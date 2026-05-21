@@ -1,0 +1,43 @@
+#ENTRY      10384
+#AUTHOR1    D.E.Velkley+
+#YEAR       1974
+#INSTITUTE  (1USAARL)
+#TITLE      Scattering of 9.0-MeV neutrons by Al, Si, Fe, Ni, and
+#+          Co
+#AUTHOR(S)  D.E.Velkley, D.W.Glasgow, J.D.Brandenberger, M.T.McEllistrem, 
+#+          J.C.Manthuruthil, C.P.Poirier
+#REF-CODE   (J,PR/C,9,2181,1974)
+#REFERENCE  Phys.Rev.C 9 (1974) 2181 (doi:10.1103/PhysRevC.9.2181)
+#DATASETS   0
+#
+#DATASET    10384018 
+#DATE       20030102
+#REACTION   28-NI-0(N,EL)28-NI-0,,DA
+#PROJ       1
+#TARG       28000
+#MF         4
+#MT         2
+#PRODUCT    28-NI-0
+#C4BEGIN    [    1 28000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28000   4   2  C 8970000.          0.737400          0.861629                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          0.188400          0.759271                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          0.014370          0.632029                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          2.4100-3          0.562083                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          2.8100-3          0.495459                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          7.7600-3          0.408330                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          0.015320          0.327218                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          0.024020          0.156434                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          0.020990         -0.017452                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          0.014900         -0.190809                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          9.4100-3         -0.358368                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          5.1500-3         -0.513541                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          3.3900-3         -0.653421                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          4.0900-3         -0.715693                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          5.8800-3         -0.772734                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          0.012940         -0.870356                              D.E.Velkley+         (74)10384 18 
+    1 28000   4   2  C 8970000.          0.024760         -0.941471                              D.E.Velkley+         (74)10384 18 
+#/DATA      17
+#/DATASET

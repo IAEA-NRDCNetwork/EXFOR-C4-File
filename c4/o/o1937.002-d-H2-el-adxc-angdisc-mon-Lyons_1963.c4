@@ -1,0 +1,32 @@
+#ENTRY      O1937
+#AUTHOR1    L.Lyons+
+#YEAR       1963
+#INSTITUTE  (2UK OXF)
+#TITLE      Deuteron-deuteron scattering at 20-70 MeV.
+#AUTHOR(S)  L.Lyons, J.E.A.Lys, H.W.K.Hopkins
+#REF-CODE   (J,PL,3,359,1963)
+#REFERENCE  Phys.Lett. 3 (1963) 359 (doi:10.1016/0031-9163(63)90190-2)
+#DATASETS   0
+#
+#DATASET    O1937002 
+#DATE       20120202
+#REACTION   1-H-2(D,EL)1-H-2,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1002  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4   2  C 7.5000+7          0.551800 0.070370 0.956814                              L.Lyons+             (63)O1937  2 
+ 1002  1002   4   2  C 7.5000+7          0.333900 0.034690 0.909091                              L.Lyons+             (63)O1937  2 
+ 1002  1002   4   2  C 7.5000+7          0.184300 0.017720 0.826295                              L.Lyons+             (63)O1937  2 
+ 1002  1002   4   2  C 7.5000+7          0.081150 0.012310 0.711413                              L.Lyons+             (63)O1937  2 
+ 1002  1002   4   2  C 7.5000+7          0.050140 8.8420-3 0.576432                              L.Lyons+             (63)O1937  2 
+ 1002  1002   4   2  C 7.5000+7          0.023860 7.3440-3 0.429408                              L.Lyons+             (63)O1937  2 
+ 1002  1002   4   2  C 7.5000+7          0.026130 6.3940-3 0.267407                              L.Lyons+             (63)O1937  2 
+ 1002  1002   4   2  C 7.5000+7          0.034370 6.3480-3 0.097235                              L.Lyons+             (63)O1937  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      20194
+#AUTHOR1    J.Hellstroem+
+#YEAR       1973
+#INSTITUTE  (2SWDAE)
+#TITLE      -FAST NEUTRON RADIATIVE CAPTURE CROSS-SECTIONS FOR SOME
+#+          IMPORTANT STANDARDS FROM 30 KEV TO 1.5 MEV.-
+#AUTHOR(S)  J.Hellstroem
+#REF-CODE   (J,JNE,27,71,7302)
+#REFERENCE  J.Nucl.Energy 27 (1973) 71 (doi:10.1016/0022-3107(73)90041-5)
+#DATASETS   0
+#
+#DATASET    20194005 
+#DATE       19831121
+#REACTION   49-IN-0(N,G),,SIG
+#PROJ       1
+#TARG       49000
+#MF         3
+#MT         102
+#C4BEGIN    [    1 49000   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49000   3 102    30000.00          0.850000                                                J.Hellstroem         (73)20194  5 
+    1 49000   3 102    40000.00          0.858000                                                J.Hellstroem         (73)20194  5 
+    1 49000   3 102    60000.00          0.667000                                                J.Hellstroem         (73)20194  5 
+    1 49000   3 102    80000.00          0.534000                                                J.Hellstroem         (73)20194  5 
+    1 49000   3 102    100000.0          0.457000                                                J.Hellstroem         (73)20194  5 
+    1 49000   3 102    120000.0          0.417000                                                J.Hellstroem         (73)20194  5 
+    1 49000   3 102    130000.0          0.372000                                                J.Hellstroem         (73)20194  5 
+    1 49000   3 102    175000.0          0.376000                                                J.Hellstroem         (73)20194  5 
+    1 49000   3 102    200000.0          0.374000                                                J.Hellstroem         (73)20194  5 
+    1 49000   3 102    400000.0          0.311000                                                J.Hellstroem         (73)20194  5 
+    1 49000   3 102    600000.0          0.312000                                                J.Hellstroem         (73)20194  5 
+    1 49000   3 102    800000.0          0.354000                                                J.Hellstroem         (73)20194  5 
+    1 49000   3 102    1000000.          0.354000                                                J.Hellstroem         (73)20194  5 
+    1 49000   3 102    1500000.          0.257000                                                J.Hellstroem         (73)20194  5 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      13007
+#AUTHOR1    D.O.Nellis+
+#YEAR       1971
+#INSTITUTE  (1USATNC)
+#TITLE      Gamma-ray production cross sections for tungsten
+#+          isotopes W-182, W-184 and W-186.
+#AUTHOR(S)  D.O.Nellis, T.C.Martin
+#REF-CODE   (P,ORO-2791-32,78,1971)
+#REFERENCE  Progress report ORO-2791-32 page 78, 1971
+#DATASETS   0
+#
+#DATASET    130070031
+#DATE       20140528
+#REACTION   74-W-184(N,INL)74-W-184,PAR,DA,G
+#PROJ       1
+#TARG       74184
+#MF         14
+#MT         51
+#PRODUCT    74-W-184
+#C4BEGIN    [    1 74184  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74184  14  51    1020000. 30000.00 0.035100 7.0200-3 0.573576          250000.0            D.O.Nellis+          (71)13007  31
+#/DATA      1
+#/DATASET

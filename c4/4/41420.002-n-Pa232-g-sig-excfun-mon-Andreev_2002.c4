@@ -1,0 +1,26 @@
+#ENTRY      41420
+#AUTHOR1    M.Andreev+
+#YEAR       2002
+#INSTITUTE  (4RUSMIF)
+#TITLE      Thermal neutron capture cross section of 232Pa
+#AUTHOR(S)  M.Andreev, S.Abramovich, E.Fomushkin, V.Kvasov, A.Portnov, 
+#+          A.Redkin, H.Yasuda
+#REF-CODE   (J,NSTS,2,(1),280,200208)
+#REFERENCE  Nucl.Sci.Techn.Supp. 2 No.1 (2002) 280
+#DATASETS   0
+#
+#DATASET    41420002 
+#DATE       20130529
+#REACTION   91-PA-232(N,G)91-PA-233,,SIG
+#PROJ       1
+#TARG       91232
+#MF         3
+#MT         102
+#PRODUCT    91-PA-233
+#C4BEGIN    [    1 91232   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 91232   3 102 D  0.025300          655.0000 69.00000                                       M.Andreev+           (02)41420  2 
+#/DATA      1
+#/DATASET

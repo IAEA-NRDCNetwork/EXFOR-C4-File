@@ -1,0 +1,52 @@
+#ENTRY      C0849
+#AUTHOR1    S.Bashkin+
+#YEAR       1959
+#INSTITUTE  (1USASUI)
+#TITLE      Cross Section for Elastic Scattering of Protons by
+#+          N14
+#AUTHOR(S)  S.Bashkin, R.R.Carlson, R.A.Douglas
+#REF-CODE   (J,PR,114,1552,1959)
+#REFERENCE  Phys.Rev. 114 (1959) 1552 (doi:10.1103/PhysRev.114.1552)
+#DATASETS   0
+#
+#DATASET    C0849002 
+#DATE       20011206
+#REACTION   7-N-14(P,EL)7-N-14,,DA
+#PROJ       1001
+#TARG       7014
+#MF         4
+#MT         2
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  7014   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   4   2  C 950000.0          0.401000 0.013000 6.123-17                              S.Bashkin+           (59)C0849  2 
+ 1001  7014   4   2  C 1300000.          0.249000 9.0000-3 6.123-17                              S.Bashkin+           (59)C0849  2 
+ 1001  7014   4   2  C 1650000.          0.187000 6.0000-3 6.123-17                              S.Bashkin+           (59)C0849  2 
+ 1001  7014   4   2  C 2000000.          0.137000 5.0000-3 6.123-17                              S.Bashkin+           (59)C0849  2 
+ 1001  7014   4   2  C 2800000.          0.115000 4.0000-3 6.123-17                              S.Bashkin+           (59)C0849  2 
+ 1001  7014   4   2  C 3300000.          0.075000 3.0000-3 6.123-17                              S.Bashkin+           (59)C0849  2 
+#/DATA      6
+#/DATASET
+#
+#DATASET    C0849002 
+#DATE       20011206
+#REACTION   7-N-14(P,EL)7-N-14,,DA
+#PROJ       1001
+#TARG       7014
+#MF         4
+#MT         2
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  7014   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   4   2  C 950000.0          0.141000 5.0000-3-0.944949                              S.Bashkin+           (59)C0849  2 
+ 1001  7014   4   2  C 1300000.          0.107000 4.0000-3-0.944949                              S.Bashkin+           (59)C0849  2 
+ 1001  7014   4   2  C 1650000.          0.109000 4.0000-3-0.944949                              S.Bashkin+           (59)C0849  2 
+ 1001  7014   4   2  C 2000000.          0.095000 4.0000-3-0.944949                              S.Bashkin+           (59)C0849  2 
+ 1001  7014   4   2  C 2800000.          0.086000 3.0000-3-0.944949                              S.Bashkin+           (59)C0849  2 
+ 1001  7014   4   2  C 3300000.          0.057000 2.0000-3-0.944949                              S.Bashkin+           (59)C0849  2 
+#/DATA      6
+#/DATASET

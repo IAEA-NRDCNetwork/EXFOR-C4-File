@@ -1,0 +1,35 @@
+#ENTRY      E2227
+#AUTHOR1    T.Ishimatsu+
+#YEAR       1961
+#INSTITUTE  (2JPNKYU)
+#TITLE      The N14(d,a)C12 ground-state reaction in the energy
+#+          range of deuteron from 1.5 to 3.0 MeV
+#AUTHOR(S)  T.Ishimatsu
+#REF-CODE   (J,JPJ,16,1529,1961)
+#REFERENCE  J.Phys.Soc.Jpn. 16 (1961) 1529 (doi:10.1143/JPSJ.16.1529)
+#DATASETS   0
+#
+#DATASET    E2227004 
+#DATE       20160520
+#REACTION   7-N-14(D,A)6-C-12,PAR,DA
+#PROJ       1002
+#TARG       7014
+#MF         4
+#MT         800
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1002  7014   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7014   4 800  C 1940000.          4.5040-3 1.5000-4 0.962455          0.000000         LVLT.Ishimatsu          (61)E2227  4 
+ 1002  7014   4 800  C 1940000.          3.8960-3          0.847493          0.000000         LVLT.Ishimatsu          (61)E2227  4 
+ 1002  7014   4 800  C 1940000.          2.5520-3          0.680209          0.000000         LVLT.Ishimatsu          (61)E2227  4 
+ 1002  7014   4 800  C 1940000.          1.4640-3 7.5000-5 0.462677          0.000000         LVLT.Ishimatsu          (61)E2227  4 
+ 1002  7014   4 800  C 1940000.          8.7800-4          0.210472          0.000000         LVLT.Ishimatsu          (61)E2227  4 
+ 1002  7014   4 800  C 1940000.          1.0490-3         -0.045014          0.000000         LVLT.Ishimatsu          (61)E2227  4 
+ 1002  7014   4 800  C 1940000.          1.2490-3 5.2000-5-0.297542          0.000000         LVLT.Ishimatsu          (61)E2227  4 
+ 1002  7014   4 800  C 1940000.          1.3150-3         -0.537005          0.000000         LVLT.Ishimatsu          (61)E2227  4 
+ 1002  7014   4 800  C 1940000.          1.3580-3         -0.731235          0.000000         LVLT.Ishimatsu          (61)E2227  4 
+ 1002  7014   4 800  C 1940000.          1.5810-3 6.0000-5-0.876811          0.000000         LVLT.Ishimatsu          (61)E2227  4 
+#/DATA      10
+#/DATASET

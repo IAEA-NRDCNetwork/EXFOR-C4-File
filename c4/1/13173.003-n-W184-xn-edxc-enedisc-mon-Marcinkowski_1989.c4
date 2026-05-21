@@ -1,0 +1,30 @@
+#ENTRY      13173
+#AUTHOR1    A.Marcinkowski+
+#YEAR       1989
+#INSTITUTE  (1USAOHO)
+#TITLE      NEUTRON EMISSION CROSS SECTIONS ON 184W AT 11.5 AND
+#+          26 MEV
+#AUTHOR(S)  A.Marcinkowski, R.W.Finlay, J.Rapaport, P.E.Hodgson, M.B.Chadwick
+#REF-CODE   (J,NP/A,501,1,8909)
+#REFERENCE  Nucl.Phys.A 501 (1989) 1
+#DATASETS   0
+#
+#DATASET    13173003 
+#DATE       19900108
+#REACTION   74-W-184(N,X)0-NN-1,,DE
+#PROJ       1
+#TARG       74184
+#MF         5
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    1 74184   5 201 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74184   5 201 DC 1.1500+7          8.3240-8 2.600-10                   6000000. 500000.0 E2A.Marcinkowski+      (89)13173  3 
+    1 74184   5 201 DC 1.1500+7          8.8280-8 3.800-10                   7000000. 500000.0 E2A.Marcinkowski+      (89)13173  3 
+    1 74184   5 201 DC 1.1500+7          8.4430-8 6.000-10                   8000000. 500000.0 E2A.Marcinkowski+      (89)13173  3 
+    1 74184   5 201 DC 1.1500+7          7.3050-8 1.5500-9                   9000000. 500000.0 E2A.Marcinkowski+      (89)13173  3 
+    1 74184   5 201 DC 1.1500+7          8.4110-8 1.4000-9                   1.0000+7 500000.0 E2A.Marcinkowski+      (89)13173  3 
+#/DATA      5
+#/DATASET

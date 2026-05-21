@@ -1,0 +1,31 @@
+#ENTRY      33116
+#AUTHOR1    S.Parashari+
+#YEAR       2018
+#INSTITUTE  (3INDBDA)
+#TITLE      Measurement of 232Th(n,gamma) reaction cross sections
+#+          in the neutron energy range of 11-19 MeV
+#AUTHOR(S)  S.Parashari, S.Mukherjee, A.P.Singh, V.Vansola, H.Naik, 
+#+          B.K.Nayak, R.Makwana, S.V.Suryanarayana, N.L.Singh, M.Mehta, 
+#+          Y.S.Sheela, M.Karkera, R.D.Chauhan, S.C.Sharma
+#REF-CODE   (J,PR/C,98,014625,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 014625 (doi:10.1103/PhysRevC.98.014625)
+#DATASETS   0
+#
+#DATASET    33116002 
+#DATE       20191115
+#REACTION   90-TH-232(N,G)90-TH-233,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         102
+#PRODUCT    90-TH-233
+#C4BEGIN    [    1 90232   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3 102    1.0950+7 590000.0 1.7870-3 3.7800-4                                       S.Parashari+         (18)33116  2 
+    1 90232   3 102    1.3970+7 570000.0 1.2070-3 1.3200-4                                       S.Parashari+         (18)33116  2 
+    1 90232   3 102    1.4980+7 550000.0 1.2200-3 2.5000-4                                       S.Parashari+         (18)33116  2 
+    1 90232   3 102    1.8990+7 650000.0 5.2900-4 8.5000-5                                       S.Parashari+         (18)33116  2 
+#/DATA      4
+#/DATASET

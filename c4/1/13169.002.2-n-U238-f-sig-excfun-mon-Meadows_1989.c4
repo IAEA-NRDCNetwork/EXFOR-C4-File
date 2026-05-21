@@ -1,0 +1,26 @@
+#ENTRY      13169
+#AUTHOR1    J.W.Meadows+
+#YEAR       1989
+#INSTITUTE  (1USAANL)
+#TITLE      A search for possible structure in the 238U(n,f)
+#+          cross section near 2.3 MeV
+#AUTHOR(S)  J.W.Meadows, D.L.Smith, L.P.Geraldo
+#REF-CODE   (J,ANE,16,471,1989)
+#REFERENCE  Ann.Nucl.Energy 16 (1989) 471 (doi:10.1016/0306-4549(89)90061-3)
+#DATASETS   0
+#
+#DATASET    131690022
+#DATE       20200928
+#REACTION   92-U-238(N,F),,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92238   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3  18 A  2150000. 56000.00 0.539000 7.3304-3                                       J.W.Meadows+         (89)13169  22
+    1 92238   3  18 A  2453000. 53000.00 0.552900 5.5290-3                                       J.W.Meadows+         (89)13169  22
+#/DATA      2
+#/DATASET

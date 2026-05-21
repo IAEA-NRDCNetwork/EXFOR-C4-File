@@ -1,0 +1,27 @@
+#ENTRY      C1361
+#AUTHOR1    E.Geer Illsley+
+#YEAR       1957
+#INSTITUTE  (1USANRL)
+#TITLE      Differential cross sections for the C13(He3,p)N15
+#+          reaction
+#AUTHOR(S)  E.Geer Illsley, H.D.Holmgren, R.L.Johnston, E.A.Wolicki
+#REF-CODE   (J,PR,107,538,1957)
+#REFERENCE  Phys.Rev. 107 (1957) 538 (doi:10.1103/PhysRev.107.538)
+#DATASETS   0
+#
+#DATASET    C1361005 
+#DATE       20120627
+#REACTION   6-C-13(HE3,P)7-N-15,PAR,SIG
+#PROJ       2003
+#TARG       6013
+#MF         3
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [ 2003  6013   3 600 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  6013   3 600 D  2000000.          2.1000-3 4.2000-4                   0.000000         LVLE.Geer Illsley+      (57)C1361  5 
+ 2003  6013   3 600 D  4500000.          0.014000 2.8000-3                   0.000000         LVLE.Geer Illsley+      (57)C1361  5 
+#/DATA      2
+#/DATASET

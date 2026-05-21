@@ -1,0 +1,27 @@
+#ENTRY      10899
+#AUTHOR1    D.M.Drake+
+#YEAR       1979
+#INSTITUTE  (1USALAS)
+#TITLE      Neutron scattering cross sections for Pu-242
+#AUTHOR(S)  D.M.Drake, M.Drosg, P.Lisowski, L.Veeser
+#REF-CODE   (R,LA-7855,1979)
+#REFERENCE  Report LA-7855, 1979
+#DATASETS   0
+#
+#DATASET    10899003 
+#DATE       20200229
+#REACTION   94-PU-242(N,EL)94-PU-242,,SIG
+#PROJ       1
+#TARG       94242
+#MF         3
+#MT         2
+#PRODUCT    94-PU-242
+#C4BEGIN    [    1 94242   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94242   3   2 D  570000.0          5.910000 0.700000                                       D.M.Drake+           (79)10899  3 
+    1 94242   3   2 D  1000000.          4.300000 0.500000                                       D.M.Drake+           (79)10899  3 
+    1 94242   3   2 D  1500000.          3.940000 0.500000                                       D.M.Drake+           (79)10899  3 
+#/DATA      3
+#/DATASET

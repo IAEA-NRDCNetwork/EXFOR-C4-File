@@ -1,0 +1,30 @@
+#ENTRY      23189
+#AUTHOR1    M.Diakaki+
+#YEAR       2013
+#INSTITUTE  (2GRCTUA)
+#TITLE      Determination of the 237Np(n,f) reaction cross section
+#+          for En=4.5-5.3 MeV, using a MicroMegas detector
+#+          assembly
+#AUTHOR(S)  M.Diakaki, M.Kokkoris, A.Kyrtsos, E.Skordis, C.T.Papadopoulos, 
+#+          R.Vlastou, A.Lagoyannis, S.Andriamonje
+#REF-CODE   (J,EPJ/A,49,62,2013)
+#REFERENCE  Eur.Phys.J.A 49 (2013) 62 (doi:10.1140/epja/i2013-13062-3)
+#DATASETS   0
+#
+#DATASET    23189002 
+#DATE       20240717
+#REACTION   93-NP-237(N,F),,SIG
+#PROJ       1
+#TARG       93237
+#MF         3
+#MT         18
+#C4BEGIN    [    1 93237   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   3  18    4580000. 140000.0 1.590000 0.050000                                       M.Diakaki+           (13)23189  2 
+    1 93237   3  18    4850000. 130000.0 1.500000 0.030000                                       M.Diakaki+           (13)23189  2 
+    1 93237   3  18    5090000. 120000.0 1.500000 0.030000                                       M.Diakaki+           (13)23189  2 
+    1 93237   3  18    5320000. 110000.0 1.500000 0.030000                                       M.Diakaki+           (13)23189  2 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      C0019
+#AUTHOR1    A.Kosiara+
+#YEAR       1970
+#INSTITUTE  (1USACSE)
+#TITLE      Gamma Ray-Neutron Branching Ratio in the Triton-
+#+          Deuteron Reaction.
+#AUTHOR(S)  A.Kosiara, H.B.Willard
+#REF-CODE   (J,PL/B,32,99,1970)
+#REFERENCE  Phys.Lett.B 32 (1970) 99 (doi:10.1016/0370-2693(70)90596-4)
+#DATASETS   0
+#
+#DATASET    C0019002 
+#DATE       20020213
+#REACTION   1-H-3(D,G)2-HE-5,,DA
+#PROJ       1002
+#TARG       1003
+#MF         4
+#MT         102
+#PRODUCT    2-HE-5
+#C4BEGIN    [ 1002  1003   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1003   4 102    1025000. 47000.00 4.5000-7 1.2000-7 6.123-17                              A.Kosiara+           (70)C0019  2 
+#/DATA      1
+#/DATASET

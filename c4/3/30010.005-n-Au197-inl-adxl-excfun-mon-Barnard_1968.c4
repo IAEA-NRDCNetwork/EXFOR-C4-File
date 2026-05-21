@@ -1,0 +1,30 @@
+#ENTRY      30010
+#AUTHOR1    E.Barnard+
+#YEAR       1968
+#INSTITUTE  (3SAFPEL)
+#TITLE      Inelastic scattering of fast neutrons from au-197.
+#AUTHOR(S)  E.Barnard, J.A.M.Devilliers, C.A.Engelbrecht, D.Reitmann
+#REF-CODE   (J,NP/A,107,612,196801)
+#REFERENCE  Nucl.Phys.A 107 (1968) 612 (doi:10.1016/0375-9474(68)90788-4)
+#DATASETS   0
+#
+#DATASET    30010005 
+#DATE       20040109
+#REACTION   79-AU-197(N,INL)79-AU-197,PAR,DA
+#PROJ       1
+#TARG       79197
+#MF         4
+#MT         51
+#PRODUCT    79-AU-197
+#C4BEGIN    [    1 79197   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   4  51 A  612000.0          7.1000-3 7.0000-4 6.123-17          511000.0         LVLE.Barnard+           (68)30010  5 
+    1 79197   4  51 A  621000.0          0.010000 5.0000-4 6.123-17          511000.0         LVLE.Barnard+           (68)30010  5 
+    1 79197   4  51 A  631000.0          0.012200 9.0000-4 6.123-17          511000.0         LVLE.Barnard+           (68)30010  5 
+    1 79197   4  51 A  645000.0          0.012500 8.0000-4 6.123-17          511000.0         LVLE.Barnard+           (68)30010  5 
+    1 79197   4  51 A  651000.0          0.011100 6.0000-4 6.123-17          511000.0         LVLE.Barnard+           (68)30010  5 
+    1 79197   4  51 A  770000.0          0.019300 1.2000-3 6.123-17          511000.0         LVLE.Barnard+           (68)30010  5 
+#/DATA      6
+#/DATASET

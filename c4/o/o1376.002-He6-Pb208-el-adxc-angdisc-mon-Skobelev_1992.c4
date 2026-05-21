@@ -1,0 +1,35 @@
+#ENTRY      O1376
+#AUTHOR1    N.K.Skobelev+
+#YEAR       1992
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Elastic scattering of 86-MeV Li-9 and 55-MeV He-6 on
+#+          Pb-208.
+#AUTHOR(S)  N.K.Skobelev, S.M.Lukyanov, Yu.E.Penionzhkevich, S.P.Tretyakova, 
+#+          C.Borcea, V.E.Zhuchko, V.A.Gorshkov, K.O.Terenetsky, V.P.Verbitsky, 
+#+          Yu.A.Pozdnyakov
+#REF-CODE   (J,ZP/A,341,315,1992)
+#REFERENCE  Z.Phys.A 341 (1992) 315 (doi:10.1007/BF01283540)
+#DATASETS   0
+#
+#DATASET    O1376002 
+#DATE       20070528
+#REACTION   82-PB-208(2-HE-6,EL)82-PB-208,,DA,,RTH
+#PROJ       2006
+#TARG       82208
+#MF         4
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 2006 82208   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 82208   4   2  C 5.6600+7 1100312. 0.401558          0.874620                              N.K.Skobelev+        (92)O1376  2 
+ 2006 82208   4   2  C 5.6600+7 1100312. 1.803924          0.898794                              N.K.Skobelev+        (92)O1376  2 
+ 2006 82208   4   2  C 5.6600+7 1100312. 2.099612          0.906308                              N.K.Skobelev+        (92)O1376  2 
+ 2006 82208   4   2  C 5.6600+7 1100312. 5.553050          0.927184                              N.K.Skobelev+        (92)O1376  2 
+ 2006 82208   4   2  C 5.6600+7 1100312. 7.212882          0.927184                              N.K.Skobelev+        (92)O1376  2 
+ 2006 82208   4   2  C 5.6600+7 1100312. 10.96688          0.933580                              N.K.Skobelev+        (92)O1376  2 
+ 2006 82208   4   2  C 5.6600+7 1100312. 10.21797          0.934204                              N.K.Skobelev+        (92)O1376  2 
+ 2006 82208   4   2  C 5.6600+7 1100312. 19.51054          0.947210                              N.K.Skobelev+        (92)O1376  2 
+#/DATA      8
+#/DATASET

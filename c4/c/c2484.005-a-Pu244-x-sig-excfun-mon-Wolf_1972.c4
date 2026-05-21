@@ -1,0 +1,31 @@
+#ENTRY      C2484
+#AUTHOR1    K.L.Wolf+
+#YEAR       1972
+#INSTITUTE  (1USAANL)
+#TITLE      Fissioning isomers of americium, curium and berkelium
+#+          isotopes
+#AUTHOR(S)  K.L.Wolf, J.P.Unik
+#REF-CODE   (J,PL/B,38,405,1972)
+#REFERENCE  Phys.Lett.B 38 (1972) 405 (doi:10.1016/0370-2693(72)90167-0)
+#DATASETS   0
+#
+#DATASET    C2484005 
+#DATE       20200228
+#REACTION   94-PU-244(A,X)95-AM-246-L,,SIG
+#PROJ       2004
+#TARG       94244
+#MF         3
+#MT         454
+#PRODUCT    95-AM-246-L
+#C4BEGIN    [ 2004 94244   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 94244   3 454    3.2296+7          3.7000-8 3.9800-7           95246.6                     K.L.Wolf+            (72)C2484  5 
+ 2004 94244   3 454    3.4636+7          8.8800-7 2.5900-7           95246.6                     K.L.Wolf+            (72)C2484  5 
+ 2004 94244   3 454    3.6135+7          1.7950-6 2.3100-7           95246.6                     K.L.Wolf+            (72)C2484  5 
+ 2004 94244   3 454    3.9682+7          1.8040-6 3.6100-7           95246.6                     K.L.Wolf+            (72)C2484  5 
+ 2004 94244   3 454    4.2863+7          2.7010-6 5.0900-7           95246.6                     K.L.Wolf+            (72)C2484  5 
+ 2004 94244   3 454    4.5862+7          3.7740-6 4.6300-7           95246.6                     K.L.Wolf+            (72)C2484  5 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      F1185
+#AUTHOR1    V.P.Kondratev+
+#YEAR       1985
+#INSTITUTE  (4RUSSUL)
+#TITLE      Investigation of energetic particle spectra with Z=1,2,
+#+          resulting from the interaction of deuterons with Ni-58
+#+          and Ni-64 nuclei.
+#AUTHOR(S)  V.P.Kondratev, L.V.Krasnov, V.F.Litvin, N.Ya.Skorohodova, 
+#+          I.V.Stepanov, I.G.Yatsyshin
+#REF-CODE   (J,IZV,49,(1),147,1985)
+#REFERENCE  Izv.Ross.AN,Fiz. 49 No.1 (1985) 147
+#DATASETS   0
+#
+#DATASET    F1185016 
+#DATE       20130402
+#REACTION   28-NI-58(D,X)2-HE-3,,DA
+#PROJ       1002
+#TARG       28058
+#MF         4
+#MT         206
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002 28058   4 206  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28058   4 206    6.7000+9          0.014886 1.5780-3 0.865414                              V.P.Kondratev+       (85)F1185 16 
+ 1002 28058   4 206    6.7000+9          0.013189 1.3150-3 0.494549                              V.P.Kondratev+       (85)F1185 16 
+ 1002 28058   4 206    6.7000+9          0.012803 1.5830-3-4.8869-3                              V.P.Kondratev+       (85)F1185 16 
+ 1002 28058   4 206    6.7000+9          0.011356 1.5780-3-0.492879                              V.P.Kondratev+       (85)F1185 16 
+ 1002 28058   4 206    6.7000+9          7.8130-3 1.3150-3-0.861806                              V.P.Kondratev+       (85)F1185 16 
+#/DATA      5
+#/DATASET

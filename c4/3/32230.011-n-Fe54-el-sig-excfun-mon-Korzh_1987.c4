@@ -1,0 +1,28 @@
+#ENTRY      32230
+#AUTHOR1    I.A.Korzh+
+#YEAR       1987
+#INSTITUTE  (4UKRIJD)
+#TITLE      Fast neutron elastic and inelastic scattering cross
+#+          sections of 54Fe
+#AUTHOR(S)  I.A.Korzh, V.A.Mishchenko, N.M.Pravdivy
+#REF-CODE   (J,AE,62,(6),417,1987)
+#REFERENCE  At.En. 62 No.6 (1987) 417
+#DATASETS   0
+#
+#DATASET    32230011 
+#DATE       20091211
+#REACTION   26-FE-54(N,EL)26-FE-54,,SIG
+#PROJ       1
+#TARG       26054
+#MF         3
+#MT         2
+#PRODUCT    26-FE-54
+#C4BEGIN    [    1 26054   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26054   3   2 D  5000000. 140000.0 2.200500 0.104300                                       I.A.Korzh+           (87)32230 11 
+    1 26054   3   2 D  6000000. 120000.0 2.039700 0.085100                                       I.A.Korzh+           (87)32230 11 
+    1 26054   3   2 D  7000000. 100000.0 1.832200 0.094600                                       I.A.Korzh+           (87)32230 11 
+#/DATA      3
+#/DATASET

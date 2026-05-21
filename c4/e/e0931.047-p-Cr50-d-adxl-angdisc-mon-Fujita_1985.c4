@@ -1,0 +1,36 @@
+#ENTRY      E0931
+#AUTHOR1    T.Fujita+
+#YEAR       1985
+#INSTITUTE  (2JPNOSA)
+#TITLE      HIGH-RESOLUTION STUDY OF 49CR THROUGH THE (P,D)
+#+          REACTION
+#AUTHOR(S)  T.Fujita, S.Morinobu, I.Katayama, M.Fujiwara, T.Yamazaki, 
+#+          H.Ikegami, H.Taketani, M.Adachi, T.Matsuzaki, M.Matoba, 
+#+          N.Koori
+#REF-CODE   (J,NP/A,435,7,85)
+#REFERENCE  Nucl.Phys.A 435 (1985) 7 (doi:10.1016/0375-9474(85)90299-4)
+#DATASETS   0
+#
+#DATASET    E0931047 
+#DATE       19900919
+#REACTION   24-CR-50(P,D)24-CR-49,PAR,DA
+#PROJ       1001
+#TARG       24050
+#MF         4
+#MT         650
+#PRODUCT    24-CR-49
+#C4BEGIN    [ 1001 24050   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   4 650  C 5.5000+7          2.8500-5 2.8300-6 0.991130          5784000.         LVLT.Fujita+            (85)E0931 47 
+ 1001 24050   4 650  C 5.5000+7          2.2820-5 2.2700-6 0.979925          5784000.         LVLT.Fujita+            (85)E0931 47 
+ 1001 24050   4 650  C 5.5000+7          1.8580-5 1.2100-6 0.972260          5784000.         LVLT.Fujita+            (85)E0931 47 
+ 1001 24050   4 650  C 5.5000+7          1.9450-5 9.4200-7 0.957340          5784000.         LVLT.Fujita+            (85)E0931 47 
+ 1001 24050   4 650  C 5.5000+7          1.5830-5 1.0300-6 0.938179          5784000.         LVLT.Fujita+            (85)E0931 47 
+ 1001 24050   4 650  C 5.5000+7          1.1900-5 1.6000-6 0.912763          5784000.         LVLT.Fujita+            (85)E0931 47 
+ 1001 24050   4 650  C 5.5000+7          1.0810-5 7.0500-7 0.894521          5784000.         LVLT.Fujita+            (85)E0931 47 
+ 1001 24050   4 650  C 5.5000+7          7.1650-6 7.1200-7 0.860680          5784000.         LVLT.Fujita+            (85)E0931 47 
+ 1001 24050   4 650  C 5.5000+7          3.5170-6 7.3400-7 0.810379          5784000.         LVLT.Fujita+            (85)E0931 47 
+#/DATA      9
+#/DATASET

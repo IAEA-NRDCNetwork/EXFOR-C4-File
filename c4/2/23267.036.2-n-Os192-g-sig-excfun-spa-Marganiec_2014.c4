@@ -1,0 +1,27 @@
+#ENTRY      23267
+#AUTHOR1    J.Marganiec+
+#YEAR       2014
+#INSTITUTE  (2GERKFK)
+#TITLE      Stellar (n,gamma) cross sections of neutron-rich
+#+          nuclei: Completing the isotope chains of Yb, Os, Pt,
+#+          and Hg
+#AUTHOR(S)  J.Marganiec, I.Dillmann, C.Domingo-Pardo, F.Kaeppeler
+#REF-CODE   (J,PR/C,90,065801,2014)
+#REFERENCE  Phys.Rev.C 90 (2014) 065801 (doi:10.1103/PhysRevC.90.065801)
+#DATASETS   0
+#
+#DATASET    232670362
+#DATE       20211120
+#REACTION   76-OS-192(N,G)76-OS-193,,SIG,,SPA/AV
+#PROJ       1
+#TARG       76192
+#MF         3
+#MT         102
+#PRODUCT    76-OS-193
+#C4BEGIN    [    1 76192   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 76192   3 102 D  25000.00          0.163500 6.5400-3                                       J.Marganiec+         (14)23267 362
+#/DATA      1
+#/DATASET

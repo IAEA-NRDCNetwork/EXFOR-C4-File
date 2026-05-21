@@ -1,0 +1,29 @@
+#ENTRY      33110
+#AUTHOR1    S.S.Yerraguntla+
+#YEAR       2017
+#INSTITUTE  (3INDMNP)
+#TITLE      Measurement of 59Co(n,gamma)60Co reaction cross
+#+          sections at the effective neutron energies of 11.98
+#+          and 15.75 MeV
+#AUTHOR(S)  S.S.Yerraguntla, H.Naik, M.P.Karantha, S.Ganesan, S.V.Suryanarayana, 
+#+          S.Badwar
+#REF-CODE   (J,JRN,314,457,2017)
+#REFERENCE  J.Rad.Nucl.Chem. 314 (2017) 457 (doi:10.1007/s10967-017-5374-z)
+#DATASETS   0
+#
+#DATASET    33110002 
+#DATE       20190402
+#REACTION   27-CO-59(N,G)27-CO-60,,SIG,,SPA
+#PROJ       1
+#TARG       27059
+#MF         3
+#MT         102
+#PRODUCT    27-CO-60
+#C4BEGIN    [    1 27059   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   3 102    1.1980+7 290000.0 3.4900-3 9.2000-4                                       S.S.Yerraguntla+     (17)33110  2 
+    1 27059   3 102    1.5750+7 310000.0 8.9000-4 2.8000-4                                       S.S.Yerraguntla+     (17)33110  2 
+#/DATA      2
+#/DATASET

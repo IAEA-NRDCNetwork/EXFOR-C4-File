@@ -1,0 +1,29 @@
+#ENTRY      11579
+#AUTHOR1    D.M.Drake+
+#YEAR       1969
+#INSTITUTE  (1USALAS)
+#TITLE      FAST NEUTRON ELASTIC AND INELASTIC SCATTERING FROM
+#+          SILICON.
+#AUTHOR(S)  D.M.Drake, J.C.Hopkins, C.S.Young, H.Conde, A.Sattler
+#REF-CODE   (J,NP/A,128,209,6904)
+#REFERENCE  Nucl.Phys.A 128 (1969) 209 (doi:10.1016/0375-9474(69)90986-5)
+#DATASETS   0
+#
+#DATASET    11579002 
+#DATE       19860403
+#REACTION   14-SI-0(N,EL)14-SI-0,,SIG
+#PROJ       1
+#TARG       14000
+#MF         3
+#MT         2
+#PRODUCT    14-SI-0
+#C4BEGIN    [    1 14000   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14000   3   2 D  4000000. 60000.00 1.729000 0.120000                                       D.M.Drake+           (69)11579  2 
+    1 14000   3   2 D  6000000. 230000.0 1.341000 0.094000                                       D.M.Drake+           (69)11579  2 
+    1 14000   3   2 D  6670000. 190000.0 1.150000 0.076000                                       D.M.Drake+           (69)11579  2 
+    1 14000   3   2 D  7500000. 160000.0 0.946000 0.079000                                       D.M.Drake+           (69)11579  2 
+#/DATA      4
+#/DATASET

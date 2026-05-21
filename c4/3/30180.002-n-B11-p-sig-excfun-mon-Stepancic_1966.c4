@@ -1,0 +1,29 @@
+#ENTRY      30180
+#AUTHOR1    B.Z.Stepancic+
+#YEAR       1966
+#INSTITUTE  (3SRBBKB)
+#TITLE      Cross section of the 11B(n,p)11Be reaction for
+#+          14.7-16.9 MeV neutrons
+#AUTHOR(S)  B.Z.Stepancic, D.M.Stanojevic, R.V.Popic, M.R.Aleksic
+#REF-CODE   (J,IBK,17,237,1966)
+#REFERENCE  B.Bor.Kid.Inst. 17 (1966) 237
+#DATASETS   0
+#
+#DATASET    30180002 
+#DATE       20180524
+#REACTION   5-B-11(N,P)4-BE-11,,SIG
+#PROJ       1
+#TARG       5011
+#MF         3
+#MT         103
+#PRODUCT    4-BE-11
+#C4BEGIN    [    1  5011   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5011   3 103    1.4700+7 700000.0 4.7000-3 5.0000-4                                       B.Z.Stepancic+       (66)30180  2 
+    1  5011   3 103    1.5700+7 300000.0 5.2000-3 5.0000-4                                       B.Z.Stepancic+       (66)30180  2 
+    1  5011   3 103    1.6300+7 300000.0 4.9000-3 5.0000-4                                       B.Z.Stepancic+       (66)30180  2 
+    1  5011   3 103    1.6900+7 200000.0 6.0000-3 5.0000-4                                       B.Z.Stepancic+       (66)30180  2 
+#/DATA      4
+#/DATASET

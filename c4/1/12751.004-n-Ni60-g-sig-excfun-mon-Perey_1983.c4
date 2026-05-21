@@ -1,0 +1,34 @@
+#ENTRY      12751
+#AUTHOR1    C.M.Perey+
+#YEAR       1983
+#INSTITUTE  (1USAORL)
+#TITLE      Resonance parameters of 60Ni+n from measurements of
+#+          transmission and capture yields from 1 to 450 keV
+#AUTHOR(S)  C.M.Perey, J.A.Harvey, R.L.Macklin, F.G.Perey, R.R.Winters
+#REF-CODE   (J,PR/C,27,2556,1983)
+#REFERENCE  Phys.Rev.C 27 (1983) 2556 (doi:10.1103/PhysRevC.27.2556)
+#DATASETS   0
+#
+#DATASET    12751004 
+#DATE       20170906
+#REACTION   28-NI-60(N,G)28-NI-61,,SIG,,AV
+#PROJ       1
+#TARG       28060
+#MF         3
+#MT         102
+#PRODUCT    28-NI-61
+#C4BEGIN    [    1 28060   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28060   3 102    450000.0 50000.00 8.5000-3 1.0000-4                                       C.M.Perey+           (83)12751  4 
+    1 28060   3 102    550000.0 50000.00 7.8000-3 1.0000-4                                       C.M.Perey+           (83)12751  4 
+    1 28060   3 102    650000.0 50000.00 8.0000-3 1.0000-4                                       C.M.Perey+           (83)12751  4 
+    1 28060   3 102    750000.0 50000.00 7.4000-3 1.0000-4                                       C.M.Perey+           (83)12751  4 
+    1 28060   3 102    850000.0 50000.00 8.4000-3 1.0000-4                                       C.M.Perey+           (83)12751  4 
+    1 28060   3 102    950000.0 50000.00 7.8000-3 1.0000-4                                       C.M.Perey+           (83)12751  4 
+    1 28060   3 102    1050000. 50000.00 8.0000-3 2.0000-4                                       C.M.Perey+           (83)12751  4 
+    1 28060   3 102    1150000. 50000.00 9.6000-3 2.0000-4                                       C.M.Perey+           (83)12751  4 
+    1 28060   3 102    1250000. 50000.00 0.010600 2.0000-4                                       C.M.Perey+           (83)12751  4 
+#/DATA      9
+#/DATASET

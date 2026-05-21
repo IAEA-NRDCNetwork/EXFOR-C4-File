@@ -1,0 +1,31 @@
+#ENTRY      D0406
+#AUTHOR1    P.R.S.Gomes+
+#YEAR       1991
+#INSTITUTE  (3BZLUSP)
+#TITLE      Fusion of 59Co with Light Projectiles at Near
+#+          Barrier Energies
+#AUTHOR(S)  P.R.S.Gomes, T.J.P.Penna, E.F.Chagas, R.Liguori Neto, J.C.Acquadro, 
+#+          P.R.Pascholati, E.Crema, C.Tenreiro, N.Carlin Filho, M.M.Coimbra
+#REF-CODE   (J,NP/A,534,429,1991)
+#REFERENCE  Nucl.Phys.A 534 (1991) 429 (doi:10.1016/0375-9474(91)90510-D)
+#DATASETS   0
+#
+#DATASET    D0406014 
+#DATE       20060624
+#REACTION   27-CO-59(7-N-14,2N+2P)32-GE-69,,SIG
+#PROJ       7014
+#TARG       27059
+#MF         3
+#MT         190
+#PRODUCT    32-GE-69
+#C4BEGIN    [ 7014 27059   3 190  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014 27059   3 190    4.0000+7 1000.000 1.2000-3                                                P.R.S.Gomes+         (91)D0406 14 
+ 7014 27059   3 190    4.5000+7 1000.000 0.011200                                                P.R.S.Gomes+         (91)D0406 14 
+ 7014 27059   3 190    4.8000+7 1000.000 0.033600                                                P.R.S.Gomes+         (91)D0406 14 
+ 7014 27059   3 190    5.1000+7 1000.000 0.072900                                                P.R.S.Gomes+         (91)D0406 14 
+ 7014 27059   3 190    5.6000+7 1000.000 0.129000                                                P.R.S.Gomes+         (91)D0406 14 
+#/DATA      5
+#/DATASET

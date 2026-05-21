@@ -1,0 +1,35 @@
+#ENTRY      E0931
+#AUTHOR1    T.Fujita+
+#YEAR       1985
+#INSTITUTE  (2JPNOSA)
+#TITLE      HIGH-RESOLUTION STUDY OF 49CR THROUGH THE (P,D)
+#+          REACTION
+#AUTHOR(S)  T.Fujita, S.Morinobu, I.Katayama, M.Fujiwara, T.Yamazaki, 
+#+          H.Ikegami, H.Taketani, M.Adachi, T.Matsuzaki, M.Matoba, 
+#+          N.Koori
+#REF-CODE   (J,NP/A,435,7,85)
+#REFERENCE  Nucl.Phys.A 435 (1985) 7 (doi:10.1016/0375-9474(85)90299-4)
+#DATASETS   0
+#
+#DATASET    E0931080 
+#DATE       19900919
+#REACTION   24-CR-50(P,D)24-CR-49,PAR,DA
+#PROJ       1001
+#TARG       24050
+#MF         4
+#MT         650
+#PRODUCT    24-CR-49
+#C4BEGIN    [ 1001 24050   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   4 650  C 5.5000+7          2.5830-5 1.6400-6 0.995590          7084000.         LVLT.Fujita+            (85)E0931 80 
+ 1001 24050   4 650  C 5.5000+7          2.0970-5 9.8000-7 0.989013          7084000.         LVLT.Fujita+            (85)E0931 80 
+ 1001 24050   4 650  C 5.5000+7          1.7820-5 1.7200-6 0.979551          7084000.         LVLT.Fujita+            (85)E0931 80 
+ 1001 24050   4 650  C 5.5000+7          2.0240-5 1.5700-6 0.963863          7084000.         LVLT.Fujita+            (85)E0931 80 
+ 1001 24050   4 650  C 5.5000+7          1.5940-5 9.9600-7 0.947902          7084000.         LVLT.Fujita+            (85)E0931 80 
+ 1001 24050   4 650  C 5.5000+7          1.4840-5 1.9100-6 0.928090          7084000.         LVLT.Fujita+            (85)E0931 80 
+ 1001 24050   4 650  C 5.5000+7          1.1850-5 1.3500-6 0.913808          7084000.         LVLT.Fujita+            (85)E0931 80 
+ 1001 24050   4 650  C 5.5000+7          3.8340-6 8.4000-7 0.834309          7084000.         LVLT.Fujita+            (85)E0931 80 
+#/DATA      8
+#/DATASET

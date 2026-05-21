@@ -1,0 +1,37 @@
+#ENTRY      D6185
+#AUTHOR1    D.Singh+
+#YEAR       2011
+#INSTITUTE  (3INDNSD)
+#TITLE      Reaction mechanism in the 20Ne+59Co system at
+#+          3-7 MeV/nucleon, and observation of entrance-channel
+#+          mass-asymmetry of the incomplete fusion fraction
+#AUTHOR(S)  D.Singh, R.Ali, M.Afzal Ansari, B.S.Tomar, M.H.Rashid, R.Guin, 
+#+          S.K.Das
+#REF-CODE   (J,PR/C,83,054604,2011)
+#REFERENCE  Phys.Rev.C 83 (2011) 054604 (doi:10.1103/PhysRevC.83.054604)
+#DATASETS   0
+#
+#DATASET    D61850071
+#DATE       20131124
+#REACTION   27-CO-59(10-NE-20,X)34-SE-73,CUM,SIG
+#PROJ       10020
+#TARG       27059
+#MF         3
+#MT         459
+#PRODUCT    34-SE-73
+#C4BEGIN    [10020 27059   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10020 27059   3 459    6.2900+7 1000000. 0.022900 1.3000-3           34073.9                     D.Singh+             (11)D6185  71
+10020 27059   3 459    7.5200+7 800000.0 0.133400 7.3000-3           34073.9                     D.Singh+             (11)D6185  71
+10020 27059   3 459    8.6500+7 800000.0 0.141000 7.7000-3           34073.9                     D.Singh+             (11)D6185  71
+10020 27059   3 459    9.7100+7 700000.0 0.096400 5.3000-3           34073.9                     D.Singh+             (11)D6185  71
+10020 27059   3 459    1.0700+8 700000.0 0.068200 4.6000-3           34073.9                     D.Singh+             (11)D6185  71
+10020 27059   3 459    1.1630+8 600000.0 0.095500 5.2000-3           34073.9                     D.Singh+             (11)D6185  71
+10020 27059   3 459    1.2520+8 600000.0 0.077200 4.3000-3           34073.9                     D.Singh+             (11)D6185  71
+10020 27059   3 459    1.3380+8 600000.0 0.092800 5.1000-3           34073.9                     D.Singh+             (11)D6185  71
+10020 27059   3 459    1.4210+8 600000.0 0.079000 4.3000-3           34073.9                     D.Singh+             (11)D6185  71
+10020 27059   3 459    1.5020+8 700000.0 0.060700 4.2000-3           34073.9                     D.Singh+             (11)D6185  71
+#/DATA      10
+#/DATASET

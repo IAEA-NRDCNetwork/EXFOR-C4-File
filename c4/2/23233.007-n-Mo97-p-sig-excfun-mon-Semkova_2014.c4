@@ -1,0 +1,29 @@
+#ENTRY      23233
+#AUTHOR1    V.Semkova+
+#YEAR       2014
+#INSTITUTE  (2GERPTB)
+#TITLE      Measurement of neutron activation cross sections on Mo
+#+          isotopes in the energy range from 7 MeV to 15 MeV.
+#AUTHOR(S)  V.Semkova, R.Nolte
+#REF-CODE   (J,EPJ/CS,66,03077,2014)
+#REFERENCE  EPJ Web Conf. 66 (2014) 03077 (doi:10.1051/epjconf/20146603077)
+#DATASETS   0
+#
+#DATASET    23233007 
+#DATE       20170828
+#REACTION   42-MO-97(N,P)41-NB-97,,SIG
+#PROJ       1
+#TARG       42097
+#MF         3
+#MT         103
+#PRODUCT    41-NB-97
+#C4BEGIN    [    1 42097   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42097   3 103    1.3080+7 55000.00 0.013000 7.0000-4                                       V.Semkova+           (14)23233  7 
+    1 42097   3 103    1.2090+7 55000.00 7.8000-3 7.0000-4                                       V.Semkova+           (14)23233  7 
+    1 42097   3 103    1.0920+7 55000.00 4.5000-3 2.0000-4                                       V.Semkova+           (14)23233  7 
+    1 42097   3 103    8920000. 60000.00 1.0400-3 1.5000-4                                       V.Semkova+           (14)23233  7 
+#/DATA      4
+#/DATASET

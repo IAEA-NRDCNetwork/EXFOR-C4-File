@@ -1,0 +1,26 @@
+#ENTRY      20058
+#AUTHOR1    H.Spenke+
+#YEAR       1964
+#INSTITUTE  (2AUSIRK)
+#TITLE      (n,2n) Cross-section measurement on 151Eu, 170Er,
+#+          176Yb and 205Tl with 14.8 MeV neutrons
+#AUTHOR(S)  H.Spenke
+#REF-CODE   (J,NP,51,329,196402)
+#REFERENCE  Nucl.Phys. 51 (1964) 329 (doi:10.1016/0029-5582(64)90273-1)
+#DATASETS   0
+#
+#DATASET    20058003 
+#DATE       20120708
+#REACTION   68-ER-170(N,2N)68-ER-169,,SIG
+#PROJ       1
+#TARG       68170
+#MF         3
+#MT         16
+#PRODUCT    68-ER-169
+#C4BEGIN    [    1 68170   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 68170   3  16    1.4800+7 200000.0 1.895000 0.265300                                       H.Spenke             (64)20058  3 
+#/DATA      1
+#/DATASET

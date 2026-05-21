@@ -1,0 +1,35 @@
+#ENTRY      D6341
+#AUTHOR1    D.Singh+
+#YEAR       2018
+#INSTITUTE  (3INDTRM)
+#TITLE      Measurement of excitation functions of evaporation
+#+          residues in the 16O + 124Sn reaction and investigation
+#+          of the dependence of incomplete fusion dynamics on
+#+          entrance channel parameters
+#AUTHOR(S)  D.Singh, S.B.Linda, P.K.Giri, A.Mahato, R.Tripathi, H.Kumar, 
+#+          S.A.Tali, S.Parashari, A.Ali, R.Dubey, M.A.Ansari, R.Kumar, 
+#+          S.Muralithar, R.P.Singh
+#REF-CODE   (J,PR/C,97,064610,2018)
+#REFERENCE  Phys.Rev.C 97 (2018) 064610 (doi:10.1103/PhysRevC.97.064610)
+#DATASETS   0
+#
+#DATASET    D6341016 
+#DATE       20191116
+#REACTION   50-SN-124(8-O-16,X)55-CS-132,,SIG
+#PROJ       8016
+#TARG       50124
+#MF         3
+#MT         454
+#PRODUCT    55-CS-132
+#C4BEGIN    [ 8016 50124   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 50124   3 454    7.4160+7 220000.0 2.4100-3 3.6000-4           55132.9                     D.Singh+             (18)D6341 16 
+ 8016 50124   3 454    7.9790+7 210000.0 3.6400-3 4.2000-4           55132.9                     D.Singh+             (18)D6341 16 
+ 8016 50124   3 454    8.2970+7 260000.0 6.8300-3 9.1000-4           55132.9                     D.Singh+             (18)D6341 16 
+ 8016 50124   3 454    8.8500+7 300000.0 0.012900 1.6000-3           55132.9                     D.Singh+             (18)D6341 16 
+ 8016 50124   3 454    9.4110+7 290000.0 0.014700 1.9700-3           55132.9                     D.Singh+             (18)D6341 16 
+ 8016 50124   3 454    9.9720+7 280000.0 0.019310 2.4200-3           55132.9                     D.Singh+             (18)D6341 16 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      C0471
+#AUTHOR1    N.Boukharouba+
+#YEAR       1992
+#INSTITUTE  (1USAOHO)
+#TITLE      Low energy optical model studies of proton scattering
+#+          on 54Fe and 56Fe
+#AUTHOR(S)  N.Boukharouba, C.E.Brient, S.M.Grimes, V.Mishra, R.S.Pedroni
+#REF-CODE   (J,PR/C,46,2375,199212)
+#REFERENCE  Phys.Rev.C 46 (1992) 2375 (doi:10.1103/PhysRevC.46.2375)
+#DATASETS   0
+#
+#DATASET    C0471003 
+#DATE       20170619
+#REACTION   26-FE-56(P,G)27-CO-57,,SIG
+#PROJ       1001
+#TARG       26056
+#MF         3
+#MT         102
+#PRODUCT    27-CO-57
+#C4BEGIN    [ 1001 26056   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056   3 102    4080000.          1.4000-3                                                N.Boukharouba+       (92)C0471  3 
+ 1001 26056   3 102    5020000.          2.2000-3                                                N.Boukharouba+       (92)C0471  3 
+ 1001 26056   3 102    5840000.          2.6000-3                                                N.Boukharouba+       (92)C0471  3 
+ 1001 26056   3 102    6560000.          2.7000-3                                                N.Boukharouba+       (92)C0471  3 
+#/DATA      4
+#/DATASET

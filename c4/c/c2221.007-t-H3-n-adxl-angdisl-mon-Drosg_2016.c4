@@ -1,0 +1,33 @@
+#ENTRY      C2221
+#AUTHOR1    M.Drosg+
+#YEAR       2016
+#INSTITUTE  (2AUSVIE)
+#TITLE      Angle-dependent double-differential neutron emission
+#+          cross sections of 3H(t,n) between 5.98 and 19.14 MeV,
+#+          and evidence of 4H as intermediate reaction product
+#AUTHOR(S)  M.Drosg, M.M.Steurer, E.Jericha, D.M.Drake
+#REF-CODE   (J,NSE,184,114,2016)
+#REFERENCE  Nucl.Sci.Eng. 184 (2016) 114 (doi:10.13182/NSE16-56)
+#DATASETS   0
+#
+#DATASET    C2221007 
+#DATE       20160523
+#REACTION   1-H-3(T,N)2-HE-5,,DA
+#PROJ       1003
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-5
+#C4BEGIN    [ 1003  1003   4   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  1003   4   4 D  5980000.          0.011400 1.2000-3 0.999998                              M.Drosg+             (16)C2221  7 
+ 1003  1003   4   4 D  5980000.          0.011570 6.7000-4 0.966376                              M.Drosg+             (16)C2221  7 
+ 1003  1003   4   4 D  5980000.          0.012300 5.0000-4 0.866897                              M.Drosg+             (16)C2221  7 
+ 1003  1003   4   4 D  5980000.          0.010500 3.0000-4 0.500000                              M.Drosg+             (16)C2221  7 
+ 1003  1003   4   4 D  5980000.          8.9200-3 2.4000-4 1.7453-3                              M.Drosg+             (16)C2221  7 
+ 1003  1003   4   4 D  5980000.          6.4000-3 3.0000-4-0.498488                              M.Drosg+             (16)C2221  7 
+ 1003  1003   4   4 D  5980000.          5.1000-3 4.0000-4-0.818150                              M.Drosg+             (16)C2221  7 
+#/DATA      7
+#/DATASET

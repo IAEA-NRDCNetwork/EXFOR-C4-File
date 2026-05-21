@@ -1,0 +1,42 @@
+#ENTRY      C2746
+#AUTHOR1    S.Burcher+
+#YEAR       2022
+#INSTITUTE  (1USATEN)
+#TITLE      Developing the 32S(p,d)31S*(p)(g) reaction to probe
+#+          the 30P(p,g)31S reaction rate in classical novae
+#AUTHOR(S)  S.Burcher, K.A.Chipps, R.O.Hughes, C.S.Reingold, A.Saastamoinen, 
+#+          J.T.Harke, N.Cooper, S.Ahn, J.M.Allmond, H.Clark, J.A.Cizewski, 
+#+          M.R.Hall, J.Hooker, H.Jayatissa, K.L.Jones, S.Ota, S.D.Pain, 
+#+          K.Schmidt, A.Simon, S.Upadhyayula
+#REF-CODE   (J,PR/C,105,045805,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) 045805 (doi:10.1103/PhysRevC.105.045805)
+#DATASETS   0
+#
+#DATASET    C2746004 
+#DATE       20220607
+#REACTION   16-S-32(P,D)16-S-31,PAR,DA
+#PROJ       1001
+#TARG       16032
+#MF         4
+#MT         650
+#PRODUCT    16-S-31
+#C4BEGIN    [ 1001 16032   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 16032   4 650    3.3000+7          2.1538-4 6.0540-5 0.933393          7171000.         LVLS.Burcher+           (22)C2746  4 
+ 1001 16032   4 650    3.3000+7          2.1371-4 2.9420-5 0.920300          7171000.         LVLS.Burcher+           (22)C2746  4 
+ 1001 16032   4 650    3.3000+7          2.7929-4 3.7820-5 0.906160          7171000.         LVLS.Burcher+           (22)C2746  4 
+ 1001 16032   4 650    3.3000+7          2.4718-4 3.7320-5 0.890848          7171000.         LVLS.Burcher+           (22)C2746  4 
+ 1001 16032   4 650    3.3000+7          2.4847-4 3.6420-5 0.874281          7171000.         LVLS.Burcher+           (22)C2746  4 
+ 1001 16032   4 650    3.3000+7          1.9312-4 5.9240-5 0.856808          7171000.         LVLS.Burcher+           (22)C2746  4 
+ 1001 16032   4 650    3.3000+7          1.6567-4 4.2150-5 0.838385          7171000.         LVLS.Burcher+           (22)C2746  4 
+ 1001 16032   4 650    3.3000+7          6.4510-5 3.9650-5 0.818852          7171000.         LVLS.Burcher+           (22)C2746  4 
+ 1001 16032   4 650    3.3000+7          5.1590-5 1.8680-5 0.798320          7171000.         LVLS.Burcher+           (22)C2746  4 
+ 1001 16032   4 650    3.3000+7          4.6860-5 3.4790-5 0.776926          7171000.         LVLS.Burcher+           (22)C2746  4 
+ 1001 16032   4 650    3.3000+7          5.2260-5 2.4320-5 0.754481          7171000.         LVLS.Burcher+           (22)C2746  4 
+ 1001 16032   4 650    3.3000+7          4.7850-5 1.0950-5 0.730877          7171000.         LVLS.Burcher+           (22)C2746  4 
+ 1001 16032   4 650    3.3000+7          4.0940-5 1.5360-5 0.706613          7171000.         LVLS.Burcher+           (22)C2746  4 
+ 1001 16032   4 650    3.3000+7          3.7090-5 5.5200-6 0.681232          7171000.         LVLS.Burcher+           (22)C2746  4 
+#/DATA      14
+#/DATASET

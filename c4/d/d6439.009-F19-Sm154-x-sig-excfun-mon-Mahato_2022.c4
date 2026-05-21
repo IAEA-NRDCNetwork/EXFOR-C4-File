@@ -1,0 +1,31 @@
+#ENTRY      D6439
+#AUTHOR1    A.Mahato+
+#YEAR       2022
+#INSTITUTE  (3INDMUA)
+#TITLE      Effects of entrance channels on breakup fusion
+#+          induced by 19F projectiles
+#AUTHOR(S)  A.Mahato, D.Singh, N.Sharma, P.K.Giri, S.B.Linda, H.Kumar, 
+#+          S.A.Tali, M.A.Ansari, A.Ali, N.K.Deb, N.P.M.Sathik, S.Kumar, 
+#+          R.Kumar, S.Muralithar, R.P.Singh
+#REF-CODE   (J,PR/C,106,014613,2022)
+#REFERENCE  Phys.Rev.C 106 (2022) 014613 (doi:10.1103/PhysRevC.106.014613)
+#DATASETS   0
+#
+#DATASET    D6439009 
+#DATE       20230125
+#REACTION   62-SM-154(9-F-19,X)67-HO-162-M,,SIG
+#PROJ       9019
+#TARG       62154
+#MF         3
+#MT         454
+#PRODUCT    67-HO-162-M
+#C4BEGIN    [ 9019 62154   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 9019 62154   3 454    9.0700+7 900000.0 2.6800-3 3.0000-4           67162.7                     A.Mahato+            (22)D6439  9 
+ 9019 62154   3 454    9.6500+7 900000.0 6.5000-3 7.0000-4           67162.7                     A.Mahato+            (22)D6439  9 
+ 9019 62154   3 454    1.0270+8 1100000. 0.015900 1.7000-3           67162.7                     A.Mahato+            (22)D6439  9 
+ 9019 62154   3 454    1.0940+8 1100000. 0.018600 2.0000-3           67162.7                     A.Mahato+            (22)D6439  9 
+#/DATA      4
+#/DATASET

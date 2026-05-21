@@ -1,0 +1,43 @@
+#ENTRY      O1221
+#AUTHOR1    A.Tumino+
+#YEAR       2003
+#INSTITUTE  (2ITYCAT)
+#TITLE      Validity test of the "Trojan horse" method applied to
+#+          the Li-6(p,alpha)He-3 reaction
+#AUTHOR(S)  A.Tumino, C.Spitaleri, A.Di Pietro, P.Figuera, M.Lattuada, 
+#+          A.Musumarra, M.G.Pellegriti, R.G.Pizzone, S.Romano, C.Rolfs, 
+#+          S.Tudisco, S.Typel
+#REF-CODE   (J,PR/C,67,065803,2003)
+#REFERENCE  Phys.Rev.C 67 (2003) 065803 (doi:10.1103/PhysRevC.67.065803)
+#DATASETS   0
+#
+#DATASET    O1221003 
+#DATE       20050204
+#REACTION   3-LI-6(P,HE3)2-HE-4,,SIG,,SFC
+#PROJ       1001
+#TARG       3006
+#MF         3
+#MT         106
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  3006   3 106  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   3 106    46900.00          7.6244-5 7.8873-6                                       A.Tumino+            (03)O1221  3 
+ 1001  3006   3 106    125200.0          5.5164-3 4.5115-4                                       A.Tumino+            (03)O1221  3 
+ 1001  3006   3 106    206000.0          0.020341 1.6751-3                                       A.Tumino+            (03)O1221  3 
+ 1001  3006   3 106    286000.0          0.040964 3.1033-3                                       A.Tumino+            (03)O1221  3 
+ 1001  3006   3 106    368000.0          0.044327 3.9661-3                                       A.Tumino+            (03)O1221  3 
+ 1001  3006   3 106    452000.0          0.057398 4.2972-3                                       A.Tumino+            (03)O1221  3 
+ 1001  3006   3 106    536000.0          0.078076 6.3204-3                                       A.Tumino+            (03)O1221  3 
+ 1001  3006   3 106    605000.0          0.082002 5.8573-3                                       A.Tumino+            (03)O1221  3 
+ 1001  3006   3 106    692000.0          0.084450 7.9758-3                                       A.Tumino+            (03)O1221  3 
+ 1001  3006   3 106    762000.0          0.091777 6.5555-3                                       A.Tumino+            (03)O1221  3 
+ 1001  3006   3 106    850000.0          0.097570 7.5888-3                                       A.Tumino+            (03)O1221  3 
+ 1001  3006   3 106    937000.0          0.109526 8.6015-3                                       A.Tumino+            (03)O1221  3 
+ 1001  3006   3 106    1020000.          0.113146 8.3812-3                                       A.Tumino+            (03)O1221  3 
+ 1001  3006   3 106    1110000.          0.121832 0.010567                                       A.Tumino+            (03)O1221  3 
+ 1001  3006   3 106    1180000.          0.129251 0.011461                                       A.Tumino+            (03)O1221  3 
+ 1001  3006   3 106    1269000.          0.144308 0.013060                                       A.Tumino+            (03)O1221  3 
+#/DATA      16
+#/DATASET

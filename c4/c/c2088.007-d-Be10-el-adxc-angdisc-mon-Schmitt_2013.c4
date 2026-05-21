@@ -1,0 +1,42 @@
+#ENTRY      C2088
+#AUTHOR1    K.T.Schmitt+
+#YEAR       2013
+#INSTITUTE  (1USATEN)
+#TITLE      Reactions of a 10Be beam on proton and deuteron targets
+#AUTHOR(S)  K.T.Schmitt, K.L.Jones, S.Ahn, D.W.Bardayan, A.Bey, J.C.Blackmon, 
+#+          S.M.Brown, K.Y.Chae, K.A.Chipps, J.A.Cizewski, K.I.Hahn, 
+#+          J.J.Kolata, R.L.Kozub, J.F.Liang, C.Matei, M.Matos, D.Matyas, 
+#+          B.Moazen, C.D.Nesaraja, F.M.Nunes, P.D.O'Malley, S.D.Pain, 
+#+          W.A.Peters, S.T.Pittman, A.Roberts, D.Shapira, J.F.Shriner Jr, 
+#+          M.S.Smith, I.Spassova, D.W.Stracener, N.J.Upadhyay, A.N.Villano, 
+#+          G.L.Wilson
+#REF-CODE   (J,PR/C,88,064612,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 064612 (doi:10.1103/PhysRevC.88.064612)
+#DATASETS   0
+#
+#DATASET    C2088007 
+#DATE       20140123
+#REACTION   4-BE-10(D,EL)4-BE-10,,DA,,RTH
+#PROJ       1002
+#TARG       4010
+#MF         4
+#MT         2
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1002  4010   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4010   4   2  C 1.5000+7          0.138784 0.013878 0.849893                              K.T.Schmitt+         (13)C2088  7 
+ 1002  4010   4   2  C 1.5000+7          0.076012 7.6012-3 0.830012                              K.T.Schmitt+         (13)C2088  7 
+ 1002  4010   4   2  C 1.5000+7          0.038930 3.8930-3 0.809017                              K.T.Schmitt+         (13)C2088  7 
+ 1002  4010   4   2  C 1.5000+7          0.017335 1.7335-3 0.789084                              K.T.Schmitt+         (13)C2088  7 
+ 1002  4010   4   2  C 1.5000+7          4.6005-3 4.6005-4 0.769400                              K.T.Schmitt+         (13)C2088  7 
+ 1002  4010   4   2  C 1.5000+7          2.1108-3 2.1108-4 0.759271                              K.T.Schmitt+         (13)C2088  7 
+ 1002  4010   4   2  C 1.5000+7          4.8774-3 4.8774-4 0.721760                              K.T.Schmitt+         (13)C2088  7 
+ 1002  4010   4   2  C 1.5000+7          0.013884 1.3884-3 0.681998                              K.T.Schmitt+         (13)C2088  7 
+ 1002  4010   4   2  C 1.5000+7          0.017451 1.7451-3 0.640110                              K.T.Schmitt+         (13)C2088  7 
+ 1002  4010   4   2  C 1.5000+7          0.017680 1.7680-3 0.596225                              K.T.Schmitt+         (13)C2088  7 
+ 1002  4010   4   2  C 1.5000+7          0.017351 1.7351-3 0.551937                              K.T.Schmitt+         (13)C2088  7 
+ 1002  4010   4   2  C 1.5000+7          0.013865 1.3865-3 0.504528                              K.T.Schmitt+         (13)C2088  7 
+#/DATA      12
+#/DATASET

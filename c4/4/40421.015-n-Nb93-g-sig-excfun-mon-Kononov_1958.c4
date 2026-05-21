@@ -1,0 +1,26 @@
+#ENTRY      40421
+#AUTHOR1    V.N.Kononov+
+#YEAR       1958
+#INSTITUTE  (4RUSFEI)
+#TITLE      Measurement of the radiative capture cross sections of
+#+          25 keV neutrons
+#AUTHOR(S)  V.N.Kononov, Iu.Ia.Stavisskii, V.A.Tolstikov
+#REF-CODE   (J,SJA,5,1483,1958)
+#REFERENCE  Sov.At.Energy 5 (1958) 1483 (doi:10.1007/BF01498493)
+#DATASETS   0
+#
+#DATASET    40421015 
+#DATE       20221017
+#REACTION   41-NB-93(N,G)41-NB-94,,SIG
+#PROJ       1
+#TARG       41093
+#MF         3
+#MT         102
+#PRODUCT    41-NB-94
+#C4BEGIN    [    1 41093   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093   3 102 C  24000.00          0.115000 0.012000                                       V.N.Kononov+         (58)40421 15 
+#/DATA      1
+#/DATASET

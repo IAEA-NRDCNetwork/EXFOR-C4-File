@@ -1,0 +1,31 @@
+#ENTRY      A1028
+#AUTHOR1    J.H.Sanders+
+#YEAR       1950
+#INSTITUTE  (2UK OXF)
+#TITLE      The low energy cross section and angular distribution
+#+          of the D(d,p) reaction
+#AUTHOR(S)  J.H.Sanders, J.Moffatt, D.Roaf
+#REF-CODE   (J,PR,77,(5),754(N14),1950)
+#REFERENCE  Phys.Rev. 77 No.5 (1950) 754(N14)
+#DATASETS   0
+#
+#DATASET    A1028002 
+#DATE       20091030
+#REACTION   1-H-2(D,P)1-H-3,,SIG
+#PROJ       1002
+#TARG       1002
+#MF         3
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002  1002   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   3 103    14500.00          7.0600-5                                                J.H.Sanders+         (50)A1028  2 
+ 1002  1002   3 103    19400.00          2.4800-4                                                J.H.Sanders+         (50)A1028  2 
+ 1002  1002   3 103    24300.00          5.9600-4                                                J.H.Sanders+         (50)A1028  2 
+ 1002  1002   3 103    29100.00          1.1200-3                                                J.H.Sanders+         (50)A1028  2 
+ 1002  1002   3 103    33900.00          1.7600-3                                                J.H.Sanders+         (50)A1028  2 
+ 1002  1002   3 103    38800.00          2.5500-3                                                J.H.Sanders+         (50)A1028  2 
+#/DATA      6
+#/DATASET

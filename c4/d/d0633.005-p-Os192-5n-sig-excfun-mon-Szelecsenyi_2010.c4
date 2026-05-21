@@ -1,0 +1,37 @@
+#ENTRY      D0633
+#AUTHOR1    F.Szelecsenyi+
+#YEAR       2010
+#INSTITUTE  (3HUNDEB)
+#TITLE      Excitation functions of 186,187,188,189,190,192Ir
+#+          formed in proton-induced  reactions  on highly
+#+          enriched 192Os up to 66 MeV
+#AUTHOR(S)  F.Szelecsenyi, C.Vermeulen, G.F.Steyn, Z.Kovacs, K.Aardaneh, 
+#+          T.N.Van Der Walt
+#REF-CODE   (J,NIM/B,268,3306,2010)
+#REFERENCE  Nucl.Instrum.Meth.B 268 (2010) 3306 (doi:10.1016/j.nimb.2010.07.010)
+#DATASETS   0
+#
+#DATASET    D0633005 
+#DATE       20100909
+#REACTION   76-OS-192(P,5N)77-IR-188,,SIG
+#PROJ       1001
+#TARG       76192
+#MF         3
+#MT         152
+#PRODUCT    77-IR-188
+#C4BEGIN    [ 1001 76192   3 152  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 76192   3 152    3.4500+7 1400000. 0.040400 4.7000-3                                       F.Szelecsenyi+       (10)D0633  5 
+ 1001 76192   3 152    3.9100+7 1300000. 0.470000 0.051100                                       F.Szelecsenyi+       (10)D0633  5 
+ 1001 76192   3 152    4.3100+7 1200000. 0.928700 0.100900                                       F.Szelecsenyi+       (10)D0633  5 
+ 1001 76192   3 152    4.7000+7 1100000. 0.747300 0.081200                                       F.Szelecsenyi+       (10)D0633  5 
+ 1001 76192   3 152    5.0600+7 1100000. 0.584700 0.063500                                       F.Szelecsenyi+       (10)D0633  5 
+ 1001 76192   3 152    5.4100+7 1000000. 0.296600 0.032200                                       F.Szelecsenyi+       (10)D0633  5 
+ 1001 76192   3 152    5.7300+7 900000.0 0.237000 0.025700                                       F.Szelecsenyi+       (10)D0633  5 
+ 1001 76192   3 152    6.0500+7 800000.0 0.159400 0.017300                                       F.Szelecsenyi+       (10)D0633  5 
+ 1001 76192   3 152    6.3500+7 800000.0 0.123900 0.013500                                       F.Szelecsenyi+       (10)D0633  5 
+ 1001 76192   3 152    6.6500+7 700000.0 0.120900 0.012400                                       F.Szelecsenyi+       (10)D0633  5 
+#/DATA      10
+#/DATASET

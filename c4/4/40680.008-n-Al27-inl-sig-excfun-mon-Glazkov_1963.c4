@@ -1,0 +1,26 @@
+#ENTRY      40680
+#AUTHOR1    N.P.Glazkov+
+#YEAR       1963
+#INSTITUTE  (4RUSFEI)
+#TITLE      Cross sections of the inelastic scattering of neutrons
+#+          with energies of 0.4-1.2 MeV on medium and light nuclei
+#AUTHOR(S)  N.P.Glazkov
+#REF-CODE   (J,AE,15,416,1963)
+#REFERENCE  At.En. 15 (1963) 416
+#DATASETS   0
+#
+#DATASET    40680008 
+#DATE       20211203
+#REACTION   13-AL-27(N,INL)13-AL-27,,SIG
+#PROJ       1
+#TARG       13027
+#MF         3
+#MT         4
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   3   4    1200000.          0.180000 0.050000                                       N.P.Glazkov          (63)40680  8 
+#/DATA      1
+#/DATASET

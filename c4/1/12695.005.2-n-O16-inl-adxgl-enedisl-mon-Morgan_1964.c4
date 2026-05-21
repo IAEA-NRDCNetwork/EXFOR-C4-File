@@ -1,0 +1,30 @@
+#ENTRY      12695
+#AUTHOR1    I.L.Morgan+
+#YEAR       1964
+#INSTITUTE  (1USATNC)
+#TITLE      Angular distribution of gamma rays from
+#+          C, O, and N at En=14.8 MeV
+#AUTHOR(S)  I.L.Morgan, J.B.Ashe, D.O.Nellis
+#REF-CODE   (P,TID-22012,158,196408)
+#REFERENCE  Progress report TID-22012 page 158, 1964
+#DATASETS   0
+#
+#DATASET    126950052
+#DATE       20140422
+#REACTION   8-O-16(N,INL)8-O-16,PAR,DA,G
+#PROJ       1
+#TARG       8016
+#MF         14
+#MT         51
+#PRODUCT    8-O-16
+#C4BEGIN    [    1  8016  14  51 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016  14  51 C  1.4800+7 300000.0 2.6100-3 5.2200-4 6.123-17          2740000.            I.L.Morgan+          (64)12695  52
+    1  8016  14  51 C  1.4800+7 300000.0 9.2100-3 1.8420-3 6.123-17          6140000.            I.L.Morgan+          (64)12695  52
+    1  8016  14  51 C  1.4800+7 300000.0 2.6100-3 5.2200-4 6.123-17          6920000.            I.L.Morgan+          (64)12695  52
+    1  8016  14  51 C  1.4800+7 300000.0 1.9700-3 3.9400-4 6.123-17          7120000.            I.L.Morgan+          (64)12695  52
+    1  8016  14  51 C  1.4800+7 300000.0 3.3000-4 6.6000-5 6.123-17          8880000.            I.L.Morgan+          (64)12695  52
+#/DATA      5
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      O1344
+#AUTHOR1    H.Brueckmann+
+#YEAR       1970
+#INSTITUTE  (2GERKFK)
+#TITLE      The reaction d+d-p+t and elastic deuteron-deuteron
+#+          scattering at 51.5-MeV.
+#AUTHOR(S)  H.Brueckmann, E.L.Haase, W.Kluge, L.Schaenzler
+#REF-CODE   (J,ZP,230,383,1970)
+#REFERENCE  Z.Phys. 230 (1970) 383
+#DATASETS   0
+#
+#DATASET    O1344004 
+#DATE       20061025
+#REACTION   1-H-2(D,N)2-HE-3,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1002   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4   4  C 5.1500+7          2.7200-3          0.932954                              H.Brueckmann+        (70)O1344  4 
+ 1002  1002   4   4  C 5.1500+7          1.2100-3          0.895712                              H.Brueckmann+        (70)O1344  4 
+ 1002  1002   4   4  C 5.1500+7          7.6000-4          0.856267                              H.Brueckmann+        (70)O1344  4 
+ 1002  1002   4   4  C 5.1500+7          1.2100-3          0.788011                              H.Brueckmann+        (70)O1344  4 
+ 1002  1002   4   4  C 5.1500+7          2.2000-3          0.657375                              H.Brueckmann+        (70)O1344  4 
+ 1002  1002   4   4  C 5.1500+7          2.0200-3          0.583541                              H.Brueckmann+        (70)O1344  4 
+ 1002  1002   4   4  C 5.1500+7          1.9400-3          0.498488                              H.Brueckmann+        (70)O1344  4 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,25 @@
+#ENTRY      A0413
+#AUTHOR1    H.W.Becker+
+#YEAR       1987
+#INSTITUTE  (2GERMST)
+#TITLE      Low-energy cross sections for B-11(p,3alpha)*
+#AUTHOR(S)  H.W.Becker, C.Rolfs, H.P.Trautvetter
+#REF-CODE   (J,ZP/A,327,341,1987)
+#REFERENCE  Z.Phys.A 327 (1987) 341 (doi:10.1007/BF01284459)
+#DATASETS   0
+#
+#DATASET    A0413011 
+#DATE       20240911
+#REACTION   5-B-11(P,A)4-BE-8,PAR,DA,,4PI
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         800
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1001  5011   4 800 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4 800 D  300000.0          8.1965-5 4.7746-6 0.793353          0.000000         LVLH.W.Becker+          (87)A0413 11 
+#/DATA      1
+#/DATASET

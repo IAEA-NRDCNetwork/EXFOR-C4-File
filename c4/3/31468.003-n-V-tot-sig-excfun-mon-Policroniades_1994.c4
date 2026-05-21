@@ -1,0 +1,31 @@
+#ENTRY      31468
+#AUTHOR1    R.Policroniades+
+#YEAR       1994
+#INSTITUTE  (3MEXINI)
+#TITLE      An associated particle time-of-flight facility for
+#+          neutron cross section measurement.
+#AUTHOR(S)  R.Policroniades, A.Varela, J.Lopez, R.Maggi
+#REF-CODE   (J,NIM/A,346,(1-2),230,199407)
+#REFERENCE  Nucl.Instrum.Meth.A 346 No.1-2 (1994) 230 (doi:10.1016/0168-9002(94)90709-9)
+#DATASETS   0
+#
+#DATASET    31468003 
+#DATE       20080509
+#REACTION   23-V-0(N,TOT),,SIG
+#PROJ       1
+#TARG       23000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 23000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 23000   3   1    2980000. 59600.00 3.950000 0.090000                                       R.Policroniades+     (94)31468  3 
+    1 23000   3   1    3360000. 67200.00 3.940000 0.110000                                       R.Policroniades+     (94)31468  3 
+    1 23000   3   1    3540000. 70800.00 3.610000 0.180000                                       R.Policroniades+     (94)31468  3 
+    1 23000   3   1    3610000. 72200.00 3.850000 0.250000                                       R.Policroniades+     (94)31468  3 
+    1 23000   3   1    4040000. 80800.00 3.910000 0.260000                                       R.Policroniades+     (94)31468  3 
+    1 23000   3   1    4390000. 87800.00 3.970000 0.210000                                       R.Policroniades+     (94)31468  3 
+    1 23000   3   1    6710000. 134200.0 3.650000 0.090000                                       R.Policroniades+     (94)31468  3 
+#/DATA      7
+#/DATASET

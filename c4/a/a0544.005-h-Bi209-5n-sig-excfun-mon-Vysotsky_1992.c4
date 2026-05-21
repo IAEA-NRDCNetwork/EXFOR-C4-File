@@ -1,0 +1,34 @@
+#ENTRY      A0544
+#AUTHOR1    O.N.Vysotsky+
+#YEAR       1992
+#INSTITUTE  (4UKRIJD)
+#TITLE      Contribution of evaporation and preequilibrium nucleon
+#+          emission to cross sections of 209Bi(3He3,xnyp)
+#+          reactions at energies lower than 90 MeV
+#AUTHOR(S)  O.N.Vysotsky, A.V.Gonchar, G.N.Kozeratskaya, S.N.Kondratiev, 
+#+          V.D.Sklyarenko, V.V.Tokarevsky
+#REF-CODE   (J,IZV,56,(5),102,1992)
+#REFERENCE  Izv.Ross.AN,Fiz. 56 No.5 (1992) 102
+#DATASETS   0
+#
+#DATASET    A0544005 
+#DATE       20160226
+#REACTION   83-BI-209(HE3,5N)85-AT-207,,SIG
+#PROJ       2003
+#TARG       83209
+#MF         3
+#MT         152
+#PRODUCT    85-AT-207
+#C4BEGIN    [ 2003 83209   3 152  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 83209   3 152    3.4640+7 500000.0 0.053660                                                O.N.Vysotsky+        (92)A0544  5 
+ 2003 83209   3 152    3.9570+7 500000.0 0.430720                                                O.N.Vysotsky+        (92)A0544  5 
+ 2003 83209   3 152    4.1650+7 500000.0 0.476190                                                O.N.Vysotsky+        (92)A0544  5 
+ 2003 83209   3 152    4.9870+7 500000.0 0.420940                                                O.N.Vysotsky+        (92)A0544  5 
+ 2003 83209   3 152    5.2340+7 500000.0 0.351620                                                O.N.Vysotsky+        (92)A0544  5 
+ 2003 83209   3 152    8.5590+7 500000.0 0.021570                                                O.N.Vysotsky+        (92)A0544  5 
+ 2003 83209   3 152    9.1890+7 500000.0 0.019760 2.5500-3                                       O.N.Vysotsky+        (92)A0544  5 
+#/DATA      7
+#/DATASET

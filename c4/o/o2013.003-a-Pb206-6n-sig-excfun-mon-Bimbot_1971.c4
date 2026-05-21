@@ -1,0 +1,31 @@
+#ENTRY      O2013
+#AUTHOR1    R.Bimbot+
+#YEAR       1971
+#INSTITUTE  (2FR PAR)
+#TITLE      Study of the mechanism of nuclear reactions induced by
+#+          alpha particles  high energy.
+#+          Reactions Pb-208(a,xn)Po-212-x and Pb-208(a,pxn)Bi.
+#+          Compound nucleus and mechanism not compound.
+#AUTHOR(S)  R.Bimbot, Y.Le Beyec
+#REF-CODE   (J,JPR,32,243,1971)
+#REFERENCE  J.Phys.(Paris) 32 (1971) 243 (doi:10.1051/jphys:01971003204024300)
+#DATASETS   0
+#
+#DATASET    O2013003 
+#DATE       20120815
+#REACTION   82-PB-206(A,6N)84-PO-204,,SIG
+#PROJ       2004
+#TARG       82206
+#MF         3
+#MT         153
+#PRODUCT    84-PO-204
+#C4BEGIN    [ 2004 82206   3 153  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 82206   3 153    1.0000+8          0.240000 0.048000                                       R.Bimbot+            (71)O2013  3 
+ 2004 82206   3 153    1.1700+8          0.091000 0.023000                                       R.Bimbot+            (71)O2013  3 
+ 2004 82206   3 153    1.3500+8          0.050000 0.012000                                       R.Bimbot+            (71)O2013  3 
+ 2004 82206   3 153    1.6600+8          0.014000 2.8000-3                                       R.Bimbot+            (71)O2013  3 
+#/DATA      4
+#/DATASET

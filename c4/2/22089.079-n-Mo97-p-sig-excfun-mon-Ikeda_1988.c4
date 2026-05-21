@@ -1,0 +1,35 @@
+#ENTRY      22089
+#AUTHOR1    Y.Ikeda+
+#YEAR       1988
+#INSTITUTE  (2JPNJAE)
+#TITLE      Activation cross section measurements for fusion
+#+          reactor structural materials at neutron energy from
+#+          13.3 to 15.0 MeV using FNS facility
+#AUTHOR(S)  Y.Ikeda, C.Konno, K.Oishi, T.Nakamura, H.Miyade, K.Kawade, 
+#+          H.Yamamoto, T.Katoh
+#REF-CODE   (R,JAERI-1312,1988)
+#REFERENCE  Report JAERI-1312, 1988
+#DATASETS   0
+#
+#DATASET    22089079 
+#DATE       20201012
+#REACTION   42-MO-97(N,P)41-NB-97,,SIG
+#PROJ       1
+#TARG       42097
+#MF         3
+#MT         103
+#PRODUCT    41-NB-97
+#C4BEGIN    [    1 42097   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42097   3 103    1.4940+7          0.017830 9.7000-4                                       Y.Ikeda+             (88)22089 79 
+    1 42097   3 103    1.4680+7          0.017490 9.9000-4                                       Y.Ikeda+             (88)22089 79 
+    1 42097   3 103    1.4440+7          0.016660 9.4000-4                                       Y.Ikeda+             (88)22089 79 
+    1 42097   3 103    1.4230+7          0.016040 9.0000-4                                       Y.Ikeda+             (88)22089 79 
+    1 42097   3 103    1.3990+7          0.014560 8.2000-4                                       Y.Ikeda+             (88)22089 79 
+    1 42097   3 103    1.3760+7          0.013520 7.5000-4                                       Y.Ikeda+             (88)22089 79 
+    1 42097   3 103    1.3580+7          0.013060 7.3000-4                                       Y.Ikeda+             (88)22089 79 
+    1 42097   3 103    1.3350+7          0.011860 6.7000-4                                       Y.Ikeda+             (88)22089 79 
+#/DATA      8
+#/DATASET

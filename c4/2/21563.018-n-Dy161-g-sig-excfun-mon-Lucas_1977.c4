@@ -1,0 +1,29 @@
+#ENTRY      21563
+#AUTHOR1    M.Lucas+
+#YEAR       1977
+#INSTITUTE  (2FR SAC)
+#TITLE      -Determinations by irradiation in the Triton reactor
+#+          of neutron capture cross-sections for isotopes
+#+          involved in the Oklo Phenomenon.- (In french with
+#+          abstract in English).-
+#AUTHOR(S)  M.Lucas, R.Hagemann, R.Naudet, C.Renson, C.Chevalier
+#REF-CODE   (C,77PARIS,1,407,1977)
+#REFERENCE  Proceedings of Meeting on Natural Fission Reactors,Paris 1977 1 page 407
+#DATASETS   0
+#
+#DATASET    21563018 
+#DATE       20180810
+#REACTION   66-DY-161(N,G)66-DY-162,,SIG
+#PROJ       1
+#TARG       66161
+#MF         3
+#MT         102
+#PRODUCT    66-DY-162
+#C4BEGIN    [    1 66161   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 66161   3 102    0.025300          510.0000                                                M.Lucas+             (77)21563 18 
+    1 66161   3 102    0.025300          575.0000                                                M.Lucas+             (77)21563 18 
+#/DATA      2
+#/DATASET

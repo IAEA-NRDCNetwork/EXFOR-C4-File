@@ -1,0 +1,29 @@
+#ENTRY      10108
+#AUTHOR1    F.G.Perey+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Sulfur neutron elastic- and inelastic-scattering
+#+          cross sections from 4.0 to 8.5 MeV
+#AUTHOR(S)  F.G.Perey, W.E.Kinney
+#REF-CODE   (R,ORNL-4539,197006)
+#REFERENCE  Report ORNL-4539, 1970
+#DATASETS   0
+#
+#DATASET    10108073 
+#DATE       20000202
+#REACTION   16-S-0(N,EL)16-S-0,,SIG
+#PROJ       1
+#TARG       16000
+#MF         3
+#MT         2
+#PRODUCT    16-S-0
+#C4BEGIN    [    1 16000   3   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 16000   3   2 A  5500000. 170000.0 1.312850 0.094525                                       F.G.Perey+           (70)10108 73 
+    1 16000   3   2 A  6370000. 130000.0 1.232510 0.087508                                       F.G.Perey+           (70)10108 73 
+    1 16000   3   2 A  7600000. 100000.0 1.000350 0.073026                                       F.G.Perey+           (70)10108 73 
+    1 16000   3   2 A  8520000. 80000.00 0.884280 0.063668                                       F.G.Perey+           (70)10108 73 
+#/DATA      4
+#/DATASET

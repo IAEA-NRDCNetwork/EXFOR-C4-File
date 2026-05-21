@@ -1,0 +1,38 @@
+#ENTRY      D1055
+#AUTHOR1    U.Umbelino+
+#YEAR       2024
+#INSTITUTE  (3BZLUSP)
+#TITLE      Total fusion cross section in 6Li+9Be collisions
+#AUTHOR(S)  U.Umbelino, R.Lichtenthaeler Filho, O.C.B.Santos, K.C.C.Pires, 
+#+          A.S.Serra, A.Lepine-Szily
+#REF-CODE   (J,PR/C,109,054605,2024)
+#REFERENCE  Phys.Rev.C 109 (2024) 054605 (doi:10.1103/PhysRevC.109.054605)
+#DATASETS   0
+#
+#DATASET    D1055006 
+#DATE       20240611
+#REACTION   4-BE-9(3-LI-6,X)1-H-1,,DA
+#PROJ       3006
+#TARG       4009
+#MF         4
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 3006  4009   4 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006  4009   4 203    1.1200+7          0.077430 0.011520 0.874620                              U.Umbelino+          (24)D1055  6 
+ 3006  4009   4 203    1.1200+7          0.055810 6.5100-3 0.848048                              U.Umbelino+          (24)D1055  6 
+ 3006  4009   4 203    1.1200+7          0.053230 9.0600-3 0.809017                              U.Umbelino+          (24)D1055  6 
+ 3006  4009   4 203    1.1200+7          0.045520 5.6500-3 0.777146                              U.Umbelino+          (24)D1055  6 
+ 3006  4009   4 203    1.1200+7          0.053120 3.8700-3 0.743145                              U.Umbelino+          (24)D1055  6 
+ 3006  4009   4 203    1.1200+7          0.046420 1.8400-3 0.719340                              U.Umbelino+          (24)D1055  6 
+ 3006  4009   4 203    1.1200+7          0.048500 1.8300-3 0.707107                              U.Umbelino+          (24)D1055  6 
+ 3006  4009   4 203    1.1200+7          0.045130 2.1900-3 0.694658                              U.Umbelino+          (24)D1055  6 
+ 3006  4009   4 203    1.1200+7          0.048750 2.3200-3 0.681998                              U.Umbelino+          (24)D1055  6 
+ 3006  4009   4 203    1.1200+7          0.052360 2.0700-3 0.669131                              U.Umbelino+          (24)D1055  6 
+ 3006  4009   4 203    1.1200+7          0.049790 3.9800-3 0.629320                              U.Umbelino+          (24)D1055  6 
+ 3006  4009   4 203    1.1200+7          0.047180 5.3700-3 0.587785                              U.Umbelino+          (24)D1055  6 
+ 3006  4009   4 203    1.1200+7          0.049130 3.5500-3 0.529919                              U.Umbelino+          (24)D1055  6 
+#/DATA      13
+#/DATASET

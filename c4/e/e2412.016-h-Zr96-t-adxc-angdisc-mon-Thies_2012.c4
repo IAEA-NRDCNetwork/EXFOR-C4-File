@@ -1,0 +1,37 @@
+#ENTRY      E2412
+#AUTHOR1    J.H.Thies+
+#YEAR       2012
+#INSTITUTE  (2GERMST)
+#TITLE      High-resolution 96Zr(3He,t) experiment and the matrix
+#+          element for double-beta decay
+#AUTHOR(S)  J.H.Thies, P.Puppe, T.Adachi, M.Dozono, H.Ejiri, D.Frekers, 
+#+          H.Fujita, Y.Fujita, M.Fujiwara, E.-W.Grewe, K.Hatanaka, 
+#+          P.Heinrichs, D.Ishikawa, N.T.Khai, A.Lennarz, H.Matsubara, 
+#+          H.Okamura, Y.Y.Oo, T.Ruhe, K.Suda, A.Tamii, H.P.Yoshida, 
+#+          R.G.T.Zegers
+#REF-CODE   (J,PR/C,86,054323,2012)
+#REFERENCE  Phys.Rev.C 86 (2012) 054323 (doi:10.1103/PhysRevC.86.054323)
+#DATASETS   0
+#
+#DATASET    E2412016 
+#DATE       20170125
+#REACTION   40-ZR-96(HE3,T)41-NB-96,PAR,DA
+#PROJ       2003
+#TARG       40096
+#MF         4
+#MT         700
+#PRODUCT    41-NB-96
+#C4BEGIN    [ 2003 40096   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 40096   4 700  C 4.2000+8          0.013920 4.0080-4 0.999989          1.0941+7         LVLJ.H.Thies+           (12)E2412 16 
+ 2003 40096   4 700  C 4.2000+8          0.010860 3.1270-4 0.999906          1.0941+7         LVLJ.H.Thies+           (12)E2412 16 
+ 2003 40096   4 700  C 4.2000+8          7.0090-3 2.3480-4 0.999749          1.0941+7         LVLJ.H.Thies+           (12)E2412 16 
+ 2003 40096   4 700  C 4.2000+8          3.2320-3 9.3040-5 0.999502          1.0941+7         LVLJ.H.Thies+           (12)E2412 16 
+ 2003 40096   4 700  C 4.2000+8          9.9510-4 6.1030-5 0.999178          1.0941+7         LVLJ.H.Thies+           (12)E2412 16 
+ 2003 40096   4 700  C 4.2000+8          5.0340-4 3.0870-5 0.998767          1.0941+7         LVLJ.H.Thies+           (12)E2412 16 
+ 2003 40096   4 700  C 4.2000+8          9.2060-4 5.6450-5 0.998280          1.0941+7         LVLJ.H.Thies+           (12)E2412 16 
+ 2003 40096   4 700  C 4.2000+8          9.4330-4 6.2140-5 0.997721          1.0941+7         LVLJ.H.Thies+           (12)E2412 16 
+#/DATA      8
+#/DATASET

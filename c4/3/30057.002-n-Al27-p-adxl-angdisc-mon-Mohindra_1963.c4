@@ -1,0 +1,48 @@
+#ENTRY      30057
+#AUTHOR1    R.K.Mohindra+
+#YEAR       1963
+#INSTITUTE  (3INDMUA)
+#TITLE      The energy and angular distribution of protons from
+#+          14.8 MeV neutron reactions with Al-27 and Co-59
+#AUTHOR(S)  R.K.Mohindra, H.S.Hans
+#REF-CODE   (J,NP,44,597,196307)
+#REFERENCE  Nucl.Phys. 44 (1963) 597 (doi:10.1016/0029-5582(63)90052-X)
+#DATASETS   0
+#
+#DATASET    30057002 
+#DATE       20120515
+#REACTION   13-AL-27(N,P)12-MG-27,PAR,DA
+#PROJ       1
+#TARG       13027
+#MF         4
+#MT         600
+#PRODUCT    12-MG-27
+#C4BEGIN    [    1 13027   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   4 600 AC 1.4800+7          3.7500-3          1.000000 0.000000 6000000. 1000000. E2R.K.Mohindra+        (63)30057  2 
+    1 13027   4 600 AC 1.4800+7          2.5000-3          0.707107 0.209803 6000000. 1000000. E2R.K.Mohindra+        (63)30057  2 
+    1 13027   4 600 AC 1.4800+7          2.9000-3         -0.258819 0.286596 6000000. 1000000. E2R.K.Mohindra+        (63)30057  2 
+    1 13027   4 600 AC 1.4800+7          3.0000-3         -0.707107 0.209803 6000000. 1000000. E2R.K.Mohindra+        (63)30057  2 
+#/DATA      4
+#/DATASET
+#
+#DATASET    30057002 
+#DATE       20120515
+#REACTION   13-AL-27(N,P)12-MG-27,PAR,DA
+#PROJ       1
+#TARG       13027
+#MF         4
+#MT         600
+#PRODUCT    12-MG-27
+#C4BEGIN    [    1 13027   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   4 600 AC 1.4800+7          2.0000-3          1.000000 0.000000 8000000. 1000000. E2R.K.Mohindra+        (63)30057  2 
+    1 13027   4 600 AC 1.4800+7          1.0000-3          0.707107 0.209803 8000000. 1000000. E2R.K.Mohindra+        (63)30057  2 
+    1 13027   4 600 AC 1.4800+7          1.0000-3         -0.258819 0.286596 8000000. 1000000. E2R.K.Mohindra+        (63)30057  2 
+    1 13027   4 600 AC 1.4800+7          9.5000-4         -0.707107 0.209803 8000000. 1000000. E2R.K.Mohindra+        (63)30057  2 
+#/DATA      4
+#/DATASET

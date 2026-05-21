@@ -1,0 +1,26 @@
+#ENTRY      20905
+#AUTHOR1    J.H.Towle+
+#YEAR       1967
+#INSTITUTE  (2UK ALD)
+#TITLE      Absolute level densities from neutron inelastic
+#+          scattering
+#AUTHOR(S)  J.H.Towle, R.O.Owens
+#REF-CODE   (J,NP/A,100,257,1967)
+#REFERENCE  Nucl.Phys.A 100 (1967) 257 (doi:10.1016/0375-9474(67)90408-3)
+#DATASETS   0
+#
+#DATASET    20905013 
+#DATE       20170731
+#REACTION   26-FE-0(N,INL)26-FE-0,,DA,,4PI
+#PROJ       1
+#TARG       26000
+#MF         4
+#MT         4
+#PRODUCT    26-FE-0
+#C4BEGIN    [    1 26000   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   4   4    7000000. 75000.00 0.111408 4.7746-3 6.123-17                              J.H.Towle+           (67)20905 13 
+#/DATA      1
+#/DATASET

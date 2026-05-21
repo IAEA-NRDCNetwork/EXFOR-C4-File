@@ -1,0 +1,28 @@
+#ENTRY      20036
+#AUTHOR1    R.Batchelor+
+#YEAR       1969
+#INSTITUTE  (2UK ALD)
+#TITLE      Neutron scattering by U-235 and Pu-239 for incident
+#+          neutrons of 2, 3 and 4 MeV
+#AUTHOR(S)  R.Batchelor, K.Wyld
+#REF-CODE   (R,AWRE-O-55/69,1969)
+#REFERENCE  Report AWRE-O-55/69, 1969
+#DATASETS   0
+#
+#DATASET    20036015 
+#DATE       20190117
+#REACTION   94-PU-239(N,INL)94-PU-239,,SIG
+#PROJ       1
+#TARG       94239
+#MF         3
+#MT         4
+#PRODUCT    94-PU-239
+#C4BEGIN    [    1 94239   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   3   4    2000000. 50000.00 1.470000 0.490000                                       R.Batchelor+         (69)20036 15 
+    1 94239   3   4    3000000. 50000.00 1.580000 0.610000                                       R.Batchelor+         (69)20036 15 
+    1 94239   3   4    4000000. 50000.00 1.810000 0.690000                                       R.Batchelor+         (69)20036 15 
+#/DATA      3
+#/DATASET

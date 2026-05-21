@@ -1,0 +1,49 @@
+#ENTRY      D0624
+#AUTHOR1    V.Scuderi+
+#YEAR       2010
+#INSTITUTE  (2ITYLNS)
+#TITLE      Study of reaction mechanisms for 9,10,11Be + 64Zn
+#+          systems around the Coulomb barrier
+#AUTHOR(S)  V.Scuderi, A.Di Pietro, L.Acosta, F.Amorini, M.J.G.Borge, 
+#+          P.Figuera, M.Fisichella, L.M.Fraile, J.Gomez-Camacho, H.Jeppesen, 
+#+          M.Lattuada, I.Martel, M.Milin, A.Musumarra, M.Papa, M.G.Pellegriti, 
+#+          R.Raabe, G.Randisi, F.Rizzo, D.Santonocito, E.M.R.Sanchez, 
+#+          G.Scalia, O.Tengblad, D.Torresi, A.M.Vidal, M.Zadro
+#REF-CODE   (S,AIP-1231,191,2010)
+#REFERENCE  Report (proceedings) AIP-1231 page 191, 2010
+#DATASETS   0
+#
+#DATASET    D0624004 
+#DATE       20101022
+#REACTION   30-ZN-64(4-BE-9,EL)30-ZN-64,,DA,,RTH
+#PROJ       4009
+#TARG       30064
+#MF         4
+#MT         2
+#PRODUCT    30-ZN-64
+#C4BEGIN    [ 4009 30064   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4009 30064   4   2  C 2.8986+7          26.75844          0.936060                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          20.00963          0.922538                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          7.942483          0.877983                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          6.054704          0.870356                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          4.041723          0.828060                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          2.517831 0.126089 0.772734                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          1.758070          0.741976                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          1.332632          0.708340                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          0.704689          0.634731                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          0.341704          0.556296                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          0.169885          0.474088                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          0.084648          0.392337                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          0.042276          0.299041                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          0.021149          0.211325                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          0.011974          0.123601                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          6.2560-3          0.034899                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          3.5387-3         -0.059306                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          2.0830-3         -0.140901                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          1.1349-3         -0.230050                              V.Scuderi+           (10)D0624  4 
+ 4009 30064   4   2  C 2.8986+7          6.9735-4         -0.312335                              V.Scuderi+           (10)D0624  4 
+#/DATA      20
+#/DATASET

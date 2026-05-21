@@ -1,0 +1,27 @@
+#ENTRY      40781
+#AUTHOR1    Kh.R.Poze+
+#YEAR       1956
+#INSTITUTE  (4RUSFEI)
+#TITLE      Inelastic scattering of 0.3, 0.77 and 1.0 MeV
+#+          photoneutrons
+#AUTHOR(S)  Kh.R.Poze, N.P.Glazkov
+#REF-CODE   (J,JET,3,745,1956)
+#REFERENCE  J.Exp.Theor.Phys. 3 (1956) 745
+#DATASETS   0
+#
+#DATASET    40781011 
+#DATE       20231113
+#REACTION   80-HG-0(N,NON),,SIG
+#PROJ       1
+#TARG       80000
+#MF         3
+#MT         3
+#C4BEGIN    [    1 80000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 80000   3   3    290000.0          0.100000 0.060000                                       Kh.R.Poze+           (56)40781 11 
+    1 80000   3   3    770000.0          0.800000 0.200000                                       Kh.R.Poze+           (56)40781 11 
+    1 80000   3   3    1000000.          1.500000 0.400000                                       Kh.R.Poze+           (56)40781 11 
+#/DATA      3
+#/DATASET

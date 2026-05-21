@@ -1,0 +1,35 @@
+#ENTRY      O0045
+#AUTHOR1    T.Suehiro+
+#YEAR       1970
+#INSTITUTE  (2JPNTOK)
+#TITLE      Excited 0+ states in Fe-52,Fe-54,Ni-56 and Ni-58
+#+          from the (p,t) reaction.
+#AUTHOR(S)  T.Suehiro, Y.Ishizaki, H.Ogata, J.Kokame, Y.Saji, A.Stricker, 
+#+          Y.Sugiyama, I.Nonaka
+#REF-CODE   (J,PL/B,33,468,1970)
+#REFERENCE  Phys.Lett.B 33 (1970) 468 (doi:10.1016/0370-2693(70)90219-4)
+#DATASETS   0
+#
+#DATASET    O0045005 
+#DATE       20140126
+#REACTION   28-NI-60(P,T)28-NI-58,PAR,DA
+#PROJ       1001
+#TARG       28060
+#MF         4
+#MT         700
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 1001 28060   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28060   4 700  C 5.1900+7          3.5000-3          0.991445          2940000.         LVLT.Suehiro+           (70)O0045  5 
+ 1001 28060   4 700  C 5.1900+7          2.3000-3          0.984808          2940000.         LVLT.Suehiro+           (70)O0045  5 
+ 1001 28060   4 700  C 5.1900+7          3.8000-3          0.971549          2940000.         LVLT.Suehiro+           (70)O0045  5 
+ 1001 28060   4 700  C 5.1900+7          5.3000-3          0.953717          2940000.         LVLT.Suehiro+           (70)O0045  5 
+ 1001 28060   4 700  C 5.1900+7          5.3000-3          0.939693          2940000.         LVLT.Suehiro+           (70)O0045  5 
+ 1001 28060   4 700  C 5.1900+7          3.5000-3          0.923880          2940000.         LVLT.Suehiro+           (70)O0045  5 
+ 1001 28060   4 700  C 5.1900+7          2.8000-4          0.819152          2940000.         LVLT.Suehiro+           (70)O0045  5 
+ 1001 28060   4 700  C 5.1900+7          8.7000-4          0.766044          2940000.         LVLT.Suehiro+           (70)O0045  5 
+ 1001 28060   4 700  C 5.1900+7          3.8000-4          0.707107          2940000.         LVLT.Suehiro+           (70)O0045  5 
+#/DATA      9
+#/DATASET

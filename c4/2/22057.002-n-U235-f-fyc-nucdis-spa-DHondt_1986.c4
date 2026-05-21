@@ -1,0 +1,31 @@
+#ENTRY      22057
+#AUTHOR1    P.D'Hondt+
+#YEAR       1986
+#INSTITUTE  (2BLGMOL)
+#TITLE      -APPLICATION OF SOME FISSION PROPERTIES TO NEUTRON
+#+          DOSIMETRY.
+#AUTHOR(S)  P.D'Hondt, A.Fabry
+#REF-CODE   (S,BLG-586,43,8605)
+#REFERENCE  Report (proceedings) BLG-586 page 43, 1986
+#DATASETS   0
+#
+#DATASET    22057002 
+#DATE       19890130
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    1500000.          0.066100 2.1152-3 40.00000 95.00000 9.000000            P.D'Hondt+           (86)22057  2 
+    1 92235   8 459    1500000.          0.060900 1.9488-3 42.00000 99.00000 9.000000            P.D'Hondt+           (86)22057  2 
+    1 92235   8 459    1500000.          0.033200 9.9600-4 44.00000 103.0000 9.000000            P.D'Hondt+           (86)22057  2 
+    1 92235   8 459    1500000.          0.034600 1.1418-3 53.00000 131.0000 9.000000            P.D'Hondt+           (86)22057  2 
+    1 92235   8 459    1500000.          0.070900 2.1270-3 53.00000 133.0000 9.000000            P.D'Hondt+           (86)22057  2 
+    1 92235   8 459    1500000.          0.058100 3.3698-3 58.00000 143.0000 9.000000            P.D'Hondt+           (86)22057  2 
+    1 92235   8 459    1500000.          0.022400 1.0528-3 60.00000 147.0000 9.000000            P.D'Hondt+           (86)22057  2 
+#/DATA      7
+#/DATASET

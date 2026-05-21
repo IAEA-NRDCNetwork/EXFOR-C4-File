@@ -1,0 +1,32 @@
+#ENTRY      C2077
+#AUTHOR1    J.F.Morgan+
+#YEAR       1970
+#INSTITUTE  (1USACAL)
+#TITLE      Inelastic scattering of alpha-particles from 12C below
+#+          18.0 MeV
+#AUTHOR(S)  J.F.Morgan, D.C.Weisser
+#REF-CODE   (J,NP/A,151,(3),561,1970)
+#REFERENCE  Nucl.Phys.A 151 No.3 (1970) 561 (doi:10.1016/0375-9474(70)90397-0)
+#DATASETS   0
+#
+#DATASET    C2077014 
+#DATE       20140107
+#REACTION   6-C-12(A,INL)6-C-12,PAR,SIG
+#PROJ       2004
+#TARG       6012
+#MF         3
+#MT         801
+#PRODUCT    6-C-12
+#C4BEGIN    [ 2004  6012   3 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6012   3 801    1.2451+7          2.0310-3 2.0670-4                   7650000.         LVLJ.F.Morgan+          (70)C2077 14 
+ 2004  6012   3 801    1.3343+7          7.2860-3 7.4160-4                   7650000.         LVLJ.F.Morgan+          (70)C2077 14 
+ 2004  6012   3 801    1.3723+7          0.029100 3.2410-3                   7650000.         LVLJ.F.Morgan+          (70)C2077 14 
+ 2004  6012   3 801    1.4269+7          0.020860 2.5210-3                   7650000.         LVLJ.F.Morgan+          (70)C2077 14 
+ 2004  6012   3 801    1.5176+7          0.043290 4.8210-3                   7650000.         LVLJ.F.Morgan+          (70)C2077 14 
+ 2004  6012   3 801    1.5986+7          0.025040 2.3060-3                   7650000.         LVLJ.F.Morgan+          (70)C2077 14 
+ 2004  6012   3 801    1.6927+7          0.046670 3.8400-3                   7650000.         LVLJ.F.Morgan+          (70)C2077 14 
+#/DATA      7
+#/DATASET

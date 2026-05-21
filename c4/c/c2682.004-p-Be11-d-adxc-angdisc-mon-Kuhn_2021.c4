@@ -1,0 +1,39 @@
+#ENTRY      C2682
+#AUTHOR1    K.Kuhn+
+#YEAR       2021
+#INSTITUTE  (1USACSM)
+#TITLE      Experimental study of the nature of the 1- and 2-
+#+          excited states in 10Be using the 11Be(p,d) reaction
+#+          in inverse kinematics
+#AUTHOR(S)  K.Kuhn, F.Sarazin, F.M.Nunes, M.A.G.Alvarez, C.Andreoiu, 
+#+          D.W.Bardayan, P.C.Bender, J.C.Blackmon, M.J.G.Borge, R.Braid, 
+#+          B.A.Brown, W.N.Catford, C.Aa.Diget, A.DiPietro, T.E.Drake, 
+#+          P.Figuera, A.B.Garnsworthy, J.Gomez-Camacho, G.Hackman, 
+#+          U.Hager, S.V.Ilyushkin, E.Nacher, P.D.O'Malley, A.Perea, 
+#+          V.Pesudo, S.T.Pittman, D.Smalley, C.E.Svensson, O.Tengblad, 
+#+          P.Thompson, C.Unsworth, Z.M.Wang
+#REF-CODE   (J,PR/C,104,044601,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) 044601 (doi:10.1103/PhysRevC.104.044601)
+#DATASETS   0
+#
+#DATASET    C2682004 
+#DATE       20211015
+#REACTION   (1-H-1(4-BE-11,D)4-BE-10,PAR,DA,RSD)=(4-BE-11(P,D)4-BE-10,PAR,DA)
+#PROJ       1001
+#TARG       4011
+#MF         4
+#MT         650
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1001  4011   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4011   4 650  C 9930000.          0.012300 2.9812-3-0.966752          6263000.         LVLK.Kuhn+              (21)C2682  4 
+ 1001  4011   4 650  C 9930000.          0.014543 2.4160-3-0.945354          6263000.         LVLK.Kuhn+              (21)C2682  4 
+ 1001  4011   4 650  C 9930000.          0.012159 2.2109-3-0.915845          6263000.         LVLK.Kuhn+              (21)C2682  4 
+ 1001  4011   4 650  C 9930000.          0.011895 3.0291-3-0.870115          6263000.         LVLK.Kuhn+              (21)C2682  4 
+ 1001  4011   4 650  C 9930000.          4.3246-3 3.2973-3-0.768038          6263000.         LVLK.Kuhn+              (21)C2682  4 
+ 1001  4011   4 650  C 9930000.          1.2834-3 1.3964-3-0.655163          6263000.         LVLK.Kuhn+              (21)C2682  4 
+ 1001  4011   4 650  C 9930000.          2.2280-3 1.0040-3-0.357276          6263000.         LVLK.Kuhn+              (21)C2682  4 
+#/DATA      7
+#/DATASET

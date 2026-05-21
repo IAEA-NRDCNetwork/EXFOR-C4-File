@@ -1,0 +1,26 @@
+#ENTRY      23535
+#AUTHOR1    S.Nakamura+
+#YEAR       2022
+#INSTITUTE  (2JPNJAE)
+#TITLE      Measurements of thermal-neutron capture cross-section
+#+          and resonance integral of neptunium-237
+#AUTHOR(S)  S.Nakamura, F.Kitatani, A.Kimura, A.Uehara, T.Fujii
+#REF-CODE   (J,NST,59,1388,2022)
+#REFERENCE  J.Nucl.Sci.Technol. 59 (2022) 1388 (doi:10.1080/00223131.2022.2058639)
+#DATASETS   0
+#
+#DATASET    23535005 
+#DATE       20230628
+#REACTION   93-NP-237(N,G)93-NP-238,,SIG
+#PROJ       1
+#TARG       93237
+#MF         3
+#MT         102
+#PRODUCT    93-NP-238
+#C4BEGIN    [    1 93237   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   3 102    0.025300          175.9000 6.400000                                       S.Nakamura+          (22)23535  5 
+#/DATA      1
+#/DATASET

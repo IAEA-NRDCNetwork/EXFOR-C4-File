@@ -1,0 +1,31 @@
+#ENTRY      23279
+#AUTHOR1    Y.Uno+
+#YEAR       1996
+#INSTITUTE  (2JPNJAE)
+#TITLE      Measurements of activation cross sections for the
+#+          neutron dosimetry at an energy range from 17.5 to
+#+          30 MeV by using the 7Li(p,n) quasi-mono-energetic
+#+          neutron source
+#AUTHOR(S)  Y.Uno, S.Meigo, S.Chiba, T.Fukahori, Y.Kasugai, O.Iwamoto, 
+#+          P.Siegler, Y.Ikeda
+#REF-CODE   (C,96PRAHA,,465,1996)
+#REFERENCE  Proceedings of 9.Internat.Symposium on Reactor Dosimetry,Prague,1996 page 465
+#DATASETS   0
+#
+#DATASET    23279025 
+#DATE       20151004
+#REACTION   29-CU-63(N,3N)29-CU-61,,SIG
+#PROJ       1
+#TARG       29063
+#MF         3
+#MT         17
+#PRODUCT    29-CU-61
+#C4BEGIN    [    1 29063   3  17 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29063   3  17 A  2.4990+7          0.043000 8.0000-3                                       Y.Uno+               (96)23279 25 
+    1 29063   3  17 A  2.7790+7          0.109600 0.020300                                       Y.Uno+               (96)23279 25 
+    1 29063   3  17 A  3.0090+7          0.132400 0.024500                                       Y.Uno+               (96)23279 25 
+#/DATA      3
+#/DATASET

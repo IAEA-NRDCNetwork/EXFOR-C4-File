@@ -1,0 +1,34 @@
+#ENTRY      12640
+#AUTHOR1    W.Sleator+
+#YEAR       1947
+#INSTITUTE  (1USAMHG)
+#TITLE      COLLISION CROSS SECTIONS OF CARBON AND HYDROGEN
+#+          FOR FAST NEUTRONS.
+#AUTHOR(S)  W.Sleator
+#REF-CODE   (J,PR,72,207,4708)
+#REFERENCE  Phys.Rev. 72 (1947) 207 (doi:10.1103/PhysRev.72.207)
+#DATASETS   0
+#
+#DATASET    12640003 
+#DATE       19840309
+#REACTION   6-C-12(N,TOT),,SIG
+#PROJ       1
+#TARG       6012
+#MF         3
+#MT         1
+#C4BEGIN    [    1  6012   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   3   1    6500000.          1.510000 0.151000                                       W.Sleator            (47)12640  3 
+    1  6012   3   1    7800000.          1.510000 0.211400                                       W.Sleator            (47)12640  3 
+    1  6012   3   1    9300000.          1.450000 0.145000                                       W.Sleator            (47)12640  3 
+    1  6012   3   1    1.0600+7          1.430000 0.143000                                       W.Sleator            (47)12640  3 
+    1  6012   3   1    1.2900+7          1.180000 0.118000                                       W.Sleator            (47)12640  3 
+    1  6012   3   1    1.4800+7          1.240000 0.161200                                       W.Sleator            (47)12640  3 
+    1  6012   3   1    1.6500+7          1.290000 0.180600                                       W.Sleator            (47)12640  3 
+    1  6012   3   1    1.8000+7          1.130000 0.226000                                       W.Sleator            (47)12640  3 
+    1  6012   3   1    1.9600+7          1.310000 0.104800                                       W.Sleator            (47)12640  3 
+    1  6012   3   1    2.1100+7          1.170000 0.117000                                       W.Sleator            (47)12640  3 
+#/DATA      10
+#/DATASET

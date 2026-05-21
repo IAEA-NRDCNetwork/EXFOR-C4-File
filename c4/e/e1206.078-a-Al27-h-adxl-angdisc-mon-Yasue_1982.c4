@@ -1,0 +1,31 @@
+#ENTRY      E1206
+#AUTHOR1    M.Yasue+
+#YEAR       1982
+#INSTITUTE  (2JPNTOK)
+#TITLE      Excitation of high-spin particle-hole states in A =
+#+          28 nuclei by 27Al(alpha,t) and (alpha,3He) reactions
+#AUTHOR(S)  M.Yasue, T.Tanabe, S.Kubono, J.Kokame, M.Sugitani, Y.Kadota, 
+#+          Y.Taniguchi, M.Igarashi
+#REF-CODE   (J,NP/A,391,377,1982)
+#REFERENCE  Nucl.Phys.A 391 (1982) 377 (doi:10.1016/0375-9474(82)90616-9)
+#DATASETS   0
+#
+#DATASET    E1206078 
+#DATE       19901017
+#REACTION   13-AL-27(A,HE3)13-AL-28,PAR,DA
+#PROJ       2004
+#TARG       13027
+#MF         4
+#MT         750
+#PRODUCT    13-AL-28
+#C4BEGIN    [ 2004 13027   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 13027   4 750  C 6.4500+7          1.8040-4          0.993613          7710000.         LVLM.Yasue+             (82)E1206 78 
+ 2004 13027   4 750  C 6.4500+7          9.6060-5          0.953754          7710000.         LVLM.Yasue+             (82)E1206 78 
+ 2004 13027   4 750  C 6.4500+7          7.0940-5          0.918294          7710000.         LVLM.Yasue+             (82)E1206 78 
+ 2004 13027   4 750  C 6.4500+7          5.6210-5          0.873381          7710000.         LVLM.Yasue+             (82)E1206 78 
+ 2004 13027   4 750  C 6.4500+7          4.2000-5          0.821020          7710000.         LVLM.Yasue+             (82)E1206 78 
+#/DATA      5
+#/DATASET

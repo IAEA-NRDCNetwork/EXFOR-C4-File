@@ -1,0 +1,32 @@
+#ENTRY      E2552
+#AUTHOR1    R.Talwar+
+#YEAR       2017
+#INSTITUTE  (1USAANL)
+#TITLE      High-j neutron excitations outside 136Xe
+#AUTHOR(S)  R.Talwar, B.P.Kay, A.J.Mitchell, S.Adachi, J.P.Entwisle, 
+#+          Y.Fujita, G.Gey, S.Noji, H.J.Ong, J.P.Schiffer, A.Tamii
+#REF-CODE   (J,PR/C,96,024310,2017)
+#REFERENCE  Phys.Rev.C 96 (2017) 024310 (doi:10.1103/PhysRevC.96.024310)
+#DATASETS   0
+#
+#DATASET    E2552002 
+#DATE       20200528
+#REACTION   54-XE-136(A,HE3)54-XE-137,PAR,DA
+#PROJ       2004
+#TARG       54136
+#MF         4
+#MT         750
+#PRODUCT    54-XE-137
+#C4BEGIN    [ 2004 54136   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 54136   4 750    1.0000+8          5.9570-3 1.7800-4 0.997564          0.000000         LVLR.Talwar+            (17)E2552  2 
+ 2004 54136   4 750    1.0000+8          3.3120-3 1.3300-4 0.994522          0.000000         LVLR.Talwar+            (17)E2552  2 
+ 2004 54136   4 750    1.0000+8          2.1650-3 1.1700-4 0.987688          0.000000         LVLR.Talwar+            (17)E2552  2 
+ 2004 54136   4 750    1.0000+8          1.1920-3 1.2400-4 0.978148          0.000000         LVLR.Talwar+            (17)E2552  2 
+ 2004 54136   4 750    1.0000+8          7.8800-4 1.1600-4 0.965926          0.000000         LVLR.Talwar+            (17)E2552  2 
+ 2004 54136   4 750    1.0000+8          6.4500-4 1.1700-4 0.951057          0.000000         LVLR.Talwar+            (17)E2552  2 
+ 2004 54136   4 750    1.0000+8          3.2200-4 1.1200-4 0.933580          0.000000         LVLR.Talwar+            (17)E2552  2 
+#/DATA      7
+#/DATASET

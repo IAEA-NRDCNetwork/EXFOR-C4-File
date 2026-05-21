@@ -1,0 +1,28 @@
+#ENTRY      21748
+#AUTHOR1    K.Kobayashi+
+#YEAR       1981
+#INSTITUTE  (2JPNKTO)
+#TITLE      Measurement of the neutron capture cross section
+#+          of Th-232 from 1 keV to 408 keV
+#AUTHOR(S)  K.Kobayashi, Y.Fujita, N.Yamamuro
+#REF-CODE   (J,NST,18,823,1981)
+#REFERENCE  J.Nucl.Sci.Technol. 18 (1981) 823 (doi:10.1080/18811248.1981.9733327)
+#DATASETS   0
+#
+#DATASET    21748003 
+#DATE       20230416
+#REACTION   90-TH-232(N,G)90-TH-233,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         102
+#PRODUCT    90-TH-233
+#C4BEGIN    [    1 90232   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3 102    24000.00          0.520000 0.048700                                       K.Kobayashi+         (81)21748  3 
+    1 90232   3 102    55000.00          0.328000 0.032000                                       K.Kobayashi+         (81)21748  3 
+    1 90232   3 102    146000.0          0.165000 0.015600                                       K.Kobayashi+         (81)21748  3 
+#/DATA      3
+#/DATASET

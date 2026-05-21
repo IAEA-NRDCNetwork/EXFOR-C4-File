@@ -1,0 +1,28 @@
+#ENTRY      20957
+#AUTHOR1    F.Bensch+
+#YEAR       1972
+#INSTITUTE  (2AUSATI)
+#TITLE      -THE ABSORPTION CROSS SECTION OF TA AND MO AT
+#+          INTERMEDIATE NEUTRON ENERGIES-.
+#AUTHOR(S)  F.Bensch, P.I.Ikonomou
+#REF-CODE   (P,EANDC(OR)-117,1,7208)
+#REFERENCE  Progress report EANDC(OR)-117 page 1, 1972
+#DATASETS   0
+#
+#DATASET    20957002 
+#DATE       19790716
+#REACTION   42-MO-0(N,ABS),,SIG
+#PROJ       1
+#TARG       42000
+#MF         3
+#MT         27
+#C4BEGIN    [    1 42000   3  27 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42000   3  27 P  20400.00          0.219000 0.039420                                       F.Bensch+            (72)20957  2 
+    1 42000   3  27 P  117200.0          0.070000 0.025900                                       F.Bensch+            (72)20957  2 
+    1 42000   3  27 P  231100.0          0.057000 0.019950                                       F.Bensch+            (72)20957  2 
+    1 42000   3  27 P  864900.0          0.046000 0.023460                                       F.Bensch+            (72)20957  2 
+#/DATA      4
+#/DATASET

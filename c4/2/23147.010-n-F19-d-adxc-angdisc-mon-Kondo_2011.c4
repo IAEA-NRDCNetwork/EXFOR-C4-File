@@ -1,0 +1,35 @@
+#ENTRY      23147
+#AUTHOR1    K.Kondo+
+#YEAR       2011
+#INSTITUTE  (2JPNJAE)
+#TITLE      Measurement of Charged-Particle Emission Double-
+#+          Differential Cross Section of Fluorine for 14.2 MeV
+#+          Neutrons.
+#AUTHOR(S)  K.Kondo, I.Murata, K.Ochiai, N.Kubota, H.Miyamaru, C.Konno, 
+#+          T.Nishitani
+#REF-CODE   (J,NST,48,(8),1146,2011)
+#REFERENCE  J.Nucl.Sci.Technol. 48 No.8 (2011) 1146 (doi:10.1080/18811248.2011.9711802)
+#DATASETS   0
+#
+#DATASET    23147010 
+#DATE       20110824
+#REACTION   9-F-19(N,D)8-O-18,PAR,DA
+#PROJ       1
+#TARG       9019
+#MF         4
+#MT         650
+#PRODUCT    8-O-18
+#C4BEGIN    [    1  9019   4 650 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  9019   4 650 DC 1.4200+7 200000.0 5.8250-3 6.7500-4 0.958820 4.9570-3 0.000000         LVLK.Kondo+             (11)23147 10 
+    1  9019   4 650 DC 1.4200+7 200000.0 4.7500-4 9.4000-5 0.839620 9.4802-3 0.000000         LVLK.Kondo+             (11)23147 10 
+    1  9019   4 650 DC 1.4200+7 200000.0 3.7800-4 8.5000-5 0.580703 0.014209 0.000000         LVLK.Kondo+             (11)23147 10 
+    1  9019   4 650 DC 1.4200+7 200000.0 8.4000-4 1.1100-4 0.250380 0.016897 0.000000         LVLK.Kondo+             (11)23147 10 
+    1  9019   4 650 DC 1.4200+7 200000.0 1.7900-4 3.4000-5-0.101056 0.017364 0.000000         LVLK.Kondo+             (11)23147 10 
+    1  9019   4 650 DC 1.4200+7 200000.0 3.0900-4 4.9000-5-0.430511 0.015753 0.000000         LVLK.Kondo+             (11)23147 10 
+    1  9019   4 650 DC 1.4200+7 200000.0 3.2400-4 5.2000-5-0.700909 0.012449 0.000000         LVLK.Kondo+             (11)23147 10 
+    1  9019   4 650 DC 1.4200+7 200000.0 1.7900-4 2.7000-5-0.890213 7.9508-3 0.000000         LVLK.Kondo+             (11)23147 10 
+#/DATA      8
+#/DATASET

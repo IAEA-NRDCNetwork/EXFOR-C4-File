@@ -1,0 +1,33 @@
+#ENTRY      20835
+#AUTHOR1    M.Bormann+
+#YEAR       1969
+#INSTITUTE  (2GERHAM)
+#TITLE      -EXCITATION FUNCTIONS OF (N,P) AND (N,2N) REACTIONS
+#+          FOR SOME ISOTOPES OF K,MN,ZN AND CU-.
+#AUTHOR(S)  M.Bormann, B.Lammers
+#REF-CODE   (J,NP/A,130,195,6906)
+#REFERENCE  Nucl.Phys.A 130 (1969) 195 (doi:10.1016/0375-9474(69)90971-3)
+#DATASETS   0
+#
+#DATASET    20835003 
+#DATE       19840208
+#REACTION   25-MN-55(N,2N)25-MN-54,,SIG
+#PROJ       1
+#TARG       25055
+#MF         3
+#MT         16
+#PRODUCT    25-MN-54
+#C4BEGIN    [    1 25055   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 25055   3  16    1.2990+7 100000.0 0.600000 0.078000                                       M.Bormann+           (69)20835  3 
+    1 25055   3  16    1.4100+7 150000.0 0.798000 0.078000                                       M.Bormann+           (69)20835  3 
+    1 25055   3  16    1.5030+7 140000.0 0.834000 0.082000                                       M.Bormann+           (69)20835  3 
+    1 25055   3  16    1.5570+7 150000.0 0.844000 0.066000                                       M.Bormann+           (69)20835  3 
+    1 25055   3  16    1.6160+7 150000.0 0.803000 0.079000                                       M.Bormann+           (69)20835  3 
+    1 25055   3  16    1.6660+7 150000.0 0.820000 0.080000                                       M.Bormann+           (69)20835  3 
+    1 25055   3  16    1.7120+7 140000.0 0.881000 0.086000                                       M.Bormann+           (69)20835  3 
+    1 25055   3  16    1.8060+7 130000.0 0.861000 0.084000                                       M.Bormann+           (69)20835  3 
+#/DATA      8
+#/DATASET

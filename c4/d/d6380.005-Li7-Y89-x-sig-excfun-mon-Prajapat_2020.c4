@@ -1,0 +1,36 @@
+#ENTRY      D6380
+#AUTHOR1    R.Prajapat+
+#YEAR       2020
+#INSTITUTE  (3INDIRR)
+#TITLE      Measurement of residual cross sections in the 7Li + 89Y
+#+          reaction up to 5.7 MeV/nucleon and analysis of fusion
+#+          mechanisms
+#AUTHOR(S)  R.Prajapat, M.Maiti
+#REF-CODE   (J,PR/C,101,024608,2020)
+#REFERENCE  Phys.Rev.C 101 (2020) 024608 (doi:10.1103/PhysRevC.101.024608)
+#DATASETS   0
+#
+#DATASET    D6380005 
+#DATE       20200819
+#REACTION   39-Y-89(3-LI-7,X)39-Y-91-M,,SIG
+#PROJ       3007
+#TARG       39089
+#MF         3
+#MT         454
+#PRODUCT    39-Y-91-M
+#C4BEGIN    [ 3007 39089   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 39089   3 454    1.9400+7 700000.0 2.0000-3 1.5000-4           39091.7                     R.Prajapat+          (20)D6380  5 
+ 3007 39089   3 454    2.1500+7 700000.0 3.8000-3 2.5000-4           39091.7                     R.Prajapat+          (20)D6380  5 
+ 3007 39089   3 454    2.3500+7 600000.0 5.2000-3 3.0000-4           39091.7                     R.Prajapat+          (20)D6380  5 
+ 3007 39089   3 454    2.4500+7 600000.0 6.3000-3 9.0000-4           39091.7                     R.Prajapat+          (20)D6380  5 
+ 3007 39089   3 454    2.6800+7 800000.0 0.010400 1.1500-3           39091.7                     R.Prajapat+          (20)D6380  5 
+ 3007 39089   3 454    2.9100+7 700000.0 0.011400 1.1000-3           39091.7                     R.Prajapat+          (20)D6380  5 
+ 3007 39089   3 454    3.1300+7 800000.0 0.012400 7.0000-4           39091.7                     R.Prajapat+          (20)D6380  5 
+ 3007 39089   3 454    3.4100+7 800000.0 0.013500 7.5000-4           39091.7                     R.Prajapat+          (20)D6380  5 
+ 3007 39089   3 454    3.6700+7 800000.0 0.013000 7.0000-4           39091.7                     R.Prajapat+          (20)D6380  5 
+ 3007 39089   3 454    3.9400+7 900000.0 0.014600 7.5000-4           39091.7                     R.Prajapat+          (20)D6380  5 
+#/DATA      10
+#/DATASET

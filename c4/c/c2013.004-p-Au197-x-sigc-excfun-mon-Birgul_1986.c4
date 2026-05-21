@@ -1,0 +1,30 @@
+#ENTRY      C2013
+#AUTHOR1    O.Birgul+
+#YEAR       1986
+#INSTITUTE  (2TUKANK)
+#TITLE      The fission of 197Au by protons of energies of 52-85
+#+          MeV
+#AUTHOR(S)  O.Birgul, L.Yaffe
+#REF-CODE   (J,JRN/L,103,153,1986)
+#REFERENCE  J.Rad.Nucl.Chem.Lett 103 (1986) 153 (doi:10.1007/BF02166561)
+#DATASETS   0
+#
+#DATASET    C2013004 
+#DATE       20130620
+#REACTION   79-AU-197(P,F)41-NB-98-M,CUM,SIG
+#PROJ       1001
+#TARG       79197
+#MF         3
+#MT         459
+#PRODUCT    41-NB-98-M
+#C4BEGIN    [ 1001 79197   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   3 459    5.2000+7          8.6000-6 1.3000-6           41098.7                     O.Birgul+            (86)C2013  4 
+ 1001 79197   3 459    6.2000+7          5.8000-5 9.0000-6           41098.7                     O.Birgul+            (86)C2013  4 
+ 1001 79197   3 459    7.2000+7          8.3000-5 1.2000-5           41098.7                     O.Birgul+            (86)C2013  4 
+ 1001 79197   3 459    8.0000+7          1.5800-4 2.4000-5           41098.7                     O.Birgul+            (86)C2013  4 
+ 1001 79197   3 459    8.5000+7          1.8000-4 2.7000-5           41098.7                     O.Birgul+            (86)C2013  4 
+#/DATA      5
+#/DATASET

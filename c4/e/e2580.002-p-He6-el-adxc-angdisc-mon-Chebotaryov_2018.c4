@@ -1,0 +1,51 @@
+#ENTRY      E2580
+#AUTHOR1    S.Chebotaryov+
+#YEAR       2018
+#INSTITUTE  (2JPNIPC)
+#TITLE      Proton elastic scattering at 200 A MeV and high
+#+          momentum transfers of 1.7-2.7 fm-1 as a probe of the
+#+          nuclear matter density of 6He
+#AUTHOR(S)  S.Chebotaryov, S.Sakaguchi, T.Uesaka, T.Akieda, Y.Ando, 
+#+          M.Assie, D.Beaumel, N.Chiga, M.Dozono, A.Galindo-Uribarri, 
+#+          B.Heffron, A.Hirayama, T.Isobe, K.Kaki, S.Kawase, W.Kim, 
+#+          T.Kobayashi, H.Kon, Y.Kondo, Y.Kubota, S.Leblond, H.Lee, 
+#+          T.Lokotko, Y.Maeda, Y.Matsuda, K.Miki, E.Milman, T.Motobayashi, 
+#+          T.Mukai, S.Nakai, T.Nakamura, A.Ni, T.Noro, S.Ota, H.Otsu, 
+#+          T.Ozaki, V.Panin, S.Park, A.Saito, H.Sakai, M.Sasano, H.Sato, 
+#+          K.Sekiguchi, Y.Shimizu, I.Stefan, L.Stuhl, M.Takaki, K.Taniue, 
+#+          K.Tateishi, S.Terashima, Y.Togano, T.Tomai, Y.Wada, T.Wakasa, 
+#+          T.Wakui, A.Watanabe, H.Yamada, Zh.Yang, M.Yasuda, J.Yasuda, 
+#+          K.Yoneda, J.Zenihiro
+#REF-CODE   (J,PTEP,2018,(5),053D01,2018)
+#REFERENCE  Prog.Theor.Exp.Phys. 2018 No.5 (2018) 053D01
+#DATASETS   0
+#
+#DATASET    E2580002 
+#DATE       20181005
+#REACTION   (1-H-1(2-HE-6,EL)1-H-1,,DA)=(2-HE-6(P,EL)2-HE-6,,DA)
+#PROJ       1001
+#TARG       2006
+#MF         4
+#MT         2
+#PRODUCT    2-HE-6
+#C4BEGIN    [ 1001  2006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2006   4   2  C 2.0000+8 2000000. 6.0000-4 5.9900-5 0.810655                              S.Chebotaryov+       (18)E2580  2 
+ 1001  2006   4   2  C 2.0000+8 2000000. 4.8600-4 4.8900-5 0.793353                              S.Chebotaryov+       (18)E2580  2 
+ 1001  2006   4   2  C 2.0000+8 2000000. 3.7400-4 3.8200-5 0.775386                              S.Chebotaryov+       (18)E2580  2 
+ 1001  2006   4   2  C 2.0000+8 2000000. 2.7000-4 2.8100-5 0.756767                              S.Chebotaryov+       (18)E2580  2 
+ 1001  2006   4   2  C 2.0000+8 2000000. 1.9900-4 2.1300-5 0.737513                              S.Chebotaryov+       (18)E2580  2 
+ 1001  2006   4   2  C 2.0000+8 2000000. 1.3000-4 1.4700-5 0.717640                              S.Chebotaryov+       (18)E2580  2 
+ 1001  2006   4   2  C 2.0000+8 2000000. 9.7500-5 1.1500-5 0.697165                              S.Chebotaryov+       (18)E2580  2 
+ 1001  2006   4   2  C 2.0000+8 2000000. 6.7300-5 8.0600-6 0.676105                              S.Chebotaryov+       (18)E2580  2 
+ 1001  2006   4   2  C 2.0000+8 2000000. 3.9900-5 5.8500-6 0.654477                              S.Chebotaryov+       (18)E2580  2 
+ 1001  2006   4   2  C 2.0000+8 2000000. 2.1000-5 3.9200-6 0.632300                              S.Chebotaryov+       (18)E2580  2 
+ 1001  2006   4   2  C 2.0000+8 2000000. 1.9300-5 3.6100-6 0.609592                              S.Chebotaryov+       (18)E2580  2 
+ 1001  2006   4   2  C 2.0000+8 2000000. 1.1600-5 2.7100-6 0.586514                              S.Chebotaryov+       (18)E2580  2 
+ 1001  2006   4   2  C 2.0000+8 2000000. 7.2600-6 2.1300-6 0.562805                              S.Chebotaryov+       (18)E2580  2 
+ 1001  2006   4   2  C 2.0000+8 2000000. 6.6000-6 1.9200-6 0.538624                              S.Chebotaryov+       (18)E2580  2 
+ 1001  2006   4   2  C 2.0000+8 2000000. 4.5600-6 1.6000-6 0.513990                              S.Chebotaryov+       (18)E2580  2 
+#/DATA      15
+#/DATASET

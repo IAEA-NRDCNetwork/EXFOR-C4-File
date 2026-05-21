@@ -1,0 +1,34 @@
+#ENTRY      A0215
+#AUTHOR1    A.Hohn+
+#YEAR       2001
+#INSTITUTE  (2GERJUL)
+#TITLE      Excitation functions of 125-Te(p,xn)- reactions from
+#+          their respective thresholds up to 100MeV with special
+#+          reference to the production of 124I
+#AUTHOR(S)  A.Hohn, F.M.Nortier, B.Scholten, T.N.Van Der Walt, H.H.Coenen, 
+#+          S.M.Qaim
+#REF-CODE   (J,ARI,55,149,2001)
+#REFERENCE  Appl.Radiat.Isot. 55 (2001) 149 (doi:10.1016/S0969-8043(00)00388-2)
+#DATASETS   0
+#
+#DATASET    A0215008 
+#DATE       20220330
+#REACTION   52-TE-125(P,6N)53-I-120-M,,SIG
+#PROJ       1001
+#TARG       52125
+#MF         3
+#MT         153
+#PRODUCT    53-I-120-M
+#C4BEGIN    [ 1001 52125   3 153M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 52125   3 153M   1.0050+8 200000.0 0.011000 2.0000-3                                       A.Hohn+              (01)A0215  8 
+ 1001 52125   3 153M   9.0800+7 300000.0 0.014000 3.0000-3                                       A.Hohn+              (01)A0215  8 
+ 1001 52125   3 153M   8.0900+7 400000.0 0.025000 5.0000-3                                       A.Hohn+              (01)A0215  8 
+ 1001 52125   3 153M   7.0900+7 500000.0 0.042000 8.0000-3                                       A.Hohn+              (01)A0215  8 
+ 1001 52125   3 153M   6.5200+7 200000.0 0.036000 7.0000-3                                       A.Hohn+              (01)A0215  8 
+ 1001 52125   3 153M   6.1000+7 200000.0 0.018000 3.0000-3                                       A.Hohn+              (01)A0215  8 
+ 1001 52125   3 153M   5.4300+7 300000.0 9.0000-4 2.0000-4                                       A.Hohn+              (01)A0215  8 
+#/DATA      7
+#/DATASET
