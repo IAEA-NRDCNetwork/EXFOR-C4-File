@@ -2,8 +2,8 @@
 #AUTHOR1    F.Hammache+
 #YEAR       1998
 #INSTITUTE  (2FR CSN)
-#TITLE      New measurement and analysis of the Be-7(p,g)B-8
-#+          cross section.
+#TITLE      New measurement and analysis of the 7Be(p,gamma)8B
+#+          cross section
 #AUTHOR(S)  F.Hammache, G.Bogaert, P.Aguer, C.Angulo, S.Barhoumi, L.Brillard, 
 #+          J.F.Chemin, G.Claverie, A.Coc, M.Hussonnois, M.Jacotin, 
 #+          J.Kiener, A.Lefebvre, J.N.Scheurer, J.P.Thibaud, E.Virassamynaiken
@@ -12,20 +12,20 @@
 #DATASETS   0
 #
 #DATASET    F0691003 
-#DATE       20050329
+#DATE       20251223
 #REACTION   4-BE-7(P,G)5-B-8,,SIG,,SFC
 #PROJ       1001
 #TARG       4007
 #MF         3
 #MT         102
 #PRODUCT    5-B-8
-#C4BEGIN    [ 1001  4007   3 102  ]
+#C4BEGIN    [ 1001  4007   3 102 C]
 #DATA       0
 # Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
 #---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
- 1001  4007   3 102    572141.7 1500.924 1.7856-7 1.7124-8                                       F.Hammache+          (98)F0691  3 
- 1001  4007   3 102    1006977. 2641.735 4.1238-7 4.0682-8                                       F.Hammache+          (98)F0691  3 
- 1001  4007   3 102    1372120. 3599.760 5.7547-7 5.9417-8                                       F.Hammache+          (98)F0691  3 
- 1001  4007   3 102    1498741. 3931.988 6.1128-7 6.2976-8                                       F.Hammache+          (98)F0691  3 
+ 1001  4007   3 102 C  571832.9 500.0382 1.7843-7                                                F.Hammache+          (98)F0691  3 
+ 1001  4007   3 102 C  1006451. 880.1184 4.1213-7                                                F.Hammache+          (98)F0691  3 
+ 1001  4007   3 102 C  1372463. 1200.220 5.7565-7                                                F.Hammache+          (98)F0691  3 
+ 1001  4007   3 102 C  1498283. 1310.262 6.1111-7                                                F.Hammache+          (98)F0691  3 
 #/DATA      4
 #/DATASET

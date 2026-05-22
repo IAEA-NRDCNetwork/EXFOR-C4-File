@@ -2,8 +2,8 @@
 #AUTHOR1    F.Hammache+
 #YEAR       1998
 #INSTITUTE  (2FR CSN)
-#TITLE      New measurement and analysis of the Be-7(p,g)B-8
-#+          cross section.
+#TITLE      New measurement and analysis of the 7Be(p,gamma)8B
+#+          cross section
 #AUTHOR(S)  F.Hammache, G.Bogaert, P.Aguer, C.Angulo, S.Barhoumi, L.Brillard, 
 #+          J.F.Chemin, G.Claverie, A.Coc, M.Hussonnois, M.Jacotin, 
 #+          J.Kiener, A.Lefebvre, J.N.Scheurer, J.P.Thibaud, E.Virassamynaiken
@@ -12,26 +12,26 @@
 #DATASETS   0
 #
 #DATASET    F0691002 
-#DATE       20050329
+#DATE       20251223
 #REACTION   4-BE-7(P,G)5-B-8,,SIG,,SFC
 #PROJ       1001
 #TARG       4007
 #MF         3
 #MT         102
 #PRODUCT    5-B-8
-#C4BEGIN    [ 1001  4007   3 102  ]
+#C4BEGIN    [ 1001  4007   3 102 C]
 #DATA       0
 # Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
 #---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
- 1001  4007   3 102    404625.0 1061.457 9.1420-8 8.9701-9                                       F.Hammache+          (98)F0691  2 
- 1001  4007   3 102    416416.4 1092.390 1.0411-7 9.8259-9                                       F.Hammache+          (98)F0691  2 
- 1001  4007   3 102    461683.5 1211.144 1.4318-7 1.3177-8                                       F.Hammache+          (98)F0691  2 
- 1001  4007   3 102    515986.0 1353.603 1.5534-7 1.4379-8                                       F.Hammache+          (98)F0691  2 
- 1001  4007   3 102    567235.2 1488.052 1.8515-7 1.9004-8                                       F.Hammache+          (98)F0691  2 
- 1001  4007   3 102    1007766. 2643.806 4.4714-7 3.7731-8                                       F.Hammache+          (98)F0691  2 
- 1001  4007   3 102    1028446. 2698.061 4.7132-7 4.5837-8                                       F.Hammache+          (98)F0691  2 
- 1001  4007   3 102    1028469. 2698.121 4.6227-7 4.3574-8                                       F.Hammache+          (98)F0691  2 
- 1001  4007   3 102    1254308. 3290.652 5.0399-7 4.5018-8                                       F.Hammache+          (98)F0691  2 
- 1001  4007   3 102    1598140. 4192.796 7.1409-7 6.2446-8                                       F.Hammache+          (98)F0691  2 
+ 1001  4007   3 102 C  404853.7 354.0191 9.1535-8                                                F.Hammache+          (98)F0691  2 
+ 1001  4007   3 102 C  416290.6 364.0202 1.0403-7                                                F.Hammache+          (98)F0691  2 
+ 1001  4007   3 102 C  462038.0 404.0249 1.4340-7                                                F.Hammache+          (98)F0691  2 
+ 1001  4007   3 102 C  515791.6 451.0311 1.5523-7                                                F.Hammache+          (98)F0691  2 
+ 1001  4007   3 102 C  567258.1 496.0376 1.8518-7                                                F.Hammache+          (98)F0691  2 
+ 1001  4007   3 102 C  1007595. 881.1187 4.4704-7                                                F.Hammache+          (98)F0691  2 
+ 1001  4007   3 102 C  1028183. 899.1236 4.7114-7                                                F.Hammache+          (98)F0691  2 
+ 1001  4007   3 102 C  1028183. 899.1236 4.6208-7                                                F.Hammache+          (98)F0691  2 
+ 1001  4007   3 102 C  1254651. 1097.184 5.0401-7                                                F.Hammache+          (98)F0691  2 
+ 1001  4007   3 102 C  1597797. 1397.298 7.1407-7                                                F.Hammache+          (98)F0691  2 
 #/DATA      10
 #/DATASET
