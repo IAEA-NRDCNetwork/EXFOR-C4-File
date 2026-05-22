@@ -1,0 +1,35 @@
+#ENTRY      D1091
+#AUTHOR1    M.Bouteculet+
+#YEAR       2026
+#INSTITUTE  (2FR PAR)
+#TITLE      Measurements of the proton-induced reaction
+#+          155Gd(p,n)155Tb at energies between 7 and 26 MeV with
+#+          highly-enriched 155Gd targets
+#AUTHOR(S)  M.Bouteculet, C.-O.Bacri, M.-A.Duval, H.Lefort, R.Behal, 
+#+          A.Cassisa, A.Gourgiotis, V.Glagolev, A.Guertin, O.Lebeda, 
+#+          X.Ledoux, J.Mrazek, E.Nigron, J.-C.Thomas, E.Simeckova
+#REF-CODE   (J,ARI,229,112375,2026)
+#REFERENCE  Appl.Radiat.Isot. 229 (2026) 112375 (doi:10.1016/j.apradiso.2025.112375)
+#DATASETS   0
+#
+#DATASET    D1091004 
+#DATE       20260318
+#REACTION   64-GD-155(P,N)65-TB-155,,SIG
+#PROJ       1001
+#TARG       64155
+#MF         3
+#MT         4
+#PRODUCT    65-TB-155
+#C4BEGIN    [ 1001 64155   3   4 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 64155   3   4 C  2.3910+7 40000.00 0.041190 0.011050                                       M.Bouteculet+        (26)D1091  4 
+ 1001 64155   3   4 C  1.5880+7 40000.00 0.115450 0.027030                                       M.Bouteculet+        (26)D1091  4 
+ 1001 64155   3   4 C  1.5880+7 40000.00 0.102760 0.011380                                       M.Bouteculet+        (26)D1091  4 
+ 1001 64155   3   4 C  1.0840+7 40000.00 0.516820 0.068380                                       M.Bouteculet+        (26)D1091  4 
+ 1001 64155   3   4 C  1.0840+7 40000.00 0.466660 0.071030                                       M.Bouteculet+        (26)D1091  4 
+ 1001 64155   3   4 C  7800000. 40000.00 0.102890 0.023750                                       M.Bouteculet+        (26)D1091  4 
+ 1001 64155   3   4 C  6770000. 40000.00 0.058780 0.017410                                       M.Bouteculet+        (26)D1091  4 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,73 @@
+#ENTRY      D8117
+#AUTHOR1    A.Spatafora+
+#YEAR       2023
+#INSTITUTE  (2ITYCAT)
+#TITLE      Multichannel experimental and theoretical approach to
+#+          the 12C(18O,18F)12B single-charge-exchange reaction
+#+          at 275 MeV: Initial-state interaction and
+#+          single-particle properties of nuclear wave functions
+#AUTHOR(S)  A.Spatafora, D.Carbone, F.Cappuzzello, M.Cavallaro, L.Acosta, 
+#+          C.Agodi, P.Amador-Valenzuela, T.Borello-Lewin, G.A.Brischetto, 
+#+          S.Calabrese, D.Calvo, V.Capirossi, E.R.Chavez Lomeli, I.Ciraldo, 
+#+          G.De Gregorio, F.Delaunay, H.Djapo, C.Eke, P.Finocchiaro, 
+#+          S.Firat, M.Fisichella, A.Foti, A.Gargano, A.Hacisalihoglu, 
+#+          F.Iazzi, L.La Fauci, R.Linares, J.Lubian, N.Medina, M.Moralles, 
+#+          J.R.B.Oliveira, A.Pakou, L.Pandola, H.Petrascu, F.Pinna, 
+#+          G.Russo, O.Sgouros, M.A.G.da Silveira, S.O.Solakci, V.Soukeras, 
+#+          G.Souliotis, D.Torresi, S.Tudisco, A.Yildirim, V.A.B.Zagatto
+#REF-CODE   (J,PR/C,107,024605,2023)
+#REFERENCE  Phys.Rev.C 107 (2023) 024605 (doi:10.1103/PhysRevC.107.024605)
+#DATASETS   0
+#
+#DATASET    D8117002 
+#DATE       20260221
+#REACTION   6-C-12(8-O-18,EL)6-C-12,,DA
+#PROJ       8018
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 8018  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8018  6012   4   2  C 2.7500+8          0.188612 0.032797 0.987677                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          0.140779 0.013414 0.986271                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          0.200155 0.013332 0.984790                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          0.286478 0.014690 0.983233                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          0.367760 0.010605 0.981601                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          0.342050 0.010309 0.979893                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          0.244081 8.6520-3 0.978110                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          0.116138 6.4444-3 0.976252                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          0.041064 3.3540-3 0.974319                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          9.5322-3 1.4813-3 0.972310                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          0.010214 1.4073-3 0.970226                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          0.027176 2.5209-3 0.968067                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          0.044188 4.0588-3 0.965834                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          0.055390 4.5413-3 0.963525                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          0.055274 4.7351-3 0.961142                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          0.038795 3.7648-3 0.958685                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          0.022902 2.7863-3 0.956152                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          8.6790-3 1.7289-3 0.953546                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          2.8912-3 8.8055-4 0.950864                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          2.0798-3 7.4244-4 0.948109                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          3.4003-3 1.1317-3 0.945280                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          7.1233-3 1.6229-3 0.942376                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          5.7921-3 1.3447-3 0.939399                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          8.0789-3 1.6522-3 0.936348                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          4.9739-3 1.1823-3 0.933223                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          4.8982-3 1.2549-3 0.930025                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          1.5538-3 6.4956-4 0.926339                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          6.7992-4 4.2650-4 0.923408                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          1.6617-3 2.9182-4 0.917379                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          1.5920-3 2.8309-4 0.908377                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          1.0552-3 2.0769-4 0.898922                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          6.8551-4 1.8163-4 0.889016                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          2.8338-4 1.0638-4 0.878660                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          2.1591-4 9.3569-5 0.867857                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          2.5130-4 1.0926-4 0.856611                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          6.0275-5 5.0882-5 0.844922                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          9.6747-5 6.6099-5 0.832794                              A.Spatafora          (23)D8117  2 
+ 8018  6012   4   2  C 2.7500+8          5.7468-5 5.0480-5 0.820230                              A.Spatafora          (23)D8117  2 
+#/DATA      38
+#/DATASET
