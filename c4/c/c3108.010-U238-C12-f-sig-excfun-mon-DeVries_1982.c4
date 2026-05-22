@@ -1,0 +1,25 @@
+#ENTRY      C3108
+#AUTHOR1    D.E.Greiner+
+#YEAR       1982
+#INSTITUTE  (1USABRK)
+#TITLE      Uranium nuclear reactions at 900 MeV/nucleon
+#AUTHOR(S)  D.E.Greiner, H.Crawford, P.J.Lindstrom, J.M.Kidd, D.L.Olson, 
+#+          W.Schimmerling, T.J.M.Symons
+#REF-CODE   (J,PR/C,26,301,1982)
+#REFERENCE  Phys.Rev.C 26 (1982) 301
+#DATASETS   0
+#
+#DATASET    C3108010 
+#DATE       20260315
+#REACTION   6-C-12(92-U-238,F),,SIG
+#PROJ       92238
+#TARG       6012
+#MF         3
+#MT         18
+#C4BEGIN    [92238  6012   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+92238  6012   3  18    2.094+11 9.5200+9 0.820000 0.090000                                       R.M.DeVries          (82)C3108 10 
+#/DATA      1
+#/DATASET
