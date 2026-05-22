@@ -1,0 +1,38 @@
+#ENTRY      C3121
+#AUTHOR1    H.L.O.Ekeberg+
+#YEAR       2026
+#INSTITUTE  (2NOROSL)
+#TITLE      Nuclear excitation functions for medical isotope
+#+          production: Targeted radionuclide therapy via
+#+          natIr(d,x)193mPt
+#AUTHOR(S)  H.L.O.Ekeberg, A.S.Voyles, M.S.Basunia, J.C.Batchelder, 
+#+          L.A.Bernstein, D.L.Bleuel, K.C.W.Li, E.M.Martinsen, E.F.Matthews, 
+#+          J.T.Morrell, N.I.J.Pettersen, S.Siem
+#REF-CODE   (J,ARI,229,112311,2026)
+#REFERENCE  Appl.Radiat.Isot. 229 (2026) 112311 (doi:10.1016/j.apradiso.2025.112311)
+#DATASETS   0
+#
+#DATASET    C3121035 
+#DATE       20260318
+#REACTION   28-NI-0(D,X)27-CO-55,CUM,SIG
+#PROJ       1002
+#TARG       28000
+#MF         3
+#MT         459
+#PRODUCT    27-CO-55
+#C4BEGIN    [ 1002 28000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28000   3 459    3.1290+7          0.014190 4.8000-4           27055.9                     H.L.O.Ekeberg+       (26)C3121 35 
+ 1002 28000   3 459    2.9080+7          0.017590 5.9000-4           27055.9                     H.L.O.Ekeberg+       (26)C3121 35 
+ 1002 28000   3 459    2.6740+7          0.020470 6.3000-4           27055.9                     H.L.O.Ekeberg+       (26)C3121 35 
+ 1002 28000   3 459    2.4280+7          0.023500 8.1000-4           27055.9                     H.L.O.Ekeberg+       (26)C3121 35 
+ 1002 28000   3 459    2.2190+7          0.023030 8.2000-4           27055.9                     H.L.O.Ekeberg+       (26)C3121 35 
+ 1002 28000   3 459    1.9920+7          0.019130 7.2000-4           27055.9                     H.L.O.Ekeberg+       (26)C3121 35 
+ 1002 28000   3 459    1.7420+7          0.013110 4.7000-4           27055.9                     H.L.O.Ekeberg+       (26)C3121 35 
+ 1002 28000   3 459    1.4630+7          7.5700-3 3.0000-4           27055.9                     H.L.O.Ekeberg+       (26)C3121 35 
+ 1002 28000   3 459    1.1410+7          7.1000-4 4.0000-5           27055.9                     H.L.O.Ekeberg+       (26)C3121 35 
+ 1002 28000   3 459    7400000.          1.8000-4 3.0000-5           27055.9                     H.L.O.Ekeberg+       (26)C3121 35 
+#/DATA      10
+#/DATASET

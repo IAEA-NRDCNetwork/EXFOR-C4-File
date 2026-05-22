@@ -1,0 +1,35 @@
+#ENTRY      C3125
+#AUTHOR1    N.Bhathi+
+#YEAR       2026
+#INSTITUTE  (1CANSMR)
+#TITLE      Direct Measurement of 59Cu(p,alpha)56Ni Precludes a
+#+          Strong NiCu Cycle in Type-I X-Ray Bursts
+#AUTHOR(S)  N.Bhathi, J.S.Randhawa, R.Kanungo, J.Refsgaard, M.Alcorta, 
+#+          T.Ahn, C.Andreoiu, D.Bardayan, S.S.Bhattacharjee, B.Davids, 
+#+          G.Christian, A.A.Chen, R.Coleman, P.E.Garrett, G.F.Grinyer, 
+#+          E.Gyabeng Fuakye, G.Hackman, R.Jain, K.Kapoor, R.Krucken, 
+#+          A.Laffoley, A.Lennarz, J.Liang, Z.Meisel, A.Psaltis, A.Radich, 
+#+          M.Rocchini, J.S.Rojo, N.Saei, M.Saxena, M.Singh, C.E.Svensson, 
+#+          P.Subramaniam, A.Talebitaher, S.Upadhyayula, C.Waterfield, 
+#+          J.Williams, M.Williams, M.A.Zubair
+#REF-CODE   (J,AJ,999,8,2026)
+#REFERENCE  Astrophys.J. 999 (2026) 8 (doi:10.3847/1538-4357/ae3de6)
+#DATASETS   0
+#
+#DATASET    C3125003 
+#DATE       20260325
+#REACTION   29-CU-59(P,A)28-NI-56,,SIG
+#PROJ       1001
+#TARG       29059
+#MF         3
+#MT         107
+#PRODUCT    28-NI-56
+#C4BEGIN    [ 1001 29059   3 107 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29059   3 107 C  4170260.          2.8000-4 6.0000-5                                       N.Bhathi+            (26)C3125  3 
+ 1001 29059   3 107 C  4780567.          8.5000-4 2.1000-4                                       N.Bhathi+            (26)C3125  3 
+ 1001 29059   3 107 C  6102923.          4.5500-3 9.1000-4                                       N.Bhathi+            (26)C3125  3 
+#/DATA      3
+#/DATASET
