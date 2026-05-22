@@ -1,0 +1,175 @@
+#ENTRY      C3079
+#AUTHOR1    J.Chen+
+#YEAR       2024
+#INSTITUTE  (1USAANL)
+#TITLE      Evolution of the nuclear spin-orbit splitting
+#+          explored via the 32Si(d,p)33Si reaction using SOLARIS
+#AUTHOR(S)  J.Chen, B.P.Kay, C.R.Hoffman, T.L.Tang, I.A.Tolstukhin, 
+#+          D.Bazin, R.S.Lubna, Y.Ayyad, S.Beceiro-Novo, B.J.Coombes, 
+#+          S.J.Freeman, L.P.Gaffney, R.Garg, H.Jayatissa, A.N.Kuchera, 
+#+          P.MacGregor, A.J.Mitchell, W.Mittig, B.Monteagudo, A.Munoz-Ramos, 
+#+          C.Muller-Gatermann, F.Recchia, N.Rijal, C.Santamaria, M.Z.Serikow, 
+#+          D.K.Sharp, J.Smith, J.K.Stecenko, G.L.Wilson, A.H.Wuosmaa, 
+#+          C.X.Yuan, J.C.Zamora, Y.N.Zhang
+#REF-CODE   (J,PL/B,853,138678,2024)
+#REFERENCE  Phys.Lett.B 853 (2024) 138678 (doi:10.1016/j.physletb.2024.138678)
+#DATASETS   0
+#
+#DATASET    C3079002 
+#DATE       20250825
+#REACTION   (1-H-2(14-SI-32,P)14-SI-33,PAR,DA)=(14-SI-32(D,P)14-SI-33,PAR,DA)
+#PROJ       1002
+#TARG       14032
+#MF         4
+#MT         600
+#PRODUCT    14-SI-33
+#C4BEGIN    [ 1002 14032   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14032   4 600 AC 1.6600+7          4.7301-3 1.1825-3 0.968148          0.000000         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          4.6119-3 9.0447-4 0.946649          0.000000         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          2.6607-3 6.8699-4 0.919821          0.000000         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          2.6607-3 6.8699-4 0.899558          0.000000         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          1.8625-3 4.0643-4 0.864275          0.000000         LVLJ.Chen+              (24)C3079  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    C3079002 
+#DATE       20250825
+#REACTION   (1-H-2(14-SI-32,P)14-SI-33,PAR,DA)=(14-SI-32(D,P)14-SI-33,PAR,DA)
+#PROJ       1002
+#TARG       14032
+#MF         4
+#MT         600
+#PRODUCT    14-SI-33
+#C4BEGIN    [ 1002 14032   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14032   4 600 AC 1.6600+7          1.8847-3 4.5710-4 0.970716          1010000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          6.6518-4 1.7175-4 0.938493          1010000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          8.8690-4 1.9832-4 0.887815          1010000.         LVLJ.Chen+              (24)C3079  2 
+#/DATA      3
+#/DATASET
+#
+#DATASET    C3079002 
+#DATE       20250825
+#REACTION   (1-H-2(14-SI-32,P)14-SI-33,PAR,DA)=(14-SI-32(D,P)14-SI-33,PAR,DA)
+#PROJ       1002
+#TARG       14032
+#MF         4
+#MT         600
+#PRODUCT    14-SI-33
+#C4BEGIN    [ 1002 14032   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14032   4 600 AC 1.6600+7          9.8826-3 1.5825-3 0.959314          1450000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          0.010643 1.3740-3 0.937889          1450000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          0.010998 1.3967-3 0.909236          1450000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          0.010820 1.3854-3 0.886204          1450000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          0.012062 1.6890-3 0.860742          1450000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          7.0952-3 1.2954-3 0.840567          1450000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          8.0412-3 1.3791-3 0.811064          1450000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          5.2032-3 1.1093-3 0.791224          1450000.         LVLJ.Chen+              (24)C3079  2 
+#/DATA      8
+#/DATASET
+#
+#DATASET    C3079002 
+#DATE       20250825
+#REACTION   (1-H-2(14-SI-32,P)14-SI-33,PAR,DA)=(14-SI-32(D,P)14-SI-33,PAR,DA)
+#PROJ       1002
+#TARG       14032
+#MF         4
+#MT         600
+#PRODUCT    14-SI-33
+#C4BEGIN    [ 1002 14032   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14032   4 600 AC 1.6600+7          0.041152 3.8209-3 0.977783          1980000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          0.024301 2.0762-3 0.954240          1980000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          0.012594 1.4946-3 0.924546          1980000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          7.6274-3 1.1632-3 0.902585          1980000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          4.7301-3 1.0577-3 0.874620          1980000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          3.5476-3 9.1599-4 0.854459          1980000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          4.0206-3 9.7514-4 0.826098          1980000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          4.7301-3 1.0577-3 0.804894          1980000.         LVLJ.Chen+              (24)C3079  2 
+#/DATA      8
+#/DATASET
+#
+#DATASET    C3079002 
+#DATE       20250825
+#REACTION   (1-H-2(14-SI-32,P)14-SI-33,PAR,DA)=(14-SI-32(D,P)14-SI-33,PAR,DA)
+#PROJ       1002
+#TARG       14032
+#MF         4
+#MT         600
+#PRODUCT    14-SI-33
+#C4BEGIN    [ 1002 14032   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14032   4 600 AC 1.6600+7          1.5155-3 7.3136-4 0.951057          3190000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          9.4603-4 2.3651-4 0.898794          3190000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          9.4603-4 2.3651-4 0.846193          3190000.         LVLJ.Chen+              (24)C3079  2 
+#/DATA      3
+#/DATASET
+#
+#DATASET    C3079002 
+#DATE       20250825
+#REACTION   (1-H-2(14-SI-32,P)14-SI-33,PAR,DA)=(14-SI-32(D,P)14-SI-33,PAR,DA)
+#PROJ       1002
+#TARG       14032
+#MF         4
+#MT         600
+#PRODUCT    14-SI-33
+#C4BEGIN    [ 1002 14032   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14032   4 600 AC 1.6600+7          0.016556 2.2123-3 0.972370          3580000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          9.9333-3 1.3274-3 0.952129          3580000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          5.4397-3 1.1343-3 0.922538          3580000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          3.3111-3 8.8493-4 0.900319          3580000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          2.8381-3 5.7932-4 0.857167          3580000.         LVLJ.Chen+              (24)C3079  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    C3079002 
+#DATE       20250825
+#REACTION   (1-H-2(14-SI-32,P)14-SI-33,PAR,DA)=(14-SI-32(D,P)14-SI-33,PAR,DA)
+#PROJ       1002
+#TARG       14032
+#MF         4
+#MT         600
+#PRODUCT    14-SI-33
+#C4BEGIN    [ 1002 14032   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14032   4 600 AC 1.6600+7          2.1023-3 5.8761-4 0.955278          4520000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          1.1168-3 4.2829-4 0.928486          4520000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          1.1168-3 4.2829-4 0.898028          4520000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          9.8545-4 4.0231-4 0.873772          4520000.         LVLJ.Chen+              (24)C3079  2 
+#/DATA      4
+#/DATASET
+#
+#DATASET    C3079002 
+#DATE       20250825
+#REACTION   (1-H-2(14-SI-32,P)14-SI-33,PAR,DA)=(14-SI-32(D,P)14-SI-33,PAR,DA)
+#PROJ       1002
+#TARG       14032
+#MF         4
+#MT         600
+#PRODUCT    14-SI-33
+#C4BEGIN    [ 1002 14032   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14032   4 600 AC 1.6600+7          2.0868-3 6.5991-4 0.965016          5430000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          2.1286-3 6.1446-4 0.929133          5430000.         LVLJ.Chen+              (24)C3079  2 
+ 1002 14032   4 600 AC 1.6600+7          2.6607-3 6.8699-4 0.904827          5430000.         LVLJ.Chen+              (24)C3079  2 
+#/DATA      3
+#/DATASET

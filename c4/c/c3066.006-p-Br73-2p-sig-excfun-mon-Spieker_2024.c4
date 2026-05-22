@@ -1,0 +1,28 @@
+#ENTRY      C3066
+#AUTHOR1    M.Spieker+
+#YEAR       2024
+#INSTITUTE  (1USAFSU)
+#TITLE      Proton removal from 73,75Br to 72,74Se at
+#+          intermediate energies
+#AUTHOR(S)  M.Spieker, D.Bazin, S.Biswas, P.D.Cottle, P.J.Farris, A.Gade, 
+#+          T.Ginter, S.Giraud, K.W.Kemper, J.Li, S.Noji, J.Pereira, 
+#+          L.A.Riley, M.K.Smith, D.Weisshaar, R.G.T.Zegers
+#REF-CODE   (J,PR/C,109,014307,2024)
+#REFERENCE  Phys.Rev.C 109 (2024) 014307 (doi:10.1103/PhysRevC.109.014307)
+#DATASETS   0
+#
+#DATASET    C3066006 
+#DATE       20250825
+#REACTION   (1-H-1(35-BR-73,2P)34-SE-72,,SIG)=(35-BR-73(P,2P)34-SE-72,,SIG)
+#PROJ       1001
+#TARG       35073
+#MF         3
+#MT         111
+#PRODUCT    34-SE-72
+#C4BEGIN    [ 1001 35073   3 111 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 35073   3 111 C  9.5000+7          0.068000 4.0000-3                                       M.Spieker+           (24)C3066  6 
+#/DATA      1
+#/DATASET
