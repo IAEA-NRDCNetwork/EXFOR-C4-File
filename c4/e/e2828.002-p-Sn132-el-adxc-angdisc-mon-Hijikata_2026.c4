@@ -1,0 +1,56 @@
+#ENTRY      E2828
+#AUTHOR1    Y.Hijikata+
+#YEAR       2026
+#INSTITUTE  (2JPNIPC)
+#TITLE      First extraction of the matter radius of 132Sn via
+#+          proton elastic scattering at 200 MeV/mucleon
+#AUTHOR(S)  Y.Hijikata, J.Zenihiro, S.Terashima, Y.Matsuda, H.Sakaguchi, 
+#+          P.Arthuis, T.Miyagi, S.Ota, H.Baba, S.Chebotaryov, M.Dozono, 
+#+          T.Furuno, T.Harada, C.Iwamoto, T.Kawabata, M.Kobayashi, 
+#+          A.J.Krasznahorkay, S.Leblond, T.Lokotko, Y.Maeda, S.Masuoka, 
+#+          M.Matsushita, S.Michimasa, E.Milman, T.Murakami, H.Nasu, 
+#+          J.Okamoto, S.Sakaguchi, M.Takaki, K.Taniue, H.Tokieda, M.Tsumura, 
+#+          O.Wieland, Y.Yamaguchi, Z.H.Yang, R.Yokoyama, T.Uesaka
+#REF-CODE   (J,PTEP,2026,013D02,2026)
+#REFERENCE  Prog.Theor.Exp.Phys. 2026 (2026) 013D02 (doi:10.1093/ptep/ptaf182)
+#DATASETS   0
+#
+#DATASET    E2828002 
+#DATE       20260227
+#REACTION   (1-H-1(50-SN-132,EL)1-H-1,,DA)=(50-SN-132(P,EL)50-SN-132,,DA)
+#PROJ       1001
+#TARG       50132
+#MF         4
+#MT         2
+#PRODUCT    50-SN-132
+#C4BEGIN    [ 1001 50132   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50132   4   2  C 2.0300+8 7000000. 0.190900 0.010500 0.970296                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 0.195000 0.010300 0.965926                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 0.157600 8.2000-3 0.961262                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 0.105200 5.5000-3 0.956305                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 0.057160 3.0900-3 0.951057                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 0.025630 1.5700-3 0.945519                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 0.012290 8.7000-4 0.939693                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 0.010070 7.5000-4 0.933580                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 0.014470 9.7000-4 0.927184                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 0.016680 1.0700-3 0.920505                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 0.017560 1.1100-3 0.913545                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 0.014960 9.6000-4 0.906308                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 0.011730 7.9000-4 0.898794                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 7.1610-3 5.4400-4 0.891007                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 4.4160-3 3.8500-4 0.882948                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 3.7920-3 3.5000-4 0.874620                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 2.5640-3 2.7100-4 0.866025                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 2.2750-3 2.5600-4 0.857167                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 2.0120-3 2.3800-4 0.848048                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 1.7940-3 2.1700-4 0.838671                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 1.3970-3 1.9000-4 0.829038                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 1.1380-3 1.7600-4 0.819152                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 1.2300-3 1.8400-4 0.809017                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 8.3100-4 1.4940-4 0.798636                              Y.Hijikata+          (26)E2828  2 
+ 1001 50132   4   2  C 2.0300+8 7000000. 9.1600-4 1.5420-4 0.788011                              Y.Hijikata+          (26)E2828  2 
+#/DATA      25
+#/DATASET

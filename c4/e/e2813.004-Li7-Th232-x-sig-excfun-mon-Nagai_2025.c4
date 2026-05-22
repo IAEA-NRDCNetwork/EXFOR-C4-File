@@ -1,0 +1,29 @@
+#ENTRY      E2813
+#AUTHOR1    A.Nagai+
+#YEAR       2025
+#INSTITUTE  (2JPNKNZ)
+#TITLE      Incomplete fusion reaction producing 234U, 233U, and
+#+          232U in the 232Th + 7Li reaction
+#AUTHOR(S)  A.Nagai, H.Hosokawa, K.Teranishi, R.Morita, A.Seto, A.Nakajima, 
+#+          Y.Komori, T.Yokokita, D.Mori, Y.Shigekawa, A.Nambu, Y.Wang, 
+#+          A.Sakaguchi, H.Haba, A.Yokoyama
+#REF-CODE   (J,RCA,113,847,2025)
+#REFERENCE  Radiochim.Acta 113 (2025) 847 (doi:10.1515/ract-2025-0022)
+#DATASETS   0
+#
+#DATASET    E2813004 
+#DATE       20260226
+#REACTION   90-TH-232(3-LI-7,X)92-U-232,,SIG
+#PROJ       3007
+#TARG       90232
+#MF         3
+#MT         454
+#PRODUCT    92-U-232
+#C4BEGIN    [ 3007 90232   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 90232   3 454    3.9100+7 1200000. 0.019400 8.0000-4           92232.9                     A.Nagai+             (25)E2813  4 
+ 3007 90232   3 454    3.6600+7 1300000. 0.017300 5.0000-4           92232.9                     A.Nagai+             (25)E2813  4 
+#/DATA      2
+#/DATASET
