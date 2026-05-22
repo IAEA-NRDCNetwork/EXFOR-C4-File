@@ -1,0 +1,28 @@
+#ENTRY      A0035
+#AUTHOR1    D.Chmielewska+
+#YEAR       1978
+#INSTITUTE  (3POLIBJ)
+#TITLE      Cross section of the reaction (alpha,xn) on the
+#+          nuclei 154Gd and 160Gd in the energy interval
+#+          E(alpha)=47-130 MeV
+#AUTHOR(S)  D.Chmielewska, Z.Sujkowski, W.J.Ockels, J.F.W.Jansen, M.J.A.De Voigt
+#REF-CODE   (J,BAS,42,(11),132,1978)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 42 No.11 (1978) 132
+#DATASETS   0
+#
+#DATASET    A0035018 
+#DATE       20260202
+#REACTION   64-GD-154(A,3N)66-DY-155,,SIG
+#PROJ       2004
+#TARG       64154
+#MF         3
+#MT         17
+#PRODUCT    66-DY-155
+#C4BEGIN    [ 2004 64154   3  17 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 64154   3  17 D  4.7000+7          0.585000                                                D.Chmielewska+       (78)A0035 18 
+ 2004 64154   3  17 D  5.6000+7          0.230000                                                D.Chmielewska+       (78)A0035 18 
+#/DATA      2
+#/DATASET
