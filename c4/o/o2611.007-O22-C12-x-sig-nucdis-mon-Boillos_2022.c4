@@ -1,0 +1,72 @@
+#ENTRY      O2611
+#AUTHOR1    J.M.Boillos+
+#YEAR       2022
+#INSTITUTE  (2SPNSAU)
+#TITLE      Isotopic cross sections of fragmentation residues
+#+          produced by light projectiles on carbon near 400A MeV
+#AUTHOR(S)  J.M.Boillos, D.Cortina-Gil, J.Benlliure, J.L.Rodriguez-Sanchez, 
+#+          H.Alvarez-Pol, L.Atar, T.Aumann, V.V.Avdeichikov, S.Beceiro-Novo, 
+#+          D.Bemmerer, C.A.Bertulani, K.Boretzky, M.J.G.Borge, M.Caamano, 
+#+          C.Caesar, E.Casarejos, W.Catford, J.Cederkall, M.Chartier, 
+#+          L.Chulkov, E.Cravo, R.N.P.Crespo, I.Dillmann, P.Diaz Fernandez, 
+#+          Z.Elekes, J.Enders, O.Ershova, A.Estrade, F.Farinon, L.M.Fraile, 
+#+          M.Freer, D.Galaviz Redondo, H.Geissel, R.Gernhaeuser, P.Golubev, 
+#+          K.Goebel, J.Hagdahl, T.Heftrich, M.Heil, M.Heine, A.Heinz, 
+#+          A.Henriques, M.Holl, A.Hufnagel, A.Ignatov, H.T.Johansson, 
+#+          B.Jonson, J.Kahlbow, N.Kalantar-Nayestanaki, R.Kanungo, 
+#+          A.Kelic-Heil, A.Knyazev, T.Kroell, N.Kurz, M.Labiche, C.Langer, 
+#+          T.Le Bleis, R.Lemmon, S.Lindberg, J.F.D.C.Machado, J.Marganiec, 
+#+          A.Movsesyan, E.Nacher, M.A.Najafi, T.Nilsson, C.Nociforo, 
+#+          V.Panin, S.Paschalis, A.Perea, M.Petri, S.Pietri, R.Plag, 
+#+          R.Reifarth, G.Ribeiro, C.Rigollet, D.M.Rossi, M.Roeder, 
+#+          D.Savran, H.Scheit, H.Simon, O.Sorlin, I.J.Syndikus, J.T.Taylor, 
+#+          O.Tengblad, R.Thies, Y.Togano, M.Vandebrouck, P.J.F.Velho, 
+#+          V.Volkov, A.Wagner, F.Wamers, H.Weick, C.Wheldon, G.L.Wilson, 
+#+          J.S.Winfield, P.Woods, D.Yakorev, M.Zhukov, A.Zilges, K.Zuber
+#REF-CODE   (J,PR/C,105,014611,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) 014611 (doi:10.1103/PhysRevC.105.014611)
+#DATASETS   0
+#
+#DATASET    O2611007 
+#DATE       20240402
+#REACTION   6-C-12(8-O-22,X)ELEM/MASS,,SIG
+#PROJ       8022
+#TARG       6012
+#MF         3
+#MT         454
+#C4BEGIN    [ 8022  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8022  6012   3 454    9.1080+9          0.087670 4.5300-3            8021.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.070430 3.5500-3            8020.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.038960 2.0700-3            8019.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.038900 1.8100-3            8018.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.014310 1.0500-3            8017.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          4.5100-3 4.6000-4            8016.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.016120 1.1000-3            7021.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.023910 1.3000-3            7020.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.037590 2.3000-3            7019.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.029540 1.6300-3            7018.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.038170 2.7000-3            7017.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.024870 2.5700-3            7016.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.040320 6.3700-3            7015.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          4.9500-3 9.4000-4            7014.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          3.0000-4 1.0000-4            6019.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          4.6300-3 6.8000-4            6018.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          4.8000-3 5.6000-4            6017.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.011890 1.5800-3            6016.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.012560 1.3000-3            6015.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.035280 4.6300-3            6014.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.024560 5.3500-3            6013.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          4.0700-3 7.1000-4            6012.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          1.5400-3 2.2000-4            5015.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          1.7600-3 2.9000-4            5014.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          0.011840 1.6500-3            5013.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          7.3600-3 1.4400-3            5012.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          8.1900-3 2.0200-3            5011.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          2.7000-4 1.5000-4            4011.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          2.3500-3 6.6000-4            4010.9                     J.M.Boillos+         (22)O2611  7 
+ 8022  6012   3 454    9.1080+9          1.6600-3 6.6000-4            4009.9                     J.M.Boillos+         (22)O2611  7 
+#/DATA      30
+#/DATASET

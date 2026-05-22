@@ -1,0 +1,67 @@
+#ENTRY      O2599
+#AUTHOR1    J.Skowronski+
+#YEAR       2023
+#INSTITUTE  (2ITYUPV)
+#TITLE      Proton-capture rates on carbon isotopes and their
+#+          impact on the astrophysical 12C/13C ratio
+#AUTHOR(S)  J.Skowronski, A.Boeltzig, G.F.Ciani, L.Csedreki, D.Piatti, 
+#+          M.Aliotta, C.Ananna, F.Barile, D.Bemmerer, A.Best, C.Broggini, 
+#+          C.G.Bruno, A.Caciolli, M.Campostrini, F.Cavanna, P.Colombetti, 
+#+          A.Compagnucci, P.Corvisiero, T.Davinson, R.Depalo, A.Di Leva, 
+#+          Z.Elekes, F.Ferraro, A.Formicola, Zs.Fueloep, G.Gervino, 
+#+          R.M.Gesue, A.Guglielmetti, C.Gustavino, Gy.Gyuerky, G.Imbriani, 
+#+          M.Junker, M.Lugaro, P.Marigo, E.Masha, R.Menegazzo, V.Paticchio, 
+#+          R.Perrino, P.Prati, D.Rapagnani, V.Rigato, L.Schiavulli, 
+#+          R.S.Sidhu, O.Straniero, T.Szuecs, S.Zavatarelli
+#REF-CODE   (J,PRL,131,162701,2023)
+#REFERENCE  Phys.Rev.Lett. 131 (2023) 162701 (doi:10.1103/PhysRevLett.131.162701)
+#DATASETS   0
+#
+#DATASET    O2599005 
+#DATE       20240214
+#REACTION   6-C-13(P,G)7-N-14,,SIG,,SFC
+#PROJ       1001
+#TARG       6013
+#MF         3
+#MT         102
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  6013   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6013   3 102    65447.80          8.316-12 5.782-13                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    75468.65          3.724-11 2.056-12                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    85274.00          1.225-10 2.712-12                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    95111.68          3.298-10 5.680-12                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    104755.4          7.623-10 6.444-12                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    114754.7          1.6280-9 9.459-12                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    124775.6          3.1694-9 2.281-11                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    134365.5          5.5458-9 3.236-11                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    144386.4          9.3731-9 4.083-11                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    154299.5          1.4998-8 1.194-10                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    164428.2          2.3033-8 4.227-10                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    174233.6          3.3730-8 6.264-10                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    184362.3          4.9309-8 2.802-10                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    194059.9          6.8409-8 7.831-10                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    204188.6          9.4189-8 3.975-10                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    213994.1          1.2700-7 1.0170-9                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    224122.8          1.6704-7 2.817-10                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    234036.0          2.1766-7 9.733-10                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    244057.0          2.7968-7 4.017-10                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    253970.2          3.5642-7 7.624-10                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    264098.9          4.5344-7 4.122-10                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    274227.6          5.6897-7 9.811-10                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    284033.1          6.8555-7 7.699-10                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    294161.9          8.5332-7 2.6280-9                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    303967.4          1.0518-6 8.013-10                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    314203.9          1.2731-6 1.5376-9                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    324009.4          1.5367-6 9.805-10                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    334353.7          1.8823-6 5.3564-9                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    344159.3          2.2534-6 9.7283-9                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    354395.8          2.6733-6 1.6367-9                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    364201.4          3.1770-6 1.8545-9                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    373899.2          3.9246-6 1.8191-9                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    384135.7          4.7460-6 3.0457-9                                       J.Skowronski+        (23)O2599  5 
+ 1001  6013   3 102    392217.2          5.5798-6 2.9112-9                                       J.Skowronski+        (23)O2599  5 
+#/DATA      34
+#/DATASET

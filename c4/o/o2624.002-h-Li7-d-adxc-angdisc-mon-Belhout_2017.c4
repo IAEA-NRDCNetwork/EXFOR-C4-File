@@ -1,0 +1,85 @@
+#ENTRY      O2624
+#AUTHOR1    A.Belhout+
+#YEAR       2017
+#INSTITUTE  (3ALGUHB)
+#TITLE      New determination of proton spectroscopic factors and
+#+          reduced widths for be 8Be states in the 16.5-18.0 MeV
+#+          excitation energy region via the study of the
+#+          7Li(3He,d)8Be transfer reaction at Elab = 20 MeV:
+#+          implication for the 7Li(p,alpha)4He hydrogen
+#+          burning reaction
+#AUTHOR(S)  A.Belhout, S.Ouichaoui, H.Beaumevieille, A.Bouchemha, G.Bogaert, 
+#+          S.Fortier, J.Kiener, A.Lefebvre-Schuhl, J.M.Maison, L.Rosier, 
+#+          J.Rotbard, V.Tatischeff, J.P.Thibaud, J.Vernotte
+#REF-CODE   (J,PR/C,96,054601,2017)
+#REFERENCE  Phys.Rev.C 96 (2017) 054601 (doi:10.1103/PhysRevC.96.054601)
+#DATASETS   0
+#
+#DATASET    O2624002 
+#DATE       20240826
+#REACTION   3-LI-7(HE3,D)4-BE-8,PAR,DA
+#PROJ       2003
+#TARG       3007
+#MF         4
+#MT         650
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 2003  3007   4 650 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  3007   4 650 AC 2.0000+7          0.050000 0.013000 0.992482          1.6626+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          0.045103 9.0205-3 0.969872          1.6626+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          0.023770 4.7540-3 0.933580          1.6626+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          7.9584-3 1.5917-3 0.882948          1.6626+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          3.2118-3 6.4237-4 0.820152          1.6626+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          3.8716-3 7.7431-4 0.746638          1.6626+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          3.5737-3 7.1473-4 0.662620          1.6626+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          2.7366-3 5.4732-4 0.570714          1.6626+7         LVLA.Belhout+           (17)O2624  2 
+#/DATA      8
+#/DATASET
+#
+#DATASET    O2624002 
+#DATE       20240826
+#REACTION   3-LI-7(HE3,D)4-BE-8,PAR,DA
+#PROJ       2003
+#TARG       3007
+#MF         4
+#MT         650
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 2003  3007   4 650 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  3007   4 650 AC 2.0000+7          1.3585-3 2.7170-4 0.992397          1.6922+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          7.7365-4 1.5473-4 0.969872          1.6922+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          5.9896-4 1.1979-4 0.932954          1.6922+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          3.0791-4 6.1580-5 0.882127          1.6922+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          7.1600-5 1.4320-5 0.818150          1.6922+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          1.0000-4 2.0000-5 0.744312          1.6922+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          1.5828-4 3.1660-5 0.660002          1.6922+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          5.0000-5 1.0000-5 0.567844          1.6922+7         LVLA.Belhout+           (17)O2624  2 
+#/DATA      8
+#/DATASET
+#
+#DATASET    O2624002 
+#DATE       20240826
+#REACTION   3-LI-7(HE3,D)4-BE-8,PAR,DA
+#PROJ       2003
+#TARG       3007
+#MF         4
+#MT         650
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 2003  3007   4 650 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  3007   4 650 AC 2.0000+7          3.5936-3 5.3905-4 0.992202          1.7640+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          4.6948-3 7.0423-4 0.969016          1.7640+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          2.8862-3 4.3293-4 0.931056          1.7640+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          1.0376-3 1.5564-4 0.878817          1.7640+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          6.8226-4 1.0234-4 0.814116          1.7640+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          7.1724-4 1.0759-4 0.737277          1.7640+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          5.9633-4 8.9450-5 0.652098          1.7640+7         LVLA.Belhout+           (17)O2624  2 
+ 2003  3007   4 650 AC 2.0000+7          4.2675-4 6.4010-5 0.557745          1.7640+7         LVLA.Belhout+           (17)O2624  2 
+#/DATA      8
+#/DATASET

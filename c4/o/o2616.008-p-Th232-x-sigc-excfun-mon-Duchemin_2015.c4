@@ -1,0 +1,36 @@
+#ENTRY      O2616
+#AUTHOR1    C.Duchemin+
+#YEAR       2015
+#INSTITUTE  (2FR NTE)
+#TITLE      Production of medical isotopes from a thorium target
+#+          irradiated by light charged particles up to 70 MeV
+#AUTHOR(S)  C.Duchemin, A.Guertin, F.Haddad, N.Michel, V.Metivier
+#REF-CODE   (J,PMB,60,931,2015)
+#REFERENCE  Phys.Med.Biol. 60 (2015) 931 (doi:10.1088/0031-9155/60/3/931)
+#DATASETS   0
+#
+#DATASET    O2616008 
+#DATE       20240827
+#REACTION   90-TH-232(P,F)53-I-131,CUM,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         459
+#PRODUCT    53-I-131
+#C4BEGIN    [ 1001 90232   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3 459    1.1050+7 1780000. 1.1000-3 1.4000-4           53131.9                     C.Duchemin+          (15)O2616  8 
+ 1001 90232   3 459    1.4380+7 1410000. 7.3000-3 6.1000-4           53131.9                     C.Duchemin+          (15)O2616  8 
+ 1001 90232   3 459    1.7810+7 1180000. 0.022160 2.0500-3           53131.9                     C.Duchemin+          (15)O2616  8 
+ 1001 90232   3 459    2.0080+7 1070000. 0.030520 2.8600-3           53131.9                     C.Duchemin+          (15)O2616  8 
+ 1001 90232   3 459    2.5530+7 790000.0 0.041370 3.8900-3           53131.9                     C.Duchemin+          (15)O2616  8 
+ 1001 90232   3 459    3.0190+7 560000.0 0.047060 4.1900-3           53131.9                     C.Duchemin+          (15)O2616  8 
+ 1001 90232   3 459    3.6920+7 930000.0 0.046890 4.2300-3           53131.9                     C.Duchemin+          (15)O2616  8 
+ 1001 90232   3 459    4.1060+7 790000.0 0.049040 4.4000-3           53131.9                     C.Duchemin+          (15)O2616  8 
+ 1001 90232   3 459    4.5920+7 560000.0 0.046600 4.2200-3           53131.9                     C.Duchemin+          (15)O2616  8 
+ 1001 90232   3 459    5.7680+7 1030000. 0.040360 3.9500-3           53131.9                     C.Duchemin+          (15)O2616  8 
+ 1001 90232   3 459    7.0120+7 530000.0 0.028890 2.1900-3           53131.9                     C.Duchemin+          (15)O2616  8 
+#/DATA      11
+#/DATASET

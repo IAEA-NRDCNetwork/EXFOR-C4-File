@@ -1,0 +1,40 @@
+#ENTRY      O2600
+#AUTHOR1    S.Harissopulos+
+#YEAR       2020
+#INSTITUTE  (2GRCATH)
+#TITLE      Capture reaction cross-section measurements relevant
+#+          to p process: the case of (a,g) reactions on 65Cu,
+#+          72Ge, 118Sn and the 107Ag(p,g)108Cd reaction
+#AUTHOR(S)  S.Harissopulos, E.Vagena, M.Axiotis, A.Spyrou, G.Provatas, 
+#+          A.Lagoyannis, P.Dimitriou, H.W.Becker
+#REF-CODE   (J,EPJ/CS,227,01008,2020)
+#REFERENCE  EPJ Web Conf. 227 (2020) 01008 (doi:10.1051/epjconf/202022701008)
+#DATASETS   0
+#
+#DATASET    O2600003 
+#DATE       20240219
+#REACTION   32-GE-72(A,G)34-SE-76,,SIG
+#PROJ       2004
+#TARG       32072
+#MF         3
+#MT         102
+#PRODUCT    34-SE-76
+#C4BEGIN    [ 2004 32072   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 32072   3 102    5588830. 112508.8 8.0000-7 2.5000-7                                       S.Harissopulos+      (20)O2600  3 
+ 2004 32072   3 102    5790475.          1.7000-6 5.0000-7                                       S.Harissopulos+      (20)O2600  3 
+ 2004 32072   3 102    5993176.          5.1000-6 1.4000-6                                       S.Harissopulos+      (20)O2600  3 
+ 2004 32072   3 102    6194822.          7.6000-6 2.1000-6                                       S.Harissopulos+      (20)O2600  3 
+ 2004 32072   3 102    6397524.          1.1700-5 3.1000-6                                       S.Harissopulos+      (20)O2600  3 
+ 2004 32072   3 102    6901115.          7.4000-6 2.0000-6                                       S.Harissopulos+      (20)O2600  3 
+ 2004 32072   3 102    7403654.          1.0500-5 2.8000-6                                       S.Harissopulos+      (20)O2600  3 
+ 2004 32072   3 102    7907251.          1.2200-5 3.4000-6                                       S.Harissopulos+      (20)O2600  3 
+ 2004 32072   3 102    8411908.          3.1700-5 8.5000-6                                       S.Harissopulos+      (20)O2600  3 
+ 2004 32072   3 102    8914457.          4.8000-5 1.3000-5                                       S.Harissopulos+      (20)O2600  3 
+ 2004 32072   3 102    9418064.          7.8000-5 2.1000-5                                       S.Harissopulos+      (20)O2600  3 
+ 2004 32072   3 102    9920620.          1.2700-4 3.4000-5                                       S.Harissopulos+      (20)O2600  3 
+ 2004 32072   3 102    1.0423+7          1.0600-4 2.8000-5                                       S.Harissopulos+      (20)O2600  3 
+#/DATA      13
+#/DATASET

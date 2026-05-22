@@ -1,0 +1,36 @@
+#ENTRY      O2554
+#AUTHOR1    G.Dellepiane+
+#YEAR       2022
+#INSTITUTE  (2SWTUBE)
+#TITLE      Experimental assessment of nuclear cross sections for
+#+          the production of Tb radioisotopes with a medical
+#+          cyclotron
+#AUTHOR(S)  G.Dellepiane, P.Casolaro, A.Gottstein, I.Mateu, P.Scampoli, 
+#+          S.Braccini
+#REF-CODE   (J,ARI,184,110175,2022)
+#REFERENCE  Appl.Radiat.Isot. 184 (2022) 110175 (doi:10.1016/j.apradiso.2022.110175)
+#DATASETS   0
+#
+#DATASET    O2554005 
+#DATE       20240327
+#REACTION   64-GD-0(P,X)65-TB-154-G,(M),SIG
+#PROJ       1001
+#TARG       64000
+#MF         3
+#MT         459
+#PRODUCT    65-TB-154-G
+#C4BEGIN    [ 1001 64000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 64000   3 459    1.1500+7 400000.0 6.0000-3 1.0000-3           65154.0                     G.Dellepiane+        (22)O2554  5 
+ 1001 64000   3 459    1.2100+7 400000.0 9.0000-3 1.0000-3           65154.0                     G.Dellepiane+        (22)O2554  5 
+ 1001 64000   3 459    1.2500+7 400000.0 0.016000 2.0000-3           65154.0                     G.Dellepiane+        (22)O2554  5 
+ 1001 64000   3 459    1.3000+7 400000.0 0.022000 4.0000-3           65154.0                     G.Dellepiane+        (22)O2554  5 
+ 1001 64000   3 459    1.4500+7 400000.0 0.031000 5.0000-3           65154.0                     G.Dellepiane+        (22)O2554  5 
+ 1001 64000   3 459    1.5500+7 400000.0 0.031000 2.0000-3           65154.0                     G.Dellepiane+        (22)O2554  5 
+ 1001 64000   3 459    1.5800+7 400000.0 0.030000 4.0000-3           65154.0                     G.Dellepiane+        (22)O2554  5 
+ 1001 64000   3 459    1.7100+7 400000.0 0.040000 4.0000-3           65154.0                     G.Dellepiane+        (22)O2554  5 
+ 1001 64000   3 459    1.8200+7 400000.0 0.046000 5.0000-3           65154.0                     G.Dellepiane+        (22)O2554  5 
+#/DATA      9
+#/DATASET

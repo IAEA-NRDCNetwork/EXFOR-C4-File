@@ -1,0 +1,45 @@
+#ENTRY      O2617
+#AUTHOR1    S.Harissopulos+
+#YEAR       2024
+#INSTITUTE  (2GRCATH)
+#TITLE      (p,gamma) cross section measurements on Sn isotopes
+#+          relevant to the p process
+#AUTHOR(S)  S.Harissopulos, E.Vagena, A.Spyrou, M.Axiotis, Z.Kotsina, 
+#+          K.Tsampa, A.Lagoyannis, P.Dimitriou, H.-W.Becker, V.Foteinou
+#REF-CODE   (J,PR/C,110,015803,2024)
+#REFERENCE  Phys.Rev.C 110 (2024) 015803 (doi:10.1103/PhysRevC.110.015803)
+#DATASETS   0
+#
+#DATASET    O26170082
+#DATE       20240813
+#REACTION   50-SN-118(P,G)51-SB-119,,SIG,,SFC
+#PROJ       1001
+#TARG       50118
+#MF         3
+#MT         102
+#PRODUCT    51-SB-119
+#C4BEGIN    [ 1001 50118   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50118   3 102    2596032.          1.0019-5 2.0039-6                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    2795730.          2.6967-5 4.9855-6                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    2996436.          6.3060-5 1.1018-5                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    3196134.          1.3100-4 2.2999-5                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    3395832.          2.7728-4 4.8904-5                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    3596540.          5.5668-4 9.6058-5                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    3796239.          9.5636-4 1.6578-4                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    3996947.          1.7657-3 3.0520-4                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    4196647.          2.5550-3 4.4146-4                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    4296497.          3.1844-3 5.5038-4                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    4397355.          4.0664-3 7.0421-4                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    4497206.          4.6964-3 8.1243-4                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    4597056.          3.8920-3 6.7156-4                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    4696906.          3.6833-3 6.3382-4                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    4796757.          3.2147-3 5.5663-4                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    4897616.          3.1889-3 5.4930-4                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    4997467.          3.0914-3 5.3408-4                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    5097317.          3.0372-3 5.2295-4                                       S.Harissopulos+      (24)O2617  82
+ 1001 50118   3 102    5197168.          4.4471-3 7.6351-4                                       S.Harissopulos+      (24)O2617  82
+#/DATA      19
+#/DATASET
