@@ -1,0 +1,35 @@
+#ENTRY      C3089
+#AUTHOR1    A.Tsantiri+
+#YEAR       2025
+#INSTITUTE  (1USAMSU)
+#TITLE      Constraining the Synthesis of the Lightest p Nucleus
+#+          74Se
+#AUTHOR(S)  A.Tsantiri, A.Spyrou, E.C.Good, K.Bosmpotinis, P.Giuliani, 
+#+          H.Arora, G.Balk, L.Balliet, H.C.Berg, J.M.Berkman, C.Dembski, 
+#+          P.Deyoung, P.A.Denissenkov, N.Dimitrakopoulos, A.Doetsch, 
+#+          T.Gaballah, R.Garg, A.Henriques, R.Jain, S.N.Liddick, S.Lyons, 
+#+          R.S.Lubna, B.Monteagudo Godoy, F.Monte, S.Nash, G.U.Ogudoro, 
+#+          J.Owens-Fryar, A.Palmisano-Kyle, J.Pereira, A.Psaltis, A.L.Richard, 
+#+          L.Roberti, E.K.Ronning, H.Schatz, A.Sebastian, M.Smith, 
+#+          M.K.Smith, C.S.Sumithrarachchi, C.Tinson, P.Tsintari, N.Tubaro, 
+#+          S.Uthayakumaar, A.C.C.Villari, E.Weissling, R.G.T.Zegers
+#REF-CODE   (J,PRL,135,212701,2025)
+#REFERENCE  Phys.Rev.Lett. 135 (2025) 212701 (doi:10.1103/d7dr-h36j)
+#DATASETS   0
+#
+#DATASET    C3089002 
+#DATE       20251205
+#REACTION   (1-H-1(33-AS-73,G)34-SE-74,,SIG)=(33-AS-73(P,G)34-SE-74,,SIG)
+#PROJ       1001
+#TARG       33073
+#MF         3
+#MT         102
+#PRODUCT    34-SE-74
+#C4BEGIN    [ 1001 33073   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 33073   3 102    2990833.          3.1100-3 5.5980-4                                       A.Tsantiri+          (25)C3089  2 
+ 1001 33073   3 102    2382518.          1.1500-3 8.5100-4                                       A.Tsantiri+          (25)C3089  2 
+#/DATA      2
+#/DATASET
