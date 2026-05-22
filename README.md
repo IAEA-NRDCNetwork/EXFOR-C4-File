@@ -1,5 +1,5 @@
 # EXFOR C4 File (C4)
-These files were generated from the EXFOR Entry Files [EXFOR Entry Files](https://nds.iaea.org/nrdc/exfor-master/entry/) by using the ForEXy package [1].
+The EXFOR C4 (Computational Format) Files were generated from the EXFOR Entry Files [EXFOR Entry Files](https://nds.iaea.org/nrdc/exfor-master/entry/) by using the ForEXy package [1].
 
 The following quantities are within the scope of these libraries:
 
