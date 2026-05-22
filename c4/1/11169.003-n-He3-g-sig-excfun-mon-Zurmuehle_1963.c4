@@ -1,26 +1,26 @@
 #ENTRY      11169
-#AUTHOR1    R.W.Zirmuehle+
+#AUTHOR1    R.W.Zurmuehle+
 #YEAR       1963
 #INSTITUTE  (1USAPEN)
-#TITLE      GAMMA RAYS FROM NEUTRON CAPTURE IN HELIUM-3 AND
-#+          DEUTERON CAPTURE IN DEUTERIUM.
-#AUTHOR(S)  R.W.Zirmuehle, W.E.Stephens, H.H.Staub
-#REF-CODE   (J,PR,132,751,6310)
+#TITLE      Gamma rays from neutron capture in helium-3 and
+#+          deuteron capture in deuterium.
+#AUTHOR(S)  R.W.Zurmuehle, W.E.Stephens, H.H.Staub
+#REF-CODE   (J,PR,132,751,1963)
 #REFERENCE  Phys.Rev. 132 (1963) 751 (doi:10.1103/PhysRev.132.751)
 #DATASETS   0
 #
-#DATASET    11169004 
+#DATASET    11169003 
 #DATE       19800814
-#REACTION   2-HE-3(N,INL)2-HE-3,,DA,G
+#REACTION   2-HE-3(N,G)2-HE-4,,SIG
 #PROJ       1
 #TARG       2003
-#MF         14
-#MT         4
-#PRODUCT    2-HE-3
-#C4BEGIN    [    1  2003  14   4  ]
+#MF         3
+#MT         102
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1  2003   3 102 D]
 #DATA       0
 # Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
 #---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
-    1  2003  14   4    4000000. 600000.0 5.0000-6          6.123-17                              R.W.Zirmuehle+       (63)11169  4 
+    1  2003   3 102 D  4000000. 600000.0 4.2000-5                                                R.W.Zurmuehle+       (63)11169  3 
 #/DATA      1
 #/DATASET
