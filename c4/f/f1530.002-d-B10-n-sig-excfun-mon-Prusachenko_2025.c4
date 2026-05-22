@@ -1,0 +1,37 @@
+#ENTRY      F1530
+#AUTHOR1    P.S.Prusachenko+
+#YEAR       2025
+#INSTITUTE  (4RUSFEI)
+#TITLE      Measurement of the 10B(d,n)11C reaction cross-section
+#+          in the energy range of 0.05-0.57 MeV in inverse
+#+          kinematics
+#AUTHOR(S)  P.S.Prusachenko, A.F.Gurbich, T.L.Bobrovsky, M.V.Bokhovko
+#REF-CODE   (J,ARI,225,111999,2025)
+#REFERENCE  Appl.Radiat.Isot. 225 (2025) 111999 (doi:10.1016/j.apradiso.2025.111999)
+#DATASETS   0
+#
+#DATASET    F1530002 
+#DATE       20251017
+#REACTION   5-B-10(D,N)6-C-11,,SIG
+#PROJ       1002
+#TARG       5010
+#MF         3
+#MT         4
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1002  5010   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5010   3   4 A  54000.00 54000.00 1.2000-7 6.7200-8                                       P.S.Prusachenko+     (25)F1530  2 
+ 1002  5010   3   4 A  130000.0 22000.00 2.4000-6 1.3680-7                                       P.S.Prusachenko+     (25)F1530  2 
+ 1002  5010   3   4 A  172000.0 20000.00 1.2500-5 4.5000-7                                       P.S.Prusachenko+     (25)F1530  2 
+ 1002  5010   3   4 A  211000.0 18000.00 6.4000-5 1.4080-6                                       P.S.Prusachenko+     (25)F1530  2 
+ 1002  5010   3   4 A  248000.0 18000.00 1.6900-4 4.2250-6                                       P.S.Prusachenko+     (25)F1530  2 
+ 1002  5010   3   4 A  285000.0 18000.00 4.6100-4 7.3760-6                                       P.S.Prusachenko+     (25)F1530  2 
+ 1002  5010   3   4 A  321000.0 18000.00 9.4900-4 6.6430-6                                       P.S.Prusachenko+     (25)F1530  2 
+ 1002  5010   3   4 A  356000.0 16000.00 1.4860-3 5.9440-6                                       P.S.Prusachenko+     (25)F1530  2 
+ 1002  5010   3   4 A  410000.0 38000.00 2.9060-3 8.7180-6                                       P.S.Prusachenko+     (25)F1530  2 
+ 1002  5010   3   4 A  488000.0 39000.00 6.5050-3 1.3010-5                                       P.S.Prusachenko+     (25)F1530  2 
+ 1002  5010   3   4 A  566000.0 39000.00 9.2450-3 3.6980-5                                       P.S.Prusachenko+     (25)F1530  2 
+#/DATA      11
+#/DATASET
