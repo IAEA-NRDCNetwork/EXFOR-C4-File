@@ -1,0 +1,32 @@
+#ENTRY      41784
+#AUTHOR1    A.V.Andreev+
+#YEAR       2025
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Studies of angular distributions and cross sections
+#+          of gamma-ray radiation on Si and O nuclei in reactions
+#+          with fast neutrons
+#AUTHOR(S)  A.V.Andreev, N.A.Fedorov, D.N.Grozdanov, P.S.Prusachenko, 
+#+          Yu.N.Kopach, T.Yu.Tretyakova, G.V.Pampushik, C.Hramco, A.P.Zuev, 
+#+          P.G.Filonchik, P.I.Kharlamov, I.N.Ruskov, V.R.Skoy
+#REF-CODE   (J,BAS,89,1254,2025)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 89 (2025) 1254 (doi:10.1134/S1062873825712012)
+#DATASETS   0
+#
+#DATASET    41784016 
+#DATE       20250905
+#REACTION   8-O-16(N,INL)8-O-16,PAR,SIG,G
+#PROJ       1
+#TARG       8016
+#MF         13
+#MT         51
+#PRODUCT    8-O-16
+#C4BEGIN    [    1  8016  13  51 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016  13  51 P  1.4100+7          0.027000 2.0000-3                   2.7420+9            A.V.Andreev+         (25)41784 16 
+    1  8016  13  51 P  1.4100+7          0.110000 4.0000-3                   6.1299+9            A.V.Andreev+         (25)41784 16 
+    1  8016  13  51 P  1.4100+7          0.042000 3.0000-3                   6.9171+9            A.V.Andreev+         (25)41784 16 
+    1  8016  13  51 P  1.4100+7          0.035000 2.0000-3                   7.1179+9            A.V.Andreev+         (25)41784 16 
+#/DATA      4
+#/DATASET
