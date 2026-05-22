@@ -1,0 +1,52 @@
+#ENTRY      F0464
+#AUTHOR1    T.W.Bonner+
+#YEAR       1956
+#INSTITUTE  (1USARIC)
+#TITLE      Neutron and gamma rays from the alpha-particle
+#+          bombardment of 9Be, 10B, 11B, 13C and 18O
+#AUTHOR(S)  T.W.Bonner, A.A.Kraus, J.B.Marion, J.P.Schiffer
+#REF-CODE   (J,PR,102,1348,1956)
+#REFERENCE  Phys.Rev. 102 (1956) 1348 (doi:10.1103/PhysRev.102.1348)
+#DATASETS   0
+#
+#DATASET    F0464003 
+#DATE       20260210
+#REACTION   4-BE-9(A,N)6-C-12,,DA
+#PROJ       2004
+#TARG       4009
+#MF         4
+#MT         4
+#PRODUCT    6-C-12
+#C4BEGIN    [ 2004  4009   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  4009   4   4    1900000.          0.025000 6.2500-3 0.984808 0.030307                     T.W.Bonner+          (56)F0464  3 
+ 2004  4009   4   4    2300000.          0.015000 3.7500-3 0.984808 0.030307                     T.W.Bonner+          (56)F0464  3 
+ 2004  4009   4   4    2600000.          0.020000 5.0000-3 0.984808 0.030307                     T.W.Bonner+          (56)F0464  3 
+ 2004  4009   4   4    3980000.          0.079000 0.019750 0.984808 0.030307                     T.W.Bonner+          (56)F0464  3 
+ 2004  4009   4   4    4400000.          0.060000 0.015000 0.984808 0.030307                     T.W.Bonner+          (56)F0464  3 
+ 2004  4009   4   4    5000000.          0.087000 0.021750 0.984808 0.030307                     T.W.Bonner+          (56)F0464  3 
+#/DATA      6
+#/DATASET
+#
+#DATASET    F0464003 
+#DATE       20260210
+#REACTION   4-BE-9(A,N)6-C-12,,DA
+#PROJ       2004
+#TARG       4009
+#MF         4
+#MT         4
+#PRODUCT    6-C-12
+#C4BEGIN    [ 2004  4009   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  4009   4   4    1900000.          0.029000 7.2500-3 6.123-17 0.349066                     T.W.Bonner+          (56)F0464  3 
+ 2004  4009   4   4    2300000.          0.014000 3.5000-3 6.123-17 0.349066                     T.W.Bonner+          (56)F0464  3 
+ 2004  4009   4   4    2600000.          0.012000 3.0000-3 6.123-17 0.349066                     T.W.Bonner+          (56)F0464  3 
+ 2004  4009   4   4    3980000.          0.029000 7.2500-3 6.123-17 0.349066                     T.W.Bonner+          (56)F0464  3 
+ 2004  4009   4   4    4400000.          0.027000 6.7500-3 6.123-17 0.349066                     T.W.Bonner+          (56)F0464  3 
+ 2004  4009   4   4    5000000.          0.030000 7.5000-3 6.123-17 0.349066                     T.W.Bonner+          (56)F0464  3 
+#/DATA      6
+#/DATASET
