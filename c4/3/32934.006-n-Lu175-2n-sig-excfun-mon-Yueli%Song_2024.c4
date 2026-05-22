@@ -1,0 +1,31 @@
+#ENTRY      32934
+#AUTHOR1    Yueli Song+
+#YEAR       2024
+#INSTITUTE  (3CPRPDU)
+#TITLE      Cross sections for 14 MeV neutron interaction with
+#+          lutetium isotopes and their theoretical excitation
+#+          functions
+#AUTHOR(S)  Yueli Song, Fengqun Zhou, Yong Li, Xiaopeng Zhang, Pengfei Ji, 
+#+          Xiaojun Sun
+#REF-CODE   (J,CPH/C,48,054104,2024)
+#REFERENCE  Chin.Phys.C 48 (2024) 054104 (doi:10.1088/1674-1137/ad2b55)
+#DATASETS   0
+#
+#DATASET    32934006 
+#DATE       20251202
+#REACTION   71-LU-175(N,2N)71-LU-174-G,,SIG
+#PROJ       1
+#TARG       71175
+#MF         3
+#MT         16
+#PRODUCT    71-LU-174-G
+#C4BEGIN    [    1 71175   3  16G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 71175   3  16G   1.3570+7 270000.0 1.219000 0.066000                                       Yueli Song+          (24)32934  6 
+    1 71175   3  16G   1.4030+7 280000.0 1.206000 0.063000                                       Yueli Song+          (24)32934  6 
+    1 71175   3  16G   1.4620+7 220000.0 1.260000 0.067000                                       Yueli Song+          (24)32934  6 
+    1 71175   3  16G   1.4860+7 230000.0 1.208000 0.062000                                       Yueli Song+          (24)32934  6 
+#/DATA      4
+#/DATASET

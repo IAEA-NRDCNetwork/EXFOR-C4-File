@@ -1,0 +1,43 @@
+#ENTRY      32876
+#AUTHOR1    Yiwei Hu+
+#YEAR       2024
+#INSTITUTE  (3CPRBJG)
+#TITLE      Cross section measurement for the 14N(n,a0,1)11B
+#+          reactions in the 4.5 - 11.5 MeV neutron energy region
+#AUTHOR(S)  Yiwei Hu, Yu.M.Gledenov, Zengqi Cui, Jie Liu, Haofan Bai, 
+#+          Cong Xia, Zhenpeng Chen, Zepeng Wu, Wenkai Ren, Wentiancao, 
+#+          Tieshuan Fan, Guohui Zhang, E.Sansarbayar, G.Khuukhenkhuu, 
+#+          L.Krupa, I.Chuprakov, Qiwen Fan, Xichao Ruan, Hanxiong Huang, 
+#+          Jie Ren, Yuan Gao, Xiangjun Yang
+#REF-CODE   (J,EPJ/A,60,51,2024)
+#REFERENCE  Eur.Phys.J.A 60 (2024) 51 (doi:10.1140/epja/s10050-024-01268-9)
+#DATASETS   0
+#
+#DATASET    32876005 
+#DATE       20251124
+#REACTION   7-N-14(N,A)5-B-11,PAR,SIG
+#PROJ       1
+#TARG       7014
+#MF         3
+#MT         800
+#PRODUCT    5-B-11
+#C4BEGIN    [    1  7014   3 800 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  7014   3 800 C  7090000. 90000.00 0.034500 4.2000-3                   2125000.         LVLYiwei Hu+            (24)32876  5 
+    1  7014   3 800 C  7380000. 80000.00 0.049700 4.1000-3                   2125000.         LVLYiwei Hu+            (24)32876  5 
+    1  7014   3 800 C  7580000. 80000.00 0.048100 3.3000-3                   2125000.         LVLYiwei Hu+            (24)32876  5 
+    1  7014   3 800 C  7830000. 80000.00 0.046700 2.9000-3                   2125000.         LVLYiwei Hu+            (24)32876  5 
+    1  7014   3 800 C  8110000. 70000.00 0.030300 3.7000-3                   2125000.         LVLYiwei Hu+            (24)32876  5 
+    1  7014   3 800 C  8260000. 80000.00 0.023500 3.3000-3                   2125000.         LVLYiwei Hu+            (24)32876  5 
+    1  7014   3 800 C  8560000. 70000.00 0.021500 2.8000-3                   2125000.         LVLYiwei Hu+            (24)32876  5 
+    1  7014   3 800 C  8970000. 80000.00 0.021400 2.2000-3                   2125000.         LVLYiwei Hu+            (24)32876  5 
+    1  7014   3 800 C  9280000. 70000.00 0.022300 2.6000-3                   2125000.         LVLYiwei Hu+            (24)32876  5 
+    1  7014   3 800 C  9710000. 60000.00 0.026700 2.7000-3                   2125000.         LVLYiwei Hu+            (24)32876  5 
+    1  7014   3 800 C  1.0250+7 70000.00 0.027300 2.6000-3                   2125000.         LVLYiwei Hu+            (24)32876  5 
+    1  7014   3 800 C  1.0570+7 60000.00 0.020600 1.8000-3                   2125000.         LVLYiwei Hu+            (24)32876  5 
+    1  7014   3 800 C  1.0930+7 70000.00 0.022800 2.5000-3                   2125000.         LVLYiwei Hu+            (24)32876  5 
+    1  7014   3 800 C  1.1480+7 50000.00 0.015200 2.5000-3                   2125000.         LVLYiwei Hu+            (24)32876  5 
+#/DATA      14
+#/DATASET

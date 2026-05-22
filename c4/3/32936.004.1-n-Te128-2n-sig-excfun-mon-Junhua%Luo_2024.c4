@@ -1,0 +1,31 @@
+#ENTRY      32936
+#AUTHOR1    Junhua Luo+
+#YEAR       2024
+#INSTITUTE  (3CPRHXU)
+#TITLE      Measurements of the 128Te(n,2n)127m,gTe reaction
+#+          cross sections and isomeric cross section ratio of
+#+          127m,gTe at the neutron energy of 14 MeV
+#AUTHOR(S)  Junhua Luo, Long He, Liang Zhou, Li Jiang
+#REF-CODE   (J,CPH/C,48,124001,2024)
+#REFERENCE  Chin.Phys.C 48 (2024) 124001 (doi:10.1088/1674-1137/ad7370)
+#DATASETS   0
+#
+#DATASET    329360041
+#DATE       20251204
+#REACTION   52-TE-128(N,2N)52-TE-127,,SIG
+#PROJ       1
+#TARG       52128
+#MF         3
+#MT         16
+#PRODUCT    52-TE-127
+#C4BEGIN    [    1 52128   3  16 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52128   3  16 D  1.3590+7 120000.0 1.466000 0.119000                                       Junhua Luo+          (24)32936  41
+    1 52128   3  16 D  1.3860+7 150000.0 1.511000 0.125000                                       Junhua Luo+          (24)32936  41
+    1 52128   3  16 D  1.4130+7 160000.0 1.538000 0.132000                                       Junhua Luo+          (24)32936  41
+    1 52128   3  16 D  1.4700+7 130000.0 1.550000 0.128000                                       Junhua Luo+          (24)32936  41
+    1 52128   3  16 D  1.4940+7 20000.00 1.571000 0.130000                                       Junhua Luo+          (24)32936  41
+#/DATA      5
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      32883
+#AUTHOR1    Junhua Luo+
+#YEAR       2022
+#INSTITUTE  (3CPRHXU)
+#TITLE      Cross-sections and isomeric ratios for the 136Xe
+#+          (n,2n)135m,gXe reactions in the 14 MeV region with
+#+          covariance analysis
+#AUTHOR(S)  Junhua Luo, Juncheng Liang, Li Jiang, Fei Tuo, Long He, 
+#+          Liang Zhou, Quan Yan
+#REF-CODE   (J,EPJ/A,58,142,2022)
+#REFERENCE  Eur.Phys.J.A 58 (2022) 142 (doi:10.1140/epja/s10050-022-00797-5)
+#DATASETS   0
+#
+#DATASET    328830041
+#DATE       20251124
+#REACTION   54-XE-136(N,2N)54-XE-135,,SIG
+#PROJ       1
+#TARG       54136
+#MF         3
+#MT         16
+#PRODUCT    54-XE-135
+#C4BEGIN    [    1 54136   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 54136   3  16    1.3500+7 200000.0 0.458000 0.048000                                       Junhua Luo+          (22)32883  41
+    1 54136   3  16    1.3800+7 200000.0 0.508000 0.049000                                       Junhua Luo+          (22)32883  41
+    1 54136   3  16    1.4100+7 200000.0 0.528000 0.050000                                       Junhua Luo+          (22)32883  41
+    1 54136   3  16    1.4400+7 200000.0 0.507000 0.048000                                       Junhua Luo+          (22)32883  41
+    1 54136   3  16    1.4800+7 200000.0 0.515000 0.048000                                       Junhua Luo+          (22)32883  41
+#/DATA      5
+#/DATASET
