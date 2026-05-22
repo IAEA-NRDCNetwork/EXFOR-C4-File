@@ -1,0 +1,50 @@
+#ENTRY      14862
+#AUTHOR1    N.Dimitrakopoulos+
+#YEAR       2025
+#INSTITUTE  (1USACMG)
+#TITLE      Cross section measurements for the 68Zn(n,p)68Cu and
+#+          68Zn(n,alpha)65Ni reactions at neutron energies from
+#+          4 to 12 MeV
+#AUTHOR(S)  N.Dimitrakopoulos, G.Perdikakis, P.Tsintari, P.Gastis, S.A.Kuvin, 
+#+          H.Y.Lee, A.V.Voinov
+#REF-CODE   (J,PR/C,112,054602,2025)
+#REFERENCE  Phys.Rev.C 112 (2025) 054602 (doi:10.1103/43m8-8sbg)
+#DATASETS   0
+#
+#DATASET    14862007 
+#DATE       20260217
+#REACTION   30-ZN-68(N,P)29-CU-68,,SIG
+#PROJ       1
+#TARG       30068
+#MF         3
+#MT         103
+#PRODUCT    29-CU-68
+#C4BEGIN    [    1 30068   3 103 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 30068   3 103 D  1350000. 250000.0 1.595-12 1.636-12                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  1850000. 250000.0 2.116-12 2.170-12                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  2350000. 250000.0 2.620-12 2.687-12                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  2850000. 250000.0 3.346-12 3.432-12                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  3350000. 250000.0 4.108-12 4.213-12                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  3850000. 250000.0 4.353-12 4.464-12                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  4350000. 250000.0 5.830-12 5.979-12                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  4850000. 250000.0 6.510-12 6.677-12                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  5350000. 250000.0 7.733-12 7.930-12                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  5850000. 250000.0 1.0998-4 1.5760-4                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  6350000. 250000.0 7.3766-4 3.9650-4                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  6850000. 250000.0 1.1512-3 7.3818-4                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  7350000. 250000.0 3.2536-3 5.2249-4                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  7850000. 250000.0 3.9925-3 7.9496-4                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  8350000. 250000.0 5.5998-3 6.8366-4                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  8850000. 250000.0 8.0248-3 1.5029-3                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  9350000. 250000.0 0.010243 5.5580-4                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  9850000. 250000.0 0.011687 2.0649-3                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  1.0350+7 250000.0 0.012703 3.1614-3                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  1.0850+7 250000.0 0.014881 3.4494-4                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  1.1350+7 250000.0 0.020501 1.1322-4                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  1.1850+7 250000.0 0.022064 1.4817-3                                       N.Dimitrakopoulos+   (25)14862  7 
+    1 30068   3 103 D  1.2350+7 250000.0 0.014645 3.7311-3                                       N.Dimitrakopoulos+   (25)14862  7 
+#/DATA      23
+#/DATASET
