@@ -1,6 +1,14 @@
 # EXFOR C4 File (C4)
-The EXFOR C4 (Computational Format) Files were generated from the EXFOR Entry Files [EXFOR Entry Files](https://nds.iaea.org/nrdc/exfor-master/entry/) by using the ForEXy package [1].
+The EXFOR C4 File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-master/entry/) converted to C4 (Computational Format) by ForEXy [1].
 
+**Download**
+- download the zipped file of the current version from the [EXFOR C4 File](https://nds.iaea.org/nrdc/exfor-master/c4/) website, or
+- download the full repository using the terminal command:
+```
+https://github.com/iaea-nrdcnetwork/exfor-c4-file.git
+```
+
+**Contents**
 The following quantities are within the scope of these libraries:
 
 * cross section (incl. gamma production)
@@ -19,7 +27,6 @@ The comment lines (starting from #) added before and after the data lines follow
 One file corresponds to one subentry. If there are several running variables (e.g., incident energy and angle for angular differential cross sections), the dataset is separated to "blocks" so that each part has one running variable. For example, angular distribution data at three incident energies in a subentry are stored in three blocks.
 
 *Examples*
-
 * `d/D4408.005-a-Ni-x-sig-excfun-mon-Takacs_2020.c4`:
 Same as the 1st example of the C6Lib file.
 
