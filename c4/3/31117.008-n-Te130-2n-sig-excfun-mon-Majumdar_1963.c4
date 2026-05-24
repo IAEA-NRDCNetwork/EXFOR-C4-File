@@ -1,0 +1,26 @@
+#ENTRY      31117
+#AUTHOR1    N.K.Majumdar+
+#YEAR       1963
+#INSTITUTE  (3INDSAH)
+#TITLE      14.8MeV neutron activation cross-section measurements
+#+          of a few tellurium isotopes
+#AUTHOR(S)  N.K.Majumdar, A.Chatterjee
+#REF-CODE   (J,NP,41,192,1963)
+#REFERENCE  Nucl.Phys. 41 (1963) 192 (doi:10.1016/0029-5582(63)90500-5)
+#DATASETS   0
+#
+#DATASET    31117008 
+#DATE       20090921
+#REACTION   52-TE-130(N,2N)52-TE-129-G,,SIG
+#PROJ       1
+#TARG       52130
+#MF         3
+#MT         16
+#PRODUCT    52-TE-129-G
+#C4BEGIN    [    1 52130   3  16G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52130   3  16G   1.4800+7 296000.0 0.225000 0.028000                                       N.K.Majumdar+        (63)31117  8 
+#/DATA      1
+#/DATASET

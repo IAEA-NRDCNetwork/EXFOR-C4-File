@@ -1,0 +1,27 @@
+#ENTRY      11658
+#AUTHOR1    G.H.E.Sims+
+#YEAR       1968
+#INSTITUTE  (1CANCPO)
+#TITLE      The thermal neutron cross sections and
+#+          resonance integrals of Cr50, Ag109, Sb123, Cs133,
+#+          Ir191, and Hg202.
+#AUTHOR(S)  G.H.E.Sims, D.G.Juhnke
+#REF-CODE   (J,JIN,30,349,1968)
+#REFERENCE  J.Inorg.Nucl.Chem. 30 (1968) 349 (doi:10.1016/0022-1902(68)80459-2)
+#DATASETS   0
+#
+#DATASET    11658003 
+#DATE       20160518
+#REACTION   24-CR-50(N,G)24-CR-51,,SIG,,MXW
+#PROJ       1
+#TARG       24050
+#MF         3
+#MT         102
+#PRODUCT    24-CR-51
+#C4BEGIN    [    1 24050   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24050   3 102 D  0.025300          15.90000 0.100000                                       G.H.E.Sims+          (68)11658  3 
+#/DATA      1
+#/DATASET

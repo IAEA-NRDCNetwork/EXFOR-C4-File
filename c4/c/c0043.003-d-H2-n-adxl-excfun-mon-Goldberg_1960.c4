@@ -1,0 +1,30 @@
+#ENTRY      C0043
+#AUTHOR1    M.D.Goldberg+
+#YEAR       1960
+#INSTITUTE  (1USALRL)
+#TITLE      Angular Distributions of the D(d,n)He3 Reaction for 5-
+#+          to 12-MeV Deuterons
+#AUTHOR(S)  M.D.Goldberg, J.M.Le Blanc
+#REF-CODE   (J,PR,119,1992,1960)
+#REFERENCE  Phys.Rev. 119 (1960) 1992 (doi:10.1103/PhysRev.119.1992)
+#DATASETS   0
+#
+#DATASET    C0043003 
+#DATE       20020213
+#REACTION   1-H-2(D,N)2-HE-3,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1002   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4   4    3400000. 68000.00 0.059600 2.9800-3 1.000000 0.000000                     M.D.Goldberg+        (60)C0043  3 
+ 1002  1002   4   4    5300000. 106000.0 0.080900 4.0450-3 1.000000 0.000000                     M.D.Goldberg+        (60)C0043  3 
+ 1002  1002   4   4    7200000. 144000.0 0.090100 4.5050-3 1.000000 0.000000                     M.D.Goldberg+        (60)C0043  3 
+ 1002  1002   4   4    8500000. 170000.0 0.099300 4.9650-3 1.000000 0.000000                     M.D.Goldberg+        (60)C0043  3 
+ 1002  1002   4   4    1.0200+7 204000.0 0.103300 5.1650-3 1.000000 0.000000                     M.D.Goldberg+        (60)C0043  3 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      32669
+#AUTHOR1    F.Zhou+
+#YEAR       2007
+#INSTITUTE  (3CPRPDU)
+#TITLE      Cross-section measurements for (n,2n) and (n,p)
+#+          reactions on tellurium isotopes in the neutron
+#+          energy range of 13.5-14.6 MeV
+#AUTHOR(S)  F.Zhou, F.Tuo, Y.Yi, X.Kong
+#REF-CODE   (J,RCA,95,553,2007)
+#REFERENCE  Radiochim.Acta 95 (2007) 553 (doi:10.1524/ract.2007.95.10.553)
+#DATASETS   0
+#
+#DATASET    32669010 
+#DATE       20090719
+#REACTION   52-TE-122(N,P)51-SB-122,,SIG
+#PROJ       1
+#TARG       52122
+#MF         3
+#MT         103
+#PRODUCT    51-SB-122
+#C4BEGIN    [    1 52122   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52122   3 103 A  1.3500+7 300000.0 0.010300 6.0000-4                                       F.Zhou+              (07)32669 10 
+    1 52122   3 103 A  1.4100+7 200000.0 0.014200 7.0000-4                                       F.Zhou+              (07)32669 10 
+    1 52122   3 103 A  1.4600+7 300000.0 0.016300 9.0000-4                                       F.Zhou+              (07)32669 10 
+#/DATA      3
+#/DATASET

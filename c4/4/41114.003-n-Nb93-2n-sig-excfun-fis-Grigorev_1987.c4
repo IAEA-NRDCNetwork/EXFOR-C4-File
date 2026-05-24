@@ -1,0 +1,27 @@
+#ENTRY      41114
+#AUTHOR1    E.I.Grigor'ev+
+#YEAR       1987
+#INSTITUTE  (4RUSFRT)
+#TITLE      Integral cross-sections for the reactions
+#+          V-51(n,alpha)Sc-48, Nb-93(n,2n)Nb-93-m,
+#+          Zr-90(n,2n)Zr-89
+#AUTHOR(S)  E.I.Grigor'ev, Yu.A.Melekhin, V.P.Yaryna
+#REF-CODE   (J,YK,,(3),27,1987)
+#REFERENCE  Yad.Reak.Konst.  No.3 (1987) 27
+#DATASETS   0
+#
+#DATASET    41114003 
+#DATE       20151005
+#REACTION   41-NB-93(N,2N)41-NB-92-M,,SIG,,FIS
+#PROJ       1
+#TARG       41093
+#MF         3
+#MT         16
+#PRODUCT    41-NB-92-M
+#C4BEGIN    [    1 41093   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093   3  16M   1320000.          4.1600-4 1.5000-5                                       E.I.Grigor'ev+       (87)41114  3 
+#/DATA      1
+#/DATASET

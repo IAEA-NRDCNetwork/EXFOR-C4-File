@@ -1,0 +1,41 @@
+#ENTRY      C0556
+#AUTHOR1    F.R.Chloupek+
+#YEAR       1999
+#INSTITUTE  (1USAOSU)
+#TITLE      Measurements of proton radiative capture cross
+#+          sections relevant to the astrophysical rp- and
+#+          gamma-processes
+#AUTHOR(S)  F.R.Chloupek, A.St.J.Murphy, R.N.Boyd, A.L.Cole, J.Goerres, 
+#+          R.T.Guray, G.Raimann, J.J.Zach, T.Rauscher, J.V.Schwarzenberg, 
+#+          P.Tischhauser, M.C.Wiescher
+#REF-CODE   (J,NP/A,652,391,1999)
+#REFERENCE  Nucl.Phys.A 652 (1999) 391 (doi:10.1016/S0375-9474(99)00167-0)
+#DATASETS   0
+#
+#DATASET    C0556004 
+#DATE       20160709
+#REACTION   50-SN-119(P,G)51-SB-120-G,,SIG,,SFC
+#PROJ       1001
+#TARG       50119
+#MF         3
+#MT         102
+#PRODUCT    51-SB-120-G
+#C4BEGIN    [ 1001 50119   3 102G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50119   3 102G   2760232.          4.9972-6 1.8972-6                                       F.R.Chloupek+        (99)C0556  4 
+ 1001 50119   3 102G   2963949.          4.8663-6 6.8369-7                                       F.R.Chloupek+        (99)C0556  4 
+ 1001 50119   3 102G   3218092.          2.0673-5 1.8659-6                                       F.R.Chloupek+        (99)C0556  4 
+ 1001 50119   3 102G   3472236.          2.9137-5 2.3124-6                                       F.R.Chloupek+        (99)C0556  4 
+ 1001 50119   3 102G   3726380.          6.7019-5 4.7094-6                                       F.R.Chloupek+        (99)C0556  4 
+ 1001 50119   3 102G   3979516.          1.5275-4 1.0521-5                                       F.R.Chloupek+        (99)C0556  4 
+ 1001 50119   3 102G   4233661.          2.1592-4 1.3299-5                                       F.R.Chloupek+        (99)C0556  4 
+ 1001 50119   3 102G   4487807.          3.3664-4 2.0671-5                                       F.R.Chloupek+        (99)C0556  4 
+ 1001 50119   3 102G   4842805.          7.2261-4 4.9269-5                                       F.R.Chloupek+        (99)C0556  4 
+ 1001 50119   3 102G   5248231.          1.3866-3 8.1128-5                                       F.R.Chloupek+        (99)C0556  4 
+ 1001 50119   3 102G   5501370.          1.9930-3 1.1655-4                                       F.R.Chloupek+        (99)C0556  4 
+ 1001 50119   3 102G   6008660.          3.4588-3 2.1285-4                                       F.R.Chloupek+        (99)C0556  4 
+ 1001 50119   3 102G   6514943.          4.7939-3 3.8351-4                                       F.R.Chloupek+        (99)C0556  4 
+#/DATA      13
+#/DATASET

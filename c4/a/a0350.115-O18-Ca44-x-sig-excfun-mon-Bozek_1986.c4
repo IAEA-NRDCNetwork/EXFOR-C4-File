@@ -1,0 +1,37 @@
+#ENTRY      A0350
+#AUTHOR1    E.Bozek+
+#YEAR       1986
+#INSTITUTE  (2FR SAC)
+#TITLE      De-excitation of Ni-58,60,62 compound nuclei formed
+#+          via symmetric and asymmetric entrance channels
+#AUTHOR(S)  E.Bozek, D.M.De Castro-Rizzo, S.Cavallaro, B.Delaunay, J.Delaunay, 
+#+          H.Dumont, A.D'onofrio, M.G.Saint-Laurent, L.Sperduto, F.Terrasi
+#REF-CODE   (J,NP/A,451,171,1986)
+#REFERENCE  Nucl.Phys.A 451 (1986) 171 (doi:10.1016/0375-9474(86)90250-2)
+#DATASETS   0
+#
+#DATASET    A0350115 
+#DATE       20260323
+#REACTION   20-CA-44(8-O-18,X)24-CR-54,,SIG
+#PROJ       8018
+#TARG       20044
+#MF         3
+#MT         454
+#PRODUCT    24-CR-54
+#C4BEGIN    [ 8018 20044   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8018 20044   3 454    3.3430+7          1.2000-3                    24054.9                     E.Bozek+             (86)A0350115 
+ 8018 20044   3 454    3.4430+7          2.0000-3                    24054.9                     E.Bozek+             (86)A0350115 
+ 8018 20044   3 454    3.5440+7          3.1000-3                    24054.9                     E.Bozek+             (86)A0350115 
+ 8018 20044   3 454    3.6440+7          4.8000-3                    24054.9                     E.Bozek+             (86)A0350115 
+ 8018 20044   3 454    3.8450+7          7.6000-3                    24054.9                     E.Bozek+             (86)A0350115 
+ 8018 20044   3 454    4.1460+7          7.6000-3                    24054.9                     E.Bozek+             (86)A0350115 
+ 8018 20044   3 454    4.5480+7          0.010400                    24054.9                     E.Bozek+             (86)A0350115 
+ 8018 20044   3 454    4.8490+7          9.9000-3                    24054.9                     E.Bozek+             (86)A0350115 
+ 8018 20044   3 454    5.2510+7          0.013800                    24054.9                     E.Bozek+             (86)A0350115 
+ 8018 20044   3 454    5.5520+7          0.013200                    24054.9                     E.Bozek+             (86)A0350115 
+ 8018 20044   3 454    5.9540+7          0.015900                    24054.9                     E.Bozek+             (86)A0350115 
+#/DATA      11
+#/DATASET

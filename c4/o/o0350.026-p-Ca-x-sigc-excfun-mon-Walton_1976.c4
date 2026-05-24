@@ -1,0 +1,37 @@
+#ENTRY      O0350
+#AUTHOR1    J.R.Walton+
+#YEAR       1976
+#INSTITUTE  (1USARIC)
+#TITLE      Cross sections for He and Ne isotopes in natural Mg,Al,
+#+          and Si,He isotopes in Ca-F(2),Ar isotopes in natural Ca
+#+          and radionuclides in natural Al,Si,Ti,Cr and stainless
+#+          steel induced by 12-To 45-MeV protons.
+#AUTHOR(S)  J.R.Walton, D.Heymann, A.Yaniv, D.Edgerley, M.W.Rowe
+#REF-CODE   (J,JGR,81,5689,1976)
+#REFERENCE  J.Geophys.Res. 81 (1976) 5689 (doi:10.1029/JB081i032p05689)
+#DATASETS   0
+#
+#DATASET    O0350026 
+#DATE       20201019
+#REACTION   20-CA-0(P,X)18-AR-37,CUM,SIG
+#PROJ       1001
+#TARG       20000
+#MF         3
+#MT         459
+#PRODUCT    18-AR-37
+#C4BEGIN    [ 1001 20000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20000   3 459    1.8900+7 900000.0 0.011900 2.8560-3           18037.9                     J.R.Walton+          (76)O0350 26 
+ 1001 20000   3 459    2.1700+7 800000.0 6.1000-3 9.1500-4           18037.9                     J.R.Walton+          (76)O0350 26 
+ 1001 20000   3 459    2.4100+7 900000.0 4.7000-3 1.4100-3           18037.9                     J.R.Walton+          (76)O0350 26 
+ 1001 20000   3 459    2.7300+7 900000.0 3.8000-3 1.1400-3           18037.9                     J.R.Walton+          (76)O0350 26 
+ 1001 20000   3 459    2.9300+7 1100000. 5.4000-3 2.1600-3           18037.9                     J.R.Walton+          (76)O0350 26 
+ 1001 20000   3 459    3.2100+7 1200000. 8.0000-3 2.0800-3           18037.9                     J.R.Walton+          (76)O0350 26 
+ 1001 20000   3 459    3.5300+7 1200000. 8.8000-3 2.2880-3           18037.9                     J.R.Walton+          (76)O0350 26 
+ 1001 20000   3 459    3.8200+7 1300000. 0.018000 5.0400-3           18037.9                     J.R.Walton+          (76)O0350 26 
+ 1001 20000   3 459    4.0900+7 1200000. 0.040000 8.0000-3           18037.9                     J.R.Walton+          (76)O0350 26 
+ 1001 20000   3 459    4.3600+7 1500000. 0.070000 0.016800           18037.9                     J.R.Walton+          (76)O0350 26 
+#/DATA      10
+#/DATASET

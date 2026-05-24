@@ -1,0 +1,25 @@
+#ENTRY      14297
+#AUTHOR1    B.C.Diven+
+#YEAR       1961
+#INSTITUTE  (1USALAS)
+#TITLE      Numbers of Prompt Neutrons per Fission for U233, U235,
+#+          Pu239 and Cf252
+#AUTHOR(S)  B.C.Diven, J.C.Hopkins
+#REF-CODE   (C,61VIENNA,1,149,1961)
+#REFERENCE  Proceedings of Reactor Physics Sem., Vienna 1961 1 page 149
+#DATASETS   0
+#
+#DATASET    142970061
+#DATE       20170807
+#REACTION   92-U-235(N,F),PR,NU
+#PROJ       1
+#TARG       92235
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92235   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   1 456    0.025300          2.414000 0.030000                                       B.C.Diven+           (61)14297  61
+#/DATA      1
+#/DATASET

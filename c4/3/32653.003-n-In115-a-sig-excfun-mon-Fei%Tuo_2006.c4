@@ -1,0 +1,27 @@
+#ENTRY      32653
+#AUTHOR1    Fei Tuo+
+#YEAR       2006
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Cross-section measurements for reactions of 14MeV
+#+          neutrons on indium isotopes
+#AUTHOR(S)  Fei Tuo, Fenqun Zhou, Yanling Yi, Xuexiang Cao, Xiangzhong Kong
+#REF-CODE   (J,ARI,64,910,2006)
+#REFERENCE  Appl.Radiat.Isot. 64 (2006) 910 (doi:10.1016/j.apradiso.2006.03.007)
+#DATASETS   0
+#
+#DATASET    32653003 
+#DATE       20060701
+#REACTION   49-IN-115(N,A)47-AG-112,,SIG
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         107
+#PRODUCT    47-AG-112
+#C4BEGIN    [    1 49115   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3 107    1.4300+7 200000.0 2.2000-3 9.0000-5                                       Fei Tuo+             (06)32653  3 
+    1 49115   3 107    1.4600+7 200000.0 2.5000-3 1.1000-4                                       Fei Tuo+             (06)32653  3 
+#/DATA      2
+#/DATASET

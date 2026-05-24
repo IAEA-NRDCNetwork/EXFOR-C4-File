@@ -1,0 +1,34 @@
+#ENTRY      D4052
+#AUTHOR1    A.E.Vlieks+
+#YEAR       1974
+#INSTITUTE  (1USAOSU)
+#TITLE      Total cross sections for some (a,n) and (a,p)
+#+          reactions in medium-weight nuclei
+#AUTHOR(S)  A.E.Vlieks, J.F.Morgan, S.L.Blatt
+#REF-CODE   (J,NP/A,224,492,1974)
+#REFERENCE  Nucl.Phys.A 224 (1974) 492 (doi:10.1016/0375-9474(74)90551-X)
+#DATASETS   0
+#
+#DATASET    D4052005 
+#DATE       20210929
+#REACTION   23-V-51(A,N)25-MN-54,,SIG
+#PROJ       2004
+#TARG       23051
+#MF         3
+#MT         4
+#PRODUCT    25-MN-54
+#C4BEGIN    [ 2004 23051   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 23051   3   4    6850000.          0.026100 1.9053-3                                       A.E.Vlieks+          (74)D4052  5 
+ 2004 23051   3   4    7400000.          0.077500 5.6575-3                                       A.E.Vlieks+          (74)D4052  5 
+ 2004 23051   3   4    7930000.          0.165000 0.012045                                       A.E.Vlieks+          (74)D4052  5 
+ 2004 23051   3   4    8370000.          0.224000 0.016352                                       A.E.Vlieks+          (74)D4052  5 
+ 2004 23051   3   4    8910000.          0.283000 0.020659                                       A.E.Vlieks+          (74)D4052  5 
+ 2004 23051   3   4    9430000.          0.410000 0.029930                                       A.E.Vlieks+          (74)D4052  5 
+ 2004 23051   3   4    9880000.          0.612000 0.044676                                       A.E.Vlieks+          (74)D4052  5 
+ 2004 23051   3   4    1.0430+7          0.621000 0.045333                                       A.E.Vlieks+          (74)D4052  5 
+ 2004 23051   3   4    1.0940+7          0.784000 0.057232                                       A.E.Vlieks+          (74)D4052  5 
+#/DATA      9
+#/DATASET

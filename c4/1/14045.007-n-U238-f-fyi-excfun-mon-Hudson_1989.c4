@@ -1,0 +1,40 @@
+#ENTRY      14045
+#AUTHOR1    G.B.Hudson+
+#YEAR       1989
+#INSTITUTE  (1USABRK)
+#TITLE      Calibration of fission product yields for Xe-136 and
+#+          Kr-85
+#AUTHOR(S)  G.B.Hudson
+#REF-CODE   (P,UCRL-53929,159,1989)
+#REFERENCE  Progress report UCRL-53929 page 159, 1989
+#DATASETS   0
+#
+#DATASET    14045007 
+#DATE       20120812
+#REACTION   92-U-238(N,F)ELEM/MASS,IND,FY
+#PROJ       1
+#TARG       92238
+#MF         8
+#MT         454
+#C4BEGIN    [    1 92238   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   8 454    1.4000+7          0.050000 1.8500-3 54.00000 136.0000 9.000000            G.B.Hudson           (89)14045  7 
+#/DATA      1
+#/DATASET
+#
+#DATASET    14045007 
+#DATE       20120812
+#REACTION   92-U-238(N,F)ELEM/MASS,IND,FY
+#PROJ       1
+#TARG       92238
+#MF         8
+#MT         454
+#C4BEGIN    [    1 92238   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   8 454    1.4000+7          1.8000-3 1.0800-4 36.00000 85.00000 9.000000            G.B.Hudson           (89)14045  7 
+#/DATA      1
+#/DATASET

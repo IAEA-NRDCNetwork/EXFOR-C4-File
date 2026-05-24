@@ -1,0 +1,28 @@
+#ENTRY      31506
+#AUTHOR1    Xuemei Zhang+
+#YEAR       2000
+#INSTITUTE  (3CPRTSI)
+#TITLE      Measurements and calculations of the 39K and 40Ca
+#+          (n,a) cross sections at En = 4.5 to 6.5 MeV
+#AUTHOR(S)  Xuemei Zhang, Zemin Chen, Yingtang Chen, Guoyou Tang, Guohui Zhang, 
+#+          Jinxiang Chen, Yu.M.Gledenov, G.Khuukhenkhuu
+#REF-CODE   (J,NSE,134,89,2000)
+#REFERENCE  Nucl.Sci.Eng. 134 (2000) 89 (doi:10.13182/NSE00-A2102)
+#DATASETS   0
+#
+#DATASET    31506005 
+#DATE       20000410
+#REACTION   20-CA-40(N,A)18-AR-37,,SIG
+#PROJ       1
+#TARG       20040
+#MF         3
+#MT         107
+#PRODUCT    18-AR-37
+#C4BEGIN    [    1 20040   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20040   3 107    4930000. 120000.0 0.199000 0.020000                                       Xuemei Zhang+        (00)31506  5 
+    1 20040   3 107    5980000. 120000.0 0.198000 0.020000                                       Xuemei Zhang+        (00)31506  5 
+#/DATA      2
+#/DATASET

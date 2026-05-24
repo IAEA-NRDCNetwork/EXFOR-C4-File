@@ -1,0 +1,28 @@
+#ENTRY      D4272
+#AUTHOR1    T.Rauscher+
+#YEAR       2012
+#INSTITUTE  (2SWTBAS)
+#TITLE      Astrophysical analysis of the measurement of (a,g)
+#+          and (a,n) cross sections of 169Tm
+#AUTHOR(S)  T.Rauscher, G.G.Kiss, T.Szucs, Zs.Fulop, C.Frohlich, Gy.Gyurky, 
+#+          Z.Halasz, Zs.Kertesz, E.Somorjai
+#REF-CODE   (J,PR/C,86,015804,2012)
+#REFERENCE  Phys.Rev.C 86 (2012) 015804 (doi:10.1103/PhysRevC.86.015804)
+#DATASETS   0
+#
+#DATASET    D42720031
+#DATE       20130111
+#REACTION   69-TM-169(A,N)71-LU-172,,SIG,,SFC
+#PROJ       2004
+#TARG       69169
+#MF         3
+#MT         4
+#PRODUCT    71-LU-172
+#C4BEGIN    [ 2004 69169   3   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 69169   3   4 D  1.2571+7 87006.78 1.2050-5 1.1288-6                                       T.Rauscher+          (12)D4272  31
+ 2004 69169   3   4 D  1.2981+7 66005.31 3.1361-5 2.9764-6                                       T.Rauscher+          (12)D4272  31
+#/DATA      2
+#/DATASET

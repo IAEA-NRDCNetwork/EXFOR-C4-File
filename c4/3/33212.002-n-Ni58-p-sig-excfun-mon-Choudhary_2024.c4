@@ -1,0 +1,31 @@
+#ENTRY      33212
+#AUTHOR1    M.Choudhary+
+#YEAR       2024
+#INSTITUTE  (3INDBHU)
+#TITLE      Comprehensive analysis of uncertainty quantification
+#+          for the 58Ni(n,p)58Co reaction cross section*
+#AUTHOR(S)  M.Choudhary, A.Sharma, N.Singh, M.Upadhyay, P.Dubey, A.Gandhi, 
+#+          A.Hingu, G.Mishra, S.De, L.S.Danu, A.Kumar, R.G.Thomas, 
+#+          S.Sood, S.Prasad, S.Mukherjee, I.N.Ruskov, Yu.N.Kopatch, 
+#+          A.Kumar
+#REF-CODE   (J,CPH/C,48,094104,2024)
+#REFERENCE  Chin.Phys.C 48 (2024) 094104 (doi:10.1088/1674-1137/ad5662)
+#DATASETS   0
+#
+#DATASET    33212002 
+#DATE       20250401
+#REACTION   28-NI-58(N,P)27-CO-58,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         103
+#PRODUCT    27-CO-58
+#C4BEGIN    [    1 28058   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3 103 A  1060000. 160000.0 2.8800-3 2.8000-4                                       M.Choudhary+         (24)33212  2 
+    1 28058   3 103 A  1860000. 140000.0 0.058660 3.3600-3                                       M.Choudhary+         (24)33212  2 
+    1 28058   3 103 A  2850000. 180000.0 0.131230 7.3500-3                                       M.Choudhary+         (24)33212  2 
+#/DATA      3
+#/DATASET

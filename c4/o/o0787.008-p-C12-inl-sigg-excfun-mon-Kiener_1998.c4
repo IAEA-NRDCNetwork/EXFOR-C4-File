@@ -1,0 +1,37 @@
+#ENTRY      O0787
+#AUTHOR1    J.Kiener+
+#YEAR       1998
+#INSTITUTE  (2FR CSN)
+#TITLE      Gamma-ray production by inelastic proton scattering on
+#+          16-O and 12-C
+#AUTHOR(S)  J.Kiener, M.Berheide, N.L.Achouri, A.Boughrara, A.Coc, A.Lefebvre, 
+#+          F.De Oliveira Santos, Ch.Vieu
+#REF-CODE   (J,PR/C,58,2174,1998)
+#REFERENCE  Phys.Rev.C 58 (1998) 2174 (doi:10.1103/PhysRevC.58.2174)
+#DATASETS   0
+#
+#DATASET    O0787008 
+#DATE       20050202
+#REACTION   6-C-12(P,INL)6-C-12,PAR,SIG,G,AV
+#PROJ       1001
+#TARG       6012
+#MF         13
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012  13 601 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012  13 601 D  9000000. 500000.0 0.290000                            4440000.            J.Kiener+            (98)O0787  8 
+ 1001  6012  13 601 D  1.0000+7 500000.0 0.265000                            4440000.            J.Kiener+            (98)O0787  8 
+ 1001  6012  13 601 D  1.1000+7 500000.0 0.317000                            4440000.            J.Kiener+            (98)O0787  8 
+ 1001  6012  13 601 D  1.2000+7 500000.0 0.270000                            4440000.            J.Kiener+            (98)O0787  8 
+ 1001  6012  13 601 D  1.3000+7 500000.0 0.282000                            4440000.            J.Kiener+            (98)O0787  8 
+ 1001  6012  13 601 D  1.4000+7 500000.0 0.281000                            4440000.            J.Kiener+            (98)O0787  8 
+ 1001  6012  13 601 D  1.5000+7 500000.0 0.217000                            4440000.            J.Kiener+            (98)O0787  8 
+ 1001  6012  13 601 D  1.6000+7 500000.0 0.193000                            4440000.            J.Kiener+            (98)O0787  8 
+ 1001  6012  13 601 D  1.7000+7 500000.0 0.169000                            4440000.            J.Kiener+            (98)O0787  8 
+ 1001  6012  13 601 D  1.8000+7 500000.0 0.156000                            4440000.            J.Kiener+            (98)O0787  8 
+ 1001  6012  13 601 D  1.9000+7 500000.0 0.140000                            4440000.            J.Kiener+            (98)O0787  8 
+#/DATA      11
+#/DATASET

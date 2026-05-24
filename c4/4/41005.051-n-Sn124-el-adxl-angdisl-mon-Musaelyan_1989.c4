@@ -1,0 +1,33 @@
+#ENTRY      41005
+#AUTHOR1    R.M.Musaelyan+
+#YEAR       1989
+#INSTITUTE  (4RUSJIA)
+#TITLE      0.4-2.-MeV neutrons interaction with Cd and Sn even
+#+          isotopes and the generalized optical model.
+#AUTHOR(S)  R.M.Musaelyan, V.D.Ovdienko, N.T.Sklyar, V.M.Skorkin, G.A.Smetanin, 
+#+          I.V.Surkova, M.B.Fedorov, T.I.Yakovenko
+#REF-CODE   (J,YF,50,1531,1989)
+#REFERENCE  Yad.Fiz. 50 (1989) 1531
+#DATASETS   0
+#
+#DATASET    41005051 
+#DATE       20120418
+#REACTION   50-SN-124(N,EL)50-SN-124,,DA
+#PROJ       1
+#TARG       50124
+#MF         4
+#MT         2
+#PRODUCT    50-SN-124
+#C4BEGIN    [    1 50124   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 50124   4   2 A  930000.0          1.528000 0.107000 0.866025                              R.M.Musaelyan+       (89)41005 51 
+    1 50124   4   2 A  930000.0          1.025000 0.072000 0.707107                              R.M.Musaelyan+       (89)41005 51 
+    1 50124   4   2 A  930000.0          0.734000 0.051000 0.500000                              R.M.Musaelyan+       (89)41005 51 
+    1 50124   4   2 A  930000.0          0.404000 0.032000 0.173648                              R.M.Musaelyan+       (89)41005 51 
+    1 50124   4   2 A  930000.0          0.207000 0.019000-0.173648                              R.M.Musaelyan+       (89)41005 51 
+    1 50124   4   2 A  930000.0          0.180000 0.016000-0.573576                              R.M.Musaelyan+       (89)41005 51 
+    1 50124   4   2 A  930000.0          0.358000 0.029000-0.878817                              R.M.Musaelyan+       (89)41005 51 
+#/DATA      7
+#/DATASET

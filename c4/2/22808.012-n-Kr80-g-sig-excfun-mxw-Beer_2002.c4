@@ -1,0 +1,27 @@
+#ENTRY      22808
+#AUTHOR1    H.Beer+
+#YEAR       2002
+#INSTITUTE  (2GERKFK)
+#TITLE      Neutron capture measurements of the noble gas
+#+          isotopes 22-Ne, 40-Ar and 78,80,84,86-Kr in
+#+          the keV energy region
+#AUTHOR(S)  H.Beer, P.V.Sedyshev, W.Rochow, P.Mohr, H.Oberhummer
+#REF-CODE   (J,NP/A,705,239,2002)
+#REFERENCE  Nucl.Phys.A 705 (2002) 239 (doi:10.1016/S0375-9474(02)00645-0)
+#DATASETS   0
+#
+#DATASET    22808012 
+#DATE       20210929
+#REACTION   36-KR-80(N,G)36-KR-81-M,,SIG,,MXW
+#PROJ       1
+#TARG       36080
+#MF         3
+#MT         102
+#PRODUCT    36-KR-81-M
+#C4BEGIN    [    1 36080   3 102M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 36080   3 102M   52000.00          0.065500 6.7000-3                                       H.Beer+              (02)22808 12 
+#/DATA      1
+#/DATASET

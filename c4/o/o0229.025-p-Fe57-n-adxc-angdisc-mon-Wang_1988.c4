@@ -1,0 +1,31 @@
+#ENTRY      O0229
+#AUTHOR1    D.Wang+
+#YEAR       1988
+#INSTITUTE  (1USAOHO)
+#TITLE      The Cr-52,54(P,N)Mn-52,54 and Fe-57,58(P,N)Co-57,58
+#+          Reactions at E(P)=120 MeV.
+#AUTHOR(S)  D.Wang, J.Rapaport, D.J.Horen, B.A.Brown, C.Gaarde, C.D.Goodman, 
+#+          E.Sugarbaker, T.N.Taddeucci
+#REF-CODE   (J,NP/A,480,285,88)
+#REFERENCE  Nucl.Phys.A 480 (1988) 285 (doi:10.1016/0375-9474(88)90398-3)
+#DATASETS   0
+#
+#DATASET    O0229025 
+#DATE       19961229
+#REACTION   26-FE-57(P,N)27-CO-57,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       26057
+#MF         4
+#MT         50
+#PRODUCT    27-CO-57
+#C4BEGIN    [ 1001 26057   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26057   4  50  C 1.2000+8          5.5000-3 2.7500-4 1.000000 0.000000 7300000.         LVLD.Wang+              (88)O0229 25 
+ 1001 26057   4  50  C 1.2000+8          3.9000-3 2.3400-4 0.997237 1.1668-4 7300000.         LVLD.Wang+              (88)O0229 25 
+ 1001 26057   4  50  C 1.2000+8          1.5800-3 7.9000-5 0.990700 2.1372-4 7300000.         LVLD.Wang+              (88)O0229 25 
+ 1001 26057   4  50  C 1.2000+8          8.1000-4 4.0500-5 0.981860 2.9784-4 7300000.         LVLD.Wang+              (88)O0229 25 
+ 1001 26057   4  50  C 1.2000+8          4.4000-4 3.0800-5 0.967179 3.9913-4 7300000.         LVLD.Wang+              (88)O0229 25 
+#/DATA      5
+#/DATASET

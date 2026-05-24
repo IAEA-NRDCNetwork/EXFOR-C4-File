@@ -1,0 +1,27 @@
+#ENTRY      31557
+#AUTHOR1    S.Ribeiro Guevara+
+#YEAR       2002
+#INSTITUTE  (3ARGCAB)
+#TITLE      Determination of the 54Fe(n,2n)53gFe and
+#+          54Fe(n,2n)53mFe cross sections averaged over a 235U
+#+          fission neutron spectrum
+#AUTHOR(S)  S.Ribeiro Guevara, M.Arribere, A.J.Kestelman
+#REF-CODE   (J,JRN,254,557,2002)
+#REFERENCE  J.Rad.Nucl.Chem. 254 (2002) 557 (doi:10.1023/A:1021602507953)
+#DATASETS   0
+#
+#DATASET    31557003 
+#DATE       20160708
+#REACTION   26-FE-54(N,2N)26-FE-53-M,,SIG,,FIS
+#PROJ       1
+#TARG       26054
+#MF         3
+#MT         16
+#PRODUCT    26-FE-53-M
+#C4BEGIN    [    1 26054   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26054   3  16M   1500000.          5.2000-7 1.6000-7                                       S.Ribeiro Guevara+   (02)31557  3 
+#/DATA      1
+#/DATASET

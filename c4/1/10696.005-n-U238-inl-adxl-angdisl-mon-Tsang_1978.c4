@@ -1,0 +1,34 @@
+#ENTRY      10696
+#AUTHOR1    F.Y.Tsang+
+#YEAR       1978
+#INSTITUTE  (1USAMIS)
+#TITLE      The Differential Neutron Scattering Cross Section of
+#+          Uranium-238 at 144 keV.
+#AUTHOR(S)  F.Y.Tsang, R.M.Brugger
+#REF-CODE   (J,NSE,65,70,197801)
+#REFERENCE  Nucl.Sci.Eng. 65 (1978) 70 (doi:10.13182/NSE78-A27127)
+#DATASETS   0
+#
+#DATASET    10696005 
+#DATE       20090912
+#REACTION   92-U-238(N,INL)92-U-238,,DA
+#PROJ       1
+#TARG       92238
+#MF         4
+#MT         4
+#PRODUCT    92-U-238
+#C4BEGIN    [    1 92238   4   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   4   4 A  144000.0 13000.00 0.064380 9.6570-5 0.866025                              F.Y.Tsang+           (78)10696  5 
+    1 92238   4   4 A  144000.0 13000.00 0.069640 1.0446-4 0.707107                              F.Y.Tsang+           (78)10696  5 
+    1 92238   4   4 A  144000.0 13000.00 0.071640 1.0746-4 0.500000                              F.Y.Tsang+           (78)10696  5 
+    1 92238   4   4 A  144000.0 13000.00 0.057500 8.6250-5 0.258819                              F.Y.Tsang+           (78)10696  5 
+    1 92238   4   4 A  144000.0 13000.00 0.061130 9.1695-5 6.123-17                              F.Y.Tsang+           (78)10696  5 
+    1 92238   4   4 A  144000.0 13000.00 0.068480 1.0272-4-0.258819                              F.Y.Tsang+           (78)10696  5 
+    1 92238   4   4 A  144000.0 13000.00 0.074890 1.1233-4-0.500000                              F.Y.Tsang+           (78)10696  5 
+    1 92238   4   4 A  144000.0 13000.00 0.063160 9.4740-5-0.707107                              F.Y.Tsang+           (78)10696  5 
+    1 92238   4   4 A  144000.0 13000.00 0.064650 9.6975-5-0.866025                              F.Y.Tsang+           (78)10696  5 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      11489
+#AUTHOR1    J.W.Boring+
+#YEAR       1961
+#INSTITUTE  (1USAKTY)
+#TITLE      DIFFERENTIAL CROSS SECTIONS FOR (N,N'GAMMA) REACTIONS
+#+          IN SEVERAL NUCLEI.
+#AUTHOR(S)  J.W.Boring, M.T.Mc Ellistrem
+#REF-CODE   (J,PR,124,1531,61)
+#REFERENCE  Phys.Rev. 124 (1961) 1531 (doi:10.1103/PhysRev.124.1531)
+#DATASETS   0
+#
+#DATASET    11489002 
+#DATE       19821124
+#REACTION   12-MG-24(N,INL)12-MG-24,PAR,SIG,G
+#PROJ       1
+#TARG       12024
+#MF         13
+#MT         51
+#PRODUCT    12-MG-24
+#C4BEGIN    [    1 12024  13  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 12024  13  51 D  2900000. 170000.0 0.670000 0.045000                   1374000.            J.W.Boring+          (61)11489  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      D6408
+#AUTHOR1    V.Singh+
+#YEAR       2021
+#INSTITUTE  (3INDPUC)
+#TITLE      Measurement of fission excitation function for
+#+          19F + 194,196,198Pt reactions
+#AUTHOR(S)  V.Singh, B R.Behera, M.Kaur, A.Jhingan, R.Kaur, P.Sugathan, 
+#+          D.Siwal, S.Goyal, K.P.Singh, S.Pal, A.Saxena, S.Kailas
+#REF-CODE   (J,JP/G,48,075104,2021)
+#REFERENCE  J.Phys.G 48 (2021) 075104 (doi:10.1088/1361-6471/abe8cd)
+#DATASETS   0
+#
+#DATASET    D6408004 
+#DATE       20230224
+#REACTION   78-PT-196(9-F-19,F),,SIG
+#PROJ       9019
+#TARG       78196
+#MF         3
+#MT         18
+#C4BEGIN    [ 9019 78196   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 9019 78196   3  18    8.8761+7          0.020100 1.4000-3                                       V.Singh+             (21)D6408  4 
+ 9019 78196   3  18    9.0627+7          0.047200 3.0000-3                                       V.Singh+             (21)D6408  4 
+ 9019 78196   3  18    9.2602+7          0.080900 4.7000-3                                       V.Singh+             (21)D6408  4 
+ 9019 78196   3  18    9.4577+7          0.129600 6.8000-3                                       V.Singh+             (21)D6408  4 
+ 9019 78196   3  18    9.6772+7          0.160500 9.5000-3                                       V.Singh+             (21)D6408  4 
+ 9019 78196   3  18    1.0171+8          0.323100 0.020500                                       V.Singh+             (21)D6408  4 
+ 9019 78196   3  18    1.0588+8          0.415100 0.029600                                       V.Singh+             (21)D6408  4 
+ 9019 78196   3  18    1.1016+8          0.565100 0.032300                                       V.Singh+             (21)D6408  4 
+ 9019 78196   3  18    1.1312+8          0.647200 0.048400                                       V.Singh+             (21)D6408  4 
+ 9019 78196   3  18    1.1719+8          0.763100 0.059600                                       V.Singh+             (21)D6408  4 
+#/DATA      10
+#/DATASET

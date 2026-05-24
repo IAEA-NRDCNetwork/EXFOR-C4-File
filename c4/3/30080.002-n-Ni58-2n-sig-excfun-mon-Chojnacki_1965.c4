@@ -1,0 +1,33 @@
+#ENTRY      30080
+#AUTHOR1    S.Chojnacki+
+#YEAR       1965
+#INSTITUTE  (3POLIPJ)
+#TITLE      Ni-58(n,2n) cross-section in the energy range from
+#+          13 to 16 MeV
+#AUTHOR(S)  S.Chojnacki, P.Decowski, E.Gierlik, W.Grochulski, A.Marcinkowski, 
+#+          K.Siwek, I.Sledzinska, Z.Wilhelmi
+#REF-CODE   (P,INR-680,196512)
+#REFERENCE  Progress report INR-680, 1965
+#DATASETS   0
+#
+#DATASET    30080002 
+#DATE       20080215
+#REACTION   28-NI-58(N,2N)28-NI-57,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         16
+#PRODUCT    28-NI-57
+#C4BEGIN    [    1 28058   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3  16    1.3300+7          0.021000 4.0000-3                                       S.Chojnacki+         (65)30080  2 
+    1 28058   3  16    1.3500+7          0.019000 4.0000-3                                       S.Chojnacki+         (65)30080  2 
+    1 28058   3  16    1.4200+7          0.030000 7.0000-3                                       S.Chojnacki+         (65)30080  2 
+    1 28058   3  16    1.4900+7          0.043000 0.010000                                       S.Chojnacki+         (65)30080  2 
+    1 28058   3  16    1.5200+7          0.047000 0.012000                                       S.Chojnacki+         (65)30080  2 
+    1 28058   3  16    1.5400+7          0.052000 0.013000                                       S.Chojnacki+         (65)30080  2 
+    1 28058   3  16    1.5500+7          0.071000 0.016000                                       S.Chojnacki+         (65)30080  2 
+#/DATA      7
+#/DATASET

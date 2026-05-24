@@ -1,0 +1,62 @@
+#ENTRY      21678
+#AUTHOR1    A.Bertin+
+#YEAR       1969
+#INSTITUTE  (2FR VNV)
+#TITLE      -CROSS SECTIONS FOR GAMMA-RAY PRODUCTION BY NEUTRONS
+#+          OF 5 MEV, 6.6 MEV, AND 8.7 MEV ON CARBON, ALUMINIUM,
+#+          IRON AND BISMUTH -.
+#AUTHOR(S)  A.Bertin, F.Bertrand, G.Clayeux, M.Gautier, G.Nierat
+#REF-CODE   (R,CEA-R-3808,,6907)
+#REFERENCE  Report CEA-R-3808 page , 1969
+#DATASETS   0
+#
+#DATASET    21678005 
+#DATE       19810611
+#REACTION   83-BI-209(N,INL)83-BI-209,PAR,DA,G
+#PROJ       1
+#TARG       83209
+#MF         14
+#MT         51
+#PRODUCT    83-BI-209
+#C4BEGIN    [    1 83209  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209  14  51    5000000.          0.030600 6.7000-3 6.123-17          900000.0            A.Bertin+            (69)21678  5 
+    1 83209  14  51    5000000.          0.090100 0.019800 6.123-17          1605000.            A.Bertin+            (69)21678  5 
+#/DATA      2
+#/DATASET
+#
+#DATASET    21678005 
+#DATE       19810611
+#REACTION   83-BI-209(N,INL)83-BI-209,PAR,DA,G
+#PROJ       1
+#TARG       83209
+#MF         14
+#MT         51
+#PRODUCT    83-BI-209
+#C4BEGIN    [    1 83209  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209  14  51    6600000.          0.019600 4.3000-3 6.123-17          900000.0            A.Bertin+            (69)21678  5 
+    1 83209  14  51    6600000.          0.086300 0.018900 6.123-17          1605000.            A.Bertin+            (69)21678  5 
+#/DATA      2
+#/DATASET
+#
+#DATASET    21678005 
+#DATE       19810611
+#REACTION   83-BI-209(N,INL)83-BI-209,PAR,DA,G
+#PROJ       1
+#TARG       83209
+#MF         14
+#MT         51
+#PRODUCT    83-BI-209
+#C4BEGIN    [    1 83209  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209  14  51    8700000.          0.012300 2.7000-3 6.123-17          900000.0            A.Bertin+            (69)21678  5 
+    1 83209  14  51    8700000.          0.060300 0.013200 6.123-17          1605000.            A.Bertin+            (69)21678  5 
+#/DATA      2
+#/DATASET

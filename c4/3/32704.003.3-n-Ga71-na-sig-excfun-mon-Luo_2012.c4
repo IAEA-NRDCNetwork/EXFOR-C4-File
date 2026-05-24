@@ -1,0 +1,28 @@
+#ENTRY      32704
+#AUTHOR1    J.Luo+
+#YEAR       2012
+#INSTITUTE  (3CPRHXU)
+#TITLE      Cross section measurements for gallium in the neutron
+#+          energy range of 13.5 to 14.8 MeV
+#AUTHOR(S)  J.Luo, R.Liu, L.Jiang
+#REF-CODE   (J,RCA,100,(4),231,2012)
+#REFERENCE  Radiochim.Acta 100 No.4 (2012) 231 (doi:10.1524/ract.2012.1907)
+#DATASETS   0
+#
+#DATASET    327040033
+#DATE       20120821
+#REACTION   31-GA-71(N,N+A)29-CU-67,,SIG
+#PROJ       1
+#TARG       31071
+#MF         3
+#MT         22
+#PRODUCT    29-CU-67
+#C4BEGIN    [    1 31071   3  22  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 31071   3  22    1.3500+7 200000.0 1.5000-3 3.0000-4                                       J.Luo+               (12)32704  33
+    1 31071   3  22    1.4100+7 200000.0 2.6000-3 6.0000-4                                       J.Luo+               (12)32704  33
+    1 31071   3  22    1.4800+7 200000.0 3.6000-3 6.0000-4                                       J.Luo+               (12)32704  33
+#/DATA      3
+#/DATASET

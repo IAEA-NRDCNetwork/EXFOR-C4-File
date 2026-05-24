@@ -1,0 +1,51 @@
+#ENTRY      O0300
+#AUTHOR1    K.Kwiatkowski+
+#YEAR       1978
+#INSTITUTE  (1USAMRY)
+#TITLE      Elastic scattering of 100 MeV protons and systematic
+#+          optical model analysis
+#AUTHOR(S)  K.Kwiatkowski, N.S.Wall
+#REF-CODE   (J,NP/A,301,349,1978)
+#REFERENCE  Nucl.Phys.A 301 (1978) 349 (doi:10.1016/0375-9474(78)90267-1)
+#DATASETS   0
+#
+#DATASET    O0300005 
+#DATE       20230407
+#REACTION   50-SN-120(P,EL)50-SN-120,,DA,,RTH
+#PROJ       1001
+#TARG       50120
+#MF         4
+#MT         2
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 1001 50120   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50120   4   2  C 1.0040+8          0.201329          0.919821                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          0.147274          0.912120                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          0.090943          0.904083                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          0.059971          0.898028                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          0.032306          0.887815                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          0.014893          0.879649                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          0.012212          0.870356                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          0.016263          0.856267                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          0.021130          0.845262                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          0.024481          0.840567                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          0.024431          0.830012                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          0.021185          0.819152                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          0.017608          0.810042                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          0.013989          0.796530                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          0.010385          0.788011                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          7.9754-3          0.778243                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          4.8970-3          0.761538                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          3.4977-3          0.752415                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          3.0277-3          0.739631                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          2.9345-3          0.731354                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          3.4718-3          0.709571                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          3.1027-3          0.681998                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          2.1768-3          0.653421                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          1.3125-3          0.625243                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          7.2467-4          0.594823                              K.Kwiatkowski+       (78)O0300  5 
+ 1001 50120   4   2  C 1.0040+8          5.3915-4          0.570714                              K.Kwiatkowski+       (78)O0300  5 
+#/DATA      26
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      30978
+#AUTHOR1    M.Viennot+
+#YEAR       1991
+#INSTITUTE  (2FR FR)
+#TITLE      Cross section measurements of (n,p) and (n,np+pn+d)
+#+          reactions for some titanium, chromium, iron, cobalt,
+#+          nickel, and zinc isotopes around 14 MeV
+#AUTHOR(S)  M.Viennot, M.Berrada, G.Paic, S.Joly
+#REF-CODE   (J,NSE,108,289,1991)
+#REFERENCE  Nucl.Sci.Eng. 108 (1991) 289 (doi:10.13182/NSE87-157)
+#DATASETS   0
+#
+#DATASET    30978009 
+#DATE       20201119
+#REACTION   28-NI-62(N,P)27-CO-62-M,,SIG
+#PROJ       1
+#TARG       28062
+#MF         3
+#MT         103
+#PRODUCT    27-CO-62-M
+#C4BEGIN    [    1 28062   3 103M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28062   3 103M   1.3770+7 130000.0 0.014000 2.0000-3                                       M.Viennot+           (91)30978  9 
+    1 28062   3 103M   1.4110+7 130000.0 0.014000 2.0000-3                                       M.Viennot+           (91)30978  9 
+    1 28062   3 103M   1.4470+7 170000.0 0.017000 2.0000-3                                       M.Viennot+           (91)30978  9 
+    1 28062   3 103M   1.4730+7 230000.0 0.018000 2.0000-3                                       M.Viennot+           (91)30978  9 
+    1 28062   3 103M   1.4830+7 250000.0 0.019000 2.0000-3                                       M.Viennot+           (91)30978  9 
+#/DATA      5
+#/DATASET

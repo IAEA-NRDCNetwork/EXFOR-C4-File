@@ -1,0 +1,29 @@
+#ENTRY      22973
+#AUTHOR1    D.Schmidt+
+#YEAR       2007
+#INSTITUTE  (2GERPTB)
+#TITLE      .Determination of Neutron Scattering Cross Sections
+#+          of 9-Be at Energies between 7.10 MeV and 9.97 MeV.
+#AUTHOR(S)  D.Schmidt, W.Mannhart, S.Khurana
+#REF-CODE   (R,PTB-N-55,2007)
+#REFERENCE  Report PTB-N-55, 2007
+#DATASETS   0
+#
+#DATASET    22973006 
+#DATE       20071023
+#REACTION   4-BE-9(N,EL)4-BE-9,,SIG
+#PROJ       1
+#TARG       4009
+#MF         3
+#MT         2
+#PRODUCT    4-BE-9
+#C4BEGIN    [    1  4009   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  4009   3   2 D  7100000. 20000.00 1.087200 0.020168                                       D.Schmidt+           (07)22973  6 
+    1  4009   3   2 D  8090000. 20000.00 1.102300 0.020635                                       D.Schmidt+           (07)22973  6 
+    1  4009   3   2 D  9090000. 20000.00 1.079200 0.020105                                       D.Schmidt+           (07)22973  6 
+    1  4009   3   2 D  9970000. 20000.00 1.071400 0.020057                                       D.Schmidt+           (07)22973  6 
+#/DATA      4
+#/DATASET

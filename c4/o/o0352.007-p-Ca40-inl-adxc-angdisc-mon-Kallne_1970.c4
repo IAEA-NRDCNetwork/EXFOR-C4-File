@@ -1,0 +1,31 @@
+#ENTRY      O0352
+#AUTHOR1    J.Kallne+
+#YEAR       1970
+#INSTITUTE  (2SWDUPP)
+#TITLE      Investigation of the Excited States of Ca-40 by the   O
+#+          (P,P') Reaction at 185 MeV.
+#AUTHOR(S)  J.Kallne, G.Tibell, A.Johansson
+#REF-CODE   (J,PS,2,195,70)
+#REFERENCE  Phys.Scr. 2 (1970) 195 (doi:10.1088/0031-8949/2/4-5/011)
+#DATASETS   0
+#
+#DATASET    O0352007 
+#DATE       19970623
+#REACTION   20-CA-40(P,INL)20-CA-40,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       20040
+#MF         4
+#MT         601
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 1001 20040   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20040   4 601  C 1.8500+8 250000.0 1.3000-4 3.9000-5 0.991872 3.5531-4 5220000. 50000.00LVLJ.Kallne+            (70)O0352  7 
+ 1001 20040   4 601  C 1.8500+8 250000.0 1.8000-4 3.0600-5 0.982774 5.1608-4 5220000. 50000.00LVLJ.Kallne+            (70)O0352  7 
+ 1001 20040   4 601  C 1.8500+8 250000.0 1.8000-4 5.0400-5 0.975381 6.1583-4 5220000. 50000.00LVLJ.Kallne+            (70)O0352  7 
+ 1001 20040   4 601  C 1.8500+8 250000.0 2.2000-4 3.0800-5 0.966779 7.1381-4 5220000. 50000.00LVLJ.Kallne+            (70)O0352  7 
+ 1001 20040   4 601  C 1.8500+8 250000.0 6.5000-5 1.1050-5 0.916712 1.1158-3 5220000. 50000.00LVLJ.Kallne+            (70)O0352  7 
+ 1001 20040   4 601  C 1.8500+8 250000.0 3.4000-5 4.0800-6 0.858602 1.4316-3 5220000. 50000.00LVLJ.Kallne+            (70)O0352  7 
+#/DATA      6
+#/DATASET

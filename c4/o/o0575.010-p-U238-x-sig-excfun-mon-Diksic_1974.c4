@@ -1,0 +1,31 @@
+#ENTRY      O0575
+#AUTHOR1    M.Diksic+
+#YEAR       1974
+#INSTITUTE  (1CANMCG)
+#TITLE      Nuclear Charge Dispersion in Mass Chains 130-135 from
+#+          The Fission of U-238 by Medium-Energy Protons.
+#AUTHOR(S)  M.Diksic, D.K.Mc.upper()illan, L.Yaffe
+#REF-CODE   (J,JIN,36,7,1974)
+#REFERENCE  J.Inorg.Nucl.Chem. 36 (1974) 7 (doi:10.1016/0022-1902(74)80649-4)
+#DATASETS   0
+#
+#DATASET    O0575010 
+#DATE       20010115
+#REACTION   92-U-238(P,F)53-I-131,IND,SIG
+#PROJ       1001
+#TARG       92238
+#MF         3
+#MT         454
+#PRODUCT    53-I-131
+#C4BEGIN    [ 1001 92238   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92238   3 454    3.0000+7          7.9000-3 1.6000-3           53131.9                     M.Diksic+            (74)O0575 10 
+ 1001 92238   3 454    4.0000+7          0.017300 3.5000-3           53131.9                     M.Diksic+            (74)O0575 10 
+ 1001 92238   3 454    5.0000+7          0.023400 4.7000-3           53131.9                     M.Diksic+            (74)O0575 10 
+ 1001 92238   3 454    6.0000+7          0.025000 5.0000-3           53131.9                     M.Diksic+            (74)O0575 10 
+ 1001 92238   3 454    7.0000+7          0.023500 5.0000-3           53131.9                     M.Diksic+            (74)O0575 10 
+ 1001 92238   3 454    8.5000+7          0.022900 4.6000-3           53131.9                     M.Diksic+            (74)O0575 10 
+#/DATA      6
+#/DATASET

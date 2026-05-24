@@ -1,0 +1,35 @@
+#ENTRY      D4265
+#AUTHOR1    S.Takacs+
+#YEAR       2012
+#INSTITUTE  (3HUNDEB)
+#TITLE      Cross sections of deuteron-induced reactions on natSb
+#+          up to 50 MeV
+#AUTHOR(S)  S.Takacs, M.P.Takacs, A.Hermanne, F.Tarkanyi, R.Adam Rebeles
+#REF-CODE   (J,NIM/B,278,93,2012)
+#REFERENCE  Nucl.Instrum.Meth.B 278 (2012) 93 (doi:10.1016/j.nimb.2012.02.007)
+#DATASETS   0
+#
+#DATASET    D4265003 
+#DATE       20121116
+#REACTION   51-SB-0(D,X)52-TE-119-M,,SIG
+#PROJ       1002
+#TARG       51000
+#MF         3
+#MT         454
+#PRODUCT    52-TE-119-M
+#C4BEGIN    [ 1002 51000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 51000   3 454    4.9200+7 300000.0 0.167000 0.019000           52119.7                     S.Takacs+            (12)D4265  3 
+ 1002 51000   3 454    4.7100+7 300000.0 0.200000 0.023000           52119.7                     S.Takacs+            (12)D4265  3 
+ 1002 51000   3 454    4.5000+7 400000.0 0.235000 0.026000           52119.7                     S.Takacs+            (12)D4265  3 
+ 1002 51000   3 454    4.2700+7 400000.0 0.271000 0.031000           52119.7                     S.Takacs+            (12)D4265  3 
+ 1002 51000   3 454    4.0400+7 400000.0 0.298000 0.034000           52119.7                     S.Takacs+            (12)D4265  3 
+ 1002 51000   3 454    3.7900+7 500000.0 0.310000 0.035000           52119.7                     S.Takacs+            (12)D4265  3 
+ 1002 51000   3 454    3.5400+7 500000.0 0.242000 0.027000           52119.7                     S.Takacs+            (12)D4265  3 
+ 1002 51000   3 454    3.1700+7 600000.0 0.105000 0.012000           52119.7                     S.Takacs+            (12)D4265  3 
+ 1002 51000   3 454    2.9000+7 600000.0 0.046200 5.3000-3           52119.7                     S.Takacs+            (12)D4265  3 
+ 1002 51000   3 454    2.6000+7 700000.0 5.9000-3 7.0000-4           52119.7                     S.Takacs+            (12)D4265  3 
+#/DATA      10
+#/DATASET

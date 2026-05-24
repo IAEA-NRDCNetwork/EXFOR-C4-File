@@ -1,0 +1,26 @@
+#ENTRY      30839
+#AUTHOR1    J.Y.Lee+
+#YEAR       2014
+#INSTITUTE  (3KORKOR)
+#TITLE      Measurements of thermal neutron capture cross sections
+#+          of 136Ce, 156Dy, and 168Yb
+#AUTHOR(S)  J.Y.Lee, Y.D.Kim, G.M.Sun
+#REF-CODE   (J,NDS,119,154,2014)
+#REFERENCE  Nucl.Data Sheets 119 (2014) 154 (doi:10.1016/j.nds.2014.08.043)
+#DATASETS   0
+#
+#DATASET    30839002 
+#DATE       20170302
+#REACTION   58-CE-136(N,G)58-CE-137-G,(M),SIG,,MXW
+#PROJ       1
+#TARG       58136
+#MF         3
+#MT         459
+#PRODUCT    58-CE-137-G
+#C4BEGIN    [    1 58136   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 58136   3 459 A  0.025300          7.640000 0.630000           58137.0                     J.Y.Lee+             (14)30839  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      C2516
+#AUTHOR1    K.V.Becker+
+#YEAR       2020
+#INSTITUTE  (1USAWIS)
+#TITLE      Cross section measurements for proton induced
+#+          reactions on natural La
+#AUTHOR(S)  K.V.Becker, E.Vermeulen, C.J.Kutyreff, E.M.O'Brien, J.T.Morrell, 
+#+          E.R.Birnbaum, L.A.Bernstein, F.M.Nortier, J.W.Engle
+#REF-CODE   (J,NIM/B,468,81,2020)
+#REFERENCE  Nucl.Instrum.Meth.B 468 (2020) 81 (doi:10.1016/j.nimb.2020.02.024)
+#DATASETS   0
+#
+#DATASET    C2516007 
+#DATE       20200715
+#REACTION   57-LA-139(P,3N)58-CE-137-M,,SIG
+#PROJ       1001
+#TARG       57139
+#MF         3
+#MT         17
+#PRODUCT    58-CE-137-M
+#C4BEGIN    [ 1001 57139   3  17M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 57139   3  17M   4.6960+7 2500000. 0.089080 5.3500-3                                       K.V.Becker+          (20)C2516  7 
+ 1001 57139   3  17M   5.1580+7 1700000. 0.075710 6.1000-3                                       K.V.Becker+          (20)C2516  7 
+ 1001 57139   3  17M   5.4930+7 1600000. 0.063570 4.9800-3                                       K.V.Becker+          (20)C2516  7 
+ 1001 57139   3  17M   5.8870+7 1600000. 0.057840 4.3000-3                                       K.V.Becker+          (20)C2516  7 
+ 1001 57139   3  17M   6.3320+7 1000000. 0.051810 3.4700-3                                       K.V.Becker+          (20)C2516  7 
+ 1001 57139   3  17M   6.7990+7 1400000. 0.044260 3.5300-3                                       K.V.Becker+          (20)C2516  7 
+ 1001 57139   3  17M   7.8050+7 200000.0 0.036030 2.4600-3                                       K.V.Becker+          (20)C2516  7 
+ 1001 57139   3  17M   8.8660+7 600000.0 0.030370 2.4100-3                                       K.V.Becker+          (20)C2516  7 
+#/DATA      8
+#/DATASET

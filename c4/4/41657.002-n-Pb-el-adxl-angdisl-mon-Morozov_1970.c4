@@ -1,0 +1,34 @@
+#ENTRY      41657
+#AUTHOR1    V.M.Morozov+
+#YEAR       1970
+#INSTITUTE  (4RUSKUR)
+#TITLE      Scattering of 4-MeV Neutrons at Angles Close to 180
+#+          degrees
+#AUTHOR(S)  V.M.Morozov, G.V.Gorlov, Yu.G.Zubov, N.S.Lebedeva
+#REF-CODE   (J,JEL,12,125,1970)
+#REFERENCE  JETP Lett. 12 (1970) 125
+#DATASETS   0
+#
+#DATASET    41657002 
+#DATE       20181119
+#REACTION   82-PB-0(N,EL)82-PB-0,,DA
+#PROJ       1
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [    1 82000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   4   2    4000000. 200000.0 0.120000         -0.833886                              V.M.Morozov+         (70)41657  2 
+    1 82000   4   2    4000000. 200000.0 0.139000         -0.871128                              V.M.Morozov+         (70)41657  2 
+    1 82000   4   2    4000000. 200000.0 0.185000         -0.910972                              V.M.Morozov+         (70)41657  2 
+    1 82000   4   2    4000000. 200000.0 0.252000         -0.943281                              V.M.Morozov+         (70)41657  2 
+    1 82000   4   2    4000000. 200000.0 0.327000         -0.964557                              V.M.Morozov+         (70)41657  2 
+    1 82000   4   2    4000000. 200000.0 0.392000         -0.981192                              V.M.Morozov+         (70)41657  2 
+    1 82000   4   2    4000000. 200000.0 0.442000         -0.989999                              V.M.Morozov+         (70)41657  2 
+    1 82000   4   2    4000000. 200000.0 0.513000 0.021000-0.996041                              V.M.Morozov+         (70)41657  2 
+    1 82000   4   2    4000000. 200000.0 0.505000 0.025000-0.999166                              V.M.Morozov+         (70)41657  2 
+#/DATA      9
+#/DATASET

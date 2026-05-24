@@ -1,0 +1,32 @@
+#ENTRY      O2592
+#AUTHOR1    M.Mueller+
+#YEAR       2023
+#INSTITUTE  (2GERKLN)
+#TITLE      Determination of 170,172Yb(a,n)173,175Hf reaction
+#+          cross sections in a stacked-target experiment
+#AUTHOR(S)  M.Mueller, F.Heim, Y.Wang, S.Wilden, A.Zilges
+#REF-CODE   (J,PR/C,107,035804,2023)
+#REFERENCE  Phys.Rev.C 107 (2023) 035804 (doi:10.1103/PhysRevC.107.035804)
+#DATASETS   0
+#
+#DATASET    O2592002 
+#DATE       20240131
+#REACTION   70-YB-170(A,N)72-HF-173,,SIG
+#PROJ       2004
+#TARG       70170
+#MF         3
+#MT         4
+#PRODUCT    72-HF-173
+#C4BEGIN    [ 2004 70170   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 70170   3   4    1.3000+7 100008.0 2.2000-5 7.0000-6                                       M.Muller+            (23)O2592  2 
+ 2004 70170   3   4    1.3726+7 60005.08 8.0000-5 1.0000-5                                       M.Muller+            (23)O2592  2 
+ 2004 70170   3   4    1.4392+7 20001.77 2.8000-4 4.0000-5                                       M.Muller+            (23)O2592  2 
+ 2004 70170   3   4    1.4945+7 100009.2 6.2000-4 7.0000-5                                       M.Muller+            (23)O2592  2 
+ 2004 70170   3   4    1.5610+7 90008.67 2.3000-3 3.0000-4                                       M.Muller+            (23)O2592  2 
+ 2004 70170   3   4    1.6255+7 60006.01 6.8000-3 8.0000-4                                       M.Muller+            (23)O2592  2 
+ 2004 70170   3   4    1.6869+7 20002.08 0.017000 2.0000-3                                       M.Muller+            (23)O2592  2 
+#/DATA      7
+#/DATASET

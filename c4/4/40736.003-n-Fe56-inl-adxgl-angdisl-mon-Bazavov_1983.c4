@@ -1,0 +1,35 @@
+#ENTRY      40736
+#AUTHOR1    D.A.Bazavov+
+#YEAR       1983
+#INSTITUTE  (4UKRIJD)
+#TITLE      Excitation of low-lying levels of Fe-56 and Ni-58
+#+          isotopes in the (n,n'gamma) reaction. 2. Gamma-quanta
+#+          yield cross-section
+#AUTHOR(S)  D.A.Bazavov, I.E.Kashuba, V.P.Prikhod'Ko, A.A.Golubova, 
+#+          S.V.Stolyarov
+#REF-CODE   (J,UFZ,28,(12),1791,1983)
+#REFERENCE  Ukr.Fiz.Zh. 28 No.12 (1983) 1791
+#DATASETS   0
+#
+#DATASET    40736003 
+#DATE       20231113
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,DA,G
+#PROJ       1
+#TARG       26056
+#MF         14
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056  14  51    3020000.          0.010100 6.0000-4 6.123-17          1820000.            D.A.Bazavov+         (83)40736  3 
+    1 26056  14  51    3020000.          0.011500 7.0000-4-0.173648          1820000.            D.A.Bazavov+         (83)40736  3 
+    1 26056  14  51    3020000.          0.011800 7.0000-4-0.342020          1820000.            D.A.Bazavov+         (83)40736  3 
+    1 26056  14  51    3020000.          0.011400 7.0000-4-0.500000          1820000.            D.A.Bazavov+         (83)40736  3 
+    1 26056  14  51    3020000.          0.012500 7.0000-4-0.573576          1820000.            D.A.Bazavov+         (83)40736  3 
+    1 26056  14  51    3020000.          0.012300 7.0000-4-0.642788          1820000.            D.A.Bazavov+         (83)40736  3 
+    1 26056  14  51    3020000.          0.014900 9.0000-4-0.766044          1820000.            D.A.Bazavov+         (83)40736  3 
+    1 26056  14  51    3020000.          0.017800 1.0000-3-0.866025          1820000.            D.A.Bazavov+         (83)40736  3 
+#/DATA      8
+#/DATASET

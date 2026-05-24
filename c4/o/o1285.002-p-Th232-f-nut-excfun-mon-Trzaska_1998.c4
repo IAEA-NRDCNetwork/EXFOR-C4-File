@@ -1,0 +1,29 @@
+#ENTRY      O1285
+#AUTHOR1    W.H.Trzaska+
+#YEAR       1998
+#INSTITUTE  (2SF JYV)
+#TITLE      Fragment mass distribution in superasymmetric region in
+#+          proton-induced fission of U and Th
+#AUTHOR(S)  W.H.Trzaska, V.A.Rubchenya, J.Aysto, Z.Radivojevic, D.N.Vakhtin, 
+#+          I.D.Alkhazov, A.Evsenin, S.V.Khlebnikov, A.V.Kuznetsov, 
+#+          V.G.Lyapin, O.I.Ossetrov, G.P.Tlourine, A.A.Alexandrov, 
+#+          Yu.E.Penionzhkevich, Yu.G.Sobolev, M.Mutterer
+#REF-CODE   (J,NC/A,111,1055,1998)
+#REFERENCE  Nuovo Cim.A 111 (1998) 1055 (doi:10.1007/BF03035992)
+#DATASETS   0
+#
+#DATASET    O1285002 
+#DATE       20060210
+#REACTION   90-TH-232(P,F),,NU
+#PROJ       1001
+#TARG       90232
+#MF         1
+#MT         452
+#C4BEGIN    [ 1001 90232   1 452  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   1 452    5.0000+7          7.100000 0.740000                                       W.H.Trzaska+         (98)O1285  2 
+ 1001 90232   1 452    6.0000+7          8.200000 0.750000                                       W.H.Trzaska+         (98)O1285  2 
+#/DATA      2
+#/DATASET

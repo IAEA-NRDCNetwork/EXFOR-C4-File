@@ -1,0 +1,31 @@
+#ENTRY      D6385
+#AUTHOR1    D.Banerjee+
+#YEAR       2020
+#INSTITUTE  (3INDVEC)
+#TITLE      Mass distribution in 36.2 MeV alpha induced fission
+#+          of 232Th
+#AUTHOR(S)  D.Banerjee, T.N.Nag, R.Tripathi, S.K.W.Raja, S.Sodaye, P.K.Pujari, 
+#+          A.Chakrabarti, M.Bhattacharjee, L.K.Doddi, V.Naik
+#REF-CODE   (J,EPJ/A,56,201,2020)
+#REFERENCE  Eur.Phys.J.A 56 (2020) 201 (doi:10.1140/epja/s10050-020-00200-1)
+#DATASETS   0
+#
+#DATASET    D6385003 
+#DATE       20210309
+#REACTION   90-TH-232(A,F)ELEM/MASS,IND,FY
+#PROJ       2004
+#TARG       90232
+#MF         8
+#MT         454
+#C4BEGIN    [ 2004 90232   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 90232   8 454    3.6200+7          8.1000-3 6.0000-4 51.00000 129.0000 1.000000            D.Banerjee+          (20)D6385  3 
+ 2004 90232   8 454    3.6200+7          0.013300 3.8000-3 53.00000 130.0000 1.000000            D.Banerjee+          (20)D6385  3 
+ 2004 90232   8 454    3.6200+7          0.010700 1.4000-3 53.00000 134.0000 1.000000            D.Banerjee+          (20)D6385  3 
+ 2004 90232   8 454    3.6200+7          0.031700 7.7000-3 55.00000 138.0000 1.000000            D.Banerjee+          (20)D6385  3 
+ 2004 90232   8 454    3.6200+7          0.037200 8.5000-3 59.00000 148.0000 1.000000            D.Banerjee+          (20)D6385  3 
+ 2004 90232   8 454    3.6200+7          1.8000-3 3.0000-4 61.00000 150.0000 9.000000            D.Banerjee+          (20)D6385  3 
+#/DATA      6
+#/DATASET

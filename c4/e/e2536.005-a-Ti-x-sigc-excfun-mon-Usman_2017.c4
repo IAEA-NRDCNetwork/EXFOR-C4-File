@@ -1,0 +1,33 @@
+#ENTRY      E2536
+#AUTHOR1    A.R.Usman+
+#YEAR       2017
+#INSTITUTE  (2JPNIPC)
+#TITLE      Excitation functions of alpha particles induced
+#+          nuclear reactions on natural titanium in the energy
+#+          range of 10.4-50.2 MeV
+#AUTHOR(S)  A.R.Usman, M.U.Khandaker, H.Haba, N.Otuka, M.Murakami
+#REF-CODE   (J,NIM/B,399,34,2017)
+#REFERENCE  Nucl.Instrum.Meth.B 399 (2017) 34 (doi:10.1016/j.nimb.2017.03.120)
+#DATASETS   0
+#
+#DATASET    E2536005 
+#DATE       20260503
+#REACTION   22-TI-0(A,X)23-V-48,CUM,SIG
+#PROJ       2004
+#TARG       22000
+#MF         3
+#MT         459
+#PRODUCT    23-V-48
+#C4BEGIN    [ 2004 22000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 22000   3 459    5.0200+7 500000.0 0.133000 0.010000           23048.9                     A.R.Usman+           (17)E2536  5 
+ 2004 22000   3 459    4.7400+7 500000.0 0.109000 8.0000-3           23048.9                     A.R.Usman+           (17)E2536  5 
+ 2004 22000   3 459    4.2900+7 500000.0 0.058200 4.6000-3           23048.9                     A.R.Usman+           (17)E2536  5 
+ 2004 22000   3 459    3.8100+7 600000.0 0.053700 4.1000-3           23048.9                     A.R.Usman+           (17)E2536  5 
+ 2004 22000   3 459    3.2800+7 700000.0 0.059100 4.4000-3           23048.9                     A.R.Usman+           (17)E2536  5 
+ 2004 22000   3 459    2.6800+7 800000.0 0.056800 4.1000-3           23048.9                     A.R.Usman+           (17)E2536  5 
+ 2004 22000   3 459    1.9700+7 1000000. 0.032400 2.3000-3           23048.9                     A.R.Usman+           (17)E2536  5 
+#/DATA      7
+#/DATASET

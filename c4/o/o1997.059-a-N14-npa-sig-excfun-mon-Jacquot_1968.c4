@@ -1,0 +1,28 @@
+#ENTRY      O1997
+#AUTHOR1    C.Jacquot+
+#YEAR       1968
+#INSTITUTE  (2FR STR)
+#TITLE      Formation cross sections of fragments of mass A> 6
+#+          emitted in reactions induced by alpha particles of
+#+          90 MeV in the targets C and N.
+#AUTHOR(S)  C.Jacquot, M.Jung, C.Baixeras-Aiguabella, H.Braun, R.Schmitt, 
+#+          F.Perrin
+#REF-CODE   (J,CR/B,266,963,1968)
+#REFERENCE  Compt.Rend.B 266 (1968) 963
+#DATASETS   0
+#
+#DATASET    O1997059 
+#DATE       20120807
+#REACTION   7-N-14(A,N+P+A)6-C-12,,SIG
+#PROJ       2004
+#TARG       7014
+#MF         3
+#MT         45
+#PRODUCT    6-C-12
+#C4BEGIN    [ 2004  7014   3  45  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  7014   3  45    9.0000+7 8000000. 0.029000 7.0000-3                                       C.Jacquot+           (68)O1997 59 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      23749
+#AUTHOR1    S.Nakamura+
+#YEAR       2021
+#INSTITUTE  (2JPNJAE)
+#TITLE      Integral experiments of technetium-99 using
+#+          fastneutron source reactor 'YAYOI'
+#AUTHOR(S)  S.Nakamura, Y.Hatsukawa, A.Kimura, Y.Toh, H.Harada
+#REF-CODE   (J,NST,58,1318,2021)
+#REFERENCE  J.Nucl.Sci.Technol. 58 (2021) 1318 (doi:10.1080/00223131.2021.1942278)
+#DATASETS   0
+#
+#DATASET    23749002 
+#DATE       20220915
+#REACTION   43-TC-99(N,G)43-TC-100,,SIG,,SPA
+#PROJ       1
+#TARG       43099
+#MF         3
+#MT         102
+#PRODUCT    43-TC-100
+#C4BEGIN    [    1 43099   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 43099   3 102    85000.00          713.0000 57.00000                                       S.Nakamura+          (21)23749  2 
+    1 43099   3 102    85000.00          722.0000 45.00000                                       S.Nakamura+          (21)23749  2 
+#/DATA      2
+#/DATASET

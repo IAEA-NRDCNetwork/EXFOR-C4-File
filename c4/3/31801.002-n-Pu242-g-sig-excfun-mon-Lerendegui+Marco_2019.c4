@@ -1,0 +1,31 @@
+#ENTRY      31801
+#AUTHOR1    J.Lerendegui-Marco+
+#YEAR       2019
+#INSTITUTE  (2SPNSEU)
+#TITLE      Improved 242Pu(n,g) thermal cross section combining
+#+          activation and prompt gamma analysis
+#AUTHOR(S)  J.Lerendegui-Marco, C.Guerrero, T.Belgya, B.Maroti, K.Eberhardt, 
+#+          Ch.E.Duellmann, A.R.Junghans, C.Mokry, J.M.Quesada, J.Runke, 
+#+          P.Thoerle-Pospiech
+#REF-CODE   (J,EPJ/A,55,63,2019)
+#REFERENCE  Eur.Phys.J.A 55 (2019) 63 (doi:10.1140/epja/i2019-12730-6)
+#DATASETS   0
+#
+#DATASET    31801002 
+#DATE       20241211
+#REACTION   94-PU-242(N,G)94-PU-243,,SIG
+#PROJ       1
+#TARG       94242
+#MF         3
+#MT         102
+#PRODUCT    94-PU-243
+#C4BEGIN    [    1 94242   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94242   3 102 A  0.025300          17.90000 2.100000                                       J.Lerendegui-Marco+  (19)31801  2 
+    1 94242   3 102 A  0.025300          18.00000 1.400000                                       J.Lerendegui-Marco+  (19)31801  2 
+    1 94242   3 102 A  0.025300          21.00000 3.000000                                       J.Lerendegui-Marco+  (19)31801  2 
+    1 94242   3 102 A  0.025300          19.50000 1.700000                                       J.Lerendegui-Marco+  (19)31801  2 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      22963
+#AUTHOR1    C.Vockenhuber+
+#YEAR       2007
+#INSTITUTE  (2GERKFK)
+#TITLE      Stellar (n,gamma) cross sections of Hf-174 and
+#+          radioactive Hf-182
+#AUTHOR(S)  C.Vockenhuber, I.Dillmann, M.Heil, F.Kaeppeler, W.Winckler, 
+#+          W.Kutschera, A.Wallner, M.Bichler, S.Dabab neh, S.Bisterzo, 
+#+          R.Gallino
+#REF-CODE   (J,PR/C,75,015804,2007)
+#REFERENCE  Phys.Rev.C 75 (2007) 015804 (doi:10.1103/PhysRevC.75.015804)
+#DATASETS   0
+#
+#DATASET    22963012 
+#DATE       20211021
+#REACTION   72-HF-180(N,G)72-HF-181,,SIG,,SPA
+#PROJ       1
+#TARG       72180
+#MF         3
+#MT         102
+#PRODUCT    72-HF-181
+#C4BEGIN    [    1 72180   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 72180   3 102    25000.00          0.160900 7.0796-3                                       C.Vockenhuber+       (07)22963 12 
+    1 72180   3 102    25000.00          0.167400 7.3656-3                                       C.Vockenhuber+       (07)22963 12 
+    1 72180   3 102    25000.00          0.168500 7.4140-3                                       C.Vockenhuber+       (07)22963 12 
+    1 72180   3 102    25000.00          0.171500 7.5460-3                                       C.Vockenhuber+       (07)22963 12 
+    1 72180   3 102    25000.00          0.176700 7.7748-3                                       C.Vockenhuber+       (07)22963 12 
+#/DATA      5
+#/DATASET

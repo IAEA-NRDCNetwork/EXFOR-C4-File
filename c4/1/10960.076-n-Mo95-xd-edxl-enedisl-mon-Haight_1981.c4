@@ -1,0 +1,33 @@
+#ENTRY      10960
+#AUTHOR1    R.C.Haight+
+#YEAR       1981
+#INSTITUTE  (1USALRL)
+#TITLE      Charged particle emission in reactions of 15-MeV
+#+          neutrons with 89Y, 90Zr, and 92,94,95,96Mo.
+#AUTHOR(S)  R.C.Haight, S.M.Grimes, R.G.Johnson, H.H.Barschall
+#REF-CODE   (J,PR/C,23,700,198102)
+#REFERENCE  Phys.Rev.C 23 (1981) 700 (doi:10.1103/PhysRevC.23.700)
+#DATASETS   0
+#
+#DATASET    10960076 
+#DATE       20091009
+#REACTION   42-MO-95(N,X)1-H-2,,DE
+#PROJ       1
+#TARG       42095
+#MF         5
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [    1 42095   5 204 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42095   5 204 D  1.4800+7          7.630-10                            4250000. 250000.0 E2R.C.Haight+          (81)10960 76 
+    1 42095   5 204 D  1.4800+7          5.610-10                            4750000. 250000.0 E2R.C.Haight+          (81)10960 76 
+    1 42095   5 204 D  1.4800+7          7.600-10 5.730-10                   5500000. 500000.0 E2R.C.Haight+          (81)10960 76 
+    1 42095   5 204 D  1.4800+7          1.3300-9                            6250000. 250000.0 E2R.C.Haight+          (81)10960 76 
+    1 42095   5 204 D  1.4800+7          2.0900-9                            6750000. 250000.0 E2R.C.Haight+          (81)10960 76 
+    1 42095   5 204 D  1.4800+7          2.3100-9                            7250000. 250000.0 E2R.C.Haight+          (81)10960 76 
+    1 42095   5 204 D  1.4800+7          3.2400-9 9.270-10                   8000000. 500000.0 E2R.C.Haight+          (81)10960 76 
+    1 42095   5 204 D  1.4800+7          1.9100-9                            8750000. 250000.0 E2R.C.Haight+          (81)10960 76 
+#/DATA      8
+#/DATASET

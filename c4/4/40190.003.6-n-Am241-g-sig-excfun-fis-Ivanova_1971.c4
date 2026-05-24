@@ -1,0 +1,27 @@
+#ENTRY      40190
+#AUTHOR1    N.I.Ivanova+
+#YEAR       1971
+#INSTITUTE  (4RUSKUR)
+#TITLE      Cross section of the Am-241(n,gamma)Am-242 reaction
+#+          for a neutron spectrum similar to the fission spectrum
+#AUTHOR(S)  N.I.Ivanova, A.N.Kobzev, N.G.Krylov, A.A.Lbov, N.P.Martynov, 
+#+          A.E.Trikanov, A.I.Shelamkov
+#REF-CODE   (J,SJA,30,452,1971)
+#REFERENCE  Sov.At.Energy 30 (1971) 452 (doi:10.1007/BF01182175)
+#DATASETS   0
+#
+#DATASET    401900036
+#DATE       20150109
+#REACTION   95-AM-241(N,G)95-AM-242-G,,SIG,,FIS
+#PROJ       1
+#TARG       95241
+#MF         3
+#MT         102
+#PRODUCT    95-AM-242-G
+#C4BEGIN    [    1 95241   3 102G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95241   3 102G   1000000.          0.248000                                                N.I.Ivanova+         (71)40190  36
+#/DATA      1
+#/DATASET

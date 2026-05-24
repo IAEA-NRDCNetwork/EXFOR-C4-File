@@ -1,0 +1,27 @@
+#ENTRY      20019
+#AUTHOR1    B.Holmqvist+
+#YEAR       1969
+#INSTITUTE  (2SWDAE)
+#TITLE      Neutron elastic scattering cross sections experimental
+#+          data and optical model cross section calculations.-
+#AUTHOR(S)  B.Holmqvist, T.Wiedling, S.G.Johansson, G.Lodin, A.Kiss, 
+#+          B.Gustavsson, B.Antolkovic
+#REF-CODE   (R,AE-366,1969)
+#REFERENCE  Report AE-366, 1969
+#DATASETS   0
+#
+#DATASET    20019146 
+#DATE       20190114
+#REACTION   29-CU-0(N,EL)29-CU-0,,SIG
+#PROJ       1
+#TARG       29000
+#MF         3
+#MT         2
+#PRODUCT    29-CU-0
+#C4BEGIN    [    1 29000   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   3   2 D  1460000. 50000.00 2.350000 0.120000                                       B.Holmqvist+         (69)20019146 
+#/DATA      1
+#/DATASET

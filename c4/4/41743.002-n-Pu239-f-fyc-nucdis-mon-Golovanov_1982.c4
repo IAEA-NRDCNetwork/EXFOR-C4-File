@@ -1,0 +1,34 @@
+#ENTRY      41743
+#AUTHOR1    A.G.Golovanov+
+#YEAR       1982
+#INSTITUTE  (4RUSMIF)
+#TITLE      Determination of the cumulative yields of short-lived
+#+          products of thermal-neutron 239Pu fission by means of
+#+          the gamma-spectrometric method under cyclic conditions
+#AUTHOR(S)  A.G.Golovanov, A.N.Gudkov, V.V.Kasantsev, V.V.Kovalenko, 
+#+          A.B.Koldobskii, V.M.Kolobashkin, S.I.Lifanov, A.I.Slyusarenko
+#REF-CODE   (J,SJA,53,576,1982)
+#REFERENCE  Sov.At.Energy 53 (1982) 576 (doi:10.1007/BF01122105)
+#DATASETS   0
+#
+#DATASET    41743002 
+#DATE       20211119
+#REACTION   94-PU-239(N,F)ELEM/MASS,CUM,FY
+#PROJ       1
+#TARG       94239
+#MF         8
+#MT         459
+#C4BEGIN    [    1 94239   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   8 459    3000000. 50000.00 0.055000 0.014000 40.00000 100.0000 9.000000            A.G.Golovanov+       (82)41743  2 
+    1 94239   8 459    3000000. 50000.00 0.037000 6.0000-3 41.00000 99.00000 0.000000            A.G.Golovanov+       (82)41743  2 
+    1 94239   8 459    3000000. 50000.00 0.063000 0.011000 41.00000 101.0000 9.000000            A.G.Golovanov+       (82)41743  2 
+    1 94239   8 459    3000000. 50000.00 0.019000 0.013000 41.00000 102.0000 0.000000            A.G.Golovanov+       (82)41743  2 
+    1 94239   8 459    3000000. 50000.00 0.013000 2.0000-3 53.00000 136.0000 1.000000            A.G.Golovanov+       (82)41743  2 
+    1 94239   8 459    3000000. 50000.00 0.011000 2.0000-3 53.00000 138.0000 9.000000            A.G.Golovanov+       (82)41743  2 
+    1 94239   8 459    3000000. 50000.00 0.034000 8.0000-3 56.00000 143.0000 9.000000            A.G.Golovanov+       (82)41743  2 
+    1 94239   8 459    3000000. 50000.00 0.040000 6.0000-3 57.00000 144.0000 9.000000            A.G.Golovanov+       (82)41743  2 
+#/DATA      8
+#/DATASET

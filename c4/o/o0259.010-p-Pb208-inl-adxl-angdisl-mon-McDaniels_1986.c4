@@ -1,0 +1,36 @@
+#ENTRY      O0259
+#AUTHOR1    D.K.McDaniels+
+#YEAR       1986
+#INSTITUTE  (1USAORE)
+#TITLE      Cross Section and Analyzing Power Measurements For the
+#+          Giant Resonance Region in Pb-208 with 200-MeV Protons.
+#AUTHOR(S)  D.K.McDaniels, J.R.Tinsley, J.Lisantti, D.M.Drake, I.Bergqvist, 
+#+          L.W.Swenson, F.E.Bertrand, E.E.Gross, D.J.Horen, T.P.Sjoreen, 
+#+          R.Liljestrand, H.Wilson
+#REF-CODE   (J,PR/C,33,1943,86)
+#REFERENCE  Phys.Rev.C 33 (1986) 1943 (doi:10.1103/PhysRevC.33.1943)
+#DATASETS   0
+#
+#DATASET    O0259010 
+#DATE       19961227
+#REACTION   82-PB-208(P,INL)82-PB-208,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         601
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 1001 82208   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 601    2.0000+8 500000.0 9.0000-4 7.2000-4 0.984350 2.7681-4 1.2000+7         LVLD.K.McDaniels+       (86)O0259 10 
+ 1001 82208   4 601    2.0000+8 500000.0 5.0000-4 4.0000-4 0.981627 2.9972-4 1.2000+7         LVLD.K.McDaniels+       (86)O0259 10 
+ 1001 82208   4 601    2.0000+8 500000.0 2.4000-3 1.4400-3 0.976897 3.3570-4 1.2000+7         LVLD.K.McDaniels+       (86)O0259 10 
+ 1001 82208   4 601    2.0000+8 500000.0 1.9000-3 4.3700-4 0.973058 3.6216-4 1.2000+7         LVLD.K.McDaniels+       (86)O0259 10 
+ 1001 82208   4 601    2.0000+8 500000.0 2.1000-3 4.8300-4 0.969445 3.8533-4 1.2000+7         LVLD.K.McDaniels+       (86)O0259 10 
+ 1001 82208   4 601    2.0000+8 500000.0 1.8000-3 4.5000-4 0.963956 4.1793-4 1.2000+7         LVLD.K.McDaniels+       (86)O0259 10 
+ 1001 82208   4 601    2.0000+8 500000.0 8.0000-4 2.3200-4 0.959314 4.4350-4 1.2000+7         LVLD.K.McDaniels+       (86)O0259 10 
+ 1001 82208   4 601    2.0000+8 500000.0 5.5000-4 2.2000-4 0.948545 4.9738-4 1.2000+7         LVLD.K.McDaniels+       (86)O0259 10 
+ 1001 82208   4 601    2.0000+8 500000.0 3.7000-4 1.1100-4 0.937889 5.4497-4 1.2000+7         LVLD.K.McDaniels+       (86)O0259 10 
+#/DATA      9
+#/DATASET

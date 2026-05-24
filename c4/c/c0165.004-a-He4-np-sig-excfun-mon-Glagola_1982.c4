@@ -1,0 +1,31 @@
+#ENTRY      C0165
+#AUTHOR1    B.G.Glagola+
+#YEAR       1982
+#INSTITUTE  (1USAMRY)
+#TITLE      Production of 6He, 6Li, 7Li, and 7Be in the
+#+          alpha+alpha reaction between 60 - 160 MeV
+#AUTHOR(S)  B.G.Glagola, V.E.Viola Jr, H.Breuer, N.S.Chant, A.Nadasen, 
+#+          P.G.Roos, S.M.Austin, G.J.Mathews
+#REF-CODE   (J,PR/C,25,34,198201)
+#REFERENCE  Phys.Rev.C 25 (1982) 34 (doi:10.1103/PhysRevC.25.34)
+#DATASETS   0
+#
+#DATASET    C0165004 
+#DATE       20180719
+#REACTION   2-HE-4(A,N+P)3-LI-6,,SIG
+#PROJ       2004
+#TARG       2004
+#MF         3
+#MT         28
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 2004  2004   3  28  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  2004   3  28    6.1500+7          0.010800 1.3000-3                                       B.G.Glagola+         (82)C0165  4 
+ 2004  2004   3  28    8.0800+7          0.011300 7.0000-4                                       B.G.Glagola+         (82)C0165  4 
+ 2004  2004   3  28    1.1890+8          6.9000-3 6.0000-4                                       B.G.Glagola+         (82)C0165  4 
+ 2004  2004   3  28    1.3920+8          4.7000-3 3.0000-4                                       B.G.Glagola+         (82)C0165  4 
+ 2004  2004   3  28    1.5820+8          3.1000-3 2.0000-4                                       B.G.Glagola+         (82)C0165  4 
+#/DATA      5
+#/DATASET

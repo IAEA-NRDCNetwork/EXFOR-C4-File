@@ -1,0 +1,27 @@
+#ENTRY      31646
+#AUTHOR1    Li Guozheng+
+#YEAR       1990
+#INSTITUTE  (3CPRNIX)
+#TITLE      Cross section measurements of nuclear reactions for
+#+          Ni induced by 14 MeV neutrons
+#AUTHOR(S)  Li Guozheng, Jiang Jinghe
+#REF-CODE   (J,PHE,14,(11),1023,199011)
+#REFERENCE  High En.Nucl.Phy.Ch. 14 No.11 (1990) 1023
+#DATASETS   0
+#
+#DATASET    31646002 
+#DATE       20080818
+#REACTION   28-NI-58(N,2N)28-NI-57,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         16
+#PRODUCT    28-NI-57
+#C4BEGIN    [    1 28058   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3  16    1.4100+7          0.024430 9.5277-4                                       Li Guozheng+         (90)31646  2 
+    1 28058   3  16    1.4620+7          0.032610 1.1740-3                                       Li Guozheng+         (90)31646  2 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      40683
+#AUTHOR1    M.V.Pasechnik+
+#YEAR       1964
+#INSTITUTE  (4UKRIJD)
+#TITLE      Scattering of 0.5 and 0.8 MeV neutrons by medium and
+#+          heavy nuclei
+#AUTHOR(S)  M.V.Pasechnik, V.A.Batalin, I.A.Korzh, I.A.Totskii
+#REF-CODE   (J,SJA,16,246,1964)
+#REFERENCE  Sov.At.Energy 16 (1964) 246 (doi:10.1007/BF01122966)
+#DATASETS   0
+#
+#DATASET    40683014 
+#DATE       20231010
+#REACTION   80-HG-0(N,EL)80-HG-0,,SIG
+#PROJ       1
+#TARG       80000
+#MF         3
+#MT         2
+#PRODUCT    80-HG-0
+#C4BEGIN    [    1 80000   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 80000   3   2 D  500000.0 50000.00 5.840000 0.230000                                       M.V.Pasechnik+       (64)40683 14 
+    1 80000   3   2 D  800000.0 50000.00 5.430000 0.160000                                       M.V.Pasechnik+       (64)40683 14 
+#/DATA      2
+#/DATASET

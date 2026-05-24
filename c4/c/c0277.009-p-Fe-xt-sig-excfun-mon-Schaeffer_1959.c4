@@ -1,0 +1,27 @@
+#ENTRY      C0277
+#AUTHOR1    O.A.Schaeffer+
+#YEAR       1959
+#INSTITUTE  (1USABNL)
+#TITLE      High-Sensitivity Mass Spectrometric Measurement of
+#+          Stable Helium and Argon Isotopes Produced by High-
+#+          Energy Protons in Iron
+#AUTHOR(S)  O.A.Schaeffer, J.Zahringer
+#REF-CODE   (J,PR,113,674,1959)
+#REFERENCE  Phys.Rev. 113 (1959) 674 (doi:10.1103/PhysRev.113.674)
+#DATASETS   0
+#
+#DATASET    C0277009 
+#DATE       20111118
+#REACTION   26-FE-0(P,X)1-H-3,,SIG
+#PROJ       1001
+#TARG       26000
+#MF         3
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001 26000   3 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26000   3 205    4.3000+8          0.032000 3.2000-3                                       O.A.Schaeffer+       (59)C0277  9 
+#/DATA      1
+#/DATASET

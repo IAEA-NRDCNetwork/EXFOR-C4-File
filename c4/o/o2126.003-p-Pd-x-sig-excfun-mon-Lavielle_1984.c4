@@ -1,0 +1,30 @@
+#ENTRY      O2126
+#AUTHOR1    B.Lavielle+
+#YEAR       1984
+#INSTITUTE  (2FR GRA)
+#TITLE      Cross sections measurement of krypton 78 to 86 isotopes
+#+          in the spallation of palladium and silver. A new semi-
+#+          empirical spallation formula in the Y to Ag target mass
+#+          region.
+#AUTHOR(S)  B.Lavielle, S.Regnier
+#REF-CODE   (J,JPR,45,981,1984)
+#REFERENCE  J.Phys.(Paris) 45 (1984) 981 (doi:10.1051/jphys:01984004506098100)
+#DATASETS   0
+#
+#DATASET    O2126003 
+#DATE       20130613
+#REACTION   46-PD-0(P,X)36-KR-80,,SIG
+#PROJ       1001
+#TARG       46000
+#MF         3
+#MT         454
+#PRODUCT    36-KR-80
+#C4BEGIN    [ 1001 46000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 46000   3 454    1.5000+8          2.6000-6 5.0000-6           36080.9                     B.Lavielle+          (84)O2126  3 
+ 1001 46000   3 454    1.0500+9          0.024700 2.5000-3           36080.9                     B.Lavielle+          (84)O2126  3 
+ 1001 46000   3 454    2.400+10          0.013300 1.5000-3           36080.9                     B.Lavielle+          (84)O2126  3 
+#/DATA      3
+#/DATASET

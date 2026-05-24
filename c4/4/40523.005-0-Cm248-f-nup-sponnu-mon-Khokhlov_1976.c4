@@ -1,0 +1,26 @@
+#ENTRY      40523
+#AUTHOR1    Yu.A.Khokhlov+
+#YEAR       1976
+#INSTITUTE  (4RUSKUR)
+#TITLE      Average number of prompt neutrons arising at
+#+          spontaneous fission of Cm-244, Cm-246, Cm-248
+#AUTHOR(S)  Yu.A.Khokhlov, M.V.Savin, V.N.Ludin, B.L.Lebedev
+#REF-CODE   (R,YK-23,3,1976)
+#REFERENCE  Report YK-23 page 3, 1976
+#DATASETS   0
+#
+#DATASET    40523005 
+#DATE       20200319
+#REACTION   96-CM-248(0,F),PR,NU
+#PROJ       -1
+#TARG       96248
+#MF         1
+#MT         456
+#C4BEGIN    [   -1 96248   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+   -1 96248   1 456                      3.185000 0.040000                                       Yu.A.Khokhlov+       (76)40523  5 
+   -1 96248   1 456                      3.173000 0.025000                                       Yu.A.Khokhlov+       (76)40523  5 
+#/DATA      2
+#/DATASET

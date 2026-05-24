@@ -1,0 +1,41 @@
+#ENTRY      E1849
+#AUTHOR1    T.Ishimatsu+
+#YEAR       1972
+#INSTITUTE  (2JPNTOH)
+#TITLE      Some evidence for neutron pick-up from the interior
+#+          core through the (p,d) reaction
+#AUTHOR(S)  T.Ishimatsu, S.Hayashibe, N.Kawamura, T.Awaya, H.Ohmura, 
+#+          Y.Nakajima, S.Mitarai
+#REF-CODE   (J,NP/A,185,(1),273,19720424)
+#REFERENCE  Nucl.Phys.A 185 No.1 (1972) 273 (doi:10.1016/0375-9474(72)90569-6)
+#DATASETS   0
+#
+#DATASET    E1849004 
+#DATE       20040311
+#REACTION   42-MO-100(P,D)42-MO-99,PAR,DA
+#PROJ       1001
+#TARG       42100
+#MF         4
+#MT         650
+#PRODUCT    42-MO-99
+#C4BEGIN    [ 1001 42100   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42100   4 650    5.2000+7          0.012500          0.996330          100000.0 20000.00LVLT.Ishimatsu+         (72)E1849  4 
+ 1001 42100   4 650    5.2000+7          0.010890          0.990317          100000.0 20000.00LVLT.Ishimatsu+         (72)E1849  4 
+ 1001 42100   4 650    5.2000+7          8.2000-3          0.980989          100000.0 20000.00LVLT.Ishimatsu+         (72)E1849  4 
+ 1001 42100   4 650    5.2000+7          4.5000-3          0.970296          100000.0 20000.00LVLT.Ishimatsu+         (72)E1849  4 
+ 1001 42100   4 650    5.2000+7          2.7300-3          0.957168          100000.0 20000.00LVLT.Ishimatsu+         (72)E1849  4 
+ 1001 42100   4 650    5.2000+7          2.6200-3          0.938191          100000.0 20000.00LVLT.Ishimatsu+         (72)E1849  4 
+ 1001 42100   4 650    5.2000+7          2.7000-3          0.920232          100000.0 20000.00LVLT.Ishimatsu+         (72)E1849  4 
+ 1001 42100   4 650    5.2000+7          2.4200-3          0.900395          100000.0 20000.00LVLT.Ishimatsu+         (72)E1849  4 
+ 1001 42100   4 650    5.2000+7          1.1180-3          0.867158          100000.0 20000.00LVLT.Ishimatsu+         (72)E1849  4 
+ 1001 42100   4 650    5.2000+7          5.3600-4          0.829428          100000.0 20000.00LVLT.Ishimatsu+         (72)E1849  4 
+ 1001 42100   4 650    5.2000+7          4.7200-4          0.789620          100000.0 20000.00LVLT.Ishimatsu+         (72)E1849  4 
+ 1001 42100   4 650    5.2000+7          4.3700-4          0.742210          100000.0 20000.00LVLT.Ishimatsu+         (72)E1849  4 
+ 1001 42100   4 650    5.2000+7          2.9800-4          0.693653          100000.0 20000.00LVLT.Ishimatsu+         (72)E1849  4 
+ 1001 42100   4 650    5.2000+7          1.6360-4          0.646657          100000.0 20000.00LVLT.Ishimatsu+         (72)E1849  4 
+ 1001 42100   4 650    5.2000+7          1.1580-4          0.587220          100000.0 20000.00LVLT.Ishimatsu+         (72)E1849  4 
+#/DATA      15
+#/DATASET

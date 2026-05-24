@@ -1,0 +1,28 @@
+#ENTRY      23038
+#AUTHOR1    D.Dore+
+#YEAR       2007
+#INSTITUTE  (2FR SAC)
+#TITLE      .Measurements of delayed neutron yields from neutron
+#+          induced fission on 232Th
+#AUTHOR(S)  D.Dore, J.-M.Laborie, X.Ledoux, V.Macary, D.Ridikas, A.Van Lauwe, 
+#+          C.Varignon
+#REF-CODE   (C,2007NICE,1,383,200704)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 1 page 383
+#DATASETS   0
+#
+#DATASET    23038002 
+#DATE       20081108
+#REACTION   90-TH-232(N,F),DL,NU
+#PROJ       1
+#TARG       90232
+#MF         1
+#MT         455
+#C4BEGIN    [    1 90232   1 455  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   1 455    2000000.          0.045000 3.0000-3                                       D.Dore+              (07)23038  2 
+    1 90232   1 455    2400000.          0.046000 4.0000-3                                       D.Dore+              (07)23038  2 
+    1 90232   1 455    1.6000+7          0.028000 2.0000-3                                       D.Dore+              (07)23038  2 
+#/DATA      3
+#/DATASET

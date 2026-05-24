@@ -1,0 +1,28 @@
+#ENTRY      C0347
+#AUTHOR1    I.-M.Ladenbauer+
+#YEAR       1960
+#INSTITUTE  (1USALRL)
+#TITLE      Interaction of high-energy protons and alpha particles
+#+          with iodine-127
+#AUTHOR(S)  I.-M.Ladenbauer, L.Winsberg
+#REF-CODE   (J,PR,119,1368,1960)
+#REFERENCE  Phys.Rev. 119 (1960) 1368 (doi:10.1103/PhysRev.119.1368)
+#DATASETS   0
+#
+#DATASET    C03470071
+#DATE       20160709
+#REACTION   53-I-127(A,X)53-I-124,,SIG
+#PROJ       2004
+#TARG       53127
+#MF         3
+#MT         454
+#PRODUCT    53-I-124
+#C4BEGIN    [ 2004 53127   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 53127   3 454    2.5000+8          0.026600                    53124.9                     I.-M.Ladenbauer+     (60)C0347  71
+ 2004 53127   3 454    5.0000+8          0.048800                    53124.9                     I.-M.Ladenbauer+     (60)C0347  71
+ 2004 53127   3 454    7.2000+8          0.014600                    53124.9                     I.-M.Ladenbauer+     (60)C0347  71
+#/DATA      3
+#/DATASET

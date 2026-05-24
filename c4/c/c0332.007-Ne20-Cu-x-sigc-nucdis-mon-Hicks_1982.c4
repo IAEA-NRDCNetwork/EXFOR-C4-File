@@ -1,0 +1,34 @@
+#ENTRY      C0332
+#AUTHOR1    K.H.Hicks+
+#YEAR       1982
+#INSTITUTE  (1USAINU)
+#TITLE      Interaction of 4.22-GeV and 7.54-GeV 20Ne with Cu
+#AUTHOR(S)  K.H.Hicks, T.E.Ward, H.Bowman, J.G.Ingersoll, J.O.Rasmussen, 
+#+          J.P.Sullivan, M.Koike, J.Peter
+#REF-CODE   (J,PR/C,26,2016,1982)
+#REFERENCE  Phys.Rev.C 26 (1982) 2016 (doi:10.1103/PhysRevC.26.2016)
+#DATASETS   0
+#
+#DATASET    C0332007 
+#DATE       20170317
+#REACTION   29-CU-0(10-NE-20,X)ELEM/MASS,CUM,SIG
+#PROJ       10020
+#TARG       29000
+#MF         3
+#MT         459
+#C4BEGIN    [10020 29000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10020 29000   3 459    4.2200+9          0.042200 9.7000-3           11022.9                     K.H.Hicks+           (82)C0332  7 
+10020 29000   3 459    4.2200+9          1.2000-3 2.0000-4           20047.9                     K.H.Hicks+           (82)C0332  7 
+10020 29000   3 459    4.2200+9          0.024000 2.8000-3           23048.9                     K.H.Hicks+           (82)C0332  7 
+10020 29000   3 459    4.2200+9          0.052000 8.0000-3           24051.9                     K.H.Hicks+           (82)C0332  7 
+10020 29000   3 459    4.2200+9          0.022500 2.6000-3           25052.9                     K.H.Hicks+           (82)C0332  7 
+10020 29000   3 459    4.2200+9          5.4000-3 1.0000-3           26059.9                     K.H.Hicks+           (82)C0332  7 
+10020 29000   3 459    4.2200+9          0.020800 2.9000-3           27056.9                     K.H.Hicks+           (82)C0332  7 
+10020 29000   3 459    4.2200+9          0.067000 0.010600           27057.9                     K.H.Hicks+           (82)C0332  7 
+10020 29000   3 459    4.2200+9          2.0000-4 3.0000-4           28056.9                     K.H.Hicks+           (82)C0332  7 
+10020 29000   3 459    4.2200+9          9.3000-3 3.0000-3           30065.9                     K.H.Hicks+           (82)C0332  7 
+#/DATA      10
+#/DATASET

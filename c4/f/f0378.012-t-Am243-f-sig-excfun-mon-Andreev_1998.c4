@@ -1,0 +1,29 @@
+#ENTRY      F0378
+#AUTHOR1    M.F.Andreev+
+#YEAR       1998
+#INSTITUTE  (4RUSEPA)
+#TITLE      232Th, 233,235,238U, 237Np and 243Am nuclei fission
+#+          by tritons
+#AUTHOR(S)  M.F.Andreev, V.V.Gladkov, V.A.Zavgorodniy, V.I.Serov
+#REF-CODE   (J,YK,,(1),53,1998)
+#REFERENCE  Yad.Reak.Konst.  No.1 (1998) 53
+#DATASETS   0
+#
+#DATASET    F0378012 
+#DATE       20220422
+#REACTION   95-AM-243(T,F),,SIG
+#PROJ       1003
+#TARG       95243
+#MF         3
+#MT         18
+#C4BEGIN    [ 1003 95243   3  18 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 95243   3  18 C  1.1000+7          0.112000 9.0000-3                                       M.F.Andreev+         (98)F0378 12 
+ 1003 95243   3  18 C  1.1520+7          0.158000 0.013000                                       M.F.Andreev+         (98)F0378 12 
+ 1003 95243   3  18 C  1.2030+7          0.223000 0.011000                                       M.F.Andreev+         (98)F0378 12 
+ 1003 95243   3  18 C  1.2320+7          0.254000 8.0000-3                                       M.F.Andreev+         (98)F0378 12 
+ 1003 95243   3  18 C  1.2940+7          0.324000 8.0000-3                                       M.F.Andreev+         (98)F0378 12 
+#/DATA      5
+#/DATASET

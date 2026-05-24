@@ -1,0 +1,32 @@
+#ENTRY      23047
+#AUTHOR1    A.Wallner+
+#YEAR       2017
+#INSTITUTE  (3AULCBR)
+#TITLE      Precise measurement of the thermal and stellar
+#+          54Fe(n,gamma)55Fe cross sections via accelerator mass
+#+          spectrometry
+#AUTHOR(S)  A.Wallner, K.Buczak, T.Belgya, M.Bichler, L.Coquard, I.Dillmann, 
+#+          R.Golser, F.Kaeppeler, A.Karakas, W.Kutschera, C.Lederer, 
+#+          A.Mengoni, M.Pignatari, A.Priller, R.Reifarth, P.Steier, 
+#+          L.Szentmiklosi
+#REF-CODE   (J,PR/C,96,025808,2017)
+#REFERENCE  Phys.Rev.C 96 (2017) 025808 (doi:10.1103/PhysRevC.96.025808)
+#DATASETS   0
+#
+#DATASET    23047005 
+#DATE       20200807
+#REACTION   26-FE-54(N,G)26-FE-55,,SIG,,SPA
+#PROJ       1
+#TARG       26054
+#MF         3
+#MT         102
+#PRODUCT    26-FE-55
+#C4BEGIN    [    1 26054   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26054   3 102    481000.0 26500.00 6.0100-3 2.8000-4                                       A.Wallner+           (17)23047  5 
+    1 26054   3 102    481000.0 26500.00 6.0200-3 2.3000-4                                       A.Wallner+           (17)23047  5 
+    1 26054   3 102    481000.0 26500.00 6.0000-3 2.0000-4                                       A.Wallner+           (17)23047  5 
+#/DATA      3
+#/DATASET

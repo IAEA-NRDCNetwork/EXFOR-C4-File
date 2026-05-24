@@ -1,0 +1,36 @@
+#ENTRY      40811
+#AUTHOR1    D.L.Broder+
+#YEAR       1962
+#INSTITUTE  (4RUSFEI)
+#TITLE      Inelastic neutron scattering on Fe nuclei.
+#AUTHOR(S)  D.L.Broder, A.I.Lashuk, I.P.Sadokhin, A.P.Suvorov
+#REF-CODE   (B,N.REAC.DES,,254,1962)
+#REFERENCE  Theory and Method of Nucl.Reactor Design,Moscow 1962 page 254 (1962)
+#DATASETS   0
+#
+#DATASET    40811004 
+#DATE       20091126
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,SIG,G
+#PROJ       1
+#TARG       26056
+#MF         13
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056  13  51    1000000.          0.240000                            845000.0            D.L.Broder+          (62)40811  4 
+    1 26056  13  51    1200000.          0.530000                            845000.0            D.L.Broder+          (62)40811  4 
+    1 26056  13  51    1440000.          0.700000                            845000.0            D.L.Broder+          (62)40811  4 
+    1 26056  13  51    1600000.          0.770000                            845000.0            D.L.Broder+          (62)40811  4 
+    1 26056  13  51    1800000.          0.750000                            845000.0            D.L.Broder+          (62)40811  4 
+    1 26056  13  51    2000000.          0.880000                            845000.0            D.L.Broder+          (62)40811  4 
+    1 26056  13  51    2210000.          0.930000                            845000.0            D.L.Broder+          (62)40811  4 
+    1 26056  13  51    2400000.          1.000000                            845000.0            D.L.Broder+          (62)40811  4 
+    1 26056  13  51    2550000.          0.990000                            845000.0            D.L.Broder+          (62)40811  4 
+    1 26056  13  51    2740000.          1.010000                            845000.0            D.L.Broder+          (62)40811  4 
+    1 26056  13  51    3450000.          1.140000                            845000.0            D.L.Broder+          (62)40811  4 
+    1 26056  13  51    3950000.          1.150000                            845000.0            D.L.Broder+          (62)40811  4 
+#/DATA      12
+#/DATASET

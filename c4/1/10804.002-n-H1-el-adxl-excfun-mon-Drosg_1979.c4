@@ -1,0 +1,27 @@
+#ENTRY      10804
+#AUTHOR1    M.Drosg+
+#YEAR       1979
+#INSTITUTE  (1USALAS)
+#TITLE      180 DEGREE N-P CROSS SECTIONS FOR FAST NEUTRON
+#+          MEASUREMENTS WITH COUNTER TELESCOPES.
+#AUTHOR(S)  M.Drosg, D.M.Drake
+#REF-CODE   (J,NIM,160,143,79)
+#REFERENCE  Nucl.Intrum.Meth. 160 (1979) 143 (doi:10.1016/0029-554X(79)90177-0)
+#DATASETS   0
+#
+#DATASET    10804002 
+#DATE       19931227
+#REACTION   1-H-1(N,EL)1-H-1,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  1001   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4   2 AC 2.5300+7          0.034600 9.0000-4-1.000000                              M.Drosg+             (79)10804  2 
+    1  1001   4   2 AC 3.1100+7          0.029100 1.0000-3-1.000000                              M.Drosg+             (79)10804  2 
+#/DATA      2
+#/DATASET

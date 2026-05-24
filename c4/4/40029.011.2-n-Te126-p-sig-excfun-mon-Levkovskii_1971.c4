@@ -1,0 +1,26 @@
+#ENTRY      40029
+#AUTHOR1    V.N.Levkovskii+
+#YEAR       1971
+#INSTITUTE  (4KASKAZ)
+#TITLE      Cross sections of the reactions (n,p) and (n,alpha)
+#+          at a neutron energy 14.8 MeV
+#AUTHOR(S)  V.N.Levkovskii, O.I.Artem'ev
+#REF-CODE   (J,SNP,13,529,1971)
+#REFERENCE  Sov.J.Nucl.Phys. 13 (1971) 529
+#DATASETS   0
+#
+#DATASET    400290112
+#DATE       20221014
+#REACTION   52-TE-126(N,P)51-SB-126-G,,SIG
+#PROJ       1
+#TARG       52126
+#MF         3
+#MT         103
+#PRODUCT    51-SB-126-G
+#C4BEGIN    [    1 52126   3 103G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52126   3 103G   1.4800+7          1.6000-3 3.0000-4                                       V.N.Levkovskii+      (71)40029 112
+#/DATA      1
+#/DATASET

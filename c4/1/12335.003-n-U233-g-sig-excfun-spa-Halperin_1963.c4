@@ -1,0 +1,28 @@
+#ENTRY      12335
+#AUTHOR1    J.Halperin+
+#YEAR       1963
+#INSTITUTE  (1USAORL)
+#TITLE      Thermal cross section and resonance integral for
+#+          capture of U233, and alpha(U233) for resonance
+#+          neutrons.
+#AUTHOR(S)  J.Halperin, F.J.Johnston, R.W.Stoughton, J.H.Oliver, E.L.Blevins, 
+#+          R.E.Druschel, A.L.Harkness, B.A.Swarz
+#REF-CODE   (J,NSE,16,245,1963)
+#REFERENCE  Nucl.Sci.Eng. 16 (1963) 245 (doi:10.13182/NSE63-A26510)
+#DATASETS   0
+#
+#DATASET    12335003 
+#DATE       20160920
+#REACTION   92-U-233(N,G)92-U-234,,SIG,,SPA
+#PROJ       1
+#TARG       92233
+#MF         3
+#MT         102
+#PRODUCT    92-U-234
+#C4BEGIN    [    1 92233   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   3 102    0.025300          61.30000                                                J.Halperin+          (63)12335  3 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      A0478
+#AUTHOR1    B.Dittrich+
+#YEAR       1990
+#INSTITUTE  (2GERKLN)
+#TITLE      Production of short- and medium-lived radionuclides by
+#+          proton-induced spallation between 800 and 2600 MeV
+#AUTHOR(S)  B.Dittrich, U.Herpers, R.Bodemann, M.Luepke, R.Michel, P.Signer, 
+#+          R.Wieler, H.Hofmann, W.Woelfli
+#REF-CODE   (P,NEANDC(E)-312U,(5),46,1990)
+#REFERENCE  Progress report NEANDC(E)-312U Vol.(5) page 46, 1990
+#DATASETS   0
+#
+#DATASET    A0478024 
+#DATE       20240915
+#REACTION   20-CA-0(P,X)21-SC-46,,SIG
+#PROJ       1001
+#TARG       20000
+#MF         3
+#MT         454
+#PRODUCT    21-SC-46
+#C4BEGIN    [ 1001 20000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20000   3 454    8.0000+8          2.9400-5 4.5000-6           21046.9                     B.Dittrich+          (90)A0478 24 
+ 1001 20000   3 454    1.2000+9          1.1800-5 1.1000-6           21046.9                     B.Dittrich+          (90)A0478 24 
+ 1001 20000   3 454    2.6000+9          9.9000-6 2.1000-6           21046.9                     B.Dittrich+          (90)A0478 24 
+#/DATA      3
+#/DATASET

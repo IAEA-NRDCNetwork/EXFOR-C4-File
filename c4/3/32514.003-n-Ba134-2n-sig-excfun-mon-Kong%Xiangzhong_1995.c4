@@ -1,0 +1,29 @@
+#ENTRY      32514
+#AUTHOR1    Kong Xiangzhong+
+#YEAR       1995
+#INSTITUTE  (3CPRLNZ)
+#TITLE      The cross section measurements for the Ba(n,x)134Cs,
+#+          134Ba(n,2n)133Ba,140Ce(n,2n)139Ce,142Ce(n,2n)141Ce
+#+          and 23Na(n,2n)22Na reactions
+#AUTHOR(S)  Kong Xiangzhong, Wang Yongchang, Yang Jingkang, Yuan Junqian
+#REF-CODE   (J,PHE,19,781,1995)
+#REFERENCE  High En.Nucl.Phy.Ch. 19 (1995) 781
+#DATASETS   0
+#
+#DATASET    32514003 
+#DATE       20150524
+#REACTION   56-BA-134(N,2N)56-BA-133,,SIG
+#PROJ       1
+#TARG       56134
+#MF         3
+#MT         16
+#PRODUCT    56-BA-133
+#C4BEGIN    [    1 56134   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 56134   3  16    1.3500+7 70000.00 1.682000 0.084000                                       Kong Xiangzhong+     (95)32514  3 
+    1 56134   3  16    1.4180+7 70000.00 1.764000 0.088000                                       Kong Xiangzhong+     (95)32514  3 
+    1 56134   3  16    1.4800+7 110000.0 1.785000 0.089000                                       Kong Xiangzhong+     (95)32514  3 
+#/DATA      3
+#/DATASET

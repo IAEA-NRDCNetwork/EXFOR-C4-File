@@ -1,0 +1,37 @@
+#ENTRY      D1015
+#AUTHOR1    B.Wasilewska+
+#YEAR       2022
+#INSTITUTE  (3POLIFJ)
+#TITLE      gamma decay to the ground state from the excitations
+#+          above the neutron threshold in the 208Pb(p,p'g)
+#+          reaction at 85 MeV
+#AUTHOR(S)  B.Wasilewska, M.Kmiecik, M.Ciemala, A.Maj, F.C.L.Crespi, 
+#+          A.Bracco, M.N.Harakeh, P.Bednarczyk, S.Bottoni, S.Brambilla, 
+#+          F.Camera, I.Ciepal, N.Cieplicka-Orynczak, M.Csatlos, B.Fornal, 
+#+          V.Gaudilla, J.Grebosz, J.Isaak, L.W.Iskra, M.Jezabek, A.J.Krasznahorkay, 
+#+          S.Kihel, M.Krzysiek, P.Lasko, S.Leoni, M.Lewitowicz, J.lukasik, 
+#+          M.Matejska-Minda, K.Mazurek, P.J.Napiorkowski, W.Parol, 
+#+          P.Pawlowski, L.Q.Qi, M.Saxena, Ch.Schmitt, Y.Sobolev, B.Sowicki, 
+#+          M.Stanoiu, A.Tamii, O.Wieland, M.Zieblinski
+#REF-CODE   (J,PR/C,105,014310,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) 014310 (doi:10.1103/PhysRevC.105.014310)
+#DATASETS   0
+#
+#DATASET    D1015002 
+#DATE       20220218
+#REACTION   82-PB-208(P,INL)82-PB-208,PAR,DA
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         601
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 1001 82208   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 601 A  8.5000+7          4.7966-3 2.1580-3 0.987960 2.4302-3 4100000.         LVLB.Wasilewska+        (22)D1015  2 
+ 1001 82208   4 601 A  8.5000+7          4.7329-3 2.1293-3 0.982613 2.9164-3 4100000.         LVLB.Wasilewska+        (22)D1015  2 
+ 1001 82208   4 601 A  8.5000+7          6.5061-3 2.9270-3 0.976296 3.3998-3 4100000.         LVLB.Wasilewska+        (22)D1015  2 
+ 1001 82208   4 601 A  8.5000+7          6.7427-3 3.0335-3 0.969016 3.8799-3 4100000.         LVLB.Wasilewska+        (22)D1015  2 
+#/DATA      4
+#/DATASET

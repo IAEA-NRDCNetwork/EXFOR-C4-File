@@ -1,0 +1,31 @@
+#ENTRY      D4390
+#AUTHOR1    B.M.Ali+
+#YEAR       2018
+#INSTITUTE  (3EGYCAI)
+#TITLE      Activation cross section data for alpha-particle
+#+          induced nuclear reactions on natural vanadium for
+#+          practical applications
+#AUTHOR(S)  B.M.Ali, M.Al-Abyad, U.Seddik, S.U.El-Kameesy, F.Ditroi, 
+#+          S.Takacs, F.Tarkanyi
+#REF-CODE   (J,PRM,90,41,2018)
+#REFERENCE  Pramana 90 (2018) 41 (doi:10.1007/s12043-018-1527-z)
+#DATASETS   0
+#
+#DATASET    D4390003 
+#DATE       20180926
+#REACTION   23-V-50(A,2N)25-MN-52-G,M+,SIG
+#PROJ       2004
+#TARG       23050
+#MF         3
+#MT         459
+#PRODUCT    25-MN-52-G
+#C4BEGIN    [ 2004 23050   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 23050   3 459    1.9500+7 300000.0 0.378000 0.055000           25052.0                     B.M.Ali+             (18)D4390  3 
+ 2004 23050   3 459    1.7300+7 400000.0 0.251000 0.040000           25052.0                     B.M.Ali+             (18)D4390  3 
+ 2004 23050   3 459    1.6200+7 400000.0 0.180000 0.028000           25052.0                     B.M.Ali+             (18)D4390  3 
+ 2004 23050   3 459    1.5000+7 500000.0 0.078000 0.013000           25052.0                     B.M.Ali+             (18)D4390  3 
+#/DATA      4
+#/DATASET

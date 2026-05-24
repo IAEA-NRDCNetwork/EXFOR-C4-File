@@ -1,0 +1,29 @@
+#ENTRY      32812
+#AUTHOR1    Junhua Luo+
+#YEAR       2020
+#INSTITUTE  (3CPRHXU)
+#TITLE      Cross-sections for (n,2n),(n,a),(n,p),(n,d),and (n,t)
+#+          reactions on molybdenum isotopes in the neutron
+#+          energy range of 13 to 15 MeV
+#AUTHOR(S)  Junhua Luo, Li Jiang
+#REF-CODE   (J,CPH/C,44,114002,2020)
+#REFERENCE  Chin.Phys.C 44 (2020) 114002 (doi:10.1088/1674-1137/abaded)
+#DATASETS   0
+#
+#DATASET    32812006 
+#DATE       20220519
+#REACTION   42-MO-94(N,2N)42-MO-93-M,,SIG
+#PROJ       1
+#TARG       42094
+#MF         3
+#MT         16
+#PRODUCT    42-MO-93-M
+#C4BEGIN    [    1 42094   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42094   3  16M   1.3500+7 200000.0 1.1000-3 1.0000-4                                       Junhua Luo+          (20)32812  6 
+    1 42094   3  16M   1.4100+7 200000.0 2.1000-3 2.0000-4                                       Junhua Luo+          (20)32812  6 
+    1 42094   3  16M   1.4800+7 200000.0 3.7000-3 3.0000-4                                       Junhua Luo+          (20)32812  6 
+#/DATA      3
+#/DATASET

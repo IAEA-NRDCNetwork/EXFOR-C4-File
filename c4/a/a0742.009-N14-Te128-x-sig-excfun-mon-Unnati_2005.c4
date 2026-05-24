@@ -1,0 +1,31 @@
+#ENTRY      A0742
+#AUTHOR1    Unnati+
+#YEAR       2005
+#INSTITUTE  (3INDMUA)
+#TITLE      A study of excitation functions for some residues
+#+          produced in the system 14-N+128-Te in the energy range
+#+          64-90 MeV
+#AUTHOR(S)  Unnati, Manoj Kumar Sharma, B.P.Singh, R.Prasad, Sunita Gupta, 
+#+          H.D.Bhardwaj, A.K.Sinha
+#REF-CODE   (J,IMP/E,14,775,2005)
+#REFERENCE  Int.J.Mod.Phys.E 14 (2005) 775 (doi:10.1142/S0218301305003545)
+#DATASETS   0
+#
+#DATASET    A0742009 
+#DATE       20070528
+#REACTION   52-TE-128(7-N-14,X)53-I-130-G,,SIG
+#PROJ       7014
+#TARG       52128
+#MF         3
+#MT         454
+#PRODUCT    53-I-130-G
+#C4BEGIN    [ 7014 52128   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014 52128   3 454    7.6000+7 700000.0 2.0000-3 5.0000-4           53130.0                     Unnati+              (05)A0742  9 
+ 7014 52128   3 454    8.1000+7 600000.0 0.028000 4.0000-3           53130.0                     Unnati+              (05)A0742  9 
+ 7014 52128   3 454    8.6000+7 500000.0 0.012000 2.0000-3           53130.0                     Unnati+              (05)A0742  9 
+ 7014 52128   3 454    9.0000+7 500000.0 2.0000-3 3.0000-4           53130.0                     Unnati+              (05)A0742  9 
+#/DATA      4
+#/DATASET

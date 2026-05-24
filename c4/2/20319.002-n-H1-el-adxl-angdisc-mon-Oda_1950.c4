@@ -1,0 +1,31 @@
+#ENTRY      20319
+#AUTHOR1    Y.Oda+
+#YEAR       1950
+#INSTITUTE  (2JPNOSA)
+#TITLE      -ON THE ANGULAR DISTRIBUTION OF 3.1 MEV NEUTRONS
+#+          SCATTERED BY PROTONS-
+#AUTHOR(S)  Y.Oda, J.Sanada, S.Yamabe
+#REF-CODE   (J,PR,80,469,5011)
+#REFERENCE  Phys.Rev. 80 (1950) 469
+#DATASETS   0
+#
+#DATASET    20319002 
+#DATE       19831122
+#REACTION   1-H-1(N,EL)1-H-1,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4   2  C 3100000.          0.166000 0.022000 0.719340                              Y.Oda+               (50)20319  2 
+    1  1001   4   2  C 3100000.          0.146000 0.017000 0.719340                              Y.Oda+               (50)20319  2 
+    1  1001   4   2  C 3100000.          0.159000 0.019000 0.719340                              Y.Oda+               (50)20319  2 
+    1  1001   4   2  C 3100000.          0.153000 0.020000 0.406730                              Y.Oda+               (50)20319  2 
+    1  1001   4   2  C 3100000.          0.157000 0.019000 0.406730                              Y.Oda+               (50)20319  2 
+    1  1001   4   2  C 3100000.          0.136000 0.019000 0.069750                              Y.Oda+               (50)20319  2 
+#/DATA      6
+#/DATASET

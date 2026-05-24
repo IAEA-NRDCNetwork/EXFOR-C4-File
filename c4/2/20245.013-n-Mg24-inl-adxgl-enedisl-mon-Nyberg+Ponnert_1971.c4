@@ -1,0 +1,32 @@
+#ENTRY      20245
+#AUTHOR1    K.Nyberg-Ponnert+
+#YEAR       1971
+#INSTITUTE  (2SWDLND)
+#TITLE      Gamma rays produced by the interaction of 15 MeV
+#+          neutrons in N, O, Mg and Al
+#AUTHOR(S)  K.Nyberg-Ponnert, B.Jonsson, I.Bergqvist
+#REF-CODE   (J,PS,4,165,1971)
+#REFERENCE  Phys.Scr. 4 (1971) 165 (doi:10.1088/0031-8949/4/4-5/004)
+#DATASETS   0
+#
+#DATASET    20245013 
+#DATE       20200921
+#REACTION   12-MG-24(N,INL)12-MG-24,PAR,DA,G
+#PROJ       1
+#TARG       12024
+#MF         14
+#MT         51
+#PRODUCT    12-MG-24
+#C4BEGIN    [    1 12024  14  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 12024  14  51 D  1.5100+7 400000.0 0.041700 6.2000-3 0.173648          1367000. 3000.000   K.Nyberg-Ponnert+    (71)20245 13 
+    1 12024  14  51 D  1.5100+7 400000.0 5.6000-3 1.1000-3 0.173648          2754000. 3000.000   K.Nyberg-Ponnert+    (71)20245 13 
+    1 12024  14  51 D  1.5100+7 400000.0 3.3000-3 5.0000-4 0.173648          3865000. 5000.000   K.Nyberg-Ponnert+    (71)20245 13 
+    1 12024  14  51 D  1.5100+7 400000.0 2.7000-3 4.0000-4 0.173648          4238000. 3000.000   K.Nyberg-Ponnert+    (71)20245 13 
+    1 12024  14  51 D  1.5100+7 400000.0 2.0000-3 4.0000-4 0.173648          4638000. 5000.000   K.Nyberg-Ponnert+    (71)20245 13 
+    1 12024  14  51 D  1.5100+7 400000.0 6.0000-4 1.0000-4 0.173648          6200000. 5000.000   K.Nyberg-Ponnert+    (71)20245 13 
+    1 12024  14  51 D  1.5100+7 400000.0 2.4000-3 4.0000-4 0.173648          6254000. 5000.000   K.Nyberg-Ponnert+    (71)20245 13 
+#/DATA      7
+#/DATASET

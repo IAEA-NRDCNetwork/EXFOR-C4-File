@@ -1,0 +1,28 @@
+#ENTRY      32544
+#AUTHOR1    Guohui Zhang+
+#YEAR       2000
+#INSTITUTE  (3CPRBJG)
+#TITLE      Differential cross section measurement for the
+#+          Li-6(n,t)reaction at 3.67 and 4.42 MeV.
+#AUTHOR(S)  Guohui Zhang, Guoyou Tang, Jinxiang Chen, Zhaomin Shi, Guangzhi Liu, 
+#+          Xuemei Zhang, Zemin Chen, Yu.M.Gledenov, M.Sedysheva, G.Khuukhenkhuu
+#REF-CODE   (J,NSE,134,312,2000)
+#REFERENCE  Nucl.Sci.Eng. 134 (2000) 312 (doi:10.13182/NSE00-A2119)
+#DATASETS   0
+#
+#DATASET    32544002 
+#DATE       20090515
+#REACTION   3-LI-6(N,T)2-HE-4,,SIG
+#PROJ       1
+#TARG       3006
+#MF         3
+#MT         105
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1  3006   3 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   3 105    3670000. 200000.0 0.106500 6.0000-3                                       Guohui Zhang+        (00)32544  2 
+    1  3006   3 105    4420000. 200000.0 0.110600 6.1000-3                                       Guohui Zhang+        (00)32544  2 
+#/DATA      2
+#/DATASET

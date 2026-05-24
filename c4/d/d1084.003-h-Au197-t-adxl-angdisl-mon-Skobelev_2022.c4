@@ -1,0 +1,29 @@
+#ENTRY      D1084
+#AUTHOR1    N.K.Skobelev+
+#YEAR       2022
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Population of excited states in 45Ti nuclei in charge
+#+          exchange reactions in a 29-MeV 3He beam
+#AUTHOR(S)  N.K.Skobelev, Yu.E.Penionzhkevich, I.Sivacek, T.Issatayev, 
+#+          G.D'Adata, V.Burjan, A.I.Kilic, J.Mrazek, V.Glagolev
+#REF-CODE   (J,PPN,53,382,2022)
+#REFERENCE  Phys.Part.Nucl. 53 (2022) 382 (doi:10.1134/S1063779622020770)
+#DATASETS   0
+#
+#DATASET    D1084003 
+#DATE       20260216
+#REACTION   79-AU-197(HE3,T)80-HG-197,,DA
+#PROJ       2003
+#TARG       79197
+#MF         4
+#MT         105
+#PRODUCT    80-HG-197
+#C4BEGIN    [ 2003 79197   4 105 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 79197   4 105 A  2.8925+7          8.2800-4 1.8400-4 0.939693                              N.K.Skobelev+        (22)D1084  3 
+ 2003 79197   4 105 A  2.8925+7          7.0200-4 1.6900-4 0.866025                              N.K.Skobelev+        (22)D1084  3 
+ 2003 79197   4 105 A  2.8925+7          1.0650-3 1.2600-4 0.500000                              N.K.Skobelev+        (22)D1084  3 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      30266
+#AUTHOR1    A.Pazsit+
+#YEAR       1975
+#INSTITUTE  (3HUNKOS)
+#TITLE      Cross section of Rh-103(n,n')Rh-103m for 2.7 and 14.8
+#+          MeV neutrons and for neutron spectra from Cf-252 and
+#+          Pu-alpha-Be sources
+#AUTHOR(S)  A.Pazsit, G.Peto, J.Csikai, I.Jozsa, J.Bacso
+#REF-CODE   (J,ARI,26,621,1975)
+#REFERENCE  Appl.Radiat.Isot. 26 (1975) 621 (doi:10.1016/0020-708X(75)90080-0)
+#DATASETS   0
+#
+#DATASET    30266005 
+#DATE       20081203
+#REACTION   45-RH-103(N,INL)45-RH-103-M,,SIG,,SPA
+#PROJ       1
+#TARG       45103
+#MF         3
+#MT         4
+#PRODUCT    45-RH-103-M
+#C4BEGIN    [    1 45103   3   4MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 45103   3   4MA  4500000.          0.918000 0.064000                                       A.Pazsit+            (75)30266  5 
+#/DATA      1
+#/DATASET

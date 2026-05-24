@@ -1,0 +1,26 @@
+#ENTRY      22235
+#AUTHOR1    H.Chatani+
+#YEAR       1992
+#INSTITUTE  (2JPNKTO)
+#TITLE      Measurement of the Th-232(n,2n)Th-231 reaction cross
+#+          section with 14.5 MeV neutrons
+#AUTHOR(S)  H.Chatani, I.Kimura
+#REF-CODE   (J,ANE,19,(8),425,1992)
+#REFERENCE  Ann.Nucl.Energy 19 No.8 (1992) 425 (doi:10.1016/0306-4549(92)90065-J)
+#DATASETS   0
+#
+#DATASET    22235002 
+#DATE       20121209
+#REACTION   90-TH-232(N,2N)90-TH-231,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         16
+#PRODUCT    90-TH-231
+#C4BEGIN    [    1 90232   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3  16    1.4500+7 200000.0 1.198000 0.065000                                       H.Chatani+           (92)22235  2 
+#/DATA      1
+#/DATASET

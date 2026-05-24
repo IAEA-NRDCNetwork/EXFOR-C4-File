@@ -1,0 +1,32 @@
+#ENTRY      E1691
+#AUTHOR1    K.A.Snover+
+#YEAR       1983
+#INSTITUTE  (1USAWAU)
+#TITLE      27Al(p,gamma)28Si and 27Al(3He,d)28Si to the stretched
+#+          11.58 MeV (6-,0) and 14.36 MeV (6-,1) levels
+#AUTHOR(S)  K.A.Snover, G.Feldman, M.M.Hindi, E.Kuhlmann, M.N.Harakeh, 
+#+          M.Sasao, M.Noumachi, Y.Fujita, M.Fujiwara, K.Hosono
+#REF-CODE   (J,PR/C,27,(2),493,198302)
+#REFERENCE  Phys.Rev.C 27 No.2 (1983) 493 (doi:10.1103/PhysRevC.27.493)
+#DATASETS   0
+#
+#DATASET    E1691014 
+#DATE       20060906
+#REACTION   13-AL-27(HE3,EL)13-AL-27,,DA
+#PROJ       2003
+#TARG       13027
+#MF         4
+#MT         2
+#PRODUCT    13-AL-27
+#C4BEGIN    [ 2003 13027   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 13027   4   2  C 4.0000+7          0.210400          0.924613                              K.A.Snover+          (83)E1691 14 
+ 2003 13027   4   2  C 4.0000+7          0.157300          0.910828                              K.A.Snover+          (83)E1691 14 
+ 2003 13027   4   2  C 4.0000+7          0.075630          0.893528                              K.A.Snover+          (83)E1691 14 
+ 2003 13027   4   2  C 4.0000+7          0.020360          0.875465                              K.A.Snover+          (83)E1691 14 
+ 2003 13027   4   2  C 4.0000+7          3.9630-3          0.857257                              K.A.Snover+          (83)E1691 14 
+ 2003 13027   4   2  C 4.0000+7          9.8940-3          0.835712                              K.A.Snover+          (83)E1691 14 
+#/DATA      6
+#/DATASET

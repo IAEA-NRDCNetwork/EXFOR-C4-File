@@ -1,0 +1,28 @@
+#ENTRY      33123
+#AUTHOR1    A.V.R.Reddy+
+#YEAR       1987
+#INSTITUTE  (3INDTRM)
+#TITLE      Isotopic yield distribution of iodine in the thermal
+#+          neutron induced fission of 241Pu
+#AUTHOR(S)  A.V.R.Reddy, S.M.Deshmukh, S.S.Manohar, S.Prakash, M.V.Ramaniah
+#REF-CODE   (P,BARC-1381,25,1987)
+#REFERENCE  Progress report BARC-1381 page 25, 1987
+#DATASETS   0
+#
+#DATASET    331230022
+#DATE       20190820
+#REACTION   94-PU-241(N,F)ELEM/MASS,IND,FY,,SPA
+#PROJ       1
+#TARG       94241
+#MF         8
+#MT         454
+#C4BEGIN    [    1 94241   8 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94241   8 454 D  0.025300          2.1000-5          53.00000 131.0000 9.000000            A.V.R.Reddy+         (87)33123  22
+    1 94241   8 454 D  0.025300          6.1700-4 6.5000-5 53.00000 132.0000 9.000000            A.V.R.Reddy+         (87)33123  22
+    1 94241   8 454 D  0.025300          6.7400-4 7.1700-4 53.00000 133.0000 9.000000            A.V.R.Reddy+         (87)33123  22
+    1 94241   8 454 D  0.025300          0.015920 1.4300-3 53.00000 134.0000 9.000000            A.V.R.Reddy+         (87)33123  22
+#/DATA      4
+#/DATASET

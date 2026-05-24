@@ -1,0 +1,45 @@
+#ENTRY      41744
+#AUTHOR1    E.Sansarbayar+
+#YEAR       2021
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Cross sections for the 35Cl(n,alpha)32P reaction in
+#+          the 3.3 - 5.3 MeV neutron energy region
+#AUTHOR(S)  E.Sansarbayar, Yu.M.Gledenov, I.Chuprakov, G.Khuukhenkhuu, 
+#+          G.S.Ahmadov, L.Krupa, Guohui Zhang, Haoyu Jiang, Zengqi Cui, 
+#+          Yiwei Hu, Jie Liu, N.Battsooj, I.Wilhelm, M.Solar, R.Sykora, 
+#+          Z.Kohout
+#REF-CODE   (J,PR/C,104,044620,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) 044620 (doi:10.1103/PhysRevC.104.044620)
+#DATASETS   0
+#
+#DATASET    41744002 
+#DATE       20211007
+#REACTION   17-CL-35(N,A)15-P-32,,SIG
+#PROJ       1
+#TARG       17035
+#MF         3
+#MT         107
+#PRODUCT    15-P-32
+#C4BEGIN    [    1 17035   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 17035   3 107    3300000.          0.043600 4.5000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    3900000.          0.055500 3.9000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    4300000.          0.073300 5.4000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    4300000.          0.075300 5.5000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    4300000.          0.076600 5.6000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    4300000.          0.070700 4.6000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    4300000.          0.075600 9.0000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    4500000.          0.086300 5.6000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    4500000.          0.087500 9.6000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    4800000.          0.102000 6.5000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    4800000.          0.100600 8.0000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    5000000.          0.101500 6.5000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    5000000.          0.099100 5.5000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    5100000.          0.107200 7.7000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    5100000.          0.103700 8.8000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    5300000.          0.106200 6.9000-3                                       E.Sansarbayar+       (21)41744  2 
+    1 17035   3 107    5300000.          0.126600 7.9000-3                                       E.Sansarbayar+       (21)41744  2 
+#/DATA      17
+#/DATASET

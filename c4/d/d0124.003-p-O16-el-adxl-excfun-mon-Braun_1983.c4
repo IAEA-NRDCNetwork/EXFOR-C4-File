@@ -1,0 +1,26 @@
+#ENTRY      D0124
+#AUTHOR1    M.Braun+
+#YEAR       1983
+#INSTITUTE  (2SWDIPS)
+#TITLE      Elastic backscattering cross Sections of
+#+          protons on oxygen
+#AUTHOR(S)  M.Braun, T.Fried
+#REF-CODE   (J,ZP/A,311,173,1983)
+#REFERENCE  Z.Phys.A 311 (1983) 173 (doi:10.1007/BF01415102)
+#DATASETS   0
+#
+#DATASET    D0124003 
+#DATE       20040227
+#REACTION   8-O-16(P,EL)8-O-16,,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4   2    2000000.          83.00000 3.000000-0.397148                              M.Braun+             (83)D0124  3 
+#/DATA      1
+#/DATASET

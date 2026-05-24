@@ -1,0 +1,35 @@
+#ENTRY      O0090
+#AUTHOR1    C.J.Batty+
+#YEAR       1968
+#INSTITUTE  (2UK NIN)
+#TITLE      Excitation of isobaric analogue states in (p,n)
+#+          reactions at 30 and 50 MeV and the isospin dependence
+#+          of the optical model.
+#AUTHOR(S)  C.J.Batty, B.E.Bonner, E.Friedman, C.Tschalar, L.E.Williams, 
+#+          A.S.Clough, J.B.Hunt
+#REF-CODE   (J,NP/A,116,643,1968)
+#REFERENCE  Nucl.Phys.A 116 (1968) 643 (doi:10.1016/0375-9474(68)90397-7)
+#DATASETS   0
+#
+#DATASET    O0090010 
+#DATE       20140121
+#REACTION   41-NB-93(P,N)42-MO-93,PAR,DA
+#PROJ       1001
+#TARG       41093
+#MF         4
+#MT         50
+#PRODUCT    42-MO-93
+#C4BEGIN    [ 1001 41093   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 41093   4  50    3.0400+7          7.4400-3 7.4400-4 1.000000          1.0912+7         LVLC.J.Batty+           (68)O0090 10 
+ 1001 41093   4  50    3.0400+7          7.0500-3 7.0500-4 0.999391          1.0912+7         LVLC.J.Batty+           (68)O0090 10 
+ 1001 41093   4  50    3.0400+7          4.2300-3 4.2300-4 0.984808          1.0912+7         LVLC.J.Batty+           (68)O0090 10 
+ 1001 41093   4  50    3.0400+7          1.0700-3 1.0700-4 0.939693          1.0912+7         LVLC.J.Batty+           (68)O0090 10 
+ 1001 41093   4  50    3.0400+7          3.0000-4 3.0000-5 0.866025          1.0912+7         LVLC.J.Batty+           (68)O0090 10 
+ 1001 41093   4  50    3.0400+7          6.0000-4 6.0000-5 0.766044          1.0912+7         LVLC.J.Batty+           (68)O0090 10 
+ 1001 41093   4  50    3.0400+7          8.8000-4 8.8000-5 0.642788          1.0912+7         LVLC.J.Batty+           (68)O0090 10 
+ 1001 41093   4  50    3.0400+7          3.8000-4 3.8000-5 0.500000          1.0912+7         LVLC.J.Batty+           (68)O0090 10 
+#/DATA      8
+#/DATASET

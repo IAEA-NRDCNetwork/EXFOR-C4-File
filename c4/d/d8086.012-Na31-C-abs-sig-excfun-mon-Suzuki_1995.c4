@@ -1,0 +1,28 @@
+#ENTRY      D8086
+#AUTHOR1    T.Suzuki+
+#YEAR       1995
+#INSTITUTE  (2JPNIPC)
+#TITLE      Neutron skin of Na isotopes studied via their
+#+          interaction cross sections
+#AUTHOR(S)  T.Suzuki, H.Geissel, O.Bochkarev, L.Chulkov, M.Golovkov, 
+#+          D.Hirata, H.Irnich, Z.Janas, H.Keller, T.Kobayashi, G.Kraus, 
+#+          G.Muenzenberg, S.Neumaier, F.Nickel, A.Ozawa, A.Piechaczeck, 
+#+          E.Roeckl, W.Schwab, K.Suemmerer, K.Yoshida, I.Tanihata
+#REF-CODE   (J,PRL,75,3241,1995)
+#REFERENCE  Phys.Rev.Lett. 75 (1995) 3241 (doi:10.1103/PhysRevLett.75.3241)
+#DATASETS   0
+#
+#DATASET    D8086012 
+#DATE       20241016
+#REACTION   6-C-0(11-NA-31,ABS),,SIG
+#PROJ       11031
+#TARG       6000
+#MF         3
+#MT         27
+#C4BEGIN    [11031  6000   3  27 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+11031  6000   3  27 A  2.945+10          1.358000 0.041000                                       T.Suzuki++           (95)D8086 12 
+#/DATA      1
+#/DATASET

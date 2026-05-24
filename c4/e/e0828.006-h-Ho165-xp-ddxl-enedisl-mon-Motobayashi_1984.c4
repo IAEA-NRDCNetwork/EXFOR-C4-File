@@ -1,0 +1,39 @@
+#ENTRY      E0828
+#AUTHOR1    T.Motobayashi+
+#YEAR       1984
+#INSTITUTE  (2JPNOSA)
+#TITLE      Breakup process for 100 MeV 3He interacting with 165Ho
+#+          and 166, 167Er nuclei
+#AUTHOR(S)  T.Motobayashi, H.Ejiri, T.Shibata, K.Okada, M.Sasao, K.Maeda, 
+#+          H.Suzuki, A.Shimizu, H.Sakai
+#REF-CODE   (J,NP/A,413,(2),290,198401)
+#REFERENCE  Nucl.Phys.A 413 No.2 (1984) 290 (doi:10.1016/0375-9474(84)90376-2)
+#DATASETS   0
+#
+#DATASET    E0828006 
+#DATE       20080612
+#REACTION   67-HO-165(HE3,X)1-H-1,,DA/DE
+#PROJ       2003
+#TARG       67165
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 2003 67165   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 67165   6 203    1.0000+8          1.5660-9          0.573576          7869000.          E2T.Motobayashi+       (84)E0828  6 
+ 2003 67165   6 203    1.0000+8          2.2570-9          0.573576          1.2980+7          E2T.Motobayashi+       (84)E0828  6 
+ 2003 67165   6 203    1.0000+8          2.2550-9          0.573576          1.7540+7          E2T.Motobayashi+       (84)E0828  6 
+ 2003 67165   6 203    1.0000+8          2.4950-9          0.573576          2.2640+7          E2T.Motobayashi+       (84)E0828  6 
+ 2003 67165   6 203    1.0000+8          2.2980-9          0.573576          2.7740+7          E2T.Motobayashi+       (84)E0828  6 
+ 2003 67165   6 203    1.0000+8          1.8360-9          0.573576          3.2700+7          E2T.Motobayashi+       (84)E0828  6 
+ 2003 67165   6 203    1.0000+8          1.4080-9          0.573576          3.7660+7          E2T.Motobayashi+       (84)E0828  6 
+ 2003 67165   6 203    1.0000+8          9.177-10          0.573576          4.2750+7          E2T.Motobayashi+       (84)E0828  6 
+ 2003 67165   6 203    1.0000+8          5.743-10          0.573576          4.7700+7          E2T.Motobayashi+       (84)E0828  6 
+ 2003 67165   6 203    1.0000+8          3.246-10          0.573576          5.2650+7          E2T.Motobayashi+       (84)E0828  6 
+ 2003 67165   6 203    1.0000+8          1.138-10          0.573576          5.7450+7          E2T.Motobayashi+       (84)E0828  6 
+ 2003 67165   6 203    1.0000+8          7.802-11          0.573576          6.2540+7          E2T.Motobayashi+       (84)E0828  6 
+ 2003 67165   6 203    1.0000+8          2.819-11          0.573576          6.7610+7          E2T.Motobayashi+       (84)E0828  6 
+#/DATA      13
+#/DATASET

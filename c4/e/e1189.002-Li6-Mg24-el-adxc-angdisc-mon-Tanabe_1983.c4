@@ -1,0 +1,38 @@
+#ENTRY      E1189
+#AUTHOR1    T.Tanabe+
+#YEAR       1983
+#INSTITUTE  (2JPNTOK)
+#TITLE      (6Li,d) reactions on 24Mg and 26Mg at 73 MeV
+#AUTHOR(S)  T.Tanabe, K.Haga, M.Yasue, K.Sato, K.Ogino, Y.Kadota, M.Tochi, 
+#+          K.Makino, T.Kitahara, T.Shiba
+#REF-CODE   (J,NP/A,399,(1),241,198303)
+#REFERENCE  Nucl.Phys.A 399 No.1 (1983) 241 (doi:10.1016/0375-9474(83)90606-1)
+#DATASETS   0
+#
+#DATASET    E1189002 
+#DATE       20080131
+#REACTION   12-MG-24(3-LI-6,EL)12-MG-24,,DA,,RTH
+#PROJ       3006
+#TARG       12024
+#MF         4
+#MT         2
+#PRODUCT    12-MG-24
+#C4BEGIN    [ 3006 12024   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 12024   4   2  C 7.2700+7          1.423077          0.984899                              T.Tanabe+            (83)E1189  2 
+ 3006 12024   4   2  C 7.2700+7          1.065229          0.980615                              T.Tanabe+            (83)E1189  2 
+ 3006 12024   4   2  C 7.2700+7          0.887233          0.976409                              T.Tanabe+            (83)E1189  2 
+ 3006 12024   4   2  C 7.2700+7          0.220746          0.966376                              T.Tanabe+            (83)E1189  2 
+ 3006 12024   4   2  C 7.2700+7          0.038750          0.952926                              T.Tanabe+            (83)E1189  2 
+ 3006 12024   4   2  C 7.2700+7          0.070103          0.939931                              T.Tanabe+            (83)E1189  2 
+ 3006 12024   4   2  C 7.2700+7          0.023510          0.924613                              T.Tanabe+            (83)E1189  2 
+ 3006 12024   4   2  C 7.2700+7          1.8828-3 1.9645-4 0.904827                              T.Tanabe+            (83)E1189  2 
+ 3006 12024   4   2  C 7.2700+7          7.3336-3          0.884825                              T.Tanabe+            (83)E1189  2 
+ 3006 12024   4   2  C 7.2700+7          4.4544-3          0.864626                              T.Tanabe+            (83)E1189  2 
+ 3006 12024   4   2  C 7.2700+7          5.4510-4 8.2985-5 0.840472                              T.Tanabe+            (83)E1189  2 
+ 3006 12024   4   2  C 7.2700+7          6.2973-4 9.5855-5 0.818952                              T.Tanabe+            (83)E1189  2 
+ 3006 12024   4   2  C 7.2700+7          7.9236-4 7.4821-5 0.793141                              T.Tanabe+            (83)E1189  2 
+#/DATA      13
+#/DATASET

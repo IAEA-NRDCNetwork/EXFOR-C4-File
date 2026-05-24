@@ -1,0 +1,95 @@
+#ENTRY      D8032
+#AUTHOR1    X.Pereira-Lopez+
+#YEAR       2020
+#INSTITUTE  (2SPNSAU)
+#TITLE      Low-lying single-particle structure of 17C and the
+#+          N=14 sub-shell closure
+#AUTHOR(S)  X.Pereira-Lopez, B.Fernandez-Dominguez, F.Delaunay, N.L.Achouri, 
+#+          N.A.Orr, W.N.Catford, M.Assie, S.Bailey, B.Bastin, Y.Blumenfeld, 
+#+          R.Borcea, M.Caamano, L.Caceres, E.Clement, A.Corsi, N.Curtis, 
+#+          Q.Deshayes, F.Farget, M.Fisichella, G.de France, S.Franchoo, 
+#+          M.Freer, J.Gibelin, A.Gillibert, G.F.Grinyer, F.Hammache, 
+#+          O.Kamalou, A.Knapton, T.Kokalova, V.Lapoux, J.A.Lay, B.Le Crom, 
+#+          S.Leblond, J.Lois-Fuentes, F.M.Marques, A.Matta, P.Morfouace, 
+#+          A.M.Moro, T.Otsuka, J.Pancin, L.Perrot, J.Piot, E.Pollacco, 
+#+          D.Ramos, C.Rodriguez-Tajes, T.Roger, F.Rotaru, M.Senoville, 
+#+          N.de Sereville, R.Smith, O.Sorlin, M.Stanoiu, I.Stefan, 
+#+          C.Stodel, D.Suzuki, T.Suzuki, J.C.Thomas, N.Timofeyuk, M.Vandebrouck, 
+#+          J.Walshe, C.Wheldon
+#REF-CODE   (J,PL/B,811,135939,2020)
+#REFERENCE  Phys.Lett.B 811 (2020) 135939 (doi:10.1016/j.physletb.2020.135939)
+#DATASETS   0
+#
+#DATASET    D8032002 
+#DATE       20210330
+#REACTION   1-H-2(6-C-16,P)6-C-17,PAR,DA
+#PROJ       6016
+#TARG       1002
+#MF         4
+#MT         600
+#PRODUCT    6-C-17
+#C4BEGIN    [ 6016  1002   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6016  1002   4 600    2.7520+8 6880000. 1.4020-3 7.5317-5-0.342020          0.000000         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 2.0080-3 9.0095-5-0.461749          0.000000         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 3.0180-3 1.2950-4-0.559193          0.000000         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 2.9079-3 1.7345-4-0.642788          0.000000         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 3.3301-3 1.6577-4-0.719340          0.000000         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 3.2327-3 2.1203-4-0.784235          0.000000         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 2.4122-3 1.4150-4-0.846193          0.000000         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 2.4446-3 1.7246-4-0.900319          0.000000         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 2.6893-3 1.4713-4-0.941764          0.000000         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 1.6984-3 2.6538-4-0.969659          0.000000         LVLX.Pereira-Lopez+     (20)D8032  2 
+#/DATA      10
+#/DATASET
+#
+#DATASET    D8032002 
+#DATE       20210330
+#REACTION   1-H-2(6-C-16,P)6-C-17,PAR,DA
+#PROJ       6016
+#TARG       1002
+#MF         4
+#MT         600
+#PRODUCT    6-C-17
+#C4BEGIN    [ 6016  1002   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6016  1002   4 600    2.7520+8 6880000. 7.2248-5 4.0411-5-0.342020          217000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 1.9487-5 1.2189-5-0.507538          217000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 6.6900-6 1.5766-5-0.642788          217000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 8.7343-5 5.9843-5-0.719340          217000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 3.1043-4 1.2976-4-0.784235          217000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 2.5223-4 1.0759-4-0.846193          217000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 1.4182-4 9.1165-5-0.900319          217000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 5.0815-4 1.8527-4-0.941764          217000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 5.9818-4 2.9762-4-0.969659          217000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+#/DATA      9
+#/DATASET
+#
+#DATASET    D8032002 
+#DATE       20210330
+#REACTION   1-H-2(6-C-16,P)6-C-17,PAR,DA
+#PROJ       6016
+#TARG       1002
+#MF         4
+#MT         600
+#PRODUCT    6-C-17
+#C4BEGIN    [ 6016  1002   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6016  1002   4 600    2.7520+8 6880000. 1.0599-3 1.6076-4-0.342020          335000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 1.8145-3 2.3193-4-0.461749          335000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 2.6303-3 3.1249-4-0.559193          335000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 2.8482-3 3.3839-4-0.642788          335000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 3.1400-3 3.7319-4-0.719340          335000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 2.8043-3 4.0510-4-0.784235          335000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 2.7569-3 3.6960-4-0.846193          335000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 2.4894-3 3.9664-4-0.900319          335000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 3.2763-3 4.8854-4-0.941764          335000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+ 6016  1002   4 600    2.7520+8 6880000. 1.3872-3 4.6993-4-0.969659          335000.0         LVLX.Pereira-Lopez+     (20)D8032  2 
+#/DATA      10
+#/DATASET

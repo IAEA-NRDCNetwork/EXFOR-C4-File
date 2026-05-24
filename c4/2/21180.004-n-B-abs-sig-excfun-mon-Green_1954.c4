@@ -1,0 +1,25 @@
+#ENTRY      21180
+#AUTHOR1    A.Green+
+#YEAR       1954
+#INSTITUTE  (2UK HAR)
+#TITLE      -The thermal neutron absorption cross-section of boron
+#AUTHOR(S)  A.Green, D.J.Littler, E.E.Lockett, V.G.Small, A.H.Spurway, 
+#+          E.Bowell
+#REF-CODE   (J,JNE,1,144,195412)
+#REFERENCE  J.Nucl.Energy 1 (1954) 144 (doi:10.1016/0891-3919(54)90007-8)
+#DATASETS   0
+#
+#DATASET    21180004 
+#DATE       20090715
+#REACTION   5-B-0(N,ABS),,SIG
+#PROJ       1
+#TARG       5000
+#MF         3
+#MT         27
+#C4BEGIN    [    1  5000   3  27  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5000   3  27    0.025300          785.0000 8.000000                                       A.Green+             (54)21180  4 
+#/DATA      1
+#/DATASET

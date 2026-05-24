@@ -1,0 +1,38 @@
+#ENTRY      A0587
+#AUTHOR1    Xu Yanbing+
+#YEAR       2002
+#INSTITUTE  (3CPRIMP)
+#TITLE      Cross sections of barium isotopes in the interaction of
+#+          60 MeV/nucleon 18O with 238U
+#AUTHOR(S)  Xu Yanbing, Yang Weifan, Yuan Shuanggui, Xiao Yonghou, Pan Qiangyan, 
+#+          Li Yingjun
+#REF-CODE   (J,JRN,251,341,2002)
+#REFERENCE  J.Rad.Nucl.Chem. 251 (2002) 341 (doi:10.1023/A:1014801302057)
+#DATASETS   0
+#
+#DATASET    A0587002 
+#DATE       20040213
+#REACTION   92-U-238(8-O-16,F)ELEM/MASS,CUM,SIG
+#PROJ       8016
+#TARG       92238
+#MF         3
+#MT         459
+#C4BEGIN    [ 8016 92238   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 92238   3 459    9.6000+8          1.1000-3 2.0000-4           56126.9                     Xu Yanbing+          (02)A0587  2 
+ 8016 92238   3 459    9.6000+8          4.2000-3 6.0000-4           56127.9                     Xu Yanbing+          (02)A0587  2 
+ 8016 92238   3 459    9.6000+8          3.1000-3 5.0000-4           56128.9                     Xu Yanbing+          (02)A0587  2 
+ 8016 92238   3 459    9.6000+8          4.2000-3 6.0000-4           56129.0                     Xu Yanbing+          (02)A0587  2 
+ 8016 92238   3 459    9.6000+8          2.5000-3 4.0000-4           56129.1                     Xu Yanbing+          (02)A0587  2 
+ 8016 92238   3 459    9.6000+8          5.8000-3 9.0000-4           56131.0                     Xu Yanbing+          (02)A0587  2 
+ 8016 92238   3 459    9.6000+8          5.1000-3 8.0000-4           56131.1                     Xu Yanbing+          (02)A0587  2 
+ 8016 92238   3 459    9.6000+8          3.7000-3 6.0000-4           56133.1                     Xu Yanbing+          (02)A0587  2 
+ 8016 92238   3 459    9.6000+8          3.4000-3 5.0000-4           56135.1                     Xu Yanbing+          (02)A0587  2 
+ 8016 92238   3 459    9.6000+8          9.9000-3 1.5000-3           56139.9                     Xu Yanbing+          (02)A0587  2 
+ 8016 92238   3 459    9.6000+8          0.016400 2.5000-3           56140.9                     Xu Yanbing+          (02)A0587  2 
+ 8016 92238   3 459    9.6000+8          0.011000 1.7000-3           56141.9                     Xu Yanbing+          (02)A0587  2 
+ 8016 92238   3 459    9.6000+8          0.011500 1.7000-3           56142.9                     Xu Yanbing+          (02)A0587  2 
+#/DATA      13
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      D4388
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2018
+#INSTITUTE  (3HUNDEB)
+#TITLE      Activation cross-sections of proton induced reactions
+#+          on natHf in the 38-65 MeV energy range: Production of
+#+          172Lu and of 169Yb
+#AUTHOR(S)  F.Tarkanyi, A.Hermanne, F.Ditroi, S.Takacs, A.V.Ignatyuk
+#REF-CODE   (J,NIM/B,427,20,2018)
+#REFERENCE  Nucl.Instrum.Meth.B 427 (2018) 20 (doi:10.1016/j.nimb.2018.04.036)
+#DATASETS   0
+#
+#DATASET    D4388009 
+#DATE       20180919
+#REACTION   72-HF-0(P,X)72-HF-179-M2,,SIG
+#PROJ       1001
+#TARG       72000
+#MF         3
+#MT         454
+#PRODUCT    72-HF-179-M2
+#C4BEGIN    [ 1001 72000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 72000   3 454    6.2730+7 290000.0 6.5000-4 4.2000-4           72179.2                     F.Tarkanyi+          (18)D4388  9 
+ 1001 72000   3 454    5.9910+7 420000.0 4.7000-4 4.6000-4           72179.2                     F.Tarkanyi+          (18)D4388  9 
+ 1001 72000   3 454    5.8940+7 470000.0 9.5000-4 6.1000-4           72179.2                     F.Tarkanyi+          (18)D4388  9 
+ 1001 72000   3 454    5.5960+7 610000.0 7.6000-4 2.6000-4           72179.2                     F.Tarkanyi+          (18)D4388  9 
+ 1001 72000   3 454    4.9550+7 920000.0 4.4000-4 4.6000-4           72179.2                     F.Tarkanyi+          (18)D4388  9 
+ 1001 72000   3 454    4.8410+7 980000.0 6.8000-4 5.5000-4           72179.2                     F.Tarkanyi+          (18)D4388  9 
+ 1001 72000   3 454    4.6070+7 1090000. 3.7000-4 6.4000-4           72179.2                     F.Tarkanyi+          (18)D4388  9 
+ 1001 72000   3 454    4.4870+7 1150000. 3.2000-4 5.5000-4           72179.2                     F.Tarkanyi+          (18)D4388  9 
+ 1001 72000   3 454    4.1060+7 1330000. 4.1000-4 2.8000-4           72179.2                     F.Tarkanyi+          (18)D4388  9 
+#/DATA      9
+#/DATASET

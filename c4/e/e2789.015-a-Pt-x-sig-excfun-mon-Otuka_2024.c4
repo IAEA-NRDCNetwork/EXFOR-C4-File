@@ -1,0 +1,29 @@
+#ENTRY      E2789
+#AUTHOR1    N.Otuka+
+#YEAR       2024
+#INSTITUTE  (3ZZZIAE)
+#TITLE      Isomer production studied with simultaneous decay
+#+          curve analysis for alpha-particle induced reactions on
+#+          natural platinum up to 29 MeV
+#AUTHOR(S)  N.Otuka, S.Takacs, M.Aikawa, S.Ebata, H.Haba
+#REF-CODE   (J,EPJ/A,60,195,2024)
+#REFERENCE  Eur.Phys.J.A 60 (2024) 195 (doi:10.1140/epja/s10050-024-01383-7)
+#DATASETS   0
+#
+#DATASET    E2789015 
+#DATE       20250531
+#REACTION   78-PT-0(A,X)79-AU-196-G+M1,,SIG
+#PROJ       2004
+#TARG       78000
+#MF         3
+#MT         454
+#PRODUCT    79-AU-196-G+M1
+#C4BEGIN    [ 2004 78000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 78000   3 454    2.8400+7 600000.0 2.4270-3 3.0000-5           79196.8                     N.Otuka+             (24)E2789 15 
+ 2004 78000   3 454    2.6400+7 600000.0 9.7300-4 6.5000-5           79196.8                     N.Otuka+             (24)E2789 15 
+ 2004 78000   3 454    2.4200+7 600000.0 1.6800-4 3.2000-5           79196.8                     N.Otuka+             (24)E2789 15 
+#/DATA      3
+#/DATASET

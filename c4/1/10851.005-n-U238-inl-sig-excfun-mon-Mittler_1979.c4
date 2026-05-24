@@ -1,0 +1,39 @@
+#ENTRY      10851
+#AUTHOR1    A.Mittler+
+#YEAR       1979
+#INSTITUTE  (1USALTI)
+#TITLE      Neutron inelastic scattering cross sections of 238U
+#+          via (n,n'gamma)
+#AUTHOR(S)  A.Mittler, G.P.Couchell, W.A.Schier, S.Ashar, J.H.Chang, 
+#+          T.Y.Wang
+#REF-CODE   (C,79KNOX,,680,197910)
+#REFERENCE  Proceedings of Conf.on Nucl.Cross Sections F.Techn.,Knoxville 1979 page 680
+#DATASETS   0
+#
+#DATASET    10851005 
+#DATE       20130523
+#REACTION   92-U-238(N,INL)92-U-238,PAR,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         51
+#PRODUCT    92-U-238
+#C4BEGIN    [    1 92238   3  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3  51    1381000.          0.034300 5.3890-3                   1279200.         LVLA.Mittler+           (79)10851  5 
+    1 92238   3  51    1403000.          0.018530 5.7880-3                   1279200.         LVLA.Mittler+           (79)10851  5 
+    1 92238   3  51    1486000.          0.073650 6.5780-3                   1279200.         LVLA.Mittler+           (79)10851  5 
+    1 92238   3  51    1520000.          0.069020 6.5820-3                   1279200.         LVLA.Mittler+           (79)10851  5 
+    1 92238   3  51    1545000.          0.076570 5.9720-3                   1279200.         LVLA.Mittler+           (79)10851  5 
+    1 92238   3  51    1573000.          0.080120 5.9770-3                   1279200.         LVLA.Mittler+           (79)10851  5 
+    1 92238   3  51    1640000.          0.113500 9.5620-3                   1279200.         LVLA.Mittler+           (79)10851  5 
+    1 92238   3  51    1685000.          0.066830 5.9750-3                   1279200.         LVLA.Mittler+           (79)10851  5 
+    1 92238   3  51    1770000.          0.085470 5.7800-3                   1279200.         LVLA.Mittler+           (79)10851  5 
+    1 92238   3  51    1790000.          0.105000 5.9820-3                   1279200.         LVLA.Mittler+           (79)10851  5 
+    1 92238   3  51    1843000.          0.103700 7.5740-3                   1279200.         LVLA.Mittler+           (79)10851  5 
+    1 92238   3  51    1884000.          0.070580 6.7770-3                   1279200.         LVLA.Mittler+           (79)10851  5 
+    1 92238   3  51    1972000.          0.086420 5.9840-3                   1279200.         LVLA.Mittler+           (79)10851  5 
+#/DATA      13
+#/DATASET

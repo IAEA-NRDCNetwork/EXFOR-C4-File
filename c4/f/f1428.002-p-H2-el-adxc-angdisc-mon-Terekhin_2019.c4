@@ -1,0 +1,74 @@
+#ENTRY      F1428
+#AUTHOR1    A.A.Terekhin+
+#YEAR       2019
+#INSTITUTE  (4ZZZDUB)
+#TITLE      The differential cross section in deuteron-proton
+#+          elastic scattering at 500, 750 and 900 MeV/nucleon.
+#AUTHOR(S)  A.A.Terekhin, V.P.Ladygin, Yu.V.Gurchin, A.Yu.Isupov, M.Janek, 
+#+          A.N.Khrenov, A.K.Kurilkin, P.K.Kurilkin, N.B.Ladygina, S.M.Piyadin, 
+#+          S.G.Reznikov
+#REF-CODE   (J,EPJ/A,55,129,2019)
+#REFERENCE  Eur.Phys.J.A 55 (2019) 129 (doi:10.1140/epja/i2019-12817-0)
+#DATASETS   0
+#
+#DATASET    F1428002 
+#DATE       20200708
+#REACTION   (1-H-1(D,EL)1-H-1,,DA)=(1-H-2(P,EL)1-H-2,,DA)
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001  1002   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4   2 AC 5.0000+8          6.1540-5 1.2800-6 0.243615                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 5.0000+8          5.7700-5 8.3000-7 0.151261                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 5.0000+8          3.4560-5 9.4000-7-0.284015                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 5.0000+8          3.5620-5 6.5000-7-0.382683                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 5.0000+8          3.3450-5 5.8000-7-0.449319                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 5.0000+8          3.4190-5 9.4000-7-0.495459                              A.A.Terekhin+        (19)F1428  2 
+#/DATA      6
+#/DATASET
+#
+#DATASET    F1428002 
+#DATE       20200708
+#REACTION   (1-H-1(D,EL)1-H-1,,DA)=(1-H-2(P,EL)1-H-2,,DA)
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001  1002   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4   2 AC 7.5000+8          2.5190-5 2.0700-6 0.192522                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 7.5000+8          2.4930-5 1.4100-6 0.109734                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 7.5000+8          1.8820-5 1.8800-6 0.020942                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 7.5000+8          1.8030-5 2.1000-6-0.068015                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 7.5000+8          1.4510-5 2.0800-6-0.151261                              A.A.Terekhin+        (19)F1428  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    F1428002 
+#DATE       20200708
+#REACTION   (1-H-1(D,EL)1-H-1,,DA)=(1-H-2(P,EL)1-H-2,,DA)
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001  1002   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4   2 AC 9.0000+8          1.7970-5 1.1700-6 0.243615                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 9.0000+8          1.0000-5 9.3000-7 0.064532                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 9.0000+8          5.2100-6 9.3000-7-0.111469                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 9.0000+8          3.4500-6 4.8000-7-0.201078                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 9.0000+8          4.3300-6 7.0000-7-0.245307                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 9.0000+8          3.1400-6 7.4000-7-0.364877                              A.A.Terekhin+        (19)F1428  2 
+#/DATA      6
+#/DATASET

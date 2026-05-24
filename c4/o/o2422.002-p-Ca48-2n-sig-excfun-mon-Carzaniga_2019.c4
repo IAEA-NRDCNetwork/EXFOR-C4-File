@@ -1,0 +1,34 @@
+#ENTRY      O2422
+#AUTHOR1    T.S.Carzaniga+
+#YEAR       2019
+#INSTITUTE  (2SWTUBE)
+#TITLE      Cross-section measurement of 44mSc,47Sc, 48Sc and
+#+          47Ca for an optimized 47Sc production with an 18 MeV
+#+          medical PET cyclotron
+#AUTHOR(S)  T.S.Carzaniga, S.Braccini
+#REF-CODE   (J,ARI,143,18,2019)
+#REFERENCE  Appl.Radiat.Isot. 143 (2019) 18 (doi:10.1016/j.apradiso.2018.10.015)
+#DATASETS   0
+#
+#DATASET    O2422002 
+#DATE       20201023
+#REACTION   20-CA-48(P,2N)21-SC-47,,SIG
+#PROJ       1001
+#TARG       20048
+#MF         3
+#MT         16
+#PRODUCT    21-SC-47
+#C4BEGIN    [ 1001 20048   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20048   3  16    1.8400+7 500000.0 1.107000 0.056000                                       T.S.Carzaniga+       (19)O2422  2 
+ 1001 20048   3  16    1.7200+7 500000.0 1.105000 0.057000                                       T.S.Carzaniga+       (19)O2422  2 
+ 1001 20048   3  16    1.6000+7 500000.0 1.058000 0.055000                                       T.S.Carzaniga+       (19)O2422  2 
+ 1001 20048   3  16    1.4600+7 500000.0 0.967000 0.049000                                       T.S.Carzaniga+       (19)O2422  2 
+ 1001 20048   3  16    1.3200+7 600000.0 0.755000 0.039000                                       T.S.Carzaniga+       (19)O2422  2 
+ 1001 20048   3  16    1.1600+7 600000.0 0.342000 0.018000                                       T.S.Carzaniga+       (19)O2422  2 
+ 1001 20048   3  16    9900000. 600000.0 0.016000 3.0000-3                                       T.S.Carzaniga+       (19)O2422  2 
+ 1001 20048   3  16    8900000. 700000.0 0.000000                                                T.S.Carzaniga+       (19)O2422  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      32637
+#AUTHOR1    Li Yingjun+
+#YEAR       1984
+#INSTITUTE  (3CPRIMP)
+#TITLE      Isomeric cross-section ratio for the reaction
+#+          Rb-85(n,2n) by 14.7 MeV neutrons.
+#AUTHOR(S)  Li Yingjun, Yan Weifan
+#REF-CODE   (J,PHE,8,(2),241,198403)
+#REFERENCE  High En.Nucl.Phy.Ch. 8 No.2 (1984) 241
+#DATASETS   0
+#
+#DATASET    32637002T
+#DATE       20100219
+#REACTION   37-RB-85(N,2N)37-RB-84,,SIG
+#PROJ       1
+#TARG       37085
+#MF         3
+#MT         16
+#PRODUCT    37-RB-84
+#C4BEGIN    [    1 37085   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 37085   3  16    1.4700+7 400000.0 1.122000 0.135000                                       Li Yingjun+          (84)32637  2T
+#/DATA      1
+#/DATASET

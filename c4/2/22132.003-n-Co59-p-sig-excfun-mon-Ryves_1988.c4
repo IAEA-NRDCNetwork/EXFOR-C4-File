@@ -1,0 +1,25 @@
+#ENTRY      22132
+#AUTHOR1    T.B.Ryves+
+#YEAR       1988
+#INSTITUTE  (2UK NPL)
+#TITLE      Cobalt cross sections for 14 MeV neutrons
+#AUTHOR(S)  T.B.Ryves, P.Kolkowski, S.M.Judge
+#REF-CODE   (J,ANE,15,561,198812)
+#REFERENCE  Ann.Nucl.Energy 15 (1988) 561 (doi:10.1016/0306-4549(88)90060-6)
+#DATASETS   0
+#
+#DATASET    22132003 
+#DATE       20140104
+#REACTION   27-CO-59(N,P)26-FE-59,,SIG
+#PROJ       1
+#TARG       27059
+#MF         3
+#MT         103
+#PRODUCT    26-FE-59
+#C4BEGIN    [    1 27059   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   3 103    1.4300+7          0.051900 1.1000-3                                       T.B.Ryves+           (88)22132  3 
+#/DATA      1
+#/DATASET

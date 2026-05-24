@@ -1,0 +1,41 @@
+#ENTRY      10298
+#AUTHOR1    L.R.Fawcett+
+#YEAR       1972
+#INSTITUTE  (1USAVIP)
+#TITLE      Neutron Capture Cross Sections in the keV Region for
+#+          154Sm, 160Gd, 164Dy, and 165Ho
+#AUTHOR(S)  L.R.Fawcett, A.K.Furr, J.G.Lindsay
+#REF-CODE   (J,NSE,49,317,197211)
+#REFERENCE  Nucl.Sci.Eng. 49 (1972) 317 (doi:10.13182/NSE72-A22545)
+#DATASETS   0
+#
+#DATASET    10298004 
+#DATE       20011227
+#REACTION   64-GD-160(N,G)64-GD-161,,SIG
+#PROJ       1
+#TARG       64160
+#MF         3
+#MT         102
+#PRODUCT    64-GD-161
+#C4BEGIN    [    1 64160   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 64160   3 102 A  5000.000 2000.000 0.281000 0.078000                                       L.R.Fawcett+         (72)10298  4 
+    1 64160   3 102 A  10000.00          0.145000                                                L.R.Fawcett+         (72)10298  4 
+    1 64160   3 102 A  15000.00          0.112000                                                L.R.Fawcett+         (72)10298  4 
+    1 64160   3 102 A  20000.00          0.087500                                                L.R.Fawcett+         (72)10298  4 
+    1 64160   3 102 A  25000.00 3000.000 0.076000 0.023000                                       L.R.Fawcett+         (72)10298  4 
+    1 64160   3 102 A  30000.00          0.071000                                                L.R.Fawcett+         (72)10298  4 
+    1 64160   3 102 A  40000.00          0.057700                                                L.R.Fawcett+         (72)10298  4 
+    1 64160   3 102 A  50000.00          0.055800                                                L.R.Fawcett+         (72)10298  4 
+    1 64160   3 102 A  60000.00          0.053300                                                L.R.Fawcett+         (72)10298  4 
+    1 64160   3 102 A  70000.00          0.051800                                                L.R.Fawcett+         (72)10298  4 
+    1 64160   3 102 A  80000.00          0.058000                                                L.R.Fawcett+         (72)10298  4 
+    1 64160   3 102 A  90000.00          0.036800                                                L.R.Fawcett+         (72)10298  4 
+    1 64160   3 102 A  100000.0          0.034500                                                L.R.Fawcett+         (72)10298  4 
+    1 64160   3 102 A  120000.0          0.028100                                                L.R.Fawcett+         (72)10298  4 
+    1 64160   3 102 A  140000.0          0.028800                                                L.R.Fawcett+         (72)10298  4 
+    1 64160   3 102 A  160000.0 9000.000 0.026200 8.4000-3                                       L.R.Fawcett+         (72)10298  4 
+#/DATA      16
+#/DATASET

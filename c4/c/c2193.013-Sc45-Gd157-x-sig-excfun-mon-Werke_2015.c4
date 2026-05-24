@@ -1,0 +1,27 @@
+#ENTRY      C2193
+#AUTHOR1    T.A.Werke+
+#YEAR       2015
+#INSTITUTE  (1USATAM)
+#TITLE      Hot fusion-evaporation cross sections of 45Sc-induced
+#+          reactions with lanthanide targets
+#AUTHOR(S)  T.A.Werke, D.A.Mayorov, M.C.Alfonso, M.E.Bennett, M.J.Devanzo, 
+#+          M.M.Frey, E.E.Tereshatov, C.M.Folden Iii
+#REF-CODE   (J,PR/C,92,034613,2015)
+#REFERENCE  Phys.Rev.C 92 (2015) 034613 (doi:10.1103/PhysRevC.92.034613)
+#DATASETS   0
+#
+#DATASET    C2193013 
+#DATE       20151102
+#REACTION   64-GD-157(21-SC-45,X)84-PO-196,,SIG
+#PROJ       21045
+#TARG       64157
+#MF         3
+#MT         454
+#PRODUCT    84-PO-196
+#C4BEGIN    [21045 64157   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+21045 64157   3 454    8.0933+7          6.9000-6 3.4500-6           84196.9                     T.A.Werke+           (15)C2193 13 
+#/DATA      1
+#/DATASET

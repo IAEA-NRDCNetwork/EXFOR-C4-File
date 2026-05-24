@@ -1,0 +1,44 @@
+#ENTRY      O2170
+#AUTHOR1    J.Dudouet+
+#YEAR       2013
+#INSTITUTE  (2FR CAE)
+#TITLE      Double-differential fragmentation cross-section
+#+          measurements of 95 MeV/nucleon 12C beams on thin
+#+          targets for hadron therapy
+#AUTHOR(S)  J.Dudouet, D.Juliani, M.Labalme, D.Cussol, J.C.Angelique, 
+#+          B.Braunn, J.Colin, Ch.Finck, J.M.Fontbonne, H.Guerin, P.Henriquet, 
+#+          J.Krimmer, M.Rousseau, M.G.Saint-Laurent, S.Salvador
+#REF-CODE   (J,PR/C,88,024606,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 024606 (doi:10.1103/PhysRevC.88.024606)
+#DATASETS   0
+#
+#DATASET    O2170003 
+#DATE       20161017
+#REACTION   6-C-0(6-C-12,X)ELEM/MASS,,SIG
+#PROJ       6012
+#TARG       6000
+#MF         3
+#MT         454
+#C4BEGIN    [ 6012  6000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  6000   3 454    1.1400+9          1.700000 0.100000            1001.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          0.790000 0.040000            1002.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          0.320000 0.020000            1003.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          0.330000 0.060000            2003.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          1.200000 0.300000            2004.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          0.049000 0.012000            2006.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          0.068000 0.011000            3006.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          0.061000 0.010000            3007.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          0.050000 8.0000-3            4007.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          0.018000 7.0000-3            4009.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          9.3000-3 2.0000-3            4010.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          6.1000-3 1.8000-3            5008.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          0.047000 0.015000            5010.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          0.060000 0.024000            5011.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          8.2000-3 3.0000-3            6010.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          0.053000 0.022000            6011.9                     J.Dudouet+           (13)O2170  3 
+ 6012  6000   3 454    1.1400+9          0.076000 0.044000            6012.9                     J.Dudouet+           (13)O2170  3 
+#/DATA      17
+#/DATASET

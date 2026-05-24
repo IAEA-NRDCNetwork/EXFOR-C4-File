@@ -1,0 +1,30 @@
+#ENTRY      C0113
+#AUTHOR1    T.N.Taddeucci+
+#YEAR       1990
+#INSTITUTE  (1USALAS)
+#TITLE      Gamow-Teller strengths from the 11B(p,n)11C reaction
+#+          in the energy range 160 - 795 MeV
+#AUTHOR(S)  T.N.Taddeucci, R.C.Byrd, T.A.Carey, D.E.Ciskowski, C.C.Foster, 
+#+          C.Gaarde, C.D.Goodman, E.Gulmez, W.Huang, D.J.Horen, J.Larsen, 
+#+          D.Marchlenski, J.B.McClelland, D.Prout, J.Rapaport, L.J.Rybarcik, 
+#+          E.Sugarbaker, I.J.Van Heerden, C.A.Whitten Jr
+#REF-CODE   (J,PR/C,42,935,1990)
+#REFERENCE  Phys.Rev.C 42 (1990) 935 (doi:10.1103/PhysRevC.42.935)
+#DATASETS   0
+#
+#DATASET    C0113002 
+#DATE       20171029
+#REACTION   5-B-11(P,N)6-C-11,PAR,DA
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         50
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  5011   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4  50 AC 1.6000+8 650000.0 4.4000-3 1.6000-4 1.000000          0.000000         LVLT.N.Taddeucci+       (90)C0113  2 
+ 1001  5011   4  50 AC 2.0000+8 365000.0 4.0500-3 1.5000-4 1.000000          0.000000         LVLT.N.Taddeucci+       (90)C0113  2 
+#/DATA      2
+#/DATASET

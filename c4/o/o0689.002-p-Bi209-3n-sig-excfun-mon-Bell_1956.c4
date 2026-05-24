@@ -1,0 +1,34 @@
+#ENTRY      O0689
+#AUTHOR1    R.E.Bell+
+#YEAR       1956
+#INSTITUTE  (1CANMCG)
+#TITLE      Cross sections of (p,xn) reactions in the isotopes of
+#+          lead and bismuth
+#AUTHOR(S)  R.E.Bell, H.M.Skarsgard
+#REF-CODE   (J,CJP,34,745,1956)
+#REFERENCE  Can.J.Phys. 34 (1956) 745 (doi:10.1139/p56-086)
+#DATASETS   0
+#
+#DATASET    O0689002 
+#DATE       20230122
+#REACTION   83-BI-209(P,3N)84-PO-207,,SIG
+#PROJ       1001
+#TARG       83209
+#MF         3
+#MT         17
+#PRODUCT    84-PO-207
+#C4BEGIN    [ 1001 83209   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 83209   3  17    2.1900+7          0.370000 0.055500                                       R.E.Bell+            (56)O0689  2 
+ 1001 83209   3  17    2.4800+7          0.570000 0.085500                                       R.E.Bell+            (56)O0689  2 
+ 1001 83209   3  17    2.7700+7          0.790000 0.118500                                       R.E.Bell+            (56)O0689  2 
+ 1001 83209   3  17    3.0700+7          0.820000 0.123000                                       R.E.Bell+            (56)O0689  2 
+ 1001 83209   3  17    3.3700+7          0.560000 0.084000                                       R.E.Bell+            (56)O0689  2 
+ 1001 83209   3  17    3.6600+7          0.340000 0.051000                                       R.E.Bell+            (56)O0689  2 
+ 1001 83209   3  17    3.9800+7          0.220000 0.033000                                       R.E.Bell+            (56)O0689  2 
+ 1001 83209   3  17    4.6400+7          0.110000 0.016500                                       R.E.Bell+            (56)O0689  2 
+ 1001 83209   3  17    5.0400+7          0.080000 0.012000                                       R.E.Bell+            (56)O0689  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      30764
+#AUTHOR1    J.R.Morales+
+#YEAR       1991
+#INSTITUTE  (3CHLSAN)
+#TITLE      Total neutron cross section measurements on C,Al,Mg,
+#+          Cu,Ge and Pb at energies around 20 MeV.
+#AUTHOR(S)  J.R.Morales, L.O.Figueroa, P.Martens, J.L.Romero, R.L.Vallejos
+#REF-CODE   (J,NIM/A,300,312,1991)
+#REFERENCE  Nucl.Instrum.Meth.A 300 (1991) 312 (doi:10.1016/0168-9002(91)90442-S)
+#DATASETS   0
+#
+#DATASET    30764007 
+#DATE       20090908
+#REACTION   82-PB-0(N,TOT),,SIG
+#PROJ       1
+#TARG       82000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 82000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   3   1    1.7600+7          5.310000 0.260000                                       J.R.Morales+         (91)30764  7 
+    1 82000   3   1    1.9800+7          6.020000 0.290000                                       J.R.Morales+         (91)30764  7 
+#/DATA      2
+#/DATASET

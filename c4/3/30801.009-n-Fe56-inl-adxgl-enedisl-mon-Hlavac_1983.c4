@@ -1,0 +1,33 @@
+#ENTRY      30801
+#AUTHOR1    S.Hlavac+
+#YEAR       1983
+#INSTITUTE  (3SLKSLO)
+#TITLE      Gamma-ray production cross sections and gamma-ray
+#+          multiplicities from Fe and Ni bombarded with
+#+          14.6 MeV neutrons
+#AUTHOR(S)  S.Hlavac, P.Oblozinsky
+#REF-CODE   (R,INDC(CSR)-5,198311)
+#REFERENCE  Report INDC(CSR)-5, 1983
+#DATASETS   0
+#
+#DATASET    30801009 
+#DATE       20090909
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,DA,G
+#PROJ       1
+#TARG       26056
+#MF         14
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056  14  51 A  1.4600+7 100000.0 0.039200 4.8000-3 6.123-17          847000.0            S.Hlavac+            (83)30801  9 
+    1 26056  14  51 A  1.4600+7 100000.0 3.8400-3 5.3000-4 6.123-17          1038000.            S.Hlavac+            (83)30801  9 
+    1 26056  14  51 A  1.4600+7 100000.0 0.019600 2.7000-3 6.123-17          1238000.            S.Hlavac+            (83)30801  9 
+    1 26056  14  51 A  1.4600+7 100000.0 4.3200-3 6.6000-4 6.123-17          1303000.            S.Hlavac+            (83)30801  9 
+    1 26056  14  51 A  1.4600+7 100000.0 2.3900-3 3.7000-4 6.123-17          1671000.            S.Hlavac+            (83)30801  9 
+    1 26056  14  51 A  1.4600+7 100000.0 3.3200-3 5.0000-4 6.123-17          1811000.            S.Hlavac+            (83)30801  9 
+    1 26056  14  51 A  1.4600+7 100000.0 1.0200-3 2.3000-4 6.123-17          2113000.            S.Hlavac+            (83)30801  9 
+#/DATA      7
+#/DATASET

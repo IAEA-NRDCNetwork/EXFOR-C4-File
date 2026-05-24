@@ -1,0 +1,26 @@
+#ENTRY      12397
+#AUTHOR1    H.A.Bethe+
+#YEAR       1955
+#INSTITUTE  (1USALAS)
+#TITLE      INELASTIC CROSS SECTIONS AND NU(BAR) FOR SOME
+#+          FISSIONABLE ISOTOPES.
+#AUTHOR(S)  H.A.Bethe, J.R.Beyster, R.E.Carter, R.L.Henkel, R.A.Nobles
+#REF-CODE   (R,LA-1939,5508)
+#REFERENCE  Report LA-1939, 1955
+#DATASETS   0
+#
+#DATASET    12397002 
+#DATE       19820519
+#REACTION   92-U-235(N,F),PR,NU
+#PROJ       1
+#TARG       92235
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92235   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   1 456    4000000.          3.130000 0.310000                                       H.A.Bethe+           (55)12397  2 
+    1 92235   1 456    4500000.          3.260000 0.330000                                       H.A.Bethe+           (55)12397  2 
+#/DATA      2
+#/DATASET

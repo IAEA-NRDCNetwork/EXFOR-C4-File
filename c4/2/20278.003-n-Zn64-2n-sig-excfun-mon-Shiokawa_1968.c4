@@ -1,0 +1,32 @@
+#ENTRY      20278
+#AUTHOR1    T.Shiokawa+
+#YEAR       1968
+#INSTITUTE  (2JPNTOH)
+#TITLE      -THE F-19(N,2N)F-18 REACTION AS A 14-MEV NEUTRON
+#+          FLUX MONITOR-
+#AUTHOR(S)  T.Shiokawa, M.Yagi, H.Kaji, T.Sasaki
+#REF-CODE   (J,JIN,30,1,6801)
+#REFERENCE  J.Inorg.Nucl.Chem. 30 (1968) 1
+#DATASETS   0
+#
+#DATASET    20278003 
+#DATE       19831122
+#REACTION   30-ZN-64(N,2N)30-ZN-63,,SIG
+#PROJ       1
+#TARG       30064
+#MF         3
+#MT         16
+#PRODUCT    30-ZN-63
+#C4BEGIN    [    1 30064   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 30064   3  16    1.3500+7 100000.0 0.081000 4.0000-3                                       T.Shiokawa+          (68)20278  3 
+    1 30064   3  16    1.3600+7 100000.0 0.089000 4.0000-3                                       T.Shiokawa+          (68)20278  3 
+    1 30064   3  16    1.4100+7 100000.0 0.122000 6.0000-3                                       T.Shiokawa+          (68)20278  3 
+    1 30064   3  16    1.4500+7 200000.0 0.148000 8.0000-3                                       T.Shiokawa+          (68)20278  3 
+    1 30064   3  16    1.4600+7 200000.0 0.153000 8.0000-3                                       T.Shiokawa+          (68)20278  3 
+    1 30064   3  16    1.4700+7 200000.0 0.155000 8.0000-3                                       T.Shiokawa+          (68)20278  3 
+    1 30064   3  16    1.4800+7 200000.0 0.156000 8.0000-3                                       T.Shiokawa+          (68)20278  3 
+#/DATA      7
+#/DATASET

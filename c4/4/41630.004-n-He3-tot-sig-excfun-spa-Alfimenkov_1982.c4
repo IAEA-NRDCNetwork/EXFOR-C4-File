@@ -1,0 +1,27 @@
+#ENTRY      41630
+#AUTHOR1    V.P.Alfimenkov+
+#YEAR       1982
+#INSTITUTE  (4ZZZDUB)
+#TITLE      The energy dependence of the total cross-section for
+#+          interaction between neutrons and He3 nuclei in the
+#+          range 0.025-250 eV .
+#AUTHOR(S)  V.P.Alfimenkov, S.B.Borzakov, Ya.Vezhbitski, A.M.Govorov, 
+#+          L.B.Pikel'ner, E.I.Sharapov
+#REF-CODE   (R,INDC(CCP)-0177,27,1982)
+#REFERENCE  Report INDC(CCP)-0177 page 27, 1982
+#DATASETS   0
+#
+#DATASET    41630004 
+#DATE       20091127
+#REACTION   2-HE-3(N,TOT),,SIG,,RTE/SPA
+#PROJ       1
+#TARG       2003
+#MF         3
+#MT         1
+#C4BEGIN    [    1  2003   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  2003   3   1    0.095000 0.075000 2753.221 3.893314                                       V.P.Alfimenkov+      (82)41630  4 
+#/DATA      1
+#/DATASET

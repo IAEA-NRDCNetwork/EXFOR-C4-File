@@ -1,0 +1,29 @@
+#ENTRY      D0564
+#AUTHOR1    F.A.Souza+
+#YEAR       2009
+#INSTITUTE  (3BZLUSP)
+#TITLE      Reaction mechanisms in the 6Li+59Co system
+#AUTHOR(S)  F.A.Souza, C.Beck, N.Carlin, N.Keeley, R.Liguori Neto, M.M.De Moura, 
+#+          M.G.Munhoz, M.G.Del Santo, A.A.P.Suaide, E.M.Szanto, A.Szanto De Toledo
+#REF-CODE   (J,NP/A,821,36,2009)
+#REFERENCE  Nucl.Phys.A 821 (2009) 36 (doi:10.1016/j.nuclphysa.2009.02.009)
+#DATASETS   0
+#
+#DATASET    D0564009 
+#DATE       20090325
+#REACTION   27-CO-59(3-LI-6,X)1-H-2,,SIG
+#PROJ       3006
+#TARG       27059
+#MF         3
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 3006 27059   3 204 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 27059   3 204 D  1.7400+7          0.086000 8.0000-3                                       F.A.Souza+           (09)D0564  9 
+ 3006 27059   3 204 D  2.1500+7          0.140000 0.010000                                       F.A.Souza+           (09)D0564  9 
+ 3006 27059   3 204 D  2.5500+7          0.175000 0.015000                                       F.A.Souza+           (09)D0564  9 
+ 3006 27059   3 204 D  2.9600+7          0.217000 0.015000                                       F.A.Souza+           (09)D0564  9 
+#/DATA      4
+#/DATASET

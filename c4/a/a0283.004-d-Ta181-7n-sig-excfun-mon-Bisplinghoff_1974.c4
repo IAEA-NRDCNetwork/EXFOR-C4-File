@@ -1,0 +1,45 @@
+#ENTRY      A0283
+#AUTHOR1    J.Bisplinghoff+
+#YEAR       1974
+#INSTITUTE  (2GERBON)
+#TITLE      Analysis of (particle,xn) reactions on tantalum and
+#+          gold
+#+          (III) Excitation functions of d-induced reactions on
+#+          181-Ta from 10 to 80 MeV and equilibrium statistical
+#+          analysis
+#AUTHOR(S)  J.Bisplinghoff, J.Ernst, T.Mayer-Kuckuk, P.Jahn, C.Mayer-Boericke
+#REF-CODE   (J,NP/A,228,180,1974)
+#REFERENCE  Nucl.Phys.A 228 (1974) 180 (doi:10.1016/0375-9474(74)90454-0)
+#DATASETS   0
+#
+#DATASET    A0283004 
+#DATE       20210122
+#REACTION   73-TA-181(D,7N)74-W-176,,SIG
+#PROJ       1002
+#TARG       73181
+#MF         3
+#MT         160
+#PRODUCT    74-W-176
+#C4BEGIN    [ 1002 73181   3 160  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 73181   3 160    5.4500+7 240000.0 0.017100                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    5.6300+7 240000.0 0.065900                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    5.8000+7 240000.0 0.115000                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    5.9700+7 240000.0 0.199000                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    6.1400+7 240000.0 0.325000                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    6.3200+7 240000.0 0.334000                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    6.4800+7 240000.0 0.499000                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    6.6500+7 240000.0 0.508000                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    6.8100+7 240000.0 0.558000                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    6.9700+7 240000.0 0.547000                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    7.1300+7 240000.0 0.564000                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    7.2800+7 240000.0 0.498000                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    7.4300+7 240000.0 0.533000                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    7.5600+7 240000.0 0.490000                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    7.7000+7 240000.0 0.480000                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    7.8500+7 240000.0 0.420000                                                J.Bisplinghoff+      (74)A0283  4 
+ 1002 73181   3 160    7.9800+7 240000.0 0.471000                                                J.Bisplinghoff+      (74)A0283  4 
+#/DATA      17
+#/DATASET

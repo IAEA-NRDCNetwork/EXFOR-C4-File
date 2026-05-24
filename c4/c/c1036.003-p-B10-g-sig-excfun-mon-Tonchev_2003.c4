@@ -1,0 +1,30 @@
+#ENTRY      C1036
+#AUTHOR1    A.P.Tonchev+
+#YEAR       2003
+#INSTITUTE  (1USATNL)
+#TITLE      The 10B(p(pol),gamma)11C reaction at astrophysically
+#+          relevant energies
+#AUTHOR(S)  A.P.Tonchev, S.O.Nelson, K.Sabourov, B.T.Crowley, K.Joshi, 
+#+          H.R.Weller, J.H.Kelley, R.M.Prior, M.Spraker, N.Kalantar-Nayestanaki
+#REF-CODE   (J,PR/C,68,045803,2003)
+#REFERENCE  Phys.Rev.C 68 (2003) 045803 (doi:10.1103/PhysRevC.68.045803)
+#DATASETS   0
+#
+#DATASET    C1036003 
+#DATE       20040624
+#REACTION   5-B-10(P,G)6-C-11,,SIG,,SFC
+#PROJ       1001
+#TARG       5010
+#MF         3
+#MT         102
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  5010   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5010   3 102 A  92455.17          5.4495-9 1.1501-9                                       A.P.Tonchev+         (03)C1036  3 
+ 1001  5010   3 102 A  110065.7          1.1810-8 2.4872-9                                       A.P.Tonchev+         (03)C1036  3 
+ 1001  5010   3 102 A  118871.0          1.1491-8 1.3851-9                                       A.P.Tonchev+         (03)C1036  3 
+ 1001  5010   3 102 A  146387.7          1.8175-8 1.5578-9                                       A.P.Tonchev+         (03)C1036  3 
+#/DATA      4
+#/DATASET

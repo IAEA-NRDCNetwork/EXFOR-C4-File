@@ -1,0 +1,44 @@
+#ENTRY      E1695
+#AUTHOR1    H.Ohnuma+
+#YEAR       1986
+#INSTITUTE  (2JPNTIT)
+#TITLE      A comparative study of the 13C(p,p')13C and
+#+          13C(p,n)13N reactions at Ep=35 MeV
+#AUTHOR(S)  H.Ohnuma, B.A.Brown, D.Dehnhard, K.Furukawa, T.Hasegawa, 
+#+          S.Hayakawa, N.Hoshino, K.Ieki, M.Kabasawa, K.Maeda, K.Miura, 
+#+          K.Muto, T.Nakagawa, K.Nisimura, H.Orihara, T.Suehiro, T.Tohei, 
+#+          M.Yasue
+#REF-CODE   (J,NP/A,456,(1),61,198608)
+#REFERENCE  Nucl.Phys.A 456 No.1 (1986) 61 (doi:10.1016/0375-9474(86)90366-0)
+#DATASETS   0
+#
+#DATASET    E1695002 
+#DATE       20060713
+#REACTION   6-C-13(P,EL)6-C-13,,DA,,RTH
+#PROJ       1001
+#TARG       6013
+#MF         4
+#MT         2
+#PRODUCT    6-C-13
+#C4BEGIN    [ 1001  6013   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6013   4   2  C 3.5000+7          0.926133          0.961165                              H.Ohnuma+            (86)E1695  2 
+ 1001  6013   4   2  C 3.5000+7          0.751810          0.934764                              H.Ohnuma+            (86)E1695  2 
+ 1001  6013   4   2  C 3.5000+7          0.474318          0.899253                              H.Ohnuma+            (86)E1695  2 
+ 1001  6013   4   2  C 3.5000+7          0.251291          0.853460                              H.Ohnuma+            (86)E1695  2 
+ 1001  6013   4   2  C 3.5000+7          0.108812          0.796530                              H.Ohnuma+            (86)E1695  2 
+ 1001  6013   4   2  C 3.5000+7          0.046876          0.738455                              H.Ohnuma+            (86)E1695  2 
+ 1001  6013   4   2  C 3.5000+7          0.021266          0.670427                              H.Ohnuma+            (86)E1695  2 
+ 1001  6013   4   2  C 3.5000+7          0.014716          0.592294                              H.Ohnuma+            (86)E1695  2 
+ 1001  6013   4   2  C 3.5000+7          0.016085          0.526956                              H.Ohnuma+            (86)E1695  2 
+ 1001  6013   4   2  C 3.5000+7          0.016189          0.453368                              H.Ohnuma+            (86)E1695  2 
+ 1001  6013   4   2  C 3.5000+7          0.010686          0.271104                              H.Ohnuma+            (86)E1695  2 
+ 1001  6013   4   2  C 3.5000+7          5.0939-3          0.098625                              H.Ohnuma+            (86)E1695  2 
+ 1001  6013   4   2  C 3.5000+7          2.1436-3         -0.077067                              H.Ohnuma+            (86)E1695  2 
+ 1001  6013   4   2  C 3.5000+7          1.1428-3         -0.245307                              H.Ohnuma+            (86)E1695  2 
+ 1001  6013   4   2  C 3.5000+7          7.0664-4         -0.414693                              H.Ohnuma+            (86)E1695  2 
+ 1001  6013   4   2  C 3.5000+7          5.0258-4         -0.559193                              H.Ohnuma+            (86)E1695  2 
+#/DATA      16
+#/DATASET

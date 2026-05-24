@@ -1,0 +1,28 @@
+#ENTRY      33209
+#AUTHOR1    H.B.Sachhidananda+
+#YEAR       2024
+#INSTITUTE  (3INDTRM)
+#TITLE      Measurement of 112Cd(n,2n)111mCd and 112Cd(n,p)112Ag
+#+          reaction cross sections at the neutron energy of
+#+          14.54 MeV and covariance analysis
+#AUTHOR(S)  H.B.Sachhidananda, S.R.Manohara, A.M.Sunitha, S.V.Suryanarayana, 
+#+          H.Naik, I.Pasha
+#REF-CODE   (J,JRN,333,5629,2024)
+#REFERENCE  J.Rad.Nucl.Chem. 333 (2024) 5629 (doi:10.1007/s10967-024-09580-w)
+#DATASETS   0
+#
+#DATASET    33209003 
+#DATE       20250902
+#REACTION   48-CD-112(N,P)47-AG-112,,SIG
+#PROJ       1
+#TARG       48112
+#MF         3
+#MT         103
+#PRODUCT    47-AG-112
+#C4BEGIN    [    1 48112   3 103 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 48112   3 103 C  1.4540+7 240000.0 0.022140 6.9763-3                                       H.B.Sachhidananda    (24)33209  3 
+#/DATA      1
+#/DATASET

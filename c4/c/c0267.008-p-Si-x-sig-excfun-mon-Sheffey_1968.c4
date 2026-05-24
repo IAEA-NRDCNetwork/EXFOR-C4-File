@@ -1,0 +1,29 @@
+#ENTRY      C0267
+#AUTHOR1    D.W.Sheffey+
+#YEAR       1968
+#INSTITUTE  (1USATEN)
+#TITLE      EXCITATION FUNCTIONS FOR RADIOACTIVE ISOTOPES PRODUCED
+#+          BY PROTON-INDUCED REACTIONS IN SILICON
+#AUTHOR(S)  D.W.Sheffey, I.R.Williams, C.B.Fulmer
+#REF-CODE   (J,PR,172,1094,68)
+#REFERENCE  Phys.Rev. 172 (1968) 1094 (doi:10.1103/PhysRev.172.1094)
+#DATASETS   0
+#
+#DATASET    C0267008 
+#DATE       19871119
+#REACTION   14-SI-0(P,X)4-BE-7,,SIG
+#PROJ       1001
+#TARG       14000
+#MF         3
+#MT         454
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001 14000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14000   3 454    3.1500+7          2.0000-5                     4007.9                     D.W.Sheffey+         (68)C0267  8 
+ 1001 14000   3 454    4.9500+7          2.2000-4                     4007.9                     D.W.Sheffey+         (68)C0267  8 
+ 1001 14000   3 454    5.5500+7          4.4000-4                     4007.9                     D.W.Sheffey+         (68)C0267  8 
+ 1001 14000   3 454    5.9500+7          6.7000-4                     4007.9                     D.W.Sheffey+         (68)C0267  8 
+#/DATA      4
+#/DATASET

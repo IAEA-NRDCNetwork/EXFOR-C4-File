@@ -1,0 +1,54 @@
+#ENTRY      11404
+#AUTHOR1    R.C.Block+
+#YEAR       1958
+#INSTITUTE  (1USADKE)
+#TITLE      Neutron Resonances in the keV Region:
+#+          Differential Scattering Cross Sections.
+#AUTHOR(S)  R.C.Block, W.Haeberli, H.W.Newson
+#REF-CODE   (J,PR,109,1620,1958)
+#REFERENCE  Phys.Rev. 109 (1958) 1620 (doi:10.1103/PhysRev.109.1620)
+#DATASETS   0
+#
+#DATASET    11404028 
+#DATE       20200419
+#REACTION   48-CD-0(N,EL)48-CD-0,,DA,,4PI
+#PROJ       1
+#TARG       48000
+#MF         4
+#MT         2
+#PRODUCT    48-CD-0
+#C4BEGIN    [    1 48000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 48000   4   2    56000.00          0.453592 0.015915 6.123-17                              R.C.Block+           (58)11404 28 
+    1 48000   4   2    66000.00          0.437676          6.123-17                              R.C.Block+           (58)11404 28 
+    1 48000   4   2    75000.00          0.453592          6.123-17                              R.C.Block+           (58)11404 28 
+    1 48000   4   2    83000.00          0.461549          6.123-17                              R.C.Block+           (58)11404 28 
+    1 48000   4   2    90000.00          0.453592          6.123-17                              R.C.Block+           (58)11404 28 
+    1 48000   4   2    97000.00          0.453592          6.123-17                              R.C.Block+           (58)11404 28 
+    1 48000   4   2    104000.0          0.477465          6.123-17                              R.C.Block+           (58)11404 28 
+#/DATA      7
+#/DATASET
+#
+#DATASET    11404028 
+#DATE       20200419
+#REACTION   48-CD-0(N,EL)48-CD-0,,DA,,4PI
+#PROJ       1
+#TARG       48000
+#MF         4
+#MT         2
+#PRODUCT    48-CD-0
+#C4BEGIN    [    1 48000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 48000   4   2    56000.00          0.405845         -1.000000                              R.C.Block+           (58)11404 28 
+    1 48000   4   2    66000.00          0.405845 0.023873-1.000000                              R.C.Block+           (58)11404 28 
+    1 48000   4   2    75000.00          0.421761         -1.000000                              R.C.Block+           (58)11404 28 
+    1 48000   4   2    83000.00          0.421761         -1.000000                              R.C.Block+           (58)11404 28 
+    1 48000   4   2    90000.00          0.429718         -1.000000                              R.C.Block+           (58)11404 28 
+    1 48000   4   2    97000.00          0.350141         -1.000000                              R.C.Block+           (58)11404 28 
+    1 48000   4   2    104000.0          0.413803 0.039789-1.000000                              R.C.Block+           (58)11404 28 
+#/DATA      7
+#/DATASET

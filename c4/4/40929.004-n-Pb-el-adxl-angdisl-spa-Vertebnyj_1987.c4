@@ -1,0 +1,34 @@
+#ENTRY      40929
+#AUTHOR1    V.P.Vertebnyj+
+#YEAR       1987
+#INSTITUTE  (4UKRIJD)
+#TITLE      Filtered medium and thermal neutron beams and their use
+#AUTHOR(S)  V.P.Vertebnyj, A.V.Murzin, V.A.Pshenichnyj, L.L.Litvinskij, 
+#+          Pak En Men
+#REF-CODE   (S,IAEA-TECDOC-410,257,1987)
+#REFERENCE  Report (proceedings) IAEA-TECDOC-410 page 257, 1987
+#DATASETS   0
+#
+#DATASET    40929004 
+#DATE       20240208
+#REACTION   82-PB-0(N,EL)82-PB-0,,DA,,SPA
+#PROJ       1
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [    1 82000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   4   2    144000.0 12500.00 1.040000          0.866025                              V.P.Vertebnyj+       (87)40929  4 
+    1 82000   4   2    144000.0 12500.00 0.980000          0.707107                              V.P.Vertebnyj+       (87)40929  4 
+    1 82000   4   2    144000.0 12500.00 0.850000          0.500000                              V.P.Vertebnyj+       (87)40929  4 
+    1 82000   4   2    144000.0 12500.00 0.760000          0.258819                              V.P.Vertebnyj+       (87)40929  4 
+    1 82000   4   2    144000.0 12500.00 0.700000          6.123-17                              V.P.Vertebnyj+       (87)40929  4 
+    1 82000   4   2    144000.0 12500.00 0.650000         -0.258819                              V.P.Vertebnyj+       (87)40929  4 
+    1 82000   4   2    144000.0 12500.00 0.610000         -0.500000                              V.P.Vertebnyj+       (87)40929  4 
+    1 82000   4   2    144000.0 12500.00 0.580000         -0.707107                              V.P.Vertebnyj+       (87)40929  4 
+    1 82000   4   2    144000.0 12500.00 0.580000         -0.866025                              V.P.Vertebnyj+       (87)40929  4 
+#/DATA      9
+#/DATASET

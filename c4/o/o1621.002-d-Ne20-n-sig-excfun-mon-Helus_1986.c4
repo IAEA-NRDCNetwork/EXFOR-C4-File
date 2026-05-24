@@ -1,0 +1,33 @@
+#ENTRY      O1621
+#AUTHOR1    F.Helus+
+#YEAR       1986
+#INSTITUTE  (2GERDKZ)
+#TITLE      A feasibility study of the cyclotron production of
+#+          Na-21.
+#AUTHOR(S)  F.Helus, W.Maier-Borst, H.Bauer, L.I.Wiebe
+#REF-CODE   (J,JRN,98,371,1986)
+#REFERENCE  J.Rad.Nucl.Chem. 98 (1986) 371 (doi:10.1007/BF02037100)
+#DATASETS   0
+#
+#DATASET    O1621002 
+#DATE       20080208
+#REACTION   10-NE-20(D,N)11-NA-21,,SIG
+#PROJ       1002
+#TARG       10020
+#MF         3
+#MT         4
+#PRODUCT    11-NA-21
+#C4BEGIN    [ 1002 10020   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 10020   3   4    500000.0          0.033000 3.3000-3                                       F.Helus+             (86)O1621  2 
+ 1002 10020   3   4    1100000.          0.190000 0.019000                                       F.Helus+             (86)O1621  2 
+ 1002 10020   3   4    2800000.          0.430000 0.043000                                       F.Helus+             (86)O1621  2 
+ 1002 10020   3   4    3500000.          0.500000 0.050000                                       F.Helus+             (86)O1621  2 
+ 1002 10020   3   4    4500000.          0.580000 0.058000                                       F.Helus+             (86)O1621  2 
+ 1002 10020   3   4    5250000.          0.560000 0.056000                                       F.Helus+             (86)O1621  2 
+ 1002 10020   3   4    8000000.          0.550000 0.055000                                       F.Helus+             (86)O1621  2 
+ 1002 10020   3   4    9350000.          0.420000 0.042000                                       F.Helus+             (86)O1621  2 
+#/DATA      8
+#/DATASET

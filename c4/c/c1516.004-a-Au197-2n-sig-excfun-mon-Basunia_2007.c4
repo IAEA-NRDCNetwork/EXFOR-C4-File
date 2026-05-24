@@ -1,0 +1,31 @@
+#ENTRY      C1516
+#AUTHOR1    M.S.Basunia+
+#YEAR       2007
+#INSTITUTE  (1USABRK)
+#TITLE      Measurement of cross sections for a-induced reactions
+#+          on 197Au and thick-target yields for the (a,g)
+#+          process on 64Zn and 63Cu
+#AUTHOR(S)  M.S.Basunia, H.A.Shugart, A.R.Smith, E.B.Norman
+#REF-CODE   (J,PR/C,75,015802,2007)
+#REFERENCE  Phys.Rev.C 75 (2007) 015802 (doi:10.1103/PhysRevC.75.015802)
+#DATASETS   0
+#
+#DATASET    C1516004 
+#DATE       20070305
+#REACTION   79-AU-197(A,2N)81-TL-199,,SIG
+#PROJ       2004
+#TARG       79197
+#MF         3
+#MT         16
+#PRODUCT    81-TL-199
+#C4BEGIN    [ 2004 79197   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 79197   3  16    2.3900+7 200000.0 0.562000 0.098000                                       M.S.Basunia+         (07)C1516  4 
+ 2004 79197   3  16    2.2200+7 400000.0 0.332000 0.058000                                       M.S.Basunia+         (07)C1516  4 
+ 2004 79197   3  16    2.0400+7 400000.0 0.071000 0.013000                                       M.S.Basunia+         (07)C1516  4 
+ 2004 79197   3  16    1.8600+7 400000.0 1.7000-3 4.0000-4                                       M.S.Basunia+         (07)C1516  4 
+ 2004 79197   3  16    1.7900+7 200000.0 2.8000-4 7.0000-5                                       M.S.Basunia+         (07)C1516  4 
+#/DATA      5
+#/DATASET

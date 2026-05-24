@@ -1,0 +1,41 @@
+#ENTRY      14451
+#AUTHOR1    J.R.Vanhoy+
+#YEAR       2018
+#INSTITUTE  (1USADLS)
+#TITLE      54Fe neutron elastic and inelastic scattering
+#+          differential cross sections from 2 - 6 MeV
+#AUTHOR(S)  J.R.Vanhoy, S.H.Liu, S.F.Hicks, B.M.Combs, B.P.Crider, A.J.French, 
+#+          E.A.Garza, T.Harrison, S.L.Henderson, T.J.Howard, M.T.McEllistrem, 
+#+          S.Nigam, R.L.Pecha, E.E.Peters, F.M.Prados-Estevez, A.P.D.Ramirez, 
+#+          B.G.Rice, T.J.Ross, Z.C.Santonil, L.C.Sidwell, J.L.Steves, 
+#+          B.K.Thompson, S.W.Yates
+#REF-CODE   (J,NP/A,972,107,2018)
+#REFERENCE  Nucl.Phys.A 972 (2018) 107 (doi:10.1016/j.nuclphysa.2018.02.004)
+#DATASETS   0
+#
+#DATASET    14451004 
+#DATE       20190522
+#REACTION   26-FE-56(N,INL)26-FE-56,,DA
+#PROJ       1
+#TARG       26056
+#MF         4
+#MT         4
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   4   4    1750000.          0.051400 2.0000-3 0.866025                              J.R.Vanhoy+          (18)14451  4 
+    1 26056   4   4    1750000.          0.051000 2.0000-3 0.766044                              J.R.Vanhoy+          (18)14451  4 
+    1 26056   4   4    1750000.          0.050500 2.0000-3 0.642788                              J.R.Vanhoy+          (18)14451  4 
+    1 26056   4   4    1750000.          0.047000 1.8000-3 0.500000                              J.R.Vanhoy+          (18)14451  4 
+    1 26056   4   4    1750000.          0.046300 1.8000-3 0.342020                              J.R.Vanhoy+          (18)14451  4 
+    1 26056   4   4    1750000.          0.049200 1.9000-3 0.173648                              J.R.Vanhoy+          (18)14451  4 
+    1 26056   4   4    1750000.          0.046600 1.8000-3 6.123-17                              J.R.Vanhoy+          (18)14451  4 
+    1 26056   4   4    1750000.          0.042200 1.7000-3-0.173648                              J.R.Vanhoy+          (18)14451  4 
+    1 26056   4   4    1750000.          0.040700 1.6000-3-0.342020                              J.R.Vanhoy+          (18)14451  4 
+    1 26056   4   4    1750000.          0.040200 1.6000-3-0.500000                              J.R.Vanhoy+          (18)14451  4 
+    1 26056   4   4    1750000.          0.038500 1.5000-3-0.642788                              J.R.Vanhoy+          (18)14451  4 
+    1 26056   4   4    1750000.          0.036600 1.4000-3-0.766044                              J.R.Vanhoy+          (18)14451  4 
+#/DATA      12
+#/DATASET

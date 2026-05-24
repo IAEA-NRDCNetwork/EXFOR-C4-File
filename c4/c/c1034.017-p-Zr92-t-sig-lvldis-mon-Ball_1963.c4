@@ -1,0 +1,26 @@
+#ENTRY      C1034
+#AUTHOR1    J.B.Ball+
+#YEAR       1963
+#INSTITUTE  (1USAORL)
+#TITLE      (p,d), (p,t), and (p,alpha) Reactions to the Same
+#+          Final States in Fe-56 and in Zr-90
+#AUTHOR(S)  J.B.Ball, C.B.Fulmer, C.D.Goodman
+#REF-CODE   (J,PR,130,2342,1963)
+#REFERENCE  Phys.Rev. 130 (1963) 2342 (doi:10.1103/PhysRev.130.2342)
+#DATASETS   0
+#
+#DATASET    C1034017 
+#DATE       20220817
+#REACTION   40-ZR-92(P,T)40-ZR-90,PAR,SIG
+#PROJ       1001
+#TARG       40092
+#MF         3
+#MT         700
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 1001 40092   3 700 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40092   3 700 D  2.2300+7          1.8300-3 2.0000-4                   0.000000         LVLJ.B.Ball+            (63)C1034 17 
+#/DATA      1
+#/DATASET

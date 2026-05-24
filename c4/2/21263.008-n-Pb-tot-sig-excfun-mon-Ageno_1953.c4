@@ -1,0 +1,25 @@
+#ENTRY      21263
+#AUTHOR1    M.Ageno+
+#YEAR       1953
+#INSTITUTE  (2ITYISR)
+#TITLE      Total cross sections of some elements with 14 MeV
+#+          neutrons
+#AUTHOR(S)  M.Ageno, G.Cortellessa, R.Querzoli
+#REF-CODE   (J,NC,10,281,1953)
+#REFERENCE  Nuovo Cim. 10 (1953) 281 (doi:10.1007/BF02786199)
+#DATASETS   0
+#
+#DATASET    21263008 
+#DATE       20211223
+#REACTION   82-PB-0(N,TOT),,SIG
+#PROJ       1
+#TARG       82000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 82000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   3   1    1.4000+7          5.820000 0.170000                                       M.Ageno+             (53)21263  8 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,88 @@
+#ENTRY      23234
+#AUTHOR1    F.Mingrone+
+#YEAR       2017
+#INSTITUTE  (2ZZZCER)
+#TITLE      Neutron capture cross section measurement of 238U at
+#+          the CERN n TOF facility in the energy region from
+#+          1 eV to 700 keV
+#AUTHOR(S)  F.Mingrone, C.Massimi, G.Vannini, N.Colonna, F.Gunsing, 
+#+          P.Zugec, S.Altstadt, J.Andrzejewski, L.Audouin, M.Barbagallo, 
+#+          V.Becares, F.Becvar, F.Belloni, E.Berthoumieux, J.Billowes, 
+#+          D.Bosnar, M.Brugger, M.Calviani, F.Calvino, D.Cano-Ott, 
+#+          C.Carrapico, F.Cerutti, E.Chiaveri, M.Chin, G.Cortes, M.A.Cortes-Giraldo, 
+#+          M.Diakaki, C.Domingo-Pardo, I.Duran, R.Dressler, C.Eleftheriadis, 
+#+          A.Ferrari, K.Fraval, S.Ganesan, A.R.Garcia, G.Giubrone, 
+#+          I.F.Goncalves, E.Gonzalez-Romero, E.Griesmayer, C.Guerrero, 
+#+          A.Hernandez-Prieto, D.G.Jenkins, E.Jericha, Y.Kadi, F.Kaeppeler, 
+#+          D.Karadimos, N.Kivel, P.Koehler, M.Kokkoris, M.Krticka, 
+#+          J.Kroll, C.Lampoudis, C.Langer, E.Leal-Cidoncha, C.Lederer, 
+#+          H.Leeb, L.S.Leong, S.Lo Meo, R.Losito, A.Mallick, A.Manousos, 
+#+          J.Marganiec, T.Martinez, P.F.Mastinu, M.Mastromarco, E.Mendoza, 
+#+          A.Mengoni, P.M.Milazzo, M.Mirea, W.Mondalaers, C.Paradela, 
+#+          A.Pavlik, J.Perkowski, A.Plompen, J.Praena, J.M.Quesada, 
+#+          T.Rauscher, R.Reifarth, A.Riego, M.S.Robles, C.Rubbia, M.Sabate-Gilarte, 
+#+          R.Sarmento, A.Saxena, P.Schillebeeckx, S.Schmidt, D.Schumann, 
+#+          G.Tagliente, J.L.Tain, D.Tarrio, L.Tassan-Got, A.Tsinganis, 
+#+          S.Valenta, V.Variale, P.Vaz, A.Ventura, M.J.Vermeulen, V.Vlachoudis, 
+#+          R.Vlastou, A.Wallner, T.Ware, M.Weigand, C.Weiss, T.Wright
+#REF-CODE   (J,PR/C,95,034604,2017)
+#REFERENCE  Phys.Rev.C 95 (2017) 034604 (doi:10.1103/PhysRevC.95.034604)
+#DATASETS   0
+#
+#DATASET    23234004 
+#DATE       20161219
+#REACTION   92-U-238(N,G)92-U-239,,SIG,,AV
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         102
+#PRODUCT    92-U-239
+#C4BEGIN    [    1 92238   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3 102 C  4500.000 1500.000 1.026000 8.9636-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  7500.000 1500.000 0.811000 0.010341                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  10500.00 1500.000 0.651000 0.010344                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  13500.00 1500.000 0.634000 0.011460                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  16500.00 1500.000 0.585000 0.011885                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  19500.00 1500.000 0.541000 0.012058                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  22500.00 1500.000 0.461000 0.011614                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  25500.00 1500.000 0.446000 0.012514                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  28500.00 1500.000 0.447000 0.012257                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  32500.00 2500.000 0.440000 0.012953                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  37500.00 2500.000 0.390000 0.015366                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  42500.00 2500.000 0.386000 0.011746                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  47500.00 2500.000 0.336000 0.010619                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  52500.00 2500.000 0.301000 0.010227                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  57500.00 2500.000 0.263000 0.010123                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  62500.00 2500.000 0.259000 9.5294-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  67500.00 2500.000 0.235000 9.1976-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  72500.00 2500.000 0.209000 8.7905-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  77500.00 2500.000 0.201000 9.2020-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  82500.00 2500.000 0.229000 0.011841                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  87500.00 2500.000 0.215000 0.012988                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  92500.00 2500.000 0.209000 0.011849                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  97500.00 2500.000 0.209000 0.010656                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  115000.0 15000.00 0.206000 4.8759-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  145000.0 15000.00 0.195000 5.2822-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  175000.0 15000.00 0.169000 4.5366-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  205000.0 15000.00 0.156000 4.3657-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  235000.0 15000.00 0.156000 4.0589-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  265000.0 15000.00 0.158000 3.9849-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  295000.0 15000.00 0.153000 4.2810-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  325000.0 15000.00 0.137000 3.9519-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  355000.0 15000.00 0.139000 3.9561-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  385000.0 15000.00 0.127000 3.7996-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  415000.0 15000.00 0.146000 4.9321-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  445000.0 15000.00 0.123000 4.7144-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  475000.0 15000.00 0.113000 3.6950-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  505000.0 15000.00 0.130000 3.8603-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  535000.0 15000.00 0.117000 3.7326-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  565000.0 15000.00 0.129000 3.9317-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  595000.0 15000.00 0.124000 4.1569-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  625000.0 15000.00 0.125000 4.9586-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  655000.0 15000.00 0.116000 5.3016-3                                       F.Mingrone+          (17)23234  4 
+    1 92238   3 102 C  685000.0 15000.00 0.117000 5.3735-3                                       F.Mingrone+          (17)23234  4 
+#/DATA      43
+#/DATASET

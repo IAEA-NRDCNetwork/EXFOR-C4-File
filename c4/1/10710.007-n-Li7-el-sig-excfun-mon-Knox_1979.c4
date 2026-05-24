@@ -1,0 +1,40 @@
+#ENTRY      10710
+#AUTHOR1    H.D.Knox+
+#YEAR       1979
+#INSTITUTE  (1USAOHO)
+#TITLE      Differential neutron scattering cross sections of
+#+          Lithium-6 and  Lithium-7 for neutrons of 4 to 7.5 MeV
+#+          energy
+#AUTHOR(S)  H.D.Knox, R.M.White, R.O.Lane
+#REF-CODE   (J,NSE,69,223,1979)
+#REFERENCE  Nucl.Sci.Eng. 69 (1979) 223 (doi:10.13182/NSE79-A20612)
+#DATASETS   0
+#
+#DATASET    10710007 
+#DATE       20090817
+#REACTION   3-LI-7(N,EL)3-LI-7,,SIG
+#PROJ       1
+#TARG       3007
+#MF         3
+#MT         2
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  3007   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3007   3   2 D  4080000.          2.400000                                                H.D.Knox+            (79)10710  7 
+    1  3007   3   2 D  4260000.          2.516000                                                H.D.Knox+            (79)10710  7 
+    1  3007   3   2 D  4570000.          2.508000                                                H.D.Knox+            (79)10710  7 
+    1  3007   3   2 D  4830000.          2.361000                                                H.D.Knox+            (79)10710  7 
+    1  3007   3   2 D  5050000.          2.372000                                                H.D.Knox+            (79)10710  7 
+    1  3007   3   2 D  5290000.          2.152000                                                H.D.Knox+            (79)10710  7 
+    1  3007   3   2 D  5540000.          1.895000                                                H.D.Knox+            (79)10710  7 
+    1  3007   3   2 D  5740000.          1.873000                                                H.D.Knox+            (79)10710  7 
+    1  3007   3   2 D  6050000.          1.847000                                                H.D.Knox+            (79)10710  7 
+    1  3007   3   2 D  6370000.          1.812000                                                H.D.Knox+            (79)10710  7 
+    1  3007   3   2 D  6660000.          1.656000                                                H.D.Knox+            (79)10710  7 
+    1  3007   3   2 D  6940000.          1.565000                                                H.D.Knox+            (79)10710  7 
+    1  3007   3   2 D  7320000.          1.408000                                                H.D.Knox+            (79)10710  7 
+    1  3007   3   2 D  7500000.          1.422000                                                H.D.Knox+            (79)10710  7 
+#/DATA      14
+#/DATASET

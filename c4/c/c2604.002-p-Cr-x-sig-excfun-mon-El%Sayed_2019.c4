@@ -1,0 +1,39 @@
+#ENTRY      C2604
+#AUTHOR1    R.El Sayed+
+#YEAR       2019
+#INSTITUTE  (1USAUAL)
+#TITLE      Manganese-52 production cross-section measurements
+#+          via irradiation of natural chromium targets up to 20
+#+          MeV
+#AUTHOR(S)  R.El Sayed, A.V.F.Massicano, S.L.Queern, Ch.S.Loveless, 
+#+          S.E.Lapi
+#REF-CODE   (J,ARI,147,165,2019)
+#REFERENCE  Appl.Radiat.Isot. 147 (2019) 165 (doi:10.1016/j.apradiso.2019.02.017)
+#DATASETS   0
+#
+#DATASET    C2604002 
+#DATE       20210320
+#REACTION   24-CR-0(P,X)25-MN-52-G,,SIG
+#PROJ       1001
+#TARG       24000
+#MF         3
+#MT         454
+#PRODUCT    25-MN-52-G
+#C4BEGIN    [ 1001 24000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24000   3 454    1.0600+7 800000.0 0.051400 8.9000-3           25052.0                     R.El Sayed+          (19)C2604  2 
+ 1001 24000   3 454    1.1300+7 600000.0 0.055200 9.4000-3           25052.0                     R.El Sayed+          (19)C2604  2 
+ 1001 24000   3 454    1.3000+7 800000.0 0.072800 0.013200           25052.0                     R.El Sayed+          (19)C2604  2 
+ 1001 24000   3 454    1.3500+7 700000.0 0.080900 0.014500           25052.0                     R.El Sayed+          (19)C2604  2 
+ 1001 24000   3 454    1.4300+7 800000.0 0.090800 0.016000           25052.0                     R.El Sayed+          (19)C2604  2 
+ 1001 24000   3 454    1.5300+7 600000.0 0.078200 0.013600           25052.0                     R.El Sayed+          (19)C2604  2 
+ 1001 24000   3 454    1.6000+7 700000.0 0.070900 0.012300           25052.0                     R.El Sayed+          (19)C2604  2 
+ 1001 24000   3 454    1.6700+7 600000.0 0.068300 0.011900           25052.0                     R.El Sayed+          (19)C2604  2 
+ 1001 24000   3 454    1.7400+7 600000.0 0.046000 8.0000-3           25052.0                     R.El Sayed+          (19)C2604  2 
+ 1001 24000   3 454    1.8400+7 600000.0 0.044400 7.6000-3           25052.0                     R.El Sayed+          (19)C2604  2 
+ 1001 24000   3 454    1.9000+7 600000.0 0.047900 8.2000-3           25052.0                     R.El Sayed+          (19)C2604  2 
+ 1001 24000   3 454    2.0200+7 700000.0 0.031900 5.5000-3           25052.0                     R.El Sayed+          (19)C2604  2 
+#/DATA      12
+#/DATASET

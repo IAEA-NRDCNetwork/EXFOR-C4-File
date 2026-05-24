@@ -1,0 +1,43 @@
+#ENTRY      C0581
+#AUTHOR1    C.W.Glover+
+#YEAR       1991
+#INSTITUTE  (1USAINU)
+#TITLE      Scattering of polarized protons from 7Li at 200 MeV
+#AUTHOR(S)  C.W.Glover, C.C.Foster, P.Schwandt, J.R.Comfort, J.Rapaport, 
+#+          T.N.Taddeucci, D.Wang, G.J.Wagner, J.Seubert, A.W.Carpenter, 
+#+          J.A.Carr, F.Petrovich, R.J.Philpott, M.J.Threapleton
+#REF-CODE   (J,PR/C,43,1664,199104)
+#REFERENCE  Phys.Rev.C 43 (1991) 1664 (doi:10.1103/PhysRevC.43.1664)
+#DATASETS   0
+#
+#DATASET    C0581004 
+#DATE       19991026
+#REACTION   3-LI-7(P,INL)3-LI-7,PAR,DA
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         601
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1001  3007   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4 601 AC 2.0040+8          1.3300-3          0.986572 1.4253-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          1.6400-3          0.979223 1.7697-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          1.6500-3          0.970296 2.1112-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          1.6600-3          0.959314 2.4639-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          1.6300-3          0.947210 2.7979-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          1.5100-3          0.933580 3.1274-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          1.3200-3          0.918446 3.4518-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          1.1200-3          0.901833 3.7707-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          9.0000-4          0.882948 4.0969-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          6.9000-4          0.863396 4.4028-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          5.7000-4          0.842452 4.7017-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          4.4000-4          0.820152 4.9929-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          3.2000-4          0.772734 5.5391-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          1.6000-4          0.719340 6.0620-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          8.1000-5          0.662620 6.5359-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          3.3000-5          0.601815 6.9694-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+ 1001  3007   4 601 AC 2.0040+8          1.3000-5          0.538771 7.3518-4 480000.0         LVLC.W.Glover+          (91)C0581  4 
+#/DATA      17
+#/DATASET

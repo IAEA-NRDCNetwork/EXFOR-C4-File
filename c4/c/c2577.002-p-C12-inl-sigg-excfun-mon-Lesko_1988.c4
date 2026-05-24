@@ -1,0 +1,32 @@
+#ENTRY      C2577
+#AUTHOR1    K.T.Lesko+
+#YEAR       1988
+#INSTITUTE  (1USABRK)
+#TITLE      Measurements of cross sections relevant to gamma-ray
+#+          line astronomy
+#AUTHOR(S)  K.T.Lesko, E.B.Norman, R.-M.Larimer, S.Kuhn, D.M.Meekhof, 
+#+          S.G.Crane, H.G.Bussell
+#REF-CODE   (J,PR/C,37,1808,1988)
+#REFERENCE  Phys.Rev.C 37 (1988) 1808 (doi:10.1103/PhysRevC.37.1808)
+#DATASETS   0
+#
+#DATASET    C2577002 
+#DATE       20200911
+#REACTION   6-C-12(P,INL)6-C-12,PAR,SIG,G
+#PROJ       1001
+#TARG       6012
+#MF         13
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012  13 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012  13 601    8895000.          0.470900 0.080053                   4438000.            K.T.Lesko+           (88)C2577  2 
+ 1001  6012  13 601    2.0000+7          0.126100 0.021437                   4438000.            K.T.Lesko+           (88)C2577  2 
+ 1001  6012  13 601    3.0000+7          0.079300 0.013481                   4438000.            K.T.Lesko+           (88)C2577  2 
+ 1001  6012  13 601    3.3000+7          0.078400 0.013328                   4438000.            K.T.Lesko+           (88)C2577  2 
+ 1001  6012  13 601    4.0000+7          0.051700 8.7890-3                   4438000.            K.T.Lesko+           (88)C2577  2 
+ 1001  6012  13 601    5.0000+7          0.022600 3.8420-3                   4438000.            K.T.Lesko+           (88)C2577  2 
+#/DATA      6
+#/DATASET

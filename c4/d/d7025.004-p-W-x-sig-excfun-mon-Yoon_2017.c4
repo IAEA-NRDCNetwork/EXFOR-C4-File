@@ -1,0 +1,30 @@
+#ENTRY      D7025
+#AUTHOR1    J.R.Yoon+
+#YEAR       2017
+#INSTITUTE  (3KORDAU)
+#TITLE      Measurement of natW(p,xn)177,178,179Re excitation
+#+          function of natural tungsten by using a 100-MeV proton
+#+          beam
+#AUTHOR(S)  J.R.Yoon, J.E.Lee, S.Y.Lee
+#REF-CODE   (J,KPS,70,47,2017)
+#REFERENCE  J.Korean.Phys.Soc. 70 (2017) 47 (doi:10.3938/jkps.70.47)
+#DATASETS   0
+#
+#DATASET    D7025004 
+#DATE       20190910
+#REACTION   74-W-0(P,X)75-RE-179,,SIG
+#PROJ       1001
+#TARG       74000
+#MF         3
+#MT         454
+#PRODUCT    75-RE-179
+#C4BEGIN    [ 1001 74000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 74000   3 454 A  7.7900+7          0.117100 0.013300           75179.9                     J.R.Yoon+            (17)D7025  4 
+ 1001 74000   3 454 A  8.3200+7          0.106400 0.014400           75179.9                     J.R.Yoon+            (17)D7025  4 
+ 1001 74000   3 454 A  8.8300+7          0.097300 0.010500           75179.9                     J.R.Yoon+            (17)D7025  4 
+ 1001 74000   3 454 A  9.3200+7          0.093100 0.011100           75179.9                     J.R.Yoon+            (17)D7025  4 
+#/DATA      4
+#/DATASET

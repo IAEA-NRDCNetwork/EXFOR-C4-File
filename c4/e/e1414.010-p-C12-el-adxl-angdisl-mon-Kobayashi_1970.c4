@@ -1,0 +1,34 @@
+#ENTRY      E1414
+#AUTHOR1    S.Kobayashi+
+#YEAR       1970
+#INSTITUTE  (2JPNJCL)
+#TITLE      SPIN FLIP IN THE INELASTIC SCATTERING OF PROTONS
+#+          FROM 12C AT ENERGIES AROUND 13.1 MEV RESONANCE
+#AUTHOR(S)  S.Kobayashi, S.Motonaga, Y.Chiba, K.Katori, A.Stricker, 
+#+          T.Fujisawa, T.Wada
+#REF-CODE   (J,JPJ,29,1,1970)
+#REFERENCE  J.Phys.Soc.Jpn. 29 (1970) 1
+#DATASETS   0
+#
+#DATASET    E1414010 
+#DATE       19940311
+#REACTION   6-C-12(P,EL)6-C-12,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4   2    1.2664+7          0.038760          0.660526                              S.Kobayashi+         (70)E1414 10 
+ 1001  6012   4   2    1.2664+7          7.4010-3          0.500302                              S.Kobayashi+         (70)E1414 10 
+ 1001  6012   4   2    1.2664+7          5.9850-3          0.337095                              S.Kobayashi+         (70)E1414 10 
+ 1001  6012   4   2    1.2664+7          0.017800          0.190980                              S.Kobayashi+         (70)E1414 10 
+ 1001  6012   4   2    1.2664+7          0.035250         -0.185667                              S.Kobayashi+         (70)E1414 10 
+ 1001  6012   4   2    1.2664+7          0.023630         -0.478692                              S.Kobayashi+         (70)E1414 10 
+ 1001  6012   4   2    1.2664+7          8.4810-3         -0.768284                              S.Kobayashi+         (70)E1414 10 
+ 1001  6012   4   2    1.2664+7          3.6470-3         -0.947768                              S.Kobayashi+         (70)E1414 10 
+#/DATA      8
+#/DATASET

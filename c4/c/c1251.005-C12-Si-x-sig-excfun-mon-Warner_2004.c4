@@ -1,0 +1,30 @@
+#ENTRY      C1251
+#AUTHOR1    R.E.Warner+
+#YEAR       2004
+#INSTITUTE  (1USAOBR)
+#TITLE      Proton removal from 8B, 9C, and 12C on Si at 20-70
+#+          MeV/nucleon
+#AUTHOR(S)  R.E.Warner, F.D.Becchetti, J.A.Brown, A.Galonsky, J.H.Kelley, 
+#+          A.Nadasen, R.M.Ronningen, J.A.Tostevin, J.S.Winfield, P.Zecher
+#REF-CODE   (J,PR/C,69,024612,2004)
+#REFERENCE  Phys.Rev.C 69 (2004) 024612 (doi:10.1103/PhysRevC.69.024612)
+#DATASETS   0
+#
+#DATASET    C1251005 
+#DATE       20050607
+#REACTION   14-SI-0(6-C-12,X)5-B-11,,SIG
+#PROJ       6012
+#TARG       14000
+#MF         3
+#MT         454
+#PRODUCT    5-B-11
+#C4BEGIN    [ 6012 14000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 14000   3 454    5.5800+8 1.5000+8 0.071000 4.0000-3            5011.9                     R.E.Warner+          (04)C1251  5 
+ 6012 14000   3 454    4.6800+8 6.0000+7 0.070000 7.0000-3            5011.9                     R.E.Warner+          (04)C1251  5 
+ 6012 14000   3 454    5.7600+8 4.8000+7 0.070000 7.0000-3            5011.9                     R.E.Warner+          (04)C1251  5 
+ 6012 14000   3 454    6.6600+8 4.2000+7 0.074000 6.0000-3            5011.9                     R.E.Warner+          (04)C1251  5 
+#/DATA      4
+#/DATASET

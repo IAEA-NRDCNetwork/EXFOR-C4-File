@@ -1,0 +1,44 @@
+#ENTRY      F0738
+#AUTHOR1    E.Becheva+
+#YEAR       2006
+#INSTITUTE  (2FR CSN)
+#TITLE      N=14 shell closure in 22O viewed through a neutron
+#+          sensitive probe.
+#AUTHOR(S)  E.Becheva, Y.Blumenfeld, E.Khan, D.Beaumel, J.M.Daugas, 
+#+          F.Delaunay, Ch-E.Demonchy, A.Drouart, M.Fallot, A.Gillibert, 
+#+          L.Giot, M.Grasso, N.Keeley, K.W.Kemper, D.T.Khoa, V.Lapoux, 
+#+          V.Lima, A.Musumarra, L.Nalpas, E.C.Pollacco, O.Roig, P.Roussel-Chomaz, 
+#+          J.E.Sauvestre, J.A.Scarpaci, F.Skaza, H.S.Than
+#REF-CODE   (J,PRL,96,012501,2006)
+#REFERENCE  Phys.Rev.Lett. 96 (2006) 012501 (doi:10.1103/PhysRevLett.96.012501)
+#DATASETS   0
+#
+#DATASET    F0738003 
+#DATE       20060823
+#REACTION   8-O-22(P,INL)8-O-22,PAR,DA
+#PROJ       1001
+#TARG       8022
+#MF         4
+#MT         601
+#PRODUCT    8-O-22
+#C4BEGIN    [ 1001  8022   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8022   4 601    4.6600+7          9.0013-3 2.4981-3 0.966196          3200000.         LVLE.Becheva+           (06)F0738  3 
+ 1001  8022   4 601    4.6600+7          5.2839-3 1.7960-3 0.956463          3200000.         LVLE.Becheva+           (06)F0738  3 
+ 1001  8022   4 601    4.6600+7          5.3804-3 1.7641-3 0.945938          3200000.         LVLE.Becheva+           (06)F0738  3 
+ 1001  8022   4 601    4.6600+7          7.1834-3 1.7539-3 0.933868          3200000.         LVLE.Becheva+           (06)F0738  3 
+ 1001  8022   4 601    4.6600+7          7.5155-3 1.5726-3 0.920866          3200000.         LVLE.Becheva+           (06)F0738  3 
+ 1001  8022   4 601    4.6600+7          6.1064-3 1.4490-3 0.906750          3200000.         LVLE.Becheva+           (06)F0738  3 
+ 1001  8022   4 601    4.6600+7          5.8371-3 1.3851-3 0.891537          3200000.         LVLE.Becheva+           (06)F0738  3 
+ 1001  8022   4 601    4.6600+7          4.5333-3 1.1984-3 0.874941          3200000.         LVLE.Becheva+           (06)F0738  3 
+ 1001  8022   4 601    4.6600+7          3.3350-3 9.8994-4 0.857572          3200000.         LVLE.Becheva+           (06)F0738  3 
+ 1001  8022   4 601    4.6600+7          1.6196-3 6.6890-4 0.839165          3200000.         LVLE.Becheva+           (06)F0738  3 
+ 1001  8022   4 601    4.6600+7          1.3159-3 6.0377-4 0.819742          3200000.         LVLE.Becheva+           (06)F0738  3 
+ 1001  8022   4 601    4.6600+7          1.0500-3 5.2139-4 0.798961          3200000.         LVLE.Becheva+           (06)F0738  3 
+ 1001  8022   4 601    4.6600+7          7.4509-4 4.2911-4 0.777563          3200000.         LVLE.Becheva+           (06)F0738  3 
+ 1001  8022   4 601    4.6600+7          1.5344-3 6.3374-4 0.755636          3200000.         LVLE.Becheva+           (06)F0738  3 
+ 1001  8022   4 601    4.6600+7          1.4020-3 6.3641-4 0.731972          3200000.         LVLE.Becheva+           (06)F0738  3 
+#/DATA      15
+#/DATASET

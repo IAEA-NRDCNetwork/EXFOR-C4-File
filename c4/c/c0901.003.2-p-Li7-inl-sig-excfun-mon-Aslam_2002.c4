@@ -1,0 +1,33 @@
+#ENTRY      C0901
+#AUTHOR1    Aslam+
+#YEAR       2002
+#INSTITUTE  (1CANMCM)
+#TITLE      Thin target 7Li(p,p'gamma)7Li inelastic gamma-ray yield
+#+          measurements
+#AUTHOR(S)  Aslam, W.V.Prestwich, F.E.McNeill
+#REF-CODE   (J,JRN,254,533,2002)
+#REFERENCE  J.Rad.Nucl.Chem. 254 (2002) 533 (doi:10.1023/A:1021646222974)
+#DATASETS   0
+#
+#DATASET    C09010032
+#DATE       20030130
+#REACTION   3-LI-7(P,INL)3-LI-7,,SIG
+#PROJ       1001
+#TARG       3007
+#MF         3
+#MT         103
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1001  3007   3 103 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   3 103 D  1800000.          0.062640                                                Aslam+               (02)C0901  32
+ 1001  3007   3 103 D  1600000.          0.045410                                                Aslam+               (02)C0901  32
+ 1001  3007   3 103 D  1400000.          0.034270                                                Aslam+               (02)C0901  32
+ 1001  3007   3 103 D  1300000.          0.033420                                                Aslam+               (02)C0901  32
+ 1001  3007   3 103 D  1150000.          0.040960                                                Aslam+               (02)C0901  32
+ 1001  3007   3 103 D  1120000.          0.042530                                                Aslam+               (02)C0901  32
+ 1001  3007   3 103 D  1050000.          0.038220                                                Aslam+               (02)C0901  32
+ 1001  3007   3 103 D  1000000.          0.020680                                                Aslam+               (02)C0901  32
+#/DATA      8
+#/DATASET

@@ -1,0 +1,73 @@
+#ENTRY      23131
+#AUTHOR1    R.Sarmento+
+#YEAR       2011
+#INSTITUTE  (2PRTLFE)
+#TITLE      Measurement of the 236U(n,f) cross-section from
+#+          170 meV to 2 MeV at CERN n-TOF facility.
+#AUTHOR(S)  R.Sarmento, M.Calviani, J.Praena, N.Colonna, F.Belloni, 
+#+          I.F.Goncalves, P.Vaz, G.Aerts, H.Alvarez, F.Alvarez-Velarde, 
+#+          S.Andriamonje, J.Andrzejewski, P.Assimakopoulos, L.Audouin, 
+#+          M.Barbagallo, G.Badurek, P.Baumann, F.Becvar, E.Berthoumieux, 
+#+          F.Calvino, D.Cano-Ott, R.Capote, C.Carrapico, A.Carrillo de Albornoz, 
+#+          P.Cennini, V.Chepel, E.Chiaveri, G.Cortes, A.Couture, J.Cox, 
+#+          M.Dahlfors, S.David, M.Diakaki, I.Dillmann, R.Dolfini, C.Domingo-Pardo, 
+#+          W.Dridi, I.Duran, C.Eleftheriadis, L.Ferrant, A.Ferrari, 
+#+          R.Ferreira-Marques, H.Frais-Koelbl, K.Fuji, W.Furman, E.Gonzalez-Romero, 
+#+          A.Goverdovski, F.Gramegna, E.Griesmayer, C.Guerrero, F.Gunsing, 
+#+          B.Haas, R.Haight, M.Heil, A.Herrera-Martinez, M.Igashira, 
+#+          S.Isaev, E.Jericha, F.Kaeppeler, Y.Kadi, D.Karadimos, D.Karamanis, 
+#+          M.Kerveno, V.Ketlerov, P.Koehler, V.Konovalov, E.Kossionides, 
+#+          M.Krticka, C.Lampoudis, C.Lederer, H.Leeb, A.Lindote, I.Lopes, 
+#+          M.Lozano, S.Lukic, J.Marganiec, L.Marques, S.Marrone, T.Martinez, 
+#+          C.Massimi, P.Mastinu, E.Mendoza, A.Mengoni, P.M.Milazzo, 
+#+          C.Moreau, M.Mosconi, F.Neves, H.Oberhummer, S.O'Brien, M.Oshima, 
+#+          J.Pancin, C.Papachristodoulou, C.Papadopoulos, C.Paradela, 
+#+          N.Patronis, A.Pavlik, P.Pavlopoulos, L.Perrot, M.T.Pigni, 
+#+          R.Plag, A.Plompen, A.Plukis, A.Poch, C.Pretel, J.Quesada, 
+#+          T.Rauscher, R.Reifarth, M.Rosetti, C.Rubbia, G.Rudolf, P.Rullhusen, 
+#+          J.Salgado, L.Sarchiapone, I.Savvidis, C.Stephan, G.Tagliente, 
+#+          J.L.Tain, D.Tarrio, L.Tassan-Got, L.Tavora, R.Terlizzi, 
+#+          G.Vannini, A.Ventura, D.Villamarin, M.C.Vicente, V.Vlachoudis, 
+#+          R.Vlastou, F.Voss, S.Walter, H.Wendler, M.Wiescher, K.Wisshak
+#REF-CODE   (J,PR/C,84,044618,2011)
+#REFERENCE  Phys.Rev.C 84 (2011) 044618 (doi:10.1103/PhysRevC.84.044618)
+#DATASETS   0
+#
+#DATASET    23131004 
+#DATE       20160124
+#REACTION   92-U-236(N,F),,SIG
+#PROJ       1
+#TARG       92236
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92236   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92236   3  18 A  5.314960          0.028477 0.011626                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.327220          0.010658 5.3290-3                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.339500          0.044477 0.014065                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.351800          0.063329 0.018281                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.364140          0.071199 0.020554                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.376510          0.127396 0.027161                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.388900          0.210126 0.035021                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.401320          0.382585 0.049808                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.413780          0.448947 0.050833                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.426260          0.638870 0.060100                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.438760          0.697203 0.067718                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.451300          0.953767 0.077107                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.463870          0.832651 0.071663                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.476460          0.972954 0.078917                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.489090          0.666734 0.063861                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.501740          0.557165 0.059394                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.514430          0.330135 0.044116                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.527140          0.282469 0.039947                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.539880          0.203890 0.034464                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.552650          0.135331 0.028218                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.565450          0.117970 0.024598                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.578280          0.079651 0.020566                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.591140          0.019687 8.8042-3                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.604030          0.012364 6.1820-3                                       R.Sarmento+          (11)23131  4 
+    1 92236   3  18 A  5.616950          0.019610 8.7697-3                                       R.Sarmento+          (11)23131  4 
+#/DATA      25
+#/DATASET

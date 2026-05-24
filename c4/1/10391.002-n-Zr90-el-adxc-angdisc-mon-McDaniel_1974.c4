@@ -1,0 +1,39 @@
+#ENTRY      10391
+#AUTHOR1    F.D.McDaniel+
+#YEAR       1974
+#INSTITUTE  (1USAKTY)
+#TITLE      Elastic and inelastic scattering of 1.5-MeV neutrons
+#+          by the even-A isotopes of zirconium and molybdenum
+#AUTHOR(S)  F.D.McDaniel, J.D.Brandenberger, G.P.Glasgow, H.G.Leighton
+#REF-CODE   (J,PR/C,10,1087,197409)
+#REFERENCE  Phys.Rev.C 10 (1974) 1087 (doi:10.1103/PhysRevC.10.1087)
+#DATASETS   0
+#
+#DATASET    10391002 
+#DATE       20030102
+#REACTION   40-ZR-90(N,EL)40-ZR-90,,DA
+#PROJ       1
+#TARG       40090
+#MF         4
+#MT         2
+#PRODUCT    40-ZR-90
+#C4BEGIN    [    1 40090   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   4   2  C 1500000. 84000.00 0.986580 0.030890 0.863219                              F.D.McDaniel+        (74)10391  2 
+    1 40090   4   2  C 1500000. 84000.00 0.819850 0.020610 0.761425                              F.D.McDaniel+        (74)10391  2 
+    1 40090   4   2  C 1500000. 84000.00 0.596630 0.013990 0.636213                              F.D.McDaniel+        (74)10391  2 
+    1 40090   4   2  C 1500000. 84000.00 0.439720 0.011050 0.491512                              F.D.McDaniel+        (74)10391  2 
+    1 40090   4   2  C 1500000. 84000.00 0.362270 8.3100-3 0.332161                              F.D.McDaniel+        (74)10391  2 
+    1 40090   4   2  C 1500000. 84000.00 0.293640 8.2400-3 0.162809                              F.D.McDaniel+        (74)10391  2 
+    1 40090   4   2  C 1500000. 84000.00 0.213180 8.2300-3-0.011170                              F.D.McDaniel+        (74)10391  2 
+    1 40090   4   2  C 1500000. 84000.00 0.201330 7.7500-3-0.184466                              F.D.McDaniel+        (74)10391  2 
+    1 40090   4   2  C 1500000. 84000.00 0.179520 7.4800-3-0.351842                              F.D.McDaniel+        (74)10391  2 
+    1 40090   4   2  C 1500000. 84000.00 0.174660 7.1400-3-0.508440                              F.D.McDaniel+        (74)10391  2 
+    1 40090   4   2  C 1500000. 84000.00 0.170590 7.2900-3-0.649315                              F.D.McDaniel+        (74)10391  2 
+    1 40090   4   2  C 1500000. 84000.00 0.218130 6.7600-3-0.770624                              F.D.McDaniel+        (74)10391  2 
+    1 40090   4   2  C 1500000. 84000.00 0.285830 7.1100-3-0.868804                              F.D.McDaniel+        (74)10391  2 
+    1 40090   4   2  C 1500000. 84000.00 0.323470 7.4500-3-0.908289                              F.D.McDaniel+        (74)10391  2 
+#/DATA      14
+#/DATASET

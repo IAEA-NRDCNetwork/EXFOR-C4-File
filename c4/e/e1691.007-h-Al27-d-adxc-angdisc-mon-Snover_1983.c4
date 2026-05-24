@@ -1,0 +1,40 @@
+#ENTRY      E1691
+#AUTHOR1    K.A.Snover+
+#YEAR       1983
+#INSTITUTE  (1USAWAU)
+#TITLE      27Al(p,gamma)28Si and 27Al(3He,d)28Si to the stretched
+#+          11.58 MeV (6-,0) and 14.36 MeV (6-,1) levels
+#AUTHOR(S)  K.A.Snover, G.Feldman, M.M.Hindi, E.Kuhlmann, M.N.Harakeh, 
+#+          M.Sasao, M.Noumachi, Y.Fujita, M.Fujiwara, K.Hosono
+#REF-CODE   (J,PR/C,27,(2),493,198302)
+#REFERENCE  Phys.Rev.C 27 No.2 (1983) 493 (doi:10.1103/PhysRevC.27.493)
+#DATASETS   0
+#
+#DATASET    E1691007 
+#DATE       20060906
+#REACTION   13-AL-27(HE3,D)14-SI-28,PAR,DA
+#PROJ       2003
+#TARG       13027
+#MF         4
+#MT         650
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 2003 13027   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 13027   4 650  C 6.0060+7          5.2960-3          0.989285          1.1580+7         LVLK.A.Snover+          (83)E1691  7 
+ 2003 13027   4 650  C 6.0060+7          3.0640-3          0.975573          1.1580+7         LVLK.A.Snover+          (83)E1691  7 
+ 2003 13027   4 650  C 6.0060+7          1.3080-3          0.952874          1.1580+7         LVLK.A.Snover+          (83)E1691  7 
+ 2003 13027   4 650  C 6.0060+7          6.3510-4          0.920505          1.1580+7         LVLK.A.Snover+          (83)E1691  7 
+ 2003 13027   4 650  C 6.0060+7          3.1950-4          0.881221          1.1580+7         LVLK.A.Snover+          (83)E1691  7 
+ 2003 13027   4 650  C 6.0060+7          1.5710-4          0.829720          1.1580+7         LVLK.A.Snover+          (83)E1691  7 
+ 2003 13027   4 650  C 6.0060+7          1.0730-4          0.774724          1.1580+7         LVLK.A.Snover+          (83)E1691  7 
+ 2003 13027   4 650  C 6.0060+7          8.0470-5          0.713250          1.1580+7         LVLK.A.Snover+          (83)E1691  7 
+ 2003 13027   4 650  C 6.0060+7          5.5580-5          0.648917          1.1580+7         LVLK.A.Snover+          (83)E1691  7 
+ 2003 13027   4 650  C 6.0060+7          4.2200-5          0.574291          1.1580+7         LVLK.A.Snover+          (83)E1691  7 
+ 2003 13027   4 650  C 6.0060+7          2.7180-5          0.492424          1.1580+7         LVLK.A.Snover+          (83)E1691  7 
+ 2003 13027   4 650  C 6.0060+7          2.0870-5          0.412310          1.1580+7         LVLK.A.Snover+          (83)E1691  7 
+ 2003 13027   4 650  C 6.0060+7          1.4420-5          0.328702          1.1580+7         LVLK.A.Snover+          (83)E1691  7 
+ 2003 13027   4 650  C 6.0060+7          1.0560-5          0.242430          1.1580+7         LVLK.A.Snover+          (83)E1691  7 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      20806
+#AUTHOR1    V.Giordano+
+#YEAR       1978
+#INSTITUTE  (2ITYUPV)
+#TITLE      Small-angle elastic scattering of 2.5MeV neutrons
+#AUTHOR(S)  V.Giordano, C.Manduchi, M.T.Russo-manduchi, G.F.Segato
+#REF-CODE   (J,NP/A,302,83,1978)
+#REFERENCE  Nucl.Phys.A 302 (1978) 83 (doi:10.1016/0375-9474(78)90288-9)
+#DATASETS   0
+#
+#DATASET    20806002 
+#DATE       20230130
+#REACTION   49-IN-0(N,EL)49-IN-0,,DA
+#PROJ       1
+#TARG       49000
+#MF         4
+#MT         2
+#PRODUCT    49-IN-0
+#C4BEGIN    [    1 49000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49000   4   2    2500000. 500000.0 2.800000 0.200000 0.999328 5.7560-4                     V.Giordano+          (78)20806  2 
+    1 49000   4   2    2500000. 500000.0 2.700000 0.200000 0.998135 9.5895-4                     V.Giordano+          (78)20806  2 
+    1 49000   4   2    2500000. 500000.0 2.600000 0.200000 0.995725 1.4510-3                     V.Giordano+          (78)20806  2 
+    1 49000   4   2    2500000. 500000.0 2.700000 0.200000 0.992115 1.9687-3                     V.Giordano+          (78)20806  2 
+    1 49000   4   2    2500000. 500000.0 2.700000 0.200000 0.987414 2.4843-3                     V.Giordano+          (78)20806  2 
+#/DATA      5
+#/DATASET

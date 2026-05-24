@@ -1,0 +1,31 @@
+#ENTRY      12912
+#AUTHOR1    P.Welch+
+#YEAR       1981
+#INSTITUTE  (1USAOHO)
+#TITLE      Neutron Activation Cross Section on 12C and Pb with
+#+          20-26 MeV Monoenergetic Neutrons
+#AUTHOR(S)  P.Welch, J.Johnson, G.Randers-Pehrson, J.Rapaport
+#REF-CODE   (J,BAP,26,708(G3),198105)
+#REFERENCE  Bull.Am.Phys.Soc. 26 (1981) 708(G3)
+#DATASETS   0
+#
+#DATASET    12912007 
+#DATE       20120412
+#REACTION   82-PB-206(N,3N)82-PB-204-M,,SIG
+#PROJ       1
+#TARG       82206
+#MF         3
+#MT         17
+#PRODUCT    82-PB-204-M
+#C4BEGIN    [    1 82206   3  17MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82206   3  17MA  2.0000+7 100000.0 0.189000 0.028000                                       P.Welch+             (81)12912  7 
+    1 82206   3  17MA  2.2000+7 100000.0 0.306000 0.041000                                       P.Welch+             (81)12912  7 
+    1 82206   3  17MA  2.3000+7 100000.0 0.356000 0.049000                                       P.Welch+             (81)12912  7 
+    1 82206   3  17MA  2.4000+7 100000.0 0.363000 0.049000                                       P.Welch+             (81)12912  7 
+    1 82206   3  17MA  2.5000+7 100000.0 0.356000 0.049000                                       P.Welch+             (81)12912  7 
+    1 82206   3  17MA  2.6000+7 100000.0 0.324000 0.044000                                       P.Welch+             (81)12912  7 
+#/DATA      6
+#/DATASET

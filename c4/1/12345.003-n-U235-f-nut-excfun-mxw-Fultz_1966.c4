@@ -1,0 +1,26 @@
+#ENTRY      12345
+#AUTHOR1    S.C.Fultz+
+#YEAR       1966
+#INSTITUTE  (1USALRL)
+#TITLE      Measurement of the average neutron yield per fission
+#+          for Am-242-m.
+#AUTHOR(S)  S.C.Fultz, J.T.Caldwell, B.L.Berman, R.L.Bramblett, M.A.Kelly, 
+#+          H.D.Wilson, M.S.Coops, R.W.Lougheed, J.E.Evans, R.W.Hoff
+#REF-CODE   (J,PR,152,1046,196612)
+#REFERENCE  Phys.Rev. 152 (1966) 1046 (doi:10.1103/PhysRev.152.1046)
+#DATASETS   0
+#
+#DATASET    12345003 
+#DATE       20160608
+#REACTION   92-U-235(N,F),,NU,,MXW
+#PROJ       1
+#TARG       92235
+#MF         1
+#MT         452
+#C4BEGIN    [    1 92235   1 452  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   1 452    0.025300          2.430000 0.080000                                       S.C.Fultz+           (66)12345  3 
+#/DATA      1
+#/DATASET

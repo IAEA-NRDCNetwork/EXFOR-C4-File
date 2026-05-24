@@ -1,0 +1,32 @@
+#ENTRY      C0574
+#AUTHOR1    I.Daito+
+#YEAR       1998
+#INSTITUTE  (2JPNOSA)
+#TITLE      Gamow-Teller strengths from (t,3He) charge-exchange
+#+          reactions on light nuclei.
+#AUTHOR(S)  I.Daito, H.Akimune, S.M.Austin, D.Bazin, G.P.A.Berg, J.A.Brown, 
+#+          B.S.Davids, Y.Fujita, H.Fujimura, M.Fujiwara, R.Hazama, 
+#+          T.Inomata, K.Ishibashi, J.Janecke, S.Nakayama, K.Pham, D.A.Roberts, 
+#+          B.M.Sherrill, M.Steiner, A.Tamii, M.Tanaka, H.Toyokawa, 
+#+          M.Yosoi
+#REF-CODE   (J,PL/B,418,27,199801)
+#REFERENCE  Phys.Lett.B 418 (1998) 27 (doi:10.1016/S0370-2693(97)01393-2)
+#DATASETS   0
+#
+#DATASET    C0574003 
+#DATE       19990924
+#REACTION   5-B-10(T,HE3)4-BE-10,PAR,DA
+#PROJ       1003
+#TARG       5010
+#MF         4
+#MT         750
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1003  5010   4 750 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  5010   4 750 A  3.8000+8 780000.0 1.0000-3 3.0000-4 1.000000          3370000.         LVLI.Daito+             (98)C0574  3 
+ 1003  5010   4 750 A  3.8000+8 780000.0 0.012000 8.0000-4 1.000000          5960000.         LVLI.Daito+             (98)C0574  3 
+ 1003  5010   4 750 A  3.8000+8 780000.0 3.9000-3 7.0000-4 1.000000          9400000.         LVLI.Daito+             (98)C0574  3 
+#/DATA      3
+#/DATASET

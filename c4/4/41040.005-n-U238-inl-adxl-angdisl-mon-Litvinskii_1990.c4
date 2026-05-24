@@ -1,0 +1,33 @@
+#ENTRY      41040
+#AUTHOR1    L.L.Litvinskii+
+#YEAR       1990
+#INSTITUTE  (4UKRIJD)
+#TITLE      Analysis of the cross section for inelastic scattering
+#+          of intermediate neutrons the choice of boundary
+#+          conditions in the R-matrix theory
+#AUTHOR(S)  L.L.Litvinskii, A.V.Murzin, G.M.Novoselov, O.A.Purtov
+#REF-CODE   (J,YF,52,1025,1990)
+#REFERENCE  Yad.Fiz. 52 (1990) 1025
+#DATASETS   0
+#
+#DATASET    41040005 
+#DATE       20180216
+#REACTION   92-U-238(N,INL)92-U-238,PAR,DA
+#PROJ       1
+#TARG       92238
+#MF         4
+#MT         51
+#PRODUCT    92-U-238
+#C4BEGIN    [    1 92238   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   4  51    275000.0 10000.00 0.118000 0.059000 0.866025          45000.00         LVLL.L.Litvinskii+      (90)41040  5 
+    1 92238   4  51    275000.0 10000.00 0.076000 0.019000 0.707107          45000.00         LVLL.L.Litvinskii+      (90)41040  5 
+    1 92238   4  51    275000.0 10000.00 0.120000 0.047000 0.500000          45000.00         LVLL.L.Litvinskii+      (90)41040  5 
+    1 92238   4  51    275000.0 10000.00 0.175000 0.059000 0.258819          45000.00         LVLL.L.Litvinskii+      (90)41040  5 
+    1 92238   4  51    275000.0 10000.00 0.124000 0.062000-0.500000          45000.00         LVLL.L.Litvinskii+      (90)41040  5 
+    1 92238   4  51    275000.0 10000.00 0.112000 0.020000-0.707107          45000.00         LVLL.L.Litvinskii+      (90)41040  5 
+    1 92238   4  51    275000.0 10000.00 0.091000 0.075000-0.866025          45000.00         LVLL.L.Litvinskii+      (90)41040  5 
+#/DATA      7
+#/DATASET

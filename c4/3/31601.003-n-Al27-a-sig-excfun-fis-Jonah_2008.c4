@@ -1,0 +1,28 @@
+#ENTRY      31601
+#AUTHOR1    S.A.Jonah+
+#YEAR       2008
+#INSTITUTE  (3NI ABU)
+#TITLE      The Determination of reactor neutron spectrum
+#+          averaged Cross- sections in a miniature neutron
+#+          source reactor facility
+#AUTHOR(S)  S.A.Jonah, Y.V.Ibrahim, E.H.K.Akaho
+#REF-CODE   (J,ARI,66,1377,2008)
+#REFERENCE  Appl.Radiat.Isot. 66 (2008) 1377 (doi:10.1016/j.apradiso.2008.04.001)
+#DATASETS   0
+#
+#DATASET    31601003 
+#DATE       20070727
+#REACTION   13-AL-27(N,A)11-NA-24,,SIG,,FIS
+#PROJ       1
+#TARG       13027
+#MF         3
+#MT         107
+#PRODUCT    11-NA-24
+#C4BEGIN    [    1 13027   3 107 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   3 107 A  1500000.          9.3000-4 5.0000-5                                       S.A.Jonah+           (08)31601  3 
+    1 13027   3 107 A  1500000.          9.8000-4 6.0000-5                                       S.A.Jonah+           (08)31601  3 
+#/DATA      2
+#/DATASET

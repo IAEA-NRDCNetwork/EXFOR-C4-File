@@ -1,0 +1,55 @@
+#ENTRY      32841
+#AUTHOR1    Ma Weiyi+
+#YEAR       1982
+#INSTITUTE  (3CPRAEP)
+#TITLE      Secondary neutron energy spectrum for reactions
+#+          induced by 14.1 MeV neutrons on 9Be
+#AUTHOR(S)  Ma Weiyi, Sun Hancheng, Na Xiangyin, Yan Chen, Cui Yunfeng, 
+#+          Li Sumei
+#REF-CODE   (J,CST,16,4,1982)
+#REFERENCE  At.En.Sci.Technol. 16 (1982) 4
+#DATASETS   0
+#
+#DATASET    32841004 
+#DATE       20230906
+#REACTION   4-BE-9(N,INL)4-BE-9,PAR,DA
+#PROJ       1
+#TARG       4009
+#MF         4
+#MT         51
+#PRODUCT    4-BE-9
+#C4BEGIN    [    1  4009   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  4009   4  51  C 1.4100+7          0.036200 6.1000-3 0.980800          2430000.         LVLMa Weiyi+            (82)32841  4 
+    1  4009   4  51  C 1.4100+7          0.043500 9.6000-3 0.924600          2430000.         LVLMa Weiyi+            (82)32841  4 
+    1  4009   4  51  C 1.4100+7          0.025600 5.6000-3 0.712400          2430000.         LVLMa Weiyi+            (82)32841  4 
+    1  4009   4  51  C 1.4100+7          0.011700 1.6000-3 0.404400          2430000.         LVLMa Weiyi+            (82)32841  4 
+    1  4009   4  51  C 1.4100+7          8.5600-3 1.9000-3-0.123600          2430000.         LVLMa Weiyi+            (82)32841  4 
+    1  4009   4  51  C 1.4100+7          6.4000-3 1.9000-3-0.589800          2430000.         LVLMa Weiyi+            (82)32841  4 
+    1  4009   4  51  C 1.4100+7          6.2000-3 1.2000-3-0.953400          2430000.         LVLMa Weiyi+            (82)32841  4 
+#/DATA      7
+#/DATASET
+#
+#DATASET    32841004 
+#DATE       20230906
+#REACTION   4-BE-9(N,INL)4-BE-9,PAR,DA
+#PROJ       1
+#TARG       4009
+#MF         4
+#MT         51
+#PRODUCT    4-BE-9
+#C4BEGIN    [    1  4009   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  4009   4  51  C 1.4100+7          1.8000-3 8.0000-4 0.980000          6760000.         LVLMa Weiyi+            (82)32841  4 
+    1  4009   4  51  C 1.4100+7          3.0000-3 1.0000-3 0.916000          6760000.         LVLMa Weiyi+            (82)32841  4 
+    1  4009   4  51  C 1.4100+7          3.2000-3 8.0000-4 0.696000          6760000.         LVLMa Weiyi+            (82)32841  4 
+    1  4009   4  51  C 1.4100+7          2.4000-3 5.0000-4 0.374000          6760000.         LVLMa Weiyi+            (82)32841  4 
+    1  4009   4  51  C 1.4100+7          2.4000-3 6.0000-4-0.067200          6760000.         LVLMa Weiyi+            (82)32841  4 
+    1  4009   4  51  C 1.4100+7          2.1000-3 5.0000-4-0.568000          6760000.         LVLMa Weiyi+            (82)32841  4 
+    1  4009   4  51  C 1.4100+7          2.5000-3 5.0000-4-0.904000          6760000.         LVLMa Weiyi+            (82)32841  4 
+#/DATA      7
+#/DATASET

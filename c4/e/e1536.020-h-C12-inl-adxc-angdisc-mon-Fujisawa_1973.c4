@@ -1,0 +1,35 @@
+#ENTRY      E1536
+#AUTHOR1    T.Fujisawa+
+#YEAR       1973
+#INSTITUTE  (2JPNIPC)
+#TITLE      The elastic and inelastic scatterings of 3He from 12C
+#+          at 24.0, 29.2, 34.7 and 39.6 MeV
+#AUTHOR(S)  T.Fujisawa, S.Yamaji, K.Matsuda, S.Motonaga, F.Yoshida, 
+#+          H.Sakaguchi, K.Masui
+#REF-CODE   (J,JPJ,34,(1),5,197301)
+#REFERENCE  J.Phys.Soc.Jpn. 34 No.1 (1973) 5 (doi:10.1143/JPSJ.34.5)
+#DATASETS   0
+#
+#DATASET    E1536020 
+#DATE       20051219
+#REACTION   6-C-12(HE3,INL)6-C-12,PAR,DA
+#PROJ       2003
+#TARG       6012
+#MF         4
+#MT         751
+#PRODUCT    6-C-12
+#C4BEGIN    [ 2003  6012   4 751  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  6012   4 751  C 2.4000+7 48000.00 4.6510-4          0.866113 1.7448-3 7660000.         LVLT.Fujisawa+          (73)E1536 20 
+ 2003  6012   4 751  C 2.4000+7 48000.00 3.6740-4          0.840945 1.8889-3 7660000.         LVLT.Fujisawa+          (73)E1536 20 
+ 2003  6012   4 751  C 2.4000+7 48000.00 3.4950-4          0.817145 2.0121-3 7660000.         LVLT.Fujisawa+          (73)E1536 20 
+ 2003  6012   4 751  C 2.4000+7 48000.00 3.3830-4          0.785317 2.1610-3 7660000.         LVLT.Fujisawa+          (73)E1536 20 
+ 2003  6012   4 751  C 2.4000+7 48000.00 1.7500-4          0.757337 2.2795-3 7660000.         LVLT.Fujisawa+          (73)E1536 20 
+ 2003  6012   4 751  C 2.4000+7 48000.00 7.2850-5          0.630269 2.7101-3 7660000.         LVLT.Fujisawa+          (73)E1536 20 
+ 2003  6012   4 751  C 2.4000+7 48000.00 7.8030-5          0.601118 2.7896-3 7660000.         LVLT.Fujisawa+          (73)E1536 20 
+ 2003  6012   4 751  C 2.4000+7 48000.00 8.3560-5          0.575434 2.8548-3 7660000.         LVLT.Fujisawa+          (73)E1536 20 
+ 2003  6012   4 751  C 2.4000+7 48000.00 1.1940-4          0.531842 2.9560-3 7660000.         LVLT.Fujisawa+          (73)E1536 20 
+#/DATA      9
+#/DATASET

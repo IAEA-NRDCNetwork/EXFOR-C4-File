@@ -1,0 +1,28 @@
+#ENTRY      D0305
+#AUTHOR1    E.Z.Buthelezi+
+#YEAR       2003
+#INSTITUTE  (3SAFITH)
+#TITLE      Isobaric yields and radiochemistry of near-target
+#+          residues in the interaction of 12C and 16O with
+#+          103Rh at an incident energy of 400 MeV
+#AUTHOR(S)  E.Z.Buthelezi, K.Aardaneh, G.F.Steyn, E.Gadioli, T.N.Van der Walt, 
+#+          F.Albertini, F.Cerutti, S.H.Connell, A.A.Cowley, F.M.Nortier
+#REF-CODE   (J,JRN,258,649,2003)
+#REFERENCE  J.Rad.Nucl.Chem. 258 (2003) 649 (doi:10.1023/B:JRNC.0000011764.30879.fb)
+#DATASETS   0
+#
+#DATASET    D0305049 
+#DATE       20050315
+#REACTION   45-RH-103(8-O-16,X)45-RH-99-M,CUM,SIG
+#PROJ       8016
+#TARG       45103
+#MF         3
+#MT         459
+#PRODUCT    45-RH-99-M
+#C4BEGIN    [ 8016 45103   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 45103   3 459 A  3.9360+8 1000000. 0.161300 0.024200           45099.7                     E.Z.Buthelezi+       (03)D0305 49 
+#/DATA      1
+#/DATASET

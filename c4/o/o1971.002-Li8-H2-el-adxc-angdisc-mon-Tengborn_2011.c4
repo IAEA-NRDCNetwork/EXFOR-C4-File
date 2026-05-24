@@ -1,0 +1,41 @@
+#ENTRY      O1971
+#AUTHOR1    E.Tengborn+
+#YEAR       2011
+#INSTITUTE  (2SWDCTH)
+#TITLE      The 8Li + 2H reaction studied in inverse kinematics at
+#+          3.15 MeV/nucleon using the REX-ISOLDE post-accelerator.
+#AUTHOR(S)  E.Tengborn, A.M.Moro, T.Nilsson, M.Alcorta, M.J.G.Borge, 
+#+          J.Cederkaell, C.Diget, L.M.Fraile, H.O.U.Fynbo, J.Gomez-Camacho, 
+#+          H.B.Jeppesen, H.T.Johansson, B.Jonson, O.S.Kirsebom, H.H.Knudsen, 
+#+          M.Madurga, G.Nyman, A.Richter, K.Riisager, G.Schrieder, 
+#+          O.Tengblad, N.Timofeyuk, M.Turrion, D.Voulot, F.Wenander
+#REF-CODE   (J,PR/C,84,064616,2011)
+#REFERENCE  Phys.Rev.C 84 (2011) 064616 (doi:10.1103/PhysRevC.84.064616)
+#DATASETS   0
+#
+#DATASET    O1971002 
+#DATE       20120306
+#REACTION   1-H-2(3-LI-8,EL)1-H-2,,DA,,RTH
+#PROJ       3008
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 3008  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3008  1002   4   2  C 2.5200+7          6.2613-3 3.0990-3 0.481579 0.059089                     E.Tengborn+          (11)O1971  2 
+ 3008  1002   4   2  C 2.5200+7          7.5836-3 2.0119-3 0.364080 0.062959                     E.Tengborn+          (11)O1971  2 
+ 3008  1002   4   2  C 2.5200+7          0.010342 1.4375-3 0.238891 0.065778                     E.Tengborn+          (11)O1971  2 
+ 3008  1002   4   2  C 2.5200+7          0.014969 1.2571-3 0.108378 0.067454                     E.Tengborn+          (11)O1971  2 
+ 3008  1002   4   2  C 2.5200+7          0.017222 1.0174-3-0.024964 0.067927                     E.Tengborn+          (11)O1971  2 
+ 3008  1002   4   2  C 2.5200+7          0.016911 7.8364-4-0.158566 0.067166                     E.Tengborn+          (11)O1971  2 
+ 3008  1002   4   2  C 2.5200+7          0.016110 6.3127-4-0.289850 0.065169                     E.Tengborn+          (11)O1971  2 
+ 3008  1002   4   2  C 2.5200+7          0.014785 5.2257-4-0.416281 0.061961                     E.Tengborn+          (11)O1971  2 
+ 3008  1002   4   2  C 2.5200+7          0.011961 4.1660-4-0.535399 0.057594                     E.Tengborn+          (11)O1971  2 
+ 3008  1002   4   2  C 2.5200+7          0.010407 4.0643-4-0.644898 0.052145                     E.Tengborn+          (11)O1971  2 
+ 3008  1002   4   2  C 2.5200+7          7.5904-3 3.8920-4-0.742654 0.045711                     E.Tengborn+          (11)O1971  2 
+ 3008  1002   4   2  C 2.5200+7          4.4315-3 2.8410-4-0.826757 0.038413                     E.Tengborn+          (11)O1971  2 
+#/DATA      12
+#/DATASET

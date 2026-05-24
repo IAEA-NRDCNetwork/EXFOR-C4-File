@@ -1,0 +1,27 @@
+#ENTRY      11860
+#AUTHOR1    J.E.Brolley Jr+
+#YEAR       1955
+#INSTITUTE  (1USALAS)
+#TITLE      14 MeV (N,alpha) cross sections in zirconium,I.
+#AUTHOR(S)  J.E.Brolley Jr, M.E.Bunker, D.R.F.Cochran, R.L.Henkel, J.P.Mize, 
+#+          J.W.Starner
+#REF-CODE   (J,PR,99,330(1),1955)
+#REFERENCE  Phys.Rev. 99 (1955) 330(1)
+#DATASETS   0
+#
+#DATASET    11860003 
+#DATE       19860522
+#REACTION   40-ZR-94(N,A)38-SR-91,,SIG
+#PROJ       1
+#TARG       40094
+#MF         3
+#MT         107
+#PRODUCT    38-SR-91
+#C4BEGIN    [    1 40094   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40094   3 107    1.4100+7          4.9000-3 6.0000-4                                       J.E.Brolley Jr+      (55)11860  3 
+    1 40094   3 107    1.4900+7          3.9000-3 5.0000-4                                       J.E.Brolley Jr+      (55)11860  3 
+#/DATA      2
+#/DATASET

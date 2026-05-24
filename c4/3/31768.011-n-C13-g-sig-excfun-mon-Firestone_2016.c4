@@ -1,0 +1,26 @@
+#ENTRY      31768
+#AUTHOR1    R.B.Firestone+
+#YEAR       2016
+#INSTITUTE  (1USAUCX)
+#TITLE      Thermal neutron radiative cross sections for 6,7Li,
+#+          9Be, 10,11B, 12,13C, and 14,15N
+#AUTHOR(S)  R.B.Firestone, Zs.Revay
+#REF-CODE   (J,PR/C,93,054306,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 054306 (doi:10.1103/PhysRevC.93.054306)
+#DATASETS   0
+#
+#DATASET    31768011 
+#DATE       20160616
+#REACTION   6-C-13(N,G)6-C-14,,SIG
+#PROJ       1
+#TARG       6013
+#MF         3
+#MT         102
+#PRODUCT    6-C-14
+#C4BEGIN    [    1  6013   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6013   3 102 D  0.025300          1.4960-3 1.8000-5                                       R.B.Firestone+       (16)31768 11 
+#/DATA      1
+#/DATASET

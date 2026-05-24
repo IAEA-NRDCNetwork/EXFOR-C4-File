@@ -1,0 +1,175 @@
+#ENTRY      23657
+#AUTHOR1    V.Michalopoulou+
+#YEAR       2023
+#INSTITUTE  (2GRCTUA)
+#TITLE      Measurement of the neutron-induced fission cross
+#+          section of 230Th at the CERN nTOF facility
+#AUTHOR(S)  V.Michalopoulou, A.Stamatopoulos, M.Diakaki, A.Tsinganis, 
+#+          R.Vlastou, M.Kokkoris, N.Patronis, Z.Eleme, D.Macina, L.Tassan-Got, 
+#+          N.Colonna, E.Chiaveri, A.Ventura, P.Schillebeeckx, J.Heyse, 
+#+          G.Sibbens, G.Alaerts, A.Borella, A.Moens, D.Vanleeuw, O.Aberle, 
+#+          V.Alcayne, S.Amaducci, J.Andrzejewski, L.Audouin, V.Babiano-Suarez, 
+#+          M.Bacak, M.Barbagallo, S.Bennett, E.Berthoumieux, J.Billowes, 
+#+          D.Bosnar, A.Brown, M.Busso, M.Caamano, L.Caballero, F.Calvino, 
+#+          M.Calviani, D.Cano-Ott, A.Casanovas, F.Cerutti, G.Cortes, 
+#+          M.A.Cortes-Giraldo, L.Cosentino, S.Cristallo, L.A.Damone, 
+#+          P.J.Davies, M.Dietz, C.Domingo-Pardo, R.Dressler, Q.Ducasse, 
+#+          E.Dupont, I.Duran, B.Fernandez-Dominguez, A.Ferrari, P.Finocchiaro, 
+#+          V.Furman, K.Goebel, R.Garg, A.Gawlik-Ramiega, S.Gilardoni, 
+#+          I.F.Goncalves, E.Gonzalez-Romero, C.Guerrero, F.Gunsing, 
+#+          H.Harada, S.Heinitz, D.G.Jenkins, A.Junghans, F.Kaeppeler, 
+#+          Y.Kadi, A.Kimura, I.Knapova, Y.Kopatch, M.Krticka, D.Kurtulgil, 
+#+          I.Ladarescu, C.Lederer-Woods, H.Leeb, J.Lerendegui-Marco, 
+#+          S.J.Lonsdale, A.Manna, T.Martinez, A.Masi, C.Massimi, P.Mastinu, 
+#+          M.Mastromarco, E.A.Maugeri, A.Mazzone, E.Mendoza, A.Mengoni, 
+#+          P.M.Milazzo, F.Mingrone, J.Moreno-Soto, A.Musumarra, A.Negret, 
+#+          R.Nolte, F.Ogallar, A.Oprea, A.Pavlik, J.Perkowski, C.Petrone, 
+#+          L.Piersanti, E.Pirovano, I.Porras, J.Praena, J.M.Quesada, 
+#+          D.Ramos-Doval, T.Rauscher, R.Reifarth, D.Rochman, Y.Romanets, 
+#+          C.Rubbia, M.Sabate-Gilarte, A.Saxena, D.Schumann, A.Sekhar, 
+#+          A.G.Smith, N.V.Sosnin, P.Sprung, G.Tagliente, J.L.Tain, 
+#+          A.Tarifeno-Saldivia, Th.Thomas, P.Torres-Sanchez, J.Ulrich, 
+#+          S.Urlass, S.Valenta, G.Vannini, V.Variale, P.Vaz, D.Vescovi, 
+#+          V.Vlachoudis, A.Wallner, P.J.Woods, T.Wright, P.Zugec
+#REF-CODE   (J,PR/C,108,014616,2023)
+#REFERENCE  Phys.Rev.C 108 (2023) 014616 (doi:10.1103/PhysRevC.108.014616)
+#DATASETS   0
+#
+#DATASET    236570032
+#DATE       20230801
+#REACTION   92-U-238(N,F),,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92238   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3  18 A  803579.5 9251.500 4.9733-3 5.9943-4                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  822297.5 9466.500 4.4700-3 5.7199-4                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  841451.0 9687.000 5.8570-3 6.4923-4                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  861051.0 9913.000 9.7539-3 8.4999-4                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  881107.5 10143.50 0.013928 9.8086-4                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  901631.0 10380.00 0.011474 8.5032-4                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  922632.5 10621.50 0.015427 1.0249-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  944123.5 10869.50 0.015309 1.0795-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  966115.0 11122.00 0.016585 1.1797-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  988618.5 11381.50 0.017009 1.2192-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1011645. 11645.00 0.016935 1.2289-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1035210. 11920.00 0.017412 1.1716-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1059325. 12195.00 0.022730 1.2598-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1084000. 12480.00 0.028547 1.3708-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1109250. 12770.00 0.031325 1.4777-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1135085. 13065.00 0.034890 1.5344-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1161525. 13375.00 0.040267 1.6691-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1188580. 13680.00 0.045691 1.7108-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1216265. 14005.00 0.040844 1.5646-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1244600. 14330.00 0.045757 1.6975-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1273590. 14660.00 0.058193 2.0026-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1303255. 15005.00 0.072481 2.4334-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1333610. 15350.00 0.100996 2.8283-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1364670. 15710.00 0.137154 3.2805-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1396460. 16080.00 0.198028 4.2717-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1428990. 16450.00 0.250391 4.9106-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1462275. 16835.00 0.326097 6.0929-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1496335. 17225.00 0.356730 6.2777-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1531190. 17630.00 0.377594 6.5560-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1566855. 18035.00 0.388474 6.4425-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1603350. 18460.00 0.396259 6.6910-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1640700. 18890.00 0.420226 7.3360-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1678915. 19325.00 0.437401 7.6264-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1718020. 19780.00 0.447687 7.9361-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1758040. 20240.00 0.474969 7.9530-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1798990. 20710.00 0.497997 7.9298-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1840895. 21195.00 0.519470 8.5034-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1883775. 21685.00 0.519210 8.8477-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1927650. 22190.00 0.536339 9.2565-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1972550. 22710.00 0.532947 8.6923-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2018500. 23240.00 0.530062 9.0668-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2065520. 23780.00 0.531406 8.9784-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2113630. 24330.00 0.543372 9.0327-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2162860. 24900.00 0.551679 9.4666-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2213240. 25480.00 0.540521 9.0813-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2264795. 26075.00 0.558900 9.7078-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2317550. 26680.00 0.547614 9.3153-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2371530. 27300.00 0.523519 8.7580-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2426770. 27940.00 0.558077 9.5973-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2483300. 28590.00 0.527193 9.5588-3                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2541145. 29255.00 0.559207 0.010364                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2600335. 29935.00 0.528882 0.010112                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2660900. 30630.00 0.542239 0.010643                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2722880. 31350.00 0.548019 0.010765                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2786305. 32075.00 0.546411 0.010951                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2851205. 32825.00 0.513144 0.010421                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2917620. 33590.00 0.527991 0.011052                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2985580. 34370.00 0.537581 0.011539                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  3055125. 35175.00 0.528384 0.011369                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  3126290. 35990.00 0.530991 0.011802                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  3199110. 36830.00 0.528038 0.012299                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  3273625. 37685.00 0.534603 0.013100                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  3349875. 38565.00 0.546284 0.013579                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  3427905. 39465.00 0.538531 0.013390                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  3507750. 40380.00 0.519326 0.013257                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  3589455. 41325.00 0.587063 0.015398                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  3673065. 42285.00 0.577745 0.015599                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  3758620. 43270.00 0.541210 0.015179                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  3846170. 44280.00 0.545665 0.014779                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  3935760. 45310.00 0.554494 0.015037                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  4027435. 46365.00 0.552273 0.015015                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  4121245. 47445.00 0.538949 0.014651                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  4217245. 48555.00 0.563926 0.016037                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  4315480. 49680.00 0.553492 0.016324                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  4416000. 50840.00 0.543147 0.015895                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  4518860. 52020.00 0.538230 0.015864                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  4624115. 53235.00 0.577140 0.017436                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  4731825. 54475.00 0.541590 0.016259                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  4842045. 55745.00 0.570705 0.018155                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  4954830. 57040.00 0.572070 0.017659                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  5070240. 58370.00 0.543963 0.018028                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  5188340. 59730.00 0.528221 0.017340                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  5309195. 61125.00 0.565528 0.018484                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  5432865. 62545.00 0.566549 0.018238                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  5559410. 64000.00 0.572224 0.019233                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  5688905. 65495.00 0.565540 0.019283                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  5821420. 67020.00 0.569786 0.019061                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  5957020. 68580.00 0.633149 0.021574                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  6095775. 70175.00 0.678561 0.022073                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  6237760. 71810.00 0.702433 0.021933                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  6383055. 73485.00 0.755001 0.022611                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  6531735. 75195.00 0.832554 0.024696                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  6683880. 76950.00 0.899847 0.026261                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  6839570. 78740.00 0.944201 0.027435                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  6998885. 80575.00 0.980000 0.027750                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  7161910. 82450.00 0.988374 0.028010                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  7328730. 84370.00 0.955174 0.026709                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  7499440. 86340.00 0.963075 0.027370                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  7764530. 178750.0 0.991728 0.020041                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  8130460. 187180.0 1.043650 0.021218                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  8513640. 196000.0 1.032270 0.021444                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  8914875. 205235.0 1.023720 0.021360                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  9335020. 214910.0 1.006280 0.021198                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  9774965. 225035.0 1.006140 0.021466                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1.0236+7 235650.0 1.024520 0.022761                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1.0718+7 246750.0 1.030740 0.023198                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1.1223+7 258350.0 1.022160 0.023492                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1.1752+7 270550.0 1.023740 0.023994                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1.2306+7 283350.0 0.987463 0.022774                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1.2886+7 296650.0 1.000240 0.022612                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1.3493+7 310600.0 1.065610 0.023551                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1.4129+7 325300.0 1.154980 0.025259                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1.4795+7 340600.0 1.224290 0.026366                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1.5492+7 356650.0 1.265000 0.027010                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1.6222+7 373500.0 1.319490 0.027882                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1.6987+7 391050.0 1.351230 0.028704                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1.7788+7 409500.0 1.354880 0.028799                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1.8626+7 428800.0 1.318960 0.028282                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  1.9504+7 449000.0 1.365860 0.029153                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2.0423+7 470200.0 1.496490 0.031339                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2.1385+7 492300.0 1.565990 0.032025                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2.2393+7 515550.0 1.526550 0.031165                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2.4014+7 1105100. 1.557890 0.019764                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2.6651+7 1532450. 1.573140 0.019695                                       V.Michalopoulou+     (23)23657  32
+    1 92238   3  18 A  2.9903+7 1719500. 1.664220 0.020591                                       V.Michalopoulou+     (23)23657  32
+#/DATA      125
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      A0019
+#AUTHOR1    A.I.Vojtov+
+#YEAR       1977
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Direct radiation proton capture by C-12 nuclei.
+#AUTHOR(S)  A.I.Vojtov, S.S.Parzhickij, Ju.P.Popov, V.A.Pojarkov, I.V.Sizov, 
+#+          V.I.Strizhak
+#REF-CODE   (R,JINR-P15-11087,1977)
+#REFERENCE  Report JINR-P15-11087, 1977
+#DATASETS   0
+#
+#DATASET    A0019002 
+#DATE       20080609
+#REACTION   6-C-12(P,G)7-N-13,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         102
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1001  6012   4 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 102 A  1223000.          3.9000-8 4.4000-9 6.123-17                              A.I.Vojtov+          (77)A0019  2 
+ 1001  6012   4 102 A  1237000.          4.1100-8 4.6000-9 6.123-17                              A.I.Vojtov+          (77)A0019  2 
+ 1001  6012   4 102 A  1349000.          5.7200-8 7.6000-9 6.123-17                              A.I.Vojtov+          (77)A0019  2 
+#/DATA      3
+#/DATASET

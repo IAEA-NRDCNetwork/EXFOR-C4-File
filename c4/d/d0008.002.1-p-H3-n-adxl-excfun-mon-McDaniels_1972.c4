@@ -1,0 +1,39 @@
+#ENTRY      D0008
+#AUTHOR1    D.K.McDaniels+
+#YEAR       1972
+#INSTITUTE  (1USALAS)
+#TITLE      Angular distributions and absolute cross sections for
+#+          the T(p,n)3He and the T(d,n)4He neutron source
+#+          reaction
+#AUTHOR(S)  D.K.McDaniels, M.Drosg, J.C.Hopkins, J.D.Seagrave
+#REF-CODE   (J,PR/C,6,1593,1972)
+#REFERENCE  Phys.Rev.C 6 (1972) 1593 (doi:10.1103/PhysRevC.6.1593)
+#DATASETS   0
+#
+#DATASET    D00080021
+#DATE       20150710
+#REACTION   1-H-3(P,N)2-HE-3,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1003   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4   4    4000000.          0.095500          1.000000                              D.K.McDaniels+       (72)D0008  21
+ 1001  1003   4   4    5000000.          0.068900          1.000000                              D.K.McDaniels+       (72)D0008  21
+ 1001  1003   4   4    6000000.          0.047000          1.000000                              D.K.McDaniels+       (72)D0008  21
+ 1001  1003   4   4    7000000.          0.034800          1.000000                              D.K.McDaniels+       (72)D0008  21
+ 1001  1003   4   4    8000000.          0.028000          1.000000                              D.K.McDaniels+       (72)D0008  21
+ 1001  1003   4   4    9000000.          0.026700          1.000000                              D.K.McDaniels+       (72)D0008  21
+ 1001  1003   4   4    1.0000+7          0.027100          1.000000                              D.K.McDaniels+       (72)D0008  21
+ 1001  1003   4   4    1.1000+7          0.029500          1.000000                              D.K.McDaniels+       (72)D0008  21
+ 1001  1003   4   4    1.2000+7          0.033000          1.000000                              D.K.McDaniels+       (72)D0008  21
+ 1001  1003   4   4    1.3000+7          0.035600          1.000000                              D.K.McDaniels+       (72)D0008  21
+ 1001  1003   4   4    1.4000+7          0.039600          1.000000                              D.K.McDaniels+       (72)D0008  21
+ 1001  1003   4   4    1.5000+7          0.042300          1.000000                              D.K.McDaniels+       (72)D0008  21
+ 1001  1003   4   4    1.5500+7          0.042200          1.000000                              D.K.McDaniels+       (72)D0008  21
+#/DATA      13
+#/DATASET

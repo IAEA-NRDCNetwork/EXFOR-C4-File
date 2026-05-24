@@ -1,0 +1,37 @@
+#ENTRY      10960
+#AUTHOR1    R.C.Haight+
+#YEAR       1981
+#INSTITUTE  (1USALRL)
+#TITLE      Charged particle emission in reactions of 15-MeV
+#+          neutrons with 89Y, 90Zr, and 92,94,95,96Mo.
+#AUTHOR(S)  R.C.Haight, S.M.Grimes, R.G.Johnson, H.H.Barschall
+#REF-CODE   (J,PR/C,23,700,198102)
+#REFERENCE  Phys.Rev.C 23 (1981) 700 (doi:10.1103/PhysRevC.23.700)
+#DATASETS   0
+#
+#DATASET    10960075 
+#DATE       20091009
+#REACTION   42-MO-94(N,X)1-H-2,,DE
+#PROJ       1
+#TARG       42094
+#MF         5
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [    1 42094   5 204 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42094   5 204 D  1.4800+7          2.030-10                            3750000. 250000.0 E2R.C.Haight+          (81)10960 75 
+    1 42094   5 204 D  1.4800+7          2.350-10                            4250000. 250000.0 E2R.C.Haight+          (81)10960 75 
+    1 42094   5 204 D  1.4800+7          8.050-10                            4750000. 250000.0 E2R.C.Haight+          (81)10960 75 
+    1 42094   5 204 D  1.4800+7          4.340-10 2.190-10                   5250000. 250000.0 E2R.C.Haight+          (81)10960 75 
+    1 42094   5 204 D  1.4800+7          4.840-10                            5750000. 250000.0 E2R.C.Haight+          (81)10960 75 
+    1 42094   5 204 D  1.4800+7          7.000-10                            6250000. 250000.0 E2R.C.Haight+          (81)10960 75 
+    1 42094   5 204 D  1.4800+7          1.8600-9                            6750000. 250000.0 E2R.C.Haight+          (81)10960 75 
+    1 42094   5 204 D  1.4800+7          2.6500-9                            7250000. 250000.0 E2R.C.Haight+          (81)10960 75 
+    1 42094   5 204 D  1.4800+7          1.8200-9                            7750000. 250000.0 E2R.C.Haight+          (81)10960 75 
+    1 42094   5 204 D  1.4800+7          3.6100-9 1.1500-9                   8250000. 250000.0 E2R.C.Haight+          (81)10960 75 
+    1 42094   5 204 D  1.4800+7          3.2800-9                            8750000. 250000.0 E2R.C.Haight+          (81)10960 75 
+    1 42094   5 204 D  1.4800+7          1.3600-9                            9250000. 250000.0 E2R.C.Haight+          (81)10960 75 
+#/DATA      12
+#/DATASET

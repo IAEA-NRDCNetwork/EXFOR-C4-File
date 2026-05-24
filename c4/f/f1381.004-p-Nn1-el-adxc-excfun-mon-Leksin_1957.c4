@@ -1,0 +1,29 @@
+#ENTRY      F1381
+#AUTHOR1    G.A.Leksin+
+#YEAR       1957
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Elastic and quasi-elastic scattering of 660 MeV
+#+          protons by deuterons.
+#AUTHOR(S)  G.A.Leksin
+#REF-CODE   (J,ZET,32,440,1957)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 32 (1957) 440
+#DATASETS   0
+#
+#DATASET    F1381004 
+#DATE       20190220
+#REACTION   0-NN-1(P,EL)0-NN-1,,DA
+#PROJ       1001
+#TARG       0001
+#MF         4
+#MT         2
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1001  0001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  0001   4   2  C 4.6000+8          8.0000-4 1.2000-4 6.123-17                              G.A.Leksin           (57)F1381  4 
+ 1001  0001   4   2  C 5.6000+8          8.0000-4 1.2000-4 6.123-17                              G.A.Leksin           (57)F1381  4 
+ 1001  0001   4   2  C 5.9000+8          8.0000-4 1.2000-4 6.123-17                              G.A.Leksin           (57)F1381  4 
+ 1001  0001   4   2  C 6.6000+8          1.3000-3 1.9500-4 6.123-17                              G.A.Leksin           (57)F1381  4 
+#/DATA      4
+#/DATASET

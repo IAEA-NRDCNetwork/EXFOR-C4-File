@@ -1,0 +1,29 @@
+#ENTRY      13004
+#AUTHOR1    D.O.Nellis+
+#YEAR       1964
+#INSTITUTE  (1USATNC)
+#TITLE      Neutron produced gamma-rays from B-10,B-11,Ca, Co,
+#+          Ce and U.
+#AUTHOR(S)  D.O.Nellis, J.B.Ashe, W.E.Tucker
+#REF-CODE   (P,TID-22012,182,196408)
+#REFERENCE  Progress report TID-22012 page 182, 1964
+#DATASETS   0
+#
+#DATASET    13004002 
+#DATE       20140421
+#REACTION   5-B-11(N,INL)5-B-11,PAR,DA,G
+#PROJ       1
+#TARG       5011
+#MF         14
+#MT         51
+#PRODUCT    5-B-11
+#C4BEGIN    [    1  5011  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5011  14  51    3500000. 200000.0 3.5300-3 5.2950-4 6.123-17          2130000.            D.O.Nellis+          (64)13004  2 
+    1  5011  14  51    4100000. 150000.0 5.2200-3 7.8300-4 6.123-17          2130000.            D.O.Nellis+          (64)13004  2 
+    1  5011  14  51    4500000. 100000.0 8.1000-3 1.2150-3 6.123-17          2130000.            D.O.Nellis+          (64)13004  2 
+    1  5011  14  51    4750000. 100000.0 0.012540 1.8810-3 6.123-17          2130000.            D.O.Nellis+          (64)13004  2 
+#/DATA      4
+#/DATASET

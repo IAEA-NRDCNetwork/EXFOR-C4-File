@@ -1,0 +1,35 @@
+#ENTRY      O2581
+#AUTHOR1    G.L.Guardo+
+#YEAR       2023
+#INSTITUTE  (2ITYLNS)
+#TITLE      Direct measurement of the 19F(p,alpha0)16O reaction at
+#+          Ecm = 0.4-0.9 MeV using the LHASA detector array
+#AUTHOR(S)  G.L.Guardo, T.Petruse, D.Lattuada, M.La Cognata, D.L.Balabanski, 
+#+          E.Aciksoez, L.Acosta, L.Capponi, D.Carbone, S.Cherubini, 
+#+          D.Choudhury, G.D'Agata, A.Di Pietro, P.Figuera, M.Gulino, 
+#+          A.I.Kilik, M.La Commara, L.Lamia, C.Matei, S.Palmerini, 
+#+          R.G.Pizzone, G.G.Rapisarda, S.Romano, M.L.Sergi, P.-A.Soederstroem, 
+#+          R.Sparta, A.Tumino, S.Vinals
+#REF-CODE   (J,EPJ/A,59,65,2023)
+#REFERENCE  Eur.Phys.J.A 59 (2023) 65 (doi:10.1140/epja/s10050-023-00957-1)
+#DATASETS   0
+#
+#DATASET    O2581002 
+#DATE       20230916
+#REACTION   9-F-19(P,A)8-O-16,PAR,DA
+#PROJ       1001
+#TARG       9019
+#MF         4
+#MT         800
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  9019   4 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9019   4 800 AC 1.5000+7          1.3800-4 9.0000-6 0.660000          0.000000         LVLG.L.Guardo+          (23)O2581  2 
+ 1001  9019   4 800 AC 1.5000+7          2.1800-4 1.3000-5 0.750000          0.000000         LVLG.L.Guardo+          (23)O2581  2 
+ 1001  9019   4 800 AC 1.5000+7          2.6200-4 1.1000-5 0.830000          0.000000         LVLG.L.Guardo+          (23)O2581  2 
+ 1001  9019   4 800 AC 1.5000+7          3.9300-4 1.6000-5 0.880000          0.000000         LVLG.L.Guardo+          (23)O2581  2 
+ 1001  9019   4 800 AC 1.5000+7          4.5300-4 1.4000-5 0.930000          0.000000         LVLG.L.Guardo+          (23)O2581  2 
+#/DATA      5
+#/DATASET

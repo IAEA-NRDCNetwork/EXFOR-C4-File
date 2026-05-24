@@ -1,0 +1,33 @@
+#ENTRY      E2528
+#AUTHOR1    H.Yamaguchi+
+#YEAR       2017
+#INSTITUTE  (2JPNTOK)
+#TITLE      Experimental investigation of a linear-chain structure
+#+          in the nucleus 14C
+#AUTHOR(S)  H.Yamaguchi, D.Kahl, S.Hayakawa, Y.Sakaguchi, K.Abe, T.Nakao, 
+#+          T.Suhara, N.Iwasa, A.Kim, D.H.Kim, S.M.Cha, M.S.Kwag, J.H.Lee, 
+#+          E.J.Lee, K.Y.Chae, Y.Wakabayashi, N.Imai, N.Kitamura, P.Lee, 
+#+          J.Y.Moon, K.B.Lee, C.Akers, H.S.Jung, N.N.Duy, L.H.Khiem, 
+#+          C.S.Lee
+#REF-CODE   (J,PL/B,766,11,2017)
+#REFERENCE  Phys.Lett.B 766 (2017) 11 (doi:10.1016/j.physletb.2016.12.050)
+#DATASETS   0
+#
+#DATASET    E2528003 
+#DATE       20180420
+#REACTION   (2-HE-4(4-BE-10,EL)2-HE-4,,DA)=(4-BE-10(A,EL)4-BE-10,,DA)
+#PROJ       2004
+#TARG       4010
+#MF         4
+#MT         2
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 2004  4010   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  4010   4   2  C 1.5100+7          0.090875 0.014071 0.999657 6.8531-4                     H.Yamaguchi+         (17)E2528  3 
+ 2004  4010   4   2  C 1.5100+7          0.098780 0.017556 0.996917 2.0541-3                     H.Yamaguchi+         (17)E2528  3 
+ 2004  4010   4   2  C 1.5100+7          0.080535 0.017141 0.991445 3.4172-3                     H.Yamaguchi+         (17)E2528  3 
+ 2004  4010   4   2  C 1.5100+7          0.061673 0.018980 0.983255 4.7709-3                     H.Yamaguchi+         (17)E2528  3 
+#/DATA      4
+#/DATASET

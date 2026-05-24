@@ -1,0 +1,33 @@
+#ENTRY      C2383
+#AUTHOR1    R.Orlandi+
+#YEAR       2018
+#INSTITUTE  (2JPNJAE)
+#TITLE      Neutron-hole states in 131Sn and spin-orbit splitting
+#+          in neutron-rich nuclei
+#AUTHOR(S)  R.Orlandi, S.D.Pain, S.Ahn, A.Jungclaus, K.T.Schmitt, D.W.Bardayan, 
+#+          W.N.Catford, R.Chapman, K.A.Chipps, J.A.Cizewski, C.G.Gross, 
+#+          M.E.Howard, K.L.Jones, R.L.Kozub, B.Manning, M.Matos, K.Nishio, 
+#+          P.D.O'Malley, W.A.Peters, S.T.Pittman, A.Ratkiewicz, C.Shand, 
+#+          J.F.Smith, M.S.Smith, T.Fukui, J.A.Tostevin, Y.Utsuno
+#REF-CODE   (J,PL/B,785,615,2018)
+#REFERENCE  Phys.Lett.B 785 (2018) 615 (doi:10.1016/j.physletb.2018.08.005)
+#DATASETS   0
+#
+#DATASET    C2383003 
+#DATE       20190606
+#REACTION   (1-H-2(50-SN-132,T)50-SN-131,PAR,DA,RSD)=(50-SN-132(D,T)50-SN-131,PAR,DA)
+#PROJ       1002
+#TARG       50132
+#MF         4
+#MT         700
+#PRODUCT    50-SN-131
+#C4BEGIN    [ 1002 50132   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50132   4 700  C 8800000.          1.0800-3 1.6000-4 0.628778 0.131643 332000.0         LVLR.Orlandi+           (18)C2383  3 
+ 1002 50132   4 700  C 8800000.          1.3100-3 2.3000-4 0.398909 0.092026 332000.0         LVLR.Orlandi+           (18)C2383  3 
+ 1002 50132   4 700  C 8800000.          1.7000-3 2.7000-4 0.234633 0.073802 332000.0         LVLR.Orlandi+           (18)C2383  3 
+ 1002 50132   4 700  C 8800000.          1.5200-3 3.0000-4 0.098451 0.062353 332000.0         LVLR.Orlandi+           (18)C2383  3 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      20033
+#AUTHOR1    R.Rieder+
+#YEAR       1966
+#INSTITUTE  (2AUSIRK)
+#TITLE      (n,2n)- cross sections of some nuclides with
+#+          neutron numbers close to the magic number 50
+#+          at neutron energies around 14 MeV
+#AUTHOR(S)  R.Rieder, H.Muenzer
+#REF-CODE   (J,APA,23,42,1966)
+#REFERENCE  Acta Physica Austr. 23 (1966) 42
+#DATASETS   0
+#
+#DATASET    20033009 
+#DATE       20200920
+#REACTION   40-ZR-90(N,2N)40-ZR-89-G,M+,SIG
+#PROJ       1
+#TARG       40090
+#MF         3
+#MT         459
+#PRODUCT    40-ZR-89-G
+#C4BEGIN    [    1 40090   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   3 459    1.4050+7 50000.00 0.595000 0.029750           40089.0                     R.Rieder+            (66)20033  9 
+    1 40090   3 459    1.4700+7 100000.0 0.737000 0.036850           40089.0                     R.Rieder+            (66)20033  9 
+#/DATA      2
+#/DATASET

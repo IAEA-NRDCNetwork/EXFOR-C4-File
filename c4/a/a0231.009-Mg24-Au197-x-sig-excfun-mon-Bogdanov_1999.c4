@@ -1,0 +1,34 @@
+#ENTRY      A0231
+#AUTHOR1    D.D.Bogdanov+
+#YEAR       1999
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Cross sections for the production of Pa, Th, and Ac
+#+          isotopes in the decays of highly excited compound
+#+          nuclei 221,223,225,227-Pa formed in reactions featuring
+#+          20,22-Ne and 24,26-Mg ions
+#AUTHOR(S)  D.D.Bogdanov, M.Veselsky, A.V.Yeremin, A.P.Kabachenko, O.N.Malyshev, 
+#+          Yu.A.Muzychka, B.I.Pustylnik, A.G.Popeko, R.N.Sagaidak, 
+#+          G.M.Ter-Akopian, V.I.Chepigin
+#REF-CODE   (J,YF,62,1931,1999)
+#REFERENCE  Yad.Fiz. 62 (1999) 1931
+#DATASETS   0
+#
+#DATASET    A0231009 
+#DATE       20220401
+#REACTION   79-AU-197(12-MG-24,X)89-AC-214,,SIG
+#PROJ       12024
+#TARG       79197
+#MF         3
+#MT         454
+#PRODUCT    89-AC-214
+#C4BEGIN    [12024 79197   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+12024 79197   3 454    4.0500+7 607500.0 1.3000-4 5.2000-5           89214.9                     D.D.Bogdanov+        (99)A0231  9 
+12024 79197   3 454    4.4500+7 667500.0 1.1500-4 4.6000-5           89214.9                     D.D.Bogdanov+        (99)A0231  9 
+12024 79197   3 454    4.7000+7 705000.0 1.0000-4 4.0000-5           89214.9                     D.D.Bogdanov+        (99)A0231  9 
+12024 79197   3 454    5.2000+7 780000.0 4.0000-5 1.6000-5           89214.9                     D.D.Bogdanov+        (99)A0231  9 
+12024 79197   3 454    5.8000+7 870000.0 6.0000-6 2.4000-6           89214.9                     D.D.Bogdanov+        (99)A0231  9 
+#/DATA      5
+#/DATASET

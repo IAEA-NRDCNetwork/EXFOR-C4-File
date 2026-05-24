@@ -1,0 +1,29 @@
+#ENTRY      41206
+#AUTHOR1    B.M.Golovin+
+#YEAR       1959
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Scattering of 590 MeV neutrons by protons in the small
+#+          angle region
+#AUTHOR(S)  B.M.Golovin, V.P.Dzhelepov, Yu.V.Katyshev, A.D.Konin, S.V.Medved'
+#REF-CODE   (J,JET,9,516,1959)
+#REFERENCE  J.Exp.Theor.Phys. 9 (1959) 516
+#DATASETS   0
+#
+#DATASET    41206002 
+#DATE       20241212
+#REACTION   1-H-1(N,EL)1-H-1,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4   2  C 590.0000          0.010000 1.5000-3 0.996195                              B.M.Golovin+         (59)41206  2 
+    1  1001   4   2  C 590.0000          8.2000-3 1.4000-3 0.990268                              B.M.Golovin+         (59)41206  2 
+    1  1001   4   2  C 590.0000          6.4000-3 9.0000-4 0.979925                              B.M.Golovin+         (59)41206  2 
+    1  1001   4   2  C 590.0000          4.3000-3 5.0000-4 0.920505                              B.M.Golovin+         (59)41206  2 
+#/DATA      4
+#/DATASET

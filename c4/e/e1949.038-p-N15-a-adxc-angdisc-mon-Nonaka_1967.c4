@@ -1,0 +1,35 @@
+#ENTRY      E1949
+#AUTHOR1    I.Nonaka+
+#YEAR       1967
+#INSTITUTE  (2JPNTOK)
+#TITLE      The reaction 15N(p,alpha)12C in the energy range of
+#+          protons from 6.70 to 15.16 MeV
+#AUTHOR(S)  I.Nonaka, T.Mikumo, M.Koike, K.Matsuda, A.Suzuki, Y.Nagahara, 
+#+          K.Kikuchi, T.Maki
+#REF-CODE   (J,JPJ,22,(4),949,196704)
+#REFERENCE  J.Phys.Soc.Jpn. 22 No.4 (1967) 949 (doi:10.1143/JPSJ.22.949)
+#DATASETS   0
+#
+#DATASET    E1949038 
+#DATE       20060906
+#REACTION   7-N-15(P,A)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       7015
+#MF         4
+#MT         800
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  7015   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7015   4 800  C 1.0270+7 40000.00 8.3610-3 6.4000-5 0.921525          4430000.         LVLI.Nonaka+            (67)E1949 38 
+ 1001  7015   4 800  C 1.0270+7 40000.00 7.4230-3 7.5000-5 0.827277          4430000.         LVLI.Nonaka+            (67)E1949 38 
+ 1001  7015   4 800  C 1.0270+7 40000.00 5.5550-3 7.4000-5 0.702898          4430000.         LVLI.Nonaka+            (67)E1949 38 
+ 1001  7015   4 800  C 1.0270+7 40000.00 3.8500-3 6.7000-5 0.553828          4430000.         LVLI.Nonaka+            (67)E1949 38 
+ 1001  7015   4 800  C 1.0270+7 40000.00 2.2840-3 4.8000-5 0.387033          4430000.         LVLI.Nonaka+            (67)E1949 38 
+ 1001  7015   4 800  C 1.0270+7 40000.00 1.8310-3 5.3000-5 0.210131          4430000.         LVLI.Nonaka+            (67)E1949 38 
+ 1001  7015   4 800  C 1.0270+7 40000.00 1.7910-3 4.5000-5 0.030539          4430000.         LVLI.Nonaka+            (67)E1949 38 
+ 1001  7015   4 800  C 1.0270+7 40000.00 2.5140-3 5.5000-5-0.145565          4430000.         LVLI.Nonaka+            (67)E1949 38 
+ 1001  7015   4 800  C 1.0270+7 40000.00 2.6620-3 5.8000-5-0.313164          4430000.         LVLI.Nonaka+            (67)E1949 38 
+#/DATA      9
+#/DATASET

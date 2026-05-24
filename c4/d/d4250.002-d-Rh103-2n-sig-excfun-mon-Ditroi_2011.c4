@@ -1,0 +1,35 @@
+#ENTRY      D4250
+#AUTHOR1    F.Ditroi+
+#YEAR       2011
+#INSTITUTE  (3HUNDEB)
+#TITLE      Study of activation cross-sections of deuteron
+#+          induced reactions on rhodium up to 40 MeV
+#AUTHOR(S)  F.Ditroi, F.Tarkanyi, S.Takacs, A.Hermanne, H.Yamazaki, 
+#+          M.Baba, A.Mohammadi, A.V.Ignatyuk
+#REF-CODE   (J,NIM/B,269,1963,2011)
+#REFERENCE  Nucl.Instrum.Meth.B 269 (2011) 1963 (doi:10.1016/j.nimb.2011.05.026)
+#DATASETS   0
+#
+#DATASET    D4250002 
+#DATE       20111208
+#REACTION   45-RH-103(D,2N)46-PD-103,,SIG
+#PROJ       1002
+#TARG       45103
+#MF         3
+#MT         16
+#PRODUCT    46-PD-103
+#C4BEGIN    [ 1002 45103   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 45103   3  16    3.9900+7 400000.0 0.117000 0.032000                                       F.Ditroi+            (11)D4250  2 
+ 1002 45103   3  16    3.7000+7 500000.0 0.120000 0.032000                                       F.Ditroi+            (11)D4250  2 
+ 1002 45103   3  16    3.3900+7 600000.0 0.111000 0.030000                                       F.Ditroi+            (11)D4250  2 
+ 1002 45103   3  16    3.0600+7 700000.0 0.129000 0.081000                                       F.Ditroi+            (11)D4250  2 
+ 1002 45103   3  16    2.7000+7 800000.0 0.098000 0.041000                                       F.Ditroi+            (11)D4250  2 
+ 1002 45103   3  16    2.3000+7 900000.0 0.206000 0.037000                                       F.Ditroi+            (11)D4250  2 
+ 1002 45103   3  16    1.8500+7 1000000. 0.659000 0.079000                                       F.Ditroi+            (11)D4250  2 
+ 1002 45103   3  16    1.3000+7 1200000. 0.965000 0.106000                                       F.Ditroi+            (11)D4250  2 
+ 1002 45103   3  16    4800000. 1400000. 0.018000 0.015000                                       F.Ditroi+            (11)D4250  2 
+#/DATA      9
+#/DATASET

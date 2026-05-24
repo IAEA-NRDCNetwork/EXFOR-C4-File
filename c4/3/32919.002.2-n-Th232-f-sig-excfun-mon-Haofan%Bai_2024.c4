@@ -1,0 +1,28 @@
+#ENTRY      32919
+#AUTHOR1    Haofan Bai+
+#YEAR       2024
+#INSTITUTE  (3CPRBJG)
+#TITLE      Measurement of cross section for the 232Th(n,f)
+#+          reaction using a time projection chamber
+#AUTHOR(S)  Haofan Bai, Han Yi, Yankun Sun, Zengqi Cui, Yiwei Hu, Jie Liu, 
+#+          Cong Xia, Wentian Cao, Tieshuan Fan, Guohui Zhang, Ruirui Fan, 
+#+          Yang Li, Wei Jiang, Yonghao Chen, You Lv, Weihua Jia, Zhiyong Zhang, 
+#+          Haolei Chen, Zhen Chen, Maoyuan Zhao, Changqing Feng, Shubin Liu
+#REF-CODE   (J,NIM/A,1058,168912,2024)
+#REFERENCE  Nucl.Instrum.Meth.A 1058 (2024) 168912 (doi:10.1016/j.nima.2023.168912)
+#DATASETS   0
+#
+#DATASET    329190022
+#DATE       20241010
+#REACTION   90-TH-232(N,F),,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [    1 90232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3  18    5000000. 190000.0 0.135000 0.014000                                       Haofan Bai+          (24)32919  22
+#/DATA      1
+#/DATASET

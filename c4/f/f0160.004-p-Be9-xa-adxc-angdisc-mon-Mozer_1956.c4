@@ -1,0 +1,26 @@
+#ENTRY      F0160
+#AUTHOR1    F.S.Mozer+
+#YEAR       1956
+#INSTITUTE  (1USACAL)
+#TITLE      Elastic scattering of protons by beryllium.
+#AUTHOR(S)  F.S.Mozer
+#REF-CODE   (J,PR,104,1386,1956)
+#REFERENCE  Phys.Rev. 104 (1956) 1386 (doi:10.1103/PhysRev.104.1386)
+#DATASETS   0
+#
+#DATASET    F0160004 
+#DATE       20170720
+#REACTION   4-BE-9(P,X)2-HE-4,,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  4009   4 207 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4 207 CC 333000.0          3.1472-5 2.9544-6 0.795200                              F.S.Mozer            (56)F0160  4 
+ 1001  4009   4 207 CC 333000.0          2.9180-5 2.6442-6 0.505200                              F.S.Mozer            (56)F0160  4 
+#/DATA      2
+#/DATASET

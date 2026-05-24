@@ -1,0 +1,30 @@
+#ENTRY      A0487
+#AUTHOR1    F.Tarkanyi+
+#YEAR       1991
+#INSTITUTE  (2GERJUL)
+#TITLE      Nuclear reaction cross sections relevant to the
+#+          production of the Xe-122 -> I-122 generator system
+#+          using highly enriched Xe-124 and a medium-sized
+#+          cyclotron.
+#AUTHOR(S)  F.Tarkanyi, S.M.Qaim, G.Stocklin, M.Sajjad, R.M.Lambrecht
+#REF-CODE   (J,ARI,42,229,1991)
+#REFERENCE  Appl.Radiat.Isot. 42 (1991) 229 (doi:10.1016/0883-2889(91)90081-B)
+#DATASETS   0
+#
+#DATASET    A0487004 
+#DATE       20160212
+#REACTION   54-XE-124(P,X)54-XE-121,CUM,SIG
+#PROJ       1001
+#TARG       54124
+#MF         3
+#MT         459
+#PRODUCT    54-XE-121
+#C4BEGIN    [ 1001 54124   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 54124   3 459    4.4000+7          0.161500 0.028700           54121.9                     F.Tarkanyi+          (91)A0487  4 
+ 1001 54124   3 459    4.2400+7          0.072500 0.015500           54121.9                     F.Tarkanyi+          (91)A0487  4 
+ 1001 54124   3 459    3.9700+7          0.015800 8.3000-3           54121.9                     F.Tarkanyi+          (91)A0487  4 
+#/DATA      3
+#/DATASET

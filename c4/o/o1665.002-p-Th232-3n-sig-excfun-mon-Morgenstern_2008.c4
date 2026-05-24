@@ -1,0 +1,41 @@
+#ENTRY      O1665
+#AUTHOR1    A.Morgenstern+
+#YEAR       2008
+#INSTITUTE  (2ZZZITU)
+#TITLE      Cross-sections of the reaction Th-232(p,3n)Pa-230
+#+          for production of U-230 for targeted alpha therapy.
+#AUTHOR(S)  A.Morgenstern, C.Apostolidis, F.Bruchertseifer, R.Capote, 
+#+          T.Gouder, F.Simonelli, M.Sin, K.Abbas
+#REF-CODE   (J,ARI,66,1275,2008)
+#REFERENCE  Appl.Radiat.Isot. 66 (2008) 1275 (doi:10.1016/j.apradiso.2008.02.066)
+#DATASETS   0
+#
+#DATASET    O1665002 
+#DATE       20191004
+#REACTION   90-TH-232(P,3N)91-PA-230,,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         17
+#PRODUCT    91-PA-230
+#C4BEGIN    [ 1001 90232   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3  17    1.6400+7 400000.0 0.090500 0.019000                                       A.Morgenstern+       (08)O1665  2 
+ 1001 90232   3  17    1.7600+7 400000.0 0.149500 0.010500                                       A.Morgenstern+       (08)O1665  2 
+ 1001 90232   3  17    1.8200+7 300000.0 0.239100 0.011500                                       A.Morgenstern+       (08)O1665  2 
+ 1001 90232   3  17    1.9900+7 200000.0 0.352500 0.014500                                       A.Morgenstern+       (08)O1665  2 
+ 1001 90232   3  17    2.1000+7 200000.0 0.342900 0.010200                                       A.Morgenstern+       (08)O1665  2 
+ 1001 90232   3  17    2.1500+7 100000.0 0.318700 0.020800                                       A.Morgenstern+       (08)O1665  2 
+ 1001 90232   3  17    2.2500+7 100000.0 0.315900 0.012400                                       A.Morgenstern+       (08)O1665  2 
+ 1001 90232   3  17    2.3500+7 100000.0 0.280700 0.021600                                       A.Morgenstern+       (08)O1665  2 
+ 1001 90232   3  17    2.4300+7 200000.0 0.217900 8.7000-3                                       A.Morgenstern+       (08)O1665  2 
+ 1001 90232   3  17    2.5200+7 500000.0 0.169500 0.014300                                       A.Morgenstern+       (08)O1665  2 
+ 1001 90232   3  17    2.6600+7 100000.0 0.107200 0.013200                                       A.Morgenstern+       (08)O1665  2 
+ 1001 90232   3  17    2.8000+7 600000.0 0.081800 9.0000-3                                       A.Morgenstern+       (08)O1665  2 
+ 1001 90232   3  17    2.8600+7 300000.0 0.080200 8.0000-3                                       A.Morgenstern+       (08)O1665  2 
+ 1001 90232   3  17    3.1600+7 100000.0 0.064800 8.3000-3                                       A.Morgenstern+       (08)O1665  2 
+ 1001 90232   3  17    3.4000+7 200000.0 0.050100 9.4000-3                                       A.Morgenstern+       (08)O1665  2 
+#/DATA      15
+#/DATASET

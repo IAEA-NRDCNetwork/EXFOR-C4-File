@@ -1,0 +1,32 @@
+#ENTRY      20898
+#AUTHOR1    M.Bormann+
+#YEAR       1966
+#INSTITUTE  (2GERHAM)
+#TITLE      Measurements of some fast neutron cross sections
+#+          with the activation method
+#AUTHOR(S)  M.Bormann, F.Dreyer, H.Neuert, I.Riehle, U.Zielinski
+#REF-CODE   (C,66PARIS,1,225,1966)
+#REFERENCE  Proceedings of Nuclear Data For Reactors Conf., Paris 1966 1 page 225
+#DATASETS   0
+#
+#DATASET    20898010 
+#DATE       20180309
+#REACTION   20-CA-40(N,T)19-K-38-G,,SIG
+#PROJ       1
+#TARG       20040
+#MF         3
+#MT         105
+#PRODUCT    19-K-38-G
+#C4BEGIN    [    1 20040   3 105G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20040   3 105G   1.4900+7          3.1000-5 5.0000-6                                       M.Bormann+           (66)20898 10 
+    1 20040   3 105G   1.6100+7          9.2000-5 1.1000-5                                       M.Bormann+           (66)20898 10 
+    1 20040   3 105G   1.7100+7          1.3500-4 1.5000-5                                       M.Bormann+           (66)20898 10 
+    1 20040   3 105G   1.7700+7          1.5700-4 1.7000-5                                       M.Bormann+           (66)20898 10 
+    1 20040   3 105G   1.8000+7          1.5800-4 1.7000-5                                       M.Bormann+           (66)20898 10 
+    1 20040   3 105G   1.8700+7          1.8800-4 2.0000-5                                       M.Bormann+           (66)20898 10 
+    1 20040   3 105G   1.9600+7          1.6900-4 1.8000-5                                       M.Bormann+           (66)20898 10 
+#/DATA      7
+#/DATASET

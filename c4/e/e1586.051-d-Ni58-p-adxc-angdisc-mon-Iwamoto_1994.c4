@@ -1,0 +1,38 @@
+#ENTRY      E1586
+#AUTHOR1    O.Iwamoto+
+#YEAR       1994
+#INSTITUTE  (2JPNKYU)
+#TITLE      Single-particle states in 59Ni with 58Ni(d,p)59Ni
+#+          reaction at 56 MeV and neutron-bound-state complex
+#+          potentials
+#AUTHOR(S)  O.Iwamoto, A.Nohtomi, Y.Uozumi, T.Sakae, M.Matoba, M.Nakano, 
+#+          T.Maki, N.Koori
+#REF-CODE   (J,NP/A,576,(3),387,199409)
+#REFERENCE  Nucl.Phys.A 576 No.3 (1994) 387 (doi:10.1016/0375-9474(94)90250-X)
+#DATASETS   0
+#
+#DATASET    E1586051 
+#DATE       20051219
+#REACTION   28-NI-58(D,P)28-NI-59,PAR,DA
+#PROJ       1002
+#TARG       28058
+#MF         4
+#MT         600
+#PRODUCT    28-NI-59
+#C4BEGIN    [ 1002 28058   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28058   4 600 AC 5.6000+7          5.3720-4 4.1420-5 0.996225          4817000.         LVLO.Iwamoto+           (94)E1586 51 
+ 1002 28058   4 600 AC 5.6000+7          4.8580-4 4.1790-5 0.990210          4817000.         LVLO.Iwamoto+           (94)E1586 51 
+ 1002 28058   4 600 AC 5.6000+7          1.2090-4 7.1870-6 0.954084          4817000.         LVLO.Iwamoto+           (94)E1586 51 
+ 1002 28058   4 600 AC 5.6000+7          8.8190-5 5.2450-6 0.936916          4817000.         LVLO.Iwamoto+           (94)E1586 51 
+ 1002 28058   4 600 AC 5.6000+7          7.2830-5 4.3310-6 0.917060          4817000.         LVLO.Iwamoto+           (94)E1586 51 
+ 1002 28058   4 600 AC 5.6000+7          7.0940-5 5.4700-6 0.894545          4817000.         LVLO.Iwamoto+           (94)E1586 51 
+ 1002 28058   4 600 AC 5.6000+7          6.1060-5 4.1670-6 0.869581          4817000.         LVLO.Iwamoto+           (94)E1586 51 
+ 1002 28058   4 600 AC 5.6000+7          4.3800-5 3.7680-6 0.831179          4817000.         LVLO.Iwamoto+           (94)E1586 51 
+ 1002 28058   4 600 AC 5.6000+7          3.0400-5 2.8890-6 0.790262          4817000.         LVLO.Iwamoto+           (94)E1586 51 
+ 1002 28058   4 600 AC 5.6000+7          1.8040-5 1.8780-6 0.742444          4817000.         LVLO.Iwamoto+           (94)E1586 51 
+ 1002 28058   4 600 AC 5.6000+7          1.2830-5 1.3350-6 0.681232          4817000.         LVLO.Iwamoto+           (94)E1586 51 
+#/DATA      11
+#/DATASET

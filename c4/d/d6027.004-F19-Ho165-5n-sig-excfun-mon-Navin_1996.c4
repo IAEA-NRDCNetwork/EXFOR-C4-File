@@ -1,0 +1,31 @@
+#ENTRY      D6027
+#AUTHOR1    A.Navin+
+#YEAR       1996
+#INSTITUTE  (3INDTRM)
+#TITLE      Fusion and transfer reactions in the 19F+165Ho
+#+          system at energies near the Coulomb barrier
+#AUTHOR(S)  A.Navin, A.Chatterjee, S.Kailas, A.Shrivastava, P.Singh, 
+#+          S.Kapoor
+#REF-CODE   (J,PR/C,54,767,1996)
+#REFERENCE  Phys.Rev.C 54 (1996) 767 (doi:10.1103/PhysRevC.54.767)
+#DATASETS   0
+#
+#DATASET    D6027004 
+#DATE       20071102
+#REACTION   67-HO-165(9-F-19,5N)76-OS-179,,SIG
+#PROJ       9019
+#TARG       67165
+#MF         3
+#MT         152
+#PRODUCT    76-OS-179
+#C4BEGIN    [ 9019 67165   3 152  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 9019 67165   3 152    5.0138+7          0.018224 5.0757-3                                       A.Navin+             (96)D6027  4 
+ 9019 67165   3 152    5.1066+7          0.042453 5.7670-3                                       A.Navin+             (96)D6027  4 
+ 9019 67165   3 152    5.3722+7          0.109180 7.1842-3                                       A.Navin+             (96)D6027  4 
+ 9019 67165   3 152    5.8252+7          0.272870 0.010116                                       A.Navin+             (96)D6027  4 
+ 9019 67165   3 152    6.2738+7          0.374050 0.017423                                       A.Navin+             (96)D6027  4 
+#/DATA      5
+#/DATASET

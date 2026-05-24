@@ -1,0 +1,34 @@
+#ENTRY      O2544
+#AUTHOR1    J.Kuehtreiber+
+#YEAR       2021
+#INSTITUTE  (2AUSVIE)
+#TITLE      6,7Li+27Al reactions close to and below the Coulomb
+#+          barrier
+#AUTHOR(S)  J.Kuehtreiber, P.Hille, O.Forstner, H.Friedmann, A.Pavlik, 
+#+          A.Priller
+#REF-CODE   (J,PR/C,103,064605,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 064605 (doi:10.1103/PhysRevC.103.064605)
+#DATASETS   0
+#
+#DATASET    O2544003 
+#DATE       20220304
+#REACTION   13-AL-27(3-LI-7,X)15-P-32,,SIG
+#PROJ       3007
+#TARG       13027
+#MF         3
+#MT         454
+#PRODUCT    15-P-32
+#C4BEGIN    [ 3007 13027   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 13027   3 454    3.2100+7          1.3000-4 2.0000-5           15032.9                     J.Kuehtreiber+       (21)O2544  3 
+ 3007 13027   3 454    3.2900+7          2.1400-3 2.8000-4           15032.9                     J.Kuehtreiber+       (21)O2544  3 
+ 3007 13027   3 454    3.3700+7          0.015800 1.8000-3           15032.9                     J.Kuehtreiber+       (21)O2544  3 
+ 3007 13027   3 454    3.4500+7          0.051000 6.0000-3           15032.9                     J.Kuehtreiber+       (21)O2544  3 
+ 3007 13027   3 454    3.5300+7          0.070000 8.0000-3           15032.9                     J.Kuehtreiber+       (21)O2544  3 
+ 3007 13027   3 454    3.6100+7          0.092000 0.011000           15032.9                     J.Kuehtreiber+       (21)O2544  3 
+ 3007 13027   3 454    3.6800+7          0.096000 0.011000           15032.9                     J.Kuehtreiber+       (21)O2544  3 
+ 3007 13027   3 454    3.7600+7          0.119000 0.013000           15032.9                     J.Kuehtreiber+       (21)O2544  3 
+#/DATA      8
+#/DATASET

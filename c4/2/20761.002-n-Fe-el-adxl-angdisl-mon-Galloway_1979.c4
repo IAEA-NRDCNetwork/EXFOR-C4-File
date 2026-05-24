@@ -1,0 +1,35 @@
+#ENTRY      20761
+#AUTHOR1    R.B.Galloway+
+#YEAR       1979
+#INSTITUTE  (2UK EDG)
+#TITLE      The differential cross section and polarization
+#+          for the elastic scattering of 2.9 MeV neutrons by
+#+          Fe, Cu, I, Hg and Pb
+#AUTHOR(S)  R.B.Galloway, A.Waheed
+#REF-CODE   (J,NP/A,318,173,1979)
+#REFERENCE  Nucl.Phys.A 318 (1979) 173 (doi:10.1016/0375-9474(79)90478-0)
+#DATASETS   0
+#
+#DATASET    20761002 
+#DATE       20230202
+#REACTION   26-FE-0(N,EL)26-FE-0,,DA
+#PROJ       1
+#TARG       26000
+#MF         4
+#MT         2
+#PRODUCT    26-FE-0
+#C4BEGIN    [    1 26000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   4   2    2900000.          0.956000 0.048000 0.939693                              R.B.Galloway+        (79)20761  2 
+    1 26000   4   2    2900000.          0.565000 0.029000 0.829038                              R.B.Galloway+        (79)20761  2 
+    1 26000   4   2    2900000.          0.230000 0.012000 0.669131                              R.B.Galloway+        (79)20761  2 
+    1 26000   4   2    2900000.          0.057000 3.0000-3 0.469472                              R.B.Galloway+        (79)20761  2 
+    1 26000   4   2    2900000.          0.020000 2.0000-3 0.241922                              R.B.Galloway+        (79)20761  2 
+    1 26000   4   2    2900000.          0.041000 2.0000-3 6.123-17                              R.B.Galloway+        (79)20761  2 
+    1 26000   4   2    2900000.          0.063000 4.0000-3-0.241922                              R.B.Galloway+        (79)20761  2 
+    1 26000   4   2    2900000.          0.074000 5.0000-3-0.669131                              R.B.Galloway+        (79)20761  2 
+    1 26000   4   2    2900000.          0.086000 5.0000-3-0.939693                              R.B.Galloway+        (79)20761  2 
+#/DATA      9
+#/DATASET

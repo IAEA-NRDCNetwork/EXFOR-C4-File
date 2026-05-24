@@ -1,0 +1,36 @@
+#ENTRY      20830
+#AUTHOR1    M.Bormann+
+#YEAR       1970
+#INSTITUTE  (2GERHAM)
+#TITLE      Total cross sections and isomeric cross section
+#+          ratios for (n,2n) reactions in the energy region
+#+          12 - 18 MeV
+#AUTHOR(S)  M.Bormann, H.H.Bissem, E.Magiera, R.Warnemunde
+#REF-CODE   (J,NP/A,157,481,197011)
+#REFERENCE  Nucl.Phys.A 157 (1970) 481 (doi:10.1016/0375-9474(70)90228-9)
+#DATASETS   0
+#
+#DATASET    20830017 
+#DATE       20131211
+#REACTION   78-PT-198(N,2N)78-PT-197-M,,SIG
+#PROJ       1
+#TARG       78198
+#MF         3
+#MT         16
+#PRODUCT    78-PT-197-M
+#C4BEGIN    [    1 78198   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 78198   3  16M   1.2650+7 50000.00 1.004000 0.073000                                       M.Bormann+           (70)20830 17 
+    1 78198   3  16M   1.3010+7 60000.00 1.089000 0.092000                                       M.Bormann+           (70)20830 17 
+    1 78198   3  16M   1.3540+7 60000.00 1.108000 0.082000                                       M.Bormann+           (70)20830 17 
+    1 78198   3  16M   1.4300+7 60000.00 1.147000 0.082000                                       M.Bormann+           (70)20830 17 
+    1 78198   3  16M   1.5040+7 60000.00 1.138000 0.096000                                       M.Bormann+           (70)20830 17 
+    1 78198   3  16M   1.5690+7 70000.00 1.100000 0.079000                                       M.Bormann+           (70)20830 17 
+    1 78198   3  16M   1.6330+7 80000.00 0.965000 0.062000                                       M.Bormann+           (70)20830 17 
+    1 78198   3  16M   1.6970+7 80000.00 0.749000 0.069000                                       M.Bormann+           (70)20830 17 
+    1 78198   3  16M   1.7590+7 90000.00 0.642000 0.045000                                       M.Bormann+           (70)20830 17 
+    1 78198   3  16M   1.8230+7 110000.0 0.505000 0.041000                                       M.Bormann+           (70)20830 17 
+#/DATA      10
+#/DATASET

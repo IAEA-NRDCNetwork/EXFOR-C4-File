@@ -1,0 +1,27 @@
+#ENTRY      33151
+#AUTHOR1    I.Pasha+
+#YEAR       2020
+#INSTITUTE  (3INDBGL)
+#TITLE      Measurement of 14.54 MeV neutron induced reaction
+#+          cross sections of Cr and Mn with covariance analysis
+#AUTHOR(S)  I.Pasha, B.Rudraswamy, S.Y.Santhi, S.V.Suryanarayana, H.Naik, 
+#+          C.V.Midhun, T.Patel
+#REF-CODE   (J,RCA,108,679,2020)
+#REFERENCE  Radiochim.Acta 108 (2020) 679 (doi:10.1515/ract-2019-3189)
+#DATASETS   0
+#
+#DATASET    33151003 
+#DATE       20210424
+#REACTION   24-CR-52(N,2N)24-CR-51,,SIG
+#PROJ       1
+#TARG       24052
+#MF         3
+#MT         16
+#PRODUCT    24-CR-51
+#C4BEGIN    [    1 24052   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24052   3  16    1.4540+7 240000.0 0.385700 0.049600                                       I.Pasha+             (20)33151  3 
+#/DATA      1
+#/DATASET

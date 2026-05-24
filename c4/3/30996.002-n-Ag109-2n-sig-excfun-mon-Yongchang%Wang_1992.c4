@@ -1,0 +1,32 @@
+#ENTRY      30996
+#AUTHOR1    Yongchang Wang+
+#YEAR       1992
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Cross-section measurement for 109Ag(n,2n)108mAg
+#+          reaction
+#AUTHOR(S)  Yongchang Wang, Junqian Yuan, Jingkang Yang, Huamin Wang, 
+#+          Yongqing Shui, Zhongliang Ren
+#REF-CODE   (J,NSE,111,314,1992)
+#REFERENCE  Nucl.Sci.Eng. 111 (1992) 314 (doi:10.13182/NSE92-A23944)
+#DATASETS   0
+#
+#DATASET    30996002 
+#DATE       20150524
+#REACTION   47-AG-109(N,2N)47-AG-108-M,,SIG
+#PROJ       1
+#TARG       47109
+#MF         3
+#MT         16
+#PRODUCT    47-AG-108-M
+#C4BEGIN    [    1 47109   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 47109   3  16M   1.3600+7 100000.0 0.733000 0.088000                                       Yongchang Wang+      (92)30996  2 
+    1 47109   3  16M   1.3800+7 100000.0 0.733000 0.059000                                       Yongchang Wang+      (92)30996  2 
+    1 47109   3  16M   1.4100+7 100000.0 0.747000 0.066000                                       Yongchang Wang+      (92)30996  2 
+    1 47109   3  16M   1.4300+7 100000.0 0.737000 0.026000                                       Yongchang Wang+      (92)30996  2 
+    1 47109   3  16M   1.4600+7 100000.0 0.763000 0.026000                                       Yongchang Wang+      (92)30996  2 
+    1 47109   3  16M   1.4800+7 100000.0 0.777000 0.023000                                       Yongchang Wang+      (92)30996  2 
+#/DATA      6
+#/DATASET

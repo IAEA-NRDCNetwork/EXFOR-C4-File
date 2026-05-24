@@ -1,0 +1,35 @@
+#ENTRY      14341
+#AUTHOR1    S.MacMullin+
+#YEAR       2012
+#INSTITUTE  (1USANCA)
+#TITLE      Partial gamma-ray production cross sections for
+#+          (n,xng) reactions in natural argon at 1 - 30 MeV
+#AUTHOR(S)  S.MacMullin, M.Boswell, M.Devlin, S.R.Elliott, N.Fotiades, 
+#+          V.E.Guiseppe, R.Henning, T.Kawano, B.H.LaRoque, R.O.Nelson, 
+#+          J.M.O'Donnell
+#REF-CODE   (J,PR/C,85,064614,2012)
+#REFERENCE  Phys.Rev.C 85 (2012) 064614 (doi:10.1103/PhysRevC.85.064614)
+#DATASETS   0
+#
+#DATASET    14341004 
+#DATE       20120704
+#REACTION   18-AR-40(N,INL)18-AR-40,PAR,SIG,G
+#PROJ       1
+#TARG       18040
+#MF         13
+#MT         51
+#PRODUCT    18-AR-40
+#C4BEGIN    [    1 18040  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 18040  13  51    2300000. 200000.0 0.030000 6.0000-3                   2524000.            S.MacMullin+         (12)14341  4 
+    1 18040  13  51    3000000. 200000.0 0.059000 9.0000-3                   2524000.            S.MacMullin+         (12)14341  4 
+    1 18040  13  51    3400000. 200000.0 0.080000 0.010000                   2524000.            S.MacMullin+         (12)14341  4 
+    1 18040  13  51    3800000. 200000.0 0.110000 0.020000                   2524000.            S.MacMullin+         (12)14341  4 
+    1 18040  13  51    4200000. 200000.0 0.130000 0.020000                   2524000.            S.MacMullin+         (12)14341  4 
+    1 18040  13  51    4700000. 300000.0 0.110000 0.020000                   2524000.            S.MacMullin+         (12)14341  4 
+    1 18040  13  51    5300000. 300000.0 0.110000 0.020000                   2524000.            S.MacMullin+         (12)14341  4 
+    1 18040  13  51    6000000. 300000.0 0.100000 0.020000                   2524000.            S.MacMullin+         (12)14341  4 
+#/DATA      8
+#/DATASET

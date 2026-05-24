@@ -1,0 +1,26 @@
+#ENTRY      10088
+#AUTHOR1    L.Husain+
+#YEAR       1970
+#INSTITUTE  (1USAARK)
+#TITLE      Neutron Activation Cross Sections at 14.8 MeV for
+#+          Rubidium, Zirconium, and Niobium
+#AUTHOR(S)  L.Husain, A.Bari, P.K.Kuroda
+#REF-CODE   (J,PR/C,1,1233,1970)
+#REFERENCE  Phys.Rev.C 1 (1970) 1233 (doi:10.1103/PhysRevC.1.1233)
+#DATASETS   0
+#
+#DATASET    10088007 
+#DATE       20260110
+#REACTION   40-ZR-90(N,P)39-Y-90-M,,SIG
+#PROJ       1
+#TARG       40090
+#MF         3
+#MT         103
+#PRODUCT    39-Y-90-M
+#C4BEGIN    [    1 40090   3 103MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   3 103MA  1.4800+7 200000.0 0.013000 1.0000-3                                       L.Husain+            (70)10088  7 
+#/DATA      1
+#/DATASET

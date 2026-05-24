@@ -1,0 +1,26 @@
+#ENTRY      31458
+#AUTHOR1    N.L.Maidana+
+#YEAR       1994
+#INSTITUTE  (3BZLIPE)
+#TITLE      Measurements of U-235 fission neutron spectrum
+#+          averaged cross sections for threshold reactions.
+#AUTHOR(S)  N.L.Maidana, M.S.Dias, L.P.Geraldo
+#REF-CODE   (J,RCA,64,(1),7,1994)
+#REFERENCE  Radiochim.Acta 64 No.1 (1994) 7 (doi:10.1524/ract.1994.64.1.7)
+#DATASETS   0
+#
+#DATASET    31458013 
+#DATE       20100307
+#REACTION   40-ZR-90(N,2N)40-ZR-89,,SIG,,FIS
+#PROJ       1
+#TARG       40090
+#MF         3
+#MT         16
+#PRODUCT    40-ZR-89
+#C4BEGIN    [    1 40090   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   3  16    1500000.          1.0500-4 4.8000-6                                       N.L.Maidana+         (94)31458 13 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      O0608
+#AUTHOR1    H.G.de Carvalho+
+#YEAR       1963
+#INSTITUTE  (2ZZZCER)
+#TITLE      Fission of uranium, thorium and bismuth by 20 GeV
+#+          protons
+#AUTHOR(S)  H.G.de Carvalho, G.Cortini, M.Muchnik, G.Potenza, R.Rinzivillo, 
+#+          W.O.Lock
+#REF-CODE   (J,NC,27,468,1963)
+#REFERENCE  Nuovo Cim. 27 (1963) 468 (doi:10.1007/BF02785555)
+#DATASETS   0
+#
+#DATASET    O0608003 
+#DATE       20230406
+#REACTION   90-TH-232(P,F),,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 90232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3  18    2.000+10          0.170000 0.070000                                       H.G.de Carvalho+     (63)O0608  3 
+ 1001 90232   3  18    2.180+10          0.200000 0.050000                                       H.G.de Carvalho+     (63)O0608  3 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      E0931
+#AUTHOR1    Y.Fujita+
+#YEAR       1985
+#INSTITUTE  (2JPNOSA)
+#TITLE      High-resolution study of 49Cr through the (p,d)
+#+          reaction
+#AUTHOR(S)  Y.Fujita, S.Morinobu, I.Katayama, M.Fujiwara, T.Yamazaki, 
+#+          H.Ikegami, H.Taketani, M.Adachi, T.Matsuzaki, M.Matoba, 
+#+          N.Koori
+#REF-CODE   (J,NP/A,435,7,1985)
+#REFERENCE  Nucl.Phys.A 435 (1985) 7 (doi:10.1016/0375-9474(85)90299-4)
+#DATASETS   0
+#
+#DATASET    E0931052 
+#DATE       20260503
+#REACTION   24-CR-50(P,D)24-CR-49,PAR,DA
+#PROJ       1001
+#TARG       24050
+#MF         4
+#MT         650
+#PRODUCT    24-CR-49
+#C4BEGIN    [ 1001 24050   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   4 650  C 5.5000+7          2.6530-5 2.5700-6 0.985196          6705000.         LVLT.Fujita+            (85)E0931 52 
+ 1001 24050   4 650  C 5.5000+7          2.7270-5 2.6400-6 0.974675          6705000.         LVLT.Fujita+            (85)E0931 52 
+ 1001 24050   4 650  C 5.5000+7          2.7590-5 2.2100-6 0.961406          6705000.         LVLT.Fujita+            (85)E0931 52 
+ 1001 24050   4 650  C 5.5000+7          1.9890-5 1.9200-6 0.946947          6705000.         LVLT.Fujita+            (85)E0931 52 
+ 1001 24050   4 650  C 5.5000+7          1.7790-5 1.1400-6 0.926029          6705000.         LVLT.Fujita+            (85)E0931 52 
+ 1001 24050   4 650  C 5.5000+7          1.2410-5 2.0900-6 0.894381          6705000.         LVLT.Fujita+            (85)E0931 52 
+ 1001 24050   4 650  C 5.5000+7          8.6490-6 6.9300-7 0.846342          6705000.         LVLT.Fujita+            (85)E0931 52 
+ 1001 24050   4 650  C 5.5000+7          4.9360-6 3.9400-7 0.797078          6705000.         LVLT.Fujita+            (85)E0931 52 
+#/DATA      8
+#/DATASET

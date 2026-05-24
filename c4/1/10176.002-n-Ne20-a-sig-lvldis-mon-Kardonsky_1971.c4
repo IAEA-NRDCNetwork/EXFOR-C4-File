@@ -1,0 +1,31 @@
+#ENTRY      10176
+#AUTHOR1    S.Kardonsky+
+#YEAR       1971
+#INSTITUTE  (1USABLN)
+#TITLE      Reactions of 20Ne with 14.3 MeV Neutrons.
+#AUTHOR(S)  S.Kardonsky, H.L.Finston, E.T.Williams
+#REF-CODE   (J,PR/C,4,846,197109)
+#REFERENCE  Phys.Rev.C 4 (1971) 846 (doi:10.1103/PhysRevC.4.846)
+#DATASETS   0
+#
+#DATASET    10176002 
+#DATE       20001214
+#REACTION   10-NE-20(N,A)8-O-17,PAR,SIG
+#PROJ       1
+#TARG       10020
+#MF         3
+#MT         800
+#PRODUCT    8-O-17
+#C4BEGIN    [    1 10020   3 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 10020   3 800 A  1.4300+7          6.6000-3 2.4000-3                   0.000000         LVLS.Kardonsky+         (71)10176  2 
+    1 10020   3 800 A  1.4300+7          1.0000-3 4.0000-4                   830000.0 90000.00LVLS.Kardonsky+         (71)10176  2 
+    1 10020   3 800 A  1.4300+7          1.5000-3 4.0000-4                   3180000. 120000.0LVLS.Kardonsky+         (71)10176  2 
+    1 10020   3 800 A  1.4300+7          2.0000-3 4.0000-4                   3900000. 70000.00LVLS.Kardonsky+         (71)10176  2 
+    1 10020   3 800 A  1.4300+7          1.3000-3 3.0000-4                   4630000. 120000.0LVLS.Kardonsky+         (71)10176  2 
+    1 10020   3 800 A  1.4300+7          4.0000-4                            5550000. 100000.0LVLS.Kardonsky+         (71)10176  2 
+    1 10020   3 800 A  1.4300+7          1.0000-4                            5900000. 100000.0LVLS.Kardonsky+         (71)10176  2 
+#/DATA      7
+#/DATASET

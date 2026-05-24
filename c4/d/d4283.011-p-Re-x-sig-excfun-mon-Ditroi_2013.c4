@@ -1,0 +1,30 @@
+#ENTRY      D4283
+#AUTHOR1    F.Ditroi+
+#YEAR       2013
+#INSTITUTE  (3HUNDEB)
+#TITLE      Investigation of activation cross-section data of
+#+          proton induced nuclear reactions on rhenium
+#AUTHOR(S)  F.Ditroi, F.Tarkanyi, S.Takacs, A.Hermanne, H.Yamazaki, 
+#+          M.Baba, A.Mohammadi, A.V.Ignatyuk
+#REF-CODE   (J,ARI,77,103,2013)
+#REFERENCE  Appl.Radiat.Isot. 77 (2013) 103 (doi:10.1016/j.apradiso.2013.02.024)
+#DATASETS   0
+#
+#DATASET    D4283011 
+#DATE       20130417
+#REACTION   75-RE-0(P,X)75-RE-182-M,,SIG
+#PROJ       1001
+#TARG       75000
+#MF         3
+#MT         454
+#PRODUCT    75-RE-182-M
+#C4BEGIN    [ 1001 75000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 75000   3 454    3.3200+7 400000.0 3.0000-3 6.1000-3           75182.7                     F.Ditroi+            (13)D4283 11 
+ 1001 75000   3 454    3.3900+7 400000.0 6.0000-3 9.2000-3           75182.7                     F.Ditroi+            (13)D4283 11 
+ 1001 75000   3 454    3.5300+7 300000.0 0.010000 0.010600           75182.7                     F.Ditroi+            (13)D4283 11 
+ 1001 75000   3 454    3.6600+7 300000.0 0.014000 9.1000-3           75182.7                     F.Ditroi+            (13)D4283 11 
+#/DATA      4
+#/DATASET

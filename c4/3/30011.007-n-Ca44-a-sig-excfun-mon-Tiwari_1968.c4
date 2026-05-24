@@ -1,0 +1,26 @@
+#ENTRY      30011
+#AUTHOR1    P.N.Tiwari+
+#YEAR       1968
+#INSTITUTE  (3INDTAT)
+#TITLE      Activation cross sections of calcium, potassium, and
+#+          aluminum for 14.2-MeV neutrons.
+#AUTHOR(S)  P.N.Tiwari, E.Kondaiah
+#REF-CODE   (J,PR,167,1091,1968)
+#REFERENCE  Phys.Rev. 167 (1968) 1091 (doi:10.1103/PhysRev.167.1091)
+#DATASETS   0
+#
+#DATASET    30011007 
+#DATE       20070806
+#REACTION   20-CA-44(N,A)18-AR-41,,SIG
+#PROJ       1
+#TARG       20044
+#MF         3
+#MT         107
+#PRODUCT    18-AR-41
+#C4BEGIN    [    1 20044   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20044   3 107    1.4200+7 200000.0 0.035000 3.0000-3                                       P.N.Tiwari+          (68)30011  7 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      E2693
+#AUTHOR1    M.Aikawa+
+#YEAR       2021
+#INSTITUTE  (2JPNHOK)
+#TITLE      Activation cross sections of deuteron-induced
+#+          reactions on praseodymium up to 24 MeV
+#AUTHOR(S)  M.Aikawa, T.Maehashi, D.Ichinkhorloo, S.Ebata, Y.Komori, 
+#+          H.Haba
+#REF-CODE   (J,NIM/B,498,23,2021)
+#REFERENCE  Nucl.Instrum.Meth.B 498 (2021) 23 (doi:10.1016/j.nimb.2021.04.011)
+#DATASETS   0
+#
+#DATASET    E2693009 
+#DATE       20220622
+#REACTION   59-PR-141(D,X)58-CE-139,CUM,SIG
+#PROJ       1002
+#TARG       59141
+#MF         3
+#MT         459
+#PRODUCT    58-CE-139
+#C4BEGIN    [ 1002 59141   3 459 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 59141   3 459 C  2.3600+7 100000.0 5.2900-3 6.7000-4           58139.9                     M.Aikawa+            (21)E2693  9 
+ 1002 59141   3 459 C  2.1900+7 100000.0 4.5400-3 5.7000-4           58139.9                     M.Aikawa+            (21)E2693  9 
+ 1002 59141   3 459 C  2.0200+7 200000.0 4.7900-3 6.0000-4           58139.9                     M.Aikawa+            (21)E2693  9 
+ 1002 59141   3 459 C  1.8300+7 200000.0 4.3100-3 5.4000-4           58139.9                     M.Aikawa+            (21)E2693  9 
+ 1002 59141   3 459 C  1.6300+7 300000.0 4.3800-3 5.5000-4           58139.9                     M.Aikawa+            (21)E2693  9 
+ 1002 59141   3 459 C  1.4100+7 400000.0 3.6300-3 4.6000-4           58139.9                     M.Aikawa+            (21)E2693  9 
+ 1002 59141   3 459 C  1.1700+7 500000.0 2.3800-3 3.0000-4           58139.9                     M.Aikawa+            (21)E2693  9 
+ 1002 59141   3 459 C  8800000. 700000.0 6.2200-4 8.4000-5           58139.9                     M.Aikawa+            (21)E2693  9 
+ 1002 59141   3 459 C  5100000. 1100000. 2.9100-5 4.5000-6           58139.9                     M.Aikawa+            (21)E2693  9 
+#/DATA      9
+#/DATASET

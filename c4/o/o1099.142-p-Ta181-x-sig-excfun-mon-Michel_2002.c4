@@ -1,0 +1,32 @@
+#ENTRY      O1099
+#AUTHOR1    R.Michel+
+#YEAR       2002
+#INSTITUTE  (2GERUH)
+#TITLE      Cross sections for the production of radionuclides by
+#+          proton-induced reactions on W, Ta, Pb and Bi from
+#+          thresholds up to 2.6 GeV
+#AUTHOR(S)  R.Michel, M.Gloris, J.Protoschill, U.Herpers, J.Kuhnhenn, 
+#+          F.Sudbrock, P.Malmborg, P.Kubik
+#REF-CODE   (J,NSTS,2,242,2002)
+#REFERENCE  Nucl.Sci.Techn.Supp. 2 (2002) 242
+#DATASETS   0
+#
+#DATASET    O1099142 
+#DATE       20220120
+#REACTION   73-TA-181(P,X)71-LU-177-M,,SIG
+#PROJ       1001
+#TARG       73181
+#MF         3
+#MT         454
+#PRODUCT    71-LU-177-M
+#C4BEGIN    [ 1001 73181   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 73181   3 454    3.3700+8 2000000. 1.4400-4 2.7000-5           71177.7                     R.Michel+            (02)O1099142 
+ 1001 73181   3 454    9.8600+8 1000000. 2.4500-4 3.7000-5           71177.7                     R.Michel+            (02)O1099142 
+ 1001 73181   3 454    1.3800+9 1000000. 2.5500-4 3.9000-5           71177.7                     R.Michel+            (02)O1099142 
+ 1001 73181   3 454    1.5700+9 1000000. 2.4800-4 3.5000-5           71177.7                     R.Michel+            (02)O1099142 
+ 1001 73181   3 454    2.5800+9 1000000. 3.1100-4 6.5000-5           71177.7                     R.Michel+            (02)O1099142 
+#/DATA      5
+#/DATASET

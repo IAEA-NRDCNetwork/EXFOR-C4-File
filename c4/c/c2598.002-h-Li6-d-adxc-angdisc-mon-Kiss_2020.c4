@@ -1,0 +1,61 @@
+#ENTRY      C2598
+#AUTHOR1    G.G.Kiss+
+#YEAR       2020
+#INSTITUTE  (3HUNDEB)
+#TITLE      Astrophysical S-factor for the 3He(alpha,gamma)7Be
+#+          reaction via the asymptotic normalization
+#+          coefficient (ANC) method
+#AUTHOR(S)  G.G.Kiss, M.La Cognata, C.Spitaleri, R.Yarmukhamedov, I.Wiedenhover, 
+#+          L.T.Baby, S.Cherubini, A.Cvetinovic, G.D'Agata, P.Figuera, 
+#+          G.L.Guardo, M.Gulino, S.Hayakawa, I.Indelicato, L.Lamia, 
+#+          M.Lattuada, F.Mudo, S.Palmerini, R.G.Pizzone, G.G.Rapisarda, 
+#+          S.Romano, M.L.Sergi, R.Sparta, O.Trippella, A.Tumino, M.Anastasiou, 
+#+          S.A.Kuvin, N.Rijal, B.Schmidt, S.B.Igamov, S.B.Sakuta, K.I.Tursunmakhatov, 
+#+          Zs.Fulop, Gy.Gyurky, T.Szucs, Z.Halasz, E.Somorjai, Z.Hons, 
+#+          J.Mrazek, R.E.Tribble, A.M.Mukhamedzhanov
+#REF-CODE   (J,PL/B,807,135606,2020)
+#REFERENCE  Phys.Lett.B 807 (2020) 135606 (doi:10.1016/j.physletb.2020.135606)
+#DATASETS   0
+#
+#DATASET    C2598002 
+#DATE       20210622
+#REACTION   3-LI-6(HE3,D)4-BE-7,PAR,DA
+#PROJ       2003
+#TARG       3006
+#MF         4
+#MT         650
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 2003  3006   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  3006   4 650  C 3000000.          0.040500 7.0000-4 0.920505          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.048900 9.0000-4 0.868632          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.044300 8.0000-4 0.805928          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.049900 8.0000-4 0.728969          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.042700 9.0000-4 0.645458          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.034200 7.0000-4 0.553392          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.027200 7.0000-4 0.461749          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.021800 6.0000-4 0.359997          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.016700 8.0000-4 0.260505          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.016900 7.0000-4 0.156434          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.017800 7.0000-4 0.052336          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.021400 7.0000-4-0.040132          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.022500 7.0000-4-0.140901          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.022000 7.0000-4-0.228351          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.028600 1.1000-3-0.318959          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.035600 1.2000-3-0.607376          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.038600 1.3000-3-0.669131          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.037500 1.3000-3-0.716911          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.038700 1.4000-3-0.764921          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.036000 1.0000-3-0.806960          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.034700 1.4000-3-0.845262          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.031600 1.3000-3-0.877983          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.031600 1.3000-3-0.906308          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.030000 1.3000-3-0.929776          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.030900 1.3000-3-0.951057          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.028100 1.3000-3-0.965473          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.027700 1.3000-3-0.980271          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+ 2003  3006   4 650  C 3000000.          0.023600 1.4000-3-0.989526          0.000000         LVLG.G.Kiss+            (20)C2598  2 
+#/DATA      28
+#/DATASET

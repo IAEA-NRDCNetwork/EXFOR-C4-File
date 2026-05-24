@@ -1,0 +1,25 @@
+#ENTRY      O0475
+#AUTHOR1    V.Meyer+
+#YEAR       1960
+#INSTITUTE  (1USAMIN)
+#TITLE      Total Reaction Cross Sections of Several Nuclei For
+#+          61-MeV Protons.
+#AUTHOR(S)  V.Meyer, R.M.Eisberg, R.F.Carlson
+#REF-CODE   (J,PR,117,1334,1960)
+#REFERENCE  Phys.Rev. 117 (1960) 1334 (doi:10.1103/PhysRev.117.1334)
+#DATASETS   0
+#
+#DATASET    O0475005 
+#DATE       20000426
+#REACTION   50-SN-0(P,NON),,SIG
+#PROJ       1001
+#TARG       50000
+#MF         3
+#MT         3
+#C4BEGIN    [ 1001 50000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50000   3   3    6.1000+7 4500000. 0.995000 0.070000                                       V.Meyer+             (60)O0475  5 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,41 @@
+#ENTRY      C1803
+#AUTHOR1    J.F.Liang+
+#YEAR       2009
+#INSTITUTE  (1USAORL)
+#TITLE      Dynamic polarization in the Coulomb breakup of
+#+          loosely bound 17F
+#AUTHOR(S)  J.F.Liang, J.R.Beene, A.L.Caraley, H.Esbensen, A.Galindo-Uribarri, 
+#+          C.J.Gross, P.E.Mueller, K.T.Schmitt, D.Shapira, D.W.Stracener, 
+#+          R.L.Varner
+#REF-CODE   (J,PL/B,681,22,2009)
+#REFERENCE  Phys.Lett.B 681 (2009) 22 (doi:10.1016/j.physletb.2009.09.055)
+#DATASETS   0
+#
+#DATASET    C1803002 
+#DATE       20100702
+#REACTION   28-NI-58(9-F-17,EL)28-NI-58,,DA,,RTH
+#PROJ       9017
+#TARG       28058
+#MF         4
+#MT         2
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 9017 28058   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 9017 28058   4   2  C 1.7000+8          45.60202 0.088290 0.979223                              J.F.Liang+           (09)C1803  2 
+ 9017 28058   4   2  C 1.7000+8          29.91711 0.059834 0.974761                              J.F.Liang+           (09)C1803  2 
+ 9017 28058   4   2  C 1.7000+8          17.71983 0.041990 0.969872                              J.F.Liang+           (09)C1803  2 
+ 9017 28058   4   2  C 1.7000+8          9.810051 0.031143 0.965016                              J.F.Liang+           (09)C1803  2 
+ 9017 28058   4   2  C 1.7000+8          5.169079 0.023025 0.959314                              J.F.Liang+           (09)C1803  2 
+ 9017 28058   4   2  C 1.7000+8          2.904952 0.017395 0.953191                              J.F.Liang+           (09)C1803  2 
+ 9017 28058   4   2  C 1.7000+8          1.533246 0.013391 0.946649                              J.F.Liang+           (09)C1803  2 
+ 9017 28058   4   2  C 1.7000+8          0.807073 0.010690 0.940288                              J.F.Liang+           (09)C1803  2 
+ 9017 28058   4   2  C 1.7000+8          0.428181 8.4788-3 0.932954                              J.F.Liang+           (09)C1803  2 
+ 9017 28058   4   2  C 1.7000+8          0.211232 3.4070-3 0.925210                              J.F.Liang+           (09)C1803  2 
+ 9017 28058   4   2  C 1.7000+8          0.108043 2.7703-3 0.917060                              J.F.Liang+           (09)C1803  2 
+ 9017 28058   4   2  C 1.7000+8          0.064772 2.3133-3 0.909236                              J.F.Liang+           (09)C1803  2 
+ 9017 28058   4   2  C 1.7000+8          0.036440 1.9179-3 0.900319                              J.F.Liang+           (09)C1803  2 
+ 9017 28058   4   2  C 1.7000+8          0.017905 3.2555-3 0.891798                              J.F.Liang+           (09)C1803  2 
+#/DATA      14
+#/DATASET

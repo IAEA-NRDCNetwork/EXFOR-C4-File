@@ -1,0 +1,59 @@
+#ENTRY      O2331
+#AUTHOR1    J.P.Fernandez-Garcia+
+#YEAR       2015
+#INSTITUTE  (2ITYLNS)
+#TITLE      Effects of coupling to breakup in the 6,7Li + 64Zn
+#+          systems at near-barrier energies.
+#AUTHOR(S)  J.P.Fernandez-Garcia, M.Zadro, A.Di Pietro, P.Figuera, M.Fisichella, 
+#+          O.Goryunov, M.Lattuada, C.Marchetta, A.M.Moro, A.Musumarra, 
+#+          V.Ostashko, M.G.Pellegriti, V.Scuderi, E.Strano, D.Torresi
+#REF-CODE   (J,PR/C,92,054602,2015)
+#REFERENCE  Phys.Rev.C 92 (2015) 054602 (doi:10.1103/PhysRevC.92.054602)
+#DATASETS   0
+#
+#DATASET    O2331005 
+#DATE       20160724
+#REACTION   30-ZN-64(3-LI-7,EL)30-ZN-64,,DA,,RTH
+#PROJ       3007
+#TARG       30064
+#MF         4
+#MT         2
+#PRODUCT    30-ZN-64
+#C4BEGIN    [ 3007 30064   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 30064   4   2  C 1.6559+7          13.97360 1.040211 0.883193                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          8.817362 0.573845 0.854005                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          4.828820 0.266545 0.803026                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          3.539749 0.195393 0.770402                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          2.714239 0.175670 0.735624                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          1.911636 0.133429 0.679697                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          1.521811 0.076658 0.639976                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          1.209441 0.066771 0.593840                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.878505 0.040106 0.525472                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.738909 0.040860 0.484810                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.591827 0.041156 0.440253                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.428454 0.029847 0.361625                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.345617 0.020144 0.308685                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.291480 0.012309 0.266061                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.198863 0.012919 0.170381                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.142153 9.0358-3 0.079155                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.105285 7.3221-3-4.0142-3                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.075815 4.9165-3-0.093239                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.055316 3.6001-3-0.170381                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.042766 2.7217-3-0.248859                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.036959 2.5699-3-0.286357                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.032778 2.2888-3-0.342348                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.024666 1.1261-3-0.422302                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.022012 1.5386-3-0.441349                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.019223 1.1574-3-0.496217                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.015845 9.5208-4-0.566550                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.013011 4.6323-4-0.630811                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          0.010853 5.9897-4-0.697290                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          9.3820-3 5.6458-4-0.748493                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          7.6568-3 3.4934-4-0.797584                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          6.5100-3 3.7906-4-0.848048                              J.P.Fernandez-Garcia+(15)O2331  5 
+ 3007 30064   4   2  C 1.6559+7          6.1740-3 3.2659-4-0.884744                              J.P.Fernandez-Garcia+(15)O2331  5 
+#/DATA      32
+#/DATASET

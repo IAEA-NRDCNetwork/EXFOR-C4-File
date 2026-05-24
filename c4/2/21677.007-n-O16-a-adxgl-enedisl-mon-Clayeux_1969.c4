@@ -1,0 +1,27 @@
+#ENTRY      21677
+#AUTHOR1    G.Clayeux+
+#YEAR       1969
+#INSTITUTE  (2FR VNV)
+#TITLE      Recoil spectra produced by 14.1 MeV neutrons
+#AUTHOR(S)  G.Clayeux, G.Grenier
+#REF-CODE   (R,CEA-R-3807,1969)
+#REFERENCE  Report CEA-R-3807, 1969
+#DATASETS   0
+#
+#DATASET    21677007 
+#DATE       20170811
+#REACTION   8-O-16(N,A)6-C-13,PAR,DA,G
+#PROJ       1
+#TARG       8016
+#MF         14
+#MT         800
+#PRODUCT    6-C-13
+#C4BEGIN    [    1  8016  14 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016  14 800    1.4100+7 100000.0 1.5000-3 4.0000-4 6.123-17          3090000.            G.Clayeux+           (69)21677  7 
+    1  8016  14 800    1.4100+7 100000.0 3.0000-3 6.0000-4 6.123-17          3680000.            G.Clayeux+           (69)21677  7 
+    1  8016  14 800    1.4100+7 100000.0 2.4000-3 5.0000-4 6.123-17          3850000.            G.Clayeux+           (69)21677  7 
+#/DATA      3
+#/DATASET

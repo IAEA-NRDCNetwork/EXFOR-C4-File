@@ -1,0 +1,34 @@
+#ENTRY      A0218
+#AUTHOR1    V.G.Batij+
+#YEAR       1984
+#INSTITUTE  (4RUSMOS)
+#TITLE      Excitation function of (d,p) and (d,2n) reactions
+#+          induced by deuterons on the antimony isotopes
+#AUTHOR(S)  V.G.Batij, K.A.Baskova, Ju.N.Rakivnenko, O.A.Rastrepin, 
+#+          E.A.Skakun, T.V.Chugaj, L.Ja.Shavtvalov
+#REF-CODE   (C,84ALMAAT,,356,1984)
+#REFERENCE  Proceedings of 34.Conf.on Nucl.Spectr.A.Nucl.Struct.,Alma-Ata 1984 page 356
+#DATASETS   0
+#
+#DATASET    A0218004 
+#DATE       20220331
+#REACTION   51-SB-123(D,P)51-SB-124-G,M+,SIG
+#PROJ       1002
+#TARG       51123
+#MF         3
+#MT         459
+#PRODUCT    51-SB-124-G
+#C4BEGIN    [ 1002 51123   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 51123   3 459 A  4200000.          0.021100 2.6000-3           51124.0                     V.G.Batij+           (84)A0218  4 
+ 1002 51123   3 459 A  5500000.          0.086000 0.011000           51124.0                     V.G.Batij+           (84)A0218  4 
+ 1002 51123   3 459 A  7800000.          0.197000 0.024000           51124.0                     V.G.Batij+           (84)A0218  4 
+ 1002 51123   3 459 A  9900000.          0.212000 0.026000           51124.0                     V.G.Batij+           (84)A0218  4 
+ 1002 51123   3 459 A  1.1300+7          0.196000 0.024000           51124.0                     V.G.Batij+           (84)A0218  4 
+ 1002 51123   3 459 A  1.2700+7          0.157000 0.020000           51124.0                     V.G.Batij+           (84)A0218  4 
+ 1002 51123   3 459 A  1.3900+7          0.134000 0.017000           51124.0                     V.G.Batij+           (84)A0218  4 
+ 1002 51123   3 459 A  1.5100+7          0.134000 0.017000           51124.0                     V.G.Batij+           (84)A0218  4 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      13500
+#AUTHOR1    J.K.Dickens+
+#YEAR       1991
+#INSTITUTE  (1USAORL)
+#TITLE      Experimental and calculated excitation functions for
+#+          discrete-line gamma-ray production due to 1-40 MeV
+#+          neutron interactions with 56Fe.
+#AUTHOR(S)  J.K.Dickens, C.Y.Fu, D.M.Hetrick, D.C.Larson, J.H.Todd
+#REF-CODE   (C,91JUELIC,,307,199105)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 307
+#DATASETS   0
+#
+#DATASET    13500005 
+#DATE       19910124
+#REACTION   26-FE-56(N,A)24-CR-53,PAR,SIG,G,AV
+#PROJ       1
+#TARG       26056
+#MF         13
+#MT         800
+#PRODUCT    24-CR-53
+#C4BEGIN    [    1 26056  13 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056  13 800 A  1.5800+7 2800000. 1.5000-3 1.3000-3                   247100.0            J.K.Dickens+         (91)13500  5 
+    1 26056  13 800 A  1.5800+7 2800000. 6.9000-3 5.0000-4                   530200.0            J.K.Dickens+         (91)13500  5 
+    1 26056  13 800 A  1.5800+7 2800000. 4.7000-3 1.6000-3                   564100.0            J.K.Dickens+         (91)13500  5 
+    1 26056  13 800 A  1.5800+7 2800000. 7.2000-3 7.0000-4                   882800.0            J.K.Dickens+         (91)13500  5 
+    1 26056  13 800 A  1.5800+7 2800000. 0.012000 7.0000-4                   1006500.            J.K.Dickens+         (91)13500  5 
+    1 26056  13 800 A  1.5800+7 2800000. 0.010400 7.0000-4                   1289500.            J.K.Dickens+         (91)13500  5 
+    1 26056  13 800 A  1.5800+7 2800000. 2.2000-3 1.5000-3                   1446800.            J.K.Dickens+         (91)13500  5 
+    1 26056  13 800 A  1.5800+7 2800000. 2.0000-3 1.4000-3                   1649400.            J.K.Dickens+         (91)13500  5 
+    1 26056  13 800 A  1.5800+7 2800000. 1.5000-3 1.4000-3                   1973600.            J.K.Dickens+         (91)13500  5 
+    1 26056  13 800 A  1.5800+7 2800000. 1.5000-3 1.5000-3                   2320500.            J.K.Dickens+         (91)13500  5 
+#/DATA      10
+#/DATASET

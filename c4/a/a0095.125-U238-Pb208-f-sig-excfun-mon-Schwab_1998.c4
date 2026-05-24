@@ -1,0 +1,27 @@
+#ENTRY      A0095
+#AUTHOR1    W.Schwab+
+#YEAR       1998
+#INSTITUTE  (2GERGSI)
+#TITLE      Fission of highly excited fragments from collisions of
+#+          750 A*MeV 238-U ions on 208-Pb.
+#AUTHOR(S)  W.Schwab, M.Bernas, P.Armbruster, S.Czajkowski, Ph.Dessagne, 
+#+          C.Donzaud, H.Geissel, A.Heinz, C.Kozhukharov, C.Miehe, G.Muenzenberg, 
+#+          M.Pfuetzner, C.Stephan, K.Suemerer, L.Tassan-Got, B.Voss
+#REF-CODE   (J,EPJ/A,2,179,1998)
+#REFERENCE  Eur.Phys.J.A 2 (1998) 179 (doi:10.1007/s100500050107)
+#DATASETS   0
+#
+#DATASET    A0095125 
+#DATE       20240925
+#REACTION   82-PB-208(92-U-238,F),,SIG
+#PROJ       92238
+#TARG       82208
+#MF         3
+#MT         18
+#C4BEGIN    [92238 82208   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+92238 82208   3  18    1.785+11          1.400000 0.200000                                       W.Schwab+            (98)A0095125 
+#/DATA      1
+#/DATASET

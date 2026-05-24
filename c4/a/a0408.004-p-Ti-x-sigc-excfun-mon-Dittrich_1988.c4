@@ -1,0 +1,35 @@
+#ENTRY      A0408
+#AUTHOR1    B.Dittrich+
+#YEAR       1988
+#INSTITUTE  (2GERKLN)
+#TITLE      Thin-target excitation functions for proton-produced
+#+          long-lived radionuclides.
+#AUTHOR(S)  B.Dittrich, U.Herpers, Th.Schiffmann
+#REF-CODE   (R,INDC(GER)-32,33,1988)
+#REFERENCE  Report INDC(GER)-32 page 33, 1988
+#DATASETS   0
+#
+#DATASET    A0408004 
+#DATE       20231223
+#REACTION   22-TI-0(P,X)22-TI-44,(CUM),SIG
+#PROJ       1001
+#TARG       22000
+#MF         3
+#MT         459
+#PRODUCT    22-TI-44
+#C4BEGIN    [ 1001 22000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22000   3 459    9.1000+7          2.7600-3 1.8000-4           22044.9                     B.Dittrich+          (88)A0408  4 
+ 1001 22000   3 459    1.0900+8          2.6700-3 1.8000-4           22044.9                     B.Dittrich+          (88)A0408  4 
+ 1001 22000   3 459    1.2600+8          2.3700-3 1.6000-4           22044.9                     B.Dittrich+          (88)A0408  4 
+ 1001 22000   3 459    1.3500+8          2.2500-3 1.5000-4           22044.9                     B.Dittrich+          (88)A0408  4 
+ 1001 22000   3 459    1.5000+8          2.1200-3 1.5000-4           22044.9                     B.Dittrich+          (88)A0408  4 
+ 1001 22000   3 459    1.6200+8          2.0600-3 1.4000-4           22044.9                     B.Dittrich+          (88)A0408  4 
+ 1001 22000   3 459    1.7400+8          2.0100-3 1.4000-4           22044.9                     B.Dittrich+          (88)A0408  4 
+ 1001 22000   3 459    1.8500+8          1.8200-3 1.2000-4           22044.9                     B.Dittrich+          (88)A0408  4 
+ 1001 22000   3 459    1.9600+8          1.7700-3 1.2000-4           22044.9                     B.Dittrich+          (88)A0408  4 
+ 1001 22000   3 459    6.0000+8          1.3300-3 1.0000-4           22044.9                     B.Dittrich+          (88)A0408  4 
+#/DATA      10
+#/DATASET

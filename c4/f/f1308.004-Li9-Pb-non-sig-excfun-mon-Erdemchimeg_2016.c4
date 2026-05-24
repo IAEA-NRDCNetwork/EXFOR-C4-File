@@ -1,0 +1,31 @@
+#ENTRY      F1308
+#AUTHOR1    B.Erdemchimeg+
+#YEAR       2016
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Total reaction cross sections measurement for 6,8He
+#+          and 8,9Li nuclei with energies of 25 - 45/A MeV on
+#+          nat Al and nat Pb
+#AUTHOR(S)  B.Erdemchimeg, A.G.Artukh, S.Davaa, S.A.Klygin, G.A.Kononenko, 
+#+          G.Khuukhenkhuu, D.A.Kyslukha, S.M.Lukyanov, T.I.Mikhailova, 
+#+          Yu.M.Sereda, Yu.E.Penionzhkevich, A.N.Vorontzov, C.Borcea, 
+#+          F.Rotaru, M.Stanoiu
+#REF-CODE   (J,BAS,80,223,2016)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 80 (2016) 223 (doi:10.3103/S1062873816030096)
+#DATASETS   0
+#
+#DATASET    F1308004 
+#DATE       20170113
+#REACTION   82-PB-0(3-LI-9,NON),,SIG
+#PROJ       3009
+#TARG       82000
+#MF         3
+#MT         3
+#C4BEGIN    [ 3009 82000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3009 82000   3   3    2.1222+8          2.200-12 4.000-13                                       B.Erdemchimeg+       (16)F1308  4 
+ 3009 82000   3   3    2.2896+8          2.730-12 1.000-12                                       B.Erdemchimeg+       (16)F1308  4 
+ 3009 82000   3   3    2.5515+8          4.880-12 1.200-12                                       B.Erdemchimeg+       (16)F1308  4 
+#/DATA      3
+#/DATASET

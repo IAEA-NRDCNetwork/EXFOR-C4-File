@@ -1,0 +1,27 @@
+#ENTRY      41226
+#AUTHOR1    K.M.Mikhailina+
+#YEAR       1961
+#INSTITUTE  (4RUSKUR)
+#TITLE      The interaction of 14.1 MeV neutrons with lithium6
+#+          and lithium7
+#AUTHOR(S)  K.M.Mikhailina, A.A.Nomofilov, T.A.Romanova, V.A.Sviridov, 
+#+          F.A.Tikhomirov, K.D.Tolstov
+#REF-CODE   (B,NEJTRONFIZ,,249,1961)
+#REFERENCE  Neitronnaya Fizika, Moskva 1961 page 249 (1961)
+#DATASETS   0
+#
+#DATASET    41226003 
+#DATE       20191217
+#REACTION   3-LI-6(N,T)2-HE-4,,SIG
+#PROJ       1
+#TARG       3006
+#MF         3
+#MT         105
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1  3006   3 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   3 105    1.4100+7          0.027000 6.0000-3                                       K.M.Mikhailina+      (61)41226  3 
+#/DATA      1
+#/DATASET

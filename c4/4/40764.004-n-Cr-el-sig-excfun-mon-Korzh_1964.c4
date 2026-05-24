@@ -1,0 +1,28 @@
+#ENTRY      40764
+#AUTHOR1    I.A.Korzh+
+#YEAR       1964
+#INSTITUTE  (4UKRIJD)
+#TITLE      Differential cross sections of elastically scattered
+#+          neutrons on Si, Cr, Zr, Pb and Bi nuclei
+#AUTHOR(S)  I.A.Korzh, N.T.Sklyar, I.A.Totskiy
+#REF-CODE   (J,UFZ,9,577,1964)
+#REFERENCE  Ukr.Fiz.Zh. 9 (1964) 577
+#DATASETS   0
+#
+#DATASET    40764004 
+#DATE       20231113
+#REACTION   24-CR-0(N,EL)24-CR-0,,SIG
+#PROJ       1
+#TARG       24000
+#MF         3
+#MT         2
+#PRODUCT    24-CR-0
+#C4BEGIN    [    1 24000   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24000   3   2 D  300000.0 25000.00 2.440000 0.200000                                       I.A.Korzh+           (64)40764  4 
+    1 24000   3   2 D  500000.0 50000.00 2.950000 0.180000                                       I.A.Korzh+           (64)40764  4 
+    1 24000   3   2 D  800000.0 50000.00 2.820000 0.230000                                       I.A.Korzh+           (64)40764  4 
+#/DATA      3
+#/DATASET

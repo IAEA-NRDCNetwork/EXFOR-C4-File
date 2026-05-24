@@ -1,0 +1,32 @@
+#ENTRY      32799
+#AUTHOR1    Qiang Wang+
+#YEAR       2020
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Fission cross-section measurement for the
+#+          238U(n,f)89Rb reaction induced by D-T neutrons
+#AUTHOR(S)  Qiang Wang, Yafei Han, Luocheng Yang, Lixin Qin, Changlin Lan, 
+#+          Kaihong Fang
+#REF-CODE   (J,NIM/B,469,28,2020)
+#REFERENCE  Nucl.Instrum.Meth.B 469 (2020) 28 (doi:10.1016/j.nimb.2020.02.023)
+#DATASETS   0
+#
+#DATASET    32799002 
+#DATE       20210129
+#REACTION   92-U-238(N,F)37-RB-89,CUM,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         459
+#PRODUCT    37-RB-89
+#C4BEGIN    [    1 92238   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3 459    1.4100+7 300000.0 0.033930 2.1100-3           37089.9                     Qiang Wang+          (20)32799  2 
+    1 92238   3 459    1.4100+7 300000.0 0.032580 2.0400-3           37089.9                     Qiang Wang+          (20)32799  2 
+    1 92238   3 459    1.4500+7 300000.0 0.032900 2.0600-3           37089.9                     Qiang Wang+          (20)32799  2 
+    1 92238   3 459    1.4500+7 300000.0 0.031500 1.9900-3           37089.9                     Qiang Wang+          (20)32799  2 
+    1 92238   3 459    1.4700+7 300000.0 0.032950 2.0900-3           37089.9                     Qiang Wang+          (20)32799  2 
+    1 92238   3 459    1.4700+7 300000.0 0.032320 2.0800-3           37089.9                     Qiang Wang+          (20)32799  2 
+#/DATA      6
+#/DATASET

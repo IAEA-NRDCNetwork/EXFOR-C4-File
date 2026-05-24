@@ -1,0 +1,57 @@
+#ENTRY      23044
+#AUTHOR1    G.Tagliente+
+#YEAR       2008
+#INSTITUTE  (2ITYBAU)
+#TITLE      Experimental study of the 91Zr(n,g) reaction up to
+#+          26 keV
+#AUTHOR(S)  G.Tagliente, P.M.Milazzo, K.Fujii, G.Aerts, U.Abbondanno, 
+#+          H.alvarez, F.Alvarez-Velarde, S.Andriamonje, J.Andrzejewski, 
+#+          P.Assimakopoulos, L.Audouin, G.Badurek, P.Baumann, F.Becvar, 
+#+          F.Belloni, E.Berthoumieux, F.Calvino, M.Calviani, D.Cano-Ott, 
+#+          R.Capote, C.Carrapico, P.Cennini, V.Chepel, N.Colonna, G.Cortes, 
+#+          A.Couture, J.Cox, M.Dahlfors, S.David, I.Dillmann, C.Domingo-Pardo, 
+#+          W.Dridi, I.Duran, C.Eleftheriadis, M.Embid-Segura, L.Ferrant, 
+#+          A.Ferrari, R.Ferreira-Marques, W.Furman, I.Goncalves, E.Gonzalez-Romero, 
+#+          F.Gramegna, C.Guerrero, F.Gunsing, B.Haas, R.Haight, M.Heil, 
+#+          A.Herrera-Martinez, M.Igashira, E.Jericha, F.Kaeppeler, 
+#+          Y.Kadi, D.Karadimos, D.Karamanis, M.Kerveno, P.Koehler, 
+#+          E.Kossionides, M.Krticka, C.Lamboudis, H.Leeb, A.Lindote, 
+#+          I.Lopes, M.Lozano, S.Lukic, J.Marganiec, S.Marrone, T.Martinez, 
+#+          C.Massimi, P.Mastinu, A.Mengoni, C.Moreau, M.Mosconi, F.Neves, 
+#+          H.Oberhummer, S.O'Brien, J.Pancin, C.Papachristodoulou, 
+#+          C.Papadopoulos, C.Paradela, N.Patronis, A.Pavlik, P.Pavlopoulos, 
+#+          L.Perrot, M.T.Pigni, R.Plag, A.Plompen, A.Plukis, A.Poch, 
+#+          J.Praena-Rodriguez, C.Pretel, J.Quesada, T.Rauscher, R.Reifarth, 
+#+          C.Rubbia, G.Rudolf, P.Rullhusen, J.Salgado, C.Santos, L.Sarchiapone, 
+#+          I.Savvidis, C.Stephan, J.L.Tain, L.Tassan-Got, L.Tavora, 
+#+          R.Terlizzi, G.Vannini, P.Vaz, A.Ventura, D.Villamarin, M.C.Vincente, 
+#+          V.Vlachoudis, R.Vlastou, F.Voss, S.Walter, M.Wiescher, K.Wisshak
+#REF-CODE   (J,PR/C,78,045804,2008)
+#REFERENCE  Phys.Rev.C 78 (2008) 045804 (doi:10.1103/PhysRevC.78.045804)
+#DATASETS   0
+#
+#DATASET    23044005 
+#DATE       20211010
+#REACTION   40-ZR-91(N,G)40-ZR-92,,SIG,,MXW
+#PROJ       1
+#TARG       40091
+#MF         3
+#MT         102
+#PRODUCT    40-ZR-92
+#C4BEGIN    [    1 40091   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40091   3 102 D  5000.000          0.237000 0.012000                                       G.Tagliente+         (08)23044  5 
+    1 40091   3 102 D  10000.00          0.144000 8.0000-3                                       G.Tagliente+         (08)23044  5 
+    1 40091   3 102 D  15000.00          0.106000 6.0000-3                                       G.Tagliente+         (08)23044  5 
+    1 40091   3 102 D  20000.00          0.086000 5.0000-3                                       G.Tagliente+         (08)23044  5 
+    1 40091   3 102 D  25000.00          0.072000 5.0000-3                                       G.Tagliente+         (08)23044  5 
+    1 40091   3 102 D  30000.00          0.063000 4.0000-3                                       G.Tagliente+         (08)23044  5 
+    1 40091   3 102 D  40000.00          0.051000 4.0000-3                                       G.Tagliente+         (08)23044  5 
+    1 40091   3 102 D  50000.00          0.044000 4.0000-3                                       G.Tagliente+         (08)23044  5 
+    1 40091   3 102 D  60000.00          0.038000 3.0000-3                                       G.Tagliente+         (08)23044  5 
+    1 40091   3 102 D  80000.00          0.033000 3.0000-3                                       G.Tagliente+         (08)23044  5 
+    1 40091   3 102 D  100000.0          0.028000 3.0000-3                                       G.Tagliente+         (08)23044  5 
+#/DATA      11
+#/DATASET

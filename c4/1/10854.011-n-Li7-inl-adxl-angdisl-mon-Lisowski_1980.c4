@@ -1,0 +1,79 @@
+#ENTRY      10854
+#AUTHOR1    P.W.Lisowski+
+#YEAR       1980
+#INSTITUTE  (1USALAS)
+#TITLE      Cross sections for neutron induced, neutron producing
+#+          reactions in Li-6 and Li-7 at 5.96 and 9.83 MeV.
+#AUTHOR(S)  P.W.Lisowski, G.F.Auchampaugh, D.M.Drake, M.Drosg, G.Haouat, 
+#+          N.W.Hill, L.Nilsson
+#REF-CODE   (R,LA-8342,1980)
+#REFERENCE  Report LA-8342, 1980
+#DATASETS   0
+#
+#DATASET    10854011 
+#DATE       20250601
+#REACTION   3-LI-7(N,INL)3-LI-7,PAR,DA
+#PROJ       1
+#TARG       3007
+#MF         4
+#MT         51
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  3007   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3007   4  51    5960000.          0.042600 4.3000-3 0.906308          4630000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    5960000.          0.031200 3.6000-3 0.819152          4630000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    5960000.          0.026000 4.4000-3 0.707107          4630000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    5960000.          0.019900 5.0000-3 0.500000          4630000.         LVLP.W.Lisowski+        (80)10854 11 
+#/DATA      4
+#/DATASET
+#
+#DATASET    10854011 
+#DATE       20250601
+#REACTION   3-LI-7(N,INL)3-LI-7,PAR,DA
+#PROJ       1
+#TARG       3007
+#MF         4
+#MT         51
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  3007   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3007   4  51    9830000.          0.024000 1.8000-3 0.906308          4630000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          0.018800 1.3000-3 0.819152          4630000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          0.017300 1.2000-3 0.707107          4630000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          0.013800 1.8000-3 0.601815          4630000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          0.017000 1.2000-3 0.500000          4630000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          0.011000 1.0000-3 0.173648          4630000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          8.1000-3 6.0000-4-0.087156          4630000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          6.0000-3 5.0000-4-0.342020          4630000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          4.4000-3 5.0000-4-0.642788          4630000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          3.9000-3 5.0000-4-0.809017          4630000.         LVLP.W.Lisowski+        (80)10854 11 
+#/DATA      10
+#/DATASET
+#
+#DATASET    10854011 
+#DATE       20250601
+#REACTION   3-LI-7(N,INL)3-LI-7,PAR,DA
+#PROJ       1
+#TARG       3007
+#MF         4
+#MT         51
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  3007   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3007   4  51    9830000.          5.7000-3 2.5000-3 0.906308          6700000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          5.0000-3 2.5000-3 0.819152          6700000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          4.4000-3 2.2000-3 0.707107          6700000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          3.4000-3 1.7000-3 0.500000          6700000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          2.4000-3 1.2000-3 0.173648          6700000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          2.1000-3 1.1000-3-0.087156          6700000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          1.8000-3 9.0000-4-0.342020          6700000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          1.1000-3 6.0000-4-0.642788          6700000.         LVLP.W.Lisowski+        (80)10854 11 
+    1  3007   4  51    9830000.          1.0000-3 5.0000-4-0.809017          6700000.         LVLP.W.Lisowski+        (80)10854 11 
+#/DATA      9
+#/DATASET

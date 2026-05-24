@@ -1,0 +1,28 @@
+#ENTRY      A0349
+#AUTHOR1    Ju.V.Aleksandrov+
+#YEAR       1995
+#INSTITUTE  (4RUSRI)
+#TITLE      Production cross sections of radioactive nuclides on
+#+          silver target irradiated by protons at energy 660 MeV
+#AUTHOR(S)  Ju.V.Aleksandrov, A.A.Astapov, S.K.Vasilev, R.B.Ivanov, 
+#+          A.Kolachkovsky, R.Misiak, M.A.Mikhailova, A.F.Novgorodov, 
+#+          T.I.Popova, V.P.Prikhodtseva
+#REF-CODE   (J,BAS,59,895,1995)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 59 (1995) 895
+#DATASETS   0
+#
+#DATASET    A0349041 
+#DATE       20160202
+#REACTION   47-AG-0(P,X)37-RB-83,(CUM),SIG
+#PROJ       1001
+#TARG       47000
+#MF         3
+#MT         459
+#PRODUCT    37-RB-83
+#C4BEGIN    [ 1001 47000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 47000   3 459    6.6000+8          0.013800 1.2000-3           37083.9                     Ju.V.Aleksandrov+    (95)A0349 41 
+#/DATA      1
+#/DATASET

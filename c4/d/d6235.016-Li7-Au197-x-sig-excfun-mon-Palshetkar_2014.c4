@@ -1,0 +1,37 @@
+#ENTRY      D6235
+#AUTHOR1    C.S.Palshetkar+
+#YEAR       2014
+#INSTITUTE  (3INDTAT)
+#TITLE      Fusion and quasi-elastic scattering in the 6,7Li+197Au
+#+          systems
+#AUTHOR(S)  C.S.Palshetkar, Shital Thakur, V.Nanal, A.Shrivastava, N.Dokania, 
+#+          V.Singh, V.V.Parkar, P.C.Rout, R.Palit, R.G.Pillay, S.Bhattacharyya, 
+#+          A.Chatterjee, S.Santra, K.Ramachandran, N.L.Singh
+#REF-CODE   (J,PR/C,89,024607,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 024607 (doi:10.1103/PhysRevC.89.024607)
+#DATASETS   0
+#
+#DATASET    D6235016 
+#DATE       20210505
+#REACTION   79-AU-197(3-LI-7,X)79-AU-199,,SIG
+#PROJ       3007
+#TARG       79197
+#MF         3
+#MT         454
+#PRODUCT    79-AU-199
+#C4BEGIN    [ 3007 79197   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 79197   3 454    2.0941+7 310034.1 0.000000 0.000000           79199.9                     C.S.Palshetkar+      (14)D6235 16 
+ 3007 79197   3 454    2.2744+7 250029.9 2.0000-5 1.0000-5           79199.9                     C.S.Palshetkar+      (14)D6235 16 
+ 3007 79197   3 454    2.4287+7 310039.6 6.0000-5 1.0000-5           79199.9                     C.S.Palshetkar+      (14)D6235 16 
+ 3007 79197   3 454    2.6762+7 230032.3 5.4000-4 3.0000-5           79199.9                     C.S.Palshetkar+      (14)D6235 16 
+ 3007 79197   3 454    2.9321+7 180027.7 2.9000-3 3.0000-4           79199.9                     C.S.Palshetkar+      (14)D6235 16 
+ 3007 79197   3 454    3.2231+7 280047.4 7.8000-3 2.0000-4           79199.9                     C.S.Palshetkar+      (14)D6235 16 
+ 3007 79197   3 454    3.5815+7 180033.9 0.010300 3.0000-4           79199.9                     C.S.Palshetkar+      (14)D6235 16 
+ 3007 79197   3 454    3.9834+7 160033.5 0.012100 5.0000-4           79199.9                     C.S.Palshetkar+      (14)D6235 16 
+ 3007 79197   3 454    4.3822+7 180041.5 0.013000 9.0000-4           79199.9                     C.S.Palshetkar+      (14)D6235 16 
+ 3007 79197   3 454    4.4837+7 170040.1 0.011400 1.1000-3           79199.9                     C.S.Palshetkar+      (14)D6235 16 
+#/DATA      10
+#/DATASET

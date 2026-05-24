@@ -1,0 +1,27 @@
+#ENTRY      21850
+#AUTHOR1    S.A.Durrani+
+#YEAR       1968
+#INSTITUTE  (2GERMUN)
+#TITLE      Average cross sections and half-lives of Au-197m
+#+          and Y-89m excited by inelastic scattering of
+#+          reactor neutrons.
+#AUTHOR(S)  S.A.Durrani, W.Koehler
+#REF-CODE   (J,JNE,22,632,196810)
+#REFERENCE  J.Nucl.Energy 22 (1968) 632 (doi:10.1016/0022-3107(68)90036-1)
+#DATASETS   0
+#
+#DATASET    21850002 
+#DATE       20150804
+#REACTION   79-AU-197(N,INL)79-AU-197-M,,SIG,,SPA
+#PROJ       1
+#TARG       79197
+#MF         3
+#MT         4
+#PRODUCT    79-AU-197-M
+#C4BEGIN    [    1 79197   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   3   4M   1500000.          0.379800 0.010300                                       S.A.Durrani+         (68)21850  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      C1747
+#AUTHOR1    S.T.Pittman+
+#YEAR       2009
+#INSTITUTE  (1USATEN)
+#TITLE      Analysis of 25Al energy levels observed in the
+#+          28Si(p,alpha)25Al reaction
+#AUTHOR(S)  S.T.Pittman, D.W.Bardayan, J.C.Blackmon, R.L.Kozub, M.S.Smith
+#REF-CODE   (J,PR/C,80,038801,2009)
+#REFERENCE  Phys.Rev.C 80 (2009) 038801 (doi:10.1103/PhysRevC.80.038801)
+#DATASETS   0
+#
+#DATASET    C1747023 
+#DATE       20091022
+#REACTION   14-SI-28(P,A)13-AL-25,PAR,DA
+#PROJ       1001
+#TARG       14028
+#MF         4
+#MT         800
+#PRODUCT    13-AL-25
+#C4BEGIN    [ 1001 14028   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14028   4 800  C 4.0000+7          3.4000-6 7.0000-7 0.943801          4205000.         LVLS.T.Pittman+         (09)C1747 23 
+ 1001 14028   4 800  C 4.0000+7          1.9000-6 6.0000-7 0.932324          4205000.         LVLS.T.Pittman+         (09)C1747 23 
+ 1001 14028   4 800  C 4.0000+7          2.8000-6 7.0000-7 0.919821          4205000.         LVLS.T.Pittman+         (09)C1747 23 
+ 1001 14028   4 800  C 4.0000+7          3.0000-6 4.0000-7 0.891007          4205000.         LVLS.T.Pittman+         (09)C1747 23 
+ 1001 14028   4 800  C 4.0000+7          2.3000-6 5.0000-7 0.873772          4205000.         LVLS.T.Pittman+         (09)C1747 23 
+#/DATA      5
+#/DATASET

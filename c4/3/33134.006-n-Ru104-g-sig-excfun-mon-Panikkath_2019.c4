@@ -1,0 +1,27 @@
+#ENTRY      33134
+#AUTHOR1    P.Panikkath+
+#YEAR       2019
+#INSTITUTE  (3INDMNP)
+#TITLE      Thermal neutron capture cross sections and resonance
+#+          integrals of ruthenium isotopes- 96Ru, 102Ru and
+#+          104Ru
+#AUTHOR(S)  P.Panikkath
+#REF-CODE   (J,ARI,153,108819,2019)
+#REFERENCE  Appl.Radiat.Isot. 153 (2019) 108819 (doi:10.1016/j.apradiso.2019.108819)
+#DATASETS   0
+#
+#DATASET    33134006 
+#DATE       20260108
+#REACTION   44-RU-104(N,G)44-RU-105,,SIG
+#PROJ       1
+#TARG       44104
+#MF         3
+#MT         102
+#PRODUCT    44-RU-105
+#C4BEGIN    [    1 44104   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 44104   3 102 C  0.025300          0.477000 0.256864                                       P.Panikkath          (19)33134  6 
+#/DATA      1
+#/DATASET

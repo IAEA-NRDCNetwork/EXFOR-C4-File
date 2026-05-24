@@ -1,0 +1,40 @@
+#ENTRY      A0001
+#AUTHOR1    E.A.Skakun+
+#YEAR       1975
+#INSTITUTE  (4UKRKFT)
+#TITLE      Excitation functions of (p,n)- and (p,2n)-reactions
+#+          on cadmium isotopes
+#AUTHOR(S)  E.A.Skakun, A.P.Klyucharev, Yu.N.Rakivnenko, I.A.Romanii
+#REF-CODE   (J,BAS,39,(1),18,1975)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 39 No.1 (1975) 18
+#DATASETS   0
+#
+#DATASET    A0001008 
+#DATE       20160207
+#REACTION   48-CD-113(P,N)49-IN-113-M,,SIG
+#PROJ       1001
+#TARG       48113
+#MF         3
+#MT         4
+#PRODUCT    49-IN-113-M
+#C4BEGIN    [ 1001 48113   3   4MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 48113   3   4MA  4700000.          4.6000-3 6.9000-4                                       E.A.Skakun+          (75)A0001  8 
+ 1001 48113   3   4MA  5000000.          0.011300 1.6950-3                                       E.A.Skakun+          (75)A0001  8 
+ 1001 48113   3   4MA  5900000.          0.029000 4.3500-3                                       E.A.Skakun+          (75)A0001  8 
+ 1001 48113   3   4MA  6500000.          0.059000 8.8500-3                                       E.A.Skakun+          (75)A0001  8 
+ 1001 48113   3   4MA  7300000.          0.085000 0.012750                                       E.A.Skakun+          (75)A0001  8 
+ 1001 48113   3   4MA  7800000.          0.109000 0.016350                                       E.A.Skakun+          (75)A0001  8 
+ 1001 48113   3   4MA  8500000.          0.127000 0.019050                                       E.A.Skakun+          (75)A0001  8 
+ 1001 48113   3   4MA  9000000.          0.140000 0.021000                                       E.A.Skakun+          (75)A0001  8 
+ 1001 48113   3   4MA  1.0900+7          0.140000 0.021000                                       E.A.Skakun+          (75)A0001  8 
+ 1001 48113   3   4MA  1.3500+7          0.056000 8.4000-3                                       E.A.Skakun+          (75)A0001  8 
+ 1001 48113   3   4MA  1.5200+7          0.026000 3.9000-3                                       E.A.Skakun+          (75)A0001  8 
+ 1001 48113   3   4MA  1.6700+7          0.016000 2.4000-3                                       E.A.Skakun+          (75)A0001  8 
+ 1001 48113   3   4MA  1.8300+7          0.014000 2.1000-3                                       E.A.Skakun+          (75)A0001  8 
+ 1001 48113   3   4MA  1.9500+7          0.013000 1.9500-3                                       E.A.Skakun+          (75)A0001  8 
+ 1001 48113   3   4MA  2.0900+7          0.014000 2.1000-3                                       E.A.Skakun+          (75)A0001  8 
+#/DATA      15
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      C2345
+#AUTHOR1    C.B.Fulmer+
+#YEAR       1972
+#INSTITUTE  (1USAORL)
+#TITLE      Excitation Functions for Helion-Induced Reactions in
+#+          Iron
+#AUTHOR(S)  C.B.Fulmer, I.R.Williams, W.C.Palmer, G.Kindred
+#REF-CODE   (J,PR/C,6,1720,1972)
+#REFERENCE  Phys.Rev.C 6 (1972) 1720 (doi:10.1103/PhysRevC.6.1720)
+#DATASETS   0
+#
+#DATASET    C2345004 
+#DATE       20180703
+#REACTION   26-FE-0(HE3,X)27-CO-55,(CUM),SIG
+#PROJ       2003
+#TARG       26000
+#MF         3
+#MT         459
+#PRODUCT    27-CO-55
+#C4BEGIN    [ 2003 26000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 26000   3 459    1.1669+7 500000.0 8.9820-3                    27055.9                     C.B.Fulmer+          (72)C2345  4 
+ 2003 26000   3 459    1.8114+7 500000.0 0.014260                    27055.9                     C.B.Fulmer+          (72)C2345  4 
+ 2003 26000   3 459    2.3681+7 500000.0 0.010130                    27055.9                     C.B.Fulmer+          (72)C2345  4 
+ 2003 26000   3 459    2.9123+7 500000.0 6.2880-3                    27055.9                     C.B.Fulmer+          (72)C2345  4 
+ 2003 26000   3 459    3.3059+7 500000.0 9.9770-3                    27055.9                     C.B.Fulmer+          (72)C2345  4 
+ 2003 26000   3 459    3.6592+7 500000.0 0.017800                    27055.9                     C.B.Fulmer+          (72)C2345  4 
+ 2003 26000   3 459    4.2901+7 500000.0 0.030370                    27055.9                     C.B.Fulmer+          (72)C2345  4 
+ 2003 26000   3 459    5.5426+7 500000.0 0.044530                    27055.9                     C.B.Fulmer+          (72)C2345  4 
+ 2003 26000   3 459    6.2828+7 500000.0 0.040040                    27055.9                     C.B.Fulmer+          (72)C2345  4 
+ 2003 26000   3 459    6.9709+7 500000.0 0.032010                    27055.9                     C.B.Fulmer+          (72)C2345  4 
+#/DATA      10
+#/DATASET

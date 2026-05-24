@@ -1,0 +1,31 @@
+#ENTRY      40350
+#AUTHOR1    P.E.Spivak+
+#YEAR       1956
+#INSTITUTE  (4RUSKUR)
+#TITLE      Average number of neutrons  NU-eff emitted by the
+#+          isotopes U-233, U-235 and Pu-239 on capture of neutrons
+#+          with energies from 30 to 900 keV.
+#AUTHOR(S)  P.E.Spivak, B.G.Erozolimskij, G.A.Dorofeev, V.N.Lavrenchik, 
+#+          I.E.Kutikov, Ju.P.Dobrynin
+#REF-CODE   (J,AE,1,(3),21,195606)
+#REFERENCE  At.En. 1 No.3 (1956) 21
+#DATASETS   0
+#
+#DATASET    40350007 
+#DATE       20130701
+#REACTION   92-U-235(N,G)92-U-236,,SIG
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         102
+#PRODUCT    92-U-236
+#C4BEGIN    [    1 92235   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3 102    30000.00          0.730990                                                P.E.Spivak+          (56)40350  7 
+    1 92235   3 102    140000.0          0.239990                                                P.E.Spivak+          (56)40350  7 
+    1 92235   3 102    250000.0          0.162990                                                P.E.Spivak+          (56)40350  7 
+    1 92235   3 102    900000.0          0.136990                                                P.E.Spivak+          (56)40350  7 
+#/DATA      4
+#/DATASET

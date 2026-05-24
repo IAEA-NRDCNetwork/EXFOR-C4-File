@@ -1,0 +1,27 @@
+#ENTRY      30470
+#AUTHOR1    K.Gul+
+#YEAR       1979
+#INSTITUTE  (3PAKNIL)
+#TITLE      Inelastic scattering of 14.8 MeV neutrons from deuteron
+#AUTHOR(S)  K.Gul, A.Waheed, M.Ahmed, M.Saleem, N.A.Khan
+#REF-CODE   (J,JP/G,5,1107,1979)
+#REFERENCE  J.Phys.G 5 (1979) 1107 (doi:10.1088/0305-4616/5/8/014)
+#DATASETS   0
+#
+#DATASET    30470005 
+#DATE       20260425
+#REACTION   6-C-12(N,INL)6-C-12,PAR,DA
+#PROJ       1
+#TARG       6012
+#MF         4
+#MT         51
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   4  51 AC 1.4800+7          5.3000-3 5.0000-4 0.207912          9360000.         LVLK.Gul+               (79)30470  5 
+    1  6012   4  51 AC 1.4800+7          5.6000-3 6.0000-4 0.017452          9360000.         LVLK.Gul+               (79)30470  5 
+    1  6012   4  51 AC 1.4800+7          6.2000-3 6.0000-4-0.156434          9360000.         LVLK.Gul+               (79)30470  5 
+#/DATA      3
+#/DATASET

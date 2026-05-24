@@ -1,0 +1,35 @@
+#ENTRY      F0062
+#AUTHOR1    J.U.Kwon+
+#YEAR       1989
+#INSTITUTE  (3KORNSU)
+#TITLE      Low - energy cross sections for the Li-6(p,He3)He-4
+#+          reaction
+#AUTHOR(S)  J.U.Kwon, J.C.Kim, B.N.Sung
+#REF-CODE   (J,NP/A,493,112,1989)
+#REFERENCE  Nucl.Phys.A 493 (1989) 112 (doi:10.1016/0375-9474(89)90535-6)
+#DATASETS   0
+#
+#DATASET    F00620032
+#DATE       20200427
+#REACTION   3-LI-6(P,HE3)2-HE-4,,SIG,,SFC
+#PROJ       1001
+#TARG       3006
+#MF         3
+#MT         106
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  3006   3 106  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   3 106    125000.0          6.0594-3                                                J.U.Kwon+            (89)F0062  32
+ 1001  3006   3 106    158000.0          0.011720                                                J.U.Kwon+            (89)F0062  32
+ 1001  3006   3 106    195000.0          0.021201                                                J.U.Kwon+            (89)F0062  32
+ 1001  3006   3 106    240000.0          0.034066                                                J.U.Kwon+            (89)F0062  32
+ 1001  3006   3 106    278000.0          0.043340                                                J.U.Kwon+            (89)F0062  32
+ 1001  3006   3 106    320000.0          0.055088                                                J.U.Kwon+            (89)F0062  32
+ 1001  3006   3 106    360000.0          0.064603                                                J.U.Kwon+            (89)F0062  32
+ 1001  3006   3 106    390000.0          0.085892                                                J.U.Kwon+            (89)F0062  32
+ 1001  3006   3 106    442000.0          0.080627                                                J.U.Kwon+            (89)F0062  32
+ 1001  3006   3 106    505000.0          0.097696                                                J.U.Kwon+            (89)F0062  32
+#/DATA      10
+#/DATASET

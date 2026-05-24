@@ -1,0 +1,30 @@
+#ENTRY      D6023
+#AUTHOR1    Avinash Agarwal+
+#YEAR       2008
+#INSTITUTE  (3INDIND)
+#TITLE      Measurement and analysis of excitation functions and
+#+          forward recoil range distributions in 12C+59Co system
+#AUTHOR(S)  Avinash Agarwal, I.A.Rizvi, Rakesh Kumar, B.K.Yogi, A.K.Chaubey
+#REF-CODE   (J,IMP/E,17,393,2008)
+#REFERENCE  Int.J.Mod.Phys.E 17 (2008) 393 (doi:10.1142/S0218301308007009)
+#DATASETS   0
+#
+#DATASET    D6023004 
+#DATE       20190212
+#REACTION   27-CO-59(6-C-12,X)31-GA-67,CUM,SIG
+#PROJ       6012
+#TARG       27059
+#MF         3
+#MT         459
+#PRODUCT    31-GA-67
+#C4BEGIN    [ 6012 27059   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 27059   3 459    6.0000+7 540000.0 0.434100 6.1000-3           31067.9                     Avinash Agarwal+     (08)D6023  4 
+ 6012 27059   3 459    6.5000+7 510000.0 0.591600 7.1000-3           31067.9                     Avinash Agarwal+     (08)D6023  4 
+ 6012 27059   3 459    7.0000+7 490000.0 0.681300 6.4000-3           31067.9                     Avinash Agarwal+     (08)D6023  4 
+ 6012 27059   3 459    7.5000+7 470000.0 0.703500 7.7000-3           31067.9                     Avinash Agarwal+     (08)D6023  4 
+ 6012 27059   3 459    8.0000+7 450000.0 0.575700 0.019700           31067.9                     Avinash Agarwal+     (08)D6023  4 
+#/DATA      5
+#/DATASET

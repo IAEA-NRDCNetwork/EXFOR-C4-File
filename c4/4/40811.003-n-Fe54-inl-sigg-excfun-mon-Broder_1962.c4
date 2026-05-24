@@ -1,0 +1,29 @@
+#ENTRY      40811
+#AUTHOR1    D.L.Broder+
+#YEAR       1962
+#INSTITUTE  (4RUSFEI)
+#TITLE      Inelastic neutron scattering on Fe nuclei.
+#AUTHOR(S)  D.L.Broder, A.I.Lashuk, I.P.Sadokhin, A.P.Suvorov
+#REF-CODE   (B,N.REAC.DES,,254,1962)
+#REFERENCE  Theory and Method of Nucl.Reactor Design,Moscow 1962 page 254 (1962)
+#DATASETS   0
+#
+#DATASET    40811003 
+#DATE       20091126
+#REACTION   26-FE-54(N,INL)26-FE-54,PAR,SIG,G
+#PROJ       1
+#TARG       26054
+#MF         13
+#MT         51
+#PRODUCT    26-FE-54
+#C4BEGIN    [    1 26054  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26054  13  51    2000000.          0.860000                            1410000.            D.L.Broder+          (62)40811  3 
+    1 26054  13  51    2570000.          0.520000                            1410000.            D.L.Broder+          (62)40811  3 
+    1 26054  13  51    2760000.          0.770000                            1410000.            D.L.Broder+          (62)40811  3 
+    1 26054  13  51    3430000.          1.380000                            1410000.            D.L.Broder+          (62)40811  3 
+    1 26054  13  51    3960000.          1.030000                            1410000.            D.L.Broder+          (62)40811  3 
+#/DATA      5
+#/DATASET

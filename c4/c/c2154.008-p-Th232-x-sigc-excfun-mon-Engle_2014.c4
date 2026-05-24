@@ -1,0 +1,40 @@
+#ENTRY      C2154
+#AUTHOR1    J.W.Engle+
+#YEAR       2014
+#INSTITUTE  (1USALAS)
+#TITLE      Ac, La, and Ce radioimpurities in 225Ac produced in
+#+          40 - 200 MeV proton irradiations of thorium
+#AUTHOR(S)  J.W.Engle, J.W.Weidner, B.D.Ballard, M.E.Fassbender, L.A.Hudston, 
+#+          K.R.Jackman, D.E.Dry, L.E.Wolfsberg, L.J.Bitteker, J.L.Ullmann, 
+#+          M.S.Gulley, Ch.Pillai, G.Goff, E.R.Birnbaum, K.D.John, S.G.Mashnik, 
+#+          F.M.Nortier
+#REF-CODE   (J,RCA,102,569,2014)
+#REFERENCE  Radiochim.Acta 102 (2014) 569 (doi:10.1515/ract-2013-2179)
+#DATASETS   0
+#
+#DATASET    C2154008 
+#DATE       20150204
+#REACTION   90-TH-232(P,X)56-BA-140,CUM,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         459
+#PRODUCT    56-BA-140
+#C4BEGIN    [ 1001 90232   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3 459    1.9450+8 300000.0 8.0000-3 8.0000-4           56140.9                     J.W.Engle+           (14)C2154  8 
+ 1001 90232   3 459    1.7830+8 700000.0 0.010000 8.0000-4           56140.9                     J.W.Engle+           (14)C2154  8 
+ 1001 90232   3 459    1.6070+8 1000000. 0.010600 8.0000-4           56140.9                     J.W.Engle+           (14)C2154  8 
+ 1001 90232   3 459    1.4180+8 1300000. 0.012000 8.0000-4           56140.9                     J.W.Engle+           (14)C2154  8 
+ 1001 90232   3 459    1.2090+8 1600000. 0.013600 9.0000-4           56140.9                     J.W.Engle+           (14)C2154  8 
+ 1001 90232   3 459    9.7000+7 2000000. 0.016800 1.9000-3           56140.9                     J.W.Engle+           (14)C2154  8 
+ 1001 90232   3 459    9.0800+7 400000.0 0.017100 1.1000-3           56140.9                     J.W.Engle+           (14)C2154  8 
+ 1001 90232   3 459    8.1700+7 600000.0 0.018500 1.1000-3           56140.9                     J.W.Engle+           (14)C2154  8 
+ 1001 90232   3 459    7.2800+7 700000.0 0.019700 1.2000-3           56140.9                     J.W.Engle+           (14)C2154  8 
+ 1001 90232   3 459    6.4900+7 900000.0 0.022300 1.4000-3           56140.9                     J.W.Engle+           (14)C2154  8 
+ 1001 90232   3 459    5.6300+7 1100000. 0.025800 1.4000-3           56140.9                     J.W.Engle+           (14)C2154  8 
+ 1001 90232   3 459    4.4000+7 1400000. 0.030900 2.0000-3           56140.9                     J.W.Engle+           (14)C2154  8 
+#/DATA      12
+#/DATASET

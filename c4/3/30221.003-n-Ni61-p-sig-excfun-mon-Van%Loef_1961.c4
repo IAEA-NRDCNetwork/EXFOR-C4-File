@@ -1,0 +1,26 @@
+#ENTRY      30221
+#AUTHOR1    J.J.Van Loef+
+#YEAR       1961
+#INSTITUTE  (3CHLSAN)
+#TITLE      Activation cross sections for (n,p) reactions in some
+#+          medium weight nuclei with d+d neutrons.
+#AUTHOR(S)  J.J.Van Loef
+#REF-CODE   (J,NP,24,340,196104)
+#REFERENCE  Nucl.Phys. 24 (1961) 340 (doi:10.1016/0029-5582(61)90387-X)
+#DATASETS   0
+#
+#DATASET    30221003 
+#DATE       20081203
+#REACTION   28-NI-61(N,P)27-CO-61,,SIG
+#PROJ       1
+#TARG       28061
+#MF         3
+#MT         103
+#PRODUCT    27-CO-61
+#C4BEGIN    [    1 28061   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28061   3 103    3300000. 200000.0 3.0000-3 1.5000-3                                       J.J.Van Loef         (61)30221  3 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,25 @@
+#ENTRY      20143
+#AUTHOR1    A.J.Deruytter+
+#YEAR       1970
+#INSTITUTE  (2ZZZGEL)
+#TITLE      Precise 2200 m/sec fission cross-sections of Pu-239
+#+          and U-235
+#AUTHOR(S)  A.J.Deruytter, W.Becker
+#REF-CODE   (C,70HELSINKI,1,117,197006)
+#REFERENCE  Proceedings of Nuclear Data for Reactors Conf., Helsinki 1970 1 page 117
+#DATASETS   0
+#
+#DATASET    20143004 
+#DATE       20160725
+#REACTION   94-PU-239(N,F),,SIG
+#PROJ       1
+#TARG       94239
+#MF         3
+#MT         18
+#C4BEGIN    [    1 94239   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   3  18    0.025300          741.9000 3.400000                                       A.J.Deruytter+       (70)20143  4 
+#/DATA      1
+#/DATASET

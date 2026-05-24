@@ -1,0 +1,27 @@
+#ENTRY      13395
+#AUTHOR1    B.Finkle+
+#YEAR       1951
+#INSTITUTE  (1USAANL)
+#TITLE      Relative slow-neutron fission yields in Pu239.
+#+          IX. Determination of Pu-239 yields relative to U-235
+#+          yields
+#AUTHOR(S)  B.Finkle, E.Hoagland, S.Katcoff, N.Sugarman
+#REF-CODE   (B,RCS,2,1368,1951)
+#REFERENCE  Radiochemical Studies, Fission Products, USA, 1951 2 page 1368 (1951)
+#DATASETS   0
+#
+#DATASET    13395004 
+#DATE       20250707
+#REACTION   94-PU-239(N,F)ELEM/MASS,CUM,FY,,SPA
+#PROJ       1
+#TARG       94239
+#MF         8
+#MT         459
+#C4BEGIN    [    1 94239   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   8 459    0.025300          1.3000-3          47.00000 111.0000 9.000000            B.Finkle+            (51)13395  4 
+    1 94239   8 459    0.025300          1.4000-3          63.00000 155.0000 9.000000            B.Finkle+            (51)13395  4 
+#/DATA      2
+#/DATASET

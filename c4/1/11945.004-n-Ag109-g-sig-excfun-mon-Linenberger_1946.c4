@@ -1,0 +1,33 @@
+#ENTRY      11945
+#AUTHOR1    G.A.Linenberger+
+#YEAR       1946
+#INSTITUTE  (1USALAS)
+#TITLE      Capture cross sections of several substances for
+#+          neutrons at various energies.
+#AUTHOR(S)  G.A.Linenberger, J.A.Miskel
+#REF-CODE   (R,LA-467,194601)
+#REFERENCE  Report LA-467, 1946
+#DATASETS   0
+#
+#DATASET    11945004 
+#DATE       20091020
+#REACTION   47-AG-109(N,G)47-AG-110,,SIG
+#PROJ       1
+#TARG       47109
+#MF         3
+#MT         102
+#PRODUCT    47-AG-110
+#C4BEGIN    [    1 47109   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 47109   3 102    3000.000          3.610000                                                G.A.Linenberger+     (46)11945  4 
+    1 47109   3 102    16000.00          1.060000                                                G.A.Linenberger+     (46)11945  4 
+    1 47109   3 102    33000.00          0.856000                                                G.A.Linenberger+     (46)11945  4 
+    1 47109   3 102    67000.00          0.511000                                                G.A.Linenberger+     (46)11945  4 
+    1 47109   3 102    98000.00          0.635000                                                G.A.Linenberger+     (46)11945  4 
+    1 47109   3 102    195000.0          0.273000                                                G.A.Linenberger+     (46)11945  4 
+    1 47109   3 102    390000.0          0.170000                                                G.A.Linenberger+     (46)11945  4 
+    1 47109   3 102    5900000.          0.096000                                                G.A.Linenberger+     (46)11945  4 
+#/DATA      8
+#/DATASET

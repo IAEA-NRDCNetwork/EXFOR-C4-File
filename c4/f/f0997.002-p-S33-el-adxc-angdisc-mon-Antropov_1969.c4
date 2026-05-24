@@ -1,0 +1,36 @@
+#ENTRY      F0997
+#AUTHOR1    A.E.Antropov+
+#YEAR       1969
+#INSTITUTE  (4RUSSUL)
+#TITLE      Elastic and inelastic scattering of protons on 33S,
+#+          34S and 35Cl.
+#AUTHOR(S)  A.E.Antropov, P.P.Zarubin, P.N.Ioannu, B.N.Orlov, A.V.Plavko, 
+#+          V.F.Pomytkin, V.S.Romanov, A.I.Sorokin
+#REF-CODE   (J,IZV,33,1721,1969)
+#REFERENCE  Izv.Ross.AN,Fiz. 33 (1969) 1721
+#DATASETS   0
+#
+#DATASET    F0997002 
+#DATE       20090513
+#REACTION   16-S-33(P,EL)16-S-33,,DA,,RTH
+#PROJ       1001
+#TARG       16033
+#MF         4
+#MT         2
+#PRODUCT    16-S-33
+#C4BEGIN    [ 1001 16033   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 16033   4   2  C 6030000.          0.162523 0.028326 0.588773                              A.E.Antropov+        (69)F0997  2 
+ 1001 16033   4   2  C 6030000.          0.125277 0.016817 0.512283                              A.E.Antropov+        (69)F0997  2 
+ 1001 16033   4   2  C 6030000.          0.128240 0.021864 0.371011                              A.E.Antropov+        (69)F0997  2 
+ 1001 16033   4   2  C 6030000.          0.084644 0.019097 0.186370                              A.E.Antropov+        (69)F0997  2 
+ 1001 16033   4   2  C 6030000.          0.039941 7.8956-3 0.015550                              A.E.Antropov+        (69)F0997  2 
+ 1001 16033   4   2  C 6030000.          0.021046 3.9588-3-0.147361                              A.E.Antropov+        (69)F0997  2 
+ 1001 16033   4   2  C 6030000.          0.016716 3.7839-3-0.324908                              A.E.Antropov+        (69)F0997  2 
+ 1001 16033   4   2  C 6030000.          0.022782 4.6380-3-0.485573                              A.E.Antropov+        (69)F0997  2 
+ 1001 16033   4   2  C 6030000.          0.023868 4.6294-3-0.623334                              A.E.Antropov+        (69)F0997  2 
+ 1001 16033   4   2  C 6030000.          0.032721 6.7372-3-0.763796                              A.E.Antropov+        (69)F0997  2 
+#/DATA      10
+#/DATASET

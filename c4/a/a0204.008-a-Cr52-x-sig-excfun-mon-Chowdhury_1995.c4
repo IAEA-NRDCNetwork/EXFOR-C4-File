@@ -1,0 +1,31 @@
+#ENTRY      A0204
+#AUTHOR1    D.P.Chowdhury+
+#YEAR       1995
+#INSTITUTE  (3INDSAH)
+#TITLE      Determination of cross section of alpha-induced
+#+          nuclear reaction on natural Cr and Zr by stacked foil
+#+          activation for thin layer activation analysis
+#AUTHOR(S)  D.P.Chowdhury, Sujit Pal, S.K.Saha, S.Gangadharan
+#REF-CODE   (J,NIM/B,103,261,1995)
+#REFERENCE  Nucl.Instrum.Meth.B 103 (1995) 261 (doi:10.1016/0168-583X(95)00663-X)
+#DATASETS   0
+#
+#DATASET    A0204008 
+#DATE       20210120
+#REACTION   24-CR-52(A,X)25-MN-54,,SIG
+#PROJ       2004
+#TARG       24052
+#MF         3
+#MT         454
+#PRODUCT    25-MN-54
+#C4BEGIN    [ 2004 24052   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 24052   3 454    1.7200+7          0.386500 0.040100           25054.9                     D.P.Chowdhury+       (95)A0204  8 
+ 2004 24052   3 454    1.8900+7          0.402800 0.038200           25054.9                     D.P.Chowdhury+       (95)A0204  8 
+ 2004 24052   3 454    2.0400+7          0.490300 0.045100           25054.9                     D.P.Chowdhury+       (95)A0204  8 
+ 2004 24052   3 454    2.1900+7          0.467400 0.041600           25054.9                     D.P.Chowdhury+       (95)A0204  8 
+ 2004 24052   3 454    2.3300+7          0.508500 0.048300           25054.9                     D.P.Chowdhury+       (95)A0204  8 
+#/DATA      5
+#/DATASET

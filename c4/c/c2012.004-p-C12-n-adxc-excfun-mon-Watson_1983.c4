@@ -1,0 +1,28 @@
+#ENTRY      C2012
+#AUTHOR1    J.W.Watson+
+#YEAR       1983
+#INSTITUTE  (1USAKNT)
+#TITLE      A comparison of methods for determining neutron
+#+          detector efficiencies at medium energies
+#AUTHOR(S)  J.W.Watson, B.D.Anderson, A.R.Baldwin, C.Lebo, B.Flanders, 
+#+          W.Pairsuwan, R.Madey, C.C.Foster
+#REF-CODE   (J,NIM,215,413,1983)
+#REFERENCE  Nucl.Intrum.Meth. 215 (1983) 413 (doi:10.1016/0167-5087(83)90472-6)
+#DATASETS   0
+#
+#DATASET    C2012004 
+#DATE       20130603
+#REACTION   6-C-12(P,N)7-N-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         50
+#PRODUCT    7-N-12
+#C4BEGIN    [ 1001  6012   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4  50  C 1.3519+8          5.2500-3 4.6000-4 1.000000          0.000000         LVLJ.W.Watson+          (83)C2012  4 
+ 1001  6012   4  50  C 1.6049+8          6.2900-3 6.0000-4 1.000000          0.000000         LVLJ.W.Watson+          (83)C2012  4 
+#/DATA      2
+#/DATASET

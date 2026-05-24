@@ -1,0 +1,28 @@
+#ENTRY      D0112
+#AUTHOR1    M.Guillaume+
+#YEAR       1976
+#INSTITUTE  (2BLGLIE)
+#TITLE      Routine production of Fluorine-18 and Potassium-43
+#+          by cyclotron for medical application using remotely
+#+          controlled gas targets
+#AUTHOR(S)  M.Guillaume
+#REF-CODE   (J,NIM,136,185,1976)
+#REFERENCE  Nucl.Intrum.Meth. 136 (1976) 185 (doi:10.1016/0029-554X(76)90415-8)
+#DATASETS   0
+#
+#DATASET    D0112004 
+#DATE       20190819
+#REACTION   10-NE-20(D,A)9-F-18,,SIG
+#PROJ       1002
+#TARG       10020
+#MF         3
+#MT         107
+#PRODUCT    9-F-18
+#C4BEGIN    [ 1002 10020   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 10020   3 107    7000000.          0.293000                                                M.Guillaume          (76)D0112  4 
+ 1002 10020   3 107    1.2500+7          0.100000                                                M.Guillaume          (76)D0112  4 
+#/DATA      2
+#/DATASET

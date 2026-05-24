@@ -1,0 +1,25 @@
+#ENTRY      10971
+#AUTHOR1    O.A.Wasson+
+#YEAR       1982
+#INSTITUTE  (1USANBS)
+#TITLE      Measurement of the 235U neutron-induced fission cross
+#+          section at 14.1 MeV
+#AUTHOR(S)  O.A.Wasson, A.D.Carlson, K.C.Duvall
+#REF-CODE   (J,NSE,80,282,1982)
+#REFERENCE  Nucl.Sci.Eng. 80 (1982) 282 (doi:10.13182/NSE82-A21431)
+#DATASETS   0
+#
+#DATASET    10971002 
+#DATE       20210917
+#REACTION   92-U-235(N,F),,SIG
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18 A  1.4100+7 50000.00 2.080000 0.031200                                       O.A.Wasson+          (82)10971  2 
+#/DATA      1
+#/DATASET

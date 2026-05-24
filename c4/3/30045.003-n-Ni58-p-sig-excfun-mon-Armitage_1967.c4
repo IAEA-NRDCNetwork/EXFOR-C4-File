@@ -1,0 +1,30 @@
+#ENTRY      30045
+#AUTHOR1    F.G.Armitage+
+#YEAR       1967
+#INSTITUTE  (3AULAML)
+#TITLE      47Ti(n,p) Cross-section from 2.19 To 3.64 MeV
+#AUTHOR(S)  F.G.Armitage
+#REF-CODE   (W,SYMONDS,196703)
+#REFERENCE  Private communication  (1967)
+#DATASETS   0
+#
+#DATASET    30045003 
+#DATE       20080215
+#REACTION   28-NI-58(N,P)27-CO-58,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         103
+#PRODUCT    27-CO-58
+#C4BEGIN    [    1 28058   3 103 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3 103 P  2190000.          0.031000 6.0000-3                                       F.G.Armitage         (67)30045  3 
+    1 28058   3 103 P  2600000.          0.059000 0.012000                                       F.G.Armitage         (67)30045  3 
+    1 28058   3 103 P  3080000.          0.097000 0.018000                                       F.G.Armitage         (67)30045  3 
+    1 28058   3 103 P  3300000.          0.114000 0.019000                                       F.G.Armitage         (67)30045  3 
+    1 28058   3 103 P  3480000.          0.130000 0.022000                                       F.G.Armitage         (67)30045  3 
+    1 28058   3 103 P  3640000.          0.142000 0.022000                                       F.G.Armitage         (67)30045  3 
+#/DATA      6
+#/DATASET

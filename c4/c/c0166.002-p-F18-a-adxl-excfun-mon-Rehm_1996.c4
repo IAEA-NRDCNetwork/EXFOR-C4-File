@@ -1,0 +1,32 @@
+#ENTRY      C0166
+#AUTHOR1    K.E.Rehm+
+#YEAR       1996
+#INSTITUTE  (1USAANL)
+#TITLE      Astrophysical reaction rate for the 18F(p,alpha)15O
+#+          reaction
+#AUTHOR(S)  K.E.Rehm, M.Paul, A.D.Roberts, C.L.Jiang, D.J.Blumenthal, 
+#+          S.M.Fischer, J.Gehring, D.Henderson, J.Nickles, J.Nolan, 
+#+          R.C.Pardo, J.P.Schiffer, R.E.Segel
+#REF-CODE   (J,PR/C,53,1950,199604)
+#REFERENCE  Phys.Rev.C 53 (1996) 1950 (doi:10.1103/PhysRevC.53.1950)
+#DATASETS   0
+#
+#DATASET    C0166002 
+#DATE       19990928
+#REACTION   9-F-18(P,A)8-O-15,,DA
+#PROJ       1001
+#TARG       9018
+#MF         4
+#MT         107
+#PRODUCT    8-O-15
+#C4BEGIN    [ 1001  9018   4 107 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9018   4 107 A  611426.6 37001.27 2.2000-3 2.2000-3-0.342020 0.082004                     K.E.Rehm+            (96)C0166  2 
+ 1001  9018   4 107 A  669507.9 19000.71 0.018000 6.0000-3-0.342020 0.082004                     K.E.Rehm+            (96)C0166  2 
+ 1001  9018   4 107 A  696964.6 19000.74 0.011100 6.0000-3-0.342020 0.082004                     K.E.Rehm+            (96)C0166  2 
+ 1001  9018   4 107 A  710693.0 32001.28 0.023200 0.010000-0.342020 0.082004                     K.E.Rehm+            (96)C0166  2 
+ 1001  9018   4 107 A  713861.0 29001.16 0.017000 4.0000-3-0.342020 0.082004                     K.E.Rehm+            (96)C0166  2 
+#/DATA      5
+#/DATASET

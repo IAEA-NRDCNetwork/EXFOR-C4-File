@@ -1,0 +1,32 @@
+#ENTRY      20403
+#AUTHOR1    D.Porter+
+#YEAR       1970
+#INSTITUTE  (2UK ALD)
+#TITLE      Elastic and inelastic scattering of neutrons in the
+#+          energy range 2 to 5 MeV by B-10 and B-11
+#AUTHOR(S)  D.Porter, R.E.Coles, K.Wyld
+#REF-CODE   (R,AWRE-O-45/70,1970)
+#REFERENCE  Report AWRE-O-45/70, 1970
+#DATASETS   0
+#
+#DATASET    20403002 
+#DATE       20180821
+#REACTION   5-B-10(N,EL)5-B-10,,SIG
+#PROJ       1
+#TARG       5010
+#MF         3
+#MT         2
+#PRODUCT    5-B-10
+#C4BEGIN    [    1  5010   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   3   2 D  2032000. 32000.00 1.320000 0.040000                                       D.Porter+            (70)20403  2 
+    1  5010   3   2 D  2618000. 27000.00 1.830000 0.060000                                       D.Porter+            (70)20403  2 
+    1  5010   3   2 D  3177000. 24000.00 1.740000 0.060000                                       D.Porter+            (70)20403  2 
+    1  5010   3   2 D  3740000. 22000.00 1.400000 0.050000                                       D.Porter+            (70)20403  2 
+    1  5010   3   2 D  4312000. 20000.00 1.290000 0.050000                                       D.Porter+            (70)20403  2 
+    1  5010   3   2 D  4338000. 121000.0 1.440000 0.050000                                       D.Porter+            (70)20403  2 
+    1  5010   3   2 D  4823000. 98000.00 1.340000 0.050000                                       D.Porter+            (70)20403  2 
+#/DATA      7
+#/DATASET

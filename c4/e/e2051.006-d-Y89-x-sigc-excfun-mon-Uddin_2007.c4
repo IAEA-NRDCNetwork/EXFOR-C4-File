@@ -1,0 +1,31 @@
+#ENTRY      E2051
+#AUTHOR1    M.S.Uddin+
+#YEAR       2007
+#INSTITUTE  (3BANSAV)
+#TITLE      Experimental determination of deuteron-induced
+#+          activation cross sections of yttrium
+#AUTHOR(S)  M.S.Uddin, M.Baba, M.Hagiwara, F.Tarkanyi, F.Ditroi
+#REF-CODE   (J,RCA,95,187,2007)
+#REFERENCE  Radiochim.Acta 95 (2007) 187 (doi:10.1524/ract.2007.95.4.187)
+#DATASETS   0
+#
+#DATASET    E2051006 
+#DATE       20080131
+#REACTION   39-Y-89(D,X)39-Y-87-M,CUM,SIG
+#PROJ       1002
+#TARG       39089
+#MF         3
+#MT         459
+#PRODUCT    39-Y-87-M
+#C4BEGIN    [ 1002 39089   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 39089   3 459    2.4100+7          5.5000-4 5.0000-5           39087.7                     M.S.Uddin+           (07)E2051  6 
+ 1002 39089   3 459    2.7600+7          1.8000-3 1.6000-4           39087.7                     M.S.Uddin+           (07)E2051  6 
+ 1002 39089   3 459    3.0700+7          7.0000-3 6.0000-4           39087.7                     M.S.Uddin+           (07)E2051  6 
+ 1002 39089   3 459    3.3700+7          0.057000 5.0000-3           39087.7                     M.S.Uddin+           (07)E2051  6 
+ 1002 39089   3 459    3.6400+7          0.184000 0.015000           39087.7                     M.S.Uddin+           (07)E2051  6 
+ 1002 39089   3 459    3.9100+7          0.347000 0.028000           39087.7                     M.S.Uddin+           (07)E2051  6 
+#/DATA      6
+#/DATASET

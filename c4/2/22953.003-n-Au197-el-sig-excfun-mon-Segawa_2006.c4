@@ -1,0 +1,29 @@
+#ENTRY      22953
+#AUTHOR1    M.Segawa+
+#YEAR       2006
+#INSTITUTE  (2JPNOSA)
+#TITLE      A detection system for (n,n') reaction studies of
+#+          astrophysical interest.
+#AUTHOR(S)  M.Segawa, Y.Temma, Y.Nagai, T.Masaki, T.Shima, T.Ohta, A.Nakayoshi, 
+#+          J.Nishiyama, M.Igashira
+#REF-CODE   (J,NIM/A,564,370,2006)
+#REFERENCE  Nucl.Instrum.Meth.A 564 (2006) 370 (doi:10.1016/j.nima.2006.03.036)
+#DATASETS   0
+#
+#DATASET    22953003 
+#DATE       20230518
+#REACTION   79-AU-197(N,EL)79-AU-197,,SIG
+#PROJ       1
+#TARG       79197
+#MF         3
+#MT         2
+#PRODUCT    79-AU-197
+#C4BEGIN    [    1 79197   3   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   3   2    21500.00          12.90000 0.700000                                       M.Segawa+            (06)22953  3 
+    1 79197   3   2    39000.00          11.90000 0.600000                                       M.Segawa+            (06)22953  3 
+    1 79197   3   2    58800.00          10.70000 0.500000                                       M.Segawa+            (06)22953  3 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      33202
+#AUTHOR1    N.S.Tawade+
+#YEAR       2024
+#INSTITUTE  (3INDTRM)
+#TITLE      Measurement of fast neutron induced (n,gamma)
+#+          reaction cross-section of 152Sm, 154Sm and 150Nd in
+#+          the energy range of 0.8 to 2 MeV
+#AUTHOR(S)  N.S.Tawade, R.Tripathi, T.N.Nag, S.Patra, C.S.Datrik, P.K.Pujari, 
+#+          R.G.Thomas, G.Mishra, A.Kumar, S.De, H.Kumawat
+#REF-CODE   (J,NP/A,1042,122805,2024)
+#REFERENCE  Nucl.Phys.A 1042 (2024) 122805 (doi:10.1016/j.nuclphysa.2023.122805)
+#DATASETS   0
+#
+#DATASET    33202003 
+#DATE       20250121
+#REACTION   62-SM-154(N,G)62-SM-155,,SIG,,SPA
+#PROJ       1
+#TARG       62154
+#MF         3
+#MT         102
+#PRODUCT    62-SM-155
+#C4BEGIN    [    1 62154   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 62154   3 102    855000.0 175000.0 0.063200 4.0000-3                                       N.S.Tawade+          (24)33202  3 
+    1 62154   3 102    1535000. 209000.0 0.039200 2.6000-3                                       N.S.Tawade+          (24)33202  3 
+    1 62154   3 102    1996000. 231000.0 0.032600 4.2000-3                                       N.S.Tawade+          (24)33202  3 
+#/DATA      3
+#/DATASET

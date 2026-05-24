@@ -1,0 +1,26 @@
+#ENTRY      10477
+#AUTHOR1    R.A.Sigg+
+#YEAR       1975
+#INSTITUTE  (1USAARK)
+#TITLE      14.8 MeV neutron-induced (n,2n), (n,p), and (n,alpha)
+#+          cross-sections for some closed shell nuclides.
+#AUTHOR(S)  R.A.Sigg, P.K.Kuroda
+#REF-CODE   (J,JIN,37,631,197503)
+#REFERENCE  J.Inorg.Nucl.Chem. 37 (1975) 631 (doi:10.1016/0022-1902(75)80511-2)
+#DATASETS   0
+#
+#DATASET    10477011 
+#DATE       20031103
+#REACTION   42-MO-92(N,2N)42-MO-91-G,,SIG
+#PROJ       1
+#TARG       42092
+#MF         3
+#MT         16
+#PRODUCT    42-MO-91-G
+#C4BEGIN    [    1 42092   3  16GA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42092   3  16GA  1.4800+7 200000.0 0.211000 0.016000                                       R.A.Sigg+            (75)10477 11 
+#/DATA      1
+#/DATASET

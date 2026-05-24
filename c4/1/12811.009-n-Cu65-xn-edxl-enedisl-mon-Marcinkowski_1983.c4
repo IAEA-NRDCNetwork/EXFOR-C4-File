@@ -1,0 +1,38 @@
+#ENTRY      12811
+#AUTHOR1    A.Marcinkowski+
+#YEAR       1983
+#INSTITUTE  (1USAOHO)
+#TITLE      NEUTRON EMISSION CROSS SECTIONS AT 25.7 MEV- 51-V
+#+          56-FE, 65-CU, 93-NB, AND 209-BI
+#AUTHOR(S)  A.Marcinkowski, R.W.Finlay, G.Randers-Pehrson, C.E.Brient, 
+#+          R.Kurup, S.Mellema, A.Meigooni, R.Tailor
+#REF-CODE   (J,NSE,83,13,8301)
+#REFERENCE  Nucl.Sci.Eng. 83 (1983) 13 (doi:10.13182/NSE83-13)
+#DATASETS   0
+#
+#DATASET    12811009 
+#DATE       19830818
+#REACTION   29-CU-65(N,X)0-NN-1,,DE
+#PROJ       1
+#TARG       29065
+#MF         5
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    1 29065   5 201 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29065   5 201 D  2.5700+7          2.8050-8 4.700-10                   1.2500+7 500000.0 E2A.Marcinkowski+      (83)12811  9 
+    1 29065   5 201 D  2.5700+7          2.3500-8 4.600-10                   1.3500+7 500000.0 E2A.Marcinkowski+      (83)12811  9 
+    1 29065   5 201 D  2.5700+7          2.1400-8 4.700-10                   1.4500+7 500000.0 E2A.Marcinkowski+      (83)12811  9 
+    1 29065   5 201 D  2.5700+7          2.0530-8 4.100-10                   1.5500+7 500000.0 E2A.Marcinkowski+      (83)12811  9 
+    1 29065   5 201 D  2.5700+7          1.8820-8 4.300-10                   1.6500+7 500000.0 E2A.Marcinkowski+      (83)12811  9 
+    1 29065   5 201 D  2.5700+7          1.8900-8 4.500-10                   1.7500+7 500000.0 E2A.Marcinkowski+      (83)12811  9 
+    1 29065   5 201 D  2.5700+7          1.8260-8 4.800-10                   1.8500+7 500000.0 E2A.Marcinkowski+      (83)12811  9 
+    1 29065   5 201 D  2.5700+7          1.7880-8 5.200-10                   1.9500+7 500000.0 E2A.Marcinkowski+      (83)12811  9 
+    1 29065   5 201 D  2.5700+7          1.6690-8 5.300-10                   2.0500+7 500000.0 E2A.Marcinkowski+      (83)12811  9 
+    1 29065   5 201 D  2.5700+7          2.3950-8 5.500-10                   2.1500+7 500000.0 E2A.Marcinkowski+      (83)12811  9 
+    1 29065   5 201 D  2.5700+7          1.7180-8 5.300-10                   2.2500+7 500000.0 E2A.Marcinkowski+      (83)12811  9 
+    1 29065   5 201 D  2.5700+7          2.8670-8 6.200-10                   2.3500+7 500000.0 E2A.Marcinkowski+      (83)12811  9 
+#/DATA      12
+#/DATASET

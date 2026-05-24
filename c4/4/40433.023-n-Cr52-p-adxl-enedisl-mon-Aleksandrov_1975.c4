@@ -1,0 +1,28 @@
+#ENTRY      40433
+#AUTHOR1    D.V.Aleksandrov+
+#YEAR       1975
+#INSTITUTE  (4RUSTIL)
+#TITLE      (n,p) cross sections for Al-27, Si-28, P-31,
+#+          Cl-35, K-39 and Cr-52 at 14.1 MeV
+#AUTHOR(S)  D.V.Aleksandrov, L.I.Klochkova, B.S.Kovrigin
+#REF-CODE   (J,SJA,39,736,1975)
+#REFERENCE  Sov.At.Energy 39 (1975) 736 (doi:10.1007/BF01129817)
+#DATASETS   0
+#
+#DATASET    40433023 
+#DATE       20170206
+#REACTION   24-CR-52(N,P)23-V-52,PAR,DA
+#PROJ       1
+#TARG       24052
+#MF         4
+#MT         600
+#PRODUCT    23-V-52
+#C4BEGIN    [    1 24052   4 600 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24052   4 600 D  1.4100+7          1.1000-3 1.0000-4 0.707107          8400000.          E2D.V.Aleksandrov+     (75)40433 23 
+    1 24052   4 600 D  1.4100+7          4.0000-4 4.0000-5 0.707107          9500000.          E2D.V.Aleksandrov+     (75)40433 23 
+    1 24052   4 600 D  1.4100+7          5.4000-4 4.0000-5 0.707107          1.0600+7          E2D.V.Aleksandrov+     (75)40433 23 
+#/DATA      3
+#/DATASET

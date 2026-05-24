@@ -1,0 +1,33 @@
+#ENTRY      O0322
+#AUTHOR1    J.B.Ball+
+#YEAR       1968
+#INSTITUTE  (1USAORL)
+#TITLE      Neutron hole states in z=40 nuclei studied with
+#+          the (p,d) reaction on Zr-90, Zr-91 and Zr-92
+#AUTHOR(S)  J.B.Ball, C.B.Fulmer
+#REF-CODE   (J,PR,172,1199,1968)
+#REFERENCE  Phys.Rev. 172 (1968) 1199 (doi:10.1103/PhysRev.172.1199)
+#DATASETS   0
+#
+#DATASET    O0322006 
+#DATE       20230408
+#REACTION   40-ZR-91(P,D)40-ZR-90,PAR,DA
+#PROJ       1001
+#TARG       40091
+#MF         4
+#MT         650
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 1001 40091   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40091   4 650  C 3.1000+7 18000.00 4.9000-3 2.9400-4 0.964142          0.000000         LVLJ.B.Ball+            (68)O0322  6 
+ 1001 40091   4 650  C 3.1000+7 18000.00 2.7500-3 1.3750-4 0.936305          0.000000         LVLJ.B.Ball+            (68)O0322  6 
+ 1001 40091   4 650  C 3.1000+7 18000.00 1.3000-3 7.8000-5 0.900850          0.000000         LVLJ.B.Ball+            (68)O0322  6 
+ 1001 40091   4 650  C 3.1000+7 18000.00 1.0500-3 6.3000-5 0.860742          0.000000         LVLJ.B.Ball+            (68)O0322  6 
+ 1001 40091   4 650  C 3.1000+7 18000.00 9.5000-4 5.7000-5 0.812796          0.000000         LVLJ.B.Ball+            (68)O0322  6 
+ 1001 40091   4 650  C 3.1000+7 18000.00 7.1000-4 4.9700-5 0.758703          0.000000         LVLJ.B.Ball+            (68)O0322  6 
+ 1001 40091   4 650  C 3.1000+7 18000.00 4.2000-4 2.9400-5 0.696915          0.000000         LVLJ.B.Ball+            (68)O0322  6 
+ 1001 40091   4 650  C 3.1000+7 18000.00 5.1000-4 4.0800-5 0.631353          0.000000         LVLJ.B.Ball+            (68)O0322  6 
+#/DATA      8
+#/DATASET

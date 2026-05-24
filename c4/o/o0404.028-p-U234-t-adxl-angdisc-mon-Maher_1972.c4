@@ -1,0 +1,35 @@
+#ENTRY      O0404
+#AUTHOR1    J.V.Maher+
+#YEAR       1972
+#INSTITUTE  (1USAANL)
+#TITLE      Population of 0+ States in Actinide and Atomic Mass
+#+          Approx. 190 Nuclides by the (P,T) Reaction.
+#AUTHOR(S)  J.V.Maher, J.R.Erskine, A.M.Friedman, R.H.Siemssen, J.P.Schiffer
+#REF-CODE   (J,PR/C,5,1380,1972)
+#REFERENCE  Phys.Rev.C 5 (1972) 1380 (doi:10.1103/PhysRevC.5.1380)
+#DATASETS   0
+#
+#DATASET    O0404028 
+#DATE       20000426
+#REACTION   92-U-234(P,T)92-U-232,PAR,DA
+#PROJ       1001
+#TARG       92234
+#MF         4
+#MT         700
+#PRODUCT    92-U-232
+#C4BEGIN    [ 1001 92234   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92234   4 700  C 1.7000+7          6.3000-6 1.5120-6 0.982678 9.7035-4 736000.0         LVLJ.V.Maher+           (72)O0404 28 
+ 1001 92234   4 700  C 1.7000+7          1.0600-5 1.2720-6 0.963116 1.4089-3 736000.0         LVLJ.V.Maher+           (72)O0404 28 
+ 1001 92234   4 700  C 1.7000+7          4.3000-6 5.1600-7 0.934080 1.8696-3 736000.0         LVLJ.V.Maher+           (72)O0404 28 
+ 1001 92234   4 700  C 1.7000+7          7.4000-6 1.1840-6 0.903111 2.2484-3 736000.0         LVLJ.V.Maher+           (72)O0404 28 
+ 1001 92234   4 700  C 1.7000+7          1.0000-5 4.0000-6 0.857437 2.6944-3 736000.0         LVLJ.V.Maher+           (72)O0404 28 
+ 1001 92234   4 700  C 1.7000+7          1.0470-5          0.816440 3.0234-3 736000.0         LVLJ.V.Maher+           (72)O0404 28 
+ 1001 92234   4 700  C 1.7000+7          4.5000-6 9.9000-7 0.764134 3.3775-3 736000.0         LVLJ.V.Maher+           (72)O0404 28 
+ 1001 92234   4 700  C 1.7000+7          3.3000-6 1.6500-6 0.642921 4.0104-3 736000.0         LVLJ.V.Maher+           (72)O0404 28 
+ 1001 92234   4 700  C 1.7000+7          5.2000-6 1.5600-6 0.568849 4.3063-3 736000.0         LVLJ.V.Maher+           (72)O0404 28 
+ 1001 92234   4 700  C 1.7000+7          6.2000-6 1.1160-6 0.483741 4.5826-3 736000.0         LVLJ.V.Maher+           (72)O0404 28 
+#/DATA      10
+#/DATASET

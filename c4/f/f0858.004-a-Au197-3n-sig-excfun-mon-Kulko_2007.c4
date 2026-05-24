@@ -1,0 +1,29 @@
+#ENTRY      F0858
+#AUTHOR1    A.A.Kulko+
+#YEAR       2007
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Excitation functions for complete-fusion and transfer
+#+          reactions in 4He interaction with 197Au nuclei
+#AUTHOR(S)  A.A.Kulko, N.A.Demekhina, R.Kalpakchieva, Yu.A.Muzychka, 
+#+          Yu.E.Penionzhkevich, D.N.Rassadov, N.K.Skobelev, D.A.Testov
+#REF-CODE   (J,PAN,70,613,2007)
+#REFERENCE  Phys.At.Nucl. 70 (2007) 613 (doi:10.1134/S1063778807040011)
+#DATASETS   0
+#
+#DATASET    F0858004 
+#DATE       20240208
+#REACTION   79-AU-197(A,3N)81-TL-198,,SIG
+#PROJ       2004
+#TARG       79197
+#MF         3
+#MT         17
+#PRODUCT    81-TL-198
+#C4BEGIN    [ 2004 79197   3  17 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 79197   3  17 A  3.5000+7 1050000. 0.948000 0.017000                                       A.A.Kulko+           (07)F0858  4 
+ 2004 79197   3  17 A  3.2900+7 1110000. 0.643000 0.013000                                       A.A.Kulko+           (07)F0858  4 
+ 2004 79197   3  17 A  3.0600+7 1170000. 0.276000 9.0000-3                                       A.A.Kulko+           (07)F0858  4 
+#/DATA      3
+#/DATASET

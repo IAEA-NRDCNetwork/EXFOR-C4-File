@@ -1,0 +1,27 @@
+#ENTRY      23611
+#AUTHOR1    S.Nakamura+
+#YEAR       2023
+#INSTITUTE  (2JPNJAE)
+#TITLE      Measurements of capture cross-section of 93Nb by
+#+          activation method and half-life of 94Nb by mass
+#+          analysis
+#AUTHOR(S)  S.Nakamura, Y.Shibahara, S.Endo, A.Kimura
+#REF-CODE   (J,NST,60,1361,2023)
+#REFERENCE  J.Nucl.Sci.Technol. 60 (2023) 1361 (doi:10.1080/00223131.2023.2198526)
+#DATASETS   0
+#
+#DATASET    23611002 
+#DATE       20231211
+#REACTION   41-NB-93(N,G)41-NB-94,,SIG
+#PROJ       1
+#TARG       41093
+#MF         3
+#MT         102
+#PRODUCT    41-NB-94
+#C4BEGIN    [    1 41093   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093   3 102 C  0.025300          1.110000 0.040000                                       S.Nakamura+          (23)23611  2 
+#/DATA      1
+#/DATASET

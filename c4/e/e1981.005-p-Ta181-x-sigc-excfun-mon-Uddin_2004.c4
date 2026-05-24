@@ -1,0 +1,36 @@
+#ENTRY      E1981
+#AUTHOR1    M.S.Uddin+
+#YEAR       2004
+#INSTITUTE  (2JPNTOH)
+#TITLE      Measurement of excitation functions of the
+#+          proton-induced activation reactions on tantalum in the
+#+          energy range 28-70 MeV
+#AUTHOR(S)  M.S.Uddin, M.Hagiwara, N.Kawata, T.Itoga, N.Hirabayashi, 
+#+          M.Baba, F.Tarkanyi, F.Ditroi, J.Csikai
+#REF-CODE   (J,NSTS,4,160,200403)
+#REFERENCE  Nucl.Sci.Techn.Supp. 4 (2004) 160
+#DATASETS   0
+#
+#DATASET    E1981005 
+#DATE       20070208
+#REACTION   73-TA-181(P,X)73-TA-180-G,(CUM),SIG
+#PROJ       1001
+#TARG       73181
+#MF         3
+#MT         459
+#PRODUCT    73-TA-180-G
+#C4BEGIN    [ 1001 73181   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 73181   3 459    6.8990+7          0.122080 0.017300           73180.0                     M.S.Uddin+           (04)E1981  5 
+ 1001 73181   3 459    6.5560+7          0.120900 0.021200           73180.0                     M.S.Uddin+           (04)E1981  5 
+ 1001 73181   3 459    6.0920+7          0.132240 0.021300           73180.0                     M.S.Uddin+           (04)E1981  5 
+ 1001 73181   3 459    5.6710+7          0.125760 0.017000           73180.0                     M.S.Uddin+           (04)E1981  5 
+ 1001 73181   3 459    5.1940+7          0.145260 0.020400           73180.0                     M.S.Uddin+           (04)E1981  5 
+ 1001 73181   3 459    4.6740+7          0.207210 0.025300           73180.0                     M.S.Uddin+           (04)E1981  5 
+ 1001 73181   3 459    4.1480+7          0.334630 0.039800           73180.0                     M.S.Uddin+           (04)E1981  5 
+ 1001 73181   3 459    3.5500+7          0.446980 0.053000           73180.0                     M.S.Uddin+           (04)E1981  5 
+ 1001 73181   3 459    2.8570+7          0.157330 0.019400           73180.0                     M.S.Uddin+           (04)E1981  5 
+#/DATA      9
+#/DATASET

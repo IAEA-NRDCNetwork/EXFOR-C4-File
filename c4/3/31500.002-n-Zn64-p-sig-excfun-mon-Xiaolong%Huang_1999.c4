@@ -1,0 +1,39 @@
+#ENTRY      31500
+#AUTHOR1    Xiaolong Huang+
+#YEAR       1999
+#INSTITUTE  (3CPRAEP)
+#TITLE      The Effect of Low-Energy Neutrons on Activation
+#+          Cross Sections Measurement
+#AUTHOR(S)  Xiaolong Huang, Weixiang Yu, Xiaogang Han, Wenrong Zhao, 
+#+          Hanlin Lu, Jinxiang Chen, Zhaomin Shi, Gouyou Tang, Guohui Zhang
+#REF-CODE   (J,NSE,131,267,1999)
+#REFERENCE  Nucl.Sci.Eng. 131 (1999) 267 (doi:10.13182/NSE99-A2033)
+#DATASETS   0
+#
+#DATASET    31500002 
+#DATE       20090605
+#REACTION   30-ZN-64(N,P)29-CU-64,,SIG
+#PROJ       1
+#TARG       30064
+#MF         3
+#MT         103
+#PRODUCT    29-CU-64
+#C4BEGIN    [    1 30064   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 30064   3 103    4000000. 160000.0 0.132900 3.8000-3                                       Xiaolong Huang+      (99)31500  2 
+    1 30064   3 103    4900000. 100000.0 0.181600 6.3000-3                                       Xiaolong Huang+      (99)31500  2 
+    1 30064   3 103    6000000. 130000.0 0.205200 7.9000-3                                       Xiaolong Huang+      (99)31500  2 
+    1 30064   3 103    7000000. 150000.0 0.219500 8.4000-3                                       Xiaolong Huang+      (99)31500  2 
+    1 30064   3 103    8370000. 580000.0 0.235000 0.012000                                       Xiaolong Huang+      (99)31500  2 
+    1 30064   3 103    9370000. 460000.0 0.251000 0.014000                                       Xiaolong Huang+      (99)31500  2 
+    1 30064   3 103    9500000. 500000.0 0.257000 0.013000                                       Xiaolong Huang+      (99)31500  2 
+    1 30064   3 103    9900000. 500000.0 0.249000 0.013000                                       Xiaolong Huang+      (99)31500  2 
+    1 30064   3 103    1.0400+7 330000.0 0.249000 0.013000                                       Xiaolong Huang+      (99)31500  2 
+    1 30064   3 103    1.1400+7 350000.0 0.243000 0.012000                                       Xiaolong Huang+      (99)31500  2 
+    1 30064   3 103    1.4650+7 200000.0 0.134000 4.0000-3                                       Xiaolong Huang+      (99)31500  2 
+    1 30064   3 103    1.7990+7 150000.0 0.061000 8.0000-3                                       Xiaolong Huang+      (99)31500  2 
+    1 30064   3 103    1.9020+7 220000.0 0.057000 5.0000-3                                       Xiaolong Huang+      (99)31500  2 
+#/DATA      13
+#/DATASET

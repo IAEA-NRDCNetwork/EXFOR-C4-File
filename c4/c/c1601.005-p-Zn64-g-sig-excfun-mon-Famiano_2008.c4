@@ -1,0 +1,36 @@
+#ENTRY      C1601
+#AUTHOR1    M.A.Famiano+
+#YEAR       2008
+#INSTITUTE  (1USAWMU)
+#TITLE      Measurement of the (p,alpha) cross sections of 46Ti,
+#+          64Zn, 114Sn, and 116Sn at astrophysically relevant
+#+          energies
+#AUTHOR(S)  M.A.Famiano, R.S.Kodikara, B.M.Giacherio, V.G.Subramanian, 
+#+          A.Kayani
+#REF-CODE   (J,NP/A,802,26,2008)
+#REFERENCE  Nucl.Phys.A 802 (2008) 26 (doi:10.1016/j.nuclphysa.2008.01.013)
+#DATASETS   0
+#
+#DATASET    C1601005 
+#DATE       20080319
+#REACTION   30-ZN-64(P,G)31-GA-65,,SIG,,SFC
+#PROJ       1001
+#TARG       30064
+#MF         3
+#MT         102
+#PRODUCT    31-GA-65
+#C4BEGIN    [ 1001 30064   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30064   3 102    1245340.          3.6019-7 5.2061-8                                       M.A.Famiano+         (08)C1601  5 
+ 1001 30064   3 102    1539918.          2.2119-6 3.6472-7                                       M.A.Famiano+         (08)C1601  5 
+ 1001 30064   3 102    1834498.          7.7883-6 1.2057-6                                       M.A.Famiano+         (08)C1601  5 
+ 1001 30064   3 102    2129079.          1.3033-5 2.2790-6                                       M.A.Famiano+         (08)C1601  5 
+ 1001 30064   3 102    2440931.          1.8864-5 2.7265-6                                       M.A.Famiano+         (08)C1601  5 
+ 1001 30064   3 102    2722309.          2.9446-5 5.1489-6                                       M.A.Famiano+         (08)C1601  5 
+ 1001 30064   3 102    3026037.          4.0474-5 6.6730-6                                       M.A.Famiano+         (08)C1601  5 
+ 1001 30064   3 102    3324687.          4.6506-5 7.6681-6                                       M.A.Famiano+         (08)C1601  5 
+ 1001 30064   3 102    3619276.          4.8403-5 7.9803-6                                       M.A.Famiano+         (08)C1601  5 
+#/DATA      9
+#/DATASET

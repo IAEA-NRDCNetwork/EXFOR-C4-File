@@ -1,0 +1,28 @@
+#ENTRY      31817
+#AUTHOR1    L.Weissman+
+#YEAR       2019
+#INSTITUTE  (3ISLSOR)
+#TITLE      Measurement of 63,65Cu(n,g)64,66Cu and 59Co(n,g)60Co
+#+          Maxwellian-averaged neutron-capture cross sections
+#AUTHOR(S)  L.Weissman, M.Tessler, A.Barak, H.Dafna, A.Grin, B.Kaizer, 
+#+          D.Kijel, A.Kreisel, M.Paul, A.Perry, I.Silverman, N.Tamim, 
+#+          T.Zchut
+#REF-CODE   (J,PR/C,100,065804,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 065804 (doi:10.1103/PhysRevC.100.065804)
+#DATASETS   0
+#
+#DATASET    318170022
+#DATE       20200506
+#REACTION   29-CU-63(N,G)29-CU-64,,SIG,,SPA
+#PROJ       1
+#TARG       29063
+#MF         3
+#MT         102
+#PRODUCT    29-CU-64
+#C4BEGIN    [    1 29063   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29063   3 102 A  28000.00          0.072800 1.9000-3                                       L.Weissman+          (19)31817  22
+#/DATA      1
+#/DATASET

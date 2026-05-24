@@ -1,0 +1,31 @@
+#ENTRY      41685
+#AUTHOR1    N.A.Fedorov+
+#YEAR       2020
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Measuring the yields and angular distributions of gamma
+#+          quanta from the interaction between 14.1 MeV neutrons
+#+          and magnesium nuclei
+#AUTHOR(S)  N.A.Fedorov, D.N.Grozdanov, Yu.N.Kopatch, V.M.Bystritsky, 
+#+          T.Yu.Tretyakova, I.N.Ruskov, V.R.Skoy, S.Dabylova, F.A.Aliev, 
+#+          K.Hramco, N.A.Gundorin, I.D.Dashkov, E.P.Bogolyubov, D.I.Yurkov, 
+#+          A.Gandhi, A.Kumar
+#REF-CODE   (J,BAS,84,367,2020)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 84 (2020) 367 (doi:10.3103/S1062873820040085)
+#DATASETS   0
+#
+#DATASET    41685002 
+#DATE       20200609
+#REACTION   12-MG-24(N,A)10-NE-21,PAR,SIG,G
+#PROJ       1
+#TARG       12024
+#MF         13
+#MT         800
+#PRODUCT    10-NE-21
+#C4BEGIN    [    1 12024  13 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 12024  13 800    1.4100+7          0.185000 2.0000-3                   350700.0            N.A.Fedorov+         (20)41685  2 
+    1 12024  13 800    1.4100+7          0.019000 3.0000-3                   3735200.            N.A.Fedorov+         (20)41685  2 
+#/DATA      2
+#/DATASET

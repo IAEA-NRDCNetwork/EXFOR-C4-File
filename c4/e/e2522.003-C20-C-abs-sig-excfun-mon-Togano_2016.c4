@@ -1,0 +1,33 @@
+#ENTRY      E2522
+#AUTHOR1    Y.Togano+
+#YEAR       2016
+#INSTITUTE  (2JPNTIT)
+#TITLE      Interaction cross section study of the two-neutron
+#+          halo nucleus 22C
+#AUTHOR(S)  Y.Togano, T.Nakamura, Y.Kondo, J.A.Tostevin, A.T.Saito, 
+#+          J.Gibelin, N.A.Orr, N.L.Achouri, T.Aumann, H.Baba, F.Delaunay, 
+#+          P.Doornenbal, N.Fukuda, J.W.Hwang, N.Inabe, T.Isobe, D.Kameda, 
+#+          D.Kanno, S.Kim, N.Kobayashi, T.Kobayashi, T.Kubo, S.Leblond, 
+#+          J.Lee, F.M.Marques, R.Minakata, T.Motobayashi, D.Murai, 
+#+          T.Murakami, K.Muto, T.Nakashima, N.Nakatsuka, A.Navin, S.Nishi, 
+#+          S.Ogoshi, H.Otsu, H.Sato, Y.Satou, Y.Shimizu, H.Suzuki, 
+#+          K.Takahashi, H.Takeda, S.Takeuchi, R.Tanaka, A.G.Tuff, M.Vandebrouck, 
+#+          K.Yoneda
+#REF-CODE   (J,PL/B,761,412,2016)
+#REFERENCE  Phys.Lett.B 761 (2016) 412 (doi:10.1016/j.physletb.2016.08.062)
+#DATASETS   0
+#
+#DATASET    E2522003 
+#DATE       20170125
+#REACTION   6-C-0(6-C-20,ABS),,SIG
+#PROJ       6020
+#TARG       6000
+#MF         3
+#MT         27
+#C4BEGIN    [ 6020  6000   3  27  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6020  6000   3  27    5.6000+9          1.111000 8.0000-3                                       Y.Togano+            (16)E2522  3 
+#/DATA      1
+#/DATASET

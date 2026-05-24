@@ -1,0 +1,43 @@
+#ENTRY      O2534
+#AUTHOR1    M.Shuza Uddin+
+#YEAR       2020
+#INSTITUTE  (2GERJUL)
+#TITLE      Accurate determination of production data of the
+#+          non-standard positron emitter 86Y via the
+#+          86Sr(p,n)-reaction
+#AUTHOR(S)  M.Shuza Uddin, B.Scholten, M.Shamsuzzhoha Basunia, S.Sudar, 
+#+          S.Spellerberg, A.S.Voyles, J.T.Morrell, H.Zaneb, J.A.Rios, 
+#+          I.Spahn, L.A.Bernstein, B.Neumaier, S.M.Qaim
+#REF-CODE   (J,RCA,108,747,2020)
+#REFERENCE  Radiochim.Acta 108 (2020) 747 (doi:10.1515/ract-2020-0021)
+#DATASETS   0
+#
+#DATASET    O2534002 
+#DATE       20220217
+#REACTION   38-SR-86(P,N)39-Y-86,,SIG
+#PROJ       1001
+#TARG       38086
+#MF         3
+#MT         4
+#PRODUCT    39-Y-86
+#C4BEGIN    [ 1001 38086   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38086   3   4    1.6200+7 200000.0 0.544000 0.054000                                       M.Shuza Uddin+       (20)O2534  2 
+ 1001 38086   3   4    1.6000+7 200000.0 0.506000 0.051000                                       M.Shuza Uddin+       (20)O2534  2 
+ 1001 38086   3   4    1.4700+7 200000.0 0.594000 0.051000                                       M.Shuza Uddin+       (20)O2534  2 
+ 1001 38086   3   4    1.4300+7 200000.0 0.574000 0.048000                                       M.Shuza Uddin+       (20)O2534  2 
+ 1001 38086   3   4    1.3400+7 300000.0 0.571000 0.049000                                       M.Shuza Uddin+       (20)O2534  2 
+ 1001 38086   3   4    1.3000+7 300000.0 0.601000 0.050000                                       M.Shuza Uddin+       (20)O2534  2 
+ 1001 38086   3   4    1.2000+7 300000.0 0.570000 0.048000                                       M.Shuza Uddin+       (20)O2534  2 
+ 1001 38086   3   4    1.1000+7 300000.0 0.527000 0.044000                                       M.Shuza Uddin+       (20)O2534  2 
+ 1001 38086   3   4    1.0500+7 300000.0 0.472000 0.040000                                       M.Shuza Uddin+       (20)O2534  2 
+ 1001 38086   3   4    9600000. 400000.0 0.415000 0.035000                                       M.Shuza Uddin+       (20)O2534  2 
+ 1001 38086   3   4    8800000. 400000.0 0.362000 0.030000                                       M.Shuza Uddin+       (20)O2534  2 
+ 1001 38086   3   4    8300000. 400000.0 0.323000 0.027000                                       M.Shuza Uddin+       (20)O2534  2 
+ 1001 38086   3   4    7900000. 400000.0 0.290000 0.024000                                       M.Shuza Uddin+       (20)O2534  2 
+ 1001 38086   3   4    6900000. 400000.0 0.143000 0.012000                                       M.Shuza Uddin+       (20)O2534  2 
+ 1001 38086   3   4    6500000. 400000.0 0.100000 9.0000-3                                       M.Shuza Uddin+       (20)O2534  2 
+#/DATA      15
+#/DATASET

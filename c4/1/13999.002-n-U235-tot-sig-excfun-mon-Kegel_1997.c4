@@ -1,0 +1,45 @@
+#ENTRY      13999
+#AUTHOR1    G.H.R.Kegel+
+#YEAR       1997
+#INSTITUTE  (1USALTI)
+#TITLE      High Resolution Neutron Total Cross Sections of U235
+#+          from 200 to 400 keV
+#AUTHOR(S)  G.H.R.Kegel, D.J.DeSimone, J.J.Egan, Y.J.Ko, A.Mittler, 
+#+          P.N.Seo
+#REF-CODE   (C,97TRIEST,1,589,1997)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 1 page 589
+#DATASETS   0
+#
+#DATASET    13999002 
+#DATE       20061102
+#REACTION   92-U-235(N,TOT),,SIG
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         1
+#C4BEGIN    [    1 92235   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3   1    190400.0          10.80000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    200400.0          10.60000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    210200.0          10.20000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    220200.0          9.690000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    229900.0          9.650000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    240600.0          9.330000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    250600.0          9.000000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    260600.0          8.870000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    270100.0          9.030000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    279400.0          8.450000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    289600.0          8.250000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    299600.0          8.610000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    309100.0          8.220000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    319600.0          8.020000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    328800.0          8.310000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    339300.0          7.760000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    349500.0          7.730000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    360000.0          8.350000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    370200.0          8.900000                                                G.H.R.Kegel+         (97)13999  2 
+    1 92235   3   1    380700.0          8.840000                                                G.H.R.Kegel+         (97)13999  2 
+#/DATA      20
+#/DATASET

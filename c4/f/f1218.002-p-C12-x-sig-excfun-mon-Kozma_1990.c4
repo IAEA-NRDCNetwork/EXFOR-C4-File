@@ -1,0 +1,26 @@
+#ENTRY      F1218
+#AUTHOR1    P.Kozma+
+#YEAR       1990
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Cross sections for production of C-11 in C targets by
+#+          3.65 AGeV projectiles.
+#AUTHOR(S)  P.Kozma, K.D.Tolstov, V.V.Yanovsky
+#REF-CODE   (J,NIM/A,291,662,1990)
+#REFERENCE  Nucl.Instrum.Meth.A 291 (1990) 662 (doi:10.1016/0168-9002(90)90017-Z)
+#DATASETS   0
+#
+#DATASET    F1218002 
+#DATE       20140721
+#REACTION   6-C-12(P,X)6-C-11,,SIG
+#PROJ       1001
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   3 454    3.6500+9          0.027300 5.0000-4            6011.9                     P.Kozma+             (90)F1218  2 
+#/DATA      1
+#/DATASET

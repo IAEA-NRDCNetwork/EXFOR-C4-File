@@ -1,0 +1,27 @@
+#ENTRY      31436
+#AUTHOR1    R.Sarkar+
+#YEAR       1992
+#INSTITUTE  (3INDPOO)
+#TITLE      Cross sections for formation of metastable states
+#+          of Br-79, Zr-90 and Tc-95 nuclei at 14 MeV neutron
+#+          energy.
+#AUTHOR(S)  R.Sarkar, V.N.Bhoraskar
+#REF-CODE   (J,PR/C,46,2246,1992)
+#REFERENCE  Phys.Rev.C 46 (1992) 2246 (doi:10.1103/PhysRevC.46.2246)
+#DATASETS   0
+#
+#DATASET    31436004 
+#DATE       20220126
+#REACTION   44-RU-96(N,X)43-TC-95-M,,SIG
+#PROJ       1
+#TARG       44096
+#MF         3
+#MT         454
+#PRODUCT    43-TC-95-M
+#C4BEGIN    [    1 44096   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 44096   3 454    1.4000+7          0.135000 8.0000-3           43095.7                     R.Sarkar+            (92)31436  4 
+#/DATA      1
+#/DATASET

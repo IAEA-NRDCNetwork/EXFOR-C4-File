@@ -1,0 +1,30 @@
+#ENTRY      13274
+#AUTHOR1    N.E.Ballou+
+#YEAR       1973
+#INSTITUTE  (1USABNW)
+#TITLE      Independent and cumulative fission yields for several
+#+          fission systems
+#AUTHOR(S)  N.E.Ballou, J.H.Kaye, P.L.Reeder, R.A.Anderl, J.J.Stoffels
+#REF-CODE   (R,BNWL-B-281,1973)
+#REFERENCE  Report BNWL-B-281, 1973
+#DATASETS   0
+#
+#DATASET    13274007 
+#DATE       20190422
+#REACTION   94-PU-239(N,F)ELEM/MASS,CUM,FY,,SPA
+#PROJ       1
+#TARG       94239
+#MF         8
+#MT         459
+#C4BEGIN    [    1 94239   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   8 459    0.025300          5.9000-3          36.00000 85.00000 1.000000            N.E.Ballou+          (73)13274  7 
+    1 94239   8 459    0.025300          9.3000-3          36.00000 87.00000 9.000000            N.E.Ballou+          (73)13274  7 
+    1 94239   8 459    0.025300          0.013800          36.00000 88.00000 9.000000            N.E.Ballou+          (73)13274  7 
+    1 94239   8 459    0.025300          0.015000          36.00000 89.00000 9.000000            N.E.Ballou+          (73)13274  7 
+    1 94239   8 459    0.025300          0.059700          54.00000 137.0000 9.000000            N.E.Ballou+          (73)13274  7 
+    1 94239   8 459    0.025300          0.050000          54.00000 138.0000 9.000000            N.E.Ballou+          (73)13274  7 
+#/DATA      6
+#/DATASET

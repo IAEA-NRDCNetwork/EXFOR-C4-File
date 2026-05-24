@@ -1,0 +1,34 @@
+#ENTRY      E2384
+#AUTHOR1    K.Tshoo+
+#YEAR       2012
+#INSTITUTE  (3KORNSU)
+#TITLE      N=16 spherical shell closure in 24O
+#AUTHOR(S)  K.Tshoo, Y.Satou, H.Bhang, S.Choi, T.Nakamura, Y.Kondo, 
+#+          S.Deguchi, Y.Kawada, N.Kobayashi, Y.Nakayama, K.N.Tanaka, 
+#+          N.Tanaka, N.Aoi, M.Ishihara, T.Motobayashi, H.Otsu, H.Sakurai, 
+#+          S.Takeuchi, Y.Togano, K.Yoneda, Z.H.Li, F.Delaunay, J.Gibelin, 
+#+          F.M.Marques, N.A.Orr, T.Honda, M.Matsushita, T.Kobayashi, 
+#+          Y.Miyashita, T.Sumikama, K.Yoshinaga, S.Shimoura, D.Sohler, 
+#+          T.Zheng, Z.X.Cao
+#REF-CODE   (J,PRL,109,022501,2012)
+#REFERENCE  Phys.Rev.Lett. 109 (2012) 022501 (doi:10.1103/PhysRevLett.109.022501)
+#DATASETS   0
+#
+#DATASET    E2384004 
+#DATE       20130301
+#REACTION   (1-H-1(8-O-24,INL)1-H-1,PAR,DA)=(8-O-24(P,INL)8-O-24,PAR,DA)
+#PROJ       1001
+#TARG       8024
+#MF         4
+#MT         601
+#PRODUCT    8-O-24
+#C4BEGIN    [ 1001  8024   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8024   4 601  C 6.2000+7          7.2329-4 5.0906-4 0.984808          5150000. 160000.0LVLK.Tshoo+             (12)E2384  4 
+ 1001  8024   4 601  C 6.2000+7          8.0437-4 3.2214-4 0.866025          5150000. 160000.0LVLK.Tshoo+             (12)E2384  4 
+ 1001  8024   4 601  C 6.2000+7          4.8171-4 1.8300-4 0.642788          5150000. 160000.0LVLK.Tshoo+             (12)E2384  4 
+ 1001  8024   4 601  C 6.2000+7          1.0989-4 5.3938-5 0.342020          5150000. 160000.0LVLK.Tshoo+             (12)E2384  4 
+#/DATA      4
+#/DATASET

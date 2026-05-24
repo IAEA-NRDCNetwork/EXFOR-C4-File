@@ -1,0 +1,44 @@
+#ENTRY      23341
+#AUTHOR1    K.Hasegawa+
+#YEAR       1991
+#INSTITUTE  (2JPNJAE)
+#TITLE      Gamma-ray production cross section measurements of
+#+          some structural materials between 7.8 and 13.0 MeV
+#AUTHOR(S)  K.Hasegawa, M.Mizumoto, S.Chiba, M.Igashira, H.Kitazawa
+#REF-CODE   (C,91JUELIC,,329,1991)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 329
+#DATASETS   0
+#
+#DATASET    23341020 
+#DATE       20170714
+#REACTION   28-NI-58(N,INL)28-NI-58,PAR,DA,G,A
+#PROJ       1
+#TARG       28058
+#MF         14
+#MT         51
+#PRODUCT    28-NI-58
+#C4BEGIN    [    1 28058  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058  14  51 A  1.1500+7          1.4395-4 2.2034-5 6.123-17          1010000.            K.Hasegawa+          (91)23341 20 
+    1 28058  14  51 A  1.3000+7          1.4836-4 2.0565-5 6.123-17          1010000.            K.Hasegawa+          (91)23341 20 
+#/DATA      2
+#/DATASET
+#
+#DATASET    23341020 
+#DATE       20170714
+#REACTION   28-NI-58(N,INL)28-NI-58,PAR,DA,G,A
+#PROJ       1
+#TARG       28058
+#MF         14
+#MT         51
+#PRODUCT    28-NI-58
+#C4BEGIN    [    1 28058  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058  14  51 A  1.1500+7          4.2305-4 5.5819-5 6.123-17          1450000.            K.Hasegawa+          (91)23341 20 
+    1 28058  14  51 A  1.3000+7          2.5412-4 3.3785-5 6.123-17          1450000.            K.Hasegawa+          (91)23341 20 
+#/DATA      2
+#/DATASET

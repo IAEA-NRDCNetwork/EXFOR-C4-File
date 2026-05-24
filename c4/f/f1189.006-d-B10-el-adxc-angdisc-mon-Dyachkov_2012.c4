@@ -1,0 +1,32 @@
+#ENTRY      F1189
+#AUTHOR1    V.V.Dyachkov+
+#YEAR       2012
+#INSTITUTE  (4KASAFU)
+#TITLE      Measuring elastically scattered 18 MeV deuterons and
+#+          the shape of nuclei.
+#AUTHOR(S)  V.V.Dyachkov, N.T.Burtebaev, A.V.Yushkov
+#REF-CODE   (J,IZV,76,(8),998,2012)
+#REFERENCE  Izv.Ross.AN,Fiz. 76 No.8 (2012) 998
+#DATASETS   0
+#
+#DATASET    F1189006 
+#DATE       20130506
+#REACTION   5-B-10(D,EL)5-B-10,,DA
+#PROJ       1002
+#TARG       5010
+#MF         4
+#MT         2
+#PRODUCT    5-B-10
+#C4BEGIN    [ 1002  5010   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5010   4   2 AC 1.8000+7          1.010100          0.972306                              V.V.Dyachkov+        (12)F1189  6 
+ 1002  5010   4   2 AC 1.8000+7          0.694108          0.967909                              V.V.Dyachkov+        (12)F1189  6 
+ 1002  5010   4   2 AC 1.8000+7          0.644750          0.963195                              V.V.Dyachkov+        (12)F1189  6 
+ 1002  5010   4   2 AC 1.8000+7          0.556422          0.958164                              V.V.Dyachkov+        (12)F1189  6 
+ 1002  5010   4   2 AC 1.8000+7          0.479451          0.952820                              V.V.Dyachkov+        (12)F1189  6 
+ 1002  5010   4   2 AC 1.8000+7          0.401952          0.947164                              V.V.Dyachkov+        (12)F1189  6 
+ 1002  5010   4   2 AC 1.8000+7          0.265871          0.941199                              V.V.Dyachkov+        (12)F1189  6 
+#/DATA      7
+#/DATASET

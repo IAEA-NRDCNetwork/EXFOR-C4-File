@@ -1,0 +1,27 @@
+#ENTRY      33091
+#AUTHOR1    H.Naik+
+#YEAR       2015
+#INSTITUTE  (3INDTRM)
+#TITLE      Neutron induced reaction cross section of 232Th and
+#+          238U at the neutron energies of 2.45 and 14.8 MeV
+#AUTHOR(S)  H.Naik, S.V.Surayanarayana, S.Bishnoi, T.Patel, A.Sinha, 
+#+          A.Goswami
+#REF-CODE   (J,JRN,303,2497,2015)
+#REFERENCE  J.Rad.Nucl.Chem. 303 (2015) 2497 (doi:10.1007/s10967-014-3812-8)
+#DATASETS   0
+#
+#DATASET    33091005 
+#DATE       20170308
+#REACTION   92-U-238(N,2N)92-U-237,,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         16
+#PRODUCT    92-U-237
+#C4BEGIN    [    1 92238   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3  16    1.4800+7 100000.0 0.692700 0.028700                                       H.Naik+              (15)33091  5 
+#/DATA      1
+#/DATASET

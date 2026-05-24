@@ -1,0 +1,36 @@
+#ENTRY      10238
+#AUTHOR1    D.L.Smith+
+#YEAR       1975
+#INSTITUTE  (1USAANL)
+#TITLE      Cross-section measurement of (n,p) reactions for 27Al,
+#+          46,47,48Ti, 54,56Fe, 58Ni, 59Co, and 64Zn from near
+#+          threshold to 10 MeV
+#AUTHOR(S)  D.L.Smith, J.W.Meadows
+#REF-CODE   (J,NSE,58,314,197511)
+#REFERENCE  Nucl.Sci.Eng. 58 (1975) 314 (doi:10.13182/NSE75-A26780)
+#DATASETS   0
+#
+#DATASET    102380451
+#DATE       20010309
+#REACTION   30-ZN-64(N,P)29-CU-64,,SIG
+#PROJ       1
+#TARG       30064
+#MF         3
+#MT         103
+#PRODUCT    29-CU-64
+#C4BEGIN    [    1 30064   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 30064   3 103 A  5384000. 334000.0 0.148000 7.3980-3                                       D.L.Smith+           (75)10238 451
+    1 30064   3 103 A  5725000. 328000.0 0.161600 8.2410-3                                       D.L.Smith+           (75)10238 451
+    1 30064   3 103 A  6277000. 326000.0 0.177600 9.0570-3                                       D.L.Smith+           (75)10238 451
+    1 30064   3 103 A  6978000. 334000.0 0.162600 8.1320-3                                       D.L.Smith+           (75)10238 451
+    1 30064   3 103 A  7485000. 350000.0 0.174400 8.7220-3                                       D.L.Smith+           (75)10238 451
+    1 30064   3 103 A  7984000. 364000.0 0.174900 8.9190-3                                       D.L.Smith+           (75)10238 451
+    1 30064   3 103 A  8478000. 382000.0 0.185900 9.4810-3                                       D.L.Smith+           (75)10238 451
+    1 30064   3 103 A  8968000. 398000.0 0.190800 9.7330-3                                       D.L.Smith+           (75)10238 451
+    1 30064   3 103 A  9455000. 418000.0 0.190300 9.8940-3                                       D.L.Smith+           (75)10238 451
+    1 30064   3 103 A  9939000. 436000.0 0.188400 9.9840-3                                       D.L.Smith+           (75)10238 451
+#/DATA      10
+#/DATASET

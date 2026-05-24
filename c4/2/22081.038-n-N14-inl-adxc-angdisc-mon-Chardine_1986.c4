@@ -1,0 +1,35 @@
+#ENTRY      22081
+#AUTHOR1    J.Chardine+
+#YEAR       1986
+#INSTITUTE  (2FR BRC)
+#TITLE      -NEUTRON ELASTIC AND INELASTIC SCATTERING FROM N-14
+#+          BETWEEN 7.7 AND 13.5 MEV.
+#AUTHOR(S)  J.Chardine, G.Haouat, S.Seguin, C.Humeau
+#REF-CODE   (R,CEA-N-2506,86)
+#REFERENCE  Report CEA-N-2506, 1986
+#DATASETS   0
+#
+#DATASET    22081038 
+#DATE       19881216
+#REACTION   7-N-14(N,INL)7-N-14,PAR,DA
+#PROJ       1
+#TARG       7014
+#MF         4
+#MT         51
+#PRODUCT    7-N-14
+#C4BEGIN    [    1  7014   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  7014   4  51  C 8120000. 50000.00 1.3500-3 1.4985-4 0.569280          4910000.         LVLJ.Chardine+          (86)22081 38 
+    1  7014   4  51  C 8120000. 50000.00 8.1000-4 9.7200-5 0.406737          4910000.         LVLJ.Chardine+          (86)22081 38 
+    1  7014   4  51  C 8120000. 50000.00 9.5000-4 1.0735-4 0.233445          4910000.         LVLJ.Chardine+          (86)22081 38 
+    1  7014   4  51  C 8120000. 50000.00 6.3000-4 7.6860-5 0.055822          4910000.         LVLJ.Chardine+          (86)22081 38 
+    1  7014   4  51  C 8120000. 50000.00 7.0000-4 8.1200-5-0.120137          4910000.         LVLJ.Chardine+          (86)22081 38 
+    1  7014   4  51  C 8120000. 50000.00 9.9000-4 1.1781-4-0.289032          4910000.         LVLJ.Chardine+          (86)22081 38 
+    1  7014   4  51  C 8120000. 50000.00 1.4300-3 1.6016-4-0.446198          4910000.         LVLJ.Chardine+          (86)22081 38 
+    1  7014   4  51  C 8120000. 50000.00 1.6600-3 1.9422-4-0.587785          4910000.         LVLJ.Chardine+          (86)22081 38 
+    1  7014   4  51  C 8120000. 50000.00 3.2100-3 3.5310-4-0.710799          4910000.         LVLJ.Chardine+          (86)22081 38 
+    1  7014   4  51  C 8120000. 50000.00 3.4600-3 3.7368-4-0.894934          4910000.         LVLJ.Chardine+          (86)22081 38 
+#/DATA      10
+#/DATASET

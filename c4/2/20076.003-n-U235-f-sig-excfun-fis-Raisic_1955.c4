@@ -1,0 +1,24 @@
+#ENTRY      20076
+#AUTHOR1    N.Raisic+
+#YEAR       1955
+#INSTITUTE  (2NORKJL)
+#TITLE      Fast fission cross-section of 92-U-235 and 92-U-238
+#AUTHOR(S)  N.Raisic
+#REF-CODE   (J,NUC,13,(2),67,1955)
+#REFERENCE  Nucleonics 13 No.2 (1955) 67
+#DATASETS   0
+#
+#DATASET    20076003 
+#DATE       20200801
+#REACTION   92-U-235(N,F),,SIG,,FIS
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18 D  1000000.          1.600000 0.800000                                       N.Raisic             (55)20076  3 
+#/DATA      1
+#/DATASET

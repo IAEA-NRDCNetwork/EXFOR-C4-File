@@ -1,0 +1,35 @@
+#ENTRY      E1310
+#AUTHOR1    Y.Fujita+
+#YEAR       1990
+#INSTITUTE  (2JPNOSA)
+#TITLE      New high-spin stretched states in 208Pb observed by
+#+          the (p,p') reaction
+#AUTHOR(S)  Y.Fujita, T.Yanagihara, M.Fujiwara, I.Katayama, K.Hosono, 
+#+          S.Morinobu, T.Yamazaki, S.I.Hayakawa, K.Katori, K.Muto, 
+#+          H.Ikegami
+#REF-CODE   (J,PL/B,247,(2-3),219,199009)
+#REFERENCE  Phys.Lett.B 247 No.2-3 (1990) 219 (doi:10.1016/0370-2693(90)90885-A)
+#DATASETS   0
+#
+#DATASET    E1310006 
+#DATE       19941004
+#REACTION   82-PB-208(P,INL)82-PB-208,PAR,DA
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         601
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 1001 82208   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 601  C 8.0000+7          1.8110-5 4.3310-6 0.625515          6736000.         LVLY.Fujita+            (90)E1310  6 
+ 1001 82208   4 601  C 8.0000+7          1.7640-5 3.0860-6 0.571573          6736000.         LVLY.Fujita+            (90)E1310  6 
+ 1001 82208   4 601  C 8.0000+7          2.6390-5 3.7160-6 0.508290          6736000.         LVLY.Fujita+            (90)E1310  6 
+ 1001 82208   4 601  C 8.0000+7          3.0340-5 3.9340-6 0.441506          6736000.         LVLY.Fujita+            (90)E1310  6 
+ 1001 82208   4 601  C 8.0000+7          2.8000-5 3.3240-6 0.366826          6736000.         LVLY.Fujita+            (90)E1310  6 
+ 1001 82208   4 601  C 8.0000+7          1.8890-5 2.4520-6 0.261515          6736000.         LVLY.Fujita+            (90)E1310  6 
+ 1001 82208   4 601  C 8.0000+7          7.2800-6 1.3130-6 0.175023          6736000.         LVLY.Fujita+            (90)E1310  6 
+ 1001 82208   4 601  C 8.0000+7          2.5440-6 5.3330-7 0.075501          6736000.         LVLY.Fujita+            (90)E1310  6 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      40319
+#AUTHOR1    A.K.Brodskaya+
+#YEAR       1976
+#INSTITUTE  (4RUSKUR)
+#TITLE      Cross-sections of (N,ALPHA), (N,P), (N,2N), (N,N')
+#+          reactions averaged in fission neutron spectra for some
+#+          elements .
+#AUTHOR(S)  A.K.Brodskaya, N.I.Ivanova, F.Kh.Nasyrov
+#REF-CODE   (R,YK-23,4,1976)
+#REFERENCE  Report YK-23 page 4, 1976
+#DATASETS   0
+#
+#DATASET    40319011 
+#DATE       20091125
+#REACTION   69-TM-169(N,2N)69-TM-168,,SIG,,FIS
+#PROJ       1
+#TARG       69169
+#MF         3
+#MT         16
+#PRODUCT    69-TM-168
+#C4BEGIN    [    1 69169   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 69169   3  16    1000000.          2.9800-3 2.2000-4                                       A.K.Brodskaya+       (76)40319 11 
+#/DATA      1
+#/DATASET

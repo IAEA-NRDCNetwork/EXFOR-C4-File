@@ -1,0 +1,26 @@
+#ENTRY      20087
+#AUTHOR1    H.Vonach+
+#YEAR       1959
+#INSTITUTE  (2AUSIRK)
+#TITLE      (n,2n) cross-section measurements on Sr-86, Y-89,
+#+          Nb-93 and Cs-133 for 14.1 MeV neutrons
+#AUTHOR(S)  H.Vonach, H.Muenzer
+#REF-CODE   (J,OSA,96,120,1959)
+#REFERENCE  Anz.Oest.A.W.Nat. 96 (1959) 120
+#DATASETS   0
+#
+#DATASET    20087002 
+#DATE       20230319
+#REACTION   38-SR-86(N,2N)38-SR-85-G,(M),SIG
+#PROJ       1
+#TARG       38086
+#MF         3
+#MT         459
+#PRODUCT    38-SR-85-G
+#C4BEGIN    [    1 38086   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 38086   3 459    1.4100+7          0.680000 0.110000           38085.0                     H.Vonach+            (59)20087  2 
+#/DATA      1
+#/DATASET

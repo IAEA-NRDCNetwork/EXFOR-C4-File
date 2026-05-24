@@ -1,0 +1,30 @@
+#ENTRY      12644
+#AUTHOR1    E.E.Lampi+
+#YEAR       1950
+#INSTITUTE  (1USAMIN)
+#TITLE      THE TOTAL SCATTERING CROSS SECTION OF NEUTRONS BY
+#+          HYDROGEN AND CARBON
+#AUTHOR(S)  E.E.Lampi, G.D.Freier, J.H.Williams
+#REF-CODE   (J,PR,80,853,5012)
+#REFERENCE  Phys.Rev. 80 (1950) 853 (doi:10.1103/PhysRev.80.853)
+#DATASETS   0
+#
+#DATASET    12644003 
+#DATE       19790313
+#REACTION   1-H-1(N,TOT),,SIG
+#PROJ       1
+#TARG       1001
+#MF         3
+#MT         1
+#C4BEGIN    [    1  1001   3   1 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   3   1 D  798000.0 8000.000 4.790000 0.110000                                       E.E.Lampi+           (50)12644  3 
+    1  1001   3   1 D  1078000. 10000.00 4.090000 0.080000                                       E.E.Lampi+           (50)12644  3 
+    1  1001   3   1 D  1340000. 11000.00 3.660000 0.060000                                       E.E.Lampi+           (50)12644  3 
+    1  1001   3   1 D  1578000. 13000.00 3.320000 0.070000                                       E.E.Lampi+           (50)12644  3 
+    1  1001   3   1 D  4920000. 140000.0 1.640000 0.040000                                       E.E.Lampi+           (50)12644  3 
+    1  1001   3   1 D  4970000. 140000.0 1.560000 0.040000                                       E.E.Lampi+           (50)12644  3 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      O1342
+#AUTHOR1    Yu.E.Titarenko+
+#YEAR       2003
+#INSTITUTE  (4RUSITE)
+#TITLE      Nuclide production cross sections for Co-59 and Cu-nat
+#+          irradiated with 0.2-GeV and 2.6-GeV protons and
+#+          0.2-GeV/nucleon carbon ions.
+#AUTHOR(S)  Yu.E.Titarenko, V.F.Batyaev, V.M.Zhivun, A.B.Koldobsky, 
+#+          Yu.V.Trebukhovsky, E.I.Karpikhin, R.D.Mulambetov, S.V.Mulambetova, 
+#+          Yu.A.Nekrasov, A.Yu.Titarenko, K.A.Lipatov, B.Yu.Sharkov, 
+#+          A.A.Golubev, A.D.Fertman, V.I.Turtikov, A.V.Kantsyrev, I.V.Roudskoy, 
+#+          G.N.Smirnov, V.S.Barashenkov, K.K.Gudima, M.I.Baznat, S.G.Mashnik, 
+#+          R.E.Prael
+#REF-CODE   (C,2003SDIEGO,,59,2003)
+#REFERENCE  Proceedings of Int.Meet.on Nucl.Appl.of Accel.Tech., San Diego 2003 page 59
+#DATASETS   0
+#
+#DATASET    O1342018 
+#DATE       20070516
+#REACTION   29-CU-0(6-C-12,X)27-CO-58,IND,SIG
+#PROJ       6012
+#TARG       29000
+#MF         3
+#MT         454
+#PRODUCT    27-CO-58
+#C4BEGIN    [ 6012 29000   3 454 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 29000   3 454 C  2.4000+9          0.066800 4.9000-3           27058.9                     Yu.E.Titarenko+      (03)O1342 18 
+#/DATA      1
+#/DATASET

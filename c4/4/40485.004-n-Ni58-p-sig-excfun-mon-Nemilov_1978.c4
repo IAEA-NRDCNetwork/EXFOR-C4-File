@@ -1,0 +1,29 @@
+#ENTRY      40485
+#AUTHOR1    Yu.A.Nemilov+
+#YEAR       1978
+#INSTITUTE  (4RUSRI)
+#TITLE      Cross-sections of (n,p) reactions in the isotopes 58Ni,
+#+          56Fe and 64Zn for neutron energies of 7.6 - 9.3 MeV
+#AUTHOR(S)  Yu.A.Nemilov, Yu.N.Trofimov
+#REF-CODE   (P,YFI-26,25,1978)
+#REFERENCE  Progress report YFI-26 page 25, 1978
+#DATASETS   0
+#
+#DATASET    40485004 
+#DATE       20211229
+#REACTION   28-NI-58(N,P)27-CO-58,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         103
+#PRODUCT    27-CO-58
+#C4BEGIN    [    1 28058   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3 103    7600000. 300000.0 0.540000 0.040000                                       Yu.A.Nemilov+        (78)40485  4 
+    1 28058   3 103    8300000. 300000.0 0.611000 0.040000                                       Yu.A.Nemilov+        (78)40485  4 
+    1 28058   3 103    8800000. 300000.0 0.602000 0.040000                                       Yu.A.Nemilov+        (78)40485  4 
+    1 28058   3 103    9300000. 300000.0 0.545000 0.040000                                       Yu.A.Nemilov+        (78)40485  4 
+#/DATA      4
+#/DATASET

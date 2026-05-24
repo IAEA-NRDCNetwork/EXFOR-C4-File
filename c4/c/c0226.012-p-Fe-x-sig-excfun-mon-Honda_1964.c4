@@ -1,0 +1,26 @@
+#ENTRY      C0226
+#AUTHOR1    M.Honda+
+#YEAR       1964
+#INSTITUTE  (1USASDC)
+#TITLE      Spallation cross sections for long-lived
+#+          radionucleides in iron and light nuclei
+#AUTHOR(S)  M.Honda, D.Lal
+#REF-CODE   (J,NP,51,363,1964)
+#REFERENCE  Nucl.Phys. 51 (1964) 363 (doi:10.1016/0029-5582(64)90277-9)
+#DATASETS   0
+#
+#DATASET    C0226012 
+#DATE       20111118
+#REACTION   26-FE-0(P,X)18-AR-42,,SIG
+#PROJ       1001
+#TARG       26000
+#MF         3
+#MT         454
+#PRODUCT    18-AR-42
+#C4BEGIN    [ 1001 26000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26000   3 454    7.3000+8          4.0000-5                    18042.9                     M.Honda+             (64)C0226 12 
+#/DATA      1
+#/DATASET

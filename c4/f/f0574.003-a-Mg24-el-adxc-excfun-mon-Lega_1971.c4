@@ -1,0 +1,35 @@
+#ENTRY      F0574
+#AUTHOR1    J.Lega+
+#YEAR       1971
+#INSTITUTE  (2BLGLVN)
+#TITLE      Excitation functions at 174 degrees for the elastic
+#+          scattering of alpha particles from 18-22 MeV by 23Na,
+#+          24-25-26Mg, 27Al, 28Si and 40Ca
+#AUTHOR(S)  J.Lega, P.C.Macq
+#REF-CODE   (J,JPR,32,369,1971)
+#REFERENCE  J.Phys.(Paris) 32 (1971) 369 (doi:10.1051/jphys:01971003205-6036900)
+#DATASETS   0
+#
+#DATASET    F0574003 
+#DATE       20030424
+#REACTION   12-MG-24(A,EL)12-MG-24,,DA
+#PROJ       2004
+#TARG       12024
+#MF         4
+#MT         2
+#PRODUCT    12-MG-24
+#C4BEGIN    [ 2004 12024   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 12024   4   2  C 1.7840+7 250000.0 0.022700 1.3000-3-0.996195                              J.Lega+              (71)F0574  3 
+ 2004 12024   4   2  C 1.8470+7 230000.0 0.014900 9.0000-4-0.996195                              J.Lega+              (71)F0574  3 
+ 2004 12024   4   2  C 1.9100+7 200000.0 0.016700 9.0000-4-0.996195                              J.Lega+              (71)F0574  3 
+ 2004 12024   4   2  C 1.9760+7 200000.0 0.019400 7.0000-4-0.996195                              J.Lega+              (71)F0574  3 
+ 2004 12024   4   2  C 2.0170+7 180000.0 0.027000 7.0000-4-0.996195                              J.Lega+              (71)F0574  3 
+ 2004 12024   4   2  C 2.0790+7 180000.0 0.022600 6.0000-4-0.996195                              J.Lega+              (71)F0574  3 
+ 2004 12024   4   2  C 2.1090+7 150000.0 8.8100-3 4.9000-4-0.996195                              J.Lega+              (71)F0574  3 
+ 2004 12024   4   2  C 2.1820+7 150000.0 8.3300-3 4.2000-4-0.996195                              J.Lega+              (71)F0574  3 
+ 2004 12024   4   2  C 2.2340+7 150000.0 0.025300 4.0000-4-0.996195                              J.Lega+              (71)F0574  3 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      11956
+#AUTHOR1    W.Lu+
+#YEAR       1969
+#INSTITUTE  (1USAGIT)
+#TITLE      Radiochemical determination of the (n,2n) and
+#+          (n,np)+(n,pn)+(n,d) cross sections of Cd106 at
+#+          14.4 MeV.
+#AUTHOR(S)  W.Lu, R.W.Fink
+#REF-CODE   (J,RCA,12,61,1969)
+#REFERENCE  Radiochim.Acta 12 (1969) 61 (doi:10.1524/ract.1969.12.2.61)
+#DATASETS   0
+#
+#DATASET    11956003 
+#DATE       20210920
+#REACTION   48-CD-106(N,X)47-AG-105,,SIG
+#PROJ       1
+#TARG       48106
+#MF         3
+#MT         454
+#PRODUCT    47-AG-105
+#C4BEGIN    [    1 48106   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 48106   3 454    1.4400+7 300000.0 0.215000 0.029000           47105.9                     W.Lu+                (69)11956  3 
+#/DATA      1
+#/DATASET

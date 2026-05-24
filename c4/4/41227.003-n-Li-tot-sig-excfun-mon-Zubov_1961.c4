@@ -1,0 +1,28 @@
+#ENTRY      41227
+#AUTHOR1    Yu.G.Zubov+
+#YEAR       1961
+#INSTITUTE  (4RUSKUR)
+#TITLE      Inelastic scattering of neutrons with energies
+#+          from 3.2 to 4.5 MeV on beryllium
+#AUTHOR(S)  Yu.G.Zubov, N.S.Lebedeva, V.M.Morozov
+#REF-CODE   (B,NEJTRONFIZ,,298,1961)
+#REFERENCE  Neitronnaya Fizika, Moskva 1961 page 298 (1961)
+#DATASETS   0
+#
+#DATASET    41227003 
+#DATE       20191218
+#REACTION   3-LI-0(N,TOT),,SIG
+#PROJ       1
+#TARG       3000
+#MF         3
+#MT         1
+#C4BEGIN    [    1  3000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3000   3   1    3250000.          2.440000 0.090000                                       Yu.G.Zubov+          (61)41227  3 
+    1  3000   3   1    3700000.          2.460000 0.065000                                       Yu.G.Zubov+          (61)41227  3 
+    1  3000   3   1    4120000.          2.700000 0.060000                                       Yu.G.Zubov+          (61)41227  3 
+    1  3000   3   1    4520000.          2.740000 0.080000                                       Yu.G.Zubov+          (61)41227  3 
+#/DATA      4
+#/DATASET

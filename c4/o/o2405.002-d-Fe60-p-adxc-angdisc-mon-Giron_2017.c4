@@ -1,0 +1,40 @@
+#ENTRY      O2405
+#AUTHOR1    S.Giron+
+#YEAR       2017
+#INSTITUTE  (2FR PAR)
+#TITLE      Spectroscopy of 61Fe via the neutron transfer
+#+          reaction 2H(60Fe,p)61Fe*
+#AUTHOR(S)  S.Giron, F.Hammache, N.De Sereville, P.Roussel, J.Burgunder, 
+#+          M.Moukaddam, D.Beaumel, L.Caceres, G.Duchene, E.Clement, 
+#+          B.Fernandez-Dominguez, F.Flavigny, G.De France, S.Franchoo, 
+#+          D.Galaviz-Redondo, L.Gasques, J.Gibelin, A.Gillibert, S.Grevy, 
+#+          J.Guillot, M.Heil, J.Kiener, V.Lapoux, F.Marechal, A.Matta, 
+#+          I.Matea, L.Nalpas, J.Pancin, L.Perrot, A.Obertelli, R.Raabe, 
+#+          J.A.Scarpaci, K.Sieja, O.Sorlin, I.Stefan, C.Stodel, M.Takechi, 
+#+          J.C.Thomas, Y.Togano
+#REF-CODE   (J,PR/C,95,035806,2017)
+#REFERENCE  Phys.Rev.C 95 (2017) 035806 (doi:10.1103/PhysRevC.95.035806)
+#DATASETS   0
+#
+#DATASET    O2405002 
+#DATE       20181230
+#REACTION   (1-H-2(26-FE-60,P)26-FE-61,PAR,DA,RSD)=(26-FE-60(D,P)26-FE-61,PAR,DA)
+#PROJ       1002
+#TARG       26060
+#MF         4
+#MT         600
+#PRODUCT    26-FE-61
+#C4BEGIN    [ 1002 26060   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 26060   4 600  C 5.4000+7          5.5320-3          0.997564 1.5827-3 207000.0 200000.0LVLS.Giron+             (17)O2405  2 
+ 1002 26060   4 600  C 5.4000+7          3.4630-3          0.992546 2.1270-3 207000.0 200000.0LVLS.Giron+             (17)O2405  2 
+ 1002 26060   4 600  C 5.4000+7          2.8150-3          0.987688 2.7303-3 207000.0 200000.0LVLS.Giron+             (17)O2405  2 
+ 1002 26060   4 600  C 5.4000+7          1.6400-3          0.981627 3.3302-3 207000.0 200000.0LVLS.Giron+             (17)O2405  2 
+ 1002 26060   4 600  C 5.4000+7          1.7980-3          0.974370 3.9261-3 207000.0 200000.0LVLS.Giron+             (17)O2405  2 
+ 1002 26060   4 600  C 5.4000+7          1.5130-3          0.965926 4.5172-3 207000.0 200000.0LVLS.Giron+             (17)O2405  2 
+ 1002 26060   4 600  C 5.4000+7          1.1280-3          0.956305 5.1028-3 207000.0 200000.0LVLS.Giron+             (17)O2405  2 
+ 1002 26060   4 600  C 5.4000+7          1.0530-3          0.945519 5.6822-3 207000.0 200000.0LVLS.Giron+             (17)O2405  2 
+#/DATA      8
+#/DATASET

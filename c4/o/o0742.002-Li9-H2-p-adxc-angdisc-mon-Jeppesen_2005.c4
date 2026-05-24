@@ -1,0 +1,39 @@
+#ENTRY      O0742
+#AUTHOR1    H.B.Jeppesen+
+#YEAR       2005
+#INSTITUTE  (2DENAAU)
+#TITLE      Low energy reactions with radioactive ions at REX-
+#+          ISOLDE -the Li-9+H-2 case.
+#AUTHOR(S)  H.B.Jeppesen, F.Ames, P.Van Den Bergh, U.C.Bergmann, G.Bollen, 
+#+          M.J.G.Borge, J.Cederkall, P.Van Duppen, S.Emhofer, O.Forstner, 
+#+          L.M.Fraile, H.O.U.Fynbo, J.Gomez-Camacho, D.Habs, R.Von Hahn, 
+#+          G.Huber, M.Huyse, H.T.Johansson, B.Jonson, O.Kester, L.Liljeby, 
+#+          M.Meister, A.M.Moro, T.Nilsson, G.Nyman, M.Oinonen, M.Pantea, 
+#+          H.Podlech, U.Ratzinger, K.Reisinger, K.G.Rensfelt, R.Repnow, 
+#+          K.Riisager, A.Richter, K.Rudolph, H.Scheit, A.Schempp, P.Schmidt, 
+#+          G.Schrieder, D.Schwalt, T.Sieber, H.Simon, O.Tengblad, E.Tengborn, 
+#+          M.Turrion, L.Weissmann, F.Wenander, B.Wolf
+#REF-CODE   (J,NP/A,748,374,2005)
+#REFERENCE  Nucl.Phys.A 748 (2005) 374 (doi:10.1016/j.nuclphysa.2004.11.013)
+#DATASETS   0
+#
+#DATASET    O0742002 
+#DATE       20060209
+#REACTION   1-H-2(3-LI-9,P)3-LI-10,PAR,DA
+#PROJ       3009
+#TARG       1002
+#MF         4
+#MT         600
+#PRODUCT    3-LI-10
+#C4BEGIN    [ 3009  1002   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3009  1002   4 600  C 2.1240+7 467280.0 1.6000-3 8.0000-4 0.687088 0.038043 350000.0         LVLH.B.Jeppesen+        (05)O0742  2 
+ 3009  1002   4 600  C 2.1240+7 467280.0 1.7000-3 5.0000-4 0.589196 0.042306 350000.0         LVLH.B.Jeppesen+        (05)O0742  2 
+ 3009  1002   4 600  C 2.1240+7 467280.0 1.3000-3 4.0000-4 0.483282 0.045839 350000.0         LVLH.B.Jeppesen+        (05)O0742  2 
+ 3009  1002   4 600  C 2.1240+7 467280.0 1.5000-3 5.0000-4 0.368125 0.048683 350000.0         LVLH.B.Jeppesen+        (05)O0742  2 
+ 3009  1002   4 600  C 2.1240+7 467280.0 2.7000-3 6.0000-4 0.250380 0.050692 350000.0         LVLH.B.Jeppesen+        (05)O0742  2 
+ 3009  1002   4 600  C 2.1240+7 467280.0 2.2000-3 8.0000-4 0.121869 0.051970 350000.0         LVLH.B.Jeppesen+        (05)O0742  2 
+#/DATA      6
+#/DATASET

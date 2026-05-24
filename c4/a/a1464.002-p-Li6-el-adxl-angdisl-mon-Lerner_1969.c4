@@ -1,0 +1,26 @@
+#ENTRY      A1464
+#AUTHOR1    G.M.Lerner+
+#YEAR       1969
+#INSTITUTE  (1USAMRY)
+#TITLE      Measurement of (p,p) and (p,alpha) cross sections for
+#+          lithium and fluorine
+#AUTHOR(S)  G.M.Lerner, J.B.Marion
+#REF-CODE   (J,NIM,69,115,1969)
+#REFERENCE  Nucl.Intrum.Meth. 69 (1969) 115 (doi:10.1016/0029-554X(69)90581-3)
+#DATASETS   0
+#
+#DATASET    A1464002 
+#DATE       20240925
+#REACTION   3-LI-6(P,EL)3-LI-6,,DA
+#PROJ       1001
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1001  3006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   4   2    1360000.          0.061000 9.0000-3 6.123-17                              G.M.Lerner+          (69)A1464  2 
+#/DATA      1
+#/DATASET

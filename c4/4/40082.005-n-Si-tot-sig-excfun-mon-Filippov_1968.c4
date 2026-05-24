@@ -1,0 +1,29 @@
+#ENTRY      40082
+#AUTHOR1    V.V.Filippov+
+#YEAR       1968
+#INSTITUTE  (4RUSFEI)
+#TITLE      Measurements of structure of total neutron
+#+          cross sections
+#AUTHOR(S)  V.V.Filippov, M.N.Nikolaev
+#REF-CODE   (C,68DUBNA,,(ASS-68/17),1968)
+#REFERENCE  Proceedings of Nuclear Data for Computations Sem., Dubna 1968 page (ASS-68/17)
+#DATASETS   0
+#
+#DATASET    40082005 
+#DATE       20210728
+#REACTION   14-SI-0(N,TOT),,SIG
+#PROJ       1
+#TARG       14000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 14000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14000   3   1    600000.0 250000.0 3.180000 0.070000                                       V.V.Filippov+        (68)40082  5 
+    1 14000   3   1    800000.0 250000.0 3.600000 0.070000                                       V.V.Filippov+        (68)40082  5 
+    1 14000   3   1    1100000. 250000.0 3.620000 0.130000                                       V.V.Filippov+        (68)40082  5 
+    1 14000   3   1    1400000. 250000.0 2.900000 0.140000                                       V.V.Filippov+        (68)40082  5 
+    1 14000   3   1    1700000. 250000.0 2.960000 0.080000                                       V.V.Filippov+        (68)40082  5 
+#/DATA      5
+#/DATASET

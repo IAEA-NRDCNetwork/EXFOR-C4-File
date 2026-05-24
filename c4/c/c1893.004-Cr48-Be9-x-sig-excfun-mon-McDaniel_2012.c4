@@ -1,0 +1,27 @@
+#ENTRY      C1893
+#AUTHOR1    S.McDaniel+
+#YEAR       2012
+#INSTITUTE  (1USAMSU)
+#TITLE      Intermediate-energy inverse-kinematics one-proton
+#+          pickup reactions on neutron-deficient fp-shell nuclei
+#AUTHOR(S)  S.McDaniel, A.Gade, J.A.Tostevin, T.Baugher, D.Bazin, B.A.Brown, 
+#+          J.M.Cook, T.Glasmacher, G.F.Grinyer, A.Ratkiewicz, D.Weisshaar
+#REF-CODE   (J,PR/C,85,014610,2012)
+#REFERENCE  Phys.Rev.C 85 (2012) 014610 (doi:10.1103/PhysRevC.85.014610)
+#DATASETS   0
+#
+#DATASET    C1893004 
+#DATE       20120419
+#REACTION   4-BE-9(24-CR-48,X)25-MN-49,,SIG
+#PROJ       24048
+#TARG       4009
+#MF         3
+#MT         454
+#PRODUCT    25-MN-49
+#C4BEGIN    [24048  4009   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+24048  4009   3 454    5.6700+7          1.6300-3 8.0000-5           25049.9                     S.McDaniel+          (12)C1893  4 
+#/DATA      1
+#/DATASET

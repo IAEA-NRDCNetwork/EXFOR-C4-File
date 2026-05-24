@@ -1,0 +1,26 @@
+#ENTRY      20432
+#AUTHOR1    N.Yamamuro+
+#YEAR       1975
+#INSTITUTE  (2JPNKTO)
+#TITLE      Measurement of neutron capture cross sections
+#+          near 24 keV
+#AUTHOR(S)  N.Yamamuro, T.Doi, T.Hayase, Y.Fujita, K.Kobayashi, R.C.Block
+#REF-CODE   (C,75WASH,2,802,1975)
+#REFERENCE  Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 802
+#DATASETS   0
+#
+#DATASET    20432006 
+#DATE       20160725
+#REACTION   79-AU-197(N,G)79-AU-198,,SIG
+#PROJ       1
+#TARG       79197
+#MF         3
+#MT         102
+#PRODUCT    79-AU-198
+#C4BEGIN    [    1 79197   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   3 102    24000.00 400.0000 0.680000 0.022440                                       N.Yamamuro+          (75)20432  6 
+#/DATA      1
+#/DATASET

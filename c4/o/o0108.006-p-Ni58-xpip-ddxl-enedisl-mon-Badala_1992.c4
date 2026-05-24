@@ -1,0 +1,31 @@
+#ENTRY      O0108
+#AUTHOR1    A.Badala+
+#YEAR       1992
+#INSTITUTE  (2ITYCAT)
+#TITLE      Reactions Ni-58,64(p,pip) at 201 MeV.
+#AUTHOR(S)  A.Badala, R.Barbera, A.Palmeri, G.S.Pappalardo, A.Bonasera, 
+#+          F.Riggi, A.Adorno, L.Bimbot
+#REF-CODE   (J,PR/C,46,604,1992)
+#REFERENCE  Phys.Rev.C 46 (1992) 604 (doi:10.1103/PhysRevC.46.604)
+#DATASETS   0
+#
+#DATASET    O0108006 
+#DATE       20100707
+#REACTION   28-NI-58(P,X)1-PP-0,,DA/DE
+#PROJ       1001
+#TARG       28058
+#MF         6
+#MT         208
+#PRODUCT    1-PP-0
+#C4BEGIN    [ 1001 28058   6 208  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   6 208    2.0100+8          4.100-13 2.000-14 6.123-17          2.0000+7          E2A.Badala+            (92)O0108  6 
+ 1001 28058   6 208    2.0100+8          4.440-13 1.500-14 6.123-17          2.5000+7          E2A.Badala+            (92)O0108  6 
+ 1001 28058   6 208    2.0100+8          4.160-13 1.400-14 6.123-17          3.0000+7          E2A.Badala+            (92)O0108  6 
+ 1001 28058   6 208    2.0100+8          2.500-13 8.000-15 6.123-17          4.0000+7          E2A.Badala+            (92)O0108  6 
+ 1001 28058   6 208    2.0100+8          9.200-14 4.000-15 6.123-17          5.0000+7          E2A.Badala+            (92)O0108  6 
+ 1001 28058   6 208    2.0100+8          6.000-15 1.000-15 6.123-17          6.0000+7          E2A.Badala+            (92)O0108  6 
+#/DATA      6
+#/DATASET

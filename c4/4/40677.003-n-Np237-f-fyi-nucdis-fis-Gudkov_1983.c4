@@ -1,0 +1,28 @@
+#ENTRY      40677
+#AUTHOR1    A.N.Gudkov+
+#YEAR       1983
+#INSTITUTE  (4RUSFEI)
+#TITLE      Determination of Np-237 fission yields by neutrons of
+#+          fast reactor core spectrum using gamma-spectrometric
+#+          method
+#AUTHOR(S)  A.N.Gudkov, V.M.Zhivun, A.V.Zvonarev, A.F.Zolotov, A.B.Koldobskiy, 
+#+          Yu.F.Koleganov, V.M.Kolobashkin, S.V.Krivasheev, N.S.Piven'
+#REF-CODE   (J,YK,,(1/50),48,1983)
+#REFERENCE  Yad.Reak.Konst.  No.1/50 (1983) 48
+#DATASETS   0
+#
+#DATASET    40677003 
+#DATE       20180416
+#REACTION   93-NP-237(N,F)ELEM/MASS,IND,FY,,FIS
+#PROJ       1
+#TARG       93237
+#MF         8
+#MT         454
+#C4BEGIN    [    1 93237   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   8 454    1000000.          3.4000-3 2.0000-3 53.00000 134.0000 9.000000            A.N.Gudkov+          (83)40677  3 
+    1 93237   8 454    1000000.          3.3000-4 1.5000-4 54.00000 135.0000 9.000000            A.N.Gudkov+          (83)40677  3 
+#/DATA      2
+#/DATASET

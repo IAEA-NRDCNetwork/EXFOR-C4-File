@@ -1,0 +1,34 @@
+#ENTRY      E1967
+#AUTHOR1    Y.Homma+
+#YEAR       1979
+#INSTITUTE  (2JPNKYO)
+#TITLE      Excitation functions for the production of 81Rb-81mKr
+#+          via the 79Br(alpha, 2n)81Rb and the 81Br(3He, 3n)81Rb
+#+          reactions
+#AUTHOR(S)  Y.Homma, K.Kurata
+#REF-CODE   (J,ARI,30,345,1979)
+#REFERENCE  Appl.Radiat.Isot. 30 (1979) 345 (doi:10.1016/0020-708X(79)90017-6)
+#DATASETS   0
+#
+#DATASET    E1967007 
+#DATE       20240504
+#REACTION   35-BR-0(HE3,X)37-RB-81-G,M+,SIG
+#PROJ       2003
+#TARG       35000
+#MF         3
+#MT         459
+#PRODUCT    37-RB-81-G
+#C4BEGIN    [ 2003 35000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 35000   3 459    1.1810+7 1208000. 8.2190-3 1.9900-3           37081.0                     Y.Homma+             (79)E1967  7 
+ 2003 35000   3 459    1.7380+7          0.047550                    37081.0                     Y.Homma+             (79)E1967  7 
+ 2003 35000   3 459    2.2080+7          0.155900                    37081.0                     Y.Homma+             (79)E1967  7 
+ 2003 35000   3 459    2.5840+7          0.327900                    37081.0                     Y.Homma+             (79)E1967  7 
+ 2003 35000   3 459    2.9060+7          0.367300                    37081.0                     Y.Homma+             (79)E1967  7 
+ 2003 35000   3 459    3.2620+7          0.140600                    37081.0                     Y.Homma+             (79)E1967  7 
+ 2003 35000   3 459    3.4970+7          0.075670                    37081.0                     Y.Homma+             (79)E1967  7 
+ 2003 35000   3 459    3.7720+7          0.058450                    37081.0                     Y.Homma+             (79)E1967  7 
+#/DATA      8
+#/DATASET

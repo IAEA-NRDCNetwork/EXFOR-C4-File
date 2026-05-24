@@ -1,0 +1,34 @@
+#ENTRY      O2553
+#AUTHOR1    F.Horst+
+#YEAR       2019
+#INSTITUTE  (2GERGSI)
+#TITLE      Measurement of PET isotope production cross sections
+#+          for protons and carbon ions on carbon and oxygen
+#+          targets for applications in particle therapy range
+#+          verification
+#AUTHOR(S)  F.Horst, W.Adi, G.Arico, K.-T.Brinkmann, M.Durante, C.-A.Reidel, 
+#+          M.Rovituso, U.Weber, H.-G.Zaunick, K.Zink, C.Schuy
+#REF-CODE   (J,PMB,64,205012,2019)
+#REFERENCE  Phys.Med.Biol. 64 (2019) 205012 (doi:10.1088/1361-6560/ab4511)
+#DATASETS   0
+#
+#DATASET    O2553007 
+#DATE       20230202
+#REACTION   8-O-16(6-C-12,X)8-O-15,,SIG
+#PROJ       6012
+#TARG       8016
+#MF         3
+#MT         454
+#PRODUCT    8-O-15
+#C4BEGIN    [ 6012  8016   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  8016   3 454    5.0688+9          0.065100 0.015400            8015.9                     F.Horst+             (19)O2553  7 
+ 6012  8016   3 454    3.8640+9          0.069800 0.012200            8015.9                     F.Horst+             (19)O2553  7 
+ 6012  8016   3 454    2.8836+9          0.076400 0.011800            8015.9                     F.Horst+             (19)O2553  7 
+ 6012  8016   3 454    1.3560+9          0.079700 0.012700            8015.9                     F.Horst+             (19)O2553  7 
+ 6012  8016   3 454    1.0140+9          0.078000 0.017200            8015.9                     F.Horst+             (19)O2553  7 
+ 6012  8016   3 454    7.8600+8          0.072700 0.015500            8015.9                     F.Horst+             (19)O2553  7 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      14150
+#AUTHOR1    J.M.Sisterson+
+#YEAR       2007
+#INSTITUTE  (1USAMGH)
+#TITLE      Cross section measurements for neutron-induced
+#+          reactions off C, Al, SiO2, Si and Au producing
+#+          relatively short-lived radionuclides at neutron
+#+          energies between 70 and 160 MeV
+#AUTHOR(S)  J.M.Sisterson
+#REF-CODE   (J,NIM/B,261,993,2007)
+#REFERENCE  Nucl.Instrum.Meth.B 261 (2007) 993 (doi:10.1016/j.nimb.2007.03.030)
+#DATASETS   0
+#
+#DATASET    14150002 
+#DATE       20120814
+#REACTION   6-C-0(N,X)4-BE-7,,SIG
+#PROJ       1
+#TARG       6000
+#MF         3
+#MT         454
+#PRODUCT    4-BE-7
+#C4BEGIN    [    1  6000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   3 454    1.1200+8 4100000. 9.6000-3 4.1000-3            4007.9                     J.M.Sisterson        (07)14150  2 
+#/DATA      1
+#/DATASET

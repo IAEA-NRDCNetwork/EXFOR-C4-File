@@ -1,0 +1,26 @@
+#ENTRY      21397
+#AUTHOR1    J.-M.Auglair+
+#YEAR       1955
+#INSTITUTE  (2FR SAC)
+#TITLE      Measurement of the U-236 capture cross section
+#+          in a pile neutron spectrum
+#AUTHOR(S)  J.-M.Auglair, P.Hubert, R.Joly, G.Vendryes, J.Charon
+#REF-CODE   (J,CR,241,392,1955)
+#REFERENCE  Compt.Rend. 241 (1955) 392
+#DATASETS   0
+#
+#DATASET    21397003 
+#DATE       20191116
+#REACTION   92-U-236(N,G)92-U-237,,SIG
+#PROJ       1
+#TARG       92236
+#MF         3
+#MT         102
+#PRODUCT    92-U-237
+#C4BEGIN    [    1 92236   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92236   3 102    0.025300          24.00000 7.000000                                       J.-M.Auglair+        (55)21397  3 
+#/DATA      1
+#/DATASET

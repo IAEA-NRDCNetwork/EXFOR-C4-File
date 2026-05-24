@@ -1,0 +1,34 @@
+#ENTRY      F1265
+#AUTHOR1    A.U.Abdurakhimov+
+#YEAR       1979
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Projectile fragmentation processes in He-4 nucleus
+#+          interactions at 4.5 GeV/c per incident nucleon.
+#AUTHOR(S)  A.U.Abdurakhimov, V.D.Aksinenko, M.Kh.Anikina, V.D.Buttsev, 
+#+          A.I.Golokhvastov, L.A.Goncharova, N.I.Kaminsky, S.A.Khorozov, 
+#+          E.G.Kuznetsova, L.S.Lyubimova, J.Lukstins, E.O.Okonov, T.G.Ostanevich, 
+#+          G.L.Vardenga, V.D.Volodin, M.S.Zhuravleva, L.V.Chkhaidze, 
+#+          Zh.Zh.Musulmanbekov, N.N.Nurgozhin, M.A.Tashimov, A.Peisert-Banasiuk, 
+#+          E.Skrzypczak, R.Szwed
+#REF-CODE   (R,JINR-E1-12730,1979)
+#REFERENCE  Report JINR-E1-12730, 1979
+#DATASETS   0
+#
+#DATASET    F1265003 
+#DATE       20150722
+#REACTION   6-C-0(A,X)ELEM/MASS,,SIG
+#PROJ       2004
+#TARG       6000
+#MF         3
+#MT         454
+#C4BEGIN    [ 2004  6000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6000   3 454    1.465+10          0.310700 0.022530            1001.9                     A.U.Abdurakhimov+    (79)F1265  3 
+ 2004  6000   3 454    1.465+10          0.144600 0.012630            1001.9                     A.U.Abdurakhimov+    (79)F1265  3 
+ 2004  6000   3 454    1.465+10          0.078180 0.014830            1002.9                     A.U.Abdurakhimov+    (79)F1265  3 
+ 2004  6000   3 454    1.465+10          0.057020 4.9990-3            1003.9                     A.U.Abdurakhimov+    (79)F1265  3 
+ 2004  6000   3 454    1.465+10          0.049470 6.4650-3            2003.9                     A.U.Abdurakhimov+    (79)F1265  3 
+#/DATA      5
+#/DATASET

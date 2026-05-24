@@ -1,0 +1,30 @@
+#ENTRY      D6218
+#AUTHOR1    N.L.Singh+
+#YEAR       1987
+#INSTITUTE  (3INDBHU)
+#TITLE      Excitation functions for radioactive isotopes produced
+#+          by alpha particle induced reactions with silver
+#AUTHOR(S)  N.L.Singh, S.Agarwal, L.Chaturvedi, J.Rama Rao
+#REF-CODE   (J,NIM/B,24-25,480,1987)
+#REFERENCE  Nucl.Instrum.Meth.B 24-25 (1987) 480 (doi:10.1016/0168-583X(87)90688-4)
+#DATASETS   0
+#
+#DATASET    D6218005 
+#DATE       20230727
+#REACTION   47-AG-107(A,X)47-AG-105,(CUM),SIG
+#PROJ       2004
+#TARG       47107
+#MF         3
+#MT         459
+#PRODUCT    47-AG-105
+#C4BEGIN    [ 2004 47107   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 47107   3 459    3.3400+7          8.4000-3 1.3000-3           47105.9                     N.L.Singh+           (87)D6218  5 
+ 2004 47107   3 459    3.6400+7          0.036800 5.6000-3           47105.9                     N.L.Singh+           (87)D6218  5 
+ 2004 47107   3 459    4.0200+7          0.094000 0.014000           47105.9                     N.L.Singh+           (87)D6218  5 
+ 2004 47107   3 459    4.3800+7          0.178000 0.026000           47105.9                     N.L.Singh+           (87)D6218  5 
+ 2004 47107   3 459    4.7200+7          0.199000 0.029000           47105.9                     N.L.Singh+           (87)D6218  5 
+#/DATA      5
+#/DATASET

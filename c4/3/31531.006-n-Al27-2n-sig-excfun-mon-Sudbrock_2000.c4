@@ -1,0 +1,29 @@
+#ENTRY      31531
+#AUTHOR1    F.Sudbrock+
+#YEAR       2000
+#INSTITUTE  (3HUNKOS)
+#TITLE      Cross sections for the formation of long-lived
+#+          radionuclides 10Be, 26Al and 36Cl in 14.6 MeV
+#+          neutron induced reactions determined via accelerator
+#+          mass spectrometry (AMS)
+#AUTHOR(S)  F.Sudbrock, U.Herpers, S.M.Qaim, J.Csikai, P.W.Kubik, H.-A.Synal, 
+#+          M.Suter
+#REF-CODE   (J,RCA,88,829,2000)
+#REFERENCE  Radiochim.Acta 88 (2000) 829 (doi:10.1524/ract.2000.88.12.829)
+#DATASETS   0
+#
+#DATASET    31531006 
+#DATE       20150813
+#REACTION   13-AL-27(N,2N)13-AL-26-G,,SIG
+#PROJ       1
+#TARG       13027
+#MF         3
+#MT         16
+#PRODUCT    13-AL-26-G
+#C4BEGIN    [    1 13027   3  16G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   3  16G   1.4600+7 200000.0 0.022000 0.016000                                       F.Sudbrock+          (00)31531  6 
+#/DATA      1
+#/DATASET

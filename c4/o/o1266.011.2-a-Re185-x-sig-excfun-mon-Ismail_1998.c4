@@ -1,0 +1,31 @@
+#ENTRY      O1266
+#AUTHOR1    M.Ismail+
+#YEAR       1998
+#INSTITUTE  (3INDVEC)
+#TITLE      Measurement and analysis of the excitation function
+#+          and isomeric cross section ratios for alpha-induced
+#+          reaction on Ir-, Au-, Re- and Ta-nuclei
+#AUTHOR(S)  M.Ismail
+#REF-CODE   (J,PRM,50,173,1998)
+#REFERENCE  Pramana 50 (1998) 173 (doi:10.1007/BF02847528)
+#DATASETS   0
+#
+#DATASET    O12660112
+#DATE       20160716
+#REACTION   75-RE-185(A,X)75-RE-184-M,,SIG
+#PROJ       2004
+#TARG       75185
+#MF         3
+#MT         454
+#PRODUCT    75-RE-184-M
+#C4BEGIN    [ 2004 75185   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 75185   3 454    3.2600+7 2000000. 4.0700-3 4.0700-4           75184.7                     M.Ismail             (98)O1266 112
+ 2004 75185   3 454    3.6600+7 2000000. 5.2800-3 5.2800-4           75184.7                     M.Ismail             (98)O1266 112
+ 2004 75185   3 454    4.0500+7 2000000. 0.011670 1.0503-3           75184.7                     M.Ismail             (98)O1266 112
+ 2004 75185   3 454    4.4200+7 1800000. 0.018730 6.1809-4           75184.7                     M.Ismail             (98)O1266 112
+ 2004 75185   3 454    4.7600+7 1800000. 0.028000 1.1760-3           75184.7                     M.Ismail             (98)O1266 112
+#/DATA      5
+#/DATASET

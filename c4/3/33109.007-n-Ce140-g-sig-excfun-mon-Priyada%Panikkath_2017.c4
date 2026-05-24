@@ -1,0 +1,27 @@
+#ENTRY      33109
+#AUTHOR1    Priyada Panikkath+
+#YEAR       2017
+#INSTITUTE  (3INDMNP)
+#TITLE      Thermal neutron capture cross-section and resonance
+#+          integral measurements of 139La(n,g)140La and
+#+          140Ce(n,g)141Ce using a Am-Be neutron source
+#AUTHOR(S)  Priyada Panikkath, P.Mohanakrishnan
+#REF-CODE   (J,EPJ/A,53,46,2017)
+#REFERENCE  Eur.Phys.J.A 53 (2017) 46 (doi:10.1140/epja/i2017-12231-8)
+#DATASETS   0
+#
+#DATASET    33109007 
+#DATE       20181109
+#REACTION   58-CE-140(N,G)58-CE-141,,SIG
+#PROJ       1
+#TARG       58140
+#MF         3
+#MT         102
+#PRODUCT    58-CE-141
+#C4BEGIN    [    1 58140   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 58140   3 102 C  0.025300          0.440000 0.010000                                       Priyada Panikkath+   (17)33109  7 
+#/DATA      1
+#/DATASET

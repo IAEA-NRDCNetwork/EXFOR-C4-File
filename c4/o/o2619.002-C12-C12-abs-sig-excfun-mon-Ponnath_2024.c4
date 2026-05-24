@@ -1,0 +1,57 @@
+#ENTRY      O2619
+#AUTHOR1    L.Ponnath+
+#YEAR       2024
+#INSTITUTE  (2GERMUN)
+#TITLE      Measurement of nuclear interaction cross sections
+#+          towards neutron-skin thickness determination
+#AUTHOR(S)  L.Ponnath, T.Aumann, C.A.Bertulani, R.Gernhaeuser, M.Heil, 
+#+          T.Almusidi, H.Alvarez-Pol, L.Atar, L.Atkins, Y.Ayyad, J.Benlliure, 
+#+          K.Boretzky, M.J.G.Borge, L.T.Bott, G.Bruni, B.Brueckner, 
+#+          P.Cabanelas, C.Caesar, E.Casarejos, J.Cederkall, A.Corsi, 
+#+          D.Cortina-Gil, J.A.Duenas, M.Duer, Z.Elekes, S.Escribano Rodriguez, 
+#+          L.Fabbietti, A.Falduto, M.Feijoo, M.Feijoo Fontan, L.M.Fonseca, 
+#+          A.Frotscher, D.Galaviz, E.Galiana, G.Garcia-Jimenez, I.Gasparic, 
+#+          E.I.Geraci, A.Gillibert, B.Gnoffo, D.Gonzalez Caamano, A.Grana Gonzalez, 
+#+          K.Goebel, A.-L.Hartig, A.Heinz, T.Hensel, M.Holl, A.Horvat, 
+#+          A.Jedele, D.Jelavic, Malenica, T.Jenegger, H.T.Johansson, 
+#+          B.Jonson, N.Kalantar-Nayestanaki, A.Kelic-Heil, O.A.Kiselev, 
+#+          P.Klenze, D.Kresan, T.Kroell, E.Kudaibergenova, D.Kurtulgil, 
+#+          D.Koerper, M.Labiche, C.Langer, I.Lihtar, Yu.A.Litvinov, 
+#+          B.Loeher, J.Mayer, S.Murillo Morales, E.Nacher, T.Nilsson, 
+#+          A.Obertelli, V.Panin, J.Park, S.Paschalis, A.Perea, M.Petri, 
+#+          S.Pirrone, T.Pohl, R.Reifarth, H.-B.Rhee, J.L.Rodriguez-Sanchez, 
+#+          L.Rose, D.M.Rossi, P.Russotto, D.Savran, H.Scheit, H.Simon, 
+#+          S.Storck-Dutine, A.M.Stott, C.Suerder, R.Taniuchi, O.Tengblad, 
+#+          P.Teubig, L.Trache, M.Trimarchi, H.T.Toernqvist, L.Varga, 
+#+          V.Wagner, F.Wamers
+#REF-CODE   (J,PL/B,855,138780,2024)
+#REFERENCE  Phys.Lett.B 855 (2024) 138780 (doi:10.1016/j.physletb.2024.138780)
+#DATASETS   0
+#
+#DATASET    O2619002 
+#DATE       20240729
+#REACTION   6-C-12(6-C-12,ABS),,SIG
+#PROJ       6012
+#TARG       6012
+#MF         3
+#MT         27
+#C4BEGIN    [ 6012  6012   3  27  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  6012   3  27    4.8000+9          0.760700 7.1000-3                                       L.Ponnath+           (24)O2619  2 
+ 6012  6012   3  27    4.8000+9          0.764600 4.4000-3                                       L.Ponnath+           (24)O2619  2 
+ 6012  6012   3  27    4.8000+9          0.758600 2.6000-3                                       L.Ponnath+           (24)O2619  2 
+ 6012  6012   3  27    6.6000+9          0.791900 9.0000-3                                       L.Ponnath+           (24)O2619  2 
+ 6012  6012   3  27    6.6000+9          0.795800 5.3000-3                                       L.Ponnath+           (24)O2619  2 
+ 6012  6012   3  27    6.6000+9          0.797000 2.7000-3                                       L.Ponnath+           (24)O2619  2 
+ 6012  6012   3  27    7.8000+9          0.813100 7.3000-3                                       L.Ponnath+           (24)O2619  2 
+ 6012  6012   3  27    7.8000+9          0.811500 5.7000-3                                       L.Ponnath+           (24)O2619  2 
+ 6012  6012   3  27    7.8000+9          0.815000 2.6000-3                                       L.Ponnath+           (24)O2619  2 
+ 6012  6012   3  27    9.6000+9          0.831900 5.9000-3                                       L.Ponnath+           (24)O2619  2 
+ 6012  6012   3  27    9.6000+9          0.834600 3.3000-3                                       L.Ponnath+           (24)O2619  2 
+ 6012  6012   3  27    1.200+10          0.837500 8.2000-3                                       L.Ponnath+           (24)O2619  2 
+ 6012  6012   3  27    1.200+10          0.836100 5.6000-3                                       L.Ponnath+           (24)O2619  2 
+ 6012  6012   3  27    1.200+10          0.838100 2.5000-3                                       L.Ponnath+           (24)O2619  2 
+#/DATA      14
+#/DATASET

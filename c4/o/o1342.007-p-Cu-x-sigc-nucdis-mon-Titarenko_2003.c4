@@ -1,0 +1,83 @@
+#ENTRY      O1342
+#AUTHOR1    Yu.E.Titarenko+
+#YEAR       2003
+#INSTITUTE  (4RUSITE)
+#TITLE      Nuclide production cross sections for Co-59 and Cu-nat
+#+          irradiated with 0.2-GeV and 2.6-GeV protons and
+#+          0.2-GeV/nucleon carbon ions.
+#AUTHOR(S)  Yu.E.Titarenko, V.F.Batyaev, V.M.Zhivun, A.B.Koldobsky, 
+#+          Yu.V.Trebukhovsky, E.I.Karpikhin, R.D.Mulambetov, S.V.Mulambetova, 
+#+          Yu.A.Nekrasov, A.Yu.Titarenko, K.A.Lipatov, B.Yu.Sharkov, 
+#+          A.A.Golubev, A.D.Fertman, V.I.Turtikov, A.V.Kantsyrev, I.V.Roudskoy, 
+#+          G.N.Smirnov, V.S.Barashenkov, K.K.Gudima, M.I.Baznat, S.G.Mashnik, 
+#+          R.E.Prael
+#REF-CODE   (C,2003SDIEGO,,59,2003)
+#REFERENCE  Proceedings of Int.Meet.on Nucl.Appl.of Accel.Tech., San Diego 2003 page 59
+#DATASETS   0
+#
+#DATASET    O1342007 
+#DATE       20070516
+#REACTION   29-CU-0(P,X)ELEM/MASS,CUM,SIG
+#PROJ       1001
+#TARG       29000
+#MF         3
+#MT         459
+#C4BEGIN    [ 1001 29000   3 459 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   3 459 C  2.0000+8          0.024800 2.1000-3           29061.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.0000+8          6.8100-3 4.0000-4           29060.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.0000+8          1.6700-3 1.3000-4           28057.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.0000+8          0.038100 2.1000-3           27057.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.0000+8          0.011600 6.0000-4           27056.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.0000+8          1.7900-3 1.1000-4           27055.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.0000+8          1.1400-3 7.0000-5           26059.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.0000+8          2.2700-3 1.1000-4           25056.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.0000+8          1.9200-3 1.3000-4           25052.1                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.0000+8          4.9000-3 2.8000-4           25052.0                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.0000+8          0.010700 6.0000-4           24051.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.0000+8          2.1300-3 1.2000-4           23048.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.0000+8          2.4300-4 1.3000-5           21047.9                     Yu.E.Titarenko+      (03)O1342  7 
+#/DATA      13
+#/DATASET
+#
+#DATASET    O1342007 
+#DATE       20070516
+#REACTION   29-CU-0(P,X)ELEM/MASS,CUM,SIG
+#PROJ       1001
+#TARG       29000
+#MF         3
+#MT         459
+#C4BEGIN    [ 1001 29000   3 459 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   3 459 C  2.6000+9          9.9900-3 1.0500-3           29061.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          2.0500-3 1.5000-4           29060.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          1.0700-4 1.1000-5           28065.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          6.1600-4 5.2000-5           28057.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          0.019100 1.3000-3           27057.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          5.9500-3 4.1000-4           27056.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          9.6400-4 7.1000-5           27055.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          1.6700-3 1.2000-4           26059.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          1.4200-4 1.1000-5           26052.0                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          2.8300-3 1.7000-4           25056.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          2.0200-3 1.5000-4           25052.1                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          5.9800-3 3.9000-4           25052.0                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          0.019000 1.3000-3           24051.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          2.4700-3 1.9000-4           24049.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          3.2500-4 2.3000-5           24048.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          9.8700-3 6.6000-4           23048.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          3.0000-3 1.8000-4           21047.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          9.6000-5 1.2000-5           20047.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          1.3500-3 8.0000-5           19043.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          8.4100-4 5.1000-5           18041.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          5.8100-4 4.1000-5           17039.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          1.8100-3 1.2000-4           17038.0                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          1.9100-3 3.5000-4           13029.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          4.1000-4 2.5000-5           12028.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          1.2000-3 1.2000-4           12027.9                     Yu.E.Titarenko+      (03)O1342  7 
+ 1001 29000   3 459 C  2.6000+9          3.4500-3 2.2000-4           11024.9                     Yu.E.Titarenko+      (03)O1342  7 
+#/DATA      26
+#/DATASET

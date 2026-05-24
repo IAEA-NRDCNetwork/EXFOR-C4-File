@@ -1,0 +1,26 @@
+#ENTRY      11825
+#AUTHOR1    R.E.Wood+
+#YEAR       1967
+#INSTITUTE  (1USAGIT)
+#TITLE      Activation Cross Sections of Germanium for 14.4-MeV
+#+          Neutrons
+#AUTHOR(S)  R.E.Wood, W.S.Cook, J.R.Goodgame, R.W.Fink
+#REF-CODE   (J,PR,154,1108,1967)
+#REFERENCE  Phys.Rev. 154 (1967) 1108 (doi:10.1103/PhysRev.154.1108)
+#DATASETS   0
+#
+#DATASET    11825011 
+#DATE       20220621
+#REACTION   32-GE-76(N,2N)32-GE-75,,SIG
+#PROJ       1
+#TARG       32076
+#MF         3
+#MT         16
+#PRODUCT    32-GE-75
+#C4BEGIN    [    1 32076   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32076   3  16    1.4400+7 300000.0 1.236000 0.120000                                       R.E.Wood+            (67)11825 11 
+#/DATA      1
+#/DATASET

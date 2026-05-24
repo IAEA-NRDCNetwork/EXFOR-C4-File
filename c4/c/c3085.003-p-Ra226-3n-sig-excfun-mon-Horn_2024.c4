@@ -1,0 +1,29 @@
+#ENTRY      C3085
+#AUTHOR1    D.Horn+
+#YEAR       2024
+#INSTITUTE  (1CANCRC)
+#TITLE      Actinium isotope cross sections for 226Ra(p,xn)
+#+          reactions measured at low energies
+#AUTHOR(S)  D.Horn, E.T.Rand, R.Perron, A.Abushusheh, M.Facina, D.Gendron, 
+#+          K.McCaugherty, J.Sheardown
+#REF-CODE   (J,ARI,212,111427,2024)
+#REFERENCE  Appl.Radiat.Isot. 212 (2024) 111427 (doi:10.1016/j.apradiso.2024.111427)
+#DATASETS   0
+#
+#DATASET    C3085003 
+#DATE       20250825
+#REACTION   88-RA-226(P,3N)89-AC-224,,SIG
+#PROJ       1001
+#TARG       88226
+#MF         3
+#MT         17
+#PRODUCT    89-AC-224
+#C4BEGIN    [ 1001 88226   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 88226   3  17    1.5100+7 100000.0 0.163000 0.025000                                       D.Horn+              (24)C3085  3 
+ 1001 88226   3  17    1.6000+7 100000.0 0.302000 0.027000                                       D.Horn+              (24)C3085  3 
+ 1001 88226   3  17    1.6800+7 100000.0 0.629000 0.055000                                       D.Horn+              (24)C3085  3 
+#/DATA      3
+#/DATASET

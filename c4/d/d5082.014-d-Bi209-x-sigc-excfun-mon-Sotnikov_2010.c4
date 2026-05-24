@@ -1,0 +1,30 @@
+#ENTRY      D5082
+#AUTHOR1    V.V.Sotnikov+
+#YEAR       2010
+#INSTITUTE  (4UKRKFT)
+#TITLE      Experimental determination of the natPb(d,f),
+#+          209Bi(d,f), 209Bi(d,xnyp) nuclear reactions cross
+#+          section at 1.6 GeV and 4 GeV deuteron beams
+#AUTHOR(S)  V.V.Sotnikov, V.A.Voronko, P.A.Martynenko, Ju.T.Petrusenko, 
+#+          I.V.Zhuk, A.S.Patapenka, A.A.Safronova, S.V.Korneev, A.M.Khilmanovich, 
+#+          B.A.Marcinkevich
+#REF-CODE   (C,2010KYIV,,250,2010)
+#REFERENCE  Proceedings of 3 Int.Conf.Cur.Prob.in Nucl.Phys.Atom.Ene.,Kyiv,2010 page 250
+#DATASETS   0
+#
+#DATASET    D5082014 
+#DATE       20110822
+#REACTION   83-BI-209(D,X)83-BI-204,CUM,SIG
+#PROJ       1002
+#TARG       83209
+#MF         3
+#MT         459
+#PRODUCT    83-BI-204
+#C4BEGIN    [ 1002 83209   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 83209   3 459    1.6000+9          0.048000 4.0000-3           83204.9                     V.V.Sotnikov+        (10)D5082 14 
+ 1002 83209   3 459    4.0000+9          0.033000 4.0000-3           83204.9                     V.V.Sotnikov+        (10)D5082 14 
+#/DATA      2
+#/DATASET

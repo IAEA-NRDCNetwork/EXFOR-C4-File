@@ -1,0 +1,28 @@
+#ENTRY      O0726
+#AUTHOR1    V.V.Verbinski+
+#YEAR       1969
+#INSTITUTE  (1USAORL)
+#TITLE      Direct and Compound-Nucleus Neutrons from 14-18 MeV
+#+          Proton on Be-9, N-14, Al-27, Fe-56, In-115, Ta-181 and
+#+          Pb-208 and from 33-MeV Bremsstrahlung on Al-27, Pb-206
+#+          And Bi-209.
+#AUTHOR(S)  V.V.Verbinski, W.R.Burrus
+#REF-CODE   (J,PR,177,1671,1969)
+#REFERENCE  Phys.Rev. 177 (1969) 1671 (doi:10.1103/PhysRev.177.1671)
+#DATASETS   0
+#
+#DATASET    O0726011 
+#DATE       20010214
+#REACTION   49-IN-115(P,X)0-NN-1,,SIG
+#PROJ       1001
+#TARG       49115
+#MF         3
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1001 49115   3 201 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 49115   3 201 D  1.8300+7 540000.0 7.190000                                                V.V.Verbinski+       (69)O0726 11 
+#/DATA      1
+#/DATASET

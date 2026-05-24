@@ -1,0 +1,37 @@
+#ENTRY      31165
+#AUTHOR1    L.Gonzalez+
+#YEAR       1962
+#INSTITUTE  (3CHLSAN)
+#TITLE      Excitation function of the reaction 47Ti(n,p)47Sc at
+#+          neutron energies between 2.0 and 3.6MeV.
+#AUTHOR(S)  L.Gonzalez, A.Trier, J.J.van Loef
+#REF-CODE   (J,PR,126,271,1962)
+#REFERENCE  Phys.Rev. 126 (1962) 271 (doi:10.1103/PhysRev.126.271)
+#DATASETS   0
+#
+#DATASET    31165002 
+#DATE       20090925
+#REACTION   22-TI-47(N,P)21-SC-47,,SIG
+#PROJ       1
+#TARG       22047
+#MF         3
+#MT         103
+#PRODUCT    21-SC-47
+#C4BEGIN    [    1 22047   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22047   3 103    1990000. 50000.00 0.040100 5.5000-3                                       L.Gonzalez+          (62)31165  2 
+    1 22047   3 103    2050000. 50000.00 0.045200 5.7000-3                                       L.Gonzalez+          (62)31165  2 
+    1 22047   3 103    2210000. 70000.00 0.056800 7.8000-3                                       L.Gonzalez+          (62)31165  2 
+    1 22047   3 103    2240000. 70000.00 0.062100 8.2000-3                                       L.Gonzalez+          (62)31165  2 
+    1 22047   3 103    2530000. 50000.00 0.062100 8.5000-3                                       L.Gonzalez+          (62)31165  2 
+    1 22047   3 103    2580000. 100000.0 0.054600 7.8000-3                                       L.Gonzalez+          (62)31165  2 
+    1 22047   3 103    2880000. 100000.0 0.067000 8.5000-3                                       L.Gonzalez+          (62)31165  2 
+    1 22047   3 103    3040000. 110000.0 0.063300 8.4000-3                                       L.Gonzalez+          (62)31165  2 
+    1 22047   3 103    3150000. 110000.0 0.065400 8.3000-3                                       L.Gonzalez+          (62)31165  2 
+    1 22047   3 103    3270000. 110000.0 0.058700 7.5000-3                                       L.Gonzalez+          (62)31165  2 
+    1 22047   3 103    3400000. 100000.0 0.069900 8.9000-3                                       L.Gonzalez+          (62)31165  2 
+    1 22047   3 103    3550000. 100000.0 0.062700 7.7000-3                                       L.Gonzalez+          (62)31165  2 
+#/DATA      12
+#/DATASET

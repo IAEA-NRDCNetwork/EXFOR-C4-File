@@ -1,0 +1,27 @@
+#ENTRY      31860
+#AUTHOR1    R.N.Sahoo+
+#YEAR       2024
+#INSTITUTE  (3ISLHEB)
+#TITLE      Stellar s-process neutron capture cross section of Ce
+#+          isotopes
+#AUTHOR(S)  R.N.Sahoo, M.Paul, Y.Kashiv, M.Tessler, M.Friedman, S.Halfon, 
+#+          A.Kreisel, A.Shor, L.Weissman
+#REF-CODE   (J,PR/C,109,025808,2024)
+#REFERENCE  Phys.Rev.C 109 (2024) 025808 (doi:10.1103/PhysRevC.109.025808)
+#DATASETS   0
+#
+#DATASET    318600021
+#DATE       20250414
+#REACTION   58-CE-136(N,G)58-CE-137-G,,SIG,,SPA
+#PROJ       1
+#TARG       58136
+#MF         3
+#MT         102
+#PRODUCT    58-CE-137-G
+#C4BEGIN    [    1 58136   3 102G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 58136   3 102G   34200.00          0.262000 0.010000                                       R.N.Sahoo+           (24)31860  21
+#/DATA      1
+#/DATASET

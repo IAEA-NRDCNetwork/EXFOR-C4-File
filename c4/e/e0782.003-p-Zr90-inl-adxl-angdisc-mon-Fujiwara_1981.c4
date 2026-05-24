@@ -1,0 +1,40 @@
+#ENTRY      E0782
+#AUTHOR1    M.Fujiwara+
+#YEAR       1981
+#INSTITUTE  (2JPNOSA)
+#TITLE      NEUTRON PARTICLE-HOLE MULTIPLET STATES IN 90ZR
+#+          STUDIED BY PROTON INELASTIC SCATTERING
+#AUTHOR(S)  M.Fujiwara, Y.Fujita, S.Morinobu, I.Katayama, T.Yamazaki, 
+#+          T.Itahashi, H.Ikegami, S.I.Hayakawa
+#REF-CODE   (J,PL/B,106,51,1981)
+#REFERENCE  Phys.Lett.B 106 (1981) 51 (doi:10.1016/0370-2693(81)91078-9)
+#DATASETS   0
+#
+#DATASET    E0782003 
+#DATE       19881020
+#REACTION   40-ZR-90(P,INL)40-ZR-90,PAR,DA
+#PROJ       1001
+#TARG       40090
+#MF         4
+#MT         601
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 1001 40090   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   4 601  C 6.5000+7          1.4900-5 2.7700-6 0.974664          4463000.         LVLM.Fujiwara+          (81)E0782  3 
+ 1001 40090   4 601  C 6.5000+7          2.5200-5 7.3500-6 0.957903          4463000.         LVLM.Fujiwara+          (81)E0782  3 
+ 1001 40090   4 601  C 6.5000+7          3.9850-5 9.8700-6 0.942560          4463000.         LVLM.Fujiwara+          (81)E0782  3 
+ 1001 40090   4 601  C 6.5000+7          5.1270-5 9.5000-6 0.912470          4463000.         LVLM.Fujiwara+          (81)E0782  3 
+ 1001 40090   4 601  C 6.5000+7          6.0610-5 1.5100-5 0.884133          4463000.         LVLM.Fujiwara+          (81)E0782  3 
+ 1001 40090   4 601  C 6.5000+7          6.4660-5 1.0700-5 0.848020          4463000.         LVLM.Fujiwara+          (81)E0782  3 
+ 1001 40090   4 601  C 6.5000+7          3.3690-5 1.1300-5 0.806238          4463000.         LVLM.Fujiwara+          (81)E0782  3 
+ 1001 40090   4 601  C 6.5000+7          4.4120-5 1.0000-5 0.763582          4463000.         LVLM.Fujiwara+          (81)E0782  3 
+ 1001 40090   4 601  C 6.5000+7          3.6430-5 8.2900-6 0.709731          4463000.         LVLM.Fujiwara+          (81)E0782  3 
+ 1001 40090   4 601  C 6.5000+7          2.4930-5 5.6600-6 0.648705          4463000.         LVLM.Fujiwara+          (81)E0782  3 
+ 1001 40090   4 601  C 6.5000+7          2.1280-5 4.3900-6 0.576161          4463000.         LVLM.Fujiwara+          (81)E0782  3 
+ 1001 40090   4 601  C 6.5000+7          9.0340-6 2.0500-6 0.507328          4463000.         LVLM.Fujiwara+          (81)E0782  3 
+ 1001 40090   4 601  C 6.5000+7          9.9630-6 2.2600-6 0.425527          4463000.         LVLM.Fujiwara+          (81)E0782  3 
+ 1001 40090   4 601  C 6.5000+7          4.6040-6 1.2400-6 0.342283          4463000.         LVLM.Fujiwara+          (81)E0782  3 
+#/DATA      14
+#/DATASET

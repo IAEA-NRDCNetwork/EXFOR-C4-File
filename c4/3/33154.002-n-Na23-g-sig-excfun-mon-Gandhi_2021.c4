@@ -1,0 +1,29 @@
+#ENTRY      33154
+#AUTHOR1    A.Gandhi+
+#YEAR       2021
+#INSTITUTE  (3INDBHU)
+#TITLE      Neutron radiative capture cross section for sodium
+#+          with covariance analysis
+#AUTHOR(S)  A.Gandhi, A.Sharma, R.Pachuau, B.Lalremruata, M.Mehta, P.N.Patil, 
+#+          S.V.Suryanarayana, L.S.Danu, B.K.Nayak, A.Kumar
+#REF-CODE   (J,EPJ/A,57,1,2021)
+#REFERENCE  Eur.Phys.J.A 57 (2021) 1
+#DATASETS   0
+#
+#DATASET    33154002 
+#DATE       20210424
+#REACTION   11-NA-23(N,G)11-NA-24,,SIG
+#PROJ       1
+#TARG       11023
+#MF         3
+#MT         102
+#PRODUCT    11-NA-24
+#C4BEGIN    [    1 11023   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023   3 102    610000.0 10000.00 1.4000-4 2.4780-5                                       A.Gandhi+            (21)33154  2 
+    1 11023   3 102    2110000. 20000.00 2.1800-4 3.7278-5                                       A.Gandhi+            (21)33154  2 
+    1 11023   3 102    3130000. 20000.00 1.5100-4 2.1593-5                                       A.Gandhi+            (21)33154  2 
+#/DATA      3
+#/DATASET

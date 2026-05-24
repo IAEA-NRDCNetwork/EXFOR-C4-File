@@ -1,0 +1,53 @@
+#ENTRY      D5211
+#AUTHOR1    S.Yu.Mezhevych+
+#YEAR       2025
+#INSTITUTE  (4UKRIJD)
+#TITLE      Analysis of the angular distribution for the elastic
+#+          scattering of alpha particles from tritium at an
+#+          energy of 84.2 MeV
+#AUTHOR(S)  S.Yu.Mezhevych, O.A.Ponkratenko, N.Keeley, Yu.S.Roznyuk, 
+#+          O.M.Povoroznyk, O.K.Gorpinich, V.I.Grantsev, O.O.Jachmenjov, 
+#+          K.K.Kisurin, S.E.Omelchuk, B.A.Rudenko, L.I.Slyusarenko, 
+#+          B.G.Struzhko, I.I.Vertegel
+#REF-CODE   (J,EPJ/A,61,204,2025)
+#REFERENCE  Eur.Phys.J.A 61 (2025) 204 (doi:10.1140/epja/s10050-025-01683-6)
+#DATASETS   0
+#
+#DATASET    D5211002 
+#DATE       20260120
+#REACTION   1-H-3(A,EL)1-H-3,,DA
+#PROJ       2004
+#TARG       1003
+#MF         4
+#MT         2
+#PRODUCT    1-H-3
+#C4BEGIN    [ 2004  1003   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  1003   4   2 AC 8.4200+7          0.174240 0.026136 0.908508                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          0.038448 5.7670-3 0.815128                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          0.043704 6.5560-3 0.802817                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          0.043056 6.4580-3 0.692143                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          0.042336 6.3500-3 0.661312                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          0.021168 3.1750-3 0.560639                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          0.011563 1.7350-3 0.506034                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          6.6960-3 1.0040-3 0.446198                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          6.1780-3 9.2700-4 0.390731                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          5.3860-3 8.0800-4 0.282341                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          4.9390-3 7.4100-4 0.180519                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          4.3920-3 6.5900-4 0.111469                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          4.2770-3 6.4200-4 0.059306                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          2.8510-3 4.2800-4 6.9813-3                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          2.3900-3 3.5900-4-0.061049                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          1.8290-3 2.7400-4-0.166769                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          1.6850-3 2.5300-4-0.235142                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          2.5200-3 3.7800-4-0.337095                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          3.4560-3 5.1800-4-0.400349                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          5.1840-3 7.7800-4-0.496974                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          5.3570-3 8.0400-4-0.551937                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          5.5870-3 8.3800-4-0.640110                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          5.0830-3 7.6200-4-0.784776                              S.Yu.Mezhevych+      (25)D5211  2 
+ 2004  1003   4   2 AC 8.4200+7          4.6510-3 6.9800-4-0.862514                              S.Yu.Mezhevych+      (25)D5211  2 
+#/DATA      24
+#/DATASET

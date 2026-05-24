@@ -1,0 +1,44 @@
+#ENTRY      40948
+#AUTHOR1    P.E.Vorotnikov+
+#YEAR       1986
+#INSTITUTE  (4RUSKUR)
+#TITLE      Intermediate structure of the cross section for fission
+#+          of 241Am by neutrons with energies 0.08-1.3 MeV
+#AUTHOR(S)  P.E.Vorotnikov, S.V.Dmitriev, Yu.D.Molchanov, G.A.Otroshchenko
+#REF-CODE   (J,SNP,44,912,1986)
+#REFERENCE  Sov.J.Nucl.Phys. 44 (1986) 912
+#DATASETS   0
+#
+#DATASET    40948003 
+#DATE       20250313
+#REACTION   95-AM-241(N,F),,SIG
+#PROJ       1
+#TARG       95241
+#MF         3
+#MT         18
+#C4BEGIN    [    1 95241   3  18 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95241   3  18 C  130000.0 17000.00 0.022000 2.0000-3                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  165000.0 17000.00 0.024000 2.0000-3                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  190000.0 17000.00 0.028000 2.0000-3                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  215000.0 17000.00 0.029000 2.0000-3                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  235000.0 17000.00 0.029000 2.0000-3                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  280000.0 17000.00 0.038000 2.0000-3                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  335000.0 17000.00 0.039000 2.0000-3                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  380000.0 17000.00 0.055000 3.0000-3                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  430000.0 17000.00 0.065000 4.0000-3                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  470000.0 17000.00 0.078000 4.0000-3                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  560000.0 17000.00 0.123000 6.0000-3                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  610000.0 17000.00 0.178000 7.0000-3                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  660000.0 17000.00 0.248000 0.010000                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  710000.0 17000.00 0.395000 0.013000                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  810000.0 17000.00 0.618000 0.018000                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  860000.0 17000.00 0.730000 0.020000                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  910000.0 17000.00 0.890000 0.027000                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  920000.0 17000.00 0.920000 0.027000                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  960000.0 17000.00 1.080000 0.028000                                       P.E.Vorotnikov+      (86)40948  3 
+    1 95241   3  18 C  1060000. 17000.00 1.510000 0.047000                                       P.E.Vorotnikov+      (86)40948  3 
+#/DATA      20
+#/DATASET

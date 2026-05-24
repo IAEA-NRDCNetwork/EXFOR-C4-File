@@ -1,0 +1,40 @@
+#ENTRY      D0132
+#AUTHOR1    R.Wolski+
+#YEAR       1999
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Cluster structure of 6He studied by means of 6He+p
+#+          reaction at 25 MeV/n energy
+#AUTHOR(S)  R.Wolski, A.S.Fomichev, A.M.Rodin, S.I.Sidorchuk, S.V.Stepantsov, 
+#+          G.M.Ter-Akopian, M.L.Chelnokov, V.A.Gorshkov, A.Yu.Lavrentev, 
+#+          Yu.Ts.Oganessian, P.Roussel-Chomaz, W.Mittig, I.David
+#REF-CODE   (J,PL/B,467,8,1999)
+#REFERENCE  Phys.Lett.B 467 (1999) 8 (doi:10.1016/S0370-2693(99)01079-5)
+#DATASETS   0
+#
+#DATASET    D0132002 
+#DATE       20120201
+#REACTION   1-H-1(2-HE-6,EL)1-H-1,,DA
+#PROJ       2006
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 2006  1001   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006  1001   4   2 AC 1.5400+8 3850000. 0.031146 6.0000-3 0.604599 0.069510                     R.Wolski+            (99)D0132  2 
+ 2006  1001   4   2 AC 1.5400+8 3850000. 0.014007 3.0000-3 0.538771 0.073518                     R.Wolski+            (99)D0132  2 
+ 2006  1001   4   2 AC 1.5400+8 3850000. 6.1280-3 1.0000-3 0.464842 0.077265                     R.Wolski+            (99)D0132  2 
+ 2006  1001   4   2 AC 1.5400+8 3850000. 3.7880-3 1.0000-3 0.384295 0.080565                     R.Wolski+            (99)D0132  2 
+ 2006  1001   4   2 AC 1.5400+8 3850000. 2.3088-3 6.0000-4 0.309017 0.082995                     R.Wolski+            (99)D0132  2 
+ 2006  1001   4   2 AC 1.5400+8 3850000. 1.9079-3 4.0000-4 0.219846 0.085131                     R.Wolski+            (99)D0132  2 
+ 2006  1001   4   2 AC 1.5400+8 3850000. 1.3919-3 3.0000-4 0.137445 0.086438                     R.Wolski+            (99)D0132  2 
+ 2006  1001   4   2 AC 1.5400+8 3850000. 1.3958-3 2.0000-4 0.045363 0.087177                     R.Wolski+            (99)D0132  2 
+ 2006  1001   4   2 AC 1.5400+8 3850000. 1.4016-3 2.0000-4-0.090633 0.086907                     R.Wolski+            (99)D0132  2 
+ 2006  1001   4   2 AC 1.5400+8 3850000. 1.4283-3 2.0000-4-0.253758 0.084410                     R.Wolski+            (99)D0132  2 
+ 2006  1001   4   2 AC 1.5400+8 3850000. 1.0164-3 3.0000-4-0.419452 0.079219                     R.Wolski+            (99)D0132  2 
+ 2006  1001   4   2 AC 1.5400+8 3850000. 8.3051-4 4.0000-4-0.572146 0.071572                     R.Wolski+            (99)D0132  2 
+ 2006  1001   4   2 AC 1.5400+8 3850000. 6.1604-4 4.0000-4-0.707107 0.061707                     R.Wolski+            (99)D0132  2 
+#/DATA      13
+#/DATASET

@@ -1,0 +1,40 @@
+#ENTRY      10719
+#AUTHOR1    R.W.Harper+
+#YEAR       1984
+#INSTITUTE  (1USAKTY)
+#TITLE      Interaction of neutrons with even-A tin isotopes:
+#+          Neutron-excess dependence in scattering as E(n) =
+#+          1.00 and 1.63 MeV.
+#AUTHOR(S)  R.W.Harper, J.L.Weil, J.D.Brandenberger
+#REF-CODE   (J,PR/C,30,1454,1984)
+#REFERENCE  Phys.Rev.C 30 (1984) 1454 (doi:10.1103/PhysRevC.30.1454)
+#DATASETS   0
+#
+#DATASET    10719002 
+#DATE       20240213
+#REACTION   50-SN-116(N,EL)50-SN-116,,DA
+#PROJ       1
+#TARG       50116
+#MF         4
+#MT         2
+#PRODUCT    50-SN-116
+#C4BEGIN    [    1 50116   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 50116   4   2  C 1000000. 118000.0 1.457200          0.850811                              R.W.Harper+          (84)10719  2 
+    1 50116   4   2  C 1000000. 118000.0 1.309200          0.747798                              R.W.Harper+          (84)10719  2 
+    1 50116   4   2  C 1000000. 118000.0 0.881600          0.621148                              R.W.Harper+          (84)10719  2 
+    1 50116   4   2  C 1000000. 118000.0 0.713100          0.466387                              R.W.Harper+          (84)10719  2 
+    1 50116   4   2  C 1000000. 118000.0 0.451700          0.302370                              R.W.Harper+          (84)10719  2 
+    1 50116   4   2  C 1000000. 118000.0 0.346800          0.130526                              R.W.Harper+          (84)10719  2 
+    1 50116   4   2  C 1000000. 118000.0 0.231500         -0.040132                              R.W.Harper+          (84)10719  2 
+    1 50116   4   2  C 1000000. 118000.0 0.187300         -0.201078                              R.W.Harper+          (84)10719  2 
+    1 50116   4   2  C 1000000. 118000.0 0.130600         -0.372988                              R.W.Harper+          (84)10719  2 
+    1 50116   4   2  C 1000000. 118000.0 0.132600         -0.522499                              R.W.Harper+          (84)10719  2 
+    1 50116   4   2  C 1000000. 118000.0 0.159000         -0.661312                              R.W.Harper+          (84)10719  2 
+    1 50116   4   2  C 1000000. 118000.0 0.230900         -0.783693                              R.W.Harper+          (84)10719  2 
+    1 50116   4   2  C 1000000. 118000.0 0.289300         -0.851727                              R.W.Harper+          (84)10719  2 
+    1 50116   4   2  C 1000000. 118000.0 0.341000         -0.905569                              R.W.Harper+          (84)10719  2 
+#/DATA      14
+#/DATASET

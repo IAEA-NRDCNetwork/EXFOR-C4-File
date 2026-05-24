@@ -1,0 +1,32 @@
+#ENTRY      33096
+#AUTHOR1    V.Vansola+
+#YEAR       2015
+#INSTITUTE  (3INDBDA)
+#TITLE      Measurement of 197Au(n,g)198gAu reaction
+#+          cross-section at the neutron energies of 1.12, 2.12,
+#+          3.12 and 4.12 MeV
+#AUTHOR(S)  V.Vansola, R.Ghosh, S.Badwar, B.M.Lawriniang, A.Gopalakrishna, 
+#+          H.Naik, Y.Naik, N.S.Tawade, S.C.Sharma, J.P.Bhatt, S.K.Gupta, 
+#+          S.Sarode, S.Mukherjee, N.L.Singh, P.Singh, A.Goswami
+#REF-CODE   (J,RCA,103,817,2015)
+#REFERENCE  Radiochim.Acta 103 (2015) 817 (doi:10.1515/ract-2015-2431)
+#DATASETS   0
+#
+#DATASET    33096002 
+#DATE       20170306
+#REACTION   79-AU-197(N,G)79-AU-198,,SIG
+#PROJ       1
+#TARG       79197
+#MF         3
+#MT         102
+#PRODUCT    79-AU-198
+#C4BEGIN    [    1 79197   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   3 102    1120000. 120000.0 0.060441 3.4030-3                                       V.Vansola+           (15)33096  2 
+    1 79197   3 102    2120000. 150000.0 0.040588 3.0630-3                                       V.Vansola+           (15)33096  2 
+    1 79197   3 102    3120000. 210000.0 0.019771 2.6730-3                                       V.Vansola+           (15)33096  2 
+    1 79197   3 102    4120000. 320000.0 0.013944 1.6110-3                                       V.Vansola+           (15)33096  2 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      32635
+#AUTHOR1    Wang Yusheng+
+#YEAR       1980
+#INSTITUTE  (3CPRAEP)
+#TITLE      The measurement of cumulative fission yield of U-235
+#+          induced by thermo- and  fission spectrum neutrons by
+#+          using Ge(Li) detector
+#AUTHOR(S)  Wang Yusheng, Tang Funan, Zhou Ling, Tang Peijia, Kang Jingxiu
+#REF-CODE   (J,HFH,2,(3),129,198008)
+#REFERENCE  He Huax.Fang.Huaxue 2 No.3 (1980) 129
+#DATASETS   0
+#
+#DATASET    32635003 
+#DATE       20100219
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025300          0.063700 2.2000-3 40.00000 95.00000 9.000000            Wang Yusheng+        (80)32635  3 
+    1 92235   8 459    0.025300          0.030800 1.9000-3 44.00000 103.0000 9.000000            Wang Yusheng+        (80)32635  3 
+    1 92235   8 459    0.025300          0.031800 2.0000-3 53.00000 131.0000 9.000000            Wang Yusheng+        (80)32635  3 
+    1 92235   8 459    0.025300          0.035500 3.0000-3 53.00000 132.0000 9.000000            Wang Yusheng+        (80)32635  3 
+    1 92235   8 459    0.025300          0.062000 3.9000-3 56.00000 140.0000 9.000000            Wang Yusheng+        (80)32635  3 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      D6384
+#AUTHOR1    A.Mahato+
+#YEAR       2020
+#INSTITUTE  (3INDMUA)
+#TITLE      Probing of incomplete fusion dynamics in 14N + 124Sn
+#+          system and its correlation with various entrance
+#+          channel effects
+#AUTHOR(S)  A.Mahato, D.Singh, P.K.Giri, S.B.Linda, H.Kumar, S.A.Tali, 
+#+          M.A.Ansari, R.Kumar, S.Muralithar, R.P.Singh
+#REF-CODE   (J,EPJ/A,56,131,2020)
+#REFERENCE  Eur.Phys.J.A 56 (2020) 131 (doi:10.1140/epja/s10050-020-00126-8)
+#DATASETS   0
+#
+#DATASET    D6384008 
+#DATE       20210512
+#REACTION   50-SN-124(7-N-14,X)55-CS-130,,SIG
+#PROJ       7014
+#TARG       50124
+#MF         3
+#MT         454
+#PRODUCT    55-CS-130
+#C4BEGIN    [ 7014 50124   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014 50124   3 454    6.5670+7 500000.0 0.011620 3.6000-3           55130.9                     A.Mahato+            (20)D6384  8 
+ 7014 50124   3 454    7.0130+7 520000.0 0.046540 0.010240           55130.9                     A.Mahato+            (20)D6384  8 
+ 7014 50124   3 454    7.4410+7 550000.0 0.067740 8.9600-3           55130.9                     A.Mahato+            (20)D6384  8 
+ 7014 50124   3 454    7.8290+7 580000.0 0.098610 9.4400-3           55130.9                     A.Mahato+            (20)D6384  8 
+ 7014 50124   3 454    8.1440+7 600000.0 0.111150 0.014580           55130.9                     A.Mahato+            (20)D6384  8 
+ 7014 50124   3 454    8.4850+7 650000.0 0.100740 0.017930           55130.9                     A.Mahato+            (20)D6384  8 
+#/DATA      6
+#/DATASET

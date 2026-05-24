@@ -1,0 +1,28 @@
+#ENTRY      C3063
+#AUTHOR1    T.Beck+
+#YEAR       2023
+#INSTITUTE  (1USAMSU)
+#TITLE      Probing proton cross-shell excitations through the
+#+          two-neutron removal from 38Ca
+#AUTHOR(S)  T.Beck, A.Gade, B.A.Brown, J.A.Tostevin, D.Weisshaar, D.Bazin, 
+#+          K.W.Brown, R.J.Charity, P.J.Farris, S.A.Gillespie, A.M.Hill, 
+#+          J.Li, B.Longfellow, W.Reviol, D.Rhodes
+#REF-CODE   (J,PR/C,108,L061301,2023)
+#REFERENCE  Phys.Rev.C 108 (2023) L061301 (doi:10.1103/PhysRevC.108.L061301)
+#DATASETS   0
+#
+#DATASET    C3063004 
+#DATE       20250506
+#REACTION   4-BE-9(20-CA-38,X)20-CA-36,,SIG
+#PROJ       20038
+#TARG       4009
+#MF         3
+#MT         454
+#PRODUCT    20-CA-36
+#C4BEGIN    [20038  4009   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+20038  4009   3 454    2.3142+9          4.0800-4 9.0000-6           20036.9                     T.Beck+              (23)C3063  4 
+#/DATA      1
+#/DATASET

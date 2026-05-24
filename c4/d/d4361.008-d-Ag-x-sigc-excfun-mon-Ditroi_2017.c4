@@ -1,0 +1,32 @@
+#ENTRY      D4361
+#AUTHOR1    F.Ditroi+
+#YEAR       2017
+#INSTITUTE  (3HUNDEB)
+#TITLE      Activation cross sections of deuteron induced reactions
+#+          on silver in the 33-50 MeV energy range
+#AUTHOR(S)  F.Ditroi, F.Tarkanyi, S.Takacs, A.Hermanne, A.V.Ignatyuk
+#REF-CODE   (J,ARI,120,60,2017)
+#REFERENCE  Appl.Radiat.Isot. 120 (2017) 60 (doi:10.1016/j.apradiso.2016.11.018)
+#DATASETS   0
+#
+#DATASET    D4361008 
+#DATE       20170411
+#REACTION   47-AG-0(D,X)47-AG-104,(CUM),SIG
+#PROJ       1002
+#TARG       47000
+#MF         3
+#MT         459
+#PRODUCT    47-AG-104
+#C4BEGIN    [ 1002 47000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 47000   3 459    4.8800+7 300000.0 0.137900 0.015600           47104.9                     F.Ditroi+            (17)D4361  8 
+ 1002 47000   3 459    4.7300+7 300000.0 0.101200 0.011500           47104.9                     F.Ditroi+            (17)D4361  8 
+ 1002 47000   3 459    4.5700+7 400000.0 0.066900 7.7000-3           47104.9                     F.Ditroi+            (17)D4361  8 
+ 1002 47000   3 459    4.4100+7 500000.0 0.035800 4.2000-3           47104.9                     F.Ditroi+            (17)D4361  8 
+ 1002 47000   3 459    4.2400+7 500000.0 0.019100 2.4000-3           47104.9                     F.Ditroi+            (17)D4361  8 
+ 1002 47000   3 459    4.0700+7 600000.0 5.2000-3 1.3000-3           47104.9                     F.Ditroi+            (17)D4361  8 
+ 1002 47000   3 459    3.8900+7 600000.0 3.0000-3 1.0000-3           47104.9                     F.Ditroi+            (17)D4361  8 
+#/DATA      7
+#/DATASET

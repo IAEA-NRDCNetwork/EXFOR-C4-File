@@ -1,0 +1,31 @@
+#ENTRY      30785
+#AUTHOR1    Li Wenxin+
+#YEAR       1987
+#INSTITUTE  (3CPRIMP)
+#TITLE      Charge distribution in the 14.7 MeV neutron induced
+#+          fission of Th-232: Independent yields of isotopes of
+#+          Rh, Ag, in and Sb.
+#AUTHOR(S)  Li Wenxin, Sun Tongyu, Sun Xiuhua, Fu Ming, Dong Tianrong, 
+#+          Zheng Manjiao
+#REF-CODE   (J,PHE,11,376,198705)
+#REFERENCE  High En.Nucl.Phy.Ch. 11 (1987) 376
+#DATASETS   0
+#
+#DATASET    30785003 
+#DATE       20090909
+#REACTION   90-TH-232(N,F)ELEM/MASS,IND,FY
+#PROJ       1
+#TARG       90232
+#MF         8
+#MT         454
+#C4BEGIN    [    1 90232   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   8 454    1.4700+7 300000.0 1.5000-6 7.0000-7 45.00000 106.0000 1.000000            Li Wenxin+           (87)30785  3 
+    1 90232   8 454    1.4700+7 300000.0 6.2000-5 2.1000-5 47.00000 112.0000 9.000000            Li Wenxin+           (87)30785  3 
+    1 90232   8 454    1.4700+7 300000.0 8.3000-5 3.3000-5 49.00000 116.0000 1.000000            Li Wenxin+           (87)30785  3 
+    1 90232   8 454    1.4700+7 300000.0 3.2000-4 6.0000-5 51.00000 126.0000 0.000000            Li Wenxin+           (87)30785  3 
+    1 90232   8 454    1.4700+7 300000.0 3.4000-3 2.0000-4 51.00000 128.0000 0.000000            Li Wenxin+           (87)30785  3 
+#/DATA      5
+#/DATASET

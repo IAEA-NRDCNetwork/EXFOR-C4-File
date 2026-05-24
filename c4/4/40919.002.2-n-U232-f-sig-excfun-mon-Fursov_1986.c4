@@ -1,0 +1,32 @@
+#ENTRY      40919
+#AUTHOR1    B.I.Fursov+
+#YEAR       1986
+#INSTITUTE  (4RUSFEI)
+#TITLE      Measurement of the fission cross section of 232U for
+#+          neutron energies in the range 0.06 - 7.40  MeV
+#AUTHOR(S)  B.I.Fursov, E.Yu.Baranov, M.P.Klemyshev, B.F.Samylin, G.N.Smirenkin, 
+#+          Yu.M.Turchin
+#REF-CODE   (J,AE,61,383,1986)
+#REFERENCE  At.En. 61 (1986) 383
+#DATASETS   0
+#
+#DATASET    409190022
+#DATE       20201010
+#REACTION   92-U-232(N,F),,SIG
+#PROJ       1
+#TARG       92232
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92232   3  18    60000.00 30000.00 1.515000                                                B.I.Fursov+          (86)40919  22
+    1 92232   3  18    175000.0 30000.00 1.406000                                                B.I.Fursov+          (86)40919  22
+    1 92232   3  18    400000.0 36000.00 1.381000                                                B.I.Fursov+          (86)40919  22
+    1 92232   3  18    1300000. 31000.00 2.083000                                                B.I.Fursov+          (86)40919  22
+    1 92232   3  18    1500000. 32000.00 2.280000                                                B.I.Fursov+          (86)40919  22
+    1 92232   3  18    2000000. 70000.00 2.349000                                                B.I.Fursov+          (86)40919  22
+    1 92232   3  18    1.4700+7 280000.0 2.795000                                                B.I.Fursov+          (86)40919  22
+#/DATA      7
+#/DATASET

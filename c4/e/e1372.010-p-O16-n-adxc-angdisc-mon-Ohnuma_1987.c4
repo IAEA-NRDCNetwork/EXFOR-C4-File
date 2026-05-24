@@ -1,0 +1,42 @@
+#ENTRY      E1372
+#AUTHOR1    H.Ohnuma+
+#YEAR       1987
+#INSTITUTE  (2JPNTIT)
+#TITLE      12C(p,n)12N and 16O(p,n)16F reactions at Ep = 35 and
+#+          40 MeV: Reliability of the information obtained from
+#+          DWBA analysis of low-energy (p,n) data
+#AUTHOR(S)  H.Ohnuma, M.Kabasawa, K.Furukawa, T.Kawamura, Y.Takahashi, 
+#+          A.Satoh, T.Nakagawa, K.Maeda, K.Miura, T.Niizeki, H.Orihara
+#REF-CODE   (J,NP/A,467,61,1987)
+#REFERENCE  Nucl.Phys.A 467 (1987) 61 (doi:10.1016/0375-9474(87)90328-9)
+#DATASETS   0
+#
+#DATASET    E1372010 
+#DATE       20240809
+#REACTION   8-O-16(P,N)9-F-16,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    9-F-16
+#C4BEGIN    [ 1001  8016   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4  50  C 3.5000+7          4.3530-4          0.999937          420000.0         LVLH.Ohnuma+            (87)E1372 10 
+ 1001  8016   4  50  C 3.5000+7          5.6830-4          0.977342          420000.0         LVLH.Ohnuma+            (87)E1372 10 
+ 1001  8016   4  50  C 3.5000+7          7.8060-4          0.925673          420000.0         LVLH.Ohnuma+            (87)E1372 10 
+ 1001  8016   4  50  C 3.5000+7          8.8120-4          0.837909          420000.0         LVLH.Ohnuma+            (87)E1372 10 
+ 1001  8016   4  50  C 3.5000+7          8.7890-4          0.693402          420000.0         LVLH.Ohnuma+            (87)E1372 10 
+ 1001  8016   4  50  C 3.5000+7          6.4970-4          0.568993          420000.0         LVLH.Ohnuma+            (87)E1372 10 
+ 1001  8016   4  50  C 3.5000+7          5.3140-4          0.428304          420000.0         LVLH.Ohnuma+            (87)E1372 10 
+ 1001  8016   4  50  C 3.5000+7          3.0010-4          0.235990          420000.0         LVLH.Ohnuma+            (87)E1372 10 
+ 1001  8016   4  50  C 3.5000+7          1.2360-4          0.036120          420000.0         LVLH.Ohnuma+            (87)E1372 10 
+ 1001  8016   4  50  C 3.5000+7          1.1800-4         -0.097757          420000.0         LVLH.Ohnuma+            (87)E1372 10 
+ 1001  8016   4  50  C 3.5000+7          1.0150-4         -0.313992          420000.0         LVLH.Ohnuma+            (87)E1372 10 
+ 1001  8016   4  50  C 3.5000+7          1.1170-4         -0.471012          420000.0         LVLH.Ohnuma+            (87)E1372 10 
+ 1001  8016   4  50  C 3.5000+7          1.2540-4         -0.594823          420000.0         LVLH.Ohnuma+            (87)E1372 10 
+ 1001  8016   4  50  C 3.5000+7          1.1420-4         -0.724172          420000.0         LVLH.Ohnuma+            (87)E1372 10 
+ 1001  8016   4  50  C 3.5000+7          8.9340-5         -0.826098          420000.0         LVLH.Ohnuma+            (87)E1372 10 
+#/DATA      15
+#/DATASET

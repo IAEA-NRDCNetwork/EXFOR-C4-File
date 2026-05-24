@@ -1,0 +1,39 @@
+#ENTRY      D0968
+#AUTHOR1    O.Lebeda+
+#YEAR       2019
+#INSTITUTE  (3CZRUJF)
+#TITLE      Measurement of deuteron-induced nuclear reactions
+#+          cross-sections on 197Au and on natCu focused on the
+#+          theranostic 197m,gHg
+#AUTHOR(S)  O.Lebeda, J.Cervenak
+#REF-CODE   (J,NIM/B,461,105,2019)
+#REFERENCE  Nucl.Instrum.Meth.B 461 (2019) 105 (doi:10.1016/j.nimb.2019.09.034)
+#DATASETS   0
+#
+#DATASET    D0968010 
+#DATE       20200603
+#REACTION   79-AU-197(D,2N)80-HG-197-G,,SIG
+#PROJ       1002
+#TARG       79197
+#MF         3
+#MT         16
+#PRODUCT    80-HG-197-G
+#C4BEGIN    [ 1002 79197   3  16GA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 79197   3  16GA  1.9730+7 200000.0 0.104900 9.5000-3                                       O.Lebeda+            (19)D0968 10 
+ 1002 79197   3  16GA  1.8800+7 200000.0 0.122000 0.011000                                       O.Lebeda+            (19)D0968 10 
+ 1002 79197   3  16GA  1.7830+7 200000.0 0.144000 0.014000                                       O.Lebeda+            (19)D0968 10 
+ 1002 79197   3  16GA  1.6830+7 200000.0 0.177000 0.017000                                       O.Lebeda+            (19)D0968 10 
+ 1002 79197   3  16GA  1.5760+7 200000.0 0.227000 0.021000                                       O.Lebeda+            (19)D0968 10 
+ 1002 79197   3  16GA  1.4940+7 200000.0 0.255000 0.024000                                       O.Lebeda+            (19)D0968 10 
+ 1002 79197   3  16GA  1.4130+7 200000.0 0.305000 0.028000                                       O.Lebeda+            (19)D0968 10 
+ 1002 79197   3  16GA  1.3290+7 200000.0 0.334000 0.030000                                       O.Lebeda+            (19)D0968 10 
+ 1002 79197   3  16GA  1.2410+7 200000.0 0.328000 0.028000                                       O.Lebeda+            (19)D0968 10 
+ 1002 79197   3  16GA  1.1480+7 200000.0 0.274000 0.023000                                       O.Lebeda+            (19)D0968 10 
+ 1002 79197   3  16GA  1.0490+7 200000.0 0.188000 0.016000                                       O.Lebeda+            (19)D0968 10 
+ 1002 79197   3  16GA  9430000. 200000.0 0.095300 7.8000-3                                       O.Lebeda+            (19)D0968 10 
+ 1002 79197   3  16GA  8300000. 200000.0 0.030400 2.7000-3                                       O.Lebeda+            (19)D0968 10 
+#/DATA      13
+#/DATASET

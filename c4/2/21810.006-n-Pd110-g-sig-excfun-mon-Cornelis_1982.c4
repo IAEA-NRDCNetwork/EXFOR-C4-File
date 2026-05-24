@@ -1,0 +1,43 @@
+#ENTRY      21810
+#AUTHOR1    E.Cornelis+
+#YEAR       1982
+#INSTITUTE  (2ZZZGEL)
+#TITLE      -AVERAGE CAPTURE CROSS SECTION OF THE FISSION
+#+          PRODUCT NUCLEI PD-104 PD-105 PD-106 PD-108
+#+          PD-110.
+#AUTHOR(S)  E.Cornelis, G.J.Vanpraet, C.Bastian, G.Rohr, R.Shelley, 
+#+          T.Van Der Veen
+#REF-CODE   (C,82ANTWER,,222,8209)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Antwerp 1982 page 222
+#DATASETS   0
+#
+#DATASET    21810006 
+#DATE       19860807
+#REACTION   46-PD-110(N,G)46-PD-111,,SIG,,AV
+#PROJ       1
+#TARG       46110
+#MF         3
+#MT         102
+#PRODUCT    46-PD-111
+#C4BEGIN    [    1 46110   3 102 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 46110   3 102 P  3500.000 500.0000 0.416000 0.041600                                       E.Cornelis+          (82)21810  6 
+    1 46110   3 102 P  4500.000 500.0000 0.504000 0.050400                                       E.Cornelis+          (82)21810  6 
+    1 46110   3 102 P  5500.000 500.0000 0.292000 0.029200                                       E.Cornelis+          (82)21810  6 
+    1 46110   3 102 P  7000.000 1000.000 0.310000 0.031000                                       E.Cornelis+          (82)21810  6 
+    1 46110   3 102 P  9000.000 1000.000 0.395000 0.039500                                       E.Cornelis+          (82)21810  6 
+    1 46110   3 102 P  12500.00 2500.000 0.219000 0.021900                                       E.Cornelis+          (82)21810  6 
+    1 46110   3 102 P  17500.00 2500.000 0.198000 0.019800                                       E.Cornelis+          (82)21810  6 
+    1 46110   3 102 P  25000.00 5000.000 0.142000 0.014200                                       E.Cornelis+          (82)21810  6 
+    1 46110   3 102 P  35000.00 5000.000 0.111000 0.011100                                       E.Cornelis+          (82)21810  6 
+    1 46110   3 102 P  45000.00 5000.000 0.101000 0.010100                                       E.Cornelis+          (82)21810  6 
+    1 46110   3 102 P  55000.00 5000.000 0.090000 9.0000-3                                       E.Cornelis+          (82)21810  6 
+    1 46110   3 102 P  70000.00 10000.00 0.067000 6.7000-3                                       E.Cornelis+          (82)21810  6 
+    1 46110   3 102 P  90000.00 10000.00 0.065000 6.5000-3                                       E.Cornelis+          (82)21810  6 
+    1 46110   3 102 P  125000.0 25000.00 0.062000 6.2000-3                                       E.Cornelis+          (82)21810  6 
+    1 46110   3 102 P  175000.0 25000.00 0.057000 5.7000-3                                       E.Cornelis+          (82)21810  6 
+    1 46110   3 102 P  250000.0 50000.00 0.057000 5.7000-3                                       E.Cornelis+          (82)21810  6 
+#/DATA      16
+#/DATASET

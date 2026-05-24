@@ -1,0 +1,31 @@
+#ENTRY      E1662
+#AUTHOR1    I.Nishinaka+
+#YEAR       1997
+#INSTITUTE  (2JPNJAE)
+#TITLE      Nuclear fission of neutron-deficient protactinium
+#+          nuclides
+#AUTHOR(S)  I.Nishinaka, Y.Nagame, K.Tsukada, H.Ikezoe, K.Sueki, H.Nakahara, 
+#+          M.Tanikawa, T.Ohtsuki
+#REF-CODE   (J,PR/C,56,(2),891,199708)
+#REFERENCE  Phys.Rev.C 56 No.2 (1997) 891 (doi:10.1103/PhysRevC.56.891)
+#DATASETS   0
+#
+#DATASET    E1662019 
+#DATE       20040311
+#REACTION   83-BI-209(8-O-18,F)ELEM/MASS,CUM,SIG
+#PROJ       8018
+#TARG       83209
+#MF         3
+#MT         459
+#C4BEGIN    [ 8018 83209   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8018 83209   3 459    8.4000+7          2.8500-3 1.3000-4           38091.9                     I.Nishinaka+         (97)E1662 19 
+ 8018 83209   3 459    8.4000+7          3.5800-3 1.6000-4           40095.9                     I.Nishinaka+         (97)E1662 19 
+ 8018 83209   3 459    8.4000+7          4.2000-3 9.0000-5           42099.9                     I.Nishinaka+         (97)E1662 19 
+ 8018 83209   3 459    8.4000+7          5.3900-3 1.0000-4           44103.9                     I.Nishinaka+         (97)E1662 19 
+ 8018 83209   3 459    8.4000+7          6.3800-3 5.9000-4           44105.9                     I.Nishinaka+         (97)E1662 19 
+ 8018 83209   3 459    8.4000+7          6.3300-3 8.8000-4           47111.9                     I.Nishinaka+         (97)E1662 19 
+#/DATA      6
+#/DATASET

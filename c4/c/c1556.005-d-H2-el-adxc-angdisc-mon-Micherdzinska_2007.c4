@@ -1,0 +1,41 @@
+#ENTRY      C1556
+#AUTHOR1    A.M.Micherdzinska+
+#YEAR       2007
+#INSTITUTE  (1USAINU)
+#TITLE      Deuteron-deuteron elastic scattering at 231.8 MeV
+#AUTHOR(S)  A.M.Micherdzinska, P.V.Pancella, E.J.Stephenson, A.D.Bacher, 
+#+          C.E.Allgower, A.C.Fonseca, C.M.Lavelle, H.Nann, J.Olmsted, 
+#+          M.A.Pickar, A.Smith
+#REF-CODE   (J,PR/C,75,054001,2007)
+#REFERENCE  Phys.Rev.C 75 (2007) 054001 (doi:10.1103/PhysRevC.75.054001)
+#DATASETS   0
+#
+#DATASET    C1556005 
+#DATE       20070607
+#REACTION   1-H-2(D,EL)1-H-2,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1002  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4   2  C 2.3180+8          6.3639-3 3.8000-5 0.930418                              A.M.Micherdzinska+   (07)C1556  5 
+ 1002  1002   4   2  C 2.3180+8          4.6090-3 3.1700-5 0.909961                              A.M.Micherdzinska+   (07)C1556  5 
+ 1002  1002   4   2  C 2.3180+8          2.8281-3 2.2600-5 0.887011                              A.M.Micherdzinska+   (07)C1556  5 
+ 1002  1002   4   2  C 2.3180+8          1.7066-3 1.6200-5 0.861629                              A.M.Micherdzinska+   (07)C1556  5 
+ 1002  1002   4   2  C 2.3180+8          1.0502-3 1.3100-5 0.833886                              A.M.Micherdzinska+   (07)C1556  5 
+ 1002  1002   4   2  C 2.3180+8          7.5440-4 1.0700-5 0.803857                              A.M.Micherdzinska+   (07)C1556  5 
+ 1002  1002   4   2  C 2.3180+8          5.3850-4 8.8000-6 0.771625                              A.M.Micherdzinska+   (07)C1556  5 
+ 1002  1002   4   2  C 2.3180+8          3.9110-4 6.7000-6 0.734915                              A.M.Micherdzinska+   (07)C1556  5 
+ 1002  1002   4   2  C 2.3180+8          2.8160-4 5.4000-6 0.688355                              A.M.Micherdzinska+   (07)C1556  5 
+ 1002  1002   4   2  C 2.3180+8          1.8410-4 4.6000-6 0.633381                              A.M.Micherdzinska+   (07)C1556  5 
+ 1002  1002   4   2  C 2.3180+8          1.4620-4 4.6000-6 0.566406                              A.M.Micherdzinska+   (07)C1556  5 
+ 1002  1002   4   2  C 2.3180+8          9.6100-5 3.8000-6 0.484810                              A.M.Micherdzinska+   (07)C1556  5 
+ 1002  1002   4   2  C 2.3180+8          6.0100-5 3.2000-6 0.382683                              A.M.Micherdzinska+   (07)C1556  5 
+ 1002  1002   4   2  C 2.3180+8          4.2400-5 2.5000-6 0.258819                              A.M.Micherdzinska+   (07)C1556  5 
+ 1002  1002   4   2  C 2.3180+8          2.6400-5 2.5000-6 0.104528                              A.M.Micherdzinska+   (07)C1556  5 
+#/DATA      15
+#/DATASET

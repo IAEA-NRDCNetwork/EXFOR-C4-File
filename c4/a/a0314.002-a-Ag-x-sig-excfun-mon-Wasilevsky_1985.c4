@@ -1,0 +1,40 @@
+#ENTRY      A0314
+#AUTHOR1    C.Wasilevsky+
+#YEAR       1985
+#INSTITUTE  (3ARGCNE)
+#TITLE      Isomer yield ratios and cross sections for
+#+          In-110(4.9hr)/In-110(69min),
+#+          In-108(58min)/In-108(39.6min) produced by
+#+          alpha reactions on silver
+#AUTHOR(S)  C.Wasilevsky, M.de la Vega Vedoya, S.J.Nassiff
+#REF-CODE   (J,JRN/L,95,(1),29,1985)
+#REFERENCE  J.Rad.Nucl.Chem.Lett 95 No.1 (1985) 29 (doi:10.1007/BF02166241)
+#DATASETS   0
+#
+#DATASET    A0314002 
+#DATE       20160124
+#REACTION   47-AG-0(A,X)49-IN-110-G,,SIG,,DAM
+#PROJ       2004
+#TARG       47000
+#MF         3
+#MT         454
+#PRODUCT    49-IN-110-G
+#C4BEGIN    [ 2004 47000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 47000   3 454    2.0900+7 1000000. 0.050925 7.7946-3           49110.0                     C.Wasilevsky+        (85)A0314  2 
+ 2004 47000   3 454    2.4300+7 1000000. 0.086640 0.011617           49110.0                     C.Wasilevsky+        (85)A0314  2 
+ 2004 47000   3 454    2.7400+7 1000000. 0.058163 8.2649-3           49110.0                     C.Wasilevsky+        (85)A0314  2 
+ 2004 47000   3 454    3.0300+7 1000000. 0.026999 4.2392-3           49110.0                     C.Wasilevsky+        (85)A0314  2 
+ 2004 47000   3 454    3.3000+7 1000000. 0.073911 9.8548-3           49110.0                     C.Wasilevsky+        (85)A0314  2 
+ 2004 47000   3 454    3.5500+7 1000000. 0.166117 0.022264           49110.0                     C.Wasilevsky+        (85)A0314  2 
+ 2004 47000   3 454    3.7900+7 1000000. 0.243135 0.032209           49110.0                     C.Wasilevsky+        (85)A0314  2 
+ 2004 47000   3 454    4.0200+7 1000000. 0.285419 0.037722           49110.0                     C.Wasilevsky+        (85)A0314  2 
+ 2004 47000   3 454    4.2600+7 1000000. 0.269671 0.035597           49110.0                     C.Wasilevsky+        (85)A0314  2 
+ 2004 47000   3 454    4.4800+7 1000000. 0.275064 0.036308           49110.0                     C.Wasilevsky+        (85)A0314  2 
+ 2004 47000   3 454    4.7500+7 1000000. 0.213903 0.028208           49110.0                     C.Wasilevsky+        (85)A0314  2 
+ 2004 47000   3 454    5.0500+7 1000000. 0.138719 0.018467           49110.0                     C.Wasilevsky+        (85)A0314  2 
+ 2004 47000   3 454    5.3900+7 1000000. 0.103888 0.013656           49110.0                     C.Wasilevsky+        (85)A0314  2 
+#/DATA      13
+#/DATASET

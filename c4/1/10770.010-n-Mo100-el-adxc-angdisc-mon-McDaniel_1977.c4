@@ -1,0 +1,41 @@
+#ENTRY      10770
+#AUTHOR1    F.D.McDaniel+
+#YEAR       1977
+#INSTITUTE  (1USAKTY)
+#TITLE      Neutron scattering - inelastic scattering cross
+#+          sections and mechanisms for nuclei with a around
+#+          90-100.
+#AUTHOR(S)  F.D.McDaniel, J.D.Brandenberger, G.P.Glasgow, M.T.McEllistrem, 
+#+          J.L.Weil
+#REF-CODE   (P,A-KTY-74/77,3,1977)
+#REFERENCE  Progress report A-KTY-74/77 page 3, 1977
+#DATASETS   0
+#
+#DATASET    10770010 
+#DATE       20100525
+#REACTION   42-MO-100(N,EL)42-MO-100,,DA
+#PROJ       1
+#TARG       42100
+#MF         4
+#MT         2
+#PRODUCT    42-MO-100
+#C4BEGIN    [    1 42100   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42100   4   2  C 2750000.          0.739630 0.015040 0.863484                              F.D.McDaniel+        (77)10770 10 
+    1 42100   4   2  C 2750000.          0.391140 7.9800-3 0.761878                              F.D.McDaniel+        (77)10770 10 
+    1 42100   4   2  C 2750000.          0.171900 4.3500-3 0.636886                              F.D.McDaniel+        (77)10770 10 
+    1 42100   4   2  C 2750000.          0.102630 3.4500-3 0.492424                              F.D.McDaniel+        (77)10770 10 
+    1 42100   4   2  C 2750000.          0.090140 3.1400-3 0.333149                              F.D.McDaniel+        (77)10770 10 
+    1 42100   4   2  C 2750000.          0.093430 2.3900-3 0.163843                              F.D.McDaniel+        (77)10770 10 
+    1 42100   4   2  C 2750000.          0.078190 2.3300-3-0.010123                              F.D.McDaniel+        (77)10770 10 
+    1 42100   4   2  C 2750000.          0.044800 1.8700-3-0.183437                              F.D.McDaniel+        (77)10770 10 
+    1 42100   4   2  C 2750000.          0.023420 1.6000-3-0.350861                              F.D.McDaniel+        (77)10770 10 
+    1 42100   4   2  C 2750000.          9.4700-3 1.4900-3-0.507538                              F.D.McDaniel+        (77)10770 10 
+    1 42100   4   2  C 2750000.          0.016010 1.3800-3-0.648651                              F.D.McDaniel+        (77)10770 10 
+    1 42100   4   2  C 2750000.          0.038550 1.8200-3-0.770179                              F.D.McDaniel+        (77)10770 10 
+    1 42100   4   2  C 2750000.          0.073580 1.8200-3-0.868545                              F.D.McDaniel+        (77)10770 10 
+    1 42100   4   2  C 2750000.          0.125910 2.4600-3-0.934888                              F.D.McDaniel+        (77)10770 10 
+#/DATA      14
+#/DATASET

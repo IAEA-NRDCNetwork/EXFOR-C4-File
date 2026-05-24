@@ -1,0 +1,30 @@
+#ENTRY      C0372
+#AUTHOR1    R.L.Folger+
+#YEAR       1955
+#INSTITUTE  (1USABRK)
+#TITLE      High-energy proton spallation-fission of uranium
+#AUTHOR(S)  R.L.Folger, P.C.Stevenson, G.T.Seaborg
+#REF-CODE   (J,PR,98,107,1955)
+#REFERENCE  Phys.Rev. 98 (1955) 107 (doi:10.1103/PhysRev.98.107)
+#DATASETS   0
+#
+#DATASET    C0372004 
+#DATE       20200528
+#REACTION   92-U-238(P,X)ELEM/MASS,CUM,SIG
+#PROJ       1001
+#TARG       92238
+#MF         3
+#MT         459
+#C4BEGIN    [ 1001 92238   3 459 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92238   3 459 D  3.4000+8          2.1000-3                    29067.9                     R.L.Folger+          (55)C0372  4 
+ 1001 92238   3 459 D  3.4000+8          7.5000-3                    34081.1                     R.L.Folger+          (55)C0372  4 
+ 1001 92238   3 459 D  3.4000+8          0.035000                    38089.9                     R.L.Folger+          (55)C0372  4 
+ 1001 92238   3 459 D  3.4000+8          0.048500                    47111.9                     R.L.Folger+          (55)C0372  4 
+ 1001 92238   3 459 D  3.4000+8          0.033600                    48115.9                     R.L.Folger+          (55)C0372  4 
+ 1001 92238   3 459 D  3.4000+8          0.012000                    48115.1                     R.L.Folger+          (55)C0372  4 
+ 1001 92238   3 459 D  3.4000+8          0.023500                    56140.9                     R.L.Folger+          (55)C0372  4 
+#/DATA      7
+#/DATASET

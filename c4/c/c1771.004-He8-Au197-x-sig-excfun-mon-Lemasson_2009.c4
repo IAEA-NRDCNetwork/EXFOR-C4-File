@@ -1,0 +1,33 @@
+#ENTRY      C1771
+#AUTHOR1    A.Lemasson+
+#YEAR       2009
+#INSTITUTE  (2FR GAN)
+#TITLE      Modern Rutherford Experiment: Tunneling of the Most
+#+          Neutron-Rich Nucleus
+#AUTHOR(S)  A.Lemasson, A.Shrivastava, A.Navin, M.Rejmund, N.Keeley, 
+#+          V.Zelevinsky, S.Bhattacharyya, A.Chatterjee, G.de France, 
+#+          B.Jacquot, V.Nanal, R.G.Pillay, R.Raabe, C.Schmitt
+#REF-CODE   (J,PRL,103,232701,2009)
+#REFERENCE  Phys.Rev.Lett. 103 (2009) 232701 (doi:10.1103/PhysRevLett.103.232701)
+#DATASETS   0
+#
+#DATASET    C1771004 
+#DATE       20100113
+#REACTION   79-AU-197(2-HE-8,X)81-TL-200,,SIG
+#PROJ       2008
+#TARG       79197
+#MF         3
+#MT         454
+#PRODUCT    81-TL-200
+#C4BEGIN    [ 2008 79197   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2008 79197   3 454    2.8998+7 70010.62 1.020000 0.025000           81200.9                     A.Lemasson+          (09)C1771  4 
+ 2008 79197   3 454    2.5709+7 180024.2 0.540000 0.020000           81200.9                     A.Lemasson+          (09)C1771  4 
+ 2008 79197   3 454    2.2763+7 360042.9 0.176000 6.0000-3           81200.9                     A.Lemasson+          (09)C1771  4 
+ 2008 79197   3 454    1.9526+7 0.000000 0.012000 2.0000-3           81200.9                     A.Lemasson+          (09)C1771  4 
+ 2008 79197   3 454    1.8246+7 50004.77 2.0000-3 5.0000-4           81200.9                     A.Lemasson+          (09)C1771  4 
+ 2008 79197   3 454    1.6632+7 110009.5 2.5000-4 8.0000-5           81200.9                     A.Lemasson+          (09)C1771  4 
+#/DATA      6
+#/DATASET

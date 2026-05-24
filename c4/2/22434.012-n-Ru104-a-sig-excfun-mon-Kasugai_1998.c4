@@ -1,0 +1,31 @@
+#ENTRY      22434
+#AUTHOR1    Y.Kasugai+
+#YEAR       1998
+#INSTITUTE  (2JPNNAG)
+#TITLE      Measurement of (n,alpha) cross-sections for
+#+          short-lived products by 13.4 - 14.9 MeV neutrons
+#AUTHOR(S)  Y.Kasugai, H.Yamamoto, K.Kawade, T.Iida
+#REF-CODE   (J,ANE,25,(18),1485,1998)
+#REFERENCE  Ann.Nucl.Energy 25 No.18 (1998) 1485 (doi:10.1016/S0306-4549(98)00014-0)
+#DATASETS   0
+#
+#DATASET    22434012 
+#DATE       20150824
+#REACTION   44-RU-104(N,A)42-MO-101,,SIG
+#PROJ       1
+#TARG       44104
+#MF         3
+#MT         107
+#PRODUCT    42-MO-101
+#C4BEGIN    [    1 44104   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 44104   3 107    1.3400+7 50000.00 1.7000-3 2.5500-4                                       Y.Kasugai+           (98)22434 12 
+    1 44104   3 107    1.3650+7 50000.00 1.8000-3 4.6800-4                                       Y.Kasugai+           (98)22434 12 
+    1 44104   3 107    1.3880+7 50000.00 2.4000-3 2.8800-4                                       Y.Kasugai+           (98)22434 12 
+    1 44104   3 107    1.4280+7 50000.00 2.8000-3 4.2000-4                                       Y.Kasugai+           (98)22434 12 
+    1 44104   3 107    1.4580+7 50000.00 3.5000-3 4.9000-4                                       Y.Kasugai+           (98)22434 12 
+    1 44104   3 107    1.4870+7 50000.00 3.1000-3 3.7200-4                                       Y.Kasugai+           (98)22434 12 
+#/DATA      6
+#/DATASET

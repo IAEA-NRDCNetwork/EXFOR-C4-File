@@ -1,0 +1,40 @@
+#ENTRY      A0632
+#AUTHOR1    S.Engstler+
+#YEAR       1992
+#INSTITUTE  (2GERBOC)
+#TITLE      Isotopic dependence of electron screening in fusion
+#+          reactions
+#AUTHOR(S)  S.Engstler, G.Raimann, C.Angulo, U.Greife, C.Rolfs, U.Schroder, 
+#+          E.Somorjai, B.Kirch, K.Langanke
+#REF-CODE   (J,ZP/A,342,471,1992)
+#REFERENCE  Z.Phys.A 342 (1992) 471 (doi:10.1007/BF01294958)
+#DATASETS   0
+#
+#DATASET    A0632004 
+#DATE       20260204
+#REACTION   (1-H-1(3-LI-7,A)2-HE-4,,SIG,,SFC)=(3-LI-7(P,A)2-HE-4,,SIG,,SFC)
+#PROJ       1001
+#TARG       3007
+#MF         3
+#MT         107
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  3007   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   3 107    46169.13          1.5960-3                                                S.Engstler+          (92)A0632  4 
+ 1001  3007   3 107    51853.09          3.1983-3                                                S.Engstler+          (92)A0632  4 
+ 1001  3007   3 107    57479.87          5.8044-3                                                S.Engstler+          (92)A0632  4 
+ 1001  3007   3 107    63049.46          9.2798-3                                                S.Engstler+          (92)A0632  4 
+ 1001  3007   3 107    112752.8          0.112050                                                S.Engstler+          (92)A0632  4 
+ 1001  3007   3 107    228160.5          0.821816                                                S.Engstler+          (92)A0632  4 
+ 1001  3007   3 107    343215.2          1.831955                                                S.Engstler+          (92)A0632  4 
+ 1001  3007   3 107    458271.4          2.598508                                                S.Engstler+          (92)A0632  4 
+ 1001  3007   3 107    573329.2          3.311421                                                S.Engstler+          (92)A0632  4 
+ 1001  3007   3 107    688388.6          4.439281                                                S.Engstler+          (92)A0632  4 
+ 1001  3007   3 107    803449.4          4.814537                                                S.Engstler+          (92)A0632  4 
+ 1001  3007   3 107    918397.5          5.500093                                                S.Engstler+          (92)A0632  4 
+ 1001  3007   3 107    1033461.          6.490298                                                S.Engstler+          (92)A0632  4 
+ 1001  3007   3 107    1148412.          6.974990                                                S.Engstler+          (92)A0632  4 
+#/DATA      14
+#/DATASET

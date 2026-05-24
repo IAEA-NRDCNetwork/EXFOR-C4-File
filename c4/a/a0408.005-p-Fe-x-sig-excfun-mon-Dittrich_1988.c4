@@ -1,0 +1,26 @@
+#ENTRY      A0408
+#AUTHOR1    B.Dittrich+
+#YEAR       1988
+#INSTITUTE  (2GERKLN)
+#TITLE      Thin-target excitation functions for proton-produced
+#+          long-lived radionuclides.
+#AUTHOR(S)  B.Dittrich, U.Herpers, Th.Schiffmann
+#REF-CODE   (R,INDC(GER)-32,33,1988)
+#REFERENCE  Report INDC(GER)-32 page 33, 1988
+#DATASETS   0
+#
+#DATASET    A0408005 
+#DATE       20220804
+#REACTION   26-FE-0(P,X)11-NA-22,,SIG
+#PROJ       1001
+#TARG       26000
+#MF         3
+#MT         454
+#PRODUCT    11-NA-22
+#C4BEGIN    [ 1001 26000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26000   3 454    6.0000+8          4.2000-4 2.0000-5           11022.9                     B.Dittrich+          (88)A0408  5 
+#/DATA      1
+#/DATASET

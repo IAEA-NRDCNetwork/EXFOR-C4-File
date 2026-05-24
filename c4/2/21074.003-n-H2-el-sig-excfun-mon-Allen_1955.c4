@@ -1,0 +1,27 @@
+#ENTRY      21074
+#AUTHOR1    W.D.Allen+
+#YEAR       1955
+#INSTITUTE  (2UK HAR)
+#TITLE      -NEUTRON DEUTERON SCATTERING IN THE RANGE 80-200 KEV-.
+#AUTHOR(S)  W.D.Allen, A.T.G.Ferguson, J.Roberts
+#REF-CODE   (J,PPS/A,68,650,55)
+#REFERENCE  Proc.Phys.Soc.(UK) A 68 (1955) 650 (doi:10.1088/0370-1298/68/7/415)
+#DATASETS   0
+#
+#DATASET    21074003 
+#DATE       19800311
+#REACTION   1-H-2(N,EL)1-H-2,,SIG
+#PROJ       1
+#TARG       1002
+#MF         3
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   3   2 D  100000.0 12000.00 3.230000 0.100000                                       W.D.Allen+           (55)21074  3 
+    1  1002   3   2 D  146500.0 12000.00 3.070000 0.090000                                       W.D.Allen+           (55)21074  3 
+    1  1002   3   2 D  200000.0 16000.00 3.060000 0.090000                                       W.D.Allen+           (55)21074  3 
+#/DATA      3
+#/DATASET

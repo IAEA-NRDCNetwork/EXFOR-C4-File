@@ -1,0 +1,27 @@
+#ENTRY      13389
+#AUTHOR1    R.K.Wanless+
+#YEAR       1955
+#INSTITUTE  (1CANMCM)
+#TITLE      THE FISSION YIELDS OF ISOTOPES OF XENON AND KRYPTON IN
+#+          THE NEUTRON FISSION OF U235 AND U238
+#AUTHOR(S)  R.K.Wanless, H.G.Thode
+#REF-CODE   (J,CJP,33,541,55)
+#REFERENCE  Can.J.Phys. 33 (1955) 541 (doi:10.1139/p55-066)
+#DATASETS   0
+#
+#DATASET    13389002 
+#DATE       19900403
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025300          0.010200          36.00000 84.00000 9.000000            R.K.Wanless+         (55)13389  2 
+    1 92235   8 459    0.025300          3.0000-3          36.00000 85.00000 9.000000            R.K.Wanless+         (55)13389  2 
+    1 92235   8 459    0.025300          0.020700          36.00000 86.00000 9.000000            R.K.Wanless+         (55)13389  2 
+#/DATA      3
+#/DATASET

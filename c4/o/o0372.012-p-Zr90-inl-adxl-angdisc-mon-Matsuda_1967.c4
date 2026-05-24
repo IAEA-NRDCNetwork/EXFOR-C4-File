@@ -1,0 +1,31 @@
+#ENTRY      O0372
+#AUTHOR1    K.Matsuda+
+#YEAR       1967
+#INSTITUTE  (2JPNTOK)
+#TITLE      Inelastic Proton Scattering from Zr-90 and Zr-92.
+#AUTHOR(S)  K.Matsuda, H.Nakamura, I.Nonaka, H.Taketani, T.Wada, Y.Awaya, 
+#+          M.Koike
+#REF-CODE   (J,JPJ,22,1311,67)
+#REFERENCE  J.Phys.Soc.Jpn. 22 (1967) 1311 (doi:10.1143/JPSJ.22.1311)
+#DATASETS   0
+#
+#DATASET    O0372012 
+#DATE       19970625
+#REACTION   40-ZR-90(P,INL)40-ZR-90,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       40090
+#MF         4
+#MT         601
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 1001 40090   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   4 601  C 1.4710+7          7.3000-5 2.1900-5 0.751264 0.011519 1740000.         LVLK.Matsuda+           (67)O0372 12 
+ 1001 40090   4 601  C 1.4710+7          4.8000-5 2.4000-5 0.638768 0.013429 1740000.         LVLK.Matsuda+           (67)O0372 12 
+ 1001 40090   4 601  C 1.4710+7          2.1000-5 1.2600-5 0.507538 0.015038 1740000.         LVLK.Matsuda+           (67)O0372 12 
+ 1001 40090   4 601  C 1.4710+7          2.4000-5 9.6000-6 0.338738 0.016421 1740000.         LVLK.Matsuda+           (67)O0372 12 
+ 1001 40090   4 601  C 1.4710+7          3.3000-5 9.9000-6 0.149535 0.017257 1740000.         LVLK.Matsuda+           (67)O0372 12 
+ 1001 40090   4 601  C 1.4710+7          1.3000-5 9.1000-6-0.024432 0.017448 1740000.         LVLK.Matsuda+           (67)O0372 12 
+#/DATA      6
+#/DATASET

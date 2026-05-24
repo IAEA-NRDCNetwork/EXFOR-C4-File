@@ -1,0 +1,33 @@
+#ENTRY      A0602
+#AUTHOR1    S.N.Kondratyev+
+#YEAR       1998
+#INSTITUTE  (4UKRIJD)
+#TITLE      Nuclear reaction cross-sections for 93 MeV 3-He-ions
+#+          on 59-Co
+#AUTHOR(S)  S.N.Kondratyev, Yu.N.Lobach, V.D.Sklyarenko
+#REF-CODE   (J,UFZ,43,5,1998)
+#REFERENCE  Ukr.Fiz.Zh. 43 (1998) 5
+#DATASETS   0
+#
+#DATASET    A0602003 
+#DATE       20231230
+#REACTION   27-CO-59(HE3,X)28-NI-56,CUM,SIG
+#PROJ       2003
+#TARG       27059
+#MF         3
+#MT         459
+#PRODUCT    28-NI-56
+#C4BEGIN    [ 2003 27059   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 27059   3 459    9.1900+7 600000.0 8.2000-4 8.0000-5           28056.9                     S.N.Kondratyev+      (98)A0602  3 
+ 2003 27059   3 459    8.6400+7 600000.0 6.3000-4 6.0000-5           28056.9                     S.N.Kondratyev+      (98)A0602  3 
+ 2003 27059   3 459    8.0900+7 600000.0 5.3000-4 5.0000-5           28056.9                     S.N.Kondratyev+      (98)A0602  3 
+ 2003 27059   3 459    7.5100+7 600000.0 4.5000-4 5.0000-5           28056.9                     S.N.Kondratyev+      (98)A0602  3 
+ 2003 27059   3 459    6.8800+7 800000.0 2.6000-4 4.0000-5           28056.9                     S.N.Kondratyev+      (98)A0602  3 
+ 2003 27059   3 459    6.2100+7 800000.0 1.7000-4 3.0000-5           28056.9                     S.N.Kondratyev+      (98)A0602  3 
+ 2003 27059   3 459    2.5600+7 1600000. 1.9000-5 3.0000-6           28056.9                     S.N.Kondratyev+      (98)A0602  3 
+ 2003 27059   3 459    1.7000+7 2100000. 1.1000-5 2.0000-6           28056.9                     S.N.Kondratyev+      (98)A0602  3 
+#/DATA      8
+#/DATASET

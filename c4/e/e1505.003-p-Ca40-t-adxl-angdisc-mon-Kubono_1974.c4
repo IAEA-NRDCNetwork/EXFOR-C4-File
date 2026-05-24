@@ -1,0 +1,34 @@
+#ENTRY      E1505
+#AUTHOR1    S.Kubono+
+#YEAR       1974
+#INSTITUTE  (2JPNTOK)
+#TITLE      ANOMALOUS L=0 TRANSITION OBSERVED IN THE REACTION
+#+          40CA(P,T)38CA
+#AUTHOR(S)  S.Kubono, S.Kato, M.Yasue, H.Ohnuma, K.Ogawa
+#REF-CODE   (J,PL/B,49,37,1974)
+#REFERENCE  Phys.Lett.B 49 (1974) 37 (doi:10.1016/0370-2693(74)90574-7)
+#DATASETS   0
+#
+#DATASET    E1505003 
+#DATE       20001017
+#REACTION   20-CA-40(P,T)20-CA-38,PAR,DA
+#PROJ       1001
+#TARG       20040
+#MF         4
+#MT         700
+#PRODUCT    20-CA-38
+#C4BEGIN    [ 1001 20040   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20040   4 700  C 5.1900+7          5.8360-6          0.997311          3060000.         LVLS.Kubono+            (74)E1505  3 
+ 1001 20040   4 700  C 5.1900+7          3.3510-6          0.992180          3060000.         LVLS.Kubono+            (74)E1505  3 
+ 1001 20040   4 700  C 5.1900+7          2.0110-6          0.981158          3060000.         LVLS.Kubono+            (74)E1505  3 
+ 1001 20040   4 700  C 5.1900+7          1.9070-6          0.968191          3060000.         LVLS.Kubono+            (74)E1505  3 
+ 1001 20040   4 700  C 5.1900+7          1.1150-6          0.952874          3060000.         LVLS.Kubono+            (74)E1505  3 
+ 1001 20040   4 700  C 5.1900+7          1.4030-6          0.932198          3060000.         LVLS.Kubono+            (74)E1505  3 
+ 1001 20040   4 700  C 5.1900+7          6.1290-7          0.868459          3060000.         LVLS.Kubono+            (74)E1505  3 
+ 1001 20040   4 700  C 5.1900+7          7.1200-7          0.795156          3060000.         LVLS.Kubono+            (74)E1505  3 
+ 1001 20040   4 700  C 5.1900+7          6.5790-7          0.763007          3060000.         LVLS.Kubono+            (74)E1505  3 
+#/DATA      9
+#/DATASET

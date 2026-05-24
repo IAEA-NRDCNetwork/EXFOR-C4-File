@@ -1,0 +1,33 @@
+#ENTRY      C1610
+#AUTHOR1    T.A.D.Brown+
+#YEAR       2007
+#INSTITUTE  (1USAWAU)
+#TITLE      He3+He4 -> Be7 astrophysical S factor
+#AUTHOR(S)  T.A.D.Brown, C.Bordeanu, K.A.Snover, D.W.Storm, D.Melconian, 
+#+          A.L.Sallaska, S.K.L.Sjue, S.Triambak
+#REF-CODE   (J,PR/C,76,055801,2007)
+#REFERENCE  Phys.Rev.C 76 (2007) 055801 (doi:10.1103/PhysRevC.76.055801)
+#DATASETS   0
+#
+#DATASET    C1610002 
+#DATE       20160629
+#REACTION   2-HE-3(A,G)4-BE-7,,SIG,,SFC
+#PROJ       2004
+#TARG       2003
+#MF         3
+#MT         102
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 2004  2003   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  2003   3 102 C  761914.9 1300.151 1.7364-7 5.2617-9                                       T.A.D.Brown+         (07)C1610  2 
+ 2004  2003   3 102 C  991381.2 400.0606 3.7800-7 8.2534-9                                       T.A.D.Brown+         (07)C1610  2 
+ 2004  2003   3 102 C  1205490. 500.0921 6.2643-7 1.4237-8                                       T.A.D.Brown+         (07)C1610  2 
+ 2004  2003   3 102 C  1353274. 800.1655 7.6073-7 2.0920-8                                       T.A.D.Brown+         (07)C1610  2 
+ 2004  2003   3 102 C  1634650. 600.1500 1.0904-6 2.9078-8                                       T.A.D.Brown+         (07)C1610  2 
+ 2004  2003   3 102 C  1854354. 300.0850 1.3586-6 2.6198-8                                       T.A.D.Brown+         (07)C1610  2 
+ 2004  2003   3 102 C  2871226. 300.1317 2.4986-6 4.5430-8                                       T.A.D.Brown+         (07)C1610  2 
+ 2004  2003   3 102 C  2873554. 300.1318 2.4559-6 4.5479-8                                       T.A.D.Brown+         (07)C1610  2 
+#/DATA      8
+#/DATASET

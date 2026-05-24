@@ -1,0 +1,35 @@
+#ENTRY      E1692
+#AUTHOR1    H.Orihara+
+#YEAR       1983
+#INSTITUTE  (2JPNTOH)
+#TITLE      Observation of isospin mixing for the isobaric analog
+#+          state in 56Co through the 56Fe(p,n)56Co reaction
+#AUTHOR(S)  H.Orihara, K.Ogawa, T.Murakami, S.Nishihara, T.Nakagawa, 
+#+          K.Maeda
+#REF-CODE   (J,NP/A,403,(2),317,198307)
+#REFERENCE  Nucl.Phys.A 403 No.2 (1983) 317 (doi:10.1016/0375-9474(83)90229-4)
+#DATASETS   0
+#
+#DATASET    E1692005 
+#DATE       20060906
+#REACTION   26-FE-56(P,N)27-CO-56,PAR,DA
+#PROJ       1001
+#TARG       26056
+#MF         4
+#MT         50
+#PRODUCT    27-CO-56
+#C4BEGIN    [ 1001 26056   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056   4  50  C 1.7000+7          3.4800-4          0.999993          1720000.         LVLH.Orihara+           (83)E1692  5 
+ 1001 26056   4  50  C 1.7000+7          2.2030-4 4.3770-5 0.985106          1720000.         LVLH.Orihara+           (83)E1692  5 
+ 1001 26056   4  50  C 1.7000+7          1.8200-4 3.6150-5 0.964511          1720000.         LVLH.Orihara+           (83)E1692  5 
+ 1001 26056   4  50  C 1.7000+7          1.1390-4 3.4780-5 0.938613          1720000.         LVLH.Orihara+           (83)E1692  5 
+ 1001 26056   4  50  C 1.7000+7          1.6910-4 3.7960-5 0.902285          1720000.         LVLH.Orihara+           (83)E1692  5 
+ 1001 26056   4  50  C 1.7000+7          1.4890-4 3.1490-5 0.860208          1720000.         LVLH.Orihara+           (83)E1692  5 
+ 1001 26056   4  50  C 1.7000+7          9.1280-5 1.9310-5 0.749071          1720000.         LVLH.Orihara+           (83)E1692  5 
+ 1001 26056   4  50  C 1.7000+7          4.6250-5 1.2220-5 0.478385          1720000.         LVLH.Orihara+           (83)E1692  5 
+ 1001 26056   4  50  C 1.7000+7          2.5790-5 1.2890-5 0.150571          1720000.         LVLH.Orihara+           (83)E1692  5 
+#/DATA      9
+#/DATASET

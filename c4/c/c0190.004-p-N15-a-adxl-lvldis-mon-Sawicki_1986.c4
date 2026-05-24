@@ -1,0 +1,26 @@
+#ENTRY      C0190
+#AUTHOR1    J.A.Sawicki+
+#YEAR       1986
+#INSTITUTE  (1CANCRC)
+#TITLE      Absolute calibration of the 15N(d,alpha0)13C and
+#+          15N(p,alpha0)12C reaction cross sections
+#AUTHOR(S)  J.A.Sawicki, J.A.Davies, T.E.Jackman
+#REF-CODE   (J,NIM/B,15,530,1986)
+#REFERENCE  Nucl.Instrum.Meth.B 15 (1986) 530 (doi:10.1016/0168-583X(86)90357-5)
+#DATASETS   0
+#
+#DATASET    C0190004 
+#DATE       20111117
+#REACTION   7-N-15(P,A)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       7015
+#MF         4
+#MT         800
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  7015   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7015   4 800    972000.0          0.036200 1.2000-3-0.866025          0.000000         LVLJ.A.Sawicki+         (86)C0190  4 
+#/DATA      1
+#/DATASET

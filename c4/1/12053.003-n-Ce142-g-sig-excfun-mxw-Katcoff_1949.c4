@@ -1,0 +1,27 @@
+#ENTRY      12053
+#AUTHOR1    S.Katcoff+
+#YEAR       1949
+#INSTITUTE  (1USALAS)
+#TITLE      NEUTRON ABSORBTION CROSS SECTIONS OF RADIOACTIVE LA140
+#+          AND TWO STABLE CERIUM ISOTOPES.
+#AUTHOR(S)  S.Katcoff, J.Leary, K.Walsh, R.Elmer, S.Goldsmith, L.Hall, 
+#+          E.Newbury, J.Povelites, J.Waddell
+#REF-CODE   (J,JCP,17,421,49)
+#REFERENCE  J.Chem.Phys. 17 (1949) 421 (doi:10.1063/1.1747273)
+#DATASETS   0
+#
+#DATASET    12053003 
+#DATE       19830802
+#REACTION   58-CE-142(N,G)58-CE-143,,SIG,,MXW
+#PROJ       1
+#TARG       58142
+#MF         3
+#MT         102
+#PRODUCT    58-CE-143
+#C4BEGIN    [    1 58142   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 58142   3 102    0.025300          0.950000 0.180000                                       S.Katcoff+           (49)12053  3 
+#/DATA      1
+#/DATASET

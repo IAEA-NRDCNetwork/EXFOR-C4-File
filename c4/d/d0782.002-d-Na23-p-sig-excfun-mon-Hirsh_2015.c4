@@ -1,0 +1,37 @@
+#ENTRY      D0782
+#AUTHOR1    T.Y.Hirsh+
+#YEAR       2015
+#INSTITUTE  (3ISLSOR)
+#TITLE      Accurate measurement of the 23Na(d,p)24Na cross
+#+          section in the 1.7-20 MeV energy range
+#AUTHOR(S)  T.Y.Hirsh, A.Kreisel, J.Mrazek, L.Weissman, Y.Eisen, M.Stefanik, 
+#+          E.Simeckova, O.Aviv, S.Moscovici, Z.Yungrais, D.Berkovits
+#REF-CODE   (J,NIM/B,362,29,2015)
+#REFERENCE  Nucl.Instrum.Meth.B 362 (2015) 29 (doi:10.1016/j.nimb.2015.09.015)
+#DATASETS   0
+#
+#DATASET    D0782002 
+#DATE       20151130
+#REACTION   11-NA-23(D,P)11-NA-24,,SIG
+#PROJ       1002
+#TARG       11023
+#MF         3
+#MT         103
+#PRODUCT    11-NA-24
+#C4BEGIN    [ 1002 11023   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 11023   3 103    5040000. 50000.00 0.446000 0.022000                                       T.Y.Hirsh+           (15)D0782  2 
+ 1002 11023   3 103    4750000. 50000.00 0.428000 0.021000                                       T.Y.Hirsh+           (15)D0782  2 
+ 1002 11023   3 103    4510000. 50000.00 0.481000 0.024000                                       T.Y.Hirsh+           (15)D0782  2 
+ 1002 11023   3 103    4190000. 50000.00 0.471000 0.024000                                       T.Y.Hirsh+           (15)D0782  2 
+ 1002 11023   3 103    3830000. 50000.00 0.424000 0.021000                                       T.Y.Hirsh+           (15)D0782  2 
+ 1002 11023   3 103    3560000. 50000.00 0.429000 0.021000                                       T.Y.Hirsh+           (15)D0782  2 
+ 1002 11023   3 103    3030000. 50000.00 0.370000 0.019000                                       T.Y.Hirsh+           (15)D0782  2 
+ 1002 11023   3 103    3000000. 50000.00 0.388000 0.019000                                       T.Y.Hirsh+           (15)D0782  2 
+ 1002 11023   3 103    2730000. 50000.00 0.354000 0.018000                                       T.Y.Hirsh+           (15)D0782  2 
+ 1002 11023   3 103    2390000. 60000.00 0.166000 8.3000-3                                       T.Y.Hirsh+           (15)D0782  2 
+ 1002 11023   3 103    1680000. 70000.00 0.068200 3.4000-3                                       T.Y.Hirsh+           (15)D0782  2 
+#/DATA      11
+#/DATASET

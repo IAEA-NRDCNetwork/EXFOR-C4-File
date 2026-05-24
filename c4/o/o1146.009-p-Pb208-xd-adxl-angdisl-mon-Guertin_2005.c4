@@ -1,0 +1,39 @@
+#ENTRY      O1146
+#AUTHOR1    A.Guertin+
+#YEAR       2005
+#INSTITUTE  (2FR NTE)
+#TITLE      Neutron and light charged particle productions in
+#+          proton induced reactions on Pb-208 at 62.9-MeV.
+#AUTHOR(S)  A.Guertin, N.Marie, S.Auduc, V.Blideanu, Th.Delbar, P.Eudes, 
+#+          Y.Foucher, F.Haddad, T.Kirchner, Ch.Le Brun, C.Lebrun, F.R.Lecolley, 
+#+          J.F.Lecolley, X.Ledoux, F.Lefebvres, T.Lefort, M.Louvel, 
+#+          A.Ninane, Y.Patin, Ph.Pras, G.Riviere, C.Varignon
+#REF-CODE   (J,EPJ/A,23,49,2005)
+#REFERENCE  Eur.Phys.J.A 23 (2005) 49 (doi:10.1140/epja/i2004-10073-1)
+#DATASETS   0
+#
+#DATASET    O1146009 
+#DATE       20040411
+#REACTION   82-PB-208(P,X)1-H-2,,DA
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001 82208   4 204 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 204 D  6.2900+7          0.029600 2.4300-5 0.906308                              A.Guertin+           (05)O1146  9 
+ 1001 82208   4 204 D  6.2900+7          0.019700 1.7800-5 0.819152                              A.Guertin+           (05)O1146  9 
+ 1001 82208   4 204 D  6.2900+7          0.014700 1.7000-5 0.707107                              A.Guertin+           (05)O1146  9 
+ 1001 82208   4 204 D  6.2900+7          0.010200 1.2800-5 0.573576                              A.Guertin+           (05)O1146  9 
+ 1001 82208   4 204 D  6.2900+7          7.2800-3 1.2000-5 0.422618                              A.Guertin+           (05)O1146  9 
+ 1001 82208   4 204 D  6.2900+7          5.1800-3 9.1300-6 0.258819                              A.Guertin+           (05)O1146  9 
+ 1001 82208   4 204 D  6.2900+7          4.0500-3 8.8700-6 0.087156                              A.Guertin+           (05)O1146  9 
+ 1001 82208   4 204 D  6.2900+7          2.8700-3 7.0400-6-0.087156                              A.Guertin+           (05)O1146  9 
+ 1001 82208   4 204 D  6.2900+7          1.9100-3 1.1900-5-0.422618                              A.Guertin+           (05)O1146  9 
+ 1001 82208   4 204 D  6.2900+7          1.1800-3 3.0900-6-0.707107                              A.Guertin+           (05)O1146  9 
+ 1001 82208   4 204 D  6.2900+7          9.5100-4 2.9800-6-0.906308                              A.Guertin+           (05)O1146  9 
+#/DATA      11
+#/DATASET

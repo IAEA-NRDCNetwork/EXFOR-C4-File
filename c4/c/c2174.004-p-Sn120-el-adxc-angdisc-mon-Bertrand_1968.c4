@@ -1,0 +1,40 @@
+#ENTRY      C2174
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1968
+#INSTITUTE  (1USAORL)
+#TITLE      Elastic and Inelastic Scattering of Protons from
+#+          120Sn for Ep = 20.6, 25.2, 30.6 and 36.2 MeV:
+#+          Tabulated Differential Cross Sections
+#AUTHOR(S)  F.E.Bertrand, T.A.Love, N.Baron, F.G.Perey, J.K.Dickens
+#REF-CODE   (R,ORNL-4252,1968)
+#REFERENCE  Report ORNL-4252, 1968
+#DATASETS   0
+#
+#DATASET    C2174004 
+#DATE       20150826
+#REACTION   50-SN-120(P,EL)50-SN-120,,DA
+#PROJ       1001
+#TARG       50120
+#MF         4
+#MT         2
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 1001 50120   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50120   4   2  C 3.0600+7          7.407000 0.398000 0.965473                              F.E.Bertrand+        (68)C2174  4 
+ 1001 50120   4   2  C 3.0600+7          0.723000 0.036000 0.904827                              F.E.Bertrand+        (68)C2174  4 
+ 1001 50120   4   2  C 3.0600+7          0.384000 0.019000 0.864275                              F.E.Bertrand+        (68)C2174  4 
+ 1001 50120   4   2  C 3.0600+7          0.218000 0.011000 0.816138                              F.E.Bertrand+        (68)C2174  4 
+ 1001 50120   4   2  C 3.0600+7          0.013000 3.1000-3 0.762668                              F.E.Bertrand+        (68)C2174  4 
+ 1001 50120   4   2  C 3.0600+7          0.013800 7.1000-4 0.703395                              F.E.Bertrand+        (68)C2174  4 
+ 1001 50120   4   2  C 3.0600+7          0.027100 1.4000-3 0.637424                              F.E.Bertrand+        (68)C2174  4 
+ 1001 50120   4   2  C 3.0600+7          0.035500 1.8000-3 0.493942                              F.E.Bertrand+        (68)C2174  4 
+ 1001 50120   4   2  C 3.0600+7          0.013640 6.9000-4 0.416281                              F.E.Bertrand+        (68)C2174  4 
+ 1001 50120   4   2  C 3.0600+7          4.2500-3 2.2000-4 0.250380                              F.E.Bertrand+        (68)C2174  4 
+ 1001 50120   4   2  C 3.0600+7          8.9300-3 4.6000-4 0.130526                              F.E.Bertrand+        (68)C2174  4 
+ 1001 50120   4   2  C 3.0600+7          4.1600-3 2.5000-4-8.7265-3                              F.E.Bertrand+        (68)C2174  4 
+ 1001 50120   4   2  C 3.0600+7          1.4170-3 8.0000-5-0.267238                              F.E.Bertrand+        (68)C2174  4 
+ 1001 50120   4   2  C 3.0600+7          2.1000-3 1.1000-4-0.350207                              F.E.Bertrand+        (68)C2174  4 
+#/DATA      14
+#/DATASET

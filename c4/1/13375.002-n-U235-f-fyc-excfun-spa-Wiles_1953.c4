@@ -1,0 +1,27 @@
+#ENTRY      13375
+#AUTHOR1    D.R.Wiles+
+#YEAR       1953
+#INSTITUTE  (1CANMCM)
+#TITLE      FISSION YIELDS OF THE STABLE AND LONG-LIVED ISOTOPES
+#+          OF CESIUM, RUBIDIUM AND STRONTIUM AND NUCLEAR SHELL
+#+          STRUCTURE
+#AUTHOR(S)  D.R.Wiles, B.W.Smith, R.Horsley, H.G.Thode
+#REF-CODE   (J,CJP,31,419,53)
+#REFERENCE  Can.J.Phys. 31 (1953) 419 (doi:10.1139/p53-040)
+#DATASETS   0
+#
+#DATASET    13375002 
+#DATE       19891220
+#REACTION   92-U-235(N,F)37-RB-87,CUM,FY,,SPA
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#PRODUCT    37-RB-87
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025300          0.027500          37.00000 87.00000 9.000000            D.R.Wiles+           (53)13375  2 
+#/DATA      1
+#/DATASET

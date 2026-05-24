@@ -1,0 +1,35 @@
+#ENTRY      D4329
+#AUTHOR1    R.T.Gueray+
+#YEAR       2015
+#INSTITUTE  (2TUKKOC)
+#TITLE      Measurements of 152Gd(p,g)153Tb and 152Gd(p,n)152Tb
+#+          reaction cross sections for astrophysical g process
+#AUTHOR(S)  R.T.Gueray, N.Oezkan, C.Yalcin, T.Rauscher, Gy.Gyuerky, 
+#+          J.Farkas, Zs.Fueloep, Z.Halasz, E.Somorjai
+#REF-CODE   (J,PR/C,91,055809,2015)
+#REFERENCE  Phys.Rev.C 91 (2015) 055809 (doi:10.1103/PhysRevC.91.055809)
+#DATASETS   0
+#
+#DATASET    D4329002 
+#DATE       20180523
+#REACTION   64-GD-152(P,G)65-TB-153,,SIG
+#PROJ       1001
+#TARG       64152
+#MF         3
+#MT         102
+#PRODUCT    65-TB-153
+#C4BEGIN    [ 1001 64152   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 64152   3 102    3494068. 14000.34 7.6000-6 8.0000-7                                       R.T.Gueray+          (15)D4329  2 
+ 1001 64152   3 102    3994379. 12000.33 4.3200-5 4.4000-6                                       R.T.Gueray+          (15)D4329  2 
+ 1001 64152   3 102    4495697. 10000.31 2.3500-4 2.6000-5                                       R.T.Gueray+          (15)D4329  2 
+ 1001 64152   3 102    4995004. 11000.38 6.9200-4 6.5000-5                                       R.T.Gueray+          (15)D4329  2 
+ 1001 64152   3 102    5496326. 9000.347 1.2770-3 1.3300-4                                       R.T.Gueray+          (15)D4329  2 
+ 1001 64152   3 102    5995637. 9000.378 1.8500-3 1.7800-4                                       R.T.Gueray+          (15)D4329  2 
+ 1001 64152   3 102    6997283. 7000.343 2.7960-3 2.9800-4                                       R.T.Gueray+          (15)D4329  2 
+ 1001 64152   3 102    7496598. 6000.315 3.0130-3 3.5600-4                                       R.T.Gueray+          (15)D4329  2 
+ 1001 64152   3 102    7995916. 8000.449 3.8750-3 8.8700-4                                       R.T.Gueray+          (15)D4329  2 
+#/DATA      9
+#/DATASET

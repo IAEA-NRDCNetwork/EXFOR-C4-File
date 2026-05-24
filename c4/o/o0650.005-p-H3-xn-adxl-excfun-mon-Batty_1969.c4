@@ -1,0 +1,27 @@
+#ENTRY      O0650
+#AUTHOR1    C.J.Batty+
+#YEAR       1969
+#INSTITUTE  (2UK NIN)
+#TITLE      Intermediate Energy Neutron Sources
+#AUTHOR(S)  C.J.Batty, B.E.Bonner, A.I.Kilvington, C.Tschalar, L.E.Williams, 
+#+          A.S.Clough
+#REF-CODE   (J,NIM,68,273,1969)
+#REFERENCE  Nucl.Intrum.Meth. 68 (1969) 273 (doi:10.1016/0029-554X(69)90232-8)
+#DATASETS   0
+#
+#DATASET    O0650005 
+#DATE       20001117
+#REACTION   1-H-3(P,X)0-NN-1,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1001  1003   4 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4 201    3.0000+7          0.048500          1.000000                              C.J.Batty+           (69)O0650  5 
+ 1001  1003   4 201    5.0000+7          0.044200          1.000000                              C.J.Batty+           (69)O0650  5 
+#/DATA      2
+#/DATASET

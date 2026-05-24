@@ -1,0 +1,35 @@
+#ENTRY      E1426
+#AUTHOR1    Y.Aoki+
+#YEAR       1982
+#INSTITUTE  (2JPNTSU)
+#TITLE      Marked changes in (p,t) analyzing powers for isotopes
+#+          of Zr, Mo, Ru, and Pd and strong, sequential, two-step
+#+          transfer processes in both (p,t) and (t,p) reactions
+#AUTHOR(S)  Y.Aoki, H.Iida, S.Kunori, K.Nagano, Y.Toba, K.Yagi
+#REF-CODE   (J,PR/C,25,(2),1050,198202)
+#REFERENCE  Phys.Rev.C 25 No.2 (1982) 1050 (doi:10.1103/PhysRevC.25.1050)
+#DATASETS   0
+#
+#DATASET    E1426022 
+#DATE       20070909
+#REACTION   40-ZR-92(P,T)40-ZR-90,PAR,DA
+#PROJ       1001
+#TARG       40092
+#MF         4
+#MT         700
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 1001 40092   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40092   4 700  C 2.0100+7          4.1040-3          0.996354          0.000000         LVLY.Aoki+              (82)E1426 22 
+ 1001 40092   4 700  C 2.0100+7          2.0770-3          0.984503          0.000000         LVLY.Aoki+              (82)E1426 22 
+ 1001 40092   4 700  C 2.0100+7          3.6980-4          0.962503          0.000000         LVLY.Aoki+              (82)E1426 22 
+ 1001 40092   4 700  C 2.0100+7          6.9700-5          0.952874          0.000000         LVLY.Aoki+              (82)E1426 22 
+ 1001 40092   4 700  C 2.0100+7          5.3060-5          0.934515          0.000000         LVLY.Aoki+              (82)E1426 22 
+ 1001 40092   4 700  C 2.0100+7          1.9150-4          0.919204          0.000000         LVLY.Aoki+              (82)E1426 22 
+ 1001 40092   4 700  C 2.0100+7          3.8180-4          0.903933          0.000000         LVLY.Aoki+              (82)E1426 22 
+ 1001 40092   4 700  C 2.0100+7          7.0260-4          0.862249          0.000000         LVLY.Aoki+              (82)E1426 22 
+ 1001 40092   4 700  C 2.0100+7          6.8040-4          0.815936          0.000000         LVLY.Aoki+              (82)E1426 22 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      C0709
+#AUTHOR1    J.Wing+
+#YEAR       1959
+#INSTITUTE  (1USAANL)
+#TITLE      Excitation Functions of U235 and U238 Bombarded with
+#+          Helium and Deuterium Ions
+#AUTHOR(S)  J.Wing, W.J.Ramler, A.L.Harkness, J.R.Huizenga
+#REF-CODE   (J,PR,114,163,1959)
+#REFERENCE  Phys.Rev. 114 (1959) 163 (doi:10.1103/PhysRev.114.163)
+#DATASETS   0
+#
+#DATASET    C0709014 
+#DATE       20000814
+#REACTION   92-U-238(A,X)94-PU-239,CUM,SIG
+#PROJ       2004
+#TARG       92238
+#MF         3
+#MT         459
+#PRODUCT    94-PU-239
+#C4BEGIN    [ 2004 92238   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 92238   3 459    4.3000+7          0.050000                    94239.9                     J.Wing+              (59)C0709 14 
+ 2004 92238   3 459    3.6200+7          0.048400                    94239.9                     J.Wing+              (59)C0709 14 
+ 2004 92238   3 459    3.2500+7          0.070600                    94239.9                     J.Wing+              (59)C0709 14 
+ 2004 92238   3 459    2.8500+7          0.049100                    94239.9                     J.Wing+              (59)C0709 14 
+ 2004 92238   3 459    2.4100+7          4.9000-3                    94239.9                     J.Wing+              (59)C0709 14 
+#/DATA      5
+#/DATASET

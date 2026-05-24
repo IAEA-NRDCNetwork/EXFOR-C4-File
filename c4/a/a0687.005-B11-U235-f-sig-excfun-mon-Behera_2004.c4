@@ -1,0 +1,38 @@
+#ENTRY      A0687
+#AUTHOR1    Bivash R.Behera+
+#YEAR       2004
+#INSTITUTE  (3INDIND)
+#TITLE      Fission  fragment angular distributions for the systems
+#+          14N+232Th and 11B+235U at near and sub-barrier energies
+#AUTHOR(S)  Bivash R.Behera, M.Satpathy, S.Jena, S.Kailas, R.G.Thomas, 
+#+          K.Mahata, A.Chatterjee, Subinit Roy, P.Basu, M.K.Sharan, 
+#+          S.K.Datta
+#REF-CODE   (J,PR/C,69,064603,2004)
+#REFERENCE  Phys.Rev.C 69 (2004) 064603 (doi:10.1103/PhysRevC.69.064603)
+#DATASETS   0
+#
+#DATASET    A0687005 
+#DATE       20041019
+#REACTION   92-U-235(5-B-11,F),,SIG
+#PROJ       5011
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [ 5011 92235   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5011 92235   3  18 D  7.3900+7          1.440000 0.138000                                       Bivash R.Behera+     (04)A0687  5 
+ 5011 92235   3  18 D  7.1900+7          1.390000 0.128000                                       Bivash R.Behera+     (04)A0687  5 
+ 5011 92235   3  18 D  6.9900+7          1.200000 0.112000                                       Bivash R.Behera+     (04)A0687  5 
+ 5011 92235   3  18 D  6.7900+7          1.030000 0.072000                                       Bivash R.Behera+     (04)A0687  5 
+ 5011 92235   3  18 D  6.5900+7          0.960000 0.095000                                       Bivash R.Behera+     (04)A0687  5 
+ 5011 92235   3  18 D  6.3900+7          0.772000 0.054000                                       Bivash R.Behera+     (04)A0687  5 
+ 5011 92235   3  18 D  6.1900+7          0.630000 0.040000                                       Bivash R.Behera+     (04)A0687  5 
+ 5011 92235   3  18 D  5.9900+7          0.465000 0.033000                                       Bivash R.Behera+     (04)A0687  5 
+ 5011 92235   3  18 D  5.7900+7          0.270000 0.020000                                       Bivash R.Behera+     (04)A0687  5 
+ 5011 92235   3  18 D  5.5900+7          0.132000 0.014000                                       Bivash R.Behera+     (04)A0687  5 
+ 5011 92235   3  18 D  5.3900+7          0.054600 5.3000-3                                       Bivash R.Behera+     (04)A0687  5 
+ 5011 92235   3  18 D  5.1300+7          7.0000-3 2.0000-3                                       Bivash R.Behera+     (04)A0687  5 
+#/DATA      12
+#/DATASET

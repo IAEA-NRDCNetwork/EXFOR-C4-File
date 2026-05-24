@@ -1,0 +1,25 @@
+#ENTRY      41611
+#AUTHOR1    A.S.Vorobyev+
+#YEAR       2016
+#INSTITUTE  (4RUSLIN)
+#TITLE      Total prompt fission neutron spectrum from thermal
+#+          neutron-induced fission of U-233 and Pu-239.
+#AUTHOR(S)  A.S.Vorobyev, O.A.Shcherbakov
+#REF-CODE   (J,YK,,(2),53,2016)
+#REFERENCE  Yad.Reak.Konst.  No.2 (2016) 53
+#DATASETS   0
+#
+#DATASET    416110051
+#DATE       20170202
+#REACTION   94-PU-239(N,F),PR,NU
+#PROJ       1
+#TARG       94239
+#MF         1
+#MT         456
+#C4BEGIN    [    1 94239   1 456 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   1 456 C  0.036300          2.890000 0.050000                                       A.S.Vorobyev+        (16)41611  51
+#/DATA      1
+#/DATASET

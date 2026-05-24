@@ -1,0 +1,31 @@
+#ENTRY      41512
+#AUTHOR1    V.A.Roschenko+
+#YEAR       2007
+#INSTITUTE  (4RUSFEI)
+#TITLE      Experimental studies of the absolute total delayed
+#+          neutron yields from neutron induced fission of U-236
+#+          in the energy rage 1-5 MeV.
+#AUTHOR(S)  V.A.Roschenko, V.M.Piksaykin, G.G.Korolev, Yu.F.Balakshev, 
+#+          A.S.Egorov, K.V.Mitrofanov
+#REF-CODE   (S,ISINN-14,144,2007)
+#REFERENCE  Report (proceedings) ISINN-14 page 144, 2007
+#DATASETS   0
+#
+#DATASET    41512002 
+#DATE       20200609
+#REACTION   92-U-236(N,F),DL,NU
+#PROJ       1
+#TARG       92236
+#MF         1
+#MT         455
+#C4BEGIN    [    1 92236   1 455 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92236   1 455 A  1010000. 100000.0 0.021800 2.2000-3                                       V.A.Roschenko+       (07)41512  2 
+    1 92236   1 455 A  3230000. 150000.0 0.023300 1.2000-3                                       V.A.Roschenko+       (07)41512  2 
+    1 92236   1 455 A  3750000. 140000.0 0.023200 1.2000-3                                       V.A.Roschenko+       (07)41512  2 
+    1 92236   1 455 A  4200000. 170000.0 0.021800 1.1000-3                                       V.A.Roschenko+       (07)41512  2 
+    1 92236   1 455 A  4720000. 210000.0 0.022000 1.1000-3                                       V.A.Roschenko+       (07)41512  2 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,811 @@
+#ENTRY      O2550
+#AUTHOR1    S.V.Szwec+
+#YEAR       2021
+#INSTITUTE  (2UK MAN)
+#TITLE      Neutron occupancies and single-particle energies
+#+          across the stable tin isotopes
+#AUTHOR(S)  S.V.Szwec, D.K.Sharp, B.P.Kay, S.J.Freeman, J.P.Schiffer, 
+#+          P.Adsley, C.Binnersley, N.de Sereville, T.Faestermann, R.F.Garcia Ruiz, 
+#+          F.Hammache, R.Hertenberger, A.Meyer, C.Portail, I.Stefan, 
+#+          A.Vernon, S.Wilkins, H.-F.Wirth
+#REF-CODE   (J,PR/C,104,054308,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) 054308 (doi:10.1103/PhysRevC.104.054308)
+#DATASETS   0
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          5.5800-4 1.1000-5 0.951057          0.000000         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          9.0700-4 1.4000-5 0.866025          0.000000         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          9.6100-4 1.6000-5 0.766044          0.000000         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          5.2750-3 3.6000-5 0.951057          25000.00         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.5210-3 2.3000-5 0.866025          25000.00         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.9990-3 2.2000-5 0.766044          25000.00         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          5.2000-4 1.0000-5 0.951057          150000.0         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          3.3010-3 2.6000-5 0.866025          150000.0         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.4730-3 1.9000-5 0.766044          150000.0         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          9.0000-6 2.0000-6 0.951057          619000.0         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.6000-5 2.0000-6 0.866025          619000.0         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.7000-5 3.0000-6 0.766044          619000.0         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          2.5000-5 2.0000-6 0.951057          870000.0         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.3000-5 2.0000-6 0.866025          870000.0         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.3000-5 2.0000-6 0.766044          870000.0         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          1.2400-4 9.0000-6 0.951057          920000.0         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          5.0000-5 4.0000-6 0.866025          920000.0         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          4.2000-5 4.0000-6 0.766044          920000.0         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          2.1700-4 8.0000-6 0.951057          931000.0         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.5300-4 7.0000-6 0.866025          931000.0         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.6600-4 7.0000-6 0.766044          931000.0         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          1.3000-5 2.0000-6 0.951057          1044000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          4.3000-5 3.0000-6 0.866025          1044000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.2000-5 2.0000-6 0.766044          1044000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          2.3000-5 2.0000-6 0.951057          1072000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.2000-5 2.0000-6 0.866025          1072000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.6000-5 2.0000-6 0.766044          1072000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          3.0000-5 2.0000-6 0.951057          1136000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.2000-5 2.0000-6 0.866025          1136000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.2000-5 2.0000-6 0.766044          1136000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          8.4000-5 4.0000-6 0.951057          1155000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.4100-4 5.0000-6 0.866025          1155000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.3400-4 5.0000-6 0.766044          1155000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          1.5810-3 1.9000-5 0.951057          1194000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          9.3800-4 1.3000-5 0.866025          1194000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          5.6600-4 1.1000-5 0.766044          1194000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          4.0000-5 3.0000-6 0.866025          1301000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.1000-5 2.0000-6 0.766044          1301000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      2
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          1.2000-5 2.0000-6 0.951057          1466000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          8.0000-6 1.0000-6 0.766044          1466000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      2
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          8.0000-4 1.4000-5 0.951057          1489000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.7500-4 6.0000-6 0.766044          1489000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      2
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          1.0000-5 2.0000-6 0.951057          1729000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.3000-5 2.0000-6 0.866025          1729000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          3.1000-5 3.0000-6 0.766044          1729000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          6.8000-5 4.0000-6 0.951057          1784000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          4.1000-5 3.0000-6 0.866025          1784000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      2
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          2.6000-5 2.0000-6 0.951057          1829000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          4.1000-5 3.0000-6 0.866025          1829000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      2
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          4.5000-5 4.0000-6 0.951057          1902000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          5.0000-5 4.0000-6 0.866025          1902000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      2
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          2.9000-5 3.0000-6 0.866025          2026000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.8000-5 3.0000-6 0.766044          2026000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      2
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          1.1400-4 5.0000-6 0.951057          2271000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          6.3000-5 4.0000-6 0.766044          2271000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      2
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          4.3000-5 3.0000-6 0.951057          2384000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.7000-5 3.0000-6 0.866025          2384000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      2
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          2.8000-5 2.0000-6 0.951057          2446000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          4.2000-5 3.0000-6 0.866025          2446000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      2
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          6.6000-5 4.0000-6 0.951057          2482000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          4.7000-5 4.0000-6 0.866025          2482000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      2
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          4.8000-5 4.0000-6 0.951057          2504000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          6.7000-5 4.0000-6 0.866025          2504000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      2
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          2.7000-5 3.0000-6 0.951057          2621000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          3.0000-5 3.0000-6 0.866025          2621000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.4000-5 2.0000-6 0.766044          2621000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          4.9000-5 3.0000-6 0.951057          2676000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          5.6000-5 4.0000-6 0.866025          2676000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          3.8000-5 3.0000-6 0.766044          2676000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          1.3540-3 1.8000-5 0.951057          2726000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.3830-3 1.8000-5 0.866025          2726000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          9.3000-4 1.1000-5 0.766044          2726000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          5.1100-3 3.6000-5 0.951057          2757000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          4.9360-3 3.6000-5 0.866025          2757000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          3.5000-3 2.2000-5 0.766044          2757000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          1.1770-3 1.9000-5 0.951057          2828000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.2520-3 1.6000-5 0.866025          2828000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          9.2600-4 1.5000-5 0.766044          2828000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          3.3500-4 9.0000-6 0.951057          3049000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.8800-4 8.0000-6 0.866025          3049000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.0700-4 7.0000-6 0.766044          3049000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          1.9300-4 1.9000-5 0.951057          3113000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.1600-4 7.0000-6 0.866025          3113000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          9.6000-5 6.0000-6 0.766044          3113000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          2.1300-4 1.2000-5 0.951057          3188000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.5500-4 7.0000-6 0.866025          3188000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.1400-4 6.0000-6 0.766044          3188000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          2.0600-4 1.0000-5 0.951057          3259000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.0800-4 6.0000-6 0.866025          3259000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.2700-4 4.0000-6 0.766044          3259000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          4.3100-4 1.7000-5 0.951057          3514000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          3.1700-4 8.0000-6 0.866025          3514000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.2200-4 7.0000-6 0.766044          3514000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          2.5800-4 9.0000-6 0.951057          3534000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.9700-4 9.0000-6 0.866025          3534000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.8100-4 6.0000-6 0.766044          3534000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          7.5900-4 1.4000-5 0.951057          3632000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.1950-3 1.4000-5 0.866025          3632000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          7.4200-4 4.0000-6 0.766044          3632000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          1.2830-3 2.4000-5 0.951057          3720000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.2540-3 1.6000-5 0.866025          3720000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          7.7000-4 1.3000-5 0.766044          3720000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          2.3200-4 1.8000-5 0.951057          3735000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          3.3100-4 8.0000-6 0.866025          3735000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.5900-4 8.0000-6 0.766044          3735000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          1.6200-4 9.0000-6 0.951057          3773000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.2200-4 7.0000-6 0.866025          3773000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.3900-4 6.0000-6 0.766044          3773000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          7.0600-4 1.8000-5 0.951057          3849000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          6.8200-4 1.2000-5 0.866025          3849000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          5.0900-4 1.1000-5 0.766044          3849000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          6.6800-4 1.4000-5 0.951057          3910000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          5.1400-4 1.0000-5 0.866025          3910000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          4.4600-4 1.0000-5 0.766044          3910000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          2.3200-4 8.0000-6 0.951057          3966000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          2.2700-4 6.0000-6 0.866025          3966000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          1.7400-4 7.0000-6 0.766044          3966000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          3.6200-4 9.0000-6 0.951057          4057000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          3.2100-4 8.0000-6 0.866025          4057000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          3.5300-4 9.0000-6 0.766044          4057000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET
+#
+#DATASET    O2550024 
+#DATE       20220309
+#REACTION   50-SN-122(D,P)50-SN-123,PAR,DA
+#PROJ       1002
+#TARG       50122
+#MF         4
+#MT         600
+#PRODUCT    50-SN-123
+#C4BEGIN    [ 1002 50122   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50122   4 600 A  1.5000+7          6.8000-5 4.0000-6 0.951057          4075000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          5.8000-5 3.0000-6 0.866025          4075000.         LVLS.V.Szwec+           (21)O2550 24 
+ 1002 50122   4 600 A  1.5000+7          5.0000-5 3.0000-6 0.766044          4075000.         LVLS.V.Szwec+           (21)O2550 24 
+#/DATA      3
+#/DATASET

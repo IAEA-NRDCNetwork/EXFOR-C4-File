@@ -1,0 +1,27 @@
+#ENTRY      30299
+#AUTHOR1    L.Glowacka+
+#YEAR       1974
+#INSTITUTE  (3POLIBJ)
+#TITLE      Differential cross sections for the (n,a) reactions
+#+          induced by 14 and 18 MeV neutrons in some rare-earth
+#+          nuclei
+#AUTHOR(S)  L.Glowacka, M.Jaskola, W.Osakiewicz, J.Turkiewicz, L.Zemlo
+#REF-CODE   (P,INDC(SEC)-42,193,1974)
+#REFERENCE  Progress report INDC(SEC)-42 page 193, 1974
+#DATASETS   0
+#
+#DATASET    30299003 
+#DATE       20191128
+#REACTION   63-EU-153(N,A)61-PM-150,PAR,DA
+#PROJ       1
+#TARG       63153
+#MF         4
+#MT         800
+#PRODUCT    61-PM-150
+#C4BEGIN    [    1 63153   4 800 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 63153   4 800 D  1.8170+7          5.2600-4 3.2000-5 0.838671 0.190115 2.1835+7 2995000. E2L.Glowacka+          (74)30299  3 
+#/DATA      1
+#/DATASET

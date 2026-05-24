@@ -1,0 +1,26 @@
+#ENTRY      22727
+#AUTHOR1    N.Shinohara+
+#YEAR       1997
+#INSTITUTE  (2JPNJAE)
+#TITLE      .Radiochemical determination of Neutron capture
+#+          cross section of 241-Am
+#AUTHOR(S)  N.Shinohara, Y.Hatsukawa, K.Hata, N.Kohno
+#REF-CODE   (J,NST,34,(7),613,199707)
+#REFERENCE  J.Nucl.Sci.Technol. 34 No.7 (1997) 613 (doi:10.1080/18811248.1997.9733719)
+#DATASETS   0
+#
+#DATASET    22727003 
+#DATE       20050318
+#REACTION   95-AM-241(N,G)95-AM-242-G,,SIG
+#PROJ       1
+#TARG       95241
+#MF         3
+#MT         102
+#PRODUCT    95-AM-242-G
+#C4BEGIN    [    1 95241   3 102GC]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95241   3 102GC  0.025300          768.0000 58.00000                                       N.Shinohara+         (97)22727  3 
+#/DATA      1
+#/DATASET

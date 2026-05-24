@@ -1,0 +1,26 @@
+#ENTRY      13285
+#AUTHOR1    F.L.Lisman+
+#YEAR       1971
+#INSTITUTE  (1USAMTR)
+#TITLE      Fission yields and branching ratios of 85Kr in
+#+          thermal neutron fission of 233U, 235U, 239Pu, and 241Pu
+#AUTHOR(S)  F.L.Lisman, R.M.Abernathey, R.E.Foster Jr, W.J.Maeck
+#REF-CODE   (J,JIN,33,643,1971)
+#REFERENCE  J.Inorg.Nucl.Chem. 33 (1971) 643 (doi:10.1016/0022-1902(71)80460-8)
+#DATASETS   0
+#
+#DATASET    132850042
+#DATE       20180411
+#REACTION   94-PU-239(N,F)36-KR-85,CUM,FY,,SPA
+#PROJ       1
+#TARG       94239
+#MF         8
+#MT         459
+#PRODUCT    36-KR-85
+#C4BEGIN    [    1 94239   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   8 459    0.025300          1.3000-3 3.1000-5 36.00000 85.00000 9.000000            F.L.Lisman+          (71)13285  42
+#/DATA      1
+#/DATASET

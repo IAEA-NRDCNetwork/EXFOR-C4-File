@@ -1,0 +1,35 @@
+#ENTRY      A0338
+#AUTHOR1    E.A.Skakun+
+#YEAR       1987
+#INSTITUTE  (4UKRKFT)
+#TITLE      Excitation functions and isomer ratios for up-to-9 MeV
+#+          proton interactions with Zr and Mo isotope nuclei.
+#AUTHOR(S)  E.A.Skakun, V.G.Batij, Yu.N.Rakivnenko, O.A.Rastrepin
+#REF-CODE   (J,SNP,46,17,1987)
+#REFERENCE  Sov.J.Nucl.Phys. 46 (1987) 17
+#DATASETS   0
+#
+#DATASET    A0338004 
+#DATE       20240113
+#REACTION   42-MO-96(P,N)43-TC-96-M,,SIG
+#PROJ       1001
+#TARG       42096
+#MF         3
+#MT         4
+#PRODUCT    43-TC-96-M
+#C4BEGIN    [ 1001 42096   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42096   3   4M   4500000.          2.3100-3 2.4000-4                                       E.A.Skakun+          (87)A0338  4 
+ 1001 42096   3   4M   5000000.          0.021600 1.8000-3                                       E.A.Skakun+          (87)A0338  4 
+ 1001 42096   3   4M   5500000.          0.038000 4.0000-3                                       E.A.Skakun+          (87)A0338  4 
+ 1001 42096   3   4M   6000000.          0.110000 9.0000-3                                       E.A.Skakun+          (87)A0338  4 
+ 1001 42096   3   4M   6500000.          0.189000 0.015000                                       E.A.Skakun+          (87)A0338  4 
+ 1001 42096   3   4M   7000000.          0.277000 0.022000                                       E.A.Skakun+          (87)A0338  4 
+ 1001 42096   3   4M   7500000.          0.380000 0.030000                                       E.A.Skakun+          (87)A0338  4 
+ 1001 42096   3   4M   8000000.          0.438000 0.035000                                       E.A.Skakun+          (87)A0338  4 
+ 1001 42096   3   4M   8500000.          0.496000 0.040000                                       E.A.Skakun+          (87)A0338  4 
+ 1001 42096   3   4M   9000000.          0.545000 0.046000                                       E.A.Skakun+          (87)A0338  4 
+#/DATA      10
+#/DATASET

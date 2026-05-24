@@ -1,0 +1,39 @@
+#ENTRY      F0725
+#AUTHOR1    F.Vogler+
+#YEAR       1983
+#INSTITUTE  (2GERUEN)
+#TITLE      Deuteron-gamma angular correlations in the reactions
+#+          24,26Mg, 28,30Si(d,d1gamma) at Ed=10 MeV.
+#AUTHOR(S)  F.Vogler, J.Bottcher, W.Eyrich, A.Hofmann, M.Meyer, U.Scheib
+#REF-CODE   (J,PR/C,28,1925,1983)
+#REFERENCE  Phys.Rev.C 28 (1983) 1925 (doi:10.1103/PhysRevC.28.1925)
+#DATASETS   0
+#
+#DATASET    F0725006 
+#DATE       20051207
+#REACTION   12-MG-26(D,INL)12-MG-26,PAR,DA
+#PROJ       1002
+#TARG       12026
+#MF         4
+#MT         651
+#PRODUCT    12-MG-26
+#C4BEGIN    [ 1002 12026   4 651  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 12026   4 651  C 1.0000+7          6.9763-3          0.890832          1809000.         LVLF.Vogler+            (83)F0725  6 
+ 1002 12026   4 651  C 1.0000+7          6.8044-3          0.844094          1809000.         LVLF.Vogler+            (83)F0725  6 
+ 1002 12026   4 651  C 1.0000+7          5.5858-3          0.790967          1809000.         LVLF.Vogler+            (83)F0725  6 
+ 1002 12026   4 651  C 1.0000+7          3.7556-3          0.724160          1809000.         LVLF.Vogler+            (83)F0725  6 
+ 1002 12026   4 651  C 1.0000+7          2.6307-3          0.660526          1809000.         LVLF.Vogler+            (83)F0725  6 
+ 1002 12026   4 651  C 1.0000+7          1.8430-3          0.587941          1809000.         LVLF.Vogler+            (83)F0725  6 
+ 1002 12026   4 651  C 1.0000+7          1.5126-3          0.516772          1809000.         LVLF.Vogler+            (83)F0725  6 
+ 1002 12026   4 651  C 1.0000+7          2.5785-3          0.435498          1809000.         LVLF.Vogler+            (83)F0725  6 
+ 1002 12026   4 651  C 1.0000+7          3.0714-3          0.349406          1809000.         LVLF.Vogler+            (83)F0725  6 
+ 1002 12026   4 651  C 1.0000+7          3.4380-3          0.264614          1809000.         LVLF.Vogler+            (83)F0725  6 
+ 1002 12026   4 651  C 1.0000+7          2.9819-3          0.179214          1809000.         LVLF.Vogler+            (83)F0725  6 
+ 1002 12026   4 651  C 1.0000+7          2.5871-3          0.080721          1809000.         LVLF.Vogler+            (83)F0725  6 
+ 1002 12026   4 651  C 1.0000+7          2.1832-3         -0.011606          1809000.         LVLF.Vogler+            (83)F0725  6 
+ 1002 12026   4 651  C 1.0000+7          1.6498-3         -0.101838          1809000.         LVLF.Vogler+            (83)F0725  6 
+#/DATA      14
+#/DATASET

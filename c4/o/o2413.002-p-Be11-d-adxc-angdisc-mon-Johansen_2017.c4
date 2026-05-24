@@ -1,0 +1,52 @@
+#ENTRY      O2413
+#AUTHOR1    J.G.Johansen+
+#YEAR       2017
+#INSTITUTE  (2DENAAU)
+#TITLE      Study of bound states in 10Be by one neutron removal
+#+          reactions of 11Be
+#AUTHOR(S)  J.G.Johansen, V.Bildstein, M.J.G.Borge, M.Cubero, J.Diriken, 
+#+          J.Elseviers, L.M.Fraile, H.O.U.Fynbo, L.P.Gaffney, R.Gernhauser, 
+#+          B.Jonson, G.T.Koldste, J.Konki, T.Kroll, R.Krucken, D.Mucher, 
+#+          T.Nilsson, K.Nowak, J.Pakarinen, V.Pesudo, R.Raabe, K.Riisager, 
+#+          M.Seidlitz, O.Tengblad, H.Tornqvist, D.Voulot, N.Warr, K.Wimmer, 
+#+          H.De Witte
+#REF-CODE   (J,JP/G,44,044009,2017)
+#REFERENCE  J.Phys.G 44 (2017) 044009 (doi:10.1088/1361-6471/aa5f28)
+#DATASETS   0
+#
+#DATASET    O2413002 
+#DATE       20190113
+#REACTION   (1-H-1(4-BE-11,D)4-BE-10,PAR,DA,RSD)=(4-BE-11(P,D)4-BE-10,PAR,DA)
+#PROJ       1001
+#TARG       4011
+#MF         4
+#MT         650
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1001  4011   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4011   4 650  C 2800000.          0.074717 1.2081-3 0.594823          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.060303 1.2081-3 0.551937          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.060822 1.2081-3 0.507538          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.063704 1.2081-3 0.461749          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.053705 1.2081-3 0.414693          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.049427 1.2081-3 0.366501          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.051178 1.0112-3 0.317305          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.043200 1.0112-3 0.267238          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.037471 1.0112-3 0.216440          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.040181 1.2600-3 0.165048          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.040111 8.6779-4 0.078459          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.040700 8.6779-4 0.026177          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.042977 8.3200-4-0.026177          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.043469 8.5761-4-0.078459          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.042674 8.3113-4-0.130526          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.042785 8.3113-4-0.182236          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.042882 8.2583-4-0.233445          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.041095 8.8774-4-0.284015          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.041415 8.8774-4-0.333807          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.037850 9.1968-4-0.382683          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.031776 9.8995-4-0.430511          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+ 1001  4011   4 650  C 2800000.          0.026469 2.9257-3-0.477159          0.000000         LVLJ.G.Johansen+        (17)O2413  2 
+#/DATA      22
+#/DATASET

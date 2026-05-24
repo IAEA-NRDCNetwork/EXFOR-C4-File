@@ -1,0 +1,26 @@
+#ENTRY      10214
+#AUTHOR1    J.K.Temperley+
+#YEAR       1970
+#INSTITUTE  (1USABRL)
+#TITLE      Neutron Activation Cross Sections for Some Isotopes of
+#+          Ruthenium, Palladium, Indium, Tin, and Iridium
+#AUTHOR(S)  J.K.Temperley, D.E.Barnes
+#REF-CODE   (R,BRL-R-1491,1970)
+#REFERENCE  Report BRL-R-1491, 1970
+#DATASETS   0
+#
+#DATASET    10214024 
+#DATE       20010305
+#REACTION   44-RU-96(N,X)43-TC-95-G,,SIG
+#PROJ       1
+#TARG       44096
+#MF         3
+#MT         454
+#PRODUCT    43-TC-95-G
+#C4BEGIN    [    1 44096   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 44096   3 454 A  1.4100+7 500000.0 0.200000 0.120000           43095.0                     J.K.Temperley+       (70)10214 24 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      O0375
+#AUTHOR1    A.A.Kotov+
+#YEAR       1974
+#INSTITUTE  (4RUSLIN)
+#TITLE      Angular correlations of fragments from binary nuclear
+#+          fission induced by 1 GeV protons.
+#AUTHOR(S)  A.A.Kotov, G.G.Semenchuk, L.N.Andronenko, M.N.Andronenko, 
+#+          B.L.Gorshkov, G.G.Kovshevny, V.R.Reznik, G.E.Solyakin
+#REF-CODE   (J,YF,19,756,1974)
+#REFERENCE  Yad.Fiz. 19 (1974) 756
+#DATASETS   0
+#
+#DATASET    O0375004A
+#DATE       20050203
+#REACTION   74-W-0(P,F),,SIG
+#PROJ       1001
+#TARG       74000
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 74000   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 74000   3  18 D  1.0000+9          0.015000 2.0000-3                                       A.A.Kotov+           (74)O0375  4A
+#/DATA      1
+#/DATASET

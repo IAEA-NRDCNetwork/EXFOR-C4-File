@@ -1,0 +1,39 @@
+#ENTRY      C1980
+#AUTHOR1    J.C.Alder+
+#YEAR       1972
+#INSTITUTE  (1USALRC)
+#TITLE      Elastic pd Scattering at 316, 364, 470, and 590 MeV
+#+          in the Backward Hemisphere
+#AUTHOR(S)  J.C.Alder, W.Dollhoff, C.Lunke, C.F.Perdrisat, W.K.Roberts, 
+#+          P.Kitching, G.Moss, W.C.Olsen, J.R.Priest
+#REF-CODE   (J,PR/C,6,(6),2010,1972)
+#REFERENCE  Phys.Rev.C 6 No.6 (1972) 2010 (doi:10.1103/PhysRevC.6.2010)
+#DATASETS   0
+#
+#DATASET    C1980005 
+#DATE       20130215
+#REACTION   1-H-2(P,EL)1-H-2,,DA
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4   2    3.1600+8          4.0400-5 7.0000-7-0.325568                              J.C.Alder+           (72)C1980  5 
+ 1001  1002   4   2    3.1600+8          3.9900-5 7.0000-7-0.358368                              J.C.Alder+           (72)C1980  5 
+ 1001  1002   4   2    3.1600+8          3.8500-5 7.0000-7-0.398749                              J.C.Alder+           (72)C1980  5 
+ 1001  1002   4   2    3.1600+8          3.4800-5 8.0000-7-0.534352                              J.C.Alder+           (72)C1980  5 
+ 1001  1002   4   2    3.1600+8          3.8600-5 8.0000-7-0.569280                              J.C.Alder+           (72)C1980  5 
+ 1001  1002   4   2    3.1600+8          4.0700-5 8.0000-7-0.603208                              J.C.Alder+           (72)C1980  5 
+ 1001  1002   4   2    3.1600+8          3.8100-5 7.0000-7-0.645458                              J.C.Alder+           (72)C1980  5 
+ 1001  1002   4   2    3.1600+8          3.8600-5 8.0000-7-0.676876                              J.C.Alder+           (72)C1980  5 
+ 1001  1002   4   2    3.1600+8          3.7800-5 8.0000-7-0.707107                              J.C.Alder+           (72)C1980  5 
+ 1001  1002   4   2    3.1600+8          3.4500-5 8.0000-7-0.736097                              J.C.Alder+           (72)C1980  5 
+ 1001  1002   4   2    3.1600+8          3.8600-5 7.0000-7-0.767165                              J.C.Alder+           (72)C1980  5 
+ 1001  1002   4   2    3.1600+8          4.1600-5 7.0000-7-0.795473                              J.C.Alder+           (72)C1980  5 
+ 1001  1002   4   2    3.1600+8          3.9900-5 6.0000-7-0.828549                              J.C.Alder+           (72)C1980  5 
+#/DATA      13
+#/DATASET

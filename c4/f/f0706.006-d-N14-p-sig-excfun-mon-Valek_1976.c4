@@ -1,0 +1,30 @@
+#ENTRY      F0706
+#AUTHOR1    A.Valek+
+#YEAR       1976
+#INSTITUTE  (3HUNDEB)
+#TITLE      A study of the 14N(d,p)15N reaction at low bombarding
+#+          energies.
+#AUTHOR(S)  A.Valek, T.Vertse, B.Schlenk, I.Hunyadi
+#REF-CODE   (J,NP/A,270,200,1976)
+#REFERENCE  Nucl.Phys.A 270 (1976) 200 (doi:10.1016/0375-9474(76)90135-4)
+#DATASETS   0
+#
+#DATASET    F0706006 
+#DATE       20050726
+#REACTION   7-N-14(D,P)7-N-15,PAR,SIG
+#PROJ       1002
+#TARG       7014
+#MF         3
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [ 1002  7014   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7014   3 600    324000.0          2.7000-5 2.2000-6                   5284500. 14300.00LVLA.Valek+             (76)F0706  6 
+ 1002  7014   3 600    374000.0          8.6000-5 6.5000-6                   5284500. 14300.00LVLA.Valek+             (76)F0706  6 
+ 1002  7014   3 600    475000.0          4.0000-4 3.0000-5                   5284500. 14300.00LVLA.Valek+             (76)F0706  6 
+ 1002  7014   3 600    576000.0          1.0800-3 7.5000-5                   5284500. 14300.00LVLA.Valek+             (76)F0706  6 
+ 1002  7014   3 600    626000.0          2.0000-3 1.4000-4                   5284500. 14300.00LVLA.Valek+             (76)F0706  6 
+#/DATA      5
+#/DATASET

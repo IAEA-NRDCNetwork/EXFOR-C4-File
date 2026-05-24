@@ -1,0 +1,30 @@
+#ENTRY      O1425
+#AUTHOR1    C.Angulo+
+#YEAR       2005
+#INSTITUTE  (2BLGLVN)
+#TITLE      The Be-7(d,p)2alpha cross section at Big Bang energies
+#+          and the primordial Li-7 abundance.
+#AUTHOR(S)  C.Angulo, E.Casarejos, M.Couder, P.Demaret, P.Leleux, F.Vanderbist, 
+#+          A.Coc, J.Kiener, V.Tatischeff, T.Davinson, A.S.Murphy, N.L.Achouri, 
+#+          N.A.Orr, D.Cortina-Gil, P.Figuera, B.R.Fulton, I.Mukha, 
+#+          E.Vangioni
+#REF-CODE   (J,AJ,630,L105,2005)
+#REFERENCE  Astrophys.J. 630 (2005) L105 (doi:10.1086/491732)
+#DATASETS   0
+#
+#DATASET    O1425002 
+#DATE       20070605
+#REACTION   1-H-2(4-BE-7,P)4-BE-8,,SIG,,AV
+#PROJ       4007
+#TARG       1002
+#MF         3
+#MT         103
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 4007  1002   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4007  1002   3 103    1118749. 118515.7 7.5000-3 8.0000-4                                       C.Angulo+            (05)O1425  2 
+ 4007  1002   3 103    4977457. 120070.9 0.306000 7.0000-3                                       C.Angulo+            (05)O1425  2 
+#/DATA      2
+#/DATASET

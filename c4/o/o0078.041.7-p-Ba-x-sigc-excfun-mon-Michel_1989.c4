@@ -1,0 +1,26 @@
+#ENTRY      O0078
+#AUTHOR1    R.Michel+
+#YEAR       1989
+#INSTITUTE  (2GERUH)
+#TITLE      Proton-induced spallation at 600 MeV
+#AUTHOR(S)  R.Michel, B.Dittrich, U.Herpers, F.Peiffer, T.Schiffmann, 
+#+          P.Cloth, P.Dragovitsch, D.Filges
+#REF-CODE   (J,ANA,114,287,1989)
+#REFERENCE  Analyst (London) 114 (1989) 287
+#DATASETS   0
+#
+#DATASET    O00780417
+#DATE       20220201
+#REACTION   56-BA-0(P,X)55-CS-136-G,M+,SIG
+#PROJ       1001
+#TARG       56000
+#MF         3
+#MT         459
+#PRODUCT    55-CS-136-G
+#C4BEGIN    [ 1001 56000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 56000   3 459    6.0000+8          0.013700 5.0000-4           55136.0                     R.Michel+            (89)O0078 417
+#/DATA      1
+#/DATASET

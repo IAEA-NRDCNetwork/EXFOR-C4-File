@@ -1,0 +1,31 @@
+#ENTRY      A0299
+#AUTHOR1    H.Lundqvist+
+#YEAR       1979
+#INSTITUTE  (2SWDUPP)
+#TITLE      Production of carrier-free Mg-28 and Na-24 by
+#+          50-180 MeV protons on Si,P,Cl,S,Ar and K: Excitation
+#+          functions and chemical separation.
+#AUTHOR(S)  H.Lundqvist, P.Malmborg
+#REF-CODE   (J,ARI,30,33,1979)
+#REFERENCE  Appl.Radiat.Isot. 30 (1979) 33 (doi:10.1016/0020-708X(79)90094-2)
+#DATASETS   0
+#
+#DATASET    A0299009 
+#DATE       20240109
+#REACTION   14-SI-0(P,X)11-NA-24,,SIG
+#PROJ       1001
+#TARG       14000
+#MF         3
+#MT         454
+#PRODUCT    11-NA-24
+#C4BEGIN    [ 1001 14000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14000   3 454    4.8000+7          5.2000-4 7.8000-5           11024.9                     H.Lundqvist+         (79)A0299  9 
+ 1001 14000   3 454    7.5000+7          1.8200-3                    11024.9                     H.Lundqvist+         (79)A0299  9 
+ 1001 14000   3 454    1.0000+8          2.9000-3 4.4000-4           11024.9                     H.Lundqvist+         (79)A0299  9 
+ 1001 14000   3 454    1.2570+8          3.1200-3                    11024.9                     H.Lundqvist+         (79)A0299  9 
+ 1001 14000   3 454    1.5080+8          3.2900-3                    11024.9                     H.Lundqvist+         (79)A0299  9 
+#/DATA      5
+#/DATASET

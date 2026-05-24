@@ -1,0 +1,27 @@
+#ENTRY      F1323
+#AUTHOR1    G.M.Ter-Akopyan+
+#YEAR       1975
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Synthesis of the new neutron-deficient isotopes
+#+          (250)102, Fm-242 and Ku-254.
+#AUTHOR(S)  G.M.Ter-Akopyan, A.S.Iljinov, Yu.Ts.Oganessian, O.A.Orlova, 
+#+          G.S.Popeko, S.P.Tretyakova, V.I.Chepigin, B.V.Shilov, G.N.Flerov
+#REF-CODE   (J,NP/A,255,509,1975)
+#REFERENCE  Nucl.Phys.A 255 (1975) 509 (doi:10.1016/0375-9474(75)90696-X)
+#DATASETS   0
+#
+#DATASET    F1323002 
+#DATE       20171116
+#REACTION   92-U-233(10-NE-22,5N)102-NO-250,,SIG
+#PROJ       10022
+#TARG       92233
+#MF         3
+#MT         152
+#PRODUCT    102-NO-250
+#C4BEGIN    [10022 92233   3 152  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10022 92233   3 152    1.2000+8 1500000. 1.5000-9                                                G.M.Ter-Akopyan+     (75)F1323  2 
+#/DATA      1
+#/DATASET

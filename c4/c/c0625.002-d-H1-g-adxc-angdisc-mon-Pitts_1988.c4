@@ -1,0 +1,35 @@
+#ENTRY      C0625
+#AUTHOR1    W.K.Pitts+
+#YEAR       1988
+#INSTITUTE  (1USAINU)
+#TITLE      1H(d(pol),gamma)3He reaction at E(d) = 95 MeV
+#AUTHOR(S)  W.K.Pitts, H.O.Meyer, L.C.Bland, J.D.Brown, R.C.Byrd, M.Hugi, 
+#+          H.J.Karwowski, P.Schwandt, A.Sinha, J.Sowinski, I.J.Van Heerden, 
+#+          A.Arriaga, F.D.Santos
+#REF-CODE   (J,PR/C,37,1,198801)
+#REFERENCE  Phys.Rev.C 37 (1988) 1
+#DATASETS   0
+#
+#DATASET    C0625002 
+#DATE       20000405
+#REACTION   1-H-1(D,G)2-HE-3,,DA
+#PROJ       1002
+#TARG       1001
+#MF         4
+#MT         102
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1001   4 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1001   4 102 AC 9.5000+7          1.7600-7 8.0000-9 0.669131                              W.K.Pitts+           (88)C0625  2 
+ 1002  1001   4 102 AC 9.5000+7          2.3000-7 1.1000-8 0.529919                              W.K.Pitts+           (88)C0625  2 
+ 1002  1001   4 102 AC 9.5000+7          3.4900-7 1.6000-8 0.292372                              W.K.Pitts+           (88)C0625  2 
+ 1002  1001   4 102 AC 9.5000+7          3.6800-7 1.7000-8 0.224951                              W.K.Pitts+           (88)C0625  2 
+ 1002  1001   4 102 AC 9.5000+7          4.9500-7 2.3000-8-0.052336                              W.K.Pitts+           (88)C0625  2 
+ 1002  1001   4 102 AC 9.5000+7          5.6500-7 2.6000-8-0.207912                              W.K.Pitts+           (88)C0625  2 
+ 1002  1001   4 102 AC 9.5000+7          5.2600-7 2.4000-8-0.241922                              W.K.Pitts+           (88)C0625  2 
+ 1002  1001   4 102 AC 9.5000+7          5.5200-7 2.5000-8-0.484810                              W.K.Pitts+           (88)C0625  2 
+ 1002  1001   4 102 AC 9.5000+7          5.2900-7 2.4000-8-0.615661                              W.K.Pitts+           (88)C0625  2 
+#/DATA      9
+#/DATASET

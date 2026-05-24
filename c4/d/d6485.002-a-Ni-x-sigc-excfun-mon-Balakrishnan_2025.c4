@@ -1,0 +1,30 @@
+#ENTRY      D6485
+#AUTHOR1    S.Balakrishnan+
+#YEAR       2025
+#INSTITUTE  (3INDCCT)
+#TITLE      Analysis of alpha induced secondary proton production
+#+          in natNi-reactor structural material
+#AUTHOR(S)  S.Balakrishnan, M.M.Musthafa, C.V.Midhun, H.G.Das, T.T.V.Thaslim, 
+#+          F.S.Shana, T.Najmunnisa, N.T.Rijin, S.Ghugre, S.Dasgupta, 
+#+          J.Datta
+#REF-CODE   (J,ARI,225,111986,2025)
+#REFERENCE  Appl.Radiat.Isot. 225 (2025) 111986 (doi:10.1016/j.apradiso.2025.111986)
+#DATASETS   0
+#
+#DATASET    D6485002 
+#DATE       20251016
+#REACTION   28-NI-0(A,X)29-CU-61,(CUM),SIG
+#PROJ       2004
+#TARG       28000
+#MF         3
+#MT         459
+#PRODUCT    29-CU-61
+#C4BEGIN    [ 2004 28000   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28000   3 459 A  3.4600+7 2900000. 0.042250 9.7200-3           29061.9                     S.Balakrishnan+      (25)D6485  2 
+ 2004 28000   3 459 A  2.3400+7 3700000. 0.188210 0.029250           29061.9                     S.Balakrishnan+      (25)D6485  2 
+ 2004 28000   3 459 A  1.0800+7 4900000. 0.157530 0.024470           29061.9                     S.Balakrishnan+      (25)D6485  2 
+#/DATA      3
+#/DATASET

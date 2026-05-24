@@ -1,0 +1,40 @@
+#ENTRY      E0933
+#AUTHOR1    Y.Fujita+
+#YEAR       1985
+#INSTITUTE  (2JPNOSA)
+#TITLE      FRAGMENTATION OF THE LOW-ENERTY OCTUPOLE RESONANCE
+#+          IN 48CA, 90ZR AND 208PB
+#AUTHOR(S)  Y.Fujita, M.Fujiwara, S.Morinobu, I.Katayama, T.Yamazaki, 
+#+          T.Itahashi, G.Ikegami, S.I.Hayakawa
+#REF-CODE   (J,PR/C,32,425,85)
+#REFERENCE  Phys.Rev.C 32 (1985) 425 (doi:10.1103/PhysRevC.32.425)
+#DATASETS   0
+#
+#DATASET    E0933002 
+#DATE       19890911
+#REACTION   20-CA-48(P,INL)20-CA-48,PAR,DA
+#PROJ       1001
+#TARG       20048
+#MF         4
+#MT         601
+#PRODUCT    20-CA-48
+#C4BEGIN    [ 1001 20048   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20048   4 601  C 6.5000+7          8.2950-4          0.987925          8883000.         LVLY.Fujita+            (85)E0933  2 
+ 1001 20048   4 601  C 6.5000+7          7.6320-4          0.975365          8883000.         LVLY.Fujita+            (85)E0933  2 
+ 1001 20048   4 601  C 6.5000+7          7.9250-4          0.957456          8883000.         LVLY.Fujita+            (85)E0933  2 
+ 1001 20048   4 601  C 6.5000+7          8.1160-4          0.931380          8883000.         LVLY.Fujita+            (85)E0933  2 
+ 1001 20048   4 601  C 6.5000+7          6.6170-4          0.905087          8883000.         LVLY.Fujita+            (85)E0933  2 
+ 1001 20048   4 601  C 6.5000+7          3.9600-4          0.875102          8883000.         LVLY.Fujita+            (85)E0933  2 
+ 1001 20048   4 601  C 6.5000+7          2.3380-4          0.837862          8883000.         LVLY.Fujita+            (85)E0933  2 
+ 1001 20048   4 601  C 6.5000+7          1.5160-4          0.796129          8883000.         LVLY.Fujita+            (85)E0933  2 
+ 1001 20048   4 601  C 6.5000+7          1.3940-4          0.747589          8883000.         LVLY.Fujita+            (85)E0933  2 
+ 1001 20048   4 601  C 6.5000+7          1.2820-4          0.683121          8883000.         LVLY.Fujita+            (85)E0933  2 
+ 1001 20048   4 601  C 6.5000+7          9.1280-5          0.615771          8883000.         LVLY.Fujita+            (85)E0933  2 
+ 1001 20048   4 601  C 6.5000+7          3.1460-5 2.1900-6 0.550248          8883000.         LVLY.Fujita+            (85)E0933  2 
+ 1001 20048   4 601  C 6.5000+7          1.9060-5 2.4500-6 0.468840          8883000.         LVLY.Fujita+            (85)E0933  2 
+ 1001 20048   4 601  C 6.5000+7          2.7310-5 1.9000-6 0.390329          8883000.         LVLY.Fujita+            (85)E0933  2 
+#/DATA      14
+#/DATASET

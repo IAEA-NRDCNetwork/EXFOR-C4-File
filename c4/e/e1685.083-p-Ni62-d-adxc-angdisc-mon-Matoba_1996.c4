@@ -1,0 +1,35 @@
+#ENTRY      E1685
+#AUTHOR1    M.Matoba+
+#YEAR       1996
+#INSTITUTE  (2JPNKYU)
+#TITLE      (p,d) reaction on 62Ni at 65 MeV
+#AUTHOR(S)  M.Matoba, K.Kurohmaru, O.Iwamoto, A.Nohtomi, Y.Uozumi, T.Sakae, 
+#+          N.Koori, H.Ohgaki, H.Ijiri, T.Maki, M.Nakano, H.M.Sen Gupta
+#REF-CODE   (J,PR/C,53,(4),1792,199604)
+#REFERENCE  Phys.Rev.C 53 No.4 (1996) 1792 (doi:10.1103/PhysRevC.53.1792)
+#DATASETS   0
+#
+#DATASET    E1685083 
+#DATE       20070514
+#REACTION   28-NI-62(P,D)28-NI-61,PAR,DA
+#PROJ       1001
+#TARG       28062
+#MF         4
+#MT         650
+#PRODUCT    28-NI-61
+#C4BEGIN    [ 1001 28062   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28062   4 650  C 6.5000+7          1.0960-3 4.0990-5 0.995678          5596000.         LVLM.Matoba+            (96)E1685 83 
+ 1001 28062   4 650  C 6.5000+7          4.4540-4          0.989188          5596000.         LVLM.Matoba+            (96)E1685 83 
+ 1001 28062   4 650  C 6.5000+7          2.2190-4 5.7050-6 0.980202          5596000.         LVLM.Matoba+            (96)E1685 83 
+ 1001 28062   4 650  C 6.5000+7          3.5990-4 9.2380-6 0.967268          5596000.         LVLM.Matoba+            (96)E1685 83 
+ 1001 28062   4 650  C 6.5000+7          4.3050-4 1.0810-5 0.952289          5596000.         LVLM.Matoba+            (96)E1685 83 
+ 1001 28062   4 650  C 6.5000+7          3.0990-4 7.7680-6 0.935135          5596000.         LVLM.Matoba+            (96)E1685 83 
+ 1001 28062   4 650  C 6.5000+7          1.5240-4 5.7020-6 0.914607          5596000.         LVLM.Matoba+            (96)E1685 83 
+ 1001 28062   4 650  C 6.5000+7          7.3080-5 2.7340-6 0.891402          5596000.         LVLM.Matoba+            (96)E1685 83 
+ 1001 28062   4 650  C 6.5000+7          6.7800-5 2.5400-6 0.865763          5596000.         LVLM.Matoba+            (96)E1685 83 
+ 1001 28062   4 650  C 6.5000+7          8.5320-5 3.1920-6 0.838766          5596000.         LVLM.Matoba+            (96)E1685 83 
+#/DATA      10
+#/DATASET

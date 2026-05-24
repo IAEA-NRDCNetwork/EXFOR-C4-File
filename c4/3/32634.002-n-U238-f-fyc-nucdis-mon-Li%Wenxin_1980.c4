@@ -1,0 +1,34 @@
+#ENTRY      32634
+#AUTHOR1    Li Wenxin+
+#YEAR       1980
+#INSTITUTE  (3CPRIMP)
+#TITLE      Charge distribution in the fission of U-238 by 14.7 MeV
+#+          neutrons
+#AUTHOR(S)  Li Wenxin, Sun Tongyu, Sun Xiuhua, Zhang Tianmei, Zheng Manjiao, 
+#+          Dong Tianrong, Fu Ming
+#REF-CODE   (J,HFH,2,(1),9,198002)
+#REFERENCE  He Huax.Fang.Huaxue 2 No.1 (1980) 9
+#DATASETS   0
+#
+#DATASET    32634002 
+#DATE       20100219
+#REACTION   92-U-238(N,F)ELEM/MASS,CUM,FY
+#PROJ       1
+#TARG       92238
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92238   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   8 459    1.4700+7          0.050000 5.5000-3 40.00000 95.00000 9.000000            Li Wenxin+           (80)32634  2 
+    1 92238   8 459    1.4700+7          0.049500 4.0000-3 40.00000 97.00000 9.000000            Li Wenxin+           (80)32634  2 
+    1 92238   8 459    1.4700+7          0.056000          42.00000 99.00000 9.000000            Li Wenxin+           (80)32634  2 
+    1 92238   8 459    1.4700+7          0.037600 3.0000-3 53.00000 131.0000 9.000000            Li Wenxin+           (80)32634  2 
+    1 92238   8 459    1.4700+7          0.063600 4.5000-3 53.00000 133.0000 9.000000            Li Wenxin+           (80)32634  2 
+    1 92238   8 459    1.4700+7          0.056300 5.6000-3 53.00000 134.0000 9.000000            Li Wenxin+           (80)32634  2 
+    1 92238   8 459    1.4700+7          0.051300 3.6000-3 53.00000 135.0000 9.000000            Li Wenxin+           (80)32634  2 
+    1 92238   8 459    1.4700+7          0.050600 3.5000-3 55.00000 138.0000 9.000000            Li Wenxin+           (80)32634  2 
+    1 92238   8 459    1.4700+7          0.039600 2.8000-3 57.00000 142.0000 9.000000            Li Wenxin+           (80)32634  2 
+#/DATA      9
+#/DATASET

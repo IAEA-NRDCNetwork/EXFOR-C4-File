@@ -1,0 +1,27 @@
+#ENTRY      32252
+#AUTHOR1    L.L.Litvinskiy+
+#YEAR       1994
+#INSTITUTE  (4UKRIJD)
+#TITLE      Inelastic scattering of 134 keV neutrons by 103Rh
+#AUTHOR(S)  L.L.Litvinskiy, V.G.Krivenko, Said Sabbagh, Ya.V.Pugach
+#REF-CODE   (J,UFZ,39,276,1994)
+#REFERENCE  Ukr.Fiz.Zh. 39 (1994) 276
+#DATASETS   0
+#
+#DATASET    32252005 
+#DATE       20241117
+#REACTION   45-RH-103(N,INL)45-RH-103,,DA,,SPA
+#PROJ       1
+#TARG       45103
+#MF         4
+#MT         4
+#PRODUCT    45-RH-103
+#C4BEGIN    [    1 45103   4   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 45103   4   4 A  134000.0 15000.00 3.4270-3 1.7270-3 0.707107                              L.L.Litvinskiy+      (94)32252  5 
+    1 45103   4   4 A  134000.0 15000.00 2.6840-3 1.2530-3 6.123-17                              L.L.Litvinskiy+      (94)32252  5 
+    1 45103   4   4 A  134000.0 15000.00 4.1080-3 1.4230-3-0.707107                              L.L.Litvinskiy+      (94)32252  5 
+#/DATA      3
+#/DATASET

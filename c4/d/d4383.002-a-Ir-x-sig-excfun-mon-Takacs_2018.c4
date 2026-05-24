@@ -1,0 +1,33 @@
+#ENTRY      D4383
+#AUTHOR1    S.Takacs+
+#YEAR       2018
+#INSTITUTE  (3HUNDEB)
+#TITLE      Measurement of activation cross sections of alpha
+#+          particle induced reactions on iridium up to an energy
+#+          of 50 MeV
+#AUTHOR(S)  S.Takacs, F.Ditroi, Z.Szucs, M.Aikawa, H.Haba, Y.Komori, 
+#+          M.Saito
+#REF-CODE   (J,ARI,136,133,2018)
+#REFERENCE  Appl.Radiat.Isot. 136 (2018) 133 (doi:10.1016/j.apradiso.2018.02.023)
+#DATASETS   0
+#
+#DATASET    D4383002 
+#DATE       20180406
+#REACTION   77-IR-0(A,X)79-AU-196-M2,,SIG
+#PROJ       2004
+#TARG       77000
+#MF         3
+#MT         454
+#PRODUCT    79-AU-196-M2
+#C4BEGIN    [ 2004 77000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 77000   3 454    2.8340+7 300000.0 7.8000-4 1.7000-4           79196.2                     S.Takacs+            (18)D4383  2 
+ 2004 77000   3 454    2.8220+7 300000.0 9.6000-4 3.2000-4           79196.2                     S.Takacs+            (18)D4383  2 
+ 2004 77000   3 454    2.2950+7 340000.0 1.0400-3 1.0000-4           79196.2                     S.Takacs+            (18)D4383  2 
+ 2004 77000   3 454    2.2800+7 340000.0 8.9000-4 1.1000-4           79196.2                     S.Takacs+            (18)D4383  2 
+ 2004 77000   3 454    1.6780+7 410000.0 1.5000-4 2.0000-5           79196.2                     S.Takacs+            (18)D4383  2 
+ 2004 77000   3 454    1.6240+7 420000.0 1.3000-4 2.0000-5           79196.2                     S.Takacs+            (18)D4383  2 
+#/DATA      6
+#/DATASET

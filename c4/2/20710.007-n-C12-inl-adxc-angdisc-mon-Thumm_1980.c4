@@ -1,0 +1,29 @@
+#ENTRY      20710
+#AUTHOR1    M.Thumm+
+#YEAR       1980
+#INSTITUTE  (2GERTUE)
+#TITLE      Resonance effects in elastic and first excited
+#+          level inelastic neutron scattering on C-12 from
+#+          15.0 to 18.25 MeV
+#AUTHOR(S)  M.Thumm, H.Lesiecki, G.Mertens, K.Schmidt, G.Mack
+#REF-CODE   (J,NP/A,344,(3),446,198008)
+#REFERENCE  Nucl.Phys.A 344 No.3 (1980) 446 (doi:10.1016/0375-9474(80)90401-7)
+#DATASETS   0
+#
+#DATASET    20710007 
+#DATE       20120715
+#REACTION   6-C-12(N,INL)6-C-12,PAR,DA
+#PROJ       1
+#TARG       6012
+#MF         4
+#MT         51
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   4  51  C 1.5000+7 200000.0 6.7000-3 1.0000-3 0.027922          4440000.         LVLM.Thumm+             (80)20710  7 
+    1  6012   4  51  C 1.5000+7 200000.0 6.3000-3 1.0000-3-0.185667          4440000.         LVLM.Thumm+             (80)20710  7 
+    1  6012   4  51  C 1.5000+7 200000.0 7.4000-3 1.1000-3-0.425779          4440000.         LVLM.Thumm+             (80)20710  7 
+#/DATA      3
+#/DATASET

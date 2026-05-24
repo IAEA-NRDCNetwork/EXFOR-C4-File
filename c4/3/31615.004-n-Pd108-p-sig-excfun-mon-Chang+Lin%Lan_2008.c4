@@ -1,0 +1,28 @@
+#ENTRY      31615
+#AUTHOR1    Chang-Lin Lan+
+#YEAR       2008
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Activation cross-section measurements for producing
+#+          short-lived nuclei with 14 MeV neutrons - Ge, Pd, Yb
+#AUTHOR(S)  Chang-Lin Lan, Kai-Hong Fang, Xiao-San Xu, Qi Wang, Xiang-Zhong Kong, 
+#+          Rong Liu, Li Jiang
+#REF-CODE   (J,RPC,77,854,2008)
+#REFERENCE  Radiat.Phys.Chem. 77 (2008) 854 (doi:10.1016/j.radphyschem.2008.03.002)
+#DATASETS   0
+#
+#DATASET    31615004 
+#DATE       20080715
+#REACTION   46-PD-108(N,P)45-RH-108,,SIG
+#PROJ       1
+#TARG       46108
+#MF         3
+#MT         103
+#PRODUCT    45-RH-108
+#C4BEGIN    [    1 46108   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 46108   3 103    1.3500+7 300000.0 7.9900-3 6.4000-4                                       Chang-Lin Lan+       (08)31615  4 
+    1 46108   3 103    1.4800+7 300000.0 0.013500 1.3400-3                                       Chang-Lin Lan+       (08)31615  4 
+#/DATA      2
+#/DATASET

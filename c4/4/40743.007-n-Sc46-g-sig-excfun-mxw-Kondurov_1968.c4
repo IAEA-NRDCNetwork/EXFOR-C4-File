@@ -1,0 +1,26 @@
+#ENTRY      40743
+#AUTHOR1    I.A.Kondurov+
+#YEAR       1968
+#INSTITUTE  (4RUSFTI)
+#TITLE      Neutron capture cross sections measurements for Co58m,
+#+          Cu64, and Sc46
+#AUTHOR(S)  I.A.Kondurov, A.I.Egorov, M.Kaminker, E.M.Korotkikh, A.M.Nikitin
+#REF-CODE   (J,AE,24,533,1968)
+#REFERENCE  At.En. 24 (1968) 533
+#DATASETS   0
+#
+#DATASET    40743007 
+#DATE       20180315
+#REACTION   21-SC-46(N,G)21-SC-47,,SIG,,MXW
+#PROJ       1
+#TARG       21046
+#MF         3
+#MT         102
+#PRODUCT    21-SC-47
+#C4BEGIN    [    1 21046   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 21046   3 102    0.025300          8.300000 1.400000                                       I.A.Kondurov+        (68)40743  7 
+#/DATA      1
+#/DATASET

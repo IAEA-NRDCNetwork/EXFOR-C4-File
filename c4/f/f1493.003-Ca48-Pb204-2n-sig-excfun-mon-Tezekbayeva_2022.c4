@@ -1,0 +1,35 @@
+#ENTRY      F1493
+#AUTHOR1    M.S.Tezekbayeva+
+#YEAR       2022
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Study of the production and decay properties of
+#+          neutron-deficient nobelium isotopes
+#AUTHOR(S)  M.S.Tezekbayeva, A.V.Yeremin, A.I.Svirikhin, A.Lopez-Martens, 
+#+          M.L.Chelnokov, V.I.Chepigin, A.V.Isaev, I.N.Izosimov, A.V.Karpov, 
+#+          A.A.Kuznetsova, O.N.Malyshev, R.S.Mukhin, A.G.Popeko, Yu.A.Popov, 
+#+          V.A.Rachkov, B.S.Sailaubekov, E.A.Sokol, K.Hauschild, H.Jacob, 
+#+          R.Chakma, O.Dorvaux, M.Forge, B.Gall, K.Kessaci, B.Andel, 
+#+          S.Antalic, A.Bronis, P.Mosat
+#REF-CODE   (J,EPJ/A,58,52,2022)
+#REFERENCE  Eur.Phys.J.A 58 (2022) 52 (doi:10.1140/epja/s10050-022-00707-9)
+#DATASETS   0
+#
+#DATASET    F1493003 
+#DATE       20231215
+#REACTION   82-PB-204(20-CA-48,2N)102-NO-250,,SIG
+#PROJ       20048
+#TARG       82204
+#MF         3
+#MT         16
+#PRODUCT    102-NO-250
+#C4BEGIN    [20048 82204   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+20048 82204   3  16 A  2.1340+8          1.0570-8 3.100-10                                       M.S.Tezekbayeva+     (22)F1493  3 
+20048 82204   3  16 A  2.1850+8          9.9200-9 4.400-10                                       M.S.Tezekbayeva+     (22)F1493  3 
+20048 82204   3  16 A  2.2540+8          3.6000-9 1.000-10                                       M.S.Tezekbayeva+     (22)F1493  3 
+20048 82204   3  16 A  2.3200+8          6.000-10 5.000-11                                       M.S.Tezekbayeva+     (22)F1493  3 
+20048 82204   3  16 A  2.3500+8          4.000-10 1.100-10                                       M.S.Tezekbayeva+     (22)F1493  3 
+#/DATA      5
+#/DATASET

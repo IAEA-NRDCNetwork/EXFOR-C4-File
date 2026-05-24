@@ -1,0 +1,29 @@
+#ENTRY      A0085
+#AUTHOR1    A.V.Muminov+
+#YEAR       1980
+#INSTITUTE  (4UZ UZB)
+#TITLE      Possibilities of proton-activation analysis for
+#+          determining the content of elements from short-lived
+#+          radionuclides
+#AUTHOR(S)  A.V.Muminov, S.Mukhamedov, A.Vasidov
+#REF-CODE   (J,SJA,49,540,1980)
+#REFERENCE  Sov.At.Energy 49 (1980) 540 (doi:10.1007/BF01121617)
+#DATASETS   0
+#
+#DATASET    A0085027 
+#DATE       20190424
+#REACTION   24-CR-52(P,N)25-MN-52-M,,SIG
+#PROJ       1001
+#TARG       24052
+#MF         3
+#MT         4
+#PRODUCT    25-MN-52-M
+#C4BEGIN    [ 1001 24052   3   4MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24052   3   4MA  6850000.          0.154600 0.038000                                       A.V.Muminov+         (80)A0085 27 
+ 1001 24052   3   4MA  8850000.          0.270500 0.038000                                       A.V.Muminov+         (80)A0085 27 
+ 1001 24052   3   4MA  1.0400+7          0.332600 0.043000                                       A.V.Muminov+         (80)A0085 27 
+#/DATA      3
+#/DATASET

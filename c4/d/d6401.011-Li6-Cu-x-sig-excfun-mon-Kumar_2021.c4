@@ -1,0 +1,31 @@
+#ENTRY      D6401
+#AUTHOR1    R.Kumar+
+#YEAR       2021
+#INSTITUTE  (3INDIRR)
+#TITLE      Study of excitation functions and insights into the
+#+          reaction mechanisms of 6Li fusion in Cu
+#AUTHOR(S)  R.Kumar, M.Maiti, G.Sarkar, M.Sagwal, P.Kaur, R.Prajapat, 
+#+          T.N.Nag, S.Sodaye
+#REF-CODE   (J,EPJ/A,57,209,2021)
+#REFERENCE  Eur.Phys.J.A 57 (2021) 209 (doi:10.1140/epja/s10050-021-00520-w)
+#DATASETS   0
+#
+#DATASET    D6401011 
+#DATE       20210928
+#REACTION   29-CU-0(3-LI-6,X)30-ZN-62,,SIG
+#PROJ       3006
+#TARG       29000
+#MF         3
+#MT         454
+#PRODUCT    30-ZN-62
+#C4BEGIN    [ 3006 29000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 29000   3 454    3.5600+7 600000.0 6.0000-4 2.0000-4           30062.9                     R.Kumar+             (21)D6401 11 
+ 3006 29000   3 454    3.7400+7 600000.0 1.0000-3 3.0000-4           30062.9                     R.Kumar+             (21)D6401 11 
+ 3006 29000   3 454    3.9100+7 600000.0 1.8000-3 4.0000-4           30062.9                     R.Kumar+             (21)D6401 11 
+ 3006 29000   3 454    4.0800+7 700000.0 2.4000-3 4.0000-4           30062.9                     R.Kumar+             (21)D6401 11 
+ 3006 29000   3 454    4.2600+7 700000.0 3.5000-3 5.0000-4           30062.9                     R.Kumar+             (21)D6401 11 
+#/DATA      5
+#/DATASET

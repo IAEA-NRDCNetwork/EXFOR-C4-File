@@ -1,0 +1,33 @@
+#ENTRY      A0938
+#AUTHOR1    S.Hofmann+
+#YEAR       2012
+#INSTITUTE  (2GERGSI)
+#TITLE      The reaction 48Ca + 248Cm -> 116-*-296 studied at the
+#+          GSI-SHIP
+#AUTHOR(S)  S.Hofmann, S.Heinz, R.Mann, J.Maurer, J.Khuyagbaatar, D.Ackermann, 
+#+          S.Antalic, W.Barth, M.Block, H.G.Burkhard, V.F.Comas, L.Dahl, 
+#+          K.Eberhardt, J.Gostic, R.A.Henderson, J.A.Heredia, F.P.Hesberger, 
+#+          J.M.Kenneally, B.Kindler, I.Kojouharov, J.V.Kratz, R.Lang, 
+#+          M.Leino, B.Lommel, K.J.Moody, G.Muenzenberg, S.L.Nelson, 
+#+          K.Nishio, A.G.Popeko, J.Runke, S.Saro, D.A.Shaughnessy, 
+#+          M.A.Stoyer, P.Thoerle-Pospiech, K.Tinschert, N.Trautmann, 
+#+          J.Uusitalo, P.A.Wilk, A.V.Yeremin
+#REF-CODE   (J,EPJ/A,48,62,2012)
+#REFERENCE  Eur.Phys.J.A 48 (2012) 62 (doi:10.1140/epja/i2012-12062-1)
+#DATASETS   0
+#
+#DATASET    A0938002 
+#DATE       20180129
+#REACTION   96-CM-248(20-CA-48,3N)116-LV-293,,SIG
+#PROJ       20048
+#TARG       96248
+#MF         3
+#MT         17
+#PRODUCT    116-LV-293
+#C4BEGIN    [20048 96248   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+20048 96248   3  17    2.4930+8          9.000-13                                                S.Hofmann+           (12)A0938  2 
+#/DATA      1
+#/DATASET

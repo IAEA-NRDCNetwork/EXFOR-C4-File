@@ -1,0 +1,28 @@
+#ENTRY      11396
+#AUTHOR1    L.Cranberg+
+#YEAR       1956
+#INSTITUTE  (1USALAS)
+#TITLE      NEUTRON SCATTERING AT 2.45 MEV BY A TIME-OF-FLIGHT
+#+          METHOD.
+#AUTHOR(S)  L.Cranberg, J.S.Levin
+#REF-CODE   (J,PR,103,343,5607)
+#REFERENCE  Phys.Rev. 103 (1956) 343 (doi:10.1103/PhysRev.103.343)
+#DATASETS   0
+#
+#DATASET    11396017 
+#DATE       19930219
+#REACTION   33-AS-75(N,INL)33-AS-75,PAR,DA
+#PROJ       1
+#TARG       33075
+#MF         4
+#MT         51
+#PRODUCT    33-AS-75
+#C4BEGIN    [    1 33075   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 33075   4  51    2450000. 100000.0 0.027000 6.0000-3 6.123-17          780000.0 40000.00LVLL.Cranberg+          (56)11396 17 
+    1 33075   4  51    2450000. 100000.0 0.047000 8.0000-3 6.123-17          1250000. 30000.00LVLL.Cranberg+          (56)11396 17 
+    1 33075   4  51    2450000. 100000.0 0.021000 3.0000-3 6.123-17          1630000. 20000.00LVLL.Cranberg+          (56)11396 17 
+#/DATA      3
+#/DATASET

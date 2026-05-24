@@ -1,0 +1,30 @@
+#ENTRY      D6397
+#AUTHOR1    A.Agarwal+
+#YEAR       2021
+#INSTITUTE  (3INDMUA)
+#TITLE      Effect of neutron excess in the entrance channel on
+#+          the 18O + 93Nb system: An experimental study relevant
+#+          to incomplete - fusion dynamics
+#AUTHOR(S)  A.Agarwal, A.K.Jashwal, M.Kumar, S.Prajapati, S.Dutt, M.Gull, 
+#+          I.A.Rizvi, K.Kumar, S.Ali, A.Yadav, R.Kumar, A.K.Chaubey
+#REF-CODE   (J,PR/C,103,034602,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 034602 (doi:10.1103/PhysRevC.103.034602)
+#DATASETS   0
+#
+#DATASET    D6397007 
+#DATE       20210808
+#REACTION   41-NB-93(8-O-18,X)47-AG-105,,SIG
+#PROJ       8018
+#TARG       41093
+#MF         3
+#MT         454
+#PRODUCT    47-AG-105
+#C4BEGIN    [ 8018 41093   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8018 41093   3 454    9.9200+7 1300000. 0.096120 0.016340           47105.9                     A.Agarwal+           (21)D6397  7 
+ 8018 41093   3 454    9.2190+7 1300000. 0.056500 9.6000-3           47105.9                     A.Agarwal+           (21)D6397  7 
+ 8018 41093   3 454    8.9280+7 1300000. 0.021490 3.6500-3           47105.9                     A.Agarwal+           (21)D6397  7 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      20848
+#AUTHOR1    I.Fujiwara+
+#YEAR       1982
+#INSTITUTE  (2JPNKTO)
+#TITLE      Isomer-yield ratios and primary angular momenta of I,
+#+          Xe and Cs isotopes produced in thermal-neutron
+#+          fission of 233U, 235U and 239Pu
+#AUTHOR(S)  I.Fujiwara, N.Imanishi, T.Nishi, H.Moriyama
+#REF-CODE   (J,JPJ,51,1713,1982)
+#REFERENCE  J.Phys.Soc.Jpn. 51 (1982) 1713 (doi:10.1143/JPSJ.51.1713)
+#DATASETS   0
+#
+#DATASET    20848004 
+#DATE       20220205
+#REACTION   94-PU-239(N,F)ELEM/MASS,IND,FY,,MXW
+#PROJ       1
+#TARG       94239
+#MF         8
+#MT         454
+#C4BEGIN    [    1 94239   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   8 454    0.025300          2.3000-3 2.0000-4 53.00000 132.0000 9.000000            I.Fujiwara+          (82)20848  4 
+    1 94239   8 454    0.025300          1.1000-3 1.0000-4 53.00000 132.0000 1.000000            I.Fujiwara+          (82)20848  4 
+    1 94239   8 454    0.025300          1.2000-3 1.0000-4 53.00000 132.0000 0.000000            I.Fujiwara+          (82)20848  4 
+    1 94239   8 454    0.025300          9.4000-3 7.0000-4 53.00000 133.0000 9.000000            I.Fujiwara+          (82)20848  4 
+    1 94239   8 454    0.025300          0.023400 8.0000-4 53.00000 134.0000 9.000000            I.Fujiwara+          (82)20848  4 
+    1 94239   8 454    0.025300          0.011000 6.0000-4 53.00000 134.0000 1.000000            I.Fujiwara+          (82)20848  4 
+    1 94239   8 454    0.025300          0.012400 6.0000-4 53.00000 134.0000 0.000000            I.Fujiwara+          (82)20848  4 
+#/DATA      7
+#/DATASET

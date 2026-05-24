@@ -1,0 +1,26 @@
+#ENTRY      A0934
+#AUTHOR1    S.Stoulos+
+#YEAR       2012
+#INSTITUTE  (2GRCARU)
+#TITLE      Nuclear fission cross sections induced by deuterons of
+#+          4 GeV.
+#AUTHOR(S)  S.Stoulos, W.Westmeier, R.Hashemi-Nezhad, M.Fragopoulou, 
+#+          A.Lagoyannis, M.Zamani
+#REF-CODE   (J,PR/C,85,024612,2012)
+#REFERENCE  Phys.Rev.C 85 (2012) 024612 (doi:10.1103/PhysRevC.85.024612)
+#DATASETS   0
+#
+#DATASET    A09340051
+#DATE       20130129
+#REACTION   79-AU-197(D,F),,SIG
+#PROJ       1002
+#TARG       79197
+#MF         3
+#MT         18
+#C4BEGIN    [ 1002 79197   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 79197   3  18    4.0000+9          0.092000 0.023000                                       S.Stoulos+           (12)A0934  51
+#/DATA      1
+#/DATASET

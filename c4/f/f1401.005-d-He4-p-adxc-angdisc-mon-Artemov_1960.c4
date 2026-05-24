@@ -1,0 +1,34 @@
+#ENTRY      F1401
+#AUTHOR1    K.P.Artemov+
+#YEAR       1960
+#INSTITUTE  (4RUSKUR)
+#TITLE      Charged products from the reactions 4He+d (20 MeV).
+#AUTHOR(S)  K.P.Artemov, N.A.Vlasov
+#REF-CODE   (J,ZET,39,1612,1960)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 39 (1960) 1612
+#DATASETS   0
+#
+#DATASET    F1401005 
+#DATE       20191107
+#REACTION   2-HE-4(D,P)2-HE-5,PAR,DA
+#PROJ       1002
+#TARG       2004
+#MF         4
+#MT         600
+#PRODUCT    2-HE-5
+#C4BEGIN    [ 1002  2004   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  2004   4 600  C 2.0200+7          0.045025 9.0700-3 0.938034          0.000000         LVLK.P.Artemov+         (60)F1401  5 
+ 1002  2004   4 600  C 2.0200+7          0.012171 2.7740-3 0.761595          0.000000         LVLK.P.Artemov+         (60)F1401  5 
+ 1002  2004   4 600  C 2.0200+7          4.8900-3          0.502507          0.000000         LVLK.P.Artemov+         (60)F1401  5 
+ 1002  2004   4 600  C 2.0200+7          4.6510-3 1.2590-3 0.205521          0.000000         LVLK.P.Artemov+         (60)F1401  5 
+ 1002  2004   4 600  C 2.0200+7          3.1310-3         -0.087729          0.000000         LVLK.P.Artemov+         (60)F1401  5 
+ 1002  2004   4 600  C 2.0200+7          1.8520-3         -0.361136          0.000000         LVLK.P.Artemov+         (60)F1401  5 
+ 1002  2004   4 600  C 2.0200+7          1.4220-3         -0.574148          0.000000         LVLK.P.Artemov+         (60)F1401  5 
+ 1002  2004   4 600  C 2.0200+7          1.9850-3         -0.741508          0.000000         LVLK.P.Artemov+         (60)F1401  5 
+ 1002  2004   4 600  C 2.0200+7          9.2500-4         -0.942116          0.000000         LVLK.P.Artemov+         (60)F1401  5 
+ 1002  2004   4 600  C 2.0200+7          2.5750-3         -0.984686          0.000000         LVLK.P.Artemov+         (60)F1401  5 
+#/DATA      10
+#/DATASET

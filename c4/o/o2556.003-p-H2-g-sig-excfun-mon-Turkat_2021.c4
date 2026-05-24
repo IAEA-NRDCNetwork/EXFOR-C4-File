@@ -1,0 +1,38 @@
+#ENTRY      O2556
+#AUTHOR1    S.Turkat+
+#YEAR       2021
+#INSTITUTE  (2GERDRE)
+#TITLE      Measurement of the 2H(p,gamma)3He S factor at
+#+          265-1094 keV
+#AUTHOR(S)  S.Turkat, S.Hammer, E.Masha, S.Akhmadaliev, D.Bemmerer, 
+#+          M.Grieger, T.Hensel, J.Julin, M.Koppitz, F.Ludwig, C.Moeckel, 
+#+          S.Reinicke, R.Schwengner, K.Stoeckel, T.Szuecs, L.Wagner, 
+#+          K.Zuber
+#REF-CODE   (J,PR/C,103,045805,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 045805 (doi:10.1103/PhysRevC.103.045805)
+#DATASETS   0
+#
+#DATASET    O2556003 
+#DATE       20230207
+#REACTION   1-H-2(P,G)2-HE-3,,SIG,,SFC
+#PROJ       1001
+#TARG       1002
+#MF         3
+#MT         102
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1002   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   3 102 C  397620.5          2.1864-6 3.9042-7                                       S.Turkat+            (21)O2556  3 
+ 1001  1002   3 102 C  418627.9          2.0843-6 4.6317-7                                       S.Turkat+            (21)O2556  3 
+ 1001  1002   3 102 C  499657.5          3.4618-6 3.6828-7                                       S.Turkat+            (21)O2556  3 
+ 1001  1002   3 102 C  600196.3          3.5368-6 3.4675-7                                       S.Turkat+            (21)O2556  3 
+ 1001  1002   3 102 C  600196.3          2.4966-6 4.8545-7                                       S.Turkat+            (21)O2556  3 
+ 1001  1002   3 102 C  691733.8          3.6134-6 3.9419-7                                       S.Turkat+            (21)O2556  3 
+ 1001  1002   3 102 C  702238.2          3.7873-6 3.9179-7                                       S.Turkat+            (21)O2556  3 
+ 1001  1002   3 102 C  802781.9          4.6872-6 3.7004-7                                       S.Turkat+            (21)O2556  3 
+ 1001  1002   3 102 C  802781.9          3.3921-6 3.7004-7                                       S.Turkat+            (21)O2556  3 
+ 1001  1002   3 102 C  1641739.          7.1556-6 2.1046-6                                       S.Turkat+            (21)O2556  3 
+#/DATA      10
+#/DATASET

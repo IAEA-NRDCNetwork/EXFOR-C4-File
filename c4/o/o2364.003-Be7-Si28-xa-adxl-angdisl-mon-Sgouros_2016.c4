@@ -1,0 +1,92 @@
+#ENTRY      O2364
+#AUTHOR1    O.Sgouros+
+#YEAR       2016
+#INSTITUTE  (2GRCIOA)
+#TITLE      Alpha and 3He production in the 7Be + 28Si reaction
+#+          at near-barrier energies: Direct versus
+#+          compound-nucleus mechanisms
+#AUTHOR(S)  O.Sgouros, A.Pakou, D.Pierroutsakou, M.Mazzocco, L.Acosta, 
+#+          X.Aslanoglou, Ch.Betsou, A.Boiano, C.Boiano, D.Carbone, 
+#+          M.Cavallaro, J.Grebosz, N.Keeley, M.La Commara, C.Manea, 
+#+          G.Marquinez-Duran, I.Martel, N.G.Nicolis, C.Parascandolo, 
+#+          K.Rusek, A.M.Sanchez-Benitez, C.Signorini, F.Soramel, V.Soukeras, 
+#+          C.Stefanini, E.Stiliaris, E.Strano, I.Strojek, D.Torresi
+#REF-CODE   (J,PR/C,94,044623,2016)
+#REFERENCE  Phys.Rev.C 94 (2016) 044623 (doi:10.1103/PhysRevC.94.044623)
+#DATASETS   0
+#
+#DATASET    O2364003 
+#DATE       20180304
+#REACTION   14-SI-28(4-BE-7,X)2-HE-4,,DA
+#PROJ       4007
+#TARG       14028
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 4007 14028   4 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4007 14028   4 207    1.3000+7          0.062300 0.021730 0.963770                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    1.3000+7          0.057400 7.0700-3 0.914960                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    1.3000+7          0.031580 9.9900-3 0.876727                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    1.3000+7          0.035610 5.5700-3 0.778462                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    1.3000+7          6.4000-3 1.9400-3 0.358368                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    1.3000+7          4.1500-3 1.4500-3-0.358368                              O.Sgouros+           (16)O2364  3 
+#/DATA      6
+#/DATASET
+#
+#DATASET    O2364003 
+#DATE       20180304
+#REACTION   14-SI-28(4-BE-7,X)2-HE-4,,DA
+#PROJ       4007
+#TARG       14028
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 4007 14028   4 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4007 14028   4 207    2.0000+7          0.284060 0.024910 0.960488                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.0000+7          0.201820 0.028410 0.937464                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.0000+7          0.189310 0.011360 0.902134                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.0000+7          0.137990 9.3700-3 0.853096                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.0000+7          0.101600 0.011660 0.797794                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.0000+7          0.051700 7.2300-3 0.535237                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.0000+7          0.038850 6.2900-3 0.417709                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.0000+7          0.032750 6.1100-3 0.272952                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.0000+7          0.029500 0.013370 0.173648                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.0000+7          0.025840 0.012830-0.190638                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.0000+7          0.032330 0.010660-0.331173                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.0000+7          0.023230 8.1500-3-0.444948                              O.Sgouros+           (16)O2364  3 
+#/DATA      12
+#/DATASET
+#
+#DATASET    O2364003 
+#DATE       20180304
+#REACTION   14-SI-28(4-BE-7,X)2-HE-4,,DA
+#PROJ       4007
+#TARG       14028
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 4007 14028   4 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4007 14028   4 207    2.2000+7          0.384500 0.025030 0.960488                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.2000+7          0.323050 0.027460 0.935382                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.2000+7          0.224300 0.012800 0.897874                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.2000+7          0.177420 8.7000-3 0.849617                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.2000+7          0.110670 7.0400-3 0.803441                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.2000+7          0.054490 4.2600-3 0.550335                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.2000+7          0.052610 6.1900-3 0.417709                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.2000+7          0.039420 8.2200-3 0.324413                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.2000+7          0.035750 8.5100-3 0.173648                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.2000+7          0.035020 7.1500-3-0.177600                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.2000+7          0.031930 5.3600-3-0.355923                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.2000+7          0.027480 5.5000-3-0.468392                              O.Sgouros+           (16)O2364  3 
+ 4007 14028   4 207    2.2000+7          0.032730 7.2300-3-0.562372                              O.Sgouros+           (16)O2364  3 
+#/DATA      13
+#/DATASET

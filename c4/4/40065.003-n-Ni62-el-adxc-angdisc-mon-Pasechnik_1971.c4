@@ -1,0 +1,33 @@
+#ENTRY      40065
+#AUTHOR1    M.V.Pasechnik+
+#YEAR       1971
+#INSTITUTE  (4UKRIJD)
+#TITLE      Analysis of the data of 2.9 MeV neutron scattering by
+#+          the nickel isotopes
+#AUTHOR(S)  M.V.Pasechnik, M.B.Fedorov, T.I.Yakovenko
+#REF-CODE   (C,71KIEV,1,277,1971)
+#REFERENCE  Proceedings of Neutron Physics Conf., Kiev 1971 1 page 277
+#DATASETS   0
+#
+#DATASET    40065003 
+#DATE       20200220
+#REACTION   28-NI-62(N,EL)28-NI-62,,DA
+#PROJ       1
+#TARG       28062
+#MF         4
+#MT         2
+#PRODUCT    28-NI-62
+#C4BEGIN    [    1 28062   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28062   4   2  C 2900000.          0.596000 0.033000 0.866025                              M.V.Pasechnik+       (71)40065  3 
+    1 28062   4   2  C 2900000.          0.378000 0.029000 0.707107                              M.V.Pasechnik+       (71)40065  3 
+    1 28062   4   2  C 2900000.          0.148000 0.023000 0.500000                              M.V.Pasechnik+       (71)40065  3 
+    1 28062   4   2  C 2900000.          0.055000 0.017000 0.258819                              M.V.Pasechnik+       (71)40065  3 
+    1 28062   4   2  C 2900000.          0.043000 0.014000 6.123-17                              M.V.Pasechnik+       (71)40065  3 
+    1 28062   4   2  C 2900000.          0.146000 0.015000-0.258819                              M.V.Pasechnik+       (71)40065  3 
+    1 28062   4   2  C 2900000.          0.158000 0.015000-0.500000                              M.V.Pasechnik+       (71)40065  3 
+    1 28062   4   2  C 2900000.          0.102000 0.017000-0.707107                              M.V.Pasechnik+       (71)40065  3 
+#/DATA      8
+#/DATASET

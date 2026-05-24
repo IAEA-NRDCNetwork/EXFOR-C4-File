@@ -1,0 +1,33 @@
+#ENTRY      C1749
+#AUTHOR1    B.M.Oginni+
+#YEAR       2009
+#INSTITUTE  (1USAOHO)
+#TITLE      Test of level density models from reactions of 6Li
+#+          on 58Fe and 7Li on 57Fe
+#AUTHOR(S)  B.M.Oginni, S.M.Grimes, A.V.Voinov, A.S.Adekola, C.R.Brune, 
+#+          D.E.Carter, Z.Heinen, D.Jacobs, T.N.Massey, J.E.O'Donnell, 
+#+          A.Schiller
+#REF-CODE   (J,PR/C,80,034305,2009)
+#REFERENCE  Phys.Rev.C 80 (2009) 034305 (doi:10.1103/PhysRevC.80.034305)
+#DATASETS   0
+#
+#DATASET    C1749004 
+#DATE       20091019
+#REACTION   26-FE-58(3-LI-6,X)1-H-1,,DA
+#PROJ       3006
+#TARG       26058
+#MF         4
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 3006 26058   4 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 26058   4 203  C 1.5000+7          0.016120 6.5000-4 0.899558                              B.M.Oginni+          (09)C1749  4 
+ 3006 26058   4 203  C 1.5000+7          0.016990 3.2000-4 0.751264                              B.M.Oginni+          (09)C1749  4 
+ 3006 26058   4 203  C 1.5000+7          0.012090 4.2000-4 0.284015                              B.M.Oginni+          (09)C1749  4 
+ 3006 26058   4 203  C 1.5000+7          8.9200-3 2.6000-4-0.240228                              B.M.Oginni+          (09)C1749  4 
+ 3006 26058   4 203  C 1.5000+7          9.6900-3 1.5000-4-0.830012                              B.M.Oginni+          (09)C1749  4 
+ 3006 26058   4 203  C 1.5000+7          0.012260 2.6000-4-0.938493                              B.M.Oginni+          (09)C1749  4 
+#/DATA      6
+#/DATASET

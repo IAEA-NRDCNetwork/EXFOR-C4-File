@@ -1,0 +1,34 @@
+#ENTRY      C1276
+#AUTHOR1    S.M.Sterbenz+
+#YEAR       1992
+#INSTITUTE  (1USAMIN)
+#TITLE      Inelastic scattering of polarized protons from 4He at
+#+          500 and 800 MeV
+#AUTHOR(S)  S.M.Sterbenz, D.Dehnhard, M.K.Jones, S.K.Nanda, C.E.Parman, 
+#+          Y.F.Yen, K.W.Jones, C.L.Morris
+#REF-CODE   (J,PR/C,45,2578,1992)
+#REFERENCE  Phys.Rev.C 45 (1992) 2578 (doi:10.1103/PhysRevC.45.2578)
+#DATASETS   0
+#
+#DATASET    C1276006 
+#DATE       20050725
+#REACTION   2-HE-4(P,INL)2-HE-4,PAR,DA
+#PROJ       1001
+#TARG       2004
+#MF         4
+#MT         601
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  2004   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2004   4 601  C 8.0000+8          2.1900-4 4.1700-5 0.989272          2.0100+7         LVLS.M.Sterbenz+        (92)C1276  6 
+ 1001  2004   4 601  C 8.0000+8          5.5000-4 1.0400-4 0.981293          2.0100+7         LVLS.M.Sterbenz+        (92)C1276  6 
+ 1001  2004   4 601  C 8.0000+8          6.8800-4 1.3000-4 0.970716          2.0100+7         LVLS.M.Sterbenz+        (92)C1276  6 
+ 1001  2004   4 601  C 8.0000+8          5.2400-4 9.9500-5 0.957822          2.0100+7         LVLS.M.Sterbenz+        (92)C1276  6 
+ 1001  2004   4 601  C 8.0000+8          2.4800-4 3.9900-5 0.942641          2.0100+7         LVLS.M.Sterbenz+        (92)C1276  6 
+ 1001  2004   4 601  C 8.0000+8          1.4300-4 1.5000-5 0.925210          2.0100+7         LVLS.M.Sterbenz+        (92)C1276  6 
+ 1001  2004   4 601  C 8.0000+8          4.3600-5 5.7700-6 0.905569          2.0100+7         LVLS.M.Sterbenz+        (92)C1276  6 
+ 1001  2004   4 601  C 8.0000+8          1.3500-5 2.5800-6 0.883766          2.0100+7         LVLS.M.Sterbenz+        (92)C1276  6 
+#/DATA      8
+#/DATASET

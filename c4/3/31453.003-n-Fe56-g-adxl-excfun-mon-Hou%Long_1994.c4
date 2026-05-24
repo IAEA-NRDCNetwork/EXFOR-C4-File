@@ -1,0 +1,50 @@
+#ENTRY      31453
+#AUTHOR1    Hou Long+
+#YEAR       1994
+#INSTITUTE  (3CPRAEP)
+#TITLE      Measurement of neutron radiative capture cross section
+#+          for 56Fe(n,g)57Fe reaction from 9.0 to 20.0 MeV
+#AUTHOR(S)  Hou Long, Huang Zhengde, Zhu Lihua, Ding Dazhao
+#REF-CODE   (J,CNP,16,344,1994)
+#REFERENCE  Chin.J.Nucl.Phys. 16 (1994) 344
+#DATASETS   0
+#
+#DATASET    31453003 
+#DATE       20100307
+#REACTION   26-FE-56(N,G)26-FE-57,,DA
+#PROJ       1
+#TARG       26056
+#MF         4
+#MT         102
+#PRODUCT    26-FE-57
+#C4BEGIN    [    1 26056   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   4 102    9000000.          7.1700-4 1.0700-4 0.573576                              Hou Long+            (94)31453  3 
+    1 26056   4 102    1.0000+7          7.1900-4 1.0800-4 0.573576                              Hou Long+            (94)31453  3 
+    1 26056   4 102    1.2500+7          6.5400-4 9.8000-5 0.573576                              Hou Long+            (94)31453  3 
+    1 26056   4 102    1.5000+7          5.7300-4 8.6000-5 0.573576                              Hou Long+            (94)31453  3 
+    1 26056   4 102    2.0000+7          2.6400-4 4.0000-5 0.573576                              Hou Long+            (94)31453  3 
+#/DATA      5
+#/DATASET
+#
+#DATASET    31453003 
+#DATE       20100307
+#REACTION   26-FE-56(N,G)26-FE-57,,DA
+#PROJ       1
+#TARG       26056
+#MF         4
+#MT         102
+#PRODUCT    26-FE-57
+#C4BEGIN    [    1 26056   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   4 102    9000000.          5.9400-4 8.9000-5-0.573576                              Hou Long+            (94)31453  3 
+    1 26056   4 102    1.0000+7          5.9400-4 8.9000-5-0.573576                              Hou Long+            (94)31453  3 
+    1 26056   4 102    1.2500+7          5.6200-4 8.4000-5-0.573576                              Hou Long+            (94)31453  3 
+    1 26056   4 102    1.5000+7          4.4100-4 6.6000-5-0.573576                              Hou Long+            (94)31453  3 
+    1 26056   4 102    2.0000+7          1.7700-4 2.7000-5-0.573576                              Hou Long+            (94)31453  3 
+#/DATA      5
+#/DATASET

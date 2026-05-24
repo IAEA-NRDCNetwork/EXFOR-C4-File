@@ -1,0 +1,28 @@
+#ENTRY      23710
+#AUTHOR1    R.F.Coleman+
+#YEAR       1960
+#INSTITUTE  (2UK ALD)
+#TITLE      The mass-yield curve for fission of 237Np by 14.5 MeV
+#+          neutrons
+#AUTHOR(S)  R.F.Coleman, B.E.Hawker, J.L.Perkin
+#REF-CODE   (J,JIN,14,8,1960)
+#REFERENCE  J.Inorg.Nucl.Chem. 14 (1960) 8 (doi:10.1016/0022-1902(60)80191-1)
+#DATASETS   0
+#
+#DATASET    23710003 
+#DATE       20200520
+#REACTION   93-NP-237(N,F)42-MO-99,CUM,FY
+#PROJ       1
+#TARG       93237
+#MF         8
+#MT         459
+#PRODUCT    42-MO-99
+#C4BEGIN    [    1 93237   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   8 459    1.4500+7          0.049700 2.0000-3 42.00000 99.00000 9.000000            R.F.Coleman+         (60)23710  3 
+    1 93237   8 459    1.4500+7          0.049000 2.0000-3 42.00000 99.00000 9.000000            R.F.Coleman+         (60)23710  3 
+    1 93237   8 459    1.4500+7          0.049400 2.0000-3 42.00000 99.00000 9.000000            R.F.Coleman+         (60)23710  3 
+#/DATA      3
+#/DATASET

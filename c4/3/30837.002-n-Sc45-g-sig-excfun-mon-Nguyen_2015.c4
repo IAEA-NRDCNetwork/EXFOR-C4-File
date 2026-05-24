@@ -1,0 +1,27 @@
+#ENTRY      30837
+#AUTHOR1    V.D.Nguyen+
+#YEAR       2015
+#INSTITUTE  (3VN IPH)
+#TITLE      Thermal neutron capture and resonance integral cross
+#+          section of 45Sc
+#AUTHOR(S)  V.D.Nguyen, D.K.Pham, T.T.Kim, T.H.Nguyen, G.N.Kim, K.S.Kim, 
+#+          S.G.Shin, M.H.Cho, M.W.Lee
+#REF-CODE   (J,NIM/B,362,9,2015)
+#REFERENCE  Nucl.Instrum.Meth.B 362 (2015) 9 (doi:10.1016/j.nimb.2015.08.075)
+#DATASETS   0
+#
+#DATASET    30837002 
+#DATE       20160930
+#REACTION   21-SC-45(N,G)21-SC-46,,SIG
+#PROJ       1
+#TARG       21045
+#MF         3
+#MT         102
+#PRODUCT    21-SC-46
+#C4BEGIN    [    1 21045   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 21045   3 102 A  0.025300          27.50000 0.800000                                       V.D.Nguyen+          (15)30837  2 
+#/DATA      1
+#/DATASET

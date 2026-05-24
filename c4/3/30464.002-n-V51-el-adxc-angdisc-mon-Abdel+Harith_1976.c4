@@ -1,0 +1,36 @@
+#ENTRY      30464
+#AUTHOR1    M.Abdel-Harith+
+#YEAR       1976
+#INSTITUTE  (3DDRTUD)
+#TITLE      Elastic and inelastic scattering of 3.4 MeV neutrons
+#+          by V-51,Co-59 and Pb-206,207
+#AUTHOR(S)  M.Abdel-Harith, Th.Schweitzer, D.Seeliger, S.Unholzer
+#REF-CODE   (P,ZFK-315,12,197609)
+#REFERENCE  Progress report ZFK-315 page 12, 1976
+#DATASETS   0
+#
+#DATASET    30464002 
+#DATE       20090311
+#REACTION   23-V-51(N,EL)23-V-51,,DA
+#PROJ       1
+#TARG       23051
+#MF         4
+#MT         2
+#PRODUCT    23-V-51
+#C4BEGIN    [    1 23051   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 23051   4   2  C 3400000. 100000.0 1.422600 0.280200 0.965016                              M.Abdel-Harith+      (76)30464  2 
+    1 23051   4   2  C 3400000. 100000.0 0.979900 0.189500 0.902585                              M.Abdel-Harith+      (76)30464  2 
+    1 23051   4   2  C 3400000. 100000.0 0.664400 0.133900 0.813101                              M.Abdel-Harith+      (76)30464  2 
+    1 23051   4   2  C 3400000. 100000.0 0.371500 0.077500 0.697165                              M.Abdel-Harith+      (76)30464  2 
+    1 23051   4   2  C 3400000. 100000.0 0.133900 0.025600 0.484810                              M.Abdel-Harith+      (76)30464  2 
+    1 23051   4   2  C 3400000. 100000.0 0.060300 0.011500 0.240228                              M.Abdel-Harith+      (76)30464  2 
+    1 23051   4   2  C 3400000. 100000.0 0.075900 0.015200-0.020942                              M.Abdel-Harith+      (76)30464  2 
+    1 23051   4   2  C 3400000. 100000.0 0.102600 0.018700-0.277315                              M.Abdel-Harith+      (76)30464  2 
+    1 23051   4   2  C 3400000. 100000.0 0.104900 0.018900-0.515038                              M.Abdel-Harith+      (76)30464  2 
+    1 23051   4   2  C 3400000. 100000.0 0.067100 0.013900-0.718126                              M.Abdel-Harith+      (76)30464  2 
+    1 23051   4   2  C 3400000. 100000.0 0.073000 0.016700-0.872069                              M.Abdel-Harith+      (76)30464  2 
+#/DATA      11
+#/DATASET

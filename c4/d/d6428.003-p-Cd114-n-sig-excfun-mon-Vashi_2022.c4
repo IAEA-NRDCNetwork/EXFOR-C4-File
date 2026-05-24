@@ -1,0 +1,32 @@
+#ENTRY      D6428
+#AUTHOR1    V.Vashi+
+#YEAR       2022
+#INSTITUTE  (3INDBDA)
+#TITLE      Cross-section measurement of the 114Cd(p,gamma)115mIn
+#+          reaction for nuclear reactor and astrophysical
+#+          applications
+#AUTHOR(S)  V.Vashi, R.Makwana, B.Quintana, M.H.Mehta, B.K.Soni, S.Mukherjee, 
+#+          R.K.Singh, R.Chauhan, P.M.Prajapati, M.Abhangi, S.Vala, 
+#+          N.L.Singh, G.B.Patel, S.V.Suryanarayana, B.K.Nayak, S.C.Sharma, 
+#+          T.N.Nag, Y.Kavun
+#REF-CODE   (J,PR/C,105,044613,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) 044613 (doi:10.1103/PhysRevC.105.044613)
+#DATASETS   0
+#
+#DATASET    D6428003 
+#DATE       20220719
+#REACTION   48-CD-114(P,N)49-IN-114-M,,SIG
+#PROJ       1001
+#TARG       48114
+#MF         3
+#MT         4
+#PRODUCT    49-IN-114-M
+#C4BEGIN    [ 1001 48114   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 48114   3   4M   1.4266+7          0.047600 7.5300-3                                       V.Vashi+             (22)D6428  3 
+ 1001 48114   3   4M   1.0190+7          0.258720 0.063310                                       V.Vashi+             (22)D6428  3 
+ 1001 48114   3   4M   4903112.          2.6700-3 2.3000-4                                       V.Vashi+             (22)D6428  3 
+#/DATA      3
+#/DATASET

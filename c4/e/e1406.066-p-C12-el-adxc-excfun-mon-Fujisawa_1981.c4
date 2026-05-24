@@ -1,0 +1,36 @@
+#ENTRY      E1406
+#AUTHOR1    T.Fujisawa+
+#YEAR       1981
+#INSTITUTE  (2JPNIPC)
+#TITLE      Analyzing power-polarization inequality in the
+#+          inelastic scattering of protons on 12C for incident
+#+          energies from 22.0 to 29.0 MeV
+#AUTHOR(S)  T.Fujisawa, N.Kishida, T.Kubo, T.Wada, Y.Toba, T.Hasegawa, 
+#+          M.Sekiguchi, N.Ueda, M.Yasue, F.Soga, H.Kamitsubo, M.Nakamura, 
+#+          K.Hatanaka, Y.Wakuta, T.Tanaka, A.Nagao
+#REF-CODE   (J,JPJ,50,(10),3198,198110)
+#REFERENCE  J.Phys.Soc.Jpn. 50 No.10 (1981) 3198 (doi:10.1143/JPSJ.50.3198)
+#DATASETS   0
+#
+#DATASET    E1406066 
+#DATE       20080131
+#REACTION   6-C-12(P,EL)6-C-12,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4   2  C 2.2050+7 44100.00 4.0100-3         -0.500000                              T.Fujisawa+          (81)E1406 66 
+ 1001  6012   4   2  C 2.2400+7 44800.00 3.0800-3         -0.500000                              T.Fujisawa+          (81)E1406 66 
+ 1001  6012   4   2  C 2.2900+7 45800.00 2.3700-3         -0.500000                              T.Fujisawa+          (81)E1406 66 
+ 1001  6012   4   2  C 2.3400+7 46800.00 2.2900-3         -0.500000                              T.Fujisawa+          (81)E1406 66 
+ 1001  6012   4   2  C 2.4400+7 48800.00 2.0600-3         -0.500000                              T.Fujisawa+          (81)E1406 66 
+ 1001  6012   4   2  C 2.5050+7 50100.00 2.0300-3         -0.500000                              T.Fujisawa+          (81)E1406 66 
+ 1001  6012   4   2  C 2.5500+7 51000.00 2.2800-3         -0.500000                              T.Fujisawa+          (81)E1406 66 
+ 1001  6012   4   2  C 2.6400+7 52800.00 1.9700-3         -0.500000                              T.Fujisawa+          (81)E1406 66 
+#/DATA      8
+#/DATASET

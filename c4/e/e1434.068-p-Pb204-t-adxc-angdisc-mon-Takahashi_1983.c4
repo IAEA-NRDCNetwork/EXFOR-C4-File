@@ -1,0 +1,36 @@
+#ENTRY      E1434
+#AUTHOR1    M.Takahashi+
+#YEAR       1983
+#INSTITUTE  (2JPNTOH)
+#TITLE      Nuclear structure of even lead isotopes by the (p,t)
+#+          reaction
+#AUTHOR(S)  M.Takahashi, T.Murakami, S.Morita, H.Orihara, Y.Ishizaki, 
+#+          H.Yamaguchi
+#REF-CODE   (J,PR/C,27,(4),1454,198304)
+#REFERENCE  Phys.Rev.C 27 No.4 (1983) 1454 (doi:10.1103/PhysRevC.27.1454)
+#DATASETS   0
+#
+#DATASET    E1434068 
+#DATE       20040311
+#REACTION   82-PB-204(P,T)82-PB-202,PAR,DA
+#PROJ       1001
+#TARG       82204
+#MF         4
+#MT         700
+#PRODUCT    82-PB-202
+#C4BEGIN    [ 1001 82204   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82204   4 700  C 5.1900+7          4.4000-6          0.925805          4500000.         LVLM.Takahashi+         (83)E1434 68 
+ 1001 82204   4 700  C 5.1900+7          5.3600-6          0.888777          4500000.         LVLM.Takahashi+         (83)E1434 68 
+ 1001 82204   4 700  C 5.1900+7          6.4200-6          0.866897          4500000.         LVLM.Takahashi+         (83)E1434 68 
+ 1001 82204   4 700  C 5.1900+7          8.1900-6          0.844889          4500000.         LVLM.Takahashi+         (83)E1434 68 
+ 1001 82204   4 700  C 5.1900+7          7.2000-6          0.824620          4500000.         LVLM.Takahashi+         (83)E1434 68 
+ 1001 82204   4 700  C 5.1900+7          7.5800-6          0.794096          4500000.         LVLM.Takahashi+         (83)E1434 68 
+ 1001 82204   4 700  C 5.1900+7          5.7200-6          0.767053          4500000.         LVLM.Takahashi+         (83)E1434 68 
+ 1001 82204   4 700  C 5.1900+7          3.1700-6          0.704386          4500000.         LVLM.Takahashi+         (83)E1434 68 
+ 1001 82204   4 700  C 5.1900+7          2.3000-6          0.640646          4500000.         LVLM.Takahashi+         (83)E1434 68 
+ 1001 82204   4 700  C 5.1900+7          1.5500-6          0.569566          4500000.         LVLM.Takahashi+         (83)E1434 68 
+#/DATA      10
+#/DATASET

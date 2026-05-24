@@ -1,0 +1,25 @@
+#ENTRY      13079
+#AUTHOR1    R.R.Rickard+
+#YEAR       1965
+#INSTITUTE  (1USAORL)
+#TITLE      Mass-fission-yield curve for americium-241
+#AUTHOR(S)  R.R.Rickard, C.F.Goeking, E.I.Wyatt
+#REF-CODE   (J,NSE,23,115,1965)
+#REFERENCE  Nucl.Sci.Eng. 23 (1965) 115 (doi:10.13182/NSE65-A28135)
+#DATASETS   0
+#
+#DATASET    13079002 
+#DATE       20200821
+#REACTION   95-AM-241(N,F)56-BA-140,CUM,FY,,MXW
+#PROJ       1
+#TARG       95241
+#MF         8
+#MT         459
+#PRODUCT    56-BA-140
+#C4BEGIN    [    1 95241   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95241   8 459    0.025300          0.052000 1.0000-3 56.00000 140.0000 9.000000            R.R.Rickard+         (65)13079  2 
+#/DATA      1
+#/DATASET

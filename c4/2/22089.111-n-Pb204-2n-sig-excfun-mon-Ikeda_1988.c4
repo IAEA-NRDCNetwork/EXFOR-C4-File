@@ -1,0 +1,35 @@
+#ENTRY      22089
+#AUTHOR1    Y.Ikeda+
+#YEAR       1988
+#INSTITUTE  (2JPNJAE)
+#TITLE      Activation cross section measurements for fusion
+#+          reactor structural materials at neutron energy from
+#+          13.3 to 15.0 MeV using FNS facility
+#AUTHOR(S)  Y.Ikeda, C.Konno, K.Oishi, T.Nakamura, H.Miyade, K.Kawade, 
+#+          H.Yamamoto, T.Katoh
+#REF-CODE   (R,JAERI-1312,1988)
+#REFERENCE  Report JAERI-1312, 1988
+#DATASETS   0
+#
+#DATASET    22089111 
+#DATE       20201012
+#REACTION   82-PB-204(N,2N)82-PB-203,,SIG
+#PROJ       1
+#TARG       82204
+#MF         3
+#MT         16
+#PRODUCT    82-PB-203
+#C4BEGIN    [    1 82204   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82204   3  16    1.4930+7          2.120000 0.120000                                       Y.Ikeda+             (88)22089111 
+    1 82204   3  16    1.4670+7          2.310000 0.130000                                       Y.Ikeda+             (88)22089111 
+    1 82204   3  16    1.4430+7          2.210000 0.130000                                       Y.Ikeda+             (88)22089111 
+    1 82204   3  16    1.4220+7          2.190000 0.130000                                       Y.Ikeda+             (88)22089111 
+    1 82204   3  16    1.3980+7          2.120000 0.120000                                       Y.Ikeda+             (88)22089111 
+    1 82204   3  16    1.3750+7          2.120000 0.120000                                       Y.Ikeda+             (88)22089111 
+    1 82204   3  16    1.3570+7          2.150000 0.120000                                       Y.Ikeda+             (88)22089111 
+    1 82204   3  16    1.3330+7          2.070000 0.110000                                       Y.Ikeda+             (88)22089111 
+#/DATA      8
+#/DATASET

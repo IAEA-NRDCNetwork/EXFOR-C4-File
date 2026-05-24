@@ -1,0 +1,33 @@
+#ENTRY      C1932
+#AUTHOR1    P.J.C.Salter+
+#YEAR       2012
+#INSTITUTE  (2UK EDG)
+#TITLE      Measurement of the 18Ne(alpha,p0)21Na Reaction Cross
+#+          Section in the Burning Energy Region for X-Ray Bursts
+#AUTHOR(S)  P.J.C.Salter, M.Aliotta, T.Davinson, H.Al Falou, A.Chen, 
+#+          B.Davids, B.R.Fulton, N.Galinski, D.Howell, G.Lotay, P.Machule, 
+#+          A.StJ.Murphy, C.Ruiz, S.Sjue, M.Taggart, P.Walden, P.J.Woods
+#REF-CODE   (J,PRL,108,242701,2012)
+#REFERENCE  Phys.Rev.Lett. 108 (2012) 242701 (doi:10.1103/PhysRevLett.108.242701)
+#DATASETS   0
+#
+#DATASET    C1932003 
+#DATE       20120716
+#REACTION   10-NE-18(A,P)11-NA-21,PAR,SIG
+#PROJ       2004
+#TARG       10018
+#MF         3
+#MT         600
+#PRODUCT    11-NA-21
+#C4BEGIN    [ 2004 10018   3 600 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 10018   3 600 D  1454574. 130009.2 5.5000-7                            0.000000         LVLP.J.C.Salter+        (12)C1932  3 
+ 2004 10018   3 600 D  1686825. 130010.6 3.8000-6                            0.000000         LVLP.J.C.Salter+        (12)C1932  3 
+ 2004 10018   3 600 D  2053542. 120012.0 2.3000-5                            0.000000         LVLP.J.C.Salter+        (12)C1932  3 
+ 2004 10018   3 600 D  2151333. 70007.34 3.1000-5 6.0000-6                   0.000000         LVLP.J.C.Salter+        (12)C1932  3 
+ 2004 10018   3 600 D  2408039. 120014.0 1.7000-4                            0.000000         LVLP.J.C.Salter+        (12)C1932  3 
+ 2004 10018   3 600 D  3141498. 60009.19 1.7000-3 3.0000-4                   0.000000         LVLP.J.C.Salter+        (12)C1932  3 
+#/DATA      6
+#/DATASET

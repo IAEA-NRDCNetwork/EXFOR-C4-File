@@ -1,0 +1,38 @@
+#ENTRY      D4192
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2007
+#INSTITUTE  (2BLGVUB)
+#TITLE      Study of the 192Os(d,2n) reaction for production of the
+#+          therapeutic radionuclide 192Ir in no-carrier added form
+#AUTHOR(S)  F.Tarkanyi, A.Hermanne, S.Takacs, K.Hilgers, S.F.Kovalev, 
+#+          A.V.Ignatyuk, S.M.Qaim
+#REF-CODE   (J,ARI,65,1215,2007)
+#REFERENCE  Appl.Radiat.Isot. 65 (2007) 1215 (doi:10.1016/j.apradiso.2007.06.007)
+#DATASETS   0
+#
+#DATASET    D4192002 
+#DATE       20161003
+#REACTION   76-OS-192(D,2N)77-IR-192-G+M1,,SIG
+#PROJ       1002
+#TARG       76192
+#MF         3
+#MT         16
+#PRODUCT    77-IR-192-G+M1
+#C4BEGIN    [ 1002 76192   3  16+A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 76192   3  16+A  2.0700+7 300000.0 0.086000 0.010000                                       F.Tarkanyi+          (07)D4192  2 
+ 1002 76192   3  16+A  1.9600+7 300000.0 0.095000 0.011000                                       F.Tarkanyi+          (07)D4192  2 
+ 1002 76192   3  16+A  1.8500+7 400000.0 0.136000 0.016000                                       F.Tarkanyi+          (07)D4192  2 
+ 1002 76192   3  16+A  1.7300+7 500000.0 0.171000 0.020000                                       F.Tarkanyi+          (07)D4192  2 
+ 1002 76192   3  16+A  1.6000+7 500000.0 0.217000 0.026000                                       F.Tarkanyi+          (07)D4192  2 
+ 1002 76192   3  16+A  1.4700+7 600000.0 0.261000 0.030000                                       F.Tarkanyi+          (07)D4192  2 
+ 1002 76192   3  16+A  1.3500+7 700000.0 0.337000 0.040000                                       F.Tarkanyi+          (07)D4192  2 
+ 1002 76192   3  16+A  1.2100+7 800000.0 0.370000 0.046000                                       F.Tarkanyi+          (07)D4192  2 
+ 1002 76192   3  16+A  1.0700+7 800000.0 0.308000 0.037000                                       F.Tarkanyi+          (07)D4192  2 
+ 1002 76192   3  16+A  9100000. 900000.0 0.122000 0.014000                                       F.Tarkanyi+          (07)D4192  2 
+ 1002 76192   3  16+A  7400000. 1000000. 0.019000 2.0000-3                                       F.Tarkanyi+          (07)D4192  2 
+ 1002 76192   3  16+A  5200000. 1100000. 9.0000-4 7.0000-4                                       F.Tarkanyi+          (07)D4192  2 
+#/DATA      12
+#/DATASET

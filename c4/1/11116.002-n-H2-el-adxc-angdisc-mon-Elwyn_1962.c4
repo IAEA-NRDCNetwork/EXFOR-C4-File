@@ -1,0 +1,70 @@
+#ENTRY      11116
+#AUTHOR1    A.J.Elwyn+
+#YEAR       1962
+#INSTITUTE  (1USAANL)
+#TITLE      Polarization and differential cross sections in neutron
+#+          deuterium scattering
+#AUTHOR(S)  A.J.Elwyn, R.O.Lane, A.Langsdorf jr
+#REF-CODE   (J,PR,128,779,1962)
+#REFERENCE  Phys.Rev. 128 (1962) 779 (doi:10.1103/PhysRev.128.779)
+#DATASETS   0
+#
+#DATASET    11116002 
+#DATE       20101025
+#REACTION   1-H-2(N,EL)1-H-2,,DA
+#PROJ       1
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   4   2  C 500000.0          0.110000 6.0000-3 0.838700 0.014257                     A.J.Elwyn+           (62)11116  2 
+    1  1002   4   2  C 500000.0          0.157000 8.0000-3 0.342000 8.2004-3                     A.J.Elwyn+           (62)11116  2 
+    1  1002   4   2  C 500000.0          0.268000 0.013000-0.342000 8.2004-3                     A.J.Elwyn+           (62)11116  2 
+    1  1002   4   2  C 500000.0          0.380000 0.019000-0.642800 6.6849-3                     A.J.Elwyn+           (62)11116  2 
+    1  1002   4   2  C 500000.0          0.617000 0.031000-0.965900 2.2595-3                     A.J.Elwyn+           (62)11116  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    11116002 
+#DATE       20101025
+#REACTION   1-H-2(N,EL)1-H-2,,DA
+#PROJ       1
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   4   2  C 1000000.          0.144000 7.0000-3 0.838700 0.014257                     A.J.Elwyn+           (62)11116  2 
+    1  1002   4   2  C 1000000.          0.135000 7.0000-3 0.342000 8.2004-3                     A.J.Elwyn+           (62)11116  2 
+    1  1002   4   2  C 1000000.          0.224000 0.011000-0.342000 8.2004-3                     A.J.Elwyn+           (62)11116  2 
+    1  1002   4   2  C 1000000.          0.344000 0.017000-0.642800 6.6849-3                     A.J.Elwyn+           (62)11116  2 
+    1  1002   4   2  C 1000000.          0.625000 0.031000-0.965900 2.2595-3                     A.J.Elwyn+           (62)11116  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    11116002 
+#DATE       20101025
+#REACTION   1-H-2(N,EL)1-H-2,,DA
+#PROJ       1
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   4   2  C 1950000.          0.201000 0.010000 0.838700 0.014257                     A.J.Elwyn+           (62)11116  2 
+    1  1002   4   2  C 1950000.          0.140000 7.0000-3 0.342000 8.2004-3                     A.J.Elwyn+           (62)11116  2 
+    1  1002   4   2  C 1950000.          0.149000 8.0000-3-0.342000 8.2004-3                     A.J.Elwyn+           (62)11116  2 
+    1  1002   4   2  C 1950000.          0.245000 0.012000-0.642800 6.6849-3                     A.J.Elwyn+           (62)11116  2 
+    1  1002   4   2  C 1950000.          0.558000 0.028000-0.965900 2.2595-3                     A.J.Elwyn+           (62)11116  2 
+#/DATA      5
+#/DATASET

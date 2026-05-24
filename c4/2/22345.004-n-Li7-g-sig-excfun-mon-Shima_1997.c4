@@ -1,0 +1,29 @@
+#ENTRY      22345
+#AUTHOR1    T.Shima+
+#YEAR       1997
+#INSTITUTE  (2JPNTIT)
+#TITLE      Experimental studies of keV energy neutron-induced
+#+          reactions relevant to astrophysics and nuclear
+#+          physics
+#AUTHOR(S)  T.Shima, T.Kii, T.Kikuchi, F.Okazaki, T.Kobayashi, T.Baba, 
+#+          Y.Nagai, M.Igashira
+#REF-CODE   (S,JAERI-C-97-004,131,1997)
+#REFERENCE  Report (proceedings) JAERI-C-97-004 page 131, 1997
+#DATASETS   0
+#
+#DATASET    22345004 
+#DATE       20161027
+#REACTION   3-LI-7(N,G)3-LI-8,,SIG
+#PROJ       1
+#TARG       3007
+#MF         3
+#MT         102
+#PRODUCT    3-LI-8
+#C4BEGIN    [    1  3007   3 102 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3007   3 102 P  24900.00          5.2300-5 3.3000-6                                       T.Shima+             (97)22345  4 
+    1  3007   3 102 P  50700.00          3.2100-5 2.0000-6                                       T.Shima+             (97)22345  4 
+#/DATA      2
+#/DATASET

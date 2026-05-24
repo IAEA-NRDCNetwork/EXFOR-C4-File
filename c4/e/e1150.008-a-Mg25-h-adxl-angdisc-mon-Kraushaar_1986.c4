@@ -1,0 +1,29 @@
+#ENTRY      E1150
+#AUTHOR1    J.J.Kraushaar+
+#YEAR       1986
+#INSTITUTE  (2JPNOSA)
+#TITLE      STREICHED STATES IN 26MG FROM THE 25MG(ALPHA,3HE)
+#+          REACTION AT 81 MEV
+#AUTHOR(S)  J.J.Kraushaar, M.Fujiwara, K.Hosono, H.Ito, M.Kondo, H.Sakai, 
+#+          M.Tosaki, M.Yasue, S.I.Hayakawa, R.J.Peterson
+#REF-CODE   (J,PR/C,34,1530,86)
+#REFERENCE  Phys.Rev.C 34 (1986) 1530 (doi:10.1103/PhysRevC.34.1530)
+#DATASETS   0
+#
+#DATASET    E1150008 
+#DATE       19890728
+#REACTION   12-MG-25(A,HE3)12-MG-26,PAR,DA
+#PROJ       2004
+#TARG       12025
+#MF         4
+#MT         750
+#PRODUCT    12-MG-26
+#C4BEGIN    [ 2004 12025   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 12025   4 750  C 8.0900+7          5.9470-5          0.994412          1.2958+7         LVLJ.J.Kraushaar+       (86)E1150  8 
+ 2004 12025   4 750  C 8.0900+7          3.3920-5          0.978527          1.2958+7         LVLJ.J.Kraushaar+       (86)E1150  8 
+ 2004 12025   4 750  C 8.0900+7          2.1150-5          0.965718          1.2958+7         LVLJ.J.Kraushaar+       (86)E1150  8 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      31276
+#AUTHOR1    G.Singh+
+#YEAR       1961
+#INSTITUTE  (3INDDLH)
+#TITLE      Determination of thermal neutron absorption
+#+          cross-section in boron using spherical transmission
+#+          method.
+#AUTHOR(S)  G.Singh, A.K.Ghatak
+#REF-CODE   (J,PSI/A,27,216,1961)
+#REFERENCE  Proc.Nat.Inst.Sci.,A 27 (1961) 216
+#DATASETS   0
+#
+#DATASET    31276002 
+#DATE       20090928
+#REACTION   5-B-0(N,ABS),,SIG,,MXW
+#PROJ       1
+#TARG       5000
+#MF         3
+#MT         27
+#C4BEGIN    [    1  5000   3  27  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5000   3  27    0.025300          759.0000 11.00000                                       G.Singh+             (61)31276  2 
+#/DATA      1
+#/DATASET

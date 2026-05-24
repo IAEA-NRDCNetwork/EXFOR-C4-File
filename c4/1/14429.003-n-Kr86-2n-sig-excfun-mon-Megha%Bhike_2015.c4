@@ -1,0 +1,35 @@
+#ENTRY      14429
+#AUTHOR1    Megha Bhike+
+#YEAR       2015
+#INSTITUTE  (1USADKE)
+#TITLE      Measurements of the 86Kr(n,gamma)87Kr and
+#+          86Kr(n,2n)85mKr reaction cross sections below En = 15
+#+          MeV
+#AUTHOR(S)  Megha Bhike, E.Rubino, M.E.Gooden, Krishichayan, W.Tornow
+#REF-CODE   (J,PR/C,92,014624,2015)
+#REFERENCE  Phys.Rev.C 92 (2015) 014624 (doi:10.1103/PhysRevC.92.014624)
+#DATASETS   0
+#
+#DATASET    14429003 
+#DATE       20150728
+#REACTION   36-KR-86(N,2N)36-KR-85-M,,SIG
+#PROJ       1
+#TARG       36086
+#MF         3
+#MT         16
+#PRODUCT    36-KR-85-M
+#C4BEGIN    [    1 36086   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 36086   3  16M   1.0860+7 140000.0 0.030930 2.5700-3                                       Megha Bhike+         (15)14429  3 
+    1 36086   3  16M   1.1360+7 140000.0 0.069600 5.7800-3                                       Megha Bhike+         (15)14429  3 
+    1 36086   3  16M   1.1860+7 140000.0 0.117560 9.7000-3                                       Megha Bhike+         (15)14429  3 
+    1 36086   3  16M   1.2360+7 140000.0 0.166260 0.013670                                       Megha Bhike+         (15)14429  3 
+    1 36086   3  16M   1.2850+7 150000.0 0.219510 0.017930                                       Megha Bhike+         (15)14429  3 
+    1 36086   3  16M   1.3370+7 150000.0 0.259000 0.020900                                       Megha Bhike+         (15)14429  3 
+    1 36086   3  16M   1.3850+7 150000.0 0.283650 0.022520                                       Megha Bhike+         (15)14429  3 
+    1 36086   3  16M   1.4350+7 150000.0 0.303500 0.025190                                       Megha Bhike+         (15)14429  3 
+    1 36086   3  16M   1.4800+7 70000.00 0.291150 0.024410                                       Megha Bhike+         (15)14429  3 
+#/DATA      9
+#/DATASET

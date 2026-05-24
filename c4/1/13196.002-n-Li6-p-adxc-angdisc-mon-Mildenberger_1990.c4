@@ -1,0 +1,31 @@
+#ENTRY      13196
+#AUTHOR1    J.Mildenberger+
+#YEAR       1990
+#INSTITUTE  (1CANTMF)
+#TITLE      ISOSPIN SYMMETRY IN NUCLEON SCATTERING FROM 6LI AND
+#+          12 C AT 280 MEV
+#AUTHOR(S)  J.Mildenberger, O.Hausser, R.G.Jeppesen, B.Larson, B.Pointon, 
+#+          A.Trudel, R.Henderson, K.Hicks, K.P.Jackson, A.Miller, M.Vetterli, 
+#+          S.Yen, W.P.Alford, A.Celler, R.Helmer
+#REF-CODE   (J,PR/C,42,732,9008)
+#REFERENCE  Phys.Rev.C 42 (1990) 732 (doi:10.1103/PhysRevC.42.732)
+#DATASETS   0
+#
+#DATASET    13196002 
+#DATE       19910122
+#REACTION   3-LI-6(N,P)2-HE-6,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         103
+#PRODUCT    2-HE-6
+#C4BEGIN    [    1  3006   4 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4 103 AC 2.8000+8          0.013200 1.1400-3 0.997904                              J.Mildenberger+      (90)13196  2 
+    1  3006   4 103 AC 2.8000+8          0.010760 1.5000-4 0.996285                              J.Mildenberger+      (90)13196  2 
+    1  3006   4 103 AC 2.8000+8          5.5400-3 1.1000-4 0.994721                              J.Mildenberger+      (90)13196  2 
+    1  3006   4 103 AC 2.8000+8          1.6900-3 6.0000-5 0.978545                              J.Mildenberger+      (90)13196  2 
+#/DATA      4
+#/DATASET

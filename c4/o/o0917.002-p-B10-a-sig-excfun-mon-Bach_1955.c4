@@ -1,0 +1,31 @@
+#ENTRY      O0917
+#AUTHOR1    G.G.Bach+
+#YEAR       1955
+#INSTITUTE  (2UK BIR)
+#TITLE      The cross section for the reaction B-10(p,alpha)Be-7 at
+#+          proton energies below 200 keV.
+#AUTHOR(S)  G.G.Bach, D.J.Liversey
+#REF-CODE   (J,PM,46,824,1955)
+#REFERENCE  Philos.Mag. 46 (1955) 824 (doi:10.1080/14786440808561234)
+#DATASETS   0
+#
+#DATASET    O0917002 
+#DATE       20221124
+#REACTION   5-B-10(P,A)4-BE-7,,SIG
+#PROJ       1001
+#TARG       5010
+#MF         3
+#MT         107
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  5010   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5010   3 107    177000.0          2.9000-3 4.0000-4                                       G.G.Bach+            (55)O0917  2 
+ 1001  5010   3 107    199000.0          6.6000-3 9.0000-4                                       G.G.Bach+            (55)O0917  2 
+ 1001  5010   3 107    205000.0          7.4000-3 1.1000-3                                       G.G.Bach+            (55)O0917  2 
+ 1001  5010   3 107    205000.0          9.7000-3 1.4000-3                                       G.G.Bach+            (55)O0917  2 
+ 1001  5010   3 107    205000.0          9.0000-3 1.3000-3                                       G.G.Bach+            (55)O0917  2 
+ 1001  5010   3 107    205000.0          0.010900 1.4000-3                                       G.G.Bach+            (55)O0917  2 
+#/DATA      6
+#/DATASET

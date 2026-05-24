@@ -1,0 +1,29 @@
+#ENTRY      C1997
+#AUTHOR1    A.A.Caretto+
+#YEAR       1958
+#INSTITUTE  (1USABNL)
+#TITLE      (p,pn) and (p,2p) reactions of Ce142 at proton
+#+          energies from 0.4 to 3.0 BeV
+#AUTHOR(S)  A.A.Caretto, G.Friedlander
+#REF-CODE   (J,PR,110,1169,1958)
+#REFERENCE  Phys.Rev. 110 (1958) 1169 (doi:10.1103/PhysRev.110.1169)
+#DATASETS   0
+#
+#DATASET    C1997002 
+#DATE       20130416
+#REACTION   58-CE-142(P,X)57-LA-141,,SIG
+#PROJ       1001
+#TARG       58142
+#MF         3
+#MT         454
+#PRODUCT    57-LA-141
+#C4BEGIN    [ 1001 58142   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 58142   3 454    4.0000+8          0.086200 1.6000-3           57141.9                     A.A.Caretto+         (58)C1997  2 
+ 1001 58142   3 454    1.0000+9          0.030500 1.6000-3           57141.9                     A.A.Caretto+         (58)C1997  2 
+ 1001 58142   3 454    2.2000+9          0.028200 7.7000-3           57141.9                     A.A.Caretto+         (58)C1997  2 
+ 1001 58142   3 454    3.0000+9          0.024000 3.8000-3           57141.9                     A.A.Caretto+         (58)C1997  2 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      12813
+#AUTHOR1    T.M.Semkow+
+#YEAR       1984
+#INSTITUTE  (1USAWAS)
+#TITLE      Yields of In and Sn products from thermal and 14-MeV
+#+          neutron induced fission of 235U
+#AUTHOR(S)  T.M.Semkow, A.C.Wahl, L.Robinson
+#REF-CODE   (J,PR/C,30,1966,1984)
+#REFERENCE  Phys.Rev.C 30 (1984) 1966 (doi:10.1103/PhysRevC.30.1966)
+#DATASETS   0
+#
+#DATASET    12813005 
+#DATE       20101025
+#REACTION   92-U-235(N,F)ELEM/MASS,IND,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         454
+#C4BEGIN    [    1 92235   8 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 454 A  0.025300          7.5000-5          48.00000 121.0000 9.000000            T.M.Semkow+          (84)12813  5 
+    1 92235   8 454 A  0.025300          2.3000-5          49.00000 121.0000 9.000000            T.M.Semkow+          (84)12813  5 
+    1 92235   8 454 A  0.025300          4.0000-6          50.00000 121.0000 9.000000            T.M.Semkow+          (84)12813  5 
+    1 92235   8 454 A  0.025300          1.8000-5          50.00000 123.0000 9.000000            T.M.Semkow+          (84)12813  5 
+    1 92235   8 454 A  0.025300          1.2800-4          50.00000 125.0000 9.000000            T.M.Semkow+          (84)12813  5 
+    1 92235   8 454 A  0.025300          8.8700-4          50.00000 127.0000 9.000000            T.M.Semkow+          (84)12813  5 
+    1 92235   8 454 A  0.025300          3.2000-3          50.00000 128.0000 9.000000            T.M.Semkow+          (84)12813  5 
+#/DATA      7
+#/DATASET

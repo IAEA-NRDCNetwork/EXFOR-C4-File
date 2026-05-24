@@ -1,0 +1,40 @@
+#ENTRY      D4004
+#AUTHOR1    F.Tarkanyi+
+#YEAR       1990
+#INSTITUTE  (3HUNDEB)
+#TITLE      Excitation functions of proton induced nuclear
+#+          reactions on enriched 66Zn, 67Zn and 68Zn.
+#+          production of 67Ga and 66Ga.
+#AUTHOR(S)  F.Tarkanyi, F.Szelecsenyi, Z.Kovacs, S.Sudar
+#REF-CODE   (J,RCA,50,19,1990)
+#REFERENCE  Radiochim.Acta 50 (1990) 19 (doi:10.1524/ract.1990.50.12.19)
+#DATASETS   0
+#
+#DATASET    D40040032
+#DATE       20190821
+#REACTION   30-ZN-67(P,2N)31-GA-66,,SIG
+#PROJ       1001
+#TARG       30067
+#MF         3
+#MT         16
+#PRODUCT    31-GA-66
+#C4BEGIN    [ 1001 30067   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30067   3  16 A  1.3600+7 200000.0 3.6000-3 4.6800-4                                       F.Tarkanyi+          (90)D4004  32
+ 1001 30067   3  16 A  1.4600+7 200000.0 0.048000 6.2400-3                                       F.Tarkanyi+          (90)D4004  32
+ 1001 30067   3  16 A  1.4900+7 200000.0 0.046000 5.9800-3                                       F.Tarkanyi+          (90)D4004  32
+ 1001 30067   3  16 A  1.5200+7 200000.0 0.099000 0.012870                                       F.Tarkanyi+          (90)D4004  32
+ 1001 30067   3  16 A  1.5500+7 200000.0 0.145000 0.018850                                       F.Tarkanyi+          (90)D4004  32
+ 1001 30067   3  16 A  1.5700+7 200000.0 0.164000 0.021320                                       F.Tarkanyi+          (90)D4004  32
+ 1001 30067   3  16 A  1.6100+7 200000.0 0.194000 0.025220                                       F.Tarkanyi+          (90)D4004  32
+ 1001 30067   3  16 A  1.6200+7 200000.0 0.185000 0.024050                                       F.Tarkanyi+          (90)D4004  32
+ 1001 30067   3  16 A  1.7200+7 200000.0 0.326000 0.042380                                       F.Tarkanyi+          (90)D4004  32
+ 1001 30067   3  16 A  1.7800+7 200000.0 0.287000 0.037310                                       F.Tarkanyi+          (90)D4004  32
+ 1001 30067   3  16 A  1.8300+7 200000.0 0.403000 0.052390                                       F.Tarkanyi+          (90)D4004  32
+ 1001 30067   3  16 A  1.9400+7 200000.0 0.480000 0.062400                                       F.Tarkanyi+          (90)D4004  32
+ 1001 30067   3  16 A  2.0400+7 200000.0 0.532000 0.069160                                       F.Tarkanyi+          (90)D4004  32
+ 1001 30067   3  16 A  2.1300+7 200000.0 0.517000 0.067210                                       F.Tarkanyi+          (90)D4004  32
+#/DATA      14
+#/DATASET

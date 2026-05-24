@@ -1,0 +1,28 @@
+#ENTRY      C0962
+#AUTHOR1    J.Benveniste+
+#YEAR       1961
+#INSTITUTE  (1USALRL)
+#TITLE      Proton Interactions with Cu63 and Cu65
+#AUTHOR(S)  J.Benveniste, R.Booth, A.Mitchell
+#REF-CODE   (J,PR,123,1818,1961)
+#REFERENCE  Phys.Rev. 123 (1961) 1818 (doi:10.1103/PhysRev.123.1818)
+#DATASETS   0
+#
+#DATASET    C0962004 
+#DATE       20040817
+#REACTION   29-CU-63(P,A)28-NI-60,,SIG
+#PROJ       1001
+#TARG       29063
+#MF         3
+#MT         107
+#PRODUCT    28-NI-60
+#C4BEGIN    [ 1001 29063   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29063   3 107    6200000.          0.035000 3.0000-3                                       J.Benveniste+        (61)C0962  4 
+ 1001 29063   3 107    8800000.          0.061000 4.0000-3                                       J.Benveniste+        (61)C0962  4 
+ 1001 29063   3 107    1.0200+7          0.066000 2.0000-3                                       J.Benveniste+        (61)C0962  4 
+ 1001 29063   3 107    1.1030+7          0.070000 2.0000-3                                       J.Benveniste+        (61)C0962  4 
+#/DATA      4
+#/DATASET

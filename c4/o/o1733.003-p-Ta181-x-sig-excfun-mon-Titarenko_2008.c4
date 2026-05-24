@@ -1,0 +1,32 @@
+#ENTRY      O1733
+#AUTHOR1    Yu.E.Titarenko+
+#YEAR       2008
+#INSTITUTE  (4RUSITE)
+#TITLE      Gd-148 formation in thin W-nat and Ta-181 targets
+#+          induced with 0.4-2.6 GeV protons.
+#AUTHOR(S)  Yu.E.Titarenko, V.F.Batyaev, A.Yu.Titarenko, M.A.Butko, 
+#+          K.V.Pavlov, R.S.Tikhonov, S.N.Florya, S.G.Mashnik, W.Gudowski
+#REF-CODE   (C,2008VILLIG,,68,2008)
+#REFERENCE  Proceedings of 1 Int.Worksh.on Acc.Radat.Ind.Activ., Villigen, 2008 page 68
+#DATASETS   0
+#
+#DATASET    O1733003 
+#DATE       20090408
+#REACTION   73-TA-181(P,X)64-GD-148,,SIG
+#PROJ       1001
+#TARG       73181
+#MF         3
+#MT         454
+#PRODUCT    64-GD-148
+#C4BEGIN    [ 1001 73181   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 73181   3 454    4.0000+8          2.2500-3 2.0000-4           64148.9                     Yu.E.Titarenko+      (08)O1733  3 
+ 1001 73181   3 454    6.0000+8          0.016600 1.9000-3           64148.9                     Yu.E.Titarenko+      (08)O1733  3 
+ 1001 73181   3 454    8.0000+8          0.023400 1.7000-3           64148.9                     Yu.E.Titarenko+      (08)O1733  3 
+ 1001 73181   3 454    1.2000+9          0.028800 2.1000-3           64148.9                     Yu.E.Titarenko+      (08)O1733  3 
+ 1001 73181   3 454    1.6000+9          0.033500 3.8000-3           64148.9                     Yu.E.Titarenko+      (08)O1733  3 
+ 1001 73181   3 454    2.6000+9          0.021100 2.6000-3           64148.9                     Yu.E.Titarenko+      (08)O1733  3 
+#/DATA      6
+#/DATASET

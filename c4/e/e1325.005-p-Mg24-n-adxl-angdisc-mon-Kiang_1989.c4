@@ -1,0 +1,42 @@
+#ENTRY      E1325
+#AUTHOR1    G.C.Kiang+
+#YEAR       1989
+#INSTITUTE  (2JPNTOH)
+#TITLE      SPECTROSCOPY OF 24AL THROUGH THE 24MG(P,N)24AL
+#+          REACTION AT E (P)=35 MEV
+#AUTHOR(S)  G.C.Kiang, H.Orihara, Y.Takahashi, A.Satoh, T.Niizeki, J.Takamatsu, 
+#+          M.Kabasawa, T.Kawamura, K.Furukawa, T.Nakagawa, K.Maeda, 
+#+          K.Ishii, K.Miura, L.L.Kiang, P.K.Teng, H.Ohnuma
+#REF-CODE   (J,NP/A,499,339,1989)
+#REFERENCE  Nucl.Phys.A 499 (1989) 339 (doi:10.1016/0375-9474(89)90050-X)
+#DATASETS   0
+#
+#DATASET    E1325005 
+#DATE       19941004
+#REACTION   12-MG-24(P,N)13-AL-24,PAR,DA
+#PROJ       1001
+#TARG       12024
+#MF         4
+#MT         50
+#PRODUCT    13-AL-24
+#C4BEGIN    [ 1001 12024   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12024   4  50  C 3.5000+7          7.5990-5 1.0590-5 0.995699          3490000.         LVLG.C.Kiang+           (89)E1325  5 
+ 1001 12024   4  50  C 3.5000+7          6.5590-5 1.2550-5 0.971093          3490000.         LVLG.C.Kiang+           (89)E1325  5 
+ 1001 12024   4  50  C 3.5000+7          8.1190-5 1.2340-5 0.950027          3490000.         LVLG.C.Kiang+           (89)E1325  5 
+ 1001 12024   4  50  C 3.5000+7          7.8310-5 9.5840-6 0.920027          3490000.         LVLG.C.Kiang+           (89)E1325  5 
+ 1001 12024   4  50  C 3.5000+7          6.3150-5 7.4740-6 0.886365          3490000.         LVLG.C.Kiang+           (89)E1325  5 
+ 1001 12024   4  50  C 3.5000+7          6.3240-5 1.6730-5 0.830790          3490000.         LVLG.C.Kiang+           (89)E1325  5 
+ 1001 12024   4  50  C 3.5000+7          7.2700-5 1.0430-5 0.753793          3490000.         LVLG.C.Kiang+           (89)E1325  5 
+ 1001 12024   4  50  C 3.5000+7          5.6280-5 7.1250-6 0.696790          3490000.         LVLG.C.Kiang+           (89)E1325  5 
+ 1001 12024   4  50  C 3.5000+7          3.5140-5 8.7990-6 0.573576          3490000.         LVLG.C.Kiang+           (89)E1325  5 
+ 1001 12024   4  50  C 3.5000+7          1.8210-5 4.9900-6 0.427989          3490000.         LVLG.C.Kiang+           (89)E1325  5 
+ 1001 12024   4  50  C 3.5000+7          2.8240-5 5.5290-6 0.228691          3490000.         LVLG.C.Kiang+           (89)E1325  5 
+ 1001 12024   4  50  C 3.5000+7          2.8400-5 4.9330-6 0.077067          3490000.         LVLG.C.Kiang+           (89)E1325  5 
+ 1001 12024   4  50  C 3.5000+7          1.5870-5 3.1820-6-0.187381          3490000.         LVLG.C.Kiang+           (89)E1325  5 
+ 1001 12024   4  50  C 3.5000+7          1.5200-5 3.4570-6-0.277315          3490000.         LVLG.C.Kiang+           (89)E1325  5 
+ 1001 12024   4  50  C 3.5000+7          9.5970-6 1.7520-6-0.441506          3490000.         LVLG.C.Kiang+           (89)E1325  5 
+#/DATA      15
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      E1377
+#AUTHOR1    N.Shinohara+
+#YEAR       1986
+#INSTITUTE  (2JPNJAE)
+#TITLE      Actinides produced by 12C+242Pu and 16O+238U reactions
+#AUTHOR(S)  N.Shinohara, S.Usuda, S.Ichikawa, T.Suzuki, M.Magara, H.Okashita, 
+#+          H.Yoshikawa, T.Horiguchi, Y.Iwata, S.Shibata, I.Fujiwara
+#REF-CODE   (J,PR/C,34,(3),909,198609)
+#REFERENCE  Phys.Rev.C 34 No.3 (1986) 909 (doi:10.1103/PhysRevC.34.909)
+#DATASETS   0
+#
+#DATASET    E1377008 
+#DATE       20070909
+#REACTION   92-U-238(8-O-16,X)98-CF-245,IND,SIG
+#PROJ       8016
+#TARG       92238
+#MF         3
+#MT         454
+#PRODUCT    98-CF-245
+#C4BEGIN    [ 8016 92238   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 92238   3 454    9.4760+7          5.6760-7 3.2530-7           98245.9                     N.Shinohara+         (86)E1377  8 
+ 8016 92238   3 454    1.0070+8          6.2630-7 9.9730-8           98245.9                     N.Shinohara+         (86)E1377  8 
+ 8016 92238   3 454    1.1490+8          6.3100-8 4.3750-8           98245.9                     N.Shinohara+         (86)E1377  8 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      22885
+#AUTHOR1    M.Heil+
+#YEAR       2005
+#INSTITUTE  (2GERKFK)
+#TITLE      .Quasistellar spectrum for neutron activation
+#+          measurements at kT=5 keV
+#AUTHOR(S)  M.Heil, S.Dababneh, A.Juseviciute, F.Kaeppeler, R.Plag, 
+#+          R.Reifarth, S.O'Brien
+#REF-CODE   (J,PR/C,71,025803,200502)
+#REFERENCE  Phys.Rev.C 71 (2005) 025803 (doi:10.1103/PhysRevC.71.025803)
+#DATASETS   0
+#
+#DATASET    228850023
+#DATE       20160920
+#REACTION   56-BA-138(N,G)56-BA-139,,SIG,,MXW
+#PROJ       1
+#TARG       56138
+#MF         3
+#MT         102
+#PRODUCT    56-BA-139
+#C4BEGIN    [    1 56138   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 56138   3 102    5100.000 100.0000 0.014800 1.1988-3                                       M.Heil+              (05)22885  23
+#/DATA      1
+#/DATASET

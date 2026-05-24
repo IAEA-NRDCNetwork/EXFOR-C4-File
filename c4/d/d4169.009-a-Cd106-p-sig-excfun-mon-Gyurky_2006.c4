@@ -1,0 +1,29 @@
+#ENTRY      D4169
+#AUTHOR1    Gy.Gyurky+
+#YEAR       2006
+#INSTITUTE  (3HUNDEB)
+#TITLE      Alpha-induced cross sections of 106Cd for the
+#+          astrophysical p process
+#AUTHOR(S)  Gy.Gyurky, G.G.Kiss, Z.Elekes, Zs.Fulop, E.Somorjai, A.Palumbo, 
+#+          J.Gorres, H.Y.Lee, W.Rapp, M.Wiescher, N.Ozkan, R.T.Guray, 
+#+          G.Efe, T.Rauscher
+#REF-CODE   (J,PR/C,74,025805,2006)
+#REFERENCE  Phys.Rev.C 74 (2006) 025805 (doi:10.1103/PhysRevC.74.025805)
+#DATASETS   0
+#
+#DATASET    D4169009 
+#DATE       20060818
+#REACTION   48-CD-106(A,P)49-IN-109,,SIG,,SFC
+#PROJ       2004
+#TARG       48106
+#MF         3
+#MT         103
+#PRODUCT    49-IN-109
+#C4BEGIN    [ 2004 48106   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 48106   3 103 A  9962249. 30002.91 5.9026-6 8.1161-7                                       Gy.Gyurky+           (06)D4169  9 
+ 2004 48106   3 103 A  1.0284+7 36003.61 3.8971-5 4.0634-6                                       Gy.Gyurky+           (06)D4169  9 
+#/DATA      2
+#/DATASET

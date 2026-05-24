@@ -1,0 +1,35 @@
+#ENTRY      30822
+#AUTHOR1    P.Oblozinsky+
+#YEAR       1992
+#INSTITUTE  (3SLKSLO)
+#TITLE      Gamma-ray production from 52Cr(n,xgamma) reactions at
+#+          14.6 MeV
+#AUTHOR(S)  P.Oblozinsky, S.Hlavac, G.Maino, A.Mengoni
+#REF-CODE   (J,NC/A,105,965,1992)
+#REFERENCE  Nuovo Cim.A 105 (1992) 965 (doi:10.1007/BF02730838)
+#DATASETS   0
+#
+#DATASET    30822005 
+#DATE       20090912
+#REACTION   24-CR-52(N,INL)24-CR-52,PAR,SIG,G
+#PROJ       1
+#TARG       24052
+#MF         13
+#MT         51
+#PRODUCT    24-CR-52
+#C4BEGIN    [    1 24052  13  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24052  13  51 D  1.4600+7          0.070000 4.0000-3                   647400.0            P.Oblozinsky+        (92)30822  5 
+    1 24052  13  51 D  1.4600+7          0.042000 3.0000-3                   704600.0            P.Oblozinsky+        (92)30822  5 
+    1 24052  13  51 D  1.4600+7          0.071000 4.0000-3                   744200.0            P.Oblozinsky+        (92)30822  5 
+    1 24052  13  51 D  1.4600+7          0.038000 3.0000-3                   848200.0            P.Oblozinsky+        (92)30822  5 
+    1 24052  13  51 D  1.4600+7          0.237000 9.0000-3                   935500.0            P.Oblozinsky+        (92)30822  5 
+    1 24052  13  51 D  1.4600+7          0.039000 4.0000-3                   1246200.            P.Oblozinsky+        (92)30822  5 
+    1 24052  13  51 D  1.4600+7          0.205000 8.0000-3                   1333600.            P.Oblozinsky+        (92)30822  5 
+    1 24052  13  51 D  1.4600+7          0.783000 0.030000                   1434100.            P.Oblozinsky+        (92)30822  5 
+    1 24052  13  51 D  1.4600+7          0.040000 3.0000-3                   1530700.            P.Oblozinsky+        (92)30822  5 
+    1 24052  13  51 D  1.4600+7          0.026000 4.0000-3                   1727500.            P.Oblozinsky+        (92)30822  5 
+#/DATA      10
+#/DATASET

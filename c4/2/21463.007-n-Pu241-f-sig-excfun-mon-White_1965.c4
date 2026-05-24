@@ -1,0 +1,29 @@
+#ENTRY      21463
+#AUTHOR1    P.H.White+
+#YEAR       1965
+#INSTITUTE  (2UK ALD)
+#TITLE      -Measurement of fission cross sections for neutrons
+#+          of energies in the range 40-500 keV.-
+#AUTHOR(S)  P.H.White, J.G.Hodgkinson, G.J.Wall
+#REF-CODE   (C,65SALZBURG,1,219,196503)
+#REFERENCE  Proceedings of Physics and Chemistry of Fission Conf., Salzburg 1965 1 page 219
+#DATASETS   0
+#
+#DATASET    21463007 
+#DATE       20071219
+#REACTION   94-PU-241(N,F),,SIG
+#PROJ       1
+#TARG       94241
+#MF         3
+#MT         18
+#C4BEGIN    [    1 94241   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94241   3  18    40000.00 10000.00 2.760000 0.096600                                       P.H.White+           (65)21463  7 
+    1 94241   3  18    67000.00 10000.00 2.380000 0.083300                                       P.H.White+           (65)21463  7 
+    1 94241   3  18    127000.0 7000.000 2.090000 0.073150                                       P.H.White+           (65)21463  7 
+    1 94241   3  18    312000.0 7000.000 1.680000 0.058800                                       P.H.White+           (65)21463  7 
+    1 94241   3  18    505000.0 10000.00 1.470000 0.051450                                       P.H.White+           (65)21463  7 
+#/DATA      5
+#/DATASET

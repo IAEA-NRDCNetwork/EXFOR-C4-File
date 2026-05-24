@@ -1,0 +1,31 @@
+#ENTRY      23782
+#AUTHOR1    E.Georgali+
+#YEAR       2021
+#INSTITUTE  (2GRCIOA)
+#TITLE      Cross-section measurements of the 156Dy(n,2n)155Dy
+#+          reaction at neutron energies higher than 17 MeV
+#AUTHOR(S)  E.Georgali, N.Patronis, A.Anastasiadis, X.Aslanoglou, M.Axiotis, 
+#+          S.Chasapoglou, Z.Eleme, S.Harissopulos, A.Kalamara, M.Kokkoris, 
+#+          A.Lagoyannis, E.Mitsi, M.I.Savva, I.E.Stamatelatos, T.Vasilopoulou, 
+#+          R.Vlastou
+#REF-CODE   (J,PR/C,104,064603,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) 064603 (doi:10.1103/PhysRevC.104.064603)
+#DATASETS   0
+#
+#DATASET    23782002 
+#DATE       20230202
+#REACTION   66-DY-156(N,2N)66-DY-155,,SIG
+#PROJ       1
+#TARG       66156
+#MF         3
+#MT         16
+#PRODUCT    66-DY-155
+#C4BEGIN    [    1 66156   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 66156   3  16    1.7100+7 300000.0 1.670000 0.210000                                       E.Georgali+          (21)23782  2 
+    1 66156   3  16    1.8100+7 200000.0 1.820000 0.310000                                       E.Georgali+          (21)23782  2 
+    1 66156   3  16    1.9000+7 200000.0 1.600000 0.300000                                       E.Georgali+          (21)23782  2 
+#/DATA      3
+#/DATASET

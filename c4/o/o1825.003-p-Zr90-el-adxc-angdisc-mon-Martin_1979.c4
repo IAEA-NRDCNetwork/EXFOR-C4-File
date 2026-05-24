@@ -1,0 +1,42 @@
+#ENTRY      O1825
+#AUTHOR1    P.Martin+
+#YEAR       1979
+#INSTITUTE  (2FR GRE)
+#TITLE      Excitation of low-lying levels and giant resonances in
+#+          Zr-90 via 57.5 MeV polarized proton inelastic
+#+          scattering.
+#AUTHOR(S)  P.Martin, Y.Gaillard, P.de Saintignon, J.Perrin, J.Chauvin, 
+#+          G.Duhamel, J.M.Loiseaux
+#REF-CODE   (J,NP/A,315,291,1979)
+#REFERENCE  Nucl.Phys.A 315 (1979) 291 (doi:10.1016/0375-9474(79)90612-2)
+#DATASETS   0
+#
+#DATASET    O1825003 
+#DATE       20100208
+#REACTION   40-ZR-90(P,EL)40-ZR-90,,DA,,RTH
+#PROJ       1001
+#TARG       40090
+#MF         4
+#MT         2
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 1001 40090   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   4   2  C 5.7500+7          119.5337          0.996666                              P.Martin+            (79)O1825  3 
+ 1001 40090   4   2  C 5.7500+7          30.62371          0.993048                              P.Martin+            (79)O1825  3 
+ 1001 40090   4   2  C 5.7500+7          12.70637          0.985615                              P.Martin+            (79)O1825  3 
+ 1001 40090   4   2  C 5.7500+7          5.798373          0.976560                              P.Martin+            (79)O1825  3 
+ 1001 40090   4   2  C 5.7500+7          2.345078          0.965518                              P.Martin+            (79)O1825  3 
+ 1001 40090   4   2  C 5.7500+7          0.762761          0.954968                              P.Martin+            (79)O1825  3 
+ 1001 40090   4   2  C 5.7500+7          0.135833          0.941117                              P.Martin+            (79)O1825  3 
+ 1001 40090   4   2  C 5.7500+7          0.045895          0.926332                              P.Martin+            (79)O1825  3 
+ 1001 40090   4   2  C 5.7500+7          0.145122          0.907411                              P.Martin+            (79)O1825  3 
+ 1001 40090   4   2  C 5.7500+7          0.233212          0.880560                              P.Martin+            (79)O1825  3 
+ 1001 40090   4   2  C 5.7500+7          0.169299          0.841982                              P.Martin+            (79)O1825  3 
+ 1001 40090   4   2  C 5.7500+7          0.080481          0.816541                              P.Martin+            (79)O1825  3 
+ 1001 40090   4   2  C 5.7500+7          0.032024          0.789727                              P.Martin+            (79)O1825  3 
+ 1001 40090   4   2  C 5.7500+7          0.014998          0.729446                              P.Martin+            (79)O1825  3 
+ 1001 40090   4   2  C 5.7500+7          0.025881          0.663273                              P.Martin+            (79)O1825  3 
+#/DATA      15
+#/DATASET

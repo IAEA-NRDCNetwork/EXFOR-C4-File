@@ -1,0 +1,32 @@
+#ENTRY      C0053
+#AUTHOR1    L.G.Votta+
+#YEAR       1974
+#INSTITUTE  (1USAMRY)
+#TITLE      Elastic proton scattering from 3He and 4He and the
+#+          4He(p,d)3He reaction at 85 MeV
+#AUTHOR(S)  L.G.Votta, P.G.Roos, N.S.Chant, R.Woody
+#REF-CODE   (J,PR/C,10,520,197408)
+#REFERENCE  Phys.Rev.C 10 (1974) 520 (doi:10.1103/PhysRevC.10.520)
+#DATASETS   0
+#
+#DATASET    C0053003 
+#DATE       19970701
+#REACTION   2-HE-4(P,EL)2-HE-4,,DA
+#PROJ       1001
+#TARG       2004
+#MF         4
+#MT         2
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  2004   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2004   4   2  C 8.5000+7 150000.0 7.0300-5 2.1000-5-0.816138                              L.G.Votta+           (74)C0053  3 
+ 1001  2004   4   2  C 8.5000+7 150000.0 1.0500-4 1.1000-5-0.863396                              L.G.Votta+           (74)C0053  3 
+ 1001  2004   4   2  C 8.5000+7 150000.0 3.5900-4 3.5000-5-0.937889                              L.G.Votta+           (74)C0053  3 
+ 1001  2004   4   2  C 8.5000+7 150000.0 3.1400-4 6.1000-5-0.940288                              L.G.Votta+           (74)C0053  3 
+ 1001  2004   4   2  C 8.5000+7 150000.0 3.6700-4 4.3000-5-0.959805                              L.G.Votta+           (74)C0053  3 
+ 1001  2004   4   2  C 8.5000+7 150000.0 4.4300-4 6.5000-5-0.961741                              L.G.Votta+           (74)C0053  3 
+ 1001  2004   4   2  C 8.5000+7 150000.0 8.6200-4 1.4000-5-0.977416                              L.G.Votta+           (74)C0053  3 
+#/DATA      7
+#/DATASET

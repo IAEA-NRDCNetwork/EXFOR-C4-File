@@ -1,0 +1,27 @@
+#ENTRY      12456
+#AUTHOR1    L.W.Weston+
+#YEAR       1963
+#INSTITUTE  (1USAORL)
+#TITLE      NEUTRON CAPTURE IN 238-U AND THE RATIO OF CAPTURE TO
+#+          FISSION IN 235-U.
+#AUTHOR(S)  L.W.Weston, G.De Saussure, R.Gwin
+#REF-CODE   (R,EANDC-33,64,6309)
+#REFERENCE  Report EANDC-33 page 64, 1963
+#DATASETS   0
+#
+#DATASET    124560022
+#DATE       19910910
+#REACTION   92-U-238(N,G)92-U-239,,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         102
+#PRODUCT    92-U-239
+#C4BEGIN    [    1 92238   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3 102    30000.00 8000.000 0.531000 0.053000                                       L.W.Weston+          (63)12456  22
+    1 92238   3 102    64000.00 20000.00 0.340000 0.034000                                       L.W.Weston+          (63)12456  22
+#/DATA      2
+#/DATASET

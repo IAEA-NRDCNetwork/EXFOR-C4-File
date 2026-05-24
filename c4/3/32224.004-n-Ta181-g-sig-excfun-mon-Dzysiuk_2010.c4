@@ -1,0 +1,30 @@
+#ENTRY      32224
+#AUTHOR1    N.Dzysiuk+
+#YEAR       2010
+#INSTITUTE  (4UKRKGU)
+#TITLE      Cross sections for fast-neutron interaction with Lu,
+#+          Tb, and Ta isotopes
+#AUTHOR(S)  N.Dzysiuk, I.Kadenko, A.J.Koning, R.Yermolenko
+#REF-CODE   (J,PR/C,81,014610,2010)
+#REFERENCE  Phys.Rev.C 81 (2010) 014610 (doi:10.1103/PhysRevC.81.014610)
+#DATASETS   0
+#
+#DATASET    32224004 
+#DATE       20110510
+#REACTION   73-TA-181(N,G)73-TA-182-M2,,SIG,,AV
+#PROJ       1
+#TARG       73181
+#MF         3
+#MT         102
+#PRODUCT    73-TA-182-M2
+#C4BEGIN    [    1 73181   3 1022 ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 73181   3 1022   1900.000 1500.000 3.7000-3 3.0000-4                                       N.Dzysiuk+           (10)32224  4 
+    1 73181   3 1022   58700.00 2700.000 8.0000-4 2.0000-4                                       N.Dzysiuk+           (10)32224  4 
+    1 73181   3 1022   144500.0 16800.00 7.0000-4 1.0000-4                                       N.Dzysiuk+           (10)32224  4 
+    1 73181   3 1022   2850000. 120000.0 5.0000-4 1.4000-4                                       N.Dzysiuk+           (10)32224  4 
+    1 73181   3 1022   1.4340+7 460000.0 1.0000-4 2.8000-5                                       N.Dzysiuk+           (10)32224  4 
+#/DATA      5
+#/DATASET

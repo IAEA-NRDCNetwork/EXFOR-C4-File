@@ -1,0 +1,26 @@
+#ENTRY      20789
+#AUTHOR1    T.B.Ryves+
+#YEAR       1970
+#INSTITUTE  (2UK NPL)
+#TITLE      Activation measurements of thermal neutron capture
+#+          cross-sections and resonance integrals
+#AUTHOR(S)  T.B.Ryves
+#REF-CODE   (J,JNE,24,35,1970)
+#REFERENCE  J.Nucl.Energy 24 (1970) 35 (doi:10.1016/0022-3107(70)90004-3)
+#DATASETS   0
+#
+#DATASET    20789025 
+#DATE       20181212
+#REACTION   49-IN-115(N,G)49-IN-116-M1+M2,,SIG
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         102
+#PRODUCT    49-IN-116-M1+M2
+#C4BEGIN    [    1 49115   3 102+ ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3 102+   0.025300          161.0000 0.805000                                       T.B.Ryves            (70)20789 25 
+#/DATA      1
+#/DATASET

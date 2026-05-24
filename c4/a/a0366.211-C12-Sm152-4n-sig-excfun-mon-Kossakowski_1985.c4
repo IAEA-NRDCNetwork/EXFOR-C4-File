@@ -1,0 +1,28 @@
+#ENTRY      A0366
+#AUTHOR1    R.Kossakowski+
+#YEAR       1985
+#INSTITUTE  (3POLIBJ)
+#TITLE      Heavy residues following 5-10 MeV/nucleon 12C and 14N
+#+          induced reactions on Sm and Pr targets.
+#AUTHOR(S)  R.Kossakowski, J.Jastrzebski, P.Rymuza, W.Skulski, A.Gizon, 
+#+          S.Andre, J.Genevey, J.Gizon, V.Barci
+#REF-CODE   (J,PR/C,32,1612,1985)
+#REFERENCE  Phys.Rev.C 32 (1985) 1612 (doi:10.1103/PhysRevC.32.1612)
+#DATASETS   0
+#
+#DATASET    A0366211 
+#DATE       20240825
+#REACTION   62-SM-152(6-C-12,4N)68-ER-160,,SIG
+#PROJ       6012
+#TARG       62152
+#MF         3
+#MT         37
+#PRODUCT    68-ER-160
+#C4BEGIN    [ 6012 62152   3  37  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 62152   3  37    6.5500+7          0.550000                                                R.Kossakowski+       (85)A0366211 
+ 6012 62152   3  37    8.5200+7          0.050000                                                R.Kossakowski+       (85)A0366211 
+#/DATA      2
+#/DATASET

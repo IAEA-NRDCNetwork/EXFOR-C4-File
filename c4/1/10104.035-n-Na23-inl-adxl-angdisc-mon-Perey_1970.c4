@@ -1,0 +1,46 @@
+#ENTRY      10104
+#AUTHOR1    F.G.Perey+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Neutron elastic- and inelastic- scattering cross
+#+          sections for Na in the range of 5.4 to 8.5 MeV
+#AUTHOR(S)  F.G.Perey, W.E.Kinney
+#REF-CODE   (R,ORNL-4518,197008)
+#REFERENCE  Report ORNL-4518, 1970
+#DATASETS   0
+#
+#DATASET    10104035 
+#DATE       20000202
+#REACTION   11-NA-23(N,INL)11-NA-23,PAR,DA
+#PROJ       1
+#TARG       11023
+#MF         4
+#MT         51
+#PRODUCT    11-NA-23
+#C4BEGIN    [    1 11023   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023   4  51 AC 7600000. 100000.0 1.9700-3         -0.560061          5530000.         LVLF.G.Perey+           (70)10104 35 
+    1 11023   4  51 AC 7600000. 100000.0 1.8300-3         -0.658033          5530000.         LVLF.G.Perey+           (70)10104 35 
+    1 11023   4  51 AC 7600000. 100000.0 2.1900-3         -0.745825          5530000.         LVLF.G.Perey+           (70)10104 35 
+#/DATA      3
+#/DATASET
+#
+#DATASET    10104035 
+#DATE       20000202
+#REACTION   11-NA-23(N,INL)11-NA-23,PAR,DA
+#PROJ       1
+#TARG       11023
+#MF         4
+#MT         51
+#PRODUCT    11-NA-23
+#C4BEGIN    [    1 11023   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023   4  51 AC 8520000. 80000.00 1.2000-3         -0.549315          5530000.         LVLF.G.Perey+           (70)10104 35 
+    1 11023   4  51 AC 8520000. 80000.00 1.6800-3         -0.649713          5530000.         LVLF.G.Perey+           (70)10104 35 
+    1 11023   4  51 AC 8520000. 80000.00 1.9700-3         -0.738808          5530000.         LVLF.G.Perey+           (70)10104 35 
+#/DATA      3
+#/DATASET

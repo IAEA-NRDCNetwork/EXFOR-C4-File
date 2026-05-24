@@ -1,0 +1,30 @@
+#ENTRY      C1085
+#AUTHOR1    O.Chamberlain+
+#YEAR       1956
+#INSTITUTE  (1USABRK)
+#TITLE      Experiments with 315-Mev Polarized Protons. I. Elastic
+#+          Scattering by Complex Nuclei
+#AUTHOR(S)  O.Chamberlain, E.Segre, R.D.Tripp, C.Wiegand, T.Ypsilantis
+#REF-CODE   (J,PR,102,1659,195605)
+#REFERENCE  Phys.Rev. 102 (1956) 1659 (doi:10.1103/PhysRev.102.1659)
+#DATASETS   0
+#
+#DATASET    C1085019 
+#DATE       20041228
+#REACTION   73-TA-0(P,EL)73-TA-0,,DA
+#PROJ       1001
+#TARG       73000
+#MF         4
+#MT         2
+#PRODUCT    73-TA-0
+#C4BEGIN    [ 1001 73000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 73000   4   2    3.1600+8 1.2000+7 241.4000 6.100000 0.999048                              O.Chamberlain+       (56)C1085 19 
+ 1001 73000   4   2    3.1600+8 1.2000+7 63.70000 1.700000 0.998135                              O.Chamberlain+       (56)C1085 19 
+ 1001 73000   4   2    3.1600+8 1.2000+7 26.90000 0.900000 0.996917                              O.Chamberlain+       (56)C1085 19 
+ 1001 73000   4   2    3.1600+8 1.2000+7 10.30000 0.500000 0.995396                              O.Chamberlain+       (56)C1085 19 
+ 1001 73000   4   2    3.1600+8 1.2000+7 3.860000 0.450000 0.993572                              O.Chamberlain+       (56)C1085 19 
+#/DATA      5
+#/DATASET

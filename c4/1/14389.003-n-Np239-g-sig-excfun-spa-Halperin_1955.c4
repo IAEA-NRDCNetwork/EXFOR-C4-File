@@ -1,0 +1,27 @@
+#ENTRY      14389
+#AUTHOR1    J.Halperin+
+#YEAR       1955
+#INSTITUTE  (1USAORL)
+#TITLE      Effective Capture Cross Sections of 233Pa and 239Np
+#+          for Thermal Reactor Neutrons
+#AUTHOR(S)  J.Halperin, R.W.Stoughton, D.E.Ferguson, C.V.Ellison, D.C.Overholt, 
+#+          C.M.Stevens
+#REF-CODE   (C,55GENEVA,7,258,1955)
+#REFERENCE  Proceedings of 1st UN Conf.Peaceful Uses Atomic Energy, Geneva 1955 7 page 258
+#DATASETS   0
+#
+#DATASET    14389003 
+#DATE       20140519
+#REACTION   93-NP-239(N,G)93-NP-240,,SIG,,SPA
+#PROJ       1
+#TARG       93239
+#MF         3
+#MT         102
+#PRODUCT    93-NP-240
+#C4BEGIN    [    1 93239   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93239   3 102    0.025300          80.00000 15.00000                                       J.Halperin+          (55)14389  3 
+#/DATA      1
+#/DATASET

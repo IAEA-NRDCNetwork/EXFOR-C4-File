@@ -1,0 +1,34 @@
+#ENTRY      C2171
+#AUTHOR1    L.H.Bowen+
+#YEAR       1962
+#INSTITUTE  (1USAMIT)
+#TITLE      Nuclear Excitation Functions and Thick-Target Yields
+#+          F19, Na23, As75(d,t), and Na23, As75(d,p)
+#AUTHOR(S)  L.H.Bowen, J.W.Irvine Jr
+#REF-CODE   (J,PR,127,1698,1962)
+#REFERENCE  Phys.Rev. 127 (1962) 1698 (doi:10.1103/PhysRev.127.1698)
+#DATASETS   0
+#
+#DATASET    C2171011 
+#DATE       20210828
+#REACTION   33-AS-75(D,T)33-AS-74,,SIG
+#PROJ       1002
+#TARG       33075
+#MF         3
+#MT         105
+#PRODUCT    33-AS-74
+#C4BEGIN    [ 1002 33075   3 105 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 33075   3 105 D  7807000.          3.3590-4                                                L.H.Bowen+           (62)C2171 11 
+ 1002 33075   3 105 D  8807000.          1.2388-3                                                L.H.Bowen+           (62)C2171 11 
+ 1002 33075   3 105 D  9773000.          3.2268-3                                                L.H.Bowen+           (62)C2171 11 
+ 1002 33075   3 105 D  1.0679+7          5.7385-3                                                L.H.Bowen+           (62)C2171 11 
+ 1002 33075   3 105 D  1.1819+7          8.9998-3                                                L.H.Bowen+           (62)C2171 11 
+ 1002 33075   3 105 D  1.2580+7          0.010688                                                L.H.Bowen+           (62)C2171 11 
+ 1002 33075   3 105 D  1.3606+7          0.012489                                                L.H.Bowen+           (62)C2171 11 
+ 1002 33075   3 105 D  1.4487+7          0.013803                                                L.H.Bowen+           (62)C2171 11 
+ 1002 33075   3 105 D  1.5157+7          0.016463                                                L.H.Bowen+           (62)C2171 11 
+#/DATA      9
+#/DATASET

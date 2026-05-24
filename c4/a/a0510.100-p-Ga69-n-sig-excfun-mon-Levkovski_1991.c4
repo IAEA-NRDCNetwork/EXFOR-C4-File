@@ -1,0 +1,42 @@
+#ENTRY      A0510
+#AUTHOR1    V.N.Levkovski+
+#YEAR       1991
+#INSTITUTE  (4KASKAZ)
+#TITLE      Cross sections of medium mass nuclide activation
+#+          (A=40-100) by medium energy protons and
+#+          alpha-particles (E=10-50 MeV)
+#AUTHOR(S)  V.N.Levkovski
+#REF-CODE   (B,LEVKOVSKIJ,,,1991)
+#REFERENCE  Levkovskij,Act.Cs.By Protons and Alphas,Moscow 1991 page  (1991)
+#DATASETS   0
+#
+#DATASET    A0510100 
+#DATE       20231226
+#REACTION   31-GA-69(P,N)32-GE-69,,SIG
+#PROJ       1001
+#TARG       31069
+#MF         3
+#MT         4
+#PRODUCT    32-GE-69
+#C4BEGIN    [ 1001 31069   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 31069   3   4    7700000.          0.428000 0.042800                                       V.N.Levkovski        (91)A0510100 
+ 1001 31069   3   4    8600000.          0.576000 0.057600                                       V.N.Levkovski        (91)A0510100 
+ 1001 31069   3   4    9500000.          0.676000 0.067600                                       V.N.Levkovski        (91)A0510100 
+ 1001 31069   3   4    1.0400+7          0.710000 0.071000                                       V.N.Levkovski        (91)A0510100 
+ 1001 31069   3   4    1.1300+7          0.740000 0.074000                                       V.N.Levkovski        (91)A0510100 
+ 1001 31069   3   4    1.2100+7          0.780000 0.078000                                       V.N.Levkovski        (91)A0510100 
+ 1001 31069   3   4    1.2800+7          0.760000 0.076000                                       V.N.Levkovski        (91)A0510100 
+ 1001 31069   3   4    1.3800+7          0.620000 0.062000                                       V.N.Levkovski        (91)A0510100 
+ 1001 31069   3   4    1.4800+7          0.480000 0.048000                                       V.N.Levkovski        (91)A0510100 
+ 1001 31069   3   4    1.5800+7          0.332000 0.033200                                       V.N.Levkovski        (91)A0510100 
+ 1001 31069   3   4    1.6700+7          0.257000 0.025700                                       V.N.Levkovski        (91)A0510100 
+ 1001 31069   3   4    1.7500+7          0.200000 0.020000                                       V.N.Levkovski        (91)A0510100 
+ 1001 31069   3   4    1.8300+7          0.142000 0.014200                                       V.N.Levkovski        (91)A0510100 
+ 1001 31069   3   4    1.9300+7          0.121000 0.012100                                       V.N.Levkovski        (91)A0510100 
+ 1001 31069   3   4    2.0300+7          0.085000 8.5000-3                                       V.N.Levkovski        (91)A0510100 
+ 1001 31069   3   4    2.1400+7          0.072000 7.2000-3                                       V.N.Levkovski        (91)A0510100 
+#/DATA      16
+#/DATASET

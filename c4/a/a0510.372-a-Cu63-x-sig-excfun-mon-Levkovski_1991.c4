@@ -1,0 +1,38 @@
+#ENTRY      A0510
+#AUTHOR1    V.N.Levkovski+
+#YEAR       1991
+#INSTITUTE  (4KASKAZ)
+#TITLE      Cross sections of medium mass nuclide activation
+#+          (A=40-100) by medium energy protons and
+#+          alpha-particles (E=10-50 MeV)
+#AUTHOR(S)  V.N.Levkovski
+#REF-CODE   (B,LEVKOVSKIJ,,,1991)
+#REFERENCE  Levkovskij,Act.Cs.By Protons and Alphas,Moscow 1991 page  (1991)
+#DATASETS   0
+#
+#DATASET    A0510372 
+#DATE       20231226
+#REACTION   29-CU-63(A,X)29-CU-61,,SIG
+#PROJ       2004
+#TARG       29063
+#MF         3
+#MT         454
+#PRODUCT    29-CU-61
+#C4BEGIN    [ 2004 29063   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 29063   3 454    3.5700+7          0.013500 1.3500-3           29061.9                     V.N.Levkovski        (91)A0510372 
+ 2004 29063   3 454    3.6700+7          0.022000 2.2000-3           29061.9                     V.N.Levkovski        (91)A0510372 
+ 2004 29063   3 454    3.7700+7          0.028000 2.8000-3           29061.9                     V.N.Levkovski        (91)A0510372 
+ 2004 29063   3 454    3.8600+7          0.037000 3.7000-3           29061.9                     V.N.Levkovski        (91)A0510372 
+ 2004 29063   3 454    3.9500+7          0.047000 4.7000-3           29061.9                     V.N.Levkovski        (91)A0510372 
+ 2004 29063   3 454    4.0500+7          0.057000 5.7000-3           29061.9                     V.N.Levkovski        (91)A0510372 
+ 2004 29063   3 454    4.1500+7          0.071000 7.1000-3           29061.9                     V.N.Levkovski        (91)A0510372 
+ 2004 29063   3 454    4.2400+7          0.076000 7.6000-3           29061.9                     V.N.Levkovski        (91)A0510372 
+ 2004 29063   3 454    4.3400+7          0.087000 8.7000-3           29061.9                     V.N.Levkovski        (91)A0510372 
+ 2004 29063   3 454    4.4300+7          0.096000 9.6000-3           29061.9                     V.N.Levkovski        (91)A0510372 
+ 2004 29063   3 454    4.5200+7          0.101000 0.010100           29061.9                     V.N.Levkovski        (91)A0510372 
+ 2004 29063   3 454    4.6000+7          0.108000 0.010800           29061.9                     V.N.Levkovski        (91)A0510372 
+#/DATA      12
+#/DATASET

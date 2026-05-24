@@ -1,0 +1,30 @@
+#ENTRY      14151
+#AUTHOR1    C.M.Castaneda+
+#YEAR       2007
+#INSTITUTE  (1USADAV)
+#TITLE      Gamma ray production cross sections from the
+#+          bombardment of Mg, Al, Si, Ca and Fe with medium
+#+          energy neutrons
+#AUTHOR(S)  C.M.Castaneda, D.G.Gearhart, R.M.Gearhart, B.Sanii, P.A.J.Englert, 
+#+          J.F.Dempsey, J.C.Young, D.M.Drake, R.C.Reedy
+#REF-CODE   (J,NIM/B,260,508,2007)
+#REFERENCE  Nucl.Instrum.Meth.B 260 (2007) 508 (doi:10.1016/j.nimb.2007.04.019)
+#DATASETS   0
+#
+#DATASET    14151016 
+#DATE       20071116
+#REACTION   12-MG-26(N,INL)12-MG-26,PAR,SIG,G,A
+#PROJ       1
+#TARG       12026
+#MF         13
+#MT         51
+#PRODUCT    12-MG-26
+#C4BEGIN    [    1 12026  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 12026  13  51    1.7400+7          3.2653-3 9.0703-4                   1808600.            C.M.Castaneda+       (07)14151 16 
+    1 12026  13  51    2.2200+7          2.1769-3 3.6281-4                   1808600.            C.M.Castaneda+       (07)14151 16 
+    1 12026  13  51    3.2500+7          1.0884-3 2.7211-4                   1808600.            C.M.Castaneda+       (07)14151 16 
+#/DATA      3
+#/DATASET

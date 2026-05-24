@@ -1,0 +1,39 @@
+#ENTRY      D0967
+#AUTHOR1    J.Cervenak+
+#YEAR       2019
+#INSTITUTE  (3CZRUJF)
+#TITLE      Measurement of cross-sections of proton-induced
+#+          nuclear reactions on 197Au focused on the production
+#+          of the theranostic pair 197m,gHg
+#AUTHOR(S)  J.Cervenak, O.Lebeda
+#REF-CODE   (J,NIM/B,458,118,2019)
+#REFERENCE  Nucl.Instrum.Meth.B 458 (2019) 118 (doi:10.1016/j.nimb.2019.08.006)
+#DATASETS   0
+#
+#DATASET    D0967004 
+#DATE       20200603
+#REACTION   79-AU-197(P,3N)80-HG-195-M,,SIG
+#PROJ       1001
+#TARG       79197
+#MF         3
+#MT         17
+#PRODUCT    80-HG-195-M
+#C4BEGIN    [ 1001 79197   3  17MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   3  17MA  3.5290+7 200000.0 0.243000 0.017000                                       J.Cervenak+          (19)D0967  4 
+ 1001 79197   3  17MA  3.4070+7 200000.0 0.321000 0.022000                                       J.Cervenak+          (19)D0967  4 
+ 1001 79197   3  17MA  3.2810+7 200000.0 0.428000 0.029000                                       J.Cervenak+          (19)D0967  4 
+ 1001 79197   3  17MA  3.1510+7 200000.0 0.554000 0.038000                                       J.Cervenak+          (19)D0967  4 
+ 1001 79197   3  17MA  3.0170+7 200000.0 0.693000 0.048000                                       J.Cervenak+          (19)D0967  4 
+ 1001 79197   3  17MA  2.8770+7 200000.0 0.760000 0.052000                                       J.Cervenak+          (19)D0967  4 
+ 1001 79197   3  17MA  2.7350+7 200000.0 0.779000 0.054000                                       J.Cervenak+          (19)D0967  4 
+ 1001 79197   3  17MA  2.5860+7 200000.0 0.703000 0.048000                                       J.Cervenak+          (19)D0967  4 
+ 1001 79197   3  17MA  2.4300+7 200000.0 0.603000 0.042000                                       J.Cervenak+          (19)D0967  4 
+ 1001 79197   3  17MA  2.2650+7 200000.0 0.458000 0.032000                                       J.Cervenak+          (19)D0967  4 
+ 1001 79197   3  17MA  2.0900+7 200000.0 0.250000 0.017000                                       J.Cervenak+          (19)D0967  4 
+ 1001 79197   3  17MA  1.9030+7 200000.0 0.051600 2.4000-3                                       J.Cervenak+          (19)D0967  4 
+ 1001 79197   3  17MA  1.7040+7 200000.0 5.6000-4 1.9000-4                                       J.Cervenak+          (19)D0967  4 
+#/DATA      13
+#/DATASET

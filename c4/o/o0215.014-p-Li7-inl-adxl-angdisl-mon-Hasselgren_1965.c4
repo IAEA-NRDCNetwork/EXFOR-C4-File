@@ -1,0 +1,34 @@
+#ENTRY      O0215
+#AUTHOR1    D.Hasselgren+
+#YEAR       1965
+#INSTITUTE  (2SWDUPP)
+#TITLE      Inelastic scattering of 185 MeV protons from light
+#+          nuclei.
+#AUTHOR(S)  D.Hasselgren, P.U.Renberg, O.Sundberg, G.Tibell
+#REF-CODE   (J,NP,69,81,1965)
+#REFERENCE  Nucl.Phys. 69 (1965) 81 (doi:10.1016/0029-5582(65)90503-1)
+#DATASETS   0
+#
+#DATASET    O0215014 
+#DATE       19970115
+#REACTION   3-LI-7(P,INL)3-LI-7,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         601
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1001  3007   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4 601    1.8500+8          7.9000-4 2.0000-4 0.982483 4.2282-4 6650000. 200000.0LVLD.Hasselgren+        (65)O0215 14 
+ 1001  3007   4 601    1.8500+8          6.0000-4 1.2000-4 0.972166 5.3160-4 6650000. 200000.0LVLD.Hasselgren+        (65)O0215 14 
+ 1001  3007   4 601    1.8500+8          1.0700-3 1.7000-4 0.964188 6.0176-4 6650000. 200000.0LVLD.Hasselgren+        (65)O0215 14 
+ 1001  3007   4 601    1.8500+8          1.1800-3 2.7000-4 0.950678 7.0377-4 6650000. 200000.0LVLD.Hasselgren+        (65)O0215 14 
+ 1001  3007   4 601    1.8500+8          9.6000-4 1.5000-4 0.939394 7.7788-4 6650000. 200000.0LVLD.Hasselgren+        (65)O0215 14 
+ 1001  3007   4 601    1.8500+8          8.1000-4 1.5000-4 0.905569 9.6248-4 6650000. 200000.0LVLD.Hasselgren+        (65)O0215 14 
+ 1001  3007   4 601    1.8500+8          4.6000-4 9.0000-5 0.862249 1.1492-3 6650000. 200000.0LVLD.Hasselgren+        (65)O0215 14 
+ 1001  3007   4 601    1.8500+8          2.8000-4 1.2000-4 0.815330 1.3137-3 6650000. 200000.0LVLD.Hasselgren+        (65)O0215 14 
+ 1001  3007   4 601    1.8500+8          3.0000-4 1.0000-4 0.765596 1.4597-3 6650000. 200000.0LVLD.Hasselgren+        (65)O0215 14 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,25 @@
+#ENTRY      10793
+#AUTHOR1    R.E.Chrien+
+#YEAR       1979
+#INSTITUTE  (1USABNL)
+#TITLE      Neutron Cross Sections of Thorium-232
+#AUTHOR(S)  R.E.Chrien, H.I.Liou, M.J.Kenny, M.L.Stelts
+#REF-CODE   (J,NSE,72,202,197911)
+#REFERENCE  Nucl.Sci.Eng. 72 (1979) 202 (doi:10.13182/NSE79-A19464)
+#DATASETS   0
+#
+#DATASET    10793002 
+#DATE       20101022
+#REACTION   90-TH-232(N,G)90-TH-233,,SIG,,MXW
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         102
+#PRODUCT    90-TH-233
+#C4BEGIN    [    1 90232   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3 102 A  0.025300          7.410000 0.080000                                       R.E.Chrien+          (79)10793  2 
+#/DATA      1
+#/DATASET

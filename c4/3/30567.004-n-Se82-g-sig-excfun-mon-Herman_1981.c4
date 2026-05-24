@@ -1,0 +1,29 @@
+#ENTRY      30567
+#AUTHOR1    M.Herman+
+#YEAR       1981
+#INSTITUTE  (3POLIBJ)
+#TITLE      Cross sections for fast neutron capture on the Se, Pd,
+#+          Cd, Os and Pt isotopes. (New exp.)
+#AUTHOR(S)  M.Herman, A.Marcinkowski
+#REF-CODE   (J,NP/A,357,1,198103)
+#REFERENCE  Nucl.Phys.A 357 (1981) 1
+#DATASETS   0
+#
+#DATASET    30567004 
+#DATE       20090506
+#REACTION   34-SE-82(N,G)34-SE-83-G,,SIG
+#PROJ       1
+#TARG       34082
+#MF         3
+#MT         102
+#PRODUCT    34-SE-83-G
+#C4BEGIN    [    1 34082   3 102GA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34082   3 102GA  530000.0 140000.0 2.3000-3 3.0000-4                                       M.Herman+            (81)30567  4 
+    1 34082   3 102GA  860000.0 210000.0 1.0000-3 2.0000-4                                       M.Herman+            (81)30567  4 
+    1 34082   3 102GA  1200000. 150000.0 7.0000-4 1.0000-4                                       M.Herman+            (81)30567  4 
+    1 34082   3 102GA  1310000. 70000.00 6.0000-4 1.0000-4                                       M.Herman+            (81)30567  4 
+#/DATA      4
+#/DATASET

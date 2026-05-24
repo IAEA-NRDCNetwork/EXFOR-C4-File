@@ -1,0 +1,26 @@
+#ENTRY      21662
+#AUTHOR1    H.Braun+
+#YEAR       1979
+#INSTITUTE  (2GERMNZ)
+#TITLE      Some decay properties and yields in fission product
+#+          chains 131, 133 and 135
+#AUTHOR(S)  H.Braun, T.Izak-Biran, Z.Alfassi, W.Lauppe, H.O.Denschlag
+#REF-CODE   (P,NEANDC(E)-202,(5),74,1979)
+#REFERENCE  Progress report NEANDC(E)-202 Vol.(5) page 74, 1979
+#DATASETS   0
+#
+#DATASET    21662002 
+#DATE       20190326
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025300          0.037900 1.5000-3 52.00000 133.0000 1.000000            H.Braun+             (79)21662  2 
+    1 92235   8 459    0.025300          5.0000-3 5.0000-4 52.00000 131.0000 1.000000            H.Braun+             (79)21662  2 
+#/DATA      2
+#/DATASET

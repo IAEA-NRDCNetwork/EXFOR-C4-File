@@ -1,0 +1,37 @@
+#ENTRY      14842
+#AUTHOR1    T.S.Nagel+
+#YEAR       2024
+#INSTITUTE  (1USAUCX)
+#TITLE      Measurement of the energy-differential 35Cl(n,p0)35S
+#+          cross section via the ratio with 6Li(n,alpha)3H
+#AUTHOR(S)  T.S.Nagel, J.A.Brown, J.C.Batchelder, D.Bleuel, C.A.Brand, 
+#+          A.Georgiadou, B.L.Goldblum, M.Fratoni, J.M.Gordon, T.A.Laplace, 
+#+          L.A.Bernstein
+#REF-CODE   (J,PR/C,110,034612,2024)
+#REFERENCE  Phys.Rev.C 110 (2024) 034612 (doi:10.1103/PhysRevC.110.034612)
+#DATASETS   0
+#
+#DATASET    14842002 
+#DATE       20241015
+#REACTION   17-CL-35(N,P)16-S-35,PAR,SIG
+#PROJ       1
+#TARG       17035
+#MF         3
+#MT         600
+#PRODUCT    16-S-35
+#C4BEGIN    [    1 17035   3 600 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 17035   3 600 C  3490000.          0.094480 8.3400-3                   0.000000         LVLT.S.Nagel+           (24)14842  2 
+    1 17035   3 600 C  3260000.          0.079790 4.7000-3                   0.000000         LVLT.S.Nagel+           (24)14842  2 
+    1 17035   3 600 C  3050000.          0.078640 4.5200-3                   0.000000         LVLT.S.Nagel+           (24)14842  2 
+    1 17035   3 600 C  2860000.          0.071930 3.9400-3                   0.000000         LVLT.S.Nagel+           (24)14842  2 
+    1 17035   3 600 C  2690000.          0.077760 4.6700-3                   0.000000         LVLT.S.Nagel+           (24)14842  2 
+    1 17035   3 600 C  2530000.          0.067070 3.8100-3                   0.000000         LVLT.S.Nagel+           (24)14842  2 
+    1 17035   3 600 C  2390000.          0.063920 3.6700-3                   0.000000         LVLT.S.Nagel+           (24)14842  2 
+    1 17035   3 600 C  2260000.          0.058750 3.1100-3                   0.000000         LVLT.S.Nagel+           (24)14842  2 
+    1 17035   3 600 C  2140000.          0.057620 2.8100-3                   0.000000         LVLT.S.Nagel+           (24)14842  2 
+    1 17035   3 600 C  2020000.          0.061950 3.0600-3                   0.000000         LVLT.S.Nagel+           (24)14842  2 
+#/DATA      10
+#/DATASET

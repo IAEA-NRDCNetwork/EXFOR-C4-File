@@ -1,0 +1,41 @@
+#ENTRY      E2214
+#AUTHOR1    S.Morita+
+#YEAR       1960
+#INSTITUTE  (2JPNKYU)
+#TITLE      Differential cross sections for the reaction
+#+          12C(d,p)13C in the energy range of deuterons from 15-
+#+          to 20-MeV
+#AUTHOR(S)  S.Morita, N.Kawai, N.Takano, Y.Goto, R.Hanada, Y.Nakajima, 
+#+          S.Takemoto, Y.Yaegashi
+#REF-CODE   (J,JPJ,15,550,1960)
+#REFERENCE  J.Phys.Soc.Jpn. 15 (1960) 550 (doi:10.1143/JPSJ.15.550)
+#DATASETS   0
+#
+#DATASET    E2214006 
+#DATE       20160520
+#REACTION   6-C-12(D,P)6-C-13,PAR,DA
+#PROJ       1002
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    6-C-13
+#C4BEGIN    [ 1002  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6012   4 600  C 1.4900+7 74500.00 0.011420          0.928745          3090000.         LVLS.Morita+            (60)E2214  6 
+ 1002  6012   4 600  C 1.4900+7 74500.00 3.7400-3          0.882127          3090000.         LVLS.Morita+            (60)E2214  6 
+ 1002  6012   4 600  C 1.4900+7 74500.00 5.3800-3          0.835903          3090000.         LVLS.Morita+            (60)E2214  6 
+ 1002  6012   4 600  C 1.4900+7 74500.00 5.5600-3          0.744428          3090000.         LVLS.Morita+            (60)E2214  6 
+ 1002  6012   4 600  C 1.4900+7 74500.00 3.5600-3          0.654873          3090000.         LVLS.Morita+            (60)E2214  6 
+ 1002  6012   4 600  C 1.4900+7 74500.00 2.1200-3          0.543028          3090000.         LVLS.Morita+            (60)E2214  6 
+ 1002  6012   4 600  C 1.4900+7 74500.00 8.0000-4          0.407374          3090000.         LVLS.Morita+            (60)E2214  6 
+ 1002  6012   4 600  C 1.4900+7 74500.00 7.3000-4          0.273120          3090000.         LVLS.Morita+            (60)E2214  6 
+ 1002  6012   4 600  C 1.4900+7 74500.00 1.0600-3          0.133640          3090000.         LVLS.Morita+            (60)E2214  6 
+ 1002  6012   4 600  C 1.4900+7 74500.00 1.4800-3          2.4435-3          3090000.         LVLS.Morita+            (60)E2214  6 
+ 1002  6012   4 600  C 1.4900+7 74500.00 1.6100-3         -0.118057          3090000.         LVLS.Morita+            (60)E2214  6 
+ 1002  6012   4 600  C 1.4900+7 74500.00 1.0600-3         -0.244461          3090000.         LVLS.Morita+            (60)E2214  6 
+ 1002  6012   4 600  C 1.4900+7 74500.00 1.2800-3         -0.362926          3090000.         LVLS.Morita+            (60)E2214  6 
+ 1002  6012   4 600  C 1.4900+7 74500.00 6.4000-4         -0.485725          3090000.         LVLS.Morita+            (60)E2214  6 
+#/DATA      14
+#/DATASET

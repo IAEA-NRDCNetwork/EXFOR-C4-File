@@ -1,0 +1,30 @@
+#ENTRY      12326
+#AUTHOR1    J.C.Hopkins+
+#YEAR       1963
+#INSTITUTE  (1USALAS)
+#TITLE      Prompt neutrons from fission.
+#AUTHOR(S)  J.C.Hopkins, B.C.Diven
+#REF-CODE   (J,NP,48,433,1963)
+#REFERENCE  Nucl.Phys. 48 (1963) 433 (doi:10.1016/0029-5582(63)90182-2)
+#DATASETS   0
+#
+#DATASET    12326004 
+#DATE       20070426
+#REACTION   92-U-235(N,F),PR,NU
+#PROJ       1
+#TARG       92235
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92235   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   1 456    0.025300          2.425000 0.020000                                       J.C.Hopkins+         (63)12326  4 
+    1 92235   1 456    280000.0 90000.00 2.438000 0.022000                                       J.C.Hopkins+         (63)12326  4 
+    1 92235   1 456    470000.0 80000.00 2.456000 0.022000                                       J.C.Hopkins+         (63)12326  4 
+    1 92235   1 456    815000.0 60000.00 2.471000 0.026000                                       J.C.Hopkins+         (63)12326  4 
+    1 92235   1 456    1080000. 50000.00 2.530000 0.026000                                       J.C.Hopkins+         (63)12326  4 
+    1 92235   1 456    3930000. 290000.0 2.937000 0.030000                                       J.C.Hopkins+         (63)12326  4 
+    1 92235   1 456    1.4500+7 1000000. 4.626000 0.075000                                       J.C.Hopkins+         (63)12326  4 
+#/DATA      7
+#/DATASET

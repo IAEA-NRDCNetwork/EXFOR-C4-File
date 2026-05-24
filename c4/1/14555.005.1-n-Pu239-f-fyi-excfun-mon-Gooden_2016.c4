@@ -1,0 +1,36 @@
+#ENTRY      14555
+#AUTHOR1    M.E.Gooden+
+#YEAR       2016
+#INSTITUTE  (1USALAS)
+#TITLE      Energy dependence of fission product yields from 235U,
+#+          238U and 239Pu for incident neutron energies between
+#+          0.5 and 14.8 MeV
+#AUTHOR(S)  M.E.Gooden, C.W.Arnold, J.A.Becker, C.Bhatia, M.Bhike, E.M.Bond, 
+#+          T.A.Bredeweg, B.Fallin, M.M.Fowler, C.R.Howell, J.H.Kelley, 
+#+          Krishichayan, R.Macri, G.Rusev, C.Ryan, S.A.Sheets, M.A.Stoyer, 
+#+          A.P.Tonchev, W.Tornow, D.J.Vieira, J.B.Wilhelmy
+#REF-CODE   (J,NDS,131,319,2016)
+#REFERENCE  Nucl.Data Sheets 131 (2016) 319 (doi:10.1016/j.nds.2015.12.006)
+#DATASETS   0
+#
+#DATASET    145550051
+#DATE       20191217
+#REACTION   94-PU-239(N,F)55-CS-136,IND,FY
+#PROJ       1
+#TARG       94239
+#MF         8
+#MT         454
+#PRODUCT    55-CS-136
+#C4BEGIN    [    1 94239   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   8 454    580000.0 15000.00 8.7000-4 5.0000-5 55.00000 136.0000 9.000000            M.E.Gooden+          (16)14555  51
+    1 94239   8 454    1370000. 60000.00 1.3000-3 1.0000-4 55.00000 136.0000 9.000000            M.E.Gooden+          (16)14555  51
+    1 94239   8 454    2370000. 35000.00 1.6000-3 1.0000-4 55.00000 136.0000 9.000000            M.E.Gooden+          (16)14555  51
+    1 94239   8 454    3600000. 35000.00 2.4000-3 1.0000-4 55.00000 136.0000 9.000000            M.E.Gooden+          (16)14555  51
+    1 94239   8 454    4490000. 125000.0 3.1000-3 2.0000-4 55.00000 136.0000 9.000000            M.E.Gooden+          (16)14555  51
+    1 94239   8 454    5500000. 70000.00 3.5000-3 2.0000-4 55.00000 136.0000 9.000000            M.E.Gooden+          (16)14555  51
+    1 94239   8 454    1.4800+7 37500.00 8.2000-3 4.0000-4 55.00000 136.0000 9.000000            M.E.Gooden+          (16)14555  51
+#/DATA      7
+#/DATASET

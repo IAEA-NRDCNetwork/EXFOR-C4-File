@@ -1,0 +1,49 @@
+#ENTRY      C1476
+#AUTHOR1    J.A.Cizewski+
+#YEAR       2005
+#INSTITUTE  (1USARUT)
+#TITLE      Neutron-Transfer reactions with Exotic Neutron-Rich
+#+          Beams: Surrogates for Neutron-Capture Reactions
+#AUTHOR(S)  J.A.Cizewski, K.L.Jones, S.D.Pain, J.S.Thomas, D.W.Bardayan, 
+#+          J.C.Blackmon, M.S.Smith, R.L.Kozub, M.S.Johnson
+#REF-CODE   (C,2005NOTRED,,209,2005)
+#REFERENCE  Proceedings of Symp.on Capt.Gamma Ray Spectroscopy, Notre Dame 2005 page 209
+#DATASETS   0
+#
+#DATASET    C1476003 
+#DATE       20061206
+#REACTION   32-GE-82(D,P)32-GE-83,PAR,DA
+#PROJ       1002
+#TARG       32082
+#MF         4
+#MT         600
+#PRODUCT    32-GE-83
+#C4BEGIN    [ 1002 32082   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 32082   4 600  C 2.5000+7          4.2010-3 6.8000-4 0.971603          0.000000         LVLJ.A.Cizewski+        (05)C1476  3 
+ 1002 32082   4 600  C 2.5000+7          4.3570-3 5.2400-4 0.942472          0.000000         LVLJ.A.Cizewski+        (05)C1476  3 
+ 1002 32082   4 600  C 2.5000+7          5.0530-3 5.3900-4 0.896045          0.000000         LVLJ.A.Cizewski+        (05)C1476  3 
+ 1002 32082   4 600  C 2.5000+7          5.0960-3 4.8200-4 0.843298          0.000000         LVLJ.A.Cizewski+        (05)C1476  3 
+#/DATA      4
+#/DATASET
+#
+#DATASET    C1476003 
+#DATE       20061206
+#REACTION   32-GE-82(D,P)32-GE-83,PAR,DA
+#PROJ       1002
+#TARG       32082
+#MF         4
+#MT         600
+#PRODUCT    32-GE-83
+#C4BEGIN    [ 1002 32082   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 32082   4 600  C 2.5000+7          8.5500-3 9.3500-4 0.972646          280000.0         LVLJ.A.Cizewski+        (05)C1476  3 
+ 1002 32082   4 600  C 2.5000+7          4.9930-3 5.8100-4 0.945513          280000.0         LVLJ.A.Cizewski+        (05)C1476  3 
+ 1002 32082   4 600  C 2.5000+7          4.4000-3 5.1000-4 0.900433          280000.0         LVLJ.A.Cizewski+        (05)C1476  3 
+ 1002 32082   4 600  C 2.5000+7          4.5850-3 5.3900-4 0.849589          280000.0         LVLJ.A.Cizewski+        (05)C1476  3 
+#/DATA      4
+#/DATASET

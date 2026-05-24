@@ -1,0 +1,32 @@
+#ENTRY      A1127
+#AUTHOR1    S.A.Azimov+
+#YEAR       1975
+#INSTITUTE  (4UZ UZB)
+#TITLE      The (d,n) reaction in 2H, 6Li, 7Li, 9Be and 12C
+#AUTHOR(S)  S.A.Azimov, U.R.Arifkhanov, M.Gulyamov, B.I.Islamov, T.Iskhakov, 
+#+          A.M.Mukhamedzhanov, E.Ergashov, U.I.Fajzullaev, R.Jarmukhamedov
+#REF-CODE   (J,YF,22,225,1975)
+#REFERENCE  Yad.Fiz. 22 (1975) 225
+#DATASETS   0
+#
+#DATASET    A1127002 
+#DATE       20200608
+#REACTION   1-H-2(D,N)2-HE-3,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1002   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4   4  C 1.3900+7          0.060700 7.4000-3 0.999998                              S.A.Azimov+          (75)A1127  2 
+ 1002  1002   4   4  C 1.3900+7          0.030700 3.7000-3 0.968583                              S.A.Azimov+          (75)A1127  2 
+ 1002  1002   4   4  C 1.3900+7          6.9300-3 1.0100-3 0.869495                              S.A.Azimov+          (75)A1127  2 
+ 1002  1002   4   4  C 1.3900+7          2.9900-3 4.0000-4 0.724172                              S.A.Azimov+          (75)A1127  2 
+ 1002  1002   4   4  C 1.3900+7          4.3800-3 4.0000-4 0.531399                              S.A.Azimov+          (75)A1127  2 
+ 1002  1002   4   4  C 1.3900+7          3.8700-3 6.6000-4 0.317305                              S.A.Azimov+          (75)A1127  2 
+ 1002  1002   4   4  C 1.3900+7          2.9700-3 5.6000-4 0.092371                              S.A.Azimov+          (75)A1127  2 
+#/DATA      7
+#/DATASET

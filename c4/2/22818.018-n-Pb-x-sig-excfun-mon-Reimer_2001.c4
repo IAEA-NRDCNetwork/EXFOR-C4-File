@@ -1,0 +1,32 @@
+#ENTRY      22818
+#AUTHOR1    P.Reimer+
+#YEAR       2001
+#INSTITUTE  (2ZZZGEL)
+#TITLE      Fast neutron induced reactions leading to activation
+#+          products: selected cases relevant to development of
+#+          low activation materials, transmutation and hazard
+#+          assessment of nuclear wastes
+#AUTHOR(S)  P.Reimer, M.Hult, A.J.M.Plompen, P.N.Johnston, V.Avrigeanu, 
+#+          S.M.Qaim
+#REF-CODE   (T,REIMER,2001)
+#REFERENCE  Thesis  (2001)
+#DATASETS   0
+#
+#DATASET    22818018 
+#DATE       20131117
+#REACTION   82-PB-0(N,X)81-TL-204,,SIG
+#PROJ       1
+#TARG       82000
+#MF         3
+#MT         454
+#PRODUCT    81-TL-204
+#C4BEGIN    [    1 82000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   3 454    1.8000+7 5000.000 5.1000-3 1.1000-3           81204.9                     P.Reimer+            (01)22818 18 
+    1 82000   3 454    1.8700+7 5000.000 4.5000-3 6.0000-4           81204.9                     P.Reimer+            (01)22818 18 
+    1 82000   3 454    2.0000+7 5000.000 8.7000-3 1.1000-3           81204.9                     P.Reimer+            (01)22818 18 
+    1 82000   3 454    2.0500+7 5000.000 0.013200 1.8000-3           81204.9                     P.Reimer+            (01)22818 18 
+#/DATA      4
+#/DATASET

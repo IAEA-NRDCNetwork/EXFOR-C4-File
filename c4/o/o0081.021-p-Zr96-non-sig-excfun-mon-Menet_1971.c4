@@ -1,0 +1,25 @@
+#ENTRY      O0081
+#AUTHOR1    J.J.H.Menet+
+#YEAR       1971
+#INSTITUTE  (1USAORL)
+#TITLE      Total-reaction-cross section measurements for 30-60-MeV
+#+          protons and the imaginary optical potential.
+#AUTHOR(S)  J.J.H.Menet, E.E.Gross, J.J.Malanify, A.Zucker
+#REF-CODE   (J,PR/C,4,1114,1971)
+#REFERENCE  Phys.Rev.C 4 (1971) 1114 (doi:10.1103/PhysRevC.4.1114)
+#DATASETS   0
+#
+#DATASET    O0081021 
+#DATE       20230404
+#REACTION   40-ZR-96(P,NON),,SIG
+#PROJ       1001
+#TARG       40096
+#MF         3
+#MT         3
+#C4BEGIN    [ 1001 40096   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40096   3   3    6.0800+7          1.241000 0.150000                                       J.J.H.Menet+         (71)O0081 21 
+#/DATA      1
+#/DATASET

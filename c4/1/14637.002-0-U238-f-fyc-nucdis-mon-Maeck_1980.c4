@@ -1,0 +1,28 @@
+#ENTRY      14637
+#AUTHOR1    W.J.Maeck+
+#YEAR       1980
+#INSTITUTE  (1USAINL)
+#TITLE      Natural fission reactor studies: 238U spontaneous
+#+          fission yields
+#AUTHOR(S)  W.J.Maeck
+#REF-CODE   (R,INDC(NDS)-113,68,1980)
+#REFERENCE  Report INDC(NDS)-113 page 68, 1980
+#DATASETS   0
+#
+#DATASET    14637002 
+#DATE       20200422
+#REACTION   92-U-238(0,F)ELEM/MASS,CUM,FY
+#PROJ       -1
+#TARG       92238
+#MF         8
+#MT         459
+#C4BEGIN    [   -1 92238   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+   -1 92238   8 459                      0.060000          44.00000 99.00000 9.000000            W.J.Maeck            (80)14637  2 
+   -1 92238   8 459                      0.072500          44.00000 101.0000 9.000000            W.J.Maeck            (80)14637  2 
+   -1 92238   8 459                      0.080000          44.00000 102.0000 9.000000            W.J.Maeck            (80)14637  2 
+   -1 92238   8 459                      0.042000          44.00000 104.0000 9.000000            W.J.Maeck            (80)14637  2 
+#/DATA      4
+#/DATASET

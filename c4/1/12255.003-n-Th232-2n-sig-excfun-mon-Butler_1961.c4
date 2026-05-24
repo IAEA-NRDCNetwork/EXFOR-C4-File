@@ -1,0 +1,29 @@
+#ENTRY      12255
+#AUTHOR1    J.P.Butler+
+#YEAR       1961
+#INSTITUTE  (1CANCRC)
+#TITLE      Th232(n,2n)Th231 cross section from threshold to
+#+          20.4MeV.
+#AUTHOR(S)  J.P.Butler, D.C.Santry
+#REF-CODE   (J,CJC,39,689,1961)
+#REFERENCE  Can.J.Chem. 39 (1961) 689 (doi:10.1139/v61-083)
+#DATASETS   0
+#
+#DATASET    12255003 
+#DATE       19840821
+#REACTION   90-TH-232(N,2N)90-TH-231,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         16
+#PRODUCT    90-TH-231
+#C4BEGIN    [    1 90232   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3  16    1.2530+7 260000.0 1.510000 0.080000                                       J.P.Butler+          (61)12255  3 
+    1 90232   3  16    1.4450+7 200000.0 1.230000 0.060000                                       J.P.Butler+          (61)12255  3 
+    1 90232   3  16    1.8520+7 500000.0 0.459000 0.027000                                       J.P.Butler+          (61)12255  3 
+    1 90232   3  16    2.0400+7 200000.0 0.225000 0.015000                                       J.P.Butler+          (61)12255  3 
+#/DATA      4
+#/DATASET

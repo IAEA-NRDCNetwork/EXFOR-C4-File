@@ -1,0 +1,29 @@
+#ENTRY      D6407
+#AUTHOR1    R.Ali+
+#YEAR       2021
+#INSTITUTE  (3INDMUA)
+#TITLE      Projectile break-up effect on fusion in 16O + 156Gd
+#+          reaction at energy range 4.3-6.3 MeV/A
+#AUTHOR(S)  R.Ali, D.Singh, H.Kumar, S.A.Tali, A.Khan, M.A.Ansari, R.P.Singh, 
+#+          S.Muralithar
+#REF-CODE   (J,IPA,59,103,2021)
+#REFERENCE  Ind.J.Pure Appl.Phy. 59 (2021) 103
+#DATASETS   0
+#
+#DATASET    D6407003 
+#DATE       20221012
+#REACTION   64-GD-156(8-O-16,6N)72-HF-166,,SIG
+#PROJ       8016
+#TARG       64156
+#MF         3
+#MT         153
+#PRODUCT    72-HF-166
+#C4BEGIN    [ 8016 64156   3 153  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 64156   3 153    8.8710+7 1692000. 3.9810-4 8.7200-5                                       R.Ali+               (21)D6407  3 
+ 8016 64156   3 153    9.3371+7 1606000. 0.012610                                                R.Ali+               (21)D6407  3 
+ 8016 64156   3 153    9.8154+7 1778000. 0.075680                                                R.Ali+               (21)D6407  3 
+#/DATA      3
+#/DATASET

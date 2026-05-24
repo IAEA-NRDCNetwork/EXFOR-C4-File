@@ -1,0 +1,27 @@
+#ENTRY      40765
+#AUTHOR1    I.A.Korzh+
+#YEAR       1964
+#INSTITUTE  (4UKRIJD)
+#TITLE      Scattering of neutrons with energy 300, 500 and
+#+          800 keV by Mo, Sb, W and U nuclei
+#AUTHOR(S)  I.A.Korzh, N.T.Sklyar, I.A.Totsky
+#REF-CODE   (J,UFZ,9,929,1964)
+#REFERENCE  Ukr.Fiz.Zh. 9 (1964) 929
+#DATASETS   0
+#
+#DATASET    40765002 
+#DATE       20231113
+#REACTION   92-U-0(N,EL)92-U-0,,SIG
+#PROJ       1
+#TARG       92000
+#MF         3
+#MT         2
+#PRODUCT    92-U-0
+#C4BEGIN    [    1 92000   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92000   3   2 D  300000.0 25000.00 8.700000 0.370000                                       I.A.Korzh            (64)40765  2 
+    1 92000   3   2 D  500000.0 50000.00 7.250000 0.360000                                       I.A.Korzh            (64)40765  2 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,147 @@
+#ENTRY      23666
+#AUTHOR1    N.V.Sosnin+
+#YEAR       2024
+#INSTITUTE  (2UK EDG)
+#TITLE      Measurement of the 78Se(n,g)79Se cross section up to
+#+          600 keV at the nTOF Facility at CERN
+#AUTHOR(S)  N.V.Sosnin, C.Lederer-Woods, R.Garg, U.Battino, S.Cristallo, 
+#+          M.Dietz, S.Heinitz, M.Krticka, R.Reifarth, S.Valenta, D.Vescovi, 
+#+          O.Aberle, V.Alcayne, S.Amaducci, J.Andrzejewski, L.Audouin, 
+#+          V.Becares, V.Babiano-Suarez, M.Bacak, M.Barbagallo, F.Becvar, 
+#+          G.Bellia, E.Berthoumieux, J.Billowes, D.Bosnar, A.Brown, 
+#+          M.Busso, M.Caamano, L.Caballero, F.Calvino, M.Calviani, 
+#+          D.Cano-Ott, A.Casanovas, F.Cerutti, Y.H.Chen, E.Chiaveri, 
+#+          N.Colonna, G.Cortes, M.A.Cortes-Giraldo, L.Cosentino, L.A.Damone, 
+#+          M.Diakaki, C.Domingo-Pardo, R.Dressler, E.Dupont, I.Duran, 
+#+          Z.Eleme, B.Fernandez-Dominguez, A.Ferrari, P.Finocchiaro, 
+#+          V.Furman, K.Goebel, A.Gawlik-Ramiega, S.Gilardoni, T.Glodariu, 
+#+          I.F.Goncalves, E.Gonzalez-Romero, C.Guerrero, F.Gunsing, 
+#+          H.Harada, J.Heyse, D.G.Jenkins, E.Jericha, F.Kaeppeler, 
+#+          Y.Kadi, A.Kimura, N.Kivel, M.Kokkoris, Y.Kopatch, D.Kurtulgil, 
+#+          I.Ladarescu, H.Leeb, J.Lerendegui-Marco, S.Lo Meo, S.J.Lonsdale, 
+#+          A.Manna, T.Martinez, A.Masi, C.Massimi, P.Mastinu, M.Mastromarco, 
+#+          F.Matteucci, E.A.Maugeri, A.Mazzone, E.Mendoza, A.Mengoni, 
+#+          V.Michalopoulou, P.M.Milazzo, A.St.J.Murphy, A.Musumarra, 
+#+          A.Negret, R.Nolte, F.Ogallar, A.Oprea, N.Patronis, A.Pavlik, 
+#+          J.Perkowski, L.Piersanti, I.Porras, J.Praena, J.M.Quesada, 
+#+          D.Radeck, D.Ramos-Doval, T.Rauscher, D.Rochman, C.Rubbia, 
+#+          M.Sabate-Gilarte, A.Saxena, P.Schillebeeckx, D.Schumann, 
+#+          A.G.Smith, A.Stamatopoulos, G.Tagliente, J.L.Tain, T.Talip, 
+#+          A.Tarifeno-Saldivia, L.Tassan-Got, P.Torres-Sanchez, A.Tsinganis, 
+#+          J.Ulrich, S.Urlass, G.Vannini, V.Variale, P.Vaz, A.Ventura, 
+#+          V.Vlachoudis, R.Vlastou, A.Wallner, P.J.Woods, T.Wright, 
+#+          P.Zugec
+#REF-CODE   (J,PR/C,110,065805,2024)
+#REFERENCE  Phys.Rev.C 110 (2024) 065805 (doi:10.1103/PhysRevC.110.065805)
+#DATASETS   0
+#
+#DATASET    23666004 
+#DATE       20241219
+#REACTION   34-SE-78(N,G)34-SE-79,,SIG
+#PROJ       1
+#TARG       34078
+#MF         3
+#MT         102
+#PRODUCT    34-SE-79
+#C4BEGIN    [    1 34078   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34078   3 102 A  70385.34          0.050600 4.4000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  72004.60          0.047000 4.6000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  73660.87          0.037700 5.5000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  75355.00          0.075900 5.2000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  77087.85          0.070300 3.4000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  78860.29          0.060400 5.1000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  80673.21          0.071700 7.1000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  82527.52          0.057100 4.8000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  84424.17          0.063200 8.4000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  86364.11          0.056600 7.8000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  88348.33          0.043000 7.9000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  90377.81          0.059100 6.3000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  92453.59          0.043900 7.2000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  94576.71          0.043800 6.3000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  96748.23          0.050000 4.6000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  98969.23          0.047800 4.0000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  101240.8          0.054100 6.3000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  103564.2          0.059200 4.8000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  105940.5          0.053900 5.1000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  108370.9          0.054400 5.4000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  110856.6          0.052400 3.8000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  113398.9          0.061400 4.9000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  115999.0          0.048100 6.6000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  118658.3          0.048800 5.1000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  121378.1          0.032700 4.4000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  124159.7          0.064600 3.5000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  127004.5          0.058800 3.7000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  129914.0          0.041900 2.9000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  132889.5          0.055900 3.2000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  135932.6          0.054100 3.2000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  139044.8          0.052400 4.4000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  142227.6          0.050500 4.8000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  145482.7          0.041700 4.8000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  148811.5          0.048500 5.6000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  152215.9          0.060700 5.6000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  155697.4          0.049500 5.0000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  159257.8          0.036800 3.8000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  162898.9          0.035700 4.1000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  166622.4          0.050600 3.2000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  170430.3          0.044700 3.5000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  174324.3          0.039100 3.5000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  178306.4          0.040600 2.9000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  182378.6          0.042000 3.0000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  186542.8          0.050500 2.7000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  190801.2          0.052200 3.1000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  195155.8          0.047800 3.1000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  199608.8          0.052000 3.4000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  204162.3          0.033300 5.0000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  208818.6          0.040300 3.6000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  213580.0          0.041200 3.1000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  218448.7          0.048700 3.1000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  223427.2          0.045500 3.1000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  228518.0          0.044600 2.6000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  233723.4          0.038600 2.9000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  239046.1          0.044800 2.1000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  244488.6          0.043400 2.3000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  250053.6          0.042100 2.8000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  255743.7          0.037500 2.1000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  261561.9          0.039200 2.5000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  267510.8          0.044600 2.3000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  273593.4          0.042100 2.0000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  279812.6          0.038200 2.7000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  286171.5          0.038900 2.4000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  292673.0          0.040600 2.1000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  299320.4          0.040600 2.8000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  306116.8          0.034800 2.6000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  313065.6          0.037900 1.9000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  320170.1          0.033000 1.9000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  327433.7          0.042200 2.3000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  334859.8          0.036000 1.7000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  342452.1          0.039700 2.0000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  350214.2          0.039300 1.7000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  358149.9          0.037900 2.5000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  366262.9          0.032500 1.7000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  374557.0          0.039900 1.8000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  383036.3          0.044000 1.7000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  391704.7          0.038700 2.0000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  400566.5          0.041200 2.4000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  409625.9          0.036500 2.1000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  418887.1          0.036000 3.8000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  428354.5          0.043800 2.0000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  438032.6          0.034700 2.5000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  447926.0          0.033900 2.6000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  458039.4          0.033200 2.2000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  468377.7          0.035200 1.8000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  478945.5          0.038600 1.3000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  489748.0          0.036500 1.4000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  500790.1          0.040100 1.3000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  512077.0          0.041700 1.6000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  523614.2          0.035500 1.5000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  535406.9          0.038000 1.6000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  547460.7          0.039700 1.4000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  559781.3          0.037100 1.3000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  572374.3          0.036700 1.4000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  585245.6          0.037100 1.3000-3                                       N.V.Sosnin+          (24)23666  4 
+    1 34078   3 102 A  598401.3          0.038600 1.4000-3                                       N.V.Sosnin+          (24)23666  4 
+#/DATA      96
+#/DATASET

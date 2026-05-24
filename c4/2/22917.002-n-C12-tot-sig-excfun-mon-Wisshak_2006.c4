@@ -1,0 +1,33 @@
+#ENTRY      22917
+#AUTHOR1    K.Wisshak+
+#YEAR       2006
+#INSTITUTE  (2GERKFK)
+#TITLE      .Stellar neutron capture cross sections of the Lu-
+#+          isotopes.
+#AUTHOR(S)  K.Wisshak, F.Voss, F.Kaeppeler, L.Kazakov
+#REF-CODE   (J,PR/C,73,015807,2006)
+#REFERENCE  Phys.Rev.C 73 (2006) 015807 (doi:10.1103/PhysRevC.73.015807)
+#DATASETS   0
+#
+#DATASET    22917002 
+#DATE       20160503
+#REACTION   6-C-12(N,TOT),,SIG,,AV
+#PROJ       1
+#TARG       6012
+#MF         3
+#MT         1
+#C4BEGIN    [    1  6012   3   1 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   3   1 C  12500.00 2500.000 3.990000 0.199500                                       K.Wisshak+           (06)22917  2 
+    1  6012   3   1 C  17500.00 2500.000 4.160000 0.208000                                       K.Wisshak+           (06)22917  2 
+    1  6012   3   1 C  25000.00 5000.000 4.470000 0.223500                                       K.Wisshak+           (06)22917  2 
+    1  6012   3   1 C  35000.00 5000.000 3.710000 0.185500                                       K.Wisshak+           (06)22917  2 
+    1  6012   3   1 C  50000.00 10000.00 4.390000 0.219500                                       K.Wisshak+           (06)22917  2 
+    1  6012   3   1 C  70000.00 10000.00 4.320000 0.216000                                       K.Wisshak+           (06)22917  2 
+    1  6012   3   1 C  90000.00 10000.00 3.820000 0.191000                                       K.Wisshak+           (06)22917  2 
+    1  6012   3   1 C  125000.0 25000.00 3.940000 0.197000                                       K.Wisshak+           (06)22917  2 
+    1  6012   3   1 C  175000.0 25000.00 3.870000 0.193500                                       K.Wisshak+           (06)22917  2 
+#/DATA      9
+#/DATASET

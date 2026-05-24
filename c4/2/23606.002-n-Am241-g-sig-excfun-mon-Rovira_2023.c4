@@ -1,0 +1,29 @@
+#ENTRY      23606
+#AUTHOR1    G.Rovira+
+#YEAR       2023
+#INSTITUTE  (2JPNJAE)
+#TITLE      241Am Neutron Capture Cross Section in the keV region
+#+          using Si and Fe-filtered neutron beams
+#AUTHOR(S)  G.Rovira, A.Kimura, S.Nakamura, S.Endo, O.Iwamoto, N.Iwamoto, 
+#+          T.Katabuchi, Y.Kodama, H.Nakano
+#REF-CODE   (J,NST,60,489,2023)
+#REFERENCE  J.Nucl.Sci.Technol. 60 (2023) 489 (doi:10.1080/00223131.2022.2116496)
+#DATASETS   0
+#
+#DATASET    23606002 
+#DATE       20230628
+#REACTION   95-AM-241(N,G)95-AM-242,,SIG
+#PROJ       1
+#TARG       95241
+#MF         3
+#MT         102
+#PRODUCT    95-AM-242
+#C4BEGIN    [    1 95241   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95241   3 102    23500.00          2.720000 0.290000                                       G.Rovira+            (23)23606  2 
+    1 95241   3 102    51500.00          2.140000 0.260000                                       G.Rovira+            (23)23606  2 
+    1 95241   3 102    127700.0          1.320000 0.100000                                       G.Rovira+            (23)23606  2 
+#/DATA      3
+#/DATASET

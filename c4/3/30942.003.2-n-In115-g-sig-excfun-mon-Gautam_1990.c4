@@ -1,0 +1,34 @@
+#ENTRY      30942
+#AUTHOR1    R.P.Gautam+
+#YEAR       1990
+#INSTITUTE  (3INDMUA)
+#TITLE      Measurement of radiative capture of fast neutrons in
+#+          55Mn and 115In
+#AUTHOR(S)  R.P.Gautam, R.K.Singh, I.A.Rizvi, M.Afzal Ansari, A.K.Chaubey, 
+#+          S.Kailas
+#REF-CODE   (J,IPA,28,235,1990)
+#REFERENCE  Ind.J.Pure Appl.Phy. 28 (1990) 235
+#DATASETS   0
+#
+#DATASET    309420032
+#DATE       20151201
+#REACTION   49-IN-115(N,G)49-IN-116-M1+M2,,SIG
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         102
+#PRODUCT    49-IN-116-M1+M2
+#C4BEGIN    [    1 49115   3 102+ ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3 102+   760000.0 230000.0 0.143420 0.029730                                       R.P.Gautam+          (90)30942  32
+    1 49115   3 102+   970000.0 230000.0 0.199620 0.013050                                       R.P.Gautam+          (90)30942  32
+    1 49115   3 102+   1170000. 230000.0 0.262910 0.028610                                       R.P.Gautam+          (90)30942  32
+    1 49115   3 102+   1490000. 210000.0 0.157210 3.9200-3                                       R.P.Gautam+          (90)30942  32
+    1 49115   3 102+   2190000. 210000.0 0.091520 2.9900-3                                       R.P.Gautam+          (90)30942  32
+    1 49115   3 102+   2270000. 150000.0 0.116000 7.6100-3                                       R.P.Gautam+          (90)30942  32
+    1 49115   3 102+   3020000. 200000.0 0.053870 2.2400-3                                       R.P.Gautam+          (90)30942  32
+    1 49115   3 102+   3430000. 190000.0 0.036850 2.0900-3                                       R.P.Gautam+          (90)30942  32
+#/DATA      8
+#/DATASET

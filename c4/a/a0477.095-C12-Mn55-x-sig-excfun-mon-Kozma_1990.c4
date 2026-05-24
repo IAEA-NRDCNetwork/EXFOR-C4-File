@@ -1,0 +1,28 @@
+#ENTRY      A0477
+#AUTHOR1    P.Kozma+
+#YEAR       1990
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Nuclear reactions of medium and heavy target nuclei
+#+          with high-energy projectiles. Spallation of Mn-55,
+#+          Co-59, Ni-natural and Cu-natural by 3.65 A*GeV C-12
+#+          ions and 3.65 GeV protons.
+#AUTHOR(S)  P.Kozma, B.Tumendemberel, D.Chultem
+#REF-CODE   (J,CZJ,40,29,1990)
+#REFERENCE  Czechslov.J.Phys. 40 (1990) 29 (doi:10.1007/BF01598352)
+#DATASETS   0
+#
+#DATASET    A0477095 
+#DATE       20250627
+#REACTION   25-MN-55(6-C-12,X)24-CR-51,,SIG
+#PROJ       6012
+#TARG       25055
+#MF         3
+#MT         454
+#PRODUCT    24-CR-51
+#C4BEGIN    [ 6012 25055   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 25055   3 454    4.380+10          0.042070                    24051.9                     P.Kozma+             (90)A0477 95 
+#/DATA      1
+#/DATASET

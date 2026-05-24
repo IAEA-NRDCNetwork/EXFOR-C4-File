@@ -1,0 +1,24 @@
+#ENTRY      O0019
+#AUTHOR1    W.Kurcewicz+
+#YEAR       1982
+#INSTITUTE  (3POLWWA)
+#TITLE      Fission of Th-232 induced by 4-11 MeV protons.
+#AUTHOR(S)  W.Kurcewicz, J.Szerypo, P.Hornshoj, N.Rud, Z.Zelazny, W.Reisdorf
+#REF-CODE   (J,ZP/A,306,99,1982)
+#REFERENCE  Z.Phys.A 306 (1982) 99 (doi:10.1007/BF01415478)
+#DATASETS   0
+#
+#DATASET    O00190031
+#DATE       20190208
+#REACTION   90-TH-232(P,F),,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 90232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3  18    8000000. 10000.00 3.1000-3 4.0000-4                                       W.Kurcewicz+         (82)O0019  31
+#/DATA      1
+#/DATASET

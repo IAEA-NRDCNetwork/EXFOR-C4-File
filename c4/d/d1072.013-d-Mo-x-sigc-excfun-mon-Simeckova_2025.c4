@@ -1,0 +1,36 @@
+#ENTRY      D1072
+#AUTHOR1    E.Simeckova+
+#YEAR       2025
+#INSTITUTE  (3CZRUJF)
+#TITLE      Deuteron-induced neutron emission on molybdenum at
+#+          low energies
+#AUTHOR(S)  E.Simeckova, M.Avrigeanu, J.Mrazek, X.Ledoux, J.Novak, M.Stefanik, 
+#+          M.Ansorge, A.Cassisa, J.Kozic, C.Costache, V.Avrigeanu
+#REF-CODE   (J,PR/C,111,044612,2025)
+#REFERENCE  Phys.Rev.C 111 (2025) 044612 (doi:10.1103/PhysRevC.111.044612)
+#DATASETS   0
+#
+#DATASET    D1072013 
+#DATE       20250426
+#REACTION   42-MO-0(D,X)43-TC-93-G,M+,SIG
+#PROJ       1002
+#TARG       42000
+#MF         3
+#MT         459
+#PRODUCT    43-TC-93-G
+#C4BEGIN    [ 1002 42000   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 42000   3 459 A  3220000. 650000.0 1.2500-3 8.0000-5           43093.0                     E.Simeckova+         (25)D1072 13 
+ 1002 42000   3 459 A  4300000. 540000.0 9.7100-3 5.9000-4           43093.0                     E.Simeckova+         (25)D1072 13 
+ 1002 42000   3 459 A  6860000. 480000.0 0.017790 1.0900-3           43093.0                     E.Simeckova+         (25)D1072 13 
+ 1002 42000   3 459 A  9640000. 440000.0 0.031390 2.0100-3           43093.0                     E.Simeckova+         (25)D1072 13 
+ 1002 42000   3 459 A  1.1690+7 400000.0 0.027730 1.6700-3           43093.0                     E.Simeckova+         (25)D1072 13 
+ 1002 42000   3 459 A  1.3550+7 380000.0 0.020830 1.2800-3           43093.0                     E.Simeckova+         (25)D1072 13 
+ 1002 42000   3 459 A  1.5220+7 360000.0 0.017020 1.4100-3           43093.0                     E.Simeckova+         (25)D1072 13 
+ 1002 42000   3 459 A  1.6760+7 340000.0 0.013760 8.3000-4           43093.0                     E.Simeckova+         (25)D1072 13 
+ 1002 42000   3 459 A  1.8190+7 320000.0 0.017870 1.5200-3           43093.0                     E.Simeckova+         (25)D1072 13 
+ 1002 42000   3 459 A  1.9540+7 310000.0 0.024980 1.9700-3           43093.0                     E.Simeckova+         (25)D1072 13 
+#/DATA      10
+#/DATASET

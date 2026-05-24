@@ -1,0 +1,33 @@
+#ENTRY      E1824
+#AUTHOR1    R.G.T.Zegers+
+#YEAR       2003
+#INSTITUTE  (2JPNOSA)
+#TITLE      Excitation and decay of the isovector giant monopole
+#+          resonances via the 208Pb(3He,tp) reaction at 410 MeV
+#AUTHOR(S)  R.G.T.Zegers, H.Abend, H.Akimune, A.M.van den Berg, H.Fujimura, 
+#+          H.Fujita, Y.Fujita, M.Fujiwara, S.Gales, K.Hara, M.N.Harakeh, 
+#+          T.Ishikawa, T.Kawabata, K.Kawase, T.Mibe, K.Nakanishi, S.Nakayama, 
+#+          H.Toyokawa, M.Uchida, T.Yamagata, K.Yamasaki, M.Yosoi
+#REF-CODE   (J,PRL,90,(20),202501,200305)
+#REFERENCE  Phys.Rev.Lett. 90 No.20 (2003) 202501 (doi:10.1103/PhysRevLett.90.202501)
+#DATASETS   0
+#
+#DATASET    E1824002 
+#DATE       20050517
+#REACTION   82-PB-208(HE3,T)83-BI-208,PAR,DA
+#PROJ       2003
+#TARG       82208
+#MF         4
+#MT         700
+#PRODUCT    83-BI-208
+#C4BEGIN    [ 2003 82208   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 82208   4 700  C 4.1000+8          0.019150          0.999996          3.7000+7 1000000.LVLR.G.T.Zegers+        (03)E1824  2 
+ 2003 82208   4 700  C 4.1000+8          0.016110          0.999961          3.7000+7 1000000.LVLR.G.T.Zegers+        (03)E1824  2 
+ 2003 82208   4 700  C 4.1000+8          0.012590          0.999888          3.7000+7 1000000.LVLR.G.T.Zegers+        (03)E1824  2 
+ 2003 82208   4 700  C 4.1000+8          5.7170-3          0.999780          3.7000+7 1000000.LVLR.G.T.Zegers+        (03)E1824  2 
+ 2003 82208   4 700  C 4.1000+8          3.0850-3 6.7320-4 0.999640          3.7000+7 1000000.LVLR.G.T.Zegers+        (03)E1824  2 
+#/DATA      5
+#/DATASET

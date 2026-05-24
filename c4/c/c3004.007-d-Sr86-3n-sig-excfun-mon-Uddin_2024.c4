@@ -1,0 +1,35 @@
+#ENTRY      C3004
+#AUTHOR1    Md.Shuza Uddin+
+#YEAR       2024
+#INSTITUTE  (2GERJUL)
+#TITLE      Excitation functions and isomeric cross-section
+#+          ratios of (d,xn) reactions on 86Sr
+#AUTHOR(S)  Md.Shuza Uddin, Sandor Sudar, M.Shamsuzzoha Basunia, Bernhard Scholten, 
+#+          Stefan Spellerberg, Andrew S.Voyles, Jonathan T.Morrell, 
+#+          Ingo Spahn, Alex Hermanne, Lee A.Bernstein, Bernd Neumaier, 
+#+          Syed M.Qaim
+#REF-CODE   (J,EPJ/A,60,128,2024)
+#REFERENCE  Eur.Phys.J.A 60 (2024) 128 (doi:10.1140/epja/s10050-024-01330-6)
+#DATASETS   0
+#
+#DATASET    C3004007 
+#DATE       20240928
+#REACTION   38-SR-86(D,3N)39-Y-85-G,,SIG
+#PROJ       1002
+#TARG       38086
+#MF         3
+#MT         17
+#PRODUCT    39-Y-85-G
+#C4BEGIN    [ 1002 38086   3  17G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 38086   3  17G   3.6900+7 300000.0 0.069000 7.0000-3                                       M.S.Uddin+           (24)C3004  7 
+ 1002 38086   3  17G   3.4100+7 300000.0 0.107000 0.010000                                       M.S.Uddin+           (24)C3004  7 
+ 1002 38086   3  17G   3.1100+7 300000.0 0.109000 0.011000                                       M.S.Uddin+           (24)C3004  7 
+ 1002 38086   3  17G   2.8200+7 300000.0 0.086000 8.0000-3                                       M.S.Uddin+           (24)C3004  7 
+ 1002 38086   3  17G   2.8100+7 400000.0 0.082000 8.0000-3                                       M.S.Uddin+           (24)C3004  7 
+ 1002 38086   3  17G   2.4600+7 400000.0 0.053000 5.0000-3                                       M.S.Uddin+           (24)C3004  7 
+ 1002 38086   3  17G   2.1700+7 400000.0 7.0000-3 6.0000-4                                       M.S.Uddin+           (24)C3004  7 
+#/DATA      7
+#/DATASET

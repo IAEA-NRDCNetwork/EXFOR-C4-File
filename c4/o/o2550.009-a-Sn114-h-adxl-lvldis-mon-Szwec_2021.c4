@@ -1,0 +1,41 @@
+#ENTRY      O2550
+#AUTHOR1    S.V.Szwec+
+#YEAR       2021
+#INSTITUTE  (2UK MAN)
+#TITLE      Neutron occupancies and single-particle energies
+#+          across the stable tin isotopes
+#AUTHOR(S)  S.V.Szwec, D.K.Sharp, B.P.Kay, S.J.Freeman, J.P.Schiffer, 
+#+          P.Adsley, C.Binnersley, N.de Sereville, T.Faestermann, R.F.Garcia Ruiz, 
+#+          F.Hammache, R.Hertenberger, A.Meyer, C.Portail, I.Stefan, 
+#+          A.Vernon, S.Wilkins, H.-F.Wirth
+#REF-CODE   (J,PR/C,104,054308,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) 054308 (doi:10.1103/PhysRevC.104.054308)
+#DATASETS   0
+#
+#DATASET    O2550009 
+#DATE       20220309
+#REACTION   50-SN-114(A,HE3)50-SN-115,PAR,DA
+#PROJ       2004
+#TARG       50114
+#MF         4
+#MT         750
+#PRODUCT    50-SN-115
+#C4BEGIN    [ 2004 50114   4 750 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 50114   4 750 A  4.1000+7          1.3200-4 1.1000-5 0.982058          497000.0         LVLS.V.Szwec+           (21)O2550  9 
+ 2004 50114   4 750 A  4.1000+7          1.5200-4 1.2000-5 0.982058          613000.0         LVLS.V.Szwec+           (21)O2550  9 
+ 2004 50114   4 750 A  4.1000+7          1.8330-3 5.5000-5 0.982058          714000.0         LVLS.V.Szwec+           (21)O2550  9 
+ 2004 50114   4 750 A  4.1000+7          4.5000-5 6.0000-6 0.982058          987000.0         LVLS.V.Szwec+           (21)O2550  9 
+ 2004 50114   4 750 A  4.1000+7          2.7000-5 5.0000-6 0.982058          1280000.         LVLS.V.Szwec+           (21)O2550  9 
+ 2004 50114   4 750 A  4.1000+7          2.1000-5 4.0000-6 0.982058          1644000.         LVLS.V.Szwec+           (21)O2550  9 
+ 2004 50114   4 750 A  4.1000+7          7.1000-5 9.0000-6 0.982058          1946000.         LVLS.V.Szwec+           (21)O2550  9 
+ 2004 50114   4 750 A  4.1000+7          1.5000-5 3.0000-6 0.982058          2156000.         LVLS.V.Szwec+           (21)O2550  9 
+ 2004 50114   4 750 A  4.1000+7          7.0000-6 3.0000-6 0.982058          2230000.         LVLS.V.Szwec+           (21)O2550  9 
+ 2004 50114   4 750 A  4.1000+7          1.0000-5 3.0000-6 0.982058          2347000.         LVLS.V.Szwec+           (21)O2550  9 
+ 2004 50114   4 750 A  4.1000+7          4.8000-5 6.0000-6 0.982058          2440000.         LVLS.V.Szwec+           (21)O2550  9 
+ 2004 50114   4 750 A  4.1000+7          2.6000-5 4.0000-6 0.982058          2930000.         LVLS.V.Szwec+           (21)O2550  9 
+ 2004 50114   4 750 A  4.1000+7          7.0000-6 3.0000-6 0.982058          3191000.         LVLS.V.Szwec+           (21)O2550  9 
+#/DATA      13
+#/DATASET

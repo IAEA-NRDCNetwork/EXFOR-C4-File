@@ -1,0 +1,28 @@
+#ENTRY      32204
+#AUTHOR1    S.V.Begun+
+#YEAR       2000
+#INSTITUTE  (4UKRKGU)
+#TITLE      Cross sections for nuclear (nx) reactions on the 89Y,
+#+          139La, and 181Ta nuclei at the neutron energy of
+#+          14.6 MeV
+#AUTHOR(S)  S.V.Begun, I.M.Kadenko, V.K.Maidanyuk, V.M.Neplyuev, G.I.Primenko, 
+#+          V.K.Tarakanov
+#REF-CODE   (J,IZV,64,1017,2000)
+#REFERENCE  Izv.Ross.AN,Fiz. 64 (2000) 1017
+#DATASETS   0
+#
+#DATASET    32204005 
+#DATE       20140925
+#REACTION   57-LA-139(N,P)56-BA-139,,SIG
+#PROJ       1
+#TARG       57139
+#MF         3
+#MT         103
+#PRODUCT    56-BA-139
+#C4BEGIN    [    1 57139   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 57139   3 103    1.4600+7          4.7900-3 1.0000-4                                       S.V.Begun+           (00)32204  5 
+#/DATA      1
+#/DATASET

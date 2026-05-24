@@ -1,0 +1,31 @@
+#ENTRY      A0953
+#AUTHOR1    N.K.Skobelev+
+#YEAR       2013
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Investigating the nuclear fusion and nucleon transfer
+#+          channels in the 197Au + 6He reaction at 6He energies
+#+          up to 20 MeV/A.
+#AUTHOR(S)  N.K.Skobelev, Yu.E.Penionzhkevich, A.A.Kulko, N.A.Demekhina, 
+#+          V.Kroha, A.Kugler, S.M.Lukyanov, J.Mrazek, Yu.G.Sobolev, 
+#+          V.A.Maslov, Yu.A.Muzychka, E.I.Voskoboynik, A.S.Fomichev
+#REF-CODE   (J,IZV,77,404,2013)
+#REFERENCE  Izv.Ross.AN,Fiz. 77 (2013) 404 (doi:10.7868/S0367676513040285)
+#DATASETS   0
+#
+#DATASET    A0953008 
+#DATE       20190710
+#REACTION   79-AU-197(2-HE-6,X)81-TL-193,CUM,SIG
+#PROJ       2006
+#TARG       79197
+#MF         3
+#MT         459
+#PRODUCT    81-TL-193
+#C4BEGIN    [ 2006 79197   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 79197   3 459 A  1.1370+8 2616000. 0.312000 0.016000           81193.9                     N.K.Skobelev+        (13)A0953  8 
+ 2006 79197   3 459 A  9.5350+7 2994000. 0.187200 0.018000           81193.9                     N.K.Skobelev+        (13)A0953  8 
+ 2006 79197   3 459 A  8.1440+7 3316000. 0.109850 0.027000           81193.9                     N.K.Skobelev+        (13)A0953  8 
+#/DATA      3
+#/DATASET

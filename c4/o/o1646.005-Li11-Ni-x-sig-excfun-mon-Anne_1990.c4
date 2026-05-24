@@ -1,0 +1,29 @@
+#ENTRY      O1646
+#AUTHOR1    R.Anne+
+#YEAR       1990
+#INSTITUTE  (2FR GAN)
+#TITLE      Observation of forward neutrons from the break-up of
+#+          the Li-11 neutron halo.
+#AUTHOR(S)  R.Anne, S.E.Arnell, R.Bimbot, H.Emling, D.Guillemaud-Mueller, 
+#+          P.G.Hansen, L.Johannsen, B.Jonson, M.Lewitowicz, S.Mattsson, 
+#+          A.C.Mueller, R.Neugart, G.Nyman, F.Pougheon, A.Richter, 
+#+          K.Riisager, M.C.Saint-Laurent, G.Schrieder, O.Sorlin, K.Wilhelmsen
+#REF-CODE   (J,PL/B,250,19,1990)
+#REFERENCE  Phys.Lett.B 250 (1990) 19 (doi:10.1016/0370-2693(90)91147-4)
+#DATASETS   0
+#
+#DATASET    O1646005 
+#DATE       20160730
+#REACTION   28-NI-0(3-LI-11,X)3-LI-9,,SIG
+#PROJ       3011
+#TARG       28000
+#MF         3
+#MT         454
+#PRODUCT    3-LI-9
+#C4BEGIN    [ 3011 28000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3011 28000   3 454    3.1900+8          1.300000 0.400000            3009.9                     R.Anne+              (90)O1646  5 
+#/DATA      1
+#/DATASET

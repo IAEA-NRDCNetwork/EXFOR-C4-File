@@ -1,0 +1,36 @@
+#ENTRY      E0777
+#AUTHOR1    H.Orihara+
+#YEAR       1982
+#INSTITUTE  (2JPNTOH)
+#TITLE      EXCITATION OF GIANT GAMOW-TELLER RESONANCES IN THE
+#+          REACTION 140CE(P,N)140PR
+#AUTHOR(S)  H.Orihara, G.C.Kiang, S.Nishihara, T.Murakami, T.Nakagawa, 
+#+          K.Furukawa, K.Maeda, K.Miura, S.Adachi, H.Ohnuma
+#REF-CODE   (J,PL/B,118,283,82)
+#REFERENCE  Phys.Lett.B 118 (1982) 283 (doi:10.1016/0370-2693(82)90185-X)
+#DATASETS   0
+#
+#DATASET    E0777002 
+#DATE       19881020
+#REACTION   58-CE-140(P,N)59-PR-140,PAR,DA
+#PROJ       1001
+#TARG       58140
+#MF         4
+#MT         50
+#PRODUCT    59-PR-140
+#C4BEGIN    [ 1001 58140   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 58140   4  50  C 3.8000+7          0.010430          0.998630          1.1037+7         LVLH.Orihara+           (82)E0777  2 
+ 1001 58140   4  50  C 3.8000+7          5.6940-3          0.986054          1.1037+7         LVLH.Orihara+           (82)E0777  2 
+ 1001 58140   4  50  C 3.8000+7          4.7600-3          0.979624          1.1037+7         LVLH.Orihara+           (82)E0777  2 
+ 1001 58140   4  50  C 3.8000+7          2.6040-3          0.961035          1.1037+7         LVLH.Orihara+           (82)E0777  2 
+ 1001 58140   4  50  C 3.8000+7          7.1650-4          0.941105          1.1037+7         LVLH.Orihara+           (82)E0777  2 
+ 1001 58140   4  50  C 3.8000+7          7.7970-4          0.908771          1.1037+7         LVLH.Orihara+           (82)E0777  2 
+ 1001 58140   4  50  C 3.8000+7          8.7630-4          0.858960          1.1037+7         LVLH.Orihara+           (82)E0777  2 
+ 1001 58140   4  50  C 3.8000+7          1.0500-3          0.769344          1.1037+7         LVLH.Orihara+           (82)E0777  2 
+ 1001 58140   4  50  C 3.8000+7          5.2260-4          0.628316          1.1037+7         LVLH.Orihara+           (82)E0777  2 
+ 1001 58140   4  50  C 3.8000+7          6.2600-4          0.491147          1.1037+7         LVLH.Orihara+           (82)E0777  2 
+#/DATA      10
+#/DATASET

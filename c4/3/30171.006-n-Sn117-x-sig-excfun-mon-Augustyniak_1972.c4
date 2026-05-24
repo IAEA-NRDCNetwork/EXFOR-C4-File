@@ -1,0 +1,32 @@
+#ENTRY      30171
+#AUTHOR1    W.Augustyniak+
+#YEAR       1972
+#INSTITUTE  (3POLIBJ)
+#TITLE      Cross-sections for the Rb-85(n,2n)Rb-84-g,m
+#+          Rb-87(n,2n)Rb-86-g,m and Sn-117(n,np)In-116 reactions
+#+          in the neutron energy range 13-17 MeV.
+#AUTHOR(S)  W.Augustyniak, J.Wiertel, A.Marcinkowski
+#REF-CODE   (P,INDC(POL)-5,1,1972)
+#REFERENCE  Progress report INDC(POL)-5 page 1, 1972
+#DATASETS   0
+#
+#DATASET    30171006 
+#DATE       20160210
+#REACTION   50-SN-117(N,X)49-IN-116-M1+M2,,SIG
+#PROJ       1
+#TARG       50117
+#MF         3
+#MT         454
+#PRODUCT    49-IN-116-M1+M2
+#C4BEGIN    [    1 50117   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 50117   3 454 A  1.3900+7 100000.0 1.1700-3 1.2000-4           49116.8                     W.Augustyniak+       (72)30171  6 
+    1 50117   3 454 A  1.4100+7 200000.0 1.2300-3 8.0000-5           49116.8                     W.Augustyniak+       (72)30171  6 
+    1 50117   3 454 A  1.4500+7 100000.0 1.2600-3 1.8000-4           49116.8                     W.Augustyniak+       (72)30171  6 
+    1 50117   3 454 A  1.5100+7 200000.0 2.0300-3 2.6000-4           49116.8                     W.Augustyniak+       (72)30171  6 
+    1 50117   3 454 A  1.5400+7 200000.0 1.8000-3 2.1000-4           49116.8                     W.Augustyniak+       (72)30171  6 
+    1 50117   3 454 A  1.6600+7 100000.0 6.4000-3 2.6000-3           49116.8                     W.Augustyniak+       (72)30171  6 
+#/DATA      6
+#/DATASET

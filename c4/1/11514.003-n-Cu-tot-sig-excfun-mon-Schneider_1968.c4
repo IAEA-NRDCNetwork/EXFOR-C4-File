@@ -1,0 +1,30 @@
+#ENTRY      11514
+#AUTHOR1    R.J.Schneider+
+#YEAR       1968
+#INSTITUTE  (1USAUSA)
+#TITLE      Neutron total cross sections in the energy range 100
+#+          to 150 MeV
+#AUTHOR(S)  R.J.Schneider, A.M.Cormack
+#REF-CODE   (J,NP/A,119,197,196810)
+#REFERENCE  Nucl.Phys.A 119 (1968) 197 (doi:10.1016/0375-9474(68)90814-2)
+#DATASETS   0
+#
+#DATASET    11514003 
+#DATE       19821124
+#REACTION   29-CU-0(N,TOT),,SIG
+#PROJ       1
+#TARG       29000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 29000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   3   1    9.9400+7 1000000. 1.990000 9.9500-3                                       R.J.Schneider+       (68)11514  3 
+    1 29000   3   1    1.1150+8 1000000. 1.817000 9.0850-3                                       R.J.Schneider+       (68)11514  3 
+    1 29000   3   1    1.2140+8 1000000. 1.679000 8.3950-3                                       R.J.Schneider+       (68)11514  3 
+    1 29000   3   1    1.3100+8 1000000. 1.550000 7.7500-3                                       R.J.Schneider+       (68)11514  3 
+    1 29000   3   1    1.4210+8 1000000. 1.449000 7.2450-3                                       R.J.Schneider+       (68)11514  3 
+    1 29000   3   1    1.5190+8 1000000. 1.376000 6.8800-3                                       R.J.Schneider+       (68)11514  3 
+#/DATA      6
+#/DATASET

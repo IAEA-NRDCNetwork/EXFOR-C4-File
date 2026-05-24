@@ -1,0 +1,29 @@
+#ENTRY      31526
+#AUTHOR1    Qi Linkun+
+#YEAR       1988
+#INSTITUTE  (3CPRAEP)
+#TITLE      Mass Distribution in Fission Spectrum Neutron Induced
+#+          Fission of U-235
+#AUTHOR(S)  Qi Linkun, Liu Conggui, Tang Peijia, Li Ze, Wang Xiuzhi, 
+#+          Liu Yonghui, Liu Daming, Ju Changxin, Lu Huijun, Zhi Jiaxuan, 
+#+          Guo Jingru
+#REF-CODE   (C,88MITO,,967,198805)
+#REFERENCE  Proceedings of Conf.on Nucl.Data For Sci.and Technol.,Mito 1988 page 967
+#DATASETS   0
+#
+#DATASET    31526002 
+#DATE       20030130
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025000          0.063900 2.1000-3 40.00000 95.00000 9.000000            Qi Linkun+           (88)31526  2 
+    1 92235   8 459    0.025000          0.060800 1.6000-3 42.00000 99.00000 9.000000            Qi Linkun+           (88)31526  2 
+    1 92235   8 459    0.025000          0.053400 3.4000-3 58.00000 144.0000 9.000000            Qi Linkun+           (88)31526  2 
+#/DATA      3
+#/DATASET

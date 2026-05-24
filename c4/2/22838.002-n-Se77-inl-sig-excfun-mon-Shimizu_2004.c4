@@ -1,0 +1,32 @@
+#ENTRY      22838
+#AUTHOR1    T.Shimizu+
+#YEAR       2004
+#INSTITUTE  (2JPNNAG)
+#TITLE      Measurements of activation cross sections of (n,n')
+#+          reaction with d-D neutrons in the energy range of
+#+          2.1 to 3.1 MeV
+#AUTHOR(S)  T.Shimizu, H.Sakane, M.Shibata, K.Kawade, T.Nishitani
+#REF-CODE   (J,ANE,31,1883,2004)
+#REFERENCE  Ann.Nucl.Energy 31 (2004) 1883 (doi:10.1016/j.anucene.2004.05.008)
+#DATASETS   0
+#
+#DATASET    22838002 
+#DATE       20190101
+#REACTION   34-SE-77(N,INL)34-SE-77-M,,SIG
+#PROJ       1
+#TARG       34077
+#MF         3
+#MT         4
+#PRODUCT    34-SE-77-M
+#C4BEGIN    [    1 34077   3   4MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34077   3   4MA  3090000. 50000.00 1.081000 0.060536                                       T.Shimizu+           (04)22838  2 
+    1 34077   3   4MA  2900000. 50000.00 1.076000 0.067788                                       T.Shimizu+           (04)22838  2 
+    1 34077   3   4MA  2690000. 50000.00 1.158000 0.075270                                       T.Shimizu+           (04)22838  2 
+    1 34077   3   4MA  2460000. 50000.00 1.438000 0.089156                                       T.Shimizu+           (04)22838  2 
+    1 34077   3   4MA  2270000. 50000.00 0.982000 0.064812                                       T.Shimizu+           (04)22838  2 
+    1 34077   3   4MA  2090000. 50000.00 1.240000 0.105400                                       T.Shimizu+           (04)22838  2 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      20788
+#AUTHOR1    E.Almen-Ramstrom+
+#YEAR       1975
+#INSTITUTE  (2SWDAE)
+#TITLE      A systematic study of neutron inelastic scattering
+#+          in the energy range 2.0 to 4.5 MeV
+#AUTHOR(S)  E.Almen-Ramstrom
+#REF-CODE   (R,AE-503,197504)
+#REFERENCE  Report AE-503, 1975
+#DATASETS   0
+#
+#DATASET    20788019 
+#DATE       20120731
+#REACTION   59-PR-141(N,INL)59-PR-141,PAR,SIG
+#PROJ       1
+#TARG       59141
+#MF         3
+#MT         51
+#PRODUCT    59-PR-141
+#C4BEGIN    [    1 59141   3  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 59141   3  51    2020000.          0.332000 0.066000                   145000.0         LVLE.Almen-Ramstrom     (75)20788 19 
+    1 59141   3  51    2270000.          0.251000 0.050000                   145000.0         LVLE.Almen-Ramstrom     (75)20788 19 
+    1 59141   3  51    2500000.          0.135000 0.027000                   145000.0         LVLE.Almen-Ramstrom     (75)20788 19 
+#/DATA      3
+#/DATASET

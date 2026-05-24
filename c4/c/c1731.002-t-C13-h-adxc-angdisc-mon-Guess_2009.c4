@@ -1,0 +1,36 @@
+#ENTRY      C1731
+#AUTHOR1    C.J.Guess+
+#YEAR       2009
+#INSTITUTE  (1USAMSU)
+#TITLE      Spectroscopy of 13B via the 13C(t,3He) reaction at
+#+          115A MeV
+#AUTHOR(S)  C.J.Guess, R.G.T.Zegers, B.A.Brown, S.M.Austin, D.Bazin, 
+#+          C.Caesar, J.M.Deaven, G.F.Grinyer, C.Herlitzius, G.W.Hitt, 
+#+          S.Noji, R.Meharchand, G.Perdikakis, H.Sakai, Y.Shimbara, 
+#+          C.Tur
+#REF-CODE   (J,PR/C,80,024305,2009)
+#REFERENCE  Phys.Rev.C 80 (2009) 024305 (doi:10.1103/PhysRevC.80.024305)
+#DATASETS   0
+#
+#DATASET    C1731002 
+#DATE       20090828
+#REACTION   6-C-13(T,HE3)5-B-13,PAR,DA
+#PROJ       1003
+#TARG       6013
+#MF         4
+#MT         750
+#PRODUCT    5-B-13
+#C4BEGIN    [ 1003  6013   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  6013   4 750  C 3.4500+8          0.013720 4.5000-4 0.999976          0.000000         LVLC.J.Guess+           (09)C1731  2 
+ 1003  6013   4 750  C 3.4500+8          0.012540 2.7000-4 0.999816          0.000000         LVLC.J.Guess+           (09)C1731  2 
+ 1003  6013   4 750  C 3.4500+8          0.010590          0.999450          0.000000         LVLC.J.Guess+           (09)C1731  2 
+ 1003  6013   4 750  C 3.4500+8          8.3700-3          0.998971          0.000000         LVLC.J.Guess+           (09)C1731  2 
+ 1003  6013   4 750  C 3.4500+8          6.4200-3          0.998240          0.000000         LVLC.J.Guess+           (09)C1731  2 
+ 1003  6013   4 750  C 3.4500+8          4.4700-3          0.997314          0.000000         LVLC.J.Guess+           (09)C1731  2 
+ 1003  6013   4 750  C 3.4500+8          3.6100-3          0.996345          0.000000         LVLC.J.Guess+           (09)C1731  2 
+ 1003  6013   4 750  C 3.4500+8          3.0200-3          0.995227          0.000000         LVLC.J.Guess+           (09)C1731  2 
+#/DATA      8
+#/DATASET

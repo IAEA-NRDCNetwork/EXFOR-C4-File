@@ -1,0 +1,27 @@
+#ENTRY      12715
+#AUTHOR1    W.P.Poenitz+
+#YEAR       1982
+#INSTITUTE  (1USAANL)
+#TITLE      MEASUREMENTS OF THE TOTAL NEUTRON CROSS SECTIONS OF
+#+          HYDROGEN AND CARBON AT 0.5, 1.0, AND 2.0 MEV
+#AUTHOR(S)  W.P.Poenitz, J.F.Whalen
+#REF-CODE   (J,NP/A,383,224,8207)
+#REFERENCE  Nucl.Phys.A 383 (1982) 224 (doi:10.1016/0375-9474(82)90449-3)
+#DATASETS   0
+#
+#DATASET    12715002 
+#DATE       19820127
+#REACTION   1-H-1(N,TOT),,SIG
+#PROJ       1
+#TARG       1001
+#MF         3
+#MT         1
+#C4BEGIN    [    1  1001   3   1 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   3   1 A  509000.0 1000.000 6.049000 0.013000                                       W.P.Poenitz+         (82)12715  2 
+    1  1001   3   1 A  1024000. 2000.000 4.194000 0.010000                                       W.P.Poenitz+         (82)12715  2 
+    1  1001   3   1 A  2003000. 3000.000 2.902000 0.013000                                       W.P.Poenitz+         (82)12715  2 
+#/DATA      3
+#/DATASET

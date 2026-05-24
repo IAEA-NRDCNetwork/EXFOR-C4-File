@@ -1,0 +1,26 @@
+#ENTRY      13344
+#AUTHOR1    E.R.Ebersole+
+#YEAR       1972
+#INSTITUTE  (1USAANL)
+#TITLE      EBR-II BURNUP MEASUREMENTS - COMPARISON OF 139LA AND
+#+          148ND AS MONITORS
+#AUTHOR(S)  E.R.Ebersole
+#REF-CODE   (W,EBERSOLE,721116)
+#REFERENCE  Private communication  (1972)
+#DATASETS   0
+#
+#DATASET    13344006 
+#DATE       19900604
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025300          0.064400 1.0000-4 57.00000 139.0000 9.000000            E.R.Ebersole         (72)13344  6 
+    1 92235   8 459    0.025300          0.016900 1.0000-4 60.00000 148.0000 9.000000            E.R.Ebersole         (72)13344  6 
+#/DATA      2
+#/DATASET

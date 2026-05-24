@@ -1,0 +1,33 @@
+#ENTRY      11075
+#AUTHOR1    T.R.Donoghue+
+#YEAR       1964
+#INSTITUTE  (1USANOT)
+#TITLE      Angular distributions of neutrons elastically
+#+          scattered from O-18.
+#AUTHOR(S)  T.R.Donoghue, A.F.Behof, S.E.Darden
+#REF-CODE   (J,NP,54,33,1964)
+#REFERENCE  Nucl.Phys. 54 (1964) 33 (doi:10.1016/0029-5582(64)90391-8)
+#DATASETS   0
+#
+#DATASET    11075002 
+#DATE       20130515
+#REACTION   8-O-18(N,EL)8-O-18,,DA
+#PROJ       1
+#TARG       8018
+#MF         4
+#MT         2
+#PRODUCT    8-O-18
+#C4BEGIN    [    1  8018   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8018   4   2  C 405000.0          0.170600         -0.897100                              T.R.Donoghue+        (64)11075  2 
+    1  8018   4   2  C 405000.0          0.223500         -0.779400                              T.R.Donoghue+        (64)11075  2 
+    1  8018   4   2  C 405000.0          0.247100         -0.632400                              T.R.Donoghue+        (64)11075  2 
+    1  8018   4   2  C 405000.0          0.235300         -0.500000                              T.R.Donoghue+        (64)11075  2 
+    1  8018   4   2  C 405000.0          0.247100         -0.382400                              T.R.Donoghue+        (64)11075  2 
+    1  8018   4   2  C 405000.0          0.235300         -0.220600                              T.R.Donoghue+        (64)11075  2 
+    1  8018   4   2  C 405000.0          0.235300         -0.044120                              T.R.Donoghue+        (64)11075  2 
+    1  8018   4   2  C 405000.0          0.223500          0.220600                              T.R.Donoghue+        (64)11075  2 
+#/DATA      8
+#/DATASET

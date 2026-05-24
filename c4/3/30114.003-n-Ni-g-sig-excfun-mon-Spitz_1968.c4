@@ -1,0 +1,31 @@
+#ENTRY      30114
+#AUTHOR1    L.M.Spitz+
+#YEAR       1968
+#INSTITUTE  (3SAFPEL)
+#TITLE      Neutron capture cross sections of Cr,Mn,Ni,Nb,Ag,In,Sb
+#+          and Au in the 8 to 120 keV region
+#AUTHOR(S)  L.M.Spitz, E.Barnard, F.D.Brooks
+#REF-CODE   (J,NP/A,121,655,196812)
+#REFERENCE  Nucl.Phys.A 121 (1968) 655 (doi:10.1016/0375-9474(68)90114-0)
+#DATASETS   0
+#
+#DATASET    30114003 
+#DATE       20080208
+#REACTION   28-NI-0(N,G),,SIG
+#PROJ       1
+#TARG       28000
+#MF         3
+#MT         102
+#C4BEGIN    [    1 28000   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28000   3 102    9900.000          0.100500 0.011000                                       L.M.Spitz+           (68)30114  3 
+    1 28000   3 102    11000.00 10000.00 0.176000 0.019000                                       L.M.Spitz+           (68)30114  3 
+    1 28000   3 102    57000.00          0.025700 2.8000-3                                       L.M.Spitz+           (68)30114  3 
+    1 28000   3 102    61000.00          0.021900 2.4000-3                                       L.M.Spitz+           (68)30114  3 
+    1 28000   3 102    80000.00          0.017200 3.2000-3                                       L.M.Spitz+           (68)30114  3 
+    1 28000   3 102    94000.00          0.018600 2.1000-3                                       L.M.Spitz+           (68)30114  3 
+    1 28000   3 102    112500.0 6000.000 0.016200 2.1000-3                                       L.M.Spitz+           (68)30114  3 
+#/DATA      7
+#/DATASET

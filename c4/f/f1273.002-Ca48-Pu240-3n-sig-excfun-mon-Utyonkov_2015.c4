@@ -1,0 +1,31 @@
+#ENTRY      F1273
+#AUTHOR1    V.K.Utyonkov+
+#YEAR       2015
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Experiments on the synthesis of superheavy nuclei
+#+          Fl-284 and Fl-285 in the Pu-239,240 + Ca-48 reactions.
+#AUTHOR(S)  V.K.Utyonkov, N.T.Brewer, Yu.Ts.Oganessian, K.P.Rykaczewski, 
+#+          F.Sh.Abdullin, S.N.Dmitriev, R.K.Grzywacz, M.G.Itkis, K.Miernik, 
+#+          A.N.Polyakov, J.B.Roberto, R.N.Sagaidak, I.V.Shirokovsky, 
+#+          M.V.Shumeiko, Yu.S.Tsyganov, A.A.Voinov, V.G.Subbotin, A.M.Sukhov, 
+#+          A.V.Sabel'nikov, G.K.Vostokin, J.H.Hamilton, M.A.Stoyer, 
+#+          S.Y.Strauss
+#REF-CODE   (J,PR/C,92,034609,2015)
+#REFERENCE  Phys.Rev.C 92 (2015) 034609 (doi:10.1103/PhysRevC.92.034609)
+#DATASETS   0
+#
+#DATASET    F1273002 
+#DATE       20220825
+#REACTION   94-PU-240(20-CA-48,3N)114-FL-285,,SIG
+#PROJ       20048
+#TARG       94240
+#MF         3
+#MT         17
+#PRODUCT    114-FL-285
+#C4BEGIN    [20048 94240   3  17 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+20048 94240   3  17 A  2.4500+8 1000000. 2.500-12                                                V.K.Utyonkov+        (15)F1273  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,51 @@
+#ENTRY      20927
+#AUTHOR1    R.Bass+
+#YEAR       1966
+#INSTITUTE  (2GERFRK)
+#TITLE      Fast neutron cross sections of Na-23 by spectroscopy
+#+          of prompt charged particles in NaI and coincident
+#+          gamma-rays
+#AUTHOR(S)  R.Bass, Fatma Saleh, B.Staginnus
+#REF-CODE   (P,EANDC(E)-66,64,196602)
+#REFERENCE  Progress report EANDC(E)-66 page 64, 1966
+#DATASETS   0
+#
+#DATASET    20927002 
+#DATE       20120708
+#REACTION   11-NA-23(N,P)10-NE-23,PAR,SIG
+#PROJ       1
+#TARG       11023
+#MF         3
+#MT         600
+#PRODUCT    10-NE-23
+#C4BEGIN    [    1 11023   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023   3 600    8000000.          0.015000 2.0000-3                   0.000000         LVLR.Bass+              (66)20927  2 
+    1 11023   3 600    8000000.          5.4000-3 1.0000-3                   1020000.         LVLR.Bass+              (66)20927  2 
+    1 11023   3 600    8000000.          5.7500-3 1.5000-3                   1700000.         LVLR.Bass+              (66)20927  2 
+    1 11023   3 600    8000000.          5.0000-3 1.5000-3                   1830000.         LVLR.Bass+              (66)20927  2 
+#/DATA      4
+#/DATASET
+#
+#DATASET    20927002 
+#DATE       20120708
+#REACTION   11-NA-23(N,P)10-NE-23,PAR,SIG
+#PROJ       1
+#TARG       11023
+#MF         3
+#MT         600
+#PRODUCT    10-NE-23
+#C4BEGIN    [    1 11023   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023   3 600    8800000.          0.012000 2.0000-3                   0.000000         LVLR.Bass+              (66)20927  2 
+    1 11023   3 600    8800000.          5.4000-3 1.0000-3                   1020000.         LVLR.Bass+              (66)20927  2 
+    1 11023   3 600    8800000.          0.012600 2.0000-3                   1700000.         LVLR.Bass+              (66)20927  2 
+    1 11023   3 600    8800000.          6.0000-3 1.5000-3                   1830000.         LVLR.Bass+              (66)20927  2 
+    1 11023   3 600    8800000.          4.0000-3 2.5000-3                   2310000.         LVLR.Bass+              (66)20927  2 
+    1 11023   3 600    8800000.          4.5000-3 1.5000-3                   2520000.         LVLR.Bass+              (66)20927  2 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      40218
+#AUTHOR1    T.A.Mostovaya+
+#YEAR       1975
+#INSTITUTE  (4RUSKUR)
+#TITLE      Neutron fission cross-section of U-235
+#AUTHOR(S)  T.A.Mostovaya
+#REF-CODE   (W,MOSTOVAYA,1975)
+#REFERENCE  Private communication  (1975)
+#DATASETS   0
+#
+#DATASET    40218002 
+#DATE       20210830
+#REACTION   92-U-235(N,F),,SIG
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18 C  3.611000          94.19000 4.750000                                       T.A.Mostovaya        (75)40218  2 
+    1 92235   3  18 C  6.259000          56.93000 3.240000                                       T.A.Mostovaya        (75)40218  2 
+    1 92235   3  18 C  6.405000          121.0000 5.090000                                       T.A.Mostovaya        (75)40218  2 
+    1 92235   3  18 C  7.403000          5.960000 0.720000                                       T.A.Mostovaya        (75)40218  2 
+    1 92235   3  18 C  8.940000          243.3200 7.400000                                       T.A.Mostovaya        (75)40218  2 
+    1 92235   3  18 C  11.55000          36.32000 2.060000                                       T.A.Mostovaya        (75)40218  2 
+    1 92235   3  18 C  12.42000          323.2300 8.730000                                       T.A.Mostovaya        (75)40218  2 
+    1 92235   3  18 C  13.01000          23.15000 1.600000                                       T.A.Mostovaya        (75)40218  2 
+    1 92235   3  18 C  13.15000          22.02000 1.540000                                       T.A.Mostovaya        (75)40218  2 
+    1 92235   3  18 C  15.83000          12.44000 1.160000                                       T.A.Mostovaya        (75)40218  2 
+    1 92235   3  18 C  20.08000          33.01000 1.830000                                       T.A.Mostovaya        (75)40218  2 
+    1 92235   3  18 C  51.24000          13.33000 3.680000                                       T.A.Mostovaya        (75)40218  2 
+    1 92235   3  18 C  57.00000          45.18000 1.690000                                       T.A.Mostovaya        (75)40218  2 
+    1 92235   3  18 C  72.54000          48.09000 1.660000                                       T.A.Mostovaya        (75)40218  2 
+    1 92235   3  18 C  90.00000          31.89000 1.380000                                       T.A.Mostovaya        (75)40218  2 
+#/DATA      15
+#/DATASET

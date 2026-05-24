@@ -1,0 +1,29 @@
+#ENTRY      22155
+#AUTHOR1    A.Takahashi+
+#YEAR       1992
+#INSTITUTE  (2JPNOSA)
+#TITLE      Measurement of double, single differential and
+#+          integral neutron emission cross sections at 14.1 MeV
+#+          for Ca-nat, Mn-55, Co-59 and W-nat.
+#AUTHOR(S)  A.Takahashi, Y.Sasaki, F.Maekawa, H.Sugimoto
+#REF-CODE   (R,OKTAV-A-92-01,1992)
+#REFERENCE  Report OKTAV-A-92-01, 1992
+#DATASETS   0
+#
+#DATASET    22155100 
+#DATE       20101117
+#REACTION   25-MN-55(N,INL)25-MN-55,PAR,SIG
+#PROJ       1
+#TARG       25055
+#MF         3
+#MT         51
+#PRODUCT    25-MN-55
+#C4BEGIN    [    1 25055   3  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 25055   3  51 D  1.4100+7 100000.0 0.034200 6.8000-3                   984000.0         LVLA.Takahashi+         (92)22155100 
+    1 25055   3  51 D  1.4100+7 100000.0 0.016000 1.9000-3                   2822000.         LVLA.Takahashi+         (92)22155100 
+    1 25055   3  51 D  1.4100+7 100000.0 0.041200 2.9000-3                   4110000.         LVLA.Takahashi+         (92)22155100 
+#/DATA      3
+#/DATASET

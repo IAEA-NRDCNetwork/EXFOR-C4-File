@@ -1,0 +1,35 @@
+#ENTRY      O2059
+#AUTHOR1    A.Sauerwein+
+#YEAR       2012
+#INSTITUTE  (2GERKLN)
+#TITLE      Investigation of the reaction Ge-74(p,g)As-75 using the
+#+          in-beam method to improve reaction network predictions
+#+          for p- nuclei.
+#AUTHOR(S)  A.Sauerwein, J.Endres, L.Netterdon, A.Zilges, V.Foteinou, 
+#+          G.Provatas, T.Konstantinopoulos, M.Axiotis, S.F.Ashley, 
+#+          S.Harissopulos, T.Rauscher
+#REF-CODE   (J,PR/C,86,035802,2012)
+#REFERENCE  Phys.Rev.C 86 (2012) 035802 (doi:10.1103/PhysRevC.86.035802)
+#DATASETS   0
+#
+#DATASET    O2059002 
+#DATE       20121021
+#REACTION   32-GE-74(P,G)33-AS-75,,SIG
+#PROJ       1001
+#TARG       32074
+#MF         3
+#MT         102
+#PRODUCT    33-AS-75
+#C4BEGIN    [ 1001 32074   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 32074   3 102    2091157. 7000.209 6.5000-4 6.0000-5                                       A.Sauerwein+         (12)O2059  2 
+ 1001 32074   3 102    2392216. 7000.239 1.9300-3 1.6000-4                                       A.Sauerwein+         (12)O2059  2 
+ 1001 32074   3 102    2693276. 7000.270 4.5000-3 4.0000-4                                       A.Sauerwein+         (12)O2059  2 
+ 1001 32074   3 102    2995351. 7000.300 8.3000-3 7.0000-4                                       A.Sauerwein+         (12)O2059  2 
+ 1001 32074   3 102    3295400. 7000.330 0.014100 1.2000-3                                       A.Sauerwein+         (12)O2059  2 
+ 1001 32074   3 102    3496109. 7000.350 0.013900 1.2000-3                                       A.Sauerwein+         (12)O2059  2 
+ 1001 32074   3 102    3695805. 8000.423 5.7000-3 6.0000-4                                       A.Sauerwein+         (12)O2059  2 
+#/DATA      7
+#/DATASET

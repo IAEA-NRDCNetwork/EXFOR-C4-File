@@ -1,0 +1,31 @@
+#ENTRY      20066
+#AUTHOR1    M.Holmberg+
+#YEAR       1969
+#INSTITUTE  (2SWDFOA)
+#TITLE      Inelastic neutron scattering and fission of Th-232
+#+          near the fission threshold
+#AUTHOR(S)  M.Holmberg, L.G.Stromberg, L.Wallin
+#REF-CODE   (J,NP/A,127,149,1969)
+#REFERENCE  Nucl.Phys.A 127 (1969) 149 (doi:10.1016/0375-9474(69)90774-X)
+#DATASETS   0
+#
+#DATASET    20066004 
+#DATE       20190909
+#REACTION   90-TH-232(N,INL)90-TH-232,PAR,DA,,4PI
+#PROJ       1
+#TARG       90232
+#MF         4
+#MT         51
+#PRODUCT    90-TH-232
+#C4BEGIN    [    1 90232   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   4  51    1850000.          0.018303 3.1831-3-0.173648          1525000. 75000.00LVLM.Holmberg+          (69)20066  4 
+    1 90232   4  51    1900000.          0.027852 3.9789-3-0.173648          1525000. 75000.00LVLM.Holmberg+          (69)20066  4 
+    1 90232   4  51    2000000.          0.043768 4.7746-3-0.173648          1525000. 75000.00LVLM.Holmberg+          (69)20066  4 
+    1 90232   4  51    2040000.          0.055704 5.5704-3-0.173648          1525000. 75000.00LVLM.Holmberg+          (69)20066  4 
+    1 90232   4  51    2100000.          0.054113 5.5704-3-0.173648          1525000. 75000.00LVLM.Holmberg+          (69)20066  4 
+    1 90232   4  51    2200000.          0.080373 7.9577-3-0.173648          1525000. 75000.00LVLM.Holmberg+          (69)20066  4 
+#/DATA      6
+#/DATASET

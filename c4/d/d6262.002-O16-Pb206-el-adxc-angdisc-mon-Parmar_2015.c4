@@ -1,0 +1,40 @@
+#ENTRY      D6262
+#AUTHOR1    A.Parmar+
+#YEAR       2015
+#INSTITUTE  (3INDTRM)
+#TITLE      Understanding the two neutron transfer reaction
+#+          mechanism in 206Pb(18O,16O)208Pb
+#AUTHOR(S)  A.Parmar, Sonika, B.J.Roy, V.Jha, U.K.Pal, T.Sinha, S.K.Pandit, 
+#+          V.V.Parkar, K.Ramachandran, K.Mahata, S.Santra, A.K.Mohanty
+#REF-CODE   (J,NP/A,940,167,2015)
+#REFERENCE  Nucl.Phys.A 940 (2015) 167 (doi:10.1016/j.nuclphysa.2015.04.004)
+#DATASETS   0
+#
+#DATASET    D6262002 
+#DATE       20170307
+#REACTION   82-PB-206(8-O-16,EL)82-PB-206,,DA,,RTH
+#PROJ       8016
+#TARG       82206
+#MF         4
+#MT         2
+#PRODUCT    82-PB-206
+#C4BEGIN    [ 8016 82206   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 82206   4   2  C 7.9000+7          0.415104          6.123-17                              A.Parmar+            (15)D6262  2 
+ 8016 82206   4   2  C 7.9000+7          0.226297         -0.339395                              A.Parmar+            (15)D6262  2 
+ 8016 82206   4   2  C 7.9000+7          0.182120         -0.493031                              A.Parmar+            (15)D6262  2 
+ 8016 82206   4   2  C 7.9000+7          0.178162         -0.564103                              A.Parmar+            (15)D6262  2 
+ 8016 82206   4   2  C 7.9000+7          0.147521         -0.630676                              A.Parmar+            (15)D6262  2 
+ 8016 82206   4   2  C 7.9000+7          0.139524         -0.692647                              A.Parmar+            (15)D6262  2 
+ 8016 82206   4   2  C 7.9000+7          0.118002         -0.749418                              A.Parmar+            (15)D6262  2 
+ 8016 82206   4   2  C 7.9000+7          0.113266         -0.800940                              A.Parmar+            (15)D6262  2 
+ 8016 82206   4   2  C 7.9000+7          0.090181         -0.846844                              A.Parmar+            (15)D6262  2 
+ 8016 82206   4   2  C 7.9000+7          0.082419         -0.887011                              A.Parmar+            (15)D6262  2 
+ 8016 82206   4   2  C 7.9000+7          0.074329         -0.921321                              A.Parmar+            (15)D6262  2 
+ 8016 82206   4   2  C 7.9000+7          0.062585         -0.949480                              A.Parmar+            (15)D6262  2 
+ 8016 82206   4   2  C 7.9000+7          0.057348         -0.971549                              A.Parmar+            (15)D6262  2 
+ 8016 82206   4   2  C 7.9000+7          0.056756         -0.987331                              A.Parmar+            (15)D6262  2 
+#/DATA      14
+#/DATASET

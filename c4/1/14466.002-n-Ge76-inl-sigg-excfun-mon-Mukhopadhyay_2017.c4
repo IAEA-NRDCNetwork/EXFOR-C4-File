@@ -1,0 +1,61 @@
+#ENTRY      14466
+#AUTHOR1    S.Mukhopadhyay+
+#YEAR       2017
+#INSTITUTE  (1USAKTY)
+#TITLE      Nuclear structure of 76Ge from inelastic neutron
+#+          scattering measurements and shell model calculations
+#AUTHOR(S)  S.Mukhopadhyay, B.P.Crider, B.A.Brown, S.F.Ashley, A.Chakraborty, 
+#+          A.Kumar, M.T.McEllistrem, E.E.Peters, F.M.Prados-Estevez, 
+#+          S.W.Yates
+#REF-CODE   (J,PR/C,95,014327,2017)
+#REFERENCE  Phys.Rev.C 95 (2017) 014327 (doi:10.1103/PhysRevC.95.014327)
+#DATASETS   0
+#
+#DATASET    14466002 
+#DATE       20170208
+#REACTION   32-GE-76(N,INL)32-GE-76,PAR,SIG,G
+#PROJ       1
+#TARG       32076
+#MF         13
+#MT         51
+#PRODUCT    32-GE-76
+#C4BEGIN    [    1 32076  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32076  13  51    2800000.          0.011491 7.6210-4                   2697300.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    2900000.          0.017315 9.2359-4                   2697300.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    3000000.          0.019282 8.5408-4                   2697300.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    3100000.          0.020550 9.2415-4                   2697300.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    3200000.          0.020882 9.5102-4                   2697300.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    3300000.          0.020158 1.0427-3                   2697300.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    3400000.          0.020512 1.0176-3                   2697300.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    3500000.          0.021276 1.1595-3                   2697300.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    3600000.          0.020271 1.3320-3                   2697300.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    3700000.          0.016408 1.2211-3                   2697300.            S.Mukhopadhyay+      (17)14466  2 
+#/DATA      10
+#/DATASET
+#
+#DATASET    14466002 
+#DATE       20170208
+#REACTION   32-GE-76(N,INL)32-GE-76,PAR,SIG,G
+#PROJ       1
+#TARG       32076
+#MF         13
+#MT         51
+#PRODUCT    32-GE-76
+#C4BEGIN    [    1 32076  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32076  13  51    2800000.          0.010848 7.0921-4                   2747800.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    2900000.          0.029803 1.1569-3                   2747800.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    3000000.          0.039757 1.2009-3                   2747800.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    3100000.          0.047047 1.3586-3                   2747800.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    3200000.          0.049990 1.5511-3                   2747800.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    3300000.          0.053365 1.8795-3                   2747800.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    3400000.          0.054430 2.1086-3                   2747800.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    3500000.          0.049490 1.9181-3                   2747800.            S.Mukhopadhyay+      (17)14466  2 
+    1 32076  13  51    3600000.          0.051163 2.4861-3                   2747800.            S.Mukhopadhyay+      (17)14466  2 
+#/DATA      9
+#/DATASET

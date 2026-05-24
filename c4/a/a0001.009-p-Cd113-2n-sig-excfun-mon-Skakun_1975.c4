@@ -1,0 +1,32 @@
+#ENTRY      A0001
+#AUTHOR1    E.A.Skakun+
+#YEAR       1975
+#INSTITUTE  (4UKRKFT)
+#TITLE      Excitation functions of (p,n)- and (p,2n)-reactions
+#+          on cadmium isotopes
+#AUTHOR(S)  E.A.Skakun, A.P.Klyucharev, Yu.N.Rakivnenko, I.A.Romanii
+#REF-CODE   (J,BAS,39,(1),18,1975)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 39 No.1 (1975) 18
+#DATASETS   0
+#
+#DATASET    A0001009 
+#DATE       20160207
+#REACTION   48-CD-113(P,2N)49-IN-112,,SIG
+#PROJ       1001
+#TARG       48113
+#MF         3
+#MT         16
+#PRODUCT    49-IN-112
+#C4BEGIN    [ 1001 48113   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 48113   3  16 A  1.2500+7          0.423000 0.126900                                       E.A.Skakun+          (75)A0001  9 
+ 1001 48113   3  16 A  1.4000+7          0.755000 0.226500                                       E.A.Skakun+          (75)A0001  9 
+ 1001 48113   3  16 A  1.5600+7          0.910000 0.273000                                       E.A.Skakun+          (75)A0001  9 
+ 1001 48113   3  16 A  1.7000+7          1.105000 0.331500                                       E.A.Skakun+          (75)A0001  9 
+ 1001 48113   3  16 A  1.8300+7          1.056000 0.316800                                       E.A.Skakun+          (75)A0001  9 
+ 1001 48113   3  16 A  1.9700+7          0.984000 0.295200                                       E.A.Skakun+          (75)A0001  9 
+ 1001 48113   3  16 A  2.0900+7          0.917000 0.275100                                       E.A.Skakun+          (75)A0001  9 
+#/DATA      7
+#/DATASET

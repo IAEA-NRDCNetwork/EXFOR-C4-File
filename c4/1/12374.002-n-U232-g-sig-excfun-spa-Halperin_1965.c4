@@ -1,0 +1,26 @@
+#ENTRY      12374
+#AUTHOR1    J.Halperin+
+#YEAR       1965
+#INSTITUTE  (1USAORL)
+#TITLE      The thermal capture cross section and resonance
+#+          integral of uranium-232.
+#AUTHOR(S)  J.Halperin, C.R.Baldock, J.H.Oliver
+#REF-CODE   (J,NSE,21,257,1965)
+#REFERENCE  Nucl.Sci.Eng. 21 (1965) 257 (doi:10.13182/NSE65-A21050)
+#DATASETS   0
+#
+#DATASET    12374002 
+#DATE       20120521
+#REACTION   92-U-232(N,G)92-U-233,,SIG,,SPA
+#PROJ       1
+#TARG       92232
+#MF         3
+#MT         102
+#PRODUCT    92-U-233
+#C4BEGIN    [    1 92232   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92232   3 102    0.025300          106.0000 4.000000                                       J.Halperin+          (65)12374  2 
+#/DATA      1
+#/DATASET

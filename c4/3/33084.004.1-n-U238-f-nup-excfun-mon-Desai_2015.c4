@@ -1,0 +1,27 @@
+#ENTRY      33084
+#AUTHOR1    V.V.Desai+
+#YEAR       2015
+#INSTITUTE  (3INDTRM)
+#TITLE      Prompt fission neutron spectra in
+#+          fast-neutron-induced fission of 238U
+#AUTHOR(S)  V.V.Desai, B.K.Nayak, A.Saxena, S.V.Suryanarayana, R.Capote
+#REF-CODE   (J,PR/C,92,014609,2015)
+#REFERENCE  Phys.Rev.C 92 (2015) 014609 (doi:10.1103/PhysRevC.92.014609)
+#DATASETS   0
+#
+#DATASET    330840041
+#DATE       20160525
+#REACTION   92-U-238(N,F),PR,NU
+#PROJ       1
+#TARG       92238
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92238   1 456 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   1 456 C  2000000.          2.590000 0.025000                                       V.V.Desai+           (15)33084  41
+    1 92238   1 456 C  2500000.          2.620000 0.025000                                       V.V.Desai+           (15)33084  41
+    1 92238   1 456 C  3000000.          2.620000 0.025000                                       V.V.Desai+           (15)33084  41
+#/DATA      3
+#/DATASET

@@ -1,0 +1,51 @@
+#ENTRY      E2604
+#AUTHOR1    J.Chen+
+#YEAR       2018
+#INSTITUTE  (3CPRBJG)
+#TITLE      Low-lying states in 12Be using one-neutron transfer
+#+          reaction
+#AUTHOR(S)  J.Chen, J.L.Lou, Y.L.Ye, Z.H.Li, D.Y.Pang, C.X.Yuan, Y.C.Ge, 
+#+          Q.T.Li, H.Hua, D.X.Jiang, X.F.Yang, F.R.Xu, J.C.Pei, J.Li, 
+#+          W.Jiang, Y.L.Sun, H.L.Zang, Y.Zhang, G.Li, N.Aoi, E.Ideguchi, 
+#+          H.J.Ong, J.Lee, J.Wu, H.N.Liu, C.Wen, Y.Ayyad, K.Hatanaka, 
+#+          D.T.Tran, T.Yamamoto, M.Tanaka, T.Suzuki
+#REF-CODE   (J,PR/C,98,014616,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 014616 (doi:10.1103/PhysRevC.98.014616)
+#DATASETS   0
+#
+#DATASET    E2604004 
+#DATE       20191216
+#REACTION   (1-H-2(4-BE-11,P)4-BE-12,PAR,DA,RSD)=(4-BE-11(D,P)4-BE-12,PAR,DA)
+#PROJ       1002
+#TARG       4011
+#MF         4
+#MT         600
+#PRODUCT    4-BE-12
+#C4BEGIN    [ 1002  4011   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4011   4 600  C 5.3800+7          1.6200-4 7.2800-5 0.959389          0.000000         LVLJ.Chen+              (18)E2604  4 
+ 1002  4011   4 600  C 5.3800+7          3.0859-4 8.1290-5 0.977439          0.000000         LVLJ.Chen+              (18)E2604  4 
+ 1002  4011   4 600  C 5.3800+7          4.1836-4 9.5590-5 0.989355          0.000000         LVLJ.Chen+              (18)E2604  4 
+ 1002  4011   4 600  C 5.3800+7          7.8235-4 1.9424-4 0.996335          0.000000         LVLJ.Chen+              (18)E2604  4 
+#/DATA      4
+#/DATASET
+#
+#DATASET    E2604004 
+#DATE       20191216
+#REACTION   (1-H-2(4-BE-11,P)4-BE-12,PAR,DA,RSD)=(4-BE-11(D,P)4-BE-12,PAR,DA)
+#PROJ       1002
+#TARG       4011
+#MF         4
+#MT         600
+#PRODUCT    4-BE-12
+#C4BEGIN    [ 1002  4011   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4011   4 600  C 5.3800+7          2.2623-4 1.1355-4 0.979560          2251000.         LVLJ.Chen+              (18)E2604  4 
+ 1002  4011   4 600  C 5.3800+7          3.7914-4 1.5567-4 0.990440          2251000.         LVLJ.Chen+              (18)E2604  4 
+ 1002  4011   4 600  C 5.3800+7          3.9694-4 2.2992-4 0.996666          2251000.         LVLJ.Chen+              (18)E2604  4 
+#/DATA      3
+#/DATASET

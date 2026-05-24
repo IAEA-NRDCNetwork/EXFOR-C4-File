@@ -1,0 +1,27 @@
+#ENTRY      F1212
+#AUTHOR1    V.V.Kuznetsov+
+#YEAR       1961
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Production of tritium in lead and aluminium by high
+#+          energy protons, deuterons and alpha-particles.
+#AUTHOR(S)  V.V.Kuznetsov
+#REF-CODE   (J,ZET,40,(5),1263,1961)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 40 No.5 (1961) 1263
+#DATASETS   0
+#
+#DATASET    F1212011 
+#DATE       20140818
+#REACTION   82-PB-0(D,X)1-H-3,,SIG
+#PROJ       1002
+#TARG       82000
+#MF         3
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002 82000   3 205 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 82000   3 205 D  2.7000+8          0.083600 0.014600                                       V.V.Kuznetsov        (61)F1212 11 
+ 1002 82000   3 205 D  3.9000+8          0.087300 0.015900                                       V.V.Kuznetsov        (61)F1212 11 
+#/DATA      2
+#/DATASET

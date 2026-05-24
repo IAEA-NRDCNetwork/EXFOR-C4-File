@@ -1,0 +1,37 @@
+#ENTRY      C0358
+#AUTHOR1    D.Logan+
+#YEAR       1980
+#INSTITUTE  (1USACAR)
+#TITLE      Light-charged-particle emission in 40Ar-induced
+#+          reactions: A probe of the very early evolution of the
+#+          collisions
+#AUTHOR(S)  D.Logan, H.Delagrange, M.F.Rivet, M.Rajagopalan, J.M.Alexander, 
+#+          M.Kaplan, M.S.Zisman, E.Duek, L.Kowalski
+#REF-CODE   (J,PR/C,22,1080,1980)
+#REFERENCE  Phys.Rev.C 22 (1980) 1080 (doi:10.1103/PhysRevC.22.1080)
+#DATASETS   0
+#
+#DATASET    C0358024 
+#DATE       20170308
+#REACTION   62-SM-154(18-AR-40,X)2-HE-4,,DA
+#PROJ       18040
+#TARG       62154
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [18040 62154   4 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 62154   4 207  C 2.2200+8          0.038440          0.879516                              D.Logan+             (80)C0358 24 
+18040 62154   4 207  C 2.2200+8          0.024220          0.731366                              D.Logan+             (80)C0358 24 
+18040 62154   4 207  C 2.2200+8          0.019520          0.620778                              D.Logan+             (80)C0358 24 
+18040 62154   4 207  C 2.2200+8          0.013280          0.476284                              D.Logan+             (80)C0358 24 
+18040 62154   4 207  C 2.2200+8          7.1670-3          0.021309                              D.Logan+             (80)C0358 24 
+18040 62154   4 207  C 2.2200+8          7.2730-3         -0.083365                              D.Logan+             (80)C0358 24 
+18040 62154   4 207  C 2.2200+8          5.5970-3         -0.231765                              D.Logan+             (80)C0358 24 
+18040 62154   4 207  C 2.2200+8          6.1250-3         -0.579523                              D.Logan+             (80)C0358 24 
+18040 62154   4 207  C 2.2200+8          5.8450-3         -0.687202                              D.Logan+             (80)C0358 24 
+18040 62154   4 207  C 2.2200+8          6.0230-3         -0.774371                              D.Logan+             (80)C0358 24 
+#/DATA      10
+#/DATASET

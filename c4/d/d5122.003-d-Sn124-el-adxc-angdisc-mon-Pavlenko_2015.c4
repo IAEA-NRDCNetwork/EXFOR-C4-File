@@ -1,0 +1,38 @@
+#ENTRY      D5122
+#AUTHOR1    Yu.N.Pavlenko+
+#YEAR       2015
+#INSTITUTE  (4UKRIJD)
+#TITLE      Deuteron interaction with 124Sn nuclei at sub-barrier
+#+          energies
+#AUTHOR(S)  Yu.N.Pavlenko, V.P.Verbytskyi, O.I.Rundel, O.V.Babak, O.K.Gorpinich, 
+#+          V.V.Ostashko, Yu.Ya.Karlyshev, O.D.Grygorenko, T.A.Korzina, 
+#+          A.V.Stepaniuk, I.P.Dryapachenko, E.M.Mozhzhukhin
+#REF-CODE   (J,YFE,16,(1),15,2015)
+#REFERENCE  Yad.Fiz.Energetika 16 No.1 (2015) 15 (doi:10.15407/jnpae2015.01.015)
+#DATASETS   0
+#
+#DATASET    D5122003 
+#DATE       20160630
+#REACTION   50-SN-124(D,EL)50-SN-124,,DA,,RTH
+#PROJ       1002
+#TARG       50124
+#MF         4
+#MT         2
+#PRODUCT    50-SN-124
+#C4BEGIN    [ 1002 50124   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50124   4   2  C 5000000.          9.242754 0.087736 0.759233                              Yu.N.Pavlenko+       (15)D5122  3 
+ 1002 50124   4   2  C 5000000.          3.893032 0.032762 0.633943                              Yu.N.Pavlenko+       (15)D5122  3 
+ 1002 50124   4   2  C 5000000.          1.976969 0.016815 0.489041                              Yu.N.Pavlenko+       (15)D5122  3 
+ 1002 50124   4   2  C 5000000.          1.167242 9.8491-3 0.332375                              Yu.N.Pavlenko+       (15)D5122  3 
+ 1002 50124   4   2  C 5000000.          0.737528 6.6208-3 0.166092                              Yu.N.Pavlenko+       (15)D5122  3 
+ 1002 50124   4   2  C 5000000.          0.501579 4.0728-3-0.012573                              Yu.N.Pavlenko+       (15)D5122  3 
+ 1002 50124   4   2  C 5000000.          0.360729 3.2873-3-0.183454                              Yu.N.Pavlenko+       (15)D5122  3 
+ 1002 50124   4   2  C 5000000.          0.268701 2.4007-3-0.352271                              Yu.N.Pavlenko+       (15)D5122  3 
+ 1002 50124   4   2  C 5000000.          0.228729 1.9310-3-0.507789                              Yu.N.Pavlenko+       (15)D5122  3 
+ 1002 50124   4   2  C 5000000.          0.165764 1.4071-3-0.766317                              Yu.N.Pavlenko+       (15)D5122  3 
+ 1002 50124   4   2  C 5000000.          0.132117 1.4662-3-0.939291                              Yu.N.Pavlenko+       (15)D5122  3 
+#/DATA      11
+#/DATASET

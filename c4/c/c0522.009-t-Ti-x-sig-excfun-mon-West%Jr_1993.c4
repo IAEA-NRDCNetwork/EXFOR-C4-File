@@ -1,0 +1,43 @@
+#ENTRY      C0522
+#AUTHOR1    H.I.West Jr+
+#YEAR       1993
+#INSTITUTE  (1USALRL)
+#TITLE      Excitation Functions for the Nuclear Reactions on
+#+          Titanium Leading to the Production of 48V, 44Sc, and
+#+          47Sc, by Proton, Deuteron and Triton Irradiations at
+#+          0-35 MeV
+#AUTHOR(S)  H.I.West Jr, R.G.Lanier, M.G.Mustafa
+#REF-CODE   (R,UCRL-ID-115738,(3),1,199311)
+#REFERENCE  Report UCRL-ID-115738 Vol.(3) page 1, 1993
+#DATASETS   0
+#
+#DATASET    C0522009 
+#DATE       20110601
+#REACTION   22-TI-0(T,X)23-V-48,,SIG
+#PROJ       1003
+#TARG       22000
+#MF         3
+#MT         454
+#PRODUCT    23-V-48
+#C4BEGIN    [ 1003 22000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 22000   3 454    1670000.          1.0000-5 1.0000-6           23048.9                     H.I.West Jr+         (93)C0522  9 
+ 1003 22000   3 454    2030000.          1.5500-4 2.3000-5           23048.9                     H.I.West Jr+         (93)C0522  9 
+ 1003 22000   3 454    2210000.          1.9900-4 1.0000-5           23048.9                     H.I.West Jr+         (93)C0522  9 
+ 1003 22000   3 454    2730000.          1.0500-3 4.0000-5           23048.9                     H.I.West Jr+         (93)C0522  9 
+ 1003 22000   3 454    3250000.          4.0100-3 1.3000-4           23048.9                     H.I.West Jr+         (93)C0522  9 
+ 1003 22000   3 454    3770000.          8.4600-3 2.6000-4           23048.9                     H.I.West Jr+         (93)C0522  9 
+ 1003 22000   3 454    4590000.          0.016500 5.0000-4           23048.9                     H.I.West Jr+         (93)C0522  9 
+ 1003 22000   3 454    6620000.          0.031400 1.0000-3           23048.9                     H.I.West Jr+         (93)C0522  9 
+ 1003 22000   3 454    8130000.          0.037300 1.1000-3           23048.9                     H.I.West Jr+         (93)C0522  9 
+ 1003 22000   3 454    9500000.          0.040500 1.2000-3           23048.9                     H.I.West Jr+         (93)C0522  9 
+ 1003 22000   3 454    1.0910+7          0.042800 1.3000-3           23048.9                     H.I.West Jr+         (93)C0522  9 
+ 1003 22000   3 454    1.2450+7          0.041900 1.3000-3           23048.9                     H.I.West Jr+         (93)C0522  9 
+ 1003 22000   3 454    1.3880+7          0.040400 1.3000-3           23048.9                     H.I.West Jr+         (93)C0522  9 
+ 1003 22000   3 454    1.5320+7          0.037700 1.2000-3           23048.9                     H.I.West Jr+         (93)C0522  9 
+ 1003 22000   3 454    1.6540+7          0.033900 1.3000-3           23048.9                     H.I.West Jr+         (93)C0522  9 
+ 1003 22000   3 454    1.7710+7          0.029400 1.8000-3           23048.9                     H.I.West Jr+         (93)C0522  9 
+#/DATA      16
+#/DATASET

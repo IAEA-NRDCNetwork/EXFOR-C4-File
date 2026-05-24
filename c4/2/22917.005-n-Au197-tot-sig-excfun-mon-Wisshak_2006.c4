@@ -1,0 +1,33 @@
+#ENTRY      22917
+#AUTHOR1    K.Wisshak+
+#YEAR       2006
+#INSTITUTE  (2GERKFK)
+#TITLE      .Stellar neutron capture cross sections of the Lu-
+#+          isotopes.
+#AUTHOR(S)  K.Wisshak, F.Voss, F.Kaeppeler, L.Kazakov
+#REF-CODE   (J,PR/C,73,015807,2006)
+#REFERENCE  Phys.Rev.C 73 (2006) 015807 (doi:10.1103/PhysRevC.73.015807)
+#DATASETS   0
+#
+#DATASET    22917005 
+#DATE       20160503
+#REACTION   79-AU-197(N,TOT),,SIG,,AV
+#PROJ       1
+#TARG       79197
+#MF         3
+#MT         1
+#C4BEGIN    [    1 79197   3   1 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   3   1 C  12500.00 2500.000 13.10000 1.572000                                       K.Wisshak+           (06)22917  5 
+    1 79197   3   1 C  17500.00 2500.000 13.60000 1.632000                                       K.Wisshak+           (06)22917  5 
+    1 79197   3   1 C  25000.00 5000.000 13.70000 1.644000                                       K.Wisshak+           (06)22917  5 
+    1 79197   3   1 C  35000.00 5000.000 11.90000 1.428000                                       K.Wisshak+           (06)22917  5 
+    1 79197   3   1 C  50000.00 10000.00 12.10000 1.452000                                       K.Wisshak+           (06)22917  5 
+    1 79197   3   1 C  70000.00 10000.00 11.30000 1.356000                                       K.Wisshak+           (06)22917  5 
+    1 79197   3   1 C  90000.00 10000.00 10.60000 1.272000                                       K.Wisshak+           (06)22917  5 
+    1 79197   3   1 C  125000.0 25000.00 8.300000 0.996000                                       K.Wisshak+           (06)22917  5 
+    1 79197   3   1 C  175000.0 25000.00 7.400000 0.888000                                       K.Wisshak+           (06)22917  5 
+#/DATA      9
+#/DATASET

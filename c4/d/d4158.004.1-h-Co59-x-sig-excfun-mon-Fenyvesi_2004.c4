@@ -1,0 +1,30 @@
+#ENTRY      D4158
+#AUTHOR1    A.Fenyvesi+
+#YEAR       2004
+#INSTITUTE  (3HUNDEB)
+#TITLE      Excitation functions of nuclear reactions induced by
+#+          HE3-particles in cobalt
+#AUTHOR(S)  A.Fenyvesi, F.Tarkanyi, S.J.Heselius
+#REF-CODE   (J,NIM/B,222,355,2004)
+#REFERENCE  Nucl.Instrum.Meth.B 222 (2004) 355 (doi:10.1016/j.nimb.2004.03.008)
+#DATASETS   0
+#
+#DATASET    D41580041
+#DATE       20051117
+#REACTION   27-CO-59(HE3,X)27-CO-60,,SIG,,,EXP
+#PROJ       2003
+#TARG       27059
+#MF         3
+#MT         454
+#PRODUCT    27-CO-60
+#C4BEGIN    [ 2003 27059   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 27059   3 454    1.2100+7 1000000. 0.031600 5.0000-3           27060.9                     A.Fenyvesi+          (04)D4158  41
+ 2003 27059   3 454    1.5400+7 900000.0 0.063100 8.3000-3           27060.9                     A.Fenyvesi+          (04)D4158  41
+ 2003 27059   3 454    1.8200+7 700000.0 0.074700 9.4000-3           27060.9                     A.Fenyvesi+          (04)D4158  41
+ 2003 27059   3 454    2.0500+7 700000.0 0.081500 0.010100           27060.9                     A.Fenyvesi+          (04)D4158  41
+ 2003 27059   3 454    2.2700+7 600000.0 0.083000 0.010800           27060.9                     A.Fenyvesi+          (04)D4158  41
+#/DATA      5
+#/DATASET

@@ -1,0 +1,39 @@
+#ENTRY      E1131
+#AUTHOR1    M.Fujiwara+
+#YEAR       1987
+#INSTITUTE  (2JPNOSA)
+#TITLE      Low energy octupole resonance in 46Ti studied by
+#+          inelastic proton scattering at 65 MeV
+#AUTHOR(S)  M.Fujiwara, S.Morinobu, M.Tosaki, H.Ito, I.Katayama, H.Ikegami, 
+#+          S.I.Hayakawa, N.Ikeda, H.Ohsumi, A.Higashi, K.Katori
+#REF-CODE   (J,PR/C,35,(4),1257,198704)
+#REFERENCE  Phys.Rev.C 35 No.4 (1987) 1257 (doi:10.1103/PhysRevC.35.1257)
+#DATASETS   0
+#
+#DATASET    E1131018 
+#DATE       20061228
+#REACTION   22-TI-46(P,INL)22-TI-46,PAR,DA
+#PROJ       1001
+#TARG       22046
+#MF         4
+#MT         601
+#PRODUCT    22-TI-46
+#C4BEGIN    [ 1001 22046   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22046   4 601  C 6.5000+7          7.1500-6 4.2100-6 0.977046          3436000. 6000.000LVLM.Fujiwara+          (87)E1131 18 
+ 1001 22046   4 601  C 6.5000+7          1.3840-5 4.5000-6 0.969016          3436000. 6000.000LVLM.Fujiwara+          (87)E1131 18 
+ 1001 22046   4 601  C 6.5000+7          1.2600-5 2.7800-6 0.959314          3436000. 6000.000LVLM.Fujiwara+          (87)E1131 18 
+ 1001 22046   4 601  C 6.5000+7          1.4450-5 2.5600-6 0.948876          3436000. 6000.000LVLM.Fujiwara+          (87)E1131 18 
+ 1001 22046   4 601  C 6.5000+7          1.7510-5 2.2900-6 0.936672          3436000. 6000.000LVLM.Fujiwara+          (87)E1131 18 
+ 1001 22046   4 601  C 6.5000+7          1.2440-5 1.7700-6 0.923880          3436000. 6000.000LVLM.Fujiwara+          (87)E1131 18 
+ 1001 22046   4 601  C 6.5000+7          1.2780-5 1.7300-6 0.909236          3436000. 6000.000LVLM.Fujiwara+          (87)E1131 18 
+ 1001 22046   4 601  C 6.5000+7          9.5130-6 1.6000-6 0.894154          3436000. 6000.000LVLM.Fujiwara+          (87)E1131 18 
+ 1001 22046   4 601  C 6.5000+7          8.9210-6 1.5200-6 0.868632          3436000. 6000.000LVLM.Fujiwara+          (87)E1131 18 
+ 1001 22046   4 601  C 6.5000+7          9.5370-6 1.3400-6 0.841511          3436000. 6000.000LVLM.Fujiwara+          (87)E1131 18 
+ 1001 22046   4 601  C 6.5000+7          7.5470-6 1.0600-6 0.811064          3436000. 6000.000LVLM.Fujiwara+          (87)E1131 18 
+ 1001 22046   4 601  C 6.5000+7          7.6800-6 2.4500-6 0.707107          3436000. 6000.000LVLM.Fujiwara+          (87)E1131 18 
+ 1001 22046   4 601  C 6.5000+7          5.4400-6 1.2300-6 0.669131          3436000. 6000.000LVLM.Fujiwara+          (87)E1131 18 
+#/DATA      13
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      A0604
+#AUTHOR1    A.Auce+
+#YEAR       1996
+#INSTITUTE  (2SWDUPP)
+#TITLE      Reaction cross sections for 38, 65, and 97 MeV
+#+          deuterons on targets from 9-Be to 208-Pb
+#AUTHOR(S)  A.Auce, R.F.Carlson, A.J.Cox, A.Ingemarsson, R.Johansson, 
+#+          P.U.Renberg, O.Sundberg, G.Tibell
+#REF-CODE   (J,PR/C,53,2919,1996)
+#REFERENCE  Phys.Rev.C 53 (1996) 2919 (doi:10.1103/PhysRevC.53.2919)
+#DATASETS   0
+#
+#DATASET    A0604014 
+#DATE       20220810
+#REACTION   82-PB-208(D,NON),,SIG
+#PROJ       1002
+#TARG       82208
+#MF         3
+#MT         3
+#C4BEGIN    [ 1002 82208   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 82208   3   3    3.7900+7 200000.0 2.844000 0.142000                                       A.Auce+              (96)A0604 14 
+ 1002 82208   3   3    6.5500+7 500000.0 3.049000 0.071000                                       A.Auce+              (96)A0604 14 
+ 1002 82208   3   3    9.7400+7 300000.0 3.250000 0.082000                                       A.Auce+              (96)A0604 14 
+#/DATA      3
+#/DATASET

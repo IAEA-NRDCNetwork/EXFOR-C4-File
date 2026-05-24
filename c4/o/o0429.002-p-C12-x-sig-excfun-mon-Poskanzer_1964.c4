@@ -1,0 +1,25 @@
+#ENTRY      O0429
+#AUTHOR1    A.M.Poskanzer+
+#YEAR       1964
+#INSTITUTE  (1USABNL)
+#TITLE      C-12(p,pn)C-11 cross section at 1.0 GeV.
+#AUTHOR(S)  A.M.Poskanzer, L.P.Remsberg, S.Katcoff, J.B.Cumming
+#REF-CODE   (J,PR,133,B1507,1964)
+#REFERENCE  Phys.Rev. 133 (1964) B1507 (doi:10.1103/PhysRev.133.B1507)
+#DATASETS   0
+#
+#DATASET    O0429002 
+#DATE       20040701
+#REACTION   6-C-12(P,X)6-C-11,,SIG
+#PROJ       1001
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   3 454    1.0000+9 5.0000+7 0.029000 1.3000-3            6011.9                     A.M.Poskanzer+       (64)O0429  2 
+#/DATA      1
+#/DATASET

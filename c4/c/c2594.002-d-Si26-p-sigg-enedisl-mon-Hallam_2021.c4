@@ -1,0 +1,41 @@
+#ENTRY      C2594
+#AUTHOR1    S.Hallam+
+#YEAR       2021
+#INSTITUTE  (2UK SUR)
+#TITLE      Exploiting Isospin Symmetry to Study the Role of
+#+          Isomers in Stellar Environments
+#AUTHOR(S)  S.Hallam, G.Lotay, A.Gade, D.T.Doherty, J.Belarge, P.C.Bender, 
+#+          B.A.Brown, J.Browne, W.N.Catford, B.Elman, A.Estrade, M.R.Hall, 
+#+          B.Longfellow, E.Lunderberg, F.Montes, M.Moukaddam, P.O'Malley, 
+#+          W.-J.Ong, H.Schatz, D.Seweryniak, K.Schmidt, N.K.Timofeyuk, 
+#+          D.Weisshaar, R.G.T.Zegers
+#REF-CODE   (J,PRL,126,042701,2021)
+#REFERENCE  Phys.Rev.Lett. 126 (2021) 042701 (doi:10.1103/PhysRevLett.126.042701)
+#DATASETS   0
+#
+#DATASET    C2594002 
+#DATE       20210318
+#REACTION   (1-H-2(14-SI-26,P)14-SI-27,PAR,SIG,G)=(14-SI-26(D,P)14-SI-27,PAR,SIG,G)
+#PROJ       1002
+#TARG       14026
+#MF         13
+#MT         600
+#PRODUCT    14-SI-27
+#C4BEGIN    [ 1002 14026  13 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14026  13 600    6.0000+7          7.8000-4 1.7000-4                   781000.0            S.Hallam+            (21)C2594  2 
+ 1002 14026  13 600    6.0000+7          6.1000-4 1.4000-4                   957000.0            S.Hallam+            (21)C2594  2 
+ 1002 14026  13 600    6.0000+7          3.0000-4 9.0000-5                   1690000.            S.Hallam+            (21)C2594  2 
+ 1002 14026  13 600    6.0000+7          4.4000-4 1.1000-4                   2163000.            S.Hallam+            (21)C2594  2 
+ 1002 14026  13 600    6.0000+7          1.7900-3 3.9000-4                   2866000.            S.Hallam+            (21)C2594  2 
+ 1002 14026  13 600    6.0000+7          3.8000-4 1.4000-4                   3328000.            S.Hallam+            (21)C2594  2 
+ 1002 14026  13 600    6.0000+7          2.8500-3 6.5000-4                   3671000.            S.Hallam+            (21)C2594  2 
+ 1002 14026  13 600    6.0000+7          4.9100-4 1.3000-4                   4893000.            S.Hallam+            (21)C2594  2 
+ 1002 14026  13 600    6.0000+7          1.7000-4 8.0000-5                   5246000.            S.Hallam+            (21)C2594  2 
+ 1002 14026  13 600    6.0000+7          2.0000-4 6.0000-5                   5629000.            S.Hallam+            (21)C2594  2 
+ 1002 14026  13 600    6.0000+7          5.5000-4 2.0000-4                   5778000.            S.Hallam+            (21)C2594  2 
+ 1002 14026  13 600    6.0000+7          1.6000-4 6.0000-5                   7262000.            S.Hallam+            (21)C2594  2 
+#/DATA      12
+#/DATASET

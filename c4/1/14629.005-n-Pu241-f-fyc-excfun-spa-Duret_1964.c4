@@ -1,0 +1,26 @@
+#ENTRY      14629
+#AUTHOR1    M.F.Duret+
+#YEAR       1964
+#INSTITUTE  (1CANCRC)
+#TITLE      Fuel burn-up and reactivity changes
+#AUTHOR(S)  M.F.Duret, R.W.Durham, M.Lounsbury, A.Okazaki, W.H.Walker, 
+#+          A.G.Ward, L.Pease
+#REF-CODE   (C,64GENEVA,3,347,1964)
+#REFERENCE  Proceedings of Third Internat. At.En. Conf., Geneva 1964 3 page 347
+#DATASETS   0
+#
+#DATASET    14629005 
+#DATE       20200623
+#REACTION   94-PU-241(N,F)53-I-135,CUM,FY,,SPA
+#PROJ       1
+#TARG       94241
+#MF         8
+#MT         459
+#PRODUCT    53-I-135
+#C4BEGIN    [    1 94241   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94241   8 459    0.025300          0.069000          53.00000 135.0000 9.000000            M.F.Duret+           (64)14629  5 
+#/DATA      1
+#/DATASET

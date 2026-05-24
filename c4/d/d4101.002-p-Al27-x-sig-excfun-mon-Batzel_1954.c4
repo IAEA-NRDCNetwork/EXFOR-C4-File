@@ -1,0 +1,32 @@
+#ENTRY      D4101
+#AUTHOR1    R.E.Batzel+
+#YEAR       1954
+#INSTITUTE  (1USACRD)
+#TITLE      Cross sections for the formation of 22Na from aluminium
+#+          and magnesium bombarded with protons
+#AUTHOR(S)  R.E.Batzel, G.H.Coleman
+#REF-CODE   (J,PR,93,280,1954)
+#REFERENCE  Phys.Rev. 93 (1954) 280 (doi:10.1103/PhysRev.93.280)
+#DATASETS   0
+#
+#DATASET    D4101002 
+#DATE       20011211
+#REACTION   13-AL-27(P,X)11-NA-22,,SIG
+#PROJ       1001
+#TARG       13027
+#MF         3
+#MT         454
+#PRODUCT    11-NA-22
+#C4BEGIN    [ 1001 13027   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   3 454    2.5500+7          3.0000-6                    11022.9                     R.E.Batzel+          (54)D4101  2 
+ 1001 13027   3 454    2.6700+7          1.7000-5                    11022.9                     R.E.Batzel+          (54)D4101  2 
+ 1001 13027   3 454    2.7800+7          6.0000-5                    11022.9                     R.E.Batzel+          (54)D4101  2 
+ 1001 13027   3 454    2.9000+7          2.2000-4                    11022.9                     R.E.Batzel+          (54)D4101  2 
+ 1001 13027   3 454    3.0000+7          5.2000-4                    11022.9                     R.E.Batzel+          (54)D4101  2 
+ 1001 13027   3 454    3.1000+7          1.2900-3                    11022.9                     R.E.Batzel+          (54)D4101  2 
+ 1001 13027   3 454    3.2000+7          2.6300-3                    11022.9                     R.E.Batzel+          (54)D4101  2 
+#/DATA      7
+#/DATASET

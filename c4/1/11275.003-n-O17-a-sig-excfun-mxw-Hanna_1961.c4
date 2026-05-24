@@ -1,0 +1,27 @@
+#ENTRY      11275
+#AUTHOR1    G.C.Hanna+
+#YEAR       1961
+#INSTITUTE  (1CANCRC)
+#TITLE      THERMAL NEUTRON CROSS SECTIONS AND RESONANCE INTEGRALS
+#+          OF THE REACTIONS O17(N,ALPHA)C14, AR36(N,ALPHA)S33, AND
+#+          N14(N,P)C14.
+#AUTHOR(S)  G.C.Hanna, D.B.Primeau, P.R.Tunnicliffe
+#REF-CODE   (J,CJP,39,1784,61)
+#REFERENCE  Can.J.Phys. 39 (1961) 1784 (doi:10.1139/p61-201)
+#DATASETS   0
+#
+#DATASET    11275003 
+#DATE       19810428
+#REACTION   8-O-17(N,A)6-C-14,,SIG,,MXW
+#PROJ       1
+#TARG       8017
+#MF         3
+#MT         107
+#PRODUCT    6-C-14
+#C4BEGIN    [    1  8017   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8017   3 107    0.025300          0.235000 5.0000-3                                       G.C.Hanna+           (61)11275  3 
+#/DATA      1
+#/DATASET

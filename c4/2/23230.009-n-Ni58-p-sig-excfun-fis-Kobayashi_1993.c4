@@ -1,0 +1,26 @@
+#ENTRY      23230
+#AUTHOR1    K.Kobayashi+
+#YEAR       1993
+#INSTITUTE  (2JPNKTO)
+#TITLE      Measurement of 233U fission spectrum-averaged cross
+#+          sections for some threshold reactions
+#AUTHOR(S)  K.Kobayashi
+#REF-CODE   (C,93VAIL,720,1993)
+#REFERENCE  Proceedings of 8th Symposium on Reactor Dosimetry, Vail, CO, 1993
+#DATASETS   0
+#
+#DATASET    23230009 
+#DATE       20140414
+#REACTION   28-NI-58(N,P)27-CO-58,,SIG,,FIS
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         103
+#PRODUCT    27-CO-58
+#C4BEGIN    [    1 28058   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3 103    1500000.          0.101000 6.0000-3                                       K.Kobayashi          (93)23230  9 
+#/DATA      1
+#/DATASET

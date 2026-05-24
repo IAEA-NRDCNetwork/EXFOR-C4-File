@@ -1,0 +1,27 @@
+#ENTRY      O0768
+#AUTHOR1    E.Porras+
+#YEAR       2000
+#INSTITUTE  (2SPNVAL)
+#TITLE      Production rate of proton-induced isotopes in different
+#+          materials
+#AUTHOR(S)  E.Porras, F.Sanchez, V.Reglero, B.Cordier, A.J.Dean, F.Lei, 
+#+          J.M.Perez, B.M.Swinyard
+#REF-CODE   (J,NIM/B,160,73,2000)
+#REFERENCE  Nucl.Instrum.Meth.B 160 (2000) 73 (doi:10.1016/S0168-583X(99)00556-X)
+#DATASETS   0
+#
+#DATASET    O0768254 
+#DATE       20221115
+#REACTION   22-TI-0(P,X)13-AL-29,,SIG
+#PROJ       1001
+#TARG       22000
+#MF         3
+#MT         454
+#PRODUCT    13-AL-29
+#C4BEGIN    [ 1001 22000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22000   3 454    1.2000+9          4.5000-3 2.0000-4           13029.9                     E.Porras+            (00)O0768254 
+#/DATA      1
+#/DATASET

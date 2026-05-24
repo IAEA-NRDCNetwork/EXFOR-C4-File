@@ -1,0 +1,30 @@
+#ENTRY      E2456
+#AUTHOR1    S.Michimasa+
+#YEAR       2014
+#INSTITUTE  (2JPNTOK)
+#TITLE      Quadrupole collectivity in island-of-inversion nuclei
+#+          28,30Ne and 34,36Mg
+#AUTHOR(S)  S.Michimasa, Y.Yanagisawa, K.Inafuku, N.Aoi, Z.Elekes, Zs.Fueloep, 
+#+          Y.Ichikawa, N.Iwasa, K.Kurita, M.Kurokawa, T.Machida, T.Motobayashi, 
+#+          T.Nakamura, T.Nakabayashi, M.Notani, H.J.Ong, T.K.Onishi, 
+#+          H.Otsu, H.Sakurai, M.Shinohara, T.Sumikama, S.Takeuchi, 
+#+          K.Tanaka, Y.Togano, K.Yamada, M.Yamaguchi, K.Yoneda
+#REF-CODE   (J,PR/C,89,054307,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 054307 (doi:10.1103/PhysRevC.89.054307)
+#DATASETS   0
+#
+#DATASET    E24560021
+#DATE       20140916
+#REACTION   (1-H-1(10-NE-28,INL)1-H-1,PAR,SIG)=(10-NE-28(P,INL)10-NE-28,PAR,SIG)
+#PROJ       1001
+#TARG       10028
+#MF         3
+#MT         601
+#PRODUCT    10-NE-28
+#C4BEGIN    [ 1001 10028   3 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 10028   3 601    5.3500+7          0.024000 2.0000-3                   1303000.         LVLS.Michimasa+         (14)E2456  21
+#/DATA      1
+#/DATASET

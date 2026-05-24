@@ -1,0 +1,31 @@
+#ENTRY      F1435
+#AUTHOR1    V.A.Zagryadskii+
+#YEAR       2019
+#INSTITUTE  (4RUSKUR)
+#TITLE      Measurement of 82,83,84Kr(3He,xn)82Sr cross sections
+#+          in Kurchatov Institute U-150 cyclotron.
+#AUTHOR(S)  V.A.Zagryadskii, S.T.Latushkin, T.Yu.Malamut, V.I.Novikov, 
+#+          A.A.Ogloblin, V.N.Unezhev, D.Yu.Chuvilin
+#REF-CODE   (J,AE,126,272,2019)
+#REFERENCE  At.En. 126 (2019) 272
+#DATASETS   0
+#
+#DATASET    F1435004 
+#DATE       20210626
+#REACTION   36-KR-84(HE3,5N)38-SR-82,,SIG
+#PROJ       2003
+#TARG       36084
+#MF         3
+#MT         152
+#PRODUCT    38-SR-82
+#C4BEGIN    [ 2003 36084   3 152 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 36084   3 152 A  4.3000+7          0.017000 4.0000-3                                       V.A.Zagryadskii+     (19)F1435  4 
+ 2003 36084   3 152 A  4.8000+7          0.039000 8.0000-3                                       V.A.Zagryadskii+     (19)F1435  4 
+ 2003 36084   3 152 A  5.4000+7          0.066000 0.014000                                       V.A.Zagryadskii+     (19)F1435  4 
+ 2003 36084   3 152 A  6.4000+7          0.110000 0.017000                                       V.A.Zagryadskii+     (19)F1435  4 
+ 2003 36084   3 152 A  7.5000+7          0.052000 0.013000                                       V.A.Zagryadskii+     (19)F1435  4 
+#/DATA      5
+#/DATASET

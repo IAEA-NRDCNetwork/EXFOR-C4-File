@@ -1,0 +1,25 @@
+#ENTRY      13387
+#AUTHOR1    G.W.Reed+
+#YEAR       1955
+#INSTITUTE  (1USAANL)
+#TITLE      U235 thermal neutron fission Yields at masses 90 and 91
+#AUTHOR(S)  G.W.Reed
+#REF-CODE   (J,PR,98,1327,1955)
+#REFERENCE  Phys.Rev. 98 (1955) 1327 (doi:10.1103/PhysRev.98.1327)
+#DATASETS   0
+#
+#DATASET    13387003 
+#DATE       20201214
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025300          0.040200 1.1000-3 38.00000 90.00000 0.000000            G.W.Reed             (55)13387  3 
+    1 92235   8 459    0.025300          0.053500 2.1000-3 39.00000 91.00000 0.000000            G.W.Reed             (55)13387  3 
+#/DATA      2
+#/DATASET

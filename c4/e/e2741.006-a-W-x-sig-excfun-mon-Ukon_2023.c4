@@ -1,0 +1,29 @@
+#ENTRY      E2741
+#AUTHOR1    N.Ukon+
+#YEAR       2023
+#INSTITUTE  (2JPNHOK)
+#TITLE      Activation cross sections of alpha-particle-induced
+#+          reactions on natural tungsten for osmium and rhenium
+#+          radionuclides
+#AUTHOR(S)  N.Ukon, M.Aikawa, M.Saito, M.Hagiwara, H.Yashima, Y.Komori, 
+#+          H.Haba, S.Takacs, F.Ditroi, Z.Szucs
+#REF-CODE   (J,NIM/B,539,95,2023)
+#REFERENCE  Nucl.Instrum.Meth.B 539 (2023) 95 (doi:10.1016/j.nimb.2023.03.032)
+#DATASETS   0
+#
+#DATASET    E2741006 
+#DATE       20230629
+#REACTION   74-W-0(A,X)75-RE-188,,SIG
+#PROJ       2004
+#TARG       74000
+#MF         3
+#MT         454
+#PRODUCT    75-RE-188
+#C4BEGIN    [ 2004 74000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 74000   3 454    3.0200+7 400000.0 3.0700-3 4.9000-4           75188.9                     N.Ukon+              (23)E2741  6 
+ 2004 74000   3 454    2.6700+7 400000.0 8.4300-4 1.1300-4           75188.9                     N.Ukon+              (23)E2741  6 
+#/DATA      2
+#/DATASET

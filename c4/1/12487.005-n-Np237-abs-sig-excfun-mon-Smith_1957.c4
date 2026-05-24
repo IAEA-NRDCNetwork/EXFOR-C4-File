@@ -1,0 +1,25 @@
+#ENTRY      12487
+#AUTHOR1    M.S.Smith+
+#YEAR       1957
+#INSTITUTE  (1USAMTR)
+#TITLE      NEUTRON TOTAL CROSS SECTION OF NP237 FROM 0.02 TO 2.8
+#+          EV.
+#AUTHOR(S)  M.S.Smith, R.R.Smith, E.G.Joki, J.E.Evans
+#REF-CODE   (J,PR,107,525,57)
+#REFERENCE  Phys.Rev. 107 (1957) 525 (doi:10.1103/PhysRev.107.525)
+#DATASETS   0
+#
+#DATASET    12487005 
+#DATE       19830809
+#REACTION   93-NP-237(N,ABS),,SIG
+#PROJ       1
+#TARG       93237
+#MF         3
+#MT         27
+#C4BEGIN    [    1 93237   3  27  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   3  27    0.025300          170.0000 22.00000                                       M.S.Smith+           (57)12487  5 
+#/DATA      1
+#/DATASET

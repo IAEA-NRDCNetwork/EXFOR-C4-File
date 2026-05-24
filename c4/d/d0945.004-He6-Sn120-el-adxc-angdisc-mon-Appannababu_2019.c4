@@ -1,0 +1,33 @@
+#ENTRY      D0945
+#AUTHOR1    S.Appannababu+
+#YEAR       2019
+#INSTITUTE  (3BZLUSP)
+#TITLE      Two-neutron transfer in the 6He+120Sn reaction
+#AUTHOR(S)  S.Appannababu, R.Lichtenthaeler, M.A.G.Alvarez, M.Rodriguez-Gallardo, 
+#+          A.Lepine-Szily, K.C.C.Pires, O.C.B.Santos, U.U.Silva, P.N.de Faria, 
+#+          V.Guimaraes, E.O.N.Zevallos, V.Scarduelli, M.Assuncao, J.M.B.Shorto, 
+#+          A.Barioni, J.Alcantara-Nunez, V.Morcelle
+#REF-CODE   (J,PR/C,99,014601,2019)
+#REFERENCE  Phys.Rev.C 99 (2019) 014601 (doi:10.1103/PhysRevC.99.014601)
+#DATASETS   0
+#
+#DATASET    D0945004 
+#DATE       20201007
+#REACTION   50-SN-120(2-HE-6,EL)50-SN-120,,DA,,RTH
+#PROJ       2006
+#TARG       50120
+#MF         4
+#MT         2
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 2006 50120   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 50120   4   2 AC 2.2200+7          40.02938 0.223432 0.946167                              S.Appannababu+       (19)D0945  4 
+ 2006 50120   4   2 AC 2.2200+7          18.24256 0.941331 0.920002                              S.Appannababu+       (19)D0945  4 
+ 2006 50120   4   2 AC 2.2200+7          1.896226 0.271159 0.791388                              S.Appannababu+       (19)D0945  4 
+ 2006 50120   4   2 AC 2.2200+7          1.070328 0.208713 0.744985                              S.Appannababu+       (19)D0945  4 
+ 2006 50120   4   2 AC 2.2200+7          0.059853 0.029926 0.493480                              S.Appannababu+       (19)D0945  4 
+ 2006 50120   4   2 AC 2.2200+7          0.032459 0.013208 0.397535                              S.Appannababu+       (19)D0945  4 
+#/DATA      6
+#/DATASET

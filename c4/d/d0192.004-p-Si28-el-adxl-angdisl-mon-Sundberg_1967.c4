@@ -1,0 +1,37 @@
+#ENTRY      D0192
+#AUTHOR1    O.Sundberg+
+#YEAR       1967
+#INSTITUTE  (2SWDUPP)
+#TITLE      Excited levels of 28Si investigated by inelastic
+#+          scattering of 185 MeV protons
+#AUTHOR(S)  O.Sundberg, A.Johansson, G.Tibell, S.Dahlgren, D.Hasselgren, 
+#+          B.Hoistad, A.Ingemarsson, P.-U.Renberg
+#REF-CODE   (J,NP/A,101,481,1967)
+#REFERENCE  Nucl.Phys.A 101 (1967) 481 (doi:10.1016/0375-9474(67)90647-1)
+#DATASETS   0
+#
+#DATASET    D0192004 
+#DATE       20050507
+#REACTION   14-SI-28(P,EL)14-SI-28,,DA
+#PROJ       1001
+#TARG       14028
+#MF         4
+#MT         2
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 1001 14028   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14028   4   2    1.8500+8          3.297200          0.997448                              O.Sundberg+          (67)D0192  4 
+ 1001 14028   4   2    1.8500+8          1.130400          0.992392                              O.Sundberg+          (67)D0192  4 
+ 1001 14028   4   2    1.8500+8          0.595740          0.984793                              O.Sundberg+          (67)D0192  4 
+ 1001 14028   4   2    1.8500+8          0.266400          0.976262                              O.Sundberg+          (67)D0192  4 
+ 1001 14028   4   2    1.8500+8          0.087048          0.965718                              O.Sundberg+          (67)D0192  4 
+ 1001 14028   4   2    1.8500+8          0.026216          0.953565                              O.Sundberg+          (67)D0192  4 
+ 1001 14028   4   2    1.8500+8          0.010805          0.939226                              O.Sundberg+          (67)D0192  4 
+ 1001 14028   4   2    1.8500+8          7.6701-3          0.905724                              O.Sundberg+          (67)D0192  4 
+ 1001 14028   4   2    1.8500+8          3.0442-3          0.865894                              O.Sundberg+          (67)D0192  4 
+ 1001 14028   4   2    1.8500+8          1.8634-3          0.842922                              O.Sundberg+          (67)D0192  4 
+ 1001 14028   4   2    1.8500+8          1.7655-4          0.766123                              O.Sundberg+          (67)D0192  4 
+#/DATA      11
+#/DATASET

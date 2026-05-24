@@ -1,0 +1,31 @@
+#ENTRY      23600
+#AUTHOR1    R.Kitahara+
+#YEAR       2019
+#INSTITUTE  (2JPNKTO)
+#TITLE      Improved accuracy in the determination of the thermal
+#+          cross section of 14N(n, p) 14C for neutron lifetime
+#+          measurement
+#AUTHOR(S)  R.Kitahara, K.Hirota, S.Ieki, T.Ino, Y.Iwashita, M.Kitaguchi, 
+#+          J.Koga, K.Mishima, A.Morishita, N.Nagakura, H.Oide, H.Otono, 
+#+          Y.Seki, D.Sekiba, T.Shima, H.M.Shimizu, N.Sumi, H.Sumino, 
+#+          K.Taketani, T.Tomita, T.Yamada, S.Yamashita, M.Yokohashi, 
+#+          T.Yoshioka
+#REF-CODE   (J,PTEP,2019,093C01,2019)
+#REFERENCE  Prog.Theor.Exp.Phys. 2019 (2019) 093C01 (doi:10.1093/ptep/ptz096)
+#DATASETS   0
+#
+#DATASET    23600003 
+#DATE       20201015
+#REACTION   7-N-14(N,P)6-C-14,,SIG,,AV
+#PROJ       1
+#TARG       7014
+#MF         3
+#MT         103
+#PRODUCT    6-C-14
+#C4BEGIN    [    1  7014   3 103 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  7014   3 103 D  0.025300          1.868000 3.0000-3                                       R.Kitahara+          (19)23600  3 
+#/DATA      1
+#/DATASET

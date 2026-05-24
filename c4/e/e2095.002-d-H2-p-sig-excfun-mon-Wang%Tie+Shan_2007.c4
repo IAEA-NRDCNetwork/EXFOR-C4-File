@@ -1,0 +1,36 @@
+#ENTRY      E2095
+#AUTHOR1    Wang Tie-Shan+
+#YEAR       2007
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Measurement of D(d,p)T reaction cross sections in Sm
+#+          metal in low energy region (10 <=Ed<=20keV)
+#AUTHOR(S)  Wang Tie-Shan, Yang Zhen, H.Yunemura, A.Nakagawa, Lv Hui-Yi, 
+#+          Chen Jian-Yong, Liu Sheng-Jin, J.Kasagi
+#REF-CODE   (J,CPL,24,(11),3103,200711)
+#REFERENCE  Chin.Phys.Lett. 24 No.11 (2007) 3103 (doi:10.1088/0256-307X/24/11/024)
+#DATASETS   0
+#
+#DATASET    E2095002 
+#DATE       20121010
+#REACTION   1-H-2(D,P)1-H-3,,SIG
+#PROJ       1002
+#TARG       1002
+#MF         3
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002  1002   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   3 103    10991.00 219.8200 3.0700-5 8.6610-6                                       Wang Tie-Shan+       (07)E2095  2 
+ 1002  1002   3 103    12001.00 240.0200 4.5200-5 1.1500-5                                       Wang Tie-Shan+       (07)E2095  2 
+ 1002  1002   3 103    12998.00 259.9600 9.3840-5 1.7180-5                                       Wang Tie-Shan+       (07)E2095  2 
+ 1002  1002   3 103    13992.00 279.8400 1.1260-4 2.2170-5                                       Wang Tie-Shan+       (07)E2095  2 
+ 1002  1002   3 103    15003.00 300.0600 1.5640-4 2.8010-5                                       Wang Tie-Shan+       (07)E2095  2 
+ 1002  1002   3 103    16014.00 320.2800 1.7440-4 3.2280-5                                       Wang Tie-Shan+       (07)E2095  2 
+ 1002  1002   3 103    17008.00 340.1600 1.7310-4 3.5090-5                                       Wang Tie-Shan+       (07)E2095  2 
+ 1002  1002   3 103    18004.00 360.0800 3.1960-4 5.1430-5                                       Wang Tie-Shan+       (07)E2095  2 
+ 1002  1002   3 103    19014.00 380.2800 3.2650-4 5.4540-5                                       Wang Tie-Shan+       (07)E2095  2 
+ 1002  1002   3 103    20009.00 400.1800 3.4100-4 5.9500-5                                       Wang Tie-Shan+       (07)E2095  2 
+#/DATA      10
+#/DATASET

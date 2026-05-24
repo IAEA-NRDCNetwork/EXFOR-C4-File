@@ -1,0 +1,26 @@
+#ENTRY      11515
+#AUTHOR1    N.Ranakumar+
+#YEAR       1968
+#INSTITUTE  (1USAGIT)
+#TITLE      Neutron activation cross sections at 14.4 MeV for Si
+#+          and Zn isotopes.
+#AUTHOR(S)  N.Ranakumar, E.Kondaiah, R.W.Fink
+#REF-CODE   (J,NP/A,122,679,1968)
+#REFERENCE  Nucl.Phys.A 122 (1968) 679 (doi:10.1016/0375-9474(68)90587-3)
+#DATASETS   0
+#
+#DATASET    11515003 
+#DATE       19860429
+#REACTION   14-SI-28(N,P)13-AL-28,,SIG
+#PROJ       1
+#TARG       14028
+#MF         3
+#MT         103
+#PRODUCT    13-AL-28
+#C4BEGIN    [    1 14028   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14028   3 103    1.4400+7 300000.0 0.252000 0.015000                                       N.Ranakumar+         (68)11515  3 
+#/DATA      1
+#/DATASET

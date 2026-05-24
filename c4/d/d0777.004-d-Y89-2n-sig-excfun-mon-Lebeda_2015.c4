@@ -1,0 +1,40 @@
+#ENTRY      D0777
+#AUTHOR1    O.Lebeda+
+#YEAR       2015
+#INSTITUTE  (3CZRUJF)
+#TITLE      Experimental cross-sections of deuteron-induced
+#+          reaction on 89Y up to 20 MeV; comparison of
+#+          natTi(d,x)48V and 27Al(d,x)24Na monitor reactions
+#AUTHOR(S)  O.Lebeda, J.Stursa, J.Ralis
+#REF-CODE   (J,NIM/B,360,118,2015)
+#REFERENCE  Nucl.Instrum.Meth.B 360 (2015) 118 (doi:10.1016/j.nimb.2015.08.036)
+#DATASETS   0
+#
+#DATASET    D0777004 
+#DATE       20201208
+#REACTION   39-Y-89(D,2N)40-ZR-89-G,,SIG
+#PROJ       1002
+#TARG       39089
+#MF         3
+#MT         16
+#PRODUCT    40-ZR-89-G
+#C4BEGIN    [ 1002 39089   3  16GD]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 39089   3  16GD  5040000. 500000.0 9.0000-5 9.6000-6                                       O.Lebeda+            (15)D0777  4 
+ 1002 39089   3  16GD  6040000. 430000.0 1.3080-3 1.3900-4                                       O.Lebeda+            (15)D0777  4 
+ 1002 39089   3  16GD  7740000. 340000.0 0.096800 0.010300                                       O.Lebeda+            (15)D0777  4 
+ 1002 39089   3  16GD  8930000. 300000.0 0.205000 0.022000                                       O.Lebeda+            (15)D0777  4 
+ 1002 39089   3  16GD  1.0030+7 260000.0 0.317000 0.034000                                       O.Lebeda+            (15)D0777  4 
+ 1002 39089   3  16GD  1.1060+7 230000.0 0.417000 0.044000                                       O.Lebeda+            (15)D0777  4 
+ 1002 39089   3  16GD  1.1740+7 430000.0 0.469000 0.050000                                       O.Lebeda+            (15)D0777  4 
+ 1002 39089   3  16GD  1.3000+7 380000.0 0.561000 0.059000                                       O.Lebeda+            (15)D0777  4 
+ 1002 39089   3  16GD  1.4180+7 340000.0 0.623000 0.066000                                       O.Lebeda+            (15)D0777  4 
+ 1002 39089   3  16GD  1.5290+7 310000.0 0.670000 0.071000                                       O.Lebeda+            (15)D0777  4 
+ 1002 39089   3  16GD  1.6360+7 280000.0 0.698000 0.074000                                       O.Lebeda+            (15)D0777  4 
+ 1002 39089   3  16GD  1.7360+7 260000.0 0.732000 0.077000                                       O.Lebeda+            (15)D0777  4 
+ 1002 39089   3  16GD  1.8320+7 230000.0 0.755000 0.080000                                       O.Lebeda+            (15)D0777  4 
+ 1002 39089   3  16GD  1.9490+7 210000.0 0.713000 0.075000                                       O.Lebeda+            (15)D0777  4 
+#/DATA      14
+#/DATASET

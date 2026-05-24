@@ -1,0 +1,50 @@
+#ENTRY      22983
+#AUTHOR1    Y.Maeda+
+#YEAR       2007
+#INSTITUTE  (2JPNTOK)
+#TITLE      .Differential cross section and analyzing power
+#+          measurement for n,d elastic scattering at 248 MeV.
+#AUTHOR(S)  Y.Maeda, H.Sakai, K.Fujita, M.B.Greenfield, K.Hatanaka, 
+#+          M.Hatano, J.Kamiya, T.Kawabata, H.Kuboki, H.Okamura, J.Rapaport, 
+#+          T.Saito, Y.Sakemi, M.Sasano, K.Sekiguchi, Y.Shimizu, K.Suda, 
+#+          Y.Tameshige, A.Tamii, T.Wasaka, K.Yako, J.Blomgren, P.Mermod, 
+#+          A.Oehrn, M.Oesterlund, H.Witala, A.Deltuva, A.C.Fonseca, 
+#+          P.U.Sauer, W.Gloeckle, J.Golak, H.Kamada, A.Nogga, R.Skibinski, 
+#+          S.Sakoda, H.Kato, N.Uchigashima, D.Hirooka, Y.Kitamura, 
+#+          N.Sakamoto, T.Ikeda, K.Itoh, Y.Sato
+#REF-CODE   (J,PR/C,76,014004,2007)
+#REFERENCE  Phys.Rev.C 76 (2007) 014004 (doi:10.1103/PhysRevC.76.014004)
+#DATASETS   0
+#
+#DATASET    229830022
+#DATE       20071026
+#REACTION   1-H-2(N,EL)1-H-2,,DA
+#PROJ       1
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   4   2  C 2.4800+8 1000000. 9.7000-5 5.0000-6 0.095846                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 9.4000-5 4.0000-6 0.026177                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 7.9000-5 5.0000-6-0.043619                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 7.6000-5 6.0000-6-0.078459                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 7.2000-5 4.0000-6-0.147809                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 7.3000-5 5.0000-6-0.250380                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 7.2000-5 3.0000-6-0.477159                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 8.0000-5 4.0000-6-0.537300                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 1.0200-4 5.0000-6-0.707107                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 1.1900-4 5.0000-6-0.754710                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 1.3300-4 5.0000-6-0.819152                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 1.5400-4 5.0000-6-0.857167                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 1.8400-4 7.0000-6-0.909961                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 1.9900-4 7.0000-6-0.936672                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 2.2300-4 1.1000-5-0.958820                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 2.5600-4 9.0000-6-0.983255                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 2.7600-4 1.4000-5-0.994522                              Y.Maeda+             (07)22983  22
+    1  1002   4   2  C 2.4800+8 1000000. 2.8900-4 1.3000-5-0.999391                              Y.Maeda+             (07)22983  22
+#/DATA      18
+#/DATASET

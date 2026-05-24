@@ -1,0 +1,31 @@
+#ENTRY      20240
+#AUTHOR1    G.Deconninck+
+#YEAR       1970
+#INSTITUTE  (2BLGLVN)
+#TITLE      Study of resonant states in C-13 by scattering of
+#+          fast neutrons on C-12
+#AUTHOR(S)  G.Deconninck, J.P.Meulders
+#REF-CODE   (J,PR/C,1,1326,197004)
+#REFERENCE  Phys.Rev.C 1 (1970) 1326 (doi:10.1103/PhysRevC.1.1326)
+#DATASETS   0
+#
+#DATASET    20240004 
+#DATE       20120708
+#REACTION   6-C-0(N,EL)6-C-0,,DA
+#PROJ       1
+#TARG       6000
+#MF         4
+#MT         2
+#PRODUCT    6-C-0
+#C4BEGIN    [    1  6000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   4   2  C 1.4700+7 500000.0 0.020300 2.4000-3-0.694650                              G.Deconninck+        (70)20240  4 
+    1  6000   4   2  C 1.4700+7 500000.0 0.031500 1.6000-3-0.258810                              G.Deconninck+        (70)20240  4 
+    1  6000   4   2  C 1.4700+7 500000.0 0.023900 1.6000-3-0.087150                              G.Deconninck+        (70)20240  4 
+    1  6000   4   2  C 1.4700+7 500000.0 0.018500 1.4000-3 0.258820                              G.Deconninck+        (70)20240  4 
+    1  6000   4   2  C 1.4700+7 500000.0 0.020600 1.4000-3 0.438370                              G.Deconninck+        (70)20240  4 
+    1  6000   4   2  C 1.4700+7 500000.0 0.102000 3.5000-3 0.731350                              G.Deconninck+        (70)20240  4 
+#/DATA      6
+#/DATASET

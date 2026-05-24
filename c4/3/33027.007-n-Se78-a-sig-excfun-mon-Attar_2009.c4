@@ -1,0 +1,30 @@
+#ENTRY      33027
+#AUTHOR1    F.M.D.Attar+
+#YEAR       2009
+#INSTITUTE  (3INDPOO)
+#TITLE      Cross-section for the formation of isomeric pair
+#+          75Ge-m,g through (n,2n),(n,p) and (n,alpha) reactions
+#+          measured over 13.73 MeV to 14.77 MeV and calculated
+#+          from near threshold to 20 MeV neutron energies
+#AUTHOR(S)  F.M.D.Attar, S.D.Dhole, S.Kailas, V.N.Bhoraskar
+#REF-CODE   (J,NP/A,828,253,2009)
+#REFERENCE  Nucl.Phys.A 828 (2009) 253 (doi:10.1016/j.nuclphysa.2009.07.009)
+#DATASETS   0
+#
+#DATASET    33027007 
+#DATE       20091104
+#REACTION   34-SE-78(N,A)32-GE-75-G,,SIG
+#PROJ       1
+#TARG       34078
+#MF         3
+#MT         107
+#PRODUCT    32-GE-75-G
+#C4BEGIN    [    1 34078   3 107GA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34078   3 107GA  1.3730+7          1.9300-3 2.3000-4                                       F.M.D.Attar+         (09)33027  7 
+    1 34078   3 107GA  1.4420+7          2.4300-3 2.9000-4                                       F.M.D.Attar+         (09)33027  7 
+    1 34078   3 107GA  1.4770+7          2.7000-3 3.2000-4                                       F.M.D.Attar+         (09)33027  7 
+#/DATA      3
+#/DATASET

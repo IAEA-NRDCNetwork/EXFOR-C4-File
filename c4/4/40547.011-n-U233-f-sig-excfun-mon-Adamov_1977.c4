@@ -1,0 +1,27 @@
+#ENTRY      40547
+#AUTHOR1    V.M.Adamov+
+#YEAR       1977
+#INSTITUTE  (4RUSRI)
+#TITLE      Absolute fission cross section of heavy elements
+#+          by fast neutrons
+#AUTHOR(S)  V.M.Adamov, B.M.Aleksandrov, I.D.Alkhazov, L.V.Drapchinskiy, 
+#+          S.S.Kovalenko, O.I.Kostochkin, G.Ju.Kudryavcev, L.Z.Malkin, 
+#+          K.A.Petrzhak, L.A.Pleskachevskiy, A.V.Fomichev, V.I.Shpakov
+#REF-CODE   (R,YK-24,8,1977)
+#REFERENCE  Report YK-24 page 8, 1977
+#DATASETS   0
+#
+#DATASET    40547011 
+#DATE       20201109
+#REACTION   92-U-233(N,F),,SIG
+#PROJ       1
+#TARG       92233
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92233   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   3  18    1.4700+7 200000.0 2.254000 0.043000                                       V.M.Adamov+          (77)40547 11 
+#/DATA      1
+#/DATASET

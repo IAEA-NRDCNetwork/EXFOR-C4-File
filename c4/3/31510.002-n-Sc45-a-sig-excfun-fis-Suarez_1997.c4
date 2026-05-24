@@ -1,0 +1,27 @@
+#ENTRY      31510
+#AUTHOR1    P.M.Suarez+
+#YEAR       1997
+#INSTITUTE  (3ARGCAB)
+#TITLE      Experimental and Calculated Scandium Threshold
+#+          Reaction Cross Sections Averaged over a U-235 Fission
+#+          Neutron Specrum
+#AUTHOR(S)  P.M.Suarez, M.A.Arribere, S.Ribiero Guevara, A.J.Kestelman
+#REF-CODE   (J,NSE,127,245,199711)
+#REFERENCE  Nucl.Sci.Eng. 127 (1997) 245 (doi:10.13182/NSE97-A1934)
+#DATASETS   0
+#
+#DATASET    31510002 
+#DATE       20010213
+#REACTION   21-SC-45(N,A)19-K-42,,SIG,,FIS
+#PROJ       1
+#TARG       21045
+#MF         3
+#MT         107
+#PRODUCT    19-K-42
+#C4BEGIN    [    1 21045   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 21045   3 107    1500000.          3.0800-4 1.6000-5                                       P.M.Suarez+          (97)31510  2 
+#/DATA      1
+#/DATASET

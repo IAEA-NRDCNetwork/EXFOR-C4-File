@@ -1,0 +1,37 @@
+#ENTRY      E2697
+#AUTHOR1    D.Ichinkhorloo+
+#YEAR       2021
+#INSTITUTE  (2JPNHOK)
+#TITLE      Production cross sections of dysprosium, terbium and
+#+          gadolinium radioisotopes from the
+#+          alpha-particle-induced reactions on natural gadolinium
+#+          up to 50 MeV
+#AUTHOR(S)  D.Ichinkhorloo, M.Aikawa, Z.Tsoodol, T.Murata, M.Sakaguchi, 
+#+          Y.Komori, T.Yokokita, H.Haba
+#REF-CODE   (J,NIM/B,499,46,2021)
+#REFERENCE  Nucl.Instrum.Meth.B 499 (2021) 46 (doi:10.1016/j.nimb.2021.04.018)
+#DATASETS   0
+#
+#DATASET    E2697005 
+#DATE       20220620
+#REACTION   64-GD-0(A,X)65-TB-153,CUM,SIG
+#PROJ       2004
+#TARG       64000
+#MF         3
+#MT         459
+#PRODUCT    65-TB-153
+#C4BEGIN    [ 2004 64000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 64000   3 459    5.0300+7 900000.0 2.2500-3 2.5000-4           65153.9                     D.Ichinkhorloo+      (21)E2697  5 
+ 2004 64000   3 459    4.8100+7 900000.0 2.0300-3 2.2000-4           65153.9                     D.Ichinkhorloo+      (21)E2697  5 
+ 2004 64000   3 459    4.5800+7 900000.0 2.6100-3 2.8000-4           65153.9                     D.Ichinkhorloo+      (21)E2697  5 
+ 2004 64000   3 459    4.3400+7 900000.0 2.9100-3 3.1000-4           65153.9                     D.Ichinkhorloo+      (21)E2697  5 
+ 2004 64000   3 459    4.1000+7 1000000. 2.5300-3 2.7000-4           65153.9                     D.Ichinkhorloo+      (21)E2697  5 
+ 2004 64000   3 459    3.8500+7 1000000. 2.2100-3 2.4000-4           65153.9                     D.Ichinkhorloo+      (21)E2697  5 
+ 2004 64000   3 459    3.5800+7 1100000. 1.5400-3 1.7000-4           65153.9                     D.Ichinkhorloo+      (21)E2697  5 
+ 2004 64000   3 459    3.3000+7 1100000. 4.9400-4 6.0000-5           65153.9                     D.Ichinkhorloo+      (21)E2697  5 
+ 2004 64000   3 459    3.0000+7 1200000. 6.0800-5 1.1000-5           65153.9                     D.Ichinkhorloo+      (21)E2697  5 
+#/DATA      9
+#/DATASET

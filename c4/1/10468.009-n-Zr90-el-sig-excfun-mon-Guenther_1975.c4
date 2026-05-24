@@ -1,0 +1,43 @@
+#ENTRY      10468
+#AUTHOR1    P.Guenther+
+#YEAR       1975
+#INSTITUTE  (1USAANL)
+#TITLE      90Zr and 92Zr: Neutron total and scattering cross
+#+          sections
+#AUTHOR(S)  P.Guenther, A.Smith, J.Whalen
+#REF-CODE   (J,PR/C,12,1797,1975)
+#REFERENCE  Phys.Rev.C 12 (1975) 1797 (doi:10.1103/PhysRevC.12.1797)
+#DATASETS   0
+#
+#DATASET    10468009 
+#DATE       20260205
+#REACTION   40-ZR-90(N,EL)40-ZR-90,,SIG
+#PROJ       1
+#TARG       40090
+#MF         3
+#MT         2
+#PRODUCT    40-ZR-90
+#C4BEGIN    [    1 40090   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   3   2 D  552000.0          6.149000                                                P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  858000.0          5.905000                                                P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  883000.0          5.480000                                                P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  1123000.          4.722000                                                P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  1244000.          4.660000                                                P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  1679000.          4.113000                                                P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  1848000.          3.809000 0.303000                                       P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  2068000.          3.141000 0.364000                                       P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  2288000.          2.837000                                                P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  2507000.          2.806000 0.242000                                       P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  2611000.          2.714000 0.212000                                       P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  2723000.          2.623000                                                P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  2938000.          2.470000 0.242000                                       P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  3162000.          2.469000 0.212000                                       P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  3270000.          2.468000 0.182000                                       P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  3377000.          2.195000                                                P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  3593000.          2.224000                                                P.Guenther+          (75)10468  9 
+    1 40090   3   2 D  3812000.          2.284000                                                P.Guenther+          (75)10468  9 
+#/DATA      18
+#/DATASET

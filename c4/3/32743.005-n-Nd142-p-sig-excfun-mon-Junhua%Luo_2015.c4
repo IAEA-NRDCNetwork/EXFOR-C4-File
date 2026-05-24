@@ -1,0 +1,28 @@
+#ENTRY      32743
+#AUTHOR1    Junhua Luo+
+#YEAR       2015
+#INSTITUTE  (3CPRHXU)
+#TITLE      Cross sections for D-T neutron interaction with
+#+          neodymium isotopes
+#AUTHOR(S)  Junhua Luo, Li An, Li Jiang, Long He
+#REF-CODE   (J,RPC,109,63,2015)
+#REFERENCE  Radiat.Phys.Chem. 109 (2015) 63 (doi:10.1016/j.radphyschem.2014.12.014)
+#DATASETS   0
+#
+#DATASET    32743005 
+#DATE       20170517
+#REACTION   60-ND-142(N,P)59-PR-142,,SIG
+#PROJ       1
+#TARG       60142
+#MF         3
+#MT         103
+#PRODUCT    59-PR-142
+#C4BEGIN    [    1 60142   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 60142   3 103    1.3500+7 200000.0 6.8000-3 1.7000-3                                       Junhua Luo+          (15)32743  5 
+    1 60142   3 103    1.4100+7 200000.0 8.5000-3 1.9000-3                                       Junhua Luo+          (15)32743  5 
+    1 60142   3 103    1.4800+7 200000.0 9.5000-3 1.8000-3                                       Junhua Luo+          (15)32743  5 
+#/DATA      3
+#/DATASET

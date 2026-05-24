@@ -1,0 +1,39 @@
+#ENTRY      E0795
+#AUTHOR1    H.Ejiri+
+#YEAR       1981
+#INSTITUTE  (2JPNOSA)
+#TITLE      INELASTIC PROTON SCATTERING TO PARTICLE-HOLE STATES
+#+          IN 40CA AND SPIN-ISOSPIN EXCITATION OF PION SYMMETRY
+#+          STATES
+#AUTHOR(S)  H.Ejiri, M.Sasao, T.Shibata, H.Ohsumi, Y.Fujita, M.Fujiwara, 
+#+          T.Yamazaki, I.Katayama, S.Morinobu, H.Ikegami
+#REF-CODE   (J,PR/C,24,2001,1981)
+#REFERENCE  Phys.Rev.C 24 (1981) 2001 (doi:10.1103/PhysRevC.24.2001)
+#DATASETS   0
+#
+#DATASET    E0795002 
+#DATE       20040622
+#REACTION   20-CA-40(P,EL)20-CA-40,,DA
+#PROJ       1001
+#TARG       20040
+#MF         4
+#MT         2
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 1001 20040   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20040   4   2  C 6.5000+7          1.468000          0.960832                              H.Ejiri+             (81)E0795  2 
+ 1001 20040   4   2  C 6.5000+7          0.892800          0.950873                              H.Ejiri+             (81)E0795  2 
+ 1001 20040   4   2  C 6.5000+7          0.467300          0.938215                              H.Ejiri+             (81)E0795  2 
+ 1001 20040   4   2  C 6.5000+7          0.218400          0.926614                              H.Ejiri+             (81)E0795  2 
+ 1001 20040   4   2  C 6.5000+7          0.087050          0.910330                              H.Ejiri+             (81)E0795  2 
+ 1001 20040   4   2  C 6.5000+7          0.043460          0.897582                              H.Ejiri+             (81)E0795  2 
+ 1001 20040   4   2  C 6.5000+7          0.036740          0.876004                              H.Ejiri+             (81)E0795  2 
+ 1001 20040   4   2  C 6.5000+7          0.045220          0.857392                              H.Ejiri+             (81)E0795  2 
+ 1001 20040   4   2  C 6.5000+7          0.049730          0.838709                              H.Ejiri+             (81)E0795  2 
+ 1001 20040   4   2  C 6.5000+7          0.050720          0.818912                              H.Ejiri+             (81)E0795  2 
+ 1001 20040   4   2  C 6.5000+7          0.048440          0.796699                              H.Ejiri+             (81)E0795  2 
+ 1001 20040   4   2  C 6.5000+7          0.037620          0.771747                              H.Ejiri+             (81)E0795  2 
+#/DATA      12
+#/DATASET

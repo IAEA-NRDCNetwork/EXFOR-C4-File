@@ -1,0 +1,26 @@
+#ENTRY      22834
+#AUTHOR1    S.Nakamura+
+#YEAR       2003
+#INSTITUTE  (2JPNJNC)
+#TITLE      .Thermal neutron capture cross section and resonance
+#+          integrals of 80Se, 94,96Zr and 124Sn
+#AUTHOR(S)  S.Nakamura, K.Furutaka, H.Harada, T.Katoh
+#REF-CODE   (P,INDC(JPN)-190/U,26,200303)
+#REFERENCE  Progress report INDC(JPN)-190/U page 26, 2003
+#DATASETS   0
+#
+#DATASET    22834008 
+#DATE       20051109
+#REACTION   40-ZR-96(N,G)40-ZR-97,,SIG,,MXW
+#PROJ       1
+#TARG       40096
+#MF         3
+#MT         102
+#PRODUCT    40-ZR-97
+#C4BEGIN    [    1 40096   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40096   3 102    0.025300          0.043800 5.6000-3                                       S.Nakamura+          (03)22834  8 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      A0411
+#AUTHOR1    S.Engstler+
+#YEAR       1988
+#INSTITUTE  (2GERMST)
+#TITLE      Effects of electron screening on the He3(d,p)He-4
+#+          low-energy cross sections
+#AUTHOR(S)  S.Engstler, A.Krauss, K.Neldner, C.Rolfs, U.Schroder, K.Langanke
+#REF-CODE   (J,PL/B,202,179,1988)
+#REFERENCE  Phys.Lett.B 202 (1988) 179 (doi:10.1016/0370-2693(88)90003-2)
+#DATASETS   0
+#
+#DATASET    A0411003 
+#DATE       20220804
+#REACTION   2-HE-3(D,P)2-HE-4,,SIG,,SFC
+#PROJ       1002
+#TARG       2003
+#MF         3
+#MT         103
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  2003   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  2003   3 103    11391.07          5.1954-9 2.620-10                                       S.Engstler+          (88)A0411  3 
+ 1002  2003   3 103    13075.55          2.3144-8 1.0433-9                                       S.Engstler+          (88)A0411  3 
+ 1002  2003   3 103    14726.68          8.1510-8 2.7170-9                                       S.Engstler+          (88)A0411  3 
+ 1002  2003   3 103    16377.80          2.2328-7 7.7923-9                                       S.Engstler+          (88)A0411  3 
+ 1002  2003   3 103    18028.92          5.7676-7 1.9809-8                                       S.Engstler+          (88)A0411  3 
+ 1002  2003   3 103    19663.37          1.2107-6 3.0565-8                                       S.Engstler+          (88)A0411  3 
+ 1002  2003   3 103    21314.50          2.4334-6 4.4935-8                                       S.Engstler+          (88)A0411  3 
+ 1002  2003   3 103    22965.62          4.5033-6 6.4889-8                                       S.Engstler+          (88)A0411  3 
+ 1002  2003   3 103    26267.88          1.2633-5 1.3239-7                                       S.Engstler+          (88)A0411  3 
+ 1002  2003   3 103    29570.13          3.1302-5 3.1848-7                                       S.Engstler+          (88)A0411  3 
+ 1002  2003   3 103    31221.26          4.3392-5 3.3379-7                                       S.Engstler+          (88)A0411  3 
+#/DATA      11
+#/DATASET

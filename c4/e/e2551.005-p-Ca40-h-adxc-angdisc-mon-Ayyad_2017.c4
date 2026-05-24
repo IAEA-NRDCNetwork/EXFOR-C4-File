@@ -1,0 +1,43 @@
+#ENTRY      E2551
+#AUTHOR1    Y.Ayyad+
+#YEAR       2017
+#INSTITUTE  (2JPNOSA)
+#TITLE      Investigating neutron-proton pairing in sd-shell
+#+          nuclei via ( p,3He) and (3He,p) transfer reactions
+#AUTHOR(S)  Y.Ayyad, J.Lee, A.Tamii, J.A.Lay, A.O.Macchiavelli, N.Aoi, 
+#+          B.A.Brown, H.Fujita, Y.Fujita, E.Ganioglu, K.Hatanaka, T.Hashimoto, 
+#+          T.Ito, T.Kawabata, Z.Li, H.Liu, H.Matsubara, K.Miki, H.J.Ong, 
+#+          G.Potel, I.Sugai, G.Susoy, A.Vitturi, H.D.Watanabe, N.Yokota, 
+#+          J.Zenihiro
+#REF-CODE   (J,PR/C,96,021303,2017)
+#REFERENCE  Phys.Rev.C 96 (2017) 021303 (doi:10.1103/PhysRevC.96.021303)
+#DATASETS   0
+#
+#DATASET    E2551005 
+#DATE       20180416
+#REACTION   20-CA-40(P,HE3)19-K-38,PAR,DA
+#PROJ       1001
+#TARG       20040
+#MF         4
+#MT         750
+#PRODUCT    19-K-38
+#C4BEGIN    [ 1001 20040   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20040   4 750  C 6.5000+7          2.7334-4-4.9860-6 0.999048          459000.0         LVLY.Ayyad+             (17)E2551  5 
+ 1001 20040   4 750  C 6.5000+7          2.6713-4-6.3742-6 0.996917          459000.0         LVLY.Ayyad+             (17)E2551  5 
+ 1001 20040   4 750  C 6.5000+7          2.1965-4-3.5176-6 0.993572          459000.0         LVLY.Ayyad+             (17)E2551  5 
+ 1001 20040   4 750  C 6.5000+7          1.9916-4-2.3116-6 0.990268          459000.0         LVLY.Ayyad+             (17)E2551  5 
+ 1001 20040   4 750  C 6.5000+7          1.7549-4-3.1600-6 0.984808          459000.0         LVLY.Ayyad+             (17)E2551  5 
+ 1001 20040   4 750  C 6.5000+7          1.6289-4-2.2536-6 0.978148          459000.0         LVLY.Ayyad+             (17)E2551  5 
+ 1001 20040   4 750  C 6.5000+7          1.4156-4-1.9081-6 0.970296          459000.0         LVLY.Ayyad+             (17)E2551  5 
+ 1001 20040   4 750  C 6.5000+7          1.0985-4-1.2645-6 0.961262          459000.0         LVLY.Ayyad+             (17)E2551  5 
+ 1001 20040   4 750  C 6.5000+7          7.7058-5-1.3002-6 0.951057          459000.0         LVLY.Ayyad+             (17)E2551  5 
+ 1001 20040   4 750  C 6.5000+7          5.0960-5-1.4094-6 0.939693          459000.0         LVLY.Ayyad+             (17)E2551  5 
+ 1001 20040   4 750  C 6.5000+7          4.2707-5-1.3125-6 0.927184          459000.0         LVLY.Ayyad+             (17)E2551  5 
+ 1001 20040   4 750  C 6.5000+7          4.4195-5-1.2791-6 0.913545          459000.0         LVLY.Ayyad+             (17)E2551  5 
+ 1001 20040   4 750  C 6.5000+7          5.0482-5-9.3850-7 0.898794          459000.0         LVLY.Ayyad+             (17)E2551  5 
+ 1001 20040   4 750  C 6.5000+7          5.3260-5-9.1950-7 0.882948          459000.0         LVLY.Ayyad+             (17)E2551  5 
+#/DATA      14
+#/DATASET

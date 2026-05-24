@@ -1,0 +1,30 @@
+#ENTRY      C1996
+#AUTHOR1    R.Vandenbosch+
+#YEAR       1960
+#INSTITUTE  (1USAANL)
+#TITLE      Isomeric cross-section ratios for reactions producing
+#+          the isomeric pair Hg197,197m
+#AUTHOR(S)  R.Vandenbosch, J.R.Huizenga
+#REF-CODE   (J,PR,120,1313,1960)
+#REFERENCE  Phys.Rev. 120 (1960) 1313 (doi:10.1103/PhysRev.120.1313)
+#DATASETS   0
+#
+#DATASET    C19960022
+#DATE       20130416
+#REACTION   79-AU-197(P,N)80-HG-197-G,,SIG
+#PROJ       1001
+#TARG       79197
+#MF         3
+#MT         4
+#PRODUCT    80-HG-197-G
+#C4BEGIN    [ 1001 79197   3   4G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   3   4G   7300000.          1.8000-3                                                R.Vandenbosch+       (60)C1996  22
+ 1001 79197   3   4G   8500000.          0.014200                                                R.Vandenbosch+       (60)C1996  22
+ 1001 79197   3   4G   9400000.          0.041100                                                R.Vandenbosch+       (60)C1996  22
+ 1001 79197   3   4G   9900000.          0.064300                                                R.Vandenbosch+       (60)C1996  22
+ 1001 79197   3   4G   1.0400+7          0.074900                                                R.Vandenbosch+       (60)C1996  22
+#/DATA      5
+#/DATASET

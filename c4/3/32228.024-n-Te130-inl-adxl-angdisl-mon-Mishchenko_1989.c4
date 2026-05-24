@@ -1,0 +1,37 @@
+#ENTRY      32228
+#AUTHOR1    V.A.Mishchenko+
+#YEAR       1989
+#INSTITUTE  (4UKRIJD)
+#TITLE      Neuton scattering cross sections for Te-126 and Te-130
+#+          nuclei with energies 1.5 - 5.0 MeV
+#AUTHOR(S)  V.A.Mishchenko, I.A.Korzh, N.M.Pravdivy
+#REF-CODE   (J,AE,67,(2),147,1989)
+#REFERENCE  At.En. 67 No.2 (1989) 147
+#DATASETS   0
+#
+#DATASET    32228024 
+#DATE       20091026
+#REACTION   52-TE-130(N,INL)52-TE-130,PAR,DA
+#PROJ       1
+#TARG       52130
+#MF         4
+#MT         51
+#PRODUCT    52-TE-130
+#C4BEGIN    [    1 52130   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52130   4  51    5000000.          0.018100 0.010100 0.939693          839000.0         LVLV.A.Mishchenko+      (89)32228 24 
+    1 52130   4  51    5000000.          0.017200 6.4000-3 0.866025          839000.0         LVLV.A.Mishchenko+      (89)32228 24 
+    1 52130   4  51    5000000.          0.018200 4.8000-3 0.766044          839000.0         LVLV.A.Mishchenko+      (89)32228 24 
+    1 52130   4  51    5000000.          0.015100 4.3000-3 0.573576          839000.0         LVLV.A.Mishchenko+      (89)32228 24 
+    1 52130   4  51    5000000.          0.014800 3.6000-3 0.422618          839000.0         LVLV.A.Mishchenko+      (89)32228 24 
+    1 52130   4  51    5000000.          0.013400 3.2000-3 0.258819          839000.0         LVLV.A.Mishchenko+      (89)32228 24 
+    1 52130   4  51    5000000.          0.013200 3.6000-3 6.123-17          839000.0         LVLV.A.Mishchenko+      (89)32228 24 
+    1 52130   4  51    5000000.          0.013900 4.8000-3-0.258819          839000.0         LVLV.A.Mishchenko+      (89)32228 24 
+    1 52130   4  51    5000000.          0.014000 4.3000-3-0.422618          839000.0         LVLV.A.Mishchenko+      (89)32228 24 
+    1 52130   4  51    5000000.          0.014800 7.2000-3-0.573576          839000.0         LVLV.A.Mishchenko+      (89)32228 24 
+    1 52130   4  51    5000000.          0.011200 3.3000-3-0.707107          839000.0         LVLV.A.Mishchenko+      (89)32228 24 
+    1 52130   4  51    5000000.          0.011100 3.8000-3-0.866025          839000.0         LVLV.A.Mishchenko+      (89)32228 24 
+#/DATA      12
+#/DATASET

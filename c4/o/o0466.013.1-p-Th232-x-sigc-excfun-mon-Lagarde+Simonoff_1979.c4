@@ -1,0 +1,29 @@
+#ENTRY      O0466
+#AUTHOR1    M.Lagarde-Simonoff+
+#YEAR       1979
+#INSTITUTE  (2FR GRA)
+#TITLE      Cross sections and recoil properties of Rb-83,-84,-86
+#+          formed by 0.6-21 GeV H-1 reactions with target of Y
+#+          to U.
+#AUTHOR(S)  M.Lagarde-Simonoff, G.N.Simonoff
+#REF-CODE   (J,PR/C,20,1498,1979)
+#REFERENCE  Phys.Rev.C 20 (1979) 1498 (doi:10.1103/PhysRevC.20.1498)
+#DATASETS   0
+#
+#DATASET    O04660131
+#DATE       20070515
+#REACTION   90-TH-232(P,F)37-RB-83,CUM,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         459
+#PRODUCT    37-RB-83
+#C4BEGIN    [ 1001 90232   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3 459    6.0000+8          2.3600-3 1.5000-4           37083.9                     M.Lagarde-Simonoff+  (79)O0466 131
+ 1001 90232   3 459    1.050+10          0.010600 1.3000-3           37083.9                     M.Lagarde-Simonoff+  (79)O0466 131
+ 1001 90232   3 459    2.100+10          9.2000-3 1.0000-3           37083.9                     M.Lagarde-Simonoff+  (79)O0466 131
+#/DATA      3
+#/DATASET

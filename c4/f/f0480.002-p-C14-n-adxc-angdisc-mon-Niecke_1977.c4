@@ -1,0 +1,36 @@
+#ENTRY      F0480
+#AUTHOR1    M.Niecke+
+#YEAR       1977
+#INSTITUTE  (2GERHAM)
+#TITLE      Angular distributions of neutron polarization
+#+          from the 14C(p,n)14N and 11B(alpha,n)14N reactions
+#+          and R-matrix analysis of 15N in the excitation
+#+          energy range between 11.5 and 12.5 MeV.
+#AUTHOR(S)  M.Niecke, M.Niemeier, R.Weigel, H.Wirzba-Lorenz
+#REF-CODE   (J,NP/A,289,408,1977)
+#REFERENCE  Nucl.Phys.A 289 (1977) 408 (doi:10.1016/0375-9474(77)90043-4)
+#DATASETS   0
+#
+#DATASET    F0480002 
+#DATE       20251212
+#REACTION   6-C-14(P,N)7-N-14,,DA
+#PROJ       1001
+#TARG       6014
+#MF         4
+#MT         4
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  6014   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6014   4   4  C 2450000.          3.2510-3 3.8490-4 0.954605                              M.Niecke+            (77)F0480  2 
+ 1001  6014   4   4  C 2450000.          2.5010-3 1.6400-4 0.835903                              M.Niecke+            (77)F0480  2 
+ 1001  6014   4   4  C 2450000.          1.5100-3 1.0100-4 0.656849                              M.Niecke+            (77)F0480  2 
+ 1001  6014   4   4  C 2450000.          1.3340-3 9.4640-5 0.429408                              M.Niecke+            (77)F0480  2 
+ 1001  6014   4   4  C 2450000.          1.5430-3 1.1990-4 0.173648                              M.Niecke+            (77)F0480  2 
+ 1001  6014   4   4  C 2450000.          1.6440-3 1.4510-4-0.085069                              M.Niecke+            (77)F0480  2 
+ 1001  6014   4   4  C 2450000.          1.8780-3 1.3880-4-0.340380                              M.Niecke+            (77)F0480  2 
+ 1001  6014   4   4  C 2450000.          1.5440-3 1.3880-4-0.563526                              M.Niecke+            (77)F0480  2 
+ 1001  6014   4   4  C 2450000.          1.3430-3 1.1360-4-0.752415                              M.Niecke+            (77)F0480  2 
+#/DATA      9
+#/DATASET

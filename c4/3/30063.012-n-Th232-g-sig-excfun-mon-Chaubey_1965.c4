@@ -1,0 +1,25 @@
+#ENTRY      30063
+#AUTHOR1    A.K.Chaubey+
+#YEAR       1965
+#INSTITUTE  (3INDMUA)
+#TITLE      Neutron activation cross-sections at 24 keV
+#AUTHOR(S)  A.K.Chaubey, M.L.Sehgal
+#REF-CODE   (J,NP,66,267,1965)
+#REFERENCE  Nucl.Phys. 66 (1965) 267 (doi:10.1016/0029-5582(65)90172-0)
+#DATASETS   0
+#
+#DATASET    30063012 
+#DATE       20080215
+#REACTION   90-TH-232(N,G)90-TH-233,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         102
+#PRODUCT    90-TH-233
+#C4BEGIN    [    1 90232   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3 102    24000.00          0.480000 0.050000                                       A.K.Chaubey+         (65)30063 12 
+#/DATA      1
+#/DATASET

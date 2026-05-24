@@ -1,0 +1,32 @@
+#ENTRY      C1337
+#AUTHOR1    M.J.Balbes+
+#YEAR       1995
+#INSTITUTE  (1USANOT)
+#TITLE      Cross sections and reaction rates of d + 8Li reactions
+#+          involved in Big Bang nucleosynthesis
+#AUTHOR(S)  M.J.Balbes, M.M.Farrell, R.N.Boyd, X.Gu, M.Hencheck, J.D.Kalen, 
+#+          C.A.Mitchell, J.J.Kolata, K.Lamkin, R.Smith, R.Tighe, K.Ashktorab, 
+#+          F.D.Becchetti, J.Brown, D.Roberts, T.F.Wang, D.Humphrey, 
+#+          G.Vourvopoulos, M.S.Islam
+#REF-CODE   (J,NP/A,584,315,1995)
+#REFERENCE  Nucl.Phys.A 584 (1995) 315 (doi:10.1016/0375-9474(94)00484-5)
+#DATASETS   0
+#
+#DATASET    C1337005 
+#DATE       20120624
+#REACTION   (1-H-2(3-LI-8,N)4-BE-9,,SIG)=(3-LI-8(D,N)4-BE-9,,SIG)
+#PROJ       1002
+#TARG       3008
+#MF         3
+#MT         4
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1002  3008   3   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3008   3   4 D  1876736. 100020.0 6.9000-3 1.9000-3                                       M.J.Balbes+          (95)C1337  5 
+ 1002  3008   3   4 D  2502381. 100026.7 4.6000-3 1.7000-3                                       M.J.Balbes+          (95)C1337  5 
+ 1002  3008   3   4 D  3002922. 100032.1 6.2000-3 2.4000-3                                       M.J.Balbes+          (95)C1337  5 
+ 1002  3008   3   4 D  3503484. 100037.4 8.9000-3 1.9000-3                                       M.J.Balbes+          (95)C1337  5 
+#/DATA      4
+#/DATASET

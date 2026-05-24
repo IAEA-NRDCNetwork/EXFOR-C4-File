@@ -1,0 +1,36 @@
+#ENTRY      O2176
+#AUTHOR1    M.Buchholz+
+#YEAR       2013
+#INSTITUTE  (2GERJUL)
+#TITLE      Cross-section measurements for the formation of
+#+          manganese-52 and its isolation with a non-hazardous
+#+          eluent.
+#AUTHOR(S)  M.Buchholz, I.Spahn, B.Scholten, H.H.Coenen
+#REF-CODE   (J,RCA,101,491,2013)
+#REFERENCE  Radiochim.Acta 101 (2013) 491 (doi:10.1524/ract.2013.2083)
+#DATASETS   0
+#
+#DATASET    O2176004 
+#DATE       20130628
+#REACTION   24-CR-0(P,X)23-V-48,,SIG
+#PROJ       1001
+#TARG       24000
+#MF         3
+#MT         454
+#PRODUCT    23-V-48
+#C4BEGIN    [ 1001 24000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24000   3 454    4.2500+7 400000.0 0.030500 4.5000-3           23048.9                     M.Buchholz+          (13)O2176  4 
+ 1001 24000   3 454    3.9600+7 500000.0 0.039000 6.3000-3           23048.9                     M.Buchholz+          (13)O2176  4 
+ 1001 24000   3 454    3.7700+7 700000.0 0.039700 2.9000-3           23048.9                     M.Buchholz+          (13)O2176  4 
+ 1001 24000   3 454    3.5500+7 800000.0 0.047800 7.9000-3           23048.9                     M.Buchholz+          (13)O2176  4 
+ 1001 24000   3 454    3.2700+7 1000000. 0.063000 4.3000-3           23048.9                     M.Buchholz+          (13)O2176  4 
+ 1001 24000   3 454    3.1000+7 1100000. 0.066600 0.011900           23048.9                     M.Buchholz+          (13)O2176  4 
+ 1001 24000   3 454    2.7700+7 1300000. 0.049000 5.7000-3           23048.9                     M.Buchholz+          (13)O2176  4 
+ 1001 24000   3 454    2.5800+7 1400000. 0.043100 3.6000-3           23048.9                     M.Buchholz+          (13)O2176  4 
+ 1001 24000   3 454    2.2700+7 1600000. 0.016600 1.1000-3           23048.9                     M.Buchholz+          (13)O2176  4 
+ 1001 24000   3 454    2.1700+7 1700000. 6.7000-3 1.0000-3           23048.9                     M.Buchholz+          (13)O2176  4 
+#/DATA      10
+#/DATASET

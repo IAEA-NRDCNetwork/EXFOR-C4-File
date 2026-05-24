@@ -1,0 +1,29 @@
+#ENTRY      21581
+#AUTHOR1    P.Peuser+
+#YEAR       1979
+#INSTITUTE  (2GERMNZ)
+#TITLE      Half-lives, neutron emission probabilities and
+#+          fission yields of neutron-rich rubidium isotopes
+#+          in the mass region A=96 to A=100
+#AUTHOR(S)  P.Peuser, H.Otto, M.Weis, G.Nyman, E.Roeckl, J.Bonn, L.von Reisky, 
+#+          C.Spath
+#REF-CODE   (J,ZP/A,289,219,1979)
+#REFERENCE  Z.Phys.A 289 (1979) 219 (doi:10.1007/BF01435940)
+#DATASETS   0
+#
+#DATASET    21581003 
+#DATE       20201211
+#REACTION   92-U-235(N,F)ELEM/MASS,IND,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         454
+#C4BEGIN    [    1 92235   8 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 454 D  0.025300          4.6000-4 1.5000-4 37.00000 97.00000 9.000000            P.Peuser+            (79)21581  3 
+    1 92235   8 454 D  0.025300          2.2000-5 9.0000-6 37.00000 98.00000 9.000000            P.Peuser+            (79)21581  3 
+    1 92235   8 454 D  0.025300          2.5000-6 1.3000-6 37.00000 99.00000 9.000000            P.Peuser+            (79)21581  3 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      22918
+#AUTHOR1    A.Letourneau+
+#YEAR       2006
+#INSTITUTE  (2FR SAC)
+#TITLE      .Measurement of the Po-210 production induced by
+#+          thermal neutron capture on Bi-209.
+#AUTHOR(S)  A.Letourneau, G.Fioni, F.Marie, D.Ridikas, P.Mutti
+#REF-CODE   (J,ANE,33,377,2006)
+#REFERENCE  Ann.Nucl.Energy 33 (2006) 377 (doi:10.1016/j.anucene.2005.11.005)
+#DATASETS   0
+#
+#DATASET    22918003 
+#DATE       20060303
+#REACTION   83-BI-209(N,G)83-BI-210-G,,SIG,,MXW
+#PROJ       1
+#TARG       83209
+#MF         3
+#MT         102
+#PRODUCT    83-BI-210-G
+#C4BEGIN    [    1 83209   3 102GC]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209   3 102GC  0.025300          0.018400 9.0000-4                                       A.Letourneau+        (06)22918  3 
+#/DATA      1
+#/DATASET

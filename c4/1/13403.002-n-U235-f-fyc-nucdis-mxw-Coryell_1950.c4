@@ -1,0 +1,26 @@
+#ENTRY      13403
+#AUTHOR1    C.D.Coryell+
+#YEAR       1950
+#INSTITUTE  (1USAMIT)
+#TITLE      Fission yields of 65-day Zr95 and 17-hr Zr97; search
+#+          for other Zr and Nb fission chains.
+#AUTHOR(S)  C.D.Coryell, A.Y.Sakakura, A.M.Ross
+#REF-CODE   (J,PR,77,755(P3),1950)
+#REFERENCE  Phys.Rev. 77 (1950) 755(P3)
+#DATASETS   0
+#
+#DATASET    13403002 
+#DATE       19900601
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025300          0.060000 3.0000-3 40.00000 95.00000 9.000000            C.D.Coryell+         (50)13403  2 
+    1 92235   8 459    0.025300          0.062000 3.0000-3 40.00000 97.00000 9.000000            C.D.Coryell+         (50)13403  2 
+#/DATA      2
+#/DATASET

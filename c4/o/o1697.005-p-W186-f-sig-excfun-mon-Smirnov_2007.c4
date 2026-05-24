@@ -1,0 +1,32 @@
+#ENTRY      O1697
+#AUTHOR1    A.N.Smirnov+
+#YEAR       2007
+#INSTITUTE  (4RUSRI)
+#TITLE      Nucleon-induced fission cross-sections of tantalum and
+#+          separated tungsten isotopes and compound nucleus effect
+#+          in intermediate energy region.
+#AUTHOR(S)  A.N.Smirnov, O.I.Batenkov, V.P.Eismont, N.P.Filatov, J.Blomgren, 
+#+          H.Conde, A.V.Prokofiev, S.G.Mashnik
+#REF-CODE   (C,2007NICE,2,1095,2007)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 2 page 1095
+#DATASETS   0
+#
+#DATASET    O1697005 
+#DATE       20081115
+#REACTION   74-W-186(P,F),,SIG
+#PROJ       1001
+#TARG       74186
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 74186   3  18 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 74186   3  18 C  4.0400+7 200000.0 2.6000-6 4.0000-7                                       A.N.Smirnov+         (07)O1697  5 
+ 1001 74186   3  18 C  4.3500+7 900000.0 4.5000-6 8.0000-7                                       A.N.Smirnov+         (07)O1697  5 
+ 1001 74186   3  18 C  5.9200+7 1000000. 2.4000-5 5.0000-6                                       A.N.Smirnov+         (07)O1697  5 
+ 1001 74186   3  18 C  9.3200+7 1000000. 3.4000-4 4.0000-5                                       A.N.Smirnov+         (07)O1697  5 
+ 1001 74186   3  18 C  1.3050+8 1000000. 9.8000-4 1.2000-4                                       A.N.Smirnov+         (07)O1697  5 
+ 1001 74186   3  18 C  1.6960+8 1000000. 2.0000-3 2.0000-4                                       A.N.Smirnov+         (07)O1697  5 
+#/DATA      6
+#/DATASET

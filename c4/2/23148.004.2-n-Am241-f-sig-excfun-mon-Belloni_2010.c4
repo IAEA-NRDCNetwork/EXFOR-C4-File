@@ -1,0 +1,61 @@
+#ENTRY      23148
+#AUTHOR1    F.Belloni+
+#YEAR       2010
+#INSTITUTE  (2ZZZCER)
+#TITLE      Neutron-induced fission cross-section of U-233,Am-241
+#+          and Am-243 in the energy range 0.5 < En < 20 MeV.
+#AUTHOR(S)  F.Belloni, P.M.Milazzo, M.Calviani, N.Colonna, P.Mastinu, 
+#+          U.Abbondanno, G.Aerts, H.Alvarez, F.Alvarez-Velarde, S.Andriamonje, 
+#+          J.Andrzejewski, L.Audouin, G.Badurek, P.Baumann, F.Becvar, 
+#+          E.Berthoumieux, F.Calvino, D.Cano-Ott, R.Capote, C.Carrapico, 
+#+          P.Cennini, V.Chepel, E.Chiaveri, G.Cortes, A.Couture, J.Cox, 
+#+          M.Dahlfors, S.David, I.Dillmann, C.Domingo-Pardo, W.Dridi, 
+#+          I.Duran, C.Eleftheriadis, M.Embid-Segura, L.Ferrant, A.Ferrari, 
+#+          R.Ferreira-Marques, K.Fujii, W.Furman, I.Goncalves, E.Gonzalez-Romero, 
+#+          A.Goverdovski, F.Gramegna, C.Guerrero, F.Gunsing, B.Haas, 
+#+          R.Haight, M.Heil, A.Herrera-Martinez, M.Igashira, E.Jericha, 
+#+          F.Kaeppeler, Y.Kadi, D.Karadimos, D.Karamanis, M.Kerveno, 
+#+          P.Koehler, E.Kossionides, M.Krticka, C.Lamboudis, H.Leeb, 
+#+          A.Lindote, I.Lopes, M.Lozano, S.Lukic, J.Marganiec, S.Marrone, 
+#+          T.Martinez, C.Massimi, A.Mengoni, C.Moreau, M.Mosconi, F.Neves, 
+#+          H.Oberhummer, S.O'Brien, J.Pancin, C.Papachristodoulou, 
+#+          C.Papadopoulos, C.Paradela, N.Patronis, A.Pavlik, P.Pavlopoulos, 
+#+          L.Perrot, M.T.Pigni, R.Plag, A.Plompen, A.Plukis, A.Poch, 
+#+          J.Praena, C.Pretel, J.Quesada, T.Rauscher, R.Reifarth, M.Rosetti, 
+#+          C.Rubbia, G.Rudolf, P.Rullhusen, J.Salgado, C.Santos, L.Sarchiapone, 
+#+          I.Savvidis, C.Stephan, G.Tagliente, J.L.Tain, L.Tassan-Got, 
+#+          L.Tavora, R.Terlizzi, G.Vannini, P.Vaz, A.Ventura, D.Villamarin, 
+#+          M.C.Vincente, V.Vlachoudis, R.Vlastou, F.Voss, S.Walter, 
+#+          M.Wiescher, K.Wisshak, M.Barbagallo, M.H.Meaze, D.Tarrio
+#REF-CODE   (C,2010KRAKOW,,113,2010)
+#REFERENCE  Proceedings of 6 Workshop Neutron Meas., Eval.& Appl., Krakow, 2010 page 113
+#DATASETS   0
+#
+#DATASET    231480042
+#DATE       20200117
+#REACTION   95-AM-241(N,F),,SIG,,AV
+#PROJ       1
+#TARG       95241
+#MF         3
+#MT         18
+#C4BEGIN    [    1 95241   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95241   3  18    531500.0 30500.00 0.190000 0.020000                                       F.Belloni+           (10)23148  42
+    1 95241   3  18    596500.0 34500.00 0.210000 0.020000                                       F.Belloni+           (10)23148  42
+    1 95241   3  18    669500.0 38500.00 0.350000 0.020000                                       F.Belloni+           (10)23148  42
+    1 95241   3  18    751000.0 43000.00 0.610000 0.030000                                       F.Belloni+           (10)23148  42
+    1 95241   3  18    842500.0 48500.00 0.870000 0.040000                                       F.Belloni+           (10)23148  42
+    1 95241   3  18    960500.0 69500.00 1.250000 0.040000                                       F.Belloni+           (10)23148  42
+    1 95241   3  18    1145000. 115000.0 1.660000 0.030000                                       F.Belloni+           (10)23148  42
+    1 95241   3  18    1445000. 185000.0 1.850000 0.030000                                       F.Belloni+           (10)23148  42
+    1 95241   3  18    1935000. 305000.0 1.830000 0.030000                                       F.Belloni+           (10)23148  42
+    1 95241   3  18    2700000. 460000.0 1.820000 0.030000                                       F.Belloni+           (10)23148  42
+    1 95241   3  18    3815000. 655000.0 1.830000 0.040000                                       F.Belloni+           (10)23148  42
+    1 95241   3  18    5390000. 920000.0 1.790000 0.050000                                       F.Belloni+           (10)23148  42
+    1 95241   3  18    7740000. 1430000. 2.510000 0.070000                                       F.Belloni+           (10)23148  42
+    1 95241   3  18    1.2285+7 3115000. 2.310000 0.060000                                       F.Belloni+           (10)23148  42
+    1 95241   3  18    2.3510+7 8110000. 2.390000 0.050000                                       F.Belloni+           (10)23148  42
+#/DATA      15
+#/DATASET

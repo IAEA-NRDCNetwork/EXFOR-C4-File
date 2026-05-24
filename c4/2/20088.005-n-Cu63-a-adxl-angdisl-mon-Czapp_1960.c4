@@ -1,0 +1,26 @@
+#ENTRY      20088
+#AUTHOR1    B.Czapp+
+#YEAR       1960
+#INSTITUTE  (2AUSIRK)
+#TITLE      Cross-section and alpha energy distribution
+#+          measurements for the Cu-63(n,alpha) reaction
+#AUTHOR(S)  B.Czapp, H.Vonach
+#REF-CODE   (J,OSA,97,13,1960)
+#REFERENCE  Anz.Oest.A.W.Nat. 97 (1960) 13
+#DATASETS   0
+#
+#DATASET    20088005 
+#DATE       20230319
+#REACTION   29-CU-63(N,A)27-CO-60,,DA
+#PROJ       1
+#TARG       29063
+#MF         4
+#MT         107
+#PRODUCT    27-CO-60
+#C4BEGIN    [    1 29063   4 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29063   4 107    1.4000+7          5.3000-3 1.3250-3 0.989000                              B.Czapp+             (60)20088  5 
+#/DATA      1
+#/DATASET

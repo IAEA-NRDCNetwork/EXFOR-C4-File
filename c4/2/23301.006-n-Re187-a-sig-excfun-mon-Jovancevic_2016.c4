@@ -1,0 +1,33 @@
+#ENTRY      23301
+#AUTHOR1    N.Jovancevic+
+#YEAR       2016
+#INSTITUTE  (2ZZZGEL)
+#TITLE      The neutron cross-section functions for the reactions
+#+          187Re(n,a)184Ta, 187Re(n,2n)186Re and 185Re(n,2n)184Re
+#+          in the energy range 13.08 - 19.5 MeV.
+#AUTHOR(S)  N.Jovancevic, L.Daraban, H.Stroh, S.Oberstedt, M.Hult, C.Bonaldi, 
+#+          W.Geerts, F.-J.Hambsch, G.Lutter, G.Marissens, M.Vidali
+#REF-CODE   (J,EPJ/A,52,148,2016)
+#REFERENCE  Eur.Phys.J.A 52 (2016) 148 (doi:10.1140/epja/i2016-16148-4)
+#DATASETS   0
+#
+#DATASET    23301006 
+#DATE       20160810
+#REACTION   75-RE-187(N,A)73-TA-184,,SIG
+#PROJ       1
+#TARG       75187
+#MF         3
+#MT         107
+#PRODUCT    73-TA-184
+#C4BEGIN    [    1 75187   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 75187   3 107    1.8300+7 1200000. 1.5200-3 8.0000-5                                       N.Jovancevic+        (16)23301  6 
+    1 75187   3 107    1.7300+7 1000000. 9.9000-4 5.0000-5                                       N.Jovancevic+        (16)23301  6 
+    1 75187   3 107    1.6800+7 900000.0 1.0600-3 6.0000-5                                       N.Jovancevic+        (16)23301  6 
+    1 75187   3 107    1.6100+7 700000.0 1.0700-3 6.0000-5                                       N.Jovancevic+        (16)23301  6 
+    1 75187   3 107    1.5300+7 600000.0 8.9000-4 5.0000-5                                       N.Jovancevic+        (16)23301  6 
+    1 75187   3 107    1.4800+7 500000.0 5.3000-4 3.0000-5                                       N.Jovancevic+        (16)23301  6 
+#/DATA      6
+#/DATASET

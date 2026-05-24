@@ -1,0 +1,27 @@
+#ENTRY      23744
+#AUTHOR1    S.Nakamura+
+#YEAR       2021
+#INSTITUTE  (2JPNJAE)
+#TITLE      Thermal-neutron capture cross sections and resonance
+#+          integrals of the 243Am(n,g)244gAm and
+#+          243Am(n,g)244m+gAm reactions
+#AUTHOR(S)  S.Nakamura, Y.Shibahara, S.Endo, A.Kimura
+#REF-CODE   (J,NST,58,259,2021)
+#REFERENCE  J.Nucl.Sci.Technol. 58 (2021) 259 (doi:10.1080/00223131.2020.1819907)
+#DATASETS   0
+#
+#DATASET    23744004 
+#DATE       20210906
+#REACTION   95-AM-243(N,G)95-AM-244,,SIG
+#PROJ       1
+#TARG       95243
+#MF         3
+#MT         102
+#PRODUCT    95-AM-244
+#C4BEGIN    [    1 95243   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95243   3 102    0.025300          88.50000 4.000000                                       S.Nakamura+          (21)23744  4 
+#/DATA      1
+#/DATASET

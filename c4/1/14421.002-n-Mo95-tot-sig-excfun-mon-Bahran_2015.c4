@@ -1,0 +1,37 @@
+#ENTRY      14421
+#AUTHOR1    R.Bahran+
+#YEAR       2015
+#INSTITUTE  (1USARPI)
+#TITLE      Isotopic molybdenum total neutron cross section in
+#+          the unresolved resonance region
+#AUTHOR(S)  R.Bahran, D.Barry, R.Block, G.Leinweber, M.Rapp, A.Daskalakis, 
+#+          E.Blain, D.Williams, B.McDermott, L.Leal, Y.Danon
+#REF-CODE   (J,PR/C,92,024601,2015)
+#REFERENCE  Phys.Rev.C 92 (2015) 024601 (doi:10.1103/PhysRevC.92.024601)
+#DATASETS   0
+#
+#DATASET    14421002 
+#DATE       20150721
+#REACTION   42-MO-95(N,TOT),,SIG
+#PROJ       1
+#TARG       42095
+#MF         3
+#MT         1
+#C4BEGIN    [    1 42095   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42095   3   1    176090.0          9.300000 0.200000                                       R.Bahran+            (15)14421  2 
+    1 42095   3   1    214981.0          9.260000 0.080000                                       R.Bahran+            (15)14421  2 
+    1 42095   3   1    268338.0          9.200000 0.090000                                       R.Bahran+            (15)14421  2 
+    1 42095   3   1    312444.0          9.140000 0.110000                                       R.Bahran+            (15)14421  2 
+    1 42095   3   1    333183.0          8.900000 0.100000                                       R.Bahran+            (15)14421  2 
+    1 42095   3   1    356059.0          8.950000 0.100000                                       R.Bahran+            (15)14421  2 
+    1 42095   3   1    381373.0          8.840000 0.110000                                       R.Bahran+            (15)14421  2 
+    1 42095   3   1    409486.0          8.580000 0.140000                                       R.Bahran+            (15)14421  2 
+    1 42095   3   1    440827.0          8.600000 0.260000                                       R.Bahran+            (15)14421  2 
+    1 42095   3   1    475908.0          8.650000 0.150000                                       R.Bahran+            (15)14421  2 
+    1 42095   3   1    515349.0          8.510000 0.140000                                       R.Bahran+            (15)14421  2 
+    1 42095   3   1    559905.0          8.230000 0.140000                                       R.Bahran+            (15)14421  2 
+#/DATA      12
+#/DATASET

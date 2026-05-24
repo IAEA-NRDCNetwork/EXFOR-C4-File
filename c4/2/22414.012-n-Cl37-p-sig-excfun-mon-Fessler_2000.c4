@@ -1,0 +1,31 @@
+#ENTRY      22414
+#AUTHOR1    A.Fessler+
+#YEAR       2000
+#INSTITUTE  (2ZZZGEL)
+#TITLE      Neutron activation cross-section measurements
+#+          from 16 to 20 MeV for isotopes of F, Na, Mg, Al, Si,
+#+          P, Cl, Ti, V, Mn, Fe, Nb, Sn, and Ba
+#AUTHOR(S)  A.Fessler, A.J.M.Plompen, D.L.Smith, J.W.Meadows, Y.Ikeda
+#REF-CODE   (J,NSE,134,(2),171,2000)
+#REFERENCE  Nucl.Sci.Eng. 134 No.2 (2000) 171 (doi:10.13182/NSE99-14)
+#DATASETS   0
+#
+#DATASET    22414012 
+#DATE       20170820
+#REACTION   17-CL-37(N,P)16-S-37,,SIG
+#PROJ       1
+#TARG       17037
+#MF         3
+#MT         103
+#PRODUCT    16-S-37
+#C4BEGIN    [    1 17037   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 17037   3 103 A  1.6124+7 62000.00 0.025500 1.9800-3                                       A.Fessler+           (00)22414 12 
+    1 17037   3 103 A  1.7112+7 40000.00 0.021050 2.0200-3                                       A.Fessler+           (00)22414 12 
+    1 17037   3 103 A  1.7879+7 32000.00 0.019880 1.4700-3                                       A.Fessler+           (00)22414 12 
+    1 17037   3 103 A  1.9226+7 11000.00 0.014890 1.2600-3                                       A.Fessler+           (00)22414 12 
+    1 17037   3 103 A  2.0450+7 10000.00 0.011110 1.1400-3                                       A.Fessler+           (00)22414 12 
+#/DATA      5
+#/DATASET

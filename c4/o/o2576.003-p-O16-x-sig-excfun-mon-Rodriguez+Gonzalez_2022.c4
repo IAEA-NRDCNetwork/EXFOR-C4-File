@@ -1,0 +1,40 @@
+#ENTRY      O2576
+#AUTHOR1    T.Rodriguez-Gonzalez+
+#YEAR       2022
+#INSTITUTE  (2SPNSEU)
+#TITLE      Production yields at the distal fall-off of the beta+
+#+          emitters 11C and 13N for in-Vivo range verification
+#+          in proton therapy
+#AUTHOR(S)  T.Rodriguez-Gonzalez, C.Guerrero, M.D.C.Jimenez-Ramos, J.Lerendegui-Marco, 
+#+          M.D.L.A.Millan-Callado, A.Parrado, J.Gomez, J.M.Quesada
+#REF-CODE   (J,RPC,190,109759,2022)
+#REFERENCE  Radiat.Phys.Chem. 190 (2022) 109759 (doi:10.1016/j.radphyschem.2021.109759)
+#DATASETS   0
+#
+#DATASET    O2576003 
+#DATE       20230615
+#REACTION   8-O-16(P,X)6-C-11,,SIG
+#PROJ       1001
+#TARG       8016
+#MF         3
+#MT         454
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  8016   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   3 454    1.5800+7 150000.0 5.4000-4 1.3000-4            6011.9                     T.Rodriguez-Gonzalez+(22)O2576  3 
+ 1001  8016   3 454    1.5200+7 150000.0 5.2000-4 1.5000-4            6011.9                     T.Rodriguez-Gonzalez+(22)O2576  3 
+ 1001  8016   3 454    1.4500+7 150000.0 7.3000-4 1.6000-4            6011.9                     T.Rodriguez-Gonzalez+(22)O2576  3 
+ 1001  8016   3 454    1.3800+7 200000.0 3.0000-4 6.0000-4            6011.9                     T.Rodriguez-Gonzalez+(22)O2576  3 
+ 1001  8016   3 454    1.3100+7 200000.0 6.7000-4 2.2000-4            6011.9                     T.Rodriguez-Gonzalez+(22)O2576  3 
+ 1001  8016   3 454    1.2300+7 200000.0 6.0000-4 3.0000-4            6011.9                     T.Rodriguez-Gonzalez+(22)O2576  3 
+ 1001  8016   3 454    1.1500+7 200000.0 8.8000-4 2.3000-4            6011.9                     T.Rodriguez-Gonzalez+(22)O2576  3 
+ 1001  8016   3 454    1.0700+7 200000.0 1.5000-3 3.0000-4            6011.9                     T.Rodriguez-Gonzalez+(22)O2576  3 
+ 1001  8016   3 454    9800000. 250000.0 1.5400-3 2.2000-4            6011.9                     T.Rodriguez-Gonzalez+(22)O2576  3 
+ 1001  8016   3 454    8800000. 250000.0 1.4600-3 2.0000-4            6011.9                     T.Rodriguez-Gonzalez+(22)O2576  3 
+ 1001  8016   3 454    7700000. 300000.0 1.9000-3 3.0000-4            6011.9                     T.Rodriguez-Gonzalez+(22)O2576  3 
+ 1001  8016   3 454    6500000. 350000.0 1.8500-3 2.0000-4            6011.9                     T.Rodriguez-Gonzalez+(22)O2576  3 
+ 1001  8016   3 454    5000000. 400000.0 1.8800-3 2.1000-4            6011.9                     T.Rodriguez-Gonzalez+(22)O2576  3 
+#/DATA      13
+#/DATASET

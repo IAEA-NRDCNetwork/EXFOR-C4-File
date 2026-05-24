@@ -1,0 +1,29 @@
+#ENTRY      10501
+#AUTHOR1    S.S.Malik+
+#YEAR       1970
+#INSTITUTE  (1USABNL)
+#TITLE      Factors in the precision of slow neutron capture cross
+#+          section measurements using a simple Moxon-Rae
+#+          detector
+#AUTHOR(S)  S.S.Malik, G.Brunhart, F.J.Shore, V.L.Sailor
+#REF-CODE   (J,NIM,86,83,1970)
+#REFERENCE  Nucl.Intrum.Meth. 86 (1970) 83 (doi:10.1016/0029-554X(70)90039-X)
+#DATASETS   0
+#
+#DATASET    10501009 
+#DATE       20040427
+#REACTION   73-TA-181(N,TOT),,SIG
+#PROJ       1
+#TARG       73181
+#MF         3
+#MT         1
+#C4BEGIN    [    1 73181   3   1 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 73181   3   1 A  0.070000          18.10000                                                S.S.Malik+           (70)10501  9 
+    1 73181   3   1 A  0.115000          16.10000                                                S.S.Malik+           (70)10501  9 
+    1 73181   3   1 A  0.364000          12.10000                                                S.S.Malik+           (70)10501  9 
+    1 73181   3   1 A  0.835000          10.30000                                                S.S.Malik+           (70)10501  9 
+#/DATA      4
+#/DATASET

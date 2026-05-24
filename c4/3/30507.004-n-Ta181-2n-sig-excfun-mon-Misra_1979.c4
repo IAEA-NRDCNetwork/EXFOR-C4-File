@@ -1,0 +1,26 @@
+#ENTRY      30507
+#AUTHOR1    S.C.Misra+
+#YEAR       1979
+#INSTITUTE  (3INDTRM)
+#TITLE      The (n,2n) cross sections of Rb-85, Ag-107 and Ta-181
+#+          at 14.6 MeV.
+#AUTHOR(S)  S.C.Misra, U.C.Gupta
+#REF-CODE   (J,JP/G,5,(6),855,197906)
+#REFERENCE  J.Phys.G 5 No.6 (1979) 855 (doi:10.1088/0305-4616/5/6/011)
+#DATASETS   0
+#
+#DATASET    30507004 
+#DATE       20090312
+#REACTION   73-TA-181(N,2N)73-TA-180-G,,SIG
+#PROJ       1
+#TARG       73181
+#MF         3
+#MT         16
+#PRODUCT    73-TA-180-G
+#C4BEGIN    [    1 73181   3  16G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 73181   3  16G   1.4600+7          0.900000 0.047000                                       S.C.Misra+           (79)30507  4 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      C1602
+#AUTHOR1    H.Werle+
+#YEAR       1973
+#INSTITUTE  (2GERKFK)
+#TITLE      The neutron continuum from the 9Be+alpha reaction
+#AUTHOR(S)  H.Werle, L.Van Der Zwan, K.W.Geiger
+#REF-CODE   (J,ZP,259,275,1973)
+#REFERENCE  Z.Phys. 259 (1973) 275
+#DATASETS   0
+#
+#DATASET    C1602004 
+#DATE       20080304
+#REACTION   4-BE-9(A,N)6-C-12,PAR,DA
+#PROJ       2004
+#TARG       4009
+#MF         4
+#MT         50
+#PRODUCT    6-C-12
+#C4BEGIN    [ 2004  4009   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  4009   4  50    7440000.          4.3000-3 2.0000-3 0.866025          9640000.         LVLH.Werle+             (73)C1602  4 
+ 2004  4009   4  50    7440000.          7.6000-3 2.0000-3 0.500000          9640000.         LVLH.Werle+             (73)C1602  4 
+ 2004  4009   4  50    7440000.          2.2000-3 8.0000-4 6.123-17          9640000.         LVLH.Werle+             (73)C1602  4 
+ 2004  4009   4  50    7440000.          2.6000-3 8.0000-4-0.500000          9640000.         LVLH.Werle+             (73)C1602  4 
+#/DATA      4
+#/DATASET

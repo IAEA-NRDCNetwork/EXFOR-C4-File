@@ -1,0 +1,40 @@
+#ENTRY      O2186
+#AUTHOR1    M.Mazzocco+
+#YEAR       2015
+#INSTITUTE  (2ITYPAD)
+#TITLE      Direct and compound-nucleus reaction mechanisms in the
+#+          7Be + 58Ni system at near-barrier energies.
+#AUTHOR(S)  M.Mazzocco, D.Torresi, D.Pierroutsakou, N.Keeley, L.Acosta, 
+#+          A.Boiano, C.Boiano, T.Glodariu, A.Guglielmetti, M.La Commara, 
+#+          J.A.Lay, I.Martel, C.Mazzocchi, P.Molini, C.Parascandolo, 
+#+          C.Signorini, R.Silvestri, F.Soramel, V.Soukeras, E.Stiliaris, 
+#+          E.Strano, L.Stroe, K.Zerva
+#REF-CODE   (J,PR/C,92,024615,2015)
+#REFERENCE  Phys.Rev.C 92 (2015) 024615 (doi:10.1103/PhysRevC.92.024615)
+#DATASETS   0
+#
+#DATASET    O2186003 
+#DATE       20151107
+#REACTION   28-NI-58(4-BE-7,X)2-HE-3,,DA
+#PROJ       4007
+#TARG       28058
+#MF         4
+#MT         206
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 4007 28058   4 206  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4007 28058   4 206    2.2000+7          2.8000-3 5.8400-4 0.706242                              M.Mazzocco+          (15)O2186  3 
+ 4007 28058   4 206    2.2000+7          4.5300-3 7.8500-4 0.600699                              M.Mazzocco+          (15)O2186  3 
+ 4007 28058   4 206    2.2000+7          4.3700-3 4.5200-4 0.528735                              M.Mazzocco+          (15)O2186  3 
+ 4007 28058   4 206    2.2000+7          4.6000-3 7.3100-4 0.444479                              M.Mazzocco+          (15)O2186  3 
+ 4007 28058   4 206    2.2000+7          4.6600-3 5.4400-4 0.413422                              M.Mazzocco+          (15)O2186  3 
+ 4007 28058   4 206    2.2000+7          5.0200-3 9.4200-4 0.338574                              M.Mazzocco+          (15)O2186  3 
+ 4007 28058   4 206    2.2000+7          4.4400-3 9.6500-4 0.294040                              M.Mazzocco+          (15)O2186  3 
+ 4007 28058   4 206    2.2000+7          2.2300-3 1.4100-4-0.519370                              M.Mazzocco+          (15)O2186  3 
+ 4007 28058   4 206    2.2000+7          1.4900-3 2.7900-4-0.614561                              M.Mazzocco+          (15)O2186  3 
+ 4007 28058   4 206    2.2000+7          1.1000-3 1.9000-4-0.718855                              M.Mazzocco+          (15)O2186  3 
+ 4007 28058   4 206    2.2000+7          1.0400-3 2.0700-4-0.818049                              M.Mazzocco+          (15)O2186  3 
+#/DATA      11
+#/DATASET

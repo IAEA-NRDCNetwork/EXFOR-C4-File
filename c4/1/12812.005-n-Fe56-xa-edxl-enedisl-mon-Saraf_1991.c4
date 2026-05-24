@@ -1,0 +1,53 @@
+#ENTRY      12812
+#AUTHOR1    S.K.Saraf+
+#YEAR       1991
+#INSTITUTE  (1USAOHO)
+#TITLE      CROSS SECTIONS AND SPECTRA FOR THE 54FE AND 56FE
+#+          (N,XP) AND (N,X ALPHA) REACTIONS BETWEEN 8 AND 15 MEV
+#AUTHOR(S)  S.K.Saraf, C.E.Brent, P.M.Egun, S.M.Grimes, V.Mishra, R.S.Pedroni
+#REF-CODE   (J,NSE,107,365,9104)
+#REFERENCE  Nucl.Sci.Eng. 107 (1991) 365 (doi:10.13182/NSE88-120)
+#DATASETS   0
+#
+#DATASET    12812005 
+#DATE       19910716
+#REACTION   26-FE-56(N,X)2-HE-4,,DE
+#PROJ       1
+#TARG       26056
+#MF         5
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1 26056   5 207 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   5 207 A  9500000. 250000.0 6.000-10 3.000-10                   5100000.          E2S.K.Saraf+           (91)12812  5 
+    1 26056   5 207 A  9500000. 250000.0 1.6000-9 4.000-10                   6100000.          E2S.K.Saraf+           (91)12812  5 
+    1 26056   5 207 A  9500000. 250000.0 6.4000-9 8.000-10                   7100000.          E2S.K.Saraf+           (91)12812  5 
+    1 26056   5 207 A  9500000. 250000.0 4.4000-9 6.000-10                   8100000.          E2S.K.Saraf+           (91)12812  5 
+    1 26056   5 207 A  9500000. 250000.0 5.000-10 2.500-10                   9100000.          E2S.K.Saraf+           (91)12812  5 
+    1 26056   5 207 A  9500000. 250000.0 4.000-10 2.500-10                   1.0100+7          E2S.K.Saraf+           (91)12812  5 
+#/DATA      6
+#/DATASET
+#
+#DATASET    12812005 
+#DATE       19910716
+#REACTION   26-FE-56(N,X)2-HE-4,,DE
+#PROJ       1
+#TARG       26056
+#MF         5
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1 26056   5 207 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   5 207 A  1.1000+7 200000.0 7.000-10 3.000-10                   4900000.          E2S.K.Saraf+           (91)12812  5 
+    1 26056   5 207 A  1.1000+7 200000.0 2.3000-9 4.000-10                   5900000.          E2S.K.Saraf+           (91)12812  5 
+    1 26056   5 207 A  1.1000+7 200000.0 5.7000-9 8.500-10                   6900000.          E2S.K.Saraf+           (91)12812  5 
+    1 26056   5 207 A  1.1000+7 200000.0 1.1500-8 2.1000-9                   7900000.          E2S.K.Saraf+           (91)12812  5 
+    1 26056   5 207 A  1.1000+7 200000.0 5.4000-9 7.500-10                   8900000.          E2S.K.Saraf+           (91)12812  5 
+    1 26056   5 207 A  1.1000+7 200000.0 5.9000-9 8.000-10                   9900000.          E2S.K.Saraf+           (91)12812  5 
+    1 26056   5 207 A  1.1000+7 200000.0 2.3000-9 4.000-10                   1.0900+7          E2S.K.Saraf+           (91)12812  5 
+#/DATA      7
+#/DATASET

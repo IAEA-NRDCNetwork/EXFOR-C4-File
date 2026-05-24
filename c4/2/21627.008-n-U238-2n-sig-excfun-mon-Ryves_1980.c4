@@ -1,0 +1,26 @@
+#ENTRY      21627
+#AUTHOR1    T.B.Ryves+
+#YEAR       1980
+#INSTITUTE  (2UK NPL)
+#TITLE      The Ta-181(n,2n)Ta-180-m cross section for 14.68 MeV
+#+          neutrons
+#AUTHOR(S)  T.B.Ryves, P.Kolkowski
+#REF-CODE   (J,JP/G,6,771,1980)
+#REFERENCE  J.Phys.G 6 (1980) 771 (doi:10.1088/0305-4616/6/6/013)
+#DATASETS   0
+#
+#DATASET    21627008 
+#DATE       20230211
+#REACTION   92-U-238(N,2N)92-U-237,,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         16
+#PRODUCT    92-U-237
+#C4BEGIN    [    1 92238   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3  16    1.4680+7 30000.00 0.778000 0.023340                                       T.B.Ryves+           (80)21627  8 
+#/DATA      1
+#/DATASET

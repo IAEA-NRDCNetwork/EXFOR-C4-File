@@ -1,0 +1,44 @@
+#ENTRY      D4027
+#AUTHOR1    F.Tarkanyi+
+#YEAR       1994
+#INSTITUTE  (3HUNDEB)
+#TITLE      Cross section of proton induced nuclear reaction on
+#+          enriched Cd-111 and Cd-112 for the production of in-
+#+          111 for use in nuclear medicine.
+#AUTHOR(S)  F.Tarkanyi, F.Szelecsenyi, P.Kopecky, T.Molnar, L.Ando, 
+#+          P.Mikecz, Gy.Toth, A.Rydl
+#REF-CODE   (J,ARI,45,239,1994)
+#REFERENCE  Appl.Radiat.Isot. 45 (1994) 239 (doi:10.1016/0969-8043(94)90018-3)
+#DATASETS   0
+#
+#DATASET    D4027003 
+#DATE       20151217
+#REACTION   48-CD-111(P,2N)49-IN-110-G,,SIG
+#PROJ       1001
+#TARG       48111
+#MF         3
+#MT         16
+#PRODUCT    49-IN-110-G
+#C4BEGIN    [ 1001 48111   3  16G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 48111   3  16G   1.3300+7 500000.0 0.025700 3.2000-3                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   1.4700+7 400000.0 0.084700 0.010300                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   1.5800+7 400000.0 0.118000 0.014000                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   1.7200+7 400000.0 0.160000 0.019000                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   1.8000+7 500000.0 0.207000 0.025000                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   1.8400+7 300000.0 0.215000 0.026000                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   1.8700+7 500000.0 0.234000 0.028000                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   1.9500+7 300000.0 0.234000 0.028000                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   2.0300+7 500000.0 0.252000 0.030000                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   2.0500+7 300000.0 0.273000 0.033000                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   2.1500+7 200000.0 0.271000 0.032000                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   2.1800+7 400000.0 0.282000 0.034000                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   2.2900+7 400000.0 0.318000 0.039000                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   2.4300+7 400000.0 0.299000 0.037000                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   2.6000+7 300000.0 0.198000 0.024000                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   2.7700+7 300000.0 0.137000 0.017000                                       F.Tarkanyi+          (94)D4027  3 
+ 1001 48111   3  16G   2.9300+7 200000.0 0.092000 0.011000                                       F.Tarkanyi+          (94)D4027  3 
+#/DATA      17
+#/DATASET

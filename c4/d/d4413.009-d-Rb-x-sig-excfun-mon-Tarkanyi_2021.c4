@@ -1,0 +1,33 @@
+#ENTRY      D4413
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2021
+#INSTITUTE  (3HUNDEB)
+#TITLE      Activation cross section data of deuteron induced
+#+          nuclear reactions on rubidium up to 50 MeV
+#AUTHOR(S)  F.Tarkanyi, A.Hermanne, F.Ditroi, S.Takacs, A.V.Ignatyuk, 
+#+          I.Spahn, S.Spellerberg
+#REF-CODE   (J,EPJ/A,57,21,2021)
+#REFERENCE  Eur.Phys.J.A 57 (2021) 21 (doi:10.1140/epja/s10050-020-00327-1)
+#DATASETS   0
+#
+#DATASET    D4413009 
+#DATE       20210428
+#REACTION   37-RB-0(D,X)37-RB-82-M,,SIG
+#PROJ       1002
+#TARG       37000
+#MF         3
+#MT         454
+#PRODUCT    37-RB-82-M
+#C4BEGIN    [ 1002 37000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 37000   3 454    4.9620+7 300000.0 0.033470 4.0200-3           37082.7                     F.Tarkanyi+          (21)D4413  9 
+ 1002 37000   3 454    4.8030+7 320000.0 0.026830 3.2100-3           37082.7                     F.Tarkanyi+          (21)D4413  9 
+ 1002 37000   3 454    4.6810+7 340000.0 0.022460 2.7000-3           37082.7                     F.Tarkanyi+          (21)D4413  9 
+ 1002 37000   3 454    4.5620+7 360000.0 0.014630 1.7600-3           37082.7                     F.Tarkanyi+          (21)D4413  9 
+ 1002 37000   3 454    4.4420+7 380000.0 9.6000-3 1.1700-3           37082.7                     F.Tarkanyi+          (21)D4413  9 
+ 1002 37000   3 454    4.3270+7 400000.0 6.5500-3 8.1000-4           37082.7                     F.Tarkanyi+          (21)D4413  9 
+ 1002 37000   3 454    4.2130+7 430000.0 7.5100-3 9.0000-4           37082.7                     F.Tarkanyi+          (21)D4413  9 
+#/DATA      7
+#/DATASET

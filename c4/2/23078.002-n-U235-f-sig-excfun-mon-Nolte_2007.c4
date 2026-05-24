@@ -1,0 +1,35 @@
+#ENTRY      23078
+#AUTHOR1    R.Nolte+
+#YEAR       2007
+#INSTITUTE  (2GERPTB)
+#TITLE      Cross sections for neutron-induced fission of 235U,
+#+          238U, 209Bi, and natPb in the energy range from 33
+#+          to 200 MeV measured relative to n-p scattering
+#AUTHOR(S)  R.Nolte, M.S.Allie, F.D.Brooks, A.Buffler, V.Dangendorf, 
+#+          J.P.Meulders, H.Schuhmacher, F.D.Smit, M.Weierganz, S.Roettger
+#REF-CODE   (J,NSE,156,197,2007)
+#REFERENCE  Nucl.Sci.Eng. 156 (2007) 197 (doi:10.13182/NSE06-14)
+#DATASETS   0
+#
+#DATASET    23078002 
+#DATE       20201217
+#REACTION   92-U-235(N,F),,SIG
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18 A  3.2800+7 160000.0 2.080000 0.120000                                       R.Nolte+             (07)23078  2 
+    1 92235   3  18 A  3.3000+7 180000.0 2.100000 0.110000                                       R.Nolte+             (07)23078  2 
+    1 92235   3  18 A  4.4910+7 240000.0 1.970000 0.140000                                       R.Nolte+             (07)23078  2 
+    1 92235   3  18 A  4.6250+7 230000.0 1.960000 0.080000                                       R.Nolte+             (07)23078  2 
+    1 92235   3  18 A  5.9950+7          1.720000 0.100000                                       R.Nolte+             (07)23078  2 
+    1 92235   3  18 A  5.9950+7          1.960000 0.120000                                       R.Nolte+             (07)23078  2 
+    1 92235   3  18 A  9.6500+7 800000.0 1.930000 0.210000                                       R.Nolte+             (07)23078  2 
+    1 92235   3  18 A  1.4700+8 1400000. 1.400000 0.130000                                       R.Nolte+             (07)23078  2 
+    1 92235   3  18 A  1.9900+8 2000000. 1.380000 0.120000                                       R.Nolte+             (07)23078  2 
+#/DATA      9
+#/DATASET

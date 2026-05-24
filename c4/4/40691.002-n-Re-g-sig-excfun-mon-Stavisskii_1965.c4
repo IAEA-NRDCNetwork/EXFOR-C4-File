@@ -1,0 +1,36 @@
+#ENTRY      40691
+#AUTHOR1    Yu.Ya.Stavisskii+
+#YEAR       1965
+#INSTITUTE  (4RUSFEI)
+#TITLE      Fast neutron capture cross sections for rhenium
+#AUTHOR(S)  Yu.Ya.Stavisskii, A.V.Shapar', R.N.Krasnokutskii
+#REF-CODE   (J,SJA,19,905,1965)
+#REFERENCE  Sov.At.Energy 19 (1965) 905 (doi:10.1007/BF01125378)
+#DATASETS   0
+#
+#DATASET    40691002 
+#DATE       20231012
+#REACTION   75-RE-0(N,G),,SIG
+#PROJ       1
+#TARG       75000
+#MF         3
+#MT         102
+#C4BEGIN    [    1 75000   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 75000   3 102 D  20000.00 16000.00 1.800000 0.396000                                       Yu.Ya.Stavisskii+    (65)40691  2 
+    1 75000   3 102 D  38000.00 16000.00 1.400000 0.308000                                       Yu.Ya.Stavisskii+    (65)40691  2 
+    1 75000   3 102 D  60000.00 16000.00 1.100000 0.242000                                       Yu.Ya.Stavisskii+    (65)40691  2 
+    1 75000   3 102 D  93000.00 16000.00 0.850000 0.187000                                       Yu.Ya.Stavisskii+    (65)40691  2 
+    1 75000   3 102 D  120000.0 16000.00 0.720000 0.158400                                       Yu.Ya.Stavisskii+    (65)40691  2 
+    1 75000   3 102 D  165000.0 16000.00 0.670000 0.147400                                       Yu.Ya.Stavisskii+    (65)40691  2 
+    1 75000   3 102 D  180000.0 16000.00 0.600000 0.132000                                       Yu.Ya.Stavisskii+    (65)40691  2 
+    1 75000   3 102 D  225000.0 16000.00 0.530000 0.116600                                       Yu.Ya.Stavisskii+    (65)40691  2 
+    1 75000   3 102 D  295000.0 16000.00 0.470000 0.103400                                       Yu.Ya.Stavisskii+    (65)40691  2 
+    1 75000   3 102 D  320000.0 16000.00 0.420000 0.092400                                       Yu.Ya.Stavisskii+    (65)40691  2 
+    1 75000   3 102 D  430000.0 16000.00 0.350000 0.077000                                       Yu.Ya.Stavisskii+    (65)40691  2 
+    1 75000   3 102 D  810000.0 16000.00 0.290000 0.063800                                       Yu.Ya.Stavisskii+    (65)40691  2 
+    1 75000   3 102 D  1010000. 16000.00 0.275000 0.060500                                       Yu.Ya.Stavisskii+    (65)40691  2 
+#/DATA      13
+#/DATASET

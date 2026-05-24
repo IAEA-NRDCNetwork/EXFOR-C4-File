@@ -1,0 +1,32 @@
+#ENTRY      D4337
+#AUTHOR1    A.Hermanne+
+#YEAR       2015
+#INSTITUTE  (3HUNDEB)
+#TITLE      Extension of activation cross section data of deuteron
+#+          induced nuclear reactions on rhodium up to 50 MeV
+#AUTHOR(S)  A.Hermanne, F.Tarkanyi, S.Takacs, F.Ditroi
+#REF-CODE   (J,NIM/B,362,110,2015)
+#REFERENCE  Nucl.Instrum.Meth.B 362 (2015) 110 (doi:10.1016/j.nimb.2015.09.002)
+#DATASETS   0
+#
+#DATASET    D4337006 
+#DATE       20260305
+#REACTION   45-RH-103(D,X)45-RH-100-G,M+,SIG
+#PROJ       1002
+#TARG       45103
+#MF         3
+#MT         459
+#PRODUCT    45-RH-100-G
+#C4BEGIN    [ 1002 45103   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 45103   3 459    4.9800+7 200000.0 0.186000 0.020000           45100.0                     A.Hermanne+          (15)D4337  6 
+ 1002 45103   3 459    4.7800+7 200000.0 0.137000 0.015000           45100.0                     A.Hermanne+          (15)D4337  6 
+ 1002 45103   3 459    4.5700+7 300000.0 0.094000 0.010000           45100.0                     A.Hermanne+          (15)D4337  6 
+ 1002 45103   3 459    4.3600+7 300000.0 0.050000 6.0000-3           45100.0                     A.Hermanne+          (15)D4337  6 
+ 1002 45103   3 459    4.1300+7 400000.0 0.020000 2.0000-3           45100.0                     A.Hermanne+          (15)D4337  6 
+ 1002 45103   3 459    3.9000+7 500000.0 8.0000-3 1.0000-3           45100.0                     A.Hermanne+          (15)D4337  6 
+ 1002 45103   3 459    3.6600+7 600000.0 2.8000-3 5.0000-4           45100.0                     A.Hermanne+          (15)D4337  6 
+#/DATA      7
+#/DATASET

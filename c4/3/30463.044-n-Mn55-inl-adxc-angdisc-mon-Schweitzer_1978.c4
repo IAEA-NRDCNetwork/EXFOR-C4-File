@@ -1,0 +1,37 @@
+#ENTRY      30463
+#AUTHOR1    Th.Schweitzer+
+#YEAR       1978
+#INSTITUTE  (3DDRTUD)
+#TITLE      Elastic and inelastic scattering of 3.4 MeV neutrons
+#+          by 23Na, 24Mg, 27Al, 28Si, 31P-, 55Mn, 56Fe and 209Bi
+#AUTHOR(S)  Th.Schweitzer, D.Seeliger, S.Unholzer
+#REF-CODE   (W,SEELIGER,197811)
+#REFERENCE  Private communication  (1978)
+#DATASETS   0
+#
+#DATASET    30463044 
+#DATE       20220831
+#REACTION   25-MN-55(N,INL)25-MN-55,PAR,DA
+#PROJ       1
+#TARG       25055
+#MF         4
+#MT         51
+#PRODUCT    25-MN-55
+#C4BEGIN    [    1 25055   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 25055   4  51  C 3400000. 100000.0 0.017400 4.0000-3 0.961741          983000.0         LVLTh.Schweitzer+       (78)30463 44 
+    1 25055   4  51  C 3400000. 100000.0 0.015900 5.5000-3 0.898794          983000.0         LVLTh.Schweitzer+       (78)30463 44 
+    1 25055   4  51  C 3400000. 100000.0 0.013000 5.8000-3 0.807990          983000.0         LVLTh.Schweitzer+       (78)30463 44 
+    1 25055   4  51  C 3400000. 100000.0 0.011900 2.4000-3 0.692143          983000.0         LVLTh.Schweitzer+       (78)30463 44 
+    1 25055   4  51  C 3400000. 100000.0 0.012800 2.7000-3 0.480223          983000.0         LVLTh.Schweitzer+       (78)30463 44 
+    1 25055   4  51  C 3400000. 100000.0 0.012700 2.7000-3 0.233445          983000.0         LVLTh.Schweitzer+       (78)30463 44 
+    1 25055   4  51  C 3400000. 100000.0 0.013100 2.5000-3-0.026177          983000.0         LVLTh.Schweitzer+       (78)30463 44 
+    1 25055   4  51  C 3400000. 100000.0 0.011500 2.2000-3-0.199368          983000.0         LVLTh.Schweitzer+       (78)30463 44 
+    1 25055   4  51  C 3400000. 100000.0 0.013400 2.5000-3-0.350207          983000.0         LVLTh.Schweitzer+       (78)30463 44 
+    1 25055   4  51  C 3400000. 100000.0 0.013900 3.0000-3-0.593419          983000.0         LVLTh.Schweitzer+       (78)30463 44 
+    1 25055   4  51  C 3400000. 100000.0 0.014800 2.8000-3-0.722967          983000.0         LVLTh.Schweitzer+       (78)30463 44 
+    1 25055   4  51  C 3400000. 100000.0 0.012900 2.6000-3-0.876307          983000.0         LVLTh.Schweitzer+       (78)30463 44 
+#/DATA      12
+#/DATASET

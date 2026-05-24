@@ -1,0 +1,43 @@
+#ENTRY      D0823
+#AUTHOR1    M.Krzysiek+
+#YEAR       2016
+#INSTITUTE  (3POLIFJ)
+#TITLE      Pygmy dipole resonance in 140Ce via inelastic
+#+          scattering of 17O
+#AUTHOR(S)  M.Krzysiek, M.Kmiecik, A.Maj, P.Bednarczyk, A.Bracco, F.C.L.Crespi, 
+#+          E.G.Lanza, E.Litvinova, N.Paar, R.Avigo, D.Bazzacco, G.Benzoni, 
+#+          B.Birkenbach, N.Blasi, S.Bottoni, S.Brambilla, F.Camera, 
+#+          S.Ceruti, M.Ciemala, G.de Angelis, P.Desesquelles, J.Eberth, 
+#+          E.Farnea, A.Gadea, A.Giaz, A.Goergen, A.Gottardo, J.Grebosz, 
+#+          H.Hess, R.Isocarte, A.Jungclaus, S.Leoni, J.Ljungvall, S.Lunardi, 
+#+          K.Mazurek, R.Menegazzo, D.Mengoni, C.Michelagnoli, B.Milion, 
+#+          A.I.Morales, D.R.Napoli, R.Nicolini, L.Pellegri, A.Pullia, 
+#+          B.Quintana, F.Recchia, P.Reiter, D.Rosso, M.D.Salsac, B.Siebeck, 
+#+          S.Siem, P.-A.Soederstroem, C.Ur, J.J.Valiente-Dobon, O.Wieland, 
+#+          M.Zieblinski
+#REF-CODE   (J,PR/C,93,044330,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 044330 (doi:10.1103/PhysRevC.93.044330)
+#DATASETS   0
+#
+#DATASET    D0823002 
+#DATE       20161018
+#REACTION   58-CE-140(8-O-17,EL)58-CE-140,,DA,,RTH
+#PROJ       8017
+#TARG       58140
+#MF         4
+#MT         2
+#PRODUCT    58-CE-140
+#C4BEGIN    [ 8017 58140   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8017 58140   4   2  C 3.4000+8          8.656916 0.693454 0.981427                              M.Krzysiek+          (16)D0823  2 
+ 8017 58140   4   2  C 3.4000+8          2.009194 0.159790 0.976447                              M.Krzysiek+          (16)D0823  2 
+ 8017 58140   4   2  C 3.4000+8          0.225475 0.018482 0.967577                              M.Krzysiek+          (16)D0823  2 
+ 8017 58140   4   2  C 3.4000+8          0.186198 0.015280 0.966645                              M.Krzysiek+          (16)D0823  2 
+ 8017 58140   4   2  C 3.4000+8          0.081045 6.2479-3 0.963116                              M.Krzysiek+          (16)D0823  2 
+ 8017 58140   4   2  C 3.4000+8          0.013945 1.1337-3 0.953717                              M.Krzysiek+          (16)D0823  2 
+ 8017 58140   4   2  C 3.4000+8          0.011192 1.0813-3 0.952608                              M.Krzysiek+          (16)D0823  2 
+ 8017 58140   4   2  C 3.4000+8          7.5189-3 5.0803-4 0.951110                              M.Krzysiek+          (16)D0823  2 
+#/DATA      8
+#/DATASET

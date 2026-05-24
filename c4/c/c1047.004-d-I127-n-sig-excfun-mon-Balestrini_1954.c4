@@ -1,0 +1,33 @@
+#ENTRY      C1047
+#AUTHOR1    S.J.Balestrini+
+#YEAR       1954
+#INSTITUTE  (1USABRK)
+#TITLE      Mass-Spectrometric Study of Deuteron-Induced Reactions
+#+          in Iodine
+#AUTHOR(S)  S.J.Balestrini
+#REF-CODE   (J,PR,95,1502,1954)
+#REFERENCE  Phys.Rev. 95 (1954) 1502 (doi:10.1103/PhysRev.95.1502)
+#DATASETS   0
+#
+#DATASET    C1047004 
+#DATE       20220805
+#REACTION   53-I-127(D,N)54-XE-128,,SIG
+#PROJ       1002
+#TARG       53127
+#MF         3
+#MT         4
+#PRODUCT    54-XE-128
+#C4BEGIN    [ 1002 53127   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 53127   3   4    3400000. 600000.0 4.4000-3 4.0000-4                                       S.J.Balestrini       (54)C1047  4 
+ 1002 53127   3   4    7100000. 400000.0 0.085000 1.0000-3                                       S.J.Balestrini       (54)C1047  4 
+ 1002 53127   3   4    9600000. 300000.0 0.183000 2.0000-3                                       S.J.Balestrini       (54)C1047  4 
+ 1002 53127   3   4    1.1700+7 200000.0 0.172000 2.0000-3                                       S.J.Balestrini       (54)C1047  4 
+ 1002 53127   3   4    1.3500+7 200000.0 0.181000 2.0000-3                                       S.J.Balestrini       (54)C1047  4 
+ 1002 53127   3   4    1.5100+7 200000.0 0.171000 2.0000-3                                       S.J.Balestrini       (54)C1047  4 
+ 1002 53127   3   4    1.6600+7 200000.0 0.175000 2.0000-3                                       S.J.Balestrini       (54)C1047  4 
+ 1002 53127   3   4    1.7900+7 200000.0 0.140000 2.0000-3                                       S.J.Balestrini       (54)C1047  4 
+#/DATA      8
+#/DATASET

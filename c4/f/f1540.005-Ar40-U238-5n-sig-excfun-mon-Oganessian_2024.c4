@@ -1,0 +1,32 @@
+#ENTRY      F1540
+#AUTHOR1    Yu.Ts.Oganessian+
+#YEAR       2024
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Synthesis and decay properties of isotopes of element
+#+          110: 273Ds and 275Ds
+#AUTHOR(S)  Yu.Ts.Oganessian, V.K.Utyonkov, M.V.Shumeiko, F.Sh.Abdullin, 
+#+          G.G.Adamian, S.N.Dmitriev, D.Ibadullayev, M.G.Itkis, N.D.Kovrizhnykh, 
+#+          D.A.Kuznetsov, O.V.Petrushkin, A.V.Podshibiakin, A.N.Polyakov, 
+#+          A.G.Popeko, I.S.Rogov, R.N.Sagaidak, L.Schlattauer, V.D.Shubin, 
+#+          D.I.Solovyev, Yu.S.Tsyganov, A.A.Voinov, V.G.Subbotin, N.S.Bublikova, 
+#+          M.G.Voronyuk, A.V.Sabelnikov, A.Yu.Bodrov, N.V.Aksenov, 
+#+          A.V.Khalkin, Z.G.Gan, Z.Y.Zhang, M.H.Huang, H.B.Yang
+#REF-CODE   (J,PR/C,109,054307,2024)
+#REFERENCE  Phys.Rev.C 109 (2024) 054307 (doi:10.1103/PhysRevC.109.054307)
+#DATASETS   0
+#
+#DATASET    F1540005 
+#DATE       20260115
+#REACTION   92-U-238(18-AR-40,5N)110-DS-273,,SIG
+#PROJ       18040
+#TARG       92238
+#MF         3
+#MT         152
+#PRODUCT    110-DS-273
+#C4BEGIN    [18040 92238   3 152 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 92238   3 152 A  2.1220+8          1.800-13                                                Yu.Ts.Oganessian+    (24)F1540  5 
+#/DATA      1
+#/DATASET

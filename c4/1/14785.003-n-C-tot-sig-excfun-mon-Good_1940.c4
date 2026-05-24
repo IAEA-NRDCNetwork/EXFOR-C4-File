@@ -1,0 +1,25 @@
+#ENTRY      14785
+#AUTHOR1    W.E.Good+
+#YEAR       1940
+#INSTITUTE  (1USAUI)
+#TITLE      Scattering Cross Section of Protons for 900-Kev
+#+          Neutrons
+#AUTHOR(S)  W.E.Good, G.Scharff-Goldhaber
+#REF-CODE   (J,PR,58,89(1),1940)
+#REFERENCE  Phys.Rev. 58 (1940) 89(1)
+#DATASETS   0
+#
+#DATASET    14785003 
+#DATE       20220408
+#REACTION   6-C-0(N,TOT),,SIG
+#PROJ       1
+#TARG       6000
+#MF         3
+#MT         1
+#C4BEGIN    [    1  6000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   3   1    900000.0          2.630000 0.250000                                       W.E.Good+            (40)14785  3 
+#/DATA      1
+#/DATASET

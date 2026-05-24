@@ -1,0 +1,30 @@
+#ENTRY      32688
+#AUTHOR1    Hong-Yu Zhou+
+#YEAR       2011
+#INSTITUTE  (3CPRBNU)
+#TITLE      Associated gamma radiation in interaction of 14.9 MeV
+#+          neutrons with natural silicon
+#AUTHOR(S)  Hong-Yu Zhou, Fu-Guo Deng, Wei Cheng, Feng-Shou Zhang, Qiang Zhao, 
+#+          Jun Su, Li-Ming Dong, Qing Zhu, Guo-Ying Fan
+#REF-CODE   (J,NIM/A,648,(1),192,2011)
+#REFERENCE  Nucl.Instrum.Meth.A 648 No.1 (2011) 192 (doi:10.1016/j.nima.2011.04.014)
+#DATASETS   0
+#
+#DATASET    32688026 
+#DATE       20130201
+#REACTION   14-SI-28(N,P)13-AL-28,PAR,SIG,G
+#PROJ       1
+#TARG       14028
+#MF         13
+#MT         600
+#PRODUCT    13-AL-28
+#C4BEGIN    [    1 14028  13 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14028  13 600    1.4900+7 500000.0 0.011700 6.0000-4                   941400.0            Hong-Yu Zhou+        (11)32688 26 
+    1 14028  13 600    1.4900+7 500000.0 0.016400 8.0000-4                   983400.0            Hong-Yu Zhou+        (11)32688 26 
+    1 14028  13 600    1.4900+7 500000.0 0.012600 9.0000-4                   1014000.            Hong-Yu Zhou+        (11)32688 26 
+    1 14028  13 600    1.4900+7 500000.0 8.3000-3 9.0000-4                   1589600.            Hong-Yu Zhou+        (11)32688 26 
+#/DATA      4
+#/DATASET

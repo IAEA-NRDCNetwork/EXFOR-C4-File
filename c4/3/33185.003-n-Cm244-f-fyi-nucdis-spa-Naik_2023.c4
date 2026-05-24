@@ -1,0 +1,32 @@
+#ENTRY      33185
+#AUTHOR1    H.Naik+
+#YEAR       2023
+#INSTITUTE  (3INDTRM)
+#TITLE      Post-neutron fission product yield distribution in the
+#+          spontaneous fission of 244Cm
+#AUTHOR(S)  H.Naik, R.J.Singh, W.Jang
+#REF-CODE   (J,NSE,197,25,2023)
+#REFERENCE  Nucl.Sci.Eng. 197 (2023) 25 (doi:10.1080/00295639.2022.2103345)
+#DATASETS   0
+#
+#DATASET    33185003 
+#DATE       20230128
+#REACTION   96-CM-244(N,F)ELEM/MASS,IND,FY,,SPA
+#PROJ       1
+#TARG       96244
+#MF         8
+#MT         454
+#C4BEGIN    [    1 96244   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 96244   8 454    0.025300          5.6200-3          51.00000 132.0000 1.000000            H.Naik+              (23)33185  3 
+    1 96244   8 454    0.025300          9.8500-3          53.00000 134.0000 1.000000            H.Naik+              (23)33185  3 
+    1 96244   8 454    0.025300          0.022900          53.00000 134.0000 9.000000            H.Naik+              (23)33185  3 
+    1 96244   8 454    0.025300          0.010690          54.00000 135.0000 1.000000            H.Naik+              (23)33185  3 
+    1 96244   8 454    0.025300          6.0100-3          54.00000 135.0000 0.000000            H.Naik+              (23)33185  3 
+    1 96244   8 454    0.025300          0.015980          54.00000 135.0000 9.000000            H.Naik+              (23)33185  3 
+    1 96244   8 454    0.025300          6.6600-3          55.00000 138.0000 1.000000            H.Naik+              (23)33185  3 
+    1 96244   8 454    0.025300          0.010460          55.00000 138.0000 9.000000            H.Naik+              (23)33185  3 
+#/DATA      8
+#/DATASET

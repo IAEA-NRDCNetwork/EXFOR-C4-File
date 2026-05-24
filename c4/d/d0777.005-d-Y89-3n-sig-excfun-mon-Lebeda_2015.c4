@@ -1,0 +1,31 @@
+#ENTRY      D0777
+#AUTHOR1    O.Lebeda+
+#YEAR       2015
+#INSTITUTE  (3CZRUJF)
+#TITLE      Experimental cross-sections of deuteron-induced
+#+          reaction on 89Y up to 20 MeV; comparison of
+#+          natTi(d,x)48V and 27Al(d,x)24Na monitor reactions
+#AUTHOR(S)  O.Lebeda, J.Stursa, J.Ralis
+#REF-CODE   (J,NIM/B,360,118,2015)
+#REFERENCE  Nucl.Instrum.Meth.B 360 (2015) 118 (doi:10.1016/j.nimb.2015.08.036)
+#DATASETS   0
+#
+#DATASET    D0777005 
+#DATE       20201208
+#REACTION   39-Y-89(D,3N)40-ZR-88,,SIG
+#PROJ       1002
+#TARG       39089
+#MF         3
+#MT         17
+#PRODUCT    40-ZR-88
+#C4BEGIN    [ 1002 39089   3  17 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 39089   3  17 A  1.5290+7 310000.0 9.4800-5 1.9900-5                                       O.Lebeda+            (15)D0777  5 
+ 1002 39089   3  17 A  1.6360+7 280000.0 6.4600-4 7.2000-5                                       O.Lebeda+            (15)D0777  5 
+ 1002 39089   3  17 A  1.7360+7 260000.0 6.0840-3 6.4500-4                                       O.Lebeda+            (15)D0777  5 
+ 1002 39089   3  17 A  1.8320+7 230000.0 0.022340 2.3600-3                                       O.Lebeda+            (15)D0777  5 
+ 1002 39089   3  17 A  1.9490+7 210000.0 0.062320 6.5800-3                                       O.Lebeda+            (15)D0777  5 
+#/DATA      5
+#/DATASET

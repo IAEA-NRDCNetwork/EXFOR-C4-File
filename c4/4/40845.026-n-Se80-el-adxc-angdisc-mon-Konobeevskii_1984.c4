@@ -1,0 +1,36 @@
+#ENTRY      40845
+#AUTHOR1    E.S.Konobeevskii+
+#YEAR       1984
+#INSTITUTE  (4RUSJIA)
+#TITLE      Angular anisotropy of inelastic neutron scattering
+#+          on Se nuclei, and the role of the direct mechanisms
+#+          at En = 1 MeV
+#AUTHOR(S)  E.S.Konobeevskii, Yu.G.Kudenko, M.V.Mordovskoi, V.I.Popov, 
+#+          V.M.Skorkin
+#REF-CODE   (J,BAS,48,(2),169,1984)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 48 No.2 (1984) 169
+#DATASETS   0
+#
+#DATASET    40845026 
+#DATE       20251006
+#REACTION   34-SE-80(N,EL)34-SE-80,,DA
+#PROJ       1
+#TARG       34080
+#MF         4
+#MT         2
+#PRODUCT    34-SE-80
+#C4BEGIN    [    1 34080   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34080   4   2  C 1190000. 40000.00 0.784000 0.055000 0.866025 0.017453                     E.S.Konobeevskii+    (84)40845 26 
+    1 34080   4   2  C 1190000. 40000.00 0.582000 0.041000 0.707107 0.024683                     E.S.Konobeevskii+    (84)40845 26 
+    1 34080   4   2  C 1190000. 40000.00 0.365000 0.027000 0.500000 0.030230                     E.S.Konobeevskii+    (84)40845 26 
+    1 34080   4   2  C 1190000. 40000.00 0.246000 0.020000 0.258819 0.033717                     E.S.Konobeevskii+    (84)40845 26 
+    1 34080   4   2  C 1190000. 40000.00 0.200000 0.018000 6.123-17 0.034907                     E.S.Konobeevskii+    (84)40845 26 
+    1 34080   4   2  C 1190000. 40000.00 0.161000 0.014000-0.258819 0.033717                     E.S.Konobeevskii+    (84)40845 26 
+    1 34080   4   2  C 1190000. 40000.00 0.144000 0.013000-0.500000 0.030230                     E.S.Konobeevskii+    (84)40845 26 
+    1 34080   4   2  C 1190000. 40000.00 0.131000 0.012000-0.707107 0.024683                     E.S.Konobeevskii+    (84)40845 26 
+    1 34080   4   2  C 1190000. 40000.00 0.138000 0.012000-0.866025 0.017453                     E.S.Konobeevskii+    (84)40845 26 
+#/DATA      9
+#/DATASET

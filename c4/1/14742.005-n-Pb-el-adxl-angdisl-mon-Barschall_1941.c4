@@ -1,0 +1,26 @@
+#ENTRY      14742
+#AUTHOR1    H.H.Barschall+
+#YEAR       1941
+#INSTITUTE  (1USAPTN)
+#TITLE      Elastic and Inelastic Scattering of 2.5-MeV Neutrons
+#AUTHOR(S)  H.H.Barschall, R.Ladenburg, C.C.Van Voorhis
+#REF-CODE   (J,PR,59,917(18),1941)
+#REFERENCE  Phys.Rev. 59 (1941) 917(18)
+#DATASETS   0
+#
+#DATASET    14742005 
+#DATE       20220204
+#REACTION   82-PB-0(N,EL)82-PB-0,,DA,,4PI
+#PROJ       1
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [    1 82000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   4   2    2500000.          0.198944 0.031831-0.173648 0.343763                     H.H.Barschall+       (41)14742  5 
+    1 82000   4   2    2500000.          0.397887 0.047746 0.707107 0.123413                     H.H.Barschall+       (41)14742  5 
+#/DATA      2
+#/DATASET

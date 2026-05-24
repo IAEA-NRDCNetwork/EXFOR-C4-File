@@ -1,0 +1,36 @@
+#ENTRY      E1436
+#AUTHOR1    K.Maeda+
+#YEAR       1983
+#INSTITUTE  (2JPNTOH)
+#TITLE      ISOVECTOR DEFORMATION PARAMETERS FROM THE (P,N)
+#+          REACTIONS ON 54,56FE AND 58,60,62,64NI AT 35 MEV
+#AUTHOR(S)  K.Maeda, H.Orihara, T.Murakami, S.Nishihara, T.Nakagawa, 
+#+          K.Miura, H.Ohnuma
+#REF-CODE   (J,NP/A,403,1,83)
+#REFERENCE  Nucl.Phys.A 403 (1983) 1
+#DATASETS   0
+#
+#DATASET    E1436010 
+#DATE       19941018
+#REACTION   28-NI-62(P,N)29-CU-62,PAR,DA
+#PROJ       1001
+#TARG       28062
+#MF         4
+#MT         50
+#PRODUCT    29-CU-62
+#C4BEGIN    [ 1001 28062   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28062   4  50  C 3.5000+7          2.0480-3          0.998102          4608752.         LVLK.Maeda+             (83)E1436 10 
+ 1001 28062   4  50  C 3.5000+7          1.4300-3          0.982871          4608752.         LVLK.Maeda+             (83)E1436 10 
+ 1001 28062   4  50  C 3.5000+7          1.7800-3          0.965654          4608752.         LVLK.Maeda+             (83)E1436 10 
+ 1001 28062   4  50  C 3.5000+7          2.5870-3          0.939214          4608752.         LVLK.Maeda+             (83)E1436 10 
+ 1001 28062   4  50  C 3.5000+7          2.7670-3          0.902811          4608752.         LVLK.Maeda+             (83)E1436 10 
+ 1001 28062   4  50  C 3.5000+7          2.1780-3          0.857886          4608752.         LVLK.Maeda+             (83)E1436 10 
+ 1001 28062   4  50  C 3.5000+7          9.1150-4          0.753334          4608752.         LVLK.Maeda+             (83)E1436 10 
+ 1001 28062   4  50  C 3.5000+7          1.2060-3          0.639439          4608752.         LVLK.Maeda+             (83)E1436 10 
+ 1001 28062   4  50  C 3.5000+7          6.8410-4          0.477619          4608752.         LVLK.Maeda+             (83)E1436 10 
+ 1001 28062   4  50  C 3.5000+7          2.4450-4          0.329361          4608752.         LVLK.Maeda+             (83)E1436 10 
+#/DATA      10
+#/DATASET

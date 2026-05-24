@@ -1,0 +1,28 @@
+#ENTRY      20286
+#AUTHOR1    M.Hosoe+
+#YEAR       1959
+#INSTITUTE  (2JPNYOK)
+#TITLE      Gamma rays from neutron inelastic scattering of
+#+          magnesium, aluminum, iron and bismuth
+#AUTHOR(S)  M.Hosoe, S.Suzuki
+#REF-CODE   (J,JPJ,14,699,1959)
+#REFERENCE  J.Phys.Soc.Jpn. 14 (1959) 699 (doi:10.1143/JPSJ.14.699)
+#DATASETS   0
+#
+#DATASET    20286006 
+#DATE       20180123
+#REACTION   13-AL-27(N,INL)13-AL-27,PAR,DA,G
+#PROJ       1
+#TARG       13027
+#MF         14
+#MT         51
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027  14  51 A  2950000. 50000.00 8.0000-3 2.0000-3 6.123-17 0.122173 840000.0 10000.00   M.Hosoe+             (59)20286  6 
+    1 13027  14  51 A  2950000. 50000.00 0.020000 2.0000-3 6.123-17 0.122173 1020000. 30000.00   M.Hosoe+             (59)20286  6 
+    1 13027  14  51 A  2950000. 50000.00 7.0000-3 1.0000-3 6.123-17 0.122173 2190000. 60000.00   M.Hosoe+             (59)20286  6 
+#/DATA      3
+#/DATASET

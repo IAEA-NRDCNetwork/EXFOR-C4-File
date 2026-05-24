@@ -1,0 +1,69 @@
+#ENTRY      C0534
+#AUTHOR1    M.Drosg+
+#YEAR       1982
+#INSTITUTE  (1USALAS)
+#TITLE      Differential Cross Sections of the Reaction 4He(t,n)6Li
+#+          between 8.5 and 16.5 MeV and the n-6Li Cross-Section
+#+          Standard
+#AUTHOR(S)  M.Drosg, D.M.Drake, R.A.Hardekopf, G.M.Hale
+#REF-CODE   (R,LA-9129,198201)
+#REFERENCE  Report LA-9129, 1982
+#DATASETS   0
+#
+#DATASET    C0534002 
+#DATE       19990701
+#REACTION   2-HE-4(T,N)3-LI-6,PAR,DA
+#PROJ       1003
+#TARG       2004
+#MF         4
+#MT         50
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1003  2004   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  2004   4  50 A  8511000.          0.031700 7.9250-4 1.000000          0.000000         LVLM.Drosg+             (82)C0534  2 
+ 1003  2004   4  50 A  8628000.          0.066900 2.2077-3 1.000000          0.000000         LVLM.Drosg+             (82)C0534  2 
+ 1003  2004   4  50 A  8708000.          0.159000 4.9290-3 1.000000          0.000000         LVLM.Drosg+             (82)C0534  2 
+ 1003  2004   4  50 A  8786000.          0.193000 5.0180-3 1.000000          0.000000         LVLM.Drosg+             (82)C0534  2 
+ 1003  2004   4  50 A  8979000.          0.050000 1.4500-3 1.000000          0.000000         LVLM.Drosg+             (82)C0534  2 
+ 1003  2004   4  50 A  9137000.          0.038800 7.3720-4 1.000000          0.000000         LVLM.Drosg+             (82)C0534  2 
+ 1003  2004   4  50 A  9288000.          0.033300 6.6600-4 1.000000          0.000000         LVLM.Drosg+             (82)C0534  2 
+ 1003  2004   4  50 A  1.0488+7          0.028800 4.6080-4 1.000000          0.000000         LVLM.Drosg+             (82)C0534  2 
+ 1003  2004   4  50 A  1.3487+7          0.024900 1.4442-3 1.000000          0.000000         LVLM.Drosg+             (82)C0534  2 
+ 1003  2004   4  50 A  1.4986+7          0.025800 2.2962-3 1.000000          0.000000         LVLM.Drosg+             (82)C0534  2 
+#/DATA      10
+#/DATASET
+#
+#DATASET    C0534002 
+#DATE       19990701
+#REACTION   2-HE-4(T,N)3-LI-6,PAR,DA
+#PROJ       1003
+#TARG       2004
+#MF         4
+#MT         50
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1003  2004   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  2004   4  50 A  1.3487+7          0.045300 2.2197-3 1.000000          2815000.         LVLM.Drosg+             (82)C0534  2 
+ 1003  2004   4  50 A  1.4986+7          0.062200 2.3014-3 1.000000          2815000.         LVLM.Drosg+             (82)C0534  2 
+#/DATA      2
+#/DATASET
+#
+#DATASET    C0534002 
+#DATE       19990701
+#REACTION   2-HE-4(T,N)3-LI-6,PAR,DA
+#PROJ       1003
+#TARG       2004
+#MF         4
+#MT         50
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1003  2004   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  2004   4  50 A  1.4986+7          4.0000-3 3.0000-3 1.000000          3562000.         LVLM.Drosg+             (82)C0534  2 
+#/DATA      1
+#/DATASET

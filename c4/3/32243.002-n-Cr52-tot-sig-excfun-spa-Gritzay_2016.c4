@@ -1,0 +1,28 @@
+#ENTRY      32243
+#AUTHOR1    O.O.Gritzay+
+#YEAR       2016
+#INSTITUTE  (4UKRIJD)
+#TITLE      Determination of the total neutron cross section
+#+          using average energy shift method for filtered
+#+          neutron beam
+#AUTHOR(S)  O.O.Gritzay, A.K.Grymalo, V.A.Pshenychnyi
+#REF-CODE   (J,YFE,17,411,2016)
+#REFERENCE  Yad.Fiz.Energetika 17 (2016) 411 (doi:10.15407/jnpae2016.04.411)
+#DATASETS   0
+#
+#DATASET    32243002 
+#DATE       20200527
+#REACTION   24-CR-52(N,TOT),,SIG,,SPA
+#PROJ       1
+#TARG       24052
+#MF         3
+#MT         1
+#C4BEGIN    [    1 24052   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24052   3   1    53150.00 4550.000 9.480000 0.660000                                       O.O.Gritzay+         (16)32243  2 
+    1 24052   3   1    50550.00 4750.000 19.49000 1.170000                                       O.O.Gritzay+         (16)32243  2 
+    1 24052   3   1    47400.00 4900.000 9.100000 0.690000                                       O.O.Gritzay+         (16)32243  2 
+#/DATA      3
+#/DATASET

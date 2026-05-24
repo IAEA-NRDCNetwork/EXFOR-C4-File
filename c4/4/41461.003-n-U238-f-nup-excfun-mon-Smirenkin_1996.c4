@@ -1,0 +1,27 @@
+#ENTRY      41461
+#AUTHOR1    G.N.Smirenkin+
+#YEAR       1996
+#INSTITUTE  (4RUSFEI)
+#TITLE      Measurement of energy spectrum of neutrons accompanying
+#+          emission fission of U-238 nuclei.
+#AUTHOR(S)  G.N.Smirenkin, G.N.Lovchikova, A.M.Trufanov, M.I.Svirin, 
+#+          A.V.Polyakov, V.A.Vinogradov, V.D.Dmitriev, G.S.Boykov
+#REF-CODE   (J,YF,59,(11),1934,1996)
+#REFERENCE  Yad.Fiz. 59 No.11 (1996) 1934
+#DATASETS   0
+#
+#DATASET    41461003 
+#DATE       20100910
+#REACTION   92-U-238(N,F),PR,NU
+#PROJ       1
+#TARG       92238
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92238   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   1 456    1.6000+7          4.580000 0.140000                                       G.N.Smirenkin+       (96)41461  3 
+    1 92238   1 456    1.7700+7          4.630000 0.140000                                       G.N.Smirenkin+       (96)41461  3 
+#/DATA      2
+#/DATASET

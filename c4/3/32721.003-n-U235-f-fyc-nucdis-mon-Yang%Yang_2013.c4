@@ -1,0 +1,29 @@
+#ENTRY      32721
+#AUTHOR1    Yang Yang+
+#YEAR       2013
+#INSTITUTE  (3CPRAEP)
+#TITLE      Determination of nuclear fission number by high-energy
+#+          delayed gamma-rays
+#AUTHOR(S)  Yang Yang, Feng Jing, Yang Yi, Liu Shi-long, Wang Zhao-hui, 
+#+          Su Xiao-bin, Hou Long
+#REF-CODE   (J,CST,47,(4),517,2013)
+#REFERENCE  At.En.Sci.Technol. 47 No.4 (2013) 517
+#DATASETS   0
+#
+#DATASET    32721003 
+#DATE       20140403
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025300          0.041300 1.4000-3 37.00000 89.00000 9.000000            Yang Yang+           (13)32721  3 
+    1 92235   8 459    0.025300          0.058700 7.0000-4 38.00000 92.00000 9.000000            Yang Yang+           (13)32721  3 
+    1 92235   8 459    0.025300          0.049300 1.3000-3 39.00000 94.00000 9.000000            Yang Yang+           (13)32721  3 
+    1 92235   8 459    0.025300          0.065000 2.7000-3 55.00000 138.0000 9.000000            Yang Yang+           (13)32721  3 
+#/DATA      4
+#/DATASET

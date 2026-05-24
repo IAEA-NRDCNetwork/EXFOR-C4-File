@@ -1,0 +1,38 @@
+#ENTRY      O2591
+#AUTHOR1    P.Erbacher+
+#YEAR       2023
+#INSTITUTE  (2GERFRK)
+#TITLE      Measurement of total and partial cross sections of
+#+          the 90Zr(p,gamma)91Nb reaction with in-beam gamma-ray
+#+          spectroscopy
+#AUTHOR(S)  P.Erbacher, T.Heftrich, A.Endres, J.Glorius, L.Netterdon, 
+#+          D.Just, K.Gobel, M.Krticka, R.Reifarth, K.Sonnabend, B.Thomas, 
+#+          M.Weigand, A.Zilges
+#REF-CODE   (J,EPJ/A,59,69,2023)
+#REFERENCE  Eur.Phys.J.A 59 (2023) 69 (doi:10.1140/epja/s10050-023-00984-y)
+#DATASETS   0
+#
+#DATASET    O2591002 
+#DATE       20240109
+#REACTION   40-ZR-90(P,G)41-NB-91-G,,SIG
+#PROJ       1001
+#TARG       40090
+#MF         3
+#MT         102
+#PRODUCT    41-NB-91-G
+#C4BEGIN    [ 1001 40090   3 102G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   3 102G   2708063. 16000.51 2.4700-5 5.9000-6                                       P.Erbacher+          (23)O2591  2 
+ 1001 40090   3 102G   2958851. 15000.52 4.9200-5 1.1500-5                                       P.Erbacher+          (23)O2591  2 
+ 1001 40090   3 102G   3260202. 14000.53 1.1100-4 2.0000-5                                       P.Erbacher+          (23)O2591  2 
+ 1001 40090   3 102G   3560544. 13000.54 2.1100-4 3.9000-5                                       P.Erbacher+          (23)O2591  2 
+ 1001 40090   3 102G   3962012. 12000.56 4.9500-4 8.1000-5                                       P.Erbacher+          (23)O2591  2 
+ 1001 40090   3 102G   4262355. 12000.60 5.7000-4 8.6000-5                                       P.Erbacher+          (23)O2591  2 
+ 1001 40090   3 102G   4512137. 11000.58 9.2500-4 1.4700-4                                       P.Erbacher+          (23)O2591  2 
+ 1001 40090   3 102G   4762931. 11000.61 1.3500-3 1.9100-4                                       P.Erbacher+          (23)O2591  2 
+ 1001 40090   3 102G   5063277. 10000.59 1.3300-3 1.7000-4                                       P.Erbacher+          (23)O2591  2 
+ 1001 40090   3 102G   5101706. 10000.60 1.4700-3 1.8000-4                                       P.Erbacher+          (23)O2591  2 
+#/DATA      10
+#/DATASET

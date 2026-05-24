@@ -1,0 +1,25 @@
+#ENTRY      20105
+#AUTHOR1    J.Als-Nielsen+
+#YEAR       1964
+#INSTITUTE  (2DENRIS)
+#TITLE      -Slow neutron cross sections for helium-3, boron
+#+          and gold.-
+#AUTHOR(S)  J.Als-Nielsen, O.Dietrich
+#REF-CODE   (J,PR,133,B925,196402)
+#REFERENCE  Phys.Rev. 133 (1964) B925 (doi:10.1103/PhysRev.133.B925)
+#DATASETS   0
+#
+#DATASET    20105004 
+#DATE       20040727
+#REACTION   5-B-0(N,A),,SIG
+#PROJ       1
+#TARG       5000
+#MF         3
+#MT         107
+#C4BEGIN    [    1  5000   3 107 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5000   3 107 A  0.025300          759.1000 2.000000                                       J.Als-Nielsen+       (64)20105  4 
+#/DATA      1
+#/DATASET

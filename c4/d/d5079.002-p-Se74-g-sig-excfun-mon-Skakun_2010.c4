@@ -1,0 +1,50 @@
+#ENTRY      D5079
+#AUTHOR1    Ye.Skakun+
+#YEAR       2010
+#INSTITUTE  (4UKRKFT)
+#TITLE      Cross sections of low energy (p,g) and (p,n) -
+#+          reactions on selenium isotopes as nuclear data for
+#+          the astrophysical gamma-process
+#AUTHOR(S)  Ye.Skakun, S.Utenkov, V.Mishchenko, J.Farkas, Zs.Fulop, 
+#+          Gy.Gyurky, G.G.Kiss, E.Somorjai, T.Rauscher
+#REF-CODE   (C,2010KYIV,,207,2010)
+#REFERENCE  Proceedings of 3 Int.Conf.Cur.Prob.in Nucl.Phys.Atom.Ene.,Kyiv,2010 page 207
+#DATASETS   0
+#
+#DATASET    D5079002 
+#DATE       20240312
+#REACTION   34-SE-74(P,G)35-BR-75,,SIG
+#PROJ       1001
+#TARG       34074
+#MF         3
+#MT         102
+#PRODUCT    35-BR-75
+#C4BEGIN    [ 1001 34074   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 34074   3 102    1563040. 21000.47 5.0000-6                                                Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    1673528. 19000.45 2.7000-5 5.3000-5                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    1761717.          4.8000-5 5.3000-5                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    1876260.          7.4000-5                                                Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    1959380. 35000.98 1.3300-4                                                Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    2052637. 28000.82 1.3300-4                                                Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    2076965.          1.6500-4 5.3000-5                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    2172250.          1.5900-4                                                Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    2263479. 31001.00 3.1900-4 5.3000-5                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    2374983.          5.1000-4 7.4000-5                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    2446953. 35001.22 5.1000-4 6.9000-5                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    2473309.          5.4700-4 7.4000-5                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    2561498. 38001.39 7.3800-4 9.0000-5                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    2674015.          9.1300-4 1.3300-4                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    2774369.          1.0880-3 8.5000-5                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    2781465.          1.0780-3 1.5900-4                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    2855463. 45001.84 1.3960-3 2.0200-4                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    2869654.          1.7150-3 2.4400-4                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    2972035. 26001.10 1.6190-3 2.2800-4                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    2975076.          1.3590-3 1.9100-4                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    3175785.          1.9490-3 2.8100-4                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    3342028. 24001.14 1.9270-3 2.6500-4                                       Ye.Skakun+           (10)D5079  2 
+ 1001 34074   3 102    3569093.          2.7610-3 4.0900-4                                       Ye.Skakun+           (10)D5079  2 
+#/DATA      23
+#/DATASET

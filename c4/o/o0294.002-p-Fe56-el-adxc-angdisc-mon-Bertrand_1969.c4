@@ -1,0 +1,37 @@
+#ENTRY      O0294
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1969
+#INSTITUTE  (1USAORL)
+#TITLE      Tabulated cross sections for hydrogen and helium
+#+          particles produced by 61 MeV protons on 56-Fe
+#AUTHOR(S)  F.E.Bertrand, R.W.Peelle
+#REF-CODE   (R,ORNL-4456,1969)
+#REFERENCE  Report ORNL-4456, 1969
+#DATASETS   0
+#
+#DATASET    O0294002 
+#DATE       20200112
+#REACTION   26-FE-56(P,EL)26-FE-56,,DA
+#PROJ       1001
+#TARG       26056
+#MF         4
+#MT         2
+#PRODUCT    26-FE-56
+#C4BEGIN    [ 1001 26056   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056   4   2  C 6.1500+7          2.128700 2.1287-3 0.964557                              F.E.Bertrand+        (69)O0294  2 
+ 1001 26056   4   2  C 6.1500+7          0.412150 4.1215-4 0.937889                              F.E.Bertrand+        (69)O0294  2 
+ 1001 26056   4   2  C 6.1500+7          0.123510 1.2351-4 0.925210                              F.E.Bertrand+        (69)O0294  2 
+ 1001 26056   4   2  C 6.1500+7          0.040770 4.0770-5 0.903335                              F.E.Bertrand+        (69)O0294  2 
+ 1001 26056   4   2  C 6.1500+7          0.094990 9.4990-5 0.861629                              F.E.Bertrand+        (69)O0294  2 
+ 1001 26056   4   2  C 6.1500+7          0.054490 1.0898-4 0.792290                              F.E.Bertrand+        (69)O0294  2 
+ 1001 26056   4   2  C 6.1500+7          0.010460 4.1840-5 0.699663                              F.E.Bertrand+        (69)O0294  2 
+ 1001 26056   4   2  C 6.1500+7          7.9600-3 2.3880-5 0.605988                              F.E.Bertrand+        (69)O0294  2 
+ 1001 26056   4   2  C 6.1500+7          4.5500-3 2.2750-5 0.486335                              F.E.Bertrand+        (69)O0294  2 
+ 1001 26056   4   2  C 6.1500+7          9.5400-4 9.5400-6 0.241922                              F.E.Bertrand+        (69)O0294  2 
+ 1001 26056   4   2  C 6.1500+7          1.7100-4 4.6170-6-0.019197                              F.E.Bertrand+        (69)O0294  2 
+ 1001 26056   4   2  C 6.1500+7          1.4500-5 8.5550-7-0.515038                              F.E.Bertrand+        (69)O0294  2 
+#/DATA      12
+#/DATASET

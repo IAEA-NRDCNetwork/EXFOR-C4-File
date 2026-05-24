@@ -1,0 +1,31 @@
+#ENTRY      E2808
+#AUTHOR1    M.Imamura+
+#YEAR       1997
+#INSTITUTE  (2JPNTOK)
+#TITLE      Measurements of proton-induced production cross
+#+          sections for 36Cl from Ca and K
+#AUTHOR(S)  M.Imamura, K.Nishiizumi, M.W.Caffee, S.Shibata
+#REF-CODE   (J,NIM/B,123,330,1997)
+#REFERENCE  Nucl.Instrum.Meth.B 123 (1997) 330 (doi:10.1016/S0168-583X(96)00712-4)
+#DATASETS   0
+#
+#DATASET    E2808004 
+#DATE       20250602
+#REACTION   20-CA-0(P,X)17-CL-36,,SIG
+#PROJ       1001
+#TARG       20000
+#MF         3
+#MT         454
+#PRODUCT    17-CL-36
+#C4BEGIN    [ 1001 20000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20000   3 454    3.9700+7          2.9600-4 2.1000-5           17036.9                     M.Imamura+           (97)E2808  4 
+ 1001 20000   3 454    3.8400+7          2.4900-4 1.9000-5           17036.9                     M.Imamura+           (97)E2808  4 
+ 1001 20000   3 454    3.5100+7          1.3800-4 1.3000-5           17036.9                     M.Imamura+           (97)E2808  4 
+ 1001 20000   3 454    2.9800+7          3.4000-5 6.0000-6           17036.9                     M.Imamura+           (97)E2808  4 
+ 1001 20000   3 454    2.4700+7          2.3000-5 8.0000-6           17036.9                     M.Imamura+           (97)E2808  4 
+ 1001 20000   3 454    2.1900+7          1.8000-5 1.4000-5           17036.9                     M.Imamura+           (97)E2808  4 
+#/DATA      6
+#/DATASET

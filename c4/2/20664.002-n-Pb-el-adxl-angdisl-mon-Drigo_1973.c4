@@ -1,0 +1,28 @@
+#ENTRY      20664
+#AUTHOR1    L.Drigo+
+#YEAR       1973
+#INSTITUTE  (2ITYUPV)
+#TITLE      Small-angle scattering of fast neutrons by Bi and Pb
+#AUTHOR(S)  L.Drigo, C.Manduchi, G.Moschini, M.T.Russo-Manduchi, G.Tornielli, 
+#+          G.Zannoni
+#REF-CODE   (J,NC/A,13,867,1973)
+#REFERENCE  Nuovo Cim.A 13 (1973) 867 (doi:10.1007/BF02804155)
+#DATASETS   0
+#
+#DATASET    20664002 
+#DATE       20170723
+#REACTION   82-PB-0(N,EL)82-PB-0,,DA
+#PROJ       1
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [    1 82000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   4   2    2450000. 40000.00 5.600000 0.200000 0.999328                              L.Drigo+             (73)20664  2 
+    1 82000   4   2    2450000. 40000.00 5.300000 0.200000 0.998630                              L.Drigo+             (73)20664  2 
+    1 82000   4   2    2450000. 40000.00 5.100000 0.200000 0.996195                              L.Drigo+             (73)20664  2 
+#/DATA      3
+#/DATASET

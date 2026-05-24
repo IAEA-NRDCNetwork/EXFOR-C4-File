@@ -1,0 +1,30 @@
+#ENTRY      23540
+#AUTHOR1    T.Heftrich+
+#YEAR       2019
+#INSTITUTE  (2GERFRK)
+#TITLE      Thermal (n,gamma) cross section and resonance
+#+          integral of 171Tm
+#AUTHOR(S)  T.Heftrich, M.Weigand, Ch.E.Dullmann, K.Eberhardt, S.Fiebiger, 
+#+          J.Glorius, K.Gobel, C.Guerrero, R.Haas, S.Heinitz, J.Lerendegui-Marco, 
+#+          F.Kappeler, J.D.Kaiser, U.Koster, C.Langer, S.Lohse, F.Ludwig, 
+#+          R.Reifarth, D.Renisch, K.Scheutwinkel, D.Schumann, N.Wiehl, 
+#+          C.Wolf
+#REF-CODE   (J,PR/C,99,065810,2019)
+#REFERENCE  Phys.Rev.C 99 (2019) 065810 (doi:10.1103/PhysRevC.99.065810)
+#DATASETS   0
+#
+#DATASET    23540002 
+#DATE       20200219
+#REACTION   69-TM-171(N,G)69-TM-172,,SIG
+#PROJ       1
+#TARG       69171
+#MF         3
+#MT         102
+#PRODUCT    69-TM-172
+#C4BEGIN    [    1 69171   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 69171   3 102    0.025300          9.900000 0.900000                                       T.Heftrich+          (19)23540  2 
+#/DATA      1
+#/DATASET

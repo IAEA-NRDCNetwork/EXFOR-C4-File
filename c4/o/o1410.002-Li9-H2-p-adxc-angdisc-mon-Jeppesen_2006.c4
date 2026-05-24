@@ -1,0 +1,35 @@
+#ENTRY      O1410
+#AUTHOR1    H.B.Jeppesen+
+#YEAR       2006
+#INSTITUTE  (2DENAAU)
+#TITLE      Study of Li-10 via the Li-9(H-2,p) reaction at REX-
+#+          ISOLDE.
+#AUTHOR(S)  H.B.Jeppesen, A.M.Moro, U.C.Bergmann, M.J.G.Borge, J.Cederkall, 
+#+          L.M.Fraile, H.O.U.Fynbo, J.Gomez-Camacho, H.T.Johansson, 
+#+          B.Jonson, M.Meister, T.Nilsson, G.Nyman, M.Pantea, K.Reisinger, 
+#+          A.Richter, G.Schrieder, T.Sieber, O.Tengblad, E.Tengborn, 
+#+          M.Turrion, F.Wenander
+#REF-CODE   (J,PL/B,642,449,2006)
+#REFERENCE  Phys.Lett.B 642 (2006) 449 (doi:10.1016/j.physletb.2006.09.060)
+#DATASETS   0
+#
+#DATASET    O1410002 
+#DATE       20070627
+#REACTION   1-H-2(3-LI-9,P)3-LI-10,,DA
+#PROJ       3009
+#TARG       1002
+#MF         4
+#MT         103
+#PRODUCT    3-LI-10
+#C4BEGIN    [ 3009  1002   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3009  1002   4 103  C 2.1240+7 300000.0 2.4400-3 2.4000-4-0.144183                              H.B.Jeppesen+        (06)O1410  2 
+ 3009  1002   4 103  C 2.1240+7 300000.0 2.0800-3 1.9000-4-0.260505                              H.B.Jeppesen+        (06)O1410  2 
+ 3009  1002   4 103  C 2.1240+7 300000.0 1.9400-3 1.7000-4-0.381070                              H.B.Jeppesen+        (06)O1410  2 
+ 3009  1002   4 103  C 2.1240+7 300000.0 1.5100-3 1.5000-4-0.498488                              H.B.Jeppesen+        (06)O1410  2 
+ 3009  1002   4 103  C 2.1240+7 300000.0 1.6500-3 1.9000-4-0.599024                              H.B.Jeppesen+        (06)O1410  2 
+ 3009  1002   4 103  C 2.1240+7 300000.0 2.1900-3 2.7000-4-0.703395                              H.B.Jeppesen+        (06)O1410  2 
+#/DATA      6
+#/DATASET

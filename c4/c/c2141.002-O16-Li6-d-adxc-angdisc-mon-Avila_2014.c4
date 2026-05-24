@@ -1,0 +1,31 @@
+#ENTRY      C2141
+#AUTHOR1    M.L.Avila+
+#YEAR       2014
+#INSTITUTE  (1USAFSU)
+#TITLE      Alpha-cluster asymptotic normalization coefficients
+#+          for nuclear astrophysics
+#AUTHOR(S)  M.L.Avila, G.V.Rogachev, E.Koshchiy, L.T.Baby, J.Belarge, 
+#+          K.W.Kemper, A.N.Kuchera, D.Santiago-Gonzalez
+#REF-CODE   (J,PR/C,90,042801,2014)
+#REFERENCE  Phys.Rev.C 90 (2014) 042801 (doi:10.1103/PhysRevC.90.042801)
+#DATASETS   0
+#
+#DATASET    C2141002 
+#DATE       20141209
+#REACTION   3-LI-6(8-O-16,D)10-NE-20,PAR,DA
+#PROJ       8016
+#TARG       3006
+#MF         4
+#MT         650
+#PRODUCT    10-NE-20
+#C4BEGIN    [ 8016  3006   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016  3006   4 650  C 1.2570+7          2.2422-4 2.6800-5-0.438120          5790000.         LVLM.L.Avila+           (14)C2141  2 
+ 8016  3006   4 650  C 1.2570+7          2.3556-4 2.7120-5-0.496338          5790000.         LVLM.L.Avila+           (14)C2141  2 
+ 8016  3006   4 650  C 1.2570+7          2.6675-4 3.0399-5-0.591394          5790000.         LVLM.L.Avila+           (14)C2141  2 
+ 8016  3006   4 650  C 1.2570+7          3.0068-4 3.3617-5-0.741508          5790000.         LVLM.L.Avila+           (14)C2141  2 
+ 8016  3006   4 650  C 1.2570+7          2.8499-4 3.5349-5-0.849211          5790000.         LVLM.L.Avila+           (14)C2141  2 
+#/DATA      5
+#/DATASET

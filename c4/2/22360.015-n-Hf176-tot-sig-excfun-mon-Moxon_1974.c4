@@ -1,0 +1,27 @@
+#ENTRY      22360
+#AUTHOR1    M.C.Moxon+
+#YEAR       1974
+#INSTITUTE  (2UK HAR)
+#TITLE      Differential neutron cross-sections of natural
+#+          hafnium and its isotopes for neutron energies
+#+          up to 30 eV
+#AUTHOR(S)  M.C.Moxon, D.A.J.Endacott, T.J.Haste, J.E.Jolly, J.E.Lynn, 
+#+          M.G.Sowerby
+#REF-CODE   (R,AERE-R-7864,197412)
+#REFERENCE  Report AERE-R-7864, 1974
+#DATASETS   0
+#
+#DATASET    22360015 
+#DATE       20110907
+#REACTION   72-HF-176(N,TOT),,SIG
+#PROJ       1
+#TARG       72176
+#MF         3
+#MT         1
+#C4BEGIN    [    1 72176   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 72176   3   1    15.50000          9.900000 0.660000                                       M.C.Moxon+           (74)22360 15 
+#/DATA      1
+#/DATASET

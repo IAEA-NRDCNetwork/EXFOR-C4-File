@@ -1,0 +1,45 @@
+#ENTRY      O1614
+#AUTHOR1    V.Lapoux+
+#YEAR       2008
+#INSTITUTE  (2FR SAC)
+#TITLE      Virtual coupling potential for elastic scattering of
+#+          Be-10,11 on proton and carbon target.
+#AUTHOR(S)  V.Lapoux, N.Alamanos, F.Auger, Y.Blumenfeld, J.M.Casandjian, 
+#+          M.Chartier, M.D.Cortina-Gil, V.Fekou-Youmbi, A.Gillibert, 
+#+          M.Mac Cormick, F.Marechal, F.Marie, W.Mittig, F.de Oliveira Santos, 
+#+          N.A.Orr, A.N.Ostrowski, S.Ottini-Hustache, P.Roussel-Chomaz, 
+#+          J.A.Scarpaci, J.L.Sida, T.Suomijaervi, J.S.Winfield
+#REF-CODE   (J,PL/B,658,198,2008)
+#REFERENCE  Phys.Lett.B 658 (2008) 198 (doi:10.1016/j.physletb.2007.11.005)
+#DATASETS   0
+#
+#DATASET    O16140041
+#DATE       20080606
+#REACTION   6-C-12(4-BE-10,EL)6-C-12,,DA
+#PROJ       4010
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 4010  6012   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4010  6012   4   2 AC 3.9100+8          79.69008 2.877442 0.999180                              V.Lapoux+            (08)O1614  41
+ 4010  6012   4   2 AC 3.9100+8          34.68180 0.763789 0.998402                              V.Lapoux+            (08)O1614  41
+ 4010  6012   4   2 AC 3.9100+8          7.585254 0.372570 0.997353                              V.Lapoux+            (08)O1614  41
+ 4010  6012   4   2 AC 3.9100+8          0.922882 0.115244 0.996041                              V.Lapoux+            (08)O1614  41
+ 4010  6012   4   2 AC 3.9100+8          2.059899 0.148805 0.994485                              V.Lapoux+            (08)O1614  41
+ 4010  6012   4   2 AC 3.9100+8          2.480670 0.147733 0.992652                              V.Lapoux+            (08)O1614  41
+ 4010  6012   4   2 AC 3.9100+8          1.452602 0.095474 0.990581                              V.Lapoux+            (08)O1614  41
+ 4010  6012   4   2 AC 3.9100+8          0.450290 0.051692 0.988228                              V.Lapoux+            (08)O1614  41
+ 4010  6012   4   2 AC 3.9100+8          0.192434 0.039342 0.985615                              V.Lapoux+            (08)O1614  41
+ 4010  6012   4   2 AC 3.9100+8          0.290132 0.039587 0.982774                              V.Lapoux+            (08)O1614  41
+ 4010  6012   4   2 AC 3.9100+8          0.294304 0.039807 0.979645                              V.Lapoux+            (08)O1614  41
+ 4010  6012   4   2 AC 3.9100+8          0.256337 0.039768 0.976296                              V.Lapoux+            (08)O1614  41
+ 4010  6012   4   2 AC 3.9100+8          0.090624 0.022656 0.972654                              V.Lapoux+            (08)O1614  41
+ 4010  6012   4   2 AC 3.9100+8          0.040301 0.015232 0.968757                              V.Lapoux+            (08)O1614  41
+ 4010  6012   4   2 AC 3.9100+8          0.063900 0.020207 0.964649                              V.Lapoux+            (08)O1614  41
+ 4010  6012   4   2 AC 3.9100+8          0.060318 0.022797 0.960245                              V.Lapoux+            (08)O1614  41
+#/DATA      16
+#/DATASET

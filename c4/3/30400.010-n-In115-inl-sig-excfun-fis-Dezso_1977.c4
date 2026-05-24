@@ -1,0 +1,25 @@
+#ENTRY      30400
+#AUTHOR1    Z.Dezso+
+#YEAR       1977
+#INSTITUTE  (3HUNKOS)
+#TITLE      Average cross sections for the Cf-252 neutron spectrum
+#AUTHOR(S)  Z.Dezso, J.Csikai
+#REF-CODE   (C,77KIEV,3,32,1977)
+#REFERENCE  Proceedings of 4.All Union Conf.on Neutron Phys.,Kiev,18-22 Apr 1977 3 page 32
+#DATASETS   0
+#
+#DATASET    30400010 
+#DATE       20090309
+#REACTION   49-IN-115(N,INL)49-IN-115-M,,SIG,,FIS
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         4
+#PRODUCT    49-IN-115-M
+#C4BEGIN    [    1 49115   3   4MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3   4MA  1410000.          0.203400 0.010700                                       Z.Dezso+             (77)30400 10 
+#/DATA      1
+#/DATASET

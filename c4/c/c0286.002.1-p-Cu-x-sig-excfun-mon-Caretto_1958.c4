@@ -1,0 +1,30 @@
+#ENTRY      C0286
+#AUTHOR1    A.A.Caretto+
+#YEAR       1958
+#INSTITUTE  (1USABNL)
+#TITLE      Production of F-18 and Na-24 in irradiations of various
+#+          targets with protons between 1 and 6 BeV
+#AUTHOR(S)  A.A.Caretto, J.Hudis, G.Friedlander
+#REF-CODE   (J,PR,110,1130,1958)
+#REFERENCE  Phys.Rev. 110 (1958) 1130 (doi:10.1103/PhysRev.110.1130)
+#DATASETS   0
+#
+#DATASET    C02860021
+#DATE       20241014
+#REACTION   29-CU-0(P,X)9-F-18,,SIG
+#PROJ       1001
+#TARG       29000
+#MF         3
+#MT         454
+#PRODUCT    9-F-18
+#C4BEGIN    [ 1001 29000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   3 454    1.0000+9          5.1000-4 1.2750-4            9018.9                     A.A.Caretto+         (58)C0286  21
+ 1001 29000   3 454    2.0000+9          1.4000-3 3.5000-4            9018.9                     A.A.Caretto+         (58)C0286  21
+ 1001 29000   3 454    3.0000+9          1.7000-3 4.2500-4            9018.9                     A.A.Caretto+         (58)C0286  21
+ 1001 29000   3 454    4.5000+9          2.5000-3 6.2500-4            9018.9                     A.A.Caretto+         (58)C0286  21
+ 1001 29000   3 454    5.9000+9          3.4000-3 8.5000-4            9018.9                     A.A.Caretto+         (58)C0286  21
+#/DATA      5
+#/DATASET

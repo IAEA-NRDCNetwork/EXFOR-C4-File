@@ -1,0 +1,31 @@
+#ENTRY      32650
+#AUTHOR1    Guohui Zhang+
+#YEAR       2002
+#INSTITUTE  (3CPRBJG)
+#TITLE      Differential cross section measurement for the
+#+          10B(n,a)7Li reaction
+#AUTHOR(S)  Guohui Zhang, Guoyou Tang, Jinxiang Chen, Songbai Zhang, 
+#+          Zhaomin Shi, Jing Yuan, Zemin Chen, Yu.M.Gledenov, M.Sedysheva, 
+#+          G.Khuukenkhuu
+#REF-CODE   (J,NSE,142,203,2002)
+#REFERENCE  Nucl.Sci.Eng. 142 (2002) 203 (doi:10.13182/NSE02-A2300)
+#DATASETS   0
+#
+#DATASET    32650002 
+#DATE       20090519
+#REACTION   5-B-10(N,A)3-LI-7,,SIG
+#PROJ       1
+#TARG       5010
+#MF         3
+#MT         107
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  5010   3 107 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   3 107 D  4170000. 360000.0 0.068200 6.5000-3                                       Guohui Zhang+        (02)32650  2 
+    1  5010   3 107 D  5020000. 270000.0 0.050300 4.7000-3                                       Guohui Zhang+        (02)32650  2 
+    1  5010   3 107 D  5740000. 210000.0 0.048600 5.3000-3                                       Guohui Zhang+        (02)32650  2 
+    1  5010   3 107 D  6520000. 160000.0 0.054600 6.0000-3                                       Guohui Zhang+        (02)32650  2 
+#/DATA      4
+#/DATASET

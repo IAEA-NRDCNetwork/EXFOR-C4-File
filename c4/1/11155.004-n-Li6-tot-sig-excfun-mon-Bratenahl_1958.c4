@@ -1,0 +1,28 @@
+#ENTRY      11155
+#AUTHOR1    A.Bratenahl+
+#YEAR       1958
+#INSTITUTE  (1USALRL)
+#TITLE      Neutron Total Cross Sections in the 7- to 14-MeV Region
+#AUTHOR(S)  A.Bratenahl, J.M.Peterson, J.P.Stoering
+#REF-CODE   (J,PR,110,927,195805)
+#REFERENCE  Phys.Rev. 110 (1958) 927 (doi:10.1103/PhysRev.110.927)
+#DATASETS   0
+#
+#DATASET    11155004 
+#DATE       19800814
+#REACTION   3-LI-6(N,TOT),,SIG
+#PROJ       1
+#TARG       3006
+#MF         3
+#MT         1
+#C4BEGIN    [    1  3006   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   3   1    7010000. 170000.0 1.920000 0.020000                                       A.Bratenahl+         (58)11155  4 
+    1  3006   3   1    8540000.          1.750000 0.030000                                       A.Bratenahl+         (58)11155  4 
+    1  3006   3   1    1.1180+7          1.650000 0.020000                                       A.Bratenahl+         (58)11155  4 
+    1  3006   3   1    1.2630+7          1.530000 0.020000                                       A.Bratenahl+         (58)11155  4 
+    1  3006   3   1    1.3980+7 70000.00 1.450000 0.020000                                       A.Bratenahl+         (58)11155  4 
+#/DATA      5
+#/DATASET

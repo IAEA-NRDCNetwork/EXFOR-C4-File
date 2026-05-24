@@ -1,0 +1,30 @@
+#ENTRY      C2823
+#AUTHOR1    S.M.Grimes+
+#YEAR       1971
+#INSTITUTE  (1USALRL)
+#TITLE      Nuclear level densities and reaction mechanisms from
+#+          continuum neutron spectra
+#AUTHOR(S)  S.M.Grimes, J.D.Anderson, J.W.McClure, B.A.Pohl, C.Wong
+#REF-CODE   (J,PR/C,3,645,1971)
+#REFERENCE  Phys.Rev.C 3 (1971) 645 (doi:10.1103/PhysRevC.3.645)
+#DATASETS   0
+#
+#DATASET    C2823005 
+#DATE       20221003
+#REACTION   26-FE-56(A,N)28-NI-59,PAR,DA
+#PROJ       2004
+#TARG       26056
+#MF         4
+#MT         50
+#PRODUCT    28-NI-59
+#C4BEGIN    [ 2004 26056   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 26056   4  50  C 1.2500+7          3.6280-4 2.7020-5-0.753000          870000.0         LVLS.M.Grimes+          (71)C2823  5 
+ 2004 26056   4  50  C 1.2500+7          1.9300-4 3.1280-5-0.320000          870000.0         LVLS.M.Grimes+          (71)C2823  5 
+ 2004 26056   4  50  C 1.2500+7          2.3160-4 2.2180-5 0.185000          870000.0         LVLS.M.Grimes+          (71)C2823  5 
+ 2004 26056   4  50  C 1.2500+7          3.4480-4 2.4440-5 0.650000          870000.0         LVLS.M.Grimes+          (71)C2823  5 
+ 2004 26056   4  50  C 1.2500+7          5.5240-4 4.1140-5 0.917000          870000.0         LVLS.M.Grimes+          (71)C2823  5 
+#/DATA      5
+#/DATASET

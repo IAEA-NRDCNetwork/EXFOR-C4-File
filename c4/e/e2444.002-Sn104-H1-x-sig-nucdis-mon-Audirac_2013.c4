@@ -1,0 +1,34 @@
+#ENTRY      E2444
+#AUTHOR1    L.Audirac+
+#YEAR       2013
+#INSTITUTE  (2FR SAC)
+#TITLE      Evaporation-cost dependence in heavy-ion fragmentation
+#AUTHOR(S)  L.Audirac, A.Obertelli, P.Doornenbal, D.Mancusi, S.Takeuchi, 
+#+          N.Aoi, H.Baba, S.Boissinot, A.Boudard, A.Corsi, A.Gillibert, 
+#+          T.Isobe, A.Jungclaus, V.Lapoux, J.Lee, S.Leray, K.Matsui, 
+#+          M.Matsushita, T.Motobayashi, D.Nishimura, S.Ota, E.C.Pollacco, 
+#+          G.Potel, H.Sakurai, C.Santamaria, Y.Shiga, D.Sohler, D.Steppenbeck, 
+#+          R.Taniuchi, H.Wang
+#REF-CODE   (J,PR/C,88,041602,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 041602 (doi:10.1103/PhysRevC.88.041602)
+#DATASETS   0
+#
+#DATASET    E2444002 
+#DATE       20140109
+#REACTION   1-H-1(50-SN-104,X)ELEM/MASS,,SIG
+#PROJ       50104
+#TARG       1001
+#MF         3
+#MT         454
+#C4BEGIN    [50104  1001   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+50104  1001   3 454    1.477+10          0.051000 4.0000-3           50103.9                     L.Audirac+           (13)E2444  2 
+50104  1001   3 454    1.477+10          2.6000-3 3.0000-4           50102.9                     L.Audirac+           (13)E2444  2 
+50104  1001   3 454    1.477+10          1.2000-4 4.0000-5           50101.9                     L.Audirac+           (13)E2444  2 
+50104  1001   3 454    1.477+10          0.070000 7.0000-3           49103.9                     L.Audirac+           (13)E2444  2 
+50104  1001   3 454    1.477+10          0.058000 7.0000-3           48102.9                     L.Audirac+           (13)E2444  2 
+50104  1001   3 454    1.477+10          0.033000 7.0000-3           47101.9                     L.Audirac+           (13)E2444  2 
+#/DATA      6
+#/DATASET

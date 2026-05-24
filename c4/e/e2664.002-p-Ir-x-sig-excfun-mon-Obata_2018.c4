@@ -1,0 +1,35 @@
+#ENTRY      E2664
+#AUTHOR1    H.Obata+
+#YEAR       2018
+#INSTITUTE  (2JPNIRS)
+#TITLE      Excitation functions of proton- and deuteron-induced
+#+          nuclear reactions on natural iridium for the
+#+          production of 191Pt
+#AUTHOR(S)  H.Obata, M.U.Khandaker, E.Furuta, K.Nagatsu, M.-R.Zhang
+#REF-CODE   (J,ARI,137,250,2018)
+#REFERENCE  Appl.Radiat.Isot. 137 (2018) 250 (doi:10.1016/j.apradiso.2018.03.021)
+#DATASETS   0
+#
+#DATASET    E2664002 
+#DATE       20210528
+#REACTION   77-IR-0(P,X)78-PT-189,,SIG
+#PROJ       1001
+#TARG       77000
+#MF         3
+#MT         454
+#PRODUCT    78-PT-189
+#C4BEGIN    [ 1001 77000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 77000   3 454    2.9600+7 700000.0 0.512000 0.148000           78189.9                     H.Obata+             (18)E2664  2 
+ 1001 77000   3 454    2.7900+7 700000.0 0.566000 0.164000           78189.9                     H.Obata+             (18)E2664  2 
+ 1001 77000   3 454    2.6100+7 700000.0 0.535000 0.155000           78189.9                     H.Obata+             (18)E2664  2 
+ 1001 77000   3 454    2.5100+7 700000.0 0.479000 0.138000           78189.9                     H.Obata+             (18)E2664  2 
+ 1001 77000   3 454    2.4100+7 700000.0 0.426000 0.123000           78189.9                     H.Obata+             (18)E2664  2 
+ 1001 77000   3 454    2.3100+7 700000.0 0.331000 0.096000           78189.9                     H.Obata+             (18)E2664  2 
+ 1001 77000   3 454    2.2000+7 700000.0 0.271000 0.078000           78189.9                     H.Obata+             (18)E2664  2 
+ 1001 77000   3 454    2.0900+7 700000.0 0.143000 0.041000           78189.9                     H.Obata+             (18)E2664  2 
+ 1001 77000   3 454    1.9300+7 700000.0 0.013500 3.9000-3           78189.9                     H.Obata+             (18)E2664  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      O0416
+#AUTHOR1    H.R.Heydegger+
+#YEAR       1972
+#INSTITUTE  (1USACHI)
+#TITLE      Thin-target cross sections for some Cr,Mn,Co,Ni and Zn
+#+          nuclides produced in copper by 82 to 416 MeV protons
+#AUTHOR(S)  H.R.Heydegger, C.K.Garrett, A.Van Ginneken
+#REF-CODE   (J,PR/C,6,1235,1972)
+#REFERENCE  Phys.Rev.C 6 (1972) 1235 (doi:10.1103/PhysRevC.6.1235)
+#DATASETS   0
+#
+#DATASET    O0416011 
+#DATE       20000426
+#REACTION   29-CU-0(P,X)25-MN-54,,SIG
+#PROJ       1001
+#TARG       29000
+#MF         3
+#MT         454
+#PRODUCT    25-MN-54
+#C4BEGIN    [ 1001 29000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   3 454    8.2000+7 8000000. 3.7000-3 7.4000-4           25054.9                     H.R.Heydegger+       (72)O0416 11 
+ 1001 29000   3 454    1.1100+8 1.0000+7 0.011000 2.2000-3           25054.9                     H.R.Heydegger+       (72)O0416 11 
+ 1001 29000   3 454    1.8700+8 1.3000+7 0.016000 3.2000-3           25054.9                     H.R.Heydegger+       (72)O0416 11 
+ 1001 29000   3 454    2.8300+8 1.7000+7 0.019000 3.8000-3           25054.9                     H.R.Heydegger+       (72)O0416 11 
+ 1001 29000   3 454    4.1600+8 2.1000+7 0.021000 4.2000-3           25054.9                     H.R.Heydegger+       (72)O0416 11 
+#/DATA      5
+#/DATASET

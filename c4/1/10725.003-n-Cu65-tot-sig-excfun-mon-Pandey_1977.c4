@@ -1,0 +1,25 @@
+#ENTRY      10725
+#AUTHOR1    M.S.Pandey+
+#YEAR       1977
+#INSTITUTE  (1USAORL)
+#TITLE      Neutron total cross sections and resonance parameters
+#+          of 29Cu63 and 29Cu65. I.
+#AUTHOR(S)  M.S.Pandey, J.B.Garg, J.A.Harvey
+#REF-CODE   (J,PR/C,15,600,197702)
+#REFERENCE  Phys.Rev.C 15 (1977) 600 (doi:10.1103/PhysRevC.15.600)
+#DATASETS   0
+#
+#DATASET    10725003 
+#DATE       20000224
+#REACTION   29-CU-65(N,TOT),,SIG
+#PROJ       1
+#TARG       29065
+#MF         3
+#MT         1
+#C4BEGIN    [    1 29065   3   1 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29065   3   1 A  50.00000          13.00000 0.200000                                       M.S.Pandey+          (77)10725  3 
+#/DATA      1
+#/DATASET

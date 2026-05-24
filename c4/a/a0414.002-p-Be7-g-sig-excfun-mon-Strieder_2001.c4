@@ -1,0 +1,42 @@
+#ENTRY      A0414
+#AUTHOR1    F.Strieder+
+#YEAR       2001
+#INSTITUTE  (2GERBOC)
+#TITLE      Absolute cross section of 7-Be(p,gamma)8-B
+#AUTHOR(S)  F.Strieder, L.Gialanella, G.Gyurky, F.Schuemann, R.Bonetti, 
+#+          C.Broggini, L.Campajola, P.Corvisiero, H.Costantini, A.D'Onofrio, 
+#+          A.Formicola, Z.Fuelop, G.Gervino, U.Greife, A.Guglielmetti, 
+#+          C.Gustavino, G.Imbriani, M.Junker, P.G.P.Moroni, A.Ordine, 
+#+          P.Prati, V.Roca, D.Rogalla, C.Rolfs, M.Romano, E.Somorjai, 
+#+          O.Straniero, F.Terrasi, H.P.Trautvetter, S.Zavatarelli
+#REF-CODE   (J,NP/A,696,219,2001)
+#REFERENCE  Nucl.Phys.A 696 (2001) 219 (doi:10.1016/S0375-9474(01)01121-6)
+#DATASETS   0
+#
+#DATASET    A0414002 
+#DATE       20021217
+#REACTION   4-BE-7(P,G)5-B-8,,SIG,,SFC
+#PROJ       1001
+#TARG       4007
+#MF         3
+#MT         102
+#PRODUCT    5-B-8
+#C4BEGIN    [ 1001  4007   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4007   3 102    368000.0          7.9100-8 6.2214-9                                       F.Strieder+          (01)A0414  2 
+ 1001  4007   3 102    416000.0          9.7491-8 5.8031-9                                       F.Strieder+          (01)A0414  2 
+ 1001  4007   3 102    526900.0          1.4292-7 8.1931-9                                       F.Strieder+          (01)A0414  2 
+ 1001  4007   3 102    626300.0          2.8195-7 1.8074-8                                       F.Strieder+          (01)A0414  2 
+ 1001  4007   3 102    881100.0          3.9354-7 2.0713-8                                       F.Strieder+          (01)A0414  2 
+ 1001  4007   3 102    981700.0          4.3078-7 3.8010-8                                       F.Strieder+          (01)A0414  2 
+ 1001  4007   3 102    1032000.          4.5241-7 3.9919-8                                       F.Strieder+          (01)A0414  2 
+ 1001  4007   3 102    1132600.          4.8276-7 2.4138-8                                       F.Strieder+          (01)A0414  2 
+ 1001  4007   3 102    1282300.          5.8722-7 5.0714-8                                       F.Strieder+          (01)A0414  2 
+ 1001  4007   3 102    1433100.          5.5436-7 2.8873-8                                       F.Strieder+          (01)A0414  2 
+ 1001  4007   3 102    1584000.          6.6351-7 3.3790-8                                       F.Strieder+          (01)A0414  2 
+ 1001  4007   3 102    1984000.          8.6497-7 4.1189-8                                       F.Strieder+          (01)A0414  2 
+ 1001  4007   3 102    2982900.          1.4098-6 8.8350-8                                       F.Strieder+          (01)A0414  2 
+#/DATA      13
+#/DATASET

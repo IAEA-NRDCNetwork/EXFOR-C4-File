@@ -1,0 +1,37 @@
+#ENTRY      O2276
+#AUTHOR1    S.Bottoni+
+#YEAR       2015
+#INSTITUTE  (2ITYMIL)
+#TITLE      Cluster-transfer reactions with radioactive beams. A
+#+          spectroscopic tool for neutron-rich nuclei.
+#AUTHOR(S)  S.Bottoni, S.Leoni, B.Fornal, R.Raabe, K.Rusek, G.Benzoni, 
+#+          A.Bracco, F.C.L.Crespi, A.I.Morales, P.Bednarczyk, N.Cieplicka-Orynczak, 
+#+          W.Krolas, A.Maj, B.Szpak, M.Callens, J.Bouma, J.Elseviers, 
+#+          H.De Witte, F.Flavigny, R.Orlandi, P.Reiter, M.Seidlitz, 
+#+          N.Warr, B.Siebeck, S.Hellgartner, D.Muecher, J.Pakarinen, 
+#+          M.Vermeulen, C.Bauer, G.Georgiev, R.V.F.Janssens, D.Balabanski, 
+#+          M.Sferrazza, M.Kowalska, E.Rapisarda, D.Voulot, M.Lozano Benito, 
+#+          F.Wenander
+#REF-CODE   (J,PR/C,92,024322,2015)
+#REFERENCE  Phys.Rev.C 92 (2015) 024322 (doi:10.1103/PhysRevC.92.024322)
+#DATASETS   0
+#
+#DATASET    O2276003 
+#DATE       20151109
+#REACTION   3-LI-7(37-RB-98,X)1-H-3,,DA
+#PROJ       37098
+#TARG       3007
+#MF         4
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [37098  3007   4 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+37098  3007   4 205  C 2.4402+8          0.012430         -0.500000                              S.Bottoni+           (15)O2276  3 
+37098  3007   4 205  C 2.4402+8          0.012630         -0.573576                              S.Bottoni+           (15)O2276  3 
+37098  3007   4 205  C 2.4402+8          0.011950         -0.656059                              S.Bottoni+           (15)O2276  3 
+37098  3007   4 205  C 2.4402+8          0.010850         -0.731354                              S.Bottoni+           (15)O2276  3 
+37098  3007   4 205  C 2.4402+8          0.011020         -0.809017                              S.Bottoni+           (15)O2276  3 
+#/DATA      5
+#/DATASET

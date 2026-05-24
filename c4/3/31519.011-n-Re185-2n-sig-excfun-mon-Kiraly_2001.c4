@@ -1,0 +1,28 @@
+#ENTRY      31519
+#AUTHOR1    B.Kiraly+
+#YEAR       2001
+#INSTITUTE  (3HUNDEB)
+#TITLE      Validation of neutron data libraries by differential
+#+          and integral cross sections
+#AUTHOR(S)  B.Kiraly, J.Csikai, R.Doczi
+#REF-CODE   (S,JAERI-C-2001-006,283,200103)
+#REFERENCE  Report (proceedings) JAERI-C-2001-006 page 283, 2001
+#DATASETS   0
+#
+#DATASET    31519011 
+#DATE       20020301
+#REACTION   75-RE-185(N,2N)75-RE-184,,SIG
+#PROJ       1
+#TARG       75185
+#MF         3
+#MT         16
+#PRODUCT    75-RE-184
+#C4BEGIN    [    1 75185   3  16 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 75185   3  16 D  1.1200+7 200000.0 1.852000 0.115000                                       B.Kiraly+            (01)31519 11 
+    1 75185   3  16 D  1.4300+7 150000.0 2.050000 0.110000                                       B.Kiraly+            (01)31519 11 
+    1 75185   3  16 D  1.4700+7 150000.0 2.170000 0.130000                                       B.Kiraly+            (01)31519 11 
+#/DATA      3
+#/DATASET

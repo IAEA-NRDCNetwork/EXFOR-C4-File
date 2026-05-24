@@ -1,0 +1,29 @@
+#ENTRY      10413
+#AUTHOR1    W.E.Kinney+
+#YEAR       1974
+#INSTITUTE  (1USAORL)
+#TITLE      Natural chromium and 52Cr neutron elastic and
+#+          inelastic scattering cross sections from 4.07 to
+#+          8.56 MeV
+#AUTHOR(S)  W.E.Kinney, F.G.Perey
+#REF-CODE   (R,ORNL-4806,197401)
+#REFERENCE  Report ORNL-4806, 1974
+#DATASETS   0
+#
+#DATASET    10413025 
+#DATE       20030220
+#REACTION   24-CR-52(N,EL)24-CR-52,,SIG
+#PROJ       1
+#TARG       24052
+#MF         3
+#MT         2
+#PRODUCT    24-CR-52
+#C4BEGIN    [    1 24052   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24052   3   2 D  6440000. 70000.00 2.230360 7.3000-3                                       W.E.Kinney+          (74)10413 25 
+    1 24052   3   2 D  7540000. 60000.00 1.888440 7.4000-3                                       W.E.Kinney+          (74)10413 25 
+    1 24052   3   2 D  8560000. 50000.00 1.687030 7.4000-3                                       W.E.Kinney+          (74)10413 25 
+#/DATA      3
+#/DATASET

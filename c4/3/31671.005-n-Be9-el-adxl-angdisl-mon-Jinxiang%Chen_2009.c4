@@ -1,0 +1,62 @@
+#ENTRY      31671
+#AUTHOR1    Jinxiang Chen+
+#YEAR       2009
+#INSTITUTE  (3CPRBJG)
+#TITLE      Measurement and analysis of the energy-angular
+#+          distribution of secondary neutrons for 9Be at 5.9
+#+          and 6.4 MeV incident neutrons
+#AUTHOR(S)  Jinxiang Chen, Pei Zhu, Xiaoyong Mao, Xiangqing Li, Guanren Shen, 
+#+          Jingshang Zhang, Yinlu Han
+#REF-CODE   (J,ANE,36,668,2009)
+#REFERENCE  Ann.Nucl.Energy 36 (2009) 668 (doi:10.1016/j.anucene.2008.12.027)
+#DATASETS   0
+#
+#DATASET    31671005 
+#DATE       20090421
+#REACTION   4-BE-9(N,EL)4-BE-9,,DA
+#PROJ       1
+#TARG       4009
+#MF         4
+#MT         2
+#PRODUCT    4-BE-9
+#C4BEGIN    [    1  4009   4   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  4009   4   2 D  5900000.          0.436000 0.040000 0.906308                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  5900000.          0.265000 0.025000 0.819152                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  5900000.          0.170000 0.016000 0.707107                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  5900000.          0.068000 6.6000-3 0.500000                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  5900000.          0.021400 2.1000-3 0.173648                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  5900000.          0.019800 1.9000-3 6.123-17                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  5900000.          0.016700 1.8000-3-0.173648                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  5900000.          0.027900 2.8000-3-0.573576                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  5900000.          0.023700 2.5000-3-0.707107                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  5900000.          0.032100 3.4000-3-0.866025                              Jinxiang Chen+       (09)31671  5 
+#/DATA      10
+#/DATASET
+#
+#DATASET    31671005 
+#DATE       20090421
+#REACTION   4-BE-9(N,EL)4-BE-9,,DA
+#PROJ       1
+#TARG       4009
+#MF         4
+#MT         2
+#PRODUCT    4-BE-9
+#C4BEGIN    [    1  4009   4   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  4009   4   2 D  6400000.          0.464000 0.052000 0.906308                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  6400000.          0.268000 0.031000 0.819152                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  6400000.          0.208000 0.022000 0.707107                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  6400000.          0.080800 9.3000-3 0.500000                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  6400000.          0.031400 3.6000-3 0.258819                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  6400000.          0.022300 2.5000-3 6.123-17                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  6400000.          0.022300 2.6000-3-0.258819                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  6400000.          0.026600 3.1000-3-0.500000                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  6400000.          0.030500 3.5000-3-0.707107                              Jinxiang Chen+       (09)31671  5 
+    1  4009   4   2 D  6400000.          0.034000 3.9000-3-0.866025                              Jinxiang Chen+       (09)31671  5 
+#/DATA      10
+#/DATASET

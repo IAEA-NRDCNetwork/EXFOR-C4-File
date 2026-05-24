@@ -1,0 +1,38 @@
+#ENTRY      E1869
+#AUTHOR1    S.Morita+
+#YEAR       1960
+#INSTITUTE  (2JPNKYU)
+#TITLE      The 14N(d,n)15O reaction in the energy range from 1.5-
+#+          to 2.9-MeV
+#AUTHOR(S)  S.Morita, N.Kawai, Y.Goto, T.Maki, M.Mukae
+#REF-CODE   (J,JPJ,15,(12),2170,196012)
+#REFERENCE  J.Phys.Soc.Jpn. 15 No.12 (1960) 2170 (doi:10.1143/JPSJ.15.2170)
+#DATASETS   0
+#
+#DATASET    E1869005 
+#DATE       20120614
+#REACTION   7-N-14(D,N)8-O-15,PAR,DA
+#PROJ       1002
+#TARG       7014
+#MF         4
+#MT         50
+#PRODUCT    8-O-15
+#C4BEGIN    [ 1002  7014   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7014   4  50  C 2240000.          2.2630-3          0.999996          0.000000         LVLS.Morita+            (60)E1869  5 
+ 1002  7014   4  50  C 2240000.          3.4250-3          0.981893          0.000000         LVLS.Morita+            (60)E1869  5 
+ 1002  7014   4  50  C 2240000.          3.0900-3          0.932954          0.000000         LVLS.Morita+            (60)E1869  5 
+ 1002  7014   4  50  C 2240000.          2.9210-3          0.845542          0.000000         LVLS.Morita+            (60)E1869  5 
+ 1002  7014   4  50  C 2240000.          1.3050-3          0.682891          0.000000         LVLS.Morita+            (60)E1869  5 
+ 1002  7014   4  50  C 2240000.          1.2600-3          0.467004          0.000000         LVLS.Morita+            (60)E1869  5 
+ 1002  7014   4  50  C 2240000.          1.1650-3          0.228181          0.000000         LVLS.Morita+            (60)E1869  5 
+ 1002  7014   4  50  C 2240000.          1.1780-3         -0.045886          0.000000         LVLS.Morita+            (60)E1869  5 
+ 1002  7014   4  50  C 2240000.          1.0590-3         -0.287361          0.000000         LVLS.Morita+            (60)E1869  5 
+ 1002  7014   4  50  C 2240000.          1.5870-3         -0.526956          0.000000         LVLS.Morita+            (60)E1869  5 
+ 1002  7014   4  50  C 2240000.          2.9640-3         -0.720551          0.000000         LVLS.Morita+            (60)E1869  5 
+ 1002  7014   4  50  C 2240000.          3.5680-3         -0.867765          0.000000         LVLS.Morita+            (60)E1869  5 
+ 1002  7014   4  50  C 2240000.          4.9960-3         -0.939693          0.000000         LVLS.Morita+            (60)E1869  5 
+#/DATA      13
+#/DATASET

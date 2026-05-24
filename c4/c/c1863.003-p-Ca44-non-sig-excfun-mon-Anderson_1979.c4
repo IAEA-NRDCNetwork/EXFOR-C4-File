@@ -1,0 +1,26 @@
+#ENTRY      C1863
+#AUTHOR1    B.D.Anderson+
+#YEAR       1979
+#INSTITUTE  (1USAKNT)
+#TITLE      Proton total reaction cross section measurements for
+#+          40,44,48Ca at 700 MeV
+#AUTHOR(S)  B.D.Anderson, P.R.Bevington, F.H.Cverna, M.W.McNaughton, 
+#+          H.B.Willard, R.J.Barrett, N.S.P.King, D.J.Ernst
+#REF-CODE   (J,PR/C,19,905,1979)
+#REFERENCE  Phys.Rev.C 19 (1979) 905 (doi:10.1103/PhysRevC.19.905)
+#DATASETS   0
+#
+#DATASET    C1863003 
+#DATE       20111031
+#REACTION   20-CA-44(P,NON),,SIG
+#PROJ       1001
+#TARG       20044
+#MF         3
+#MT         3
+#C4BEGIN    [ 1001 20044   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20044   3   3    7.0000+8 7000000. 0.643000 0.039866                                       B.D.Anderson+        (79)C1863  3 
+#/DATA      1
+#/DATASET

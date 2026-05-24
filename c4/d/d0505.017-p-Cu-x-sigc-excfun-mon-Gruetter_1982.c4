@@ -1,0 +1,32 @@
+#ENTRY      D0505
+#AUTHOR1    A.Gruetter+
+#YEAR       1982
+#INSTITUTE  (2SWTWUR)
+#TITLE      Excitation functions for radioactive isotopes produced
+#+          by proton bombardment of Cu and Al in the energy range
+#+          of 16 to 70 MeV
+#AUTHOR(S)  A.Gruetter
+#REF-CODE   (J,NP/A,383,98,1982)
+#REFERENCE  Nucl.Phys.A 383 (1982) 98 (doi:10.1016/0375-9474(82)90078-1)
+#DATASETS   0
+#
+#DATASET    D0505017 
+#DATE       20220124
+#REACTION   29-CU-0(P,X)27-CO-55,CUM,SIG
+#PROJ       1001
+#TARG       29000
+#MF         3
+#MT         459
+#PRODUCT    27-CO-55
+#C4BEGIN    [ 1001 29000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   3 459    6.9800+7 340000.0 2.4900-4 7.4700-6           27055.9                     A.Gruetter           (82)D0505 17 
+ 1001 29000   3 459    6.9700+7 340000.0 2.3200-4 6.9600-6           27055.9                     A.Gruetter           (82)D0505 17 
+ 1001 29000   3 459    6.9700+7 340000.0 2.3000-4 6.9000-6           27055.9                     A.Gruetter           (82)D0505 17 
+ 1001 29000   3 459    6.7600+7 340000.0 1.4900-4 4.4700-6           27055.9                     A.Gruetter           (82)D0505 17 
+ 1001 29000   3 459    6.5100+7 340000.0 7.4100-5 2.2230-6           27055.9                     A.Gruetter           (82)D0505 17 
+ 1001 29000   3 459    6.5100+7 340000.0 7.7000-5 2.3100-6           27055.9                     A.Gruetter           (82)D0505 17 
+#/DATA      6
+#/DATASET

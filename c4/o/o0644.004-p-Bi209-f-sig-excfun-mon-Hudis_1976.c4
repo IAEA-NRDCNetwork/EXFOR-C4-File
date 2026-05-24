@@ -1,0 +1,31 @@
+#ENTRY      O0644
+#AUTHOR1    J.Hudis+
+#YEAR       1976
+#INSTITUTE  (1USABNL)
+#TITLE      Interaction of 0.6-300 GeV protons with U, Bi, Au, and
+#+          Ag; mica track detector study
+#AUTHOR(S)  J.Hudis, S.Katcoff
+#REF-CODE   (J,PR/C,13,1961,1976)
+#REFERENCE  Phys.Rev.C 13 (1976) 1961 (doi:10.1103/PhysRevC.13.1961)
+#DATASETS   0
+#
+#DATASET    O0644004 
+#DATE       20220110
+#REACTION   83-BI-209(P,F),,SIG
+#PROJ       1001
+#TARG       83209
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 83209   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 83209   3  18    6.0000+8          0.299000 0.060000                                       J.Hudis+             (76)O0644  4 
+ 1001 83209   3  18    1.0000+9          0.262000 0.050000                                       J.Hudis+             (76)O0644  4 
+ 1001 83209   3  18    2.0000+9          0.255000 0.040000                                       J.Hudis+             (76)O0644  4 
+ 1001 83209   3  18    3.0000+9          0.213000 0.040000                                       J.Hudis+             (76)O0644  4 
+ 1001 83209   3  18    1.300+10          0.188000 0.040000                                       J.Hudis+             (76)O0644  4 
+ 1001 83209   3  18    2.900+10          0.162000 0.030000                                       J.Hudis+             (76)O0644  4 
+ 1001 83209   3  18    3.000+11          0.181000 0.035000                                       J.Hudis+             (76)O0644  4 
+#/DATA      7
+#/DATASET

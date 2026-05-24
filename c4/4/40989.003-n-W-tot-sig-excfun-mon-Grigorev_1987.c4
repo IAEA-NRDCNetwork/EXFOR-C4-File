@@ -1,0 +1,34 @@
+#ENTRY      40989
+#AUTHOR1    Yu.V.Grigor'ev+
+#YEAR       1987
+#INSTITUTE  (4RUSFEI)
+#TITLE      Experimental investigation of the resonance structure
+#+          of the total and scattering cross-sections of niobium
+#+          and tungsten in the neutron energy range 0.465 - 200
+#+          keV
+#AUTHOR(S)  Yu.V.Grigor'ev, T.Bakalov, P.Vertesh
+#REF-CODE   (C,87KIEV,2,271,198709)
+#REFERENCE  Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 2 page 271
+#DATASETS   0
+#
+#DATASET    40989003 
+#DATE       20110419
+#REACTION   74-W-0(N,TOT),,SIG,,AV
+#PROJ       1
+#TARG       74000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 74000   3   1 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74000   3   1 D  150000.0 50000.00 7.900000 0.400000                                       Yu.V.Grigor'ev+      (87)40989  3 
+    1 74000   3   1 D  73250.00 26750.00 9.900000 0.500000                                       Yu.V.Grigor'ev+      (87)40989  3 
+    1 74000   3   1 D  34000.00 12500.00 12.20000 0.600000                                       Yu.V.Grigor'ev+      (87)40989  3 
+    1 74000   3   1 D  15750.00 5750.000 15.50000 0.700000                                       Yu.V.Grigor'ev+      (87)40989  3 
+    1 74000   3   1 D  7325.000 2675.000 19.30000 0.800000                                       Yu.V.Grigor'ev+      (87)40989  3 
+    1 74000   3   1 D  3400.000 1250.000 24.10000 1.000000                                       Yu.V.Grigor'ev+      (87)40989  3 
+    1 74000   3   1 D  1575.000 575.0000 33.50000 1.400000                                       Yu.V.Grigor'ev+      (87)40989  3 
+    1 74000   3   1 D  732.5000 267.5000 40.60000 1.500000                                       Yu.V.Grigor'ev+      (87)40989  3 
+#/DATA      8
+#/DATASET

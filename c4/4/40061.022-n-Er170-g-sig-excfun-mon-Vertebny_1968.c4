@@ -1,0 +1,27 @@
+#ENTRY      40061
+#AUTHOR1    V.P.Vertebny+
+#YEAR       1968
+#INSTITUTE  (4UKRIFU)
+#TITLE      Neutron cross sections of erbium isotopes in energy
+#+          range 0.007-200 eV
+#AUTHOR(S)  V.P.Vertebny, M.F.Vlasov, V.V.Koloty, A.L.Kirilyuk, M.V.Pasechnik, 
+#+          T.I.Pisanko, N.L.Gnidak, A.I.Kal'chenko
+#REF-CODE   (R,INDC(CCP)-006,5,1968)
+#REFERENCE  Report INDC(CCP)-006 page 5, 1968
+#DATASETS   0
+#
+#DATASET    40061022 
+#DATE       20250205
+#REACTION   68-ER-170(N,G)68-ER-171,,SIG
+#PROJ       1
+#TARG       68170
+#MF         3
+#MT         102
+#PRODUCT    68-ER-171
+#C4BEGIN    [    1 68170   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 68170   3 102    0.025300          12.00000 5.000000                                       V.P.Vertebny+        (68)40061 22 
+#/DATA      1
+#/DATASET

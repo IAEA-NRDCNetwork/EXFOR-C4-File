@@ -1,0 +1,29 @@
+#ENTRY      23767
+#AUTHOR1    D.Foligno+
+#YEAR       2020
+#INSTITUTE  (2FR CAD)
+#TITLE      Measurement of the delayed-neutron multiplicity and
+#+          time constants in the thermal neutron induced
+#+          fission of 235U at ILL
+#AUTHOR(S)  D.Foligno, P.Leconte, O.Serot, B.Geslot, G.De Izarra, A.Chebboubi, 
+#+          A.Sardet, M.Diakaki, P.Tamagno, A.Billebaud, F-R.Lecolley, 
+#+          T.Soldner, U.Koester, P.Mutti, A.Pepino, O.Meplan, G.Kessedjian, 
+#+          J.-L.Lecouey, L.Mathieu, N.Marie-Nourry
+#REF-CODE   (J,EPJ/CS,239,18006,2020)
+#REFERENCE  EPJ Web Conf. 239 (2020) 18006 (doi:10.1051/epjconf/202023918006)
+#DATASETS   0
+#
+#DATASET    23767002 
+#DATE       20210228
+#REACTION   92-U-235(N,F),DL,NU
+#PROJ       1
+#TARG       92235
+#MF         1
+#MT         455
+#C4BEGIN    [    1 92235   1 455  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   1 455    0.025300          0.016310 2.2834-4                                       D.Foligno+           (20)23767  2 
+#/DATA      1
+#/DATASET

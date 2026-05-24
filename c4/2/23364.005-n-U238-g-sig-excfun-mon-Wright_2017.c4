@@ -1,0 +1,79 @@
+#ENTRY      23364
+#AUTHOR1    T.Wright+
+#YEAR       2017
+#INSTITUTE  (2UK MAN)
+#TITLE      Measurement of the 238U(n,g) cross section up to
+#+          80 keV with the Total Absorption Calorimeter at the
+#+          CERN nTOF Facility
+#AUTHOR(S)  T.Wright, C.Guerrero, J.Billowes, D.Cano-Ott, E.Mendoza, 
+#+          S.Altstadt, J.Andrzejewski, L.Audouin, V.Becares, M.Barbagallo, 
+#+          F.Becvar, F.Belloni, E.Berthoumieux, D.Bosnar, M.Brugger, 
+#+          F.Calvino, M.Calviani, C.Carrapico, F.Cerutti, E.Chiaveri, 
+#+          M.Chin, N.Colonna, G.Cortes, M.A.Cortes-Giraldo, M.Diakaki, 
+#+          M.Dietz, C.Domingo-Pardo, I.Duran, N.Dzysiuk, C.Eleftheriadis, 
+#+          A.Ferrari, K.Fraval, V.Furman, M.B.Gomez-Hornillos, S.Ganesan, 
+#+          A.R.Garcia, G.Giubrone, I.F.Goncalves, E.Gonzalez-Romero, 
+#+          A.Goverdovski, E.Griesmayer, F.Gunsing, P.Gurusamy, T.Heftrich, 
+#+          A.Hernandez-Prieto, D.G.Jenkins, E.Jericha, F.Kaeppeler, 
+#+          Y.Kadi, D.Karadimos, T.Katabuchi, V.Ketlerov, V.Khryachkov, 
+#+          P.Koehler, M.Kokkoris, J.Kroll, M.Krticka, C.Lampoudis, 
+#+          C.Langer, E.Leal-Cidoncha, C.Lederer, H.Leeb, L.S.Leong, 
+#+          J.Lerendegui-Marco, R.Losito, A.Manousos, J.Marganiec, T.Martinez, 
+#+          C.Massimi, P.Mastinu, A.Mengoni, P.M.Milazzo, F.Mingrone, 
+#+          M.Mirea, C.Paradela, A.Pavlik, J.Perkowski, J.Praena, J.M.Quesada, 
+#+          T.Rauscher, R.Reifarth, A.Riego-Perez, M.Robles, F.Roman, 
+#+          C.Rubbia, J.A.Ryan, M.Sabate-Gilarte, R.Sarmento, A.Saxena, 
+#+          P.Schillebeeckx, S.Schmidt, D.Schumann, P.Sedyshev, G.Tagliente, 
+#+          J.L.Tain, A.Tarifeno-Saldivia, D.Tarrio, L.Tassan-Got, A.Tsinganis, 
+#+          S.Valenta, G.Vannini, V.Variale, P.Vaz, A.Ventura, M.J.Vermeulen, 
+#+          R.Versaci, V.Vlachoudis, R.Vlastou, A.Wallner, T.Ware, M.Weigand, 
+#+          C.Weiss, P.Zugec
+#REF-CODE   (J,PR/C,96,064601,2017)
+#REFERENCE  Phys.Rev.C 96 (2017) 064601 (doi:10.1103/PhysRevC.96.064601)
+#DATASETS   0
+#
+#DATASET    23364005 
+#DATE       20170908
+#REACTION   92-U-238(N,G)92-U-239,,SIG,,AV
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         102
+#PRODUCT    92-U-239
+#C4BEGIN    [    1 92238   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3 102 D  1250.000 250.0000 2.006270 6.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  1750.000 250.0000 1.642860 7.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  2250.000 250.0000 1.530980 8.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  2750.000 250.0000 1.283840 8.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  3250.000 250.0000 1.334690 9.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  3750.000 250.0000 1.059470 8.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  4250.000 250.0000 0.877930 8.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  4750.000 250.0000 0.976647 9.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  5250.000 250.0000 0.896615 9.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  5750.000 250.0000 0.969356 1.0000-5                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  6250.000 250.0000 0.981523 1.0000-5                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  6750.000 250.0000 0.824280 1.0000-5                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  7500.000 500.0000 0.799686 8.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  8500.000 500.0000 0.668575 8.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  9500.000 500.0000 0.716845 8.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  11000.00 1000.000 0.676358 6.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  13000.00 1000.000 0.655433 7.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  15000.00 1000.000 0.607344 6.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  17000.00 1000.000 0.585318 6.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  19000.00 1000.000 0.531168 7.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  21250.00 1250.000 0.530686 6.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  23750.00 1250.000 0.456854 7.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  26250.00 1250.000 0.469412 7.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  28750.00 1250.000 0.468372 8.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  32500.00 2500.000 0.460383 1.4000-5                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  37500.00 2500.000 0.418962 1.7000-5                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  42500.00 2500.000 0.399688 1.3000-5                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  47500.00 2500.000 0.366412 1.4000-5                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  55000.00 5000.000 0.304300 9.0000-6                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  65000.00 5000.000 0.264967 1.0000-5                                       T.Wright+            (17)23364  5 
+    1 92238   3 102 D  75000.00 5000.000 0.224047 9.0000-6                                       T.Wright+            (17)23364  5 
+#/DATA      31
+#/DATASET

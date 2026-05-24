@@ -1,0 +1,43 @@
+#ENTRY      C0868
+#AUTHOR1    D.W.Bardayan+
+#YEAR       2001
+#INSTITUTE  (1USAORL)
+#TITLE      Destruction of 18F via 18F(p,alpha)15O burning through
+#+          the E(c.m.)=665 keV resonance
+#AUTHOR(S)  D.W.Bardayan, J.C.Blackmon, W.Bradfield-Smith, C.R.Brune, 
+#+          A.E.Champagne, T.Davinson, B.A.Johnson, R.L.Kozub, C.S.Lee, 
+#+          R.Lewis, P.D.Parker, A.C.Shotter, M.S.Smith, D.W.Visser, 
+#+          P.J.Woods
+#REF-CODE   (J,PR/C,63,065802,2001)
+#REFERENCE  Phys.Rev.C 63 (2001) 065802 (doi:10.1103/PhysRevC.63.065802)
+#DATASETS   0
+#
+#DATASET    C0868003 
+#DATE       20040915
+#REACTION   (9-F-18(P,A)8-O-15,,DA,,AV)=(1-H-1(9-F-18,A)8-O-15,,DA,,AV)
+#PROJ       1001
+#TARG       9018
+#MF         4
+#MT         107
+#PRODUCT    8-O-15
+#C4BEGIN    [ 1001  9018   4 107 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9018   4 107 C  573832.3          8.5000-4 3.8000-4 0.874620 0.118461                     D.W.Bardayan+        (01)C0868  3 
+ 1001  9018   4 107 C  587877.4          1.9700-3 6.2000-4 0.874620 0.118461                     D.W.Bardayan+        (01)C0868  3 
+ 1001  9018   4 107 C  601922.4          1.3100-3 4.1000-4 0.874620 0.118461                     D.W.Bardayan+        (01)C0868  3 
+ 1001  9018   4 107 C  630012.6          3.6700-3 8.0000-4 0.874620 0.118461                     D.W.Bardayan+        (01)C0868  3 
+ 1001  9018   4 107 C  644057.7          5.3200-3 7.7000-4 0.874620 0.118461                     D.W.Bardayan+        (01)C0868  3 
+ 1001  9018   4 107 C  658102.9          6.6300-3 9.5000-4 0.874620 0.118461                     D.W.Bardayan+        (01)C0868  3 
+ 1001  9018   4 107 C  665178.2          8.8700-3 1.2400-3 0.874620 0.118461                     D.W.Bardayan+        (01)C0868  3 
+ 1001  9018   4 107 C  672148.0          0.017000 1.3300-3 0.874620 0.118461                     D.W.Bardayan+        (01)C0868  3 
+ 1001  9018   4 107 C  686193.1          0.031500 1.7100-3 0.874620 0.118461                     D.W.Bardayan+        (01)C0868  3 
+ 1001  9018   4 107 C  700238.3          0.042600 2.4100-3 0.874620 0.118461                     D.W.Bardayan+        (01)C0868  3 
+ 1001  9018   4 107 C  714283.4          0.039600 2.3100-3 0.874620 0.118461                     D.W.Bardayan+        (01)C0868  3 
+ 1001  9018   4 107 C  721042.0          0.030700 1.9800-3 0.874620 0.118461                     D.W.Bardayan+        (01)C0868  3 
+ 1001  9018   4 107 C  728328.6          0.021400 1.4700-3 0.874620 0.118461                     D.W.Bardayan+        (01)C0868  3 
+ 1001  9018   4 107 C  742373.8          0.016000 1.9600-3 0.874620 0.118461                     D.W.Bardayan+        (01)C0868  3 
+ 1001  9018   4 107 C  770464.2          5.7900-3 1.0400-3 0.874620 0.118461                     D.W.Bardayan+        (01)C0868  3 
+#/DATA      15
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      21574
+#AUTHOR1    J.F.Gilot+
+#YEAR       1980
+#INSTITUTE  (2BLGLVN)
+#TITLE      -FORWARD AND BACKWARD ANGLE DIFFERENTIAL
+#+          CROSS SECTION FOR NEUTRON-PROTON CAPTURE AT 72 MEV.
+#AUTHOR(S)  J.F.Gilot, A.Bol, P.Leleux, P.Lipnik, P.Macq
+#REF-CODE   (W,LELEUX,800620)
+#REFERENCE  Private communication  (1980)
+#DATASETS   0
+#
+#DATASET    21574002 
+#DATE       19800718
+#REACTION   1-H-1(N,G)1-H-2,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         102
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1001   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4 102    7.2000+7          4.4000-6 7.0000-7 1.000000                              J.F.Gilot+           (80)21574  2 
+    1  1001   4 102    7.2000+7          4.9000-6 6.0000-7-1.000000                              J.F.Gilot+           (80)21574  2 
+#/DATA      2
+#/DATASET

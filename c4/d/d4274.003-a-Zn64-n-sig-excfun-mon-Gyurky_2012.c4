@@ -1,0 +1,36 @@
+#ENTRY      D4274
+#AUTHOR1    Gy.Gyurky+
+#YEAR       2012
+#INSTITUTE  (3HUNDEB)
+#TITLE      Relation between total cross sections from elastic
+#+          scattering and alpha-induced reactions: The example of
+#+          64Zn
+#AUTHOR(S)  Gy.Gyurky, P.Mohr, Zs.Fulop, Z.Halasz, G.G.Kiss, T.Szucs, 
+#+          E.Somorjai
+#REF-CODE   (J,PR/C,86,041601,2012)
+#REFERENCE  Phys.Rev.C 86 (2012) 041601 (doi:10.1103/PhysRevC.86.041601)
+#DATASETS   0
+#
+#DATASET    D4274003 
+#DATE       20121205
+#REACTION   30-ZN-64(A,N)32-GE-67,,SIG
+#PROJ       2004
+#TARG       30064
+#MF         3
+#MT         4
+#PRODUCT    32-GE-67
+#C4BEGIN    [ 2004 30064   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 30064   3   4    9606680. 80012.14 0.010600 1.2000-3                                       Gy.Gyurky+           (12)D4274  3 
+ 2004 30064   3   4    1.0287+7 80013.00 0.041700 4.6000-3                                       Gy.Gyurky+           (12)D4274  3 
+ 2004 30064   3   4    1.0946+7 70012.10 0.070400 7.7000-3                                       Gy.Gyurky+           (12)D4274  3 
+ 2004 30064   3   4    1.1031+7 80013.94 0.073600 8.1000-3                                       Gy.Gyurky+           (12)D4274  3 
+ 2004 30064   3   4    1.1785+7 90016.76 0.106000 0.012000                                       Gy.Gyurky+           (12)D4274  3 
+ 2004 30064   3   4    1.1945+7 90016.98 0.109000 0.012000                                       Gy.Gyurky+           (12)D4274  3 
+ 2004 30064   3   4    1.2327+7 60011.68 0.120000 0.013000                                       Gy.Gyurky+           (12)D4274  3 
+ 2004 30064   3   4    1.2986+7 60012.31 0.165000 0.018000                                       Gy.Gyurky+           (12)D4274  3 
+ 2004 30064   3   4    1.3146+7 70014.54 0.179000 0.019000                                       Gy.Gyurky+           (12)D4274  3 
+#/DATA      9
+#/DATASET

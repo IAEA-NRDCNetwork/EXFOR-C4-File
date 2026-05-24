@@ -1,0 +1,34 @@
+#ENTRY      22717
+#AUTHOR1    J.Balewski+
+#YEAR       1995
+#INSTITUTE  (3POLUJK)
+#TITLE      Differential cross section for elastic n+d scattering
+#+          and n+d break-up quasi free-scattering at 67 MeV
+#+          vector polarized deuterons on 9Be and 12C
+#AUTHOR(S)  J.Balewski, K.Bodek, L.Jarczyk, B.Kamys, St.Kistryn, A.Strzalkowski, 
+#+          W.Hajdas, R.Muller, B.Dechant, J.Krug, W.Lubcke, H.Ruhl, 
+#+          G.Spangardt, M.Steinke, M.Stephan, D.Kamke, R.Henneck, H.Witala, 
+#+          W.Glockle, J.Golak
+#REF-CODE   (J,NP/A,581,131,1995)
+#REFERENCE  Nucl.Phys.A 581 (1995) 131 (doi:10.1016/0375-9474(94)00440-X)
+#DATASETS   0
+#
+#DATASET    22717002 
+#DATE       20031111
+#REACTION   1-H-2(N,EL)1-H-2,,DA
+#PROJ       1
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   4   2  C 6.7000+7 1500000. 0.022700 1.8000-3 0.863396                              J.Balewski+          (95)22717  2 
+    1  1002   4   2  C 6.7000+7 1500000. 0.010800 8.0000-4 0.705872                              J.Balewski+          (95)22717  2 
+    1  1002   4   2  C 6.7000+7 1500000. 4.7000-3 3.8000-4 0.506034                              J.Balewski+          (95)22717  2 
+    1  1002   4   2  C 6.7000+7 1500000. 2.0600-3 1.6000-4 0.250380                              J.Balewski+          (95)22717  2 
+    1  1002   4   2  C 6.7000+7 1500000. 1.3600-3 1.4000-4 0.059306                              J.Balewski+          (95)22717  2 
+#/DATA      5
+#/DATASET

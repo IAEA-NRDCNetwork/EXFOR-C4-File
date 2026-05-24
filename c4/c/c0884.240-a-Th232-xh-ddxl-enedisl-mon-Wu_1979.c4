@@ -1,0 +1,31 @@
+#ENTRY      C0884
+#AUTHOR1    J.R.Wu+
+#YEAR       1979
+#INSTITUTE  (1USAMRY)
+#TITLE      Charged particle spectra: 140 MeV alpha particle
+#+          bombardment of 27Al, 58Ni, 90Zr, 209Bi, and 232Th
+#AUTHOR(S)  J.R.Wu, C.C.Chang, H.D.Holmgren
+#REF-CODE   (J,PR/C,19,659,1979)
+#REFERENCE  Phys.Rev.C 19 (1979) 659 (doi:10.1103/PhysRevC.19.659)
+#DATASETS   0
+#
+#DATASET    C0884240 
+#DATE       20130117
+#REACTION   90-TH-232(A,X)2-HE-3,,DA/DE
+#PROJ       2004
+#TARG       90232
+#MF         6
+#MT         206
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 2004 90232   6 206  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 90232   6 206    1.4000+8          1.730-11         -0.766044          1.3330+7          E2J.R.Wu+              (79)C0884240 
+ 2004 90232   6 206    1.4000+8          1.038-11         -0.766044          2.2120+7          E2J.R.Wu+              (79)C0884240 
+ 2004 90232   6 206    1.4000+8          6.235-12         -0.766044          2.9280+7          E2J.R.Wu+              (79)C0884240 
+ 2004 90232   6 206    1.4000+8          3.034-12         -0.766044          3.7200+7          E2J.R.Wu+              (79)C0884240 
+ 2004 90232   6 206    1.4000+8          1.539-12         -0.766044          4.5130+7          E2J.R.Wu+              (79)C0884240 
+ 2004 90232   6 206    1.4000+8          7.806-13         -0.766044          5.3880+7          E2J.R.Wu+              (79)C0884240 
+#/DATA      6
+#/DATASET

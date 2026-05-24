@@ -1,0 +1,36 @@
+#ENTRY      F0690
+#AUTHOR1    G.D.Alkhazov+
+#YEAR       1972
+#INSTITUTE  (4RUSLIN)
+#TITLE      Differential cross sections of 1 GeV proton scattering
+#+          from 12C.
+#AUTHOR(S)  G.D.Alkhazov, G.M.Amalsky, S.L.Belostotsky, A.A.Vorobyov, 
+#+          O.A.Domchenkov, Yu.V.Dotsenko, V.E.Starodubsky
+#REF-CODE   (J,PL/B,42,121,1972)
+#REFERENCE  Phys.Lett.B 42 (1972) 121 (doi:10.1016/0370-2693(72)90733-2)
+#DATASETS   0
+#
+#DATASET    F0690007 
+#DATE       20150922
+#REACTION   1-H-1(P,EL)1-H-1,,DA
+#PROJ       1001
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1001   4   2  C 1.0000+9 1.0000+7 0.016200 1.0000-3 0.966690 1.1168-3                     G.D.Alkhazov+        (72)F0690  7 
+ 1001  1001   4   2  C 1.0000+9 1.0000+7 0.015200 1.0000-3 0.954813 1.2968-3                     G.D.Alkhazov+        (72)F0690  7 
+ 1001  1001   4   2  C 1.0000+9 1.0000+7 0.014400 7.0000-4 0.941235 1.4737-3                     G.D.Alkhazov+        (72)F0690  7 
+ 1001  1001   4   2  C 1.0000+9 1.0000+7 0.013400 7.0000-4 0.925937 1.6479-3                     G.D.Alkhazov+        (72)F0690  7 
+ 1001  1001   4   2  C 1.0000+9 1.0000+7 0.012700 6.0000-4 0.909018 1.8184-3                     G.D.Alkhazov+        (72)F0690  7 
+ 1001  1001   4   2  C 1.0000+9 1.0000+7 0.010500 5.0000-4 0.870442 2.1479-3                     G.D.Alkhazov+        (72)F0690  7 
+ 1001  1001   4   2  C 1.0000+9 1.0000+7 6.9600-3 2.8000-4 0.801671 2.6082-3                     G.D.Alkhazov+        (72)F0690  7 
+ 1001  1001   4   2  C 1.0000+9 1.0000+7 5.7100-3 2.5000-4 0.749303 2.8895-3                     G.D.Alkhazov+        (72)F0690  7 
+ 1001  1001   4   2  C 1.0000+9 1.0000+7 4.0600-3 1.6000-4 0.692395 3.1482-3                     G.D.Alkhazov+        (72)F0690  7 
+ 1001  1001   4   2  C 1.0000+9 1.0000+7 3.1600-3 1.5000-4 0.631488 3.3833-3                     G.D.Alkhazov+        (72)F0690  7 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,39 @@
+#ENTRY      E2532
+#AUTHOR1    N.Nakatsuka+
+#YEAR       2017
+#INSTITUTE  (2JPNKTO)
+#TITLE      Observation of isoscalar and isovector dipole
+#+          excitations in neutron-rich 20O
+#AUTHOR(S)  N.Nakatsuka, H.Baba, T.Aumann, R.Avigo, S.R.Banerjee, A.Bracco, 
+#+          C.Caesar, F.Camera, S.Ceruti, S.Chen, V.Derya, P.Doornenbal, 
+#+          A.Giaz, A.Horvat, K.Ieki, T.Inakura, N.Imai, T.Kawabata, 
+#+          N.Kobayashi, Y.Kondo, S.Koyama, M.Kurata-Nishimura, S.Masuoka, 
+#+          M.Matsushita, S.Michimasa, B.Million, T.Motobayashi, T.Murakami, 
+#+          T.Nakamura, T.Ohnishi, H.J.Ong, S.Ota, H.Otsu, T.Ozaki, 
+#+          A.Saito, H.Sakurai, H.Scheit, F.Schindler, P.Schrock, Y.Shiga, 
+#+          M.Shikata, S.Shimoura, D.Steppenbeck, T.Sumikama, I.Syndikus, 
+#+          H.Takeda, S.Takeuchi, A.Tamii, R.Taniuchi, Y.Togano, J.Tscheuschner, 
+#+          J.Tsubota, H.Wang, O.Wieland, K.Wimmer, Y.Yamaguchi, K.Yoneda, 
+#+          J.Zenihiro
+#REF-CODE   (J,PL/B,768,387,2017)
+#REFERENCE  Phys.Lett.B 768 (2017) 387 (doi:10.1016/j.physletb.2017.03.017)
+#DATASETS   0
+#
+#DATASET    E2532002 
+#DATE       20180416
+#REACTION   (2-HE-4(8-O-20,INL)2-HE-4,PAR,SIG)=(8-O-20(A,INL)8-O-20,PAR,SIG)
+#PROJ       2004
+#TARG       8020
+#MF         3
+#MT         801
+#PRODUCT    8-O-20
+#C4BEGIN    [ 2004  8020   3 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  8020   3 801    1.1040+9 3.6000+7 1.1100-3 0.016000                   4070000. 4000000.LVLN.Nakatsuka+         (17)E2532  2 
+ 2004  8020   3 801    1.1040+9 3.6000+7 3.7600-4 0.043000                   5360000. 5000000.LVLN.Nakatsuka+         (17)E2532  2 
+ 2004  8020   3 801    1.1040+9 3.6000+7 3.1000-3 0.028000                   5620000. 5000000.LVLN.Nakatsuka+         (17)E2532  2 
+ 2004  8020   3 801    1.1040+9 3.6000+7 7.9000-5 0.013000                   6840000. 7000000.LVLN.Nakatsuka+         (17)E2532  2 
+#/DATA      4
+#/DATASET

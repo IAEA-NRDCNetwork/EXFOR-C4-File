@@ -1,0 +1,31 @@
+#ENTRY      40367
+#AUTHOR1    V.I.Popov+
+#YEAR       1957
+#INSTITUTE  (4RUSFEI)
+#TITLE      Angular distribution of elastically and inelastically
+#+          scattered  2.9 - MeV  neutrons
+#AUTHOR(S)  V.I.Popov
+#REF-CODE   (J,AE,3,(12),498,1957)
+#REFERENCE  At.En. 3 No.12 (1957) 498
+#DATASETS   0
+#
+#DATASET    40367011 
+#DATE       20140709
+#REACTION   82-PB-0(N,EL)82-PB-0,,DA
+#PROJ       1
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [    1 82000   4   2 R]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   4   2 R  2900000. 100000.0 0.257090 8.0999-3-0.867100                              V.I.Popov            (57)40367 11 
+    1 82000   4   2 R  2900000. 100000.0 0.135690 4.0000-3-0.503500                              V.I.Popov            (57)40367 11 
+    1 82000   4   2 R  2900000. 100000.0 0.216000 5.0000-3-4.7990-3                              V.I.Popov            (57)40367 11 
+    1 82000   4   2 R  2900000. 100000.0 0.181090 5.0000-3 0.496390                              V.I.Popov            (57)40367 11 
+    1 82000   4   2 R  2900000. 100000.0 0.458890 0.015899 0.704690                              V.I.Popov            (57)40367 11 
+    1 82000   4   2 R  2900000. 100000.0 2.164000 0.040000 0.864790                              V.I.Popov            (57)40367 11 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      E0795
+#AUTHOR1    H.Ejiri+
+#YEAR       1981
+#INSTITUTE  (2JPNOSA)
+#TITLE      INELASTIC PROTON SCATTERING TO PARTICLE-HOLE STATES
+#+          IN 40CA AND SPIN-ISOSPIN EXCITATION OF PION SYMMETRY
+#+          STATES
+#AUTHOR(S)  H.Ejiri, M.Sasao, T.Shibata, H.Ohsumi, Y.Fujita, M.Fujiwara, 
+#+          T.Yamazaki, I.Katayama, S.Morinobu, H.Ikegami
+#REF-CODE   (J,PR/C,24,2001,1981)
+#REFERENCE  Phys.Rev.C 24 (1981) 2001 (doi:10.1103/PhysRevC.24.2001)
+#DATASETS   0
+#
+#DATASET    E0795012 
+#DATE       20040622
+#REACTION   20-CA-40(P,INL)20-CA-40,PAR,DA
+#PROJ       1001
+#TARG       20040
+#MF         4
+#MT         601
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 1001 20040   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20040   4 601  C 6.5000+7          6.4940-5 1.1400-5 0.992315          1.0267+7         LVLH.Ejiri+             (81)E0795 12 
+ 1001 20040   4 601  C 6.5000+7          6.4360-5 1.1300-5 0.985882          1.0267+7         LVLH.Ejiri+             (81)E0795 12 
+ 1001 20040   4 601  C 6.5000+7          9.0580-5 1.9800-5 0.972394          1.0267+7         LVLH.Ejiri+             (81)E0795 12 
+ 1001 20040   4 601  C 6.5000+7          5.7770-5 1.5200-5 0.948024          1.0267+7         LVLH.Ejiri+             (81)E0795 12 
+ 1001 20040   4 601  C 6.5000+7          4.2940-5 9.8700-6 0.914572          1.0267+7         LVLH.Ejiri+             (81)E0795 12 
+ 1001 20040   4 601  C 6.5000+7          2.5710-5 1.0800-5 0.871231          1.0267+7         LVLH.Ejiri+             (81)E0795 12 
+#/DATA      6
+#/DATASET

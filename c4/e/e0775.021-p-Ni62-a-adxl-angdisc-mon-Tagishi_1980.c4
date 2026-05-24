@@ -1,0 +1,38 @@
+#ENTRY      E0775
+#AUTHOR1    Y.Tagishi+
+#YEAR       1980
+#INSTITUTE  (2JPNTSU)
+#TITLE      ANALYZING POWERS FOR THE (P,ALPHA) REACTIONS ON
+#+          58,60,62NI AT EP=22MEV
+#AUTHOR(S)  Y.Tagishi, K.Katori, M.Sasagase, M.Sato, T.Mikumo
+#REF-CODE   (J,NP/A,339,262,1980)
+#REFERENCE  Nucl.Phys.A 339 (1980) 262 (doi:10.1016/0375-9474(80)90092-5)
+#DATASETS   0
+#
+#DATASET    E0775021 
+#DATE       19881027
+#REACTION   28-NI-62(P,A)27-CO-59,PAR,DA
+#PROJ       1001
+#TARG       28062
+#MF         4
+#MT         800
+#PRODUCT    27-CO-59
+#C4BEGIN    [ 1001 28062   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28062   4 800  C 2.2000+7          5.8920-6          0.987452          1282000.         LVLY.Tagishi+           (80)E0775 21 
+ 1001 28062   4 800  C 2.2000+7          3.3450-6          0.964567          1282000.         LVLY.Tagishi+           (80)E0775 21 
+ 1001 28062   4 800  C 2.2000+7          2.2270-6          0.936556          1282000.         LVLY.Tagishi+           (80)E0775 21 
+ 1001 28062   4 800  C 2.2000+7          1.7400-6          0.900956          1282000.         LVLY.Tagishi+           (80)E0775 21 
+ 1001 28062   4 800  C 2.2000+7          1.4600-6          0.858038          1282000.         LVLY.Tagishi+           (80)E0775 21 
+ 1001 28062   4 800  C 2.2000+7          1.4120-6          0.808309          1282000.         LVLY.Tagishi+           (80)E0775 21 
+ 1001 28062   4 800  C 2.2000+7          1.0460-6          0.755259          1282000.         LVLY.Tagishi+           (80)E0775 21 
+ 1001 28062   4 800  C 2.2000+7          6.9680-7          0.684318          1282000.         LVLY.Tagishi+           (80)E0775 21 
+ 1001 28062   4 800  C 2.2000+7          4.9810-7          0.619697          1282000.         LVLY.Tagishi+           (80)E0775 21 
+ 1001 28062   4 800  C 2.2000+7          4.1780-7          0.555599          1282000.         LVLY.Tagishi+           (80)E0775 21 
+ 1001 28062   4 800  C 2.2000+7          3.0960-7          0.462971          1282000.         LVLY.Tagishi+           (80)E0775 21 
+ 1001 28062   4 800  C 2.2000+7          3.7730-7          0.387033          1282000.         LVLY.Tagishi+           (80)E0775 21 
+ 1001 28062   4 800  C 2.2000+7          3.7820-7          0.307871          1282000.         LVLY.Tagishi+           (80)E0775 21 
+#/DATA      13
+#/DATASET

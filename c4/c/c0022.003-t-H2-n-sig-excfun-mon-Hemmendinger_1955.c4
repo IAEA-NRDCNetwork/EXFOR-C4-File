@@ -1,0 +1,25 @@
+#ENTRY      C0022
+#AUTHOR1    A.Hemmendinger+
+#YEAR       1955
+#INSTITUTE  (1USALAS)
+#TITLE      REACTION D(T,A)N AT 1.5 MEV
+#AUTHOR(S)  A.Hemmendinger, H.V.Argo
+#REF-CODE   (J,PR,98,70,1955)
+#REFERENCE  Phys.Rev. 98 (1955) 70 (doi:10.1103/PhysRev.98.70)
+#DATASETS   0
+#
+#DATASET    C0022003 
+#DATE       20020213
+#REACTION   1-H-2(T,N)2-HE-4,,SIG
+#PROJ       1003
+#TARG       1002
+#MF         3
+#MT         4
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1003  1002   3   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  1002   3   4 D  1500000.          0.280000 8.0000-3                                       A.Hemmendinger+      (55)C0022  3 
+#/DATA      1
+#/DATASET

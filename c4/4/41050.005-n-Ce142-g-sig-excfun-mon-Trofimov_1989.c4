@@ -1,0 +1,36 @@
+#ENTRY      41050
+#AUTHOR1    Yu.N.Trofimov+
+#YEAR       1989
+#INSTITUTE  (4RUSRI)
+#TITLE      Radiative neutron capture cross-sections for Ru-102,
+#+          Ru-104, Ce-140, Ce-142 in the energy range 0.5 - 2.2
+#+          MeV
+#AUTHOR(S)  Yu.N.Trofimov
+#REF-CODE   (J,YK,,(4),36,1989)
+#REFERENCE  Yad.Reak.Konst.  No.4 (1989) 36
+#DATASETS   0
+#
+#DATASET    41050005 
+#DATE       20180327
+#REACTION   58-CE-142(N,G)58-CE-143,,SIG
+#PROJ       1
+#TARG       58142
+#MF         3
+#MT         102
+#PRODUCT    58-CE-143
+#C4BEGIN    [    1 58142   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 58142   3 102    500000.0 130000.0 6.5000-3 9.0000-4                                       Yu.N.Trofimov        (89)41050  5 
+    1 58142   3 102    700000.0 130000.0 7.1000-3 8.0000-4                                       Yu.N.Trofimov        (89)41050  5 
+    1 58142   3 102    800000.0 130000.0 6.1000-3 8.0000-4                                       Yu.N.Trofimov        (89)41050  5 
+    1 58142   3 102    1000000. 120000.0 6.4000-3 7.0000-4                                       Yu.N.Trofimov        (89)41050  5 
+    1 58142   3 102    1200000. 110000.0 6.3000-3 7.0000-4                                       Yu.N.Trofimov        (89)41050  5 
+    1 58142   3 102    1400000. 100000.0 6.6000-3 7.0000-4                                       Yu.N.Trofimov        (89)41050  5 
+    1 58142   3 102    1600000. 90000.00 6.4000-3 7.0000-4                                       Yu.N.Trofimov        (89)41050  5 
+    1 58142   3 102    1800000. 90000.00 6.1000-3 7.0000-4                                       Yu.N.Trofimov        (89)41050  5 
+    1 58142   3 102    2000000. 80000.00 5.9000-3 7.0000-4                                       Yu.N.Trofimov        (89)41050  5 
+    1 58142   3 102    2200000. 80000.00 6.2000-3 7.0000-4                                       Yu.N.Trofimov        (89)41050  5 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,42 @@
+#ENTRY      40076
+#AUTHOR1    V.N.Kononov+
+#YEAR       1965
+#INSTITUTE  (4RUSFEI)
+#TITLE      Radiative capture cross sections of 30-170 keV
+#+          neutrons
+#AUTHOR(S)  V.N.Kononov, Yu.Ya.Stavisskii, V.E.Kolesov, A.G.Dovbenko, 
+#+          S.Nesterenko, V.I.Moroka
+#REF-CODE   (R,FEI-29,1965)
+#REFERENCE  Report FEI-29, 1965
+#DATASETS   0
+#
+#DATASET    40076002 
+#DATE       20210318
+#REACTION   75-RE-0(N,G),,SIG
+#PROJ       1
+#TARG       75000
+#MF         3
+#MT         102
+#C4BEGIN    [    1 75000   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 75000   3 102 A  29000.00          1.015000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  33000.00          0.842000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  39000.00          0.785000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  46000.00          0.680000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  56000.00          0.582000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  71000.00          0.484000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  84000.00          0.455000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  95000.00          0.418000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  102000.0          0.423000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  107000.0          0.388000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  114000.0          0.386000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  121000.0          0.374000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  130000.0          0.338000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  138000.0          0.356000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  146000.0          0.308000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  156000.0          0.331000                                                V.N.Kononov+         (65)40076  2 
+    1 75000   3 102 A  168000.0          0.316000                                                V.N.Kononov+         (65)40076  2 
+#/DATA      17
+#/DATASET

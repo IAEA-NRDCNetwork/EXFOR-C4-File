@@ -1,0 +1,36 @@
+#ENTRY      O2446
+#AUTHOR1    V.Foteinou+
+#YEAR       2018
+#INSTITUTE  (2GRCATH)
+#TITLE      Cross section measurements of proton capture
+#+          reactions on Se isotopes relevant to the
+#+          astrophysical p process
+#AUTHOR(S)  V.Foteinou, S.Harissopulos, M.Axiotis, A.Lagoyannis, G.Provatas, 
+#+          A.Spyrou, G.Perdikakis, Ch.Zarkadas, P.Demetriou
+#REF-CODE   (J,PR/C,97,035806,2018)
+#REFERENCE  Phys.Rev.C 97 (2018) 035806 (doi:10.1103/PhysRevC.97.035806)
+#DATASETS   0
+#
+#DATASET    O24460041
+#DATE       20190514
+#REACTION   34-SE-74(P,G)35-BR-75,,SIG
+#PROJ       1001
+#TARG       34074
+#MF         3
+#MT         102
+#PRODUCT    35-BR-75
+#C4BEGIN    [ 1001 34074   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 34074   3 102    1978640.          8.5300-5 9.8000-6                                       V.Foteinou+          (18)O2446  41
+ 1001 34074   3 102    2484459.          4.6300-4 5.1000-5                                       V.Foteinou+          (18)O2446  41
+ 1001 34074   3 102    2985213.          1.2030-3 1.3100-4                                       V.Foteinou+          (18)O2446  41
+ 1001 34074   3 102    3484957.          2.2090-3 2.4000-4                                       V.Foteinou+          (18)O2446  41
+ 1001 34074   3 102    3986733.          3.8040-3 4.1100-4                                       V.Foteinou+          (18)O2446  41
+ 1001 34074   3 102    4486484.          4.2760-3 4.6800-4                                       V.Foteinou+          (18)O2446  41
+ 1001 34074   3 102    4989280.          6.5850-3 7.1900-4                                       V.Foteinou+          (18)O2446  41
+ 1001 34074   3 102    5490052.          7.9800-3 8.7000-4                                       V.Foteinou+          (18)O2446  41
+ 1001 34074   3 102    5991841.          9.0420-3 1.0090-3                                       V.Foteinou+          (18)O2446  41
+#/DATA      9
+#/DATASET

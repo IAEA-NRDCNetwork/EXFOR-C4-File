@@ -1,0 +1,27 @@
+#ENTRY      31832
+#AUTHOR1    I.D.Alkhazov+
+#YEAR       1979
+#INSTITUTE  (4RUSRI)
+#TITLE      Fission cross sections of 235U and 238U to neutrons
+#+          with an energy of 14.7 MeV
+#AUTHOR(S)  I.D.Alkhazov, V.N.Dushin, S.S.Kovalenko, O.I.Kostochkin, 
+#+          K.A.Petrzhak, V.I.Shpakov, R.Arlt, V.Wagner, F.Weidhaas, 
+#+          V.Grimm, R.Krause, G.Musiol, H.Ortlepp, R.Teichner
+#REF-CODE   (J,SJA,47,1040,1979)
+#REFERENCE  Sov.At.Energy 47 (1979) 1040 (doi:10.1007/BF01126187)
+#DATASETS   0
+#
+#DATASET    31832002 
+#DATE       20201103
+#REACTION   92-U-235(N,F),,SIG
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18 C  1.4710+7 150000.0 2.073000 0.022803                                       I.D.Alkhazov+        (79)31832  2 
+#/DATA      1
+#/DATASET

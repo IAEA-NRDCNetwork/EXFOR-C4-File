@@ -1,0 +1,45 @@
+#ENTRY      C2065
+#AUTHOR1    A.Spyrou+
+#YEAR       2013
+#INSTITUTE  (1USAMSU)
+#TITLE      Measurement of the 90,92Zr(p,gamma)91,93Nb reactions
+#+          for the nucleosynthesis of elements near A = 90
+#AUTHOR(S)  A.Spyrou, S.J.Quinn, A.Simon, T.Rauscher, A.Battaglia, A.Best, 
+#+          B.Bucher, M.Couder, P.A.Deyoung, A.C.Dombos, X.Fang, J.Gorres, 
+#+          A.Kontos, Q.Li, L.Y.Lin, A.Long, S.Lyons, B.S.Meyer, A.Roberts, 
+#+          D.Robertson, K.Smith, M.K.Smith, E.Stech, B.Stefanek, W.P.Tan, 
+#+          X.D.Tang, M.Wiescher
+#REF-CODE   (J,PR/C,88,045802,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 045802 (doi:10.1103/PhysRevC.88.045802)
+#DATASETS   0
+#
+#DATASET    C20650032
+#DATE       20131127
+#REACTION   40-ZR-92(P,G)41-NB-93,,SIG,,SFC
+#PROJ       1001
+#TARG       40092
+#MF         3
+#MT         102
+#PRODUCT    41-NB-93
+#C4BEGIN    [ 1001 40092   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40092   3 102    4979148. 22001.26 1.9499-7 2.6249-8                                       A.Spyrou+            (13)C2065  32
+ 1001 40092   3 102    4777955. 23001.26 1.3482-7 2.1571-8                                       A.Spyrou+            (13)C2065  32
+ 1001 40092   3 102    4576762. 24001.26 1.3082-7 2.2751-8                                       A.Spyrou+            (13)C2065  32
+ 1001 40092   3 102    4376581. 24001.21 1.2896-7 1.9540-8                                       A.Spyrou+            (13)C2065  32
+ 1001 40092   3 102    4175388. 25001.20 1.1293-7 1.7374-8                                       A.Spyrou+            (13)C2065  32
+ 1001 40092   3 102    3974197. 26001.19 8.4193-8 1.6839-8                                       A.Spyrou+            (13)C2065  32
+ 1001 40092   3 102    3774017. 27001.17 9.8216-8 1.4031-8                                       A.Spyrou+            (13)C2065  32
+ 1001 40092   3 102    3572826. 28001.15 9.2382-8 1.4697-8                                       A.Spyrou+            (13)C2065  32
+ 1001 40092   3 102    3371636. 29001.12 6.5952-8 9.5931-9                                       A.Spyrou+            (13)C2065  32
+ 1001 40092   3 102    3170446. 30001.09 1.0507-7 1.6215-8                                       A.Spyrou+            (13)C2065  32
+ 1001 40092   3 102    2969257. 31001.06 4.4150-7 6.2883-8                                       A.Spyrou+            (13)C2065  32
+ 1001 40092   3 102    2768068. 32001.02 3.6928-7 6.8213-8                                       A.Spyrou+            (13)C2065  32
+ 1001 40092   3 102    2565869. 34001.00 1.9473-7 3.2090-8                                       A.Spyrou+            (13)C2065  32
+ 1001 40092   3 102    2364681. 36000.98 8.3849-8 1.0821-8                                       A.Spyrou+            (13)C2065  32
+ 1001 40092   3 102    2162482. 38000.94 3.2431-8 4.6305-9                                       A.Spyrou+            (13)C2065  32
+ 1001 40092   3 102    1960284. 40000.90 1.3953-8 1.8337-9                                       A.Spyrou+            (13)C2065  32
+#/DATA      16
+#/DATASET

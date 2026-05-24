@@ -1,0 +1,34 @@
+#ENTRY      O2030
+#AUTHOR1    R.Bock+
+#YEAR       1961
+#INSTITUTE  (2GERMPH)
+#TITLE      Determination of the compound nucleus and stripping
+#+          component of (d,p) and (d,n) reactions of Zr and Zr-96.
+#AUTHOR(S)  R.Bock
+#REF-CODE   (J,ZP,164,546,1961)
+#REFERENCE  Z.Phys. 164 (1961) 546 (doi:10.1007/BF01378428)
+#DATASETS   0
+#
+#DATASET    O2030005 
+#DATE       20120901
+#REACTION   40-ZR-96(D,N)41-NB-97,,SIG
+#PROJ       1002
+#TARG       40096
+#MF         3
+#MT         4
+#PRODUCT    41-NB-97
+#C4BEGIN    [ 1002 40096   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 40096   3   4    3820000.          2.4990-3                                                R.Bock               (61)O2030  5 
+ 1002 40096   3   4    4590000.          0.015150                                                R.Bock               (61)O2030  5 
+ 1002 40096   3   4    5420000.          0.035380                                                R.Bock               (61)O2030  5 
+ 1002 40096   3   4    6690000.          0.076010                                                R.Bock               (61)O2030  5 
+ 1002 40096   3   4    7350000.          0.083150                                                R.Bock               (61)O2030  5 
+ 1002 40096   3   4    7880000.          0.081110                                                R.Bock               (61)O2030  5 
+ 1002 40096   3   4    8410000.          0.076940                                                R.Bock               (61)O2030  5 
+ 1002 40096   3   4    9430000.          0.070550                                                R.Bock               (61)O2030  5 
+ 1002 40096   3   4    9910000.          0.067130                                                R.Bock               (61)O2030  5 
+#/DATA      9
+#/DATASET

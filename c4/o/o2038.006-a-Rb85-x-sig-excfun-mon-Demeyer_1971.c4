@@ -1,0 +1,28 @@
+#ENTRY      O2038
+#AUTHOR1    A.Demeyer+
+#YEAR       1971
+#INSTITUTE  (2FR LYO)
+#TITLE      Recoil ranges, isomer ratios and excitation functions
+#+          of reactions induced in 85Pb by alpha-particles
+#AUTHOR(S)  A.Demeyer, N.Chevarier, A.Chevarier, T.M.Duc
+#REF-CODE   (J,JPR,32,583,1971)
+#REFERENCE  J.Phys.(Paris) 32 (1971) 583 (doi:10.1051/jphys:01971003208-9058300)
+#DATASETS   0
+#
+#DATASET    O2038006 
+#DATE       20120914
+#REACTION   37-RB-85(A,X)37-RB-83,,SIG
+#PROJ       2004
+#TARG       37085
+#MF         3
+#MT         454
+#PRODUCT    37-RB-83
+#C4BEGIN    [ 2004 37085   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 37085   3 454    4.1500+7          0.059000                    37083.9                     A.Demeyer+           (71)O2038  6 
+ 2004 37085   3 454    4.7000+7          0.104000                    37083.9                     A.Demeyer+           (71)O2038  6 
+ 2004 37085   3 454    5.3600+7          0.125000                    37083.9                     A.Demeyer+           (71)O2038  6 
+#/DATA      3
+#/DATASET

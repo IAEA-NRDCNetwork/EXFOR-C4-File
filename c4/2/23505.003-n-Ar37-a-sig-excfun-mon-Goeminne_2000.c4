@@ -1,0 +1,38 @@
+#ENTRY      23505
+#AUTHOR1    G.Goeminne+
+#YEAR       2000
+#INSTITUTE  (2BLGGHT)
+#TITLE      Investigation of the 37Ar(n,p)37Cl and 37Ar(n,alpha)34S
+#+          reactions in the neutron energy range from 10 meV to
+#+          100 keV
+#AUTHOR(S)  G.Goeminne, C.Wagemans, J.Wagemans, O.Serot, M.Loiselet, 
+#+          M.Gaelens
+#REF-CODE   (J,NP/A,678,11,2000)
+#REFERENCE  Nucl.Phys.A 678 (2000) 11 (doi:10.1016/S0375-9474(00)00312-2)
+#DATASETS   0
+#
+#DATASET    23505003 
+#DATE       20190516
+#REACTION   18-AR-37(N,A)16-S-34,,SIG
+#PROJ       1
+#TARG       18037
+#MF         3
+#MT         107
+#PRODUCT    16-S-34
+#C4BEGIN    [    1 18037   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 18037   3 107    1.086000          168.0000 21.57000                                       G.Goeminne+          (00)23505  3 
+    1 18037   3 107    1.468000          115.1000 15.82000                                       G.Goeminne+          (00)23505  3 
+    1 18037   3 107    2.099000          111.4000 15.31000                                       G.Goeminne+          (00)23505  3 
+    1 18037   3 107    3.328000          84.67000 11.64000                                       G.Goeminne+          (00)23505  3 
+    1 18037   3 107    5.745000          61.82000 7.936000                                       G.Goeminne+          (00)23505  3 
+    1 18037   3 107    8.773000          44.78000 6.157000                                       G.Goeminne+          (00)23505  3 
+    1 18037   3 107    13.28000          48.52000 6.671000                                       G.Goeminne+          (00)23505  3 
+    1 18037   3 107    20.09000          38.71000 5.678000                                       G.Goeminne+          (00)23505  3 
+    1 18037   3 107    27.93000          36.88000 5.751000                                       G.Goeminne+          (00)23505  3 
+    1 18037   3 107    47.75000          21.67000 2.979000                                       G.Goeminne+          (00)23505  3 
+    1 18037   3 107    80.12000          16.47000 2.568000                                       G.Goeminne+          (00)23505  3 
+#/DATA      11
+#/DATASET

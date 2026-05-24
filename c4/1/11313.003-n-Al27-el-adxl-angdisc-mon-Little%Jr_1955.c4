@@ -1,0 +1,37 @@
+#ENTRY      11313
+#AUTHOR1    R.N.Little Jr+
+#YEAR       1955
+#INSTITUTE  (1USATEX)
+#TITLE      Liquid scintillator Measurements of Angular Elastic
+#+          Scattering of Neutrons from Carbon, Aluminum, and
+#+          Sulfur
+#AUTHOR(S)  R.N.Little Jr, B.P.Leonard Jr, J.T.Prud'Homme, L.D.Vincent
+#REF-CODE   (J,PR,98,634,195505)
+#REFERENCE  Phys.Rev. 98 (1955) 634 (doi:10.1103/PhysRev.98.634)
+#DATASETS   0
+#
+#DATASET    11313003 
+#DATE       19810428
+#REACTION   13-AL-27(N,EL)13-AL-27,,DA
+#PROJ       1
+#TARG       13027
+#MF         4
+#MT         2
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   4   2  C 2700000. 38000.00 0.393000          0.735000 0.059173                     R.N.Little Jr+       (55)11313  3 
+    1 13027   4   2  C 2700000. 38000.00 0.388000          0.705000                              R.N.Little Jr+       (55)11313  3 
+    1 13027   4   2  C 2700000. 38000.00 0.325000          0.630000                              R.N.Little Jr+       (55)11313  3 
+    1 13027   4   2  C 2700000. 38000.00 0.300000          0.580000                              R.N.Little Jr+       (55)11313  3 
+    1 13027   4   2  C 2700000. 38000.00 0.227000          0.340000                              R.N.Little Jr+       (55)11313  3 
+    1 13027   4   2  C 2700000. 38000.00 0.176000          0.125000                              R.N.Little Jr+       (55)11313  3 
+    1 13027   4   2  C 2700000. 38000.00 0.148000         -0.070000                              R.N.Little Jr+       (55)11313  3 
+    1 13027   4   2  C 2700000. 38000.00 0.127000         -0.310000                              R.N.Little Jr+       (55)11313  3 
+    1 13027   4   2  C 2700000. 38000.00 0.120000         -0.420000 0.237589                     R.N.Little Jr+       (55)11313  3 
+    1 13027   4   2  C 2700000. 38000.00 0.120000         -0.685000                              R.N.Little Jr+       (55)11313  3 
+    1 13027   4   2  C 2700000. 38000.00 0.116000         -0.805000                              R.N.Little Jr+       (55)11313  3 
+#/DATA      11
+#/DATASET

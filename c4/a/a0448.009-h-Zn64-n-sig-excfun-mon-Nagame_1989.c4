@@ -1,0 +1,30 @@
+#ENTRY      A0448
+#AUTHOR1    Y.Nagame+
+#YEAR       1989
+#INSTITUTE  (2JPNJAE)
+#TITLE      Excitation functions for alpha and 3-He particles
+#+          induced reactions on zinc
+#AUTHOR(S)  Y.Nagame, H.Nakahara, M.Furukawa
+#REF-CODE   (J,RCA,46,5,1989)
+#REFERENCE  Radiochim.Acta 46 (1989) 5 (doi:10.1524/ract.1989.46.1.5)
+#DATASETS   0
+#
+#DATASET    A0448009 
+#DATE       20240909
+#REACTION   30-ZN-64(HE3,N)32-GE-66,,SIG
+#PROJ       2003
+#TARG       30064
+#MF         3
+#MT         4
+#PRODUCT    32-GE-66
+#C4BEGIN    [ 2003 30064   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 30064   3   4    8800000.          2.6000-3                                                Y.Nagame+            (89)A0448  9 
+ 2003 30064   3   4    1.1900+7          0.012600                                                Y.Nagame+            (89)A0448  9 
+ 2003 30064   3   4    1.4400+7          0.010100                                                Y.Nagame+            (89)A0448  9 
+ 2003 30064   3   4    1.6700+7          7.8000-3                                                Y.Nagame+            (89)A0448  9 
+ 2003 30064   3   4    1.8800+7          4.2000-3                                                Y.Nagame+            (89)A0448  9 
+#/DATA      5
+#/DATASET

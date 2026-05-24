@@ -1,0 +1,33 @@
+#ENTRY      O1146
+#AUTHOR1    A.Guertin+
+#YEAR       2005
+#INSTITUTE  (2FR NTE)
+#TITLE      Neutron and light charged particle productions in
+#+          proton induced reactions on Pb-208 at 62.9-MeV.
+#AUTHOR(S)  A.Guertin, N.Marie, S.Auduc, V.Blideanu, Th.Delbar, P.Eudes, 
+#+          Y.Foucher, F.Haddad, T.Kirchner, Ch.Le Brun, C.Lebrun, F.R.Lecolley, 
+#+          J.F.Lecolley, X.Ledoux, F.Lefebvres, T.Lefort, M.Louvel, 
+#+          A.Ninane, Y.Patin, Ph.Pras, G.Riviere, C.Varignon
+#REF-CODE   (J,EPJ/A,23,49,2005)
+#REFERENCE  Eur.Phys.J.A 23 (2005) 49 (doi:10.1140/epja/i2004-10073-1)
+#DATASETS   0
+#
+#DATASET    O1146013 
+#DATE       20040411
+#REACTION   82-PB-208(P,X)0-NN-1,,DA
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1001 82208   4 201 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 201 D  6.2900+7          0.166523 0.021436-0.500000                              A.Guertin+           (05)O1146 13 
+ 1001 82208   4 201 D  6.2900+7          0.224801 0.027770 0.173648                              A.Guertin+           (05)O1146 13 
+ 1001 82208   4 201 D  6.2900+7          0.278764 0.032593 0.573576                              A.Guertin+           (05)O1146 13 
+ 1001 82208   4 201 D  6.2900+7          0.627018 0.070334 0.819152                              A.Guertin+           (05)O1146 13 
+ 1001 82208   4 201 D  6.2900+7          0.541792 0.059893 0.913545                              A.Guertin+           (05)O1146 13 
+#/DATA      5
+#/DATASET

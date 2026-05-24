@@ -1,0 +1,36 @@
+#ENTRY      F1519
+#AUTHOR1    Yu.E.Penionzhkevich+
+#YEAR       2022
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Emission of high-energy alpha particles in the
+#+          interaction of 48Ca nuclei with tantalum, gold, and
+#+          uranium nuclei at 280 MeV
+#AUTHOR(S)  Yu.E.Penionzhkevich, V.V.Samarin, S.M.Lukyanov, V.A.Maslov, 
+#+          D.Aznabayev, T.Issatayev, K.Mendibayev, S.S.Stukalov, A.V.Shakhov
+#REF-CODE   (J,PAN,85,307,2022)
+#REFERENCE  Phys.At.Nucl. 85 (2022) 307 (doi:10.1134/S1063778822040093)
+#DATASETS   0
+#
+#DATASET    F1519003 
+#DATE       20250121
+#REACTION   92-U-238(20-CA-48,X)2-HE-4,,DA/DE
+#PROJ       20048
+#TARG       92238
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [20048 92238   6 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+20048 92238   6 207    2.8000+8          1.6380-6          1.000000          4.6130+7          E2Yu.E.Penionzhkevich+ (22)F1519  3 
+20048 92238   6 207    2.8000+8          1.0520-6          1.000000          5.1490+7          E2Yu.E.Penionzhkevich+ (22)F1519  3 
+20048 92238   6 207    2.8000+8          6.4330-7          1.000000          5.6230+7          E2Yu.E.Penionzhkevich+ (22)F1519  3 
+20048 92238   6 207    2.8000+8          2.5270-7          1.000000          6.5230+7          E2Yu.E.Penionzhkevich+ (22)F1519  3 
+20048 92238   6 207    2.8000+8          7.0380-8          1.000000          7.2640+7          E2Yu.E.Penionzhkevich+ (22)F1519  3 
+20048 92238   6 207    2.8000+8          1.6110-8          1.000000          7.9110+7          E2Yu.E.Penionzhkevich+ (22)F1519  3 
+20048 92238   6 207    2.8000+8          5.7360-9          1.000000          8.3850+7          E2Yu.E.Penionzhkevich+ (22)F1519  3 
+20048 92238   6 207    2.8000+8          7.642-10          1.000000          9.3480+7          E2Yu.E.Penionzhkevich+ (22)F1519  3 
+20048 92238   6 207    2.8000+8          1.018-10          1.000000          1.0200+8          E2Yu.E.Penionzhkevich+ (22)F1519  3 
+#/DATA      9
+#/DATASET

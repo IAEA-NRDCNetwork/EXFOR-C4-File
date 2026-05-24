@@ -1,0 +1,44 @@
+#ENTRY      D1002
+#AUTHOR1    L.R.Gasques+
+#YEAR       2021
+#INSTITUTE  (3BZLUSP)
+#TITLE      Understanding the mechanisms of nuclear collisions:
+#+          A complete study of the 10B+120Sn reaction
+#AUTHOR(S)  L.R.Gasques, M.A.G.Alvarez, A.Arazi, B.V.Carlson, L.C.Chamon, 
+#+          J.P.Fernandez-Garcia, A.Lepine-Szily, J.Lubian, J.Rangel, 
+#+          M.Rodriguez-Gallardo, V.Scarduelli, V.A.B.Zagatto
+#REF-CODE   (J,PR/C,103,034616,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 034616 (doi:10.1103/PhysRevC.103.034616)
+#DATASETS   0
+#
+#DATASET    D1002002 
+#DATE       20210405
+#REACTION   50-SN-120(5-B-10,EL)50-SN-120,,DA,,RTH
+#PROJ       5010
+#TARG       50120
+#MF         4
+#MT         2
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 5010 50120   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5010 50120   4   2 AC 3.9700+7          1.481457 3.0684-3 0.592435                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          0.743758 2.3663-3 0.436017                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          0.024948 2.6631-4-0.414693                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          0.011112 1.8802-4-0.561361                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          7.0959-3 6.2967-5-0.624425                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          5.4940-3 4.5063-5-0.685691                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          5.4625-3 1.2309-4-0.690504                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          4.3307-3 3.8549-5-0.733848                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          3.4876-3 3.4005-5-0.778900                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          3.2328-3 7.5280-5-0.799475                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          2.8090-3 3.0542-5-0.819552                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          2.3637-3 2.7739-5-0.856357                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          2.1043-3 6.2946-5-0.886123                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          1.9485-3 2.4919-5-0.889097                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          1.7745-3 2.6492-5-0.916502                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          1.4674-3 5.2281-5-0.949096                              L.R.Gasques+         (21)D1002  2 
+ 5010 50120   4   2 AC 3.9700+7          1.3579-3 4.7061-5-0.987220                              L.R.Gasques+         (21)D1002  2 
+#/DATA      17
+#/DATASET

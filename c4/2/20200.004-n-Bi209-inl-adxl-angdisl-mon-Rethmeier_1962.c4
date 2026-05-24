@@ -1,0 +1,31 @@
+#ENTRY      20200
+#AUTHOR1    J.Rethmeier+
+#YEAR       1962
+#INSTITUTE  (2NEDAMS)
+#TITLE      - DIFFERENTIAL CROSS-SECTIONS FOR D-T NEUTRONS BY TIME-
+#+          OF-FLIGHT METHODS -
+#AUTHOR(S)  J.Rethmeier, C.C.Jonker, M.Rodenburg, J.W.Hovenier, D.R.Meulen
+#REF-CODE   (J,NIM,17,273,6212)
+#REFERENCE  Nucl.Intrum.Meth. 17 (1962) 273 (doi:10.1016/0029-554X(62)90006-X)
+#DATASETS   0
+#
+#DATASET    20200004 
+#DATE       19831121
+#REACTION   83-BI-209(N,INL)83-BI-209,PAR,DA
+#PROJ       1
+#TARG       83209
+#MF         4
+#MT         51
+#PRODUCT    83-BI-209
+#C4BEGIN    [    1 83209   4  51 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209   4  51 P  1.4800+7          0.198000 0.036000 0.848040          7600000.         LVLJ.Rethmeier+         (62)20200  4 
+    1 83209   4  51 P  1.4800+7          0.118000 0.036000 0.874620          7600000.         LVLJ.Rethmeier+         (62)20200  4 
+    1 83209   4  51 P  1.4800+7          0.118000 0.025000 0.898790          7600000.         LVLJ.Rethmeier+         (62)20200  4 
+    1 83209   4  51 P  1.4800+7          0.130000 0.025000 0.906300          7600000.         LVLJ.Rethmeier+         (62)20200  4 
+    1 83209   4  51 P  1.4800+7          0.060000 0.027000 0.920500          7600000.         LVLJ.Rethmeier+         (62)20200  4 
+    1 83209   4  51 P  1.4800+7          0.330000 0.110000 0.951050          7600000.         LVLJ.Rethmeier+         (62)20200  4 
+#/DATA      6
+#/DATASET

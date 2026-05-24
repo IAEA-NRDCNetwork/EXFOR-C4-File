@@ -1,0 +1,39 @@
+#ENTRY      D8014
+#AUTHOR1    V.Yu.Gonchar+
+#YEAR       1969
+#INSTITUTE  (4KASKAZ)
+#TITLE      Analytical method for angular distribution of
+#+          break-up reaction
+#AUTHOR(S)  V.Yu.Gonchar, A.V.Yushkov
+#REF-CODE   (J,IZK,,(4),34,1969)
+#REFERENCE  Izv.AN.Kaz.,Fiz.Mat.  No.4 (1969) 34
+#DATASETS   0
+#
+#DATASET    D8014003 
+#DATE       20200329
+#REACTION   1-H-1(D,P)1-H-2,,DA
+#PROJ       1002
+#TARG       1001
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1002  1001   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1001   4 103  C 1.9000+7          0.022200          0.529919                              V.Yu.Gonchar+        (69)D8014  3 
+ 1002  1001   4 103  C 1.9000+7          0.017800          0.374607                              V.Yu.Gonchar+        (69)D8014  3 
+ 1002  1001   4 103  C 1.9000+7          0.012000          0.207912                              V.Yu.Gonchar+        (69)D8014  3 
+ 1002  1001   4 103  C 1.9000+7          9.2400-3          0.034899                              V.Yu.Gonchar+        (69)D8014  3 
+ 1002  1001   4 103  C 1.9000+7          6.5500-3         -0.173648                              V.Yu.Gonchar+        (69)D8014  3 
+ 1002  1001   4 103  C 1.9000+7          4.1200-3         -0.358368                              V.Yu.Gonchar+        (69)D8014  3 
+ 1002  1001   4 103  C 1.9000+7          3.7500-3         -0.422618                              V.Yu.Gonchar+        (69)D8014  3 
+ 1002  1001   4 103  C 1.9000+7          3.2500-3         -0.453990                              V.Yu.Gonchar+        (69)D8014  3 
+ 1002  1001   4 103  C 1.9000+7          2.6200-3         -0.484810                              V.Yu.Gonchar+        (69)D8014  3 
+ 1002  1001   4 103  C 1.9000+7          1.7300-3         -0.515038                              V.Yu.Gonchar+        (69)D8014  3 
+ 1002  1001   4 103  C 1.9000+7          1.6900-3         -0.544639                              V.Yu.Gonchar+        (69)D8014  3 
+ 1002  1001   4 103  C 1.9000+7          1.5300-3         -0.601815                              V.Yu.Gonchar+        (69)D8014  3 
+ 1002  1001   4 103  C 1.9000+7          1.8900-3         -0.629320                              V.Yu.Gonchar+        (69)D8014  3 
+ 1002  1001   4 103  C 1.9000+7          2.0400-3         -0.681998                              V.Yu.Gonchar+        (69)D8014  3 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      C1468
+#AUTHOR1    D.A.Roberts+
+#YEAR       2002
+#INSTITUTE  (1USAMSU)
+#TITLE      Energy dependence of the total reaction cross section
+#+          of isomeric 18F(m) on silicon below 400 MeV
+#AUTHOR(S)  D.A.Roberts, F.D.Becchetti, J.Janecke, M.Y.Lee, T.W.O'Donnell, 
+#+          K.Pham, J.A.Brown, R.E.Warner, R.M.Ronningen, H.W.Wilschut
+#REF-CODE   (J,PR/C,65,044605,2002)
+#REFERENCE  Phys.Rev.C 65 (2002) 044605 (doi:10.1103/PhysRevC.65.044605)
+#DATASETS   0
+#
+#DATASET    C1468003 
+#DATE       20081021
+#REACTION   14-SI-0(8-O-16,NON),,SIG
+#PROJ       8016
+#TARG       14000
+#MF         3
+#MT         3
+#C4BEGIN    [ 8016 14000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 14000   3   3    4.0100+7 3.9500+7 1.032000 0.145000                                       D.A.Roberts+         (02)C1468  3 
+ 8016 14000   3   3    6.3200+7 4.6300+7 1.065000 0.233000                                       D.A.Roberts+         (02)C1468  3 
+ 8016 14000   3   3    1.0950+8 4.2900+7 1.545000 0.145000                                       D.A.Roberts+         (02)C1468  3 
+ 8016 14000   3   3    1.4950+8 3.6700+7 1.757000 0.194000                                       D.A.Roberts+         (02)C1468  3 
+ 8016 14000   3   3    2.0370+8 3.2200+7 1.786000 0.228000                                       D.A.Roberts+         (02)C1468  3 
+ 8016 14000   3   3    2.1840+8 3.1000+7 1.630000 0.228000                                       D.A.Roberts+         (02)C1468  3 
+ 8016 14000   3   3    2.6470+8 2.8200+7 1.673000 0.208000                                       D.A.Roberts+         (02)C1468  3 
+ 8016 14000   3   3    2.7600+8 2.9900+7 1.552000 0.257000                                       D.A.Roberts+         (02)C1468  3 
+ 8016 14000   3   3    2.9680+8 2.8800+7 1.416000 0.223000                                       D.A.Roberts+         (02)C1468  3 
+ 8016 14000   3   3    3.0700+8 2.7100+7 1.498000 0.150000                                       D.A.Roberts+         (02)C1468  3 
+ 8016 14000   3   3    3.3690+8 2.2600+7 1.328000 0.199000                                       D.A.Roberts+         (02)C1468  3 
+#/DATA      11
+#/DATASET

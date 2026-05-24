@@ -1,0 +1,31 @@
+#ENTRY      C2880
+#AUTHOR1    D.R.Goosman+
+#YEAR       1970
+#INSTITUTE  (1USACAL)
+#TITLE      10Be(d,p)11Be and the 10Be(d,alpha)8Li Reactions
+#AUTHOR(S)  D.R.Goosman, R.W.Kavanagh
+#REF-CODE   (J,PR/C,1,1939,1970)
+#REFERENCE  Phys.Rev.C 1 (1970) 1939 (doi:10.1103/PhysRevC.1.1939)
+#DATASETS   0
+#
+#DATASET    C2880005 
+#DATE       20230106
+#REACTION   4-BE-10(D,P)4-BE-11,PAR,DA
+#PROJ       1002
+#TARG       4010
+#MF         4
+#MT         600
+#PRODUCT    4-BE-11
+#C4BEGIN    [ 1002  4010   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4010   4 600  C 6000000.          0.026611 1.3690-3 0.994145          318000.0         LVLD.R.Goosman+         (70)C2880  5 
+ 1002  4010   4 600  C 6000000.          0.022583 1.3640-3 0.978610          318000.0         LVLD.R.Goosman+         (70)C2880  5 
+ 1002  4010   4 600  C 6000000.          0.018420 1.5590-3 0.951466          318000.0         LVLD.R.Goosman+         (70)C2880  5 
+ 1002  4010   4 600  C 6000000.          0.012379 1.3000-3 0.915985          318000.0         LVLD.R.Goosman+         (70)C2880  5 
+ 1002  4010   4 600  C 6000000.          5.4240-3 9.7300-4 0.817557          318000.0         LVLD.R.Goosman+         (70)C2880  5 
+ 1002  4010   4 600  C 6000000.          1.4570-3 3.8800-4 0.688241          318000.0         LVLD.R.Goosman+         (70)C2880  5 
+ 1002  4010   4 600  C 6000000.          9.9700-4 5.1900-4 0.532152          318000.0         LVLD.R.Goosman+         (70)C2880  5 
+#/DATA      7
+#/DATASET

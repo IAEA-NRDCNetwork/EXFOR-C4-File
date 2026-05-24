@@ -1,0 +1,33 @@
+#ENTRY      F1453
+#AUTHOR1    Yu.G.Sobolev+
+#YEAR       2020
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Total reaction cross sections for 6,8He and 9Li
+#+          nuclei on 28Si, 59Co, and 181Ta targets
+#AUTHOR(S)  Yu.G.Sobolev, Yu.E.Penionzhkevich, V.V.Samarin, M.A.Naumenko, 
+#+          S.S.Stukalov, I.Sivacek, S.A.Krupko, A.Kugler, J.Louko
+#REF-CODE   (J,IZV,84,1152,2020)
+#REFERENCE  Izv.Ross.AN,Fiz. 84 (2020) 1152 (doi:10.31857/S0367676520080293)
+#DATASETS   0
+#
+#DATASET    F1453002 
+#DATE       20220214
+#REACTION   14-SI-28(3-LI-9,NON),,SIG
+#PROJ       3009
+#TARG       14028
+#MF         3
+#MT         3
+#C4BEGIN    [ 3009 14028   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3009 14028   3   3    1.4220+8 1.7100+7 1.799000 0.088000                                       Yu.G.Sobolev+        (20)F1453  2 
+ 3009 14028   3   3    1.6200+8 1.6200+7 1.668000 0.085000                                       Yu.G.Sobolev+        (20)F1453  2 
+ 3009 14028   3   3    1.9080+8 1.4400+7 1.646000 0.084000                                       Yu.G.Sobolev+        (20)F1453  2 
+ 3009 14028   3   3    2.1420+8 1.3500+7 1.686000 0.079000                                       Yu.G.Sobolev+        (20)F1453  2 
+ 3009 14028   3   3    2.1600+8 1.3500+7 1.668000 0.084000                                       Yu.G.Sobolev+        (20)F1453  2 
+ 3009 14028   3   3    2.3580+8 1.2600+7 1.669000 0.085000                                       Yu.G.Sobolev+        (20)F1453  2 
+ 3009 14028   3   3    2.7810+8 1.1700+7 1.658000 0.083000                                       Yu.G.Sobolev+        (20)F1453  2 
+ 3009 14028   3   3    3.2760+8 9900000. 1.621000 0.081000                                       Yu.G.Sobolev+        (20)F1453  2 
+#/DATA      8
+#/DATASET

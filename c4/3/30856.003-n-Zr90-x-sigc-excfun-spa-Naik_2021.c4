@@ -1,0 +1,28 @@
+#ENTRY      30856
+#AUTHOR1    H.Naik+
+#YEAR       2021
+#INSTITUTE  (3INDTRM)
+#TITLE      Measurement of cross sections of Zr-isotopes with the
+#+          fast neutrons based on the 9Be(p,n) reaction
+#AUTHOR(S)  H.Naik, G.N.Kim, K.Kim, T.H.Nguyen, M.Nadeem, M.Sahid
+#REF-CODE   (J,EPJ/A,57,267,2021)
+#REFERENCE  Eur.Phys.J.A 57 (2021) 267 (doi:10.1140/epja/s10050-021-00568-8)
+#DATASETS   0
+#
+#DATASET    30856003 
+#DATE       20230711
+#REACTION   40-ZR-90(N,2N)40-ZR-89-G,M+,SIG,,SPA
+#PROJ       1
+#TARG       40090
+#MF         3
+#MT         459
+#PRODUCT    40-ZR-89-G
+#C4BEGIN    [    1 40090   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   3 459 A  1.6110+7          0.983300 0.051300           40089.0                     H.Naik+              (21)30856  3 
+    1 40090   3 459 A  2.0920+7          1.190700 0.080000           40089.0                     H.Naik+              (21)30856  3 
+    1 40090   3 459 A  2.8740+7          0.642800 0.033200           40089.0                     H.Naik+              (21)30856  3 
+#/DATA      3
+#/DATASET

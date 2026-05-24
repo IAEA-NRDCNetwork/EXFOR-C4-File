@@ -1,0 +1,34 @@
+#ENTRY      C0112
+#AUTHOR1    J.L.Langenbrunner+
+#YEAR       1990
+#INSTITUTE  (1USATNL)
+#TITLE      Two-deuteron radiative capture: polarization
+#+          observables at E(d)<15 MeV
+#AUTHOR(S)  J.L.Langenbrunner, H.R.Weller, D.R.Tilley
+#REF-CODE   (J,PR/C,42,1214,199010)
+#REFERENCE  Phys.Rev.C 42 (1990) 1214 (doi:10.1103/PhysRevC.42.1214)
+#DATASETS   0
+#
+#DATASET    C01120081
+#DATE       19990726
+#REACTION   1-H-2(D,G)2-HE-4,,SIG
+#PROJ       1002
+#TARG       1002
+#MF         3
+#MT         102
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  1002   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   3 102    400000.0          1.5600-8 6.2400-9                                       J.L.Langenbrunner+   (90)C0112  81
+ 1002  1002   3 102    900000.0          1.7200-8 2.9240-9                                       J.L.Langenbrunner+   (90)C0112  81
+ 1002  1002   3 102    1200000.          1.9400-8 2.9100-9                                       J.L.Langenbrunner+   (90)C0112  81
+ 1002  1002   3 102    1700000.          2.5100-8 2.7610-9                                       J.L.Langenbrunner+   (90)C0112  81
+ 1002  1002   3 102    2300000.          3.6400-8 4.0040-9                                       J.L.Langenbrunner+   (90)C0112  81
+ 1002  1002   3 102    3300000.          5.0200-8 8.0320-9                                       J.L.Langenbrunner+   (90)C0112  81
+ 1002  1002   3 102    4500000.          8.5700-8 1.7140-8                                       J.L.Langenbrunner+   (90)C0112  81
+ 1002  1002   3 102    9700000.          7.6700-8 8.4370-9                                       J.L.Langenbrunner+   (90)C0112  81
+ 1002  1002   3 102    1.4700+7          1.3220-7 1.8508-8                                       J.L.Langenbrunner+   (90)C0112  81
+#/DATA      9
+#/DATASET

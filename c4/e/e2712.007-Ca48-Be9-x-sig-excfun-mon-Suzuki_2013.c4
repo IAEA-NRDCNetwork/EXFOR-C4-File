@@ -1,0 +1,32 @@
+#ENTRY      E2712
+#AUTHOR1    H.Suzuki+
+#YEAR       2013
+#INSTITUTE  (2JPNIPC)
+#TITLE      Production cross section measurements of radioactive
+#+          isotopes by BigRIPS separator at RIKEN RI Beam Factory
+#AUTHOR(S)  H.Suzuki, T.Kubo, N.Fukuda, N.Inabe, D.Kameda, H.Takeda, 
+#+          K.Yoshida, K.Kusaka, Y.Yanagisawa, M.Ohtake, H.Sato, Y.Shimizu, 
+#+          H.Baba, M.Kurokawa, T.Ohnishi, K.Tanaka, O.B.Tarasov, D.Bazin, 
+#+          D.J.Morrissey, B.M.Sherrill, K.Ieki, D.Murai, N.Iwasa, A.Chiba, 
+#+          Y.Ohkoda, E.Ideguchi, S.Go, R.Yokoyama, T.Fujii, D.Nishimura, 
+#+          H.Nishibata, S.Momota, M.Lewitowicz, G.DeFrance, I.Celikovic, 
+#+          K.Steiger
+#REF-CODE   (J,NIM/B,317,756,2013)
+#REFERENCE  Nucl.Instrum.Meth.B 317 (2013) 756 (doi:10.1016/j.nimb.2013.08.049)
+#DATASETS   0
+#
+#DATASET    E2712007 
+#DATE       20220628
+#REACTION   4-BE-9(20-CA-48,X)10-NE-23,,SIG
+#PROJ       20048
+#TARG       4009
+#MF         3
+#MT         454
+#PRODUCT    10-NE-23
+#C4BEGIN    [20048  4009   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+20048  4009   3 454    1.656+10          5.7900-3                    10023.9                     H.Suzuki+            (13)E2712  7 
+#/DATA      1
+#/DATASET

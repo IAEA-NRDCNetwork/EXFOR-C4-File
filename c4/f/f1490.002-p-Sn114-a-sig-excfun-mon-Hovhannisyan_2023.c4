@@ -1,0 +1,32 @@
+#ENTRY      F1490
+#AUTHOR1    G.H.Hovhannisyan+
+#YEAR       2023
+#INSTITUTE  (4ARMJSU)
+#TITLE      Proton induced reactions on 114Sn and 120Sn targets
+#+          at energies up to 18 MeV
+#AUTHOR(S)  G.H.Hovhannisyan, T.M.Bakhshiyan, G.V.Martirosyan, R.K.Dallakyan, 
+#+          A.R.Balabekyan
+#REF-CODE   (J,EPJ/A,59,161,2023)
+#REFERENCE  Eur.Phys.J.A 59 (2023) 161 (doi:10.1140/epja/s10050-023-01071-y)
+#DATASETS   0
+#
+#DATASET    F1490002 
+#DATE       20231128
+#REACTION   50-SN-114(P,A)49-IN-111,,SIG
+#PROJ       1001
+#TARG       50114
+#MF         3
+#MT         107
+#PRODUCT    49-IN-111
+#C4BEGIN    [ 1001 50114   3 107 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50114   3 107 A  1.7340+7 890000.0 7.9800-3 7.2000-4                                       G.H.Hovhannisyan+    (23)F1490  2 
+ 1001 50114   3 107 A  1.5790+7 810000.0 6.5900-3 5.9000-4                                       G.H.Hovhannisyan+    (23)F1490  2 
+ 1001 50114   3 107 A  1.4130+7 720000.0 3.9600-3 3.8000-4                                       G.H.Hovhannisyan+    (23)F1490  2 
+ 1001 50114   3 107 A  1.2130+7 640000.0 2.5200-3 2.3000-4                                       G.H.Hovhannisyan+    (23)F1490  2 
+ 1001 50114   3 107 A  1.0520+7 540000.0 1.3000-3 1.9000-4                                       G.H.Hovhannisyan+    (23)F1490  2 
+ 1001 50114   3 107 A  8460000. 500000.0 5.4000-4 9.0000-5                                       G.H.Hovhannisyan+    (23)F1490  2 
+#/DATA      6
+#/DATASET

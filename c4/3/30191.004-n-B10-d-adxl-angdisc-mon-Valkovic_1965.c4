@@ -1,0 +1,34 @@
+#ENTRY      30191
+#AUTHOR1    V.Valkovic+
+#YEAR       1965
+#INSTITUTE  (3CRORBZ)
+#TITLE      Reactions 48Ti(n,d)47Sc, 16O(n,d)15N, 10B(n,d)9Be,
+#+          and 6Li(n,d)5He at 14.4 MeV
+#AUTHOR(S)  V.Valkovic, G.Paic, I.Slaus, P.Tomas, M.Cerineo, G.R.Satchler
+#REF-CODE   (J,PR,139,B331,1965)
+#REFERENCE  Phys.Rev. 139 (1965) B331 (doi:10.1103/PhysRev.139.B331)
+#DATASETS   0
+#
+#DATASET    30191004 
+#DATE       20080208
+#REACTION   5-B-10(N,D)4-BE-9,PAR,DA
+#PROJ       1
+#TARG       5010
+#MF         4
+#MT         650
+#PRODUCT    4-BE-9
+#C4BEGIN    [    1  5010   4 650 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   4 650 AC 1.4400+7          5.0500-3 1.5000-4 1.000000          0.000000         LVLV.Valkovic+          (65)30191  4 
+    1  5010   4 650 AC 1.4400+7          8.6000-3 2.0000-4 0.952821          0.000000         LVLV.Valkovic+          (65)30191  4 
+    1  5010   4 650 AC 1.4400+7          5.7300-3 1.6000-4 0.817547          0.000000         LVLV.Valkovic+          (65)30191  4 
+    1  5010   4 650 AC 1.4400+7          2.9300-3 1.3000-4 0.611389          0.000000         LVLV.Valkovic+          (65)30191  4 
+    1  5010   4 650 AC 1.4400+7          2.5300-3 9.0000-5 0.358857          0.000000         LVLV.Valkovic+          (65)30191  4 
+    1  5010   4 650 AC 1.4400+7          1.8000-3 8.0000-5 0.086982          0.000000         LVLV.Valkovic+          (65)30191  4 
+    1  5010   4 650 AC 1.4400+7          1.6700-3 7.0000-5-0.180004          0.000000         LVLV.Valkovic+          (65)30191  4 
+    1  5010   4 650 AC 1.4400+7          1.7900-3 1.0000-4-0.258988          0.000000         LVLV.Valkovic+          (65)30191  4 
+    1  5010   4 650 AC 1.4400+7          1.4300-3 1.1000-4-0.628913          0.000000         LVLV.Valkovic+          (65)30191  4 
+#/DATA      9
+#/DATASET

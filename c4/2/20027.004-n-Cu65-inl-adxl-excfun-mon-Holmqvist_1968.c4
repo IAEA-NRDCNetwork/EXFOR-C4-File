@@ -1,0 +1,50 @@
+#ENTRY      20027
+#AUTHOR1    B.Holmqvist+
+#YEAR       1968
+#INSTITUTE  (2SWDAE)
+#TITLE      Inelastic neutron scattering cross sections of Cu-63
+#+          and Cu-65 in the energy region 0.7 to 1.4 MeV
+#AUTHOR(S)  B.Holmqvist, T.Wiedling
+#REF-CODE   (J,AF,35,71,1968)
+#REFERENCE  Arkiv foer Fysik 35 (1968) 71
+#DATASETS   0
+#
+#DATASET    20027004 
+#DATE       20190117
+#REACTION   29-CU-65(N,INL)29-CU-65,PAR,DA
+#PROJ       1
+#TARG       29065
+#MF         4
+#MT         51
+#PRODUCT    29-CU-65
+#C4BEGIN    [    1 29065   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29065   4  51    768000.0 40000.00 4.0000-3 2.0000-4 6.123-17          764000.0         LVLB.Holmqvist+         (68)20027  4 
+    1 29065   4  51    871000.0 40000.00 0.017000 8.5000-4 6.123-17          764000.0         LVLB.Holmqvist+         (68)20027  4 
+    1 29065   4  51    986000.0 40000.00 0.031000 1.5500-3 6.123-17          764000.0         LVLB.Holmqvist+         (68)20027  4 
+    1 29065   4  51    1071000. 40000.00 0.037000 1.8500-3 6.123-17          764000.0         LVLB.Holmqvist+         (68)20027  4 
+    1 29065   4  51    1190000. 40000.00 0.041000 2.0500-3 6.123-17          764000.0         LVLB.Holmqvist+         (68)20027  4 
+    1 29065   4  51    1280000. 40000.00 0.038000 1.9000-3 6.123-17          764000.0         LVLB.Holmqvist+         (68)20027  4 
+    1 29065   4  51    1382000. 40000.00 0.051000 2.5500-3 6.123-17          764000.0         LVLB.Holmqvist+         (68)20027  4 
+#/DATA      7
+#/DATASET
+#
+#DATASET    20027004 
+#DATE       20190117
+#REACTION   29-CU-65(N,INL)29-CU-65,PAR,DA
+#PROJ       1
+#TARG       29065
+#MF         4
+#MT         51
+#PRODUCT    29-CU-65
+#C4BEGIN    [    1 29065   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29065   4  51    1190000. 40000.00 0.033000 1.6500-3 6.123-17          1114000.         LVLB.Holmqvist+         (68)20027  4 
+    1 29065   4  51    1280000. 40000.00 0.051000 2.5500-3 6.123-17          1114000.         LVLB.Holmqvist+         (68)20027  4 
+    1 29065   4  51    1382000. 40000.00 0.090000 4.5000-3 6.123-17          1114000.         LVLB.Holmqvist+         (68)20027  4 
+#/DATA      3
+#/DATASET

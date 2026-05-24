@@ -1,0 +1,29 @@
+#ENTRY      C1006
+#AUTHOR1    W.A.Ranken+
+#YEAR       1958
+#INSTITUTE  (1USARIC)
+#TITLE      Energy Dependence of F19+p Reactions
+#AUTHOR(S)  W.A.Ranken, T.W.Bonner, J.H.McCrary
+#REF-CODE   (J,PR,109,1646,1958)
+#REFERENCE  Phys.Rev. 109 (1958) 1646 (doi:10.1103/PhysRev.109.1646)
+#DATASETS   0
+#
+#DATASET    C1006007 
+#DATE       20081022
+#REACTION   9-F-19(P,A)8-O-16,PAR,SIG
+#PROJ       1001
+#TARG       9019
+#MF         3
+#MT         800
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  9019   3 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9019   3 800    1350000.          0.040000 4.0000-3                   0.000000         LVLW.A.Ranken+          (58)C1006  7 
+ 1001  9019   3 800    1720000.          0.051000 5.0000-3                   0.000000         LVLW.A.Ranken+          (58)C1006  7 
+ 1001  9019   3 800    1880000.          0.075000 7.0000-3                   0.000000         LVLW.A.Ranken+          (58)C1006  7 
+ 1001  9019   3 800    2170000.          8.0000-3 3.0000-3                   0.000000         LVLW.A.Ranken+          (58)C1006  7 
+ 1001  9019   3 800    2330000.          0.026000 4.0000-3                   0.000000         LVLW.A.Ranken+          (58)C1006  7 
+#/DATA      5
+#/DATASET

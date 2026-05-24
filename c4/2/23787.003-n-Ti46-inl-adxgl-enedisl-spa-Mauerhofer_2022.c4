@@ -1,0 +1,37 @@
+#ENTRY      23787
+#AUTHOR1    E.Mauerhofer+
+#YEAR       2022
+#INSTITUTE  (2GERJUL)
+#TITLE      Prompt gamma rays from fast neutron inelastic
+#+          scattering on aluminum, titanium and copper
+#AUTHOR(S)  E.Mauerhofer, Z.Ilic, C.Stieghorst, Z.Revay, E.Vezhlev, 
+#+          N.Ophoven, T.H.Randriamalala, T.Brueckel
+#REF-CODE   (J,JRN,331,3987,2022)
+#REFERENCE  J.Rad.Nucl.Chem. 331 (2022) 3987 (doi:10.1007/s10967-022-08435-6)
+#DATASETS   0
+#
+#DATASET    23787003 
+#DATE       20230301
+#REACTION   22-TI-46(N,INL)22-TI-46,PAR,DA,G,4PI/SPA
+#PROJ       1
+#TARG       22046
+#MF         14
+#MT         51
+#PRODUCT    22-TI-46
+#C4BEGIN    [    1 22046  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22046  14  51 A  2300000.          0.046473 2.2282-3 6.123-17          888630.0            E.Mauerhofer+        (22)23787  3 
+    1 22046  14  51 A  2300000.          2.1486-3 3.1831-4 6.123-17          1048200.            E.Mauerhofer+        (22)23787  3 
+    1 22046  14  51 A  2300000.          9.3901-3 4.7746-4 6.123-17          1120090.            E.Mauerhofer+        (22)23787  3 
+    1 22046  14  51 A  2300000.          1.5120-3 3.1831-4 6.123-17          1721000.            E.Mauerhofer+        (22)23787  3 
+    1 22046  14  51 A  2300000.          1.2732-3 2.3873-4 6.123-17          2071800.            E.Mauerhofer+        (22)23787  3 
+    1 22046  14  51 A  2300000.          6.3662-4 7.9577-5 6.123-17          2277300.            E.Mauerhofer+        (22)23787  3 
+    1 22046  14  51 A  2300000.          6.3662-4 7.9577-5 6.123-17          2345300.            E.Mauerhofer+        (22)23787  3 
+    1 22046  14  51 A  2300000.          6.3662-4 7.9577-5 6.123-17          2683300.            E.Mauerhofer+        (22)23787  3 
+    1 22046  14  51 A  2300000.          6.3662-4 7.9577-5 6.123-17          2954200.            E.Mauerhofer+        (22)23787  3 
+    1 22046  14  51 A  2300000.          6.3662-4 7.9577-5 6.123-17          3166300.            E.Mauerhofer+        (22)23787  3 
+    1 22046  14  51 A  2300000.          6.3662-4 7.9577-5 6.123-17          3904500.            E.Mauerhofer+        (22)23787  3 
+#/DATA      11
+#/DATASET

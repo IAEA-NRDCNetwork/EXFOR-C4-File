@@ -1,0 +1,42 @@
+#ENTRY      O2554
+#AUTHOR1    G.Dellepiane+
+#YEAR       2022
+#INSTITUTE  (2SWTUBE)
+#TITLE      Experimental assessment of nuclear cross sections for
+#+          the production of Tb radioisotopes with a medical
+#+          cyclotron
+#AUTHOR(S)  G.Dellepiane, P.Casolaro, A.Gottstein, I.Mateu, P.Scampoli, 
+#+          S.Braccini
+#REF-CODE   (J,ARI,184,110175,2022)
+#REFERENCE  Appl.Radiat.Isot. 184 (2022) 110175 (doi:10.1016/j.apradiso.2022.110175)
+#DATASETS   0
+#
+#DATASET    O2554014 
+#DATE       20240327
+#REACTION   64-GD-0(P,X)65-TB-155,,SIG
+#PROJ       1001
+#TARG       64000
+#MF         3
+#MT         454
+#PRODUCT    65-TB-155
+#C4BEGIN    [ 1001 64000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 64000   3 454    5100000. 400000.0 4.0000-4 1.0000-4           65155.9                     G.Dellepiane+        (22)O2554 14 
+ 1001 64000   3 454    5800000. 400000.0 1.4000-3 2.0000-4           65155.9                     G.Dellepiane+        (22)O2554 14 
+ 1001 64000   3 454    7100000. 400000.0 0.010500 7.0000-4           65155.9                     G.Dellepiane+        (22)O2554 14 
+ 1001 64000   3 454    7700000. 400000.0 0.013000 1.0000-3           65155.9                     G.Dellepiane+        (22)O2554 14 
+ 1001 64000   3 454    9000000. 400000.0 0.027000 2.0000-3           65155.9                     G.Dellepiane+        (22)O2554 14 
+ 1001 64000   3 454    9700000. 400000.0 0.037000 3.0000-3           65155.9                     G.Dellepiane+        (22)O2554 14 
+ 1001 64000   3 454    1.1500+7 400000.0 0.079000 7.0000-3           65155.9                     G.Dellepiane+        (22)O2554 14 
+ 1001 64000   3 454    1.2100+7 400000.0 0.089000 5.0000-3           65155.9                     G.Dellepiane+        (22)O2554 14 
+ 1001 64000   3 454    1.2500+7 400000.0 0.122000 0.010000           65155.9                     G.Dellepiane+        (22)O2554 14 
+ 1001 64000   3 454    1.3000+7 400000.0 0.153000 0.013000           65155.9                     G.Dellepiane+        (22)O2554 14 
+ 1001 64000   3 454    1.4500+7 400000.0 0.149000 0.012000           65155.9                     G.Dellepiane+        (22)O2554 14 
+ 1001 64000   3 454    1.5500+7 400000.0 0.168000 9.0000-3           65155.9                     G.Dellepiane+        (22)O2554 14 
+ 1001 64000   3 454    1.5800+7 400000.0 0.157000 0.013000           65155.9                     G.Dellepiane+        (22)O2554 14 
+ 1001 64000   3 454    1.7100+7 400000.0 0.193000 0.016000           65155.9                     G.Dellepiane+        (22)O2554 14 
+ 1001 64000   3 454    1.8200+7 400000.0 0.248000 0.014000           65155.9                     G.Dellepiane+        (22)O2554 14 
+#/DATA      15
+#/DATASET

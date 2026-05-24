@@ -1,0 +1,35 @@
+#ENTRY      31465
+#AUTHOR1    S.Hlavac+
+#YEAR       1999
+#INSTITUTE  (3SLKSLO)
+#TITLE      Cross sections for discrete gamma-ray production in
+#+          interaction of 14.6 MeV neutrons with light and medium
+#+          heavy nuclei
+#AUTHOR(S)  S.Hlavac, M.Benovic, E.Betak, L.Dostal, I.Turzo, S.P.Simakov
+#REF-CODE   (R,INDC(NDS)-412,12,199912)
+#REFERENCE  Report INDC(NDS)-412 page 12, 1999
+#DATASETS   0
+#
+#DATASET    31465006 
+#DATE       20010430
+#REACTION   23-V-51(N,INL)23-V-51,PAR,SIG,G
+#PROJ       1
+#TARG       23051
+#MF         13
+#MT         51
+#PRODUCT    23-V-51
+#C4BEGIN    [    1 23051  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 23051  13  51    1.4600+7 200000.0 0.046000 4.0000-3                   928700.0            S.Hlavac+            (99)31465  6 
+    1 23051  13  51    1.4600+7 200000.0 0.061000 5.0000-3                   1090000.            S.Hlavac+            (99)31465  6 
+    1 23051  13  51    1.4600+7 200000.0 0.025100 3.3000-3                   1437000.            S.Hlavac+            (99)31465  6 
+    1 23051  13  51    1.4600+7 200000.0 0.012500 2.2000-3                   1492900.            S.Hlavac+            (99)31465  6 
+    1 23051  13  51    1.4600+7 200000.0 0.212000 0.015000                   1608900.            S.Hlavac+            (99)31465  6 
+    1 23051  13  51    1.4600+7 200000.0 0.049000 3.5000-3                   1776700.            S.Hlavac+            (99)31465  6 
+    1 23051  13  51    1.4600+7 200000.0 0.070000 6.0000-3                   1813100.            S.Hlavac+            (99)31465  6 
+    1 23051  13  51    1.4600+7 200000.0 0.012600 2.9000-3                   2004700.            S.Hlavac+            (99)31465  6 
+    1 23051  13  51    1.4600+7 200000.0 0.014500 3.2000-3                   2334900.            S.Hlavac+            (99)31465  6 
+#/DATA      9
+#/DATASET

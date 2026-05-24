@@ -1,0 +1,27 @@
+#ENTRY      40844
+#AUTHOR1    P.E.Vorotnikov+
+#YEAR       1984
+#INSTITUTE  (4RUSKUR)
+#TITLE      Cross-section for neutron fission of Pb and Bi
+#AUTHOR(S)  P.E.Vorotnikov, L.S.Larionov
+#REF-CODE   (J,YF,40,867,1984)
+#REFERENCE  Yad.Fiz. 40 (1984) 867
+#DATASETS   0
+#
+#DATASET    40844003 
+#DATE       20180221
+#REACTION   83-BI-209(N,F),,SIG
+#PROJ       1
+#TARG       83209
+#MF         3
+#MT         18
+#C4BEGIN    [    1 83209   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209   3  18    1.8000+7 300000.0 3.3000-8                                                P.E.Vorotnikov+      (84)40844  3 
+    1 83209   3  18    2.1700+7 250000.0 2.4000-7 1.0000-7                                       P.E.Vorotnikov+      (84)40844  3 
+    1 83209   3  18    2.2600+7 250000.0 7.4000-7 2.4000-7                                       P.E.Vorotnikov+      (84)40844  3 
+    1 83209   3  18    2.3300+7 250000.0 1.5500-6 4.8000-7                                       P.E.Vorotnikov+      (84)40844  3 
+#/DATA      4
+#/DATASET

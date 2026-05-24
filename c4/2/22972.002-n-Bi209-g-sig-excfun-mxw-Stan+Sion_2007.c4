@@ -1,0 +1,27 @@
+#ENTRY      22972
+#AUTHOR1    C.Stan-Sion+
+#YEAR       2007
+#INSTITUTE  (2GERMUN)
+#TITLE      .AMS measurement of the neutron capture cross-section
+#+          209Bi(n,gamma)210mBi
+#AUTHOR(S)  C.Stan-Sion, A.Letourneau, H.Reithmeier, V.Lazarev, M.Enachescu, 
+#+          E.Nolte
+#REF-CODE   (J,NIM/B,259,739,2007)
+#REFERENCE  Nucl.Instrum.Meth.B 259 (2007) 739 (doi:10.1016/j.nimb.2007.01.211)
+#DATASETS   0
+#
+#DATASET    22972002 
+#DATE       20071015
+#REACTION   83-BI-209(N,G)83-BI-210-M,,SIG,,MXW
+#PROJ       1
+#TARG       83209
+#MF         3
+#MT         102
+#PRODUCT    83-BI-210-M
+#C4BEGIN    [    1 83209   3 102MC]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209   3 102MC  30.00000          0.021300 9.0000-4                                       C.Stan-Sion+         (07)22972  2 
+#/DATA      1
+#/DATASET

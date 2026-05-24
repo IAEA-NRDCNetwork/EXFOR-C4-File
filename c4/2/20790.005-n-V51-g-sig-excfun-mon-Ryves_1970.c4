@@ -1,0 +1,26 @@
+#ENTRY      20790
+#AUTHOR1    T.B.Ryves+
+#YEAR       1970
+#INSTITUTE  (2UK NPL)
+#TITLE      Thermal neutron capture cross-section measurements
+#+          for 23Na, 27Al, 37Cl and 51V
+#AUTHOR(S)  T.B.Ryves, D.R.Perkins
+#REF-CODE   (J,JNE,24,419,1970)
+#REFERENCE  J.Nucl.Energy 24 (1970) 419 (doi:10.1016/0022-3107(70)90068-7)
+#DATASETS   0
+#
+#DATASET    20790005 
+#DATE       20181212
+#REACTION   23-V-51(N,G)23-V-52,,SIG
+#PROJ       1
+#TARG       23051
+#MF         3
+#MT         102
+#PRODUCT    23-V-52
+#C4BEGIN    [    1 23051   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 23051   3 102    0.025300          4.880000 6.7000-6                                       T.B.Ryves+           (70)20790  5 
+#/DATA      1
+#/DATASET

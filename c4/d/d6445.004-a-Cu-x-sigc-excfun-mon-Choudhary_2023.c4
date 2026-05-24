@@ -1,0 +1,36 @@
+#ENTRY      D6445
+#AUTHOR1    M.Choudhary+
+#YEAR       2023
+#INSTITUTE  (3INDBHU)
+#TITLE      Measurement of excitation functions for natCu(a,x)
+#+          reactions with detailed covariance analysis
+#AUTHOR(S)  M.Choudhary, A.Sharma, A.Gandhi, N.Singh, P.Dubey, M.Upadhyay, 
+#+          U.Mishra, N.K.Dubey, S.Dasgupta, J.Datta, K.Katovsky, A.Kumar
+#REF-CODE   (J,JP/G,50,015103,2023)
+#REFERENCE  J.Phys.G 50 (2023) 015103 (doi:10.1088/1361-6471/aca1d7)
+#DATASETS   0
+#
+#DATASET    D6445004 
+#DATE       20231115
+#REACTION   29-CU-0(A,X)30-ZN-65,CUM,SIG
+#PROJ       2004
+#TARG       29000
+#MF         3
+#MT         459
+#PRODUCT    30-ZN-65
+#C4BEGIN    [ 2004 29000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 29000   3 459    1.5900+7 1020000. 0.030330 4.8600-3           30065.9                     M.Choudhary+         (23)D6445  4 
+ 2004 29000   3 459    2.0410+7 1030000. 0.389950 0.062250           30065.9                     M.Choudhary+         (23)D6445  4 
+ 2004 29000   3 459    2.3330+7 1160000. 0.443370 0.070780           30065.9                     M.Choudhary+         (23)D6445  4 
+ 2004 29000   3 459    2.4340+7 940000.0 0.609780 0.096160           30065.9                     M.Choudhary+         (23)D6445  4 
+ 2004 29000   3 459    2.6950+7 1090000. 0.623810 0.099520           30065.9                     M.Choudhary+         (23)D6445  4 
+ 2004 29000   3 459    2.7990+7 740000.0 0.642150 0.102450           30065.9                     M.Choudhary+         (23)D6445  4 
+ 2004 29000   3 459    3.0250+7 960000.0 0.620520 0.099080           30065.9                     M.Choudhary+         (23)D6445  4 
+ 2004 29000   3 459    3.1350+7 350000.0 0.576060 0.091930           30065.9                     M.Choudhary+         (23)D6445  4 
+ 2004 29000   3 459    3.3440+7 730000.0 0.502790 0.080200           30065.9                     M.Choudhary+         (23)D6445  4 
+ 2004 29000   3 459    3.6410+7 340000.0 0.435470 0.069560           30065.9                     M.Choudhary+         (23)D6445  4 
+#/DATA      10
+#/DATASET

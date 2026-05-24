@@ -1,0 +1,37 @@
+#ENTRY      C1678
+#AUTHOR1    P.E.Garrett+
+#YEAR       2009
+#INSTITUTE  (1CANGUE)
+#TITLE      Scattering of 30 MeV 3He from 185Re
+#AUTHOR(S)  P.E.Garrett, A.A.Phillips, G.A.Demand, P.Finlay, K.L.Green, 
+#+          K.G.Leach, M.A.Schumaker, C.E.Svensson, J.Wong, R.Hertenberger, 
+#+          H.-F.Wirth, T.Faestermann, R.Krucken, D.G.Burke, L.Bettermann, 
+#+          N.Braun
+#REF-CODE   (J,PR/C,79,017601,2009)
+#REFERENCE  Phys.Rev.C 79 (2009) 017601 (doi:10.1103/PhysRevC.79.017601)
+#DATASETS   0
+#
+#DATASET    C1678002 
+#DATE       20090519
+#REACTION   75-RE-185(HE3,EL)75-RE-185,,DA
+#PROJ       2003
+#TARG       75185
+#MF         4
+#MT         2
+#PRODUCT    75-RE-185
+#C4BEGIN    [ 2003 75185   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 75185   4   2  C 3.0000+7          33.75000 0.850000 0.937768                              P.E.Garrett+         (09)C1678  2 
+ 2003 75185   4   2  C 3.0000+7          7.487000 0.190000 0.861895                              P.E.Garrett+         (09)C1678  2 
+ 2003 75185   4   2  C 3.0000+7          2.271000 0.058000 0.759271                              P.E.Garrett+         (09)C1678  2 
+ 2003 75185   4   2  C 3.0000+7          0.728000 0.019000 0.633111                              P.E.Garrett+         (09)C1678  2 
+ 2003 75185   4   2  C 3.0000+7          0.227700 5.8000-3 0.487707                              P.E.Garrett+         (09)C1678  2 
+ 2003 75185   4   2  C 3.0000+7          0.080400 2.0000-3 0.327548                              P.E.Garrett+         (09)C1678  2 
+ 2003 75185   4   2  C 3.0000+7          0.029090 7.3000-4 0.157813                              P.E.Garrett+         (09)C1678  2 
+ 2003 75185   4   2  C 3.0000+7          0.011700 3.0000-4-0.016231                              P.E.Garrett+         (09)C1678  2 
+ 2003 75185   4   2  C 3.0000+7          4.8400-3 1.3000-4-0.189438                              P.E.Garrett+         (09)C1678  2 
+ 2003 75185   4   2  C 3.0000+7          2.0170-3 5.3000-5-0.356412                              P.E.Garrett+         (09)C1678  2 
+#/DATA      10
+#/DATASET

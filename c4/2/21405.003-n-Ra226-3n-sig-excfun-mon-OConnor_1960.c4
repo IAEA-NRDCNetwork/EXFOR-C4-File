@@ -1,0 +1,26 @@
+#ENTRY      21405
+#AUTHOR1    L.P.O'Connor+
+#YEAR       1960
+#INSTITUTE  (2UK ALD)
+#TITLE      -CROSS SECTIONS FOR THE REACTIONS RA-226(N,2N) AND
+#+          RA-226(N,3N) WITH 14.5 MEV NEUTRONS -.
+#AUTHOR(S)  L.P.O'Connor, J.L.Perkin
+#REF-CODE   (J,JIN,13,5,60)
+#REFERENCE  J.Inorg.Nucl.Chem. 13 (1960) 5 (doi:10.1016/0022-1902(60)80227-8)
+#DATASETS   0
+#
+#DATASET    21405003 
+#DATE       19800303
+#REACTION   88-RA-226(N,3N)88-RA-224,,SIG
+#PROJ       1
+#TARG       88226
+#MF         3
+#MT         17
+#PRODUCT    88-RA-224
+#C4BEGIN    [    1 88226   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 88226   3  17    1.4500+7 300000.0 0.630000 0.070000                                       L.P.O'Connor+        (60)21405  3 
+#/DATA      1
+#/DATASET

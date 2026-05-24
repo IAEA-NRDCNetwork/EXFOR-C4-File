@@ -1,0 +1,33 @@
+#ENTRY      D4410
+#AUTHOR1    D.Adel+
+#YEAR       2020
+#INSTITUTE  (3EGYCAI)
+#TITLE      Experimental investigation and theoretical evaluation
+#+          of proton induced nuclear reactions on nickel
+#AUTHOR(S)  D.Adel, G.Y.Mohamed, Z.Yousef, M.A.El Wahab, F.Ditroi, S.Takacs, 
+#+          M.Al-abyad
+#REF-CODE   (J,ARI,159,109094,2020)
+#REFERENCE  Appl.Radiat.Isot. 159 (2020) 109094 (doi:10.1016/j.apradiso.2020.109094)
+#DATASETS   0
+#
+#DATASET    D4410008 
+#DATE       20210104
+#REACTION   28-NI-0(P,X)28-NI-57,,SIG
+#PROJ       1001
+#TARG       28000
+#MF         3
+#MT         454
+#PRODUCT    28-NI-57
+#C4BEGIN    [ 1001 28000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28000   3 454    1.6620+7 400000.0 0.023100 8.7000-4           28057.9                     D.Adel+              (20)D4410  8 
+ 1001 28000   3 454    1.5790+7 450000.0 0.017440 3.9700-3           28057.9                     D.Adel+              (20)D4410  8 
+ 1001 28000   3 454    1.5380+7 480000.0 7.6500-3 2.0000-4           28057.9                     D.Adel+              (20)D4410  8 
+ 1001 28000   3 454    1.4540+7 500000.0 6.5000-3 8.5000-4           28057.9                     D.Adel+              (20)D4410  8 
+ 1001 28000   3 454    1.3780+7 520000.0 2.7200-3 5.0000-5           28057.9                     D.Adel+              (20)D4410  8 
+ 1001 28000   3 454    1.3160+7 550000.0 1.3000-3 5.0000-4           28057.9                     D.Adel+              (20)D4410  8 
+ 1001 28000   3 454    1.2500+7 570000.0 1.2000-4 1.0000-5           28057.9                     D.Adel+              (20)D4410  8 
+#/DATA      7
+#/DATASET

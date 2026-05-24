@@ -1,0 +1,35 @@
+#ENTRY      A1003
+#AUTHOR1    J.Niewisch+
+#YEAR       1975
+#INSTITUTE  (2GERUEN)
+#TITLE      Elastic deuteron-deuteron scattering at low bowbarding
+#+          energies
+#AUTHOR(S)  J.Niewisch, D.Fick
+#REF-CODE   (J,NP/A,252,(1),109,197511)
+#REFERENCE  Nucl.Phys.A 252 No.1 (1975) 109 (doi:10.1016/0375-9474(75)90605-3)
+#DATASETS   0
+#
+#DATASET    A1003006 
+#DATE       20091030
+#REACTION   1-H-2(D,EL)1-H-2,,DA,,RTH
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1002  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4   2  C 93600.00 10000.00 5.927202 0.786663 0.374607                              J.Niewisch+          (75)A1003  6 
+ 1002  1002   4   2  C 153700.0 10000.00 2.497724 0.292187 0.374607                              J.Niewisch+          (75)A1003  6 
+ 1002  1002   4   2  C 203000.0 10000.00 1.473026 0.130321 0.374607                              J.Niewisch+          (75)A1003  6 
+ 1002  1002   4   2  C 260300.0 10000.00 1.045334 0.090450 0.374607                              J.Niewisch+          (75)A1003  6 
+ 1002  1002   4   2  C 295800.0 10000.00 0.863407 0.078949 0.374607                              J.Niewisch+          (75)A1003  6 
+ 1002  1002   4   2  C 348000.0 10000.00 0.606301 0.056997 0.374607                              J.Niewisch+          (75)A1003  6 
+ 1002  1002   4   2  C 402000.0 10000.00 0.592793 0.042647 0.374607                              J.Niewisch+          (75)A1003  6 
+ 1002  1002   4   2  C 462200.0 10000.00 0.470765 0.035860 0.374607                              J.Niewisch+          (75)A1003  6 
+ 1002  1002   4   2  C 522000.0 10000.00 0.420447 0.033756 0.374607                              J.Niewisch+          (75)A1003  6 
+ 1002  1002   4   2  C 573200.0 10000.00 0.425979 0.027915 0.374607                              J.Niewisch+          (75)A1003  6 
+#/DATA      10
+#/DATASET

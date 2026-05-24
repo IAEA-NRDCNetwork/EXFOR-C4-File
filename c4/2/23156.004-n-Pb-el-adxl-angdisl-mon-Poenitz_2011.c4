@@ -1,0 +1,36 @@
+#ENTRY      23156
+#AUTHOR1    E.Poenitz+
+#YEAR       2011
+#INSTITUTE  (2GERPTB)
+#TITLE      Elastic and Inelastic Neutron Scattering Cross
+#+          Sections for natPb, 209Bi, natTa and 206Pb, 207Pb
+#+          in the Energy Range from 2 MeV to 4 MeV
+#AUTHOR(S)  E.Poenitz, R.Nolte, D.Schmidt, Guochang Chen
+#REF-CODE   (J,KPS,59,(2),1876,201108)
+#REFERENCE  J.Korean.Phys.Soc. 59 No.2 (2011) 1876
+#DATASETS   0
+#
+#DATASET    23156004 
+#DATE       20120114
+#REACTION   82-PB-0(N,EL)82-PB-0,,DA
+#PROJ       1
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [    1 82000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   4   2    2940000. 30000.00 3.064900 0.083400 0.905495                              E.Poenitz+           (11)23156  4 
+    1 82000   4   2    2940000. 30000.00 1.194800 0.038900 0.796213                              E.Poenitz+           (11)23156  4 
+    1 82000   4   2    2940000. 30000.00 0.276900 0.013400 0.649315                              E.Poenitz+           (11)23156  4 
+    1 82000   4   2    2940000. 30000.00 0.153900 7.7000-3 0.458029                              E.Poenitz+           (11)23156  4 
+    1 82000   4   2    2940000. 30000.00 0.253700 8.2000-3 0.257301                              E.Poenitz+           (11)23156  4 
+    1 82000   4   2    2940000. 30000.00 0.280700 9.2000-3 0.173648                              E.Poenitz+           (11)23156  4 
+    1 82000   4   2    2940000. 30000.00 0.259100 8.1000-3-0.041178                              E.Poenitz+           (11)23156  4 
+    1 82000   4   2    2940000. 30000.00 0.202900 6.8000-3-0.256121                              E.Poenitz+           (11)23156  4 
+    1 82000   4   2    2940000. 30000.00 0.173300 6.1000-3-0.458650                              E.Poenitz+           (11)23156  4 
+    1 82000   4   2    2940000. 30000.00 0.132100 5.4000-3-0.639171                              E.Poenitz+           (11)23156  4 
+#/DATA      10
+#/DATASET

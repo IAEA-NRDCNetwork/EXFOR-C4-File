@@ -1,0 +1,32 @@
+#ENTRY      31787
+#AUTHOR1    P.Chudoba+
+#YEAR       2018
+#INSTITUTE  (3CZRUJF)
+#TITLE      Activation Measurements of Cross Sections for Ground
+#+          and Isomeric States Production in Neutron Threshold
+#+          Reactions on Y and Au
+#AUTHOR(S)  P.Chudoba, A.Krasa, J.Vrzalova, O.Svoboda, S.Kilim, V.Wagner, 
+#+          M.Majerle, M.Stefanik, M.Suchopar, A.Kugler, M.Bielewicz, 
+#+          E.Strugalska-Gola, M.Szuta
+#REF-CODE   (J,NSE,191,150,2018)
+#REFERENCE  Nucl.Sci.Eng. 191 (2018) 150 (doi:10.1080/00295639.2018.1455437)
+#DATASETS   0
+#
+#DATASET    31787002 
+#DATE       20180909
+#REACTION   39-Y-89(N,2N)39-Y-88,,SIG
+#PROJ       1
+#TARG       39089
+#MF         3
+#MT         16
+#PRODUCT    39-Y-88
+#C4BEGIN    [    1 39089   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 39089   3  16    1.7400+7 900000.0 1.270000 0.140000                                       P.Chudoba+           (18)31787  2 
+    1 39089   3  16    2.4500+7 800000.0 0.950000 0.100000                                       P.Chudoba+           (18)31787  2 
+    1 39089   3  16    2.8700+7 800000.0 0.480000 0.050000                                       P.Chudoba+           (18)31787  2 
+    1 39089   3  16    3.3500+7 800000.0 0.330000 0.040000                                       P.Chudoba+           (18)31787  2 
+#/DATA      4
+#/DATASET

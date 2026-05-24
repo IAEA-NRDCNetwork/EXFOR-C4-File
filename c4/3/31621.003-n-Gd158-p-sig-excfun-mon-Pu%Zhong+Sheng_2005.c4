@@ -1,0 +1,29 @@
+#ENTRY      31621
+#AUTHOR1    Pu Zhong-Sheng+
+#YEAR       2005
+#INSTITUTE  (3CPRCPR)
+#TITLE      Measurements of cross sections for 160Gd(n,2n)159Gd
+#+          and 158Gd(n,p)158Eu reactions at the neutron energies
+#+          of 13.5, 14.1 and 14.6 MeV
+#AUTHOR(S)  Pu Zhong-Sheng, Li Zhi, Ma Jun, Li Wei-Xue
+#REF-CODE   (J,PHE,29,1150,2005)
+#REFERENCE  High En.Nucl.Phy.Ch. 29 (2005) 1150
+#DATASETS   0
+#
+#DATASET    31621003 
+#DATE       20150526
+#REACTION   64-GD-158(N,P)63-EU-158,,SIG
+#PROJ       1
+#TARG       64158
+#MF         3
+#MT         103
+#PRODUCT    63-EU-158
+#C4BEGIN    [    1 64158   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 64158   3 103    1.3500+7 200000.0 1.9000-3 1.0000-4                                       Pu Zhong-Sheng+      (05)31621  3 
+    1 64158   3 103    1.4100+7 100000.0 2.1000-3 1.0000-4                                       Pu Zhong-Sheng+      (05)31621  3 
+    1 64158   3 103    1.4600+7 200000.0 3.5000-3 1.0000-4                                       Pu Zhong-Sheng+      (05)31621  3 
+#/DATA      3
+#/DATASET

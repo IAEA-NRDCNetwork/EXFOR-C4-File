@@ -1,0 +1,26 @@
+#ENTRY      21299
+#AUTHOR1    K.Kobayashi+
+#YEAR       1979
+#INSTITUTE  (2JPNKTO)
+#TITLE      Fission averaged cross sections for the
+#+          93Nb(n,n')93mNb and 199Hg(n,n')199mHg reactions
+#AUTHOR(S)  K.Kobayashi, I.Kimura
+#REF-CODE   (P,NEANDC(J)-61,78,1979)
+#REFERENCE  Progress report NEANDC(J)-61 page 78, 1979
+#DATASETS   0
+#
+#DATASET    212990031
+#DATE       20110224
+#REACTION   80-HG-199(N,INL)80-HG-199-M,,SIG,,FIS
+#PROJ       1
+#TARG       80199
+#MF         3
+#MT         4
+#PRODUCT    80-HG-199-M
+#C4BEGIN    [    1 80199   3   4MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 80199   3   4MA  1500000.          0.285000 0.027000                                       K.Kobayashi+         (79)21299  31
+#/DATA      1
+#/DATASET

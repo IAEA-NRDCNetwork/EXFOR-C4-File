@@ -1,0 +1,26 @@
+#ENTRY      C0237
+#AUTHOR1    I.Dostrovsky+
+#YEAR       1968
+#INSTITUTE  (2FR PAR)
+#TITLE      (p,xp) and (p,xpya) Reactions of 156-MeV Protons
+#+          with Light Targets (A=11 to A=27)
+#AUTHOR(S)  I.Dostrovsky, H.Gauvin, M.Lefort
+#REF-CODE   (J,PR,169,836,1968)
+#REFERENCE  Phys.Rev. 169 (1968) 836 (doi:10.1103/PhysRev.169.836)
+#DATASETS   0
+#
+#DATASET    C02370161
+#DATE       20040823
+#REACTION   12-MG-0(P,X)6-C-16,,SIG
+#PROJ       1001
+#TARG       12000
+#MF         3
+#MT         454
+#PRODUCT    6-C-16
+#C4BEGIN    [ 1001 12000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12000   3 454    1.5600+8          1.4000-6 9.0000-7            6016.9                     I.Dostrovsky+        (68)C0237 161
+#/DATA      1
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      D0500
+#AUTHOR1    M.Al-Abyad+
+#YEAR       2009
+#INSTITUTE  (2GERJUL)
+#TITLE      Excitation functions of proton-induced reactions on
+#+          natural Fe and enriched 57-Fe with particular
+#+          reference to the production of 57-Co
+#AUTHOR(S)  M.Al-Abyad, M.N.H.Comsan, S.M.Qaim
+#REF-CODE   (J,ARI,67,(1),122,200901)
+#REFERENCE  Appl.Radiat.Isot. 67 No.1 (2009) 122 (doi:10.1016/j.apradiso.2008.07.006)
+#DATASETS   0
+#
+#DATASET    D0500009 
+#DATE       20080820
+#REACTION   26-FE-57(P,A)25-MN-54,,SIG
+#PROJ       1001
+#TARG       26057
+#MF         3
+#MT         107
+#PRODUCT    25-MN-54
+#C4BEGIN    [ 1001 26057   3 107 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26057   3 107 A  4800000. 500000.0 1.4000-3 3.0000-4                                       M.Al-Abyad+          (09)D0500  9 
+ 1001 26057   3 107 A  6500000. 500000.0 5.0000-3 1.0000-3                                       M.Al-Abyad+          (09)D0500  9 
+ 1001 26057   3 107 A  8600000. 400000.0 0.019900 3.5000-3                                       M.Al-Abyad+          (09)D0500  9 
+ 1001 26057   3 107 A  1.0400+7 400000.0 0.028600 5.1000-3                                       M.Al-Abyad+          (09)D0500  9 
+ 1001 26057   3 107 A  1.2400+7 400000.0 0.035100 6.3000-3                                       M.Al-Abyad+          (09)D0500  9 
+ 1001 26057   3 107 A  1.2500+7 400000.0 0.037000 6.6000-3                                       M.Al-Abyad+          (09)D0500  9 
+ 1001 26057   3 107 A  1.3400+7 400000.0 0.045400 8.2000-3                                       M.Al-Abyad+          (09)D0500  9 
+ 1001 26057   3 107 A  1.4000+7 400000.0 0.046100 8.4000-3                                       M.Al-Abyad+          (09)D0500  9 
+ 1001 26057   3 107 A  1.4200+7 500000.0 0.042600 7.6000-3                                       M.Al-Abyad+          (09)D0500  9 
+ 1001 26057   3 107 A  1.5100+7 400000.0 0.042500 7.6000-3                                       M.Al-Abyad+          (09)D0500  9 
+ 1001 26057   3 107 A  1.6800+7 200000.0 0.043800 7.8000-3                                       M.Al-Abyad+          (09)D0500  9 
+ 1001 26057   3 107 A  1.8500+7 200000.0 0.022800 8.4000-3                                       M.Al-Abyad+          (09)D0500  9 
+#/DATA      12
+#/DATASET

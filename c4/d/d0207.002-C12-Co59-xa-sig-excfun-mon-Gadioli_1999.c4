@@ -1,0 +1,29 @@
+#ENTRY      D0207
+#AUTHOR1    E.Gadioli+
+#YEAR       1999
+#INSTITUTE  (2ITYMIL)
+#TITLE      Alpha Particle Emission in the Interaction of 12C with
+#+          59Co and 93Nb at  Incident Energies of 300 and 400 MeV
+#AUTHOR(S)  E.Gadioli, M.Cavinato, E.Fabrici, E.Gadioli Erba, C.Birattari, 
+#+          I.Mica, S.Solia, G.F.Steyn, S.V.Fortsch, J.J.Lawrie, F.M.Nortier, 
+#+          T.G.Stevens, S.H.Connell, J.P.F.Sellschop, A.A.Cowley
+#REF-CODE   (J,NP/A,654,523,1999)
+#REFERENCE  Nucl.Phys.A 654 (1999) 523 (doi:10.1016/S0375-9474(99)00317-6)
+#DATASETS   0
+#
+#DATASET    D0207002 
+#DATE       20080326
+#REACTION   27-CO-59(6-C-12,X)2-HE-4,,SIG
+#PROJ       6012
+#TARG       27059
+#MF         3
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 6012 27059   3 207 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 27059   3 207 A  3.0000+8          2.771000 0.280000                                       E.Gadioli+           (99)D0207  2 
+ 6012 27059   3 207 A  4.0000+8          2.626000 0.260000                                       E.Gadioli+           (99)D0207  2 
+#/DATA      2
+#/DATASET

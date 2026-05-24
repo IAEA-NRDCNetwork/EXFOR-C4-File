@@ -1,0 +1,38 @@
+#ENTRY      20360
+#AUTHOR1    V.J.Howard+
+#YEAR       1974
+#INSTITUTE  (2UK HAR)
+#TITLE      -DIFFERENTIAL CROSS SECTIONS FOR NP AND ND ELASTIC
+#+          SCATTERING NEAR 130 MEV.-
+#AUTHOR(S)  V.J.Howard, J.A.Edington, S.S.Das Gupta, I.M.Blair, B.E.Bonner, 
+#+          F.P.Brady, M.W.Mc.upper()aughton, N.M.Stewart
+#REF-CODE   (J,NP/A,218,140,7401)
+#REFERENCE  Nucl.Phys.A 218 (1974) 140 (doi:10.1016/0375-9474(74)90026-8)
+#DATASETS   0
+#
+#DATASET    20360004 
+#DATE       19840109
+#REACTION   1-H-2(N,EL)1-H-2,,DA
+#PROJ       1
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   4   2  C 1.2900+8          1.4000-3 4.0000-5-0.978140                              V.J.Howard+          (74)20360  4 
+    1  1002   4   2  C 1.2900+8          1.0300-3 4.0000-5-0.945510                              V.J.Howard+          (74)20360  4 
+    1  1002   4   2  C 1.2900+8          7.5000-4 3.0000-5-0.913540                              V.J.Howard+          (74)20360  4 
+    1  1002   4   2  C 1.2900+8          5.4000-4 2.0000-5-0.866020                              V.J.Howard+          (74)20360  4 
+    1  1002   4   2  C 1.2900+8          4.5000-4 2.0000-5-0.809010                              V.J.Howard+          (74)20360  4 
+    1  1002   4   2  C 1.2900+8          4.2000-4 2.0000-5-0.737270                              V.J.Howard+          (74)20360  4 
+    1  1002   4   2  C 1.2900+8          3.0000-4 2.0000-5-0.492420                              V.J.Howard+          (74)20360  4 
+    1  1002   4   2  C 1.2900+8          3.1000-4 2.0000-5-0.406730                              V.J.Howard+          (74)20360  4 
+    1  1002   4   2  C 1.2900+8          3.2000-4 2.0000-5-0.309010                              V.J.Howard+          (74)20360  4 
+    1  1002   4   2  C 1.2900+8          3.5000-4 2.0000-5-0.190800                              V.J.Howard+          (74)20360  4 
+    1  1002   4   2  C 1.2900+8          3.9000-4 2.0000-5-0.095840                              V.J.Howard+          (74)20360  4 
+    1  1002   4   2  C 1.2900+8          3.8000-4 2.0000-5 8.7200-3                              V.J.Howard+          (74)20360  4 
+#/DATA      12
+#/DATASET

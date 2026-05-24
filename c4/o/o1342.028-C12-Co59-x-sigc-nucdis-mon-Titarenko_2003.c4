@@ -1,0 +1,53 @@
+#ENTRY      O1342
+#AUTHOR1    Yu.E.Titarenko+
+#YEAR       2003
+#INSTITUTE  (4RUSITE)
+#TITLE      Nuclide production cross sections for Co-59 and Cu-nat
+#+          irradiated with 0.2-GeV and 2.6-GeV protons and
+#+          0.2-GeV/nucleon carbon ions.
+#AUTHOR(S)  Yu.E.Titarenko, V.F.Batyaev, V.M.Zhivun, A.B.Koldobsky, 
+#+          Yu.V.Trebukhovsky, E.I.Karpikhin, R.D.Mulambetov, S.V.Mulambetova, 
+#+          Yu.A.Nekrasov, A.Yu.Titarenko, K.A.Lipatov, B.Yu.Sharkov, 
+#+          A.A.Golubev, A.D.Fertman, V.I.Turtikov, A.V.Kantsyrev, I.V.Roudskoy, 
+#+          G.N.Smirnov, V.S.Barashenkov, K.K.Gudima, M.I.Baznat, S.G.Mashnik, 
+#+          R.E.Prael
+#REF-CODE   (C,2003SDIEGO,,59,2003)
+#REFERENCE  Proceedings of Int.Meet.on Nucl.Appl.of Accel.Tech., San Diego 2003 page 59
+#DATASETS   0
+#
+#DATASET    O1342028 
+#DATE       20070516
+#REACTION   27-CO-59(6-C-12,X)ELEM/MASS,CUM,SIG
+#PROJ       6012
+#TARG       27059
+#MF         3
+#MT         459
+#C4BEGIN    [ 6012 27059   3 459 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 27059   3 459 C  2.4000+9          1.0800-3 9.0000-5           28057.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          0.080800 6.0000-3           27057.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          0.021000 1.6000-3           27056.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          2.9500-3 2.4000-4           27055.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          4.1900-3 4.8000-4           26059.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          3.4700-4 3.1000-5           26052.0                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          0.012500 9.0000-4           25056.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          3.6600-3 4.9000-4           25052.1                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          0.019900 1.5000-3           25052.0                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          0.062800 4.8000-3           24051.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          5.1700-3 4.2000-4           24049.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          8.1400-4 6.2000-5           24048.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          0.027500 2.0000-3           23048.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          7.0200-3 5.3000-4           21047.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          6.8800-3 5.9000-4           21043.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          1.6600-4 4.7000-5           20047.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          2.8600-3 2.1000-4           19043.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          1.4700-3 1.6000-4           18041.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          7.9500-4 1.8400-4           17039.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          1.0600-3 1.9000-4           17038.0                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          9.7900-4 7.4000-5           12028.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          9.6200-3 7.2000-4           11024.9                     Yu.E.Titarenko+      (03)O1342 28 
+ 6012 27059   3 459 C  2.4000+9          7.0500-3 1.6200-3           11022.9                     Yu.E.Titarenko+      (03)O1342 28 
+#/DATA      23
+#/DATASET

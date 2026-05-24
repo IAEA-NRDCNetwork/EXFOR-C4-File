@@ -1,0 +1,35 @@
+#ENTRY      32926
+#AUTHOR1    Zhu Chuan-Xin+
+#YEAR       2022
+#INSTITUTE  (3CPRNPC)
+#TITLE      Measurement of 191Ir(n,2n)190Ir cross section near
+#+          14 MeV
+#AUTHOR(S)  Zhu Chuan-Xin, Qin Jian-Guo, Zheng Pu, Jiang Li, Zhu Tong-Hua, 
+#+          Lu Xin-Xin
+#REF-CODE   (J,ASI,71,192501,2022)
+#REFERENCE  Acta Phys.Sin. 71 (2022) 192501 (doi:10.7498/aps.71.20220776)
+#DATASETS   0
+#
+#DATASET    32926004 
+#DATE       20251201
+#REACTION   77-IR-191(N,2N)77-IR-190,,SIG
+#PROJ       1
+#TARG       77191
+#MF         3
+#MT         16
+#PRODUCT    77-IR-190
+#C4BEGIN    [    1 77191   3  16 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 77191   3  16 D  1.3400+7          2.061510 0.070230                                       Zhu Chuan-Xin+       (22)32926  4 
+    1 77191   3  16 D  1.3600+7          2.085960 0.071140                                       Zhu Chuan-Xin+       (22)32926  4 
+    1 77191   3  16 D  1.3800+7          2.096200 0.071600                                       Zhu Chuan-Xin+       (22)32926  4 
+    1 77191   3  16 D  1.4000+7          2.108400 0.071990                                       Zhu Chuan-Xin+       (22)32926  4 
+    1 77191   3  16 D  1.4200+7          2.117410 0.072260                                       Zhu Chuan-Xin+       (22)32926  4 
+    1 77191   3  16 D  1.4400+7          2.132900 0.072730                                       Zhu Chuan-Xin+       (22)32926  4 
+    1 77191   3  16 D  1.4600+7          2.141540 0.073140                                       Zhu Chuan-Xin+       (22)32926  4 
+    1 77191   3  16 D  1.4800+7          2.145700 0.073240                                       Zhu Chuan-Xin+       (22)32926  4 
+    1 77191   3  16 D  1.4860+7          2.122840 0.072510                                       Zhu Chuan-Xin+       (22)32926  4 
+#/DATA      9
+#/DATASET

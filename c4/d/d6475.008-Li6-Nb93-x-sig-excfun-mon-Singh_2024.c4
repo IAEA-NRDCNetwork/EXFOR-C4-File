@@ -1,0 +1,33 @@
+#ENTRY      D6475
+#AUTHOR1    A.Singh+
+#YEAR       2024
+#INSTITUTE  (3INDIRR)
+#TITLE      Yield estimation of radionuclides from 6,7Li-induced
+#+          reactions: A comparative analysis for 97,95Ru
+#AUTHOR(S)  A.Singh, M.Maiti
+#REF-CODE   (J,ARI,208,111287,2024)
+#REFERENCE  Appl.Radiat.Isot. 208 (2024) 111287 (doi:10.1016/j.apradiso.2024.111287)
+#DATASETS   0
+#
+#DATASET    D6475008 
+#DATE       20250319
+#REACTION   41-NB-93(3-LI-6,X)43-TC-94-G,,SIG
+#PROJ       3006
+#TARG       41093
+#MF         3
+#MT         454
+#PRODUCT    43-TC-94-G
+#C4BEGIN    [ 3006 41093   3 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 41093   3 454 D  2.9300+7 800000.0 1.0000-4 3.0000-5           43094.0                     A.Singh+             (24)D6475  8 
+ 3006 41093   3 454 D  3.0900+7 800000.0 4.0000-4 7.0000-5           43094.0                     A.Singh+             (24)D6475  8 
+ 3006 41093   3 454 D  3.2600+7 800000.0 1.0000-3 1.0000-4           43094.0                     A.Singh+             (24)D6475  8 
+ 3006 41093   3 454 D  3.8500+7 900000.0 6.9000-3 8.0000-4           43094.0                     A.Singh+             (24)D6475  8 
+ 3006 41093   3 454 D  3.9700+7 800000.0 0.010700 1.2000-3           43094.0                     A.Singh+             (24)D6475  8 
+ 3006 41093   3 454 D  4.0800+7 900000.0 0.016000 1.7000-3           43094.0                     A.Singh+             (24)D6475  8 
+ 3006 41093   3 454 D  4.1800+7 900000.0 0.026300 2.7000-3           43094.0                     A.Singh+             (24)D6475  8 
+ 3006 41093   3 454 D  4.2800+7 900000.0 0.030900 3.3000-3           43094.0                     A.Singh+             (24)D6475  8 
+#/DATA      8
+#/DATASET

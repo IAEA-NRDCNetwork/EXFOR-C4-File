@@ -1,0 +1,26 @@
+#ENTRY      30040
+#AUTHOR1    J.Csikai+
+#YEAR       1968
+#INSTITUTE  (3HUNDEB)
+#TITLE      Cross-sections for the reactions Pr-141(n,p)Ce-141,
+#+          Pr-141(n,t)Ce-139,Ce-142(n,2n)Ce-141,Ce-140(n,2n)Ce-139
+#AUTHOR(S)  J.Csikai, V.I.Fominich, T.Latakos
+#REF-CODE   (J,AHP,24,233,196807)
+#REFERENCE  Acta Phys.Hung. 24 (1968) 233 (doi:10.1007/BF03158438)
+#DATASETS   0
+#
+#DATASET    30040004 
+#DATE       20080215
+#REACTION   58-CE-142(N,2N)58-CE-141,,SIG
+#PROJ       1
+#TARG       58142
+#MF         3
+#MT         16
+#PRODUCT    58-CE-141
+#C4BEGIN    [    1 58142   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 58142   3  16 A  1.4800+7          1.960000 0.170000                                       J.Csikai+            (68)30040  4 
+#/DATA      1
+#/DATASET

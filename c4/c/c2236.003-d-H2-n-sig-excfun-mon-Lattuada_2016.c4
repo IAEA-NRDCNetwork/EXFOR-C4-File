@@ -1,0 +1,60 @@
+#ENTRY      C2236
+#AUTHOR1    D.Lattuada+
+#YEAR       2016
+#INSTITUTE  (1USATAM)
+#TITLE      Model-independent determination of the astrophysical S
+#+          factor in laser- induced fusion plasmas
+#AUTHOR(S)  D.Lattuada, M.Barbarino, A.Bonasera, W.Bang, H.J.Quevedo, 
+#+          M.Warren, F.Consoli, R.De Angelis, P.Andreoli, S.Kimura, 
+#+          G.Dyer, A.C.Bernstein, K.Hagel, M.Barbui, K.Schmidt, E.Gaul, 
+#+          M.E.Donovan, J.B.Natowitz, T.Ditmire
+#REF-CODE   (J,PR/C,93,045808,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 045808 (doi:10.1103/PhysRevC.93.045808)
+#DATASETS   0
+#
+#DATASET    C2236003 
+#DATE       20160914
+#REACTION   1-H-2(D,N)2-HE-3,,SIG,,SFC
+#PROJ       1002
+#TARG       1002
+#MF         3
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1002   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   3   4    40115.10          2.755260 0.896458                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    40709.11          2.519467 0.668628                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    42293.11          2.072408 0.712390                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    43085.12          1.970183 1.139776                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    43481.12          2.243067 0.417505                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    44075.12          3.765578 0.459178                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    45065.13          3.421800 1.171415                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    45263.13          2.863106 0.648016                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    45461.13          2.597711 0.727359                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    45857.14          3.777677 0.482475                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    46253.14          3.112719 0.717676                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    46253.14          4.707227 1.591958                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    46649.14          2.832068 0.961800                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    46649.14          3.171626 0.914625                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    47639.15          2.691600 0.566731                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    48233.15          5.640502 1.165898                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    49025.16          3.619418 0.753196                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    49025.16          3.980242 0.781640                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    55163.20          5.110695 1.620105                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    55559.20          5.710272 1.093680                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    56747.21          4.295883 0.701453                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    60113.24          6.518363 0.739449                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    60113.24          4.509459 0.899373                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    61499.25          4.681469 1.343378                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    64667.27          4.795027 0.663751                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    65855.28          6.569192 0.734297                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    69023.31          8.830285 1.166619                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    71795.34          7.229636 1.115608                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    74567.37          8.287755 2.679873                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    77735.40          10.40842 1.564886                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    78923.41          8.583579 2.723362                                       D.Lattuada+          (16)C2236  3 
+ 1002  1002   3   4    97337.63          19.67041 3.342685                                       D.Lattuada+          (16)C2236  3 
+#/DATA      32
+#/DATASET

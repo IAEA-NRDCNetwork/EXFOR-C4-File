@@ -1,0 +1,33 @@
+#ENTRY      20296
+#AUTHOR1    S.Shirato+
+#YEAR       1974
+#INSTITUTE  (2JPNYOK)
+#TITLE      On the differential cross section for neutron-proton
+#+          scattering at 14.1 MeV
+#AUTHOR(S)  S.Shirato, K.Saitoh
+#REF-CODE   (J,JPJ,36,331,1974)
+#REFERENCE  J.Phys.Soc.Jpn. 36 (1974) 331 (doi:10.1143/JPSJ.36.331)
+#DATASETS   0
+#
+#DATASET    20296008 
+#DATE       20110611
+#REACTION   1-H-1(N,EL)1-H-1,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  1001   4   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4   2 DC 1.4100+7 150000.0 0.059900 1.0000-3-0.990268                              S.Shirato+           (74)20296  8 
+    1  1001   4   2 DC 1.4100+7 150000.0 0.058200 9.0000-4-0.934826                              S.Shirato+           (74)20296  8 
+    1  1001   4   2 DC 1.4100+7 150000.0 0.057300 1.0000-3-0.763796                              S.Shirato+           (74)20296  8 
+    1  1001   4   2 DC 1.4100+7 150000.0 0.055900 1.0000-3-0.501511                              S.Shirato+           (74)20296  8 
+    1  1001   4   2 DC 1.4100+7 150000.0 0.054600 1.1000-3-0.178802                              S.Shirato+           (74)20296  8 
+    1  1001   4   2 DC 1.4100+7 150000.0 0.054400 1.2000-3 0.166769                              S.Shirato+           (74)20296  8 
+    1  1001   4   2 DC 1.4100+7 150000.0 0.052300 1.4000-3 0.461749                              S.Shirato+           (74)20296  8 
+    1  1001   4   2 DC 1.4100+7 150000.0 0.052600 1.5000-3 0.608761                              S.Shirato+           (74)20296  8 
+#/DATA      8
+#/DATASET

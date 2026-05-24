@@ -1,0 +1,34 @@
+#ENTRY      14810
+#AUTHOR1    S.Mukhopadhyay+
+#YEAR       2019
+#INSTITUTE  (1USAKTY)
+#TITLE      Inelastic neutron scattering studies of 76Se
+#AUTHOR(S)  S.Mukhopadhyay, B.P.Crider, B.A.Brown, A.Chakraborty, A.Kumar, 
+#+          M.T.McEllistrem, E.E.Peters, F.M.Prados-Estevez, S.W.Yates
+#REF-CODE   (J,PR/C,99,014313,2019)
+#REFERENCE  Phys.Rev.C 99 (2019) 014313 (doi:10.1103/PhysRevC.99.014313)
+#DATASETS   0
+#
+#DATASET    14810002 
+#DATE       20230330
+#REACTION   34-SE-76(N,INL)34-SE-76,PAR,SIG,G
+#PROJ       1
+#TARG       34076
+#MF         13
+#MT         51
+#PRODUCT    34-SE-76
+#C4BEGIN    [    1 34076  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34076  13  51    2700000. 60000.00 8.8000-3 6.0000-4                   2604100.            S.Mukhopadhyay+      (19)14810  2 
+    1 34076  13  51    2800000. 60000.00 0.012800 7.0000-4                   2604100.            S.Mukhopadhyay+      (19)14810  2 
+    1 34076  13  51    2900000. 60000.00 0.019900 9.0000-4                   2604100.            S.Mukhopadhyay+      (19)14810  2 
+    1 34076  13  51    3000000. 60000.00 0.023200 1.1000-3                   2604100.            S.Mukhopadhyay+      (19)14810  2 
+    1 34076  13  51    3100000. 60000.00 0.023300 1.1000-3                   2604100.            S.Mukhopadhyay+      (19)14810  2 
+    1 34076  13  51    3200000. 60000.00 0.022600 1.2000-3                   2604100.            S.Mukhopadhyay+      (19)14810  2 
+    1 34076  13  51    3300000. 60000.00 0.022700 1.2000-3                   2604100.            S.Mukhopadhyay+      (19)14810  2 
+    1 34076  13  51    3400000. 60000.00 0.021500 1.3000-3                   2604100.            S.Mukhopadhyay+      (19)14810  2 
+    1 34076  13  51    3500000. 60000.00 0.022300 1.5000-3                   2604100.            S.Mukhopadhyay+      (19)14810  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      A0688
+#AUTHOR1    E.Sauvan+
+#YEAR       2004
+#INSTITUTE  (2FR CAE)
+#TITLE      One-neutron removal reactions on light neutron-rich
+#+          nuclei
+#AUTHOR(S)  E.Sauvan, F.Carstoiu, N.A.Orr, J.S.Winfield, M.Freer, J.C.Angelique, 
+#+          W.N.Catford, N.M.Clarke, N.Curtis, S.Grevy, C.Le Brun, M.Lewitowicz, 
+#+          E.Liegard, F.M.Marques, M.Mac-Cormick, P.Roussel-Chomaz, 
+#+          M.-G.Saint Laurent, M.Shawcross
+#REF-CODE   (J,PR/C,69,044603,2004)
+#REFERENCE  Phys.Rev.C 69 (2004) 044603 (doi:10.1103/PhysRevC.69.044603)
+#DATASETS   0
+#
+#DATASET    A0688011 
+#DATE       20040730
+#REACTION   6-C-12(7-N-17,X)7-N-16,,SIG
+#PROJ       7017
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    7-N-16
+#C4BEGIN    [ 7017  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7017  6012   3 454    1.1050+9 1.1050+7 0.055000 5.0000-3            7016.9                     E.Sauvan+            (04)A0688 11 
+#/DATA      1
+#/DATASET

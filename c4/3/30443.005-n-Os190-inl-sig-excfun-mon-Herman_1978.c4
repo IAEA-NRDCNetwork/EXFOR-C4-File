@@ -1,0 +1,32 @@
+#ENTRY      30443
+#AUTHOR1    M.Herman+
+#YEAR       1978
+#INSTITUTE  (3POLIPJ)
+#TITLE      Cross sections for the (n,p) and (n,n') reactions on
+#+          Pd, Cd and Os.
+#AUTHOR(S)  M.Herman, A.Marcinkowski, J.Bielewicz, P.Oblozinsky
+#REF-CODE   (J,NP/A,297,335,197803)
+#REFERENCE  Nucl.Phys.A 297 (1978) 335 (doi:10.1016/0375-9474(78)90280-4)
+#DATASETS   0
+#
+#DATASET    30443005 
+#DATE       20090310
+#REACTION   76-OS-190(N,INL)76-OS-190-M,,SIG
+#PROJ       1
+#TARG       76190
+#MF         3
+#MT         4
+#PRODUCT    76-OS-190-M
+#C4BEGIN    [    1 76190   3   4MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 76190   3   4MA  1.3000+7 200000.0 0.016300 3.1000-3                                       M.Herman+            (78)30443  5 
+    1 76190   3   4MA  1.3300+7 100000.0 0.014900 1.7000-3                                       M.Herman+            (78)30443  5 
+    1 76190   3   4MA  1.3800+7 100000.0 0.019000 2.9000-3                                       M.Herman+            (78)30443  5 
+    1 76190   3   4MA  1.4500+7 100000.0 0.016500 2.3000-3                                       M.Herman+            (78)30443  5 
+    1 76190   3   4MA  1.5100+7 200000.0 0.017000 2.2000-3                                       M.Herman+            (78)30443  5 
+    1 76190   3   4MA  1.5400+7 200000.0 0.015600 2.4000-3                                       M.Herman+            (78)30443  5 
+    1 76190   3   4MA  1.6000+7 200000.0 0.013600 2.4000-3                                       M.Herman+            (78)30443  5 
+#/DATA      7
+#/DATASET

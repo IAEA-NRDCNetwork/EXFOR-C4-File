@@ -1,0 +1,36 @@
+#ENTRY      D4370
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2017
+#INSTITUTE  (3HUNDEB)
+#TITLE      Activation cross-sections of longer-lived
+#+          radioisotopes of proton induced nuclear reactions
+#+          on terbium up to 65 MeV
+#AUTHOR(S)  F.Tarkanyi, A.Hermanne, F.Ditroi, S.Takacs, A.V.Ignatyuk
+#REF-CODE   (J,ARI,127,7,2017)
+#REFERENCE  Appl.Radiat.Isot. 127 (2017) 7 (doi:10.1016/j.apradiso.2017.04.030)
+#DATASETS   0
+#
+#DATASET    D4370012 
+#DATE       20170510
+#REACTION   65-TB-159(P,X)65-TB-154-M2,,SIG
+#PROJ       1001
+#TARG       65159
+#MF         3
+#MT         454
+#PRODUCT    65-TB-154-M2
+#C4BEGIN    [ 1001 65159   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 65159   3 454    6.4950+7 200000.0 6.5100-3 7.4000-4           65154.2                     F.Tarkanyi+          (17)D4370 12 
+ 1001 65159   3 454    6.2900+7 270000.0 4.9200-3 5.6000-4           65154.2                     F.Tarkanyi+          (17)D4370 12 
+ 1001 65159   3 454    6.0710+7 340000.0 3.5700-3 4.1000-4           65154.2                     F.Tarkanyi+          (17)D4370 12 
+ 1001 65159   3 454    5.8440+7 420000.0 2.2500-3 2.7000-4           65154.2                     F.Tarkanyi+          (17)D4370 12 
+ 1001 65159   3 454    5.6160+7 500000.0 9.9000-4 1.4000-4           65154.2                     F.Tarkanyi+          (17)D4370 12 
+ 1001 65159   3 454    5.5100+7 540000.0 1.0500-3 1.4000-4           65154.2                     F.Tarkanyi+          (17)D4370 12 
+ 1001 65159   3 454    5.4010+7 570000.0 7.7000-4 1.1000-4           65154.2                     F.Tarkanyi+          (17)D4370 12 
+ 1001 65159   3 454    5.2500+7 620000.0 5.0000-4 9.0000-5           65154.2                     F.Tarkanyi+          (17)D4370 12 
+ 1001 65159   3 454    5.1180+7 670000.0 5.8000-4 1.0000-4           65154.2                     F.Tarkanyi+          (17)D4370 12 
+ 1001 65159   3 454    4.9940+7 710000.0 3.4000-4 8.0000-5           65154.2                     F.Tarkanyi+          (17)D4370 12 
+#/DATA      10
+#/DATASET

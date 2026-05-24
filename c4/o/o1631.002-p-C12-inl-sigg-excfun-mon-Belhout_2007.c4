@@ -1,0 +1,39 @@
+#ENTRY      O1631
+#AUTHOR1    A.Belhout+
+#YEAR       2007
+#INSTITUTE  (3ALGUHB)
+#TITLE      Gamma-ray production by proton and alpha-particle
+#+          induced reactions on C-12, O-16, Mg-24 and Fe.
+#AUTHOR(S)  A.Belhout, J.Kiener, A.Coc, J.Duprat, C.Engrand, C.Fitoussi, 
+#+          M.Gounelle, A.Lefebvre-Schuhl, N.de Sereville, V.Tatischeff, 
+#+          J.-P.Thibaud, M.Chabot, F.Hammache, H.Benhabiles-Mezhoud
+#REF-CODE   (J,PR/C,76,034607,2007)
+#REFERENCE  Phys.Rev.C 76 (2007) 034607 (doi:10.1103/PhysRevC.76.034607)
+#DATASETS   0
+#
+#DATASET    O1631002 
+#DATE       20220507
+#REACTION   6-C-12(P,INL)6-C-12,PAR,SIG,G
+#PROJ       1001
+#TARG       6012
+#MF         13
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012  13 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012  13 601    4970000. 30000.00 9.0000-5                            4438030.            A.Belhout+           (07)O1631  2 
+ 1001  6012  13 601    5420000. 20000.00 0.232580                            4438030.            A.Belhout+           (07)O1631  2 
+ 1001  6012  13 601    5930000. 20000.00 0.114310                            4438030.            A.Belhout+           (07)O1631  2 
+ 1001  6012  13 601    6490000. 10000.00 0.059400                            4438030.            A.Belhout+           (07)O1631  2 
+ 1001  6012  13 601    6990000. 10000.00 0.113340                            4438030.            A.Belhout+           (07)O1631  2 
+ 1001  6012  13 601    7590000. 10000.00 0.291560                            4438030.            A.Belhout+           (07)O1631  2 
+ 1001  6012  13 601    7990000. 10000.00 0.253890                            4438030.            A.Belhout+           (07)O1631  2 
+ 1001  6012  13 601    8220000. 10000.00 0.319440                            4438030.            A.Belhout+           (07)O1631  2 
+ 1001  6012  13 601    8380000. 20000.00 0.301680                            4438030.            A.Belhout+           (07)O1631  2 
+ 1001  6012  13 601    1.9990+7 10000.00 0.141750                            4438030.            A.Belhout+           (07)O1631  2 
+ 1001  6012  13 601    2.2490+7 10000.00 0.123810                            4438030.            A.Belhout+           (07)O1631  2 
+ 1001  6012  13 601    2.4990+7 10000.00 0.102530                            4438030.            A.Belhout+           (07)O1631  2 
+#/DATA      12
+#/DATASET

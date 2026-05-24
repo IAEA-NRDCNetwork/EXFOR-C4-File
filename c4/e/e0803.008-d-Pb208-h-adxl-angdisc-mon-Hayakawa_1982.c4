@@ -1,0 +1,36 @@
+#ENTRY      E0803
+#AUTHOR1    S.I.Hayakawa+
+#YEAR       1982
+#INSTITUTE  (2JPNOSA)
+#TITLE      MI STRENGTH IN 208PB FROM (P,P) AND (D,3HE)
+#+          REACTIONS
+#AUTHOR(S)  S.I.Hayakawa, M.Fujiwara, S.Imanishi, Y.Fujita, I.Katayama, 
+#+          S.Morinobu, T.Yamazaki, T.Itahashi, H.Ikegami
+#REF-CODE   (J,PRL,49,1624,82)
+#REFERENCE  Phys.Rev.Lett. 49 (1982) 1624 (doi:10.1103/PhysRevLett.49.1624)
+#DATASETS   0
+#
+#DATASET    E0803008 
+#DATE       19881020
+#REACTION   82-PB-208(D,HE3)81-TL-207,PAR,DA
+#PROJ       1002
+#TARG       82208
+#MF         4
+#MT         750
+#PRODUCT    81-TL-207
+#C4BEGIN    [ 1002 82208   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 82208   4 750  C 5.0000+7          7.3070-4          0.994356          350000.0         LVLS.I.Hayakawa+        (82)E0803  8 
+ 1002 82208   4 750  C 5.0000+7          9.7310-4          0.989974          350000.0         LVLS.I.Hayakawa+        (82)E0803  8 
+ 1002 82208   4 750  C 5.0000+7          8.6070-4          0.984115          350000.0         LVLS.I.Hayakawa+        (82)E0803  8 
+ 1002 82208   4 750  C 5.0000+7          5.1260-4          0.978039          350000.0         LVLS.I.Hayakawa+        (82)E0803  8 
+ 1002 82208   4 750  C 5.0000+7          3.1800-4          0.968752          350000.0         LVLS.I.Hayakawa+        (82)E0803  8 
+ 1002 82208   4 750  C 5.0000+7          3.7460-4          0.958988          350000.0         LVLS.I.Hayakawa+        (82)E0803  8 
+ 1002 82208   4 750  C 5.0000+7          4.7880-4          0.950407          350000.0         LVLS.I.Hayakawa+        (82)E0803  8 
+ 1002 82208   4 750  C 5.0000+7          4.1210-4          0.938794          350000.0         LVLS.I.Hayakawa+        (82)E0803  8 
+ 1002 82208   4 750  C 5.0000+7          2.7370-4          0.925501          350000.0         LVLS.I.Hayakawa+        (82)E0803  8 
+ 1002 82208   4 750  C 5.0000+7          2.2610-4          0.912585          350000.0         LVLS.I.Hayakawa+        (82)E0803  8 
+#/DATA      10
+#/DATASET

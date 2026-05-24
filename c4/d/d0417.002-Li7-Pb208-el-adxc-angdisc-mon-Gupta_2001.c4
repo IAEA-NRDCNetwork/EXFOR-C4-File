@@ -1,0 +1,34 @@
+#ENTRY      D0417
+#AUTHOR1    D.Gupta+
+#YEAR       2001
+#INSTITUTE  (3INDTRM)
+#TITLE      Measurement of 42 MeV 7Li Projectile Breakup on 208Pb
+#+          Target Near  Grazing Incidence
+#AUTHOR(S)  D.Gupta, C.Samanta, A.Chatterjee, S.Kailas, B.J.Roy, K.Mahata, 
+#+          A.Shrivastava
+#REF-CODE   (J,NP/A,683,3,2001)
+#REFERENCE  Nucl.Phys.A 683 (2001) 3 (doi:10.1016/S0375-9474(00)00452-8)
+#DATASETS   0
+#
+#DATASET    D0417002 
+#DATE       20060629
+#REACTION   82-PB-208(3-LI-7,EL)82-PB-208,,DA,,RTH
+#PROJ       3007
+#TARG       82208
+#MF         4
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 3007 82208   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 82208   4   2 AC 4.2000+7          5.053299 0.185442 0.807928                              D.Gupta+             (01)D0417  2 
+ 3007 82208   4   2 AC 4.2000+7          3.147358 0.098838 0.751955                              D.Gupta+             (01)D0417  2 
+ 3007 82208   4   2 AC 4.2000+7          2.247485 0.017390 0.690074                              D.Gupta+             (01)D0417  2 
+ 3007 82208   4   2 AC 4.2000+7          1.383936 7.1868-3 0.622829                              D.Gupta+             (01)D0417  2 
+ 3007 82208   4   2 AC 4.2000+7          0.843739 5.5841-3 0.550772                              D.Gupta+             (01)D0417  2 
+ 3007 82208   4   2 AC 4.2000+7          0.465970 4.4670-3 0.474549                              D.Gupta+             (01)D0417  2 
+ 3007 82208   4   2 AC 4.2000+7          0.231904 1.9299-3 0.394776                              D.Gupta+             (01)D0417  2 
+ 3007 82208   4   2 AC 4.2000+7          0.114063 1.7069-3 0.312136                              D.Gupta+             (01)D0417  2 
+#/DATA      8
+#/DATASET

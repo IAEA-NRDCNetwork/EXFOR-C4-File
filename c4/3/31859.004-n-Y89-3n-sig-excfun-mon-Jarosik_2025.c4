@@ -1,0 +1,29 @@
+#ENTRY      31859
+#AUTHOR1    J.Jarosik+
+#YEAR       2025
+#INSTITUTE  (3CZRUJF)
+#TITLE      Comparison of fast-neutron-induced reaction
+#+          cross-sections in 27Al, 197Au, 209Bi, 59Co, 19F, 23Na,
+#+          and 89Y in quasi-monoenergetic fields of p+Li and
+#+          d+TiT neutron sources
+#AUTHOR(S)  J.Jarosik, C.Bonaldi, C.Fontana, W.Geerts, M.Macias, S.Oberstedt, 
+#+          M.Stefanik, A.Tsinganis, V.Wagner
+#REF-CODE   (J,NIM/B,559,165566,2025)
+#REFERENCE  Nucl.Instrum.Meth.B 559 (2025) 165566 (doi:10.1016/j.nimb.2024.165566)
+#DATASETS   0
+#
+#DATASET    31859004 
+#DATE       20241123
+#REACTION   39-Y-89(N,3N)39-Y-87-M,,SIG
+#PROJ       1
+#TARG       39089
+#MF         3
+#MT         17
+#PRODUCT    39-Y-87-M
+#C4BEGIN    [    1 39089   3  17MC]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 39089   3  17MC  2.2500+7 800000.0 7.5000-3 7.0000-4                                       J.Jarosik+           (25)31859  4 
+#/DATA      1
+#/DATASET

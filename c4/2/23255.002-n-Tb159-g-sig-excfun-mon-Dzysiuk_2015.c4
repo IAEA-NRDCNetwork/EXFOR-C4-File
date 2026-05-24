@@ -1,0 +1,29 @@
+#ENTRY      23255
+#AUTHOR1    N.Dzysiuk+
+#YEAR       2015
+#INSTITUTE  (2FR FR)
+#TITLE      Cross section measurement of the 159Tb(n,gamma)Tb160
+#+          nuclear reaction.
+#AUTHOR(S)  N.Dzysiuk, I.Kadenko, V.Gressier, A.J.Koning
+#REF-CODE   (J,NP/A,936,6,2015)
+#REFERENCE  Nucl.Phys.A 936 (2015) 6 (doi:10.1016/j.nuclphysa.2015.01.003)
+#DATASETS   0
+#
+#DATASET    23255002 
+#DATE       20150610
+#REACTION   65-TB-159(N,G)65-TB-160,,SIG
+#PROJ       1
+#TARG       65159
+#MF         3
+#MT         102
+#PRODUCT    65-TB-160
+#C4BEGIN    [    1 65159   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 65159   3 102    3670000. 800.0000 0.030800 2.2000-3                                       N.Dzysiuk+           (15)23255  2 
+    1 65159   3 102    4280000. 1000.000 0.021780 1.8000-3                                       N.Dzysiuk+           (15)23255  2 
+    1 65159   3 102    5390000. 1500.000 6.1300-3 5.5000-4                                       N.Dzysiuk+           (15)23255  2 
+    1 65159   3 102    6850000. 2000.000 2.1400-3 8.3000-4                                       N.Dzysiuk+           (15)23255  2 
+#/DATA      4
+#/DATASET

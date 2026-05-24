@@ -1,0 +1,29 @@
+#ENTRY      A0724
+#AUTHOR1    N.I.Ashwood+
+#YEAR       2004
+#INSTITUTE  (2UK BIR)
+#TITLE      Neutron removal and cluster breakup of 14B and 14Be
+#AUTHOR(S)  N.I.Ashwood, M.Freer, J.C.Angelique, V.Bouchat, W.N.Catford, 
+#+          N.M.Clarke, N.Curtis, O.Dorvaux, F.Hanappe, Y.Kerckx, M.Labiche, 
+#+          J.L.Lecouey, F.M.Marques, T.Materna, A.Ninane, G.Normand, 
+#+          N.A.Orr, S.Pain, N.Soic, L.Stuttge, C.Timis, A.Unshakova, 
+#+          V.A.Ziman
+#REF-CODE   (J,PR/C,70,024608,2004)
+#REFERENCE  Phys.Rev.C 70 (2004) 024608 (doi:10.1103/PhysRevC.70.024608)
+#DATASETS   0
+#
+#DATASET    A0724029 
+#DATE       20260205
+#REACTION   6-C-12(4-BE-14,2A)6-C-18,,SIG
+#PROJ       4014
+#TARG       6012
+#MF         3
+#MT         108
+#PRODUCT    6-C-18
+#C4BEGIN    [ 4014  6012   3 108  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4014  6012   3 108    4.8160+8          0.041090 1.5400-3                                       N.I.Ashwood+         (04)A0724 29 
+#/DATA      1
+#/DATASET

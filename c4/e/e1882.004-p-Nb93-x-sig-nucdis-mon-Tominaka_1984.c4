@@ -1,0 +1,26 @@
+#ENTRY      E1882
+#AUTHOR1    T.Tominaka+
+#YEAR       1984
+#INSTITUTE  (2JPNLEP)
+#TITLE      Spallation of niobium by 12 GeV protons
+#AUTHOR(S)  T.Tominaka, S.Ban, H.Ikeda, K.Katoh, K.Kondo, M.Takasaki, 
+#+          A.Yamamoto, H.Hirabayashi, Y.Narahara
+#REF-CODE   (J,NP/A,414,(3),385,198402)
+#REFERENCE  Nucl.Phys.A 414 No.3 (1984) 385 (doi:10.1016/0375-9474(84)90609-2)
+#DATASETS   0
+#
+#DATASET    E1882004 
+#DATE       20050914
+#REACTION   41-NB-93(P,X)ELEM/MASS,,SIG
+#PROJ       1001
+#TARG       41093
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 41093   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 41093   3 454    1.200+10          1.6100-3 1.0000-4           25052.9                     T.Tominaka+          (84)E1882  4 
+ 1001 41093   3 454    1.200+10          1.1800-3 1.8000-4           41089.1                     T.Tominaka+          (84)E1882  4 
+#/DATA      2
+#/DATASET

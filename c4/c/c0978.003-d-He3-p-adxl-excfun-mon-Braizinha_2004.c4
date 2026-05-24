@@ -1,0 +1,29 @@
+#ENTRY      C0978
+#AUTHOR1    B.Braizinha+
+#YEAR       2004
+#INSTITUTE  (2PRTLIS)
+#TITLE      Resonant and direct components in the 3He(d,p)4He
+#+          reaction at low energies
+#AUTHOR(S)  B.Braizinha, C.R.Brune, A.M.Eiro, B.M.Fisher, H.J.Karwowski, 
+#+          D.S.Leonard, E.J.Ludwig, F.D.Santos, I.J.Thompson
+#REF-CODE   (J,PR/C,69,024608,2004)
+#REFERENCE  Phys.Rev.C 69 (2004) 024608 (doi:10.1103/PhysRevC.69.024608)
+#DATASETS   0
+#
+#DATASET    C0978003 
+#DATE       20040902
+#REACTION   2-HE-3(D,P)2-HE-4,,DA
+#PROJ       1002
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  2003   4 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  2003   4 103 A  520000.0          0.054900 7.0000-4 1.000000                              B.Braizinha+         (04)C0978  3 
+ 1002  2003   4 103 A  890000.0          0.031900 4.0000-4 1.000000                              B.Braizinha+         (04)C0978  3 
+ 1002  2003   4 103 A  1490000.          0.018800 4.0000-4 1.000000                              B.Braizinha+         (04)C0978  3 
+#/DATA      3
+#/DATASET

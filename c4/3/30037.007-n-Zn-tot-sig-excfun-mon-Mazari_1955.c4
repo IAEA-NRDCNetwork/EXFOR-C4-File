@@ -1,0 +1,33 @@
+#ENTRY      30037
+#AUTHOR1    M.Mazari+
+#YEAR       1955
+#INSTITUTE  (3MEXIFM)
+#TITLE      Neutron total cross section measurements between 13.0
+#+          and 16.2 MeV for the following nuclei= 11-Na,13-Al-027,
+#+          26-Fe,28-Ni,29-Cu,30-Zn,38-Sr,40-Zr,47-Ag,50-Sn,80-Hg,
+#+          81-Tl,82-Pb and 83-Bi-209
+#AUTHOR(S)  M.Mazari, F.Alba, V.Serment, A.Fernandez, T.W.Bonner
+#REF-CODE   (J,AIF,1,69,195506)
+#REFERENCE  An.Inst.Fis. 1 (1955) 69
+#DATASETS   0
+#
+#DATASET    30037007 
+#DATE       20080215
+#REACTION   30-ZN-0(N,TOT),,SIG
+#PROJ       1
+#TARG       30000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 30000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 30000   3   1    1.3000+7          2.970000 0.250000                                       M.Mazari+            (55)30037  7 
+    1 30000   3   1    1.3500+7          2.970000 0.230000                                       M.Mazari+            (55)30037  7 
+    1 30000   3   1    1.4020+7          2.880000 0.140000                                       M.Mazari+            (55)30037  7 
+    1 30000   3   1    1.4600+7          2.930000 0.190000                                       M.Mazari+            (55)30037  7 
+    1 30000   3   1    1.5200+7          2.880000 0.090000                                       M.Mazari+            (55)30037  7 
+    1 30000   3   1    1.5860+7          2.800000 0.080000                                       M.Mazari+            (55)30037  7 
+    1 30000   3   1    1.6200+7          2.890000 0.190000                                       M.Mazari+            (55)30037  7 
+#/DATA      7
+#/DATASET

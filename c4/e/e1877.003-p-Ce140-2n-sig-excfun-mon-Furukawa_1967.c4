@@ -1,0 +1,28 @@
+#ENTRY      E1877
+#AUTHOR1    M.Furukawa+
+#YEAR       1967
+#INSTITUTE  (2JPNTOK)
+#TITLE      Excitation functions for proton-induced reactions of
+#+          140Ce and 142Ce up to Ep=15 MeV
+#AUTHOR(S)  M.Furukawa
+#REF-CODE   (J,NP/A,90,253,1967)
+#REFERENCE  Nucl.Phys.A 90 (1967) 253 (doi:10.1016/0375-9474(67)90232-1)
+#DATASETS   0
+#
+#DATASET    E1877003 
+#DATE       20180223
+#REACTION   58-CE-140(P,2N)59-PR-139,,SIG
+#PROJ       1001
+#TARG       58140
+#MF         3
+#MT         16
+#PRODUCT    59-PR-139
+#C4BEGIN    [ 1001 58140   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 58140   3  16    1.3280+7          0.091000 0.015000                                       M.Furukawa           (67)E1877  3 
+ 1001 58140   3  16    1.4040+7          0.281000 0.042000                                       M.Furukawa           (67)E1877  3 
+ 1001 58140   3  16    1.4580+7          0.447000 0.067000                                       M.Furukawa           (67)E1877  3 
+#/DATA      3
+#/DATASET

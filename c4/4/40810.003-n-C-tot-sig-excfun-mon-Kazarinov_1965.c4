@@ -1,0 +1,25 @@
+#ENTRY      40810
+#AUTHOR1    Yu.M.Kazarinov+
+#YEAR       1965
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Total cross sections for the interaction of 630 MeV
+#+          neutrons with protons and carbon nuclei.
+#AUTHOR(S)  Yu.M.Kazarinov, V.I.Satarov, Yu.N.Simonov
+#REF-CODE   (J,YF,1,(2),271,1965)
+#REFERENCE  Yad.Fiz. 1 No.2 (1965) 271
+#DATASETS   0
+#
+#DATASET    40810003 
+#DATE       20130131
+#REACTION   6-C-0(N,TOT),,SIG
+#PROJ       1
+#TARG       6000
+#MF         3
+#MT         1
+#C4BEGIN    [    1  6000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   3   1    6.3000+8          0.324000 1.5000-3                                       Yu.M.Kazarinov+      (65)40810  3 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      20210
+#AUTHOR1    C.Beets+
+#YEAR       1965
+#INSTITUTE  (2BLGMOL)
+#TITLE      Angular distribution of tritons from the reaction
+#+          Li-6(n,t)He-4 induced by neutrons in the range from
+#+          60 to 100 keV
+#AUTHOR(S)  C.Beets, G.De Leeuw-Gierts, S.De Leeuw, Y.Baudinet-Robinet, 
+#+          G.Robaye, L.Winand
+#REF-CODE   (J,NP,69,145,1965)
+#REFERENCE  Nucl.Phys. 69 (1965) 145 (doi:10.1016/0029-5582(65)90508-0)
+#DATASETS   0
+#
+#DATASET    20210002 
+#DATE       20170425
+#REACTION   3-LI-6(N,T)2-HE-4,,DA,,AV
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         105
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1  3006   4 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4 105  C 80000.00 20000.00 0.039800 6.6000-3-0.975000 9.0954-3                     C.Beets+             (65)20210  2 
+    1  3006   4 105  C 80000.00 20000.00 0.038200 5.9000-3-0.870000 0.119016                     C.Beets+             (65)20210  2 
+    1  3006   4 105  C 80000.00 20000.00 0.028200 7.8000-3-0.660000 0.162015                     C.Beets+             (65)20210  2 
+    1  3006   4 105  C 80000.00 20000.00 0.032400 7.5000-3-0.370000 0.151342                     C.Beets+             (65)20210  2 
+    1  3006   4 105  C 80000.00 20000.00 0.060100 9.0000-3-0.037500 0.199542                     C.Beets+             (65)20210  2 
+    1  3006   4 105  C 80000.00 20000.00 0.082000 0.010000 0.302500 1.181445                     C.Beets+             (65)20210  2 
+    1  3006   4 105  C 80000.00 20000.00 0.105800 7.4000-3 0.610000 0.132127                     C.Beets+             (65)20210  2 
+    1  3006   4 105  C 80000.00 20000.00 0.101800 7.2000-3 0.842500 0.053915                     C.Beets+             (65)20210  2 
+    1  3006   4 105  C 80000.00 20000.00 0.119000 7.8000-3 0.967500 9.4182-3                     C.Beets+             (65)20210  2 
+#/DATA      9
+#/DATASET

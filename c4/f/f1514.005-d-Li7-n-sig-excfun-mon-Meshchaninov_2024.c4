@@ -1,0 +1,43 @@
+#ENTRY      F1514
+#AUTHOR1    S.A.Meshchaninov+
+#YEAR       2024
+#INSTITUTE  (4RUSRUS)
+#TITLE      Measurement of cross-section of the 7Li(d,n)8Be
+#+          reactions at the deuteron energies from 0.4 to 2.1 MeV
+#AUTHOR(S)  S.A.Meshchaninov, A.V.Krasilnikov, N.B.Rodionov, Yu.A.Kashchuk, 
+#+          S.Yu.Obudovsky, A.S.Dzhurik, T.M.Kormilitsyn, R.N.Rodionov, 
+#+          V.N.Amosov, G.E.Nemtsev, M.I.Bikchurina, T.A.Bykov, G.D.Verkhovod, 
+#+          D.A.Kasatov, Ya.A.Kolesnikov, G.M.Ostreinov, E.O.Sokolova, 
+#+          S.Yu.Taskaev
+#REF-CODE   (J,PAN,87,769,2024)
+#REFERENCE  Phys.At.Nucl. 87 (2024) 769 (doi:10.1134/S1063778824700789)
+#DATASETS   0
+#
+#DATASET    F1514005 
+#DATE       20241217
+#REACTION   3-LI-7(D,N)4-BE-8,PAR,SIG
+#PROJ       1002
+#TARG       3007
+#MF         3
+#MT         50
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1002  3007   3  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3007   3  50 A  760000.0 47000.00 3.9100-3 3.3000-3                   2880000. 130000.0LVLS.A.Meshchaninov+    (24)F1514  5 
+ 1002  3007   3  50 A  864000.0 43000.00 0.025100 5.8000-3                   2880000. 130000.0LVLS.A.Meshchaninov+    (24)F1514  5 
+ 1002  3007   3  50 A  962000.0 41000.00 0.026900 5.2000-3                   2880000. 130000.0LVLS.A.Meshchaninov+    (24)F1514  5 
+ 1002  3007   3  50 A  1064000. 38000.00 0.051800 0.011900                   2880000. 130000.0LVLS.A.Meshchaninov+    (24)F1514  5 
+ 1002  3007   3  50 A  1170000. 37000.00 0.026300 7.6000-3                   2880000. 130000.0LVLS.A.Meshchaninov+    (24)F1514  5 
+ 1002  3007   3  50 A  1270000. 34000.00 0.022100 5.4000-3                   2880000. 130000.0LVLS.A.Meshchaninov+    (24)F1514  5 
+ 1002  3007   3  50 A  1372000. 32000.00 0.016400 4.9000-3                   2880000. 130000.0LVLS.A.Meshchaninov+    (24)F1514  5 
+ 1002  3007   3  50 A  1473000. 31000.00 0.014600 2.7000-3                   2880000. 130000.0LVLS.A.Meshchaninov+    (24)F1514  5 
+ 1002  3007   3  50 A  1573000. 29000.00 0.014800 5.2000-3                   2880000. 130000.0LVLS.A.Meshchaninov+    (24)F1514  5 
+ 1002  3007   3  50 A  1674000. 28000.00 0.016500 5.1000-3                   2880000. 130000.0LVLS.A.Meshchaninov+    (24)F1514  5 
+ 1002  3007   3  50 A  1776000. 27000.00 0.022600 7.4000-3                   2880000. 130000.0LVLS.A.Meshchaninov+    (24)F1514  5 
+ 1002  3007   3  50 A  1877000. 26000.00 0.019400 9.5000-3                   2880000. 130000.0LVLS.A.Meshchaninov+    (24)F1514  5 
+ 1002  3007   3  50 A  1977000. 25000.00 0.019600 5.2000-3                   2880000. 130000.0LVLS.A.Meshchaninov+    (24)F1514  5 
+ 1002  3007   3  50 A  2078000. 24000.00 0.015500 2.5000-3                   2880000. 130000.0LVLS.A.Meshchaninov+    (24)F1514  5 
+#/DATA      14
+#/DATASET

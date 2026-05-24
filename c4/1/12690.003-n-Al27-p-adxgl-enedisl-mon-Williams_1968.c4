@@ -1,0 +1,27 @@
+#ENTRY      12690
+#AUTHOR1    G.H.Williams+
+#YEAR       1968
+#INSTITUTE  (1USATNC)
+#TITLE      A high resolution (n,n'gamma) gamma-ray spectrometer
+#+          system.
+#AUTHOR(S)  G.H.Williams, W.E.Tucker, J.B.Ashe
+#REF-CODE   (J,BAP,13,873(AD14),196806)
+#REFERENCE  Bull.Am.Phys.Soc. 13 (1968) 873(AD14)
+#DATASETS   0
+#
+#DATASET    12690003 
+#DATE       20140422
+#REACTION   13-AL-27(N,P)12-MG-27,PAR,DA,G
+#PROJ       1
+#TARG       13027
+#MF         14
+#MT         600
+#PRODUCT    12-MG-27
+#C4BEGIN    [    1 13027  14 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027  14 600    4210000. 190000.0 1.0000-3 2.5000-4 0.573576          960000.0            G.H.Williams+        (68)12690  3 
+    1 13027  14 600    4210000. 190000.0 4.0000-4 1.0000-4 0.573576          983000.0            G.H.Williams+        (68)12690  3 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      32703
+#AUTHOR1    Junhua Luo+
+#YEAR       2012
+#INSTITUTE  (3CPRHXU)
+#TITLE      Cross section measurements for 141Pr(n,g)142Pr reaction
+#+          at neutron energies from 13.5 to 14.8 MeV
+#AUTHOR(S)  Junhua Luo, Jiuning Han, Rong Liu, Li Jiang
+#REF-CODE   (J,JRN,293,261,2012)
+#REFERENCE  J.Rad.Nucl.Chem. 293 (2012) 261 (doi:10.1007/s10967-012-1778-y)
+#DATASETS   0
+#
+#DATASET    32703002 
+#DATE       20120907
+#REACTION   59-PR-141(N,G)59-PR-142,,SIG
+#PROJ       1
+#TARG       59141
+#MF         3
+#MT         102
+#PRODUCT    59-PR-142
+#C4BEGIN    [    1 59141   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 59141   3 102    1.3500+7 200000.0 3.3000-3 2.0000-4                                       Junhua Luo+          (12)32703  2 
+    1 59141   3 102    1.4100+7 200000.0 2.7000-3 2.0000-4                                       Junhua Luo+          (12)32703  2 
+    1 59141   3 102    1.4800+7 200000.0 2.2000-3 2.0000-4                                       Junhua Luo+          (12)32703  2 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      F0109
+#AUTHOR1    S.Szegedi+
+#YEAR       1973
+#INSTITUTE  (3HUNKOS)
+#TITLE      Investigations on nuclear reactions induced by protons
+#+          and deuterons in Be
+#AUTHOR(S)  S.Szegedi
+#REF-CODE   (J,AHP,34,215,1973)
+#REFERENCE  Acta Phys.Hung. 34 (1973) 215 (doi:10.1007/BF03158375)
+#DATASETS   0
+#
+#DATASET    F0109004 
+#DATE       20200504
+#REACTION   4-BE-9(D,A)3-LI-7,,SIG
+#PROJ       1002
+#TARG       4009
+#MF         3
+#MT         107
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1002  4009   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   3 107    210000.0          1.1000-3 1.1000-4                                       S.Szegedi            (73)F0109  4 
+ 1002  4009   3 107    300000.0          8.0100-3 8.0100-4                                       S.Szegedi            (73)F0109  4 
+ 1002  4009   3 107    400000.0          0.028540 2.8540-3                                       S.Szegedi            (73)F0109  4 
+ 1002  4009   3 107    500000.0          0.058200 5.8200-3                                       S.Szegedi            (73)F0109  4 
+#/DATA      4
+#/DATASET

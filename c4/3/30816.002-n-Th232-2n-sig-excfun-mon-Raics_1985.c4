@@ -1,0 +1,37 @@
+#ENTRY      30816
+#AUTHOR1    P.Raics+
+#YEAR       1985
+#INSTITUTE  (3HUNKOS)
+#TITLE      Measurement of the cross sections for the Th-232(n,2n)
+#+          reaction in the 6.745 to 10.450 MeV energy range
+#AUTHOR(S)  P.Raics, S.Daroczy, J.Csikai, N.V.Kornilov, V.Ya.Baryba, 
+#+          O.A.Salnikov
+#REF-CODE   (J,PR/C,32,(1),87,198507)
+#REFERENCE  Phys.Rev.C 32 No.1 (1985) 87 (doi:10.1103/PhysRevC.32.87)
+#DATASETS   0
+#
+#DATASET    30816002 
+#DATE       20090910
+#REACTION   90-TH-232(N,2N)90-TH-231,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         16
+#PRODUCT    90-TH-231
+#C4BEGIN    [    1 90232   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3  16    6745000. 70000.00 0.074000 0.011000                                       P.Raics+             (85)30816  2 
+    1 90232   3  16    6938000. 70000.00 0.209000 0.013000                                       P.Raics+             (85)30816  2 
+    1 90232   3  16    7190000. 70000.00 0.449000 0.018000                                       P.Raics+             (85)30816  2 
+    1 90232   3  16    7448000. 70000.00 0.827000 0.037000                                       P.Raics+             (85)30816  2 
+    1 90232   3  16    7697000. 80000.00 1.021000 0.029000                                       P.Raics+             (85)30816  2 
+    1 90232   3  16    7944000. 80000.00 1.386000 0.057000                                       P.Raics+             (85)30816  2 
+    1 90232   3  16    8457000. 90000.00 1.660000 0.033000                                       P.Raics+             (85)30816  2 
+    1 90232   3  16    8975000. 90000.00 1.904000 0.079000                                       P.Raics+             (85)30816  2 
+    1 90232   3  16    9445000. 90000.00 1.952000 0.045000                                       P.Raics+             (85)30816  2 
+    1 90232   3  16    9934000. 100000.0 2.090000 0.062000                                       P.Raics+             (85)30816  2 
+    1 90232   3  16    1.0450+7 110000.0 2.158000 0.077000                                       P.Raics+             (85)30816  2 
+#/DATA      11
+#/DATASET

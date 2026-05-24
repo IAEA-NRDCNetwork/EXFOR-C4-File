@@ -1,0 +1,28 @@
+#ENTRY      O0050
+#AUTHOR1    H.Sauvageon+
+#YEAR       1981
+#INSTITUTE  (2FR GRA)
+#TITLE      Production of Ar-38 and Ar-39 in the interaction of
+#+          gold and thorium with 1,2.5 and 24 GeV protons
+#AUTHOR(S)  H.Sauvageon, S.Regnier
+#REF-CODE   (J,PR/C,24,2667,1981)
+#REFERENCE  Phys.Rev.C 24 (1981) 2667 (doi:10.1103/PhysRevC.24.2667)
+#DATASETS   0
+#
+#DATASET    O0050002 
+#DATE       20230404
+#REACTION   79-AU-197(P,X)18-AR-38,CUM,SIG
+#PROJ       1001
+#TARG       79197
+#MF         3
+#MT         459
+#PRODUCT    18-AR-38
+#C4BEGIN    [ 1001 79197   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   3 459    1.0000+9          4.3000-4 3.0000-5           18038.9                     H.Sauvageon+         (81)O0050  2 
+ 1001 79197   3 459    2.5000+9          4.3000-3 1.1000-3           18038.9                     H.Sauvageon+         (81)O0050  2 
+ 1001 79197   3 459    2.400+10          6.5000-3 8.0000-4           18038.9                     H.Sauvageon+         (81)O0050  2 
+#/DATA      3
+#/DATASET

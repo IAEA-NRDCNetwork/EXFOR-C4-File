@@ -1,0 +1,38 @@
+#ENTRY      D4290
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2013
+#INSTITUTE  (3HUNDEB)
+#TITLE      Activation cross-sections of longer-lived products of
+#+          proton induced nuclear reactions on dysprosium up to
+#+          36 MeV
+#AUTHOR(S)  F.Tarkanyi, F.Ditroi, S.Takacs, A.Hermanne, A.V.Ignatyuk
+#REF-CODE   (J,ANE,62,375,2013)
+#REFERENCE  Ann.Nucl.Energy 62 (2013) 375 (doi:10.1016/j.anucene.2013.06.038)
+#DATASETS   0
+#
+#DATASET    D4290006 
+#DATE       20140129
+#REACTION   66-DY-0(P,X)66-DY-157,CUM,SIG
+#PROJ       1001
+#TARG       66000
+#MF         3
+#MT         459
+#PRODUCT    66-DY-157
+#C4BEGIN    [ 1001 66000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 66000   3 459    3.5300+7 300000.0 1.6600-3 1.8000-4           66157.9                     F.Tarkanyi+          (13)D4290  6 
+ 1001 66000   3 459    3.3800+7 300000.0 1.0100-3 1.1000-4           66157.9                     F.Tarkanyi+          (13)D4290  6 
+ 1001 66000   3 459    3.2300+7 400000.0 4.8000-4 6.0000-5           66157.9                     F.Tarkanyi+          (13)D4290  6 
+ 1001 66000   3 459    3.0800+7 400000.0 2.0000-4 4.0000-5           66157.9                     F.Tarkanyi+          (13)D4290  6 
+ 1001 66000   3 459    2.9200+7 400000.0 8.0000-5 3.0000-5           66157.9                     F.Tarkanyi+          (13)D4290  6 
+ 1001 66000   3 459    2.7500+7 400000.0 6.0000-5 3.0000-5           66157.9                     F.Tarkanyi+          (13)D4290  6 
+ 1001 66000   3 459    2.5700+7 500000.0 7.0000-5 3.0000-5           66157.9                     F.Tarkanyi+          (13)D4290  6 
+ 1001 66000   3 459    2.3800+7 500000.0 1.3000-4 4.0000-5           66157.9                     F.Tarkanyi+          (13)D4290  6 
+ 1001 66000   3 459    2.1900+7 500000.0 1.9000-4 3.0000-5           66157.9                     F.Tarkanyi+          (13)D4290  6 
+ 1001 66000   3 459    1.9700+7 600000.0 1.5000-4 3.0000-5           66157.9                     F.Tarkanyi+          (13)D4290  6 
+ 1001 66000   3 459    1.7400+7 600000.0 1.1000-4 3.0000-5           66157.9                     F.Tarkanyi+          (13)D4290  6 
+ 1001 66000   3 459    1.4800+7 700000.0 6.0000-5 2.0000-5           66157.9                     F.Tarkanyi+          (13)D4290  6 
+#/DATA      12
+#/DATASET

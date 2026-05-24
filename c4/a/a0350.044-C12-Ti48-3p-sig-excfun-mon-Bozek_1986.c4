@@ -1,0 +1,30 @@
+#ENTRY      A0350
+#AUTHOR1    E.Bozek+
+#YEAR       1986
+#INSTITUTE  (2FR SAC)
+#TITLE      De-excitation of Ni-58,60,62 compound nuclei formed
+#+          via symmetric and asymmetric entrance channels
+#AUTHOR(S)  E.Bozek, D.M.De Castro-Rizzo, S.Cavallaro, B.Delaunay, J.Delaunay, 
+#+          H.Dumont, A.D'onofrio, M.G.Saint-Laurent, L.Sperduto, F.Terrasi
+#REF-CODE   (J,NP/A,451,171,1986)
+#REFERENCE  Nucl.Phys.A 451 (1986) 171 (doi:10.1016/0375-9474(86)90250-2)
+#DATASETS   0
+#
+#DATASET    A0350044 
+#DATE       20260323
+#REACTION   22-TI-48(6-C-12,3P)25-MN-57,,SIG
+#PROJ       6012
+#TARG       22048
+#MF         3
+#MT         197
+#PRODUCT    25-MN-57
+#C4BEGIN    [ 6012 22048   3 197  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 22048   3 197    4.5670+7          1.5000-3                                                E.Bozek+             (86)A0350 44 
+ 6012 22048   3 197    4.9690+7          2.7000-3                                                E.Bozek+             (86)A0350 44 
+ 6012 22048   3 197    5.2700+7          4.0000-3                                                E.Bozek+             (86)A0350 44 
+ 6012 22048   3 197    5.7720+7          7.3000-3                                                E.Bozek+             (86)A0350 44 
+#/DATA      4
+#/DATASET

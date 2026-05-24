@@ -1,0 +1,32 @@
+#ENTRY      F1521
+#AUTHOR1    T.V.Kotanjyan+
+#YEAR       2024
+#INSTITUTE  (4ARMJER)
+#TITLE      Cross sections of proton-induced neutron emission
+#+          reactions on thorium and uranium at energies below 18
+#+          MeV
+#AUTHOR(S)  T.V.Kotanjyan, A.Y.Aleksanyan, A.O.Kechechyan, S.M.Amirkhanyan, 
+#+          D.A.Martiryan, H.R.Gulkanyan, L.A.Poghosyan
+#REF-CODE   (J,PR/C,109,065802,2024)
+#REFERENCE  Phys.Rev.C 109 (2024) 065802 (doi:10.1103/PhysRevC.109.065802)
+#DATASETS   0
+#
+#DATASET    F1521002 
+#DATE       20250113
+#REACTION   90-TH-232(P,N)91-PA-232,,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         4
+#PRODUCT    91-PA-232
+#C4BEGIN    [ 1001 90232   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3   4 A  1.6400+7 80000.00 0.017540 1.5300-3                                       T.V.Kotanjyan+       (24)F1521  2 
+ 1001 90232   3   4 A  1.5300+7 120000.0 0.016740 1.4800-3                                       T.V.Kotanjyan+       (24)F1521  2 
+ 1001 90232   3   4 A  1.4100+7 130000.0 0.014920 1.4800-3                                       T.V.Kotanjyan+       (24)F1521  2 
+ 1001 90232   3   4 A  1.2900+7 160000.0 0.013620 1.4500-3                                       T.V.Kotanjyan+       (24)F1521  2 
+ 1001 90232   3   4 A  1.2700+7 180000.0 0.013220 1.5600-3                                       T.V.Kotanjyan+       (24)F1521  2 
+#/DATA      5
+#/DATASET

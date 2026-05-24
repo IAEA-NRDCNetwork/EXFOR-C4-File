@@ -1,0 +1,32 @@
+#ENTRY      A0175
+#AUTHOR1    H.Backhausen+
+#YEAR       1981
+#INSTITUTE  (2GERJUL)
+#TITLE      Formation of 18-F via its 18-Ne precursor-
+#+          excitation functions of the reactions 20-Ne(d,x)
+#+          18-Ne and 20-Ne(3-He,a+n)18-Ne
+#AUTHOR(S)  H.Backhausen, G.Stocklin, R.Weinreich, H.Youfeng, S.M.Qaim
+#REF-CODE   (R,INDC(GER)-23,32,1981)
+#REFERENCE  Report INDC(GER)-23 page 32, 1981
+#DATASETS   0
+#
+#DATASET    A0175003 
+#DATE       20241002
+#REACTION   10-NE-20(HE3,X)9-F-18,CUM,SIG
+#PROJ       2003
+#TARG       10020
+#MF         3
+#MT         459
+#PRODUCT    9-F-18
+#C4BEGIN    [ 2003 10020   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 10020   3 459 A  1.7270+7          0.232000 0.046000            9018.9                     H.Backhausen+        (81)A0175  3 
+ 2003 10020   3 459 A  2.0250+7          0.250000 0.050000            9018.9                     H.Backhausen+        (81)A0175  3 
+ 2003 10020   3 459 A  2.3100+7          0.252000 0.058000            9018.9                     H.Backhausen+        (81)A0175  3 
+ 2003 10020   3 459 A  2.9140+7          0.160000 0.024000            9018.9                     H.Backhausen+        (81)A0175  3 
+ 2003 10020   3 459 A  3.1010+7          0.130000 0.028000            9018.9                     H.Backhausen+        (81)A0175  3 
+ 2003 10020   3 459 A  3.2400+7          0.118000 0.025000            9018.9                     H.Backhausen+        (81)A0175  3 
+#/DATA      6
+#/DATASET

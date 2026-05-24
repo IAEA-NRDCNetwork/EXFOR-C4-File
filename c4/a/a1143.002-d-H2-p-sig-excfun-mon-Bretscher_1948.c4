@@ -1,0 +1,34 @@
+#ENTRY      A1143
+#AUTHOR1    E.Bretscher+
+#YEAR       1948
+#INSTITUTE  (1USALAS)
+#TITLE      Low energy yield of D(d,p)3H and the angular
+#+          distribution of the emitted protons
+#AUTHOR(S)  E.Bretscher, A.P.French, F.G.P.Seidl
+#REF-CODE   (J,PR,73,815,1948)
+#REFERENCE  Phys.Rev. 73 (1948) 815 (doi:10.1103/PhysRev.73.815)
+#DATASETS   0
+#
+#DATASET    A1143002 
+#DATE       20240717
+#REACTION   1-H-2(D,P)1-H-3,,SIG
+#PROJ       1002
+#TARG       1002
+#MF         3
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002  1002   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   3 103    16900.00          1.3110-4                                                E.Bretscher+         (48)A1143  2 
+ 1002  1002   3 103    21500.00          5.1060-4                                                E.Bretscher+         (48)A1143  2 
+ 1002  1002   3 103    25300.00          7.6670-4                                                E.Bretscher+         (48)A1143  2 
+ 1002  1002   3 103    31100.00          2.1000-3                                                E.Bretscher+         (48)A1143  2 
+ 1002  1002   3 103    37200.00          2.4000-3                                                E.Bretscher+         (48)A1143  2 
+ 1002  1002   3 103    43200.00          4.9000-3                                                E.Bretscher+         (48)A1143  2 
+ 1002  1002   3 103    50300.00          5.2000-3                                                E.Bretscher+         (48)A1143  2 
+ 1002  1002   3 103    70800.00          0.015100                                                E.Bretscher+         (48)A1143  2 
+ 1002  1002   3 103    100200.0          0.021500                                                E.Bretscher+         (48)A1143  2 
+#/DATA      9
+#/DATASET

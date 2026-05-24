@@ -1,0 +1,36 @@
+#ENTRY      A0203
+#AUTHOR1    V.G.Batij+
+#YEAR       1982
+#INSTITUTE  (4UKRKFT)
+#TITLE      Excitation functions of (p,n) and (a,xn) reactions
+#+          with formation of Te-119-m,g and Te-121-m,g
+#+          isomeric pairs.
+#AUTHOR(S)  V.G.Batij, E.A.Skakun, O.A.Rastrepin, K.A.Baskova, B.M.Makuni, 
+#+          T.V.Chugaj, L.Ja.Shavtvalov
+#REF-CODE   (C,82KHARKIV,2,134,1982)
+#REFERENCE  Proceedings of Conf.Nucl.Phys.50th Anniv.Nucl.Fis.USSR, Kharkov 1982 2 page 134
+#DATASETS   0
+#
+#DATASET    A0203002B
+#DATE       20240206
+#REACTION   50-SN-116(A,N)52-TE-119-G,,SIG
+#PROJ       2004
+#TARG       50116
+#MF         3
+#MT         4
+#PRODUCT    52-TE-119-G
+#C4BEGIN    [ 2004 50116   3   4GA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 50116   3   4GA  1.9700+7          0.378000 0.043000                                       V.G.Batij+           (82)A0203  2B
+ 2004 50116   3   4GA  2.1100+7          0.399000 0.045000                                       V.G.Batij+           (82)A0203  2B
+ 2004 50116   3   4GA  2.3000+7          0.290000 0.033000                                       V.G.Batij+           (82)A0203  2B
+ 2004 50116   3   4GA  2.4000+7          0.208000 0.024000                                       V.G.Batij+           (82)A0203  2B
+ 2004 50116   3   4GA  2.5000+7          0.134000 0.015000                                       V.G.Batij+           (82)A0203  2B
+ 2004 50116   3   4GA  2.5800+7          0.105000 0.012000                                       V.G.Batij+           (82)A0203  2B
+ 2004 50116   3   4GA  2.6700+7          0.067000 8.0000-3                                       V.G.Batij+           (82)A0203  2B
+ 2004 50116   3   4GA  2.7700+7          0.047000 6.0000-3                                       V.G.Batij+           (82)A0203  2B
+ 2004 50116   3   4GA  2.9700+7          0.044000 6.0000-3                                       V.G.Batij+           (82)A0203  2B
+#/DATA      9
+#/DATASET

@@ -1,0 +1,44 @@
+#ENTRY      D0246
+#AUTHOR1    M.D.Cortina-Gil+
+#YEAR       1997
+#INSTITUTE  (2FR GAN)
+#TITLE      Proton elastic scattering on light neutron-rich nuclei
+#AUTHOR(S)  M.D.Cortina-Gil, P.Roussel-Chomaz, N.Alamanos, J.Barrette, 
+#+          W.Mittig, F.S.Dietrich, F.Auger, Y.Blumenfeld, J.M.Casandjian, 
+#+          M.Chartier, V.Fekou-Youmbi, B.Fernandez, N.Frascaria, A.Gillibert, 
+#+          H.Laurent, A.Lepine-Szily, N.A.Orr, J.A.Scarpaci, J.L.Sida, 
+#+          T.Suomijarvi
+#REF-CODE   (J,PL/B,401,9,1997)
+#REFERENCE  Phys.Lett.B 401 (1997) 9 (doi:10.1016/S0370-2693(97)00321-3)
+#DATASETS   0
+#
+#DATASET    D0246004 
+#DATE       20041104
+#REACTION   1-H-1(4-BE-11,EL)1-H-1,,DA
+#PROJ       4011
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 4011  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4011  1001   4   2  C 5.4230+8 271150.0 0.799898          0.972756 4.0462-4                     M.D.Cortina-Gil+     (97)D0246  4 
+ 4011  1001   4   2  C 5.4230+8 271150.0 0.570864          0.962066 4.7616-4                     M.D.Cortina-Gil+     (97)D0246  4 
+ 4011  1001   4   2  C 5.4230+8 271150.0 0.409313          0.949409 5.4811-4                     M.D.Cortina-Gil+     (97)D0246  4 
+ 4011  1001   4   2  C 5.4230+8 271150.0 0.313452          0.934683 6.2043-4                     M.D.Cortina-Gil+     (97)D0246  4 
+ 4011  1001   4   2  C 5.4230+8 271150.0 0.233142          0.917907 6.9254-4                     M.D.Cortina-Gil+     (97)D0246  4 
+ 4011  1001   4   2  C 5.4230+8 271150.0 0.160538          0.899023 7.6428-4                     M.D.Cortina-Gil+     (97)D0246  4 
+ 4011  1001   4   2  C 5.4230+8 271150.0 0.106418          0.878083 8.3515-4                     M.D.Cortina-Gil+     (97)D0246  4 
+ 4011  1001   4   2  C 5.4230+8 271150.0 0.083236          0.867575 8.6796-4                     M.D.Cortina-Gil+     (97)D0246  4 
+ 4011  1001   4   2  C 5.4230+8 271150.0 0.060270          0.854531 9.0652-4                     M.D.Cortina-Gil+     (97)D0246  4 
+ 4011  1001   4   2  C 5.4230+8 271150.0 0.042169          0.837509 9.5369-4                     M.D.Cortina-Gil+     (97)D0246  4 
+ 4011  1001   4   2  C 5.4230+8 271150.0 0.024259          0.801922 1.0427-3                     M.D.Cortina-Gil+     (97)D0246  4 
+ 4011  1001   4   2  C 5.4230+8 271150.0 0.011426          0.762905 1.1284-3                     M.D.Cortina-Gil+     (97)D0246  4 
+ 4011  1001   4   2  C 5.4230+8 271150.0 5.8960-3          0.716777 1.2170-3                     M.D.Cortina-Gil+     (97)D0246  4 
+ 4011  1001   4   2  C 5.4230+8 271150.0 4.1630-3          0.667794 1.2991-3                     M.D.Cortina-Gil+     (97)D0246  4 
+ 4011  1001   4   2  C 5.4230+8 271150.0 2.2460-3          0.607612 1.3862-3                     M.D.Cortina-Gil+     (97)D0246  4 
+ 4011  1001   4   2  C 5.4230+8 271150.0 1.2230-3          0.544551 1.4639-3                     M.D.Cortina-Gil+     (97)D0246  4 
+#/DATA      16
+#/DATASET

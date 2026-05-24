@@ -1,0 +1,29 @@
+#ENTRY      22716
+#AUTHOR1    L.Koester+
+#YEAR       1995
+#INSTITUTE  (2GERMUN)
+#TITLE      .Neutron-electron scattering length and electric
+#+          polarizability of the neutron derived from cross
+#+          sections of bismuth and of lead and of its isotopes
+#AUTHOR(S)  L.Koester, W.Waschkowski, L.V.Mitsyna, G.S.Samosvat, P.Prokofjevs, 
+#+          J.Tambergs
+#REF-CODE   (J,PR/C,51,3363,1995)
+#REFERENCE  Phys.Rev.C 51 (1995) 3363 (doi:10.1103/PhysRevC.51.3363)
+#DATASETS   0
+#
+#DATASET    22716003 
+#DATE       20170601
+#REACTION   82-PB-207(N,TOT),,SIG
+#PROJ       1
+#TARG       82207
+#MF         3
+#MT         1
+#C4BEGIN    [    1 82207   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82207   3   1    1.260000          11.15100 0.012000                                       L.Koester+           (95)22716  3 
+    1 82207   3   1    5.190000          11.13200 0.013000                                       L.Koester+           (95)22716  3 
+    1 82207   3   1    1970.000          11.05200 0.012000                                       L.Koester+           (95)22716  3 
+#/DATA      3
+#/DATASET

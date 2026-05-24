@@ -1,0 +1,27 @@
+#ENTRY      23731
+#AUTHOR1    J.Ulrich+
+#YEAR       2020
+#INSTITUTE  (2SWTPSI)
+#TITLE      Neutron capture cross section of 53Mn from
+#+          irradiation with cold and reactor neutrons
+#AUTHOR(S)  J.Ulrich, M.Ayranov, A.Kaestner, D.Schumann, P.Sprung, A.Turler, 
+#+          L.Viererbl, M.Vins, H.Assmann-Vratislavska, R.Dressler
+#REF-CODE   (J,PR/C,102,024613,2020)
+#REFERENCE  Phys.Rev.C 102 (2020) 024613 (doi:10.1103/PhysRevC.102.024613)
+#DATASETS   0
+#
+#DATASET    23731003 
+#DATE       20200912
+#REACTION   25-MN-53(N,G)25-MN-54,,SIG
+#PROJ       1
+#TARG       25053
+#MF         3
+#MT         102
+#PRODUCT    25-MN-54
+#C4BEGIN    [    1 25053   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 25053   3 102 C  0.025300          77.50000 1.000000                                       J.Ulrich+            (20)23731  3 
+#/DATA      1
+#/DATASET

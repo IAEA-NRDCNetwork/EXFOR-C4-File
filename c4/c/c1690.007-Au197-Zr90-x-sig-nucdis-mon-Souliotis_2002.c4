@@ -1,0 +1,32 @@
+#ENTRY      C1690
+#AUTHOR1    G.A.Souliotis+
+#YEAR       2002
+#INSTITUTE  (1USAORU)
+#TITLE      Heavy residue formation in 20 MeV/nucleon 197Au+90Zr
+#+          collisions
+#AUTHOR(S)  G.A.Souliotis, W.Loveland, K.Hanold, G.J.Wozniak, D.J.Morrissey
+#REF-CODE   (J,NP/A,705,279,2002)
+#REFERENCE  Nucl.Phys.A 705 (2002) 279 (doi:10.1016/S0375-9474(02)00673-5)
+#DATASETS   0
+#
+#DATASET    C1690007 
+#DATE       20170110
+#REACTION   40-ZR-90(79-AU-197,X)ELEM/MASS,,SIG
+#PROJ       79197
+#TARG       40090
+#MF         3
+#MT         454
+#C4BEGIN    [79197 40090   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+79197 40090   3 454    3.9400+9          1.9840-4 7.5400-5           54130.9                     G.A.Souliotis+       (02)C1690  7 
+79197 40090   3 454    3.9400+9          8.7660-4 1.7660-4           55130.9                     G.A.Souliotis+       (02)C1690  7 
+79197 40090   3 454    3.9400+9          3.1800-3                    56130.9                     G.A.Souliotis+       (02)C1690  7 
+79197 40090   3 454    3.9400+9          6.0490-3                    57130.9                     G.A.Souliotis+       (02)C1690  7 
+79197 40090   3 454    3.9400+9          6.2030-3                    58130.9                     G.A.Souliotis+       (02)C1690  7 
+79197 40090   3 454    3.9400+9          3.2430-3                    59130.9                     G.A.Souliotis+       (02)C1690  7 
+79197 40090   3 454    3.9400+9          7.3030-4 2.2330-4           60130.9                     G.A.Souliotis+       (02)C1690  7 
+79197 40090   3 454    3.9400+9          2.1170-4 1.2550-4           61130.9                     G.A.Souliotis+       (02)C1690  7 
+#/DATA      8
+#/DATASET

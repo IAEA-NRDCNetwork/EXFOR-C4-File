@@ -1,0 +1,26 @@
+#ENTRY      30811
+#AUTHOR1    I.Ribansky+
+#YEAR       1985
+#INSTITUTE  (3SLKSLO)
+#TITLE      Neutron activation cross section for Ni isotopes
+#+          at 14.8 MeV
+#AUTHOR(S)  I.Ribansky, J.Kristiak, L.Stoeva, C.Panteleev
+#REF-CODE   (J,CZJ/B,35,1128,1985)
+#REFERENCE  Czechslov.J.Phys.B 35 (1985) 1128 (doi:10.1007/BF01596429)
+#DATASETS   0
+#
+#DATASET    30811009 
+#DATE       20090910
+#REACTION   28-NI-61(N,P)27-CO-61,,SIG
+#PROJ       1
+#TARG       28061
+#MF         3
+#MT         103
+#PRODUCT    27-CO-61
+#C4BEGIN    [    1 28061   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28061   3 103    1.4800+7 250000.0 0.066600 3.1302-3                                       I.Ribansky+          (85)30811  9 
+#/DATA      1
+#/DATASET

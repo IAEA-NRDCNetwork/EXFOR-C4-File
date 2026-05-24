@@ -1,0 +1,27 @@
+#ENTRY      F1330
+#AUTHOR1    Yu.E.Penionzhkevich+
+#YEAR       2017
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Peculiarities in total cross sections of reactions
+#+          with weakly bound nuclei He-6, Li-9.
+#AUTHOR(S)  Yu.E.Penionzhkevich, Yu.G.Sobolev, V.V.Samarin, M.A.Naumenko
+#REF-CODE   (J,PAN,80,928,2017)
+#REFERENCE  Phys.At.Nucl. 80 (2017) 928 (doi:10.1134/S1063778817050210)
+#DATASETS   0
+#
+#DATASET    F1330003 
+#DATE       20250929
+#REACTION   14-SI-0(2-HE-6,NON),,SIG
+#PROJ       2006
+#TARG       14000
+#MF         3
+#MT         3
+#C4BEGIN    [ 2006 14000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 14000   3   3    6.5400+7 1800000. 1.810000 0.101000                                       Yu.E.Penionzhkevich+ (17)F1330  3 
+ 2006 14000   3   3    7.8600+7 1200000. 1.900000 0.117000                                       Yu.E.Penionzhkevich+ (17)F1330  3 
+ 2006 14000   3   3    9.0600+7 4800000. 1.760000 0.090000                                       Yu.E.Penionzhkevich+ (17)F1330  3 
+#/DATA      3
+#/DATASET

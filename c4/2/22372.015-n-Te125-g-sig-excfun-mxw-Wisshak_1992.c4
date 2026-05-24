@@ -1,0 +1,38 @@
+#ENTRY      22372
+#AUTHOR1    K.Wisshak+
+#YEAR       1992
+#INSTITUTE  (2GERKFK)
+#TITLE      Neutron capture in 122,123,124,125,126-Te:
+#+          Critical test for s process studies
+#AUTHOR(S)  K.Wisshak, F.Voss, F.Kaeppeler, G.Reffo
+#REF-CODE   (J,PR/C,45,(5),2470,199205)
+#REFERENCE  Phys.Rev.C 45 No.5 (1992) 2470 (doi:10.1103/PhysRevC.45.2470)
+#DATASETS   0
+#
+#DATASET    22372015 
+#DATE       20110307
+#REACTION   52-TE-125(N,G)52-TE-126,,SIG,,MXW
+#PROJ       1
+#TARG       52125
+#MF         3
+#MT         102
+#PRODUCT    52-TE-126
+#C4BEGIN    [    1 52125   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52125   3 102 D  10000.00          0.815200 0.010900                                       K.Wisshak+           (92)22372 15 
+    1 52125   3 102 D  12000.00          0.745000 8.8000-3                                       K.Wisshak+           (92)22372 15 
+    1 52125   3 102 D  20000.00          0.560400 5.5000-3                                       K.Wisshak+           (92)22372 15 
+    1 52125   3 102 D  25000.00          0.486800 4.7000-3                                       K.Wisshak+           (92)22372 15 
+    1 52125   3 102 D  30000.00          0.431200 4.0000-3                                       K.Wisshak+           (92)22372 15 
+    1 52125   3 102 D  40000.00          0.353400 3.3000-3                                       K.Wisshak+           (92)22372 15 
+    1 52125   3 102 D  50000.00          0.302200 2.8000-3                                       K.Wisshak+           (92)22372 15 
+    1 52125   3 102 D  52000.00          0.294100 2.6000-3                                       K.Wisshak+           (92)22372 15 
+    1 52125   3 102 D  60000.00          0.266600 2.4000-3                                       K.Wisshak+           (92)22372 15 
+    1 52125   3 102 D  70000.00          0.240500 2.2000-3                                       K.Wisshak+           (92)22372 15 
+    1 52125   3 102 D  80000.00          0.220600 2.1000-3                                       K.Wisshak+           (92)22372 15 
+    1 52125   3 102 D  90000.00          0.204600 1.8000-3                                       K.Wisshak+           (92)22372 15 
+    1 52125   3 102 D  100000.0          0.191400 1.7000-3                                       K.Wisshak+           (92)22372 15 
+#/DATA      13
+#/DATASET

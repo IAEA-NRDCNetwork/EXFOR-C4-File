@@ -1,0 +1,33 @@
+#ENTRY      11022
+#AUTHOR1    C.Wong+
+#YEAR       1962
+#INSTITUTE  (1USALRL)
+#TITLE      Elastic and inelastic scattering of 14 MeV neutrons
+#+          from the lithium isotopes.
+#AUTHOR(S)  C.Wong, J.D.Anderson, J.W.McClure
+#REF-CODE   (J,NP,33,680,1962)
+#REFERENCE  Nucl.Phys. 33 (1962) 680 (doi:10.1016/0029-5582(62)90558-8)
+#DATASETS   0
+#
+#DATASET    11022005 
+#DATE       20250601
+#REACTION   3-LI-6(N,INL)3-LI-6,PAR,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         51
+#PRODUCT    3-LI-6
+#C4BEGIN    [    1  3006   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4  51  C 1.4000+7          0.013000 3.0000-3 0.362000          2184000.         LVLC.Wong+              (62)11022  5 
+    1  3006   4  51  C 1.4000+7          0.011000 2.0000-3 0.232000          2184000.         LVLC.Wong+              (62)11022  5 
+    1  3006   4  51  C 1.4000+7          7.8000-3 0.022000 0.065000          2184000.         LVLC.Wong+              (62)11022  5 
+    1  3006   4  51  C 1.4000+7          5.5000-3 0.016000-0.115000          2184000.         LVLC.Wong+              (62)11022  5 
+    1  3006   4  51  C 1.4000+7          5.9000-3 0.013000-0.302000          2184000.         LVLC.Wong+              (62)11022  5 
+    1  3006   4  51  C 1.4000+7          5.7000-3 0.011000-0.457000          2184000.         LVLC.Wong+              (62)11022  5 
+    1  3006   4  51  C 1.4000+7          4.8000-3 0.012000-0.581000          2184000.         LVLC.Wong+              (62)11022  5 
+    1  3006   4  51  C 1.4000+7          3.9000-3 0.013000-0.723000          2184000.         LVLC.Wong+              (62)11022  5 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,25 @@
+#ENTRY      O0602
+#AUTHOR1    Z.Todorovic+
+#YEAR       1973
+#INSTITUTE  (3SRBBKB)
+#TITLE      The binary and ternary fission of thorium,
+#+          lead and platinum induced by 12.2 GeV protons
+#AUTHOR(S)  Z.Todorovic, R.Antanasijevic, M.Juric
+#REF-CODE   (J,ZP,261,329,1973)
+#REFERENCE  Z.Phys. 261 (1973) 329
+#DATASETS   0
+#
+#DATASET    O06020041
+#DATE       20230406
+#REACTION   78-PT-0(P,F),,SIG
+#PROJ       1001
+#TARG       78000
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 78000   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 78000   3  18    1.220+10          0.064000 0.010000                                       Z.Todorovic+         (73)O0602  41
+#/DATA      1
+#/DATASET

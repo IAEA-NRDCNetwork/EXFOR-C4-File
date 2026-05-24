@@ -1,0 +1,60 @@
+#ENTRY      D0359
+#AUTHOR1    F.Skaza+
+#YEAR       2005
+#INSTITUTE  (2FR SAC)
+#TITLE      Important pickup coupling effect on 8He(p,p)
+#+          elastic scattering
+#AUTHOR(S)  F.Skaza, N.Keeley, V.Lapoux, N.Alamanos, F.Auger, D.Beaumel, 
+#+          E.Becheva, Y.Blumenfeld, F.Delaunay, A.Drouart, A.Gillibert, 
+#+          L.Giot, K.W.Kemper, R.S.Mackintosh, L.Nalpas, A.Pakou, E.C.Pollacco, 
+#+          R.Raabe, P.Roussel-Chomaz, J.-A.Scarpaci, J.-L.Sida, S.Stepantsov, 
+#+          R.Wolski
+#REF-CODE   (J,PL/B,619,82,2005)
+#REFERENCE  Phys.Lett.B 619 (2005) 82 (doi:10.1016/j.physletb.2005.05.061)
+#DATASETS   0
+#
+#DATASET    D0359004 
+#DATE       20130228
+#REACTION   (1-H-1(2-HE-8,T)2-HE-6,PAR,DA,RSD)=(2-HE-8(P,T)2-HE-6,PAR,DA)
+#PROJ       1001
+#TARG       2008
+#MF         4
+#MT         700
+#PRODUCT    2-HE-6
+#C4BEGIN    [ 1001  2008   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2008   4 700 AC 1.5700+7          9.4672-4 1.1798-4 0.793353 0.026562 0.000000         LVLF.Skaza+             (05)D0359  4 
+ 1001  2008   4 700 AC 1.5700+7          1.6518-3 3.7066-4 0.737277 0.029478 0.000000         LVLF.Skaza+             (05)D0359  4 
+ 1001  2008   4 700 AC 1.5700+7          2.6583-3 4.7843-4 0.675590 0.032170 0.000000         LVLF.Skaza+             (05)D0359  4 
+ 1001  2008   4 700 AC 1.5700+7          2.8442-3 4.7726-4 0.537300 0.036800 0.000000         LVLF.Skaza+             (05)D0359  4 
+ 1001  2008   4 700 AC 1.5700+7          2.1782-3 4.6032-4 0.461749 0.038703 0.000000         LVLF.Skaza+             (05)D0359  4 
+ 1001  2008   4 700 AC 1.5700+7          1.1163-3 2.7551-4 0.382683 0.040312 0.000000         LVLF.Skaza+             (05)D0359  4 
+ 1001  2008   4 700 AC 1.5700+7          9.4764-4 2.4008-4 0.300706 0.041614 0.000000         LVLF.Skaza+             (05)D0359  4 
+ 1001  2008   4 700 AC 1.5700+7          6.2882-4 4.2692-4 0.216440 0.042599 0.000000         LVLF.Skaza+             (05)D0359  4 
+#/DATA      8
+#/DATASET
+#
+#DATASET    D0359004 
+#DATE       20130228
+#REACTION   (1-H-1(2-HE-8,T)2-HE-6,PAR,DA,RSD)=(2-HE-8(P,T)2-HE-6,PAR,DA)
+#PROJ       1001
+#TARG       2008
+#MF         4
+#MT         700
+#PRODUCT    2-HE-6
+#C4BEGIN    [ 1001  2008   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2008   4 700 AC 1.5700+7          2.2880-3 7.2295-4 0.793353 0.026562 1797000.         LVLF.Skaza+             (05)D0359  4 
+ 1001  2008   4 700 AC 1.5700+7          1.9112-3 4.0700-4 0.737277 0.029478 1797000.         LVLF.Skaza+             (05)D0359  4 
+ 1001  2008   4 700 AC 1.5700+7          1.8257-3 5.0208-4 0.675590 0.032170 1797000.         LVLF.Skaza+             (05)D0359  4 
+ 1001  2008   4 700 AC 1.5700+7          2.1005-3 5.7219-4 0.537300 0.036800 1797000.         LVLF.Skaza+             (05)D0359  4 
+ 1001  2008   4 700 AC 1.5700+7          2.2290-3 7.2109-4 0.461749 0.038703 1797000.         LVLF.Skaza+             (05)D0359  4 
+ 1001  2008   4 700 AC 1.5700+7          8.3927-4 3.7389-4 0.382683 0.040312 1797000.         LVLF.Skaza+             (05)D0359  4 
+ 1001  2008   4 700 AC 1.5700+7          1.0898-3 3.2011-4 0.300706 0.041614 1797000.         LVLF.Skaza+             (05)D0359  4 
+ 1001  2008   4 700 AC 1.5700+7          9.4508-4 4.0649-4 0.216440 0.042599 1797000.         LVLF.Skaza+             (05)D0359  4 
+#/DATA      8
+#/DATASET

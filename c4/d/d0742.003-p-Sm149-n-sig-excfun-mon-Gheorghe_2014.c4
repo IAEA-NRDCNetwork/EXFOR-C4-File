@@ -1,0 +1,34 @@
+#ENTRY      D0742
+#AUTHOR1    I.Gheorghe+
+#YEAR       2014
+#INSTITUTE  (3RUMBUC)
+#TITLE      Absolute Cross Sections for Proton Induced Reactions
+#+          on 147,149Sm Below the Coulomb Barrier
+#AUTHOR(S)  I.Gheorghe, D.Filipescu, T.Glodariu, D.Bucurescu, I.Cata-Danil, 
+#+          G.Cata-Danil, D.Deleanu, D.Ghita, M.Ivascu, R.Lica, N.Marginean, 
+#+          R.Marginean, C.Mihai, A.Negret, T.Sava, L.Stroe, S.Toma, 
+#+          O.Sima, M.Sin
+#REF-CODE   (J,NDS,119,245,2014)
+#REFERENCE  Nucl.Data Sheets 119 (2014) 245 (doi:10.1016/j.nds.2014.08.067)
+#DATASETS   0
+#
+#DATASET    D0742003 
+#DATE       20141029
+#REACTION   62-SM-149(P,N)63-EU-149,,SIG
+#PROJ       1001
+#TARG       62149
+#MF         3
+#MT         4
+#PRODUCT    63-EU-149
+#C4BEGIN    [ 1001 62149   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 62149   3   4 A  3580000. 130000.0 3.4200-5 3.9000-6                                       I.Gheorghe+          (14)D0742  3 
+ 1001 62149   3   4 A  4530000. 27000.00 6.0000-4 1.4000-4                                       I.Gheorghe+          (14)D0742  3 
+ 1001 62149   3   4 A  5426000. 93000.00 4.9000-3 2.7000-3                                       I.Gheorghe+          (14)D0742  3 
+ 1001 62149   3   4 A  6565000. 17000.00 0.032500 0.011700                                       I.Gheorghe+          (14)D0742  3 
+ 1001 62149   3   4 A  7661000. 91000.00 0.137000 0.026000                                       I.Gheorghe+          (14)D0742  3 
+ 1001 62149   3   4 A  8568000. 18000.00 0.258000 0.064000                                       I.Gheorghe+          (14)D0742  3 
+#/DATA      6
+#/DATASET

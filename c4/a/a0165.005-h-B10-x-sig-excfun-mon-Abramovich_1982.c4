@@ -1,0 +1,31 @@
+#ENTRY      A0165
+#AUTHOR1    S.N.Abramovich+
+#YEAR       1982
+#INSTITUTE  (4RUSEPA)
+#TITLE      Measurement of total cross sections of radioactive
+#+          7Be nuclide produced at the interaction of 6Li, 7Li,
+#+          9Be and 10B with 3He
+#AUTHOR(S)  S.N.Abramovich, B.Ja.Guzhovskij, V.A.Pereshivkin
+#REF-CODE   (J,YK,,(5/49),21,1982)
+#REFERENCE  Yad.Reak.Konst.  No.5/49 (1982) 21
+#DATASETS   0
+#
+#DATASET    A0165005 
+#DATE       20180120
+#REACTION   5-B-10(HE3,X)4-BE-7,,SIG
+#PROJ       2003
+#TARG       5010
+#MF         3
+#MT         454
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 2003  5010   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  5010   3 454 A  3960000.          4.2000-3 3.3000-3            4007.9                     S.N.Abramovich+      (82)A0165  5 
+ 2003  5010   3 454 A  4640000.          4.5000-3 4.5000-3            4007.9                     S.N.Abramovich+      (82)A0165  5 
+ 2003  5010   3 454 A  4950000.          2.0000-3 2.3000-3            4007.9                     S.N.Abramovich+      (82)A0165  5 
+ 2003  5010   3 454 A  5910000.          7.4000-4 6.0000-4            4007.9                     S.N.Abramovich+      (82)A0165  5 
+ 2003  5010   3 454 A  6950000.          3.8000-3 1.0000-3            4007.9                     S.N.Abramovich+      (82)A0165  5 
+#/DATA      5
+#/DATASET

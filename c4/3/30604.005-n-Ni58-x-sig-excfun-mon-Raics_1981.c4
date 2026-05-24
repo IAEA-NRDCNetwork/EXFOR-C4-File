@@ -1,0 +1,31 @@
+#ENTRY      30604
+#AUTHOR1    P.Raics+
+#YEAR       1981
+#INSTITUTE  (3HUNKOS)
+#TITLE      Measurement of the cross sections for the Ni-58(n,2n),
+#+          Ni-58(n,p), Ni-58(n,d) and Y-89(n,2n) reactions
+#+          around 14 MeV
+#AUTHOR(S)  P.Raics, F.Paszti, S.Daroczy, S.Nagy
+#REF-CODE   (J,AK,23,45,1981)
+#REFERENCE  ATOMKI Koezlem. 23 (1981) 45
+#DATASETS   0
+#
+#DATASET    30604005 
+#DATE       20211005
+#REACTION   28-NI-58(N,X)27-CO-57,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         454
+#PRODUCT    27-CO-57
+#C4BEGIN    [    1 28058   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3 454 A  1.3520+7          0.507000 0.018000           27057.9                     P.Raics+             (81)30604  5 
+    1 28058   3 454 A  1.3750+7          0.544000 0.019000           27057.9                     P.Raics+             (81)30604  5 
+    1 28058   3 454 A  1.4120+7          0.566000 0.020000           27057.9                     P.Raics+             (81)30604  5 
+    1 28058   3 454 A  1.4450+7          0.611000 0.022000           27057.9                     P.Raics+             (81)30604  5 
+    1 28058   3 454 A  1.4800+7          0.630000 0.027000           27057.9                     P.Raics+             (81)30604  5 
+#/DATA      5
+#/DATASET

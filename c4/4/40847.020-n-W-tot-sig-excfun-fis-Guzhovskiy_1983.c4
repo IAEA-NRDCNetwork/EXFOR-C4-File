@@ -1,0 +1,26 @@
+#ENTRY      40847
+#AUTHOR1    B.Ya.Guzhovskiy+
+#YEAR       1983
+#INSTITUTE  (4RUSKUR)
+#TITLE      Integral total cross sections of interaction of
+#+          Cf-252 fission spectrum neutrons with atom nuclei
+#+          included in the constructional materials
+#AUTHOR(S)  B.Ya.Guzhovskiy, V.P.Gorelov, V.S.Rudnev, G.G.Farafontov
+#REF-CODE   (R,INDC(CCP)-235,(3),49,1983)
+#REFERENCE  Report INDC(CCP)-235 Vol.(3) page 49, 1983
+#DATASETS   0
+#
+#DATASET    40847020 
+#DATE       20231226
+#REACTION   74-W-0(N,TOT),,SIG,,FIS
+#PROJ       1
+#TARG       74000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 74000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74000   3   1    1420000.          6.866000 6.0000-3                                       B.Ya.Guzhovskiy+     (83)40847 20 
+#/DATA      1
+#/DATASET

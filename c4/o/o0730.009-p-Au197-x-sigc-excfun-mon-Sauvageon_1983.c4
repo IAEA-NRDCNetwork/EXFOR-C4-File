@@ -1,0 +1,30 @@
+#ENTRY      O0730
+#AUTHOR1    H.Sauvageon+
+#YEAR       1983
+#INSTITUTE  (2FR GRA)
+#TITLE      Production of Kr and Xe Isotopes by Interaction of
+#+          Au-197 with 0.15-24 GeV Protons.
+#AUTHOR(S)  H.Sauvageon, S.Regnier, G.N.Simonoff
+#REF-CODE   (J,ZP/A,314,181,1983)
+#REFERENCE  Z.Phys.A 314 (1983) 181 (doi:10.1007/BF01879876)
+#DATASETS   0
+#
+#DATASET    O0730009 
+#DATE       20000427
+#REACTION   79-AU-197(P,X)36-KR-86,CUM,SIG
+#PROJ       1001
+#TARG       79197
+#MF         3
+#MT         459
+#PRODUCT    36-KR-86
+#C4BEGIN    [ 1001 79197   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   3 459    1.5000+8          3.5000-4 3.0000-5           36086.9                     H.Sauvageon+         (83)O0730  9 
+ 1001 79197   3 459    6.0000+8          3.2500-4 2.8000-5           36086.9                     H.Sauvageon+         (83)O0730  9 
+ 1001 79197   3 459    1.0500+9          3.4000-4 3.0000-5           36086.9                     H.Sauvageon+         (83)O0730  9 
+ 1001 79197   3 459    2.5000+9          1.7000-4 2.0000-5           36086.9                     H.Sauvageon+         (83)O0730  9 
+ 1001 79197   3 459    2.400+10          1.0600-4 2.1000-5           36086.9                     H.Sauvageon+         (83)O0730  9 
+#/DATA      5
+#/DATASET

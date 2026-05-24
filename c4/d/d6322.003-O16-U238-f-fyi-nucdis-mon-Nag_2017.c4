@@ -1,0 +1,31 @@
+#ENTRY      D6322
+#AUTHOR1    T.N.Nag+
+#YEAR       2017
+#INSTITUTE  (3INDTRM)
+#TITLE      Mass distribution and mass-resolved angular
+#+          distribution in the 16O + 238U reaction at sub-barrier
+#+          energy
+#AUTHOR(S)  T.N.Nag, R.Tripathi, S.Sodaye, K.Sudarshan, K.Ramachandran, 
+#+          B.K.Nayak, P.K.Pujari
+#REF-CODE   (J,PR/C,96,044608,2017)
+#REFERENCE  Phys.Rev.C 96 (2017) 044608 (doi:10.1103/PhysRevC.96.044608)
+#DATASETS   0
+#
+#DATASET    D6322003 
+#DATE       20190403
+#REACTION   92-U-238(8-O-16,F)ELEM/MASS,IND,FY
+#PROJ       8016
+#TARG       92238
+#MF         8
+#MT         454
+#C4BEGIN    [ 8016 92238   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 92238   8 454    8.5300+7          4.3000-3 2.2000-3 51.00000 122.0000 9.000000            T.N.Nag+             (17)D6322  3 
+ 8016 92238   8 454    8.5300+7          0.011300 1.0000-3 51.00000 124.0000 0.000000            T.N.Nag+             (17)D6322  3 
+ 8016 92238   8 454    8.5300+7          7.5000-3 9.0000-4 51.00000 126.0000 0.000000            T.N.Nag+             (17)D6322  3 
+ 8016 92238   8 454    8.5300+7          0.010800 3.1000-3 53.00000 130.0000 0.000000            T.N.Nag+             (17)D6322  3 
+ 8016 92238   8 454    8.5300+7          4.8000-4 6.0000-5 93.00000 238.0000 9.000000            T.N.Nag+             (17)D6322  3 
+#/DATA      5
+#/DATASET

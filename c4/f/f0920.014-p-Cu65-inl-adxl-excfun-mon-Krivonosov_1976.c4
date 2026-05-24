@@ -1,0 +1,32 @@
+#ENTRY      F0920
+#AUTHOR1    G.A.Krivonosov+
+#YEAR       1976
+#INSTITUTE  (4UKRKFT)
+#TITLE      Inelastic scattering of protons by middle atomic
+#+          weight nuclei at low energies.
+#AUTHOR(S)  G.A.Krivonosov, B.A.Nemashkalo, V.E.Storizhko, A.P.Klyucharev, 
+#+          O.I.Ekhichev, V.K.Chirt
+#REF-CODE   (J,YF,24,461,1976)
+#REFERENCE  Yad.Fiz. 24 (1976) 461
+#DATASETS   0
+#
+#DATASET    F0920014 
+#DATE       20130624
+#REACTION   29-CU-65(P,INL)29-CU-65,PAR,DA
+#PROJ       1001
+#TARG       29065
+#MF         4
+#MT         601
+#PRODUCT    29-CU-65
+#C4BEGIN    [ 1001 29065   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29065   4 601    1965000.          4.1000-8 1.9000-8 0.559193          771000.0         LVLG.A.Krivonosov+      (76)F0920 14 
+ 1001 29065   4 601    2175000.          2.5200-7 9.0000-8 0.559193          771000.0         LVLG.A.Krivonosov+      (76)F0920 14 
+ 1001 29065   4 601    2381000.          8.1200-7 2.2500-7 0.559193          771000.0         LVLG.A.Krivonosov+      (76)F0920 14 
+ 1001 29065   4 601    2587000.          2.4320-6 5.6700-7 0.559193          771000.0         LVLG.A.Krivonosov+      (76)F0920 14 
+ 1001 29065   4 601    2778000.          4.0930-6 9.5400-7 0.559193          771000.0         LVLG.A.Krivonosov+      (76)F0920 14 
+ 1001 29065   4 601    2976000.          1.9931-5 4.8690-6 0.559193          771000.0         LVLG.A.Krivonosov+      (76)F0920 14 
+#/DATA      6
+#/DATASET

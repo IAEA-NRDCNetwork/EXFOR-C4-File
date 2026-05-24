@@ -1,0 +1,25 @@
+#ENTRY      41755
+#AUTHOR1    M.Schulc+
+#YEAR       2023
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Study of 239Pu(n,f) prompt fission neutron spectrum
+#AUTHOR(S)  M.Schulc, M.Petrova, T.Czakoj, M.Kostal, E.Lychagin, J.Simon
+#REF-CODE   (J,RPC,206,110804,2023)
+#REFERENCE  Radiat.Phys.Chem. 206 (2023) 110804 (doi:10.1016/j.radphyschem.2023.110804)
+#DATASETS   0
+#
+#DATASET    41755003 
+#DATE       20230118
+#REACTION   39-Y-89(N,2N)39-Y-88,,SIG,,FIS
+#PROJ       1
+#TARG       39089
+#MF         3
+#MT         16
+#PRODUCT    39-Y-88
+#C4BEGIN    [    1 39089   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 39089   3  16 A  1500000.          2.6200-4 1.3362-5                                       M.Schulc+            (23)41755  3 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      O0727
+#AUTHOR1    J.H.Forster+
+#YEAR       1966
+#INSTITUTE  (1CANMCG)
+#TITLE      Xenon yields in the fission of heavy elements by
+#+          medium-energy protons.
+#AUTHOR(S)  J.H.Forster, N.T.Porile, L.Yaffe
+#REF-CODE   (J,CJC,44,2951,1966)
+#REFERENCE  Can.J.Chem. 44 (1966) 2951 (doi:10.1139/v66-439)
+#DATASETS   0
+#
+#DATASET    O0727013 
+#DATE       20201020
+#REACTION   90-TH-232(P,F)53-I-133,CUM,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         459
+#PRODUCT    53-I-133
+#C4BEGIN    [ 1001 90232   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3 459    3.0000+7          0.038900 9.7250-3           53133.9                     J.H.Forster+         (66)O0727 13 
+ 1001 90232   3 459    4.0000+7          0.041600 0.010400           53133.9                     J.H.Forster+         (66)O0727 13 
+ 1001 90232   3 459    5.2000+7          0.033400 8.3500-3           53133.9                     J.H.Forster+         (66)O0727 13 
+ 1001 90232   3 459    6.5000+7          0.028300 7.0750-3           53133.9                     J.H.Forster+         (66)O0727 13 
+ 1001 90232   3 459    7.5000+7          0.027200 6.8000-3           53133.9                     J.H.Forster+         (66)O0727 13 
+ 1001 90232   3 459    8.5000+7          0.019900 4.9750-3           53133.9                     J.H.Forster+         (66)O0727 13 
+#/DATA      6
+#/DATASET

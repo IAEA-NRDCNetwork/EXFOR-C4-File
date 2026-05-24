@@ -1,0 +1,30 @@
+#ENTRY      22153
+#AUTHOR1    K.Kobayashi+
+#YEAR       1990
+#INSTITUTE  (2JPNKTO)
+#TITLE      -APPLICATION OF A RESONANCE CAPTURE DETECTOR TO THE
+#+          PRECISE MEASUREMENT OF NEUTRON TOTAL CROSS SECTIONS.
+#AUTHOR(S)  K.Kobayashi, S.Yamamoto, Y.Fujita
+#REF-CODE   (J,NIM/A,287,570,90)
+#REFERENCE  Nucl.Instrum.Meth.A 287 (1990) 570 (doi:10.1016/0168-9002(90)91580-5)
+#DATASETS   0
+#
+#DATASET    22153002 
+#DATE       19910103
+#REACTION   82-PB-0(N,TOT),,SIG
+#PROJ       1
+#TARG       82000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 82000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   3   1    4.280000 0.150000 11.17000 0.025000                                       K.Kobayashi+         (90)22153  2 
+    1 82000   3   1    10.40000 0.170000 11.18000 0.036000                                       K.Kobayashi+         (90)22153  2 
+    1 82000   3   1    14.00000 0.130000 11.18000 0.051000                                       K.Kobayashi+         (90)22153  2 
+    1 82000   3   1    23.90000 0.270000 11.17000 0.040000                                       K.Kobayashi+         (90)22153  2 
+    1 82000   3   1    35.90000 0.585000 11.18000 0.037000                                       K.Kobayashi+         (90)22153  2 
+    1 82000   3   1    39.10000 0.555000 11.18000 0.045000                                       K.Kobayashi+         (90)22153  2 
+#/DATA      6
+#/DATASET

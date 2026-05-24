@@ -1,0 +1,37 @@
+#ENTRY      O0249
+#AUTHOR1    D.J.Horen+
+#YEAR       1985
+#INSTITUTE  (1USAORL)
+#TITLE      Cross Sections and Analyzing Powers For Quenched Spin
+#+          Excitations in Ca-40,48 at E(P)=334 MeV.
+#AUTHOR(S)  D.J.Horen, F.E.Bertrand, E.E.Gross, T.P.Sjoreen, D.K.Mc.upper()aniels, 
+#+          J.R.Tinsley, J.Lisantti, L.W.Swenson, J.B.Mc.upper()lelland, 
+#+          T.A.Carey, S.J.Seestrom-Morris, K.Jones
+#REF-CODE   (J,PR/C,31,2049,85)
+#REFERENCE  Phys.Rev.C 31 (1985) 2049 (doi:10.1103/PhysRevC.31.2049)
+#DATASETS   0
+#
+#DATASET    O0249010 
+#DATE       19961229
+#REACTION   20-CA-40(P,INL)20-CA-40,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       20040
+#MF         4
+#MT         601
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 1001 20040   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20040   4 601  C 3.3400+8 40000.00 1.1300-4 2.4860-5 0.999385 1.8356-5 1.2030+7         LVLD.J.Horen+           (85)O0249 10 
+ 1001 20040   4 601  C 3.3400+8 40000.00 1.1900-4 1.7850-5 0.999057 2.2739-5 1.2030+7         LVLD.J.Horen+           (85)O0249 10 
+ 1001 20040   4 601  C 3.3400+8 40000.00 1.4300-4 2.2880-5 0.998684 2.6855-5 1.2030+7         LVLD.J.Horen+           (85)O0249 10 
+ 1001 20040   4 601  C 3.3400+8 40000.00 1.3600-4 2.0400-5 0.998148 3.1855-5 1.2030+7         LVLD.J.Horen+           (85)O0249 10 
+ 1001 20040   4 601  C 3.3400+8 40000.00 1.4300-4 2.2880-5 0.997684 3.5613-5 1.2030+7         LVLD.J.Horen+           (85)O0249 10 
+ 1001 20040   4 601  C 3.3400+8 40000.00 1.4800-4 1.6280-5 0.997002 4.0516-5 1.2030+7         LVLD.J.Horen+           (85)O0249 10 
+ 1001 20040   4 601  C 3.3400+8 40000.00 1.0000-4 8.0000-6 0.996155 4.5871-5 1.2030+7         LVLD.J.Horen+           (85)O0249 10 
+ 1001 20040   4 601  C 3.3400+8 40000.00 9.4000-5 4.7000-6 0.995489 4.9675-5 1.2030+7         LVLD.J.Horen+           (85)O0249 10 
+ 1001 20040   4 601  C 3.3400+8 40000.00 8.3000-5 3.3200-6 0.994513 5.4776-5 1.2030+7         LVLD.J.Horen+           (85)O0249 10 
+ 1001 20040   4 601  C 3.3400+8 40000.00 6.9000-5 4.8300-6 0.993631 5.9001-5 1.2030+7         LVLD.J.Horen+           (85)O0249 10 
+#/DATA      10
+#/DATASET

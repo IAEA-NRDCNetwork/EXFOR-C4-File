@@ -1,0 +1,29 @@
+#ENTRY      D1033
+#AUTHOR1    M.Anwer+
+#YEAR       2022
+#INSTITUTE  (3PAKQAU)
+#TITLE      Ion beam activation of natCu, natTi, natNi and
+#+          measurement of product formation cross sections at
+#+          low energy (<10 MeV)
+#AUTHOR(S)  M.Anwer, A.Naz, I.Ahmad, M.Usman, J.Hussain, S.Z.Ilyas, 
+#+          M.Shahid
+#REF-CODE   (J,RCA,110,799,2022)
+#REFERENCE  Radiochim.Acta 110 (2022) 799 (doi:10.1515/ract-2021-1132)
+#DATASETS   0
+#
+#DATASET    D1033004 
+#DATE       20221116
+#REACTION   22-TI-0(P,X)23-V-48,,SIG
+#PROJ       1001
+#TARG       22000
+#MF         3
+#MT         454
+#PRODUCT    23-V-48
+#C4BEGIN    [ 1001 22000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22000   3 454    5800000. 200000.0 0.136500 0.013800           23048.9                     M.Anwer+             (22)D1033  4 
+ 1001 22000   3 454    5380000. 210000.0 0.112700 0.011400           23048.9                     M.Anwer+             (22)D1033  4 
+#/DATA      2
+#/DATASET

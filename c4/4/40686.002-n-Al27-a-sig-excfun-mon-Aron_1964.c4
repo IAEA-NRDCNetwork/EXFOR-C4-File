@@ -1,0 +1,27 @@
+#ENTRY      40686
+#AUTHOR1    P.M.Aron+
+#YEAR       1964
+#INSTITUTE  (4RUSRI)
+#TITLE      Radiochemical determination of the Al27(n,alpha)Na24
+#+          reaction cross section for a neutron energy of 14.6
+#+          MeV
+#AUTHOR(S)  P.M.Aron, S.S.Bugorkov, K.A.Petrzhak, A.V.Sorokina
+#REF-CODE   (J,SJA,16,450,1964)
+#REFERENCE  Sov.At.Energy 16 (1964) 450 (doi:10.1007/BF01116075)
+#DATASETS   0
+#
+#DATASET    40686002 
+#DATE       20231010
+#REACTION   13-AL-27(N,A)11-NA-24,,SIG
+#PROJ       1
+#TARG       13027
+#MF         3
+#MT         107
+#PRODUCT    11-NA-24
+#C4BEGIN    [    1 13027   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   3 107    1.4600+7 150000.0 0.106000 2.3000-3                                       P.M.Aron             (64)40686  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,41 @@
+#ENTRY      F0139
+#AUTHOR1    S.S.Vasilyev+
+#YEAR       1974
+#INSTITUTE  (4RUSMOS)
+#TITLE      Elastic scattering of 6-7 MeV protons from Be-9.
+#AUTHOR(S)  S.S.Vasilyev, B.S.Galakhmatova, V.B.Gubin, T.N.Mikhaleva, 
+#+          E.A.Romanovsky, D.L.Chuprunov, A.S.Demyanov, L.I.Nikitina
+#REF-CODE   (J,YF,19,28,1974)
+#REFERENCE  Yad.Fiz. 19 (1974) 28
+#DATASETS   0
+#
+#DATASET    F0139002 
+#DATE       20191219
+#REACTION   4-BE-9(P,EL)4-BE-9,,DA,,RTH
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         2
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1001  4009   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4   2  C 6400000.          1.373636 0.137364 0.941764                              S.S.Vasilyev+        (74)F0139  2 
+ 1001  4009   4   2  C 6400000.          0.492087 0.049209 0.880808                              S.S.Vasilyev+        (74)F0139  2 
+ 1001  4009   4   2  C 6400000.          0.299660 0.029966 0.823434                              S.S.Vasilyev+        (74)F0139  2 
+ 1001  4009   4   2  C 6400000.          0.180029 0.018003 0.743378                              S.S.Vasilyev+        (74)F0139  2 
+ 1001  4009   4   2  C 6400000.          0.059588 5.9588-3 0.524432                              S.S.Vasilyev+        (74)F0139  2 
+ 1001  4009   4   2  C 6400000.          0.027683 2.7683-3 0.413899                              S.S.Vasilyev+        (74)F0139  2 
+ 1001  4009   4   2  C 6400000.          0.014657 1.4657-3 0.305695                              S.S.Vasilyev+        (74)F0139  2 
+ 1001  4009   4   2  C 6400000.          7.3749-3 7.3749-4 0.055647                              S.S.Vasilyev+        (74)F0139  2 
+ 1001  4009   4   2  C 6400000.          7.6044-3 7.6044-4-0.044317                              S.S.Vasilyev+        (74)F0139  2 
+ 1001  4009   4   2  C 6400000.          0.010812 1.0812-3-0.155572                              S.S.Vasilyev+        (74)F0139  2 
+ 1001  4009   4   2  C 6400000.          0.012295 1.2295-3-0.224781                              S.S.Vasilyev+        (74)F0139  2 
+ 1001  4009   4   2  C 6400000.          0.014375 1.4375-3-0.330679                              S.S.Vasilyev+        (74)F0139  2 
+ 1001  4009   4   2  C 6400000.          0.015849 1.5849-3-0.423093                              S.S.Vasilyev+        (74)F0139  2 
+ 1001  4009   4   2  C 6400000.          0.016893 1.6893-3-0.527994                              S.S.Vasilyev+        (74)F0139  2 
+ 1001  4009   4   2  C 6400000.          0.014074 1.4074-3-0.739396                              S.S.Vasilyev+        (74)F0139  2 
+ 1001  4009   4   2  C 6400000.          0.011151 1.1151-3-0.885312                              S.S.Vasilyev+        (74)F0139  2 
+#/DATA      16
+#/DATASET

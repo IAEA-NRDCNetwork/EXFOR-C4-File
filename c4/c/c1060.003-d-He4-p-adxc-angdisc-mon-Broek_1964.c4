@@ -1,0 +1,26 @@
+#ENTRY      C1060
+#AUTHOR1    H.W.Broek+
+#YEAR       1964
+#INSTITUTE  (1USAANL)
+#TITLE      Elastic Scattering of 21.0-MeV Deuterons by He4
+#AUTHOR(S)  H.W.Broek, J.L.Yntema
+#REF-CODE   (J,PR,135,B678,196408)
+#REFERENCE  Phys.Rev. 135 (1964) B678 (doi:10.1103/PhysRev.135.B678)
+#DATASETS   0
+#
+#DATASET    C1060003 
+#DATE       20041101
+#REACTION   2-HE-4(D,P)2-HE-5,,DA
+#PROJ       1002
+#TARG       2004
+#MF         4
+#MT         103
+#PRODUCT    2-HE-5
+#C4BEGIN    [ 1002  2004   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  2004   4 103  C 2.1000+7 100000.0 0.087000 4.3500-3 0.986286 2.8806-4                     H.W.Broek+           (64)C1060  3 
+ 1002  2004   4 103  C 2.1000+7 100000.0 0.043000 1.2900-3 0.927184 6.5381-4                     H.W.Broek+           (64)C1060  3 
+#/DATA      2
+#/DATASET

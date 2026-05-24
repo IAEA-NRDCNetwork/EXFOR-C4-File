@@ -1,0 +1,46 @@
+#ENTRY      20476
+#AUTHOR1    M.G.Schomberg+
+#YEAR       1970
+#INSTITUTE  (2UK HAR)
+#TITLE      Ratio of the capture and fission cross-sections of
+#+          239 in the energy range 100 eV to 30 keV
+#AUTHOR(S)  M.G.Schomberg, M.G.Sowerby, D.A.Boyce, K.J.Murray, D.L.Sutton
+#REF-CODE   (C,70HELSINKI,1,315,1970)
+#REFERENCE  Proceedings of Nuclear Data for Reactors Conf., Helsinki 1970 1 page 315
+#DATASETS   0
+#
+#DATASET    20476002 
+#DATE       20190722
+#REACTION   94-PU-239(N,G)94-PU-240,,SIG,,AV
+#PROJ       1
+#TARG       94239
+#MF         3
+#MT         102
+#PRODUCT    94-PU-240
+#C4BEGIN    [    1 94239   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   3 102 D  150.0000 50.00000 17.81000 2.210000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  250.0000 50.00000 14.56000 2.400000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  350.0000 50.00000 9.900000 1.460000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  450.0000 50.00000 4.290000 1.090000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  550.0000 50.00000 9.880000 1.210000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  650.0000 50.00000 6.910000 0.770000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  750.0000 50.00000 5.160000 0.720000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  850.0000 50.00000 2.850000 0.860000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  950.0000 50.00000 4.420000 0.730000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  1500.000 500.0000 3.250000 0.500000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  2500.000 500.0000 3.160000 0.460000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  3500.000 500.0000 2.270000 0.380000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  4500.000 500.0000 1.750000 0.270000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  6500.000 500.0000 1.400000 0.240000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  7500.000 500.0000 1.270000 0.210000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  8500.000 500.0000 1.230000 0.200000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  9500.000 500.0000 1.220000 0.190000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  12500.00 2500.000 0.890000 0.130000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  17500.00 2500.000 0.740000 0.110000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  22500.00 2500.000 0.700000 0.100000                                       M.G.Schomberg+       (70)20476  2 
+    1 94239   3 102 D  27500.00 2500.000 0.550000 0.100000                                       M.G.Schomberg+       (70)20476  2 
+#/DATA      21
+#/DATASET

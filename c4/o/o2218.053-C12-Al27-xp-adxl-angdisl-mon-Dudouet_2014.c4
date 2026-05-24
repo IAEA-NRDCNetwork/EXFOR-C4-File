@@ -1,0 +1,27 @@
+#ENTRY      O2218
+#AUTHOR1    J.Dudouet+
+#YEAR       2014
+#INSTITUTE  (2FR CAE)
+#TITLE      Zero-degree measurements of 12C fragmentation at
+#+          95 MeV/nucleon on thin targets
+#AUTHOR(S)  J.Dudouet, M.Labalme, D.Cussol, C.Finck, R.Rescigno, M.Rousseau, 
+#+          S.Salvador, M.Vanstalle
+#REF-CODE   (J,PR/C,89,064615,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 064615 (doi:10.1103/PhysRevC.89.064615)
+#DATASETS   0
+#
+#DATASET    O2218053 
+#DATE       20161017
+#REACTION   13-AL-27(6-C-12,X)1-H-1,,DA
+#PROJ       6012
+#TARG       13027
+#MF         4
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 6012 13027   4 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 13027   4 203    1.1398+9 1080000. 9.263900 1.430620 1.000000 0.000000                     J.Dudouet+           (14)O2218 53 
+#/DATA      1
+#/DATASET

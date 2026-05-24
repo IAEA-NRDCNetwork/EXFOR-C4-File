@@ -1,0 +1,30 @@
+#ENTRY      A0925
+#AUTHOR1    M.S.Kozodaev+
+#YEAR       1960
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Interaction between 630 MeV protons and He-4 nuclei.
+#AUTHOR(S)  M.S.Kozodaev, M.M.Kulyukin, R.M.Sulyaev, A.I.Filippov, Yu.A.Shcherbakov
+#REF-CODE   (J,ZET,38,708,1960)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 38 (1960) 708
+#DATASETS   0
+#
+#DATASET    A0925002 
+#DATE       20120118
+#REACTION   2-HE-4(P,EL)2-HE-4,,DA
+#PROJ       1001
+#TARG       2004
+#MF         4
+#MT         2
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  2004   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2004   4   2  C 6.3000+8          0.077078 0.016380 0.992862 5.3499-3                     M.S.Kozodaev+        (60)A0925  2 
+ 1001  2004   4   2  C 6.3000+8          0.052340 0.011238 0.979152 9.1113-3                     M.S.Kozodaev+        (60)A0925  2 
+ 1001  2004   4   2  C 6.3000+8          0.039984 8.1900-3 0.956509 0.012575                     M.S.Kozodaev+        (60)A0925  2 
+ 1001  2004   4   2  C 6.3000+8          0.014485 3.4280-3 0.926397 0.014984                     M.S.Kozodaev+        (60)A0925  2 
+ 1001  2004   4   2  C 6.3000+8          2.8910-3 1.3330-3 0.889656 0.018171                     M.S.Kozodaev+        (60)A0925  2 
+ 1001  2004   4   2  C 6.3000+8          1.7720-3 1.3330-3 0.845262 0.022196                     M.S.Kozodaev+        (60)A0925  2 
+#/DATA      6
+#/DATASET

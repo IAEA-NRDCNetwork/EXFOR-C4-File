@@ -1,0 +1,68 @@
+#ENTRY      O2628
+#AUTHOR1    I.Mattei+
+#YEAR       2020
+#INSTITUTE  (2ITYMIL)
+#TITLE      Measurement of 12C fragmentation cross sections on
+#+          C, O, and H in the energy range of interest for
+#+          particle therapy applications
+#AUTHOR(S)  I.Mattei, A.Alexandrov, L.Alunni Solestizi, G.Ambrosi, S.Argiro, 
+#+          N.Bartosik, G.Battistoni, N.Belcari, S.Biondi, M.G.Bisogni, 
+#+          G.Bruni, N.Camarlinghi, P.Carra, E.Catanzani, E.Ciarrocchi, 
+#+          P.Cerello, A.Clozza, S.Colombi, G.De Lellis, A.Del Guerra, 
+#+          M.De Simoni, A.Di Crescenzo, M.Donetti, Y.Dong, M.Durante, 
+#+          A.Embriaco, M.Emde, R.Faccini, V.Ferrero, F.Ferroni, E.Fiandrini, 
+#+          C.Finck, E.Fiorina, M.Fischetti, M.Francesconi, M.Franchini, 
+#+          L.Galli, V.Gentile, R.Hetzel, S.Hild, E.Iarocci, M.Ionica, 
+#+          K.Kanxheri, A.C.Kraan, V.Lante, A.Lauria, C.La Tessa, E.Lopez Torres, 
+#+          C.Massimi, M.Marafini, A.Mengarelli, R.Mirabelli, M.C.Montesi, 
+#+          M.C.Morone, M.Morrocchi, S.Muraro, L.Narici, A.Pastore, 
+#+          N.Pastrone, V.Patera, F.Pennazio, P.Placidi, M.Pullia, L.Ramello, 
+#+          R.Ridolfi, V.Rosso, M.Rovituso, C.Sanelli, G.Sartorelli, 
+#+          O.Sato, S.Savazzi, L.Scavarda, A.Schiavi, C.Schuy, E.Scifoni, 
+#+          A.Sciubba, A.Secher, M.Selvi, L.Servoli, G.Silvestre, M.Sitta, 
+#+          R.Spighi, E.Spiriti, G.Sportelli, A.Stahl, S.Tomassini, 
+#+          F.Tommasino, G.Traini, M.Toppi, T.Valeri, S.M.Valle, M.Vanstalle, 
+#+          M.Villa, U.Weber, A.Zoccoli, A.Sarti
+#REF-CODE   (J,IEE/R,4,269,2020)
+#REFERENCE  IEEE Rad.Pl.Med.Sci. 4 (2020) 269
+#DATASETS   0
+#
+#DATASET    O2628007 
+#DATE       20240914
+#REACTION   1-H-1(6-C-12,X)1-H-2,,DA
+#PROJ       6012
+#TARG       1001
+#MF         4
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 6012  1001   4 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  1001   4 204    1.3800+9          1.5000-6 1.3400-5 6.123-17                              I.Mattei+            (20)O2628  7 
+ 6012  1001   4 204    1.8360+9          3.3900-5 6.5400-5 6.123-17                              I.Mattei+            (20)O2628  7 
+ 6012  1001   4 204    2.6520+9          4.4400-5 4.4400-5 6.123-17                              I.Mattei+            (20)O2628  7 
+ 6012  1001   4 204    3.3720+9          3.3000-6 1.3100-5 6.123-17                              I.Mattei+            (20)O2628  7 
+ 6012  1001   4 204    4.2360+9          6.9800-5 7.7700-5 6.123-17                              I.Mattei+            (20)O2628  7 
+#/DATA      5
+#/DATASET
+#
+#DATASET    O2628007 
+#DATE       20240914
+#REACTION   1-H-1(6-C-12,X)1-H-2,,DA
+#PROJ       6012
+#TARG       1001
+#MF         4
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 6012  1001   4 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  1001   4 204    1.3800+9          1.6800-4 3.3200-4 0.500000                              I.Mattei+            (20)O2628  7 
+ 6012  1001   4 204    1.8360+9          1.7200-4 3.7300-4 0.500000                              I.Mattei+            (20)O2628  7 
+ 6012  1001   4 204    2.6520+9          1.4000-4 4.0700-4 0.500000                              I.Mattei+            (20)O2628  7 
+ 6012  1001   4 204    3.3720+9          1.2800-4 4.4100-4 0.500000                              I.Mattei+            (20)O2628  7 
+ 6012  1001   4 204    4.2360+9          2.6900-4 6.3200-4 0.500000                              I.Mattei+            (20)O2628  7 
+#/DATA      5
+#/DATASET

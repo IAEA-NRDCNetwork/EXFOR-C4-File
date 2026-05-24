@@ -1,0 +1,36 @@
+#ENTRY      40958
+#AUTHOR1    Yu.N.Trofimov+
+#YEAR       1988
+#INSTITUTE  (4RUSRI)
+#TITLE      U-236 neutron radiation capture cross-section
+#+          for En=0.3-2.2 MeV
+#AUTHOR(S)  Yu.N.Trofimov
+#REF-CODE   (J,AE,64,(2),150,198802)
+#REFERENCE  At.En. 64 No.2 (1988) 150
+#DATASETS   0
+#
+#DATASET    40958002 
+#DATE       20110630
+#REACTION   92-U-236(N,G)92-U-237,,SIG
+#PROJ       1
+#TARG       92236
+#MF         3
+#MT         102
+#PRODUCT    92-U-237
+#C4BEGIN    [    1 92236   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92236   3 102 C  300000.0 140000.0 0.127000 8.0000-3                                       Yu.N.Trofimov        (88)40958  2 
+    1 92236   3 102 C  500000.0 130000.0 0.118000 8.0000-3                                       Yu.N.Trofimov        (88)40958  2 
+    1 92236   3 102 C  600000.0 130000.0 0.105000 7.0000-3                                       Yu.N.Trofimov        (88)40958  2 
+    1 92236   3 102 C  800000.0 130000.0 0.125000 7.0000-3                                       Yu.N.Trofimov        (88)40958  2 
+    1 92236   3 102 C  1000000. 120000.0 0.112000 7.0000-3                                       Yu.N.Trofimov        (88)40958  2 
+    1 92236   3 102 C  1200000. 110000.0 0.096000 7.0000-3                                       Yu.N.Trofimov        (88)40958  2 
+    1 92236   3 102 C  1300000. 110000.0 0.086000 9.0000-3                                       Yu.N.Trofimov        (88)40958  2 
+    1 92236   3 102 C  1500000. 100000.0 0.062000 8.0000-3                                       Yu.N.Trofimov        (88)40958  2 
+    1 92236   3 102 C  1850000. 90000.00 0.067000 8.0000-3                                       Yu.N.Trofimov        (88)40958  2 
+    1 92236   3 102 C  2000000. 80000.00 0.057000 7.0000-3                                       Yu.N.Trofimov        (88)40958  2 
+    1 92236   3 102 C  2200000. 80000.00 0.062000 8.0000-3                                       Yu.N.Trofimov        (88)40958  2 
+#/DATA      11
+#/DATASET

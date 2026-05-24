@@ -1,0 +1,31 @@
+#ENTRY      E1658
+#AUTHOR1    A.Yoshida+
+#YEAR       1996
+#INSTITUTE  (2JPNIPC)
+#TITLE      Fusion and breakup at the barrier with 11Be
+#AUTHOR(S)  A.Yoshida, C.Signorini, T.Fukuda, Y.Watanabe, N.Aoi, M.Hirai, 
+#+          M.Ishihara, H.Kobinata, Y.Mizoi, L.Mueller, Y.Nagashima, 
+#+          J.Nakano, T.Nomura, Y.H.Pu, F.Scarlassara
+#REF-CODE   (J,PL/B,389,(3),457,199612)
+#REFERENCE  Phys.Lett.B 389 No.3 (1996) 457 (doi:10.1016/S0370-2693(96)01327-5)
+#DATASETS   0
+#
+#DATASET    E1658006 
+#DATE       20070514
+#REACTION   83-BI-209(4-BE-9,3N)87-FR-215,,SIG
+#PROJ       4009
+#TARG       83209
+#MF         3
+#MT         17
+#PRODUCT    87-FR-215
+#C4BEGIN    [ 4009 83209   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4009 83209   3  17    3.8797+7 1750334. 0.022220 7.3370-3                                       A.Yoshida+           (96)E1658  6 
+ 4009 83209   3  17    4.2105+7 1750362. 0.139700 0.012360                                       A.Yoshida+           (96)E1658  6 
+ 4009 83209   3  17    4.5516+7 1750392. 0.248100 0.015760                                       A.Yoshida+           (96)E1658  6 
+ 4009 83209   3  17    4.8845+7 1750420. 0.130300 0.015140                                       A.Yoshida+           (96)E1658  6 
+ 4009 83209   3  17    5.2371+7 1750451. 0.038960 0.010780                                       A.Yoshida+           (96)E1658  6 
+#/DATA      5
+#/DATASET

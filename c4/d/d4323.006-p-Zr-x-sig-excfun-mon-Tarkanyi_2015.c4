@@ -1,0 +1,39 @@
+#ENTRY      D4323
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2015
+#INSTITUTE  (3HUNDEB)
+#TITLE      New activation cross section data on longer lived
+#+          radio-nuclei produced in proton induced nuclear
+#+          reaction on zirconium
+#AUTHOR(S)  F.Tarkanyi, F.Ditroi, S.Takacs, A.Hermanne, M.Al-Abyad, 
+#+          H.Yamazaki, M.Baba, M.A.Mohammadi
+#REF-CODE   (J,ARI,97,149,2015)
+#REFERENCE  Appl.Radiat.Isot. 97 (2015) 149 (doi:10.1016/j.apradiso.2014.12.029)
+#DATASETS   0
+#
+#DATASET    D4323006 
+#DATE       20150318
+#REACTION   40-ZR-0(P,X)41-NB-91-M,,SIG
+#PROJ       1001
+#TARG       40000
+#MF         3
+#MT         454
+#PRODUCT    41-NB-91-M
+#C4BEGIN    [ 1001 40000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40000   3 454    4.9000+7 800000.0 0.015500 6.6000-3           41091.7                     F.Tarkanyi+          (15)D4323  6 
+ 1001 40000   3 454    4.4900+7 800000.0 0.025200 8.6000-3           41091.7                     F.Tarkanyi+          (15)D4323  6 
+ 1001 40000   3 454    4.3000+7 900000.0 0.019500 7.0000-3           41091.7                     F.Tarkanyi+          (15)D4323  6 
+ 1001 40000   3 454    4.0500+7 900000.0 0.014800 7.7000-3           41091.7                     F.Tarkanyi+          (15)D4323  6 
+ 1001 40000   3 454    3.8400+7 1000000. 0.014400 6.6000-3           41091.7                     F.Tarkanyi+          (15)D4323  6 
+ 1001 40000   3 454    3.5700+7 1100000. 0.017500 6.7000-3           41091.7                     F.Tarkanyi+          (15)D4323  6 
+ 1001 40000   3 454    3.3300+7 1100000. 0.010800 6.3000-3           41091.7                     F.Tarkanyi+          (15)D4323  6 
+ 1001 40000   3 454    2.7400+7 1200000. 0.020200 9.3000-3           41091.7                     F.Tarkanyi+          (15)D4323  6 
+ 1001 40000   3 454    2.4400+7 600000.0 0.021100 4.0000-3           41091.7                     F.Tarkanyi+          (15)D4323  6 
+ 1001 40000   3 454    2.3800+7 1300000. 0.017800 8.4000-3           41091.7                     F.Tarkanyi+          (15)D4323  6 
+ 1001 40000   3 454    2.0400+7 1400000. 0.049500 6.0000-3           41091.7                     F.Tarkanyi+          (15)D4323  6 
+ 1001 40000   3 454    1.7500+7 700000.0 0.021800 5.5000-3           41091.7                     F.Tarkanyi+          (15)D4323  6 
+#/DATA      12
+#/DATASET

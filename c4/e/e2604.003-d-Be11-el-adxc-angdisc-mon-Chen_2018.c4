@@ -1,0 +1,42 @@
+#ENTRY      E2604
+#AUTHOR1    J.Chen+
+#YEAR       2018
+#INSTITUTE  (3CPRBJG)
+#TITLE      Low-lying states in 12Be using one-neutron transfer
+#+          reaction
+#AUTHOR(S)  J.Chen, J.L.Lou, Y.L.Ye, Z.H.Li, D.Y.Pang, C.X.Yuan, Y.C.Ge, 
+#+          Q.T.Li, H.Hua, D.X.Jiang, X.F.Yang, F.R.Xu, J.C.Pei, J.Li, 
+#+          W.Jiang, Y.L.Sun, H.L.Zang, Y.Zhang, G.Li, N.Aoi, E.Ideguchi, 
+#+          H.J.Ong, J.Lee, J.Wu, H.N.Liu, C.Wen, Y.Ayyad, K.Hatanaka, 
+#+          D.T.Tran, T.Yamamoto, M.Tanaka, T.Suzuki
+#REF-CODE   (J,PR/C,98,014616,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 014616 (doi:10.1103/PhysRevC.98.014616)
+#DATASETS   0
+#
+#DATASET    E2604003 
+#DATE       20191216
+#REACTION   (1-H-2(4-BE-11,EL)1-H-2,,DA,,RTH)=(4-BE-11(D,EL)4-BE-11,,DA,,RTH)
+#PROJ       1002
+#TARG       4011
+#MF         4
+#MT         2
+#PRODUCT    4-BE-11
+#C4BEGIN    [ 1002  4011   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4011   4   2  C 5.3800+7          0.469429 0.031834 0.958020                              J.Chen+              (18)E2604  3 
+ 1002  4011   4   2  C 5.3800+7          0.213608 0.012311 0.947626                              J.Chen+              (18)E2604  3 
+ 1002  4011   4   2  C 5.3800+7          0.107784 7.3819-3 0.936118                              J.Chen+              (18)E2604  3 
+ 1002  4011   4   2  C 5.3800+7          0.068421 5.1813-3 0.920187                              J.Chen+              (18)E2604  3 
+ 1002  4011   4   2  C 5.3800+7          0.062032 4.4789-3 0.898840                              J.Chen+              (18)E2604  3 
+ 1002  4011   4   2  C 5.3800+7          0.055190 4.0653-3 0.875116                              J.Chen+              (18)E2604  3 
+ 1002  4011   4   2  C 5.3800+7          0.053371 3.3233-3 0.849077                              J.Chen+              (18)E2604  3 
+ 1002  4011   4   2  C 5.3800+7          0.050743 2.7281-3 0.820791                              J.Chen+              (18)E2604  3 
+ 1002  4011   4   2  C 5.3800+7          0.037785 2.0578-3 0.790333                              J.Chen+              (18)E2604  3 
+ 1002  4011   4   2  C 5.3800+7          0.027208 1.7376-3 0.757785                              J.Chen+              (18)E2604  3 
+ 1002  4011   4   2  C 5.3800+7          0.019178 1.3131-3 0.723232                              J.Chen+              (18)E2604  3 
+ 1002  4011   4   2  C 5.3800+7          0.011896 1.0651-3 0.686766                              J.Chen+              (18)E2604  3 
+ 1002  4011   4   2  C 5.3800+7          9.0420-3 1.0665-3 0.648482                              J.Chen+              (18)E2604  3 
+#/DATA      13
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      21842
+#AUTHOR1    L.Koester+
+#YEAR       1981
+#INSTITUTE  (2GERMUN)
+#TITLE      Slow neutron scattering parameters for stable
+#+          nuclei with nucleon numbers between A=79 and A=96*
+#AUTHOR(S)  L.Koester, K.Knopf, W.Waschkowski
+#REF-CODE   (J,ZP/A,301,215,1981)
+#REFERENCE  Z.Phys.A 301 (1981) 215 (doi:10.1007/BF01416296)
+#DATASETS   0
+#
+#DATASET    21842020 
+#DATE       20191101
+#REACTION   37-RB-0(N,EL)37-RB-0,,SIG
+#PROJ       1
+#TARG       37000
+#MF         3
+#MT         2
+#PRODUCT    37-RB-0
+#C4BEGIN    [    1 37000   3   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 37000   3   2    1.260000          6.200000 0.040000                                       L.Koester+           (81)21842 20 
+    1 37000   3   2    5.190000          6.290000 0.050000                                       L.Koester+           (81)21842 20 
+#/DATA      2
+#/DATASET

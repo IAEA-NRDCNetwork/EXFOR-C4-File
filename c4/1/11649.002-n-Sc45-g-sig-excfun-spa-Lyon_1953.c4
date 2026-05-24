@@ -1,0 +1,26 @@
+#ENTRY      11649
+#AUTHOR1    W.S.Lyon+
+#YEAR       1953
+#INSTITUTE  (1USAORL)
+#TITLE      Neutron capture cross sections for production of Sc-46
+#+          and Sr-85.
+#AUTHOR(S)  W.S.Lyon
+#REF-CODE   (J,PR,89,1307(1),1953)
+#REFERENCE  Phys.Rev. 89 (1953) 1307(1)
+#DATASETS   0
+#
+#DATASET    11649002 
+#DATE       20250629
+#REACTION   21-SC-45(N,G)21-SC-46,,SIG,,SPA
+#PROJ       1
+#TARG       21045
+#MF         3
+#MT         102
+#PRODUCT    21-SC-46
+#C4BEGIN    [    1 21045   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 21045   3 102    0.025300          23.30000 2.330000                                       W.S.Lyon             (53)11649  2 
+#/DATA      1
+#/DATASET

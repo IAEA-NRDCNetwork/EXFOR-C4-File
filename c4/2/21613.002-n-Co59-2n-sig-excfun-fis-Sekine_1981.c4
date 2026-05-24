@@ -1,0 +1,27 @@
+#ENTRY      21613
+#AUTHOR1    T.Sekine+
+#YEAR       1981
+#INSTITUTE  (2JPNJAE)
+#TITLE      -Cross sections of the (n,2n) reaction of Co-59,
+#+          Ni-58, Ge-70, Zr-90 and Tl-203 with fission
+#+          neutrons.-
+#AUTHOR(S)  T.Sekine, H.Baba
+#REF-CODE   (J,JIN,43,(7),1427,1981)
+#REFERENCE  J.Inorg.Nucl.Chem. 43 No.7 (1981) 1427 (doi:10.1016/0022-1902(81)80312-0)
+#DATASETS   0
+#
+#DATASET    21613002 
+#DATE       20101114
+#REACTION   27-CO-59(N,2N)27-CO-58-G,,SIG,,FIS
+#PROJ       1
+#TARG       27059
+#MF         3
+#MT         16
+#PRODUCT    27-CO-58-G
+#C4BEGIN    [    1 27059   3  16G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   3  16G   1500000.          2.3300-4 1.7000-5                                       T.Sekine+            (81)21613  2 
+#/DATA      1
+#/DATASET

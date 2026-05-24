@@ -1,0 +1,31 @@
+#ENTRY      11679
+#AUTHOR1    R.L.Macklin+
+#YEAR       1967
+#INSTITUTE  (1USAORL)
+#TITLE      CAPTURE-CROSS-SECTION STUDIES FOR 30-220-KEV NEUTRONS
+#+          USING A NEW TECHNIQUE.
+#AUTHOR(S)  R.L.Macklin, J.H.Gibbons
+#REF-CODE   (J,PR,159,1007,67)
+#REFERENCE  Phys.Rev. 159 (1967) 1007 (doi:10.1103/PhysRev.159.1007)
+#DATASETS   0
+#
+#DATASET    11679014 
+#DATE       19860715
+#REACTION   52-TE-125(N,G)52-TE-126,,SIG
+#PROJ       1
+#TARG       52125
+#MF         3
+#MT         102
+#PRODUCT    52-TE-126
+#C4BEGIN    [    1 52125   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52125   3 102    30000.00 5000.000 0.515000 0.031300                                       R.L.Macklin+         (67)11679 14 
+    1 52125   3 102    30000.00 5000.000 0.459500 0.030200                                       R.L.Macklin+         (67)11679 14 
+    1 52125   3 102    50000.00 5000.000 0.364000 0.024500                                       R.L.Macklin+         (67)11679 14 
+    1 52125   3 102    70000.00 9500.000 0.222900 0.011600                                       R.L.Macklin+         (67)11679 14 
+    1 52125   3 102    85000.00 8500.000 0.198300 0.024200                                       R.L.Macklin+         (67)11679 14 
+    1 52125   3 102    125000.0 11500.00 0.126100 8.9000-3                                       R.L.Macklin+         (67)11679 14 
+#/DATA      6
+#/DATASET

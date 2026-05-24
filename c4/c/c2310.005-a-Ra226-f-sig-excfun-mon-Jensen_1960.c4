@@ -1,0 +1,26 @@
+#ENTRY      C2310
+#AUTHOR1    R.C.Jensen+
+#YEAR       1960
+#INSTITUTE  (1USAWAU)
+#TITLE      Fission of Ra226 by Deuterons and Helium Ions
+#AUTHOR(S)  R.C.Jensen, A.W.Fairhall
+#REF-CODE   (J,PR,118,771,1960)
+#REFERENCE  Phys.Rev. 118 (1960) 771 (doi:10.1103/PhysRev.118.771)
+#DATASETS   0
+#
+#DATASET    C2310005 
+#DATE       20180601
+#REACTION   88-RA-226(A,F),,SIG
+#PROJ       2004
+#TARG       88226
+#MF         3
+#MT         18
+#C4BEGIN    [ 2004 88226   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 88226   3  18    2.3500+7          0.010000                                                R.C.Jensen+          (60)C2310  5 
+ 2004 88226   3  18    3.1000+7          0.100000                                                R.C.Jensen+          (60)C2310  5 
+ 2004 88226   3  18    4.3000+7          0.310000                                                R.C.Jensen+          (60)C2310  5 
+#/DATA      3
+#/DATASET

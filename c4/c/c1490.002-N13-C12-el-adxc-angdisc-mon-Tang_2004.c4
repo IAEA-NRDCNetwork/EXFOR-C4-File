@@ -1,0 +1,41 @@
+#ENTRY      C1490
+#AUTHOR1    X.Tang+
+#YEAR       2004
+#INSTITUTE  (1USAANL)
+#TITLE      Determination of the direct capture contribution for
+#+          13N(p,g)14O from the 14O->13N + p asymptotic
+#+          normalization coefficient
+#AUTHOR(S)  X.Tang, A.Azhari, C.Fu, C.A.Gagliardi, A.M.Mukhamedzhanov, 
+#+          F.Pirlepesov, L.Trache, R.E.Tribble, V.Burjan, V.Kroha, 
+#+          F.Carstoiu, B.F.Irgaziev
+#REF-CODE   (J,PR/C,69,055807,2004)
+#REFERENCE  Phys.Rev.C 69 (2004) 055807 (doi:10.1103/PhysRevC.69.055807)
+#DATASETS   0
+#
+#DATASET    C1490002 
+#DATE       20061220
+#REACTION   6-C-12(7-N-13,EL)6-C-12,,DA
+#PROJ       7013
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 7013  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7013  6012   4   2  C 1.5340+8          5.156000          0.989049                              X.Tang+              (04)C1490  2 
+ 7013  6012   4   2  C 1.5340+8          3.124000          0.984552                              X.Tang+              (04)C1490  2 
+ 7013  6012   4   2  C 1.5340+8          1.164000          0.978390                              X.Tang+              (04)C1490  2 
+ 7013  6012   4   2  C 1.5340+8          0.407400          0.970859                              X.Tang+              (04)C1490  2 
+ 7013  6012   4   2  C 1.5340+8          0.258800          0.961425                              X.Tang+              (04)C1490  2 
+ 7013  6012   4   2  C 1.5340+8          0.123900          0.951600                              X.Tang+              (04)C1490  2 
+ 7013  6012   4   2  C 1.5340+8          0.049170          0.940442                              X.Tang+              (04)C1490  2 
+ 7013  6012   4   2  C 1.5340+8          0.045510          0.926522                              X.Tang+              (04)C1490  2 
+ 7013  6012   4   2  C 1.5340+8          0.029360          0.913900                              X.Tang+              (04)C1490  2 
+ 7013  6012   4   2  C 1.5340+8          0.012400          0.899375                              X.Tang+              (04)C1490  2 
+ 7013  6012   4   2  C 1.5340+8          0.011300          0.882743                              X.Tang+              (04)C1490  2 
+ 7013  6012   4   2  C 1.5340+8          8.7990-3          0.866392                              X.Tang+              (04)C1490  2 
+ 7013  6012   4   2  C 1.5340+8          4.7770-3          0.848667                              X.Tang+              (04)C1490  2 
+#/DATA      13
+#/DATASET

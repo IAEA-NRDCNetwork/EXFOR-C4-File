@@ -1,0 +1,32 @@
+#ENTRY      O2519
+#AUTHOR1    V.Panin+
+#YEAR       2019
+#INSTITUTE  (2GERTHD)
+#TITLE      Quasi-free proton knockout from 12C on carbon target
+#+          at 398 MeV/u
+#AUTHOR(S)  V.Panin, M.Holl, J.T.Taylor, Y.Aksyutina, H.Alvarez-Pol, 
+#+          T.Aumann, C.A.Bertulani, K.Boretzky, C.Caesar, M.Chartier, 
+#+          L.V.Chulkov, D.Cortina-Gil, J.Enders, O.Ershova, H.Geissel, 
+#+          R.Gernhaeuser, M.Heil, H.T.Johansson, B.Jonson, A.Kelic-Heil, 
+#+          O.Kiselev, C.Langer, T.Le Bleis, R.Lemmon, T.Nilsson, S.Paschalis, 
+#+          M.Petri, R.Plag, R.Reifarth, D.Rossi, H.Scheit, H.Simon, 
+#+          F.Wamers, H.Weick, C.Wimmer
+#REF-CODE   (J,PL/B,797,134802,2019)
+#REFERENCE  Phys.Lett.B 797 (2019) 134802 (doi:10.1016/j.physletb.2019.134802)
+#DATASETS   0
+#
+#DATASET    O2519002 
+#DATE       20210307
+#REACTION   6-C-0(6-C-12,X)5-B-11,,SIG
+#PROJ       6012
+#TARG       6000
+#MF         3
+#MT         454
+#PRODUCT    5-B-11
+#C4BEGIN    [ 6012  6000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  6000   3 454    4.7760+9          0.060900 2.7000-3            5011.9                     V.Panin+             (19)O2519  2 
+#/DATA      1
+#/DATASET

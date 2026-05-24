@@ -1,0 +1,31 @@
+#ENTRY      20039
+#AUTHOR1    S.Messelt+
+#YEAR       1965
+#INSTITUTE  (2NOROSL)
+#TITLE      Neutron spectra from break-up of deuterons by
+#+          14.8 MeV neutrons
+#AUTHOR(S)  S.Messelt
+#REF-CODE   (P,EANDC(OR)-39,1(2),1965)
+#REFERENCE  Progress report EANDC(OR)-39 page 1(2), 1965
+#DATASETS   0
+#
+#DATASET    20039002 
+#DATE       20190117
+#REACTION   1-H-2(N,EL)1-H-2,,DA
+#PROJ       1
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   4   2 AC 1.4800+7 100000.0 0.048000 3.8400-3 0.258800                              S.Messelt            (65)20039  2 
+    1  1002   4   2 AC 1.4800+7 100000.0 0.064000 2.5600-3 0.422600                              S.Messelt            (65)20039  2 
+    1  1002   4   2 AC 1.4800+7 100000.0 0.077000 2.3100-3 0.529900                              S.Messelt            (65)20039  2 
+    1  1002   4   2 AC 1.4800+7 100000.0 0.111000 7.7700-3 0.754700                              S.Messelt            (65)20039  2 
+    1  1002   4   2 AC 1.4800+7 100000.0 0.123000 0.012300 0.866000                              S.Messelt            (65)20039  2 
+    1  1002   4   2 AC 1.4800+7 100000.0 0.128000 6.4000-3 0.945500                              S.Messelt            (65)20039  2 
+#/DATA      6
+#/DATASET

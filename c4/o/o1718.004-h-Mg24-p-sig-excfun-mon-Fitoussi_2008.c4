@@ -1,0 +1,40 @@
+#ENTRY      O1718
+#AUTHOR1    C.Fitoussi+
+#YEAR       2008
+#INSTITUTE  (2FR CSN)
+#TITLE      Measurement of the Mg-24(He3,p)Al-26 cross section:
+#+          Implication for Al-26 production in the early solar
+#+          system.
+#AUTHOR(S)  C.Fitoussi, J.Duprat, V.Tatischeff, J.Kiener, F.Naulin, 
+#+          G.Raisbeck, M.Assuncao, C.Bourgeois, M.Chabot, A.Coc, C.Engrand, 
+#+          M.Gounelle, F.Hammache, A.Lefebvre, M.-G.Porquet, J.-A.Scarpaci, 
+#+          N.de Sereville, J.-P.Thibaud, F.Yiou
+#REF-CODE   (J,PR/C,78,044613,2008)
+#REFERENCE  Phys.Rev.C 78 (2008) 044613 (doi:10.1103/PhysRevC.78.044613)
+#DATASETS   0
+#
+#DATASET    O1718004 
+#DATE       20160730
+#REACTION   12-MG-24(HE3,P)13-AL-26-G,,SIG
+#PROJ       2003
+#TARG       12024
+#MF         3
+#MT         103
+#PRODUCT    13-AL-26-G
+#C4BEGIN    [ 2003 12024   3 103G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 12024   3 103G   5900000. 100000.0 0.147000                                                C.Fitoussi+          (08)O1718  4 
+ 2003 12024   3 103G   7600000. 600000.0 0.155000                                                C.Fitoussi+          (08)O1718  4 
+ 2003 12024   3 103G   8900000. 700000.0 0.167000                                                C.Fitoussi+          (08)O1718  4 
+ 2003 12024   3 103G   1.0200+7 600000.0 0.122000                                                C.Fitoussi+          (08)O1718  4 
+ 2003 12024   3 103G   1.1900+7 600000.0 0.098000                                                C.Fitoussi+          (08)O1718  4 
+ 2003 12024   3 103G   1.4300+7 700000.0 0.054000                                                C.Fitoussi+          (08)O1718  4 
+ 2003 12024   3 103G   1.7400+7 600000.0 0.028000                                                C.Fitoussi+          (08)O1718  4 
+ 2003 12024   3 103G   2.0400+7 600000.0 0.023000                                                C.Fitoussi+          (08)O1718  4 
+ 2003 12024   3 103G   2.3600+7 1400000. 0.014000                                                C.Fitoussi+          (08)O1718  4 
+ 2003 12024   3 103G   2.3800+7 1200000. 0.013000                                                C.Fitoussi+          (08)O1718  4 
+ 2003 12024   3 103G   2.4900+7 100000.0 0.020000                                                C.Fitoussi+          (08)O1718  4 
+#/DATA      11
+#/DATASET

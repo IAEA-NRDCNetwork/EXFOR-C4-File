@@ -1,0 +1,28 @@
+#ENTRY      32775
+#AUTHOR1    Junhua Luo+
+#YEAR       2017
+#INSTITUTE  (3CPRHXU)
+#TITLE      Activation cross section and isomeric cross-section
+#+          ratio for the (n,2n) reaction on 113,115In
+#AUTHOR(S)  Junhua Luo, Li Jiang, Suyuan Li
+#REF-CODE   (J,NSE,188,198,2017)
+#REFERENCE  Nucl.Sci.Eng. 188 (2017) 198 (doi:10.1080/00295639.2017.1352366)
+#DATASETS   0
+#
+#DATASET    327750022
+#DATE       20180918
+#REACTION   49-IN-113(N,2N)49-IN-112-G,M-,SIG
+#PROJ       1
+#TARG       49113
+#MF         3
+#MT         16
+#PRODUCT    49-IN-112-G
+#C4BEGIN    [    1 49113   3  16G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49113   3  16G   1.3500+7 200000.0 0.299000 0.032000                                       Junhua Luo+          (17)32775  22
+    1 49113   3  16G   1.4100+7 200000.0 0.302000 0.034000                                       Junhua Luo+          (17)32775  22
+    1 49113   3  16G   1.4800+7 200000.0 0.306000 0.033000                                       Junhua Luo+          (17)32775  22
+#/DATA      3
+#/DATASET

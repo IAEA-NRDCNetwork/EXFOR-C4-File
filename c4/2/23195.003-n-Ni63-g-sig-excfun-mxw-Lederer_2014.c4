@@ -1,0 +1,58 @@
+#ENTRY      23195
+#AUTHOR1    C.Lederer+
+#YEAR       2014
+#INSTITUTE  (2AUSVIE)
+#TITLE      62Ni(n,g) and 63Ni(n,g) cross sections measured at the
+#+          nTOF facility at CERN
+#AUTHOR(S)  C.Lederer, C.Massimi, E.Berthoumieux, N.Colonna, R.Dressler, 
+#+          C.Guerrero, F.Gunsing, F.Kaeppeler, N.Kivel, M.Pignatari, 
+#+          R.Reifarth, D.Schumann, A.Wallner, S.Altstadt, S.Andriamonje, 
+#+          J.Andrzejewski, L.Audouin, M.Barbagallo, V.Becares, F.Becvar, 
+#+          F.Belloni, B.Berthier, J.Billowes, V.Boccone, D.Bosnar, 
+#+          M.Brugger, M.Calviani, F.Calvino, D.Cano-Ott, C.Carrappico, 
+#+          F.Cerutti, E.Chiaveri, M.Chin, G.Cortes, M.A.Cortes-Giraldo, 
+#+          I.Dillmann, C.Domingo-Pardo, I.Duran, N.Dzysiuk, C.Eleftheriadis, 
+#+          M.Fernandez-Ordonez, A.Ferrari, K.Fraval, S.Ganesan, A.R.Garcia, 
+#+          G.Giubrone, M.B.Gomez-Hornillos, I.F.Goncalves, E.Gonzalez-Romero, 
+#+          F.Gramegna, E.Griesmayer, P.Gurusamy, S.Harrisopulos, M.Heil, 
+#+          K.Ioannides, D.G.Jenkins, E.Jericha, Y.Kadi, D.Karadimos, 
+#+          G.Korschinek, M.Krticka, J.Kroll, C.Langer, E.Lebbos, H.Leeb, 
+#+          L.S.Leong, R.Losito, M.Lozano, A.Manousos, J.Marganiec, 
+#+          S.Marrone, T.Martinez, P.F.Mastinu, M.Mastromarco, M.Meaze, 
+#+          E.Mendoza, A.Mengoni, P.M.Milazzo, F.Mingrone, M.Mirea, 
+#+          W.Mondalaers, C.Paradela, A.Pavlik, J.Perkowski, R.Plag, 
+#+          A.Plompen, J.Praena, J.M.Quesada, T.Rauscher, A.Riego, F.Roman, 
+#+          C.Rubbia, R.Sarmento, P.Schillebeeckx, S.Schmidt, G.Tagliente, 
+#+          J.L.Tain, D.Tarrio, L.Tassan-Got, A.Tsinganis, L.Tlustos, 
+#+          S.Valenta, G.Vannini, V.Variale, P.Vaz, A.Ventura, M.J.Vermeulen, 
+#+          R.Versaci, V.Vlachoudis, R.Vlastou, T.Ware, M.Weigand, C.Weiss, 
+#+          T.J.Wright, P.Zugec
+#REF-CODE   (J,PR/C,89,025810,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 025810 (doi:10.1103/PhysRevC.89.025810)
+#DATASETS   0
+#
+#DATASET    23195003 
+#DATE       20180817
+#REACTION   28-NI-63(N,G)28-NI-64,,SIG,,MXW
+#PROJ       1
+#TARG       28063
+#MF         3
+#MT         102
+#PRODUCT    28-NI-64
+#C4BEGIN    [    1 28063   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28063   3 102 D  5000.000          0.224000 8.0000-3                                       C.Lederer+           (14)23195  3 
+    1 28063   3 102 D  10000.00          0.129500 7.1000-3                                       C.Lederer+           (14)23195  3 
+    1 28063   3 102 D  15000.00          0.101300 6.9000-3                                       C.Lederer+           (14)23195  3 
+    1 28063   3 102 D  20000.00          0.085500 6.4000-3                                       C.Lederer+           (14)23195  3 
+    1 28063   3 102 D  25000.00          0.074900 5.9000-3                                       C.Lederer+           (14)23195  3 
+    1 28063   3 102 D  30000.00          0.066700 5.4000-3                                       C.Lederer+           (14)23195  3 
+    1 28063   3 102 D  40000.00          0.054500 4.6000-3                                       C.Lederer+           (14)23195  3 
+    1 28063   3 102 D  50000.00          0.045600 3.9000-3                                       C.Lederer+           (14)23195  3 
+    1 28063   3 102 D  60000.00          0.038800 3.4000-3                                       C.Lederer+           (14)23195  3 
+    1 28063   3 102 D  80000.00          0.029100 2.7000-3                                       C.Lederer+           (14)23195  3 
+    1 28063   3 102 D  100000.0          0.022500 2.1000-3                                       C.Lederer+           (14)23195  3 
+#/DATA      11
+#/DATASET

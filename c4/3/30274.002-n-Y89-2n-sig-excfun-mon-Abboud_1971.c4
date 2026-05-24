@@ -1,0 +1,34 @@
+#ENTRY      30274
+#AUTHOR1    A.Abboud+
+#YEAR       1971
+#INSTITUTE  (3POLIPJ)
+#TITLE      Cross-sections for the Y-89(n,n')Y-89m and
+#+          Y-39 (n,2n)Y-88 reactions
+#AUTHOR(S)  A.Abboud, P.Decowski, W.Grochulski, A.Marcinkowski, K.Siwek, 
+#+          I.Turkiewicz, Z.Wilhelmi
+#REF-CODE   (J,APP/B,2,527,1971)
+#REFERENCE  Acta Phys.Pol.B 2 (1971) 527
+#DATASETS   0
+#
+#DATASET    30274002 
+#DATE       20081203
+#REACTION   39-Y-89(N,2N)39-Y-88,,SIG
+#PROJ       1
+#TARG       39089
+#MF         3
+#MT         16
+#PRODUCT    39-Y-88
+#C4BEGIN    [    1 39089   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 39089   3  16 A  1.3290+7 80000.00 0.621900 7.1000-3                                       A.Abboud+            (71)30274  2 
+    1 39089   3  16 A  1.3870+7 110000.0 0.811600 0.043100                                       A.Abboud+            (71)30274  2 
+    1 39089   3  16 A  1.4610+7 110000.0 0.856300 0.058700                                       A.Abboud+            (71)30274  2 
+    1 39089   3  16 A  1.5270+7 150000.0 1.040400 0.018800                                       A.Abboud+            (71)30274  2 
+    1 39089   3  16 A  1.5710+7 140000.0 0.947900 0.046000                                       A.Abboud+            (71)30274  2 
+    1 39089   3  16 A  1.6080+7 180000.0 0.954300 0.040900                                       A.Abboud+            (71)30274  2 
+    1 39089   3  16 A  1.6740+7 150000.0 0.997400 0.035100                                       A.Abboud+            (71)30274  2 
+    1 39089   3  16 A  1.7580+7 90000.00 1.128000 0.072000                                       A.Abboud+            (71)30274  2 
+#/DATA      8
+#/DATASET

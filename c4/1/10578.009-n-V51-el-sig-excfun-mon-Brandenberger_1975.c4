@@ -1,0 +1,26 @@
+#ENTRY      10578
+#AUTHOR1    J.D.Brandenberger+
+#YEAR       1975
+#INSTITUTE  (1USAKTY)
+#TITLE      Neutron cross sections at 1.5 MeV.
+#AUTHOR(S)  J.D.Brandenberger, F.D.McDaniel, G.P.Glasgow, R.Harper, 
+#+          J.Dawson
+#REF-CODE   (J,BAP,20,1195(EE4),197509)
+#REFERENCE  Bull.Am.Phys.Soc. 20 (1975) 1195(EE4)
+#DATASETS   0
+#
+#DATASET    10578009 
+#DATE       20040702
+#REACTION   23-V-51(N,EL)23-V-51,,SIG
+#PROJ       1
+#TARG       23051
+#MF         3
+#MT         2
+#PRODUCT    23-V-51
+#C4BEGIN    [    1 23051   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 23051   3   2 D  1460000. 80000.00 2.782000 0.024000                                       J.D.Brandenberger+   (75)10578  9 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      31786
+#AUTHOR1    M.Schulc+
+#YEAR       2018
+#INSTITUTE  (3CZRUJV)
+#TITLE      Validation of differential cross sections by means of
+#+          252Cf spectral averaged cross sections
+#AUTHOR(S)  M.Schulc, M.Kostal, S.Simakov, V.Rypar, D.Harutyunyan, J.Simon, 
+#+          N.Burianova, E.Novak, B.Jansky, M.Marecek, J.Uhlir
+#REF-CODE   (J,ARI,132,29,2018)
+#REFERENCE  Appl.Radiat.Isot. 132 (2018) 29 (doi:10.1016/j.apradiso.2017.11.008)
+#DATASETS   0
+#
+#DATASET    31786003 
+#DATE       20180304
+#REACTION   40-ZR-90(N,2N)40-ZR-89-G,M+,SIG,,FIS
+#PROJ       1
+#TARG       40090
+#MF         3
+#MT         459
+#PRODUCT    40-ZR-89-G
+#C4BEGIN    [    1 40090   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   3 459 A  1420000.          2.1620-4 7.5670-6           40089.0                     M.Schulc+            (18)31786  3 
+#/DATA      1
+#/DATASET

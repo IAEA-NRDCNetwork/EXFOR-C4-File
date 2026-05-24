@@ -1,0 +1,35 @@
+#ENTRY      D4353
+#AUTHOR1    F.Ditroi+
+#YEAR       2016
+#INSTITUTE  (3HUNDEB)
+#TITLE      Excitation function of the alpha particle induced
+#+          nuclear reactions on enriched 116Cd, production of the
+#+          theranostic isotope 117mSn
+#AUTHOR(S)  F.Ditroi, S.Takacs, H.Haba, Y.Komori, M.Aikawa, Z.Szucs, 
+#+          M.Saito
+#REF-CODE   (J,NIM/B,385,1,2016)
+#REFERENCE  Nucl.Instrum.Meth.B 385 (2016) 1
+#DATASETS   0
+#
+#DATASET    D4353003 
+#DATE       20160923
+#REACTION   48-CD-0(A,X)49-IN-117-M,IND,SIG
+#PROJ       2004
+#TARG       48000
+#MF         3
+#MT         454
+#PRODUCT    49-IN-117-M
+#C4BEGIN    [ 2004 48000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 48000   3 454    5.0500+7 300000.0 6.7000-3 1.3000-3           49117.7                     F.Ditroi+            (16)D4353  3 
+ 2004 48000   3 454    4.7500+7 400000.0 5.5000-3 1.2000-3           49117.7                     F.Ditroi+            (16)D4353  3 
+ 2004 48000   3 454    4.4900+7 400000.0 6.5000-3 1.0000-3           49117.7                     F.Ditroi+            (16)D4353  3 
+ 2004 48000   3 454    4.1600+7 500000.0 5.3000-3 9.0000-4           49117.7                     F.Ditroi+            (16)D4353  3 
+ 2004 48000   3 454    3.8800+7 600000.0 5.2000-3 9.0000-4           49117.7                     F.Ditroi+            (16)D4353  3 
+ 2004 48000   3 454    3.5700+7 600000.0 5.6000-3 8.0000-4           49117.7                     F.Ditroi+            (16)D4353  3 
+ 2004 48000   3 454    3.2500+7 700000.0 3.7000-3 6.0000-4           49117.7                     F.Ditroi+            (16)D4353  3 
+ 2004 48000   3 454    2.8300+7 800000.0 2.8000-3 5.0000-4           49117.7                     F.Ditroi+            (16)D4353  3 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      14494
+#AUTHOR1    N.V.Kornilov+
+#YEAR       2017
+#INSTITUTE  (1USAOHO)
+#TITLE      A high precision n-p scattering measurement at 14.9 MeV
+#AUTHOR(S)  N.V.Kornilov, S.M.Grimes, T.N.Massey, C.E.Brient, D.E.Carter, 
+#+          J.E.O'Donnell, K.W.Cooper, A.D.Carlson, F.B.Bateman, C.R.Heimbach, 
+#+          R.C.Haight, N.Boukharouba
+#REF-CODE   (J,EPJ/CS,146,11053,2017)
+#REFERENCE  EPJ Web Conf. 146 (2017) 11053 (doi:10.1051/epjconf/201714611053)
+#DATASETS   0
+#
+#DATASET    14494002 
+#DATE       20171211
+#REACTION   1-H-1(N,EL)1-H-1,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4   2  C 1.4900+7          0.049180 2.2131-3 0.766000                              N.V.Kornilov+        (17)14494  2 
+    1  1001   4   2  C 1.4900+7          0.049250 1.8715-3 0.643000                              N.V.Kornilov+        (17)14494  2 
+    1  1001   4   2  C 1.4900+7          0.050700 1.6224-3 0.500000                              N.V.Kornilov+        (17)14494  2 
+    1  1001   4   2  C 1.4900+7          0.050480 1.5144-3 0.342000                              N.V.Kornilov+        (17)14494  2 
+    1  1001   4   2  C 1.4900+7          0.051750 1.8113-3 0.174000                              N.V.Kornilov+        (17)14494  2 
+    1  1001   4   2  C 1.4900+7          0.052130 9.3834-4 6.123-17                              N.V.Kornilov+        (17)14494  2 
+    1  1001   4   2  C 1.4900+7          0.051970 1.2993-3-0.174000                              N.V.Kornilov+        (17)14494  2 
+    1  1001   4   2  C 1.4900+7          0.052880 1.1105-3-0.342000                              N.V.Kornilov+        (17)14494  2 
+    1  1001   4   2  C 1.4900+7          0.051890 1.1935-3-0.643000                              N.V.Kornilov+        (17)14494  2 
+#/DATA      9
+#/DATASET

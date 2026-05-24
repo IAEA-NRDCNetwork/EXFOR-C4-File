@@ -1,0 +1,39 @@
+#ENTRY      C1950
+#AUTHOR1    J.W.Weidner+
+#YEAR       2012
+#INSTITUTE  (1USALAS)
+#TITLE      Proton-induced cross sections relevant to production
+#+          of 225Ac and 223Ra in natural thorium targets below
+#+          200 MeV
+#AUTHOR(S)  J.W.Weidner, S.G.Mashnik, K.D.John, F.Hemez, B.Ballard, 
+#+          H.Bach, E.R.Birnbaum, L.J.Bitteker, A.Couture, D.Dry, M.E.Fassbender, 
+#+          M.S.Gulley, K.R.Jackman, J.L.Ullmann, L.E.Wolfsberg, F.M.Nortier
+#REF-CODE   (J,ARI,70,2602,2012)
+#REFERENCE  Appl.Radiat.Isot. 70 (2012) 2602 (doi:10.1016/j.apradiso.2012.07.006)
+#DATASETS   0
+#
+#DATASET    C1950003 
+#DATE       20121004
+#REACTION   90-TH-232(P,X)88-RA-223,CUM,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         459
+#PRODUCT    88-RA-223
+#C4BEGIN    [ 1001 90232   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3 459    1.9457+8 300000.0 3.4000-3 3.0000-4           88223.9                     J.W.Weidner+         (12)C1950  3 
+ 1001 90232   3 459    1.7837+8 700000.0 3.0000-3 2.0000-4           88223.9                     J.W.Weidner+         (12)C1950  3 
+ 1001 90232   3 459    1.6077+8 1000000. 3.0000-3 3.0000-4           88223.9                     J.W.Weidner+         (12)C1950  3 
+ 1001 90232   3 459    1.4187+8 1300000. 2.3000-3 2.0000-4           88223.9                     J.W.Weidner+         (12)C1950  3 
+ 1001 90232   3 459    1.2097+8 1600000. 1.8000-3 2.0000-4           88223.9                     J.W.Weidner+         (12)C1950  3 
+ 1001 90232   3 459    9.7070+7 2000000. 2.1000-3 2.0000-4           88223.9                     J.W.Weidner+         (12)C1950  3 
+ 1001 90232   3 459    9.0870+7 400000.0 1.4000-3 3.0000-4           88223.9                     J.W.Weidner+         (12)C1950  3 
+ 1001 90232   3 459    8.1770+7 600000.0 8.1000-4 3.0000-4           88223.9                     J.W.Weidner+         (12)C1950  3 
+ 1001 90232   3 459    7.2870+7 700000.0 1.3000-3 3.0000-4           88223.9                     J.W.Weidner+         (12)C1950  3 
+ 1001 90232   3 459    6.4970+7 900000.0 5.4000-4 2.3000-4           88223.9                     J.W.Weidner+         (12)C1950  3 
+ 1001 90232   3 459    5.6370+7 1100000. 4.2000-4 1.2000-4           88223.9                     J.W.Weidner+         (12)C1950  3 
+#/DATA      11
+#/DATASET

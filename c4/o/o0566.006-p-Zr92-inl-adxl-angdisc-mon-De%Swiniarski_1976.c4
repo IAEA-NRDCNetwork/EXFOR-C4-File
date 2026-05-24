@@ -1,0 +1,42 @@
+#ENTRY      O0566
+#AUTHOR1    R.De Swiniarski+
+#YEAR       1976
+#INSTITUTE  (2FR GRE)
+#TITLE      Macroscopic and Microscopic Model Analysis of Inelastic
+#+          Scattering of 30 MeV Polarized Protons from Zr-90,92
+#+          And Mo-92.
+#AUTHOR(S)  R.De Swiniarski, G.Bagieu, M.Massaad, Dinh-Lien Pham, M.Bedjidiam, 
+#+          J.Y.Grossiord, M.Gusakow, J.R.Pizzi, C.B.Fulmer
+#REF-CODE   (J,PL/B,61,37,1976)
+#REFERENCE  Phys.Lett.B 61 (1976) 37 (doi:10.1016/0370-2693(76)90555-4)
+#DATASETS   0
+#
+#DATASET    O0566006 
+#DATE       19991117
+#REACTION   40-ZR-92(P,INL)40-ZR-92,PAR,DA
+#PROJ       1001
+#TARG       40092
+#MF         4
+#MT         601
+#PRODUCT    40-ZR-92
+#C4BEGIN    [ 1001 40092   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40092   4 601  C 3.0000+7          5.6900-3 1.0811-4 0.893371 4.7053-3 930000.0         LVLR.De Swiniarski+     (76)O0566  6 
+ 1001 40092   4 601  C 3.0000+7          4.4600-3 8.0280-5 0.867765 5.2043-3 930000.0         LVLR.De Swiniarski+     (76)O0566  6 
+ 1001 40092   4 601  C 3.0000+7          3.8700-3 6.9660-5 0.822144 5.9615-3 930000.0         LVLR.De Swiniarski+     (76)O0566  6 
+ 1001 40092   4 601  C 3.0000+7          2.4600-3 4.9200-5 0.804894 6.2143-3 930000.0         LVLR.De Swiniarski+     (76)O0566  6 
+ 1001 40092   4 601  C 3.0000+7          1.0390-3 1.8702-5 0.693402 7.5456-3 930000.0         LVLR.De Swiniarski+     (76)O0566  6 
+ 1001 40092   4 601  C 3.0000+7          4.9800-4 8.9640-6 0.495459 9.0963-3 930000.0         LVLR.De Swiniarski+     (76)O0566  6 
+ 1001 40092   4 601  C 3.0000+7          6.2600-4 1.1894-5 0.346936 9.8215-3 930000.0         LVLR.De Swiniarski+     (76)O0566  6 
+ 1001 40092   4 601  C 3.0000+7          6.4100-4 1.2179-5 0.226651 0.010199 930000.0         LVLR.De Swiniarski+     (76)O0566  6 
+ 1001 40092   4 601  C 3.0000+7          3.6900-4 7.0110-6 0.135716 0.010375 930000.0         LVLR.De Swiniarski+     (76)O0566  6 
+ 1001 40092   4 601  C 3.0000+7          1.5200-4 7.6000-6 0.038388 0.010464 930000.0         LVLR.De Swiniarski+     (76)O0566  6 
+ 1001 40092   4 601  C 3.0000+7          9.2800-5 2.5056-6-0.132256 0.010380 930000.0         LVLR.De Swiniarski+     (76)O0566  6 
+ 1001 40092   4 601  C 3.0000+7          1.3460-4 2.5574-6-0.194234 0.010273 930000.0         LVLR.De Swiniarski+     (76)O0566  6 
+ 1001 40092   4 601  C 3.0000+7          1.3620-4 2.4516-6-0.294040 0.010009 930000.0         LVLR.De Swiniarski+     (76)O0566  6 
+ 1001 40092   4 601  C 3.0000+7          1.1200-4 4.4800-6-0.372988 9.7163-3 930000.0         LVLR.De Swiniarski+     (76)O0566  6 
+ 1001 40092   4 601  C 3.0000+7          4.4400-5 2.2200-6-0.531399 8.8710-3 930000.0         LVLR.De Swiniarski+     (76)O0566  6 
+#/DATA      15
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      C1924
+#AUTHOR1    R.Yanez+
+#YEAR       2012
+#INSTITUTE  (1USAORU)
+#TITLE      Search for inverse fission of uranium
+#AUTHOR(S)  R.Yanez, W.Loveland, J.Beckerman, M.Leonard, C.J.Gross, 
+#+          D.Shapira, J.F.Liang, Z.Kohley, R.L.Varner
+#REF-CODE   (J,PR/C,85,044620,2012)
+#REFERENCE  Phys.Rev.C 85 (2012) 044620 (doi:10.1103/PhysRevC.85.044620)
+#DATASETS   0
+#
+#DATASET    C19240041
+#DATE       20120529
+#REACTION   42-MO-100(50-SN-124,2N)92-U-222,,SIG
+#PROJ       50124
+#TARG       42100
+#MF         3
+#MT         16
+#PRODUCT    92-U-222
+#C4BEGIN    [50124 42100   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+50124 42100   3  16    5.0432+8          2.1000-8                                                R.Yanez+             (12)C1924  41
+#/DATA      1
+#/DATASET

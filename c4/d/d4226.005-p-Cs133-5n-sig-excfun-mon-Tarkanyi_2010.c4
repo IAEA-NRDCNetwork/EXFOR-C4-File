@@ -1,0 +1,35 @@
+#ENTRY      D4226
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2010
+#INSTITUTE  (3HUNDEB)
+#TITLE      New measurements and evaluation of excitation
+#+          functions for (p,xn), (p,pxn) and (p,2pxn)
+#+          reactions on 133Cs up to 70 MeV proton energy
+#AUTHOR(S)  F.Tarkanyi, A.Hermanne, S.Takacs, F.Ditroi, B.Kiraly, H.Yamazaki, 
+#+          M.Baba, A.Mohammadi, A.V.Ignatyuk
+#REF-CODE   (J,ARI,68,47,2010)
+#REFERENCE  Appl.Radiat.Isot. 68 (2010) 47 (doi:10.1016/j.apradiso.2009.09.069)
+#DATASETS   0
+#
+#DATASET    D4226005 
+#DATE       20091105
+#REACTION   55-CS-133(P,5N)56-BA-129-G,,SIG
+#PROJ       1001
+#TARG       55133
+#MF         3
+#MT         152
+#PRODUCT    56-BA-129-G
+#C4BEGIN    [ 1001 55133   3 152GA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 55133   3 152GA  6.8000+7 300000.0 0.031300 4.6000-3                                       F.Tarkanyi+          (10)D4226  5 
+ 1001 55133   3 152GA  6.5300+7 500000.0 0.075000 0.011000                                       F.Tarkanyi+          (10)D4226  5 
+ 1001 55133   3 152GA  6.2600+7 600000.0 0.108000 0.016000                                       F.Tarkanyi+          (10)D4226  5 
+ 1001 55133   3 152GA  5.9800+7 800000.0 0.095000 0.014000                                       F.Tarkanyi+          (10)D4226  5 
+ 1001 55133   3 152GA  5.6600+7 1000000. 0.115000 0.017000                                       F.Tarkanyi+          (10)D4226  5 
+ 1001 55133   3 152GA  5.3500+7 1200000. 0.107000 0.016000                                       F.Tarkanyi+          (10)D4226  5 
+ 1001 55133   3 152GA  5.0100+7 1400000. 0.069000 0.010000                                       F.Tarkanyi+          (10)D4226  5 
+ 1001 55133   3 152GA  4.6600+7 1600000. 0.039700 5.8000-3                                       F.Tarkanyi+          (10)D4226  5 
+#/DATA      8
+#/DATASET

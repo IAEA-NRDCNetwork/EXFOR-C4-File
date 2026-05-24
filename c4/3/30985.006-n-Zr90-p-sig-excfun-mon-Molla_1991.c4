@@ -1,0 +1,32 @@
+#ENTRY      30985
+#AUTHOR1    N.I.Molla+
+#YEAR       1991
+#INSTITUTE  (3BANSAV)
+#TITLE      Excitation functions of some (n,p), (n,2n) and
+#+          (n,alpha) reactions on nickel, zirconium and niobium
+#+          isotopes in the energy range 13.63 - 14.83 MeV.
+#AUTHOR(S)  N.I.Molla, R.U.Miah, M.Rahman, Aysha Akhter
+#REF-CODE   (C,91JUELIC,,355,199105)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 355
+#DATASETS   0
+#
+#DATASET    30985006 
+#DATE       20090919
+#REACTION   40-ZR-90(N,P)39-Y-90-M,,SIG
+#PROJ       1
+#TARG       40090
+#MF         3
+#MT         103
+#PRODUCT    39-Y-90-M
+#C4BEGIN    [    1 40090   3 103M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   3 103M   1.3640+7          0.012900 0.000000                                       N.I.Molla+           (91)30985  6 
+    1 40090   3 103M   1.3880+7          0.012900 9.0000-4                                       N.I.Molla+           (91)30985  6 
+    1 40090   3 103M   1.4100+7          0.014000 1.0000-3                                       N.I.Molla+           (91)30985  6 
+    1 40090   3 103M   1.4300+7          0.014100 1.1000-3                                       N.I.Molla+           (91)30985  6 
+    1 40090   3 103M   1.4580+7          0.015400 2.0000-3                                       N.I.Molla+           (91)30985  6 
+    1 40090   3 103M   1.4830+7          0.014700 1.3000-3                                       N.I.Molla+           (91)30985  6 
+#/DATA      6
+#/DATASET

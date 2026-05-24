@@ -1,0 +1,31 @@
+#ENTRY      C0349
+#AUTHOR1    S.Meloni+
+#YEAR       1964
+#INSTITUTE  (1USABNL)
+#TITLE      Ce-142(p,pn)Ce-141 and Ce-142(p,2p)La-141 reactions
+#+          from 0.4 to 28 GeV
+#AUTHOR(S)  S.Meloni, J.B.Cumming
+#REF-CODE   (J,PR,136,B1359,1964)
+#REFERENCE  Phys.Rev. 136 (1964) B1359 (doi:10.1103/PhysRev.136.B1359)
+#DATASETS   0
+#
+#DATASET    C0349003 
+#DATE       20120616
+#REACTION   58-CE-142(P,X)58-CE-141,,SIG
+#PROJ       1001
+#TARG       58142
+#MF         3
+#MT         454
+#PRODUCT    58-CE-141
+#C4BEGIN    [ 1001 58142   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 58142   3 454    4.2000+8          0.062100 3.7000-3           58141.9                     S.Meloni+            (64)C0349  3 
+ 1001 58142   3 454    7.0000+8          0.051500 3.1000-3           58141.9                     S.Meloni+            (64)C0349  3 
+ 1001 58142   3 454    1.0000+9          0.054100 3.2000-3           58141.9                     S.Meloni+            (64)C0349  3 
+ 1001 58142   3 454    2.8000+9          0.046100 2.3000-3           58141.9                     S.Meloni+            (64)C0349  3 
+ 1001 58142   3 454    1.000+10          0.052300 4.4000-3           58141.9                     S.Meloni+            (64)C0349  3 
+ 1001 58142   3 454    2.800+10          0.052000 2.6000-3           58141.9                     S.Meloni+            (64)C0349  3 
+#/DATA      6
+#/DATASET

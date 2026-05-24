@@ -1,0 +1,27 @@
+#ENTRY      22472
+#AUTHOR1    Y.Kasugai+
+#YEAR       2000
+#INSTITUTE  (2JPNJAE)
+#TITLE      Cross-Sections Measurement For the 17O(N,P)17N
+#+          Reaction by 14-MeV Neutrons
+#AUTHOR(S)  Y.Kasugai, Y.Ikeda, H.Sakane
+#REF-CODE   (J,NSE,136,258,2000)
+#REFERENCE  Nucl.Sci.Eng. 136 (2000) 258 (doi:10.13182/NSE00-A2156)
+#DATASETS   0
+#
+#DATASET    22472002 
+#DATE       20010222
+#REACTION   8-O-17(N,P)7-N-17,,SIG
+#PROJ       1
+#TARG       8017
+#MF         3
+#MT         103
+#PRODUCT    7-N-17
+#C4BEGIN    [    1  8017   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8017   3 103    1.4400+7          0.011000 4.0000-3                                       Y.Kasugai+           (00)22472  2 
+    1  8017   3 103    1.4700+7          0.023000 5.0000-3                                       Y.Kasugai+           (00)22472  2 
+#/DATA      2
+#/DATASET

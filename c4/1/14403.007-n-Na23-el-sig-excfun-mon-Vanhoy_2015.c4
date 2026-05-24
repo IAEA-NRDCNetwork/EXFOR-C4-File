@@ -1,0 +1,43 @@
+#ENTRY      14403
+#AUTHOR1    J.R.Vanhoy+
+#YEAR       2015
+#INSTITUTE  (1USAANA)
+#TITLE      Neutron scattering differential cross sections for
+#+          23Na from 1.5 to 4.5 MeV
+#AUTHOR(S)  J.R.Vanhoy, S.F.Hicks, A.Chakraborty, B.R.Champine, B.M.Combs, 
+#+          B.P.Crider, L.J.Kersting, A.Kumar, C.J.Lueck, S.H.Liu, P.J.McDonough, 
+#+          M.T.McEllistrem, E.E.Peters, F.M.Prados-Estevez, L.C.Sidwell, 
+#+          A.J.Sigillito, D.W.Watts, S.W.Yates
+#REF-CODE   (J,NP/A,939,121,2015)
+#REFERENCE  Nucl.Phys.A 939 (2015) 121 (doi:10.1016/j.nuclphysa.2015.03.006)
+#DATASETS   0
+#
+#DATASET    14403007 
+#DATE       20250919
+#REACTION   11-NA-23(N,EL)11-NA-23,,SIG
+#PROJ       1
+#TARG       11023
+#MF         3
+#MT         2
+#PRODUCT    11-NA-23
+#C4BEGIN    [    1 11023   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023   3   2 D  1480000.          2.270000 0.160000                                       J.R.Vanhoy+          (15)14403  7 
+    1 11023   3   2 D  2050000.          2.540000 0.170000                                       J.R.Vanhoy+          (15)14403  7 
+    1 11023   3   2 D  2440000.          1.240000 0.110000                                       J.R.Vanhoy+          (15)14403  7 
+    1 11023   3   2 D  2800000.          1.730000 0.120000                                       J.R.Vanhoy+          (15)14403  7 
+    1 11023   3   2 D  2890000.          1.530000 0.110000                                       J.R.Vanhoy+          (15)14403  7 
+    1 11023   3   2 D  3070000.          1.150000 0.090000                                       J.R.Vanhoy+          (15)14403  7 
+    1 11023   3   2 D  3190000.          1.340000 0.090000                                       J.R.Vanhoy+          (15)14403  7 
+    1 11023   3   2 D  3200000.          1.480000 0.100000                                       J.R.Vanhoy+          (15)14403  7 
+    1 11023   3   2 D  3400000.          1.610000 0.110000                                       J.R.Vanhoy+          (15)14403  7 
+    1 11023   3   2 D  3500000.          1.430000 0.100000                                       J.R.Vanhoy+          (15)14403  7 
+    1 11023   3   2 D  3570000.          1.540000 0.110000                                       J.R.Vanhoy+          (15)14403  7 
+    1 11023   3   2 D  3600000.          0.980000 0.070000                                       J.R.Vanhoy+          (15)14403  7 
+    1 11023   3   2 D  3800000.          1.400000 0.100000                                       J.R.Vanhoy+          (15)14403  7 
+    1 11023   3   2 D  4000000.          1.130000 0.080000                                       J.R.Vanhoy+          (15)14403  7 
+    1 11023   3   2 D  4500000.          1.150000 0.100000                                       J.R.Vanhoy+          (15)14403  7 
+#/DATA      15
+#/DATASET

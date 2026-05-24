@@ -1,0 +1,29 @@
+#ENTRY      O2552
+#AUTHOR1    C.M.Baecker+
+#YEAR       2021
+#INSTITUTE  (2GERDOR)
+#TITLE      Experimental consolidation and absolute measurement
+#+          of the natC(p,x)11C nuclear activation cross section
+#+          at 100 MeV for particle therapy physics
+#AUTHOR(S)  C.M.Baecker, F.Horst, W.Adi, C.Baeumer, M.Gerhardt, W.Jentzen, 
+#+          S.L.Kazek, K.Kroeninger, C.Schuy, N.Verbeek, J.Weingarten, 
+#+          J.Wulff, B.Timmermann
+#REF-CODE   (J,EPJ/A,57,248,2021)
+#REFERENCE  Eur.Phys.J.A 57 (2021) 248 (doi:10.1140/epja/s10050-021-00557-x)
+#DATASETS   0
+#
+#DATASET    O2552002 
+#DATE       20230201
+#REACTION   6-C-0(P,X)6-C-11,,SIG
+#PROJ       1001
+#TARG       6000
+#MF         3
+#MT         454
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  6000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6000   3 454 A  9.7000+7 3000000. 0.068000 3.0000-3            6011.9                     C.M.Baecker+         (21)O2552  2 
+#/DATA      1
+#/DATASET

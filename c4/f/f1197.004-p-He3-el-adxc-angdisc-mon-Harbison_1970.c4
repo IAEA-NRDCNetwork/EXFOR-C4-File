@@ -1,0 +1,38 @@
+#ENTRY      F1197
+#AUTHOR1    S.A.Harbison+
+#YEAR       1970
+#INSTITUTE  (2UK KCL)
+#TITLE      An analysis of polarization and cross-section data for
+#+          the p-He-3 system at 30 and 50 MeV.
+#AUTHOR(S)  S.A.Harbison, R.J.Griffiths, N.M.Stewart, A.R.Johnston, 
+#+          G.T.A.Squier
+#REF-CODE   (J,NP/A,150,570,1970)
+#REFERENCE  Nucl.Phys.A 150 (1970) 570 (doi:10.1016/0375-9474(70)90418-5)
+#DATASETS   0
+#
+#DATASET    F1197004 
+#DATE       20071119
+#REACTION   2-HE-3(P,EL)2-HE-3,,DA
+#PROJ       1001
+#TARG       2003
+#MF         4
+#MT         2
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  2003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2003   4   2  C 4.9500+7          0.059040 8.5800-3 0.938493                              S.A.Harbison+        (70)F1197  4 
+ 1001  2003   4   2  C 4.9500+7          0.057090 6.5300-3 0.902585                              S.A.Harbison+        (70)F1197  4 
+ 1001  2003   4   2  C 4.9500+7          0.047610 4.9300-3 0.870356                              S.A.Harbison+        (70)F1197  4 
+ 1001  2003   4   2  C 4.9500+7          0.039030 4.0200-3 0.822144                              S.A.Harbison+        (70)F1197  4 
+ 1001  2003   4   2  C 4.9500+7          0.028140 2.9100-3 0.766044                              S.A.Harbison+        (70)F1197  4 
+ 1001  2003   4   2  C 4.9500+7          0.020180 2.0800-3 0.704634                              S.A.Harbison+        (70)F1197  4 
+ 1001  2003   4   2  C 4.9500+7          0.014050 1.4500-3 0.638768                              S.A.Harbison+        (70)F1197  4 
+ 1001  2003   4   2  C 4.9500+7          8.9500-3 9.3000-4 0.513541                              S.A.Harbison+        (70)F1197  4 
+ 1001  2003   4   2  C 4.9500+7          7.0800-3 7.6000-4 0.417867                              S.A.Harbison+        (70)F1197  4 
+ 1001  2003   4   2  C 4.9500+7          4.9000-3 5.1000-4 0.338738                              S.A.Harbison+        (70)F1197  4 
+ 1001  2003   4   2  C 4.9500+7          3.4800-3 3.6000-4 0.178802                              S.A.Harbison+        (70)F1197  4 
+ 1001  2003   4   2  C 4.9500+7          2.8800-3 3.1000-4 0.099320                              S.A.Harbison+        (70)F1197  4 
+#/DATA      12
+#/DATASET

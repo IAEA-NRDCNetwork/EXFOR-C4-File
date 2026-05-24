@@ -1,0 +1,48 @@
+#ENTRY      E1318
+#AUTHOR1    M.Yasue+
+#YEAR       1990
+#INSTITUTE  (2JPNOSA)
+#TITLE      Systematic enhancement for the 14C(p,t)12C reaction
+#+          leading to the t=0 states
+#AUTHOR(S)  M.Yasue, M.H.Tanaka, T.Hasegawa, K.Nisimura, S.Kubono, H.Ohnuma, 
+#+          H.Shimizu, K.Ieki, H.Toyokawa, M.Iwase, J.Iimura, H.Yoshida, 
+#+          T.Nakagawa, A.Sato, T.Niizeki, J.Takamatsu, Y.Takahashi, 
+#+          T.Tohei, H.Orihara, T.Suehiro, S.I.Hayakawa, M.Igarashi
+#REF-CODE   (J,NP/A,510,285,1990)
+#REFERENCE  Nucl.Phys.A 510 (1990) 285 (doi:10.1016/0375-9474(90)90240-M)
+#DATASETS   0
+#
+#DATASET    E1318005 
+#DATE       20240802
+#REACTION   6-C-14(P,T)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6014
+#MF         4
+#MT         700
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6014   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6014   4 700  C 4.0300+7          3.4310-4          0.999795          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          1.1490-3          0.989298          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          1.6110-3          0.983947          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          1.8710-3          0.972329          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          2.1640-3          0.956763          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          2.2830-3          0.938372          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          2.0990-3          0.922268          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          1.1570-3          0.903635          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          7.4440-4          0.883929          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          3.2900-4          0.824126          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          1.3490-4          0.764584          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          1.4880-4          0.704634          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          1.7340-4          0.618820          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          1.4990-4          0.547417          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          1.0150-4          0.471012          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          5.2220-5          0.367151          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          3.6430-5          0.283011          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          4.4090-5 4.4240-6 0.202958          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          3.0340-5 1.7490-6 0.103313          4440000.         LVLM.Yasue+             (90)E1318  5 
+ 1001  6014   4 700  C 4.0300+7          3.0010-5 2.9080-6 6.9813-3          4440000.         LVLM.Yasue+             (90)E1318  5 
+#/DATA      20
+#/DATASET

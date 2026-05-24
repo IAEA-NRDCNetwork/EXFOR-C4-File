@@ -1,0 +1,43 @@
+#ENTRY      A0258
+#AUTHOR1    R.Coszach+
+#YEAR       1995
+#INSTITUTE  (2BLGLVN)
+#TITLE      A  direct measurement of the 18-F(p,alpha)15-O reaction
+#AUTHOR(S)  R.Coszach, M.Cogneau, C.R.Bain, F.Binon, T.Davinson, P.Decrock, 
+#+          Th.Delbar, M.Gaelens, W.Galster, J.Goerres, J.S.Graulich, 
+#+          R.Irvine, D.Labar, P.Leleux, M.Loiselet, C.Michotte, R.Neal, 
+#+          G.Ryckewaert, A.S.Shotter, J.Vanhorenbeeck, J.Vervier, M.Wiescher, 
+#+          Ph.Woods
+#REF-CODE   (J,PL/B,353,184,1995)
+#REFERENCE  Phys.Lett.B 353 (1995) 184 (doi:10.1016/0370-2693(95)00550-5)
+#DATASETS   0
+#
+#DATASET    A0258002 
+#DATE       20200519
+#REACTION   (9-F-18(P,EL)9-F-18,,DA)=(1-H-1(9-F-18,EL)1-H-1,,DA)
+#PROJ       1001
+#TARG       9018
+#MF         4
+#MT         2
+#PRODUCT    9-F-18
+#C4BEGIN    [ 1001  9018   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9018   4   2  C 504979.9          0.033000 6.0000-3 0.809017                              R.Coszach+           (95)A0258  2 
+ 1001  9018   4   2  C 521242.6          0.080000 0.070000 0.809017                              R.Coszach+           (95)A0258  2 
+ 1001  9018   4   2  C 538878.1          0.140000 0.040000 0.809017                              R.Coszach+           (95)A0258  2 
+ 1001  9018   4   2  C 552395.1          0.170000 0.050000 0.809017                              R.Coszach+           (95)A0258  2 
+ 1001  9018   4   2  C 568657.8          0.260000 0.100000 0.809017                              R.Coszach+           (95)A0258  2 
+ 1001  9018   4   2  C 586187.7          0.270000 0.090000 0.809017                              R.Coszach+           (95)A0258  2 
+ 1001  9018   4   2  C 598437.6          0.360000 0.070000 0.809017                              R.Coszach+           (95)A0258  2 
+ 1001  9018   4   2  C 614700.3          0.360000 0.050000 0.809017                              R.Coszach+           (95)A0258  2 
+ 1001  9018   4   2  C 632230.3          0.240000 0.030000 0.809017                              R.Coszach+           (95)A0258  2 
+ 1001  9018   4   2  C 648493.0          0.330000 0.040000 0.809017                              R.Coszach+           (95)A0258  2 
+ 1001  9018   4   2  C 663383.0          0.360000 0.040000 0.809017                              R.Coszach+           (95)A0258  2 
+ 1001  9018   4   2  C 679645.8          0.440000 0.040000 0.809017                              R.Coszach+           (95)A0258  2 
+ 1001  9018   4   2  C 693162.9          0.440000 0.040000 0.809017                              R.Coszach+           (95)A0258  2 
+ 1001  9018   4   2  C 708052.9          0.340000 0.040000 0.809017                              R.Coszach+           (95)A0258  2 
+ 1001  9018   4   2  C 724315.7          0.400000 0.040000 0.809017                              R.Coszach+           (95)A0258  2 
+#/DATA      15
+#/DATASET

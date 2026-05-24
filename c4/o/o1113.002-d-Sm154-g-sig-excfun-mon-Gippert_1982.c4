@@ -1,0 +1,30 @@
+#ENTRY      O1113
+#AUTHOR1    K.L.Gippert+
+#YEAR       1982
+#INSTITUTE  (2GERGOE)
+#TITLE      Radiative capture of deuterons in Sm-154 and U-238.
+#AUTHOR(S)  K.L.Gippert, W.D.Schmidt-Ott
+#REF-CODE   (J,ZP/A,306,367,1982)
+#REFERENCE  Z.Phys.A 306 (1982) 367 (doi:10.1007/BF01432378)
+#DATASETS   0
+#
+#DATASET    O1113002 
+#DATE       20040327
+#REACTION   62-SM-154(D,G)63-EU-156,,SIG
+#PROJ       1002
+#TARG       62154
+#MF         3
+#MT         102
+#PRODUCT    63-EU-156
+#C4BEGIN    [ 1002 62154   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 62154   3 102    7600000. 500000.0 6.0000-6 4.8000-7                                       K.L.Gippert+         (82)O1113  2 
+ 1002 62154   3 102    9500000. 400000.0 1.5700-5 1.2560-6                                       K.L.Gippert+         (82)O1113  2 
+ 1002 62154   3 102    1.1100+7 220000.0 2.0900-5 1.6720-6                                       K.L.Gippert+         (82)O1113  2 
+ 1002 62154   3 102    1.3210+7 220000.0 2.1500-5 1.5050-6                                       K.L.Gippert+         (82)O1113  2 
+ 1002 62154   3 102    1.5620+7 180000.0 1.6600-5 1.3280-6                                       K.L.Gippert+         (82)O1113  2 
+ 1002 62154   3 102    1.7320+7 240000.0 1.1500-5 8.0500-7                                       K.L.Gippert+         (82)O1113  2 
+#/DATA      6
+#/DATASET

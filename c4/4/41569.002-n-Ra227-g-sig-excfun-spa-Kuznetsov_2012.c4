@@ -1,0 +1,27 @@
+#ENTRY      41569
+#AUTHOR1    R.A.Kuznetsov+
+#YEAR       2012
+#INSTITUTE  (4RUSNIR)
+#TITLE      Yields of activation products in Ra-226 irradiation in
+#+          the high-flux SM reactor.
+#AUTHOR(S)  R.A.Kuznetsov, P.S.Butkalyuk, V.A.Tarasov, A.Yu.Baranov, 
+#+          I.L.Butkalyuk, E.G.Romanov, V.N.Kupriyanov, E.V.Kazakova
+#REF-CODE   (J,RAK,54,(4),352,2012)
+#REFERENCE  Radiokhimiya 54 No.4 (2012) 352
+#DATASETS   0
+#
+#DATASET    41569002 
+#DATE       20140902
+#REACTION   88-RA-227(N,G)88-RA-228,,SIG,,SPA
+#PROJ       1
+#TARG       88227
+#MF         3
+#MT         102
+#PRODUCT    88-RA-228
+#C4BEGIN    [    1 88227   3 102 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 88227   3 102 P  493.0000          1500.000                                                R.A.Kuznetsov+       (12)41569  2 
+#/DATA      1
+#/DATASET

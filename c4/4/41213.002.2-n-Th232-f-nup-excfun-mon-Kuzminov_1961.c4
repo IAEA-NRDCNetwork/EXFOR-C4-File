@@ -1,0 +1,27 @@
+#ENTRY      41213
+#AUTHOR1    B.D.Kuz'minov+
+#YEAR       1961
+#INSTITUTE  (4RUSFEI)
+#TITLE      Average number of prompt fission neutrons for U238 and
+#+          Th232
+#AUTHOR(S)  B.D.Kuz'minov
+#REF-CODE   (B,NEJTRONFIZ,,241,1961)
+#REFERENCE  Neitronnaya Fizika, Moskva 1961 page 241 (1961)
+#DATASETS   0
+#
+#DATASET    412130022
+#DATE       20191215
+#REACTION   90-TH-232(N,F),PR,NU
+#PROJ       1
+#TARG       90232
+#MF         1
+#MT         456
+#C4BEGIN    [    1 90232   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   1 456    2300000. 100000.0 2.260000 0.100000                                       B.D.Kuz'minov        (61)41213  22
+    1 90232   1 456    3750000. 150000.0 2.430000 0.090000                                       B.D.Kuz'minov        (61)41213  22
+    1 90232   1 456    1.5700+7 500000.0 4.250000 0.130000                                       B.D.Kuz'minov        (61)41213  22
+#/DATA      3
+#/DATASET

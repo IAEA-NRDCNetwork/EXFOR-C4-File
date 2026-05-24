@@ -1,0 +1,34 @@
+#ENTRY      22498
+#AUTHOR1    F.Voss+
+#YEAR       1999
+#INSTITUTE  (2GERKFK)
+#TITLE      .Stellar neutron capture cross sections of the
+#+          praseodymium and dysprosium isotopes
+#AUTHOR(S)  F.Voss, K.Wisshak, C.Arlandini, F.Kaeppeler, L.Kazakov, 
+#+          T.Rauscher
+#REF-CODE   (J,PR/C,59,(2),1154,199902)
+#REFERENCE  Phys.Rev.C 59 No.2 (1999) 1154 (doi:10.1103/PhysRevC.59.1154)
+#DATASETS   0
+#
+#DATASET    22498028 
+#DATE       20121223
+#REACTION   79-AU-197(N,TOT),,SIG,,AV
+#PROJ       1
+#TARG       79197
+#MF         3
+#MT         1
+#C4BEGIN    [    1 79197   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   3   1    12500.00 2500.000 15.60000                                                F.Voss+              (99)22498 28 
+    1 79197   3   1    17500.00 2500.000 13.20000                                                F.Voss+              (99)22498 28 
+    1 79197   3   1    25000.00 5000.000 13.10000                                                F.Voss+              (99)22498 28 
+    1 79197   3   1    35000.00 5000.000 12.40000                                                F.Voss+              (99)22498 28 
+    1 79197   3   1    50000.00 10000.00 11.50000                                                F.Voss+              (99)22498 28 
+    1 79197   3   1    70000.00 10000.00 10.50000                                                F.Voss+              (99)22498 28 
+    1 79197   3   1    90000.00 10000.00 10.50000                                                F.Voss+              (99)22498 28 
+    1 79197   3   1    125000.0 25000.00 8.500000                                                F.Voss+              (99)22498 28 
+    1 79197   3   1    175000.0 25000.00 7.500000                                                F.Voss+              (99)22498 28 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,25 @@
+#ENTRY      40728
+#AUTHOR1    A.L.Kochetkov+
+#YEAR       1986
+#INSTITUTE  (4RUSFEI)
+#TITLE      Measurement of the average 6Li absorption cross section
+#+          relative to the average 235U fission cross section
+#AUTHOR(S)  A.L.Kochetkov, E.A.Seregina
+#REF-CODE   (J,AE,60,271,1986)
+#REFERENCE  At.En. 60 (1986) 271
+#DATASETS   0
+#
+#DATASET    40728013 
+#DATE       20180320
+#REACTION   92-U-235(N,F),,SIG,,SPA
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18 D  1000000.          1.935000 0.060000                                       A.L.Kochetkov+       (86)40728 13 
+#/DATA      1
+#/DATASET

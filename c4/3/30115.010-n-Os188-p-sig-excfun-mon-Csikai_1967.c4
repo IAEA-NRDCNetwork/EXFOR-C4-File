@@ -1,0 +1,25 @@
+#ENTRY      30115
+#AUTHOR1    J.Csikai+
+#YEAR       1967
+#INSTITUTE  (3HUNDEB)
+#TITLE      Some (n,p) reaction cross-sections for 14.7MeV neutrons
+#AUTHOR(S)  J.Csikai, S.Nagy
+#REF-CODE   (J,NP/A,91,222,196701)
+#REFERENCE  Nucl.Phys.A 91 (1967) 222 (doi:10.1016/0375-9474(67)90463-0)
+#DATASETS   0
+#
+#DATASET    30115010 
+#DATE       20080208
+#REACTION   76-OS-188(N,P)75-RE-188,,SIG
+#PROJ       1
+#TARG       76188
+#MF         3
+#MT         103
+#PRODUCT    75-RE-188
+#C4BEGIN    [    1 76188   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 76188   3 103 A  1.4700+7          7.1000-3 1.9000-3                                       J.Csikai+            (67)30115 10 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      A1123
+#AUTHOR1    G.F.Bogdanov+
+#YEAR       1959
+#INSTITUTE  (4RUSKUR)
+#TITLE      The reaction T(p,n)He-3 at 7 - 12 MeV proton energy
+#AUTHOR(S)  G.F.Bogdanov, N.A.Vlasov, S.P.Kalinin, B.V.Rybakov, L.N.Samoilov, 
+#+          V.A.Sidorov
+#REF-CODE   (J,JET,9,440,1959)
+#REFERENCE  J.Exp.Theor.Phys. 9 (1959) 440
+#DATASETS   0
+#
+#DATASET    A1123006 
+#DATE       20260216
+#REACTION   1-H-3(P,N)2-HE-3,,SIG
+#PROJ       1001
+#TARG       1003
+#MF         3
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1003   3   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   3   4 D  6800000.          0.305000 0.030500                                       G.F.Bogdanov+        (59)A1123  6 
+ 1001  1003   3   4 D  8900000.          0.241000 0.024100                                       G.F.Bogdanov+        (59)A1123  6 
+ 1001  1003   3   4 D  1.2000+7          0.176000 0.017600                                       G.F.Bogdanov+        (59)A1123  6 
+#/DATA      3
+#/DATASET

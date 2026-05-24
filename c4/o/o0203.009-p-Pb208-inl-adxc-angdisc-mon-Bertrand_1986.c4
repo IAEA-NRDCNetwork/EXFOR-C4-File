@@ -1,0 +1,39 @@
+#ENTRY      O0203
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1986
+#INSTITUTE  (1USAORL)
+#TITLE      Giant Resonance Structure in Pb-208 Measured Using
+#+          The (P,P') Reaction at 334 MeV.
+#AUTHOR(S)  F.E.Bertrand, E.E.Gross, D.J.Horen, R.O.Sayer, T.P.Sjoreen, 
+#+          D.K.Mc.upper()aniels, J.Lisantti, J.R.Tinsley, L.W.Swenson, 
+#+          J.B.Mc.upper()lelland, T.A.Carey, K.Jones, S.J.Seestrom-Morris
+#REF-CODE   (J,PR/C,34,45,86)
+#REFERENCE  Phys.Rev.C 34 (1986) 45 (doi:10.1103/PhysRevC.34.45)
+#DATASETS   0
+#
+#DATASET    O0203009 
+#DATE       19970101
+#REACTION   82-PB-208(P,INL)82-PB-208,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         601
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 1001 82208   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 601  C 3.3400+8 70000.00 5.5000-3 1.4300-3 0.998873 4.9695-5 1.0600+7         LVLF.E.Bertrand+        (86)O0203  9 
+ 1001 82208   4 601  C 3.3400+8 70000.00 4.6000-3 1.1500-3 0.997708 7.0861-5 1.0600+7         LVLF.E.Bertrand+        (86)O0203  9 
+ 1001 82208   4 601  C 3.3400+8 70000.00 5.6000-3 1.3440-3 0.997696 7.1043-5 1.0600+7         LVLF.E.Bertrand+        (86)O0203  9 
+ 1001 82208   4 601  C 3.3400+8 70000.00 9.9000-3 1.9800-3 0.996026 9.3272-5 1.0600+7         LVLF.E.Bertrand+        (86)O0203  9 
+ 1001 82208   4 601  C 3.3400+8 70000.00 0.010800 1.9440-3 0.994226 1.1237-4 1.0600+7         LVLF.E.Bertrand+        (86)O0203  9 
+ 1001 82208   4 601  C 3.3400+8 70000.00 0.014900 1.7880-3 0.992610 1.2708-4 1.0600+7         LVLF.E.Bertrand+        (86)O0203  9 
+ 1001 82208   4 601  C 3.3400+8 70000.00 0.010100 1.2120-3 0.990048 1.4737-4 1.0600+7         LVLF.E.Bertrand+        (86)O0203  9 
+ 1001 82208   4 601  C 3.3400+8 70000.00 7.7000-3 1.2320-3 0.988175 1.6057-4 1.0600+7         LVLF.E.Bertrand+        (86)O0203  9 
+ 1001 82208   4 601  C 3.3400+8 70000.00 5.6000-3 7.8400-4 0.984959 1.8094-4 1.0600+7         LVLF.E.Bertrand+        (86)O0203  9 
+ 1001 82208   4 601  C 3.3400+8 70000.00 1.9000-3 2.8500-4 0.983255 1.9084-4 1.0600+7         LVLF.E.Bertrand+        (86)O0203  9 
+ 1001 82208   4 601  C 3.3400+8 70000.00 1.9000-3 3.4200-4 0.976296 2.2666-4 1.0600+7         LVLF.E.Bertrand+        (86)O0203  9 
+ 1001 82208   4 601  C 3.3400+8 70000.00 1.6400-3 2.6240-4 0.973339 2.4020-4 1.0600+7         LVLF.E.Bertrand+        (86)O0203  9 
+#/DATA      12
+#/DATASET

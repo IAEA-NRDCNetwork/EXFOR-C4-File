@@ -1,0 +1,32 @@
+#ENTRY      O0194
+#AUTHOR1    C.B.Fulmer+
+#YEAR       1959
+#INSTITUTE  (1USAORL)
+#TITLE      Total reaction and elastic scattering cross sections
+#+          for 22.8-MeV protons on uranium isotopes
+#AUTHOR(S)  C.B.Fulmer
+#REF-CODE   (J,PR,116,418,1959)
+#REFERENCE  Phys.Rev. 116 (1959) 418 (doi:10.1103/PhysRev.116.418)
+#DATASETS   0
+#
+#DATASET    O0194011 
+#DATE       19950331
+#REACTION   92-U-238(P,INL)92-U-238,,DA,,,EXP
+#PROJ       1001
+#TARG       92238
+#MF         4
+#MT         103
+#PRODUCT    92-U-238
+#C4BEGIN    [ 1001 92238   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92238   4 103    2.2200+7          0.027700 6.0940-4 0.949425 3.2881-3                     C.B.Fulmer           (59)O0194 11 
+ 1001 92238   4 103    2.2200+7          0.020000 8.0000-3 0.921863 4.0581-3                     C.B.Fulmer           (59)O0194 11 
+ 1001 92238   4 103    2.2200+7          0.011480 2.5256-4 0.843391 5.6266-3                     C.B.Fulmer           (59)O0194 11 
+ 1001 92238   4 103    2.2200+7          4.8200-3 1.0604-4 0.496974 9.0872-3                     C.B.Fulmer           (59)O0194 11 
+ 1001 92238   4 103    2.2200+7          3.1500-3 6.9300-5 0.246999 0.010148                     C.B.Fulmer           (59)O0194 11 
+ 1001 92238   4 103    2.2200+7          1.8600-3 4.0920-5 0.015707 0.010471                     C.B.Fulmer           (59)O0194 11 
+ 1001 92238   4 103    2.2200+7          1.1010-3 2.4222-5-0.444635 9.3799-3                     C.B.Fulmer           (59)O0194 11 
+#/DATA      7
+#/DATASET

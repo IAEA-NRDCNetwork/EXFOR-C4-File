@@ -1,0 +1,29 @@
+#ENTRY      30767
+#AUTHOR1    E.Dobreva+
+#YEAR       1984
+#INSTITUTE  (3BULSOF)
+#TITLE      Yields of fission products with masses A=131 to 135
+#+          for the fast neutron induced fission of U-238.
+#AUTHOR(S)  E.Dobreva, N.Nenoff
+#REF-CODE   (J,JRN,81,29,198401)
+#REFERENCE  J.Rad.Nucl.Chem. 81 (1984) 29 (doi:10.1007/BF02132918)
+#DATASETS   0
+#
+#DATASET    307670031
+#DATE       20010402
+#REACTION   92-U-238(N,F)ELEM/MASS,CUM,FY,,SPA
+#PROJ       1
+#TARG       92238
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92238   8 459 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   8 459 D  1000000.          0.028700 1.5000-3 51.00000 131.0000 9.000000            E.Dobreva+           (84)30767  31
+    1 92238   8 459 D  1000000.          0.049200 1.6000-3 52.00000 132.0000 9.000000            E.Dobreva+           (84)30767  31
+    1 92238   8 459 D  1000000.          0.039900 2.9000-3 51.00000 133.0000 9.000000            E.Dobreva+           (84)30767  31
+    1 92238   8 459 D  1000000.          0.068200 2.2000-3 52.00000 134.0000 9.000000            E.Dobreva+           (84)30767  31
+    1 92238   8 459 D  1000000.          0.062300 2.1000-3 53.00000 135.0000 9.000000            E.Dobreva+           (84)30767  31
+#/DATA      5
+#/DATASET

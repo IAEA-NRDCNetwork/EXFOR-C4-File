@@ -1,0 +1,59 @@
+#ENTRY      E0713
+#AUTHOR1    S.Matsuki+
+#YEAR       1982
+#INSTITUTE  (2JPNKTO)
+#TITLE      Splitting of low-lying octupole vibrational strength
+#+          in 76,78,80,82Kr
+#AUTHOR(S)  S.Matsuki, K.Ogino, Y.Kadota, N.Sakamoto, T.Tanabe, M.Yasue, 
+#+          A.Yokomizo, S.Kubono, Y.Okuma
+#REF-CODE   (J,PL/B,113,(1),21,198206)
+#REFERENCE  Phys.Lett.B 113 No.1 (1982) 21 (doi:10.1016/0370-2693(82)90100-9)
+#DATASETS   0
+#
+#DATASET    E0713004 
+#DATE       20091023
+#REACTION   36-KR-82(P,T)36-KR-80,PAR,DA
+#PROJ       1001
+#TARG       36082
+#MF         4
+#MT         700
+#PRODUCT    36-KR-80
+#C4BEGIN    [ 1001 36082   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 36082   4 700  C 5.1900+7          0.057640          0.982548          2424000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          0.048130          0.967135          2424000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          0.038780          0.949535          2424000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          0.027560          0.928291          2424000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          0.018890          0.898871          2424000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          0.019210          0.856357          2424000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          0.011820          0.807166          2424000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          3.6830-3          0.749996          2424000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          2.7120-3 3.1990-4 0.692269          2424000.         LVLS.Matsuki+           (82)E0713  4 
+#/DATA      9
+#/DATASET
+#
+#DATASET    E0713004 
+#DATE       20091023
+#REACTION   36-KR-82(P,T)36-KR-80,PAR,DA
+#PROJ       1001
+#TARG       36082
+#MF         4
+#MT         700
+#PRODUCT    36-KR-80
+#C4BEGIN    [ 1001 36082   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 36082   4 700  C 5.1900+7          0.067560          0.983191          2981000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          0.035990 0.010290 0.967356          2981000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          0.038620          0.948931          2981000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          0.026460          0.928615          2981000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          0.020190          0.899253          2981000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          0.018100          0.856808          2981000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          0.016230          0.807578          2981000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          9.4530-3          0.753907          2981000.         LVLS.Matsuki+           (82)E0713  4 
+ 1001 36082   4 700  C 5.1900+7          3.9860-3          0.690882          2981000.         LVLS.Matsuki+           (82)E0713  4 
+#/DATA      9
+#/DATASET

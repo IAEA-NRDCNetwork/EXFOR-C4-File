@@ -1,0 +1,26 @@
+#ENTRY      40457
+#AUTHOR1    V.Ya.Baryba+
+#YEAR       1977
+#INSTITUTE  (4RUSFEI)
+#TITLE      Energy and angular distributions of neutrons produced
+#+          in the bombardment of U-238 with 2.47 MeV neutrons
+#AUTHOR(S)  V.Ya.Baryba, B.V.Zhuravlev, N.V.Kornilov, O.A.Sal'nikov
+#REF-CODE   (J,AE,43,266,1977)
+#REFERENCE  At.En. 43 (1977) 266
+#DATASETS   0
+#
+#DATASET    40457002 
+#DATE       20210220
+#REACTION   92-U-238(N,INL)92-U-238,PAR,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         51
+#PRODUCT    92-U-238
+#C4BEGIN    [    1 92238   3  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3  51 D  2470000. 100000.0 0.380000 0.025000                   1125000. 225000.0LVLV.Ya.Baryba+         (77)40457  2 
+#/DATA      1
+#/DATASET

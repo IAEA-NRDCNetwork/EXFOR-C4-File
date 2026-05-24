@@ -1,0 +1,28 @@
+#ENTRY      A0896
+#AUTHOR1    S.Hofmann+
+#YEAR       2001
+#INSTITUTE  (2GERGSI)
+#TITLE      The new isotope 110-270 and its decay products 266Hs
+#+          and 262Sg
+#AUTHOR(S)  S.Hofmann, F.P.Hessberger, D.Ackermann, S.Antalic, P.Cagarda, 
+#+          S.Cwiok, B.Kindler, J.Kojouharova, B.Lommel, R.Mann, G.Muenzenberg, 
+#+          A.G.Popeko, S.Saro, H.J.Schoett, A.V.Yeremin
+#REF-CODE   (J,EPJ/A,10,5,2001)
+#REFERENCE  Eur.Phys.J.A 10 (2001) 5 (doi:10.1007/s100500170137)
+#DATASETS   0
+#
+#DATASET    A0896002 
+#DATE       20110816
+#REACTION   82-PB-207(28-NI-64,N)110-DS-270,,SIG
+#PROJ       28064
+#TARG       82207
+#MF         3
+#MT         4
+#PRODUCT    110-DS-270
+#C4BEGIN    [28064 82207   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+28064 82207   3   4    3.1700+8          1.300-11 5.000-12                                       S.Hofmann+           (01)A0896  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      D4357
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2016
+#INSTITUTE  (3HUNDEB)
+#TITLE      Activation cross sections of proton induced nuclear
+#+          reactions on palladium up to 80 MeV
+#AUTHOR(S)  F.Tarkanyi, F.Ditroi, S.Takacs, J.Csikai, A.Hermanne, M.S.Uddin, 
+#+          M.Baba
+#REF-CODE   (J,ARI,114,128,2016)
+#REFERENCE  Appl.Radiat.Isot. 114 (2016) 128 (doi:10.1016/j.apradiso.2016.05.022)
+#DATASETS   0
+#
+#DATASET    D4357003 
+#DATE       20160927
+#REACTION   46-PD-0(P,X)47-AG-106-M,,SIG
+#PROJ       1001
+#TARG       46000
+#MF         3
+#MT         454
+#PRODUCT    47-AG-106-M
+#C4BEGIN    [ 1001 46000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 46000   3 454    3.6200+7 1900000. 0.125500 0.014100           47106.7                     F.Tarkanyi+          (16)D4357  3 
+ 1001 46000   3 454    4.2000+7 1500000. 0.071810 8.0700-3           47106.7                     F.Tarkanyi+          (16)D4357  3 
+ 1001 46000   3 454    4.7200+7 1100000. 0.041220 4.6400-3           47106.7                     F.Tarkanyi+          (16)D4357  3 
+ 1001 46000   3 454    5.2000+7 1400000. 0.043720 4.9200-3           47106.7                     F.Tarkanyi+          (16)D4357  3 
+ 1001 46000   3 454    5.6500+7 1200000. 0.042670 4.8000-3           47106.7                     F.Tarkanyi+          (16)D4357  3 
+ 1001 46000   3 454    6.0700+7 1000000. 0.041610 4.6800-3           47106.7                     F.Tarkanyi+          (16)D4357  3 
+ 1001 46000   3 454    6.5700+7 800000.0 0.032700 3.6900-3           47106.7                     F.Tarkanyi+          (16)D4357  3 
+ 1001 46000   3 454    7.0400+7 600000.0 0.021780 2.4600-3           47106.7                     F.Tarkanyi+          (16)D4357  3 
+ 1001 46000   3 454    7.4900+7 500000.0 0.017290 1.9500-3           47106.7                     F.Tarkanyi+          (16)D4357  3 
+ 1001 46000   3 454    7.9200+7 500000.0 0.018680 2.1100-3           47106.7                     F.Tarkanyi+          (16)D4357  3 
+#/DATA      10
+#/DATASET

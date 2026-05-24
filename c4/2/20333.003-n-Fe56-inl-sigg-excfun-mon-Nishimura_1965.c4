@@ -1,0 +1,30 @@
+#ENTRY      20333
+#AUTHOR1    K.Nishimura+
+#YEAR       1965
+#INSTITUTE  (2JPNJAE)
+#TITLE      Studies of excitation cross sections of (n,n'gamma)
+#+          reactions
+#AUTHOR(S)  K.Nishimura, K.Okano, S.Kikuchi
+#REF-CODE   (J,NP,70,421,1965)
+#REFERENCE  Nucl.Phys. 70 (1965) 421 (doi:10.1016/0029-5582(65)90538-9)
+#DATASETS   0
+#
+#DATASET    20333003 
+#DATE       20170430
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,SIG,G
+#PROJ       1
+#TARG       26056
+#MF         13
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056  13  51 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056  13  51 C  2532000. 12500.00 0.866000 0.075000                   845000.0            K.Nishimura+         (65)20333  3 
+    1 26056  13  51 C  2558000. 12500.00 0.899000 0.077000                   845000.0            K.Nishimura+         (65)20333  3 
+    1 26056  13  51 C  2584000. 12500.00 0.823000 0.071000                   845000.0            K.Nishimura+         (65)20333  3 
+    1 26056  13  51 C  2610000. 12500.00 0.714000 0.062000                   845000.0            K.Nishimura+         (65)20333  3 
+    1 26056  13  51 C  2634000. 12500.00 0.739000 0.064000                   845000.0            K.Nishimura+         (65)20333  3 
+#/DATA      5
+#/DATASET

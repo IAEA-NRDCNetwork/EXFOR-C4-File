@@ -1,0 +1,29 @@
+#ENTRY      C2580
+#AUTHOR1    J.Fallis+
+#YEAR       2020
+#INSTITUTE  (1CANTMF)
+#TITLE      First measurement in the Gamow window of a reaction for
+#+          the gamma-process in inverse kinematics: 76Se(a,g)80Kr
+#AUTHOR(S)  J.Fallis, C.Akers, A.M.Laird, A.Simon, A.Spyrou, G.Christian, 
+#+          D.Connolly, U.Hager, D.A.Hutcheon, A.Lennarz, P.O'Malley, 
+#+          S.J.Quinn, J.Riley, A.Rojas, C.Ruiz, M.Williams
+#REF-CODE   (J,PL/B,807,135575,2020)
+#REFERENCE  Phys.Lett.B 807 (2020) 135575 (doi:10.1016/j.physletb.2020.135575)
+#DATASETS   0
+#
+#DATASET    C2580002 
+#DATE       20201126
+#REACTION   34-SE-76(A,G)36-KR-80,,SIG
+#PROJ       2004
+#TARG       34076
+#MF         3
+#MT         102
+#PRODUCT    36-KR-80
+#C4BEGIN    [ 2004 34076   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 34076   3 102    5700696. 12000.91 9.7000-7 2.7000-7                                       J.Fallis+            (20)C2580  2 
+ 2004 34076   3 102    6014430. 12000.96 4.6000-6 8.0000-7                                       J.Fallis+            (20)C2580  2 
+#/DATA      2
+#/DATASET

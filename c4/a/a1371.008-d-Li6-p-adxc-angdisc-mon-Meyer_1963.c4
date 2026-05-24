@@ -1,0 +1,56 @@
+#ENTRY      A1371
+#AUTHOR1    V.Meyer+
+#YEAR       1963
+#INSTITUTE  (2SWTZUR)
+#TITLE      6Li(d,p)7Li and 6Li(d,alpha)alpha reactions at the
+#+          deuteron energy range 3 - 5 MeV
+#AUTHOR(S)  V.Meyer, W.Pfeifer, H.H.Staub
+#REF-CODE   (J,HPA,36,465,1963)
+#REFERENCE  Helv.Phys.Acta 36 (1963) 465
+#DATASETS   0
+#
+#DATASET    A1371008 
+#DATE       20250918
+#REACTION   3-LI-6(D,P)3-LI-7,PAR,DA
+#PROJ       1002
+#TARG       3006
+#MF         4
+#MT         600
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1002  3006   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   4 600  C 5200000.          6.2900-3          0.966376          0.000000         LVLV.Meyer+             (63)A1371  8 
+ 1002  3006   4 600  C 5200000.          8.8600-3          0.900319          0.000000         LVLV.Meyer+             (63)A1371  8 
+ 1002  3006   4 600  C 5200000.          8.2600-3          0.841511          0.000000         LVLV.Meyer+             (63)A1371  8 
+ 1002  3006   4 600  C 5200000.          6.7800-3          0.795473          0.000000         LVLV.Meyer+             (63)A1371  8 
+ 1002  3006   4 600  C 5200000.          5.0800-3          0.744312          0.000000         LVLV.Meyer+             (63)A1371  8 
+ 1002  3006   4 600  C 5200000.          3.8300-3          0.684547          0.000000         LVLV.Meyer+             (63)A1371  8 
+ 1002  3006   4 600  C 5200000.          1.9800-3          0.537300          0.000000         LVLV.Meyer+             (63)A1371  8 
+ 1002  3006   4 600  C 5200000.          1.7900-3          0.379456          0.000000         LVLV.Meyer+             (63)A1371  8 
+#/DATA      8
+#/DATASET
+#
+#DATASET    A1371008 
+#DATE       20250918
+#REACTION   3-LI-6(D,P)3-LI-7,PAR,DA
+#PROJ       1002
+#TARG       3006
+#MF         4
+#MT         600
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1002  3006   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   4 600  C 5200000.          5.1300-3          0.967709          478000.0         LVLV.Meyer+             (63)A1371  8 
+ 1002  3006   4 600  C 5200000.          6.6600-3          0.903335          478000.0         LVLV.Meyer+             (63)A1371  8 
+ 1002  3006   4 600  C 5200000.          6.1300-3          0.842452          478000.0         LVLV.Meyer+             (63)A1371  8 
+ 1002  3006   4 600  C 5200000.          4.9200-3          0.800731          478000.0         LVLV.Meyer+             (63)A1371  8 
+ 1002  3006   4 600  C 5200000.          4.0900-3          0.741976          478000.0         LVLV.Meyer+             (63)A1371  8 
+ 1002  3006   4 600  C 5200000.          3.0600-3          0.681998          478000.0         LVLV.Meyer+             (63)A1371  8 
+ 1002  3006   4 600  C 5200000.          1.7000-3          0.529919          478000.0         LVLV.Meyer+             (63)A1371  8 
+ 1002  3006   4 600  C 5200000.          1.2900-3          0.366501          478000.0         LVLV.Meyer+             (63)A1371  8 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      10837
+#AUTHOR1    S.K.Ghorai+
+#YEAR       1980
+#INSTITUTE  (1USAAUB)
+#TITLE      THE (N,2N) ISOMERIC CROSS SECTION RATIOS AND THE
+#+          (N,2N) AND (N,ALPHA) EXCITATION FUNCTIONS FOR CO-59
+#AUTHOR(S)  S.K.Ghorai, J.E.Gaiser, W.L.Alford
+#REF-CODE   (J,ANE,7,41,80)
+#REFERENCE  Ann.Nucl.Energy 7 (1980) 41 (doi:10.1016/0306-4549(80)90005-5)
+#DATASETS   0
+#
+#DATASET    10837004 
+#DATE       19811123
+#REACTION   27-CO-59(N,2N)27-CO-58-G,,SIG
+#PROJ       1
+#TARG       27059
+#MF         3
+#MT         16
+#PRODUCT    27-CO-58-G
+#C4BEGIN    [    1 27059   3  16GA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   3  16GA  1.3400+7 100000.0 0.222000 0.020000                                       S.K.Ghorai+          (80)10837  4 
+    1 27059   3  16GA  1.4000+7 200000.0 0.264000 0.024000                                       S.K.Ghorai+          (80)10837  4 
+    1 27059   3  16GA  1.5300+7 100000.0 0.284000 0.026000                                       S.K.Ghorai+          (80)10837  4 
+    1 27059   3  16GA  1.6100+7 100000.0 0.259000 0.023000                                       S.K.Ghorai+          (80)10837  4 
+    1 27059   3  16GA  1.7100+7 100000.0 0.257000 0.023000                                       S.K.Ghorai+          (80)10837  4 
+    1 27059   3  16GA  1.8100+7 200000.0 0.269000 0.024000                                       S.K.Ghorai+          (80)10837  4 
+#/DATA      6
+#/DATASET

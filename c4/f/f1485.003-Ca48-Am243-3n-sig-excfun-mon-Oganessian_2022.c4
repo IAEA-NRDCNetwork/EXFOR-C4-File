@@ -1,0 +1,33 @@
+#ENTRY      F1485
+#AUTHOR1    Yu.Ts.Oganessian+
+#YEAR       2022
+#INSTITUTE  (4ZZZDUB)
+#TITLE      New isotope 286Mc produced in the 243Am+48Ca reaction
+#AUTHOR(S)  Yu.Ts.Oganessian, V.K.Utyonkov, N.D.Kovrizhnykh, F.Sh.Abdullin, 
+#+          S.N.Dmitriev, A.A.Dzhioev, D.Ibadullayev, M.G.Itkis, A.V.Karpov, 
+#+          D.A.Kuznetsov, O.V.Petrushkin, A.V.Podshibiakin, A.N.Polyakov, 
+#+          A.G.Popeko, I.S.Rogov, R.N.Sagaidak, L.Schlattauer, V.D.Shubin, 
+#+          M.V.Shumeiko, D.I.Solovyev, Yu.S.Tsyganov, A.A.Voinov, V.G.Subbotin, 
+#+          A.Yu.Bodrov, A.V.Sabel'nikov, A.V.Khalkin, K.P.Rykaczewski, 
+#+          T.T.King, J.B.Roberto, N.T.Brewer, R.K.Grzywacz, Z.G.Gan, 
+#+          Z.Y.Zhang, M.H.Huang, H.B.Yang
+#REF-CODE   (J,PR/C,106,064306,2022)
+#REFERENCE  Phys.Rev.C 106 (2022) 064306 (doi:10.1103/PhysRevC.106.064306)
+#DATASETS   0
+#
+#DATASET    F1485003 
+#DATE       20231108
+#REACTION   95-AM-243(20-CA-48,3N)115-MC-288,,SIG
+#PROJ       20048
+#TARG       95243
+#MF         3
+#MT         17
+#PRODUCT    115-MC-288
+#C4BEGIN    [20048 95243   3  17 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+20048 95243   3  17 A  2.4220+8          1.500-11                                                Yu.Ts.Oganessian+    (22)F1485  3 
+20048 95243   3  17 A  2.5080+8          4.100-12                                                Yu.Ts.Oganessian+    (22)F1485  3 
+#/DATA      2
+#/DATASET

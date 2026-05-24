@@ -1,0 +1,39 @@
+#ENTRY      D1032
+#AUTHOR1    M.S.Abdelshafy+
+#YEAR       2022
+#INSTITUTE  (3EGYCAI)
+#TITLE      Study of activation cross sections of proton induced
+#+          reactions on natBa and natCe near their threshold
+#+          energy regions
+#AUTHOR(S)  M.S.Abdelshafy, B.M.Ali, K.E.A.Elmageed, H.O.Nafie, H.E.Hassan, 
+#+          M.Al-Abyad
+#REF-CODE   (J,RCA,110,891,2022)
+#REFERENCE  Radiochim.Acta 110 (2022) 891 (doi:10.1515/ract-2022-0048)
+#DATASETS   0
+#
+#DATASET    D1032002 
+#DATE       20221116
+#REACTION   56-BA-0(P,X)57-LA-135,,SIG
+#PROJ       1001
+#TARG       56000
+#MF         3
+#MT         454
+#PRODUCT    57-LA-135
+#C4BEGIN    [ 1001 56000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 56000   3 454 A  1.4400+7 400000.0 0.090700 0.010600           57135.9                     M.S.Abdelshafy+      (22)D1032  2 
+ 1001 56000   3 454 A  1.4300+7 400000.0 0.062200 0.012800           57135.9                     M.S.Abdelshafy+      (22)D1032  2 
+ 1001 56000   3 454 A  1.4100+7 400000.0 0.074500 8.4000-3           57135.9                     M.S.Abdelshafy+      (22)D1032  2 
+ 1001 56000   3 454 A  1.3300+7 400000.0 0.083000 9.4000-3           57135.9                     M.S.Abdelshafy+      (22)D1032  2 
+ 1001 56000   3 454 A  1.3000+7 500000.0 0.067200 7.5000-3           57135.9                     M.S.Abdelshafy+      (22)D1032  2 
+ 1001 56000   3 454 A  1.2600+7 500000.0 0.068400 7.7000-3           57135.9                     M.S.Abdelshafy+      (22)D1032  2 
+ 1001 56000   3 454 A  1.2400+7 500000.0 0.065200 7.3000-3           57135.9                     M.S.Abdelshafy+      (22)D1032  2 
+ 1001 56000   3 454 A  1.1600+7 500000.0 0.044000 5.0000-3           57135.9                     M.S.Abdelshafy+      (22)D1032  2 
+ 1001 56000   3 454 A  1.1200+7 500000.0 0.040100 4.5000-3           57135.9                     M.S.Abdelshafy+      (22)D1032  2 
+ 1001 56000   3 454 A  1.0600+7 600000.0 0.060600 6.8000-3           57135.9                     M.S.Abdelshafy+      (22)D1032  2 
+ 1001 56000   3 454 A  7700000. 800000.0 0.025500 4.2000-3           57135.9                     M.S.Abdelshafy+      (22)D1032  2 
+ 1001 56000   3 454 A  6700000. 900000.0 7.5000-3 8.0000-4           57135.9                     M.S.Abdelshafy+      (22)D1032  2 
+#/DATA      12
+#/DATASET

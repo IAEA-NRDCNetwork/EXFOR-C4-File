@@ -1,0 +1,33 @@
+#ENTRY      D7031
+#AUTHOR1    M.Shahid+
+#YEAR       2018
+#INSTITUTE  (3KORKNU)
+#TITLE      Measurement of excitation functions of natTa(p,x)
+#+          reactions up to 44.2 MeV
+#AUTHOR(S)  M.Shahid, K.Kim, G.N.Kim, M.Zaman, M.Tatari, S.C.Yang, H.Naik
+#REF-CODE   (J,JRN,318,1863,2018)
+#REFERENCE  J.Rad.Nucl.Chem. 318 (2018) 1863 (doi:10.1007/s10967-018-6169-6)
+#DATASETS   0
+#
+#DATASET    D7031002 
+#DATE       20210106
+#REACTION   73-TA-0(P,X)74-W-177,,SIG
+#PROJ       1001
+#TARG       73000
+#MF         3
+#MT         454
+#PRODUCT    74-W-177
+#C4BEGIN    [ 1001 73000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 73000   3 454 A  4.3900+7 290000.0 0.672000 0.042600           74177.9                     M.Shahid+            (18)D7031  2 
+ 1001 73000   3 454 A  4.2500+7 290000.0 0.538000 0.034100           74177.9                     M.Shahid+            (18)D7031  2 
+ 1001 73000   3 454 A  4.1100+7 290000.0 0.428000 0.027200           74177.9                     M.Shahid+            (18)D7031  2 
+ 1001 73000   3 454 A  3.9600+7 300000.0 0.266000 0.017000           74177.9                     M.Shahid+            (18)D7031  2 
+ 1001 73000   3 454 A  3.8100+7 300000.0 0.121000 7.8000-3           74177.9                     M.Shahid+            (18)D7031  2 
+ 1001 73000   3 454 A  3.6600+7 330000.0 0.046200 3.0000-3           74177.9                     M.Shahid+            (18)D7031  2 
+ 1001 73000   3 454 A  3.5000+7 330000.0 8.8000-3 6.0000-4           74177.9                     M.Shahid+            (18)D7031  2 
+ 1001 73000   3 454 A  3.3300+7 330000.0 2.3000-3 2.0000-4           74177.9                     M.Shahid+            (18)D7031  2 
+#/DATA      8
+#/DATASET

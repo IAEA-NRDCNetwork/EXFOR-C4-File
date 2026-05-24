@@ -1,0 +1,48 @@
+#ENTRY      O0306
+#AUTHOR1    C.Deptula+
+#YEAR       1990
+#INSTITUTE  (3POLIPJ)
+#TITLE      Excitation functions and yield for medically important
+#+          generators 82Sr -> 82Rb, 123Xe -> 123I and
+#+          201Bi -> 201Pb -> Tl-201 obtained with 100 MeV protons
+#+          obtained with 100 MeV protons.
+#AUTHOR(S)  C.Deptula, V.A.Khalkin, Kim Sen Han, O.Knotek, V.A.Konov, 
+#+          P.Mikecz, L.M.Popinenkova, E.Rurarz, N.G.Zaitseva
+#REF-CODE   (J,NKA,35,3,1990)
+#REFERENCE  Nukleonica 35 (1990) 3
+#DATASETS   0
+#
+#DATASET    O0306010 
+#DATE       20190306
+#REACTION   82-PB-208(P,3N)83-BI-206,,SIG
+#PROJ       1001
+#TARG       82208
+#MF         3
+#MT         17
+#PRODUCT    83-BI-206
+#C4BEGIN    [ 1001 82208   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   3  17    9.8000+7          0.036000 4.6800-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    9.5900+7          0.037000 4.8100-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    9.3800+7          0.038000 4.9400-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    9.1700+7          0.039000 5.0700-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    8.9600+7          0.040000 5.2000-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    8.7500+7          0.040000 5.2000-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    8.5200+7          0.043000 5.5900-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    8.3000+7          0.043000 5.5900-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    8.0700+7          0.045000 5.8500-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    7.8400+7          0.045000 5.8500-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    7.5900+7          0.048000 6.2400-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    7.3500+7          0.049000 6.3700-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    7.1000+7          0.051000 6.6300-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    6.8400+7          0.052000 6.7600-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    6.5800+7          0.056000 7.2800-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    6.3000+7          0.056000 7.2800-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    6.0100+7          0.059000 7.6700-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    5.7200+7          0.061000 7.9300-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    5.4200+7          0.065000 8.4500-3                                       C.Deptula+           (90)O0306 10 
+ 1001 82208   3  17    5.1100+7          0.069000 8.9700-3                                       C.Deptula+           (90)O0306 10 
+#/DATA      20
+#/DATASET

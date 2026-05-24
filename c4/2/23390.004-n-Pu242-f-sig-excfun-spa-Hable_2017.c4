@@ -1,0 +1,27 @@
+#ENTRY      23390
+#AUTHOR1    A.Hable+
+#YEAR       2017
+#INSTITUTE  (2AUSTHV)
+#TITLE      Determination of integral fast fission cross sections
+#+          (n,f) of 238U, 237Np, and 242Pu in a directed fission
+#+          neutron beam at FRM II, Garching
+#AUTHOR(S)  A.Hable, C.Ramsl, E.Jericha, H.Boeck, T.H.Randriamalala, 
+#+          M.Rossbach
+#REF-CODE   (J,JRN,314,1471,2017)
+#REFERENCE  J.Rad.Nucl.Chem. 314 (2017) 1471 (doi:10.1007/s10967-017-5512-7)
+#DATASETS   0
+#
+#DATASET    23390004 
+#DATE       20180411
+#REACTION   94-PU-242(N,F),,SIG,,SPA
+#PROJ       1
+#TARG       94242
+#MF         3
+#MT         18
+#C4BEGIN    [    1 94242   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94242   3  18    2120000. 80000.00 2.150000 0.300000                                       A.Hable+             (17)23390  4 
+#/DATA      1
+#/DATASET

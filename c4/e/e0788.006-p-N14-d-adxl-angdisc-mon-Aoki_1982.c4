@@ -1,0 +1,36 @@
+#ENTRY      E0788
+#AUTHOR1    Y.Aoki+
+#YEAR       1982
+#INSTITUTE  (2JPNTSU)
+#TITLE      IMPORTANCE OF THE SEQUENTIAL TWO STEP TRANSFER
+#+          PROCESS IN A DELTA S=1 AND DELTA T=1 INELASTIC
+#+          TRANSITION OF THE 14N(P,P)14N REACTION
+#AUTHOR(S)  Y.Aoki, S.Kunori, K.Nagano, Y.Toba, K.Yagi
+#REF-CODE   (J,NP/A,382,269,1982)
+#REFERENCE  Nucl.Phys.A 382 (1982) 269 (doi:10.1016/0375-9474(82)90136-1)
+#DATASETS   0
+#
+#DATASET    E0788006 
+#DATE       19881026
+#REACTION   7-N-14(P,D)7-N-13,PAR,DA
+#PROJ       1001
+#TARG       7014
+#MF         4
+#MT         650
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1001  7014   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   4 650  C 2.1000+7          8.1750-4          0.896981          3510000.         LVLY.Aoki+              (82)E0788  6 
+ 1001  7014   4 650  C 2.1000+7          8.4810-4          0.850582          3510000.         LVLY.Aoki+              (82)E0788  6 
+ 1001  7014   4 650  C 2.1000+7          7.8670-4          0.800083          3510000.         LVLY.Aoki+              (82)E0788  6 
+ 1001  7014   4 650  C 2.1000+7          6.6060-4          0.731128          3510000.         LVLY.Aoki+              (82)E0788  6 
+ 1001  7014   4 650  C 2.1000+7          6.0520-4          0.667118          3510000.         LVLY.Aoki+              (82)E0788  6 
+ 1001  7014   4 650  C 2.1000+7          5.6130-4          0.588096          3510000.         LVLY.Aoki+              (82)E0788  6 
+ 1001  7014   4 650  C 2.1000+7          4.6550-4          0.503141          3510000.         LVLY.Aoki+              (82)E0788  6 
+ 1001  7014   4 650  C 2.1000+7          6.2700-4          0.412405          3510000.         LVLY.Aoki+              (82)E0788  6 
+ 1001  7014   4 650  C 2.1000+7          6.6690-4          0.334646          3510000.         LVLY.Aoki+              (82)E0788  6 
+ 1001  7014   4 650  C 2.1000+7          4.2490-4         -0.213013          3510000.         LVLY.Aoki+              (82)E0788  6 
+#/DATA      10
+#/DATASET

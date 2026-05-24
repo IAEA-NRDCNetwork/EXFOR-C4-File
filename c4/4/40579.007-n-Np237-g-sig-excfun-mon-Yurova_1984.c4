@@ -1,0 +1,28 @@
+#ENTRY      40579
+#AUTHOR1    L.N.Yurova+
+#YEAR       1984
+#INSTITUTE  (4RUSMIF)
+#TITLE      Integral radiation capture cross-sections
+#+          in thermal and resonance energy region
+#+          for Th-230, Pa-231,232,233, U-236, Np-237
+#AUTHOR(S)  L.N.Yurova, A.A.Polyakov, V.P.Rukhlo, Yu.E.Titarenko, S.F.Komin, 
+#+          Yu.V.Stogov, O.V.Shvedov, B.F.Myasoedov, A.V.Davydov, S.S.Travnikov
+#REF-CODE   (R,INDC(CCP)-226,3,1984)
+#REFERENCE  Report INDC(CCP)-226 page 3, 1984
+#DATASETS   0
+#
+#DATASET    40579007 
+#DATE       20251006
+#REACTION   93-NP-237(N,G)93-NP-238,,SIG
+#PROJ       1
+#TARG       93237
+#MF         3
+#MT         102
+#PRODUCT    93-NP-238
+#C4BEGIN    [    1 93237   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   3 102    0.025300          158.0000 4.000000                                       L.N.Yurova           (84)40579  7 
+#/DATA      1
+#/DATASET

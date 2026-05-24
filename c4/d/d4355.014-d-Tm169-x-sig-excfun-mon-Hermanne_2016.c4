@@ -1,0 +1,34 @@
+#ENTRY      D4355
+#AUTHOR1    A.Hermanne+
+#YEAR       2016
+#INSTITUTE  (2BLGVUB)
+#TITLE      Extension of excitation functions up to 50 MeV for
+#+          activation products in deuteron irradiations of Pr
+#+          and Tm targets
+#AUTHOR(S)  A.Hermanne, F.Tarkanyi, S.Takacs, F.Ditroi
+#REF-CODE   (J,NIM/B,383,81,2016)
+#REFERENCE  Nucl.Instrum.Meth.B 383 (2016) 81 (doi:10.1016/j.nimb.2016.06.010)
+#DATASETS   0
+#
+#DATASET    D4355014 
+#DATE       20160926
+#REACTION   69-TM-169(D,X)69-TM-168,,SIG
+#PROJ       1002
+#TARG       69169
+#MF         3
+#MT         454
+#PRODUCT    69-TM-168
+#C4BEGIN    [ 1002 69169   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 69169   3 454    4.9800+7 200000.0 0.269000 0.032000           69168.9                     A.Hermanne+          (16)D4355 14 
+ 1002 69169   3 454    4.7600+7 200000.0 0.279000 0.033000           69168.9                     A.Hermanne+          (16)D4355 14 
+ 1002 69169   3 454    4.5500+7 300000.0 0.232000 0.028000           69168.9                     A.Hermanne+          (16)D4355 14 
+ 1002 69169   3 454    4.3500+7 400000.0 0.255000 0.031000           69168.9                     A.Hermanne+          (16)D4355 14 
+ 1002 69169   3 454    4.1400+7 500000.0 0.269000 0.032000           69168.9                     A.Hermanne+          (16)D4355 14 
+ 1002 69169   3 454    3.9300+7 600000.0 0.218000 0.026000           69168.9                     A.Hermanne+          (16)D4355 14 
+ 1002 69169   3 454    3.7100+7 700000.0 0.238000 0.029000           69168.9                     A.Hermanne+          (16)D4355 14 
+ 1002 69169   3 454    3.4900+7 800000.0 0.219000 0.026000           69168.9                     A.Hermanne+          (16)D4355 14 
+#/DATA      8
+#/DATASET

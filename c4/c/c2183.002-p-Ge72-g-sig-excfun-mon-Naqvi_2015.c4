@@ -1,0 +1,37 @@
+#ENTRY      C2183
+#AUTHOR1    F.Naqvi+
+#YEAR       2015
+#INSTITUTE  (1USAMSU)
+#TITLE      Proton capture cross section of 72Ge and
+#+          astrophysical implications
+#AUTHOR(S)  F.Naqvi, S.J.Quinn, A.Spyrou, A.Battaglia, M.Couder, P.A.DeYoung, 
+#+          A.C.Dombos, X.Fang, J.Gorres, A.Kontos, Q.Li, S.Lyons, D.Robertson, 
+#+          A.Simon, K.Smith, M.K.Smith, E.Stech, W.P.Tan, M.Wiescher
+#REF-CODE   (J,PR/C,92,025804,2015)
+#REFERENCE  Phys.Rev.C 92 (2015) 025804 (doi:10.1103/PhysRevC.92.025804)
+#DATASETS   0
+#
+#DATASET    C2183002 
+#DATE       20150921
+#REACTION   32-GE-72(P,G)33-AS-73,,SIG
+#PROJ       1001
+#TARG       32072
+#MF         3
+#MT         102
+#PRODUCT    33-AS-73
+#C4BEGIN    [ 1001 32072   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 32072   3 102    1845527. 80002.17 1.7000-4 3.0000-5                                       F.Naqvi+             (15)C2183  2 
+ 1001 32072   3 102    2048336. 70002.11 3.8000-4 5.0000-5                                       F.Naqvi+             (15)C2183  2 
+ 1001 32072   3 102    2261285. 70002.33 6.9000-4 1.0000-4                                       F.Naqvi+             (15)C2183  2 
+ 1001 32072   3 102    2464095. 70002.53 1.0800-3 1.2000-4                                       F.Naqvi+             (15)C2183  2 
+ 1001 32072   3 102    2666905. 60002.35 1.8400-3 1.9000-4                                       F.Naqvi+             (15)C2183  2 
+ 1001 32072   3 102    2869715. 60002.53 2.3100-3 3.1000-4                                       F.Naqvi+             (15)C2183  2 
+ 1001 32072   3 102    3072527. 60002.71 2.9000-3 3.4000-4                                       F.Naqvi+             (15)C2183  2 
+ 1001 32072   3 102    3275338. 60002.89 4.5800-3 8.2000-4                                       F.Naqvi+             (15)C2183  2 
+ 1001 32072   3 102    3478151. 50002.55 6.6100-3 1.1600-3                                       F.Naqvi+             (15)C2183  2 
+ 1001 32072   3 102    3680964. 50002.70 8.5500-3 1.3700-3                                       F.Naqvi+             (15)C2183  2 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      23097
+#AUTHOR1    S.Nakamura+
+#YEAR       2008
+#INSTITUTE  (2JPNJAE)
+#TITLE      Thermal-neutron capture cross sections and resonance
+#+          integrals of Se-80(n,gamma) Se-81m,-81g reactions.
+#AUTHOR(S)  S.Nakamura, K.Furutaka, H.Harada, T.Katoh
+#REF-CODE   (J,NST,45,(2),116,2008)
+#REFERENCE  J.Nucl.Sci.Technol. 45 No.2 (2008) 116 (doi:10.1080/18811248.2008.9711421)
+#DATASETS   0
+#
+#DATASET    23097004 
+#DATE       20090918
+#REACTION   34-SE-80(N,G)34-SE-81-G,,SIG,,MXW
+#PROJ       1
+#TARG       34080
+#MF         3
+#MT         102
+#PRODUCT    34-SE-81-G
+#C4BEGIN    [    1 34080   3 102GD]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34080   3 102GD  0.025300          0.536000 0.046000                                       S.Nakamura+          (08)23097  4 
+#/DATA      1
+#/DATASET

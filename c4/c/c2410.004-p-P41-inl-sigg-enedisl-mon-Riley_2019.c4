@@ -1,0 +1,33 @@
+#ENTRY      C2410
+#AUTHOR1    L.A.Riley+
+#YEAR       2019
+#INSTITUTE  (1USAURS)
+#TITLE      Inverse-kinematics proton scattering from 42,44S, 41,
+#+          43P, and the collapse of the N = 28 major shell closure
+#AUTHOR(S)  L.A.Riley, D.Bazin, J.Belarge, P.C.Bender, B.A.Brown, P.D.Cottle, 
+#+          B.Elman, A.Gade, S.D.Gregory, E.B.Haldeman, K.W.Kemper, 
+#+          B.R.Klybor, M.A.Liggett, S.Lipschutz, B.Longfellow, E.Lunderberg, 
+#+          T.Mijatovic, J.Pereira, L.M.Skiles, R.Titus, A.Volya, D.Weisshaar, 
+#+          J.C.Zamora, R.G.T.Zegers
+#REF-CODE   (J,PR/C,100,044312,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 044312 (doi:10.1103/PhysRevC.100.044312)
+#DATASETS   0
+#
+#DATASET    C2410004 
+#DATE       20191103
+#REACTION   (1-H-1(15-P-41,INL)1-H-1,PAR,SIG,G)=(15-P-41(P,INL)15-P-41,PAR,SIG,G)
+#PROJ       1001
+#TARG       15041
+#MF         13
+#MT         601
+#PRODUCT    15-P-41
+#C4BEGIN    [ 1001 15041  13 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 15041  13 601    5.7700+7          6.0000-3 2.0000-3                   173000.0            L.A.Riley+           (19)C2410  4 
+ 1001 15041  13 601    5.7700+7          1.1000-3 3.0000-4                   733000.0            L.A.Riley+           (19)C2410  4 
+ 1001 15041  13 601    5.7700+7          0.013500 6.0000-4                   972000.0            L.A.Riley+           (19)C2410  4 
+ 1001 15041  13 601    5.7700+7          4.6000-3 4.0000-4                   1415000.            L.A.Riley+           (19)C2410  4 
+#/DATA      4
+#/DATASET

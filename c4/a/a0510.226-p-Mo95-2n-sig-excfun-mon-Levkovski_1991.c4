@@ -1,0 +1,45 @@
+#ENTRY      A0510
+#AUTHOR1    V.N.Levkovski+
+#YEAR       1991
+#INSTITUTE  (4KASKAZ)
+#TITLE      Cross sections of medium mass nuclide activation
+#+          (A=40-100) by medium energy protons and
+#+          alpha-particles (E=10-50 MeV)
+#AUTHOR(S)  V.N.Levkovski
+#REF-CODE   (B,LEVKOVSKIJ,,,1991)
+#REFERENCE  Levkovskij,Act.Cs.By Protons and Alphas,Moscow 1991 page  (1991)
+#DATASETS   0
+#
+#DATASET    A0510226 
+#DATE       20231226
+#REACTION   42-MO-95(P,2N)43-TC-94-M,,SIG
+#PROJ       1001
+#TARG       42095
+#MF         3
+#MT         16
+#PRODUCT    43-TC-94-M
+#C4BEGIN    [ 1001 42095   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42095   3  16M   1.2800+7          0.042000 4.2000-3                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   1.3800+7          0.217000 0.021700                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   1.4800+7          0.286000 0.028600                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   1.5800+7          0.382000 0.038200                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   1.6700+7          0.384000 0.038400                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   1.7500+7          0.456000 0.045600                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   1.8300+7          0.442000 0.044200                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   1.9300+7          0.472000 0.047200                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   2.0300+7          0.425000 0.042500                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   2.1400+7          0.447000 0.044700                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   2.2200+7          0.375000 0.037500                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   2.3100+7          0.337000 0.033700                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   2.4000+7          0.270000 0.027000                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   2.4800+7          0.241000 0.024100                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   2.5700+7          0.180000 0.018000                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   2.6600+7          0.141000 0.014100                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   2.7600+7          0.099000 9.9000-3                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   2.8500+7          0.084000 8.4000-3                                       V.N.Levkovski        (91)A0510226 
+ 1001 42095   3  16M   2.9500+7          0.076000 7.6000-3                                       V.N.Levkovski        (91)A0510226 
+#/DATA      19
+#/DATASET

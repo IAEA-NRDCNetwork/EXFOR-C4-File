@@ -1,0 +1,44 @@
+#ENTRY      C1004
+#AUTHOR1    A.R.Junghans+
+#YEAR       2010
+#INSTITUTE  (1USAWAU)
+#TITLE      Updated S factors for the 7Be(p,g)8B reaction
+#AUTHOR(S)  A.R.Junghans, K.A.Snover, E.C.Mohrmann, E.G.Adelberger, 
+#+          L.Buchmann
+#REF-CODE   (J,PR/C,81,012801,2010)
+#REFERENCE  Phys.Rev.C 81 (2010) 012801 (doi:10.1103/PhysRevC.81.012801)
+#DATASETS   0
+#
+#DATASET    C1004007 
+#DATE       20100302
+#REACTION   4-BE-7(P,G)5-B-8,,SIG,,SFC
+#PROJ       1001
+#TARG       4007
+#MF         3
+#MT         102
+#PRODUCT    5-B-8
+#C4BEGIN    [ 1001  4007   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4007   3 102 D  132776.2          3.1965-9 1.741-10                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  160223.7          6.5897-9 2.789-10                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  210773.1          1.8627-8 6.619-10                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  211116.2          1.8918-8 4.753-10                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  251601.7          3.1992-8 8.245-10                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  292201.8          4.8755-8 1.2566-9                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  292316.2          4.9309-8 1.0063-9                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  317591.2          6.3044-8 1.2484-9                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  317705.6          6.1852-8 1.5619-9                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  373516.9          9.5597-8 1.8384-9                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  373631.3          9.0604-8 1.8397-9                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  414231.9          1.1676-7 1.7255-9                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  414231.9          1.1906-7 2.8759-9                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  996729.6          5.2741-7 6.4318-9                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  998102.1          5.3027-7 1.2881-8                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  1143132.          6.0585-7 9.7326-9                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  1257968.          6.8128-7 7.8913-9                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  1372577.          7.4870-7 1.6825-8                                       A.R.Junghans+        (10)C1004  7 
+ 1001  4007   3 102 D  2006387.          1.0724-6 2.7585-8                                       A.R.Junghans+        (10)C1004  7 
+#/DATA      19
+#/DATASET

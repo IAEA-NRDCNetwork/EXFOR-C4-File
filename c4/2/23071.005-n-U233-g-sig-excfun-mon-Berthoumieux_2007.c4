@@ -1,0 +1,108 @@
+#ENTRY      23071
+#AUTHOR1    E.Berthoumieux+
+#YEAR       2007
+#INSTITUTE  (2FR SAC)
+#TITLE      Simultaneous measurement of the neutron capture and
+#+          fission yields of 233U
+#AUTHOR(S)  E.Berthoumieux, U.Abbondanno, G.Aerts, H.Alvarez, F.Alvarez-Velarde, 
+#+          S.Andriamoje, J.Andrzejewski, P.Assimakopoulos, L.Audouin, 
+#+          G.Badurek, P.Baumann, F.Becvar, F.Calvino, M.Calviani, D.Cano-Ott, 
+#+          R.Capote, C.Carrapico, P.Cennini, V.Chepel, E.Chiaveri, 
+#+          N.Colonna, G.Cortes, A.Couture, J.Cox, M.Dahlfors, S.David, 
+#+          I.Dillmann, C.Domingo-Pardo, W.Dridi, I.Duran, C.Eleftheriadis, 
+#+          M.Embid-Segura, L.Ferrant, A.Ferrari, R.Ferreira-Marques, 
+#+          K.Fujii, W.Furman, I.Goncalves, E.Gonzalez-Romero, F.Gramegna, 
+#+          C.Guerrero, F.Gunsing, B.Haas, R.Haight, M.Heil, A.Herrera-Martinez, 
+#+          M.Igashira, E.Jericha, F.Kaeppeler, Y.Kadi, D.Karadimos, 
+#+          D.Karamanis, M.Kerveno, P.Koehler, E.Kossionides, M.Krticka, 
+#+          C.Lampoudis, H.Leeb, A.Lindote, I.Lopes, M.Lozano, S.Lukic, 
+#+          J.Marganiec, S.Marrone, T.Martinez, C.Massimi, P.Mastinu, 
+#+          A.Mengoni, P.M.Milazzo, C.Moreau, M.Mosconi, F.Neves, H.Oberhummer, 
+#+          S.O'Brien, J.Pancin, C.Papachristodoulou, C.Papadopoulos, 
+#+          C.Paradela, N.Patronis, A.Pavlik, P.Pavlopoulos, L.Perrot, 
+#+          M.T.Pigni, R.Plag, A.Plompen, A.Plukis, A.Poch, J.Praena, 
+#+          C.Pretel, J.Quesada, T.Rauscher, R.Reifarth, C.Rubbia, G.Rudolf, 
+#+          P.Rullhusen, J.Salgado, C.Santos, L.Sarchiapone, I.Savvidis, 
+#+          C.Stephan, G.Tagliente, J.L.Tain, L.Tassan-Got, L.Tavora, 
+#+          R.Terlizzi, G.Vannini, P.Vaz, A.Ventura, D.Villamarin, M.C.Vincente, 
+#+          V.Vlachoudis, R.Vlastou, F.Voss, S.Walter, M.Wiescher, K.Wisshak
+#REF-CODE   (C,2007NICE,,571,2007)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci. and Technology, Nice 2007 page 571
+#DATASETS   0
+#
+#DATASET    23071005 
+#DATE       20180507
+#REACTION   92-U-233(N,G)92-U-234,,SIG
+#PROJ       1
+#TARG       92233
+#MF         3
+#MT         102
+#PRODUCT    92-U-234
+#C4BEGIN    [    1 92233   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   3 102 A  0.842790 0.048460 8.330000 2.890000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  0.945625 0.054375 8.460000 2.910000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  1.061000 0.061000 10.70000 3.280000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  1.190450 0.068450 14.30000 3.790000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  1.335700 0.076800 24.10000 4.910000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  1.498700 0.086200 48.00000 6.930000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  1.681600 0.096700 114.0000 10.70000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  1.886800 0.108500 100.0000 10.00000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  2.117000 0.121700 71.10000 8.430000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  2.375300 0.136600 179.0000 13.40000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  2.665150 0.153250 12.60000 3.560000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  2.990350 0.171950 6.090000 2.470000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  3.355200 0.192900 11.10000 3.320000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  3.764600 0.216500 24.30000 4.930000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  4.223950 0.242850 4.480000 2.120000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  4.739350 0.272550 4.680000 2.160000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  5.317650 0.305750 4.190000 2.050000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  5.966500 0.343100 8.610000 2.930000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  6.694550 0.384950 68.70000 8.290000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  7.511400 0.431900 8.890000 2.980000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  8.427900 0.484600 3.070000 1.750000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  9.456250 0.543750 6.960000 2.640000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  10.61000 0.610000 31.40000 5.610000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  11.90450 0.684500 6.950000 2.640000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  13.35700 0.768000 19.50000 4.410000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  14.98700 0.862000 17.70000 4.210000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  16.81600 0.967000 11.40000 3.380000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  18.86800 1.085000 14.40000 3.800000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  21.17000 1.217000 18.60000 4.310000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  23.75300 1.366000 6.910000 2.630000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  26.65150 1.532500 4.270000 2.070000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  29.90350 1.719500 5.420000 2.330000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  33.55200 1.929000 4.050000 2.010000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  37.64600 2.165000 4.070000 2.020000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  42.23950 2.428500 3.240000 1.800000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  47.39350 2.725500 6.520000 2.550000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  53.17650 3.057500 3.600000 1.900000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  59.66500 3.431000 4.510000 2.120000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  66.94550 3.849500 2.760000 1.660000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  75.11400 4.319000 5.920000 2.430000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  84.27900 4.846000 4.510000 2.120000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  94.56250 5.437500 12.10000 3.480000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  106.1000 6.100000 4.810000 2.190000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  119.0450 6.845000 4.860000 2.200000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  133.5700 7.680000 1.660000 1.290000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  149.8700 8.620000 3.950000 1.990000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  168.1600 9.670000 2.600000 1.610000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  188.6800 10.85000 1.490000 1.220000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  211.7000 12.17000 3.120000 1.770000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  237.5300 13.66000 2.070000 1.440000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  266.5150 15.32500 1.760000 1.330000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  299.0350 17.19500 1.360000 1.170000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  335.5200 19.29000 1.530000 1.240000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  376.4600 21.65000 1.270000 1.130000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  422.3950 24.28500 0.464000 0.681000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  473.9350 27.25500 0.692000 0.832000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  531.7650 30.57500 0.608000 0.780000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  596.6500 34.31000 1.090000 1.050000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  669.4550 38.49500 0.827000 0.909000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  751.1400 43.19000 0.475000 0.689000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  842.7900 48.46000 0.356000 0.597000                                       E.Berthoumieux+      (07)23071  5 
+    1 92233   3 102 A  945.6250 54.37500 0.289000 0.537000                                       E.Berthoumieux+      (07)23071  5 
+#/DATA      62
+#/DATASET

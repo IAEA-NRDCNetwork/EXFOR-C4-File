@@ -1,0 +1,31 @@
+#ENTRY      C2291
+#AUTHOR1    L.A.Riley+
+#YEAR       2017
+#INSTITUTE  (1USAURS)
+#TITLE      Spectroscopy of 54Ti and the systematic behavior of
+#+          low-energy octupole states in Ca and Ti isotopes
+#AUTHOR(S)  L.A.Riley, M.L.Agiorgousis, T.R.Baugher, D.Bazin, R.L.Blanchard, 
+#+          M.Bowry, P.D.Cottle, F.G.Devone, A.Gade, M.T.Glowacki, K.W.Kemper, 
+#+          J.S.Kustina, E.Lunderberg, D.M.McPherson, S.Noji, J.Piekarewicz, 
+#+          F.Recchia, B.V.Sadler, M.Scott, D.Weisshaar, R.G.T.Zegers
+#REF-CODE   (J,PR/C,96,064315,2017)
+#REFERENCE  Phys.Rev.C 96 (2017) 064315 (doi:10.1103/PhysRevC.96.064315)
+#DATASETS   0
+#
+#DATASET    C2291002 
+#DATE       20180131
+#REACTION   (1-H-1(22-TI-54,INL)1-H-1,PAR,SIG,G)=(22-TI-54(P,INL)22-TI-54,PAR,SIG,G)
+#PROJ       1001
+#TARG       22054
+#MF         13
+#MT         601
+#PRODUCT    22-TI-54
+#C4BEGIN    [ 1001 22054  13 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22054  13 601    9.1500+7          3.3000-3 4.0000-4                   1000000.            L.A.Riley+           (17)C2291  2 
+ 1001 22054  13 601    9.1500+7          4.9000-3 4.0000-4                   1264000.            L.A.Riley+           (17)C2291  2 
+ 1001 22054  13 601    9.1500+7          8.7000-3 8.0000-4                   1495000.            L.A.Riley+           (17)C2291  2 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      41154
+#AUTHOR1    Yu.V.Grigoriev+
+#YEAR       1990
+#INSTITUTE  (4RUSFEI)
+#TITLE      Determination of the resonance structure parameters
+#+          of the U-238 cross-section on the basis of the
+#+          measurements of total and partial transmissions
+#+          in the energy range 0.465 - 200 keV
+#AUTHOR(S)  Yu.V.Grigoriev, V.N.Koshcheev, G.N.Manturov, I.A.Sirakov, 
+#+          V.V.Sinitsa, N.B.Yaneva
+#REF-CODE   (R,FEI-2072,1990)
+#REFERENCE  Report FEI-2072, 1990
+#DATASETS   0
+#
+#DATASET    41154003 
+#DATE       20200214
+#REACTION   92-U-238(N,G)92-U-239,,SIG,,AV
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         102
+#PRODUCT    92-U-239
+#C4BEGIN    [    1 92238   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3 102 D  732.5000 267.5000 3.200000 0.250000                                       Yu.V.Grigoriev+      (90)41154  3 
+    1 92238   3 102 D  1575.000 575.0000 1.820000 0.100000                                       Yu.V.Grigoriev+      (90)41154  3 
+    1 92238   3 102 D  3400.000 1250.000 1.220000 0.050000                                       Yu.V.Grigoriev+      (90)41154  3 
+    1 92238   3 102 D  7325.000 2675.000 0.750000 0.030000                                       Yu.V.Grigoriev+      (90)41154  3 
+    1 92238   3 102 D  15750.00 5750.000 0.550000 0.030000                                       Yu.V.Grigoriev+      (90)41154  3 
+    1 92238   3 102 D  34000.00 12500.00 0.440000 0.030000                                       Yu.V.Grigoriev+      (90)41154  3 
+    1 92238   3 102 D  73250.00 26750.00 0.310000 0.040000                                       Yu.V.Grigoriev+      (90)41154  3 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      C0832
+#AUTHOR1    J.S.Wesick+
+#YEAR       1985
+#INSTITUTE  (1USAMRY)
+#TITLE      A study of the continuum spectra from few nucleon
+#+          targets using 100 and 150 MeV incident polarized
+#+          protons.
+#AUTHOR(S)  J.S.Wesick
+#REF-CODE   (J,PR/C,32,1474,1985)
+#REFERENCE  Phys.Rev.C 32 (1985) 1474 (doi:10.1103/PhysRevC.32.1474)
+#DATASETS   0
+#
+#DATASET    C0832002 
+#DATE       20010830
+#REACTION   1-H-2(P,EL)1-H-2,,DA
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4   2    1.0000+8          0.016570 1.0000-4 0.953717                              J.S.Wesick           (85)C0832  2 
+ 1001  1002   4   2    1.0000+8          0.016640 1.7000-4 0.866025                              J.S.Wesick           (85)C0832  2 
+ 1001  1002   4   2    1.0000+8          0.013120 1.4000-4 0.707107                              J.S.Wesick           (85)C0832  2 
+ 1001  1002   4   2    1.0000+8          9.5880-3 9.0000-5 0.500000                              J.S.Wesick           (85)C0832  2 
+#/DATA      4
+#/DATASET

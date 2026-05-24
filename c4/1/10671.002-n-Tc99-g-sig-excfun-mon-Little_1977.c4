@@ -1,0 +1,35 @@
+#ENTRY      10671
+#AUTHOR1    R.C.Little+
+#YEAR       1977
+#INSTITUTE  (1USARPI)
+#TITLE      Neutron capture cross-section measurements of 99-Tc up
+#+          to 80 keV
+#AUTHOR(S)  R.C.Little, R.C.Block
+#REF-CODE   (J,ANS,26,574,19770612)
+#REFERENCE  Trans.Am.Nucl.Soc. 26 (1977) 574
+#DATASETS   0
+#
+#DATASET    10671002 
+#DATE       20210812
+#REACTION   43-TC-99(N,G)43-TC-100,,SIG,,AV
+#PROJ       1
+#TARG       43099
+#MF         3
+#MT         102
+#PRODUCT    43-TC-100
+#C4BEGIN    [    1 43099   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 43099   3 102 D  4500.000 500.0000 2.316000 0.197323                                       R.C.Little+          (77)10671  2 
+    1 43099   3 102 D  7000.000 1000.000 2.053000 0.175326                                       R.C.Little+          (77)10671  2 
+    1 43099   3 102 D  9000.000 1000.000 1.837000 0.157063                                       R.C.Little+          (77)10671  2 
+    1 43099   3 102 D  12500.00 2500.000 1.613000 0.137428                                       R.C.Little+          (77)10671  2 
+    1 43099   3 102 D  17500.00 2500.000 1.332000 0.113486                                       R.C.Little+          (77)10671  2 
+    1 43099   3 102 D  22500.00 2500.000 1.226000 0.104333                                       R.C.Little+          (77)10671  2 
+    1 43099   3 102 D  27500.00 2500.000 1.062000 0.090376                                       R.C.Little+          (77)10671  2 
+    1 43099   3 102 D  45000.00 5000.000 0.803000 0.068335                                       R.C.Little+          (77)10671  2 
+    1 43099   3 102 D  55000.00 5000.000 0.715000 0.060846                                       R.C.Little+          (77)10671  2 
+    1 43099   3 102 D  70000.00 10000.00 0.618000 0.052592                                       R.C.Little+          (77)10671  2 
+#/DATA      10
+#/DATASET

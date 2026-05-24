@@ -1,0 +1,38 @@
+#ENTRY      D0005
+#AUTHOR1    M.Drosg+
+#YEAR       1978
+#INSTITUTE  (1USALAS)
+#TITLE      Unified absolute differential cross sections for
+#+          neutron production by the hydrogen isotopes for
+#+          charged particle energies between 6 and 17 MeV
+#AUTHOR(S)  M.Drosg
+#REF-CODE   (J,NSE,67,190,1978)
+#REFERENCE  Nucl.Sci.Eng. 67 (1978) 190 (doi:10.13182/NSE67-190)
+#DATASETS   0
+#
+#DATASET    D0005003 
+#DATE       20161110
+#REACTION   1-H-3(P,N)2-HE-3,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1003   4   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4   4 AC 1.3600+7          0.020890          1.000000                              M.Drosg              (78)D0005  3 
+ 1001  1003   4   4 AC 1.3600+7          0.018520          0.972370                              M.Drosg              (78)D0005  3 
+ 1001  1003   4   4 AC 1.3600+7          0.013710          0.892586                              M.Drosg              (78)D0005  3 
+ 1001  1003   4   4 AC 1.3600+7          0.010320          0.764921                              M.Drosg              (78)D0005  3 
+ 1001  1003   4   4 AC 1.3600+7          9.0100-3          0.603208                              M.Drosg              (78)D0005  3 
+ 1001  1003   4   4 AC 1.3600+7          0.010020          0.413104                              M.Drosg              (78)D0005  3 
+ 1001  1003   4   4 AC 1.3600+7          0.011060          0.221548                              M.Drosg              (78)D0005  3 
+ 1001  1003   4   4 AC 1.3600+7          0.011210          0.041876                              M.Drosg              (78)D0005  3 
+ 1001  1003   4   4 AC 1.3600+7          0.010300         -0.139173                              M.Drosg              (78)D0005  3 
+ 1001  1003   4   4 AC 1.3600+7          8.3400-3         -0.315649                              M.Drosg              (78)D0005  3 
+ 1001  1003   4   4 AC 1.3600+7          6.6600-3         -0.478692                              M.Drosg              (78)D0005  3 
+ 1001  1003   4   4 AC 1.3600+7          7.2800-3         -0.627963                              M.Drosg              (78)D0005  3 
+#/DATA      12
+#/DATASET

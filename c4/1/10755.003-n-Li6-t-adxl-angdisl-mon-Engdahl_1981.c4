@@ -1,0 +1,30 @@
+#ENTRY      10755
+#AUTHOR1    J.C.Engdahl+
+#YEAR       1981
+#INSTITUTE  (1USAMHG)
+#TITLE      Absolute Measurement of the 6Li(n,alpha)3H Cross
+#+          Section at 23 keV
+#AUTHOR(S)  J.C.Engdahl, G.F.Knoll, J.C.Robertson
+#REF-CODE   (J,NSE,78,44,198105)
+#REFERENCE  Nucl.Sci.Eng. 78 (1981) 44 (doi:10.13182/NSE81-A19605)
+#DATASETS   0
+#
+#DATASET    10755003 
+#DATE       20100324
+#REACTION   3-LI-6(N,T)2-HE-4,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         105
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1  3006   4 105 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4 105 A  22800.00          7.0500-4 2.1000-5 1.000000                              J.C.Engdahl+         (81)10755  3 
+    1  3006   4 105 A  22800.00          7.9100-4 2.4000-5 0.707107                              J.C.Engdahl+         (81)10755  3 
+    1  3006   4 105 A  22800.00          9.3000-4 2.6000-5 6.123-17                              J.C.Engdahl+         (81)10755  3 
+    1  3006   4 105 A  22800.00          1.1280-3 3.3000-5-0.707107                              J.C.Engdahl+         (81)10755  3 
+    1  3006   4 105 A  22800.00          1.1660-3 3.4000-5-1.000000                              J.C.Engdahl+         (81)10755  3 
+#/DATA      5
+#/DATASET

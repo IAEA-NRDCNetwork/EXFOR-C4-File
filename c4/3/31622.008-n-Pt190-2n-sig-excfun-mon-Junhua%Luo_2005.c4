@@ -1,0 +1,28 @@
+#ENTRY      31622
+#AUTHOR1    Junhua Luo+
+#YEAR       2005
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Cross-section measurements for (n,2n) and (n,p)
+#+          reactions on platinum isotopes in the neutron energy
+#+          range of 13.5 to 14.6 MeV
+#AUTHOR(S)  Junhua Luo, Guozhu He, Zhongjie Liu, Xiangzhong Kong
+#REF-CODE   (J,RCA,93,381,2005)
+#REFERENCE  Radiochim.Acta 93 (2005) 381 (doi:10.1524/ract.2005.93.7.381)
+#DATASETS   0
+#
+#DATASET    31622008 
+#DATE       20080721
+#REACTION   78-PT-190(N,2N)78-PT-189,,SIG
+#PROJ       1
+#TARG       78190
+#MF         3
+#MT         16
+#PRODUCT    78-PT-189
+#C4BEGIN    [    1 78190   3  16 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 78190   3  16 A  1.4400+7 200000.0 2.187000 0.164000                                       Junhua Luo+          (05)31622  8 
+    1 78190   3  16 A  1.4100+7 100000.0 1.950000 0.141000                                       Junhua Luo+          (05)31622  8 
+#/DATA      2
+#/DATASET

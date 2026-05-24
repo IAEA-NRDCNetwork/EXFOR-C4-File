@@ -1,0 +1,45 @@
+#ENTRY      40755
+#AUTHOR1    S.V.Kapchigashev+
+#YEAR       1966
+#INSTITUTE  (4RUSLEB)
+#TITLE      Radiative capture cross-sections measurements for
+#+          neutrons in the energy range up to 50 keV for elements
+#+          with even proton number
+#AUTHOR(S)  S.V.Kapchigashev, Yu.P.Popov, F.L.Shapiro
+#REF-CODE   (W,KAPCHIGASHEV,1966)
+#REFERENCE  Private communication  (1966)
+#DATASETS   0
+#
+#DATASET    40755004 
+#DATE       20140627
+#REACTION   74-W-184(N,G)74-W-185,,SIG,,SDT
+#PROJ       1
+#TARG       74184
+#MF         3
+#MT         102
+#PRODUCT    74-W-185
+#C4BEGIN    [    1 74184   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74184   3 102    1500.000          0.930000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    1700.000          0.810000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    1750.000          0.770000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    2050.000          0.750000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    2150.000          0.700000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    2500.000          0.660000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    2800.000          0.640000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    3300.000          0.600000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    3800.000          0.630000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    4300.000          0.540000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    5000.000          0.530000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    6200.000          0.470000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    7200.000          0.430000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    9000.000          0.370000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    11500.00          0.340000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    14000.00          0.280000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    20000.00          0.220000                                                S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    30000.00          0.190000 0.040000                                       S.V.Kapchigashev+    (66)40755  4 
+    1 74184   3 102    35000.00          0.130000                                                S.V.Kapchigashev+    (66)40755  4 
+#/DATA      19
+#/DATASET

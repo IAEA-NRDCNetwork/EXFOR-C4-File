@@ -1,0 +1,32 @@
+#ENTRY      C0601
+#AUTHOR1    R.Abegg+
+#YEAR       1979
+#INSTITUTE  (1CANMNA)
+#TITLE      Measurement of the proton total reaction cross section
+#+          for 159Tb, 181Ta and 197Au between 20 and 48 MeV
+#AUTHOR(S)  R.Abegg, J.Birchall, N.E.Davison, M.S.De Jong, D.L.Ginther, 
+#+          D.K.Hasell, T.N.Nasr, W.T.H.Van Oers, R.F.Carlson, A.J.Cox
+#REF-CODE   (J,NP/A,324,109,1979)
+#REFERENCE  Nucl.Phys.A 324 (1979) 109 (doi:10.1016/0375-9474(79)90081-2)
+#DATASETS   0
+#
+#DATASET    C0601004 
+#DATE       20000328
+#REACTION   79-AU-197(P,NON),,SIG
+#PROJ       1001
+#TARG       79197
+#MF         3
+#MT         3
+#C4BEGIN    [ 1001 79197   3   3 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   3   3 A  2.0100+7          1.344000 0.160000                                       R.Abegg+             (79)C0601  4 
+ 1001 79197   3   3 A  2.5100+7          1.549000 0.118000                                       R.Abegg+             (79)C0601  4 
+ 1001 79197   3   3 A  3.0100+7          1.718000 0.109000                                       R.Abegg+             (79)C0601  4 
+ 1001 79197   3   3 A  3.5100+7          1.743000 0.103000                                       R.Abegg+             (79)C0601  4 
+ 1001 79197   3   3 A  4.0100+7          1.731000 0.098000                                       R.Abegg+             (79)C0601  4 
+ 1001 79197   3   3 A  4.5100+7          1.736000 0.101000                                       R.Abegg+             (79)C0601  4 
+ 1001 79197   3   3 A  4.7500+7          1.857000 0.112000                                       R.Abegg+             (79)C0601  4 
+#/DATA      7
+#/DATASET

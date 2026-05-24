@@ -1,0 +1,27 @@
+#ENTRY      A0536
+#AUTHOR1    V.G.Baty+
+#YEAR       1993
+#INSTITUTE  (4UKRKFT)
+#TITLE      Cross sections of production of finite nuclei in
+#+          interaction 93Nb + 20Ne (8.5 MeV/Nucleon)
+#AUTHOR(S)  V.G.Baty, I.A.Romany, V.V.Selyukova, E.A.Skakun, A.I.Stoyanov, 
+#+          A.P.Tomozov, G.I.Yatsenko
+#REF-CODE   (C,93DUBNS,,283,1993)
+#REFERENCE  Proceedings of 43.Int.Conf.Nucl.Spectrosc.Nucl.Struct.,Dubna 1993 page 283
+#DATASETS   0
+#
+#DATASET    A0536013 
+#DATE       20190626
+#REACTION   41-NB-93(10-NE-20,X)46-PD-100,CUM,SIG
+#PROJ       10020
+#TARG       41093
+#MF         3
+#MT         459
+#PRODUCT    46-PD-100
+#C4BEGIN    [10020 41093   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10020 41093   3 459    1.7000+8          0.141000 0.015000           46100.9                     V.G.Baty+            (93)A0536 13 
+#/DATA      1
+#/DATASET

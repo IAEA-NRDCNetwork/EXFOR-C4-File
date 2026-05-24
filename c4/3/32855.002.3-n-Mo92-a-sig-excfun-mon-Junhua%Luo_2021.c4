@@ -1,0 +1,29 @@
+#ENTRY      32855
+#AUTHOR1    Junhua Luo+
+#YEAR       2021
+#INSTITUTE  (3CPRHXU)
+#TITLE      Ground-state and isomeric-state cross-sections for
+#+          92Mo(n,a)89Zr and 95Mo(n,p)95Nb reactions in the
+#+          13-15 MeV energy region
+#AUTHOR(S)  Junhua Luo, Li Jiang
+#REF-CODE   (J,RCA,109,513,2021)
+#REFERENCE  Radiochim.Acta 109 (2021) 513 (doi:10.1515/ract-2021-1034)
+#DATASETS   0
+#
+#DATASET    328550023
+#DATE       20220317
+#REACTION   42-MO-92(N,A)40-ZR-89,,SIG
+#PROJ       1
+#TARG       42092
+#MF         3
+#MT         107
+#PRODUCT    40-ZR-89
+#C4BEGIN    [    1 42092   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42092   3 107    1.3500+7 200000.0 0.025500 1.6000-3                                       Junhua Luo+          (21)32855  23
+    1 42092   3 107    1.4100+7 200000.0 0.026800 1.9000-3                                       Junhua Luo+          (21)32855  23
+    1 42092   3 107    1.4800+7 200000.0 0.029200 2.3000-3                                       Junhua Luo+          (21)32855  23
+#/DATA      3
+#/DATASET

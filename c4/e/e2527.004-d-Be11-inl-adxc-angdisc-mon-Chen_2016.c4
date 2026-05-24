@@ -1,0 +1,34 @@
+#ENTRY      E2527
+#AUTHOR1    J.Chen+
+#YEAR       2016
+#INSTITUTE  (3CPRBJG)
+#TITLE      Elastic scattering and breakup of 11Be on deuterons at
+#+          26.9A MeV
+#AUTHOR(S)  J.Chen, J.L.Lou, Y.L.Ye, J.Rangel, A.M.Moro, D.Y.Pang, Z.H.Li, 
+#+          Y.C.Ge, Q.T.Li, J.Li, W.Jiang, Y.L.Sun, H.L.Zang, Y.Zhang, 
+#+          N.Aoi, E.Ideguchi, H.J.Ong, J.Lee, J.Wu, H.N.Liu, C.Wen, 
+#+          Y.Ayyad, K.Hatanaka, T.D.Tran, T.Yamamoto, M.Tanaka, T.Suzuki, 
+#+          T.T.Nguyen
+#REF-CODE   (J,PR/C,94,064620,2016)
+#REFERENCE  Phys.Rev.C 94 (2016) 064620 (doi:10.1103/PhysRevC.94.064620)
+#DATASETS   0
+#
+#DATASET    E2527004 
+#DATE       20200702
+#REACTION   (1-H-2(4-BE-11,INL)1-H-2,PAR,DA)=(4-BE-11(D,INL)4-BE-11,PAR,DA)
+#PROJ       1002
+#TARG       4011
+#MF         4
+#MT         651
+#PRODUCT    4-BE-11
+#C4BEGIN    [ 1002  4011   4 651  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4011   4 651  C 5.3800+7          0.021650 2.4600-3 0.919204          4250000. 1250000.LVLJ.Chen+              (16)E2527  4 
+ 1002  4011   4 651  C 5.3800+7          0.024680 2.5200-3 0.879399          4250000. 1250000.LVLJ.Chen+              (16)E2527  4 
+ 1002  4011   4 651  C 5.3800+7          0.012850 1.8300-3 0.838100          4250000. 1250000.LVLJ.Chen+              (16)E2527  4 
+ 1002  4011   4 651  C 5.3800+7          0.010680 1.2600-3 0.797794          4250000. 1250000.LVLJ.Chen+              (16)E2527  4 
+ 1002  4011   4 651  C 5.3800+7          0.010810 1.5400-3 0.760519          4250000. 1250000.LVLJ.Chen+              (16)E2527  4 
+#/DATA      5
+#/DATASET

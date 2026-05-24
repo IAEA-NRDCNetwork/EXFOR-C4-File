@@ -1,0 +1,31 @@
+#ENTRY      C2853
+#AUTHOR1    T.A.Werke+
+#YEAR       2022
+#INSTITUTE  (1USATAM)
+#TITLE      Measurement of fusion-evaporation cross sections for
+#+          reactions of 44Ca with 154,156,157,160Gd targets
+#AUTHOR(S)  T.A.Werke, C.S.Salas, K.J.Glennon, D.A.Mayorov, E.E.Tereshatov, 
+#+          M.F.Volia, D.M.Wright, C.M.Folden Iii
+#REF-CODE   (J,PR/C,106,054615,2022)
+#REFERENCE  Phys.Rev.C 106 (2022) 054615 (doi:10.1103/PhysRevC.106.054615)
+#DATASETS   0
+#
+#DATASET    C2853013 
+#DATE       20240405
+#REACTION   64-GD-156(20-CA-44,5N)84-PO-195,,SIG
+#PROJ       20044
+#TARG       64156
+#MF         3
+#MT         152
+#PRODUCT    84-PO-195
+#C4BEGIN    [20044 64156   3 152  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+20044 64156   3 152    5.7800+7          1.6000-4 3.0000-5                                       T.A.Werke+           (22)C2853 13 
+20044 64156   3 152    6.1600+7          1.6000-4 4.0000-5                                       T.A.Werke+           (22)C2853 13 
+20044 64156   3 152    6.4000+7          3.9000-4 7.0000-5                                       T.A.Werke+           (22)C2853 13 
+20044 64156   3 152    6.6000+7          2.2000-4 4.0000-5                                       T.A.Werke+           (22)C2853 13 
+20044 64156   3 152    7.0100+7          3.5000-4 4.0000-5                                       T.A.Werke+           (22)C2853 13 
+#/DATA      5
+#/DATASET

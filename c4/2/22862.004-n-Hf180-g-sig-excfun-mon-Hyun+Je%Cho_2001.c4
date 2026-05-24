@@ -1,0 +1,28 @@
+#ENTRY      22862
+#AUTHOR1    Hyun-Je Cho+
+#YEAR       2001
+#INSTITUTE  (2JPNKTO)
+#TITLE      .Measurement of thermal neutron cross-sections and
+#+          resonance integrals for Dy-164(N,gamma)Dy-165 and
+#+          Hf-180(N,gamma)Hf-181 reactions.
+#AUTHOR(S)  Hyun-Je Cho, K.Kobayashi, S.Yamamoto, Kyung-Won Seo, Han Yull Hwang, 
+#+          Sang Kyun Nha, Seung Kook Ko
+#REF-CODE   (J,NIM/A,462,442,2001)
+#REFERENCE  Nucl.Instrum.Meth.A 462 (2001) 442 (doi:10.1016/S0168-9002(01)00158-9)
+#DATASETS   0
+#
+#DATASET    22862004 
+#DATE       20110224
+#REACTION   72-HF-180(N,G)72-HF-181,,SIG
+#PROJ       1
+#TARG       72180
+#MF         3
+#MT         102
+#PRODUCT    72-HF-181
+#C4BEGIN    [    1 72180   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 72180   3 102 C  0.025300          13.04000 0.470000                                       Hyun-Je Cho+         (01)22862  4 
+#/DATA      1
+#/DATASET

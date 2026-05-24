@@ -1,0 +1,51 @@
+#ENTRY      32226
+#AUTHOR1    R.M.Musaelyan+
+#YEAR       1987
+#INSTITUTE  (4UKRIJD)
+#TITLE      Neuton scattering with energies 1.2-2.0 MeV by
+#+          tellurium isotopes
+#AUTHOR(S)  R.M.Musaelyan, V.D.Ovdienko, N.T.Sklyar, V.M.Skorkin, M.B.Fedorov, 
+#+          T.I.Yakovenko
+#REF-CODE   (C,87KIEV,3,217,1987)
+#REFERENCE  Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 217
+#DATASETS   0
+#
+#DATASET    32226002 
+#DATE       20091116
+#REACTION   52-TE-122(N,EL)52-TE-122,,DA
+#PROJ       1
+#TARG       52122
+#MF         4
+#MT         2
+#PRODUCT    52-TE-122
+#C4BEGIN    [    1 52122   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52122   4   2    1200000. 55000.00 1.408000 0.072000 0.866025                              R.M.Musaelyan+       (87)32226  2 
+    1 52122   4   2    1200000. 55000.00 0.488000 0.024000 0.500000                              R.M.Musaelyan+       (87)32226  2 
+    1 52122   4   2    1200000. 55000.00 0.161000 0.011500 6.123-17                              R.M.Musaelyan+       (87)32226  2 
+    1 52122   4   2    1200000. 55000.00 0.104500 0.010100-0.500000                              R.M.Musaelyan+       (87)32226  2 
+    1 52122   4   2    1200000. 55000.00 0.286000 0.015500-0.882948                              R.M.Musaelyan+       (87)32226  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    32226002 
+#DATE       20091116
+#REACTION   52-TE-122(N,EL)52-TE-122,,DA
+#PROJ       1
+#TARG       52122
+#MF         4
+#MT         2
+#PRODUCT    52-TE-122
+#C4BEGIN    [    1 52122   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52122   4   2    1970000. 45000.00 1.391000 0.108000 0.866025                              R.M.Musaelyan+       (87)32226  2 
+    1 52122   4   2    1970000. 45000.00 0.312000 0.016800 0.500000                              R.M.Musaelyan+       (87)32226  2 
+    1 52122   4   2    1970000. 45000.00 0.047900 7.2000-3 6.123-17                              R.M.Musaelyan+       (87)32226  2 
+    1 52122   4   2    1970000. 45000.00 0.059300 0.012800-0.500000                              R.M.Musaelyan+       (87)32226  2 
+    1 52122   4   2    1970000. 45000.00 0.188000 0.010000-0.882948                              R.M.Musaelyan+       (87)32226  2 
+#/DATA      5
+#/DATASET

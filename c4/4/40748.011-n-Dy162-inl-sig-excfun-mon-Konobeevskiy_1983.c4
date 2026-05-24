@@ -1,0 +1,35 @@
+#ENTRY      40748
+#AUTHOR1    E.S.Konobeevskiy+
+#YEAR       1983
+#INSTITUTE  (4RUSJIA)
+#TITLE      Excitation of rotation levels of nuclei with A
+#+          ~ 150 - 160 in low energy neutron inelastic scattering
+#AUTHOR(S)  E.S.Konobeevskiy, Yu.G.Kudenko, V.I.Popov, V.M.Skorkin
+#REF-CODE   (C,83KIEV,3,203,1983)
+#REFERENCE  Proceedings of 6.All-Union Conf.on Neutron Physics,Kiev,2-6 Oct.1983 3 page 203
+#DATASETS   0
+#
+#DATASET    40748011 
+#DATE       20231113
+#REACTION   66-DY-162(N,INL)66-DY-162,PAR,SIG
+#PROJ       1
+#TARG       66162
+#MF         3
+#MT         51
+#PRODUCT    66-DY-162
+#C4BEGIN    [    1 66162   3  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 66162   3  51 A  324000.0 90000.00 0.030000 0.010000                   266000.0         LVLE.S.Konobeevskiy+    (83)40748 11 
+    1 66162   3  51 A  370000.0 90000.00 0.040000 0.010000                   266000.0         LVLE.S.Konobeevskiy+    (83)40748 11 
+    1 66162   3  51 A  464000.0 90000.00 0.080000 0.020000                   266000.0         LVLE.S.Konobeevskiy+    (83)40748 11 
+    1 66162   3  51 A  558000.0 90000.00 0.140000 0.020000                   266000.0         LVLE.S.Konobeevskiy+    (83)40748 11 
+    1 66162   3  51 A  653000.0 90000.00 0.200000 0.030000                   266000.0         LVLE.S.Konobeevskiy+    (83)40748 11 
+    1 66162   3  51 A  748000.0 90000.00 0.250000 0.040000                   266000.0         LVLE.S.Konobeevskiy+    (83)40748 11 
+    1 66162   3  51 A  844000.0 90000.00 0.320000 0.050000                   266000.0         LVLE.S.Konobeevskiy+    (83)40748 11 
+    1 66162   3  51 A  945000.0 90000.00 0.370000 0.060000                   266000.0         LVLE.S.Konobeevskiy+    (83)40748 11 
+    1 66162   3  51 A  1040000. 90000.00 0.410000 0.060000                   266000.0         LVLE.S.Konobeevskiy+    (83)40748 11 
+    1 66162   3  51 A  1139000. 90000.00 0.470000 0.070000                   266000.0         LVLE.S.Konobeevskiy+    (83)40748 11 
+#/DATA      10
+#/DATASET

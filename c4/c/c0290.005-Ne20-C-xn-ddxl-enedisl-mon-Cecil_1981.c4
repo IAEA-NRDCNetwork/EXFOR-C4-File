@@ -1,0 +1,31 @@
+#ENTRY      C0290
+#AUTHOR1    R.A.Cecil+
+#YEAR       1981
+#INSTITUTE  (1USAKNT)
+#TITLE      Inclusive neutron production by 337 MeV/nucleon neon
+#+          ions on carbon, aluminum, copper, and uranium
+#AUTHOR(S)  R.A.Cecil, B.D.Anderson, A.R.Baldwin, R.Madey, W.Schimmerling, 
+#+          J.W.Kast, D.Ortendahl
+#REF-CODE   (J,PR/C,24,2013,1981)
+#REFERENCE  Phys.Rev.C 24 (1981) 2013 (doi:10.1103/PhysRevC.24.2013)
+#DATASETS   0
+#
+#DATASET    C0290005 
+#DATE       20170207
+#REACTION   6-C-0(10-NE-20,X)0-NN-1,,DA/DE
+#PROJ       10020
+#TARG       6000
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [10020  6000   6 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10020  6000   6 201    6.7400+9          1.1800-9 6.400-11 6.123-17          1.7500+7 100000.0 E2R.A.Cecil+           (81)C0290  5 
+10020  6000   6 201    6.7400+9          7.300-10 4.700-11 6.123-17          2.8600+7 200000.0 E2R.A.Cecil+           (81)C0290  5 
+10020  6000   6 201    6.7400+9          5.100-10 2.200-11 6.123-17          4.6900+7 400000.0 E2R.A.Cecil+           (81)C0290  5 
+10020  6000   6 201    6.7400+9          2.660-10 1.300-11 6.123-17          7.7700+7 700000.0 E2R.A.Cecil+           (81)C0290  5 
+10020  6000   6 201    6.7400+9          7.200-11 6.000-12 6.123-17          1.3220+8 1400000. E2R.A.Cecil+           (81)C0290  5 
+#/DATA      5
+#/DATASET

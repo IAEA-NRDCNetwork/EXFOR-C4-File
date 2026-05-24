@@ -1,0 +1,26 @@
+#ENTRY      30089
+#AUTHOR1    C.Borcea+
+#YEAR       1970
+#INSTITUTE  (3RUMBUC)
+#TITLE      Absolute measurement of Pu-239 fission cross-section
+#+          for 2200 m/s neutrons
+#AUTHOR(S)  C.Borcea, A.Borza, A.Buta, A.Isbasescu, L.Marinescu, I.Mihai, 
+#+          T.Nascutiu, M.Petrascu, V.Savu, V.Simion
+#REF-CODE   (R,IFA-NR-33,(1970),197007)
+#REFERENCE  Report IFA-NR-33 Vol.(1970), 1970
+#DATASETS   0
+#
+#DATASET    30089002 
+#DATE       20080215
+#REACTION   94-PU-239(N,F),,SIG
+#PROJ       1
+#TARG       94239
+#MF         3
+#MT         18
+#C4BEGIN    [    1 94239   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   3  18 A  0.025260          740.0000 8.000000                                       C.Borcea+            (70)30089  2 
+#/DATA      1
+#/DATASET

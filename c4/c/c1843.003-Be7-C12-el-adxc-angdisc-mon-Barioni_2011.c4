@@ -1,0 +1,31 @@
+#ENTRY      C1843
+#AUTHOR1    A.Barioni+
+#YEAR       2011
+#INSTITUTE  (3BZLUSP)
+#TITLE      Elastic scattering and total reaction cross sections
+#+          for the 8B, 7Be, and 6Li+12C systems
+#AUTHOR(S)  A.Barioni, J.C.Zamora, V.Guimaraes, B.Paes, J.Lubian, E.F.Aguilera, 
+#+          J.J.Kolata, A.L.Roberts, F.D.Becchetti, A.Villano, M.Ojaruega, 
+#+          H.Jiang
+#REF-CODE   (J,PR/C,84,014603,2011)
+#REFERENCE  Phys.Rev.C 84 (2011) 014603 (doi:10.1103/PhysRevC.84.014603)
+#DATASETS   0
+#
+#DATASET    C1843003 
+#DATE       20110719
+#REACTION   6-C-12(4-BE-7,EL)6-C-12,,DA,,RTH
+#PROJ       4007
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 4007  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4007  6012   4   2  C 1.8800+7          3.202817 0.426349 0.936121                              A.Barioni+           (11)C1843  3 
+ 4007  6012   4   2  C 1.8800+7          0.519493 0.049295 0.870442                              A.Barioni+           (11)C1843  3 
+ 4007  6012   4   2  C 1.8800+7          0.125372 0.012537 0.802713                              A.Barioni+           (11)C1843  3 
+ 4007  6012   4   2  C 1.8800+7          0.034608 5.3999-3 0.705995                              A.Barioni+           (11)C1843  3 
+#/DATA      4
+#/DATASET

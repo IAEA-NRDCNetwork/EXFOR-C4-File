@@ -1,0 +1,31 @@
+#ENTRY      E2458
+#AUTHOR1    N.Kobayashi+
+#YEAR       2014
+#INSTITUTE  (2JPNTIT)
+#TITLE      Observation of a p-wave one-neutron halo configuration
+#+          in 37Mg
+#AUTHOR(S)  N.Kobayashi, T.Nakamura, Y.Kondo, J.A.Tostevin, Y.Utsuno, 
+#+          N.Aoi, H.Baba, R.Barthelemy, M.A.Famiano, N.Fukuda, N.Inabe, 
+#+          M.Ishihara, R.Kanungo, S.Kim, T.Kubo, G.S.Lee, H.S.Lee, 
+#+          M.Matsushita, T.Motobayashi, T.Ohnishi, N.A.Orr, H.Otsu, 
+#+          T.Otsuka, T.Sako, H.Sakurai, Y.Satou, T.Sumikama, H.Takeda, 
+#+          S.Takeuchi, R.Tanaka, Y.Togano, K.Yoneda
+#REF-CODE   (J,PRL,112,242501,2014)
+#REFERENCE  Phys.Rev.Lett. 112 (2014) 242501 (doi:10.1103/PhysRevLett.112.242501)
+#DATASETS   0
+#
+#DATASET    E2458003 
+#DATE       20140916
+#REACTION   82-PB-0(12-MG-37,X)12-MG-36,,SIG
+#PROJ       12037
+#TARG       82000
+#MF         3
+#MT         454
+#PRODUCT    12-MG-36
+#C4BEGIN    [12037 82000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+12037 82000   3 454    9.0280+9          0.660000 0.040000           12036.9                     N.Kobayashi+         (14)E2458  3 
+#/DATA      1
+#/DATASET

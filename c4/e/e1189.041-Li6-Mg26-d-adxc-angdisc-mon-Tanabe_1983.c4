@@ -1,0 +1,36 @@
+#ENTRY      E1189
+#AUTHOR1    T.Tanabe+
+#YEAR       1983
+#INSTITUTE  (2JPNTOK)
+#TITLE      (6Li,d) reactions on 24Mg and 26Mg at 73 MeV
+#AUTHOR(S)  T.Tanabe, K.Haga, M.Yasue, K.Sato, K.Ogino, Y.Kadota, M.Tochi, 
+#+          K.Makino, T.Kitahara, T.Shiba
+#REF-CODE   (J,NP/A,399,(1),241,198303)
+#REFERENCE  Nucl.Phys.A 399 No.1 (1983) 241 (doi:10.1016/0375-9474(83)90606-1)
+#DATASETS   0
+#
+#DATASET    E1189041 
+#DATE       20080131
+#REACTION   12-MG-26(3-LI-6,D)14-SI-30,PAR,DA
+#PROJ       3006
+#TARG       12026
+#MF         4
+#MT         650
+#PRODUCT    14-SI-30
+#C4BEGIN    [ 3006 12026   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 12026   4 650  C 7.2700+7          2.3480-5          0.991631          7040000.         LVLT.Tanabe+            (83)E1189 41 
+ 3006 12026   4 650  C 7.2700+7          1.9190-5 2.6610-6 0.985235          7040000.         LVLT.Tanabe+            (83)E1189 41 
+ 3006 12026   4 650  C 7.2700+7          1.5440-5 1.9180-6 0.977893          7040000.         LVLT.Tanabe+            (83)E1189 41 
+ 3006 12026   4 650  C 7.2700+7          1.5140-5          0.966957          7040000.         LVLT.Tanabe+            (83)E1189 41 
+ 3006 12026   4 650  C 7.2700+7          1.0660-5 1.4780-6 0.953032          7040000.         LVLT.Tanabe+            (83)E1189 41 
+ 3006 12026   4 650  C 7.2700+7          1.0990-5          0.937646          7040000.         LVLT.Tanabe+            (83)E1189 41 
+ 3006 12026   4 650  C 7.2700+7          1.1330-5 1.1860-6 0.920232          7040000.         LVLT.Tanabe+            (83)E1189 41 
+ 3006 12026   4 650  C 7.2700+7          1.0550-5 1.1060-6 0.877481          7040000.         LVLT.Tanabe+            (83)E1189 41 
+ 3006 12026   4 650  C 7.2700+7          8.5980-6          0.826590          7040000.         LVLT.Tanabe+            (83)E1189 41 
+ 3006 12026   4 650  C 7.2700+7          3.6520-6 4.5040-7 0.705501          7040000.         LVLT.Tanabe+            (83)E1189 41 
+ 3006 12026   4 650  C 7.2700+7          1.0770-6 2.9090-7 0.563382          7040000.         LVLT.Tanabe+            (83)E1189 41 
+#/DATA      11
+#/DATASET

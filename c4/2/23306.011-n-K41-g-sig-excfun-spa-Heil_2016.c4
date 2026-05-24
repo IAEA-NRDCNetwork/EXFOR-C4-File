@@ -1,0 +1,27 @@
+#ENTRY      23306
+#AUTHOR1    M.Heil+
+#YEAR       2016
+#INSTITUTE  (2GERKFK)
+#TITLE      Stellar neutron capture cross sections of 41K and 45Sc
+#AUTHOR(S)  M.Heil, R.Plag, E.Uberseder, S.Bisterzo, F.Kaeppeler, A.Mengoni, 
+#+          M.Pignatari
+#REF-CODE   (J,PR/C,93,055807,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 055807 (doi:10.1103/PhysRevC.93.055807)
+#DATASETS   0
+#
+#DATASET    23306011 
+#DATE       20211215
+#REACTION   19-K-41(N,G)19-K-42,,SIG,,SPA
+#PROJ       1
+#TARG       19041
+#MF         3
+#MT         102
+#PRODUCT    19-K-42
+#C4BEGIN    [    1 19041   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 19041   3 102    25000.00          0.021700 1.6000-3                                       M.Heil+              (16)23306 11 
+    1 19041   3 102    25000.00          0.021500 5.0000-4                                       M.Heil+              (16)23306 11 
+#/DATA      2
+#/DATASET

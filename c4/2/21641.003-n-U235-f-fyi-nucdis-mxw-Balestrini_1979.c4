@@ -1,0 +1,35 @@
+#ENTRY      21641
+#AUTHOR1    S.J.Balestrini+
+#YEAR       1979
+#INSTITUTE  (2GERJLU)
+#TITLE      -INDEPENDENT YIELDS OF RB AND CS ISOTOPES FROM THERMAL
+#+          NEUTRON INDUCED FISSION OF U-235 -.
+#AUTHOR(S)  S.J.Balestrini, R.Decker, H.Wollnick, K.D.Wuensch, G.Jung, 
+#+          E.Koglin, G.Siegert
+#REF-CODE   (J,PR/C,20,2244,197912)
+#REFERENCE  Phys.Rev.C 20 (1979) 2244 (doi:10.1103/PhysRevC.20.2244)
+#DATASETS   0
+#
+#DATASET    21641003 
+#DATE       20060809
+#REACTION   92-U-235(N,F)ELEM/MASS,IND,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         454
+#C4BEGIN    [    1 92235   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 454    0.025300          6.0600-4 6.3000-5 55.00000 137.0000 9.000000            S.J.Balestrini+      (79)21641  3 
+    1 92235   8 454    0.025300          5.3200-3 2.1000-4 55.00000 138.0000 9.000000            S.J.Balestrini+      (79)21641  3 
+    1 92235   8 454    0.025300          0.014300 5.5000-4 55.00000 139.0000 9.000000            S.J.Balestrini+      (79)21641  3 
+    1 92235   8 454    0.025300          0.028400 1.2000-3 55.00000 140.0000 9.000000            S.J.Balestrini+      (79)21641  3 
+    1 92235   8 454    0.025300          0.031100 1.0000-3 55.00000 141.0000 9.000000            S.J.Balestrini+      (79)21641  3 
+    1 92235   8 454    0.025300          0.026840 7.2000-4 55.00000 142.0000 9.000000            S.J.Balestrini+      (79)21641  3 
+    1 92235   8 454    0.025300          0.013550 3.7000-4 55.00000 143.0000 9.000000            S.J.Balestrini+      (79)21641  3 
+    1 92235   8 454    0.025300          4.2800-3 1.0000-4 55.00000 144.0000 9.000000            S.J.Balestrini+      (79)21641  3 
+    1 92235   8 454    0.025300          8.5300-4 2.5000-5 55.00000 145.0000 9.000000            S.J.Balestrini+      (79)21641  3 
+    1 92235   8 454    0.025300          7.5800-5 6.2000-6 55.00000 146.0000 9.000000            S.J.Balestrini+      (79)21641  3 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      O1368
+#AUTHOR1    N.Seichert+
+#YEAR       1980
+#INSTITUTE  (2GERMUN)
+#TITLE      D-state effects in (d,p), (d,t) and (d,He3) reactions
+#+          at E(d)=22-MeV.
+#AUTHOR(S)  N.Seichert, H.Clement, R.Frick, G.Graw, S.Roman, F.D.Santos
+#REF-CODE   (C,80SANTA,,670,1980)
+#REFERENCE  Proceedings of 5.Symp.on Polar.Phen.in Nucl.Phys.,Santa Fe 1980 page 670
+#DATASETS   0
+#
+#DATASET    O1368005 
+#DATE       20060529
+#REACTION   29-CU-65(D,HE3)28-NI-64,PAR,DA
+#PROJ       1002
+#TARG       29065
+#MF         4
+#MT         750
+#PRODUCT    28-NI-64
+#C4BEGIN    [ 1002 29065   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 29065   4 750  C 2.2000+7          9.4800-4          0.956814          0.000000         LVLN.Seichert+          (80)O1368  5 
+ 1002 29065   4 750  C 2.2000+7          3.5400-4          0.922538          0.000000         LVLN.Seichert+          (80)O1368  5 
+ 1002 29065   4 750  C 2.2000+7          8.3900-4          0.882127          0.000000         LVLN.Seichert+          (80)O1368  5 
+ 1002 29065   4 750  C 2.2000+7          5.0400-4          0.839620          0.000000         LVLN.Seichert+          (80)O1368  5 
+ 1002 29065   4 750  C 2.2000+7          1.9900-4          0.777146          0.000000         LVLN.Seichert+          (80)O1368  5 
+ 1002 29065   4 750  C 2.2000+7          2.5200-4          0.727773          0.000000         LVLN.Seichert+          (80)O1368  5 
+ 1002 29065   4 750  C 2.2000+7          2.3900-4          0.676876          0.000000         LVLN.Seichert+          (80)O1368  5 
+ 1002 29065   4 750  C 2.2000+7          1.1400-4          0.608761          0.000000         LVLN.Seichert+          (80)O1368  5 
+ 1002 29065   4 750  C 2.2000+7          5.5900-5          0.455545          0.000000         LVLN.Seichert+          (80)O1368  5 
+ 1002 29065   4 750  C 2.2000+7          2.3500-5          0.280667          0.000000         LVLN.Seichert+          (80)O1368  5 
+ 1002 29065   4 750  C 2.2000+7          1.8500-5          0.104528          0.000000         LVLN.Seichert+          (80)O1368  5 
+ 1002 29065   4 750  C 2.2000+7          9.4000-6         -0.045363          0.000000         LVLN.Seichert+          (80)O1368  5 
+ 1002 29065   4 750  C 2.2000+7          5.9000-6         -0.233445          0.000000         LVLN.Seichert+          (80)O1368  5 
+#/DATA      13
+#/DATASET

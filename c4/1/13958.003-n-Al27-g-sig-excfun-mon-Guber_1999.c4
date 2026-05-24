@@ -1,0 +1,33 @@
+#ENTRY      13958
+#AUTHOR1    K.H.Guber+
+#YEAR       1999
+#INSTITUTE  (1USAORL)
+#TITLE      Neutron Capture and Neutron Total Cross Sections
+#+          Measurements for 27Al at the Oak Ridge Electron
+#+          Linear Accelerator
+#AUTHOR(S)  K.H.Guber, L.C.Leal, R.O.Sayer, R.R.Spencer, P.E.Koehler, 
+#+          R.Q.Wright, J.A.Harvey, N.W.Hill
+#REF-CODE   (C,99SANTA,,737,1999)
+#REFERENCE  Proceedings of Symp.on Capt.Gamma Ray Spectroscopy, Santa Fe,NM 1999 page 737
+#DATASETS   0
+#
+#DATASET    13958003 
+#DATE       20150609
+#REACTION   13-AL-27(N,G)13-AL-28,,SIG,,AV
+#PROJ       1
+#TARG       13027
+#MF         3
+#MT         102
+#PRODUCT    13-AL-28
+#C4BEGIN    [    1 13027   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   3 102 D  5500.000 500.0000 0.092300                                                K.H.Guber+           (99)13958  3 
+    1 13027   3 102 D  30000.00 20000.00 2.9300-3                                                K.H.Guber+           (99)13958  3 
+    1 13027   3 102 D  75000.00 25000.00 1.4000-3                                                K.H.Guber+           (99)13958  3 
+    1 13027   3 102 D  150000.0 50000.00 7.4000-4                                                K.H.Guber+           (99)13958  3 
+    1 13027   3 102 D  250000.0 50000.00 3.9000-4                                                K.H.Guber+           (99)13958  3 
+    1 13027   3 102 D  350000.0 50000.00 5.8000-4                                                K.H.Guber+           (99)13958  3 
+#/DATA      6
+#/DATASET

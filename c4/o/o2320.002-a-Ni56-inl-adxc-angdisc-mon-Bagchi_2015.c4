@@ -1,0 +1,38 @@
+#ENTRY      O2320
+#AUTHOR1    S.Bagchi+
+#YEAR       2015
+#INSTITUTE  (2NEDGRN)
+#TITLE      Observation of isoscalar multipole strengths in exotic
+#+          doubly-magic 56Ni in inelastic alpha-scattering in
+#+          inverse kinematics.
+#AUTHOR(S)  S.Bagchi, J.Gibelin, M.N.Harakeh, N.Kalantar-Nayestanaki, 
+#+          N.L.Achouri, H.Akimune, B.Bastin, K.Boretzky, H.Bouzomita, 
+#+          M.Caamano, L.Caceres, S.Damoy, F.Delaunay, B.Fernandez-Dominguez, 
+#+          M.Fujiwara, U.Garg, E.Khan, G.F.Grinyer, O.Kamalou, E.Khan, 
+#+          A.Krasznahorkay, G.Lhoutellier, J.F.Libin, S.Lukyanov, K.Mazurek, 
+#+          M.Najafi, J.Pancin, Y.Penionzhkevich, L.Perrot, R.Raabe, 
+#+          C.Rigollet, T.Roger, S.Sambi, H.Savajols, M.Senoville, C.Stodel, 
+#+          L.Suen, J.C.Thomas, M.Vandebrouck, J.Van de Walle
+#REF-CODE   (J,PL/B,751,371,2015)
+#REFERENCE  Phys.Lett.B 751 (2015) 371 (doi:10.1016/j.physletb.2015.10.060)
+#DATASETS   0
+#
+#DATASET    O2320002 
+#DATE       20170131
+#REACTION   (2-HE-4(28-NI-56,INL)2-HE-4,PAR,DA)=(28-NI-56(A,INL)28-NI-56,PAR,DA)
+#PROJ       2004
+#TARG       28056
+#MF         4
+#MT         801
+#PRODUCT    28-NI-56
+#C4BEGIN    [ 2004 28056   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28056   4 801  C 2.0000+8          0.198800 0.180400 0.996931 6.4218-4 1.1000+7         LVLS.Bagchi+            (15)O2320  2 
+ 2004 28056   4 801  C 2.0000+8          0.191500 0.099040 0.995379 7.5414-4 1.1000+7         LVLS.Bagchi+            (15)O2320  2 
+ 2004 28056   4 801  C 2.0000+8          0.162800 0.071380 0.993572 9.8788-4 1.1000+7         LVLS.Bagchi+            (15)O2320  2 
+ 2004 28056   4 801  C 2.0000+8          0.040480 0.059450 0.991490 9.3155-4 1.1000+7         LVLS.Bagchi+            (15)O2320  2 
+ 2004 28056   4 801  C 2.0000+8          0.062830 0.051980 0.989016 1.2125-3 1.1000+7         LVLS.Bagchi+            (15)O2320  2 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      C1959
+#AUTHOR1    U.Hager+
+#YEAR       2012
+#INSTITUTE  (1USACSM)
+#TITLE      Direct measurement of the 16O(a,g)20Ne reaction at
+#+          Ec.m. = 2.43 MeV and 1.69 MeV
+#AUTHOR(S)  U.Hager, L.Buchmann, B.Davids, J.Fallis, U.Greife, D.A.Hutcheon, 
+#+          D.Irvine, D.Ottewell, A.Rojas, S.Reeve, C.Ruiz
+#REF-CODE   (J,PR/C,86,055802,2012)
+#REFERENCE  Phys.Rev.C 86 (2012) 055802 (doi:10.1103/PhysRevC.86.055802)
+#DATASETS   0
+#
+#DATASET    C1959002 
+#DATE       20121119
+#REACTION   (2-HE-4(8-O-16,G)10-NE-20,,SIG,,SFC)=(8-O-16(A,G)10-NE-20,,SIG,,SFC)
+#PROJ       2004
+#TARG       8016
+#MF         3
+#MT         102
+#PRODUCT    10-NE-20
+#C4BEGIN    [ 2004  8016   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  8016   3 102    2118006.          1.0420-9 4.585-11                                       U.Hager+             (12)C1959  2 
+ 2004  8016   3 102    2932002.          5.3272-9 2.762-10                                       U.Hager+             (12)C1959  2 
+ 2004  8016   3 102    3033285.          4.0623-7 5.2081-9                                       U.Hager+             (12)C1959  2 
+#/DATA      3
+#/DATASET

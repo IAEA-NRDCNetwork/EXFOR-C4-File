@@ -1,0 +1,26 @@
+#ENTRY      10728
+#AUTHOR1    M.F.Elgart+
+#YEAR       1971
+#INSTITUTE  (1USABLN)
+#TITLE      The thermal neutron capture cross sections of some
+#+          reactor-produced radionuclides.
+#AUTHOR(S)  M.F.Elgart
+#REF-CODE   (T,ELGART,1971)
+#REFERENCE  Thesis  (1971)
+#DATASETS   0
+#
+#DATASET    10728004 
+#DATE       20160804
+#REACTION   51-SB-124(N,G)51-SB-125,,SIG,,MXW
+#PROJ       1
+#TARG       51124
+#MF         3
+#MT         102
+#PRODUCT    51-SB-125
+#C4BEGIN    [    1 51124   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 51124   3 102 A  0.025300          2990.000 260.0000                                       M.F.Elgart           (71)10728  4 
+#/DATA      1
+#/DATASET

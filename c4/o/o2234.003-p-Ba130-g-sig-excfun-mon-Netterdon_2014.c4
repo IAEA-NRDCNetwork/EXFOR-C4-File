@@ -1,0 +1,34 @@
+#ENTRY      O2234
+#AUTHOR1    L.Netterdon+
+#YEAR       2014
+#INSTITUTE  (2GERKLN)
+#TITLE      Cross-section measurement of the 130Ba(p,g)131La
+#+          reaction for gamma-process nucleosynthesis.
+#AUTHOR(S)  L.Netterdon, A.Endres, G.G.Kiss, J.Mayer, T.Rauscher, P.Scholz, 
+#+          K.Sonnabend, Zs.Toeroek, A.Zilges
+#REF-CODE   (J,PR/C,90,035806,2014)
+#REFERENCE  Phys.Rev.C 90 (2014) 035806 (doi:10.1103/PhysRevC.90.035806)
+#DATASETS   0
+#
+#DATASET    O2234003 
+#DATE       20141214
+#REACTION   56-BA-130(P,G)57-LA-131,,SIG
+#PROJ       1001
+#TARG       56130
+#MF         3
+#MT         102
+#PRODUCT    57-LA-131
+#C4BEGIN    [ 1001 56130   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 56130   3 102 D  3600772. 11000.32 2.5000-4 2.0000-5                                       L.Netterdon+         (14)O2234  3 
+ 1001 56130   3 102 D  3814423. 9000.281 3.5000-4 3.0000-5                                       L.Netterdon+         (14)O2234  3 
+ 1001 56130   3 102 D  4002880. 12000.39 7.4000-4 5.0000-5                                       L.Netterdon+         (14)O2234  3 
+ 1001 56130   3 102 D  4211493. 9000.310 9.7000-4 7.0000-5                                       L.Netterdon+         (14)O2234  3 
+ 1001 56130   3 102 D  4415067. 8000.289 1.4700-3 1.3000-4                                       L.Netterdon+         (14)O2234  3 
+ 1001 56130   3 102 D  4605540. 12000.45 2.4400-3 1.7000-4                                       L.Netterdon+         (14)O2234  3 
+ 1001 56130   3 102 D  4813146. 9000.355 3.7700-3 2.8000-4                                       L.Netterdon+         (14)O2234  3 
+ 1001 56130   3 102 D  5016722. 8000.329 4.7000-3 6.8000-4                                       L.Netterdon+         (14)O2234  3 
+#/DATA      8
+#/DATASET

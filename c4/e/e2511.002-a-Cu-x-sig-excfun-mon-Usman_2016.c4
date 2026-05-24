@@ -1,0 +1,32 @@
+#ENTRY      E2511
+#AUTHOR1    A.R.Usman+
+#YEAR       2016
+#INSTITUTE  (3MALMAL)
+#TITLE      Production cross-sections of radionuclides from
+#+          alpha-induced reactions on natural copper up to 50 MeV
+#AUTHOR(S)  A.R.Usman, M.U.Khandaker, H.Haba, N.Otuka, M.Murakami, Y.Komori
+#REF-CODE   (J,ARI,114,104,2016)
+#REFERENCE  Appl.Radiat.Isot. 114 (2016) 104 (doi:10.1016/j.apradiso.2016.04.027)
+#DATASETS   0
+#
+#DATASET    E2511002 
+#DATE       20170125
+#REACTION   29-CU-0(A,X)31-GA-66,,SIG
+#PROJ       2004
+#TARG       29000
+#MF         3
+#MT         454
+#PRODUCT    31-GA-66
+#C4BEGIN    [ 2004 29000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 29000   3 454 A  4.8500+7 800000.0 0.086600 7.1000-3           31066.9                     A.R.Usman+           (16)E2511  2 
+ 2004 29000   3 454 A  4.5200+7 900000.0 0.114900 9.4000-3           31066.9                     A.R.Usman+           (16)E2511  2 
+ 2004 29000   3 454 A  4.0800+7 900000.0 0.128800 0.010600           31066.9                     A.R.Usman+           (16)E2511  2 
+ 2004 29000   3 454 A  3.6000+7 1000000. 0.086700 7.1000-3           31066.9                     A.R.Usman+           (16)E2511  2 
+ 2004 29000   3 454 A  3.0600+7 1200000. 0.028100 2.4000-3           31066.9                     A.R.Usman+           (16)E2511  2 
+ 2004 29000   3 454 A  2.4300+7 1400000. 0.117800 9.7000-3           31066.9                     A.R.Usman+           (16)E2511  2 
+ 2004 29000   3 454 A  1.6500+7 1900000. 0.435600 0.035600           31066.9                     A.R.Usman+           (16)E2511  2 
+#/DATA      7
+#/DATASET

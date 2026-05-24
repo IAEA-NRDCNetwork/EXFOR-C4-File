@@ -1,0 +1,37 @@
+#ENTRY      A0602
+#AUTHOR1    S.N.Kondratyev+
+#YEAR       1998
+#INSTITUTE  (4UKRIJD)
+#TITLE      Nuclear reaction cross-sections for 93 MeV 3-He-ions
+#+          on 59-Co
+#AUTHOR(S)  S.N.Kondratyev, Yu.N.Lobach, V.D.Sklyarenko
+#REF-CODE   (J,UFZ,43,5,1998)
+#REFERENCE  Ukr.Fiz.Zh. 43 (1998) 5
+#DATASETS   0
+#
+#DATASET    A0602004 
+#DATE       20231230
+#REACTION   27-CO-59(HE3,2P)27-CO-60,,SIG
+#PROJ       2003
+#TARG       27059
+#MF         3
+#MT         111
+#PRODUCT    27-CO-60
+#C4BEGIN    [ 2003 27059   3 111  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 27059   3 111    9.1900+7 600000.0 0.017300 1.6000-3                                       S.N.Kondratyev+      (98)A0602  4 
+ 2003 27059   3 111    8.6400+7 600000.0 0.017100 1.6000-3                                       S.N.Kondratyev+      (98)A0602  4 
+ 2003 27059   3 111    8.0900+7 600000.0 0.020600 1.9000-3                                       S.N.Kondratyev+      (98)A0602  4 
+ 2003 27059   3 111    7.5100+7 600000.0 0.023900 2.2000-3                                       S.N.Kondratyev+      (98)A0602  4 
+ 2003 27059   3 111    6.8800+7 800000.0 0.027500 2.5000-3                                       S.N.Kondratyev+      (98)A0602  4 
+ 2003 27059   3 111    6.2100+7 800000.0 0.029900 2.7000-3                                       S.N.Kondratyev+      (98)A0602  4 
+ 2003 27059   3 111    5.4900+7 800000.0 0.035500 3.2000-3                                       S.N.Kondratyev+      (98)A0602  4 
+ 2003 27059   3 111    4.8300+7 900000.0 0.045600 4.1000-3                                       S.N.Kondratyev+      (98)A0602  4 
+ 2003 27059   3 111    4.0900+7 1000000. 0.052400 4.7000-3                                       S.N.Kondratyev+      (98)A0602  4 
+ 2003 27059   3 111    3.4000+7 1100000. 0.070300 6.4000-3                                       S.N.Kondratyev+      (98)A0602  4 
+ 2003 27059   3 111    2.5600+7 1600000. 0.084400 7.6000-3                                       S.N.Kondratyev+      (98)A0602  4 
+ 2003 27059   3 111    1.7000+7 2100000. 0.072000 6.5000-3                                       S.N.Kondratyev+      (98)A0602  4 
+#/DATA      12
+#/DATASET

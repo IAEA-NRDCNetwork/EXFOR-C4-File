@@ -1,0 +1,34 @@
+#ENTRY      12877
+#AUTHOR1    L.W.Weston+
+#YEAR       1984
+#INSTITUTE  (1USAORL)
+#TITLE      Subthreshold fission cross section of 240Pu and the
+#+          fission cross sections of 235U and 239Pu
+#AUTHOR(S)  L.W.Weston, J.H.Todd
+#REF-CODE   (J,NSE,88,567,1984)
+#REFERENCE  Nucl.Sci.Eng. 88 (1984) 567 (doi:10.13182/NSE84-A18373)
+#DATASETS   0
+#
+#DATASET    12877012 
+#DATE       20170419
+#REACTION   94-PU-239(N,F),,SIG,,AV
+#PROJ       1
+#TARG       94239
+#MF         3
+#MT         18
+#C4BEGIN    [    1 94239   3  18 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   3  18 C  18.15500 4.445000 80.76000 0.266508                                       L.W.Weston+          (84)12877 12 
+    1 94239   3  18 C  42.02000 19.42000 30.86000 0.067892                                       L.W.Weston+          (84)12877 12 
+    1 94239   3  18 C  114.2200 52.78000 31.21000 0.049936                                       L.W.Weston+          (84)12877 12 
+    1 94239   3  18 C  310.5000 143.5000 12.31000 0.018465                                       L.W.Weston+          (84)12877 12 
+    1 94239   3  18 C  844.0000 390.0000 6.990000 9.7860-3                                       L.W.Weston+          (84)12877 12 
+    1 94239   3  18 C  2294.500 1060.500 3.500000 5.6000-3                                       L.W.Weston+          (84)12877 12 
+    1 94239   3  18 C  6237.000 2882.000 2.180000 3.7060-3                                       L.W.Weston+          (84)12877 12 
+    1 94239   3  18 C  16954.50 7835.500 1.670000 2.8390-3                                       L.W.Weston+          (84)12877 12 
+    1 94239   3  18 C  46085.00 21295.00 1.480000 2.6640-3                                       L.W.Weston+          (84)12877 12 
+    1 94239   3  18 C  89240.00 21860.00 1.420000 9.0880-3                                       L.W.Weston+          (84)12877 12 
+#/DATA      10
+#/DATASET

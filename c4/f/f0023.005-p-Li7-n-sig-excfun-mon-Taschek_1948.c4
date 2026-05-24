@@ -1,0 +1,30 @@
+#ENTRY      F0023
+#AUTHOR1    R.Taschek+
+#YEAR       1948
+#INSTITUTE  (1USALAS)
+#TITLE      Reaction constants for Li-7(p,n)Be-7.
+#AUTHOR(S)  R.Taschek, A.Hemmendinger
+#REF-CODE   (J,PR,74,373,194808)
+#REFERENCE  Phys.Rev. 74 (1948) 373 (doi:10.1103/PhysRev.74.373)
+#DATASETS   0
+#
+#DATASET    F0023005 
+#DATE       20171110
+#REACTION   3-LI-7(P,N)4-BE-7,,SIG
+#PROJ       1001
+#TARG       3007
+#MF         3
+#MT         4
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   3   4    1999900.          0.247000 0.029640                                       R.Taschek+           (48)F0023  5 
+ 1001  3007   3   4    2099600.          0.290900 0.034908                                       R.Taschek+           (48)F0023  5 
+ 1001  3007   3   4    2199800.          0.423700 0.050844                                       R.Taschek+           (48)F0023  5 
+ 1001  3007   3   4    2249300.          0.465600 0.055872                                       R.Taschek+           (48)F0023  5 
+ 1001  3007   3   4    2299600.          0.418100 0.050172                                       R.Taschek+           (48)F0023  5 
+ 1001  3007   3   4    2399300.          0.312800 0.037536                                       R.Taschek+           (48)F0023  5 
+#/DATA      6
+#/DATASET

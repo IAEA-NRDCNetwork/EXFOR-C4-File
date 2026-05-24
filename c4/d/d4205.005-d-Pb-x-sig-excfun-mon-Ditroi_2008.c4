@@ -1,0 +1,34 @@
+#ENTRY      D4205
+#AUTHOR1    F.Ditroi+
+#YEAR       2008
+#INSTITUTE  (3HUNDEB)
+#TITLE      Investigation of excitation functions of deuteron
+#+          induced nuclear reactions on lead
+#AUTHOR(S)  F.Ditroi, F.Tarkanyi, S.Takacs, M.S.Uddin, M.Hagiwara, M.Baba, 
+#+          A.Ignatyuk, S.F.Kovalev
+#REF-CODE   (J,JRN,276,835,2008)
+#REFERENCE  J.Rad.Nucl.Chem. 276 (2008) 835 (doi:10.1007/s10967-008-0641-7)
+#DATASETS   0
+#
+#DATASET    D4205005 
+#DATE       20090305
+#REACTION   82-PB-0(D,X)83-BI-206,,SIG
+#PROJ       1002
+#TARG       82000
+#MF         3
+#MT         454
+#PRODUCT    83-BI-206
+#C4BEGIN    [ 1002 82000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 82000   3 454 A  3.7500+7 300000.0 0.551900 0.062700           83206.9                     F.Ditroi+            (08)D4205  5 
+ 1002 82000   3 454 A  3.4800+7 400000.0 0.739600 0.083700           83206.9                     F.Ditroi+            (08)D4205  5 
+ 1002 82000   3 454 A  3.1900+7 400000.0 0.715300 0.081800           83206.9                     F.Ditroi+            (08)D4205  5 
+ 1002 82000   3 454 A  2.8900+7 600000.0 0.592800 0.067200           83206.9                     F.Ditroi+            (08)D4205  5 
+ 1002 82000   3 454 A  2.5500+7 700000.0 0.394500 0.045300           83206.9                     F.Ditroi+            (08)D4205  5 
+ 1002 82000   3 454 A  2.1900+7 800000.0 0.315700 0.036000           83206.9                     F.Ditroi+            (08)D4205  5 
+ 1002 82000   3 454 A  1.7700+7 1000000. 0.270500 0.030900           83206.9                     F.Ditroi+            (08)D4205  5 
+ 1002 82000   3 454 A  1.2600+7 1300000. 0.084200 9.7000-3           83206.9                     F.Ditroi+            (08)D4205  5 
+#/DATA      8
+#/DATASET

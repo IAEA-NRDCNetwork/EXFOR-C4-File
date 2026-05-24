@@ -1,0 +1,27 @@
+#ENTRY      32727
+#AUTHOR1    Junhua Luo+
+#YEAR       2013
+#INSTITUTE  (3CPRHXU)
+#TITLE      Cross sections for fast-neutron interaction with
+#+          ytterbium isotopes
+#AUTHOR(S)  Junhua Luo, Rong Liu, Li Jiang, Suhong Ge, Zhenlai Liu, 
+#+          Guihua Sun
+#REF-CODE   (J,ANE,57,41,2013)
+#REFERENCE  Ann.Nucl.Energy 57 (2013) 41 (doi:10.1016/j.anucene.2013.01.050)
+#DATASETS   0
+#
+#DATASET    327270081
+#DATE       20161004
+#REACTION   70-YB-176(N,P)69-TM-176,,SIG
+#PROJ       1
+#TARG       70176
+#MF         3
+#MT         103
+#PRODUCT    69-TM-176
+#C4BEGIN    [    1 70176   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 70176   3 103    1.4800+7 200000.0 6.2000-3 9.0000-4                                       Junhua Luo+          (13)32727  81
+#/DATA      1
+#/DATASET

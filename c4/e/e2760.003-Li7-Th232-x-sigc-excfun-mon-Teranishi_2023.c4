@@ -1,0 +1,38 @@
+#ENTRY      E2760
+#AUTHOR1    K.Teranishi+
+#YEAR       2023
+#INSTITUTE  (2JPNKNZ)
+#TITLE      Incomplete fusion reaction producing Pa nuclides in
+#+          the 232Th + 7Li reaction
+#AUTHOR(S)  K.Teranishi, R.Morita, Y.Hayakawa, A.Sakaguchi, A.Nakajima, 
+#+          Y.Komori, T.Yokokita, D.Mori, H.Haba, A.Yokoyama
+#REF-CODE   (J,RCA,111,589,2023)
+#REFERENCE  Radiochim.Acta 111 (2023) 589 (doi:10.1515/ract-2022-0093)
+#DATASETS   0
+#
+#DATASET    E2760003 
+#DATE       20231202
+#REACTION   90-TH-232(3-LI-7,X)91-PA-233,CUM,SIG
+#PROJ       3007
+#TARG       90232
+#MF         3
+#MT         459
+#PRODUCT    91-PA-233
+#C4BEGIN    [ 3007 90232   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 90232   3 459    2.3800+7 2000000. 0.011020 1.3000-4           91233.9                     K.Teranishi+         (23)E2760  3 
+ 3007 90232   3 459    3.1200+7 1700000. 0.034530 3.0000-5           91233.9                     K.Teranishi+         (23)E2760  3 
+ 3007 90232   3 459    3.4200+7 1400000. 0.105300 1.0000-4           91233.9                     K.Teranishi+         (23)E2760  3 
+ 3007 90232   3 459    3.5400+7 600000.0 0.154900 6.0000-4           91233.9                     K.Teranishi+         (23)E2760  3 
+ 3007 90232   3 459    3.6300+7 1600000. 0.207000 3.0000-4           91233.9                     K.Teranishi+         (23)E2760  3 
+ 3007 90232   3 459    3.6900+7 2300000. 0.160300 6.0000-4           91233.9                     K.Teranishi+         (23)E2760  3 
+ 3007 90232   3 459    3.7200+7 1700000. 0.163700 1.0000-4           91233.9                     K.Teranishi+         (23)E2760  3 
+ 3007 90232   3 459    3.8700+7 2200000. 0.170200 4.0000-4           91233.9                     K.Teranishi+         (23)E2760  3 
+ 3007 90232   3 459    4.0100+7 1000000. 0.101700 1.0000-4           91233.9                     K.Teranishi+         (23)E2760  3 
+ 3007 90232   3 459    4.0600+7 1800000. 0.129600 1.0000-4           91233.9                     K.Teranishi+         (23)E2760  3 
+ 3007 90232   3 459    4.2000+7 1100000. 0.155300 5.0000-4           91233.9                     K.Teranishi+         (23)E2760  3 
+ 3007 90232   3 459    4.2100+7 1000000. 0.165500 1.0000-3           91233.9                     K.Teranishi+         (23)E2760  3 
+#/DATA      12
+#/DATASET

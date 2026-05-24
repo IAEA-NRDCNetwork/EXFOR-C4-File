@@ -1,0 +1,29 @@
+#ENTRY      32933
+#AUTHOR1    Jiajun Zhu+
+#YEAR       2024
+#INSTITUTE  (3CPRSIU)
+#TITLE      Measurements of 232Th(n,2n)231Th reaction cross
+#+          sections in the neutron energy of 12-18.5 MeV
+#AUTHOR(S)  Jiajun Zhu, Jun Zeng, Xiaobing Luo, Wenxuan Yan, Qian Ye, 
+#+          Dongmei Luo
+#REF-CODE   (J,JRN,333,2461,2024)
+#REFERENCE  J.Rad.Nucl.Chem. 333 (2024) 2461 (doi:10.1007/s10967-024-09463-0)
+#DATASETS   0
+#
+#DATASET    32933002 
+#DATE       20251128
+#REACTION   90-TH-232(N,2N)90-TH-231,,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         16
+#PRODUCT    90-TH-231
+#C4BEGIN    [    1 90232   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3  16    1.2490+7 330000.0 2.247270 0.185530                                       Jiajun Zhu+          (24)32933  2 
+    1 90232   3  16    1.6380+7 600000.0 0.839620 0.073990                                       Jiajun Zhu+          (24)32933  2 
+    1 90232   3  16    1.8100+7 230000.0 0.499280 0.044690                                       Jiajun Zhu+          (24)32933  2 
+#/DATA      3
+#/DATASET

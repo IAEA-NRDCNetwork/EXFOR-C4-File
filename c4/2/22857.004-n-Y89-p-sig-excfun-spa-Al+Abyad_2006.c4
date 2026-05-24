@@ -1,0 +1,30 @@
+#ENTRY      22857
+#AUTHOR1    M.Al-Abyad+
+#YEAR       2006
+#INSTITUTE  (2GERJUL)
+#TITLE      Nuclear data for production of the therapeutic radio-
+#+          nuclides P-32, Cu-64, Cu-67, Sr-89, Y-90 and Sm-153
+#+          via the (N,P) reaction: Evaluation of excitation
+#+          function and its validation via integral cross-section
+#+          measurement using a 14-MeV D(Be) neutron source.
+#AUTHOR(S)  M.Al-Abyad, I.Spahn, S.Sudar, M.Morsy, M.N.H.Comsan, J.Csikai, 
+#+          S.M.Qaim, H.H.Coenen
+#REF-CODE   (J,ARI,64,717,2006)
+#REFERENCE  Appl.Radiat.Isot. 64 (2006) 717 (doi:10.1016/j.apradiso.2005.12.020)
+#DATASETS   0
+#
+#DATASET    22857004 
+#DATE       20170301
+#REACTION   39-Y-89(N,P)38-SR-89,,SIG,,SPA
+#PROJ       1
+#TARG       39089
+#MF         3
+#MT         103
+#PRODUCT    38-SR-89
+#C4BEGIN    [    1 39089   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 39089   3 103    3000000.          9.1000-4 2.0000-4                                       M.Al-Abyad+          (06)22857  4 
+#/DATA      1
+#/DATASET

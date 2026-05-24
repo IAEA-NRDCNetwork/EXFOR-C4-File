@@ -1,0 +1,41 @@
+#ENTRY      O2523
+#AUTHOR1    I.Syndikus+
+#YEAR       2020
+#INSTITUTE  (2GERTHD)
+#TITLE      Probing the Z = 6 spin-orbit shell gap with (p,2p)
+#+          quasi-free scattering reactions
+#AUTHOR(S)  I.Syndikus, M.Petri, A.O.Macchiavelli, S.Paschalis, C.A.Bertulani, 
+#+          T.Aumann, H.Alvarez-Pol, L.Atar, S.Beceiro-Novo, J.Benlliure, 
+#+          J.M.Boillos, K.Boretzky, M.J.G.Borge, B.A.Brown, M.Caamano, 
+#+          C.Caesar, E.Casarejos, W.Catford, J.Cederkall, S.Chakraborty, 
+#+          L.V.Chulkov, D.Cortina-Gil, E.Cravo, R.Crespo, U.Datta Pramanik, 
+#+          I.Dillmann, P.Diaz Fernandez, Z.Elekes, J.Enders, F.Farinon, 
+#+          L.M.Fraile, D.Galaviz, H.Geissel, R.Gernhaeuser, P.Golubev, 
+#+          K.Goebel, M.Heil, M.Heine, A.Heinz, A.Henriques, M.Holl, 
+#+          H.T.Johansson, B.Jonson, N.Kalantar-Nayestanaki, R.Kanungo, 
+#+          A.Kelic-Heil, T.Kroell, N.Kurz, C.Langer, T.Le Bleis, J.Machado, 
+#+          J.Marganiec-Galazka, E.Nacher, T.Nilsson, C.Nociforo, V.Panin, 
+#+          A.Perea, S.B.Pietri, R.Plag, A.Rahaman, R.Reifarth, A.Revel, 
+#+          G.Ribeiro, C.Rigollet, D.M.Rossi, D.Savran, H.Scheit, H.Simon, 
+#+          O.Sorlin, O.Tengblad, Y.Togano, M.Vandebrouck, V.Volkov, 
+#+          F.Wamers, C.Wheldon, G.L.Wilson, J.S.Winfield, H.Weick, 
+#+          P.Woods, D.Yakorev, M.Zhukov, A.Zilges, K.Zuber
+#REF-CODE   (J,PL/B,809,135748,2020)
+#REFERENCE  Phys.Lett.B 809 (2020) 135748 (doi:10.1016/j.physletb.2020.135748)
+#DATASETS   0
+#
+#DATASET    O2523008 
+#DATE       20211210
+#REACTION   (1-H-1(7-N-21,2P)6-C-20,,SIG)=(7-N-21(P,2P)6-C-20,,SIG)
+#PROJ       1001
+#TARG       7021
+#MF         3
+#MT         111
+#PRODUCT    6-C-20
+#C4BEGIN    [ 1001  7021   3 111  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7021   3 111    4.2200+8          2.6500-3 3.4000-4                                       I.Syndikus+          (20)O2523  8 
+#/DATA      1
+#/DATASET

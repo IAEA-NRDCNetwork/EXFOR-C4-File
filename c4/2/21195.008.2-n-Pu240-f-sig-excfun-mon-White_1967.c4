@@ -1,0 +1,29 @@
+#ENTRY      21195
+#AUTHOR1    P.H.White+
+#YEAR       1967
+#INSTITUTE  (2UK ALD)
+#TITLE      -The fission cross sections of U-233, U-234, U-236,
+#+          U-238, Np-237, Pu-239 and Pu-241 relative to that of
+#+          U-235 for neutrons in the energy range 1-14 MeV-
+#AUTHOR(S)  P.H.White, G.P.Warner
+#REF-CODE   (J,JNE,21,671,196708)
+#REFERENCE  J.Nucl.Energy 21 (1967) 671 (doi:10.1016/0022-3107(67)90082-2)
+#DATASETS   0
+#
+#DATASET    211950082
+#DATE       20060726
+#REACTION   94-PU-240(N,F),,SIG
+#PROJ       1
+#TARG       94240
+#MF         3
+#MT         18
+#C4BEGIN    [    1 94240   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94240   3  18    1000000.          1.410000 0.049350                                       P.H.White+           (67)21195  82
+    1 94240   3  18    2250000.          1.650000 0.057750                                       P.H.White+           (67)21195  82
+    1 94240   3  18    5400000.          1.650000 0.057750                                       P.H.White+           (67)21195  82
+    1 94240   3  18    1.4100+7          2.270000 0.079450                                       P.H.White+           (67)21195  82
+#/DATA      4
+#/DATASET

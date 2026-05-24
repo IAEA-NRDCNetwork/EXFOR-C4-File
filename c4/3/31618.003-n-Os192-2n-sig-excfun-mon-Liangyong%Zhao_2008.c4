@@ -1,0 +1,28 @@
+#ENTRY      31618
+#AUTHOR1    Liangyong Zhao+
+#YEAR       2008
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Cross sections for (n,2n), (n,p) and (n,alpha)
+#+          reactions on osmium isotopes in the neutron energy
+#+          range of 13.5 - 14.8 MeV
+#AUTHOR(S)  Liangyong Zhao, Jilong Yuan, Fei Tuo, Yanbin Zhang, Xiangzhong Kong, 
+#+          Rong Liu, Li Jiang
+#REF-CODE   (J,ARI,66,1488,2008)
+#REFERENCE  Appl.Radiat.Isot. 66 (2008) 1488 (doi:10.1016/j.apradiso.2008.03.012)
+#DATASETS   0
+#
+#DATASET    31618003 
+#DATE       20080721
+#REACTION   76-OS-192(N,2N)76-OS-191-M,,SIG
+#PROJ       1
+#TARG       76192
+#MF         3
+#MT         16
+#PRODUCT    76-OS-191-M
+#C4BEGIN    [    1 76192   3  16MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 76192   3  16MA  1.4700+7 200000.0 1.026000 0.186000                                       Liangyong Zhao+      (08)31618  3 
+#/DATA      1
+#/DATASET

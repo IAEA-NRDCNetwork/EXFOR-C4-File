@@ -1,0 +1,37 @@
+#ENTRY      D4379
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2018
+#INSTITUTE  (3HUNDEB)
+#TITLE      Study of activation cross sections of deuteron induced
+#+          reactions on barium. Production of 131Cs, 133Ba
+#AUTHOR(S)  F.Tarkanyi, A.Hermanne, F.Ditroi, S.Takacs, Z.Szucs, K.Brezovcsik
+#REF-CODE   (J,NIM/B,414,18,2018)
+#REFERENCE  Nucl.Instrum.Meth.B 414 (2018) 18 (doi:10.1016/j.nimb.2017.09.022)
+#DATASETS   0
+#
+#DATASET    D4379003 
+#DATE       20171121
+#REACTION   56-BA-0(D,X)57-LA-133,,SIG
+#PROJ       1002
+#TARG       56000
+#MF         3
+#MT         454
+#PRODUCT    57-LA-133
+#C4BEGIN    [ 1002 56000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 56000   3 454    4.9370+7 200000.0 0.124000 0.018000           57133.9                     F.Tarkanyi+          (18)D4379  3 
+ 1002 56000   3 454    4.7460+7 250000.0 0.115000 0.013000           57133.9                     F.Tarkanyi+          (18)D4379  3 
+ 1002 56000   3 454    4.5510+7 300000.0 0.109000 0.013000           57133.9                     F.Tarkanyi+          (18)D4379  3 
+ 1002 56000   3 454    4.3510+7 350000.0 0.085000 0.017000           57133.9                     F.Tarkanyi+          (18)D4379  3 
+ 1002 56000   3 454    4.1450+7 400000.0 0.130000 0.032000           57133.9                     F.Tarkanyi+          (18)D4379  3 
+ 1002 56000   3 454    3.9330+7 450000.0 0.115000 0.026000           57133.9                     F.Tarkanyi+          (18)D4379  3 
+ 1002 56000   3 454    3.7140+7 510000.0 0.135000 0.024000           57133.9                     F.Tarkanyi+          (18)D4379  3 
+ 1002 56000   3 454    3.4880+7 560000.0 0.121000 0.024000           57133.9                     F.Tarkanyi+          (18)D4379  3 
+ 1002 56000   3 454    3.2540+7 620000.0 0.096000 0.024000           57133.9                     F.Tarkanyi+          (18)D4379  3 
+ 1002 56000   3 454    3.0100+7 680000.0 0.050000 0.016000           57133.9                     F.Tarkanyi+          (18)D4379  3 
+ 1002 56000   3 454    2.6010+7 780000.0 0.035000 0.013000           57133.9                     F.Tarkanyi+          (18)D4379  3 
+ 1002 56000   3 454    2.3860+7 840000.0 0.034000 0.018000           57133.9                     F.Tarkanyi+          (18)D4379  3 
+#/DATA      12
+#/DATASET

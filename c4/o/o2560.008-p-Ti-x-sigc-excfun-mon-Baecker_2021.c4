@@ -1,0 +1,30 @@
+#ENTRY      O2560
+#AUTHOR1    C.M.Baecker+
+#YEAR       2021
+#INSTITUTE  (2GERDOR)
+#TITLE      Towards using secondary gamma-rays from
+#+          proton-induced radioactivation of titanium implants
+#+          for off-line field verification
+#AUTHOR(S)  C.M.Baecker, C.Baeumer, A.Bley, P.Fragoso Costa, M.Gerhardt, 
+#+          K.Herrmann, S.Kauer, K.Kroeninger, C.Nitsch, H.M.Siregar, 
+#+          B.Timmermann, N.Verbeek, J.Weingarten, J.Wulff, A.Yazgan
+#REF-CODE   (J,NIM/B,492,56,2021)
+#REFERENCE  Nucl.Instrum.Meth.B 492 (2021) 56 (doi:10.1016/j.nimb.2021.02.006)
+#DATASETS   0
+#
+#DATASET    O2560008 
+#DATE       20230218
+#REACTION   22-TI-0(P,X)21-SC-44-G,(M),SIG
+#PROJ       1001
+#TARG       22000
+#MF         3
+#MT         459
+#PRODUCT    21-SC-44-G
+#C4BEGIN    [ 1001 22000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22000   3 459    1.0000+8          0.032800 2.0000-4           21044.0                     C.M.Baecker+         (21)O2560  8 
+ 1001 22000   3 459    1.3000+8          0.030100 2.0000-4           21044.0                     C.M.Baecker+         (21)O2560  8 
+#/DATA      2
+#/DATASET

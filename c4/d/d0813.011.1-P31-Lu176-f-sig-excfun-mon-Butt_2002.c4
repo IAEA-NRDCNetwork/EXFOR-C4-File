@@ -1,0 +1,34 @@
+#ENTRY      D0813
+#AUTHOR1    R.D.Butt+
+#YEAR       2002
+#INSTITUTE  (3AULCBR)
+#TITLE      Measurement of the effect of large
+#+          deformation-aligned ground-state spin on fission
+#+          fragment anisotropies
+#AUTHOR(S)  R.D.Butt, D.J.Hinde, M.Dasgupta, A.C.Berriman, A.Mukherjee, 
+#+          C.R.Morton, J.O.Newton
+#REF-CODE   (J,PR/C,66,044601,2002)
+#REFERENCE  Phys.Rev.C 66 (2002) 044601 (doi:10.1103/PhysRevC.66.044601)
+#DATASETS   0
+#
+#DATASET    D08130111
+#DATE       20160715
+#REACTION   71-LU-176(15-P-31,F),,SIG
+#PROJ       15031
+#TARG       71176
+#MF         3
+#MT         18
+#C4BEGIN    [15031 71176   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+15031 71176   3  18    1.3493+8          7.0000-3 3.0000-4                                       R.D.Butt+            (02)D0813 111
+15031 71176   3  18    1.3743+8          0.018800 6.0000-4                                       R.D.Butt+            (02)D0813 111
+15031 71176   3  18    1.3993+8          0.040800 9.0000-4                                       R.D.Butt+            (02)D0813 111
+15031 71176   3  18    1.4243+8          0.068700 1.5000-3                                       R.D.Butt+            (02)D0813 111
+15031 71176   3  18    1.4494+8          0.110700 1.6000-3                                       R.D.Butt+            (02)D0813 111
+15031 71176   3  18    1.4744+8          0.157000 2.0000-3                                       R.D.Butt+            (02)D0813 111
+15031 71176   3  18    1.4994+8          0.216000 3.0000-3                                       R.D.Butt+            (02)D0813 111
+15031 71176   3  18    1.5244+8          0.282000 3.0000-3                                       R.D.Butt+            (02)D0813 111
+#/DATA      8
+#/DATASET

@@ -1,0 +1,42 @@
+#ENTRY      22820
+#AUTHOR1    V.Semkova+
+#YEAR       2004
+#INSTITUTE  (2ZZZGEL)
+#TITLE      .A systematic investigation of reaction cross sections
+#+          and isomer ratios for neutrons up to 20 MeV on
+#+          Ni-isotopes and Co-59 by measurements with activation
+#+          technique and new model studies of underlying
+#+          reaction mechanisms
+#AUTHOR(S)  V.Semkova, V.Avrigeanu, T.Glodariu, A.J.Koning, A.J.M.Plompen, 
+#+          D.L.Smith, S.Sudar, P.Reimer, R.Forrest
+#REF-CODE   (J,NP/A,730,255,2004)
+#REFERENCE  Nucl.Phys.A 730 (2004) 255 (doi:10.1016/j.nuclphysa.2003.11.005)
+#DATASETS   0
+#
+#DATASET    22820012 
+#DATE       20040113
+#REACTION   27-CO-59(N,2N)27-CO-58,,SIG
+#PROJ       1
+#TARG       27059
+#MF         3
+#MT         16
+#PRODUCT    27-CO-58
+#C4BEGIN    [    1 27059   3  16 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   3  16 C  1.3320+7 125000.0 0.614000 0.036000                                       V.Semkova+           (04)22820 12 
+    1 27059   3  16 C  1.4810+7 85000.00 0.770000 0.026000                                       V.Semkova+           (04)22820 12 
+    1 27059   3  16 C  1.5270+7 80000.00 0.787000 0.044000                                       V.Semkova+           (04)22820 12 
+    1 27059   3  16 C  1.5560+7 95000.00 0.841000 0.030000                                       V.Semkova+           (04)22820 12 
+    1 27059   3  16 C  1.5680+7 90000.00 0.800000 0.028000                                       V.Semkova+           (04)22820 12 
+    1 27059   3  16 C  1.6260+7 100000.0 0.808000 0.031000                                       V.Semkova+           (04)22820 12 
+    1 27059   3  16 C  1.7030+7 85000.00 0.853000 0.033000                                       V.Semkova+           (04)22820 12 
+    1 27059   3  16 C  1.7980+7 30000.00 0.869000 0.045000                                       V.Semkova+           (04)22820 12 
+    1 27059   3  16 C  1.8040+7 60000.00 0.887000 0.054000                                       V.Semkova+           (04)22820 12 
+    1 27059   3  16 C  1.8360+7 75000.00 0.889000 0.070000                                       V.Semkova+           (04)22820 12 
+    1 27059   3  16 C  1.9280+7 45000.00 0.910000 0.047000                                       V.Semkova+           (04)22820 12 
+    1 27059   3  16 C  1.9940+7 45000.00 0.915000 0.045000                                       V.Semkova+           (04)22820 12 
+    1 27059   3  16 C  2.0350+7 40000.00 0.900000 0.050000                                       V.Semkova+           (04)22820 12 
+#/DATA      13
+#/DATASET

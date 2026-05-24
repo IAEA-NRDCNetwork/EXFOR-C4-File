@@ -1,0 +1,33 @@
+#ENTRY      10159
+#AUTHOR1    J.D.Seagrave+
+#YEAR       1972
+#INSTITUTE  (1USALAS)
+#TITLE      Elastic Scattering and Polarization of Fast Neutrons
+#+          by Liquid Deuterium and Tritium
+#AUTHOR(S)  J.D.Seagrave, J.C.Hopkins, R.K.Walter, A.Niiler, P.W.Keaton, 
+#+          E.C.Kerr, R.H.Sherman
+#REF-CODE   (J,AP,74,250,1972)
+#REFERENCE  Ann.Phys.(N.Y.) 74 (1972) 250 (doi:10.1016/0003-4916(72)90263-1)
+#DATASETS   0
+#
+#DATASET    10159010 
+#DATE       20001211
+#REACTION   1-H-2(N,EL)1-H-2,,SIG
+#PROJ       1
+#TARG       1002
+#MF         3
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   3   2 D  5550000.          1.480000                                                J.D.Seagrave+        (72)10159 10 
+    1  1002   3   2 D  7000000.          1.267000                                                J.D.Seagrave+        (72)10159 10 
+    1  1002   3   2 D  8000000.          1.127000                                                J.D.Seagrave+        (72)10159 10 
+    1  1002   3   2 D  9000000.          1.002000                                                J.D.Seagrave+        (72)10159 10 
+    1  1002   3   2 D  1.8550+7          0.486000 0.039000                                       J.D.Seagrave+        (72)10159 10 
+    1  1002   3   2 D  2.0500+7          0.442000 0.036000                                       J.D.Seagrave+        (72)10159 10 
+    1  1002   3   2 D  2.3000+7          0.399000 0.035000                                       J.D.Seagrave+        (72)10159 10 
+#/DATA      7
+#/DATASET

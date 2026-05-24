@@ -1,0 +1,26 @@
+#ENTRY      O0006
+#AUTHOR1    Y.Y.Chu+
+#YEAR       1976
+#INSTITUTE  (1USABNL)
+#TITLE      Interaction of 28-GeV protons with thorium: Study of
+#+          charge dispersions and mass yields
+#AUTHOR(S)  Y.Y.Chu, E.M.Franz, G.Friedlander, P.J.Karol
+#REF-CODE   (J,PR/C,14,1068,1976)
+#REFERENCE  Phys.Rev.C 14 (1976) 1068 (doi:10.1103/PhysRevC.14.1068)
+#DATASETS   0
+#
+#DATASET    O0006054 
+#DATE       20151116
+#REACTION   90-TH-232(P,F)72-HF-171,CUM,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         459
+#PRODUCT    72-HF-171
+#C4BEGIN    [ 1001 90232   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3 459    2.800+10          5.8700-3 6.5000-4           72171.9                     Y.Y.Chu+             (76)O0006 54 
+#/DATA      1
+#/DATASET

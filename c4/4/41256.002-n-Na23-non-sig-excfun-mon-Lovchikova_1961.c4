@@ -1,0 +1,25 @@
+#ENTRY      41256
+#AUTHOR1    G.N.Lovchikova+
+#YEAR       1961
+#INSTITUTE  (4RUSFEI)
+#TITLE      Inelastic scattering cross sections for 2.5-MeV
+#+          neutrons
+#AUTHOR(S)  G.N.Lovchikova, O.A.Sal'nikov
+#REF-CODE   (B,NEJTRONFIZ,,294,1961)
+#REFERENCE  Neitronnaya Fizika, Moskva 1961 page 294 (1961)
+#DATASETS   0
+#
+#DATASET    41256002 
+#DATE       20191221
+#REACTION   11-NA-23(N,NON),,SIG
+#PROJ       1
+#TARG       11023
+#MF         3
+#MT         3
+#C4BEGIN    [    1 11023   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023   3   3    2500000.          0.340000 0.070000                                       G.N.Lovchikova+      (61)41256  2 
+#/DATA      1
+#/DATASET

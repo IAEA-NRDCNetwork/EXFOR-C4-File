@@ -1,0 +1,27 @@
+#ENTRY      C0343
+#AUTHOR1    N.T.Porile+
+#YEAR       1962
+#INSTITUTE  (1USABNL)
+#TITLE      Simple Nuclear Reactions of Indium with 30- and 2.9-
+#+          GeV Protons
+#AUTHOR(S)  N.T.Porile
+#REF-CODE   (J,PR,128,1916,1962)
+#REFERENCE  Phys.Rev. 128 (1962) 1916 (doi:10.1103/PhysRev.128.1916)
+#DATASETS   0
+#
+#DATASET    C0343027 
+#DATE       20111118
+#REACTION   49-IN-115(P,X)48-CD-115-G,,SIG
+#PROJ       1001
+#TARG       49115
+#MF         3
+#MT         454
+#PRODUCT    48-CD-115-G
+#C4BEGIN    [ 1001 49115   3 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 49115   3 454 D  3.000+10          2.3000-5                    48115.0                     N.T.Porile           (62)C0343 27 
+ 1001 49115   3 454 D  2.9000+9          4.8000-5                    48115.0                     N.T.Porile           (62)C0343 27 
+#/DATA      2
+#/DATASET

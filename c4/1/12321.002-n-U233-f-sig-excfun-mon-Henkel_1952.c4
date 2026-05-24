@@ -1,0 +1,35 @@
+#ENTRY      12321
+#AUTHOR1    R.L.Henkel+
+#YEAR       1952
+#INSTITUTE  (1USALAS)
+#TITLE      Fission excitation curves for U233, U235, U236, U238,
+#+          Np237
+#AUTHOR(S)  R.L.Henkel
+#REF-CODE   (R,LA-1495,195211)
+#REFERENCE  Report LA-1495, 1952
+#DATASETS   0
+#
+#DATASET    12321002 
+#DATE       20010807
+#REACTION   92-U-233(N,F),,SIG
+#PROJ       1
+#TARG       92233
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92233   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   3  18    1820000.          1.990000                                                R.L.Henkel           (52)12321  2 
+    1 92233   3  18    2490000.          1.940000                                                R.L.Henkel           (52)12321  2 
+    1 92233   3  18    2610000.          1.870000                                                R.L.Henkel           (52)12321  2 
+    1 92233   3  18    4080000.          1.680000                                                R.L.Henkel           (52)12321  2 
+    1 92233   3  18    4780000.          1.730000                                                R.L.Henkel           (52)12321  2 
+    1 92233   3  18    5400000.          1.680000                                                R.L.Henkel           (52)12321  2 
+    1 92233   3  18    5630000.          1.680000                                                R.L.Henkel           (52)12321  2 
+    1 92233   3  18    5920000.          1.790000                                                R.L.Henkel           (52)12321  2 
+    1 92233   3  18    6420000.          2.110000                                                R.L.Henkel           (52)12321  2 
+    1 92233   3  18    6690000.          2.230000                                                R.L.Henkel           (52)12321  2 
+    1 92233   3  18    6950000.          2.260000                                                R.L.Henkel           (52)12321  2 
+#/DATA      11
+#/DATASET

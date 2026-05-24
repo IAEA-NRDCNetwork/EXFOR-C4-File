@@ -1,0 +1,27 @@
+#ENTRY      31635
+#AUTHOR1    M.S.Uddin+
+#YEAR       2008
+#INSTITUTE  (3BANSAV)
+#TITLE      Neutron capture cross-section measurement for the
+#+          186W(n,gamma) 187W reaction at 0.0536 eV energy
+#AUTHOR(S)  M.S.Uddin, M.H.Chowdhury, S.M.Hossain, Sk.A.Latif, M.A.Hafiz, 
+#+          M.A.Islam, A.K.M.Zakaria, S.M.Azharul Islam
+#REF-CODE   (J,ARI,66,1235,2008)
+#REFERENCE  Appl.Radiat.Isot. 66 (2008) 1235 (doi:10.1016/j.apradiso.2008.01.013)
+#DATASETS   0
+#
+#DATASET    31635002 
+#DATE       20080731
+#REACTION   74-W-186(N,G)74-W-187,,SIG
+#PROJ       1
+#TARG       74186
+#MF         3
+#MT         102
+#PRODUCT    74-W-187
+#C4BEGIN    [    1 74186   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74186   3 102 A  0.053600 2.6000-4 26.60000 1.600000                                       M.S.Uddin+           (08)31635  2 
+#/DATA      1
+#/DATASET

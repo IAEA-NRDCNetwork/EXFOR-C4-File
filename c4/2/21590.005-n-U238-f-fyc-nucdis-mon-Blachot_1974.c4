@@ -1,0 +1,28 @@
+#ENTRY      21590
+#AUTHOR1    J.Blachot+
+#YEAR       1974
+#INSTITUTE  (2FR GRE)
+#TITLE      -Mass distributions in fission of U-238 by 14 MeV
+#+          neutrons -.
+#AUTHOR(S)  J.Blachot, L.C.Carraz, P.Cavallini, C.Chauvin, A.Ferrieu, 
+#+          A.Moussa
+#REF-CODE   (J,JIN,36,495,1974)
+#REFERENCE  J.Inorg.Nucl.Chem. 36 (1974) 495 (doi:10.1016/0022-1902(74)80102-8)
+#DATASETS   0
+#
+#DATASET    21590005 
+#DATE       20090109
+#REACTION   92-U-238(N,F)ELEM/MASS,CUM,FY
+#PROJ       1
+#TARG       92238
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92238   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   8 459    1.4100+7          0.049700 3.5000-3 53.00000 132.0000 9.000000            J.Blachot+           (74)21590  5 
+    1 92238   8 459    1.4100+7          0.060000 2.1000-3 53.00000 133.0000 9.000000            J.Blachot+           (74)21590  5 
+    1 92238   8 459    1.4100+7          0.049000 3.0000-3 53.00000 135.0000 9.000000            J.Blachot+           (74)21590  5 
+#/DATA      3
+#/DATASET

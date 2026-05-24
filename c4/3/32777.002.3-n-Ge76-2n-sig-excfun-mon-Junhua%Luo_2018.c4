@@ -1,0 +1,28 @@
+#ENTRY      32777
+#AUTHOR1    Junhua Luo+
+#YEAR       2018
+#INSTITUTE  (3CPRHXU)
+#TITLE      Activation cross section and isomeric cross section
+#+          ratio for the 76Ge(n,2n)75m,gGe process
+#AUTHOR(S)  Junhua Luo, Li Jiang, Xinxing Wang
+#REF-CODE   (J,EPJ/A,54,67,2018)
+#REFERENCE  Eur.Phys.J.A 54 (2018) 67 (doi:10.1140/epja/i2018-12501-y)
+#DATASETS   0
+#
+#DATASET    327770023
+#DATE       20180712
+#REACTION   32-GE-76(N,2N)32-GE-75,,SIG
+#PROJ       1
+#TARG       32076
+#MF         3
+#MT         16
+#PRODUCT    32-GE-75
+#C4BEGIN    [    1 32076   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32076   3  16    1.3500+7 200000.0 1.246000 0.070000                                       Junhua Luo+          (18)32777  23
+    1 32076   3  16    1.4100+7 200000.0 1.279000 0.074000                                       Junhua Luo+          (18)32777  23
+    1 32076   3  16    1.4800+7 200000.0 1.291000 0.074000                                       Junhua Luo+          (18)32777  23
+#/DATA      3
+#/DATASET

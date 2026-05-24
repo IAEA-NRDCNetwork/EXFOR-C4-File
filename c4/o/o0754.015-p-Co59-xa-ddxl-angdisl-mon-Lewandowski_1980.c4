@@ -1,0 +1,37 @@
+#ENTRY      O0754
+#AUTHOR1    Z.Lewandowski+
+#YEAR       1980
+#INSTITUTE  (2SWTBAS)
+#TITLE      Proton-induced alpha- and tritium-emission at 72 MeV.
+#AUTHOR(S)  Z.Lewandowski, E.Loeffler, R.Wagner, H.H.Mueller, W.Reichart, 
+#+          P.Schober, E.Gadioli, E.Gadioli Erba
+#REF-CODE   (J,NCL,28,15,1980)
+#REFERENCE  Nuovo Cim.Lett. 28 (1980) 15 (doi:10.1007/BF02776069)
+#DATASETS   0
+#
+#DATASET    O0754015 
+#DATE       20190228
+#REACTION   27-CO-59(P,X)2-HE-4,,DA/DE
+#PROJ       1001
+#TARG       27059
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001 27059   6 207 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 27059   6 207 C  7.2000+7          4.795-11          0.932324          6.0000+7          E2Z.Lewandowski+       (80)O0754 15 
+ 1001 27059   6 207 C  7.2000+7          2.916-11          0.898794          6.0000+7          E2Z.Lewandowski+       (80)O0754 15 
+ 1001 27059   6 207 C  7.2000+7          3.150-11          0.888617          6.0000+7          E2Z.Lewandowski+       (80)O0754 15 
+ 1001 27059   6 207 C  7.2000+7          2.728-11          0.840567          6.0000+7          E2Z.Lewandowski+       (80)O0754 15 
+ 1001 27059   6 207 C  7.2000+7          1.139-11          0.740805          6.0000+7          E2Z.Lewandowski+       (80)O0754 15 
+ 1001 27059   6 207 C  7.2000+7          4.549-12          0.612907          6.0000+7          E2Z.Lewandowski+       (80)O0754 15 
+ 1001 27059   6 207 C  7.2000+7          1.591-12          0.309017          6.0000+7          E2Z.Lewandowski+       (80)O0754 15 
+ 1001 27059   6 207 C  7.2000+7          2.680-13         -0.062791          6.0000+7          E2Z.Lewandowski+       (80)O0754 15 
+ 1001 27059   6 207 C  7.2000+7          1.480-13         -0.387516          6.0000+7          E2Z.Lewandowski+       (80)O0754 15 
+ 1001 27059   6 207 C  7.2000+7          3.400-14         -0.669131          6.0000+7          E2Z.Lewandowski+       (80)O0754 15 
+ 1001 27059   6 207 C  7.2000+7          4.000-14         -0.785857          6.0000+7          E2Z.Lewandowski+       (80)O0754 15 
+ 1001 27059   6 207 C  7.2000+7          3.300-14         -0.878817          6.0000+7          E2Z.Lewandowski+       (80)O0754 15 
+#/DATA      12
+#/DATASET

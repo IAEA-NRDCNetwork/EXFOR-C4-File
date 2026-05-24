@@ -1,0 +1,31 @@
+#ENTRY      C0579
+#AUTHOR1    Z.Yu+
+#YEAR       1996
+#INSTITUTE  (1USANWU)
+#TITLE      Differential cross sections of the 12,13(p,p)12,13C
+#+          and 12,13(p,n)12,13N reactions near 180 degrees
+#AUTHOR(S)  Z.Yu, R.E.Segal, T.-Y.Tung, R.D.Bent, C.C.Foster, J.Goodwin, 
+#+          G.Hardie, J.Homolka
+#REF-CODE   (J,PR/C,53,1725,199604)
+#REFERENCE  Phys.Rev.C 53 (1996) 1725 (doi:10.1103/PhysRevC.53.1725)
+#DATASETS   0
+#
+#DATASET    C0579004 
+#DATE       19991027
+#REACTION   6-C-12(P,N)7-N-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         50
+#PRODUCT    7-N-12
+#C4BEGIN    [ 1001  6012   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4  50  C 2.0000+8 2000000. 1.300-10 9.800-11-0.959314          0.000000         LVLZ.Yu+                (96)C0579  4 
+ 1001  6012   4  50  C 2.0000+8 2000000. 3.600-10 1.600-10-0.976672          0.000000         LVLZ.Yu+                (96)C0579  4 
+ 1001  6012   4  50  C 2.0000+8 2000000. 2.700-10 1.200-10-0.989776          0.000000         LVLZ.Yu+                (96)C0579  4 
+ 1001  6012   4  50  C 2.0000+8 2000000. 2.100-10 1.100-10-0.997441          0.000000         LVLZ.Yu+                (96)C0579  4 
+ 1001  6012   4  50  C 2.0000+8 2000000. 4.200-11 7.300-11-1.000000          0.000000         LVLZ.Yu+                (96)C0579  4 
+#/DATA      5
+#/DATASET

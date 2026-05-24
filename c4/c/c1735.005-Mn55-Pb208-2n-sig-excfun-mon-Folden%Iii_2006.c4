@@ -1,0 +1,27 @@
+#ENTRY      C1735
+#AUTHOR1    C.M.Folden Iii+
+#YEAR       2006
+#INSTITUTE  (1USABRK)
+#TITLE      Excitation function for the production of 262Bh (Z =
+#+          107) in the odd-Z- projectile reaction 208Pb(55Mn, n)
+#AUTHOR(S)  C.M.Folden Iii, S.L.Nelson, Ch.E.Dullmann, J.M.Schwantes, 
+#+          R.Sudowe, P.M.Zielinski, K.E.Gregorich, H.Nitsche, D.C.Hoffman
+#REF-CODE   (J,PR/C,73,014611,2006)
+#REFERENCE  Phys.Rev.C 73 (2006) 014611 (doi:10.1103/PhysRevC.73.014611)
+#DATASETS   0
+#
+#DATASET    C1735005 
+#DATE       20170403
+#REACTION   82-PB-208(25-MN-55,2N)107-BH-261,,SIG
+#PROJ       25055
+#TARG       82208
+#MF         3
+#MT         16
+#PRODUCT    107-BH-261
+#C4BEGIN    [25055 82208   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+25055 82208   3  16    2.6800+8 2680000. 3.200-11                                                C.M.Folden Iii+      (06)C1735  5 
+#/DATA      1
+#/DATASET

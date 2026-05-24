@@ -1,0 +1,27 @@
+#ENTRY      12855
+#AUTHOR1    R.L.Hershberger+
+#YEAR       1983
+#INSTITUTE  (1USAKTY)
+#TITLE      Neutron scattering from Os isotopes at 60 keV and Re-Os
+#+          nucleochronology.
+#AUTHOR(S)  R.L.Hershberger, R.L.Macklin, M.Balakrishnan, N.W.Hill, 
+#+          M.T.McEllistrem
+#REF-CODE   (J,PR/C,28,2249,198312)
+#REFERENCE  Phys.Rev.C 28 (1983) 2249 (doi:10.1103/PhysRevC.28.2249)
+#DATASETS   0
+#
+#DATASET    12855003 
+#DATE       20101025
+#REACTION   76-OS-187(N,INL)76-OS-187,,SIG
+#PROJ       1
+#TARG       76187
+#MF         3
+#MT         4
+#PRODUCT    76-OS-187
+#C4BEGIN    [    1 76187   3   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 76187   3   4 D  60500.00 300.0000 1.130000 0.200000                                       R.L.Hershberger+     (83)12855  3 
+#/DATA      1
+#/DATASET

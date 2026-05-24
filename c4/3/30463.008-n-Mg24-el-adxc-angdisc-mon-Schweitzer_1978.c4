@@ -1,0 +1,36 @@
+#ENTRY      30463
+#AUTHOR1    Th.Schweitzer+
+#YEAR       1978
+#INSTITUTE  (3DDRTUD)
+#TITLE      Elastic and inelastic scattering of 3.4 MeV neutrons
+#+          by 23Na, 24Mg, 27Al, 28Si, 31P-, 55Mn, 56Fe and 209Bi
+#AUTHOR(S)  Th.Schweitzer, D.Seeliger, S.Unholzer
+#REF-CODE   (W,SEELIGER,197811)
+#REFERENCE  Private communication  (1978)
+#DATASETS   0
+#
+#DATASET    30463008 
+#DATE       20220831
+#REACTION   12-MG-24(N,EL)12-MG-24,,DA
+#PROJ       1
+#TARG       12024
+#MF         4
+#MT         2
+#PRODUCT    12-MG-24
+#C4BEGIN    [    1 12024   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 12024   4   2  C 3400000. 100000.0 0.501000 0.110000 0.962218                              Th.Schweitzer+       (78)30463  8 
+    1 12024   4   2  C 3400000. 100000.0 0.400000 0.083000 0.898794                              Th.Schweitzer+       (78)30463  8 
+    1 12024   4   2  C 3400000. 100000.0 0.294500 0.060000 0.804894                              Th.Schweitzer+       (78)30463  8 
+    1 12024   4   2  C 3400000. 100000.0 0.231000 0.046700 0.685818                              Th.Schweitzer+       (78)30463  8 
+    1 12024   4   2  C 3400000. 100000.0 0.126500 0.025900 0.467930                              Th.Schweitzer+       (78)30463  8 
+    1 12024   4   2  C 3400000. 100000.0 0.071300 0.016200 0.218143                              Th.Schweitzer+       (78)30463  8 
+    1 12024   4   2  C 3400000. 100000.0 0.056600 0.012300-0.041876                              Th.Schweitzer+       (78)30463  8 
+    1 12024   4   2  C 3400000. 100000.0 0.050800 0.010900-0.213030                              Th.Schweitzer+       (78)30463  8 
+    1 12024   4   2  C 3400000. 100000.0 0.052600 0.011100-0.601815                              Th.Schweitzer+       (78)30463  8 
+    1 12024   4   2  C 3400000. 100000.0 0.064500 0.013300-0.727773                              Th.Schweitzer+       (78)30463  8 
+    1 12024   4   2  C 3400000. 100000.0 0.079800 0.016400-0.876307                              Th.Schweitzer+       (78)30463  8 
+#/DATA      11
+#/DATASET

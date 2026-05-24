@@ -1,0 +1,32 @@
+#ENTRY      11318
+#AUTHOR1    R.R.Carlson+
+#YEAR       1957
+#INSTITUTE  (1USALAS)
+#TITLE      CROSS SECTIONS FOR PICKUP REACTIONS OF 14-MEV NEUTRONS
+#+          WITH N14.
+#AUTHOR(S)  R.R.Carlson
+#REF-CODE   (J,PR,107,1094,57)
+#REFERENCE  Phys.Rev. 107 (1957) 1094 (doi:10.1103/PhysRev.107.1094)
+#DATASETS   0
+#
+#DATASET    11318002 
+#DATE       19810428
+#REACTION   7-N-14(N,D)6-C-13,PAR,DA
+#PROJ       1
+#TARG       7014
+#MF         4
+#MT         650
+#PRODUCT    6-C-13
+#C4BEGIN    [    1  7014   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  7014   4 650  C 1.4000+7          0.011400 1.0000-3 1.000000          3680000.         LVLR.R.Carlson          (57)11318  2 
+    1  7014   4 650  C 1.4000+7          0.011500 1.2000-3 0.950000          3680000.         LVLR.R.Carlson          (57)11318  2 
+    1  7014   4 650  C 1.4000+7          0.011200 1.2000-3 0.880000          3680000.         LVLR.R.Carlson          (57)11318  2 
+    1  7014   4 650  C 1.4000+7          0.012500 1.3000-3 0.760000          3680000.         LVLR.R.Carlson          (57)11318  2 
+    1  7014   4 650  C 1.4000+7          8.0000-3 8.0000-4 0.630000          3680000.         LVLR.R.Carlson          (57)11318  2 
+    1  7014   4 650  C 1.4000+7          5.6000-3 4.0000-4 0.460000          3680000.         LVLR.R.Carlson          (57)11318  2 
+    1  7014   4 650  C 1.4000+7          5.2000-3 4.0000-4 0.280000          3680000.         LVLR.R.Carlson          (57)11318  2 
+#/DATA      7
+#/DATASET

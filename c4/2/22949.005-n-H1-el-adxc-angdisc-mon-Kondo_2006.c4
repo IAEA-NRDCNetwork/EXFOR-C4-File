@@ -1,0 +1,31 @@
+#ENTRY      22949
+#AUTHOR1    K.Kondo+
+#YEAR       2006
+#INSTITUTE  (2JPNOSA)
+#TITLE      Charged-particle spectrometry using a pencil-beam DT
+#+          neutron source for double-differential cross-section
+#+          measurement.
+#AUTHOR(S)  K.Kondo, I.Murata, K.Ochiai, H.Miyamaru, N.Kubota, S.Takagi, 
+#+          S.Shido, A.Takahashi, T.Nishitani
+#REF-CODE   (J,NIM/A,568,723,2006)
+#REFERENCE  Nucl.Instrum.Meth.A 568 (2006) 723 (doi:10.1016/j.nima.2006.08.086)
+#DATASETS   0
+#
+#DATASET    22949005 
+#DATE       20161020
+#REACTION   1-H-1(N,EL)1-H-1,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4   2  C 1.4200+7 130000.0 0.055400 1.5000-3-0.755000 0.011445                     K.Kondo+             (06)22949  5 
+    1  1001   4   2  C 1.4200+7 130000.0 0.054900 1.5400-3-0.485000 0.015263                     K.Kondo+             (06)22949  5 
+    1  1001   4   2  C 1.4200+7 130000.0 0.053700 1.4700-3-0.208000 0.017072                     K.Kondo+             (06)22949  5 
+    1  1001   4   2  C 1.4200+7 130000.0 0.053000 1.4500-3 0.122000 0.017323                     K.Kondo+             (06)22949  5 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      13277
+#AUTHOR1    B.L.Tracy+
+#YEAR       1970
+#INSTITUTE  (1CANMCM)
+#TITLE      Independent yields of 80Br, 82Br, 128I, and 130I from
+#+          the thermal neutron fission of 235U, 239Pu, 233U, and
+#+          238Np
+#AUTHOR(S)  B.L.Tracy, H.G.Thode
+#REF-CODE   (J,CJP,48,1708,1970)
+#REFERENCE  Can.J.Phys. 48 (1970) 1708 (doi:10.1139/p70-215)
+#DATASETS   0
+#
+#DATASET    13277005 
+#DATE       20210511
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,SPA
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025300          1.4000-7 3.0000-8 54.00000 128.0000 9.000000            B.L.Tracy+           (70)13277  5 
+    1 92235   8 459    0.025300          2.3000-6 3.0000-7 54.00000 130.0000 9.000000            B.L.Tracy+           (70)13277  5 
+#/DATA      2
+#/DATASET

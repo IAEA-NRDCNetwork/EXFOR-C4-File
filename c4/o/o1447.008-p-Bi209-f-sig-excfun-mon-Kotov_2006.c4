@@ -1,0 +1,36 @@
+#ENTRY      O1447
+#AUTHOR1    A.A.Kotov+
+#YEAR       2006
+#INSTITUTE  (4RUSLIN)
+#TITLE      Energy dependence of proton induced fission cross
+#+          sections for heavy nuclei in the energy range 200-1000
+#+          MeV.
+#AUTHOR(S)  A.A.Kotov, L.A.Vaishnene, V.G.Vovchenko, Yu.A.Gavrikov, 
+#+          V.V.Poliakov, M.G.Tverskoy, O.Ya.Fedorov, Yu.A.Chestnov, 
+#+          A.I.Shchetkovskiy, A.V.Shvedchikov, A.Yu.Doroshenko, T.Fukahori
+#REF-CODE   (J,PR/C,74,034605,2006)
+#REFERENCE  Phys.Rev.C 74 (2006) 034605 (doi:10.1103/PhysRevC.74.034605)
+#DATASETS   0
+#
+#DATASET    O1447008 
+#DATE       20070605
+#REACTION   83-BI-209(P,F),,SIG
+#PROJ       1001
+#TARG       83209
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 83209   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 83209   3  18    2.0700+8          0.136000 0.013000                                       A.A.Kotov+           (06)O1447  8 
+ 1001 83209   3  18    3.0200+8          0.178000 0.017000                                       A.A.Kotov+           (06)O1447  8 
+ 1001 83209   3  18    4.0400+8          0.207000 0.021000                                       A.A.Kotov+           (06)O1447  8 
+ 1001 83209   3  18    5.0500+8          0.227000 0.023000                                       A.A.Kotov+           (06)O1447  8 
+ 1001 83209   3  18    6.1200+8          0.233000 0.023000                                       A.A.Kotov+           (06)O1447  8 
+ 1001 83209   3  18    7.0200+8          0.235000 0.023000                                       A.A.Kotov+           (06)O1447  8 
+ 1001 83209   3  18    8.0200+8          0.229000 0.023000                                       A.A.Kotov+           (06)O1447  8 
+ 1001 83209   3  18    8.9900+8          0.239000 0.024000                                       A.A.Kotov+           (06)O1447  8 
+ 1001 83209   3  18    1.0000+9          0.235000 0.023000                                       A.A.Kotov+           (06)O1447  8 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      40452
+#AUTHOR1    Yu.Ya.Stavisskii+
+#YEAR       1960
+#INSTITUTE  (4RUSFEI)
+#TITLE      FAST NEUTRON RADIATIVE CAPTURE CROSS SECTIONS OV V-51,
+#+          NB-93,W-186 AND TL-205.
+#AUTHOR(S)  Yu.Ya.Stavisskii, V.A.Tolstikov
+#REF-CODE   (J,AE,9,(5),401,1960)
+#REFERENCE  At.En. 9 No.5 (1960) 401
+#DATASETS   0
+#
+#DATASET    40452005 
+#DATE       19850329
+#REACTION   74-W-186(N,G)74-W-187,,SIG
+#PROJ       1
+#TARG       74186
+#MF         3
+#MT         102
+#PRODUCT    74-W-187
+#C4BEGIN    [    1 74186   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74186   3 102 A  30000.00 7500.000 0.261000 0.018000                                       Yu.Ya.Stavisskii+    (60)40452  5 
+    1 74186   3 102 A  47000.00 8500.000 0.254000 0.018000                                       Yu.Ya.Stavisskii+    (60)40452  5 
+    1 74186   3 102 A  70000.00 10000.00 0.204000 0.013000                                       Yu.Ya.Stavisskii+    (60)40452  5 
+    1 74186   3 102 A  112000.0 12500.00 0.147000 6.0000-3                                       Yu.Ya.Stavisskii+    (60)40452  5 
+    1 74186   3 102 A  150000.0 14500.00 0.094000 5.0000-3                                       Yu.Ya.Stavisskii+    (60)40452  5 
+    1 74186   3 102 A  178000.0 15500.00 0.079000 4.0000-3                                       Yu.Ya.Stavisskii+    (60)40452  5 
+    1 74186   3 102 A  238000.0 18000.00 0.062000 3.0000-3                                       Yu.Ya.Stavisskii+    (60)40452  5 
+    1 74186   3 102 A  410000.0 15500.00 0.067000 4.0000-3                                       Yu.Ya.Stavisskii+    (60)40452  5 
+    1 74186   3 102 A  500000.0 17500.00 0.050000 1.3000-3                                       Yu.Ya.Stavisskii+    (60)40452  5 
+    1 74186   3 102 A  780000.0 18000.00 0.052000 1.5000-3                                       Yu.Ya.Stavisskii+    (60)40452  5 
+    1 74186   3 102 A  1000000. 20000.00 0.047000 1.5000-3                                       Yu.Ya.Stavisskii+    (60)40452  5 
+    1 74186   3 102 A  1370000. 23500.00 0.040000 1.5000-3                                       Yu.Ya.Stavisskii+    (60)40452  5 
+#/DATA      12
+#/DATASET

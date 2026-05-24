@@ -1,0 +1,36 @@
+#ENTRY      22882
+#AUTHOR1    A.N.Smirnov+
+#YEAR       2004
+#INSTITUTE  (4RUSRI)
+#TITLE      Measurement of neutron-induced fission cross section
+#+          for Bi-209, Pb-nat, Pb-208, Au-197, W-nat and Ta-181
+#+          in the intermediate energy region
+#AUTHOR(S)  A.N.Smirnov, V.P.Eismont, N.P.Filatov, J.Blomgren, H.Conde, 
+#+          A.V.Prokofiev, P.-U.Renberg, N.Olsson
+#REF-CODE   (J,PR/C,70,054603,2004)
+#REFERENCE  Phys.Rev.C 70 (2004) 054603 (doi:10.1103/PhysRevC.70.054603)
+#DATASETS   0
+#
+#DATASET    22882010 
+#DATE       20100112
+#REACTION   82-PB-208(N,F),,SIG
+#PROJ       1
+#TARG       82208
+#MF         3
+#MT         18
+#C4BEGIN    [    1 82208   3  18 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82208   3  18 C  3.4500+7 1400000. 8.7000-6 2.1000-6                                       A.N.Smirnov+         (04)22882 10 
+    1 82208   3  18 C  4.6300+7 1200000. 1.4300-4 1.8000-5                                       A.N.Smirnov+         (04)22882 10 
+    1 82208   3  18 C  6.6600+7 900000.0 1.7500-3 2.1000-4                                       A.N.Smirnov+         (04)22882 10 
+    1 82208   3  18 C  7.3900+7 1000000. 2.9000-3 3.3000-4                                       A.N.Smirnov+         (04)22882 10 
+    1 82208   3  18 C  8.9600+7 800000.0 4.8000-3 5.0000-4                                       A.N.Smirnov+         (04)22882 10 
+    1 82208   3  18 C  9.4100+7 1400000. 6.6000-3 8.0000-4                                       A.N.Smirnov+         (04)22882 10 
+    1 82208   3  18 C  1.1130+8 1100000. 0.010100 1.3000-3                                       A.N.Smirnov+         (04)22882 10 
+    1 82208   3  18 C  1.3290+8 1900000. 0.012600 1.3000-3                                       A.N.Smirnov+         (04)22882 10 
+    1 82208   3  18 C  1.4460+8 1800000. 0.017300 2.0000-3                                       A.N.Smirnov+         (04)22882 10 
+    1 82208   3  18 C  1.7330+8 1900000. 0.019900 2.7000-3                                       A.N.Smirnov+         (04)22882 10 
+#/DATA      10
+#/DATASET

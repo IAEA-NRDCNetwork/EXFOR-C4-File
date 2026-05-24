@@ -1,0 +1,33 @@
+#ENTRY      C2542
+#AUTHOR1    K.Aleklett+
+#YEAR       1981
+#INSTITUTE  (1USABRK)
+#TITLE      Energy dependence of 209Bi fragmentation in
+#+          relativistic nuclear collisions
+#AUTHOR(S)  K.Aleklett, D.J.Morrissey, W.Loveland, P.L.McGaughey, G.T.Seaborg
+#REF-CODE   (J,PR/C,23,1044,1981)
+#REFERENCE  Phys.Rev.C 23 (1981) 1044 (doi:10.1103/PhysRevC.23.1044)
+#DATASETS   0
+#
+#DATASET    C2542002 
+#DATE       20200502
+#REACTION   83-BI-209(6-C-12,X)ELEM/MASS,CUM,SIG
+#PROJ       6012
+#TARG       83209
+#MF         3
+#MT         459
+#C4BEGIN    [ 6012 83209   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 83209   3 459    4.8000+9          0.012900 1.3000-3           79190.9                     K.Aleklett+          (81)C2542  2 
+ 6012 83209   3 459    4.8000+9          0.012900 1.3000-3           79191.9                     K.Aleklett+          (81)C2542  2 
+ 6012 83209   3 459    4.8000+9          0.011900 1.2000-3           79192.9                     K.Aleklett+          (81)C2542  2 
+ 6012 83209   3 459    4.8000+9          0.011600 1.2000-3           79193.9                     K.Aleklett+          (81)C2542  2 
+ 6012 83209   3 459    4.8000+9          1.7000-3 2.0000-4           79194.9                     K.Aleklett+          (81)C2542  2 
+ 6012 83209   3 459    4.8000+9          0.011500 1.1000-3           79195.9                     K.Aleklett+          (81)C2542  2 
+ 6012 83209   3 459    4.8000+9          1.2000-3 1.0000-4           79196.9                     K.Aleklett+          (81)C2542  2 
+ 6012 83209   3 459    4.8000+9          6.5000-4 5.2000-5           79198.9                     K.Aleklett+          (81)C2542  2 
+ 6012 83209   3 459    4.8000+9          5.6000-4 5.6000-5           79199.9                     K.Aleklett+          (81)C2542  2 
+#/DATA      9
+#/DATASET

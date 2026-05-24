@@ -1,0 +1,32 @@
+#ENTRY      30345
+#AUTHOR1    G.Paic+
+#YEAR       1964
+#INSTITUTE  (3CRORBZ)
+#TITLE      -Reaction (n,p) on B-10,Au-197 and Pb with 14.4 MeV
+#+          neutrons- (Direct Effects in (n,p) Reactions)
+#AUTHOR(S)  G.Paic, I.Slaus, V.Valkovic, M.Cerineo
+#REF-CODE   (C,64PARIS,2,934,196407)
+#REFERENCE  Proceedings of Nuclear Physics Congress, Paris 1964 2 page 934
+#DATASETS   0
+#
+#DATASET    30345004 
+#DATE       20090115
+#REACTION   5-B-10(N,P)4-BE-10,PAR,DA
+#PROJ       1
+#TARG       5010
+#MF         4
+#MT         600
+#PRODUCT    4-BE-10
+#C4BEGIN    [    1  5010   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   4 600  C 1.4400+7          8.3000-4 1.7000-4 1.000000          6110000. 150000.0LVLG.Paic+              (64)30345  4 
+    1  5010   4 600  C 1.4400+7          5.8000-4 1.7000-4 0.951057          6110000. 150000.0LVLG.Paic+              (64)30345  4 
+    1  5010   4 600  C 1.4400+7          1.4200-3 2.1000-4 0.848048          6110000. 150000.0LVLG.Paic+              (64)30345  4 
+    1  5010   4 600  C 1.4400+7          1.4600-3 2.1000-4 0.438371          6110000. 150000.0LVLG.Paic+              (64)30345  4 
+    1  5010   4 600  C 1.4400+7          1.1700-3 1.3000-4 0.139173          6110000. 150000.0LVLG.Paic+              (64)30345  4 
+    1  5010   4 600  C 1.4400+7          9.2000-4 1.7000-4-0.139173          6110000. 150000.0LVLG.Paic+              (64)30345  4 
+    1  5010   4 600  C 1.4400+7          1.5800-3 5.0000-4-0.374607          6110000. 150000.0LVLG.Paic+              (64)30345  4 
+#/DATA      7
+#/DATASET

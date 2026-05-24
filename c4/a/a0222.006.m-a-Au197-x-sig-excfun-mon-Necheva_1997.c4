@@ -1,0 +1,27 @@
+#ENTRY      A0222
+#AUTHOR1    C.Necheva+
+#YEAR       1997
+#INSTITUTE  (3BULSOF)
+#TITLE      Excitation Functions of Alpha-Induced Reactions on Gold
+#+          For Alpha-Particle Energies Between 11 and 36 MeV.
+#AUTHOR(S)  C.Necheva, D.Kolev
+#REF-CODE   (J,ARI,48,807,1997)
+#REFERENCE  Appl.Radiat.Isot. 48 (1997) 807 (doi:10.1016/S0969-8043(96)00277-1)
+#DATASETS   0
+#
+#DATASET    A0222006M
+#DATE       20160708
+#REACTION   79-AU-197(A,X)80-HG-197-M,,SIG
+#PROJ       2004
+#TARG       79197
+#MF         3
+#MT         454
+#PRODUCT    80-HG-197-M
+#C4BEGIN    [ 2004 79197   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 79197   3 454    3.5900+7          5.0000-4 1.0000-4           80197.7                     C.Necheva+           (97)A0222  6M
+ 2004 79197   3 454    3.3400+7          1.0000-4 2.0000-5           80197.7                     C.Necheva+           (97)A0222  6M
+#/DATA      2
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      E1650
+#AUTHOR1    M.Yasue+
+#YEAR       1992
+#INSTITUTE  (2JPNJPN)
+#TITLE      Spectroscopic study of oxygen and fluorine isotopes
+#+          with the (alpha,3He) and (alpha,t) reactions on
+#+          16,17,18O
+#AUTHOR(S)  M.Yasue, T.Hasegawa, S.I.Hayakawa, K.Ieki, J.Kasagi, S.Kubono, 
+#+          T.Murakami, K.Nisimura, K.Ogawa, H.Ohnuma, R.J.Peterson, 
+#+          H.Shimizu, M.H.Tanaka, H.Toyokawa
+#REF-CODE   (J,PR/C,46,(4),1242,199210)
+#REFERENCE  Phys.Rev.C 46 No.4 (1992) 1242 (doi:10.1103/PhysRevC.46.1242)
+#DATASETS   0
+#
+#DATASET    E1650047 
+#DATE       20070514
+#REACTION   8-O-17(A,HE3)8-O-18,PAR,DA
+#PROJ       2004
+#TARG       8017
+#MF         4
+#MT         750
+#PRODUCT    8-O-18
+#C4BEGIN    [ 2004  8017   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  8017   4 750  C 6.4300+7          6.4280-5          0.962503          8820000.         LVLM.Yasue+             (92)E1650 47 
+ 2004  8017   4 750  C 6.4300+7          4.4870-5          0.946593          8820000.         LVLM.Yasue+             (92)E1650 47 
+ 2004  8017   4 750  C 6.4300+7          2.7770-5          0.927118          8820000.         LVLM.Yasue+             (92)E1650 47 
+ 2004  8017   4 750  C 6.4300+7          2.4350-5          0.904008          8820000.         LVLM.Yasue+             (92)E1650 47 
+ 2004  8017   4 750  C 6.4300+7          1.8430-5          0.878900          8820000.         LVLM.Yasue+             (92)E1650 47 
+ 2004  8017   4 750  C 6.4300+7          1.7510-5 2.4040-6 0.853278          8820000.         LVLM.Yasue+             (92)E1650 47 
+ 2004  8017   4 750  C 6.4300+7          2.0080-5 2.5220-6 0.824423          8820000.         LVLM.Yasue+             (92)E1650 47 
+ 2004  8017   4 750  C 6.4300+7          1.9340-5 2.4270-6 0.794309          8820000.         LVLM.Yasue+             (92)E1650 47 
+ 2004  8017   4 750  C 6.4300+7          1.2660-5 1.8170-6 0.723449          8820000.         LVLM.Yasue+             (92)E1650 47 
+ 2004  8017   4 750  C 6.4300+7          1.1440-5 1.8330-6 0.644391          8820000.         LVLM.Yasue+             (92)E1650 47 
+#/DATA      10
+#/DATASET

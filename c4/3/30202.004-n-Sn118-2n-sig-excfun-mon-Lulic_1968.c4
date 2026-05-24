@@ -1,0 +1,26 @@
+#ENTRY      30202
+#AUTHOR1    S.Lulic+
+#YEAR       1968
+#INSTITUTE  (3CRORBZ)
+#TITLE      Activation cross sections of Sn isotopes for 14 MeV
+#+          neutrons
+#AUTHOR(S)  S.Lulic, P.Strohal, B.Antolkovic, G.Paic
+#REF-CODE   (J,NP/A,119,517,196811)
+#REFERENCE  Nucl.Phys.A 119 (1968) 517 (doi:10.1016/0375-9474(68)90254-6)
+#DATASETS   0
+#
+#DATASET    30202004 
+#DATE       20081203
+#REACTION   50-SN-118(N,2N)50-SN-117-M,,SIG
+#PROJ       1
+#TARG       50118
+#MF         3
+#MT         16
+#PRODUCT    50-SN-117-M
+#C4BEGIN    [    1 50118   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 50118   3  16M   1.4400+7          0.976000 0.120000                                       S.Lulic+             (68)30202  4 
+#/DATA      1
+#/DATASET

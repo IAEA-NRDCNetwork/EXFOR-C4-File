@@ -1,0 +1,25 @@
+#ENTRY      12821
+#AUTHOR1    J.A.Grundl+
+#YEAR       1983
+#INSTITUTE  (1USANBS)
+#TITLE      FISSION CROSS-SECTION MEASUREMENTS IN REACTOR PHYSICS
+#+          AND DOSIMETRY BENCHMARKS
+#AUTHOR(S)  J.A.Grundl, D.M.Gilliam
+#REF-CODE   (J,ANS,44,533,8306)
+#REFERENCE  Trans.Am.Nucl.Soc. 44 (1983) 533
+#DATASETS   0
+#
+#DATASET    12821002 
+#DATE       19831228
+#REACTION   90-TH-232(N,F),,SIG,,FIS
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [    1 90232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3  18    1000000.          0.089400 2.7000-3                                       J.A.Grundl+          (83)12821  2 
+#/DATA      1
+#/DATASET

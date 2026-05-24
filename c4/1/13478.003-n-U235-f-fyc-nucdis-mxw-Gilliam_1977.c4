@@ -1,0 +1,31 @@
+#ENTRY      13478
+#AUTHOR1    D.M.Gilliam+
+#YEAR       1977
+#INSTITUTE  (1USALAS)
+#TITLE      Reference and Standard Benchmark Field Consensus
+#+          Fission Yields for U.S. Reactor Dosimetry Programs
+#AUTHOR(S)  D.M.Gilliam, R.G.Helmer, R.C.Greenwood, J.W.Rogers, R.R.Heinrich, 
+#+          R.J.Popek, L.S.Kellogg, E.P.Lippincott, G.E.Hansen, W.H.Zimmer
+#REF-CODE   (C,77PALOALTO,3,1289,1977)
+#REFERENCE  Proceedings of 2nd Symposium on Reactor Dosimetry, Palo Alto 1977 3 page 1289
+#DATASETS   0
+#
+#DATASET    13478003 
+#DATE       20160916
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025300          0.059200 2.4272-3 40.00000 97.00000 9.000000            D.M.Gilliam+         (77)13478  3 
+    1 92235   8 459    0.025300          0.028600 1.3156-3 53.00000 131.0000 9.000000            D.M.Gilliam+         (77)13478  3 
+    1 92235   8 459    0.025300          0.042100 2.6102-3 52.00000 132.0000 9.000000            D.M.Gilliam+         (77)13478  3 
+    1 92235   8 459    0.025300          0.057200 3.1460-3 58.00000 141.0000 9.000000            D.M.Gilliam+         (77)13478  3 
+    1 92235   8 459    0.025300          0.053600 4.9312-3 58.00000 143.0000 9.000000            D.M.Gilliam+         (77)13478  3 
+    1 92235   8 459    0.025300          0.057200 1.6588-3 58.00000 144.0000 9.000000            D.M.Gilliam+         (77)13478  3 
+#/DATA      6
+#/DATASET

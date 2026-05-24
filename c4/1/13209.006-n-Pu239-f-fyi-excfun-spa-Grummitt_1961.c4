@@ -1,0 +1,26 @@
+#ENTRY      13209
+#AUTHOR1    W.E.Grummitt+
+#YEAR       1961
+#INSTITUTE  (1CANCRC)
+#TITLE      The independent yield of 136Cs in the thermal neutron
+#+          fission of 235U, 233U and 239Pu
+#AUTHOR(S)  W.E.Grummitt, G.M.Milton
+#REF-CODE   (J,JIN,20,6,1961)
+#REFERENCE  J.Inorg.Nucl.Chem. 20 (1961) 6 (doi:10.1016/0022-1902(61)80451-X)
+#DATASETS   0
+#
+#DATASET    13209006 
+#DATE       20210105
+#REACTION   94-PU-239(N,F)55-CS-136,IND,FY,,SPA
+#PROJ       1
+#TARG       94239
+#MF         8
+#MT         454
+#PRODUCT    55-CS-136
+#C4BEGIN    [    1 94239   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   8 454    0.025300          8.3500-4 2.5050-5 55.00000 136.0000 9.000000            W.E.Grummitt+        (61)13209  6 
+#/DATA      1
+#/DATASET

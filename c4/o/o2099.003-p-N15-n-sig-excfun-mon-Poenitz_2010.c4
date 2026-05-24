@@ -1,0 +1,35 @@
+#ENTRY      O2099
+#AUTHOR1    E.Poenitz+
+#YEAR       2010
+#INSTITUTE  (2GERDRE)
+#TITLE      Measurement of cross sections for the scattering of
+#+          neutrons in the energy range of 2 MeV to 4 MeV with the
+#+          N-15(p,n) reaction as a neutron source.
+#AUTHOR(S)  E.Poenitz
+#REF-CODE   (T,Poenitz,2010)
+#REFERENCE  Thesis  (2010)
+#DATASETS   0
+#
+#DATASET    O2099003 
+#DATE       20121114
+#REACTION   7-N-15(P,N)8-O-15,,SIG
+#PROJ       1001
+#TARG       7015
+#MF         3
+#MT         4
+#PRODUCT    8-O-15
+#C4BEGIN    [ 1001  7015   3   4 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7015   3   4 C  5560000. 20000.00 0.140500 4.9000-3                                       E.Poenitz            (10)O2099  3 
+ 1001  7015   3   4 C  5620000. 30000.00 0.120200 4.9000-3                                       E.Poenitz            (10)O2099  3 
+ 1001  7015   3   4 C  5660000. 30000.00 0.103900 3.9000-3                                       E.Poenitz            (10)O2099  3 
+ 1001  7015   3   4 C  5820000. 20000.00 0.134400 3.9000-3                                       E.Poenitz            (10)O2099  3 
+ 1001  7015   3   4 C  6620000. 30000.00 0.148300 4.0000-3                                       E.Poenitz            (10)O2099  3 
+ 1001  7015   3   4 C  6690000. 25000.00 0.151900 4.1000-3                                       E.Poenitz            (10)O2099  3 
+ 1001  7015   3   4 C  7570000. 20000.00 0.169700 0.013000                                       E.Poenitz            (10)O2099  3 
+ 1001  7015   3   4 C  7590000. 20000.00 0.179200 0.013600                                       E.Poenitz            (10)O2099  3 
+ 1001  7015   3   4 C  8700000. 25000.00 0.059900 4.5000-3                                       E.Poenitz            (10)O2099  3 
+#/DATA      9
+#/DATASET

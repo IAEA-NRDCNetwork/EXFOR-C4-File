@@ -1,0 +1,32 @@
+#ENTRY      30287
+#AUTHOR1    W.Grochulski+
+#YEAR       1975
+#INSTITUTE  (3POLIPJ)
+#TITLE      Excitation curves for fast neutron induced reactions
+#+          on Ga-71, As-75, Se-80, Se-82, Sn-117 and Sn-118
+#AUTHOR(S)  W.Grochulski, S.El-Konsol, A.Marcinkowski
+#REF-CODE   (J,APP/B,6,139,1975)
+#REFERENCE  Acta Phys.Pol.B 6 (1975) 139
+#DATASETS   0
+#
+#DATASET    30287011 
+#DATE       20220127
+#REACTION   50-SN-117(N,INL)50-SN-117-M,,SIG
+#PROJ       1
+#TARG       50117
+#MF         3
+#MT         4
+#PRODUCT    50-SN-117-M
+#C4BEGIN    [    1 50117   3   4MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 50117   3   4MA  1.3000+7 100000.0 0.416000 0.099000                                       W.Grochulski+        (75)30287 11 
+    1 50117   3   4MA  1.3400+7 100000.0 0.287000 0.044000                                       W.Grochulski+        (75)30287 11 
+    1 50117   3   4MA  1.3900+7 100000.0 0.272000 0.035000                                       W.Grochulski+        (75)30287 11 
+    1 50117   3   4MA  1.4500+7 100000.0 0.284000 0.032000                                       W.Grochulski+        (75)30287 11 
+    1 50117   3   4MA  1.5100+7 200000.0 0.255000 0.037000                                       W.Grochulski+        (75)30287 11 
+    1 50117   3   4MA  1.5400+7 200000.0 0.286000 0.030000                                       W.Grochulski+        (75)30287 11 
+    1 50117   3   4MA  1.5900+7 200000.0 0.320000 0.052000                                       W.Grochulski+        (75)30287 11 
+#/DATA      7
+#/DATASET

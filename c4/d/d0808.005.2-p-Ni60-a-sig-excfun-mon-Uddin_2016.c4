@@ -1,0 +1,28 @@
+#ENTRY      D0808
+#AUTHOR1    M.S.Uddin+
+#YEAR       2016
+#INSTITUTE  (3BANSAV)
+#TITLE      Excitation function of the 60Ni(p,g)61Cu reaction from
+#+          threshold to 16 MeV
+#AUTHOR(S)  M.S.Uddin, S.Sudar, I.Spahn, M.A.Shariff, S.M.Qaim
+#REF-CODE   (J,PR/C,93,044606,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 044606 (doi:10.1103/PhysRevC.93.044606)
+#DATASETS   0
+#
+#DATASET    D08080052
+#DATE       20190207
+#REACTION   28-NI-60(P,A)27-CO-57,,SIG
+#PROJ       1001
+#TARG       28060
+#MF         3
+#MT         107
+#PRODUCT    27-CO-57
+#C4BEGIN    [ 1001 28060   3 107 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28060   3 107 A  1.6000+7 40000.00 0.079000 6.0000-3                                       M.S.Uddin+           (16)D0808  52
+ 1001 28060   3 107 A  1.5600+7 50000.00 0.068000 5.0000-3                                       M.S.Uddin+           (16)D0808  52
+ 1001 28060   3 107 A  1.5100+7 40000.00 0.077000 6.0000-3                                       M.S.Uddin+           (16)D0808  52
+#/DATA      3
+#/DATASET

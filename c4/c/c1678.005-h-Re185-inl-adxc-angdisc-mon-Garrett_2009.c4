@@ -1,0 +1,34 @@
+#ENTRY      C1678
+#AUTHOR1    P.E.Garrett+
+#YEAR       2009
+#INSTITUTE  (1CANGUE)
+#TITLE      Scattering of 30 MeV 3He from 185Re
+#AUTHOR(S)  P.E.Garrett, A.A.Phillips, G.A.Demand, P.Finlay, K.L.Green, 
+#+          K.G.Leach, M.A.Schumaker, C.E.Svensson, J.Wong, R.Hertenberger, 
+#+          H.-F.Wirth, T.Faestermann, R.Krucken, D.G.Burke, L.Bettermann, 
+#+          N.Braun
+#REF-CODE   (J,PR/C,79,017601,2009)
+#REFERENCE  Phys.Rev.C 79 (2009) 017601 (doi:10.1103/PhysRevC.79.017601)
+#DATASETS   0
+#
+#DATASET    C1678005 
+#DATE       20090519
+#REACTION   75-RE-185(HE3,INL)75-RE-185,PAR,DA
+#PROJ       2003
+#TARG       75185
+#MF         4
+#MT         751
+#PRODUCT    75-RE-185
+#C4BEGIN    [ 2003 75185   4 751  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 75185   4 751  C 3.0000+7          1.7800-5 1.6000-6 0.633111          475700.0         LVLP.E.Garrett+         (09)C1678  5 
+ 2003 75185   4 751  C 3.0000+7          5.7600-5 8.6000-6 0.487707          475700.0         LVLP.E.Garrett+         (09)C1678  5 
+ 2003 75185   4 751  C 3.0000+7          5.9600-5 4.9000-6 0.327548          475700.0         LVLP.E.Garrett+         (09)C1678  5 
+ 2003 75185   4 751  C 3.0000+7          6.0000-5 4.3000-6 0.157813          475700.0         LVLP.E.Garrett+         (09)C1678  5 
+ 2003 75185   4 751  C 3.0000+7          5.1700-5 3.8000-6-0.016231          475700.0         LVLP.E.Garrett+         (09)C1678  5 
+ 2003 75185   4 751  C 3.0000+7          3.9500-5 3.1000-6-0.189438          475700.0         LVLP.E.Garrett+         (09)C1678  5 
+ 2003 75185   4 751  C 3.0000+7          2.4800-5 2.8000-6-0.356412          475700.0         LVLP.E.Garrett+         (09)C1678  5 
+#/DATA      7
+#/DATASET

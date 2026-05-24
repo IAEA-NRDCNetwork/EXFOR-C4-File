@@ -1,0 +1,26 @@
+#ENTRY      30072
+#AUTHOR1    M.Najzer+
+#YEAR       1970
+#INSTITUTE  (3SLNIJS)
+#TITLE      Fission-spectrum-averaged neutron cross-sections for
+#+          some threshold detectors
+#AUTHOR(S)  M.Najzer, J.Rant, H.Solinc
+#REF-CODE   (C,70HELSINKI,2,571,197006)
+#REFERENCE  Proceedings of Nuclear Data for Reactors Conf., Helsinki 1970 2 page 571
+#DATASETS   0
+#
+#DATASET    30072003 
+#DATE       20080215
+#REACTION   49-IN-115(N,INL)49-IN-115,,SIG,,SPA
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         4
+#PRODUCT    49-IN-115
+#C4BEGIN    [    1 49115   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3   4    1000000.          0.156000 5.0000-3                                       M.Najzer+            (70)30072  3 
+#/DATA      1
+#/DATASET

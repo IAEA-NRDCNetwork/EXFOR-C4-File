@@ -1,0 +1,33 @@
+#ENTRY      E2350
+#AUTHOR1    T.Yamaguchi+
+#YEAR       2011
+#INSTITUTE  (2JPNSUU)
+#TITLE      Nuclear reactions of 19,20C on a liquid hydrogen
+#+          target measured with the superconducting TOF
+#+          spectrometer
+#AUTHOR(S)  T.Yamaguchi, K.Tanaka, T.Suzuki, A.Ozawa, T.Ohtsubo, T.Aiba, 
+#+          N.Aoi, H.Baba, M.Fukuda, Y.Hashizume, K.Inafuku, N.Iwasa, 
+#+          T.Izumikawa, K.Kobayashi, M.Komuro, Y.Kondo, T.Kubo, M.Kurokawa, 
+#+          T.Matsuyama, S.Michimasa, T.Motobayashi, T.Nakabayashi, 
+#+          S.Nakajima, T.Nakamura, H.Sakurai, R.Shinoda, M.Shinohara, 
+#+          H.Suzuki, M.Takechi, E.Takeshita, S.Takeuchi, Y.Togano, 
+#+          K.Yamada, T.Yasuno, M.Yoshitake
+#REF-CODE   (J,NP/A,864,(1),1,201108)
+#REFERENCE  Nucl.Phys.A 864 No.1 (2011) 1
+#DATASETS   0
+#
+#DATASET    E2350010 
+#DATE       20120130
+#REACTION   1-H-1(6-C-20,X)6-C-18,,SIG
+#PROJ       6020
+#TARG       1001
+#MF         3
+#MT         454
+#PRODUCT    6-C-18
+#C4BEGIN    [ 6020  1001   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6020  1001   3 454    8.0000+8          0.107000 0.015000            6018.9                     T.Yamaguchi+         (11)E2350 10 
+#/DATA      1
+#/DATASET

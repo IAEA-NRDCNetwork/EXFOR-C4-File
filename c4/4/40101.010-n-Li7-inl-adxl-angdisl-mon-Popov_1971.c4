@@ -1,0 +1,30 @@
+#ENTRY      40101
+#AUTHOR1    V.I.Popov+
+#YEAR       1971
+#INSTITUTE  (4RUSFEI)
+#TITLE      Elastic and inelastic scattering of neutrons with
+#+          initial energy 4.37 MeV
+#AUTHOR(S)  V.I.Popov, V.I.Trykova
+#REF-CODE   (C,71KIEV,1,223,1971)
+#REFERENCE  Proceedings of Neutron Physics Conf., Kiev 1971 1 page 223
+#DATASETS   0
+#
+#DATASET    40101010 
+#DATE       20210729
+#REACTION   3-LI-7(N,INL)3-LI-7,PAR,DA,,A
+#PROJ       1
+#TARG       3007
+#MF         4
+#MT         51
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  3007   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3007   4  51    4370000. 180000.0 0.296374 0.058854 0.866025          480000.0         LVLV.I.Popov+           (71)40101 10 
+    1  3007   4  51    4370000. 180000.0 0.256437 0.042039 0.500000          480000.0         LVLV.I.Popov+           (71)40101 10 
+    1  3007   4  51    4370000. 180000.0 0.273253 0.046243 6.123-17          480000.0         LVLV.I.Popov+           (71)40101 10 
+    1  3007   4  51    4370000. 180000.0 0.299527 0.057803-0.500000          480000.0         LVLV.I.Popov+           (71)40101 10 
+    1  3007   4  51    4370000. 180000.0 0.251182 0.056752-0.866025          480000.0         LVLV.I.Popov+           (71)40101 10 
+#/DATA      5
+#/DATASET

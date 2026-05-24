@@ -1,0 +1,52 @@
+#ENTRY      O2611
+#AUTHOR1    J.M.Boillos+
+#YEAR       2022
+#INSTITUTE  (2SPNSAU)
+#TITLE      Isotopic cross sections of fragmentation residues
+#+          produced by light projectiles on carbon near 400A MeV
+#AUTHOR(S)  J.M.Boillos, D.Cortina-Gil, J.Benlliure, J.L.Rodriguez-Sanchez, 
+#+          H.Alvarez-Pol, L.Atar, T.Aumann, V.V.Avdeichikov, S.Beceiro-Novo, 
+#+          D.Bemmerer, C.A.Bertulani, K.Boretzky, M.J.G.Borge, M.Caamano, 
+#+          C.Caesar, E.Casarejos, W.Catford, J.Cederkall, M.Chartier, 
+#+          L.Chulkov, E.Cravo, R.N.P.Crespo, I.Dillmann, P.Diaz Fernandez, 
+#+          Z.Elekes, J.Enders, O.Ershova, A.Estrade, F.Farinon, L.M.Fraile, 
+#+          M.Freer, D.Galaviz Redondo, H.Geissel, R.Gernhaeuser, P.Golubev, 
+#+          K.Goebel, J.Hagdahl, T.Heftrich, M.Heil, M.Heine, A.Heinz, 
+#+          A.Henriques, M.Holl, A.Hufnagel, A.Ignatov, H.T.Johansson, 
+#+          B.Jonson, J.Kahlbow, N.Kalantar-Nayestanaki, R.Kanungo, 
+#+          A.Kelic-Heil, A.Knyazev, T.Kroell, N.Kurz, M.Labiche, C.Langer, 
+#+          T.Le Bleis, R.Lemmon, S.Lindberg, J.F.D.C.Machado, J.Marganiec, 
+#+          A.Movsesyan, E.Nacher, M.A.Najafi, T.Nilsson, C.Nociforo, 
+#+          V.Panin, S.Paschalis, A.Perea, M.Petri, S.Pietri, R.Plag, 
+#+          R.Reifarth, G.Ribeiro, C.Rigollet, D.M.Rossi, M.Roeder, 
+#+          D.Savran, H.Scheit, H.Simon, O.Sorlin, I.J.Syndikus, J.T.Taylor, 
+#+          O.Tengblad, R.Thies, Y.Togano, M.Vandebrouck, P.J.F.Velho, 
+#+          V.Volkov, A.Wagner, F.Wamers, H.Weick, C.Wheldon, G.L.Wilson, 
+#+          J.S.Winfield, P.Woods, D.Yakorev, M.Zhukov, A.Zilges, K.Zuber
+#REF-CODE   (J,PR/C,105,014611,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) 014611 (doi:10.1103/PhysRevC.105.014611)
+#DATASETS   0
+#
+#DATASET    O2611008 
+#DATE       20240402
+#REACTION   6-C-12(6-C-12,X)ELEM/MASS,,SIG
+#PROJ       6012
+#TARG       6012
+#MF         3
+#MT         454
+#C4BEGIN    [ 6012  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  6012   3 454    5.4000+9          0.065960 5.4800-3            6011.9                     J.M.Boillos+         (22)O2611  8 
+ 6012  6012   3 454    5.4000+9          4.0100-3 6.4000-4            6010.9                     J.M.Boillos+         (22)O2611  8 
+ 6012  6012   3 454    5.4000+9          0.059480 2.1700-3            5011.9                     J.M.Boillos+         (22)O2611  8 
+ 6012  6012   3 454    5.4000+9          0.036650 2.3000-3            5010.9                     J.M.Boillos+         (22)O2611  8 
+ 6012  6012   3 454    5.4000+9          8.4000-4 1.6000-4            5008.9                     J.M.Boillos+         (22)O2611  8 
+ 6012  6012   3 454    5.4000+9          6.2100-3 6.1000-4            4010.9                     J.M.Boillos+         (22)O2611  8 
+ 6012  6012   3 454    5.4000+9          0.010370 1.1700-3            4009.9                     J.M.Boillos+         (22)O2611  8 
+ 6012  6012   3 454    5.4000+9          0.012830 2.2600-3            4007.9                     J.M.Boillos+         (22)O2611  8 
+ 6012  6012   3 454    5.4000+9          1.6600-3 3.2000-4            3008.9                     J.M.Boillos+         (22)O2611  8 
+ 6012  6012   3 454    5.4000+9          0.015630 4.1900-3            3007.9                     J.M.Boillos+         (22)O2611  8 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      E1195
+#AUTHOR1    K.Hosono+
+#YEAR       1986
+#INSTITUTE  (2JPNOSA)
+#TITLE      Excitation of M1 states in 58Ni and 60Ni by 65MeV
+#+          polatized proton inelastic scattering
+#AUTHOR(S)  K.Hosono, M.fujiwara, H.Ikegami, M.Kondo, N.Matsuoka, T.Saito, 
+#+          T.Yamazaki, S.Matsuki, K.Ogino, S.Kato, T.Yanagihara
+#REF-CODE   (J,NP/A,454,237,1986)
+#REFERENCE  Nucl.Phys.A 454 (1986) 237 (doi:10.1016/0375-9474(86)90267-8)
+#DATASETS   0
+#
+#DATASET    E1195022 
+#DATE       20040622
+#REACTION   28-NI-60(P,INL)28-NI-60,PAR,DA
+#PROJ       1001
+#TARG       28060
+#MF         4
+#MT         601
+#PRODUCT    28-NI-60
+#C4BEGIN    [ 1001 28060   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28060   4 601  C 6.5000+7          6.8100-5          0.989165          1.1860+7 20000.00LVLK.Hosono+            (86)E1195 22 
+ 1001 28060   4 601  C 6.5000+7          6.3780-5          0.981909          1.1860+7 20000.00LVLK.Hosono+            (86)E1195 22 
+ 1001 28060   4 601  C 6.5000+7          7.7960-5          0.966792          1.1860+7 20000.00LVLK.Hosono+            (86)E1195 22 
+ 1001 28060   4 601  C 6.5000+7          6.9600-5          0.946986          1.1860+7 20000.00LVLK.Hosono+            (86)E1195 22 
+ 1001 28060   4 601  C 6.5000+7          4.5940-5          0.919568          1.1860+7 20000.00LVLK.Hosono+            (86)E1195 22 
+ 1001 28060   4 601  C 6.5000+7          2.8430-5          0.889879          1.1860+7 20000.00LVLK.Hosono+            (86)E1195 22 
+ 1001 28060   4 601  C 6.5000+7          2.2400-5 3.2500-6 0.854540          1.1860+7 20000.00LVLK.Hosono+            (86)E1195 22 
+ 1001 28060   4 601  C 6.5000+7          1.4170-5 2.0900-6 0.813405          1.1860+7 20000.00LVLK.Hosono+            (86)E1195 22 
+ 1001 28060   4 601  C 6.5000+7          1.2040-5 2.5000-6 0.763255          1.1860+7 20000.00LVLK.Hosono+            (86)E1195 22 
+#/DATA      9
+#/DATASET

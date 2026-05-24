@@ -1,0 +1,33 @@
+#ENTRY      31723
+#AUTHOR1    V.Wagner+
+#YEAR       2014
+#INSTITUTE  (3CZRUJF)
+#TITLE      Cross-section studies of important neutron and
+#+          relativistic deuteron reactions
+#AUTHOR(S)  V.Wagner, M.Suchopar, J.Vrzalova, P.Chudoba, T.Herman, O.Svoboda, 
+#+          B.Geier, A.Krasa, M.Majerle, A.Kugler, J.Adam, A.Baldin, 
+#+          W.Furman, M.Kadykov, J.Khushvaktov, A.Solnyshkin, V.Tsoupko-Sitnikov, 
+#+          S.Tyutyunikov, L.Zavorka, N.Vladimirova, M.Bielewicz, S.Kilim, 
+#+          M.Szuta, E.Strugalska-Gola
+#REF-CODE   (J,JP/CS,533,012052,2014)
+#REFERENCE  J.Phys.Conf.Ser. 533 (2014) 012052 (doi:10.1088/1742-6596/533/1/012052)
+#DATASETS   0
+#
+#DATASET    317230061
+#DATE       20150817
+#REACTION   39-Y-89(N,3N)39-Y-87,,SIG
+#PROJ       1
+#TARG       39089
+#MF         3
+#MT         17
+#PRODUCT    39-Y-87
+#C4BEGIN    [    1 39089   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 39089   3  17    2.4500+7 700000.0 0.161000 0.015000                                       V.Wagner+            (14)31723  61
+    1 39089   3  17    2.8700+7 600000.0 0.500000 0.050000                                       V.Wagner+            (14)31723  61
+    1 39089   3  17    3.2500+7 600000.0 0.610000 0.030000                                       V.Wagner+            (14)31723  61
+    1 39089   3  17    3.3500+7 500000.0 0.640000 0.070000                                       V.Wagner+            (14)31723  61
+#/DATA      4
+#/DATASET

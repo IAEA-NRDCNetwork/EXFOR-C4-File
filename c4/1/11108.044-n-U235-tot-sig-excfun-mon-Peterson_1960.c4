@@ -1,0 +1,28 @@
+#ENTRY      11108
+#AUTHOR1    J.M.Peterson+
+#YEAR       1960
+#INSTITUTE  (1USALRL)
+#TITLE      Neutron total cross sections in the 17- to 29-MEV
+#+          region.
+#AUTHOR(S)  J.M.Peterson, A.Bratenahl, J.P.Stoering
+#REF-CODE   (J,PR,120,521,196010)
+#REFERENCE  Phys.Rev. 120 (1960) 521 (doi:10.1103/PhysRev.120.521)
+#DATASETS   0
+#
+#DATASET    11108044 
+#DATE       19860821
+#REACTION   92-U-235(N,TOT),,SIG
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         1
+#C4BEGIN    [    1 92235   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3   1    1.7300+7          6.060000 0.070000                                       J.M.Peterson+        (60)11108 44 
+    1 92235   3   1    2.1300+7          6.170000 0.090000                                       J.M.Peterson+        (60)11108 44 
+    1 92235   3   1    2.5100+7          6.080000 0.070000                                       J.M.Peterson+        (60)11108 44 
+    1 92235   3   1    2.8900+7          5.790000 0.050000                                       J.M.Peterson+        (60)11108 44 
+#/DATA      4
+#/DATASET

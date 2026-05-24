@@ -1,0 +1,31 @@
+#ENTRY      F1316
+#AUTHOR1    D.V.Aleksandrov+
+#YEAR       1993
+#INSTITUTE  (4RUSKUR)
+#TITLE      Study of the(6He,alpha) reactions at 6Li and 37Al
+#+          nuclei
+#AUTHOR(S)  D.V.Aleksandrov, Yu.A.Glukhov, E.Yu.Nikolskiy, B.G.Novatskiy, 
+#+          D.N.Stepanov
+#REF-CODE   (C,93DUBNS,,276,1993)
+#REFERENCE  Proceedings of 43.Int.Conf.Nucl.Spectrosc.Nucl.Struct.,Dubna 1993 page 276
+#DATASETS   0
+#
+#DATASET    F1316002 
+#DATE       20170717
+#REACTION   13-AL-27(2-HE-6,A)13-AL-29,PAR,DA
+#PROJ       2006
+#TARG       13027
+#MF         4
+#MT         800
+#PRODUCT    13-AL-29
+#C4BEGIN    [ 2006 13027   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 13027   4 800  C 2.2000+7          0.015700          0.994522          1.1500+7         LVLD.V.Aleksandrov+     (93)F1316  2 
+ 2006 13027   4 800  C 2.2000+7          0.034500          0.994522          1.2800+7         LVLD.V.Aleksandrov+     (93)F1316  2 
+ 2006 13027   4 800  C 2.2000+7          0.030700          0.994522          1.3500+7         LVLD.V.Aleksandrov+     (93)F1316  2 
+ 2006 13027   4 800  C 2.2000+7          0.047600          0.994522          1.5200+7         LVLD.V.Aleksandrov+     (93)F1316  2 
+ 2006 13027   4 800  C 2.2000+7          0.055000          0.994522          1.8000+7         LVLD.V.Aleksandrov+     (93)F1316  2 
+#/DATA      5
+#/DATASET

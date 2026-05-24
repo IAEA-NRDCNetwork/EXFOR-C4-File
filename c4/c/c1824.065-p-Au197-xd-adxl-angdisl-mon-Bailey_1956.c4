@@ -1,0 +1,28 @@
+#ENTRY      C1824
+#AUTHOR1    L.E.Bailey+
+#YEAR       1956
+#INSTITUTE  (1USABRK)
+#TITLE      Angle and energy distributions of charged particles
+#+          from the high -energy nuclear bombardment of various
+#+          elements
+#AUTHOR(S)  L.E.Bailey
+#REF-CODE   (R,UCRL-3334,1956)
+#REFERENCE  Report UCRL-3334, 1956
+#DATASETS   0
+#
+#DATASET    C1824065 
+#DATE       20110118
+#REACTION   79-AU-197(P,X)1-H-2,,DA
+#PROJ       1001
+#TARG       79197
+#MF         4
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001 79197   4 204 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   4 204 D  1.9000+8          0.016900          0.843391 0.304774                     L.E.Bailey           (56)C1824 65 
+ 1001 79197   4 204 D  1.9000+8          6.9000-3         -0.766044 0.448750                     L.E.Bailey           (56)C1824 65 
+#/DATA      2
+#/DATASET

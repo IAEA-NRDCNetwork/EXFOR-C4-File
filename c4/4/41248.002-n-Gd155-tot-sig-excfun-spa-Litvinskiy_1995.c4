@@ -1,0 +1,35 @@
+#ENTRY      41248
+#AUTHOR1    L.L.Litvinskiy+
+#YEAR       1995
+#INSTITUTE  (4UKRIJD)
+#TITLE      Total cross section and average resonance parameters
+#+          for Gd-155 nucleus in the energy range 1.9 - 275 keV
+#AUTHOR(S)  L.L.Litvinskiy, P.N.Vorona, N.L.Gnidak, A.V.Grebnev, V.G.Krivenin, 
+#+          A.V.Murzin, O.A.Purtov
+#REF-CODE   (J,UFZ,40,(3-4),156,1995)
+#REFERENCE  Ukr.Fiz.Zh. 40 No.3-4 (1995) 156
+#DATASETS   0
+#
+#DATASET    41248002 
+#DATE       20241212
+#REACTION   64-GD-155(N,TOT),,SIG,,SPA
+#PROJ       1
+#TARG       64155
+#MF         3
+#MT         1
+#C4BEGIN    [    1 64155   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 64155   3   1    1900.000 700.0000 27.44000 0.420000                                       L.L.Litvinskiy+      (95)41248  2 
+    1 64155   3   1    3500.000 750.0000 24.28000 0.310000                                       L.L.Litvinskiy+      (95)41248  2 
+    1 64155   3   1    12000.00 350.0000 14.48000 0.100000                                       L.L.Litvinskiy+      (95)41248  2 
+    1 64155   3   1    24300.00 1050.000 13.05000 0.150000                                       L.L.Litvinskiy+      (95)41248  2 
+    1 64155   3   1    45000.00 1750.000 10.80000 0.120000                                       L.L.Litvinskiy+      (95)41248  2 
+    1 64155   3   1    59000.00 1500.000 10.47000 0.130000                                       L.L.Litvinskiy+      (95)41248  2 
+    1 64155   3   1    75000.00 7500.000 10.05000 0.220000                                       L.L.Litvinskiy+      (95)41248  2 
+    1 64155   3   1    134000.0 1500.000 8.530000 0.120000                                       L.L.Litvinskiy+      (95)41248  2 
+    1 64155   3   1    144000.0 12500.00 8.170000 0.140000                                       L.L.Litvinskiy+      (95)41248  2 
+    1 64155   3   1    275000.0 3000.000 7.640000 0.300000                                       L.L.Litvinskiy+      (95)41248  2 
+#/DATA      10
+#/DATASET

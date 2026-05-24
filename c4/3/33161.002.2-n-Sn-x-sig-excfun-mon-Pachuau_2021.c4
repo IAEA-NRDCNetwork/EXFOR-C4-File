@@ -1,0 +1,29 @@
+#ENTRY      33161
+#AUTHOR1    R.Pachuau+
+#YEAR       2021
+#INSTITUTE  (3INDTAT)
+#TITLE      Fast-neutron induced reaction cross section
+#+          measurement of tin with dual monitor foils and
+#+          covariance analysis
+#AUTHOR(S)  R.Pachuau, N.Otuka, C.V.Midhun, A.Gandhi, A.Mazumdar, H.Krishnamoorthy, 
+#+          A.Reza, V.Vatsa, S.V.Suryanarayana, B.K.Nayak, L.S.Danu, 
+#+          T.Patel, S.Bishnoi, I.Pasha, A.Kumar, V.Nanal
+#REF-CODE   (J,EPJ/A,57,268,2021)
+#REFERENCE  Eur.Phys.J.A 57 (2021) 268 (doi:10.1140/epja/s10050-021-00578-6)
+#DATASETS   0
+#
+#DATASET    331610022
+#DATE       20210830
+#REACTION   50-SN-0(N,X)50-SN-111,,SIG
+#PROJ       1
+#TARG       50000
+#MF         3
+#MT         454
+#PRODUCT    50-SN-111
+#C4BEGIN    [    1 50000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 50000   3 454 A  1.4500+7 200000.0 8.8300-3 2.1800-3           50111.9                     R.Pachuau+           (21)33161  22
+#/DATA      1
+#/DATASET

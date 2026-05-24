@@ -1,0 +1,35 @@
+#ENTRY      E2797
+#AUTHOR1    J.Hwang+
+#YEAR       2024
+#INSTITUTE  (3KORIBS)
+#TITLE      Production cross-sections of residual nuclides from
+#+          93Zr + p at 27 MeV/nucleon
+#AUTHOR(S)  J.Hwang, T.Chillery, M.Dozono, N.Imai, S.Michimasa, T.Sumikama, 
+#+          N.Chiga, S.Ota, S.Nakayama, D.S.Ahn, O.Beliuskina, K.Chikaato, 
+#+          N.Fukuda, S.Hayakawa, E.Ideguchi, K.Iribe, C.Iwamoto, S.Kawase, 
+#+          K.Kawata, N.Kitamura, K.Kusaka, S.Masuoka, H.Miki, H.Miyatake, 
+#+          D.Nagae, R.Nakajima, K.Nakano, M.Ohtake, S.Omika, H.J.Ong, 
+#+          H.Otsu, H.Sakurai, P.Schrock, H.Shimizu, Y.Shimizu, X.Sun, 
+#+          D.Suzuki, H.Suzuki, M.Takaki, M.Takechi, H.Takeda, S.Takeuchi, 
+#+          T.Teranishi, R.Tsunoda, H.Wang, Y.Watanabe, Y.X.Watanabe, 
+#+          K.Wimmer, K.Yako, H.Yamada, K.Yamada, H.Yamaguchi, L.Yang, 
+#+          R.Yanagihara, Y.Yanagisawa, H.Yoshida, K.Yoshida, S.Shimoura
+#REF-CODE   (J,PTEP,2024,093D03,2024)
+#REFERENCE  Prog.Theor.Exp.Phys. 2024 (2024) 093D03 (doi:10.1093/ptep/ptae139)
+#DATASETS   0
+#
+#DATASET    E2797004 
+#DATE       20250512
+#REACTION   (1-H-1(40-ZR-93,X)ELEM/MASS,,SIG)=(40-ZR-93(P,X)ELEM/MASS,,SIG)
+#PROJ       1001
+#TARG       40093
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 40093   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40093   3 454    2.6800+7          0.033000 7.0000-3           39089.9                     J.Hwang+             (24)E2797  4 
+ 1001 40093   3 454    2.6800+7          0.021000 5.0000-3           39088.9                     J.Hwang+             (24)E2797  4 
+#/DATA      2
+#/DATASET

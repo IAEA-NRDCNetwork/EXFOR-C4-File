@@ -1,0 +1,33 @@
+#ENTRY      33094
+#AUTHOR1    B.S.Shivashankar+
+#YEAR       2015
+#INSTITUTE  (3INDTRM)
+#TITLE      Measurement and covariance analysis of reaction cross
+#+          sections for 58Ni(n,p)58Co relative to cross section
+#+          for formation of 97Zr fission product in
+#+          neutron-induced fission of 232Th and 238U at
+#+          effective neutron energies En=5.89, 10.11, and
+#+          15.87 MeV
+#AUTHOR(S)  B.S.Shivashankar, S.Ganesan, H.Naik, S.V.Suryanarayana, 
+#+          N.S.Nair, K.M.Prasad
+#REF-CODE   (J,NSE,179,423,2015)
+#REFERENCE  Nucl.Sci.Eng. 179 (2015) 423 (doi:10.13182/NSE14-19)
+#DATASETS   0
+#
+#DATASET    33094002 
+#DATE       20181106
+#REACTION   28-NI-58(N,P)27-CO-58,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         103
+#PRODUCT    27-CO-58
+#C4BEGIN    [    1 28058   3 103 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3 103 C  5888300. 119400.0 0.412800 0.045300                                       B.S.Shivashankar+    (15)33094  2 
+    1 28058   3 103 C  1.0113+7 56300.00 0.579200 0.056600                                       B.S.Shivashankar+    (15)33094  2 
+    1 28058   3 103 C  1.5867+7 129700.0 0.164000 0.016800                                       B.S.Shivashankar+    (15)33094  2 
+#/DATA      3
+#/DATASET

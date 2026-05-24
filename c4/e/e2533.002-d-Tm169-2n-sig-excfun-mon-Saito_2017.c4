@@ -1,0 +1,34 @@
+#ENTRY      E2533
+#AUTHOR1    M.Saito+
+#YEAR       2017
+#INSTITUTE  (2JPNHOK)
+#TITLE      Production cross sections of 169Yb and Tm isotopes in
+#+          deuteron-induced reactions on 169Tm
+#AUTHOR(S)  M.Saito, M.Aikawa, Y.Komori, H.Haba, S.Takacs
+#REF-CODE   (J,ARI,125,23,2017)
+#REFERENCE  Appl.Radiat.Isot. 125 (2017) 23 (doi:10.1016/j.apradiso.2017.04.010)
+#DATASETS   0
+#
+#DATASET    E2533002 
+#DATE       20230406
+#REACTION   69-TM-169(D,2N)70-YB-169,,SIG
+#PROJ       1002
+#TARG       69169
+#MF         3
+#MT         16
+#PRODUCT    70-YB-169
+#C4BEGIN    [ 1002 69169   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 69169   3  16    2.4100+7 300000.0 0.150200 0.015400                                       M.Saito+             (17)E2533  2 
+ 1002 69169   3  16    2.1700+7 400000.0 0.192500 0.019700                                       M.Saito+             (17)E2533  2 
+ 1002 69169   3  16    1.9500+7 400000.0 0.264500 0.027100                                       M.Saito+             (17)E2533  2 
+ 1002 69169   3  16    1.7200+7 400000.0 0.414700 0.042400                                       M.Saito+             (17)E2533  2 
+ 1002 69169   3  16    1.5100+7 500000.0 0.615500 0.062900                                       M.Saito+             (17)E2533  2 
+ 1002 69169   3  16    1.3500+7 500000.0 0.682800 0.069800                                       M.Saito+             (17)E2533  2 
+ 1002 69169   3  16    1.1000+7 600000.0 0.455600 0.046600                                       M.Saito+             (17)E2533  2 
+ 1002 69169   3  16    7900000. 700000.0 0.052500 5.4000-3                                       M.Saito+             (17)E2533  2 
+ 1002 69169   3  16    5100000. 900000.0 2.0000-4 4.0000-5                                       M.Saito+             (17)E2533  2 
+#/DATA      9
+#/DATASET

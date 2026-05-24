@@ -1,0 +1,31 @@
+#ENTRY      D0389
+#AUTHOR1    G.Corleo+
+#YEAR       1968
+#INSTITUTE  (2ITYCAT)
+#TITLE      Differential absolute cross-section for the nuclear
+#+          reactions 27Al(d,p)28Al and 27Al(d,alpha)25Mg
+#+          at Theta(lab.) = 90 degr.
+#AUTHOR(S)  G.Corleo, S.Sambataro
+#REF-CODE   (J,NC/B,56,83,1968)
+#REFERENCE  Nuovo Cim.B 56 (1968) 83 (doi:10.1007/BF02711956)
+#DATASETS   0
+#
+#DATASET    D0389002 
+#DATE       20060307
+#REACTION   13-AL-27(D,A)12-MG-25,PAR,DA,,AV
+#PROJ       1002
+#TARG       13027
+#MF         4
+#MT         800
+#PRODUCT    12-MG-25
+#C4BEGIN    [ 1002 13027   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 13027   4 800    1800000. 40000.00 2.0000-4 2.0000-5 6.123-17          0.000000         LVLG.Corleo+            (68)D0389  2 
+ 1002 13027   4 800    1800000. 40000.00 6.8000-5 6.0000-6 6.123-17          580000.0         LVLG.Corleo+            (68)D0389  2 
+ 1002 13027   4 800    1800000. 40000.00 1.3000-4 1.0000-5 6.123-17          980000.0         LVLG.Corleo+            (68)D0389  2 
+ 1002 13027   4 800    1800000. 40000.00 1.4000-4 1.0000-5 6.123-17          1610000.         LVLG.Corleo+            (68)D0389  2 
+ 1002 13027   4 800    1800000. 40000.00 1.2000-4 1.0000-5 6.123-17          1960000.         LVLG.Corleo+            (68)D0389  2 
+#/DATA      5
+#/DATASET

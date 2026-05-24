@@ -1,0 +1,27 @@
+#ENTRY      C0061
+#AUTHOR1    L.Valentin+
+#YEAR       1963
+#INSTITUTE  (2FR PAR)
+#TITLE      Reactions induites par des protons de 155 MeV sur des
+#+          noyaux legers. (Reactions induced by 155 MeV protons
+#+          on light nuclei)
+#AUTHOR(S)  L.Valentin, G.Albouy, J.P.Cohen, M.Gusakow
+#REF-CODE   (J,PL,7,163,1963)
+#REFERENCE  Phys.Lett. 7 (1963) 163 (doi:10.1016/0031-9163(63)90651-6)
+#DATASETS   0
+#
+#DATASET    C0061021 
+#DATE       20160809
+#REACTION   8-O-16(P,X)4-BE-7,,SIG
+#PROJ       1001
+#TARG       8016
+#MF         3
+#MT         454
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  8016   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   3 454    1.5500+8          4.5000-3 1.0000-3            4007.9                     L.Valentin+          (63)C0061 21 
+#/DATA      1
+#/DATASET

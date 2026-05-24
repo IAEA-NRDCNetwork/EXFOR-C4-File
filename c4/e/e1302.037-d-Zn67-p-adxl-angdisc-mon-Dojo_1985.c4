@@ -1,0 +1,33 @@
+#ENTRY      E1302
+#AUTHOR1    M.Dojo+
+#YEAR       1985
+#INSTITUTE  (2JPNKYU)
+#TITLE      Spectroscopy of the 5-, 6-, and 7- states in 68Zn
+#+          via the (d,p) reaction
+#AUTHOR(S)  M.Dojo
+#REF-CODE   (J,PR/C,31,1691,1985)
+#REFERENCE  Phys.Rev.C 31 (1985) 1691 (doi:10.1103/PhysRevC.31.1691)
+#DATASETS   0
+#
+#DATASET    E1302037 
+#DATE       19910814
+#REACTION   30-ZN-67(D,P)30-ZN-68,PAR,DA
+#PROJ       1002
+#TARG       30067
+#MF         4
+#MT         600
+#PRODUCT    30-ZN-68
+#C4BEGIN    [ 1002 30067   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 30067   4 600  C 6000000.          5.1110-5 1.0960-5 0.849801          5635000.         LVLM.Dojo               (85)E1302 37 
+ 1002 30067   4 600  C 6000000.          5.9410-5 1.4320-5 0.684929          5635000.         LVLM.Dojo               (85)E1302 37 
+ 1002 30067   4 600  C 6000000.          6.1740-5 1.1650-5 0.548585          5635000.         LVLM.Dojo               (85)E1302 37 
+ 1002 30067   4 600  C 6000000.          6.6430-5 1.1510-5 0.503623          5635000.         LVLM.Dojo               (85)E1302 37 
+ 1002 30067   4 600  C 6000000.          5.8070-5 1.4310-5 0.329361          5635000.         LVLM.Dojo               (85)E1302 37 
+ 1002 30067   4 600  C 6000000.          4.5390-5 1.0700-5 0.235990          5635000.         LVLM.Dojo               (85)E1302 37 
+ 1002 30067   4 600  C 6000000.          3.8490-5 1.0540-5 0.048675          5635000.         LVLM.Dojo               (85)E1302 37 
+ 1002 30067   4 600  C 6000000.          3.4990-5 9.7720-6-0.082808          5635000.         LVLM.Dojo               (85)E1302 37 
+#/DATA      8
+#/DATASET

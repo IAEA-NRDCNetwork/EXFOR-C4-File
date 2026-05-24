@@ -1,0 +1,32 @@
+#ENTRY      32227
+#AUTHOR1    I.A.Korzh+
+#YEAR       1989
+#INSTITUTE  (4UKRIJD)
+#TITLE      Fast neutron elastic and inelastic scattering cross
+#+          sections for Ce-140 nuclei
+#AUTHOR(S)  I.A.Korzh, V.A.Mishchenko, V.D.Ovdienko, M.V.Pasechnik, 
+#+          N.M.Pravdivy
+#REF-CODE   (J,UFZ,34,(8),1173,1989)
+#REFERENCE  Ukr.Fiz.Zh. 34 No.8 (1989) 1173
+#DATASETS   0
+#
+#DATASET    32227011 
+#DATE       20091116
+#REACTION   58-CE-140(N,EL)58-CE-140,,SIG
+#PROJ       1
+#TARG       58140
+#MF         3
+#MT         2
+#PRODUCT    58-CE-140
+#C4BEGIN    [    1 58140   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 58140   3   2 D  1000000.          7.356000 0.856000                                       I.A.Korzh+           (89)32227 11 
+    1 58140   3   2 D  1500000.          7.405000 0.911000                                       I.A.Korzh+           (89)32227 11 
+    1 58140   3   2 D  2000000.          6.312000 0.792000                                       I.A.Korzh+           (89)32227 11 
+    1 58140   3   2 D  2500000.          4.890000 0.657000                                       I.A.Korzh+           (89)32227 11 
+    1 58140   3   2 D  3000000.          3.985000 0.565000                                       I.A.Korzh+           (89)32227 11 
+    1 58140   3   2 D  5000000.          2.518000 0.483000                                       I.A.Korzh+           (89)32227 11 
+#/DATA      6
+#/DATASET

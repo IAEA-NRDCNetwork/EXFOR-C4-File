@@ -1,0 +1,31 @@
+#ENTRY      32507
+#AUTHOR1    Xiang Zhengyu+
+#YEAR       1988
+#INSTITUTE  (3CPRSIU)
+#TITLE      The measurement of neutron capture cross section of
+#+          tungsten and gadolinium in the energy region from 560
+#+          to 1610 keV
+#AUTHOR(S)  Xiang Zhengyu, Mu Yunshan, Li Yexiang, Wang Shiming, Xu Haishan
+#REF-CODE   (J,PHE,12,(1),91,198801)
+#REFERENCE  High En.Nucl.Phy.Ch. 12 No.1 (1988) 91
+#DATASETS   0
+#
+#DATASET    32507003 
+#DATE       20101206
+#REACTION   64-GD-0(N,G),,SIG
+#PROJ       1
+#TARG       64000
+#MF         3
+#MT         102
+#C4BEGIN    [    1 64000   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 64000   3 102 A  560000.0          0.164100 0.019000                                       Xiang Zhengyu+       (88)32507  3 
+    1 64000   3 102 A  770000.0          0.142600 0.017000                                       Xiang Zhengyu+       (88)32507  3 
+    1 64000   3 102 A  980000.0          0.136600 0.016000                                       Xiang Zhengyu+       (88)32507  3 
+    1 64000   3 102 A  1160000.          0.108500 0.013000                                       Xiang Zhengyu+       (88)32507  3 
+    1 64000   3 102 A  1340000.          0.102500 0.012000                                       Xiang Zhengyu+       (88)32507  3 
+    1 64000   3 102 A  1610000.          0.086400 0.010000                                       Xiang Zhengyu+       (88)32507  3 
+#/DATA      6
+#/DATASET

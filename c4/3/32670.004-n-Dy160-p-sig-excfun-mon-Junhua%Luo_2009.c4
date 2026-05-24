@@ -1,0 +1,27 @@
+#ENTRY      32670
+#AUTHOR1    Junhua Luo+
+#YEAR       2009
+#INSTITUTE  (3CPRCPR)
+#TITLE      Activation cross-sections for 158Dy(n,p)158Tb,
+#+          156Dy(n,a)153Gd and 160Dy(n,p)160Tb reactions
+#+          induced by neutrons at 14.7MeV
+#AUTHOR(S)  Junhua Luo, Xinxing Wang, Zhenlai Liu, Fei Tuo, Xiangzhong Kong
+#REF-CODE   (J,ARI,67,1892,2009)
+#REFERENCE  Appl.Radiat.Isot. 67 (2009) 1892 (doi:10.1016/j.apradiso.2009.05.013)
+#DATASETS   0
+#
+#DATASET    32670004 
+#DATE       20090909
+#REACTION   66-DY-160(N,P)65-TB-160,,SIG
+#PROJ       1
+#TARG       66160
+#MF         3
+#MT         103
+#PRODUCT    65-TB-160
+#C4BEGIN    [    1 66160   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 66160   3 103 A  1.4700+7 200000.0 2.7000-3 3.0000-4                                       Junhua Luo+          (09)32670  4 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      40286
+#AUTHOR1    M.B.Fedorov+
+#YEAR       1973
+#INSTITUTE  (4UKRIJD)
+#TITLE      The scattering of 2.9 MeV neutrons by even-even
+#+          isotopes of iron ,chromium and zinc
+#AUTHOR(S)  M.B.Fedorov, T.I.Yakovenko
+#REF-CODE   (C,73KIEV,3,56,1973)
+#REFERENCE  Proceedings of 2.Conf.on Neutron Physics, Kiev 1973 3 page 56
+#DATASETS   0
+#
+#DATASET    40286003 
+#DATE       20220712
+#REACTION   24-CR-50(N,INL)24-CR-50,PAR,DA
+#PROJ       1
+#TARG       24050
+#MF         4
+#MT         51
+#PRODUCT    24-CR-50
+#C4BEGIN    [    1 24050   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24050   4  51  C 2900000. 100000.0 0.056000 0.021000 0.866025          782000.0         LVLM.B.Fedorov+         (73)40286  3 
+    1 24050   4  51  C 2900000. 100000.0 0.092000 0.011000 0.707107          782000.0         LVLM.B.Fedorov+         (73)40286  3 
+    1 24050   4  51  C 2900000. 100000.0 0.061000 4.0000-3 0.500000          782000.0         LVLM.B.Fedorov+         (73)40286  3 
+    1 24050   4  51  C 2900000. 100000.0 0.064000 7.0000-3 0.258819          782000.0         LVLM.B.Fedorov+         (73)40286  3 
+    1 24050   4  51  C 2900000. 100000.0 0.042000 0.011000 6.123-17          782000.0         LVLM.B.Fedorov+         (73)40286  3 
+    1 24050   4  51  C 2900000. 100000.0 0.065000 0.013000-0.258819          782000.0         LVLM.B.Fedorov+         (73)40286  3 
+    1 24050   4  51  C 2900000. 100000.0 0.075000 8.0000-3-0.500000          782000.0         LVLM.B.Fedorov+         (73)40286  3 
+#/DATA      7
+#/DATASET

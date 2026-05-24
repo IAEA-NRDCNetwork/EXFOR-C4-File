@@ -1,0 +1,30 @@
+#ENTRY      32622
+#AUTHOR1    Wang Yongchang+
+#YEAR       1992
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Measurement of some (n,2n) reaction cross sections for
+#+          producing long half-life residues
+#AUTHOR(S)  Wang Yongchang, Yuan Junqian, Yang Jingkang, Kong Xiangzhong, 
+#+          Ren Zhongliang, Wang Huamin
+#REF-CODE   (J,PHE,16,731,1992)
+#REFERENCE  High En.Nucl.Phy.Ch. 16 (1992) 731
+#DATASETS   0
+#
+#DATASET    32622004 
+#DATE       20150524
+#REACTION   65-TB-159(N,2N)65-TB-158,,SIG
+#PROJ       1
+#TARG       65159
+#MF         3
+#MT         16
+#PRODUCT    65-TB-158
+#C4BEGIN    [    1 65159   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 65159   3  16    1.3700+7 100000.0 2.077000 0.277000                                       Wang Yongchang+      (92)32622  4 
+    1 65159   3  16    1.4400+7 100000.0 2.144000 0.112000                                       Wang Yongchang+      (92)32622  4 
+    1 65159   3  16    1.4600+7 100000.0 1.909000 0.085000                                       Wang Yongchang+      (92)32622  4 
+    1 65159   3  16    1.4800+7 100000.0 1.922000 0.089000                                       Wang Yongchang+      (92)32622  4 
+#/DATA      4
+#/DATASET

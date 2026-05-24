@@ -1,0 +1,29 @@
+#ENTRY      32903
+#AUTHOR1    Jie Liu+
+#YEAR       2023
+#INSTITUTE  (3CPRBJG)
+#TITLE      63Cu(n,a)60Co cross sections in the MeV region
+#AUTHOR(S)  Jie Liu, Zengqi Cui, Yiwei Hu, Haofan Bai, Yi Yang, Xichao Ruan, 
+#+          Cong Xia, Jinxiang Chen, Guohui Zhang, Yu.M.Gledenov, E.Sansarbayar, 
+#+          G.Khuukhenkhuu, L.Krupa, I.Chuprakov, Hanxiong Huang, Jie Ren, 
+#+          Qiwen Fan, Yuan Gao, Xiangjun Yang
+#REF-CODE   (J,JP/G,50,045106,2023)
+#REFERENCE  J.Phys.G 50 (2023) 045106 (doi:10.1088/1361-6471/acb960)
+#DATASETS   0
+#
+#DATASET    32903003 
+#DATE       20241220
+#REACTION   29-CU-63(N,A)27-CO-60,,SIG
+#PROJ       1
+#TARG       29063
+#MF         3
+#MT         107
+#PRODUCT    27-CO-60
+#C4BEGIN    [    1 29063   3 107 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29063   3 107 C  8500000. 150000.0 0.022480 1.5100-3                                       Jie Liu+             (23)32903  3 
+    1 29063   3 107 C  1.0500+7 170000.0 0.033510 2.2100-3                                       Jie Liu+             (23)32903  3 
+#/DATA      2
+#/DATASET

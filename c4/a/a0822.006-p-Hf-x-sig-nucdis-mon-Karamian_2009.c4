@@ -1,0 +1,47 @@
+#ENTRY      A0822
+#AUTHOR1    S.A.Karamian+
+#YEAR       2009
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Spallation and fission products in the (p+Hf-179) and
+#+          (p+Hf-nat) reactions
+#AUTHOR(S)  S.A.Karamian, C.A.Ur, J.Adam, V.G.Kalinnikov, N.A.Lebedev, 
+#+          G.K.Vostokin, C.B.Collins, I.I.Popescu
+#REF-CODE   (J,NIM/A,600,488,2009)
+#REFERENCE  Nucl.Instrum.Meth.A 600 (2009) 488 (doi:10.1016/j.nima.2008.12.001)
+#DATASETS   0
+#
+#DATASET    A0822006 
+#DATE       20250729
+#REACTION   72-HF-0(P,X)ELEM/MASS,,SIG
+#PROJ       1001
+#TARG       72000
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 72000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 72000   3 454    1.0000+8          4.9000-4                    72179.1                     S.A.Karamian+        (09)A0822  6 
+ 1001 72000   3 454    1.0000+8          2.2000-4                    72178.1                     S.A.Karamian+        (09)A0822  6 
+ 1001 72000   3 454    1.0000+8          7.8000-4                    71177.1                     S.A.Karamian+        (09)A0822  6 
+ 1001 72000   3 454    1.0000+8          3.6000-3                    71174.1                     S.A.Karamian+        (09)A0822  6 
+#/DATA      4
+#/DATASET
+#
+#DATASET    A0822006 
+#DATE       20250729
+#REACTION   72-HF-0(P,X)ELEM/MASS,,SIG
+#PROJ       1001
+#TARG       72000
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 72000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 72000   3 454    4.0000+8          3.1000-4                    72179.1                     S.A.Karamian+        (09)A0822  6 
+ 1001 72000   3 454    4.0000+8          1.3000-4                    72178.1                     S.A.Karamian+        (09)A0822  6 
+ 1001 72000   3 454    4.0000+8          5.4000-4                    71177.1                     S.A.Karamian+        (09)A0822  6 
+ 1001 72000   3 454    4.0000+8          6.8000-3                    71174.1                     S.A.Karamian+        (09)A0822  6 
+#/DATA      4
+#/DATASET

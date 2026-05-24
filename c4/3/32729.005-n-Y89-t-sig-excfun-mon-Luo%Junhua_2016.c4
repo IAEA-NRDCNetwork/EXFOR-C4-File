@@ -1,0 +1,26 @@
+#ENTRY      32729
+#AUTHOR1    Luo Junhua+
+#YEAR       2016
+#INSTITUTE  (3CPRHXU)
+#TITLE      Activation cross section for reactions induced by d-T
+#+          neutrons on natural yttrium
+#AUTHOR(S)  Luo Junhua, Jiang Li
+#REF-CODE   (J,NSE,184,254,2016)
+#REFERENCE  Nucl.Sci.Eng. 184 (2016) 254 (doi:10.13182/NSE16-15)
+#DATASETS   0
+#
+#DATASET    32729005 
+#DATE       20161101
+#REACTION   39-Y-89(N,T)38-SR-87-M,,SIG
+#PROJ       1
+#TARG       39089
+#MF         3
+#MT         105
+#PRODUCT    38-SR-87-M
+#C4BEGIN    [    1 39089   3 105M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 39089   3 105M   1.4800+7 200000.0 1.1000-5 2.0000-6                                       Luo Junhua+          (16)32729  5 
+#/DATA      1
+#/DATASET

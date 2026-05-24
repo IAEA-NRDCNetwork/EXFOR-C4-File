@@ -1,0 +1,41 @@
+#ENTRY      E2234
+#AUTHOR1    S.Yamabe+
+#YEAR       1962
+#INSTITUTE  (2JPNOSA)
+#TITLE      Scattering and polarization of 57-MeV protons
+#AUTHOR(S)  S.Yamabe, M.Takeda, M.Kondo, S.Kato, T.Yamazaki, N.Takahashi, 
+#+          N.Kawai, R.Chiba
+#REF-CODE   (J,JPJ,17,729,1962)
+#REFERENCE  J.Phys.Soc.Jpn. 17 (1962) 729 (doi:10.1143/JPSJ.17.729)
+#DATASETS   0
+#
+#DATASET    E2234005 
+#DATE       20160520
+#REACTION   29-CU-0(P,EL)29-CU-0,,DA
+#PROJ       1001
+#TARG       29000
+#MF         4
+#MT         2
+#PRODUCT    29-CU-0
+#C4BEGIN    [ 1001 29000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   4   2  C 5.7000+7          3.946000          0.968627                              S.Yamabe+            (62)E2234  5 
+ 1001 29000   4   2  C 5.7000+7          2.279000          0.958869                              S.Yamabe+            (62)E2234  5 
+ 1001 29000   4   2  C 5.7000+7          1.126000          0.948157                              S.Yamabe+            (62)E2234  5 
+ 1001 29000   4   2  C 5.7000+7          0.456900          0.936182                              S.Yamabe+            (62)E2234  5 
+ 1001 29000   4   2  C 5.7000+7          0.150600          0.923277                              S.Yamabe+            (62)E2234  5 
+ 1001 29000   4   2  C 5.7000+7          0.078350          0.909454                              S.Yamabe+            (62)E2234  5 
+ 1001 29000   4   2  C 5.7000+7          0.123900          0.893998                              S.Yamabe+            (62)E2234  5 
+ 1001 29000   4   2  C 5.7000+7          0.186100          0.876811                              S.Yamabe+            (62)E2234  5 
+ 1001 29000   4   2  C 5.7000+7          0.234200          0.859228                              S.Yamabe+            (62)E2234  5 
+ 1001 29000   4   2  C 5.7000+7          0.257600          0.839999                              S.Yamabe+            (62)E2234  5 
+ 1001 29000   4   2  C 5.7000+7          0.205100          0.821448                              S.Yamabe+            (62)E2234  5 
+ 1001 29000   4   2  C 5.7000+7          0.160100          0.800627                              S.Yamabe+            (62)E2234  5 
+ 1001 29000   4   2  C 5.7000+7          0.112500          0.779994                              S.Yamabe+            (62)E2234  5 
+ 1001 29000   4   2  C 5.7000+7          0.065700          0.756310                              S.Yamabe+            (62)E2234  5 
+ 1001 29000   4   2  C 5.7000+7          0.035090          0.722243                              S.Yamabe+            (62)E2234  5 
+ 1001 29000   4   2  C 5.7000+7          0.021700          0.684165                              S.Yamabe+            (62)E2234  5 
+#/DATA      16
+#/DATASET

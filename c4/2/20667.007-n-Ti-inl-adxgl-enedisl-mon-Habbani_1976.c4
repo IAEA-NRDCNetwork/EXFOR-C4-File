@@ -1,0 +1,27 @@
+#ENTRY      20667
+#AUTHOR1    F.I.Habbani+
+#YEAR       1976
+#INSTITUTE  (2UK SBL)
+#TITLE      Gamma emission cross sections for 23 elements using
+#+          3.29 MeV neutron inelastic scattering
+#AUTHOR(S)  F.I.Habbani, A.H.Jiggins
+#REF-CODE   (J,NIM,134,(3),545,1976)
+#REFERENCE  Nucl.Intrum.Meth. 134 No.3 (1976) 545 (doi:10.1016/0029-554X(76)90099-9)
+#DATASETS   0
+#
+#DATASET    20667007 
+#DATE       20170723
+#REACTION   22-TI-0(N,INL)22-TI-0,PAR,DA,G
+#PROJ       1
+#TARG       22000
+#MF         14
+#MT         51
+#PRODUCT    22-TI-0
+#C4BEGIN    [    1 22000  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22000  14  51    3290000.          0.148800 0.015800 6.123-17          1005000.            F.I.Habbani+         (76)20667  7 
+    1 22000  14  51    3290000.          7.1000-3 8.0000-4 6.123-17          1440000.            F.I.Habbani+         (76)20667  7 
+#/DATA      2
+#/DATASET

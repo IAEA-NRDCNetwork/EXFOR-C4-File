@@ -1,0 +1,27 @@
+#ENTRY      F1523
+#AUTHOR1    Q.Liu+
+#YEAR       2024
+#INSTITUTE  (3CPRTSI)
+#TITLE      Production cross sections of 102mRh and 108mAg in
+#+          proton bombed natPb target with 400 MeV energy
+#AUTHOR(S)  Q.Liu, W.Dai, M.Zeng, Z.Zeng, V.F.Batyaev, K.V.Pavlov, A.Yu.Titarenko, 
+#+          Yu.E.Titarenko, R.S.Tikhonov, V.M.Zhivun
+#REF-CODE   (J,ARI,214,111533,2024)
+#REFERENCE  Appl.Radiat.Isot. 214 (2024) 111533 (doi:10.1016/j.apradiso.2024.111533)
+#DATASETS   0
+#
+#DATASET    F1523002 
+#DATE       20250114
+#REACTION   82-PB-0(P,X)45-RH-102-M,,SIG
+#PROJ       1001
+#TARG       82000
+#MF         3
+#MT         454
+#PRODUCT    45-RH-102-M
+#C4BEGIN    [ 1001 82000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82000   3 454 A  4.0000+8 2000000. 7.2000-4 5.0000-5           45102.7                     Q.Liu+               (24)F1523  2 
+#/DATA      1
+#/DATASET

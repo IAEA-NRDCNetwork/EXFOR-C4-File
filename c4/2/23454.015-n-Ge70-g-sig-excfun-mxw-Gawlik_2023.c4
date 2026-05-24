@@ -1,0 +1,62 @@
+#ENTRY      23454
+#AUTHOR1    A.Gawlik+
+#YEAR       2023
+#INSTITUTE  (3POLLOU)
+#TITLE      Measurement of the 70Ge(n,g) cross section up to
+#+          300 keV at the CERN nTOF facility
+#AUTHOR(S)  A.Gawlik, C.Lederer-Woods, J.Andrzejewski, U.Battino, P.Ferreira, 
+#+          F.Gunsing, S.Heinitz, M.Krticka, C.Massimi, F.Mingrone, 
+#+          J.Perkowski, R.Reifarth, A.Tattersall, S.Valenta, C.Weiss, 
+#+          O.Aberle, L.Audouin, M.Bacak, J.Balibrea, M.Barbagallo, 
+#+          S.Barros, V.Becares, F.Becvar, C.Beinrucker, E.Berthoumieux, 
+#+          J.Billowes, D.Bosnar, M.Brugger, M.Caamano, F.Calvino, M.Calviani, 
+#+          D.Cano-Ott, R.Cardella, A.Casanovas, D.M.Castelluccio, F.Cerutti, 
+#+          Y.H.Chen, E.Chiaveri, N.Colonna, G.Cortes, M.A.Cortes-Giraldo, 
+#+          L.Cosentino, L.A.Damone, M.Diakaki, M.Dietz, C.Domingo-Pardo, 
+#+          R.Dressler, E.Dupont, I.Duran, B.Fernandez-Dominguez, A.Ferrari, 
+#+          P.Finocchiaro, V.Furman, K.Goebel, A.R.Garcia, T.Glodariu, 
+#+          I.F.Goncalves, E.Gonzalez-Romero, A.Goverdovski, E.Griesmayer, 
+#+          C.Guerrero, H.Harada, T.Heftrich, J.Heyse, D.G.Jenkins, 
+#+          E.Jericha, F.Kaeppeler, Y.Kadi, T.Katabuchi, P.Kavrigin, 
+#+          V.Ketlerov, V.Khryachkov, A.Kimura, N.Kivel, I.Knapova, 
+#+          M.Kokkoris, E.Leal-Cidoncha, H.Leeb, J.Lerendegui-Marco, 
+#+          S.Lo Meo, S.J.Lonsdale, R.Losito, D.Macina, J.Marganiec, 
+#+          T.Martinez, P.Mastinu, M.Mastromarco, F.Matteucci, E.A.Maugeri, 
+#+          E.Mendoza, A.Mengoni, P.M.Milazzo, M.Mirea, S.Montesano, 
+#+          A.Musumarra, R.Nolte, A.Oprea, N.Patronis, A.Pavlik, J.I.Porras, 
+#+          J.Praena, J.M.Quesada, K.Rajeev, T.Rauscher, A.Riego-Perez, 
+#+          P.C.Rout, C.Rubbia, J.A.Ryan, M.Sabate-Gilarte, A.Saxena, 
+#+          P.Schillebeeckx, S.Schmidt, D.Schumann, P.Sedyshev, A.G.Smith, 
+#+          A.Stamatopoulos, G.Tagliente, J.L.Tain, A.Tarifeno-Saldivia, 
+#+          L.Tassan-Got, A.Tsinganis, G.Vannini, V.Variale, P.Vaz, 
+#+          A.Ventura, V.Vlachoudis, R.Vlastou, A.Wallner, S.Warren, 
+#+          M.Weigand, C.Wolf, P.J.Woods, T.Wright, P.Zugec
+#REF-CODE   (J,PR/C,107,039904,2023)
+#REFERENCE  Phys.Rev.C 107 (2023) 039904 (doi:10.1103/PhysRevC.107.039904)
+#DATASETS   0
+#
+#DATASET    23454015 
+#DATE       20230324
+#REACTION   32-GE-70(N,G)32-GE-71,,SIG,,MXW
+#PROJ       1
+#TARG       32070
+#MF         3
+#MT         102
+#PRODUCT    32-GE-71
+#C4BEGIN    [    1 32070   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32070   3 102 A  5000.000          0.213300 0.010700                                       A.Gawlik+            (23)23454 15 
+    1 32070   3 102 A  10000.00          0.153600 7.7000-3                                       A.Gawlik+            (23)23454 15 
+    1 32070   3 102 A  20000.00          0.109400 5.3000-3                                       A.Gawlik+            (23)23454 15 
+    1 32070   3 102 A  30000.00          0.089300 4.7000-3                                       A.Gawlik+            (23)23454 15 
+    1 32070   3 102 A  40000.00          0.077500 4.4000-3                                       A.Gawlik+            (23)23454 15 
+    1 32070   3 102 A  50000.00          0.069500 4.1000-3                                       A.Gawlik+            (23)23454 15 
+    1 32070   3 102 A  60000.00          0.063700 3.9000-3                                       A.Gawlik+            (23)23454 15 
+    1 32070   3 102 A  70000.00          0.059400 3.7000-3                                       A.Gawlik+            (23)23454 15 
+    1 32070   3 102 A  80000.00          0.056000 3.5000-3                                       A.Gawlik+            (23)23454 15 
+    1 32070   3 102 A  90000.00          0.053200 3.3000-3                                       A.Gawlik+            (23)23454 15 
+    1 32070   3 102 A  100000.0          0.051000 3.3000-3                                       A.Gawlik+            (23)23454 15 
+#/DATA      11
+#/DATASET

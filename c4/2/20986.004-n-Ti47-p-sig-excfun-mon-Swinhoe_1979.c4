@@ -1,0 +1,28 @@
+#ENTRY      20986
+#AUTHOR1    M.T.Swinhoe+
+#YEAR       1979
+#INSTITUTE  (2UK HAR)
+#TITLE      -Measurements of MeV neutron cross-sections by
+#+          activation-.
+#AUTHOR(S)  M.T.Swinhoe, C.A.Uttley
+#REF-CODE   (P,AERE-PR/NP-26,39,197903)
+#REFERENCE  Progress report AERE-PR/NP-26 page 39, 1979
+#DATASETS   0
+#
+#DATASET    20986004 
+#DATE       19811030
+#REACTION   22-TI-47(N,P)21-SC-47,,SIG
+#PROJ       1
+#TARG       22047
+#MF         3
+#MT         103
+#PRODUCT    21-SC-47
+#C4BEGIN    [    1 22047   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22047   3 103    5800000.          0.083100 3.9000-3                                       M.T.Swinhoe+         (79)20986  4 
+    1 22047   3 103    7500000.          0.117000 3.5000-3                                       M.T.Swinhoe+         (79)20986  4 
+    1 22047   3 103    9800000.          0.144500 4.2000-3                                       M.T.Swinhoe+         (79)20986  4 
+#/DATA      3
+#/DATASET

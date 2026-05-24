@@ -1,0 +1,26 @@
+#ENTRY      20595
+#AUTHOR1    T.Sato+
+#YEAR       1975
+#INSTITUTE  (2JPNKYU)
+#TITLE      -ACTIVATION CROSS SECTIONS FOR (N,P) AND (N,ALPHA)
+#+          REACTIONS ON ND,SM,YB AND LU AT 14.6 MEV-
+#AUTHOR(S)  T.Sato, Y.Kanda, I.Kumabe
+#REF-CODE   (J,NST,12,(11),681,7511)
+#REFERENCE  J.Nucl.Sci.Technol. 12 No.11 (1975) 681 (doi:10.1080/18811248.1975.9733173)
+#DATASETS   0
+#
+#DATASET    20595007 
+#DATE       19840126
+#REACTION   71-LU-175(N,P)70-YB-175,,SIG
+#PROJ       1
+#TARG       71175
+#MF         3
+#MT         103
+#PRODUCT    70-YB-175
+#C4BEGIN    [    1 71175   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 71175   3 103    1.4600+7          0.018500 2.2000-3                                       T.Sato+              (75)20595  7 
+#/DATA      1
+#/DATASET

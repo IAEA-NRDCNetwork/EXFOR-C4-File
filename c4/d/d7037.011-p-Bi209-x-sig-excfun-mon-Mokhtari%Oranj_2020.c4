@@ -1,0 +1,29 @@
+#ENTRY      D7037
+#AUTHOR1    L.Mokhtari Oranj+
+#YEAR       2020
+#INSTITUTE  (3KORPUE)
+#TITLE      Extension of excitation functions of proton-induced
+#+          reactions on bismuth
+#AUTHOR(S)  L.Mokhtari Oranj, M.Bakhtiari, N.S.Jung, A.Lee, H.S.Lee
+#REF-CODE   (J,PR/C,101,014602,2020)
+#REFERENCE  Phys.Rev.C 101 (2020) 014602 (doi:10.1103/PhysRevC.101.014602)
+#DATASETS   0
+#
+#DATASET    D7037011 
+#DATE       20220805
+#REACTION   83-BI-209(P,X)83-BI-204,,SIG
+#PROJ       1001
+#TARG       83209
+#MF         3
+#MT         454
+#PRODUCT    83-BI-204
+#C4BEGIN    [ 1001 83209   3 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 83209   3 454 D  5.0800+7 1500000. 5.0000-3 5.0000-4           83204.9                     L.Mokhtari Oranj+    (20)D7037 11 
+ 1001 83209   3 454 D  5.4700+7 1100000. 0.012800 1.8000-3           83204.9                     L.Mokhtari Oranj+    (20)D7037 11 
+ 1001 83209   3 454 D  6.1300+7 800000.0 0.046100 6.5000-3           83204.9                     L.Mokhtari Oranj+    (20)D7037 11 
+ 1001 83209   3 454 D  6.7400+7 300000.0 0.073500 0.010300           83204.9                     L.Mokhtari Oranj+    (20)D7037 11 
+#/DATA      4
+#/DATASET

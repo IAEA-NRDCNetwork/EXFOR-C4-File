@@ -1,0 +1,44 @@
+#ENTRY      A0510
+#AUTHOR1    V.N.Levkovski+
+#YEAR       1991
+#INSTITUTE  (4KASKAZ)
+#TITLE      Cross sections of medium mass nuclide activation
+#+          (A=40-100) by medium energy protons and
+#+          alpha-particles (E=10-50 MeV)
+#AUTHOR(S)  V.N.Levkovski
+#REF-CODE   (B,LEVKOVSKIJ,,,1991)
+#REFERENCE  Levkovskij,Act.Cs.By Protons and Alphas,Moscow 1991 page  (1991)
+#DATASETS   0
+#
+#DATASET    A0510010 
+#DATE       20231226
+#REACTION   21-SC-45(P,X)21-SC-44-M,,SIG
+#PROJ       1001
+#TARG       21045
+#MF         3
+#MT         454
+#PRODUCT    21-SC-44-M
+#C4BEGIN    [ 1001 21045   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 21045   3 454    1.3800+7          0.016000 1.6000-3           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    1.4800+7          0.054000 5.4000-3           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    1.5800+7          0.093000 9.3000-3           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    1.6700+7          0.133000 0.013300           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    1.7500+7          0.166000 0.016600           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    1.8300+7          0.184000 0.018400           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    1.9300+7          0.222000 0.022200           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    2.0300+7          0.211000 0.021100           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    2.1400+7          0.219000 0.021900           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    2.2200+7          0.244000 0.024400           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    2.3100+7          0.243000 0.024300           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    2.4000+7          0.232000 0.023200           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    2.4800+7          0.236000 0.023600           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    2.5700+7          0.219000 0.021900           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    2.6600+7          0.208000 0.020800           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    2.7600+7          0.194000 0.019400           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    2.8500+7          0.187000 0.018700           21044.7                     V.N.Levkovski        (91)A0510 10 
+ 1001 21045   3 454    2.9500+7          0.202000 0.020200           21044.7                     V.N.Levkovski        (91)A0510 10 
+#/DATA      18
+#/DATASET

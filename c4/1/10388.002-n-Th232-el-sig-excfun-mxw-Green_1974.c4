@@ -1,0 +1,26 @@
+#ENTRY      10388
+#AUTHOR1    L.Green+
+#YEAR       1974
+#INSTITUTE  (1USABET)
+#TITLE      The Thermal-Neutron Scattering Cross Sections of
+#+          Uranium-233 and Thorium-232
+#AUTHOR(S)  L.Green, J.A.Mitchell
+#REF-CODE   (J,NSE,54,18,197405)
+#REFERENCE  Nucl.Sci.Eng. 54 (1974) 18 (doi:10.13182/NSE74-A23389)
+#DATASETS   0
+#
+#DATASET    10388002 
+#DATE       20030102
+#REACTION   90-TH-232(N,EL)90-TH-232,,SIG,,MXW
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         2
+#PRODUCT    90-TH-232
+#C4BEGIN    [    1 90232   3   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3   2 A  0.025300          12.78000 0.300000                                       L.Green+             (74)10388  2 
+#/DATA      1
+#/DATASET

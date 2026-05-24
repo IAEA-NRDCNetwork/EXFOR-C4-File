@@ -1,0 +1,48 @@
+#ENTRY      E2218
+#AUTHOR1    Y.Oda+
+#YEAR       1960
+#INSTITUTE  (2JPNTOK)
+#TITLE      Elastic and inelastic scattering of protons from N,
+#+          Ne, Mg, Si, S and A in the energy range from 7.6 MeV
+#+          to 14.2 MeV
+#AUTHOR(S)  Y.Oda, M.Takeda, N.Takano, T.Yamazaki, C.Hu, K.Kikuchi, 
+#+          S.Kobayashi, K.Matsuda, Y.Nagahara
+#REF-CODE   (J,JPJ,15,760,1960)
+#REFERENCE  J.Phys.Soc.Jpn. 15 (1960) 760 (doi:10.1143/JPSJ.15.760)
+#DATASETS   0
+#
+#DATASET    E2218018 
+#DATE       20190117
+#REACTION   7-N-14(P,INL)7-N-14,PAR,SIG
+#PROJ       1001
+#TARG       7014
+#MF         3
+#MT         601
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  7014   3 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   3 601    7730000. 77300.00 0.024000                            2310000.         LVLY.Oda+               (60)E2218 18 
+ 1001  7014   3 601    8520000. 85200.00 8.0000-3                            2310000.         LVLY.Oda+               (60)E2218 18 
+ 1001  7014   3 601    1.0500+7 105000.0 3.2000-3                            2310000.         LVLY.Oda+               (60)E2218 18 
+ 1001  7014   3 601    1.4100+7 141000.0 3.4000-3                            2310000.         LVLY.Oda+               (60)E2218 18 
+#/DATA      4
+#/DATASET
+#
+#DATASET    E2218018 
+#DATE       20190117
+#REACTION   7-N-14(P,INL)7-N-14,PAR,SIG
+#PROJ       1001
+#TARG       7014
+#MF         3
+#MT         601
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  7014   3 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   3 601    1.0500+7 105000.0 0.057800                            3950000.         LVLY.Oda+               (60)E2218 18 
+ 1001  7014   3 601    1.4100+7 141000.0 0.022500                            3950000.         LVLY.Oda+               (60)E2218 18 
+#/DATA      2
+#/DATASET

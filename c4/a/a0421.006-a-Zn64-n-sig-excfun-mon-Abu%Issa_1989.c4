@@ -1,0 +1,40 @@
+#ENTRY      A0421
+#AUTHOR1    N.N.Abu Issa+
+#YEAR       1989
+#INSTITUTE  (4RUSSUL)
+#TITLE      Analysis of the excitation functions of alpha-particles
+#+          interactions with nuclei Zn-64,66,68,70 at
+#+          energy 14.8 - 24.4 MeV
+#AUTHOR(S)  N.N.Abu Issa, A.E.Antropov, V.P.Gusev, P.P.Zarubin, A.A.Kolozhvari, 
+#+          A.V.Smirnov
+#REF-CODE   (C,89TASHKE,,350,1989)
+#REFERENCE  Proceedings of 39.Conf.Nucl.Spectrosc.and Nucl.Struct.,Tashkent 1989 page 350
+#DATASETS   0
+#
+#DATASET    A0421006 
+#DATE       20240914
+#REACTION   30-ZN-64(A,N)32-GE-67,,SIG
+#PROJ       2004
+#TARG       30064
+#MF         3
+#MT         4
+#PRODUCT    32-GE-67
+#C4BEGIN    [ 2004 30064   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 30064   3   4    1.4800+7          0.013000 3.0000-3                                       N.N.Abu Issa+        (89)A0421  6 
+ 2004 30064   3   4    1.5000+7          0.135000 0.030000                                       N.N.Abu Issa+        (89)A0421  6 
+ 2004 30064   3   4    1.6400+7          0.140000 0.030000                                       N.N.Abu Issa+        (89)A0421  6 
+ 2004 30064   3   4    1.6800+7          0.220000 0.040000                                       N.N.Abu Issa+        (89)A0421  6 
+ 2004 30064   3   4    1.8200+7          0.250000 0.050000                                       N.N.Abu Issa+        (89)A0421  6 
+ 2004 30064   3   4    1.9100+7          0.210000 0.040000                                       N.N.Abu Issa+        (89)A0421  6 
+ 2004 30064   3   4    2.0000+7          0.190000 0.040000                                       N.N.Abu Issa+        (89)A0421  6 
+ 2004 30064   3   4    2.0600+7          0.160000 0.030000                                       N.N.Abu Issa+        (89)A0421  6 
+ 2004 30064   3   4    2.1800+7          0.150000 0.030000                                       N.N.Abu Issa+        (89)A0421  6 
+ 2004 30064   3   4    2.2400+7          0.100000 0.020000                                       N.N.Abu Issa+        (89)A0421  6 
+ 2004 30064   3   4    2.2900+7          0.100000 0.020000                                       N.N.Abu Issa+        (89)A0421  6 
+ 2004 30064   3   4    2.3400+7          0.060000 0.010000                                       N.N.Abu Issa+        (89)A0421  6 
+ 2004 30064   3   4    2.4400+7          0.050000 0.010000                                       N.N.Abu Issa+        (89)A0421  6 
+#/DATA      13
+#/DATASET

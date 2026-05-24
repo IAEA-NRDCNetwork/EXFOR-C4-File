@@ -1,0 +1,35 @@
+#ENTRY      21330
+#AUTHOR1    J.F.Barry+
+#YEAR       1966
+#INSTITUTE  (2UK ALD)
+#TITLE      Gamma rays from neutron inelastic scattering in
+#+          germanium
+#AUTHOR(S)  J.F.Barry
+#REF-CODE   (C,66PARIS,1,365,1966)
+#REFERENCE  Proceedings of Nuclear Data For Reactors Conf., Paris 1966 1 page 365
+#DATASETS   0
+#
+#DATASET    21330005 
+#DATE       20200925
+#REACTION   32-GE-70(N,INL)32-GE-70,PAR,SIG,G,A
+#PROJ       1
+#TARG       32070
+#MF         13
+#MT         51
+#PRODUCT    32-GE-70
+#C4BEGIN    [    1 32070  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32070  13  51    1030000. 50000.00 0.000000                            1040000.            J.F.Barry            (66)21330  5 
+    1 32070  13  51    1080000. 50000.00 2.5341-3                            1040000.            J.F.Barry            (66)21330  5 
+    1 32070  13  51    1130000. 50000.00 5.4581-3                            1040000.            J.F.Barry            (66)21330  5 
+    1 32070  13  51    1200000. 50000.00 6.9201-3                            1040000.            J.F.Barry            (66)21330  5 
+    1 32070  13  51    1250000. 50000.00 8.8207-3                            1040000.            J.F.Barry            (66)21330  5 
+    1 32070  13  51    1360000. 50000.00 0.012963                            1040000.            J.F.Barry            (66)21330  5 
+    1 32070  13  51    1500000. 50000.00 0.015010                            1040000.            J.F.Barry            (66)21330  5 
+    1 32070  13  51    1700000. 50000.00 0.013645                            1040000.            J.F.Barry            (66)21330  5 
+    1 32070  13  51    2000000. 50000.00 0.013353                            1040000.            J.F.Barry            (66)21330  5 
+    1 32070  13  51    2430000. 50000.00 0.012183                            1040000.            J.F.Barry            (66)21330  5 
+#/DATA      10
+#/DATASET

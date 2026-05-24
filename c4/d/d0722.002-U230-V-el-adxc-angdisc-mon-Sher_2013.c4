@@ -1,0 +1,32 @@
+#ENTRY      D0722
+#AUTHOR1    G.Sher+
+#YEAR       2013
+#INSTITUTE  (3PAKNIL)
+#TITLE      Study of (14.0 MeV/u) uranium ions interaction with
+#+          vanadium target
+#AUTHOR(S)  G.Sher, M.Ikram Shahzad
+#REF-CODE   (J,IMP/E,22,1350045,2013)
+#REFERENCE  Int.J.Mod.Phys.E 22 (2013) 1350045 (doi:10.1142/S0218301313500456)
+#DATASETS   0
+#
+#DATASET    D0722002 
+#DATE       20131106
+#REACTION   23-V-0(92-U-230,EL)23-V-0,,DA,,RTH
+#PROJ       92230
+#TARG       23000
+#MF         4
+#MT         2
+#PRODUCT    23-V-0
+#C4BEGIN    [92230 23000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+92230 23000   4   2  C 3.2200+9          21.09324          0.947601                              G.Sher+              (13)D0722  2 
+92230 23000   4   2  C 3.2200+9          14.21534          0.938312                              G.Sher+              (13)D0722  2 
+92230 23000   4   2  C 3.2200+9          9.660345          0.925805                              G.Sher+              (13)D0722  2 
+92230 23000   4   2  C 3.2200+9          4.870056          0.912263                              G.Sher+              (13)D0722  2 
+92230 23000   4   2  C 3.2200+9          1.456872          0.905865                              G.Sher+              (13)D0722  2 
+92230 23000   4   2  C 3.2200+9          1.126460          0.897412                              G.Sher+              (13)D0722  2 
+92230 23000   4   2  C 3.2200+9          0.056998          0.881468                              G.Sher+              (13)D0722  2 
+#/DATA      7
+#/DATASET

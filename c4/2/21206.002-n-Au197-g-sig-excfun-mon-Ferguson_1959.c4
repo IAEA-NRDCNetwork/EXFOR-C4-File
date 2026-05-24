@@ -1,0 +1,27 @@
+#ENTRY      21206
+#AUTHOR1    A.T.G.Ferguson+
+#YEAR       1959
+#INSTITUTE  (2UK HAR)
+#TITLE      -THE CAPTURE CROSS SECTION OF AU-197 FOR FAST NEUTRONS
+#AUTHOR(S)  A.T.G.Ferguson, E.B.Paul
+#REF-CODE   (J,JNE/A,10,19,195907)
+#REFERENCE  J.Nucl.Energy A 10 (1959) 19 (doi:10.1016/0368-3265(59)90092-1)
+#DATASETS   0
+#
+#DATASET    21206002 
+#DATE       20060809
+#REACTION   79-AU-197(N,G)79-AU-198-G,,SIG
+#PROJ       1
+#TARG       79197
+#MF         3
+#MT         102
+#PRODUCT    79-AU-198-G
+#C4BEGIN    [    1 79197   3 102G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   3 102G   150000.0 15000.00 0.270000 0.018000                                       A.T.G.Ferguson+      (59)21206  2 
+    1 79197   3 102G   550000.0 30000.00 0.118000 8.0000-3                                       A.T.G.Ferguson+      (59)21206  2 
+    1 79197   3 102G   1000000. 30000.00 0.097000 0.013000                                       A.T.G.Ferguson+      (59)21206  2 
+#/DATA      3
+#/DATASET

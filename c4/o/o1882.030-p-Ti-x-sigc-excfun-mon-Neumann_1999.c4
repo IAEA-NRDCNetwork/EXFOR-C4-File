@@ -1,0 +1,29 @@
+#ENTRY      O1882
+#AUTHOR1    S.Neumann+
+#YEAR       1999
+#INSTITUTE  (2GERUH)
+#TITLE      Activation experiments with medium-energy neutrons and
+#+          the production of cosmogenic nuclides in
+#+          extraterrestrial matter.
+#AUTHOR(S)  S.Neumann
+#REF-CODE   (T,NEUMANN,1999)
+#REFERENCE  Thesis  (1999)
+#DATASETS   0
+#
+#DATASET    O1882030 
+#DATE       20101220
+#REACTION   22-TI-0(P,X)11-NA-24,CUM,SIG
+#PROJ       1001
+#TARG       22000
+#MF         3
+#MT         459
+#PRODUCT    11-NA-24
+#C4BEGIN    [ 1001 22000   3 459 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22000   3 459 C  9.5300+8 2000000. 3.9800-3 5.0000-4           11024.9                     S.Neumann            (99)O1882 30 
+ 1001 22000   3 459 C  1.3550+9 2000000. 5.2700-3 6.9000-4           11024.9                     S.Neumann            (99)O1882 30 
+ 1001 22000   3 459 C  2.6000+9 1000000. 4.8300-3 6.1000-4           11024.9                     S.Neumann            (99)O1882 30 
+#/DATA      3
+#/DATASET

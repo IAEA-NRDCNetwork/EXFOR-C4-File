@@ -1,0 +1,35 @@
+#ENTRY      23762
+#AUTHOR1    E.Georgali+
+#YEAR       2020
+#INSTITUTE  (2GRCIOA)
+#TITLE      Experimental study of the 165Ho(n,2n) reaction:
+#+          Cross section measurements for the population of the
+#+          164Ho ground state and isomeric state from the
+#+          threshold up to 20 MeV
+#AUTHOR(S)  E.Georgali, N.Patronis, A.Anastasiadis, X.Aslanoglou, M.Axiotis, 
+#+          Z.Eleme, S.Harissopulos, A.Kalamara, K.Karfopoulos, M.Kokkoris, 
+#+          A.Lagoyannis, M.Peoviti, C.Potiriadis, M.I.Savva, I.E.Stamatelatos, 
+#+          M.E.Stamati, A.Stamatopoulos, E.Vagena, T.Vasilopoulou, 
+#+          R.Vlastou
+#REF-CODE   (J,PR/C,102,034610,2020)
+#REFERENCE  Phys.Rev.C 102 (2020) 034610 (doi:10.1103/PhysRevC.102.034610)
+#DATASETS   0
+#
+#DATASET    237620022
+#DATE       20210206
+#REACTION   67-HO-165(N,2N)67-HO-164-M,,SIG
+#PROJ       1
+#TARG       67165
+#MF         3
+#MT         16
+#PRODUCT    67-HO-164-M
+#C4BEGIN    [    1 67165   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 67165   3  16M   1.7100+7 300000.0 0.640000 0.071000                                       E.Georgali+          (20)23762  22
+    1 67165   3  16M   1.8100+7 200000.0 0.592000 0.067000                                       E.Georgali+          (20)23762  22
+    1 67165   3  16M   1.9000+7 200000.0 0.492000 0.058000                                       E.Georgali+          (20)23762  22
+    1 67165   3  16M   1.9600+7 200000.0 0.387000 0.046000                                       E.Georgali+          (20)23762  22
+#/DATA      4
+#/DATASET

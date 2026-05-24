@@ -1,0 +1,28 @@
+#ENTRY      33125
+#AUTHOR1    A.V.R.Reddy+
+#YEAR       1987
+#INSTITUTE  (3INDTRM)
+#TITLE      Isotopic yield distribution of iodine in the reactor
+#+          neutron induced fission of 241Am
+#AUTHOR(S)  A.V.R.Reddy, S.M.Deshmukh, P.P.Burte, S.B.Manohar, S.Prakash, 
+#+          M.V.Ramaniah
+#REF-CODE   (P,BARC-1381,47,1987)
+#REFERENCE  Progress report BARC-1381 page 47, 1987
+#DATASETS   0
+#
+#DATASET    331250031
+#DATE       20190822
+#REACTION   95-AM-241(N,F)ELEM/MASS,CUM,FY,,SPA
+#PROJ       1
+#TARG       95241
+#MF         8
+#MT         459
+#C4BEGIN    [    1 95241   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95241   8 459    0.025300          5.7300-3 1.3000-4 52.00000 132.0000 9.000000            A.V.R.Reddy+         (87)33125  31
+    1 95241   8 459    0.025300          4.9900-3 4.0000-4 52.00000 133.0000 1.000000            A.V.R.Reddy+         (87)33125  31
+    1 95241   8 459    0.025300          0.011018 7.0000-4 52.00000 134.0000 9.000000            A.V.R.Reddy+         (87)33125  31
+#/DATA      3
+#/DATASET

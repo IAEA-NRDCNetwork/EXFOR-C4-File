@@ -1,0 +1,78 @@
+#ENTRY      23148
+#AUTHOR1    F.Belloni+
+#YEAR       2010
+#INSTITUTE  (2ZZZCER)
+#TITLE      Neutron-induced fission cross-section of U-233,Am-241
+#+          and Am-243 in the energy range 0.5 < En < 20 MeV.
+#AUTHOR(S)  F.Belloni, P.M.Milazzo, M.Calviani, N.Colonna, P.Mastinu, 
+#+          U.Abbondanno, G.Aerts, H.Alvarez, F.Alvarez-Velarde, S.Andriamonje, 
+#+          J.Andrzejewski, L.Audouin, G.Badurek, P.Baumann, F.Becvar, 
+#+          E.Berthoumieux, F.Calvino, D.Cano-Ott, R.Capote, C.Carrapico, 
+#+          P.Cennini, V.Chepel, E.Chiaveri, G.Cortes, A.Couture, J.Cox, 
+#+          M.Dahlfors, S.David, I.Dillmann, C.Domingo-Pardo, W.Dridi, 
+#+          I.Duran, C.Eleftheriadis, M.Embid-Segura, L.Ferrant, A.Ferrari, 
+#+          R.Ferreira-Marques, K.Fujii, W.Furman, I.Goncalves, E.Gonzalez-Romero, 
+#+          A.Goverdovski, F.Gramegna, C.Guerrero, F.Gunsing, B.Haas, 
+#+          R.Haight, M.Heil, A.Herrera-Martinez, M.Igashira, E.Jericha, 
+#+          F.Kaeppeler, Y.Kadi, D.Karadimos, D.Karamanis, M.Kerveno, 
+#+          P.Koehler, E.Kossionides, M.Krticka, C.Lamboudis, H.Leeb, 
+#+          A.Lindote, I.Lopes, M.Lozano, S.Lukic, J.Marganiec, S.Marrone, 
+#+          T.Martinez, C.Massimi, A.Mengoni, C.Moreau, M.Mosconi, F.Neves, 
+#+          H.Oberhummer, S.O'Brien, J.Pancin, C.Papachristodoulou, 
+#+          C.Papadopoulos, C.Paradela, N.Patronis, A.Pavlik, P.Pavlopoulos, 
+#+          L.Perrot, M.T.Pigni, R.Plag, A.Plompen, A.Plukis, A.Poch, 
+#+          J.Praena, C.Pretel, J.Quesada, T.Rauscher, R.Reifarth, M.Rosetti, 
+#+          C.Rubbia, G.Rudolf, P.Rullhusen, J.Salgado, C.Santos, L.Sarchiapone, 
+#+          I.Savvidis, C.Stephan, G.Tagliente, J.L.Tain, L.Tassan-Got, 
+#+          L.Tavora, R.Terlizzi, G.Vannini, P.Vaz, A.Ventura, D.Villamarin, 
+#+          M.C.Vincente, V.Vlachoudis, R.Vlastou, F.Voss, S.Walter, 
+#+          M.Wiescher, K.Wisshak, M.Barbagallo, M.H.Meaze, D.Tarrio
+#REF-CODE   (C,2010KRAKOW,,113,2010)
+#REFERENCE  Proceedings of 6 Workshop Neutron Meas., Eval.& Appl., Krakow, 2010 page 113
+#DATASETS   0
+#
+#DATASET    23148003 
+#DATE       20120228
+#REACTION   95-AM-243(N,F),,SIG,,AV
+#PROJ       1
+#TARG       95243
+#MF         3
+#MT         18
+#C4BEGIN    [    1 95243   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95243   3  18 D  531500.0 30500.00 0.089400 7.0000-3                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  596500.0 34500.00 0.110000 8.0000-3                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  669500.0 38500.00 0.180000 0.010000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  751000.0 43000.00 0.270000 0.010000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  842500.0 48500.00 0.480000 0.020000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  945500.0 54500.00 0.880000 0.030000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  1060000. 60000.00 1.250000 0.040000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  1190000. 70000.00 1.380000 0.050000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  1335000. 75000.00 1.440000 0.050000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  1495000. 85000.00 1.520000 0.050000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  1680000. 100000.0 1.460000 0.050000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  1890000. 110000.0 1.440000 0.050000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  2120000. 120000.0 1.450000 0.050000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  2375000. 135000.0 1.460000 0.050000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  2665000. 155000.0 1.460000 0.050000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  2990000. 170000.0 1.490000 0.050000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  3355000. 195000.0 1.520000 0.060000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  3765000. 215000.0 1.490000 0.060000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  4225000. 245000.0 1.450000 0.060000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  4740000. 270000.0 1.490000 0.060000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  5315000. 305000.0 1.500000 0.060000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  5965000. 345000.0 1.680000 0.070000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  6695000. 385000.0 2.050000 0.090000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  7510000. 430000.0 2.310000 0.090000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  8425000. 485000.0 2.190000 0.090000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  9455000. 545000.0 2.090000 0.090000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  1.0610+7 610000.0 2.180000 0.090000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  1.1905+7 685000.0 2.200000 0.100000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  1.3360+7 770000.0 2.460000 0.100000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  1.4990+7 860000.0 2.460000 0.100000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  1.6815+7 965000.0 2.150000 0.100000                                       F.Belloni+           (10)23148  3 
+    1 95243   3  18 D  1.8865+7 1085000. 2.330000 0.100000                                       F.Belloni+           (10)23148  3 
+#/DATA      32
+#/DATASET

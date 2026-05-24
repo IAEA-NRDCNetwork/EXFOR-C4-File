@@ -1,0 +1,33 @@
+#ENTRY      C1626
+#AUTHOR1    S.Stave+
+#YEAR       2008
+#INSTITUTE  (1USADKE)
+#TITLE      Cross section measurements of the 10B(d,n0)11C
+#+          reaction below 160keV
+#AUTHOR(S)  S.Stave, M.W.Ahmed, A.J.Antolak, M.A.Blackston, A.S.Crowell, 
+#+          B.L.Doyle, S.S.Henshaw, C.R.Howell, P.Kingsberry, B.A.Perdue, 
+#+          P.Rossi, R.M.Prior, M.C.Spraker, H.R.Weller
+#REF-CODE   (J,PR/C,77,054607,2008)
+#REFERENCE  Phys.Rev.C 77 (2008) 054607 (doi:10.1103/PhysRevC.77.054607)
+#DATASETS   0
+#
+#DATASET    C1626002 
+#DATE       20080602
+#REACTION   5-B-10(D,N)6-C-11,PAR,SIG
+#PROJ       1002
+#TARG       5010
+#MF         3
+#MT         50
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1002  5010   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5010   3  50    133700.0          4.4670-7                            0.000000         LVLS.Stave+             (08)C1626  2 
+ 1002  5010   3  50    136300.0          5.2080-7                            0.000000         LVLS.Stave+             (08)C1626  2 
+ 1002  5010   3  50    138900.0          6.0720-7                            0.000000         LVLS.Stave+             (08)C1626  2 
+ 1002  5010   3  50    152400.0          1.3080-6                            0.000000         LVLS.Stave+             (08)C1626  2 
+ 1002  5010   3  50    155000.0          1.4680-6                            0.000000         LVLS.Stave+             (08)C1626  2 
+ 1002  5010   3  50    157600.0          1.7110-6                            0.000000         LVLS.Stave+             (08)C1626  2 
+#/DATA      6
+#/DATASET

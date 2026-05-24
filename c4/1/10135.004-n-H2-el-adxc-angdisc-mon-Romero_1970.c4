@@ -1,0 +1,36 @@
+#ENTRY      10135
+#AUTHOR1    J.L.Romero+
+#YEAR       1970
+#INSTITUTE  (1USADAV)
+#TITLE      Elastic scattering of 36.0- and 46.3-MeV neutrons
+#+          from deuterium
+#AUTHOR(S)  J.L.Romero, J.A.Jungerman, F.P.Brady, W.J.Knox, Y.Ishizaki
+#REF-CODE   (J,PR/C,2,2134,1970)
+#REFERENCE  Phys.Rev.C 2 (1970) 2134 (doi:10.1103/PhysRevC.2.2134)
+#DATASETS   0
+#
+#DATASET    10135004 
+#DATE       20000321
+#REACTION   1-H-2(N,EL)1-H-2,,DA
+#PROJ       1
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   4   2 AC 4.6300+7 1000000. 9.8000-3 8.0000-4 0.346936                              J.L.Romero+          (70)10135  4 
+    1  1002   4   2 AC 4.6300+7 1000000. 7.4000-3 5.0000-4 0.178802                              J.L.Romero+          (70)10135  4 
+    1  1002   4   2 AC 4.6300+7 1000000. 3.6000-3 2.0000-4 5.2360-3                              J.L.Romero+          (70)10135  4 
+    1  1002   4   2 AC 4.6300+7 1000000. 2.6000-3 2.0000-4-0.168489                              J.L.Romero+          (70)10135  4 
+    1  1002   4   2 AC 4.6300+7 1000000. 1.9000-3 2.0000-4-0.337095                              J.L.Romero+          (70)10135  4 
+    1  1002   4   2 AC 4.6300+7 1000000. 1.4000-3 2.0000-4-0.495459                              J.L.Romero+          (70)10135  4 
+    1  1002   4   2 AC 4.6300+7 1000000. 8.8000-4 1.6000-4-0.640110                              J.L.Romero+          (70)10135  4 
+    1  1002   4   2 AC 4.6300+7 1000000. 1.5000-3 2.0000-4-0.763796                              J.L.Romero+          (70)10135  4 
+    1  1002   4   2 AC 4.6300+7 1000000. 3.0000-3 2.0000-4-0.864275                              J.L.Romero+          (70)10135  4 
+    1  1002   4   2 AC 4.6300+7 1000000. 6.6000-3 4.0000-4-0.939094                              J.L.Romero+          (70)10135  4 
+    1  1002   4   2 AC 4.6300+7 1000000. 0.011900 8.0000-4-0.984808                              J.L.Romero+          (70)10135  4 
+#/DATA      11
+#/DATASET

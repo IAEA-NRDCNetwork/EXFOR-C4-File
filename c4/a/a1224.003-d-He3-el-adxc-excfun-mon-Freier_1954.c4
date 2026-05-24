@@ -1,0 +1,32 @@
+#ENTRY      A1224
+#AUTHOR1    G.Freier+
+#YEAR       1954
+#INSTITUTE  (1USAMIN)
+#TITLE      Interaction between 2D and 3He in the neighborhood of
+#+          the 18.6 MeV level of 5Li*
+#AUTHOR(S)  G.Freier, H.Holmgren
+#REF-CODE   (J,PR,93,825,1954)
+#REFERENCE  Phys.Rev. 93 (1954) 825 (doi:10.1103/PhysRev.93.825)
+#DATASETS   0
+#
+#DATASET    A1224003 
+#DATE       20250825
+#REACTION   2-HE-3(D,EL)2-HE-3,,DA
+#PROJ       1002
+#TARG       2003
+#MF         4
+#MT         2
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  2003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  2003   4   2  C 379000.0 15000.00 0.828600 0.070760 0.416281                              G.Freier+            (54)A1224  3 
+ 1002  2003   4   2  C 417000.0 15000.00 0.537800 0.049930 0.416281                              G.Freier+            (54)A1224  3 
+ 1002  2003   4   2  C 422000.0 15000.00 0.575300 0.049930 0.416281                              G.Freier+            (54)A1224  3 
+ 1002  2003   4   2  C 463000.0 15000.00 0.446800 0.045790 0.416281                              G.Freier+            (54)A1224  3 
+ 1002  2003   4   2  C 500000.0 15000.00 0.418200 0.037430 0.416281                              G.Freier+            (54)A1224  3 
+ 1002  2003   4   2  C 537000.0 15000.00 0.397900 0.049930 0.416281                              G.Freier+            (54)A1224  3 
+ 1002  2003   4   2  C 571000.0 15000.00 0.360800 0.041610 0.416281                              G.Freier+            (54)A1224  3 
+#/DATA      7
+#/DATASET

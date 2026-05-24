@@ -1,0 +1,33 @@
+#ENTRY      22089
+#AUTHOR1    Y.Ikeda+
+#YEAR       1988
+#INSTITUTE  (2JPNJAE)
+#TITLE      Activation cross section measurements for fusion
+#+          reactor structural materials at neutron energy from
+#+          13.3 to 15.0 MeV using FNS facility
+#AUTHOR(S)  Y.Ikeda, C.Konno, K.Oishi, T.Nakamura, H.Miyade, K.Kawade, 
+#+          H.Yamamoto, T.Katoh
+#REF-CODE   (R,JAERI-1312,1988)
+#REFERENCE  Report JAERI-1312, 1988
+#DATASETS   0
+#
+#DATASET    22089072 
+#DATE       20201012
+#REACTION   42-MO-94(N,P)41-NB-94-M,,SIG
+#PROJ       1
+#TARG       42094
+#MF         3
+#MT         103
+#PRODUCT    41-NB-94-M
+#C4BEGIN    [    1 42094   3 103M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42094   3 103M   1.4930+7          0.036700 8.8000-3                                       Y.Ikeda+             (88)22089 72 
+    1 42094   3 103M   1.4670+7          0.035400 8.6000-3                                       Y.Ikeda+             (88)22089 72 
+    1 42094   3 103M   1.4430+7          0.033000 0.011000                                       Y.Ikeda+             (88)22089 72 
+    1 42094   3 103M   1.4040+7          0.030500 7.8000-3                                       Y.Ikeda+             (88)22089 72 
+    1 42094   3 103M   1.3520+7          0.030000 0.011000                                       Y.Ikeda+             (88)22089 72 
+    1 42094   3 103M   1.3330+7          0.028000 0.012000                                       Y.Ikeda+             (88)22089 72 
+#/DATA      6
+#/DATASET

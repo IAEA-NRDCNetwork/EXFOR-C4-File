@@ -1,0 +1,26 @@
+#ENTRY      20071
+#AUTHOR1    P.Winiwarter+
+#YEAR       1970
+#INSTITUTE  (2AUSIRK)
+#TITLE      Isomeric cross-section ratios for the reactions
+#+          Os-192(n,2n)Os-191 and Pt-198(n,2n)Pt-197 at 14 MeV
+#AUTHOR(S)  P.Winiwarter
+#REF-CODE   (J,NP/A,158,77,1970)
+#REFERENCE  Nucl.Phys.A 158 (1970) 77 (doi:10.1016/0375-9474(70)90051-5)
+#DATASETS   0
+#
+#DATASET    20071008 
+#DATE       20211218
+#REACTION   78-PT-198(N,2N)78-PT-197-M,,SIG
+#PROJ       1
+#TARG       78198
+#MF         3
+#MT         16
+#PRODUCT    78-PT-197-M
+#C4BEGIN    [    1 78198   3  16MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 78198   3  16MA  1.4700+7 150000.0 0.894000 0.101000                                       P.Winiwarter         (70)20071  8 
+#/DATA      1
+#/DATASET

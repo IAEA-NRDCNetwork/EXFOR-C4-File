@@ -1,0 +1,33 @@
+#ENTRY      E2503
+#AUTHOR1    J.Birkhan+
+#YEAR       2016
+#INSTITUTE  (2GERTHD)
+#TITLE      Electromagnetic M1 transition strengths from inelastic
+#+          proton scattering: The cases of 48Ca and 208Pb
+#AUTHOR(S)  J.Birkhan, H.Matsubara, P.von Neumann-Cosel, N.Pietralla, 
+#+          V.Yu.Ponomarev, A.Richter, A.Tamii, J.Wambach
+#REF-CODE   (J,PR/C,93,041302R,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 041302R (doi:10.1103/PhysRevC.93.041302)
+#DATASETS   0
+#
+#DATASET    E2503009 
+#DATE       20231007
+#REACTION   20-CA-48(P,INL)20-CA-48,PAR,DA
+#PROJ       1001
+#TARG       20048
+#MF         4
+#MT         601
+#PRODUCT    20-CA-48
+#C4BEGIN    [ 1001 20048   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20048   4 601  C 2.9500+8          6.5475-3 2.8353-4 0.999974          1.0230+7         LVLJ.Birkhan+           (16)E2503  9 
+ 1001 20048   4 601  C 2.9500+8          6.2504-3 2.6208-4 0.999839          1.0230+7         LVLJ.Birkhan+           (16)E2503  9 
+ 1001 20048   4 601  C 2.9500+8          5.7319-3 2.4516-4 0.999513          1.0230+7         LVLJ.Birkhan+           (16)E2503  9 
+ 1001 20048   4 601  C 2.9500+8          4.7772-3 1.2876-4 0.999089          1.0230+7         LVLJ.Birkhan+           (16)E2503  9 
+ 1001 20048   4 601  C 2.9500+8          3.5892-3 8.8886-5 0.998375          1.0230+7         LVLJ.Birkhan+           (16)E2503  9 
+ 1001 20048   4 601  C 2.9500+8          2.3873-3 6.4054-5 0.996903          1.0230+7         LVLJ.Birkhan+           (16)E2503  9 
+ 1001 20048   4 601  C 2.9500+8          1.6324-3 4.1971-5 0.995739          1.0230+7         LVLJ.Birkhan+           (16)E2503  9 
+#/DATA      7
+#/DATASET

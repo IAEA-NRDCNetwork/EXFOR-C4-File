@@ -1,0 +1,43 @@
+#ENTRY      12871
+#AUTHOR1    J.S.Winfield+
+#YEAR       1986
+#INSTITUTE  (1USAMSU)
+#TITLE      Measurements of elastic neutron scattering from 12C
+#+          and 32S at 30.3 and 40.3 MeV: Limits on charge
+#+          symmetry breaking in the nuclear mean field.
+#AUTHOR(S)  J.S.Winfield, S.M.Austin, R.P.DeVito, U.E.P.Berg, Z.Chen, 
+#+          W.Sterrenburg
+#REF-CODE   (J,PR/C,33,1,198601)
+#REFERENCE  Phys.Rev.C 33 (1986) 1
+#DATASETS   0
+#
+#DATASET    12871003 
+#DATE       20040730
+#REACTION   6-C-0(N,EL)6-C-0,,DA
+#PROJ       1
+#TARG       6000
+#MF         4
+#MT         2
+#PRODUCT    6-C-0
+#C4BEGIN    [    1  6000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   4   2 AC 4.0300+7 475000.0 0.928300          0.959805                              J.S.Winfield+        (86)12871  3 
+    1  6000   4   2 AC 4.0300+7 475000.0 0.593300          0.929068                              J.S.Winfield+        (86)12871  3 
+    1  6000   4   2 AC 4.0300+7 475000.0 0.301700          0.890133                              J.S.Winfield+        (86)12871  3 
+    1  6000   4   2 AC 4.0300+7 475000.0 0.154900          0.843391                              J.S.Winfield+        (86)12871  3 
+    1  6000   4   2 AC 4.0300+7 475000.0 0.062740          0.789406                              J.S.Winfield+        (86)12871  3 
+    1  6000   4   2 AC 4.0300+7 475000.0 0.024300          0.728730                              J.S.Winfield+        (86)12871  3 
+    1  6000   4   2 AC 4.0300+7 475000.0 0.017520          0.662097                              J.S.Winfield+        (86)12871  3 
+    1  6000   4   2 AC 4.0300+7 475000.0 0.014680          0.590183                              J.S.Winfield+        (86)12871  3 
+    1  6000   4   2 AC 4.0300+7 475000.0 8.8580-3          0.513541                              J.S.Winfield+        (86)12871  3 
+    1  6000   4   2 AC 4.0300+7 475000.0 9.0510-3          0.433187                              J.S.Winfield+        (86)12871  3 
+    1  6000   4   2 AC 4.0300+7 475000.0 6.1060-3          0.349717                              J.S.Winfield+        (86)12871  3 
+    1  6000   4   2 AC 4.0300+7 475000.0 4.9520-3          0.263873                              J.S.Winfield+        (86)12871  3 
+    1  6000   4   2 AC 4.0300+7 475000.0 2.8570-3          0.176569                              J.S.Winfield+        (86)12871  3 
+    1  6000   4   2 AC 4.0300+7 475000.0 1.7330-3          0.088547                              J.S.Winfield+        (86)12871  3 
+    1  6000   4   2 AC 4.0300+7 475000.0 1.0280-3          3.4907-4                              J.S.Winfield+        (86)12871  3 
+    1  6000   4   2 AC 4.0300+7 475000.0 6.6210-4         -0.087156                              J.S.Winfield+        (86)12871  3 
+#/DATA      16
+#/DATASET

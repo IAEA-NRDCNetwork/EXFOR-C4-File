@@ -1,0 +1,42 @@
+#ENTRY      21177
+#AUTHOR1    F.Merchez+
+#YEAR       1966
+#INSTITUTE  (2FR GRE)
+#TITLE      Study of the elastic and inelastic scattering of
+#+          neutrons on the nuclei of Li-6 and Li-7 and Be-9
+#AUTHOR(S)  F.Merchez, V.Regis, Nguyen Van Sen, R.Darves-Blanc, Pham Dinh Lien, 
+#+          R.Bouchez
+#REF-CODE   (C,66PARIS,1,393,196610)
+#REFERENCE  Proceedings of Nuclear Data For Reactors Conf., Paris 1966 1 page 393
+#DATASETS   0
+#
+#DATASET    21177002 
+#DATE       20051121
+#REACTION   3-LI-6(N,EL)3-LI-6,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [    1  3006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4   2  C 1.4100+7 80000.00 4.1000-3 1.6000-3-0.829000                              F.Merchez+           (66)21177  2 
+    1  3006   4   2  C 1.4100+7 80000.00 3.7000-3 1.2000-3-0.734900                              F.Merchez+           (66)21177  2 
+    1  3006   4   2  C 1.4100+7 80000.00 7.8000-3 2.4000-3-0.619800                              F.Merchez+           (66)21177  2 
+    1  3006   4   2  C 1.4100+7 80000.00 8.6000-3 1.8000-3-0.484800                              F.Merchez+           (66)21177  2 
+    1  3006   4   2  C 1.4100+7 80000.00 0.012000 2.5000-3-0.332200                              F.Merchez+           (66)21177  2 
+    1  3006   4   2  C 1.4100+7 80000.00 0.010500 2.7000-3-0.166800                              F.Merchez+           (66)21177  2 
+    1  3006   4   2  C 1.4100+7 80000.00 7.7000-3 2.1000-3 0.010500                              F.Merchez+           (66)21177  2 
+    1  3006   4   2  C 1.4100+7 80000.00 8.9000-3 2.2000-3 0.099300                              F.Merchez+           (66)21177  2 
+    1  3006   4   2  C 1.4100+7 80000.00 9.9000-3 2.5000-3 0.190800                              F.Merchez+           (66)21177  2 
+    1  3006   4   2  C 1.4100+7 80000.00 0.028400 6.0000-3 0.369700                              F.Merchez+           (66)21177  2 
+    1  3006   4   2  C 1.4100+7 80000.00 0.069100 0.012000 0.540200                              F.Merchez+           (66)21177  2 
+    1  3006   4   2  C 1.4100+7 80000.00 0.115500 0.018000 0.618400                              F.Merchez+           (66)21177  2 
+    1  3006   4   2  C 1.4100+7 80000.00 0.264000 0.033000 0.821100                              F.Merchez+           (66)21177  2 
+    1  3006   4   2  C 1.4100+7 80000.00 0.388000 0.040000 0.874600                              F.Merchez+           (66)21177  2 
+    1  3006   4   2  C 1.4100+7 80000.00 0.423000 0.045000 0.918900                              F.Merchez+           (66)21177  2 
+    1  3006   4   2  C 1.4100+7 80000.00 0.510000 0.050000 0.953700                              F.Merchez+           (66)21177  2 
+#/DATA      16
+#/DATASET

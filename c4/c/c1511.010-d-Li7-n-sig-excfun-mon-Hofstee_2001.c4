@@ -1,0 +1,28 @@
+#ENTRY      C1511
+#AUTHOR1    M.A.Hofstee+
+#YEAR       2001
+#INSTITUTE  (1USACSM)
+#TITLE      Measurement of low energy (d,n) reactions on light
+#+          nuclei important to astrophysics
+#AUTHOR(S)  M.A.Hofstee, A.K.Pallone, F.E.Cecil, J.A.McNeil, C.S.Galovich
+#REF-CODE   (J,NP/A,688,527,2001)
+#REFERENCE  Nucl.Phys.A 688 (2001) 527 (doi:10.1016/S0375-9474(01)00777-1)
+#DATASETS   0
+#
+#DATASET    C1511010 
+#DATE       20070419
+#REACTION   3-LI-7(D,N)4-BE-8,,SIG,,SFC
+#PROJ       1002
+#TARG       3007
+#MF         3
+#MT         4
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1002  3007   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3007   3   4    64353.81          1.2387-4 6.1934-6                                       M.A.Hofstee+         (01)C1511 10 
+ 1002  3007   3   4    107471.0          2.0517-3 1.3336-4                                       M.A.Hofstee+         (01)C1511 10 
+ 1002  3007   3   4    128708.0          3.9644-3 1.9822-4                                       M.A.Hofstee+         (01)C1511 10 
+#/DATA      3
+#/DATASET

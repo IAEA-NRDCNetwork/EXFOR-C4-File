@@ -1,0 +1,36 @@
+#ENTRY      E2726
+#AUTHOR1    E.Maeda+
+#YEAR       2020
+#INSTITUTE  (2JPNKNZ)
+#TITLE      Measurements of the excitation functions of radon and
+#+          astatine isotopes from 7Li-induced reactions with
+#+          209Bi for development of a 211Rn-211At generator
+#AUTHOR(S)  E.Maeda, A.Yokoyama, T.Taniguchi, K.Washiyama, I.Nishinaka
+#REF-CODE   (J,JRN,323,921,2020)
+#REFERENCE  J.Rad.Nucl.Chem. 323 (2020) 921 (doi:10.1007/s10967-019-06990-z)
+#DATASETS   0
+#
+#DATASET    E2726004 
+#DATE       20220628
+#REACTION   83-BI-209(3-LI-7,X)85-AT-210,,SIG
+#PROJ       3007
+#TARG       83209
+#MF         3
+#MT         454
+#PRODUCT    85-AT-210
+#C4BEGIN    [ 3007 83209   3 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 83209   3 454 D  4.4900+7 300000.0 5.0000-4 3.0000-4           85210.9                     E.Maeda+             (20)E2726  4 
+ 3007 83209   3 454 D  4.7400+7 300000.0 3.5000-3 9.0000-4           85210.9                     E.Maeda+             (20)E2726  4 
+ 3007 83209   3 454 D  4.9900+7 300000.0 8.5000-3 1.2000-3           85210.9                     E.Maeda+             (20)E2726  4 
+ 3007 83209   3 454 D  5.2200+7 300000.0 0.012900 1.1000-3           85210.9                     E.Maeda+             (20)E2726  4 
+ 3007 83209   3 454 D  5.3600+7 300000.0 0.018600 8.0000-4           85210.9                     E.Maeda+             (20)E2726  4 
+ 3007 83209   3 454 D  5.4600+7 200000.0 0.019300 9.0000-4           85210.9                     E.Maeda+             (20)E2726  4 
+ 3007 83209   3 454 D  5.5900+7 300000.0 0.025400 8.0000-4           85210.9                     E.Maeda+             (20)E2726  4 
+ 3007 83209   3 454 D  5.6800+7 200000.0 0.028300 1.0000-3           85210.9                     E.Maeda+             (20)E2726  4 
+ 3007 83209   3 454 D  5.8000+7 200000.0 0.034400 8.0000-4           85210.9                     E.Maeda+             (20)E2726  4 
+ 3007 83209   3 454 D  5.8900+7 200000.0 0.041900 6.0000-4           85210.9                     E.Maeda+             (20)E2726  4 
+#/DATA      10
+#/DATASET

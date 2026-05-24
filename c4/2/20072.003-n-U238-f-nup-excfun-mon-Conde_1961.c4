@@ -1,0 +1,26 @@
+#ENTRY      20072
+#AUTHOR1    H.Conde+
+#YEAR       1961
+#INSTITUTE  (2SWDFOA)
+#TITLE      Measurement of nu in fast neutron fission of Th-232
+#+          and U-238
+#AUTHOR(S)  H.Conde, N.Starfelt
+#REF-CODE   (J,NSE,11,397,196106)
+#REFERENCE  Nucl.Sci.Eng. 11 (1961) 397 (doi:10.13182/NSE61-A26041)
+#DATASETS   0
+#
+#DATASET    20072003 
+#DATE       20170127
+#REACTION   92-U-238(N,F),PR,NU
+#PROJ       1
+#TARG       92238
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92238   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   1 456    3600000. 300000.0 2.790000 0.090000                                       H.Conde+             (61)20072  3 
+    1 92238   1 456    1.4900+7 300000.0 4.750000 0.120000                                       H.Conde+             (61)20072  3 
+#/DATA      2
+#/DATASET

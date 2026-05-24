@@ -1,0 +1,29 @@
+#ENTRY      20052
+#AUTHOR1    H.Conde+
+#YEAR       1968
+#INSTITUTE  (2SWDFOA)
+#TITLE      Prompt nu-bar in neutron-induced fission of Pu-239
+#+          and Pu-241
+#AUTHOR(S)  H.Conde, J.Hansen, M.Holmberg
+#REF-CODE   (J,JNE,22,53,1968)
+#REFERENCE  J.Nucl.Energy 22 (1968) 53 (doi:10.1016/0022-3107(68)90064-6)
+#DATASETS   0
+#
+#DATASET    20052003 
+#DATE       20190203
+#REACTION   94-PU-241(N,F),PR,NU
+#PROJ       1
+#TARG       94241
+#MF         1
+#MT         456
+#C4BEGIN    [    1 94241   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94241   1 456    520000.0 20000.00 2.890000 0.110000                                       H.Conde+             (68)20052  3 
+    1 94241   1 456    2710000. 10000.00 3.370000 0.110000                                       H.Conde+             (68)20052  3 
+    1 94241   1 456    4190000. 20000.00 3.500000 0.100000                                       H.Conde+             (68)20052  3 
+    1 94241   1 456    5880000. 120000.0 3.840000 0.120000                                       H.Conde+             (68)20052  3 
+    1 94241   1 456    1.4800+7 200000.0 5.020000 0.140000                                       H.Conde+             (68)20052  3 
+#/DATA      5
+#/DATASET

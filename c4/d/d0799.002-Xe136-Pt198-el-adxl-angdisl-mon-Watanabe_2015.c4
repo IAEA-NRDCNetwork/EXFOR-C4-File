@@ -1,0 +1,39 @@
+#ENTRY      D0799
+#AUTHOR1    Y.X.Watanabe+
+#YEAR       2015
+#INSTITUTE  (2JPNKEK)
+#TITLE      Pathway for the production of neutron-rich isotopes
+#+          around the N=126 shell closure
+#AUTHOR(S)  Y.X.Watanabe, Y.H.Kim, S.C.Jeong, Y.Hirayama, N.Imai, H.Ishiyama, 
+#+          H.S.Jung, H.Miyatake, S.Choi, J.S.Song, E.Clement, G.de France, 
+#+          A.Navin, M.Rejmund, C.Schmitt, G.Pollarolo, L.Corradi, E.Fioretto, 
+#+          D.Montanari, M.Niikura, D.Suzuki, H.Nishibata, J.Takatsu
+#REF-CODE   (J,PRL,115,172503,2015)
+#REFERENCE  Phys.Rev.Lett. 115 (2015) 172503 (doi:10.1103/PhysRevLett.115.172503)
+#DATASETS   0
+#
+#DATASET    D0799002 
+#DATE       20160419
+#REACTION   78-PT-198(54-XE-136,EL)78-PT-198,,DA,,RTH
+#PROJ       54136
+#TARG       78198
+#MF         4
+#MT         2
+#PRODUCT    78-PT-198
+#C4BEGIN    [54136 78198   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+54136 78198   4   2 A  1.0853+9          10.18065          0.913545                              Y.X.Watanabe+        (15)D0799  2 
+54136 78198   4   2 A  1.0853+9          8.577861          0.906308                              Y.X.Watanabe+        (15)D0799  2 
+54136 78198   4   2 A  1.0853+9          7.425103          0.898794                              Y.X.Watanabe+        (15)D0799  2 
+54136 78198   4   2 A  1.0853+9          7.183543          0.891007                              Y.X.Watanabe+        (15)D0799  2 
+54136 78198   4   2 A  1.0853+9          5.546942          0.882948                              Y.X.Watanabe+        (15)D0799  2 
+54136 78198   4   2 A  1.0853+9          4.931198          0.874620                              Y.X.Watanabe+        (15)D0799  2 
+54136 78198   4   2 A  1.0853+9          4.014687          0.866025                              Y.X.Watanabe+        (15)D0799  2 
+54136 78198   4   2 A  1.0853+9          2.315631          0.857167                              Y.X.Watanabe+        (15)D0799  2 
+54136 78198   4   2 A  1.0853+9          1.106253          0.848048                              Y.X.Watanabe+        (15)D0799  2 
+54136 78198   4   2 A  1.0853+9          0.445810          0.838671                              Y.X.Watanabe+        (15)D0799  2 
+54136 78198   4   2 A  1.0853+9          0.113726          0.829038                              Y.X.Watanabe+        (15)D0799  2 
+#/DATA      11
+#/DATASET

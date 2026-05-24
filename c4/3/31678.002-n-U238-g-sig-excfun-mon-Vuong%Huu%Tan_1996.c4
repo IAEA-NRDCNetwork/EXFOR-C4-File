@@ -1,0 +1,27 @@
+#ENTRY      31678
+#AUTHOR1    Vuong Huu Tan+
+#YEAR       1996
+#INSTITUTE  (3VN DAL)
+#TITLE      Measurement of capture cross sections of 238U on the
+#+          filtered keV-neutron beams
+#AUTHOR(S)  Vuong Huu Tan, Nguyen Canh Hai, Nguyen Trong Hiep
+#REF-CODE   (R,INDC(VN)-8,1996)
+#REFERENCE  Report INDC(VN)-8, 1996
+#DATASETS   0
+#
+#DATASET    31678002 
+#DATE       20090819
+#REACTION   92-U-238(N,G)92-U-239,,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         102
+#PRODUCT    92-U-239
+#C4BEGIN    [    1 92238   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3 102    55000.00          0.292300 8.5000-3                                       Vuong Huu Tan+       (96)31678  2 
+    1 92238   3 102    144000.0          0.152500 4.6000-3                                       Vuong Huu Tan+       (96)31678  2 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      C1598
+#AUTHOR1    D.G.Burke+
+#YEAR       2007
+#INSTITUTE  (1CANMCM)
+#TITLE      Nuclear level structures in 160,162Tb studied with
+#+          161,163Dy(t,alpha) reactions
+#AUTHOR(S)  D.G.Burke, P.E.Garrett, P.C.Sood
+#REF-CODE   (J,NP/A,794,149,2007)
+#REFERENCE  Nucl.Phys.A 794 (2007) 149 (doi:10.1016/j.nuclphysa.2007.08.006)
+#DATASETS   0
+#
+#DATASET    C1598003 
+#DATE       20080301
+#REACTION   66-DY-161(T,A)65-TB-160,PAR,DA
+#PROJ       1003
+#TARG       66161
+#MF         4
+#MT         800
+#PRODUCT    65-TB-160
+#C4BEGIN    [ 1003 66161   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 66161   4 800    1.6000+7          1.2130-4 1.7200-5 0.984808          129000.0         LVLD.G.Burke+           (07)C1598  3 
+ 1003 66161   4 800    1.6000+7          9.7080-5 1.1620-5 0.965926          129000.0         LVLD.G.Burke+           (07)C1598  3 
+ 1003 66161   4 800    1.6000+7          1.0730-4 1.2030-5 0.939693          129000.0         LVLD.G.Burke+           (07)C1598  3 
+ 1003 66161   4 800    1.6000+7          1.0610-4 1.1900-5 0.906308          129000.0         LVLD.G.Burke+           (07)C1598  3 
+ 1003 66161   4 800    1.6000+7          1.0320-4 1.1570-5 0.866025          129000.0         LVLD.G.Burke+           (07)C1598  3 
+ 1003 66161   4 800    1.6000+7          7.7820-5 8.1300-6 0.819152          129000.0         LVLD.G.Burke+           (07)C1598  3 
+ 1003 66161   4 800    1.6000+7          7.5050-5 9.5410-6 0.766044          129000.0         LVLD.G.Burke+           (07)C1598  3 
+ 1003 66161   4 800    1.6000+7          6.9380-5 8.3060-6 0.707107          129000.0         LVLD.G.Burke+           (07)C1598  3 
+#/DATA      8
+#/DATASET

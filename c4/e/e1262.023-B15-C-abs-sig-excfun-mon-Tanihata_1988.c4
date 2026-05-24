@@ -1,0 +1,27 @@
+#ENTRY      E1262
+#AUTHOR1    I.Tanihata+
+#YEAR       1988
+#INSTITUTE  (2JPNIPC)
+#TITLE      Measurement of interaction cross sections using
+#+          isotope beams of Be and B and isospin dependence of
+#+          the nuclear radii
+#AUTHOR(S)  I.Tanihata, T.Kobayashi, O.Yamakawa, S.Shimoura, K.Ekuni, 
+#+          K.Sugimoto, N.Takahashi, T.Shimoda, H.Sato
+#REF-CODE   (J,PL/B,206,(4),592,198806)
+#REFERENCE  Phys.Lett.B 206 No.4 (1988) 592 (doi:10.1016/0370-2693(88)90702-2)
+#DATASETS   0
+#
+#DATASET    E1262023 
+#DATE       20070712
+#REACTION   6-C-0(5-B-15,ABS),,SIG
+#PROJ       5015
+#TARG       6000
+#MF         3
+#MT         27
+#C4BEGIN    [ 5015  6000   3  27  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5015  6000   3  27    1.185+10          0.962000 0.160000                                       I.Tanihata+          (88)E1262 23 
+#/DATA      1
+#/DATASET

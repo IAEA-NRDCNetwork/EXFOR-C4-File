@@ -1,0 +1,26 @@
+#ENTRY      31829
+#AUTHOR1    M.Tohamy+
+#YEAR       2020
+#INSTITUTE  (3EGYCAI)
+#TITLE      Integral cross section of isomeric state formation in
+#+          (neutron, nucleon) reactions using an Am-Be source
+#AUTHOR(S)  M.Tohamy, E.K.Elmaghraby, M.N.H.Comsan
+#REF-CODE   (J,ARI,165,109340,2020)
+#REFERENCE  Appl.Radiat.Isot. 165 (2020) 109340 (doi:10.1016/j.apradiso.2020.109340)
+#DATASETS   0
+#
+#DATASET    31829006 
+#DATE       20200930
+#REACTION   78-PT-195(N,INL)78-PT-195-M,,SIG,,SPA
+#PROJ       1
+#TARG       78195
+#MF         3
+#MT         4
+#PRODUCT    78-PT-195-M
+#C4BEGIN    [    1 78195   3   4MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 78195   3   4MA  5000000.          0.740000 0.055000                                       M.Tohamy+            (20)31829  6 
+#/DATA      1
+#/DATASET

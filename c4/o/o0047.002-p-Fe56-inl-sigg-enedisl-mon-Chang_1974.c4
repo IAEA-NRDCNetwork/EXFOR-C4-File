@@ -1,0 +1,28 @@
+#ENTRY      O0047
+#AUTHOR1    C.C.Chang+
+#YEAR       1974
+#INSTITUTE  (1USAMRY)
+#TITLE      Gamma rays observed from 100-MeV protons interacting
+#+          with Fe-56 and Ni-58.
+#AUTHOR(S)  C.C.Chang, N.S.Wall, Z.Fraenkel
+#REF-CODE   (J,PRL,33,1493,1974)
+#REFERENCE  Phys.Rev.Lett. 33 (1974) 1493 (doi:10.1103/PhysRevLett.33.1493)
+#DATASETS   0
+#
+#DATASET    O0047002 
+#DATE       20180901
+#REACTION   26-FE-56(P,INL)26-FE-56,PAR,SIG,G
+#PROJ       1001
+#TARG       26056
+#MF         13
+#MT         601
+#PRODUCT    26-FE-56
+#C4BEGIN    [ 1001 26056  13 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056  13 601    1.0000+8          0.012200 2.0000-4                   846500.0            C.C.Chang+           (74)O0047  2 
+ 1001 26056  13 601    1.0000+8          5.4000-3 1.7000-4                   1238500.            C.C.Chang+           (74)O0047  2 
+ 1001 26056  13 601    1.0000+8          4.7800-3 3.4000-4                   1810000.            C.C.Chang+           (74)O0047  2 
+#/DATA      3
+#/DATASET

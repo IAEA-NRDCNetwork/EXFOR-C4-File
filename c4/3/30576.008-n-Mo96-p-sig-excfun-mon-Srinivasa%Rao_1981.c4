@@ -1,0 +1,26 @@
+#ENTRY      30576
+#AUTHOR1    C.V.Srinivasa Rao+
+#YEAR       1981
+#INSTITUTE  (3INDITK)
+#TITLE      Activation cross-sections for 14.2 MeV neutrons on
+#+          molybdenum
+#AUTHOR(S)  C.V.Srinivasa Rao, N.Lakshmana Das, B.V.Thirumala Rao, J.Rama Rao
+#REF-CODE   (J,PS,24,935,1981)
+#REFERENCE  Phys.Scr. 24 (1981) 935 (doi:10.1088/0031-8949/24/6/004)
+#DATASETS   0
+#
+#DATASET    30576008 
+#DATE       20140624
+#REACTION   42-MO-96(N,P)41-NB-96,,SIG
+#PROJ       1
+#TARG       42096
+#MF         3
+#MT         103
+#PRODUCT    41-NB-96
+#C4BEGIN    [    1 42096   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42096   3 103    1.4200+7 200000.0 0.012000 2.0000-3                                       C.V.Srinivasa Rao+   (81)30576  8 
+#/DATA      1
+#/DATASET

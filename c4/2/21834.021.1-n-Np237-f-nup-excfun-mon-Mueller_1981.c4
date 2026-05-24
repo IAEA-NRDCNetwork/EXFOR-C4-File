@@ -1,0 +1,26 @@
+#ENTRY      21834
+#AUTHOR1    R.Mueller+
+#YEAR       1981
+#INSTITUTE  (2GERKFK)
+#TITLE      Numerical results of a (2E,2V)-measurement for
+#+          fast neutron induced fission of 235U and 237Np
+#AUTHOR(S)  R.Mueller, A.A.Naqvi, F.Kaeppeler, Z.Y.Bao
+#REF-CODE   (R,KFK-3220,1981)
+#REFERENCE  Report KFK-3220, 1981
+#DATASETS   0
+#
+#DATASET    218340211
+#DATE       20150803
+#REACTION   93-NP-237(N,F),PR,NU
+#PROJ       1
+#TARG       93237
+#MF         1
+#MT         456
+#C4BEGIN    [    1 93237   1 456 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   1 456 D  800000.0 50000.00 2.730000 0.450000                                       R.Mueller+           (81)21834 211
+    1 93237   1 456 D  5550000. 250000.0 3.430000 0.050000                                       R.Mueller+           (81)21834 211
+#/DATA      2
+#/DATASET

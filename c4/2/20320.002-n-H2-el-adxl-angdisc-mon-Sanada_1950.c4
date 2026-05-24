@@ -1,0 +1,27 @@
+#ENTRY      20320
+#AUTHOR1    J.Sanada+
+#YEAR       1950
+#INSTITUTE  (2JPNOSA)
+#TITLE      -ON THE FORWARD SCATTERING OF 3.1 MEV NEUTRONS
+#+          BY THE DEUTERON-
+#AUTHOR(S)  J.Sanada, S.Yamabe
+#REF-CODE   (J,PR,80,750,5011)
+#REFERENCE  Phys.Rev. 80 (1950) 750
+#DATASETS   0
+#
+#DATASET    20320002 
+#DATE       19831122
+#REACTION   1-H-2(N,EL)1-H-2,,DA
+#PROJ       1
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   4   2 AC 3100000.          0.191000 0.029000 0.819000 0.060088                     J.Sanada+            (50)20320  2 
+    1  1002   4   2 AC 3100000.          0.249000 0.039000 0.906000 0.029550                     J.Sanada+            (50)20320  2 
+#/DATA      2
+#/DATASET

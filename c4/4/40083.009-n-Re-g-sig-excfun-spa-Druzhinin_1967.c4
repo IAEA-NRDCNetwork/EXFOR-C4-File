@@ -1,0 +1,26 @@
+#ENTRY      40083
+#AUTHOR1    A.A.Druzhinin+
+#YEAR       1967
+#INSTITUTE  (4RUSKUR)
+#TITLE      Cross sections of the fast-neutron reactions (n,gamma)
+#+          and (n,2n) for Re isotopes
+#AUTHOR(S)  A.A.Druzhinin, A.A.Lbov, L.P.Bilibin
+#REF-CODE   (J,SNP,5,13,1967)
+#REFERENCE  Sov.J.Nucl.Phys. 5 (1967) 13
+#DATASETS   0
+#
+#DATASET    40083009 
+#DATE       20260209
+#REACTION   75-RE-0(N,G),,SIG,,SPA
+#PROJ       1
+#TARG       75000
+#MF         3
+#MT         102
+#C4BEGIN    [    1 75000   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 75000   3 102    600000.0          0.330000 0.040000                                       A.A.Druzhinin+       (67)40083  9 
+    1 75000   3 102    800000.0          0.270000 0.030000                                       A.A.Druzhinin+       (67)40083  9 
+#/DATA      2
+#/DATASET

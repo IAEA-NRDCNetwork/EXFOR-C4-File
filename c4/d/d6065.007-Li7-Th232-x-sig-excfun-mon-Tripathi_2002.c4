@@ -1,0 +1,28 @@
+#ENTRY      D6065
+#AUTHOR1    R.Tripathi+
+#YEAR       2002
+#INSTITUTE  (3INDTRM)
+#TITLE      Charge and mass distribution in 7LI induced fission
+#+          of 232Th
+#AUTHOR(S)  R.Tripathi, K.Sudarshan, S.Sodaye, B.S.Tomar, G.K.Gubbi, 
+#+          A.Goswami, A.V.R.Reddy, S.B.Manohar
+#REF-CODE   (J,RCA,90,185,2002)
+#REFERENCE  Radiochim.Acta 90 (2002) 185 (doi:10.1524/ract.2002.90.4_2002.185)
+#DATASETS   0
+#
+#DATASET    D6065007 
+#DATE       20260317
+#REACTION   90-TH-232(3-LI-7,X)91-PA-232,,SIG
+#PROJ       3007
+#TARG       90232
+#MF         3
+#MT         454
+#PRODUCT    91-PA-232
+#C4BEGIN    [ 3007 90232   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 90232   3 454    4.1900+7          0.056500 1.4000-3           91232.9                     R.Tripathi+          (02)D6065  7 
+ 3007 90232   3 454    3.6600+7          0.018300 7.0000-4           91232.9                     R.Tripathi+          (02)D6065  7 
+#/DATA      2
+#/DATASET

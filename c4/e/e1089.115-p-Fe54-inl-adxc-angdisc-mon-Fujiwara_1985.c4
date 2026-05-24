@@ -1,0 +1,31 @@
+#ENTRY      E1089
+#AUTHOR1    M.Fujiwara+
+#YEAR       1985
+#INSTITUTE  (2JPNOSA)
+#TITLE      Inelastic proton scattering to the 3- and 1+ states in
+#+          50Ti, 52Cr, and 54Fe
+#AUTHOR(S)  M.Fujiwara, Y.Fujita, S.Imanishi, S.Morinobu, T.Yamazaki, 
+#+          H.Ikegami, K.Katori, S.I.Hayakawa
+#REF-CODE   (J,PR/C,32,(3),830,198509)
+#REFERENCE  Phys.Rev.C 32 No.3 (1985) 830 (doi:10.1103/PhysRevC.32.830)
+#DATASETS   0
+#
+#DATASET    E1089115 
+#DATE       20110518
+#REACTION   26-FE-54(P,INL)26-FE-54,PAR,DA
+#PROJ       1001
+#TARG       26054
+#MF         4
+#MT         601
+#PRODUCT    26-FE-54
+#C4BEGIN    [ 1001 26054   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26054   4 601  C 6.5000+7          5.8930-5          0.992202          8982000.         LVLM.Fujiwara+          (85)E1089115 
+ 1001 26054   4 601  C 6.5000+7          5.2490-5          0.989356          8982000.         LVLM.Fujiwara+          (85)E1089115 
+ 1001 26054   4 601  C 6.5000+7          5.0850-5          0.976522          8982000.         LVLM.Fujiwara+          (85)E1089115 
+ 1001 26054   4 601  C 6.5000+7          6.2150-5 1.2440-5 0.960001          8982000.         LVLM.Fujiwara+          (85)E1089115 
+ 1001 26054   4 601  C 6.5000+7          3.1040-5 9.4980-6 0.910178          8982000.         LVLM.Fujiwara+          (85)E1089115 
+#/DATA      5
+#/DATASET

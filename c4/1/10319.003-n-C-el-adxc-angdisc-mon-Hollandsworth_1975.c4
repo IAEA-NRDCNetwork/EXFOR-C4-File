@@ -1,0 +1,31 @@
+#ENTRY      10319
+#AUTHOR1    C.E.Hollandsworth+
+#YEAR       1975
+#INSTITUTE  (1USABRL)
+#TITLE      Cross Sections for Forward-Angle Elastic Scattering of
+#+          7.55 MeV Neutrons- A survey.
+#AUTHOR(S)  C.E.Hollandsworth, W.P.Bucher, J.Youngblood, A.Niiler
+#REF-CODE   (R,BRL-R-1764,197503)
+#REFERENCE  Report BRL-R-1764, 1975
+#DATASETS   0
+#
+#DATASET    10319003 
+#DATE       20020823
+#REACTION   6-C-0(N,EL)6-C-0,,DA
+#PROJ       1
+#TARG       6000
+#MF         4
+#MT         2
+#PRODUCT    6-C-0
+#C4BEGIN    [    1  6000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   4   2 AC 7550000. 30000.00 0.637000 0.048412 0.998728 6.1598-4                     C.E.Hollandsworth+   (75)10319  3 
+    1  6000   4   2 AC 7550000. 30000.00 0.598000 0.023322 0.995900 1.2630-3                     C.E.Hollandsworth+   (75)10319  3 
+    1  6000   4   2 AC 7550000. 30000.00 0.617000 0.025297 0.991671 2.0231-3                     C.E.Hollandsworth+   (75)10319  3 
+    1  6000   4   2 AC 7550000. 30000.00 0.576000 0.022464 0.987080 2.7965-3                     C.E.Hollandsworth+   (75)10319  3 
+    1  6000   4   2 AC 7550000. 30000.00 0.570000 0.022800 0.979223 4.2472-3                     C.E.Hollandsworth+   (75)10319  3 
+    1  6000   4   2 AC 7550000. 30000.00 0.528000 0.022176 0.964741 6.8905-3                     C.E.Hollandsworth+   (75)10319  3 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      40931
+#AUTHOR1    E.F.Fomushkin+
+#YEAR       1987
+#INSTITUTE  (4RUSKUR)
+#TITLE      Fission cross-section of Cm-243 and Cm-247
+#+          by fast neutrons
+#AUTHOR(S)  E.F.Fomushkin, G.F.Novoselov, Yu.I.Vinogradov, V.V.Vyachin, 
+#+          V.V.Gavrilov, V.A.Zherebcon, A.S.Koshelev, V.N.Polynov, 
+#+          V.M.Surin, A.M.Shvetsov
+#REF-CODE   (J,AE,62,(4),278,1987)
+#REFERENCE  At.En. 62 No.4 (1987) 278
+#DATASETS   0
+#
+#DATASET    40931003 
+#DATE       20151007
+#REACTION   96-CM-243(N,F),,SIG
+#PROJ       1
+#TARG       96243
+#MF         3
+#MT         18
+#C4BEGIN    [    1 96243   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 96243   3  18    1.4800+7 125000.0 2.980000 0.105000                                       E.F.Fomushkin+       (87)40931  3 
+#/DATA      1
+#/DATASET

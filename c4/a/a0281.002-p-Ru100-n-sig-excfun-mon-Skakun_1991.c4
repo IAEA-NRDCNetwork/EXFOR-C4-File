@@ -1,0 +1,34 @@
+#ENTRY      A0281
+#AUTHOR1    E.A.Skakun+
+#YEAR       1991
+#INSTITUTE  (4UKRKFT)
+#TITLE      Cross sections of isomer excitation in 100-,104-Ru(p,n)
+#+          reactions
+#AUTHOR(S)  E.A.Skakun, V.G.Batij
+#REF-CODE   (C,91MINSK,,247,1991)
+#REFERENCE  Proceedings of 41.Conf.Nucl.Spectroscopy Nucl.Struct.,Minsk 1991 page 247
+#DATASETS   0
+#
+#DATASET    A0281002 
+#DATE       20220418
+#REACTION   44-RU-100(P,N)45-RH-100-M,,SIG
+#PROJ       1001
+#TARG       44100
+#MF         3
+#MT         4
+#PRODUCT    45-RH-100-M
+#C4BEGIN    [ 1001 44100   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 44100   3   4M   5000000.          1.4000-4 2.0000-5                                       E.A.Skakun+          (91)A0281  2 
+ 1001 44100   3   4M   5500000.          3.7000-4 4.0000-5                                       E.A.Skakun+          (91)A0281  2 
+ 1001 44100   3   4M   6000000.          6.6000-4 1.4000-4                                       E.A.Skakun+          (91)A0281  2 
+ 1001 44100   3   4M   6500000.          1.3900-3 1.5000-4                                       E.A.Skakun+          (91)A0281  2 
+ 1001 44100   3   4M   7000000.          1.9000-3 2.0000-4                                       E.A.Skakun+          (91)A0281  2 
+ 1001 44100   3   4M   7500000.          2.7800-3 2.7000-4                                       E.A.Skakun+          (91)A0281  2 
+ 1001 44100   3   4M   8000000.          4.1000-3 5.0000-4                                       E.A.Skakun+          (91)A0281  2 
+ 1001 44100   3   4M   8500000.          5.6000-3 5.0000-4                                       E.A.Skakun+          (91)A0281  2 
+ 1001 44100   3   4M   9000000.          5.7000-3 6.0000-4                                       E.A.Skakun+          (91)A0281  2 
+#/DATA      9
+#/DATASET

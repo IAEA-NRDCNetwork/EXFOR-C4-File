@@ -1,0 +1,39 @@
+#ENTRY      E2518
+#AUTHOR1    H.Wang+
+#YEAR       2017
+#INSTITUTE  (2JPNIPC)
+#TITLE      Spallation reaction study for the long-lived fission
+#+          product 107Pd
+#AUTHOR(S)  H.Wang, H.Otsu, H.Sakurai, D.Ahn, M.Aikawa, T.Ando, S.Araki, 
+#+          S.Chen, N.Chiga, P.Doornenbal, N.Fukuda, T.Isobe, S.Kawakami, 
+#+          S.Kawase, T.Kin, Y.Kondo, S.Koyama, S.Kubono, Y.Maeda, A.Makinaga, 
+#+          M.Matsushita, T.Matsuzaki, S.Michimasa, S.Momiyama, S.Nagamine, 
+#+          T.Nakamura, K.Nakano, M.Niikura, T.Ozaki, A.Saito, T.Saito, 
+#+          Y.Shiga, M.Shikata, Y.Shimizu, S.Shimoura, T.Sumikama, P.Soederstroem, 
+#+          H.Suzuki, H.Takeda, S.Takeuchi, R.Taniuchi, Y.Togano, J.Tsubota, 
+#+          M.Uesaka, Y.Watanabe, Y.Watanabe, K.Wimmer, T.Yamamoto, 
+#+          K.Yoshida
+#REF-CODE   (J,PTEP,2017,021D01,2017)
+#REFERENCE  Prog.Theor.Exp.Phys. 2017 (2017) 021D01
+#DATASETS   0
+#
+#DATASET    E2518007 
+#DATE       20170508
+#REACTION   (1-H-1(46-PD-107,X)ELEM/MASS,,SIG)=(46-PD-107(P,X)ELEM/MASS,,SIG)
+#PROJ       1001
+#TARG       46107
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 46107   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 46107   3 454    1.9600+8          2.0200-3 9.2100-4           42097.9                     H.Wang+              (17)E2518  7 
+ 1001 46107   3 454    1.9600+8          2.5400-3 1.0600-3           42096.9                     H.Wang+              (17)E2518  7 
+ 1001 46107   3 454    1.9600+8          4.1200-3 1.3500-3           42095.9                     H.Wang+              (17)E2518  7 
+ 1001 46107   3 454    1.9600+8          0.010600 1.7600-3           42094.9                     H.Wang+              (17)E2518  7 
+ 1001 46107   3 454    1.9600+8          9.8300-3 1.2500-3           42093.9                     H.Wang+              (17)E2518  7 
+ 1001 46107   3 454    1.9600+8          0.011500 1.3000-3           42092.9                     H.Wang+              (17)E2518  7 
+ 1001 46107   3 454    1.9600+8          4.6500-3 9.3200-4           42091.9                     H.Wang+              (17)E2518  7 
+#/DATA      7
+#/DATASET

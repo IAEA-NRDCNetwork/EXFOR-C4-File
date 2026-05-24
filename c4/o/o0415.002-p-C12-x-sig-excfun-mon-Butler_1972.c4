@@ -1,0 +1,25 @@
+#ENTRY      O0415
+#AUTHOR1    G.W.Butler+
+#YEAR       1972
+#INSTITUTE  (1USAANL)
+#TITLE      C-12(p,n+p)C-11 cross section at 7.6 GeV
+#AUTHOR(S)  G.W.Butler, S.B.Kaufman, E.P.Steinberg, B.D.Wilkins
+#REF-CODE   (J,PR/C,6,1153,1972)
+#REFERENCE  Phys.Rev.C 6 (1972) 1153 (doi:10.1103/PhysRevC.6.1153)
+#DATASETS   0
+#
+#DATASET    O0415002 
+#DATE       20201020
+#REACTION   6-C-12(P,X)6-C-11,,SIG
+#PROJ       1001
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   3 454    7.6000+9          0.028200 6.0000-4            6011.9                     G.W.Butler+          (72)O0415  2 
+#/DATA      1
+#/DATASET

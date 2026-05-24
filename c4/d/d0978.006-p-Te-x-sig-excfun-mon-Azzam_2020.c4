@@ -1,0 +1,29 @@
+#ENTRY      D0978
+#AUTHOR1    A.Azzam+
+#YEAR       2020
+#INSTITUTE  (3EGYCAI)
+#TITLE      Excitation functions for proton-induced reactions on
+#+          Te and natTi targets: Measurements and model
+#+          calculations special relevant to the 128Te(p,n)128I
+#+          reaction
+#AUTHOR(S)  A.Azzam, M.S.Hamada, S.A.Said, G.Y.Mohamed, M.Al-Abyad
+#REF-CODE   (J,NP/A,999,121790,2020)
+#REFERENCE  Nucl.Phys.A 999 (2020) 121790 (doi:10.1016/j.nuclphysa.2020.121790)
+#DATASETS   0
+#
+#DATASET    D0978006 
+#DATE       20200410
+#REACTION   52-TE-0(P,X)53-I-121,,SIG
+#PROJ       1001
+#TARG       52000
+#MF         3
+#MT         454
+#PRODUCT    53-I-121
+#C4BEGIN    [ 1001 52000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 52000   3 454 A  1.2800+7          5.8000-4 1.0000-4           53121.9                     A.Azzam+             (20)D0978  6 
+ 1001 52000   3 454 A  1.3300+7          4.2700-3 6.4000-4           53121.9                     A.Azzam+             (20)D0978  6 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      12892
+#AUTHOR1    X.Wang+
+#YEAR       1987
+#INSTITUTE  (1USAOHO)
+#TITLE      Neutron scattering and neutron emission cross sections
+#+          on 27Al, 93Nb and 209Bi at 7 MeV.
+#AUTHOR(S)  X.Wang, Y.Wang, D.Wang, J.Rapaport
+#REF-CODE   (J,NP/A,465,483,1987)
+#REFERENCE  Nucl.Phys.A 465 (1987) 483 (doi:10.1016/0375-9474(87)90360-5)
+#DATASETS   0
+#
+#DATASET    12892002 
+#DATE       20240213
+#REACTION   13-AL-27(N,EL)13-AL-27,,DA
+#PROJ       1
+#TARG       13027
+#MF         4
+#MT         2
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   4   2 AC 7000000.          0.063700 6.0000-3 0.620737                              X.Wang+              (87)12892  2 
+    1 13027   4   2 AC 7000000.          0.032600 6.0000-3 0.309183                              X.Wang+              (87)12892  2 
+    1 13027   4   2 AC 7000000.          0.030300 6.0000-3 0.137617                              X.Wang+              (87)12892  2 
+    1 13027   4   2 AC 7000000.          0.019000 0.010000-0.036993                              X.Wang+              (87)12892  2 
+    1 13027   4   2 AC 7000000.          0.018200 8.0000-3-0.209448                              X.Wang+              (87)12892  2 
+    1 13027   4   2 AC 7000000.          0.011600 0.010000-0.527549                              X.Wang+              (87)12892  2 
+    1 13027   4   2 AC 7000000.          0.027600 6.0000-3-0.664318                              X.Wang+              (87)12892  2 
+    1 13027   4   2 AC 7000000.          0.047100 8.0000-3-0.781085                              X.Wang+              (87)12892  2 
+#/DATA      8
+#/DATASET

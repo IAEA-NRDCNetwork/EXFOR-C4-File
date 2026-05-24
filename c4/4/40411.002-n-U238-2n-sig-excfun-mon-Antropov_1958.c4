@@ -1,0 +1,26 @@
+#ENTRY      40411
+#AUTHOR1    G.P.Antropov+
+#YEAR       1958
+#INSTITUTE  (4RUSRUS)
+#TITLE      Cross-section of the U-238(n,2n)U-237 reaction
+#+          for 15 MeV neutrons
+#AUTHOR(S)  G.P.Antropov, Yu.A.Zysin, A.A.Kovrizhnykh, A.A.Lbov
+#REF-CODE   (J,SJA,5,1352,1958)
+#REFERENCE  Sov.At.Energy 5 (1958) 1352 (doi:10.1007/BF01506468)
+#DATASETS   0
+#
+#DATASET    40411002 
+#DATE       20170130
+#REACTION   92-U-238(N,2N)92-U-237,,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         16
+#PRODUCT    92-U-237
+#C4BEGIN    [    1 92238   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3  16    1.5000+7          0.900000 0.150000                                       G.P.Antropov+        (58)40411  2 
+#/DATA      1
+#/DATASET

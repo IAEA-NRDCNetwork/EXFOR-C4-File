@@ -1,0 +1,36 @@
+#ENTRY      22370
+#AUTHOR1    S.Yamamoto+
+#YEAR       1996
+#INSTITUTE  (2JPNKTO)
+#TITLE      APPLICATION OF 'BGO' SCINTILLATORS TO ABSOLUTE
+#+          MEASUREMENTS OF NEUTRON CAPTURE CROSS-SECTIONS
+#+          BETWEEN 0.01 EV AND 10 EV
+#AUTHOR(S)  S.Yamamoto, K.Kobayashi, Y.Fujita
+#REF-CODE   (J,NST,33,(11),815,199611)
+#REFERENCE  J.Nucl.Sci.Technol. 33 No.11 (1996) 815 (doi:10.1080/18811248.1996.9732014)
+#DATASETS   0
+#
+#DATASET    22370003 
+#DATE       19990604
+#REACTION   51-SB-0(N,G),,SIG,,AV
+#PROJ       1
+#TARG       51000
+#MF         3
+#MT         102
+#C4BEGIN    [    1 51000   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 51000   3 102    0.017350 3.9500-3 6.310000 0.180000                                       S.Yamamoto+          (96)22370  3 
+    1 51000   3 102    0.027550 6.2500-3 5.000000 0.130000                                       S.Yamamoto+          (96)22370  3 
+    1 51000   3 102    0.043800 0.010000 4.050000 0.100000                                       S.Yamamoto+          (96)22370  3 
+    1 51000   3 102    0.069650 0.015850 3.300000 0.080000                                       S.Yamamoto+          (96)22370  3 
+    1 51000   3 102    0.110750 0.025250 2.640000 0.070000                                       S.Yamamoto+          (96)22370  3 
+    1 51000   3 102    0.176500 0.040500 2.100000 0.060000                                       S.Yamamoto+          (96)22370  3 
+    1 51000   3 102    0.282000 0.065000 1.670000 0.050000                                       S.Yamamoto+          (96)22370  3 
+    1 51000   3 102    0.450500 0.103500 1.340000 0.050000                                       S.Yamamoto+          (96)22370  3 
+    1 51000   3 102    0.720000 0.166000 1.140000 0.040000                                       S.Yamamoto+          (96)22370  3 
+    1 51000   3 102    1.162000 0.276000 0.980000 0.030000                                       S.Yamamoto+          (96)22370  3 
+    1 51000   3 102    1.891000 0.453000 0.950000 0.030000                                       S.Yamamoto+          (96)22370  3 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      C2699
+#AUTHOR1    R.Yajzey+
+#YEAR       2021
+#INSTITUTE  (2UK YRK)
+#TITLE      Spectroscopy of the T=2mirror nuclei 48Fe/48Ti using
+#+          mirrored knockout reactions
+#AUTHOR(S)  R.Yajzey, M.A.Bentley, E.C.Simpson, T.Haylett, S.Uthayakumaar, 
+#+          D.Bazin, J.Belarge, P.C.Bender, P.J.Davies, B.Elman, A.Gade, 
+#+          H.Iwasaki, D.Kahl, N.Kobayashi, S.M.Lenzi, B.Longfellow, 
+#+          S.J.Lonsdale, E.Lunderberg, L.Morris, D.R.Napoli, X.Pereira-Lopez, 
+#+          F.Recchia, J.A.Tostevin, R.Wadsworth, D.Weisshaar
+#REF-CODE   (J,PL/B,823,136757,2021)
+#REFERENCE  Phys.Lett.B 823 (2021) 136757 (doi:10.1016/j.physletb.2021.136757)
+#DATASETS   0
+#
+#DATASET    C2699005 
+#DATE       20211209
+#REACTION   (4-BE-9(22-TI-49,X)22-TI-48,,SIG)=(22-TI-49(4-BE-9,X)22-TI-48,,SIG)
+#PROJ       22049
+#TARG       4009
+#MF         3
+#MT         454
+#PRODUCT    22-TI-48
+#C4BEGIN    [22049  4009   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+22049  4009   3 454    4.1160+9          0.074000 6.0000-3           22048.9                     R.Yajzey+            (21)C2699  5 
+#/DATA      1
+#/DATASET

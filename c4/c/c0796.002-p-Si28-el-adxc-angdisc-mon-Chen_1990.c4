@@ -1,0 +1,33 @@
+#ENTRY      C0796
+#AUTHOR1    Q.Chen+
+#YEAR       1990
+#INSTITUTE  (1USAINU)
+#TITLE      Effective interactions and nuclear structure using 180
+#+          MeV protons. II. 28Si(p,p')
+#AUTHOR(S)  Q.Chen, J.J.Kelly, P.P.Singh, M.C.Radhakrishna, W.P.Jones, 
+#+          H.Nann
+#REF-CODE   (J,PR/C,41,2514,199006)
+#REFERENCE  Phys.Rev.C 41 (1990) 2514 (doi:10.1103/PhysRevC.41.2514)
+#DATASETS   0
+#
+#DATASET    C0796002 
+#DATE       20010611
+#REACTION   14-SI-28(P,EL)14-SI-28,,DA
+#PROJ       1001
+#TARG       14028
+#MF         4
+#MT         2
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 1001 14028   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14028   4   2  C 1.8000+8          8.2830-3 2.2364-5 0.906382                              Q.Chen+              (90)C0796  2 
+ 1001 14028   4   2  C 1.8000+8          5.8720-3 1.9378-5 0.882045                              Q.Chen+              (90)C0796  2 
+ 1001 14028   4   2  C 1.8000+8          3.3440-3 1.2038-5 0.855183                              Q.Chen+              (90)C0796  2 
+ 1001 14028   4   2  C 1.8000+8          1.7860-3 6.6082-6 0.825803                              Q.Chen+              (90)C0796  2 
+ 1001 14028   4   2  C 1.8000+8          8.0670-4 3.2268-6 0.794096                              Q.Chen+              (90)C0796  2 
+ 1001 14028   4   2  C 1.8000+8          3.1320-4 1.7539-6 0.759952                              Q.Chen+              (90)C0796  2 
+ 1001 14028   4   2  C 1.8000+8          2.2360-4 9.6148-7 0.748146                              Q.Chen+              (90)C0796  2 
+#/DATA      7
+#/DATASET

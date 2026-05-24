@@ -1,0 +1,27 @@
+#ENTRY      30265
+#AUTHOR1    G.Peto+
+#YEAR       1973
+#INSTITUTE  (3HUNKOS)
+#TITLE      Average cross sections for alpha-beryllium neutron
+#+          sources
+#AUTHOR(S)  G.Peto, J.Csikai, G.M.Shuriet, I.Jozsa, V.Asztalos
+#REF-CODE   (J,AHP,33,363,1973)
+#REFERENCE  Acta Phys.Hung. 33 (1973) 363 (doi:10.1007/BF03158071)
+#DATASETS   0
+#
+#DATASET    30265019 
+#DATE       20081203
+#REACTION   79-AU-197(N,G)79-AU-198,,SIG,,SPA
+#PROJ       1
+#TARG       79197
+#MF         3
+#MT         102
+#PRODUCT    79-AU-198
+#C4BEGIN    [    1 79197   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   3 102    4500000.          0.130000 0.020000                                       G.Peto+              (73)30265 19 
+    1 79197   3 102    4500000.          0.129000 0.014000                                       G.Peto+              (73)30265 19 
+#/DATA      2
+#/DATASET

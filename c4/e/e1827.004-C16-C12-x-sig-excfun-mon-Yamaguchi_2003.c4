@@ -1,0 +1,28 @@
+#ENTRY      E1827
+#AUTHOR1    T.Yamaguchi+
+#YEAR       2003
+#INSTITUTE  (2JPNIPC)
+#TITLE      Momentum distributions of 14C and 15C fragments from
+#+          16C breakup
+#AUTHOR(S)  T.Yamaguchi, T.Zheng, A.Ozawa, M.Chiba, R.Kanungo, T.Kato, 
+#+          K.Morimoto, T.Ohnishi, T.Suda, Y.Yamaguchi, A.Yoshida, K.Yoshida, 
+#+          I.Tanihata
+#REF-CODE   (J,NP/A,724,(1-2),3,200308)
+#REFERENCE  Nucl.Phys.A 724 No.1-2 (2003) 3 (doi:10.1016/S0375-9474(03)01451-9)
+#DATASETS   0
+#
+#DATASET    E1827004 
+#DATE       20050517
+#REACTION   6-C-12(6-C-16,X)6-C-15,,SIG
+#PROJ       6016
+#TARG       6012
+#MF         3
+#MT         454
+#PRODUCT    6-C-15
+#C4BEGIN    [ 6016  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6016  6012   3 454    1.3280+9          0.065000                     6015.9                     T.Yamaguchi+         (03)E1827  4 
+#/DATA      1
+#/DATASET

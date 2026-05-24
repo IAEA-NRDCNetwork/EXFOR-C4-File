@@ -1,0 +1,30 @@
+#ENTRY      23391
+#AUTHOR1    P.Marini+
+#YEAR       2017
+#INSTITUTE  (2FR GRA)
+#TITLE      242Pu neutron-induced fission cross-section measurement
+#+          from 1 to 2 MeV neutron energy
+#AUTHOR(S)  P.Marini, L.Mathieu, M.Aiche, G.Belier, S.Czajkowski, Q.Ducasse, 
+#+          B.Jurado, G.Kessedjian, J.Matarranz, A.Plompen, P.Salvador-Castineira, 
+#+          J.Taieb, I.Tsekhanovich
+#REF-CODE   (J,PR/C,96,054604,2017)
+#REFERENCE  Phys.Rev.C 96 (2017) 054604 (doi:10.1103/PhysRevC.96.054604)
+#DATASETS   0
+#
+#DATASET    23391002 
+#DATE       20191113
+#REACTION   94-PU-242(N,F),,SIG
+#PROJ       1
+#TARG       94242
+#MF         3
+#MT         18
+#C4BEGIN    [    1 94242   3  18 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94242   3  18 C  1022000. 36000.00 1.414000 0.018382                                       P.Marini+            (17)23391  2 
+    1 94242   3  18 C  1024000. 36000.00 1.373000 0.016476                                       P.Marini+            (17)23391  2 
+    1 94242   3  18 C  1434000. 33000.00 1.354000 0.023018                                       P.Marini+            (17)23391  2 
+    1 94242   3  18 C  1940000. 32000.00 1.457000 0.014570                                       P.Marini+            (17)23391  2 
+#/DATA      4
+#/DATASET

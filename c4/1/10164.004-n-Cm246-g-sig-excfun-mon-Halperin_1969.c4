@@ -1,0 +1,26 @@
+#ENTRY      10164
+#AUTHOR1    J.Halperin+
+#YEAR       1969
+#INSTITUTE  (1USAORL)
+#TITLE      Thermal-neutron capture cross section and resonance
+#+          integral of 245Cm and 246Cm
+#AUTHOR(S)  J.Halperin, R.E.Druschel, R.E.Eby
+#REF-CODE   (P,ORNL-4437,196909)
+#REFERENCE  Progress report ORNL-4437, 1969
+#DATASETS   0
+#
+#DATASET    10164004 
+#DATE       19820527
+#REACTION   96-CM-246(N,G)96-CM-247,,SIG
+#PROJ       1
+#TARG       96246
+#MF         3
+#MT         102
+#PRODUCT    96-CM-247
+#C4BEGIN    [    1 96246   3 102 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 96246   3 102 P  0.025000          1.200000 0.400000                                       J.Halperin+          (69)10164  4 
+#/DATA      1
+#/DATASET

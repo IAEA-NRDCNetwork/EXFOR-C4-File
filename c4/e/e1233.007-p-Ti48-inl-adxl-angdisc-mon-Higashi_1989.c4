@@ -1,0 +1,41 @@
+#ENTRY      E1233
+#AUTHOR1    A.Higashi+
+#YEAR       1989
+#INSTITUTE  (2JPNOSA)
+#TITLE      SYSTEMATIC BEHAVIOR OF OCTUPOLE STRENGTHS IN
+#+          46,48,50TI
+#AUTHOR(S)  A.Higashi, K.Katori, M.Fujiwara, H.Ikegami, I.Katayama, 
+#+          S.Morinobu, M.Tosaki, S.I.Hayakawa, N.Ikeda, H.Miyatake
+#REF-CODE   (J,PR/C,39,1286,89)
+#REFERENCE  Phys.Rev.C 39 (1989) 1286 (doi:10.1103/PhysRevC.39.1286)
+#DATASETS   0
+#
+#DATASET    E1233007 
+#DATE       19910828
+#REACTION   22-TI-48(P,INL)22-TI-48,PAR,DA
+#PROJ       1001
+#TARG       22048
+#MF         4
+#MT         601
+#PRODUCT    22-TI-48
+#C4BEGIN    [ 1001 22048   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22048   4 601  C 6.5000+7          3.8690-4          0.994390          5928000.         LVLA.Higashi+           (89)E1233  7 
+ 1001 22048   4 601  C 6.5000+7          1.1660-4          0.988060          5928000.         LVLA.Higashi+           (89)E1233  7 
+ 1001 22048   4 601  C 6.5000+7          9.9450-5          0.977655          5928000.         LVLA.Higashi+           (89)E1233  7 
+ 1001 22048   4 601  C 6.5000+7          1.9280-4          0.974370          5928000.         LVLA.Higashi+           (89)E1233  7 
+ 1001 22048   4 601  C 6.5000+7          1.0910-4          0.958053          5928000.         LVLA.Higashi+           (89)E1233  7 
+ 1001 22048   4 601  C 6.5000+7          1.1250-4          0.940062          5928000.         LVLA.Higashi+           (89)E1233  7 
+ 1001 22048   4 601  C 6.5000+7          7.4590-5          0.927432          5928000.         LVLA.Higashi+           (89)E1233  7 
+ 1001 22048   4 601  C 6.5000+7          3.7230-5          0.907873          5928000.         LVLA.Higashi+           (89)E1233  7 
+ 1001 22048   4 601  C 6.5000+7          1.6900-5          0.879424          5928000.         LVLA.Higashi+           (89)E1233  7 
+ 1001 22048   4 601  C 6.5000+7          2.2430-5          0.865265          5928000.         LVLA.Higashi+           (89)E1233  7 
+ 1001 22048   4 601  C 6.5000+7          3.2670-5          0.810492          5928000.         LVLA.Higashi+           (89)E1233  7 
+ 1001 22048   4 601  C 6.5000+7          3.5880-5          0.784528          5928000.         LVLA.Higashi+           (89)E1233  7 
+ 1001 22048   4 601  C 6.5000+7          2.4540-5          0.743262          5928000.         LVLA.Higashi+           (89)E1233  7 
+ 1001 22048   4 601  C 6.5000+7          9.2160-6          0.694307          5928000.         LVLA.Higashi+           (89)E1233  7 
+ 1001 22048   4 601  C 6.5000+7          2.1560-6          0.625733          5928000.         LVLA.Higashi+           (89)E1233  7 
+#/DATA      15
+#/DATASET

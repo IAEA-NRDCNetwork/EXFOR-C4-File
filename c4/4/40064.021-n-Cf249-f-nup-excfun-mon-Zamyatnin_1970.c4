@@ -1,0 +1,25 @@
+#ENTRY      40064
+#AUTHOR1    N.I.Kroshkin+
+#YEAR       1970
+#INSTITUTE  (4RUSNIR)
+#TITLE      Measurement of energy spectrum and average number
+#+          of prompt fission neutrons
+#AUTHOR(S)  N.I.Kroshkin, Yu.S.Zamyatnin, A.K.Mel'nikov, V.N.Nefedov
+#REF-CODE   (C,70HELSINKI,2,183,1970)
+#REFERENCE  Proceedings of Nuclear Data for Reactors Conf., Helsinki 1970 2 page 183
+#DATASETS   0
+#
+#DATASET    40064021 
+#DATE       20250701
+#REACTION   98-CF-249(N,F),PR,NU
+#PROJ       1
+#TARG       98249
+#MF         1
+#MT         456
+#C4BEGIN    [    1 98249   1 456 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 98249   1 456 D  0.025300          4.600000 0.210000                                       Yu.S.Zamyatnin+      (70)40064 21 
+#/DATA      1
+#/DATASET

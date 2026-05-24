@@ -1,0 +1,40 @@
+#ENTRY      O2276
+#AUTHOR1    S.Bottoni+
+#YEAR       2015
+#INSTITUTE  (2ITYMIL)
+#TITLE      Cluster-transfer reactions with radioactive beams. A
+#+          spectroscopic tool for neutron-rich nuclei.
+#AUTHOR(S)  S.Bottoni, S.Leoni, B.Fornal, R.Raabe, K.Rusek, G.Benzoni, 
+#+          A.Bracco, F.C.L.Crespi, A.I.Morales, P.Bednarczyk, N.Cieplicka-Orynczak, 
+#+          W.Krolas, A.Maj, B.Szpak, M.Callens, J.Bouma, J.Elseviers, 
+#+          H.De Witte, F.Flavigny, R.Orlandi, P.Reiter, M.Seidlitz, 
+#+          N.Warr, B.Siebeck, S.Hellgartner, D.Muecher, J.Pakarinen, 
+#+          M.Vermeulen, C.Bauer, G.Georgiev, R.V.F.Janssens, D.Balabanski, 
+#+          M.Sferrazza, M.Kowalska, E.Rapisarda, D.Voulot, M.Lozano Benito, 
+#+          F.Wenander
+#REF-CODE   (J,PR/C,92,024322,2015)
+#REFERENCE  Phys.Rev.C 92 (2015) 024322 (doi:10.1103/PhysRevC.92.024322)
+#DATASETS   0
+#
+#DATASET    O2276002 
+#DATE       20151109
+#REACTION   3-LI-7(37-RB-98,EL)3-LI-7,,DA,,RTH
+#PROJ       37098
+#TARG       3007
+#MF         4
+#MT         2
+#PRODUCT    3-LI-7
+#C4BEGIN    [37098  3007   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+37098  3007   4   2  C 2.4402+8          1.547272          0.537300                              S.Bottoni+           (15)O2276  2 
+37098  3007   4   2  C 2.4402+8          1.209812          0.500000                              S.Bottoni+           (15)O2276  2 
+37098  3007   4   2  C 2.4402+8          1.085396          0.461749                              S.Bottoni+           (15)O2276  2 
+37098  3007   4   2  C 2.4402+8          0.875851          0.414693                              S.Bottoni+           (15)O2276  2 
+37098  3007   4   2  C 2.4402+8          0.728828          0.358368                              S.Bottoni+           (15)O2276  2 
+37098  3007   4   2  C 2.4402+8          0.608328          0.309017                              S.Bottoni+           (15)O2276  2 
+37098  3007   4   2  C 2.4402+8          0.576419          0.241922                              S.Bottoni+           (15)O2276  2 
+37098  3007   4   2  C 2.4402+8          0.392526          0.165048                              S.Bottoni+           (15)O2276  2 
+#/DATA      8
+#/DATASET

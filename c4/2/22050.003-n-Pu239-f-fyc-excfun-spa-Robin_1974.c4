@@ -1,0 +1,26 @@
+#ENTRY      22050
+#AUTHOR1    M.Robin+
+#YEAR       1974
+#INSTITUTE  (2FR FAR)
+#TITLE      The importance of fission product nuclear data
+#+          in burnup determination
+#AUTHOR(S)  M.Robin, R.Hageman, J.Bouchard, G.Frajaville, R.Vidal
+#REF-CODE   (S,IAEA-169,(3),59,1974)
+#REFERENCE  Report (proceedings) IAEA-169 Vol.(3) page 59, 1974
+#DATASETS   0
+#
+#DATASET    22050003 
+#DATE       20230301
+#REACTION   94-PU-239(N,F)60-ND-148,CUM,FY,,SPA
+#PROJ       1
+#TARG       94239
+#MF         8
+#MT         459
+#PRODUCT    60-ND-148
+#C4BEGIN    [    1 94239   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   8 459    0.025300          0.017100 2.0000-4 60.00000 148.0000 9.000000            M.Robin+             (74)22050  3 
+#/DATA      1
+#/DATASET

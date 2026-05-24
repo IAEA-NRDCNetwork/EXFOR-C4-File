@@ -1,0 +1,34 @@
+#ENTRY      A0682
+#AUTHOR1    B.Bindu Kumar+
+#YEAR       1999
+#INSTITUTE  (3INDVUU)
+#TITLE      Incomplete fusion reactions in 12C + 103Rh at
+#+          4-7 MeV/nucleon
+#AUTHOR(S)  B.Bindu Kumar, Anil Sharma, S.Mukherjee, S.Chakrabarty, 
+#+          P.K.Pujari, B.S.Tomar, A.Goswami, S.B.Manohar, S.K.Datta
+#REF-CODE   (J,PR/C,59,2923,1999)
+#REFERENCE  Phys.Rev.C 59 (1999) 2923 (doi:10.1103/PhysRevC.59.2923)
+#DATASETS   0
+#
+#DATASET    A0682007 
+#DATE       20050120
+#REACTION   45-RH-103(6-C-12,X)49-IN-108,CUM,SIG
+#PROJ       6012
+#TARG       45103
+#MF         3
+#MT         459
+#PRODUCT    49-IN-108
+#C4BEGIN    [ 6012 45103   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 45103   3 459    8.3800+7          0.122300 0.015800           49108.9                     B.Bindu Kumar+       (99)A0682  7 
+ 6012 45103   3 459    7.9800+7          0.146600 0.019100           49108.9                     B.Bindu Kumar+       (99)A0682  7 
+ 6012 45103   3 459    7.6400+7          0.140200 0.018200           49108.9                     B.Bindu Kumar+       (99)A0682  7 
+ 6012 45103   3 459    7.1800+7          0.205680 0.026000           49108.9                     B.Bindu Kumar+       (99)A0682  7 
+ 6012 45103   3 459    6.7700+7          0.156000 0.020000           49108.9                     B.Bindu Kumar+       (99)A0682  7 
+ 6012 45103   3 459    6.3400+7          0.079190 0.010200           49108.9                     B.Bindu Kumar+       (99)A0682  7 
+ 6012 45103   3 459    5.9500+7          0.029800 3.8700-3           49108.9                     B.Bindu Kumar+       (99)A0682  7 
+ 6012 45103   3 459    5.4800+7          9.2100-3 1.1900-3           49108.9                     B.Bindu Kumar+       (99)A0682  7 
+#/DATA      8
+#/DATASET

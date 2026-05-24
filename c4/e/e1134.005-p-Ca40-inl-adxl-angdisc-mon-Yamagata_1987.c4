@@ -1,0 +1,34 @@
+#ENTRY      E1134
+#AUTHOR1    T.Yamagata+
+#YEAR       1987
+#INSTITUTE  (2JPNKON)
+#TITLE      FINE STRUCTURE OF RESONANCE AT EX 14MEV IN 40CA
+#AUTHOR(S)  T.Yamagata, S.Kishimoto, K.Iwamoto, B.Saeki, K.Yuasa, M.Tanaka, 
+#+          K.Ogino, S.Matsuki, T.Fukuda, M.Inoue, K.Hosono, A.Shimizu, 
+#+          N.Matsuoka, I.Miura, Y.Ikku
+#REF-CODE   (J,PR/C,36,573,87)
+#REFERENCE  Phys.Rev.C 36 (1987) 573 (doi:10.1103/PhysRevC.36.573)
+#DATASETS   0
+#
+#DATASET    E1134005 
+#DATE       19890720
+#REACTION   20-CA-40(P,INL)20-CA-40,PAR,DA
+#PROJ       1001
+#TARG       20040
+#MF         4
+#MT         601
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 1001 20040   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20040   4 601  C 6.5100+7          4.5320-5 8.4600-6 0.983280          1.3930+7 40000.00LVLT.Yamagata+          (87)E1134  5 
+ 1001 20040   4 601  C 6.5100+7          6.1910-5 1.1600-5 0.964682          1.3930+7 40000.00LVLT.Yamagata+          (87)E1134  5 
+ 1001 20040   4 601  C 6.5100+7          3.8260-5 6.4400-6 0.936684          1.3930+7 40000.00LVLT.Yamagata+          (87)E1134  5 
+ 1001 20040   4 601  C 6.5100+7          6.3010-5 7.2500-6 0.901160          1.3930+7 40000.00LVLT.Yamagata+          (87)E1134  5 
+ 1001 20040   4 601  C 6.5100+7          6.1150-5 8.1000-6 0.856204          1.3930+7 40000.00LVLT.Yamagata+          (87)E1134  5 
+ 1001 20040   4 601  C 6.5100+7          5.9330-5 7.8600-6 0.805763          1.3930+7 40000.00LVLT.Yamagata+          (87)E1134  5 
+ 1001 20040   4 601  C 6.5100+7          2.9520-5 2.3900-6 0.690378          1.3930+7 40000.00LVLT.Yamagata+          (87)E1134  5 
+ 1001 20040   4 601  C 6.5100+7          1.5380-5 2.5900-6 0.568978          1.3930+7 40000.00LVLT.Yamagata+          (87)E1134  5 
+#/DATA      8
+#/DATASET

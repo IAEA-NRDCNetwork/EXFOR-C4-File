@@ -1,0 +1,36 @@
+#ENTRY      C1555
+#AUTHOR1    N.Ozkan+
+#YEAR       2007
+#INSTITUTE  (2TUKKOC)
+#TITLE      Astrophysical S factor for a-capture on 112Sn in the
+#+          p-process energy range
+#AUTHOR(S)  N.Ozkan, G.Efe, R.T.Guray, A.Palumbo, J.Gorres, H.Y.Lee, 
+#+          L.O.Lamm, W.Rapp, E.Stech, M.Wiescher, Gy.Gyurky, Zs.Fulop, 
+#+          E.Somorjai
+#REF-CODE   (J,PR/C,75,025801,2007)
+#REFERENCE  Phys.Rev.C 75 (2007) 025801 (doi:10.1103/PhysRevC.75.025801)
+#DATASETS   0
+#
+#DATASET    C1555004 
+#DATE       20110123
+#REACTION   50-SN-112(A,G)52-TE-116,,SIG
+#PROJ       2004
+#TARG       50112
+#MF         3
+#MT         102
+#PRODUCT    52-TE-116
+#C4BEGIN    [ 2004 50112   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 50112   3 102    8000000.          3.3000-8 5.0000-9                                       N.Ozkan+             (07)C1555  4 
+ 2004 50112   3 102    8500000.          1.8000-7 2.0000-8                                       N.Ozkan+             (07)C1555  4 
+ 2004 50112   3 102    9000000.          8.8000-7 7.0000-8                                       N.Ozkan+             (07)C1555  4 
+ 2004 50112   3 102    9500000.          4.2000-6 4.0000-7                                       N.Ozkan+             (07)C1555  4 
+ 2004 50112   3 102    1.0000+7          2.0000-5 2.0000-6                                       N.Ozkan+             (07)C1555  4 
+ 2004 50112   3 102    1.0500+7          6.9000-5 5.0000-6                                       N.Ozkan+             (07)C1555  4 
+ 2004 50112   3 102    1.1000+7          2.2600-4 1.8000-5                                       N.Ozkan+             (07)C1555  4 
+ 2004 50112   3 102    1.1500+7          6.9100-4 7.4000-5                                       N.Ozkan+             (07)C1555  4 
+ 2004 50112   3 102    1.2000+7          1.8600-3 1.9700-4                                       N.Ozkan+             (07)C1555  4 
+#/DATA      9
+#/DATASET

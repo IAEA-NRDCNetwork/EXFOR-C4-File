@@ -1,0 +1,28 @@
+#ENTRY      31664
+#AUTHOR1    Junhua Luo+
+#YEAR       2009
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Activation cross sections and isomeric cross section
+#+          ratios for 184Os(n,2n)183m,gOs, 190Os(n,p)190m,gRe
+#+          and 86Sr(n,2n)85m,gSr reactions from 13.5 to 14.8 MeV
+#AUTHOR(S)  Junhua Luo, Fei Tuo, Xiangzhong Kong
+#REF-CODE   (J,JRN,279,443,2009)
+#REFERENCE  J.Rad.Nucl.Chem. 279 (2009) 443 (doi:10.1007/s10967-007-7333-1)
+#DATASETS   0
+#
+#DATASET    31664005 
+#DATE       20090212
+#REACTION   76-OS-190(N,P)75-RE-190-G,,SIG
+#PROJ       1
+#TARG       76190
+#MF         3
+#MT         103
+#PRODUCT    75-RE-190-G
+#C4BEGIN    [    1 76190   3 103GA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 76190   3 103GA  1.3500+7 200000.0 1.5000-3 4.0000-4                                       Junhua Luo+          (09)31664  5 
+    1 76190   3 103GA  1.4800+7 200000.0 2.6000-3 3.0000-4                                       Junhua Luo+          (09)31664  5 
+#/DATA      2
+#/DATASET

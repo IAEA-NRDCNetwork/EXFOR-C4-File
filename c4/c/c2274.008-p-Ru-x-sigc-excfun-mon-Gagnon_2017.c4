@@ -1,0 +1,37 @@
+#ENTRY      C2274
+#AUTHOR1    K.Gagnon+
+#YEAR       2017
+#INSTITUTE  (1CANALA)
+#TITLE      Excitation functions for proton-induced reactions on
+#+          natRu from 7 to 18 MeV
+#AUTHOR(S)  K.Gagnon, J.S.Wilson, C.M.B.Holt, S.E.Lapi, S.Ferguson, 
+#+          D.Mitlin, S.A.McQuarrier
+#REF-CODE   (J,JLCR,60,S324,2017)
+#REFERENCE  J.Lab.Comp.Radioph. 60 (2017) S324
+#DATASETS   0
+#
+#DATASET    C2274008 
+#DATE       20170919
+#REACTION   44-RU-0(P,X)45-RH-100-G,M+,SIG
+#PROJ       1001
+#TARG       44000
+#MF         3
+#MT         459
+#PRODUCT    45-RH-100-G
+#C4BEGIN    [ 1001 44000   3 459 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 44000   3 459 P  7200000. 300000.0 0.037600 2.9000-3           45100.0                     K.Gagnon+            (17)C2274  8 
+ 1001 44000   3 459 P  9200000. 400000.0 0.064400 5.0000-3           45100.0                     K.Gagnon+            (17)C2274  8 
+ 1001 44000   3 459 P  1.0100+7 300000.0 0.069700 5.4000-3           45100.0                     K.Gagnon+            (17)C2274  8 
+ 1001 44000   3 459 P  1.1200+7 300000.0 0.092100 7.1000-3           45100.0                     K.Gagnon+            (17)C2274  8 
+ 1001 44000   3 459 P  1.1900+7 300000.0 0.110600 8.6000-3           45100.0                     K.Gagnon+            (17)C2274  8 
+ 1001 44000   3 459 P  1.2700+7 200000.0 0.127200 9.9000-3           45100.0                     K.Gagnon+            (17)C2274  8 
+ 1001 44000   3 459 P  1.3400+7 300000.0 0.151000 0.012000           45100.0                     K.Gagnon+            (17)C2274  8 
+ 1001 44000   3 459 P  1.4700+7 200000.0 0.165000 0.013000           45100.0                     K.Gagnon+            (17)C2274  8 
+ 1001 44000   3 459 P  1.5500+7 200000.0 0.139000 0.011000           45100.0                     K.Gagnon+            (17)C2274  8 
+ 1001 44000   3 459 P  1.6600+7 200000.0 0.148000 0.011000           45100.0                     K.Gagnon+            (17)C2274  8 
+ 1001 44000   3 459 P  1.7400+7 200000.0 0.144000 0.011000           45100.0                     K.Gagnon+            (17)C2274  8 
+#/DATA      11
+#/DATASET

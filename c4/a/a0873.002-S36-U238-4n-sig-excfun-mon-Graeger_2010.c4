@@ -1,0 +1,31 @@
+#ENTRY      A0873
+#AUTHOR1    R.Graeger+
+#YEAR       2010
+#INSTITUTE  (2GERMUN)
+#TITLE      Experimental study of the U-238(S-36,3-5n)Hs-269-271
+#+          reaction leading to the observation of Hs-270
+#AUTHOR(S)  R.Graeger, D.Ackermann, M.Chelnokov, V.Chepigin, Ch.E.Duellmann, 
+#+          J.Dvorak, J.Even, A.Gorshkov, F.P.Hessberger, D.Hild, A.Huebner, 
+#+          E.Jaeger, J.Khuyagbaatar, B.Kindler, J.V.Kratz, J.Krier, 
+#+          A.Kuznetsov, B.Lommel, K.Nishio, H.Nitsche, J.P.Omtvedt, 
+#+          O.Petrushkin, D.Rudolph, J.Runke, F.Samadani, M.Schaedel, 
+#+          B.Schausten, A.Tuerler, A.Yakushev, Q.Zhi
+#REF-CODE   (J,PR/C,81,061601,2010)
+#REFERENCE  Phys.Rev.C 81 (2010) 061601 (doi:10.1103/PhysRevC.81.061601)
+#DATASETS   0
+#
+#DATASET    A0873002 
+#DATE       20110324
+#REACTION   92-U-238(16-S-36,4N)108-HS-270,,SIG
+#PROJ       16036
+#TARG       92238
+#MF         3
+#MT         37
+#PRODUCT    108-HS-270
+#C4BEGIN    [16036 92238   3  37  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+16036 92238   3  37    1.9350+8 1500000. 8.000-13                                                R.Graeger+           (10)A0873  2 
+#/DATA      1
+#/DATASET

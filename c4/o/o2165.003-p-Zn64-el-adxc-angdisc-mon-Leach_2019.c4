@@ -1,0 +1,48 @@
+#ENTRY      O2165
+#AUTHOR1    K.G.Leach+
+#YEAR       2019
+#INSTITUTE  (1USACSM)
+#TITLE      High-resolution (p,t) reaction measurements as
+#+          spectroscopic tests of ab-initio theory in the mid-pf
+#+          shell
+#AUTHOR(S)  K.G.Leach, J.D.Holt, P.E.Garrett, S.R.Stroberg, G.C.Ball, 
+#+          P.C.Bender, V.Bildstein, A.Diaz Varela, R.Dunlop, T.Faestermann, 
+#+          B.Hadinia, R.Hertenberger, D.S.Jamieson, B.Jigmeddorj, R.Krucken, 
+#+          A.T.Laffoley, A.J.Radich, E.T.Rand, C.E.Svensson, S.Triambak, 
+#+          H.-F.Wirth
+#REF-CODE   (J,PR/C,100,014320,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 014320 (doi:10.1103/PhysRevC.100.014320)
+#DATASETS   0
+#
+#DATASET    O2165003 
+#DATE       20210906
+#REACTION   30-ZN-64(P,EL)30-ZN-64,,DA
+#PROJ       1001
+#TARG       30064
+#MF         4
+#MT         2
+#PRODUCT    30-ZN-64
+#C4BEGIN    [ 1001 30064   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30064   4   2  C 2.4000+7          4.367200 9.5334-3 0.964846                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          1.407972 2.5201-3 0.937808                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          0.389326 1.7525-3 0.903433                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          0.109541 3.8414-4 0.862005                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          0.096773 3.0952-4 0.813866                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          0.106437 3.2788-4 0.759416                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          0.092795 2.4058-4 0.699096                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          0.054645 1.2167-4 0.633400                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          0.019130 6.5932-5 0.562860                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          4.7312-3 1.7236-5 0.488042                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          4.7840-3 1.4932-5 0.409547                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          0.012484 2.9380-5 0.327996                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          0.015041 3.2649-5 0.244030                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          0.013358 2.9075-5 0.158306                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          8.8930-3 2.3333-5 0.071489                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          4.5479-3 1.6548-5-0.015754                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          2.0594-3 9.9330-6-0.102758                              K.G.Leach+           (19)O2165  3 
+ 1001 30064   4   2  C 2.4000+7          1.3073-3 6.9330-6-0.188855                              K.G.Leach+           (19)O2165  3 
+#/DATA      18
+#/DATASET

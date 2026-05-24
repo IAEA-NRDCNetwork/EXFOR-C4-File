@@ -1,0 +1,33 @@
+#ENTRY      20223
+#AUTHOR1    P.Kuijper+
+#YEAR       1972
+#INSTITUTE  (2NEDAMS)
+#TITLE      Neutron scattering from bismuth, strontium and sodium
+#+          at 14.8 MeV
+#AUTHOR(S)  P.Kuijper, J.C.Veefkind, C.C.Jonker
+#REF-CODE   (J,NP/A,181,545,1972)
+#REFERENCE  Nucl.Phys.A 181 (1972) 545 (doi:10.1016/0375-9474(72)90500-3)
+#DATASETS   0
+#
+#DATASET    20223004 
+#DATE       20170425
+#REACTION   11-NA-23(N,EL)11-NA-23,,DA
+#PROJ       1
+#TARG       11023
+#MF         4
+#MT         2
+#PRODUCT    11-NA-23
+#C4BEGIN    [    1 11023   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023   4   2  C 1.4760+7 50000.00 0.454000 0.015000 0.913545                              P.Kuijper+           (72)20223  4 
+    1 11023   4   2  C 1.4760+7 50000.00 0.097100 4.5000-3 0.807990                              P.Kuijper+           (72)20223  4 
+    1 11023   4   2  C 1.4760+7 50000.00 0.038200 5.0000-3 0.710799                              P.Kuijper+           (72)20223  4 
+    1 11023   4   2  C 1.4760+7 50000.00 0.057100 4.2000-3 0.513541                              P.Kuijper+           (72)20223  4 
+    1 11023   4   2  C 1.4760+7 50000.00 0.060100 4.7000-3 0.302370                              P.Kuijper+           (72)20223  4 
+    1 11023   4   2  C 1.4760+7 50000.00 0.024200 3.5000-3-0.059306                              P.Kuijper+           (72)20223  4 
+    1 11023   4   2  C 1.4760+7 50000.00 0.015500 3.4000-3-0.299041                              P.Kuijper+           (72)20223  4 
+    1 11023   4   2  C 1.4760+7 50000.00 0.016800 3.8000-3-0.532876                              P.Kuijper+           (72)20223  4 
+#/DATA      8
+#/DATASET

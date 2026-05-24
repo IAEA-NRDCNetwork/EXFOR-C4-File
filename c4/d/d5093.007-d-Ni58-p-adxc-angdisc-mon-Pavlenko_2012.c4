@@ -1,0 +1,33 @@
+#ENTRY      D5093
+#AUTHOR1    Yu.N.Pavlenko+
+#YEAR       2012
+#INSTITUTE  (4UKRIJD)
+#TITLE      Sub-barrier interaction between deuterons and 58,62Ni
+#+          nuclei
+#AUTHOR(S)  Yu.N.Pavlenko, K.O.Terenetsky, V.P.Verbitsky, A.I.Rundel', 
+#+          Yu.Ya.Karlyshev, O.K.Gorpinich, L.I.Slusarenko, A.V.Stepanyuk, 
+#+          I.P.Dryapachenko, E.M.Mozhzhukhin
+#REF-CODE   (J,IZV,76,990,2012)
+#REFERENCE  Izv.Ross.AN,Fiz. 76 (2012) 990
+#DATASETS   0
+#
+#DATASET    D5093007 
+#DATE       20121012
+#REACTION   28-NI-58(D,P)28-NI-59,,DA
+#PROJ       1002
+#TARG       28058
+#MF         4
+#MT         103
+#PRODUCT    28-NI-59
+#C4BEGIN    [ 1002 28058   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28058   4 103  C 4500000.          0.031460 2.6100-3 0.642788                              Yu.N.Pavlenko+       (12)D5093  7 
+ 1002 28058   4 103  C 4500000.          0.025860 1.5800-3 0.422618                              Yu.N.Pavlenko+       (12)D5093  7 
+ 1002 28058   4 103  C 4500000.          0.024230 9.4000-4-0.500000                              Yu.N.Pavlenko+       (12)D5093  7 
+ 1002 28058   4 103  C 4500000.          0.024480 8.6000-4-0.642788                              Yu.N.Pavlenko+       (12)D5093  7 
+ 1002 28058   4 103  C 4500000.          0.025750 9.7000-4-0.766044                              Yu.N.Pavlenko+       (12)D5093  7 
+ 1002 28058   4 103  C 4500000.          0.026200 1.1300-3-0.866025                              Yu.N.Pavlenko+       (12)D5093  7 
+#/DATA      6
+#/DATASET

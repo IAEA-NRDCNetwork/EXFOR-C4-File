@@ -1,0 +1,28 @@
+#ENTRY      30666
+#AUTHOR1    S.S.Hsu+
+#YEAR       1981
+#INSTITUTE  (3CHFTHU)
+#TITLE      Yields and isomeric ratio of xenon and krypton isotopes
+#+          from thermal neutron fission of U-235.
+#AUTHOR(S)  S.S.Hsu, J.T.Lin, C.M.Yang, Y.M.Yu
+#REF-CODE   (J,PR/C,24,523,198108)
+#REFERENCE  Phys.Rev.C 24 (1981) 523 (doi:10.1103/PhysRevC.24.523)
+#DATASETS   0
+#
+#DATASET    30666002I
+#DATE       20090830
+#REACTION   92-U-235(N,F)ELEM/MASS,IND,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         454
+#C4BEGIN    [    1 92235   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 454    0.025300          1.2000-3 6.0000-4 54.00000 133.0000 1.000000            S.S.Hsu+             (81)30666  2I
+    1 92235   8 454    0.025300          3.4000-3 1.8000-3 54.00000 133.0000 0.000000            S.S.Hsu+             (81)30666  2I
+    1 92235   8 454    0.025300          3.4000-4 1.0000-4 54.00000 135.0000 1.000000            S.S.Hsu+             (81)30666  2I
+    1 92235   8 454    0.025300          7.5000-3 1.2000-3 54.00000 135.0000 0.000000            S.S.Hsu+             (81)30666  2I
+#/DATA      4
+#/DATASET

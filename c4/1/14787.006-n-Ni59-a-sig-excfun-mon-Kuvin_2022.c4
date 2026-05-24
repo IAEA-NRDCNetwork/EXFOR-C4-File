@@ -1,0 +1,41 @@
+#ENTRY      14787
+#AUTHOR1    S.A.Kuvin+
+#YEAR       2022
+#INSTITUTE  (1USALAS)
+#TITLE      Direct measurement of 59Ni(n,p)59Co and 59Ni(n,a)
+#+          56Fe at fast-neutron energies from 500 keV to 10 MeV
+#AUTHOR(S)  S.A.Kuvin, H.Y.Lee, B.DiGiovine, C.Eiroa-Lledo, A.Georgiadou, 
+#+          M.Herman, T.Kawano, V.Mocko, S.Mosby, C.Vermeulen, D.Votaw, 
+#+          M.White, L.Zavorka, G.Perdikakis, P.Tsintari, H.I.Kim
+#REF-CODE   (J,PR/C,105,044608,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) 044608 (doi:10.1103/PhysRevC.105.044608)
+#DATASETS   0
+#
+#DATASET    14787006 
+#DATE       20220730
+#REACTION   28-NI-59(N,A)26-FE-56,,SIG
+#PROJ       1
+#TARG       28059
+#MF         3
+#MT         107
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 28059   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28059   3 107    800000.0          9.0000-4 2.1000-3                                       S.A.Kuvin+           (22)14787  6 
+    1 28059   3 107    1400000.          6.8000-3 1.5000-3                                       S.A.Kuvin+           (22)14787  6 
+    1 28059   3 107    2000000.          0.010300 2.0000-3                                       S.A.Kuvin+           (22)14787  6 
+    1 28059   3 107    2600000.          0.015100 2.8000-3                                       S.A.Kuvin+           (22)14787  6 
+    1 28059   3 107    3200000.          0.030000 3.8000-3                                       S.A.Kuvin+           (22)14787  6 
+    1 28059   3 107    3800000.          0.033100 4.3000-3                                       S.A.Kuvin+           (22)14787  6 
+    1 28059   3 107    4400000.          0.033700 5.3000-3                                       S.A.Kuvin+           (22)14787  6 
+    1 28059   3 107    5000000.          0.047100 6.0000-3                                       S.A.Kuvin+           (22)14787  6 
+    1 28059   3 107    5600000.          0.051600 7.7000-3                                       S.A.Kuvin+           (22)14787  6 
+    1 28059   3 107    6200000.          0.047900 7.9000-3                                       S.A.Kuvin+           (22)14787  6 
+    1 28059   3 107    7000000.          0.055800 9.2000-3                                       S.A.Kuvin+           (22)14787  6 
+    1 28059   3 107    8000000.          0.055900 0.010000                                       S.A.Kuvin+           (22)14787  6 
+    1 28059   3 107    9000000.          0.063600 0.011300                                       S.A.Kuvin+           (22)14787  6 
+    1 28059   3 107    1.0000+7          0.060600 0.017100                                       S.A.Kuvin+           (22)14787  6 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      11220
+#AUTHOR1    J.R.Beyster+
+#YEAR       1956
+#INSTITUTE  (1USALAS)
+#TITLE      Interaction of 1.0-, 1.77-, 2.5-, 3.25-, and 7.0-Mev
+#+          Neutrons with Nuclei
+#AUTHOR(S)  J.R.Beyster, M.Walt, E.W.Salmi
+#REF-CODE   (J,PR,104,1319,1956)
+#REFERENCE  Phys.Rev. 104 (1956) 1319 (doi:10.1103/PhysRev.104.1319)
+#DATASETS   0
+#
+#DATASET    11220005 
+#DATE       20140131
+#REACTION   6-C-0(N,EL)6-C-0,,DA
+#PROJ       1
+#TARG       6000
+#MF         4
+#MT         2
+#PRODUCT    6-C-0
+#C4BEGIN    [    1  6000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   4   2  C 7000000. 400000.0 0.136000 0.017000 0.971000                              J.R.Beyster+         (56)11220  5 
+    1  6000   4   2  C 7000000. 400000.0 0.104000 8.0000-3 0.837000                              J.R.Beyster+         (56)11220  5 
+    1  6000   4   2  C 7000000. 400000.0 0.091000 8.0000-3 0.831000                              J.R.Beyster+         (56)11220  5 
+    1  6000   4   2  C 7000000. 400000.0 0.069000 4.0000-3 0.655000                              J.R.Beyster+         (56)11220  5 
+    1  6000   4   2  C 7000000. 400000.0 0.051000 5.0000-3 0.431000                              J.R.Beyster+         (56)11220  5 
+    1  6000   4   2  C 7000000. 400000.0 0.043000 4.0000-3-0.085000                              J.R.Beyster+         (56)11220  5 
+    1  6000   4   2  C 7000000. 400000.0 0.033000 4.0000-3-0.555000                              J.R.Beyster+         (56)11220  5 
+    1  6000   4   2  C 7000000. 400000.0 0.016000 6.0000-3-0.880000                              J.R.Beyster+         (56)11220  5 
+#/DATA      8
+#/DATASET

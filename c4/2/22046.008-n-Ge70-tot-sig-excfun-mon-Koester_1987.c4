@@ -1,0 +1,27 @@
+#ENTRY      22046
+#AUTHOR1    L.Koester+
+#YEAR       1987
+#INSTITUTE  (2GERMUN)
+#TITLE      Neutron interactions with germanium isotopes and
+#+          amorphous and crystalline GeO2
+#AUTHOR(S)  L.Koester, K.Knopf, W.Waschkowski
+#REF-CODE   (J,ZP/A,327,129,1987)
+#REFERENCE  Z.Phys.A 327 (1987) 129 (doi:10.1007/BF01292400)
+#DATASETS   0
+#
+#DATASET    22046008 
+#DATE       20181001
+#REACTION   32-GE-70(N,TOT),,SIG
+#PROJ       1
+#TARG       32070
+#MF         3
+#MT         1
+#C4BEGIN    [    1 32070   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32070   3   1    5.7000-4          25.10000 0.500000                                       L.Koester+           (87)22046  8 
+    1 32070   3   1    1.260000          14.20000 0.300000                                       L.Koester+           (87)22046  8 
+    1 32070   3   1    5.190000          14.10000 0.400000                                       L.Koester+           (87)22046  8 
+#/DATA      3
+#/DATASET

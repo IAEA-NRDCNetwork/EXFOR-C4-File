@@ -1,0 +1,30 @@
+#ENTRY      22993
+#AUTHOR1    G.Kessedjian+
+#YEAR       2012
+#INSTITUTE  (2FR BOR)
+#TITLE      243Am neutron-induced fission cross section in the
+#+          fast neutron energy range
+#AUTHOR(S)  G.Kessedjian, G.Barreau, M.Aiche, B.Jurado, A.Bidaud, S.Czajkowski, 
+#+          D.Dassie, B.Haas, L.Mathieu, L.Tassan-Got, J.N.Wilson, F.-J.Hambsch, 
+#+          S.Oberstedt, I.AlMahamid, J.Floyd, W.Lukens, D.Shuh
+#REF-CODE   (J,PR/C,85,044613,2012)
+#REFERENCE  Phys.Rev.C 85 (2012) 044613 (doi:10.1103/PhysRevC.85.044613)
+#DATASETS   0
+#
+#DATASET    22993004 
+#DATE       20120810
+#REACTION   95-AM-243(N,F),,SIG
+#PROJ       1
+#TARG       95243
+#MF         3
+#MT         18
+#C4BEGIN    [    1 95243   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95243   3  18    5120000. 70000.00 1.500000 0.043500                                       G.Kessedjian+        (12)22993  4 
+    1 95243   3  18    5720000. 60000.00 1.550000 0.044950                                       G.Kessedjian+        (12)22993  4 
+    1 95243   3  18    6820000. 50000.00 2.190000 0.081030                                       G.Kessedjian+        (12)22993  4 
+    1 95243   3  18    7350000. 40000.00 2.290000 0.066410                                       G.Kessedjian+        (12)22993  4 
+#/DATA      4
+#/DATASET

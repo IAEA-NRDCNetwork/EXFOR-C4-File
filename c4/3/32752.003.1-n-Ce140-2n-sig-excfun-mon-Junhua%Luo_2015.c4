@@ -1,0 +1,27 @@
+#ENTRY      32752
+#AUTHOR1    Junhua Luo+
+#YEAR       2015
+#INSTITUTE  (3CPRHXU)
+#TITLE      Neutron-induced activation cross-sections on natural
+#+          cerium up to 20 MeV
+#AUTHOR(S)  Junhua Luo, Li An, Li Jiang
+#REF-CODE   (J,JRN,305,691,2015)
+#REFERENCE  J.Rad.Nucl.Chem. 305 (2015) 691 (doi:10.1007/s10967-015-4049-x)
+#DATASETS   0
+#
+#DATASET    327520031
+#DATE       20171009
+#REACTION   58-CE-140(N,2N)58-CE-139-M,,SIG
+#PROJ       1
+#TARG       58140
+#MF         3
+#MT         16
+#PRODUCT    58-CE-139-M
+#C4BEGIN    [    1 58140   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 58140   3  16M   1.3500+7 200000.0 0.794000 0.044000                                       Junhua Luo+          (15)32752  31
+    1 58140   3  16M   1.4800+7 200000.0 1.080000 0.070000                                       Junhua Luo+          (15)32752  31
+#/DATA      2
+#/DATASET

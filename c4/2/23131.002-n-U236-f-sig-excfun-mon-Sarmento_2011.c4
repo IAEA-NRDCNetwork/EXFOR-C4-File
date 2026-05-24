@@ -1,0 +1,118 @@
+#ENTRY      23131
+#AUTHOR1    R.Sarmento+
+#YEAR       2011
+#INSTITUTE  (2PRTLFE)
+#TITLE      Measurement of the 236U(n,f) cross-section from
+#+          170 meV to 2 MeV at CERN n-TOF facility.
+#AUTHOR(S)  R.Sarmento, M.Calviani, J.Praena, N.Colonna, F.Belloni, 
+#+          I.F.Goncalves, P.Vaz, G.Aerts, H.Alvarez, F.Alvarez-Velarde, 
+#+          S.Andriamonje, J.Andrzejewski, P.Assimakopoulos, L.Audouin, 
+#+          M.Barbagallo, G.Badurek, P.Baumann, F.Becvar, E.Berthoumieux, 
+#+          F.Calvino, D.Cano-Ott, R.Capote, C.Carrapico, A.Carrillo de Albornoz, 
+#+          P.Cennini, V.Chepel, E.Chiaveri, G.Cortes, A.Couture, J.Cox, 
+#+          M.Dahlfors, S.David, M.Diakaki, I.Dillmann, R.Dolfini, C.Domingo-Pardo, 
+#+          W.Dridi, I.Duran, C.Eleftheriadis, L.Ferrant, A.Ferrari, 
+#+          R.Ferreira-Marques, H.Frais-Koelbl, K.Fuji, W.Furman, E.Gonzalez-Romero, 
+#+          A.Goverdovski, F.Gramegna, E.Griesmayer, C.Guerrero, F.Gunsing, 
+#+          B.Haas, R.Haight, M.Heil, A.Herrera-Martinez, M.Igashira, 
+#+          S.Isaev, E.Jericha, F.Kaeppeler, Y.Kadi, D.Karadimos, D.Karamanis, 
+#+          M.Kerveno, V.Ketlerov, P.Koehler, V.Konovalov, E.Kossionides, 
+#+          M.Krticka, C.Lampoudis, C.Lederer, H.Leeb, A.Lindote, I.Lopes, 
+#+          M.Lozano, S.Lukic, J.Marganiec, L.Marques, S.Marrone, T.Martinez, 
+#+          C.Massimi, P.Mastinu, E.Mendoza, A.Mengoni, P.M.Milazzo, 
+#+          C.Moreau, M.Mosconi, F.Neves, H.Oberhummer, S.O'Brien, M.Oshima, 
+#+          J.Pancin, C.Papachristodoulou, C.Papadopoulos, C.Paradela, 
+#+          N.Patronis, A.Pavlik, P.Pavlopoulos, L.Perrot, M.T.Pigni, 
+#+          R.Plag, A.Plompen, A.Plukis, A.Poch, C.Pretel, J.Quesada, 
+#+          T.Rauscher, R.Reifarth, M.Rosetti, C.Rubbia, G.Rudolf, P.Rullhusen, 
+#+          J.Salgado, L.Sarchiapone, I.Savvidis, C.Stephan, G.Tagliente, 
+#+          J.L.Tain, D.Tarrio, L.Tassan-Got, L.Tavora, R.Terlizzi, 
+#+          G.Vannini, A.Ventura, D.Villamarin, M.C.Vicente, V.Vlachoudis, 
+#+          R.Vlastou, F.Voss, S.Walter, H.Wendler, M.Wiescher, K.Wisshak
+#REF-CODE   (J,PR/C,84,044618,2011)
+#REFERENCE  Phys.Rev.C 84 (2011) 044618 (doi:10.1103/PhysRevC.84.044618)
+#DATASETS   0
+#
+#DATASET    23131002 
+#DATE       20160124
+#REACTION   92-U-236(N,F),,SIG,,AV
+#PROJ       1
+#TARG       92236
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92236   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92236   3  18 A  11294.65 1294.650 1.0400-3 1.4560-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  14219.10 1629.800 1.6300-3 2.0864-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  17900.75 2051.850 1.1900-3 1.6541-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  22535.75 2583.150 1.3400-3 1.7956-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  28370.85 3251.950 1.4300-3 1.8447-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  35716.75 4093.950 9.3400-4 1.3917-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  44964.70 5154.000 1.0800-3 1.6632-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  56607.20 6488.500 5.4500-4 8.8290-5                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  71264.25 8168.550 7.0300-4 1.0334-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  89716.40 10283.60 1.1400-3 1.4136-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  112946.5 12946.50 7.7700-4 1.1577-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  142191.0 16298.00 8.5800-4 1.1068-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  179007.5 20518.50 1.3400-3 1.4472-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  225357.5 25831.50 1.1500-3 1.1845-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  283708.5 32519.50 1.9300-3 1.5054-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  357167.5 40939.50 1.7000-3 1.2750-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  449647.0 51540.00 2.5200-3 1.6128-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  566072.0 64885.00 3.8700-3 1.7028-4                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  638305.5 7348.500 0.018600 1.1532-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  653173.5 7519.500 0.017000 1.1220-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  668388.0 7695.000 0.020800 1.2064-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  683957.0 7874.000 0.023900 1.2667-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  699888.5 8057.500 0.029300 1.4064-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  716191.0 8245.000 0.058100 2.0335-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  732873.0 8437.000 0.062500 2.1250-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  749944.0 8634.000 0.071400 2.2848-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  767412.5 8834.500 0.087300 2.4444-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  785287.5 9040.500 0.103000 2.6780-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  803579.0 9251.000 0.093300 2.5191-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  822297.0 9467.000 0.125000 3.0000-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  841451.0 9687.000 0.143000 3.4320-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  861051.0 9913.000 0.155000 3.4100-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  881107.5 10143.50 0.156000 3.4320-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  901631.0 10380.00 0.208000 3.9520-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  922632.5 10621.50 0.272000 4.3520-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  944123.5 10869.50 0.319000 4.7850-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  966115.0 11122.00 0.390000 5.4600-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  988618.5 11381.50 0.378000 5.2920-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1011645. 11645.00 0.401000 6.0150-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1035210. 11920.00 0.407000 6.1050-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1059325. 12195.00 0.409000 5.7260-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1084000. 12480.00 0.394000 5.5160-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1109250. 12770.00 0.439000 5.2680-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1135085. 13065.00 0.482000 5.7840-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1161525. 13375.00 0.518000 5.6980-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1188580. 13680.00 0.553000 6.0830-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1216265. 14005.00 0.567000 5.6700-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1244600. 14330.00 0.605000 6.0500-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1273590. 14660.00 0.597000 5.9700-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1303255. 15005.00 0.658000 5.9220-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1333610. 15350.00 0.728000 6.5520-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1364670. 15710.00 0.661000 5.9490-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1396460. 16080.00 0.696000 6.2640-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1428990. 16450.00 0.700000 6.3000-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1462275. 16835.00 0.747000 5.9760-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1496335. 17225.00 0.741000 5.9280-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1531190. 17630.00 0.678000 5.4240-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1566855. 18035.00 0.728000 5.8240-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1603350. 18460.00 0.690000 5.5200-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1640700. 18890.00 0.709000 5.6720-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1678915. 19325.00 0.770000 6.1600-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1718020. 19780.00 0.763000 6.1040-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1758040. 20240.00 0.796000 6.3680-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1798990. 20710.00 0.788000 6.3040-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1840895. 21195.00 0.765000 6.1200-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1883775. 21685.00 0.802000 5.6140-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1927650. 22190.00 0.825000 6.6000-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  1972550. 22710.00 0.779000 6.2320-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  2018500. 23240.00 0.767000 6.1360-3                                       R.Sarmento+          (11)23131  2 
+    1 92236   3  18 A  2065520. 23780.00 0.835000 6.6800-3                                       R.Sarmento+          (11)23131  2 
+#/DATA      70
+#/DATASET

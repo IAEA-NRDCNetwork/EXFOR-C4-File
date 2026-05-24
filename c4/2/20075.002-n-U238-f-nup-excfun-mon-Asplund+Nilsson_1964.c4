@@ -1,0 +1,32 @@
+#ENTRY      20075
+#AUTHOR1    I.Asplund-Nilsson+
+#YEAR       1964
+#INSTITUTE  (2SWDFOA)
+#TITLE      Nu-bar of U-238 from 1.5 to 15 MeV
+#AUTHOR(S)  I.Asplund-Nilsson, H.Conde, N.Starfelt
+#REF-CODE   (J,NSE,20,527,1964)
+#REFERENCE  Nucl.Sci.Eng. 20 (1964) 527 (doi:10.13182/NSE64-A20996)
+#DATASETS   0
+#
+#DATASET    20075002 
+#DATE       20190925
+#REACTION   92-U-238(N,F),PR,NU
+#PROJ       1
+#TARG       92238
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92238   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   1 456    1490000. 10000.00 2.520000 0.056000                                       I.Asplund-Nilsson+   (64)20075  2 
+    1 92238   1 456    2400000. 10000.00 2.671000 0.051000                                       I.Asplund-Nilsson+   (64)20075  2 
+    1 92238   1 456    3500000. 20000.00 2.864000 0.049000                                       I.Asplund-Nilsson+   (64)20075  2 
+    1 92238   1 456    4880000. 50000.00 3.068000 0.049000                                       I.Asplund-Nilsson+   (64)20075  2 
+    1 92238   1 456    5630000. 150000.0 3.159000 0.059000                                       I.Asplund-Nilsson+   (64)20075  2 
+    1 92238   1 456    6320000. 60000.00 3.269000 0.059000                                       I.Asplund-Nilsson+   (64)20075  2 
+    1 92238   1 456    6830000. 60000.00 3.379000 0.054000                                       I.Asplund-Nilsson+   (64)20075  2 
+    1 92238   1 456    7450000. 50000.00 3.518000 0.053000                                       I.Asplund-Nilsson+   (64)20075  2 
+    1 92238   1 456    1.4800+7 200000.0 4.563000 0.067000                                       I.Asplund-Nilsson+   (64)20075  2 
+#/DATA      9
+#/DATASET

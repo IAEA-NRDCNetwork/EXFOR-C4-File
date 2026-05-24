@@ -1,0 +1,35 @@
+#ENTRY      32606
+#AUTHOR1    Bao Zongyu+
+#YEAR       1975
+#INSTITUTE  (3CPRAEP)
+#TITLE      The variation of average prompt neutron number
+#+          for U-238 fission in the fast neutron energy region
+#+          with incident neutron energy
+#AUTHOR(S)  Bao Zongyu
+#REF-CODE   (J,CST,9,(4),362,197511)
+#REFERENCE  At.En.Sci.Technol. 9 No.4 (1975) 362
+#DATASETS   0
+#
+#DATASET    32606002 
+#DATE       20100907
+#REACTION   92-U-238(N,F),PR,NU
+#PROJ       1
+#TARG       92238
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92238   1 456  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   1 456    1220000.          2.421000 0.099000                                       Bao Zongyu           (75)32606  2 
+    1 92238   1 456    1410000.          2.444000 0.042000                                       Bao Zongyu           (75)32606  2 
+    1 92238   1 456    1620000.          2.488000 0.081000                                       Bao Zongyu           (75)32606  2 
+    1 92238   1 456    4000000.          2.846000 0.062000                                       Bao Zongyu           (75)32606  2 
+    1 92238   1 456    4140000.          2.905000 0.043000                                       Bao Zongyu           (75)32606  2 
+    1 92238   1 456    4480000.          2.946000 0.060000                                       Bao Zongyu           (75)32606  2 
+    1 92238   1 456    4660000.          2.940000 0.048000                                       Bao Zongyu           (75)32606  2 
+    1 92238   1 456    4940000.          3.017000 0.072000                                       Bao Zongyu           (75)32606  2 
+    1 92238   1 456    5080000.          3.024000 0.043000                                       Bao Zongyu           (75)32606  2 
+    1 92238   1 456    5500000.          3.055000 0.047000                                       Bao Zongyu           (75)32606  2 
+#/DATA      10
+#/DATASET

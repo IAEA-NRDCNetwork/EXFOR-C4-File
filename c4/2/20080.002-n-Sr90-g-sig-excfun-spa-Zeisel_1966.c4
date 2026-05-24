@@ -1,0 +1,25 @@
+#ENTRY      20080
+#AUTHOR1    G.Zeisel+
+#YEAR       1966
+#INSTITUTE  (2AUSIRK)
+#TITLE      Reaction cross-section of Sr-90 with reactor neutrons
+#AUTHOR(S)  G.Zeisel
+#REF-CODE   (J,OAW,174,575,1966)
+#REFERENCE  Oest.Ak.Wiss.Nat. 174 (1966) 575
+#DATASETS   0
+#
+#DATASET    20080002 
+#DATE       20230319
+#REACTION   38-SR-90(N,G)38-SR-91,,SIG,,SPA
+#PROJ       1
+#TARG       38090
+#MF         3
+#MT         102
+#PRODUCT    38-SR-91
+#C4BEGIN    [    1 38090   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 38090   3 102    0.025300          0.800000 0.500000                                       G.Zeisel             (66)20080  2 
+#/DATA      1
+#/DATASET

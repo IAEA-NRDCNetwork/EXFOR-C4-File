@@ -1,0 +1,27 @@
+#ENTRY      C1727
+#AUTHOR1    A.Gade+
+#YEAR       2009
+#INSTITUTE  (1USAMSU)
+#TITLE      In-beam gamma-ray spectroscopy of very neutron-rich
+#+          nuclei: Excited states in 46S and 48Ar
+#AUTHOR(S)  A.Gade, P.Adrich, D.Bazin, B.A.Brown, J.M.Cook, C.Aa.Diget, 
+#+          T.Glasmacher, S.McDaniel, A.Ratkiewicz, K.Siwek, D.Weisshaar
+#REF-CODE   (J,PRL,102,182502,2009)
+#REFERENCE  Phys.Rev.Lett. 102 (2009) 182502 (doi:10.1103/PhysRevLett.102.182502)
+#DATASETS   0
+#
+#DATASET    C1727003 
+#DATE       20090813
+#REACTION   4-BE-9(17-CL-46,X)16-S-46,,SIG
+#PROJ       17046
+#TARG       4009
+#MF         3
+#MT         454
+#PRODUCT    16-S-46
+#C4BEGIN    [17046  4009   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+17046  4009   3 454    4.0020+9          5.7000-5 6.0000-6           16046.9                     A.Gade+              (09)C1727  3 
+#/DATA      1
+#/DATASET

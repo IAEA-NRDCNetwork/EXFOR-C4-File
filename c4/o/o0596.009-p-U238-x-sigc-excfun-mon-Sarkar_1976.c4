@@ -1,0 +1,31 @@
+#ENTRY      O0596
+#AUTHOR1    S.Sarkar+
+#YEAR       1976
+#INSTITUTE  (1CANMCG)
+#TITLE      Nuclear charge distribution in the region of symmetric
+#+          fission of U-238 by protons of energy 20-85 MeV.
+#AUTHOR(S)  S.Sarkar, L.Yaffe
+#REF-CODE   (J,CJC,54,2349,1976)
+#REFERENCE  Can.J.Chem. 54 (1976) 2349 (doi:10.1139/v76-335)
+#DATASETS   0
+#
+#DATASET    O0596009 
+#DATE       20060209
+#REACTION   92-U-238(P,F)46-PD-112,CUM,SIG
+#PROJ       1001
+#TARG       92238
+#MF         3
+#MT         459
+#PRODUCT    46-PD-112
+#C4BEGIN    [ 1001 92238   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92238   3 459    2.0000+7          0.011000 2.0000-3           46112.9                     S.Sarkar+            (76)O0596  9 
+ 1001 92238   3 459    3.0000+7          0.014000 2.0000-3           46112.9                     S.Sarkar+            (76)O0596  9 
+ 1001 92238   3 459    4.0000+7          0.023000 3.0000-3           46112.9                     S.Sarkar+            (76)O0596  9 
+ 1001 92238   3 459    5.5000+7          0.030000 4.0000-3           46112.9                     S.Sarkar+            (76)O0596  9 
+ 1001 92238   3 459    7.0000+7          0.036000 5.0000-3           46112.9                     S.Sarkar+            (76)O0596  9 
+ 1001 92238   3 459    8.5000+7          0.044000 7.0000-3           46112.9                     S.Sarkar+            (76)O0596  9 
+#/DATA      6
+#/DATASET

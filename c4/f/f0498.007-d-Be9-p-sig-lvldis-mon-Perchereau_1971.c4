@@ -1,0 +1,29 @@
+#ENTRY      F0498
+#AUTHOR1    J.Perchereau+
+#YEAR       1971
+#INSTITUTE  (2FR BRC)
+#TITLE      Study of the mechanism of the reactions (d,p) and (d,t)
+#+          induced by low energy (120-200keV) deuterons on 9Be.
+#+          determination of the characteristics of the excited
+#+          levels of 11B obtained by the reactions 9Be + d
+#AUTHOR(S)  J.Perchereau
+#REF-CODE   (R,CEA-R-4070,1971)
+#REFERENCE  Report CEA-R-4070, 1971
+#DATASETS   0
+#
+#DATASET    F0498007 
+#DATE       20190731
+#REACTION   4-BE-9(D,P)4-BE-10,PAR,SIG
+#PROJ       1002
+#TARG       4009
+#MF         3
+#MT         600
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1002  4009   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   3 600    200000.0          2.2000-4                            0.000000         LVLJ.Perchereau         (71)F0498  7 
+ 1002  4009   3 600    200000.0          2.7500-4                            3368000.         LVLJ.Perchereau         (71)F0498  7 
+#/DATA      2
+#/DATASET

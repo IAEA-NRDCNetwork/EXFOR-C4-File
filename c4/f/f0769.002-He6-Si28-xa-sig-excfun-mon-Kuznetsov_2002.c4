@@ -1,0 +1,34 @@
+#ENTRY      F0769
+#AUTHOR1    I.V.Kuznetsov+
+#YEAR       2002
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Total cross sections for the 4,6He + 28Si reactions
+#+          measured at 10 - 28 MeV/A
+#AUTHOR(S)  I.V.Kuznetsov, E.Byalkowski, M.P.Ivanov, R.Kalpakchieva, 
+#+          A.Kugler, I.N.Kukhtina, V.F.Kushniruk, V.A.Maslov, L.Mikhailov, 
+#+          F.Negoita, Yu.E.Penionzhkevich, N.O.Poroshin, N.K.Skobelev, 
+#+          V.I.Smirnov, Yu.G.Sobolev, V.Yu.Ugryumov
+#REF-CODE   (J,YF,65,1609,2002)
+#REFERENCE  Yad.Fiz. 65 (2002) 1609
+#DATASETS   0
+#
+#DATASET    F0769002 
+#DATE       20060614
+#REACTION   14-SI-28(2-HE-6,X)2-HE-4,,SIG
+#PROJ       2006
+#TARG       14028
+#MF         3
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 2006 14028   3 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 14028   3 207    5.1352+7 9918000. 0.198650 0.011919                                       I.V.Kuznetsov+       (02)F0769  2 
+ 2006 14028   3 207    7.9554+7 1.0787+7 0.298970 0.017938                                       I.V.Kuznetsov+       (02)F0769  2 
+ 2006 14028   3 207    8.9886+7 1.0794+7 0.529630 0.031778                                       I.V.Kuznetsov+       (02)F0769  2 
+ 2006 14028   3 207    1.1069+8 9487200. 0.356290 0.021377                                       I.V.Kuznetsov+       (02)F0769  2 
+ 2006 14028   3 207    1.2859+8 1.0349+7 0.477480 0.028649                                       I.V.Kuznetsov+       (02)F0769  2 
+ 2006 14028   3 207    1.4946+8 1.2496+7 0.342830 0.020570                                       I.V.Kuznetsov+       (02)F0769  2 
+#/DATA      6
+#/DATASET

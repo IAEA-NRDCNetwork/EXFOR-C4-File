@@ -1,0 +1,31 @@
+#ENTRY      13291
+#AUTHOR1    D.L.Swindle+
+#YEAR       1971
+#INSTITUTE  (1USAARK)
+#TITLE      Distribution of low-mass fission yields in the 14.8
+#+          MeV neutron induced fission of 238U and 232Th
+#AUTHOR(S)  D.L.Swindle, R.J.Wright, T.E.Ward, P.K.Kuroda
+#REF-CODE   (J,JIN,33,651,1971)
+#REFERENCE  J.Inorg.Nucl.Chem. 33 (1971) 651 (doi:10.1016/0022-1902(71)80461-X)
+#DATASETS   0
+#
+#DATASET    13291002 
+#DATE       20190418
+#REACTION   90-TH-232(N,F)ELEM/MASS,CUM,FY
+#PROJ       1
+#TARG       90232
+#MF         8
+#MT         459
+#C4BEGIN    [    1 90232   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   8 459    1.4800+7 200000.0 8.0000-5 2.0000-5 31.00000 73.00000 9.000000            D.L.Swindle+         (71)13291  2 
+    1 90232   8 459    1.4800+7 200000.0 7.0000-4 2.0000-4 32.00000 77.00000 9.000000            D.L.Swindle+         (71)13291  2 
+    1 90232   8 459    1.4800+7 200000.0 1.1000-3 3.0000-4 32.00000 78.00000 9.000000            D.L.Swindle+         (71)13291  2 
+    1 90232   8 459    1.4800+7 200000.0 1.3000-3 2.0000-4 33.00000 77.00000 9.000000            D.L.Swindle+         (71)13291  2 
+    1 90232   8 459    1.4800+7 200000.0 3.1000-3 5.0000-4 33.00000 78.00000 9.000000            D.L.Swindle+         (71)13291  2 
+    1 90232   8 459    1.4800+7 200000.0 9.5000-3 1.5000-3 33.00000 79.00000 9.000000            D.L.Swindle+         (71)13291  2 
+    1 90232   8 459    1.4800+7 200000.0 0.012100 2.0000-3 34.00000 81.00000 0.000000            D.L.Swindle+         (71)13291  2 
+#/DATA      7
+#/DATASET

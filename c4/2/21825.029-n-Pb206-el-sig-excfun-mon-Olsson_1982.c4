@@ -1,0 +1,37 @@
+#ENTRY      21825
+#AUTHOR1    N.Olsson+
+#YEAR       1982
+#INSTITUTE  (2SWDSWR)
+#TITLE      Neutron elastic scattering in the energy region
+#+          1.5 to 4.0 MeV for radiogenic lead and bismuth
+#AUTHOR(S)  N.Olsson, B.Holmqvist, E.Ramstroem
+#REF-CODE   (R,NFL-34,1982)
+#REFERENCE  Report NFL-34, 1982
+#DATASETS   0
+#
+#DATASET    21825029 
+#DATE       20181001
+#REACTION   82-PB-206(N,EL)82-PB-206,,SIG
+#PROJ       1
+#TARG       82206
+#MF         3
+#MT         2
+#PRODUCT    82-PB-206
+#C4BEGIN    [    1 82206   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82206   3   2 D  1482000. 10000.00 4.580000                                                N.Olsson+            (82)21825 29 
+    1 82206   3   2 D  1728000. 10000.00 4.620000                                                N.Olsson+            (82)21825 29 
+    1 82206   3   2 D  1971000. 10000.00 4.820000                                                N.Olsson+            (82)21825 29 
+    1 82206   3   2 D  2234000. 10000.00 5.000000                                                N.Olsson+            (82)21825 29 
+    1 82206   3   2 D  2463000. 10000.00 5.060000                                                N.Olsson+            (82)21825 29 
+    1 82206   3   2 D  2905000. 10000.00 4.960000                                                N.Olsson+            (82)21825 29 
+    1 82206   3   2 D  2975000. 10000.00 5.100000                                                N.Olsson+            (82)21825 29 
+    1 82206   3   2 D  3045000. 10000.00 5.070000                                                N.Olsson+            (82)21825 29 
+    1 82206   3   2 D  3115000. 10000.00 5.060000                                                N.Olsson+            (82)21825 29 
+    1 82206   3   2 D  3185000. 10000.00 5.120000                                                N.Olsson+            (82)21825 29 
+    1 82206   3   2 D  3475000. 10000.00 4.930000                                                N.Olsson+            (82)21825 29 
+    1 82206   3   2 D  3975000. 10000.00 4.720000                                                N.Olsson+            (82)21825 29 
+#/DATA      12
+#/DATASET

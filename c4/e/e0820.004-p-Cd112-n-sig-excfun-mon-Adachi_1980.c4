@@ -1,0 +1,28 @@
+#ENTRY      E0820
+#AUTHOR1    M.Adachi+
+#YEAR       1980
+#INSTITUTE  (2JPNTIT)
+#TITLE      Low-lying states in 112In
+#AUTHOR(S)  M.Adachi, A.Muroi, T.Matsuzaki, H.Taketani
+#REF-CODE   (J,ZP/A,295,(3),251,198009)
+#REFERENCE  Z.Phys.A 295 No.3 (1980) 251 (doi:10.1007/BF01412205)
+#DATASETS   0
+#
+#DATASET    E0820004 
+#DATE       20080612
+#REACTION   48-CD-112(P,N)49-IN-112,PAR,SIG
+#PROJ       1001
+#TARG       48112
+#MF         3
+#MT         50
+#PRODUCT    49-IN-112
+#C4BEGIN    [ 1001 48112   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 48112   3  50    3901000.          1.4860-5 2.5830-6                   456100.0         LVLM.Adachi+            (80)E0820  4 
+ 1001 48112   3  50    3949000.          4.6930-5 3.6760-6                   456100.0         LVLM.Adachi+            (80)E0820  4 
+ 1001 48112   3  50    4000000.          1.2750-4 5.8690-6                   456100.0         LVLM.Adachi+            (80)E0820  4 
+ 1001 48112   3  50    4052000.          2.0420-4 9.4020-6                   456100.0         LVLM.Adachi+            (80)E0820  4 
+#/DATA      4
+#/DATASET

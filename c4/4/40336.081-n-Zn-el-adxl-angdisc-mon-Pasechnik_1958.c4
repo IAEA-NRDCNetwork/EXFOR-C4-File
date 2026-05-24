@@ -1,0 +1,33 @@
+#ENTRY      40336
+#AUTHOR1    M.V.Pasechnik+
+#YEAR       1958
+#INSTITUTE  (4UKRIFU)
+#TITLE      Scattering and capture of fast neutrons by the nuclei
+#AUTHOR(S)  M.V.Pasechnik, I.F.Barchuk, I.A.Totskiy, V.I.Strizhak, A.M.Korolev, 
+#+          Yu.V.Gofman, G.N.Lovchikova, E.A.Koltypin, G.B.Yan'kov
+#REF-CODE   (C,58GENEVA,15,18,1958)
+#REFERENCE  Proceedings of Second Internat. At.En. Conf., Geneva 1958 15 page 18
+#DATASETS   0
+#
+#DATASET    40336081 
+#DATE       20100322
+#REACTION   30-ZN-0(N,EL)30-ZN-0,,DA
+#PROJ       1
+#TARG       30000
+#MF         4
+#MT         2
+#PRODUCT    30-ZN-0
+#C4BEGIN    [    1 30000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 30000   4   2  C 2800000.          0.778300 0.058300 0.903600                              M.V.Pasechnik+       (58)40336 81 
+    1 30000   4   2  C 2800000.          0.274100 0.019600 0.699400                              M.V.Pasechnik+       (58)40336 81 
+    1 30000   4   2  C 2800000.          0.088600 0.015800 0.488500                              M.V.Pasechnik+       (58)40336 81 
+    1 30000   4   2  C 2800000.          0.056500 4.0000-3 0.261500                              M.V.Pasechnik+       (58)40336 81 
+    1 30000   4   2  C 2800000.          0.090000 6.0000-3 2.2000-3                              M.V.Pasechnik+       (58)40336 81 
+    1 30000   4   2  C 2800000.          0.097000 0.011100-0.339200                              M.V.Pasechnik+       (58)40336 81 
+    1 30000   4   2  C 2800000.          0.071200 6.1000-3-0.555300                              M.V.Pasechnik+       (58)40336 81 
+    1 30000   4   2  C 2800000.          0.090100 7.2000-3-0.772300                              M.V.Pasechnik+       (58)40336 81 
+#/DATA      8
+#/DATASET

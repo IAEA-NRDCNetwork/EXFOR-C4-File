@@ -1,0 +1,35 @@
+#ENTRY      23765
+#AUTHOR1    M.Diakaki+
+#YEAR       2020
+#INSTITUTE  (2FR CAD)
+#TITLE      Measurement of the 236U(n,f) cross section at fast
+#+          neutron energies with Micromegas Detectors
+#AUTHOR(S)  M.Diakaki, V.Michalopoulou, A.Tsinganis, A.Axiotis, A.Kalamara, 
+#+          M.Kokkoris, A.Lagoyiannis, N.Patronis, A.Stamatopoulos, 
+#+          R.Vlastou
+#REF-CODE   (J,EPJ/CS,239,05001,2020)
+#REFERENCE  EPJ Web Conf. 239 (2020) 05001 (doi:10.1051/epjconf/202023905001)
+#DATASETS   0
+#
+#DATASET    23765002 
+#DATE       20210302
+#REACTION   92-U-236(N,F),,SIG
+#PROJ       1
+#TARG       92236
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92236   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92236   3  18 A  4500000. 200000.0 0.811000 0.022000                                       M.Diakaki+           (20)23765  2 
+    1 92236   3  18 A  5000000. 100000.0 0.787000 0.031000                                       M.Diakaki+           (20)23765  2 
+    1 92236   3  18 A  5500000. 100000.0 0.783000 0.020000                                       M.Diakaki+           (20)23765  2 
+    1 92236   3  18 A  6000000. 100000.0 0.887000 0.012000                                       M.Diakaki+           (20)23765  2 
+    1 92236   3  18 A  7000000. 100000.0 1.423000 0.021000                                       M.Diakaki+           (20)23765  2 
+    1 92236   3  18 A  7500000. 100000.0 1.511000 0.022000                                       M.Diakaki+           (20)23765  2 
+    1 92236   3  18 A  8500000. 100000.0 1.638000 0.033000                                       M.Diakaki+           (20)23765  2 
+    1 92236   3  18 A  9500000. 100000.0 1.558000 0.020000                                       M.Diakaki+           (20)23765  2 
+    1 92236   3  18 A  1.0000+7 100000.0 1.458000 0.017000                                       M.Diakaki+           (20)23765  2 
+#/DATA      9
+#/DATASET

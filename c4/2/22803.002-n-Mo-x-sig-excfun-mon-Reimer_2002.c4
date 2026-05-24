@@ -1,0 +1,30 @@
+#ENTRY      22803
+#AUTHOR1    P.Reimer+
+#YEAR       2002
+#INSTITUTE  (2ZZZGEL)
+#TITLE      Measurement of the Mo-nat(n,x)Nb-94 reaction cross
+#+          sections using ultra low-level gamma-ray spectrometry
+#+          at HADES
+#AUTHOR(S)  P.Reimer, M.Hult, A.J.M.Plompen, P.N.Johnston, V.Avrigeanu, 
+#+          S.M.Qaim
+#REF-CODE   (J,NP/A,705,(3-4),265,2002)
+#REFERENCE  Nucl.Phys.A 705 No.3-4 (2002) 265 (doi:10.1016/S0375-9474(02)00653-X)
+#DATASETS   0
+#
+#DATASET    22803002 
+#DATE       20090814
+#REACTION   42-MO-0(N,X)41-NB-94,,SIG
+#PROJ       1
+#TARG       42000
+#MF         3
+#MT         454
+#PRODUCT    41-NB-94
+#C4BEGIN    [    1 42000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42000   3 454    1.4500+7 700000.0 9.9000-3 1.6000-3           41094.9                     P.Reimer+            (02)22803  2 
+    1 42000   3 454    1.8000+7 700000.0 0.017600 1.4000-3           41094.9                     P.Reimer+            (02)22803  2 
+    1 42000   3 454    2.0300+7 300000.0 0.028300 7.3000-3           41094.9                     P.Reimer+            (02)22803  2 
+#/DATA      3
+#/DATASET

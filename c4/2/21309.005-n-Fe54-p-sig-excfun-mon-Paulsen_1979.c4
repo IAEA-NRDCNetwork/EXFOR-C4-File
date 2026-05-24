@@ -1,0 +1,33 @@
+#ENTRY      21309
+#AUTHOR1    A.Paulsen+
+#YEAR       1979
+#INSTITUTE  (2ZZZGEL)
+#TITLE      -CROSS SECTION FOR THE REACTIONS FE-54(N,A)CR-51,
+#+          FE-54(N,P)MN-54 AND FE-56(N,P)MN-56.-
+#AUTHOR(S)  A.Paulsen, R.Widera, F.Arnotte, H.Liskien
+#REF-CODE   (J,NSE,72,(1),113,7910)
+#REFERENCE  Nucl.Sci.Eng. 72 No.1 (1979) 113 (doi:10.13182/NSE79-A19315)
+#DATASETS   0
+#
+#DATASET    21309005 
+#DATE       19801103
+#REACTION   26-FE-54(N,P)25-MN-54,,SIG
+#PROJ       1
+#TARG       26054
+#MF         3
+#MT         103
+#PRODUCT    25-MN-54
+#C4BEGIN    [    1 26054   3 103 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26054   3 103 D  6410000.          0.479000 0.025000                                       A.Paulsen+           (79)21309  5 
+    1 26054   3 103 D  6900000.          0.480000 0.025000                                       A.Paulsen+           (79)21309  5 
+    1 26054   3 103 D  7410000.          0.493000 0.026000                                       A.Paulsen+           (79)21309  5 
+    1 26054   3 103 D  7910000.          0.508000 0.027000                                       A.Paulsen+           (79)21309  5 
+    1 26054   3 103 D  8400000.          0.511000 0.027000                                       A.Paulsen+           (79)21309  5 
+    1 26054   3 103 D  8900000.          0.506000 0.027000                                       A.Paulsen+           (79)21309  5 
+    1 26054   3 103 D  9390000.          0.522000 0.027000                                       A.Paulsen+           (79)21309  5 
+    1 26054   3 103 D  9900000.          0.525000 0.028000                                       A.Paulsen+           (79)21309  5 
+#/DATA      8
+#/DATASET

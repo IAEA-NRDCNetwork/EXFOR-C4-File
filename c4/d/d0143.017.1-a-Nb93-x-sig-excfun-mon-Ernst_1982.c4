@@ -1,0 +1,38 @@
+#ENTRY      D0143
+#AUTHOR1    J.Ernst+
+#YEAR       1982
+#INSTITUTE  (2GERBON)
+#TITLE      Investigation of alpha-induced reactions on niobium
+#+          and tantalum. I. Measurement of 93Nb, 181Ta(a, x n y p)
+#+          excitation functions up to 171 MeV
+#AUTHOR(S)  J.Ernst, R.Ibowski, H.Klampfl, H.Machner, T.Mayer-Kuckuk, 
+#+          R.Schanz
+#REF-CODE   (J,ZP/A,308,301,1982)
+#REFERENCE  Z.Phys.A 308 (1982) 301 (doi:10.1007/BF01415879)
+#DATASETS   0
+#
+#DATASET    D01430171
+#DATE       20040302
+#REACTION   41-NB-93(A,X)40-ZR-89,IND,SIG
+#PROJ       2004
+#TARG       41093
+#MF         3
+#MT         454
+#PRODUCT    40-ZR-89
+#C4BEGIN    [ 2004 41093   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 41093   3 454    6.2200+7 500000.0 0.033000                    40089.9                     J.Ernst+             (82)D0143 171
+ 2004 41093   3 454    6.6900+7 500000.0 0.090000                    40089.9                     J.Ernst+             (82)D0143 171
+ 2004 41093   3 454    7.1300+7 500000.0 0.132000                    40089.9                     J.Ernst+             (82)D0143 171
+ 2004 41093   3 454    7.5700+7 500000.0 0.198000                    40089.9                     J.Ernst+             (82)D0143 171
+ 2004 41093   3 454    7.9900+7 500000.0 0.207000                    40089.9                     J.Ernst+             (82)D0143 171
+ 2004 41093   3 454    8.3800+7 500000.0 0.181000                    40089.9                     J.Ernst+             (82)D0143 171
+ 2004 41093   3 454    9.1300+7 500000.0 0.179000                    40089.9                     J.Ernst+             (82)D0143 171
+ 2004 41093   3 454    1.0180+8 500000.0 0.147000                    40089.9                     J.Ernst+             (82)D0143 171
+ 2004 41093   3 454    1.0840+8 500000.0 0.167000                    40089.9                     J.Ernst+             (82)D0143 171
+ 2004 41093   3 454    1.1160+8 500000.0 0.122000                    40089.9                     J.Ernst+             (82)D0143 171
+ 2004 41093   3 454    1.1470+8 500000.0 0.165000                    40089.9                     J.Ernst+             (82)D0143 171
+#/DATA      11
+#/DATASET

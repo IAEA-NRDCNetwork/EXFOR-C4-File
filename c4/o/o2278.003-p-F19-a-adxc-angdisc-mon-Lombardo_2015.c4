@@ -1,0 +1,38 @@
+#ENTRY      O2278
+#AUTHOR1    I.Lombardo+
+#YEAR       2015
+#INSTITUTE  (2ITYNAP)
+#TITLE      Toward a reassessment of the 19F(p,a0)16O reaction rate
+#+          at astrophysical temperatures.
+#AUTHOR(S)  I.Lombardo, D.Dell'Aquila, A.Di Leva, I.Indelicato, M.La Cognata, 
+#+          M.La Commara, A.Ordine, V.Rigato, M.Romoli, E.Rosato, G.Spadaccini, 
+#+          C.Spitaleri, A.Tumino, M.Vigilantea
+#REF-CODE   (J,PL/B,748,178,2015)
+#REFERENCE  Phys.Lett.B 748 (2015) 178 (doi:10.1016/j.physletb.2015.06.073)
+#DATASETS   0
+#
+#DATASET    O2278003 
+#DATE       20151114
+#REACTION   9-F-19(P,A)8-O-16,PAR,DA
+#PROJ       1001
+#TARG       9019
+#MF         4
+#MT         800
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  9019   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9019   4 800  C 327000.0          4.3600-7 9.5300-8-0.780000          0.000000         LVLI.Lombardo+          (15)O2278  3 
+ 1001  9019   4 800  C 327000.0          4.3300-7 5.5700-8-0.660000          0.000000         LVLI.Lombardo+          (15)O2278  3 
+ 1001  9019   4 800  C 327000.0          5.5700-7 6.2600-8-0.510000          0.000000         LVLI.Lombardo+          (15)O2278  3 
+ 1001  9019   4 800  C 327000.0          6.7200-7 7.8900-8-0.370000          0.000000         LVLI.Lombardo+          (15)O2278  3 
+ 1001  9019   4 800  C 327000.0          6.7100-7 6.2100-8-0.270000          0.000000         LVLI.Lombardo+          (15)O2278  3 
+ 1001  9019   4 800  C 327000.0          1.0500-6 5.0000-8 0.240000          0.000000         LVLI.Lombardo+          (15)O2278  3 
+ 1001  9019   4 800  C 327000.0          1.3700-6 8.2100-8 0.480000          0.000000         LVLI.Lombardo+          (15)O2278  3 
+ 1001  9019   4 800  C 327000.0          1.5700-6 6.7800-8 0.630000          0.000000         LVLI.Lombardo+          (15)O2278  3 
+ 1001  9019   4 800  C 327000.0          1.8400-6 1.0200-7 0.750000          0.000000         LVLI.Lombardo+          (15)O2278  3 
+ 1001  9019   4 800  C 327000.0          2.0600-6 1.0200-7 0.850000          0.000000         LVLI.Lombardo+          (15)O2278  3 
+ 1001  9019   4 800  C 327000.0          2.3800-6 1.1800-7 0.930000          0.000000         LVLI.Lombardo+          (15)O2278  3 
+#/DATA      11
+#/DATASET

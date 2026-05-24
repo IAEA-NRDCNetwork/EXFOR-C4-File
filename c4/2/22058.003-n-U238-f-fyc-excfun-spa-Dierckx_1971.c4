@@ -1,0 +1,27 @@
+#ENTRY      22058
+#AUTHOR1    R.Dierckx+
+#YEAR       1971
+#INSTITUTE  (2ZZZISP)
+#TITLE      -MEASUREMENT OF THE LA-140 FISSION PRODUCT YIELD
+#+          FOR FISSIONS IN U-238 IN A THERMAL REACTOR TYPE
+#+          SPECTRUM.
+#AUTHOR(S)  R.Dierckx, G.Maracci, F.Rustichelli
+#REF-CODE   (J,JNE,25,85,7102)
+#REFERENCE  J.Nucl.Energy 25 (1971) 85 (doi:10.1016/0022-3107(71)90061-X)
+#DATASETS   0
+#
+#DATASET    22058003 
+#DATE       19880805
+#REACTION   92-U-238(N,F)57-LA-140,CUM,FY,,SPA
+#PROJ       1
+#TARG       92238
+#MF         8
+#MT         459
+#PRODUCT    57-LA-140
+#C4BEGIN    [    1 92238   8 459 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   8 459 D  0.025300          0.056700 0.012000 57.00000 140.0000 9.000000            R.Dierckx+           (71)22058  3 
+#/DATA      1
+#/DATASET

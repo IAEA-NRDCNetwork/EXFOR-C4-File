@@ -1,0 +1,30 @@
+#ENTRY      D0425
+#AUTHOR1    R.Raabe+
+#YEAR       2006
+#INSTITUTE  (2BLGLVN)
+#TITLE      Fusion and direct reactions around the barrier for the
+#+          systems 7,9Be,7Li + 238U
+#AUTHOR(S)  R.Raabe, C.Angulo, J.L.Charvet, C.Jouanne, L.Nalpas, P.Figuera, 
+#+          D.Pierroutsakou, M.Romoli, J.L.Sida
+#REF-CODE   (J,PR/C,74,044606,2006)
+#REFERENCE  Phys.Rev.C 74 (2006) 044606 (doi:10.1103/PhysRevC.74.044606)
+#DATASETS   0
+#
+#DATASET    D0425005 
+#DATE       20061208
+#REACTION   92-U-238(4-BE-7,F),,SIG
+#PROJ       4007
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [ 4007 92238   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4007 92238   3  18 A  5.6010+7          0.895000 0.049000                                       R.Raabe+             (06)D0425  5 
+ 4007 92238   3  18 A  5.1994+7          0.733700 0.032600                                       R.Raabe+             (06)D0425  5 
+ 4007 92238   3  18 A  4.9832+7          0.520300 0.024100                                       R.Raabe+             (06)D0425  5 
+ 4007 92238   3  18 A  4.3963+7          0.119600 4.1000-3                                       R.Raabe+             (06)D0425  5 
+ 4007 92238   3  18 A  3.9947+7          0.019900 8.0000-4                                       R.Raabe+             (06)D0425  5 
+#/DATA      5
+#/DATASET

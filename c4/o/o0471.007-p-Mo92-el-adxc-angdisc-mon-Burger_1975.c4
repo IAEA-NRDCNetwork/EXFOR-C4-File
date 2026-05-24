@@ -1,0 +1,32 @@
+#ENTRY      O0471
+#AUTHOR1    S.J.Burger+
+#YEAR       1975
+#INSTITUTE  (3SAFSAF)
+#TITLE      Alpha-Particle and Proton Scattering from Even Mass
+#+          Molybdenum Isotopes.
+#AUTHOR(S)  S.J.Burger, G.Heymann
+#REF-CODE   (J,NP/A,243,461,1975)
+#REFERENCE  Nucl.Phys.A 243 (1975) 461 (doi:10.1016/0375-9474(75)90290-0)
+#DATASETS   0
+#
+#DATASET    O0471007 
+#DATE       20000426
+#REACTION   42-MO-92(P,EL)42-MO-92,,DA,,RTH
+#PROJ       1001
+#TARG       42092
+#MF         4
+#MT         2
+#PRODUCT    42-MO-92
+#C4BEGIN    [ 1001 42092   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42092   4   2  C 1.2520+7 20000.00 0.172524 4.8307-3 0.641450 5.3558-3                     S.J.Burger+          (75)O0471  7 
+ 1001 42092   4   2  C 1.2520+7 20000.00 0.075100 2.1028-3 0.501511 6.0399-3                     S.J.Burger+          (75)O0471  7 
+ 1001 42092   4   2  C 1.2520+7 20000.00 0.083974 2.3513-3 0.335452 6.5768-3                     S.J.Burger+          (75)O0471  7 
+ 1001 42092   4   2  C 1.2520+7 20000.00 0.087009 2.4362-3 0.255446 6.7497-3                     S.J.Burger+          (75)O0471  7 
+ 1001 42092   4   2  C 1.2520+7 20000.00 0.071106 1.9910-3 0.166769 6.8836-3                     S.J.Burger+          (75)O0471  7 
+ 1001 42092   4   2  C 1.2520+7 20000.00 0.038689 1.0833-3-6.9813-3 6.9811-3                     S.J.Burger+          (75)O0471  7 
+ 1001 42092   4   2  C 1.2520+7 20000.00 0.013945 3.9045-4-0.178802 6.8688-3                     S.J.Burger+          (75)O0471  7 
+#/DATA      7
+#/DATASET

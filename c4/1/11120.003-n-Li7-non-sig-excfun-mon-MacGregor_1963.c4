@@ -1,0 +1,27 @@
+#ENTRY      11120
+#AUTHOR1    M.H.MacGregor+
+#YEAR       1963
+#INSTITUTE  (1USALRL)
+#TITLE      Nonelastic neutron cross section measurements on Li6,
+#+          Li7, U235, U238, and Pu239 at 8.1, 11.9, and 14.1 MeV
+#AUTHOR(S)  M.H.MacGregor, R.Booth, W.P.Ball
+#REF-CODE   (J,PR,130,1471,1963)
+#REFERENCE  Phys.Rev. 130 (1963) 1471 (doi:10.1103/PhysRev.130.1471)
+#DATASETS   0
+#
+#DATASET    11120003 
+#DATE       20170914
+#REACTION   3-LI-7(N,NON),,SIG
+#PROJ       1
+#TARG       3007
+#MF         3
+#MT         3
+#C4BEGIN    [    1  3007   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3007   3   3    8100000.          0.450000 0.200000                                       M.H.MacGregor+       (63)11120  3 
+    1  3007   3   3    1.1900+7          0.430000 0.200000                                       M.H.MacGregor+       (63)11120  3 
+    1  3007   3   3    1.4200+7          0.400000 0.050000                                       M.H.MacGregor+       (63)11120  3 
+#/DATA      3
+#/DATASET

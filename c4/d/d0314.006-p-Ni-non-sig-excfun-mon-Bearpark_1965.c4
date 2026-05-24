@@ -1,0 +1,28 @@
+#ENTRY      D0314
+#AUTHOR1    K.Bearpark+
+#YEAR       1965
+#INSTITUTE  (2UK OXF)
+#TITLE      Total proton and deuteron reaction cross-sections
+#+          in the energy range 8.5 to 11.5 MeV
+#AUTHOR(S)  K.Bearpark, W.R.Graham, G.Jones
+#REF-CODE   (J,NP,73,206,1965)
+#REFERENCE  Nucl.Phys. 73 (1965) 206 (doi:10.1016/0029-5582(65)90166-5)
+#DATASETS   0
+#
+#DATASET    D0314006 
+#DATE       20180524
+#REACTION   28-NI-0(P,NON),,SIG
+#PROJ       1001
+#TARG       28000
+#MF         3
+#MT         3
+#C4BEGIN    [ 1001 28000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28000   3   3    9680000. 320000.0 0.603000 0.033000                                       K.Bearpark+          (65)D0314  6 
+ 1001 28000   3   3    1.0200+7 300000.0 0.659000 0.032000                                       K.Bearpark+          (65)D0314  6 
+ 1001 28000   3   3    1.0700+7 290000.0 0.704000 0.032000                                       K.Bearpark+          (65)D0314  6 
+ 1001 28000   3   3    1.1210+7 280000.0 0.733000 0.030000                                       K.Bearpark+          (65)D0314  6 
+#/DATA      4
+#/DATASET

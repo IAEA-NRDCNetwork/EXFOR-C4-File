@@ -1,0 +1,41 @@
+#ENTRY      E1422
+#AUTHOR1    Y.Aoki+
+#YEAR       1979
+#INSTITUTE  (2JPNTSU)
+#TITLE      Competition of two-step process with spin-dependent
+#+          interaction in the 14N(p,p')14N (2.31 MeV) reaction at
+#+          Ep=21.0 MeV
+#AUTHOR(S)  Y.Aoki, K.Nagano, S.Kunori, K.Yagi
+#REF-CODE   (J,JPJ,47,(1),329,197907)
+#REFERENCE  J.Phys.Soc.Jpn. 47 No.1 (1979) 329 (doi:10.1143/JPSJ.47.329)
+#DATASETS   0
+#
+#DATASET    E1422002 
+#DATE       20070909
+#REACTION   7-N-14(P,EL)7-N-14,,DA,,RTH
+#PROJ       1001
+#TARG       7014
+#MF         4
+#MT         2
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  7014   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   4   2  C 2.1000+7          0.662790          0.931564                              Y.Aoki+              (79)E1422  2 
+ 1001  7014   4   2  C 2.1000+7          0.249354          0.844328                              Y.Aoki+              (79)E1422  2 
+ 1001  7014   4   2  C 2.1000+7          0.082267          0.734086                              Y.Aoki+              (79)E1422  2 
+ 1001  7014   4   2  C 2.1000+7          0.022588          0.586372                              Y.Aoki+              (79)E1422  2 
+ 1001  7014   4   2  C 2.1000+7          0.023178          0.430196                              Y.Aoki+              (79)E1422  2 
+ 1001  7014   4   2  C 2.1000+7          0.028648          0.275973                              Y.Aoki+              (79)E1422  2 
+ 1001  7014   4   2  C 2.1000+7          0.023331          0.109387                              Y.Aoki+              (79)E1422  2 
+ 1001  7014   4   2  C 2.1000+7          0.014415         -0.062791                              Y.Aoki+              (79)E1422  2 
+ 1001  7014   4   2  C 2.1000+7          6.6256-3         -0.233445                              Y.Aoki+              (79)E1422  2 
+ 1001  7014   4   2  C 2.1000+7          3.4675-3         -0.398749                              Y.Aoki+              (79)E1422  2 
+ 1001  7014   4   2  C 2.1000+7          3.0095-3         -0.547563                              Y.Aoki+              (79)E1422  2 
+ 1001  7014   4   2  C 2.1000+7          3.4436-3         -0.676876                              Y.Aoki+              (79)E1422  2 
+ 1001  7014   4   2  C 2.1000+7          3.6566-3         -0.795473                              Y.Aoki+              (79)E1422  2 
+ 1001  7014   4   2  C 2.1000+7          3.5216-3         -0.886204                              Y.Aoki+              (79)E1422  2 
+ 1001  7014   4   2  C 2.1000+7          3.4553-3         -0.939094                              Y.Aoki+              (79)E1422  2 
+#/DATA      15
+#/DATASET

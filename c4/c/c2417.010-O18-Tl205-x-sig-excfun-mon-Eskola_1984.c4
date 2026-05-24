@@ -1,0 +1,31 @@
+#ENTRY      C2417
+#AUTHOR1    K.Eskola+
+#YEAR       1984
+#INSTITUTE  (1USALAS)
+#TITLE      Production of neutron-rich Bi isotopes by transfer
+#+          reactions
+#AUTHOR(S)  K.Eskola, P.Eskola, M.M.Fowler, H.Ohm, E.N.Treher, J.B.Wilhelmy, 
+#+          D.Lee, G.T.Seaborg
+#REF-CODE   (J,PR/C,29,2160,1984)
+#REFERENCE  Phys.Rev.C 29 (1984) 2160 (doi:10.1103/PhysRevC.29.2160)
+#DATASETS   0
+#
+#DATASET    C2417010 
+#DATE       20191204
+#REACTION   81-TL-205(8-O-18,X)83-BI-212,,SIG
+#PROJ       8018
+#TARG       81205
+#MF         3
+#MT         454
+#PRODUCT    83-BI-212
+#C4BEGIN    [ 8018 81205   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8018 81205   3 454    8.6618+7          2.4960-9                    83212.9                     K.Eskola+            (84)C2417 10 
+ 8018 81205   3 454    1.0050+8          1.7290-8                    83212.9                     K.Eskola+            (84)C2417 10 
+ 8018 81205   3 454    1.1370+8          2.2810-8                    83212.9                     K.Eskola+            (84)C2417 10 
+ 8018 81205   3 454    1.5197+8          3.4830-8                    83212.9                     K.Eskola+            (84)C2417 10 
+ 8018 81205   3 454    1.8607+8          3.2350-8                    83212.9                     K.Eskola+            (84)C2417 10 
+#/DATA      5
+#/DATASET

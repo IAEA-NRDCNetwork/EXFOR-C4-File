@@ -1,0 +1,37 @@
+#ENTRY      E1690
+#AUTHOR1    Y.Uozumi+
+#YEAR       1994
+#INSTITUTE  (2JPNKYU)
+#TITLE      Shell-model study of 40Ca with the 56-MeV (d,p)
+#+          reaction
+#AUTHOR(S)  Y.Uozumi, N.Kikuzawa, T.Sakae, M.Matoba, K.Kinoshita, T.Sajima, 
+#+          H.Ijiri, N.Koori, M.Nakano, T.Maki
+#REF-CODE   (J,PR/C,50,(1),263,199407)
+#REFERENCE  Phys.Rev.C 50 No.1 (1994) 263 (doi:10.1103/PhysRevC.50.263)
+#DATASETS   0
+#
+#DATASET    E1690040 
+#DATE       20040311
+#REACTION   20-CA-40(D,P)20-CA-41,PAR,DA
+#PROJ       1002
+#TARG       20040
+#MF         4
+#MT         600
+#PRODUCT    20-CA-41
+#C4BEGIN    [ 1002 20040   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 20040   4 600  C 5.6000+7          4.6458-4 3.7758-6 0.995923          8105000.         LVLY.Uozumi+            (94)E1690 40 
+ 1002 20040   4 600  C 5.6000+7          4.5066-4 4.3326-6 0.989575          8105000.         LVLY.Uozumi+            (94)E1690 40 
+ 1002 20040   4 600  C 5.6000+7          3.9846-4 4.3152-6 0.980325          8105000.         LVLY.Uozumi+            (94)E1690 40 
+ 1002 20040   4 600  C 5.6000+7          1.9836-4 2.9232-6 0.953248          8105000.         LVLY.Uozumi+            (94)E1690 40 
+ 1002 20040   4 600  C 5.6000+7          1.3102-4 2.7753-6 0.935511          8105000.         LVLY.Uozumi+            (94)E1690 40 
+ 1002 20040   4 600  C 5.6000+7          1.0910-4 1.2737-6 0.915050          8105000.         LVLY.Uozumi+            (94)E1690 40 
+ 1002 20040   4 600  C 5.6000+7          8.1954-5 1.8618-7 0.891930          8105000.         LVLY.Uozumi+            (94)E1690 40 
+ 1002 20040   4 600  C 5.6000+7          6.2466-5 6.2988-7 0.866229          8105000.         LVLY.Uozumi+            (94)E1690 40 
+ 1002 20040   4 600  C 5.6000+7          4.4718-5 1.0144-6 0.838028          8105000.         LVLY.Uozumi+            (94)E1690 40 
+ 1002 20040   4 600  C 5.6000+7          3.3408-5 1.8096-6 0.807420          8105000.         LVLY.Uozumi+            (94)E1690 40 
+ 1002 20040   4 600  C 5.6000+7          2.6970-5 1.3137-6 0.774502          8105000.         LVLY.Uozumi+            (94)E1690 40 
+#/DATA      11
+#/DATASET

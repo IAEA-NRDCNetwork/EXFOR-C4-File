@@ -1,0 +1,31 @@
+#ENTRY      A0145
+#AUTHOR1    R.Michel+
+#YEAR       1980
+#INSTITUTE  (2GERKLN)
+#TITLE      On the depth-dependent production of radionuclides
+#+          (44 < 'A' < 59) by solar protons in
+#+          extraterrestrial matter.
+#AUTHOR(S)  R.Michel, G.Brinkmann
+#REF-CODE   (J,JRC,59,467,1980)
+#REFERENCE  J.Radioanal.Chem. 59 (1980) 467 (doi:10.1007/BF02517298)
+#DATASETS   0
+#
+#DATASET    A0145009 
+#DATE       20240818
+#REACTION   28-NI-0(P,X)29-CU-61,,SIG
+#PROJ       1001
+#TARG       28000
+#MF         3
+#MT         454
+#PRODUCT    29-CU-61
+#C4BEGIN    [ 1001 28000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28000   3 454    1.6260+7 240000.0 4.4800-3 7.6000-4           29061.9                     R.Michel+            (80)A0145  9 
+ 1001 28000   3 454    1.4590+7 300000.0 2.3700-3 3.2000-4           29061.9                     R.Michel+            (80)A0145  9 
+ 1001 28000   3 454    1.2780+7 390000.0 3.8900-3 6.5000-4           29061.9                     R.Michel+            (80)A0145  9 
+ 1001 28000   3 454    1.0710+7 430000.0 5.0400-3 6.0000-4           29061.9                     R.Michel+            (80)A0145  9 
+ 1001 28000   3 454    7750000. 540000.0 3.2700-3 3.8000-4           29061.9                     R.Michel+            (80)A0145  9 
+#/DATA      5
+#/DATASET

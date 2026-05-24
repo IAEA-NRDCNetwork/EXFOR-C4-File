@@ -1,0 +1,45 @@
+#ENTRY      C2684
+#AUTHOR1    M.Holl+
+#YEAR       2021
+#INSTITUTE  (1CANSMR)
+#TITLE      Proton inelastic scattering reveals deformation in 8He
+#AUTHOR(S)  M.Holl, R.Kanungo, Z.H.Sun, G.Hagen, J.A.Lay, A.M.Moro, 
+#+          P.Navratil, T.Papenbrock, M.Alcorta, D.Connolly, B.Davids, 
+#+          A.Diaz Varela, M.Gennari, G.Hackman, J.Henderson, S.Ishimoto, 
+#+          A.I.Kilic, R.Krucken, A.Lennarz, J.Liang, J.Measures, W.Mittig, 
+#+          O.Paetkau, A.Psaltis, S.Quaglioni, J.S.Randhawa, J.Smallcombe, 
+#+          I.J.Thompson, M.Vorabbi, M.Williams
+#REF-CODE   (J,PL/B,822,136710,2021)
+#REFERENCE  Phys.Lett.B 822 (2021) 136710 (doi:10.1016/j.physletb.2021.136710)
+#DATASETS   0
+#
+#DATASET    C2684002 
+#DATE       20211028
+#REACTION   (1-H-1(2-HE-8,EL)1-H-1,,DA)=(2-HE-8(P,EL)2-HE-8,,DA)
+#PROJ       1001
+#TARG       2008
+#MF         4
+#MT         2
+#PRODUCT    2-HE-8
+#C4BEGIN    [ 1001  2008   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2008   4   2  C 8250000.          0.020600 3.7800-3 0.102793                              M.Holl+              (21)C2684  2 
+ 1001  2008   4   2  C 8250000.          0.026400 3.4600-3 0.061049                              M.Holl+              (21)C2684  2 
+ 1001  2008   4   2  C 8250000.          0.031300 3.7900-3 0.015707                              M.Holl+              (21)C2684  2 
+ 1001  2008   4   2  C 8250000.          0.035200 3.3900-3-0.029666                              M.Holl+              (21)C2684  2 
+ 1001  2008   4   2  C 8250000.          0.036400 4.2300-3-0.078459                              M.Holl+              (21)C2684  2 
+ 1001  2008   4   2  C 8250000.          0.034000 3.7900-3-0.128796                              M.Holl+              (21)C2684  2 
+ 1001  2008   4   2  C 8250000.          0.034000 4.1300-3-0.180519                              M.Holl+              (21)C2684  2 
+ 1001  2008   4   2  C 8250000.          0.035200 4.2700-3-0.235142                              M.Holl+              (21)C2684  2 
+ 1001  2008   4   2  C 8250000.          0.037700 4.0100-3-0.289032                              M.Holl+              (21)C2684  2 
+ 1001  2008   4   2  C 8250000.          0.036200 3.8500-3-0.345298                              M.Holl+              (21)C2684  2 
+ 1001  2008   4   2  C 8250000.          0.035200 3.5700-3-0.398749                              M.Holl+              (21)C2684  2 
+ 1001  2008   4   2  C 8250000.          0.030800 3.4300-3-0.457098                              M.Holl+              (21)C2684  2 
+ 1001  2008   4   2  C 8250000.          0.029800 3.6100-3-0.515038                              M.Holl+              (21)C2684  2 
+ 1001  2008   4   2  C 8250000.          0.027000 2.7400-3-0.570714                              M.Holl+              (21)C2684  2 
+ 1001  2008   4   2  C 8250000.          0.025600 2.9800-3-0.626604                              M.Holl+              (21)C2684  2 
+ 1001  2008   4   2  C 8250000.          0.023500 2.7400-3-0.679441                              M.Holl+              (21)C2684  2 
+#/DATA      16
+#/DATASET

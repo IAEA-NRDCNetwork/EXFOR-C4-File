@@ -1,0 +1,34 @@
+#ENTRY      A0618
+#AUTHOR1    O.N.Vysotsky+
+#YEAR       1993
+#INSTITUTE  (4UKRIJD)
+#TITLE      Excitation functions of reactions of deuterons, He-3
+#+          ions and alpha-particles interaction at energies of
+#+          100 MeV with Si nuclei
+#AUTHOR(S)  O.N.Vysotsky, A.V.Gonchar, S.N.Kondratyev, Yu.N.Lobach, 
+#+          V.D.Sklyarenko, V.V.Tokarevsky
+#REF-CODE   (J,UFZ,38,1773,1993)
+#REFERENCE  Ukr.Fiz.Zh. 38 (1993) 1773
+#DATASETS   0
+#
+#DATASET    A0618005 
+#DATE       20231230
+#REACTION   14-SI-0(HE3,X)11-NA-24,,SIG
+#PROJ       2003
+#TARG       14000
+#MF         3
+#MT         454
+#PRODUCT    11-NA-24
+#C4BEGIN    [ 2003 14000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 14000   3 454    3.6500+7 300000.0 1.0200-3 4.0200-4           11024.9                     O.N.Vysotsky+        (93)A0618  5 
+ 2003 14000   3 454    4.6200+7 300000.0 6.5600-3 3.1300-3           11024.9                     O.N.Vysotsky+        (93)A0618  5 
+ 2003 14000   3 454    5.4600+7 300000.0 0.010800 4.7300-3           11024.9                     O.N.Vysotsky+        (93)A0618  5 
+ 2003 14000   3 454    6.5700+7 300000.0 0.014300 6.2600-3           11024.9                     O.N.Vysotsky+        (93)A0618  5 
+ 2003 14000   3 454    7.4800+7 300000.0 0.012300 4.3200-3           11024.9                     O.N.Vysotsky+        (93)A0618  5 
+ 2003 14000   3 454    8.4400+7 300000.0 0.012300 4.3000-3           11024.9                     O.N.Vysotsky+        (93)A0618  5 
+ 2003 14000   3 454    9.0100+7 300000.0 0.015200 6.6400-3           11024.9                     O.N.Vysotsky+        (93)A0618  5 
+#/DATA      7
+#/DATASET

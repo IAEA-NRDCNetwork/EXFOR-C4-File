@@ -1,0 +1,40 @@
+#ENTRY      E1413
+#AUTHOR1    Y.Toba+
+#YEAR       1978
+#INSTITUTE  (2JPNJCL)
+#TITLE      PROTON INELASTIC SCATTERING ON 28,29,30SI AND
+#+          BLOCKING EFFECT IN THE CORE-EXCITATION OF 29SI
+#AUTHOR(S)  Y.Toba, H.Sakaguchi, A.Goto, F.Ohtani, N.Nakanishi, N.Kishida, 
+#+          M.Yasue, T.Hasegawa
+#REF-CODE   (J,JPJ,45,367,78)
+#REFERENCE  J.Phys.Soc.Jpn. 45 (1978) 367 (doi:10.1143/JPSJ.45.367)
+#DATASETS   0
+#
+#DATASET    E1413007 
+#DATE       19941018
+#REACTION   14-SI-29(P,INL)14-SI-29,PAR,DA
+#PROJ       1001
+#TARG       14029
+#MF         4
+#MT         601
+#PRODUCT    14-SI-29
+#C4BEGIN    [ 1001 14029   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14029   4 601  C 5.1900+7          3.3290-3          0.949644          1270000.         LVLY.Toba+              (78)E1413  7 
+ 1001 14029   4 601  C 5.1900+7          3.1560-3          0.913758          1270000.         LVLY.Toba+              (78)E1413  7 
+ 1001 14029   4 601  C 5.1900+7          3.8280-3          0.898794          1270000.         LVLY.Toba+              (78)E1413  7 
+ 1001 14029   4 601  C 5.1900+7          3.5370-3          0.880891          1270000.         LVLY.Toba+              (78)E1413  7 
+ 1001 14029   4 601  C 5.1900+7          3.1640-3          0.865938          1270000.         LVLY.Toba+              (78)E1413  7 
+ 1001 14029   4 601  C 5.1900+7          1.7860-3          0.841039          1270000.         LVLY.Toba+              (78)E1413  7 
+ 1001 14029   4 601  C 5.1900+7          1.3100-3          0.807784          1270000.         LVLY.Toba+              (78)E1413  7 
+ 1001 14029   4 601  C 5.1900+7          5.8810-4          0.609869          1270000.         LVLY.Toba+              (78)E1413  7 
+ 1001 14029   4 601  C 5.1900+7          2.7450-4          0.405780          1270000.         LVLY.Toba+              (78)E1413  7 
+ 1001 14029   4 601  C 5.1900+7          1.6040-4          0.216099          1270000.         LVLY.Toba+              (78)E1413  7 
+ 1001 14029   4 601  C 5.1900+7          1.2220-4          0.134159          1270000.         LVLY.Toba+              (78)E1413  7 
+ 1001 14029   4 601  C 5.1900+7          1.0070-4          0.060700          1270000.         LVLY.Toba+              (78)E1413  7 
+ 1001 14029   4 601  C 5.1900+7          6.6020-5         -0.024083          1270000.         LVLY.Toba+              (78)E1413  7 
+ 1001 14029   4 601  C 5.1900+7          2.0840-5         -0.218143          1270000.         LVLY.Toba+              (78)E1413  7 
+#/DATA      14
+#/DATASET

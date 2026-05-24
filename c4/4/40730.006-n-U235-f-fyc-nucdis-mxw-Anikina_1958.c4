@@ -1,0 +1,35 @@
+#ENTRY      40730
+#AUTHOR1    M.P.Anikina+
+#YEAR       1958
+#INSTITUTE  (4RUSITE)
+#TITLE      Mass-spectroscopic studies of fission products of
+#+          U-233, U-235, and Pu-239.
+#AUTHOR(S)  M.P.Anikina, P.M.Aron, V.K.Gorshkov, R.N.Ivanov, L.M.Krizhansky, 
+#+          G.M.Kukavadze, A.N.Murin, I.A.Reformatskij, B.V.Ershler
+#REF-CODE   (C,58GENEVA,15,446,1958)
+#REFERENCE  Proceedings of Second Internat. At.En. Conf., Geneva 1958 15 page 446
+#DATASETS   0
+#
+#DATASET    40730006 
+#DATE       20240401
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025300          0.063000 3.0000-3 58.00000 140.0000 9.000000            M.P.Anikina          (58)40730  6 
+    1 92235   8 459    0.025300          0.058000 2.0000-3 58.00000 142.0000 9.000000            M.P.Anikina          (58)40730  6 
+    1 92235   8 459    0.025300          0.058000 2.0000-3 60.00000 143.0000 9.000000            M.P.Anikina          (58)40730  6 
+    1 92235   8 459    0.025300          0.056000 3.0000-3 60.00000 144.0000 9.000000            M.P.Anikina          (58)40730  6 
+    1 92235   8 459    0.025300          0.040000 1.0000-3 60.00000 145.0000 9.000000            M.P.Anikina          (58)40730  6 
+    1 92235   8 459    0.025300          0.032000          60.00000 146.0000 9.000000            M.P.Anikina          (58)40730  6 
+    1 92235   8 459    0.025300          0.017000 1.0000-3 60.00000 148.0000 9.000000            M.P.Anikina          (58)40730  6 
+    1 92235   8 459    0.025300          7.0000-3 1.0000-3 60.00000 150.0000 9.000000            M.P.Anikina          (58)40730  6 
+    1 92235   8 459    0.025300          0.029000 4.0000-3 61.00000 147.0000 9.000000            M.P.Anikina          (58)40730  6 
+    1 92235   8 459    0.025300          0.015000 3.0000-3 62.00000 149.0000 9.000000            M.P.Anikina          (58)40730  6 
+#/DATA      10
+#/DATASET

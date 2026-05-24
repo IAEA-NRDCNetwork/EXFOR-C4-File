@@ -1,0 +1,33 @@
+#ENTRY      D4277
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2013
+#INSTITUTE  (3HUNDEB)
+#TITLE      Investigation of activation cross-sections of proton
+#+          induced nuclear reactions on natTl up to 42 MeV:
+#+          Review, new data and evaluation
+#AUTHOR(S)  F.Tarkanyi, F.Ditroi, A.Hermanne, S.Takacs, R.Adam-Rebeles, 
+#+          N.Walravens, O.Cichelli, A.V.Ignatyuk
+#REF-CODE   (J,ARI,74,109,2013)
+#REFERENCE  Appl.Radiat.Isot. 74 (2013) 109 (doi:10.1016/j.apradiso.2013.01.015)
+#DATASETS   0
+#
+#DATASET    D4277015 
+#DATE       20130221
+#REACTION   81-TL-0(P,X)81-TL-200,,SIG
+#PROJ       1001
+#TARG       81000
+#MF         3
+#MT         454
+#PRODUCT    81-TL-200
+#C4BEGIN    [ 1001 81000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 81000   3 454    3.0200+7 400000.0 6.0000-4 1.2000-5           81200.9                     F.Tarkanyi+          (13)D4277 15 
+ 1001 81000   3 454    3.1500+7 400000.0 1.5000-3 3.0000-5           81200.9                     F.Tarkanyi+          (13)D4277 15 
+ 1001 81000   3 454    3.2800+7 300000.0 1.5000-3 3.0000-5           81200.9                     F.Tarkanyi+          (13)D4277 15 
+ 1001 81000   3 454    3.4000+7 300000.0 2.9000-3 5.8000-5           81200.9                     F.Tarkanyi+          (13)D4277 15 
+ 1001 81000   3 454    3.5200+7 300000.0 2.5000-3 5.0000-5           81200.9                     F.Tarkanyi+          (13)D4277 15 
+ 1001 81000   3 454    3.6400+7 300000.0 5.1000-3 1.0200-4           81200.9                     F.Tarkanyi+          (13)D4277 15 
+#/DATA      6
+#/DATASET

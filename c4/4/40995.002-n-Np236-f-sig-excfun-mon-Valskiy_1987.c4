@@ -1,0 +1,31 @@
+#ENTRY      40995
+#AUTHOR1    G.V.Val'skiy+
+#YEAR       1987
+#INSTITUTE  (4RUSKUR)
+#TITLE      Np-236 neutron fission cross-section in the energy
+#+          range up to 10 keV
+#AUTHOR(S)  G.V.Val'skiy, E.A.Gromova, V.V.Danichev, V.N.Dement'ev, 
+#+          V.S.Zenkevich, S.S.Kovalenko, G.V.Mozolev, Yu.S.Pleva, Yu.A.Selitskiy, 
+#+          N.I.Trubaev, A.M.Fridkin, V.B.Funshtein, V.A.Yakovlev
+#REF-CODE   (C,87KIEV,3,99,1987)
+#REFERENCE  Proceedings of 1.Int.Conf.on Neutron Physics, Kiev,14-18 Sep 1987 3 page 99
+#DATASETS   0
+#
+#DATASET    40995002 
+#DATE       20221228
+#REACTION   93-NP-236(N,F),,SIG
+#PROJ       1
+#TARG       93236
+#MF         3
+#MT         18
+#C4BEGIN    [    1 93236   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93236   3  18    0.025300 5.0000-4 2770.000 260.0000                                       G.V.Val'skiy+        (87)40995  2 
+    1 93236   3  18    0.101000 4.0000-3 1430.000 90.00000                                       G.V.Val'skiy+        (87)40995  2 
+    1 93236   3  18    0.162000 8.0000-3 1260.000 80.00000                                       G.V.Val'skiy+        (87)40995  2 
+    1 93236   3  18    0.228000 0.014000 1220.000 80.00000                                       G.V.Val'skiy+        (87)40995  2 
+    1 93236   3  18    0.300000 0.020000 900.0000 70.00000                                       G.V.Val'skiy+        (87)40995  2 
+#/DATA      5
+#/DATASET

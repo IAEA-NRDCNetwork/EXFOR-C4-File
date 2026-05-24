@@ -1,0 +1,30 @@
+#ENTRY      E1919
+#AUTHOR1    K.Morita+
+#YEAR       2004
+#INSTITUTE  (2JPNIPC)
+#TITLE      Production and decay properties of 272-111 and its
+#+          daughter nuclei
+#AUTHOR(S)  K.Morita, K.Morimoto, D.Kaji, H.Haba, E.Ideguchi, J.C.Peter, 
+#+          R.Kanungo, K.Katori, H.Koura, H.Kudo, T.Ohnishi, A.Ozawa, 
+#+          T.Suda, K.Sueki, I.Tanihata, H.Xu, A.V.Yeremin, A.Yoneda, 
+#+          A.Yoshida, Y.-L.Zhao, T.Zheng, S.Goto, F.Tokanai
+#REF-CODE   (J,JPJ,73,(7),1738,200407)
+#REFERENCE  J.Phys.Soc.Jpn. 73 No.7 (2004) 1738 (doi:10.1143/JPSJ.73.1738)
+#DATASETS   0
+#
+#DATASET    E1919002 
+#DATE       20100816
+#REACTION   83-BI-209(28-NI-64,N)111-RG-272,,SIG
+#PROJ       28064
+#TARG       83209
+#MF         3
+#MT         4
+#PRODUCT    111-RG-272
+#C4BEGIN    [28064 83209   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+28064 83209   3   4    3.1750+8 600000.0 2.600-12                                                K.Morita+            (04)E1919  2 
+28064 83209   3   4    3.2030+8 600000.0 2.500-12                                                K.Morita+            (04)E1919  2 
+#/DATA      2
+#/DATASET

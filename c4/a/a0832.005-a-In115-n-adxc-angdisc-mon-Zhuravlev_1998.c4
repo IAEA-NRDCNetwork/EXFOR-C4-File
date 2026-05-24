@@ -1,0 +1,39 @@
+#ENTRY      A0832
+#AUTHOR1    B.V.Zhuravlev+
+#YEAR       1998
+#INSTITUTE  (4RUSFEI)
+#TITLE      Nuclear level density and spin out-off parameter for
+#+          nuclei of Ni-59, Tc-96, Sb-118 from  differential
+#+          neutron emission cross sections of (p,n) and (a,n)
+#+          reaction.
+#AUTHOR(S)  B.V.Zhuravlev, N.N.Titarenko, V.I.Trykova, Z.Zuying, T.Hongqing, 
+#+          Qi.Bujia, Z.Chenwei, Du Yanfeng
+#REF-CODE   (S,ISINN-6,151,1998)
+#REFERENCE  Report (proceedings) ISINN-6 page 151, 1998
+#DATASETS   0
+#
+#DATASET    A0832005 
+#DATE       20120110
+#REACTION   49-IN-115(A,N)51-SB-118,PAR,DA
+#PROJ       2004
+#TARG       49115
+#MF         4
+#MT         50
+#PRODUCT    51-SB-118
+#C4BEGIN    [ 2004 49115   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 49115   4  50  C 1.6300+7          3.5900-3 1.4000-4 0.865151          3000000. 500000.0 E2B.V.Zhuravlev+       (98)A0832  5 
+ 2004 49115   4  50  C 1.6300+7          3.3600-3 1.1000-4 0.761538          3000000. 500000.0 E2B.V.Zhuravlev+       (98)A0832  5 
+ 2004 49115   4  50  C 1.6300+7          3.2400-3 1.3000-4 0.640110          3000000. 500000.0 E2B.V.Zhuravlev+       (98)A0832  5 
+ 2004 49115   4  50  C 1.6300+7          3.2800-3 1.3000-4 0.337095          3000000. 500000.0 E2B.V.Zhuravlev+       (98)A0832  5 
+ 2004 49115   4  50  C 1.6300+7          3.0900-3 1.3000-4 0.163326          3000000. 500000.0 E2B.V.Zhuravlev+       (98)A0832  5 
+ 2004 49115   4  50  C 1.6300+7          3.3600-3 1.1000-4-0.185667          3000000. 500000.0 E2B.V.Zhuravlev+       (98)A0832  5 
+ 2004 49115   4  50  C 1.6300+7          3.2800-3 1.1000-4-0.343660          3000000. 500000.0 E2B.V.Zhuravlev+       (98)A0832  5 
+ 2004 49115   4  50  C 1.6300+7          3.0500-3 1.3000-4-0.504528          3000000. 500000.0 E2B.V.Zhuravlev+       (98)A0832  5 
+ 2004 49115   4  50  C 1.6300+7          3.2100-3 1.1000-4-0.770513          3000000. 500000.0 E2B.V.Zhuravlev+       (98)A0832  5 
+ 2004 49115   4  50  C 1.6300+7          3.3200-3 1.3000-4-0.872069          3000000. 500000.0 E2B.V.Zhuravlev+       (98)A0832  5 
+ 2004 49115   4  50  C 1.6300+7          3.0500-3 1.6000-4-0.940288          3000000. 500000.0 E2B.V.Zhuravlev+       (98)A0832  5 
+#/DATA      11
+#/DATASET

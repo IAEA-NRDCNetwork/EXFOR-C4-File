@@ -1,0 +1,65 @@
+#ENTRY      23759
+#AUTHOR1    G.Tagliente+
+#YEAR       2022
+#INSTITUTE  (2ITYBAU)
+#TITLE      92Zr(n,g) and (n,tot) measurements at the GELINA and
+#+          nTOF facilities
+#AUTHOR(S)  G.Tagliente, S.Kopecky, J.Heyse, M.Krticka, C.Massimi, A.Mengoni, 
+#+          P.M.Milazzo, A.J.M.Plompen, P.Schillebeeckx, S.Valenta, 
+#+          R.Wynants, S.Altstadt, J.Andrzejewski, L.Audouin, V.Becares, 
+#+          M.Barbagallo, F.Becvar, F.Belloni, E.Berthoumieux, J.Billowes, 
+#+          V.Boccone, D.Bosnar, M.Brugger, F.Calvino, M.Calviani, D.Cano-Ott, 
+#+          C.Carrapico, F.Cerutti, E.Chiaveri, M.Chin, N.Colonna, G.Cortes, 
+#+          M.A.Cortes-Giraldo, S.Cristallo, M.Diakaki, C.Domingo-Pardo, 
+#+          R.Dressler, I.Duran, C.Eleftheriadis, A.Ferrari, K.Fraval, 
+#+          V.Furman, K.Goebel, M.B.Gomez-Hornillos, S.Ganesan, A.R.Garcia, 
+#+          G.Giubrone, I.F.Goncalves, E.Gonzalez-Romero, A.Goverdovski, 
+#+          E.Griesmayer, C.Guerrero, F.Gunsing, T.Heftrich, A.Hernandez-Prieto, 
+#+          E.Jericha, F.Kaeppeler, Y.Kadi, D.Karadimos, T.Katabuchi, 
+#+          V.Ketlerov, V.Khryachkov, N.Kivel, M.Kokkoris, J.Kroll, 
+#+          C.Lampoudis, C.Langer, E.Leal-Cidoncha, C.Lederer, H.Leeb, 
+#+          L.S.Leong, R.Losito, M.Lugaro, A.Mallick, A.Manousos, J.Marganiec, 
+#+          T.Martinez, P.Mastinu, M.Mastromarco, E.Mendoza, F.Mingrone, 
+#+          M.Mirea, C.Paradela, A.Pavlik, J.Perkowski, J.Praena, J.M.Quesada, 
+#+          T.Rauscher, R.Reifarth, A.Riego-Perez, M.Robles, C.Rubbia, 
+#+          J.A.Ryan, M.Sabate-Gilarte, R.Sarmento, A.Saxena, S.Schmidt, 
+#+          D.Schumann, P.Sedyshev, J.L.Tain, A.Tarifeno-Saldivia, D.Tarrio, 
+#+          L.Tassan-Got, A.Tsinganis, G.Vannini, V.Variale, P.Vaz, 
+#+          A.Ventura, M.J.Vermeulen, D.Vescovi, V.Vlachoudis, R.Vlastou, 
+#+          A.Wallner, T.Ware, M.Weigand, C.Weiss, T.Wright, P.Zugec
+#REF-CODE   (J,PR/C,105,025805,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) 025805 (doi:10.1103/PhysRevC.105.025805)
+#DATASETS   0
+#
+#DATASET    23759003 
+#DATE       20220226
+#REACTION   40-ZR-92(N,G)40-ZR-93,,SIG,,MXW
+#PROJ       1
+#TARG       40092
+#MF         3
+#MT         102
+#PRODUCT    40-ZR-93
+#C4BEGIN    [    1 40092   3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40092   3 102 D  5000.000          0.127800 6.5000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  8000.000          0.093300 4.7000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  10000.00          0.079200 4.0000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  15000.00          0.058900 2.9000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  20000.00          0.048200 2.3000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  23000.00          0.044100 2.1000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  25000.00          0.042000 2.0000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  30000.00          0.038100 1.8000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  35000.00          0.035500 1.8000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  40000.00          0.033900 1.9000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  45000.00          0.032800 2.1000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  50000.00          0.032000 2.2000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  55000.00          0.031600 2.4000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  60000.00          0.031300 2.5000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  70000.00          0.031000 2.8000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  80000.00          0.030900 3.0000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  90000.00          0.031000 3.2000-3                                       G.Tagliente+         (22)23759  3 
+    1 40092   3 102 D  100000.0          0.031200 3.3000-3                                       G.Tagliente+         (22)23759  3 
+#/DATA      18
+#/DATASET

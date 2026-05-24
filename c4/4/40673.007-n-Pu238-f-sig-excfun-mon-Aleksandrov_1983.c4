@@ -1,0 +1,26 @@
+#ENTRY      40673
+#AUTHOR1    B.M.Aleksandrov+
+#YEAR       1983
+#INSTITUTE  (4RUSRI)
+#TITLE      The neutron fission cross-sections for Am-241, Pu-238,
+#+          Pu-240 and Pu-241
+#AUTHOR(S)  B.M.Aleksandrov, S.M.Solov'ev, P.S.Soloshenkov, V.B.Funshtejn, 
+#+          S.V.Khlebnikov
+#REF-CODE   (J,YK,,(1/50),3,1983)
+#REFERENCE  Yad.Reak.Konst.  No.1/50 (1983) 3
+#DATASETS   0
+#
+#DATASET    40673007 
+#DATE       20160602
+#REACTION   94-PU-238(N,F),,SIG
+#PROJ       1
+#TARG       94238
+#MF         3
+#MT         18
+#C4BEGIN    [    1 94238   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94238   3  18    2900000. 50000.00 2.160000 0.100000                                       B.M.Aleksandrov+     (83)40673  7 
+#/DATA      1
+#/DATASET

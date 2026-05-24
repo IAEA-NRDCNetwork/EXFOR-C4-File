@@ -1,0 +1,29 @@
+#ENTRY      14235
+#AUTHOR1    Junhua Luo+
+#YEAR       2009
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Activation cross sections for reactions induced by
+#+          14 MeV neutrons on natural tantalum
+#AUTHOR(S)  Junhua Luo, Fei Tuo, Xiangzhong Kong
+#REF-CODE   (J,PR/C,79,057603,2009)
+#REFERENCE  Phys.Rev.C 79 (2009) 057603 (doi:10.1103/PhysRevC.79.057603)
+#DATASETS   0
+#
+#DATASET    14235002 
+#DATE       20090602
+#REACTION   73-TA-181(N,N+A)71-LU-177-M,,SIG
+#PROJ       1
+#TARG       73181
+#MF         3
+#MT         22
+#PRODUCT    71-LU-177-M
+#C4BEGIN    [    1 73181   3  22M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 73181   3  22M   1.4700+7 200000.0 1.3000-4 1.0000-5                                       Junhua Luo+          (09)14235  2 
+    1 73181   3  22M   1.4500+7 200000.0 1.2500-4 9.0000-6                                       Junhua Luo+          (09)14235  2 
+    1 73181   3  22M   1.4100+7 100000.0 1.1800-4 8.0000-6                                       Junhua Luo+          (09)14235  2 
+    1 73181   3  22M   1.3500+7 200000.0 1.0200-4 6.0000-6                                       Junhua Luo+          (09)14235  2 
+#/DATA      4
+#/DATASET

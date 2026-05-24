@@ -1,0 +1,27 @@
+#ENTRY      10536
+#AUTHOR1    B.P.Bayhurst+
+#YEAR       1975
+#INSTITUTE  (1USALAS)
+#TITLE      Cross sections for (n,xn) reactions between 7.5 and
+#+          28 MeV
+#AUTHOR(S)  B.P.Bayhurst, J.S.Gilmore, R.J.Prestwood, J.B.Wilhelmy, 
+#+          N.Jarmie, B.H.Erkkila, R.A.Hardekopf
+#REF-CODE   (J,PR/C,12,451,1975)
+#REFERENCE  Phys.Rev.C 12 (1975) 451 (doi:10.1103/PhysRevC.12.451)
+#DATASETS   0
+#
+#DATASET    10536023 
+#DATE       20040511
+#REACTION   47-AG-107(N,3N)47-AG-105-G,,SIG
+#PROJ       1
+#TARG       47107
+#MF         3
+#MT         17
+#PRODUCT    47-AG-105-G
+#C4BEGIN    [    1 47107   3  17GA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 47107   3  17GA  2.8050+7 140000.0 0.969000 0.049000                                       B.P.Bayhurst+        (75)10536 23 
+#/DATA      1
+#/DATASET

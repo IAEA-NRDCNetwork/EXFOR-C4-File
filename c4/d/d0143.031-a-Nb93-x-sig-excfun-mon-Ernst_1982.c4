@@ -1,0 +1,33 @@
+#ENTRY      D0143
+#AUTHOR1    J.Ernst+
+#YEAR       1982
+#INSTITUTE  (2GERBON)
+#TITLE      Investigation of alpha-induced reactions on niobium
+#+          and tantalum. I. Measurement of 93Nb, 181Ta(a, x n y p)
+#+          excitation functions up to 171 MeV
+#AUTHOR(S)  J.Ernst, R.Ibowski, H.Klampfl, H.Machner, T.Mayer-Kuckuk, 
+#+          R.Schanz
+#REF-CODE   (J,ZP/A,308,301,1982)
+#REFERENCE  Z.Phys.A 308 (1982) 301 (doi:10.1007/BF01415879)
+#DATASETS   0
+#
+#DATASET    D0143031 
+#DATE       20040302
+#REACTION   41-NB-93(A,X)37-RB-84,,SIG
+#PROJ       2004
+#TARG       41093
+#MF         3
+#MT         454
+#PRODUCT    37-RB-84
+#C4BEGIN    [ 2004 41093   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 41093   3 454    1.0670+8 500000.0 7.0000-4                    37084.9                     J.Ernst+             (82)D0143 31 
+ 2004 41093   3 454    1.1630+8 500000.0 3.5000-3                    37084.9                     J.Ernst+             (82)D0143 31 
+ 2004 41093   3 454    1.2590+8 500000.0 3.2000-3                    37084.9                     J.Ernst+             (82)D0143 31 
+ 2004 41093   3 454    1.3530+8 500000.0 2.8000-3                    37084.9                     J.Ernst+             (82)D0143 31 
+ 2004 41093   3 454    1.4510+8 500000.0 3.2000-3                    37084.9                     J.Ernst+             (82)D0143 31 
+ 2004 41093   3 454    1.5580+8 500000.0 4.2000-3                    37084.9                     J.Ernst+             (82)D0143 31 
+#/DATA      6
+#/DATASET

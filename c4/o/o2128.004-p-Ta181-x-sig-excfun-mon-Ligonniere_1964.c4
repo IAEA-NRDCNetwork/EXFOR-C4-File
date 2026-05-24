@@ -1,0 +1,26 @@
+#ENTRY      O2128
+#AUTHOR1    M.Ligonniere+
+#YEAR       1964
+#INSTITUTE  (2FR PAR)
+#TITLE      Production cross section of beryllium-7 from Al, V, Ta
+#+          and Au induced by 155 and 550 MeV protons.
+#AUTHOR(S)  M.Ligonniere, B.Vassent, R.Bernas
+#REF-CODE   (J,CR,259,1406,1964)
+#REFERENCE  Compt.Rend. 259 (1964) 1406
+#DATASETS   0
+#
+#DATASET    O2128004 
+#DATE       20130615
+#REACTION   73-TA-181(P,X)4-BE-7,,SIG
+#PROJ       1001
+#TARG       73181
+#MF         3
+#MT         454
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001 73181   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 73181   3 454    1.5500+8          4.2000-5 8.0000-6            4007.9                     M.Ligonniere+        (64)O2128  4 
+#/DATA      1
+#/DATASET

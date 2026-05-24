@@ -1,0 +1,49 @@
+#ENTRY      A1055
+#AUTHOR1    U.Abbondanno+
+#YEAR       1975
+#INSTITUTE  (2ITYTRI)
+#TITLE      The T(3He,n)5Li reaction at 3He energies below 5.5 MeV
+#AUTHOR(S)  U.Abbondanno, F.Demanins, C.Tuniz, G.Nardelli
+#REF-CODE   (J,NC/A,29,187,1975)
+#REFERENCE  Nuovo Cim.A 29 (1975) 187 (doi:10.1007/BF02729752)
+#DATASETS   0
+#
+#DATASET    A1055004 
+#DATE       20210316
+#REACTION   1-H-3(HE3,N)3-LI-5,PAR,DA
+#PROJ       2003
+#TARG       1003
+#MF         4
+#MT         50
+#PRODUCT    3-LI-5
+#C4BEGIN    [ 2003  1003   4  50 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  1003   4  50 CC 5000000.          3.7900-4 4.0000-6 0.999998 6.0923-5 1.0210+7 280000.0LVLU.Abbondanno+        (75)A1055  4 
+ 2003  1003   4  50 CC 5000000.          3.7200-4 4.4000-5 0.926529 0.013133 1.0210+7 280000.0LVLU.Abbondanno+        (75)A1055  4 
+ 2003  1003   4  50 CC 5000000.          4.2900-4 4.4000-5 0.730162 0.023851 1.0210+7 280000.0LVLU.Abbondanno+        (75)A1055  4 
+ 2003  1003   4  50 CC 5000000.          4.6300-4 4.4000-5 0.446198 0.031239 1.0210+7 280000.0LVLU.Abbondanno+        (75)A1055  4 
+ 2003  1003   4  50 CC 5000000.          4.1000-5 1.5000-5 0.135716 0.034584 1.0210+7 280000.0LVLU.Abbondanno+        (75)A1055  4 
+#/DATA      5
+#/DATASET
+#
+#DATASET    A1055004 
+#DATE       20210316
+#REACTION   1-H-3(HE3,N)3-LI-5,PAR,DA
+#PROJ       2003
+#TARG       1003
+#MF         4
+#MT         50
+#PRODUCT    3-LI-5
+#C4BEGIN    [ 2003  1003   4  50 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  1003   4  50 CC 5500000.          2.8500-4 4.0000-6 0.999925 4.2645-4 1.0210+7 280000.0LVLU.Abbondanno+        (75)A1055  4 
+ 2003  1003   4  50 CC 5500000.          3.1600-4 2.6000-5 0.872922 0.017030 1.0210+7 280000.0LVLU.Abbondanno+        (75)A1055  4 
+ 2003  1003   4  50 CC 5500000.          2.8800-4 3.0000-5 0.544639 0.029275 1.0210+7 280000.0LVLU.Abbondanno+        (75)A1055  4 
+ 2003  1003   4  50 CC 5500000.          2.3800-4 2.2000-5 0.113203 0.034682 1.0210+7 280000.0LVLU.Abbondanno+        (75)A1055  4 
+ 2003  1003   4  50 CC 5500000.          5.4000-5 2.6000-5-0.299041 0.033309 1.0210+7 280000.0LVLU.Abbondanno+        (75)A1055  4 
+#/DATA      5
+#/DATASET

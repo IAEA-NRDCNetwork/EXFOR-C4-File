@@ -1,0 +1,26 @@
+#ENTRY      10863
+#AUTHOR1    J.E.Gaiser+
+#YEAR       1979
+#INSTITUTE  (1USAAUB)
+#TITLE      Neutron cross sections for Nb-93(n,alpha)Y-90-m and
+#+          Se-80(n,alpha)Se-79-m at 14.1-MeV
+#AUTHOR(S)  J.E.Gaiser, W.L.Alford, R.T.Skelton
+#REF-CODE   (J,BAP,24,108(DD13),1979)
+#REFERENCE  Bull.Am.Phys.Soc. 24 (1979) 108(DD13)
+#DATASETS   0
+#
+#DATASET    10863003 
+#DATE       20200229
+#REACTION   34-SE-80(N,2N)34-SE-79-M,,SIG
+#PROJ       1
+#TARG       34080
+#MF         3
+#MT         16
+#PRODUCT    34-SE-79-M
+#C4BEGIN    [    1 34080   3  16MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34080   3  16MA  1.4100+7 400000.0 0.247000 0.022000                                       J.E.Gaiser+          (79)10863  3 
+#/DATA      1
+#/DATASET

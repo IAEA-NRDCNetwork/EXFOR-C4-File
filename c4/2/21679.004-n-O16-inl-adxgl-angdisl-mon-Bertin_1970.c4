@@ -1,0 +1,30 @@
+#ENTRY      21679
+#AUTHOR1    A.Bertin+
+#YEAR       1970
+#INSTITUTE  (2FR VNV)
+#TITLE      -CROSS SECTIONS FOR PRODUCTION OF GAMMA-RAYS BY
+#+          NEUTRONS OF 5 MEV, 6.6 MEV AND 8.7 MEV ON NITROGEN,
+#+          OXYGEN, SCANDIUM AND GOLD -.
+#AUTHOR(S)  A.Bertin, F.Bertrand, G.Clayeux
+#REF-CODE   (R,CEA-R-4047,,7008)
+#REFERENCE  Report CEA-R-4047 page , 1970
+#DATASETS   0
+#
+#DATASET    21679004 
+#DATE       19810611
+#REACTION   8-O-16(N,INL)8-O-16,PAR,DA,G
+#PROJ       1
+#TARG       8016
+#MF         14
+#MT         51
+#PRODUCT    8-O-16
+#C4BEGIN    [    1  8016  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016  14  51    6600000.          3.6000-3 7.0000-4 0.707107          6130000.            A.Bertin+            (70)21679  4 
+    1  8016  14  51    6600000.          2.4000-3 5.0000-4 0.500000          6130000.            A.Bertin+            (70)21679  4 
+    1  8016  14  51    6600000.          2.4000-3 5.0000-4 6.123-17          6130000.            A.Bertin+            (70)21679  4 
+    1  8016  14  51    6600000.          2.4000-3 5.0000-4-0.500000          6130000.            A.Bertin+            (70)21679  4 
+#/DATA      4
+#/DATASET

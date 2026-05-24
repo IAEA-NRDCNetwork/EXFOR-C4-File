@@ -1,0 +1,26 @@
+#ENTRY      20666
+#AUTHOR1    H.Michael+
+#YEAR       1976
+#INSTITUTE  (2GERJUL)
+#TITLE      Determination of the thermal neutron capture cross
+#+          section and resonance integral of 138La
+#AUTHOR(S)  H.Michael, A.Neubert, R.Wagner, A.J.Blair
+#REF-CODE   (J,ARI,27,533,1976)
+#REFERENCE  Appl.Radiat.Isot. 27 (1976) 533 (doi:10.1016/0020-708X(76)90023-5)
+#DATASETS   0
+#
+#DATASET    20666002 
+#DATE       20220126
+#REACTION   57-LA-138(N,G)57-LA-139,,SIG,,MXW
+#PROJ       1
+#TARG       57138
+#MF         3
+#MT         102
+#PRODUCT    57-LA-139
+#C4BEGIN    [    1 57138   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 57138   3 102    0.025300          57.20000 5.700000                                       H.Michael+           (76)20666  2 
+#/DATA      1
+#/DATASET

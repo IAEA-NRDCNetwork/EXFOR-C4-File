@@ -1,0 +1,56 @@
+#ENTRY      C2694
+#AUTHOR1    D.Walter+
+#YEAR       2019
+#INSTITUTE  (1USARUT)
+#TITLE      Constraining spectroscopic factors near the r-process
+#+          path using combined measurements: 86Kr(d,p) 87Kr
+#AUTHOR(S)  D.Walter, S.D.Pain, J.A.Cizewski, F.M.Nunes, S.Ahn, T.Baugher, 
+#+          D.W.Bardayan, T.Baumann, D.Bazin, S.Burcher, K.A.Chipps, 
+#+          G.Cerizza, K.L.Jones, R.L.Kozub, S.J.Lonsdale, B.Manning, 
+#+          F.Montes, P.D.O'Malley, S.Ota, J.Pereira, A.Ratkiewicz, 
+#+          P.Thompson, C.Thornsberry, S.Williams
+#REF-CODE   (J,PR/C,99,054625,2019)
+#REFERENCE  Phys.Rev.C 99 (2019) 054625 (doi:10.1103/PhysRevC.99.054625)
+#DATASETS   0
+#
+#DATASET    C2694002 
+#DATE       20211115
+#REACTION   (1-H-2(36-KR-86,P)36-KR-87,PAR,DA,RSD)=(36-KR-86(D,P)36-KR-87,PAR,DA)
+#PROJ       1002
+#TARG       36086
+#MF         4
+#MT         600
+#PRODUCT    36-KR-87
+#C4BEGIN    [ 1002 36086   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 36086   4 600  C 6.6000+7          3.5500-3 8.5800-4 0.995725          0.000000         LVLD.Walter+            (19)C2694  2 
+ 1002 36086   4 600  C 6.6000+7          3.1500-3 7.3800-4 0.994338          0.000000         LVLD.Walter+            (19)C2694  2 
+ 1002 36086   4 600  C 6.6000+7          2.7100-3 6.3000-4 0.992757          0.000000         LVLD.Walter+            (19)C2694  2 
+ 1002 36086   4 600  C 6.6000+7          2.4000-3 5.4500-4 0.990509          0.000000         LVLD.Walter+            (19)C2694  2 
+ 1002 36086   4 600  C 6.6000+7          1.9200-3 3.6300-4 0.985996          0.000000         LVLD.Walter+            (19)C2694  2 
+ 1002 36086   4 600  C 6.6000+7          7.9600-4 1.2500-4 0.962692          0.000000         LVLD.Walter+            (19)C2694  2 
+ 1002 36086   4 600  C 6.6000+7          5.6000-4 1.0400-4 0.951057          0.000000         LVLD.Walter+            (19)C2694  2 
+ 1002 36086   4 600  C 6.6000+7          4.3800-4 8.4000-5 0.937282          0.000000         LVLD.Walter+            (19)C2694  2 
+#/DATA      8
+#/DATASET
+#
+#DATASET    C2694002 
+#DATE       20211115
+#REACTION   (1-H-2(36-KR-86,P)36-KR-87,PAR,DA,RSD)=(36-KR-86(D,P)36-KR-87,PAR,DA)
+#PROJ       1002
+#TARG       36086
+#MF         4
+#MT         600
+#PRODUCT    36-KR-87
+#C4BEGIN    [ 1002 36086   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 36086   4 600  C 6.6000+7          1.7000-3 1.6400-4 0.973179          2500000.         LVLD.Walter+            (19)C2694  2 
+ 1002 36086   4 600  C 6.6000+7          1.0700-3 1.7300-4 0.958323          2500000.         LVLD.Walter+            (19)C2694  2 
+ 1002 36086   4 600  C 6.6000+7          9.6400-4 1.3300-4 0.948324          2500000.         LVLD.Walter+            (19)C2694  2 
+ 1002 36086   4 600  C 6.6000+7          7.0400-4 8.2800-5 0.932324          2500000.         LVLD.Walter+            (19)C2694  2 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      A0441
+#AUTHOR1    S.Mukherjee+
+#YEAR       2001
+#INSTITUTE  (3INDVUU)
+#TITLE      Incomplete fusion reactions: analysis of excitation
+#+          functions and recoil range distributions in 16-O+51-V
+#AUTHOR(S)  S.Mukherjee, A.Sharma, S.Sodaye, B.S.Tomar, A.Goswami, S.B.Manohar
+#REF-CODE   (J,EPJ/A,12,199,2001)
+#REFERENCE  Eur.Phys.J.A 12 (2001) 199 (doi:10.1007/s100500170028)
+#DATASETS   0
+#
+#DATASET    A0441004 
+#DATE       20240909
+#REACTION   23-V-51(8-O-16,X)30-ZN-62,CUM,SIG
+#PROJ       8016
+#TARG       23051
+#MF         3
+#MT         459
+#PRODUCT    30-ZN-62
+#C4BEGIN    [ 8016 23051   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 23051   3 459    8.2060+7          3.0110-3 4.3990-4           30062.9                     S.Mukherjee+         (01)A0441  4 
+ 8016 23051   3 459    8.7030+7          0.015820 2.1740-3           30062.9                     S.Mukherjee+         (01)A0441  4 
+ 8016 23051   3 459    9.3280+7          0.012040 1.6550-3           30062.9                     S.Mukherjee+         (01)A0441  4 
+#/DATA      3
+#/DATASET

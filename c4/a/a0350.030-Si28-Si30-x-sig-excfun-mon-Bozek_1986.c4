@@ -1,0 +1,37 @@
+#ENTRY      A0350
+#AUTHOR1    E.Bozek+
+#YEAR       1986
+#INSTITUTE  (2FR SAC)
+#TITLE      De-excitation of Ni-58,60,62 compound nuclei formed
+#+          via symmetric and asymmetric entrance channels
+#AUTHOR(S)  E.Bozek, D.M.De Castro-Rizzo, S.Cavallaro, B.Delaunay, J.Delaunay, 
+#+          H.Dumont, A.D'onofrio, M.G.Saint-Laurent, L.Sperduto, F.Terrasi
+#REF-CODE   (J,NP/A,451,171,1986)
+#REFERENCE  Nucl.Phys.A 451 (1986) 171 (doi:10.1016/0375-9474(86)90250-2)
+#DATASETS   0
+#
+#DATASET    A0350030 
+#DATE       20260323
+#REACTION   14-SI-30(14-SI-28,X)25-MN-52,,SIG
+#PROJ       14028
+#TARG       14030
+#MF         3
+#MT         454
+#PRODUCT    25-MN-52
+#C4BEGIN    [14028 14030   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+14028 14030   3 454    5.7860+7          6.0000-4                    25052.9                     E.Bozek+             (86)A0350 30 
+14028 14030   3 454    5.9860+7          1.9000-3                    25052.9                     E.Bozek+             (86)A0350 30 
+14028 14030   3 454    6.1860+7          3.9000-3                    25052.9                     E.Bozek+             (86)A0350 30 
+14028 14030   3 454    6.2860+7          4.9000-3                    25052.9                     E.Bozek+             (86)A0350 30 
+14028 14030   3 454    6.3860+7          6.8000-3                    25052.9                     E.Bozek+             (86)A0350 30 
+14028 14030   3 454    6.4860+7          0.010200                    25052.9                     E.Bozek+             (86)A0350 30 
+14028 14030   3 454    6.5860+7          0.013100                    25052.9                     E.Bozek+             (86)A0350 30 
+14028 14030   3 454    6.7370+7          0.016800                    25052.9                     E.Bozek+             (86)A0350 30 
+14028 14030   3 454    6.8870+7          0.029200                    25052.9                     E.Bozek+             (86)A0350 30 
+14028 14030   3 454    7.7370+7          0.080700                    25052.9                     E.Bozek+             (86)A0350 30 
+14028 14030   3 454    8.4870+7          0.111900                    25052.9                     E.Bozek+             (86)A0350 30 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      23021
+#AUTHOR1    M.Segawa+
+#YEAR       2007
+#INSTITUTE  (2JPNOSA)
+#TITLE      Neutron capture cross sections of 186-Os, 187-Os, and
+#+          189-Os for the Re-Os chronology
+#AUTHOR(S)  M.Segawa, T.Masaki, Y.Nagai, Y.Temma, T.Shima, K.Mishima, 
+#+          M.Igashira, S.Goriely, A.Koning, T.Ohta, A.Nakayosi, J.Nishiyama, 
+#+          S.Hilaire
+#REF-CODE   (J,PR/C,76,022802,2007)
+#REFERENCE  Phys.Rev.C 76 (2007) 022802 (doi:10.1103/PhysRevC.76.022802)
+#DATASETS   0
+#
+#DATASET    23021003 
+#DATE       20091201
+#REACTION   76-OS-187(N,G)76-OS-188,,SIG,,AV
+#PROJ       1
+#TARG       76187
+#MF         3
+#MT         102
+#PRODUCT    76-OS-188
+#C4BEGIN    [    1 76187   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 76187   3 102 A  8000.000 1000.000 2.810000 0.160000                                       M.Segawa+            (07)23021  3 
+    1 76187   3 102 A  13000.00 3000.000 1.940000 0.070000                                       M.Segawa+            (07)23021  3 
+    1 76187   3 102 A  19500.00 2500.000 1.380000 0.050000                                       M.Segawa+            (07)23021  3 
+    1 76187   3 102 A  25000.00 2000.000 1.190000 0.040000                                       M.Segawa+            (07)23021  3 
+    1 76187   3 102 A  31000.00 3000.000 1.020000 0.030000                                       M.Segawa+            (07)23021  3 
+    1 76187   3 102 A  40000.00 5000.000 0.950000 0.030000                                       M.Segawa+            (07)23021  3 
+    1 76187   3 102 A  53000.00 7000.000 0.800000 0.030000                                       M.Segawa+            (07)23021  3 
+    1 76187   3 102 A  75500.00 14500.00 0.650000 0.020000                                       M.Segawa+            (07)23021  3 
+#/DATA      8
+#/DATASET

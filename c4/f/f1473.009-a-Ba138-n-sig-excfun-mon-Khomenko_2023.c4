@@ -1,0 +1,39 @@
+#ENTRY      F1473
+#AUTHOR1    I.A.Khomenko+
+#YEAR       2023
+#INSTITUTE  (4RUSKUR)
+#TITLE      Excitation functions of alpha particle induced
+#+          nuclear reactions on natBa up to 60 MeV
+#AUTHOR(S)  I.A.Khomenko, E.S.Kormazeva, V.N.Unezhev, R.A.Aliev
+#REF-CODE   (J,NIM/B,535,47,2023)
+#REFERENCE  Nucl.Instrum.Meth.B 535 (2023) 47 (doi:10.1016/j.nimb.2022.11.022)
+#DATASETS   0
+#
+#DATASET    F1473009 
+#DATE       20230123
+#REACTION   56-BA-138(A,N)58-CE-141,,SIG
+#PROJ       2004
+#TARG       56138
+#MF         3
+#MT         4
+#PRODUCT    58-CE-141
+#C4BEGIN    [ 2004 56138   3   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 56138   3   4 A  5.9000+7 600000.0 3.7000-3 3.0000-4                                       I.A.Khomenko+        (23)F1473  9 
+ 2004 56138   3   4 A  5.6600+7 800000.0 4.0000-3 3.0000-4                                       I.A.Khomenko+        (23)F1473  9 
+ 2004 56138   3   4 A  5.4200+7 900000.0 4.1000-3 4.0000-4                                       I.A.Khomenko+        (23)F1473  9 
+ 2004 56138   3   4 A  5.1800+7 1100000. 4.3000-3 4.0000-4                                       I.A.Khomenko+        (23)F1473  9 
+ 2004 56138   3   4 A  4.9300+7 1200000. 5.2000-3 5.0000-4                                       I.A.Khomenko+        (23)F1473  9 
+ 2004 56138   3   4 A  4.6600+7 1400000. 6.1000-3 6.0000-4                                       I.A.Khomenko+        (23)F1473  9 
+ 2004 56138   3   4 A  4.4000+7 1600000. 8.1000-3 8.0000-4                                       I.A.Khomenko+        (23)F1473  9 
+ 2004 56138   3   4 A  4.1300+7 1800000. 0.010700 1.0000-3                                       I.A.Khomenko+        (23)F1473  9 
+ 2004 56138   3   4 A  3.8500+7 2000000. 0.011100 1.1000-3                                       I.A.Khomenko+        (23)F1473  9 
+ 2004 56138   3   4 A  3.5500+7 2300000. 0.012600 1.2000-3                                       I.A.Khomenko+        (23)F1473  9 
+ 2004 56138   3   4 A  3.2400+7 2500000. 0.020500 1.9000-3                                       I.A.Khomenko+        (23)F1473  9 
+ 2004 56138   3   4 A  2.8900+7 2800000. 0.024900 2.3000-3                                       I.A.Khomenko+        (23)F1473  9 
+ 2004 56138   3   4 A  2.5400+7 3300000. 0.027200 3.9000-3                                       I.A.Khomenko+        (23)F1473  9 
+ 2004 56138   3   4 A  2.1900+7 3800000. 0.025300 3.7000-3                                       I.A.Khomenko+        (23)F1473  9 
+#/DATA      14
+#/DATASET

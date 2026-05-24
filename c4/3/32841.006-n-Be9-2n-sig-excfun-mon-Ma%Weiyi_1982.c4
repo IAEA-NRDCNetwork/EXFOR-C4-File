@@ -1,0 +1,27 @@
+#ENTRY      32841
+#AUTHOR1    Ma Weiyi+
+#YEAR       1982
+#INSTITUTE  (3CPRAEP)
+#TITLE      Secondary neutron energy spectrum for reactions
+#+          induced by 14.1 MeV neutrons on 9Be
+#AUTHOR(S)  Ma Weiyi, Sun Hancheng, Na Xiangyin, Yan Chen, Cui Yunfeng, 
+#+          Li Sumei
+#REF-CODE   (J,CST,16,4,1982)
+#REFERENCE  At.En.Sci.Technol. 16 (1982) 4
+#DATASETS   0
+#
+#DATASET    32841006 
+#DATE       20230906
+#REACTION   4-BE-9(N,2N)4-BE-8,,SIG
+#PROJ       1
+#TARG       4009
+#MF         3
+#MT         16
+#PRODUCT    4-BE-8
+#C4BEGIN    [    1  4009   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  4009   3  16    1.4100+7          0.548000 0.059000                                       Ma Weiyi+            (82)32841  6 
+#/DATA      1
+#/DATASET

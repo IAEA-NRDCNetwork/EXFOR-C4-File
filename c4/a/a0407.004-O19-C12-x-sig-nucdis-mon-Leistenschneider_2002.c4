@@ -1,0 +1,40 @@
+#ENTRY      A0407
+#AUTHOR1    A.Leistenschneider+
+#YEAR       2002
+#INSTITUTE  (2GERFRK)
+#TITLE      Fragmentation of unstable neutron-rich oxygen beams
+#AUTHOR(S)  A.Leistenschneider, T.Aumann, K.Boretzky, L.F.Canto, B.V.Carlson, 
+#+          D.Cortina, U.Datta-Pramanik, Th.W.Eize, H.Emling, H.Geissel, 
+#+          A.Gruenschloss, K.Helariutta, M.Hellstroem, M.S.Hussein, 
+#+          S.Ilievski, K.L.Jones, J.V.Kratz, R.Kulessa, Le-Hong-Khiem, 
+#+          E.Lubkiewicz, G.Muenzenberg, R.Palit, P.Reiter, C.Scheidenberger, 
+#+          K.-H.Schimdt, H.Simon, K.Suemmerer, E.Wajda, W.Walus
+#REF-CODE   (J,PR/C,65,064607,2002)
+#REFERENCE  Phys.Rev.C 65 (2002) 064607 (doi:10.1103/PhysRevC.65.064607)
+#DATASETS   0
+#
+#DATASET    A0407004 
+#DATE       20260129
+#REACTION   6-C-12(8-O-19,X)ELEM/MASS,,SIG
+#PROJ       8019
+#TARG       6012
+#MF         3
+#MT         454
+#C4BEGIN    [ 8019  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8019  6012   3 454    1.206+10          0.014000 1.7000-3            6012.9                     A.Leistenschneider+  (02)A0407  4 
+ 8019  6012   3 454    1.206+10          0.020700 2.1000-3            6013.9                     A.Leistenschneider+  (02)A0407  4 
+ 8019  6012   3 454    1.206+10          0.020400 2.1000-3            6014.9                     A.Leistenschneider+  (02)A0407  4 
+ 8019  6012   3 454    1.206+10          5.4000-3 8.0000-4            6015.9                     A.Leistenschneider+  (02)A0407  4 
+ 8019  6012   3 454    1.206+10          0.010400 1.4000-3            7014.9                     A.Leistenschneider+  (02)A0407  4 
+ 8019  6012   3 454    1.206+10          0.043300 3.7000-3            7015.9                     A.Leistenschneider+  (02)A0407  4 
+ 8019  6012   3 454    1.206+10          0.023100 2.3000-3            7016.9                     A.Leistenschneider+  (02)A0407  4 
+ 8019  6012   3 454    1.206+10          0.027600 3.3000-3            7017.9                     A.Leistenschneider+  (02)A0407  4 
+ 8019  6012   3 454    1.206+10          0.014300 2.3000-3            7018.9                     A.Leistenschneider+  (02)A0407  4 
+ 8019  6012   3 454    1.206+10          0.023100 2.5000-3            8016.9                     A.Leistenschneider+  (02)A0407  4 
+ 8019  6012   3 454    1.206+10          0.017200 2.6000-3            8017.9                     A.Leistenschneider+  (02)A0407  4 
+ 8019  6012   3 454    1.206+10          0.066100 5.5000-3            8018.9                     A.Leistenschneider+  (02)A0407  4 
+#/DATA      12
+#/DATASET

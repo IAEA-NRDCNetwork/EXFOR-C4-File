@@ -1,0 +1,34 @@
+#ENTRY      A0265
+#AUTHOR1    S.R.Wilkins+
+#YEAR       1975
+#INSTITUTE  (1USADAV)
+#TITLE      Excitation functions and yields for 123-I production
+#+          using the 127-I(p,5n)123-Xe reaction
+#AUTHOR(S)  S.R.Wilkins, S.T.Shimore, H.H.Hines, J.A.Jungerman, F.Hegedus, 
+#+          G.L.Denardo
+#REF-CODE   (J,ARI,26,279,1975)
+#REFERENCE  Appl.Radiat.Isot. 26 (1975) 279 (doi:10.1016/0020-708X(75)90162-3)
+#DATASETS   0
+#
+#DATASET    A0265003 
+#DATE       20220331
+#REACTION   53-I-127(P,3N)54-XE-125,,SIG
+#PROJ       1001
+#TARG       53127
+#MF         3
+#MT         17
+#PRODUCT    54-XE-125
+#C4BEGIN    [ 1001 53127   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 53127   3  17    4.5150+7 541800.0 0.296300 0.035556                                       S.R.Wilkins+         (75)A0265  3 
+ 1001 53127   3  17    4.8270+7 579240.0 0.211900 0.025428                                       S.R.Wilkins+         (75)A0265  3 
+ 1001 53127   3  17    5.3680+7 644160.0 0.187000 0.022440                                       S.R.Wilkins+         (75)A0265  3 
+ 1001 53127   3  17    5.6620+7 679440.0 0.140000 0.016800                                       S.R.Wilkins+         (75)A0265  3 
+ 1001 53127   3  17    5.9220+7 710640.0 0.122000 0.014640                                       S.R.Wilkins+         (75)A0265  3 
+ 1001 53127   3  17    5.9480+7 713760.0 0.125000 0.015000                                       S.R.Wilkins+         (75)A0265  3 
+ 1001 53127   3  17    6.2210+7 746520.0 0.133000 0.015960                                       S.R.Wilkins+         (75)A0265  3 
+ 1001 53127   3  17    6.2360+7 748320.0 0.135000 0.016200                                       S.R.Wilkins+         (75)A0265  3 
+#/DATA      8
+#/DATASET

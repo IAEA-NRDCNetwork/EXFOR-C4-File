@@ -1,0 +1,34 @@
+#ENTRY      C0030
+#AUTHOR1    R.L.Schulte+
+#YEAR       1972
+#INSTITUTE  (1USAKTY)
+#TITLE      2H+d reactions from 1.96 to 6.20 MeV
+#AUTHOR(S)  R.L.Schulte, M.Cosack, A.W.Obst, J.L.Weil
+#REF-CODE   (J,NP/A,192,609,1972)
+#REFERENCE  Nucl.Phys.A 192 (1972) 609 (doi:10.1016/0375-9474(72)90093-0)
+#DATASETS   0
+#
+#DATASET    C0030005 
+#DATE       20180411
+#REACTION   1-H-2(D,N)2-HE-3,,SIG
+#PROJ       1002
+#TARG       1002
+#MF         3
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1002   3   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   3   4 D  1960000. 3600.000 0.104300 2.5000-4                                       R.L.Schulte+         (72)C0030  5 
+ 1002  1002   3   4 D  2510000. 4000.000 0.104600 2.5000-4                                       R.L.Schulte+         (72)C0030  5 
+ 1002  1002   3   4 D  3020000. 4500.000 0.103800 2.5000-4                                       R.L.Schulte+         (72)C0030  5 
+ 1002  1002   3   4 D  3500000. 5000.000 0.101400 6.3000-4                                       R.L.Schulte+         (72)C0030  5 
+ 1002  1002   3   4 D  4000000. 5700.000 0.099800 3.8000-4                                       R.L.Schulte+         (72)C0030  5 
+ 1002  1002   3   4 D  4500000. 6400.000 0.098600 6.3000-4                                       R.L.Schulte+         (72)C0030  5 
+ 1002  1002   3   4 D  5000000. 7200.000 0.097300 6.3000-4                                       R.L.Schulte+         (72)C0030  5 
+ 1002  1002   3   4 D  5500000. 8100.000 0.094900 6.3000-4                                       R.L.Schulte+         (72)C0030  5 
+ 1002  1002   3   4 D  5800000. 8700.000 0.093700 5.0000-4                                       R.L.Schulte+         (72)C0030  5 
+ 1002  1002   3   4 D  6200000. 9500.000 0.093400 7.5000-4                                       R.L.Schulte+         (72)C0030  5 
+#/DATA      10
+#/DATASET

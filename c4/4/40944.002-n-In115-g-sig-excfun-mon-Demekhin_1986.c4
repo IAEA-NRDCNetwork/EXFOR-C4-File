@@ -1,0 +1,28 @@
+#ENTRY      40944
+#AUTHOR1    V.L.Demekhin+
+#YEAR       1986
+#INSTITUTE  (4UKRKGU)
+#TITLE      Gamma-spectroscopic study of neutron radiation capture
+#+          cross-sections at nuclei In-115 and Au-197 for
+#+          neutron incident energy 2.7 MeV
+#AUTHOR(S)  V.L.Demekhin, V.K.Maydanyuk, V.M.Neplyuev, G.I.Primenko, 
+#+          V.K.Tarakanov
+#REF-CODE   (C,86KHARKO,,94,1986)
+#REFERENCE  Proceedings of 36.Conf.Nucl.Spectrosc.and Nucl.Struct.,Kharkov 1986 page 94
+#DATASETS   0
+#
+#DATASET    40944002 
+#DATE       20240208
+#REACTION   49-IN-115(N,G)49-IN-116-M1,,SIG
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         102
+#PRODUCT    49-IN-116-M1
+#C4BEGIN    [    1 49115   3 1021 ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3 1021   2700000.          0.061000 6.0000-3                                       V.L.Demekhin+        (86)40944  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      C0424
+#AUTHOR1    R.F.Carlson+
+#YEAR       1995
+#INSTITUTE  (1CANMNA)
+#TITLE      Measurements of Proton total reaction cross sections
+#+          for 112,114,116,118,120,122,124Sn from 22 to 48 MeV
+#AUTHOR(S)  R.F.Carlson, A.J.Cox, T.Eliyakut-Roshko, W.T.H.Van Oers
+#REF-CODE   (J,CJP,73,512,199508)
+#REFERENCE  Can.J.Phys. 73 (1995) 512 (doi:10.1139/p95-074)
+#DATASETS   0
+#
+#DATASET    C0424004 
+#DATE       19990217
+#REACTION   50-SN-116(P,NON),,SIG
+#PROJ       1001
+#TARG       50116
+#MF         3
+#MT         3
+#C4BEGIN    [ 1001 50116   3   3 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50116   3   3 A  2.2800+7 100000.0 1.530000 0.045000                                       R.F.Carlson+         (95)C0424  4 
+ 1001 50116   3   3 A  2.5100+7 100000.0 1.514000 0.033000                                       R.F.Carlson+         (95)C0424  4 
+ 1001 50116   3   3 A  3.0200+7 100000.0 1.594000 0.025000                                       R.F.Carlson+         (95)C0424  4 
+ 1001 50116   3   3 A  3.5000+7 100000.0 1.516000 0.027000                                       R.F.Carlson+         (95)C0424  4 
+ 1001 50116   3   3 A  3.9700+7 100000.0 1.574000 0.032000                                       R.F.Carlson+         (95)C0424  4 
+ 1001 50116   3   3 A  4.5200+7 100000.0 1.485000 0.048000                                       R.F.Carlson+         (95)C0424  4 
+ 1001 50116   3   3 A  4.7900+7 100000.0 1.517000 0.055000                                       R.F.Carlson+         (95)C0424  4 
+#/DATA      7
+#/DATASET

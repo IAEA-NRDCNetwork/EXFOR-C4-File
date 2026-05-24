@@ -1,0 +1,29 @@
+#ENTRY      F1478
+#AUTHOR1    E.S.Kormazeva+
+#YEAR       2023
+#INSTITUTE  (4RUSKUR)
+#TITLE      141Pr(alpha,x): new cross-section data with special
+#+          reference to 140Nd production for medicine
+#AUTHOR(S)  E.S.Kormazeva, A.R.Kulakova, V.I.Novikov, R.A.Aliev
+#REF-CODE   (J,NSE,197,1293,2023)
+#REFERENCE  Nucl.Sci.Eng. 197 (2023) 1293 (doi:10.1080/00295639.2022.2162303)
+#DATASETS   0
+#
+#DATASET    F1478013 
+#DATE       20231017
+#REACTION   59-PR-141(A,X)59-PR-138-M,,SIG
+#PROJ       2004
+#TARG       59141
+#MF         3
+#MT         454
+#PRODUCT    59-PR-138-M
+#C4BEGIN    [ 2004 59141   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 59141   3 454 A  5.3800+7 600000.0 0.018000 2.0000-3           59138.7                     E.S.Kormazeva+       (23)F1478 13 
+ 2004 59141   3 454 A  5.1600+7 700000.0 8.7000-3 1.2000-3           59138.7                     E.S.Kormazeva+       (23)F1478 13 
+ 2004 59141   3 454 A  4.9600+7 900000.0 3.7000-3 6.0000-4           59138.7                     E.S.Kormazeva+       (23)F1478 13 
+ 2004 59141   3 454 A  4.5400+7 1100000. 2.3000-4 3.0000-5           59138.7                     E.S.Kormazeva+       (23)F1478 13 
+#/DATA      4
+#/DATASET

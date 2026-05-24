@@ -1,0 +1,43 @@
+#ENTRY      A0545
+#AUTHOR1    O.V.Bespalova+
+#YEAR       1992
+#INSTITUTE  (4RUSMOS)
+#TITLE      Total cross sections determination from 25.2 MeV
+#+          alpha-particles elastic scattering data on 94Mo, 107Ag,
+#+          116,122,124Sn nuclei.
+#AUTHOR(S)  O.V.Bespalova, E.A.Romanovskij, N.G.Gorjaga, Nguen Mak Kha, 
+#+          B.S.Galakhmatova, L.M.Rafu, S.I.Fedoseev, D.Lam, A.Belal
+#REF-CODE   (J,IZV,56,(5),113,1992)
+#REFERENCE  Izv.Ross.AN,Fiz. 56 No.5 (1992) 113
+#DATASETS   0
+#
+#DATASET    A0545005 
+#DATE       20100406
+#REACTION   50-SN-122(A,EL)50-SN-122,,DA,,RTH
+#PROJ       2004
+#TARG       50122
+#MF         4
+#MT         2
+#PRODUCT    50-SN-122
+#C4BEGIN    [ 2004 50122   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 50122   4   2    2.5200+7          4.621704 0.554604 0.865151                              O.V.Bespalova+       (92)A0545  5 
+ 2004 50122   4   2    2.5200+7          3.385865 0.406304 0.842452                              O.V.Bespalova+       (92)A0545  5 
+ 2004 50122   4   2    2.5200+7          2.277159 0.409889 0.806960                              O.V.Bespalova+       (92)A0545  5 
+ 2004 50122   4   2    2.5200+7          0.484413 0.092038 0.698415                              O.V.Bespalova+       (92)A0545  5 
+ 2004 50122   4   2    2.5200+7          0.110679 0.017709 0.570714                              O.V.Bespalova+       (92)A0545  5 
+ 2004 50122   4   2    2.5200+7          0.032801 5.9042-3 0.409923                              O.V.Bespalova+       (92)A0545  5 
+ 2004 50122   4   2    2.5200+7          0.011171 2.0107-3 0.245307                              O.V.Bespalova+       (92)A0545  5 
+ 2004 50122   4   2    2.5200+7          6.8788-3 1.0318-3 0.149535                              O.V.Bespalova+       (92)A0545  5 
+ 2004 50122   4   2    2.5200+7          3.9732-3 5.5625-4 0.071497                              O.V.Bespalova+       (92)A0545  5 
+ 2004 50122   4   2    2.5200+7          3.3319-3 7.3302-4-1.7453-3                              O.V.Bespalova+       (92)A0545  5 
+ 2004 50122   4   2    2.5200+7          2.2007-3 4.1813-4-0.088894                              O.V.Bespalova+       (92)A0545  5 
+ 2004 50122   4   2    2.5200+7          1.0749-3 1.8273-4-0.168489                              O.V.Bespalova+       (92)A0545  5 
+ 2004 50122   4   2    2.5200+7          8.6994-4 1.5659-4-0.262189                              O.V.Bespalova+       (92)A0545  5 
+ 2004 50122   4   2    2.5200+7          4.8220-4 1.2055-4-0.424199                              O.V.Bespalova+       (92)A0545  5 
+ 2004 50122   4   2    2.5200+7          3.4680-4 6.2424-5-0.570714                              O.V.Bespalova+       (92)A0545  5 
+ 2004 50122   4   2    2.5200+7          1.3254-4 2.7834-5-0.699663                              O.V.Bespalova+       (92)A0545  5 
+#/DATA      16
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      13308
+#AUTHOR1    A.C.Wahl+
+#YEAR       1972
+#INSTITUTE  (1USAWAS)
+#TITLE      Cumulative yield of 83-sec 136I from thermal-neutron
+#+          induced fission of 235U
+#AUTHOR(S)  A.C.Wahl, R.Denig
+#REF-CODE   (J,JIN,34,2413,1972)
+#REFERENCE  J.Inorg.Nucl.Chem. 34 (1972) 2413 (doi:10.1016/0022-1902(72)80186-6)
+#DATASETS   0
+#
+#DATASET    13308002 
+#DATE       20201213
+#REACTION   92-U-235(N,F)53-I-136-G,CUM,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#PRODUCT    53-I-136-G
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025300          0.039000 8.0000-3 53.00000 136.0000 0.000000            A.C.Wahl+            (72)13308  2 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      14620
+#AUTHOR1    P.K.Kuroda+
+#YEAR       1956
+#INSTITUTE  (1USAARK)
+#TITLE      Radiochemical measurements of the natural fission
+#+          rate of uranium and the natural occurrence of the
+#+          short-lived iodine isotopes
+#AUTHOR(S)  P.K.Kuroda, R.R.Edwards, F.T.Ashizawa
+#REF-CODE   (J,JCP,25,603,1956)
+#REFERENCE  J.Chem.Phys. 25 (1956) 603 (doi:10.1063/1.1743002)
+#DATASETS   0
+#
+#DATASET    14620002 
+#DATE       20200403
+#REACTION   92-U-238(0,F)ELEM/MASS,CUM,FY
+#PROJ       -1
+#TARG       92238
+#MF         8
+#MT         459
+#C4BEGIN    [   -1 92238   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+   -1 92238   8 459                      4.0370-3 2.1750-3 53.00000 131.0000 9.000000            P.K.Kuroda+          (56)14620  2 
+   -1 92238   8 459                      0.016170 4.2020-3 53.00000 133.0000 9.000000            P.K.Kuroda+          (56)14620  2 
+   -1 92238   8 459                      0.050041 7.8260-3 53.00000 135.0000 9.000000            P.K.Kuroda+          (56)14620  2 
+#/DATA      3
+#/DATASET

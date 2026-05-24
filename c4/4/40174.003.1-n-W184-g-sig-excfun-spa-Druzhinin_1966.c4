@@ -1,0 +1,27 @@
+#ENTRY      40174
+#AUTHOR1    A.A.Druzhinin+
+#YEAR       1966
+#INSTITUTE  (4RUSKUR)
+#TITLE      Cross sections of the reactions W186(N,2N)W185,
+#+          W184(N,G)W185, W186(N,G)W187 for fission neutrons and
+#+          W186(N,2N)W185 and W182(N,2N)W181 for 14.8 MeV neutrons
+#AUTHOR(S)  A.A.Druzhinin, A.A.Lbov, L.P.Bilibin
+#REF-CODE   (J,YF,4,515,1966)
+#REFERENCE  Yad.Fiz. 4 (1966) 515
+#DATASETS   0
+#
+#DATASET    401740031
+#DATE       20210729
+#REACTION   74-W-184(N,G)74-W-185,,SIG,,SPA
+#PROJ       1
+#TARG       74184
+#MF         3
+#MT         102
+#PRODUCT    74-W-185
+#C4BEGIN    [    1 74184   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74184   3 102    800000.0          0.064000 5.0000-3                                       A.A.Druzhinin+       (66)40174  31
+#/DATA      1
+#/DATASET

@@ -1,0 +1,25 @@
+#ENTRY      30224
+#AUTHOR1    R.L.Zimmerman+
+#YEAR       1967
+#INSTITUTE  (3BZLIPE)
+#TITLE      Neutron cross sections of Pr, Yb, Lu, Er, Ho and Tm
+#AUTHOR(S)  R.L.Zimmerman, L.Q.Amaral, R.Fulfaro, M.C.Mattos, M.Abreu, 
+#+          R.Stasiulevicius
+#REF-CODE   (J,NP/A,95,683,1967)
+#REFERENCE  Nucl.Phys.A 95 (1967) 683 (doi:10.1016/0375-9474(67)90861-5)
+#DATASETS   0
+#
+#DATASET    30224007 
+#DATE       20081203
+#REACTION   67-HO-165(N,TOT),,SIG
+#PROJ       1
+#TARG       67165
+#MF         3
+#MT         1
+#C4BEGIN    [    1 67165   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 67165   3   1    0.025300          98.00000 2.000000                                       R.L.Zimmerman+       (67)30224  7 
+#/DATA      1
+#/DATASET

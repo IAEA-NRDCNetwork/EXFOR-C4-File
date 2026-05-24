@@ -1,0 +1,37 @@
+#ENTRY      D4383
+#AUTHOR1    S.Takacs+
+#YEAR       2018
+#INSTITUTE  (3HUNDEB)
+#TITLE      Measurement of activation cross sections of alpha
+#+          particle induced reactions on iridium up to an energy
+#+          of 50 MeV
+#AUTHOR(S)  S.Takacs, F.Ditroi, Z.Szucs, M.Aikawa, H.Haba, Y.Komori, 
+#+          M.Saito
+#REF-CODE   (J,ARI,136,133,2018)
+#REFERENCE  Appl.Radiat.Isot. 136 (2018) 133 (doi:10.1016/j.apradiso.2018.02.023)
+#DATASETS   0
+#
+#DATASET    D4383015 
+#DATE       20180406
+#REACTION   77-IR-0(A,X)77-IR-189,,SIG
+#PROJ       2004
+#TARG       77000
+#MF         3
+#MT         454
+#PRODUCT    77-IR-189
+#C4BEGIN    [ 2004 77000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 77000   3 454    4.9480+7 200000.0 6.1800-3 5.6000-4           77189.9                     S.Takacs+            (18)D4383 15 
+ 2004 77000   3 454    4.8520+7 210000.0 6.1500-3 7.2000-4           77189.9                     S.Takacs+            (18)D4383 15 
+ 2004 77000   3 454    4.5790+7 220000.0 4.3200-3 4.3000-4           77189.9                     S.Takacs+            (18)D4383 15 
+ 2004 77000   3 454    4.4960+7 220000.0 4.0700-3 6.5000-4           77189.9                     S.Takacs+            (18)D4383 15 
+ 2004 77000   3 454    4.1890+7 230000.0 2.3200-3 2.1000-4           77189.9                     S.Takacs+            (18)D4383 15 
+ 2004 77000   3 454    4.1210+7 230000.0 1.1200-3 2.3000-4           77189.9                     S.Takacs+            (18)D4383 15 
+ 2004 77000   3 454    3.7740+7 250000.0 5.4000-4 8.0000-5           77189.9                     S.Takacs+            (18)D4383 15 
+ 2004 77000   3 454    3.7220+7 250000.0 2.7000-4 1.4200-3           77189.9                     S.Takacs+            (18)D4383 15 
+ 2004 77000   3 454    3.3250+7 270000.0 1.8000-4 1.8000-4           77189.9                     S.Takacs+            (18)D4383 15 
+ 2004 77000   3 454    3.2920+7 270000.0 2.0000-5 3.0000-5           77189.9                     S.Takacs+            (18)D4383 15 
+#/DATA      10
+#/DATASET

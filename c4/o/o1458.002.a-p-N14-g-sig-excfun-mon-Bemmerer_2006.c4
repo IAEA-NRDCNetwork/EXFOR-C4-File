@@ -1,0 +1,55 @@
+#ENTRY      O1458
+#AUTHOR1    D.Bemmerer+
+#YEAR       2006
+#INSTITUTE  (2ITYPAD)
+#TITLE      Low energy measurement of the 14-N(p,gamma)15-O total
+#+          cross section at the Luna-underground facility.
+#AUTHOR(S)  D.Bemmerer, F.Confortola, A.Lemut, R.Bonetti, C.Broggini, 
+#+          P.Corvisiero, H.Costantini, J.Cruz, A.Formicola, Zs.Fulop, 
+#+          G.Gervino, A.Guglielmetti, C.Gustavino, Gy.Gyurky, G.Imbriani, 
+#+          A.Jesus, M.Junker, B.Limata, R.Menegazzo, P.Prati, V.Roca, 
+#+          C.Rolfs, D.Rogalla, M.Romano, C.Rossi-Alvarez, F.Schumann, 
+#+          E.Somorjai, O.Straniero, F.Strieder, F.Terrasi, H.P.Trautvetter, 
+#+          Luna Collaboration
+#REF-CODE   (J,NP/A,779,297,2006)
+#REFERENCE  Nucl.Phys.A 779 (2006) 297 (doi:10.1016/j.nuclphysa.2006.09.001)
+#DATASETS   0
+#
+#DATASET    O1458002A
+#DATE       20070605
+#REACTION   7-N-14(P,G)8-O-15,,SIG,,SFC
+#PROJ       1001
+#TARG       7014
+#MF         3
+#MT         102
+#PRODUCT    8-O-15
+#C4BEGIN    [ 1001  7014   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   3 102    75123.96          2.382-13 1.916-14                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    85007.59          9.793-13 5.533-14                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    95084.19          3.083-12 1.269-13                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    105664.6          9.047-12 4.679-13                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    115773.3          2.072-11 1.233-12                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    126053.6          4.802-11 1.857-12                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    135755.1          9.296-11 4.020-12                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    145960.3          1.720-10 7.319-12                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    164291.2          4.301-10 3.237-11                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    171269.8          6.062-10 2.210-11                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    175729.3          7.551-10 3.814-11                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    178430.7          9.757-10 4.687-11                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    183812.1          1.0808-9 3.691-11                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    194875.0          1.8802-9 6.347-11                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    200041.9          2.3143-9 7.588-11                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    204040.4          2.8502-9 8.670-11                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    206463.1          3.3418-9 1.407-10                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    215478.5          4.3631-9 2.329-10                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    218126.3          5.5955-9 2.857-10                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    222778.8          6.7132-9 2.308-10                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    228363.8          8.3229-9 2.924-10                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    232812.6          1.1291-8 4.060-10                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    235385.3          1.3362-8 5.160-10                                       D.Bemmerer+          (06)O1458  2A
+ 1001  7014   3 102    244636.6          2.2914-8 7.214-10                                       D.Bemmerer+          (06)O1458  2A
+#/DATA      24
+#/DATASET

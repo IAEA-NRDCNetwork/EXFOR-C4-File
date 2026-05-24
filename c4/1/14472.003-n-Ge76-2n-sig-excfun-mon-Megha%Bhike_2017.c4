@@ -1,0 +1,36 @@
+#ENTRY      14472
+#AUTHOR1    Megha Bhike+
+#YEAR       2017
+#INSTITUTE  (1USATNL)
+#TITLE      Total and isomeric-state cross sections for the
+#+          76Ge(n,2n)75Ge reaction from threshold to 14.8 MeV
+#AUTHOR(S)  Megha Bhike, Krishichayan, W.Tornow
+#REF-CODE   (J,PR/C,95,054605,2017)
+#REFERENCE  Phys.Rev.C 95 (2017) 054605 (doi:10.1103/PhysRevC.95.054605)
+#DATASETS   0
+#
+#DATASET    14472003 
+#DATE       20170601
+#REACTION   32-GE-76(N,2N)32-GE-75-G,,SIG
+#PROJ       1
+#TARG       32076
+#MF         3
+#MT         16
+#PRODUCT    32-GE-75-G
+#C4BEGIN    [    1 32076   3  16GD]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32076   3  16GD  9900000. 110000.0 0.022770 2.3000-3                                       Megha Bhike+         (17)14472  3 
+    1 32076   3  16GD  1.0390+7 140000.0 0.089450 7.2100-3                                       Megha Bhike+         (17)14472  3 
+    1 32076   3  16GD  1.0890+7 140000.0 0.129560 0.010120                                       Megha Bhike+         (17)14472  3 
+    1 32076   3  16GD  1.1390+7 140000.0 0.167810 0.014330                                       Megha Bhike+         (17)14472  3 
+    1 32076   3  16GD  1.1880+7 130000.0 0.213840 0.017530                                       Megha Bhike+         (17)14472  3 
+    1 32076   3  16GD  1.2380+7 150000.0 0.264240 0.026230                                       Megha Bhike+         (17)14472  3 
+    1 32076   3  16GD  1.2870+7 150000.0 0.283110 0.028140                                       Megha Bhike+         (17)14472  3 
+    1 32076   3  16GD  1.3370+7 150000.0 0.300550 0.024890                                       Megha Bhike+         (17)14472  3 
+    1 32076   3  16GD  1.3870+7 70000.00 0.329820 0.024950                                       Megha Bhike+         (17)14472  3 
+    1 32076   3  16GD  1.4360+7 110000.0 0.330100 0.025460                                       Megha Bhike+         (17)14472  3 
+    1 32076   3  16GD  1.4800+7 70000.00 0.335700 0.026800                                       Megha Bhike+         (17)14472  3 
+#/DATA      11
+#/DATASET

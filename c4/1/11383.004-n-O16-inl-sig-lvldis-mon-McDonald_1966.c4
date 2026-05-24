@@ -1,0 +1,28 @@
+#ENTRY      11383
+#AUTHOR1    W.J.McDonald+
+#YEAR       1966
+#INSTITUTE  (1CANOTU)
+#TITLE      Scattered neutrons and gamma rays from the O-16
+#+          (n,n'gamma)O-16 reaction at E(n)=14.1 MeV
+#AUTHOR(S)  W.J.McDonald, J.M.Robson, R.Malcolm
+#REF-CODE   (J,NP,75,353,1966)
+#REFERENCE  Nucl.Phys. 75 (1966) 353 (doi:10.1016/0029-5582(66)90766-8)
+#DATASETS   0
+#
+#DATASET    11383004 
+#DATE       20181102
+#REACTION   8-O-16(N,INL)8-O-16,PAR,SIG
+#PROJ       1
+#TARG       8016
+#MF         3
+#MT         51
+#PRODUCT    8-O-16
+#C4BEGIN    [    1  8016   3  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016   3  51 D  1.4100+7          0.018000 5.0000-3                   8900000.         LVLW.J.McDonald+        (66)11383  4 
+    1  8016   3  51 D  1.4100+7          0.058000 7.0000-3                   7000000.         LVLW.J.McDonald+        (66)11383  4 
+    1  8016   3  51 D  1.4100+7          0.096000 0.010000                   6100000.         LVLW.J.McDonald+        (66)11383  4 
+#/DATA      3
+#/DATASET

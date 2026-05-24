@@ -1,0 +1,32 @@
+#ENTRY      C2704
+#AUTHOR1    P.Gastis+
+#YEAR       2021
+#INSTITUTE  (1USAMSU)
+#TITLE      A technique for the study of (p,n) reactions with
+#+          unstable isotopes at energies relevant to astrophysics
+#AUTHOR(S)  P.Gastis, G.Perdikakis, G.P.A.Berg, A.C.Dombos, A.Estrade, 
+#+          A.Falduto, M.Horoi, S.N.Liddick, S.Lipschutz, S.Lyons, F.Montes, 
+#+          A.Palmisano, J.Pereira, J.S.Randhawa, T.Redpath, M.Redshaw, 
+#+          J.Schmitt, J.R.Sheehan, M.K.Smith, P.Tsintari, A.C.C.Villari, 
+#+          K.Wang, R.G.T.Zegers
+#REF-CODE   (J,NIM/A,985,164603,2021)
+#REFERENCE  Nucl.Instrum.Meth.A 985 (2021) 164603 (doi:10.1016/j.nima.2020.164603)
+#DATASETS   0
+#
+#DATASET    C2704002 
+#DATE       20220126
+#REACTION   18-AR-40(P,N)19-K-40,PAR,SIG
+#PROJ       1001
+#TARG       18040
+#MF         3
+#MT         50
+#PRODUCT    19-K-40
+#C4BEGIN    [ 1001 18040   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 18040   3  50    3444888. 80007.22 0.021900 6.3000-3                   800140.0         LVLP.Gastis+            (21)C2704  2 
+ 1001 18040   3  50    3444888. 50004.51 0.013000 3.3000-3                   800140.0         LVLP.Gastis+            (21)C2704  2 
+ 1001 18040   3  50    3444888. 60005.41 0.014900 2.9000-3                   800140.0         LVLP.Gastis+            (21)C2704  2 
+#/DATA      3
+#/DATASET

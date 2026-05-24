@@ -1,0 +1,37 @@
+#ENTRY      C2747
+#AUTHOR1    H.Jayatissa+
+#YEAR       2022
+#INSTITUTE  (1USAANL)
+#TITLE      First direct measurement of the 13N(alpha,p)16-O
+#+          reaction relevant for core-collapse supernovae
+#+          nucleosynthesis
+#AUTHOR(S)  H.Jayatissa, M.L.Avila, K.E.Rehm, R.Talwar, P.Mohr, K.Auranen, 
+#+          J.Chen, D.A.Gorelov, C.R.Hoffman, C.L.Jiang, B.P.Kay, S.A.Kuvin, 
+#+          D.Santiago-Gonzalez
+#REF-CODE   (J,PR/C,105,L042802,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) L042802 (doi:10.1103/PhysRevC.105.L042802)
+#DATASETS   0
+#
+#DATASET    C2747002 
+#DATE       20220530
+#REACTION   (2-HE-4(7-N-13,P)8-O-16,,SIG)=(7-N-13(A,P)8-O-16,,SIG)
+#PROJ       2004
+#TARG       7013
+#MF         3
+#MT         103
+#PRODUCT    8-O-16
+#C4BEGIN    [ 2004  7013   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  7013   3 103    7867885. 153949.4 0.341821 0.022329                                       H.Jayatissa+         (22)C2747  2 
+ 2004  7013   3 103    7460499. 157663.1 0.279672 0.019806                                       H.Jayatissa+         (22)C2747  2 
+ 2004  7013   3 103    7043034. 161655.8 0.257804 0.018882                                       H.Jayatissa+         (22)C2747  2 
+ 2004  7013   3 103    6614734. 165965.2 0.301539 0.020709                                       H.Jayatissa+         (22)C2747  2 
+ 2004  7013   3 103    6174643. 170720.4 0.301539 0.021364                                       H.Jayatissa+         (22)C2747  2 
+ 2004  7013   3 103    5721349. 176077.5 0.307293 0.020944                                       H.Jayatissa+         (22)C2747  2 
+ 2004  7013   3 103    5253270. 181975.3 0.299237 0.021123                                       H.Jayatissa+         (22)C2747  2 
+ 2004  7013   3 103    4769309. 188158.6 0.206013 0.033214                                       H.Jayatissa+         (22)C2747  2 
+ 2004  7013   3 103    4268879. 194627.4 0.232484 0.100338                                       H.Jayatissa+         (22)C2747  2 
+#/DATA      9
+#/DATASET

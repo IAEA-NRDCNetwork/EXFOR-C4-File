@@ -1,0 +1,34 @@
+#ENTRY      C1035
+#AUTHOR1    J.R.Wu+
+#YEAR       1979
+#INSTITUTE  (1USAMRY)
+#TITLE      Charged particle spectra: 80 MeV deuterons on 27Al
+#+          and 58Ni and 70 MeV deuterons on 90Zr, 208Pb, and 232Th
+#AUTHOR(S)  J.R.Wu, C.C.Chang, H.D.Holmgren
+#REF-CODE   (J,PR/C,19,370,1979)
+#REFERENCE  Phys.Rev.C 19 (1979) 370 (doi:10.1103/PhysRevC.19.370)
+#DATASETS   0
+#
+#DATASET    C1035231 
+#DATE       20130117
+#REACTION   28-NI-58(D,X)1-H-3,,DA/DE
+#PROJ       1002
+#TARG       28058
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002 28058   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28058   6 205  C 8.0000+7          1.448-10          0.843110          2.5000+7          E2J.R.Wu+              (79)C1035231 
+ 1002 28058   6 205  C 8.0000+7          9.900-11          0.713862          2.5000+7          E2J.R.Wu+              (79)C1035231 
+ 1002 28058   6 205  C 8.0000+7          4.823-11          0.560205          2.5000+7          E2J.R.Wu+              (79)C1035231 
+ 1002 28058   6 205  C 8.0000+7          3.451-11          0.346281          2.5000+7          E2J.R.Wu+              (79)C1035231 
+ 1002 28058   6 205  C 8.0000+7          2.703-11          0.112510          2.5000+7          E2J.R.Wu+              (79)C1035231 
+ 1002 28058   6 205  C 8.0000+7          1.651-11         -0.136580          2.5000+7          E2J.R.Wu+              (79)C1035231 
+ 1002 28058   6 205  C 8.0000+7          1.208-11         -0.345298          2.5000+7          E2J.R.Wu+              (79)C1035231 
+ 1002 28058   6 205  C 8.0000+7          1.134-11         -0.566406          2.5000+7          E2J.R.Wu+              (79)C1035231 
+ 1002 28058   6 205  C 8.0000+7          3.936-12         -0.719340          2.5000+7          E2J.R.Wu+              (79)C1035231 
+#/DATA      9
+#/DATASET

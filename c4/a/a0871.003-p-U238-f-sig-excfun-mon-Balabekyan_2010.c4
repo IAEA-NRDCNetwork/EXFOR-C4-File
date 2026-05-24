@@ -1,0 +1,25 @@
+#ENTRY      A0871
+#AUTHOR1    A.R.Balabekyan+
+#YEAR       2010
+#INSTITUTE  (4ARMJSU)
+#TITLE      Symmetric and asymmetric fission modes in proton-
+#+          induced fission at 660 MeV of U-238.
+#AUTHOR(S)  A.R.Balabekyan, G.S.Karapetyan, N.A.Demekhina, J.Adam, K.Katovsky
+#REF-CODE   (J,PAN,73,1814,2010)
+#REFERENCE  Phys.At.Nucl. 73 (2010) 1814 (doi:10.1134/S1063778810110025)
+#DATASETS   0
+#
+#DATASET    A0871003 
+#DATE       20110331
+#REACTION   92-U-238(P,F),,SIG
+#PROJ       1001
+#TARG       92238
+#MF         3
+#MT         18
+#C4BEGIN    [ 1001 92238   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92238   3  18 D  6.6000+8          1.226500 0.183900                                       A.R.Balabekyan+      (10)A0871  3 
+#/DATA      1
+#/DATASET

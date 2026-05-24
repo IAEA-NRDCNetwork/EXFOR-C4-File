@@ -1,0 +1,32 @@
+#ENTRY      O1011
+#AUTHOR1    A.De Vismes+
+#YEAR       2002
+#INSTITUTE  (2FR GAN)
+#TITLE      Proton reaction cross section measurements on stable
+#+          and neutron-rich nuclei as a probe of the nucleon-
+#+          nucleus interaction.
+#AUTHOR(S)  A.De Vismes, P.Roussel-Chomaz, W.Mittig, A.Pakou, N.Alamanos, 
+#+          J.C.Angelique, F.Auger, J.Barrette, E.Bauge, A.V.Belozyorov, 
+#+          C.Borcea, F.Carstoiu, W.N.Catford, M.D.Cortina-Gil, J.P.Delaroche, 
+#+          Z.Dlouhy, A.Gillibert, M.Girod, D.Hirata, V.Lapoux, A.Lepine-Szily, 
+#+          S.M.Lukyanov, F.Marie, A.Musumarra, F.De Oliveira, N.A.Orr, 
+#+          S.Ottini-Hustache, Y.E.Penionzhkevich, F.Sarazin, H.Savajols, 
+#+          N.Skobelev
+#REF-CODE   (J,NP/A,706,295,2002)
+#REFERENCE  Nucl.Phys.A 706 (2002) 295 (doi:10.1016/S0375-9474(02)00753-4)
+#DATASETS   0
+#
+#DATASET    O1011014 
+#DATE       20021228
+#REACTION   1-H-1(10-NE-23,NON),,SIG
+#PROJ       10023
+#TARG       1001
+#MF         3
+#MT         3
+#C4BEGIN    [10023  1001   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10023  1001   3   3    1.1086+9          0.499000 0.028000                                       A.De Vismes+         (02)O1011 14 
+#/DATA      1
+#/DATASET

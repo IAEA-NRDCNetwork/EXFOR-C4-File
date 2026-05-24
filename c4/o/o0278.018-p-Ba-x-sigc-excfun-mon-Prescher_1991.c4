@@ -1,0 +1,41 @@
+#ENTRY      O0278
+#AUTHOR1    K.Prescher+
+#YEAR       1991
+#INSTITUTE  (2GERKLN)
+#TITLE      Thin-target cross-sections of proton-induced reactions
+#+          on  barium  and  solar  cosmic  ray production rates of
+#+          xenon-isotopes in lunar surface materials.
+#AUTHOR(S)  K.Prescher, F.Peiffer, R.Stuek, R.Michel, R.Bodemann, M.N.Rao, 
+#+          K.J.Mathew
+#REF-CODE   (J,NIM/B,53,105,1991)
+#REFERENCE  Nucl.Instrum.Meth.B 53 (1991) 105 (doi:10.1016/0168-583X(91)95645-T)
+#DATASETS   0
+#
+#DATASET    O0278018 
+#DATE       19970118
+#REACTION   56-BA-0(P,X)54-XE-130,CUM,SIG
+#PROJ       1001
+#TARG       56000
+#MF         3
+#MT         459
+#PRODUCT    54-XE-130
+#C4BEGIN    [ 1001 56000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 56000   3 459    1.1900+7 780000.0 7.9900-7 1.2000-7           54130.9                     K.Prescher+          (91)O0278 18 
+ 1001 56000   3 459    1.8200+7 580000.0 2.5700-6 5.9500-7           54130.9                     K.Prescher+          (91)O0278 18 
+ 1001 56000   3 459    2.0100+7 520000.0 1.3500-5 2.0400-6           54130.9                     K.Prescher+          (91)O0278 18 
+ 1001 56000   3 459    2.2000+7 520000.0 6.7900-5 1.3600-5           54130.9                     K.Prescher+          (91)O0278 18 
+ 1001 56000   3 459    2.6400+7 880000.0 1.2900-4 1.9400-5           54130.9                     K.Prescher+          (91)O0278 18 
+ 1001 56000   3 459    2.7700+7 680000.0 3.2000-4 6.4200-5           54130.9                     K.Prescher+          (91)O0278 18 
+ 1001 56000   3 459    3.1800+7 570000.0 6.9300-4 1.3800-4           54130.9                     K.Prescher+          (91)O0278 18 
+ 1001 56000   3 459    3.2200+7 720000.0 5.3100-4 8.0100-5           54130.9                     K.Prescher+          (91)O0278 18 
+ 1001 56000   3 459    3.4000+7 500000.0 1.0600-3 2.1300-4           54130.9                     K.Prescher+          (91)O0278 18 
+ 1001 56000   3 459    3.6400+7 640000.0 8.0600-4 1.2200-4           54130.9                     K.Prescher+          (91)O0278 18 
+ 1001 56000   3 459    3.7700+7 640000.0 1.2200-3 2.4500-4           54130.9                     K.Prescher+          (91)O0278 18 
+ 1001 56000   3 459    4.0000+7 580000.0 1.5200-3 3.0400-4           54130.9                     K.Prescher+          (91)O0278 18 
+ 1001 56000   3 459    4.0600+7 550000.0 1.3100-3 1.9800-4           54130.9                     K.Prescher+          (91)O0278 18 
+ 1001 56000   3 459    4.4200+7 450000.0 2.0400-3 4.0900-4           54130.9                     K.Prescher+          (91)O0278 18 
+#/DATA      14
+#/DATASET

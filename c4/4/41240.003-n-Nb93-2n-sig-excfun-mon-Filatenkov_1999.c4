@@ -1,0 +1,43 @@
+#ENTRY      41240
+#AUTHOR1    A.A.Filatenkov+
+#YEAR       1999
+#INSTITUTE  (4RUSRI)
+#TITLE      .Systematic measurement of activation cross sections
+#+          at neutron energies from 13.4 to 14.9 MeV
+#AUTHOR(S)  A.A.Filatenkov, S.V.Chuvaev, V.N.Aksenov, V.A.Yakovlev, 
+#+          A.V.Malyshenkov, S.K.Vasil'ev, M.Avrigeanu, V.Avrigeanu, 
+#+          D.L.Smith, Y.Ikeda, A.Wallner, W.Kutschera, A.Priller, P.Steier, 
+#+          H.Vonach, G.Mertens, W.Rochow
+#REF-CODE   (R,RI-252,1999)
+#REFERENCE  Report RI-252, 1999
+#DATASETS   0
+#
+#DATASET    41240003 
+#DATE       20191109
+#REACTION   41-NB-93(N,2N)41-NB-92-M,,SIG
+#PROJ       1
+#TARG       41093
+#MF         3
+#MT         16
+#PRODUCT    41-NB-92-M
+#C4BEGIN    [    1 41093   3  16MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093   3  16MA  1.3470+7          0.451700 6.2000-3                                       A.A.Filatenkov+      (99)41240  3 
+    1 41093   3  16MA  1.3560+7          0.452400 5.7000-3                                       A.A.Filatenkov+      (99)41240  3 
+    1 41093   3  16MA  1.3640+7          0.452400 6.2000-3                                       A.A.Filatenkov+      (99)41240  3 
+    1 41093   3  16MA  1.3740+7          0.453600 5.6000-3                                       A.A.Filatenkov+      (99)41240  3 
+    1 41093   3  16MA  1.3880+7          0.454900 6.2000-3                                       A.A.Filatenkov+      (99)41240  3 
+    1 41093   3  16MA  1.3960+7          0.455600 5.6000-3                                       A.A.Filatenkov+      (99)41240  3 
+    1 41093   3  16MA  1.4050+7          0.457100 6.5000-3                                       A.A.Filatenkov+      (99)41240  3 
+    1 41093   3  16MA  1.4190+7          0.459100 5.6000-3                                       A.A.Filatenkov+      (99)41240  3 
+    1 41093   3  16MA  1.4280+7          0.459200 6.7000-3                                       A.A.Filatenkov+      (99)41240  3 
+    1 41093   3  16MA  1.4420+7          0.460200 5.6000-3                                       A.A.Filatenkov+      (99)41240  3 
+    1 41093   3  16MA  1.4470+7          0.460400 6.6000-3                                       A.A.Filatenkov+      (99)41240  3 
+    1 41093   3  16MA  1.4610+7          0.459900 5.6000-3                                       A.A.Filatenkov+      (99)41240  3 
+    1 41093   3  16MA  1.4680+7          0.458900 6.7000-3                                       A.A.Filatenkov+      (99)41240  3 
+    1 41093   3  16MA  1.4780+7          0.457300 5.5000-3                                       A.A.Filatenkov+      (99)41240  3 
+    1 41093   3  16MA  1.4860+7          0.455300 6.2000-3                                       A.A.Filatenkov+      (99)41240  3 
+#/DATA      15
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      32748
+#AUTHOR1    Yu.M.Gledenov+
+#YEAR       2014
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Cross sections of the 57Fe(n,a)54Cr and 63Cu(n,a)60Co
+#+          reactions in the MeV region
+#AUTHOR(S)  Yu.M.Gledenov, M.V.Sedysheva, V.A.Stolupin, Guohui Zhang, 
+#+          Jinhua Han, Zhimin Wang, Xiao Fan, Xiang Liu, Jinxiang Chen, 
+#+          G.Khuukhenkhuu, P.J.Szalanski
+#REF-CODE   (J,PR/C,89,064607,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 064607 (doi:10.1103/PhysRevC.89.064607)
+#DATASETS   0
+#
+#DATASET    32748003 
+#DATE       20171222
+#REACTION   29-CU-63(N,A)27-CO-60,,SIG
+#PROJ       1
+#TARG       29063
+#MF         3
+#MT         107
+#PRODUCT    27-CO-60
+#C4BEGIN    [    1 29063   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29063   3 107    5000000. 160000.0 1.6900-3 1.7000-4                                       Yu.M.Gledenov+       (14)32748  3 
+    1 29063   3 107    5500000. 140000.0 3.4000-3 3.2000-4                                       Yu.M.Gledenov+       (14)32748  3 
+    1 29063   3 107    6000000. 120000.0 5.0100-3 4.7000-4                                       Yu.M.Gledenov+       (14)32748  3 
+    1 29063   3 107    6500000. 100000.0 8.3500-3 8.0000-4                                       Yu.M.Gledenov+       (14)32748  3 
+#/DATA      4
+#/DATASET

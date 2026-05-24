@@ -1,0 +1,27 @@
+#ENTRY      41040
+#AUTHOR1    L.L.Litvinskii+
+#YEAR       1990
+#INSTITUTE  (4UKRIJD)
+#TITLE      Analysis of the cross section for inelastic scattering
+#+          of intermediate neutrons the choice of boundary
+#+          conditions in the R-matrix theory
+#AUTHOR(S)  L.L.Litvinskii, A.V.Murzin, G.M.Novoselov, O.A.Purtov
+#REF-CODE   (J,YF,52,1025,1990)
+#REFERENCE  Yad.Fiz. 52 (1990) 1025
+#DATASETS   0
+#
+#DATASET    41040002 
+#DATE       20180216
+#REACTION   92-U-238(N,EL)92-U-238,,SIG
+#PROJ       1
+#TARG       92238
+#MF         3
+#MT         2
+#PRODUCT    92-U-238
+#C4BEGIN    [    1 92238   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   3   2 D  275000.0 10000.00 8.390000 0.160000                                       L.L.Litvinskii+      (90)41040  2 
+#/DATA      1
+#/DATASET

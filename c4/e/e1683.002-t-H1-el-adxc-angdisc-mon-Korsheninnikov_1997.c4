@@ -1,0 +1,38 @@
+#ENTRY      E1683
+#AUTHOR1    A.A.Korsheninnikov+
+#YEAR       1997
+#INSTITUTE  (2JPNIPC)
+#TITLE      Scattering of radioactive nuclei 6He and 3H by protons
+#+          : Effects of neutron skin and halo in 6He, 8He, and
+#+          11Li
+#AUTHOR(S)  A.A.Korsheninnikov, E.Yu.Nikolskii, C.A.Bertulani, S.Fukuda, 
+#+          T.Kobayashi, E.A.Kuzmin, S.Momota, B.G.Novatskii, A.A.Ogloblin, 
+#+          A.Ozawa, V.Pribora, I.Tanihata, K.Yoshida
+#REF-CODE   (J,NP/A,617,45,1997)
+#REFERENCE  Nucl.Phys.A 617 (1997) 45 (doi:10.1016/S0375-9474(96)00492-7)
+#DATASETS   0
+#
+#DATASET    E1683002 
+#DATE       20040311
+#REACTION   1-H-1(T,EL)1-H-1,,DA,,RTH
+#PROJ       1003
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1003  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  1001   4   2  C 2.2050+8 2.7000+7 0.048813 4.4570-3 0.916990                              A.A.Korsheninnikov+  (97)E1683  2 
+ 1003  1001   4   2  C 2.2050+8 2.7000+7 0.041082 3.7498-3 0.895789                              A.A.Korsheninnikov+  (97)E1683  2 
+ 1003  1001   4   2  C 2.2050+8 2.7000+7 0.038630 3.3882-3 0.872240                              A.A.Korsheninnikov+  (97)E1683  2 
+ 1003  1001   4   2  C 2.2050+8 2.7000+7 0.029780 2.8138-3 0.846379                              A.A.Korsheninnikov+  (97)E1683  2 
+ 1003  1001   4   2  C 2.2050+8 2.7000+7 0.022993 2.3591-3 0.818451                              A.A.Korsheninnikov+  (97)E1683  2 
+ 1003  1001   4   2  C 2.2050+8 2.7000+7 0.017678 1.9889-3 0.788333                              A.A.Korsheninnikov+  (97)E1683  2 
+ 1003  1001   4   2  C 2.2050+8 2.7000+7 0.012729 1.6300-3 0.756082                              A.A.Korsheninnikov+  (97)E1683  2 
+ 1003  1001   4   2  C 2.2050+8 2.7000+7 9.8193-3 1.3886-3 0.722002                              A.A.Korsheninnikov+  (97)E1683  2 
+ 1003  1001   4   2  C 2.2050+8 2.7000+7 8.0680-3 1.2305-3 0.685945                              A.A.Korsheninnikov+  (97)E1683  2 
+ 1003  1001   4   2  C 2.2050+8 2.7000+7 5.6551-3 1.0502-3 0.647987                              A.A.Korsheninnikov+  (97)E1683  2 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      O0204
+#AUTHOR1    S.Regnier+
+#YEAR       1982
+#INSTITUTE  (2FR GRA)
+#TITLE      Nuclear reactions in Rb,Sr,Y and Zr targets
+#AUTHOR(S)  S.Regnier, B.Lavielle, M.Simonoff, G.N.Simonoff
+#REF-CODE   (J,PR/C,26,931,1982)
+#REFERENCE  Phys.Rev.C 26 (1982) 931 (doi:10.1103/PhysRevC.26.931)
+#DATASETS   0
+#
+#DATASET    O0204003 
+#DATE       20190823
+#REACTION   39-Y-89(P,X)34-SE-75,CUM,SIG
+#PROJ       1001
+#TARG       39089
+#MF         3
+#MT         459
+#PRODUCT    34-SE-75
+#C4BEGIN    [ 1001 39089   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 39089   3 459    1.6800+8          3.8000-3 8.0000-4           34075.9                     S.Regnier+           (82)O0204  3 
+ 1001 39089   3 459    2.0000+8          8.5000-3 1.7000-3           34075.9                     S.Regnier+           (82)O0204  3 
+ 1001 39089   3 459    1.0000+9          0.046000 9.0000-3           34075.9                     S.Regnier+           (82)O0204  3 
+ 1001 39089   3 459    2.5000+9          0.021300 4.2000-3           34075.9                     S.Regnier+           (82)O0204  3 
+ 1001 39089   3 459    2.400+10          0.016100 3.2000-3           34075.9                     S.Regnier+           (82)O0204  3 
+#/DATA      5
+#/DATASET

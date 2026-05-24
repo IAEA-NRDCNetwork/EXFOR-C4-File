@@ -1,0 +1,29 @@
+#ENTRY      20398
+#AUTHOR1    H.Weigmann+
+#YEAR       1971
+#INSTITUTE  (2ZZZGEL)
+#TITLE      -NEUTRON CAPTURE MEASUREMENTS AND RESONANCE PARAMETERS
+#+          OF MO-ISOTOPES.-
+#AUTHOR(S)  H.Weigmann, G.Rohr, J.Winter
+#REF-CODE   (C,71KNOX,,749,7103)
+#REFERENCE  Proceedings of 3rd Conf.Neutron Cross-Sections+Tech.,Knoxville 1971 page 749
+#DATASETS   0
+#
+#DATASET    20398002 
+#DATE       19840109
+#REACTION   42-MO-0(N,G),,SIG,,AV
+#PROJ       1
+#TARG       42000
+#MF         3
+#MT         102
+#C4BEGIN    [    1 42000   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42000   3 102    1100.000 100.0000 0.770000 0.070000                                       H.Weigmann+          (71)20398  2 
+    1 42000   3 102    1300.000 100.0000 0.620000 0.060000                                       H.Weigmann+          (71)20398  2 
+    1 42000   3 102    1490.000 90.00000 1.010000 0.090000                                       H.Weigmann+          (71)20398  2 
+    1 42000   3 102    1675.000 95.00000 0.740000 0.070000                                       H.Weigmann+          (71)20398  2 
+    1 42000   3 102    1860.000 90.00000 0.600000 0.060000                                       H.Weigmann+          (71)20398  2 
+#/DATA      5
+#/DATASET

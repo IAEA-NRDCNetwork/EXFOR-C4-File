@@ -1,0 +1,38 @@
+#ENTRY      E0926
+#AUTHOR1    S.Kato+
+#YEAR       1985
+#INSTITUTE  (2JPNOSA)
+#TITLE      Inelastic scattering of 65 MeV protons from 12C, 24Mg,
+#+          28Si and 32S
+#AUTHOR(S)  S.Kato, K.Okada, M.Kondo, K.Hosono, T.Saito, N.Matsuoka, 
+#+          K.Hatanaka, T.Noro, S.Nagamachi, H.Shimizu, K.Ogino, Y.Kadota, 
+#+          S.Matsuki, M.Wakai
+#REF-CODE   (J,PR/C,31,1616,1985)
+#REFERENCE  Phys.Rev.C 31 (1985) 1616 (doi:10.1103/PhysRevC.31.1616)
+#DATASETS   0
+#
+#DATASET    E0926062 
+#DATE       20121010
+#REACTION   16-S-32(P,INL)16-S-32,PAR,DA
+#PROJ       1001
+#TARG       16032
+#MF         4
+#MT         601
+#PRODUCT    16-S-32
+#C4BEGIN    [ 1001 16032   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 16032   4 601  C 6.5000+7          7.7000-6 1.5400-6 0.900319          3780000.         LVLS.Kato+              (85)E0926 62 
+ 1001 16032   4 601  C 6.5000+7          1.1700-5 2.3400-6 0.858065          3780000.         LVLS.Kato+              (85)E0926 62 
+ 1001 16032   4 601  C 6.5000+7          1.1400-5 2.2800-6 0.809017          3780000.         LVLS.Kato+              (85)E0926 62 
+ 1001 16032   4 601  C 6.5000+7          9.6000-6 1.9200-6 0.752415          3780000.         LVLS.Kato+              (85)E0926 62 
+ 1001 16032   4 601  C 6.5000+7          8.3000-6 1.6600-6 0.690882          3780000.         LVLS.Kato+              (85)E0926 62 
+ 1001 16032   4 601  C 6.5000+7          6.2000-6 1.2400-6 0.623880          3780000.         LVLS.Kato+              (85)E0926 62 
+ 1001 16032   4 601  C 6.5000+7          3.6000-6 7.2000-7 0.551937          3780000.         LVLS.Kato+              (85)E0926 62 
+ 1001 16032   4 601  C 6.5000+7          1.8400-6 3.6800-7 0.475624          3780000.         LVLS.Kato+              (85)E0926 62 
+ 1001 16032   4 601  C 6.5000+7          1.0000-6 2.0000-7 0.397148          3780000.         LVLS.Kato+              (85)E0926 62 
+ 1001 16032   4 601  C 6.5000+7          8.5000-7 1.7000-7 0.313992          3780000.         LVLS.Kato+              (85)E0926 62 
+ 1001 16032   4 601  C 6.5000+7          6.2000-7 1.2400-7 0.228351          3780000.         LVLS.Kato+              (85)E0926 62 
+#/DATA      11
+#/DATASET

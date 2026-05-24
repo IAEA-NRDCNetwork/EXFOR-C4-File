@@ -1,0 +1,36 @@
+#ENTRY      C2088
+#AUTHOR1    K.T.Schmitt+
+#YEAR       2013
+#INSTITUTE  (1USATEN)
+#TITLE      Reactions of a 10Be beam on proton and deuteron targets
+#AUTHOR(S)  K.T.Schmitt, K.L.Jones, S.Ahn, D.W.Bardayan, A.Bey, J.C.Blackmon, 
+#+          S.M.Brown, K.Y.Chae, K.A.Chipps, J.A.Cizewski, K.I.Hahn, 
+#+          J.J.Kolata, R.L.Kozub, J.F.Liang, C.Matei, M.Matos, D.Matyas, 
+#+          B.Moazen, C.D.Nesaraja, F.M.Nunes, P.D.O'Malley, S.D.Pain, 
+#+          W.A.Peters, S.T.Pittman, A.Roberts, D.Shapira, J.F.Shriner Jr, 
+#+          M.S.Smith, I.Spassova, D.W.Stracener, N.J.Upadhyay, A.N.Villano, 
+#+          G.L.Wilson
+#REF-CODE   (J,PR/C,88,064612,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 064612 (doi:10.1103/PhysRevC.88.064612)
+#DATASETS   0
+#
+#DATASET    C2088022 
+#DATE       20260122
+#REACTION   4-BE-10(D,INL)4-BE-10,PAR,DA
+#PROJ       1002
+#TARG       4010
+#MF         4
+#MT         651
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1002  4010   4 651  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4010   4 651  C 1.5000+7          0.011800 1.1800-3 0.754710          3368000.         LVLK.T.Schmitt+         (13)C2088 22 
+ 1002  4010   4 651  C 1.5000+7          9.7000-3 9.7000-4 0.707107          3368000.         LVLK.T.Schmitt+         (13)C2088 22 
+ 1002  4010   4 651  C 1.5000+7          8.6300-3 8.6300-4 0.660002          3368000.         LVLK.T.Schmitt+         (13)C2088 22 
+ 1002  4010   4 651  C 1.5000+7          7.5800-3 7.5800-4 0.612907          3368000.         LVLK.T.Schmitt+         (13)C2088 22 
+ 1002  4010   4 651  C 1.5000+7          6.7700-3 6.7700-4 0.566406          3368000.         LVLK.T.Schmitt+         (13)C2088 22 
+ 1002  4010   4 651  C 1.5000+7          6.2700-3 6.2700-4 0.519519          3368000.         LVLK.T.Schmitt+         (13)C2088 22 
+#/DATA      6
+#/DATASET

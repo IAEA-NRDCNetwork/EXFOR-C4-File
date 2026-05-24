@@ -1,0 +1,30 @@
+#ENTRY      12474
+#AUTHOR1    W.Nyer+
+#YEAR       1951
+#INSTITUTE  (1USALAS)
+#TITLE      The neutron-induced fission cross section of U-236 as
+#+          a function of energy
+#AUTHOR(S)  W.Nyer
+#REF-CODE   (R,LA-1258,1951)
+#REFERENCE  Report LA-1258, 1951
+#DATASETS   0
+#
+#DATASET    12474003 
+#DATE       20220210
+#REACTION   92-U-236(N,F),,SIG
+#PROJ       1
+#TARG       92236
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92236   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92236   3  18 D  690000.0          0.040000 0.080000                                       W.Nyer               (51)12474  3 
+    1 92236   3  18 D  770000.0          0.190000 0.080000                                       W.Nyer               (51)12474  3 
+    1 92236   3  18 D  1000000.          0.360000 0.070000                                       W.Nyer               (51)12474  3 
+    1 92236   3  18 D  1320000.          0.690000 0.100000                                       W.Nyer               (51)12474  3 
+    1 92236   3  18 D  2550000.          0.530000 0.060000                                       W.Nyer               (51)12474  3 
+    1 92236   3  18 D  1.4100+7          1.650000 0.100000                                       W.Nyer               (51)12474  3 
+#/DATA      6
+#/DATASET

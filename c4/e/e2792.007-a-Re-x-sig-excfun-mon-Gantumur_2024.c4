@@ -1,0 +1,32 @@
+#ENTRY      E2792
+#AUTHOR1    D.Gantumur+
+#YEAR       2024
+#INSTITUTE  (2JPNHOK)
+#TITLE      Activation cross sections of alpha-particle-induced
+#+          reactions on natural rhenium up to 50 MeV
+#AUTHOR(S)  D.Gantumur, M.Aikawa, T.Khishigjargal, E.Norov, S.Ebata, 
+#+          H.Haba, S.Takacs, F.Ditroi, Z.Szucs
+#REF-CODE   (J,ARI,213,111486,2024)
+#REFERENCE  Appl.Radiat.Isot. 213 (2024) 111486 (doi:10.1016/j.apradiso.2024.111486)
+#DATASETS   0
+#
+#DATASET    E2792007 
+#DATE       20241125
+#REACTION   75-RE-0(A,X)77-IR-185,,SIG
+#PROJ       2004
+#TARG       75000
+#MF         3
+#MT         454
+#PRODUCT    77-IR-185
+#C4BEGIN    [ 2004 75000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 75000   3 454    3.8500+7 300000.0 0.034200 9.7000-3           77185.9                     D.Gantumur+          (24)E2792  7 
+ 2004 75000   3 454    4.0900+7 300000.0 0.100000 0.020000           77185.9                     D.Gantumur+          (24)E2792  7 
+ 2004 75000   3 454    4.3300+7 200000.0 0.198000 0.038000           77185.9                     D.Gantumur+          (24)E2792  7 
+ 2004 75000   3 454    4.5600+7 200000.0 0.285000 0.054000           77185.9                     D.Gantumur+          (24)E2792  7 
+ 2004 75000   3 454    4.7800+7 200000.0 0.385000 0.073000           77185.9                     D.Gantumur+          (24)E2792  7 
+ 2004 75000   3 454    4.9900+7 200000.0 0.398000 0.075000           77185.9                     D.Gantumur+          (24)E2792  7 
+#/DATA      6
+#/DATASET

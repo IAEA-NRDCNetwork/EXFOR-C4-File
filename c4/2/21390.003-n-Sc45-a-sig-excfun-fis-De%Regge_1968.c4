@@ -1,0 +1,26 @@
+#ENTRY      21390
+#AUTHOR1    P.De Regge+
+#YEAR       1968
+#INSTITUTE  (2BLGGHT)
+#TITLE      The Sc-45(n,p)Ca-44 and Sc-45(n,alpha)K-42 mean
+#+          fission cross sections
+#AUTHOR(S)  P.De Regge, R.Dams, J.Hoste
+#REF-CODE   (J,RCA,10,156,1968)
+#REFERENCE  Radiochim.Acta 10 (1968) 156 (doi:10.1524/ract.1968.10.34.156)
+#DATASETS   0
+#
+#DATASET    21390003 
+#DATE       20161001
+#REACTION   21-SC-45(N,A)19-K-42,,SIG,,FIS
+#PROJ       1
+#TARG       21045
+#MF         3
+#MT         107
+#PRODUCT    19-K-42
+#C4BEGIN    [    1 21045   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 21045   3 107    1500000.          1.5800-4 4.0000-6                                       P.De Regge+          (68)21390  3 
+#/DATA      1
+#/DATASET

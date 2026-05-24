@@ -1,0 +1,40 @@
+#ENTRY      O1344
+#AUTHOR1    H.Brueckmann+
+#YEAR       1970
+#INSTITUTE  (2GERKFK)
+#TITLE      The reaction d+d-p+t and elastic deuteron-deuteron
+#+          scattering at 51.5-MeV.
+#AUTHOR(S)  H.Brueckmann, E.L.Haase, W.Kluge, L.Schaenzler
+#REF-CODE   (J,ZP,230,383,1970)
+#REFERENCE  Z.Phys. 230 (1970) 383
+#DATASETS   0
+#
+#DATASET    O1344006 
+#DATE       20061025
+#REACTION   1-H-2(D,X)1-H-1,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1002  1002   4 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4 203    5.1500+7          0.574000          0.987414                              H.Brueckmann+        (70)O1344  6 
+ 1002  1002   4 203    5.1500+7          0.389000          0.983885                              H.Brueckmann+        (70)O1344  6 
+ 1002  1002   4 203    5.1500+7          0.266000          0.975917                              H.Brueckmann+        (70)O1344  6 
+ 1002  1002   4 203    5.1500+7          0.210000          0.970296                              H.Brueckmann+        (70)O1344  6 
+ 1002  1002   4 203    5.1500+7          0.176000          0.959805                              H.Brueckmann+        (70)O1344  6 
+ 1002  1002   4 203    5.1500+7          0.154000          0.951594                              H.Brueckmann+        (70)O1344  6 
+ 1002  1002   4 203    5.1500+7          0.128000          0.937282                              H.Brueckmann+        (70)O1344  6 
+ 1002  1002   4 203    5.1500+7          0.104000          0.923210                              H.Brueckmann+        (70)O1344  6 
+ 1002  1002   4 203    5.1500+7          0.096000          0.905569                              H.Brueckmann+        (70)O1344  6 
+ 1002  1002   4 203    5.1500+7          0.085000          0.881303                              H.Brueckmann+        (70)O1344  6 
+ 1002  1002   4 203    5.1500+7          0.078000          0.855364                              H.Brueckmann+        (70)O1344  6 
+ 1002  1002   4 203    5.1500+7          0.070000          0.818150                              H.Brueckmann+        (70)O1344  6 
+ 1002  1002   4 203    5.1500+7          0.057000          0.768284                              H.Brueckmann+        (70)O1344  6 
+ 1002  1002   4 203    5.1500+7          0.047000          0.705872                              H.Brueckmann+        (70)O1344  6 
+ 1002  1002   4 203    5.1500+7          0.039000          0.638768                              H.Brueckmann+        (70)O1344  6 
+#/DATA      15
+#/DATASET

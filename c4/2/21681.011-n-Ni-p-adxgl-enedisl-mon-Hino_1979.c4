@@ -1,0 +1,79 @@
+#ENTRY      21681
+#AUTHOR1    Y.Hino+
+#YEAR       1979
+#INSTITUTE  (2JPNTOH)
+#TITLE      Gamma-ray production cross sections for fast neutron
+#+          interactions with Al, Ni, Cu and Nb
+#AUTHOR(S)  Y.Hino, T.Yamamoto, S.Itagaki, K.Sugiyama
+#REF-CODE   (C,79KNOX,,408,1979)
+#REFERENCE  Proceedings of Conf.on Nucl.Cross Sections F.Techn.,Knoxville 1979 page 408
+#DATASETS   0
+#
+#DATASET    21681011 
+#DATE       20161001
+#REACTION   28-NI-0(N,P),PAR,DA,G
+#PROJ       1
+#TARG       28000
+#MF         14
+#MT         600
+#C4BEGIN    [    1 28000  14 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28000  14 600    5300000.          1.1000-3 1.0000-4-0.573576          433000.0            Y.Hino+              (79)21681 11 
+    1 28000  14 600    5300000.          2.2000-3 4.0000-4-0.573576          935000.0            Y.Hino+              (79)21681 11 
+#/DATA      2
+#/DATASET
+#
+#DATASET    21681011 
+#DATE       20161001
+#REACTION   28-NI-0(N,P),PAR,DA,G
+#PROJ       1
+#TARG       28000
+#MF         14
+#MT         600
+#C4BEGIN    [    1 28000  14 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28000  14 600    5900000.          1.3000-3 2.0000-4-0.573576          433000.0            Y.Hino+              (79)21681 11 
+    1 28000  14 600    5900000.          2.6000-3 4.0000-4-0.573576          935000.0            Y.Hino+              (79)21681 11 
+    1 28000  14 600    5900000.          1.0000-3 2.0000-4-0.573576          1050000.            Y.Hino+              (79)21681 11 
+#/DATA      3
+#/DATASET
+#
+#DATASET    21681011 
+#DATE       20161001
+#REACTION   28-NI-0(N,P),PAR,DA,G
+#PROJ       1
+#TARG       28000
+#MF         14
+#MT         600
+#C4BEGIN    [    1 28000  14 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28000  14 600    6400000.          1.0000-3 4.0000-4-0.573576          433000.0            Y.Hino+              (79)21681 11 
+    1 28000  14 600    6400000.          3.2000-3 4.0000-4-0.573576          935000.0            Y.Hino+              (79)21681 11 
+    1 28000  14 600    6400000.          1.6000-3 3.0000-4-0.573576          1050000.            Y.Hino+              (79)21681 11 
+    1 28000  14 600    6400000.          1.0000-3 2.0000-4-0.573576          1238000.            Y.Hino+              (79)21681 11 
+#/DATA      4
+#/DATASET
+#
+#DATASET    21681011 
+#DATE       20161001
+#REACTION   28-NI-0(N,P),PAR,DA,G
+#PROJ       1
+#TARG       28000
+#MF         14
+#MT         600
+#C4BEGIN    [    1 28000  14 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28000  14 600    7000000.          1.8000-3 3.0000-4-0.573576          433000.0            Y.Hino+              (79)21681 11 
+    1 28000  14 600    7000000.          3.5000-3 4.0000-4-0.573576          935000.0            Y.Hino+              (79)21681 11 
+    1 28000  14 600    7000000.          2.4000-3 3.0000-4-0.573576          1050000.            Y.Hino+              (79)21681 11 
+    1 28000  14 600    7000000.          2.0000-3 5.0000-4-0.573576          1238000.            Y.Hino+              (79)21681 11 
+#/DATA      4
+#/DATASET

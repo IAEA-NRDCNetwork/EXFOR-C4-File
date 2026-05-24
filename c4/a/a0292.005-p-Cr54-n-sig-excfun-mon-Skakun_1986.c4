@@ -1,0 +1,35 @@
+#ENTRY      A0292
+#AUTHOR1    E.A.Skakun+
+#YEAR       1986
+#INSTITUTE  (4UKRKFT)
+#TITLE      Investigation of cross sections of Cr-52(p,n)Mn-52-m,g
+#+          and Cr-54(p,n)Mn-54 reactions in the energy
+#+          range from 5 to 9 MeV.
+#AUTHOR(S)  E.A.Skakun, V.G.Batij, Ju.N.Rakivnenko, O.A.Rastrepin
+#REF-CODE   (C,86KHARKO,,277,1986)
+#REFERENCE  Proceedings of 36.Conf.Nucl.Spectrosc.and Nucl.Struct.,Kharkov 1986 page 277
+#DATASETS   0
+#
+#DATASET    A0292005 
+#DATE       20111031
+#REACTION   24-CR-54(P,N)25-MN-54,,SIG
+#PROJ       1001
+#TARG       24054
+#MF         3
+#MT         4
+#PRODUCT    25-MN-54
+#C4BEGIN    [ 1001 24054   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24054   3   4    5000000.          0.320000 0.017000                                       E.A.Skakun+          (86)A0292  5 
+ 1001 24054   3   4    6000000.          0.470000 0.030000                                       E.A.Skakun+          (86)A0292  5 
+ 1001 24054   3   4    7000000.          0.630000 0.030000                                       E.A.Skakun+          (86)A0292  5 
+ 1001 24054   3   4    7750000.          0.630000 0.030000                                       E.A.Skakun+          (86)A0292  5 
+ 1001 24054   3   4    8000000.          0.640000 0.040000                                       E.A.Skakun+          (86)A0292  5 
+ 1001 24054   3   4    8250000.          0.650000 0.040000                                       E.A.Skakun+          (86)A0292  5 
+ 1001 24054   3   4    8500000.          0.720000 0.040000                                       E.A.Skakun+          (86)A0292  5 
+ 1001 24054   3   4    8750000.          0.750000 0.040000                                       E.A.Skakun+          (86)A0292  5 
+ 1001 24054   3   4    9000000.          0.640000 0.030000                                       E.A.Skakun+          (86)A0292  5 
+#/DATA      9
+#/DATASET

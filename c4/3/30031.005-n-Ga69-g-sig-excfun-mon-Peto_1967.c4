@@ -1,0 +1,25 @@
+#ENTRY      30031
+#AUTHOR1    G.Peto+
+#YEAR       1967
+#INSTITUTE  (3HUNDEB)
+#TITLE      Radiative capture cross-sections for 3 MeV neutrons
+#AUTHOR(S)  G.Peto, Z.Milligy, I.Hunyadi
+#REF-CODE   (J,JNE,21,797,1967)
+#REFERENCE  J.Nucl.Energy 21 (1967) 797 (doi:10.1016/0022-3107(67)90089-5)
+#DATASETS   0
+#
+#DATASET    30031005 
+#DATE       19900212
+#REACTION   31-GA-69(N,G)31-GA-70,,SIG
+#PROJ       1
+#TARG       31069
+#MF         3
+#MT         102
+#PRODUCT    31-GA-70
+#C4BEGIN    [    1 31069   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 31069   3 102 A  3000000. 200000.0 0.016900 3.0000-3                                       G.Peto+              (67)30031  5 
+#/DATA      1
+#/DATASET

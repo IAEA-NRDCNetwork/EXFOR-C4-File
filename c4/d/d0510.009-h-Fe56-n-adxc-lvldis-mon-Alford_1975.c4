@@ -1,0 +1,28 @@
+#ENTRY      D0510
+#AUTHOR1    W.P.Alford+
+#YEAR       1975
+#INSTITUTE  (1USAROC)
+#TITLE      J-pi= 0+ states in the (fp) shell excited in the
+#+          (3He,n) reaction
+#AUTHOR(S)  W.P.Alford, R.A.Lindgren, D.Elmore, R.N.Boyd
+#REF-CODE   (J,NP/A,243,269,1975)
+#REFERENCE  Nucl.Phys.A 243 (1975) 269 (doi:10.1016/0375-9474(75)90248-1)
+#DATASETS   0
+#
+#DATASET    D0510009 
+#DATE       20080827
+#REACTION   26-FE-56(HE3,N)28-NI-58,PAR,DA
+#PROJ       2003
+#TARG       26056
+#MF         4
+#MT         50
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 2003 26056   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 26056   4  50  C 1.5000+7          4.5000-4          1.000000          0.000000 50000.00LVLW.P.Alford+          (75)D0510  9 
+ 2003 26056   4  50  C 1.5000+7          8.6000-4          1.000000          3580000. 50000.00LVLW.P.Alford+          (75)D0510  9 
+ 2003 26056   4  50  C 1.5000+7          4.4000-4          1.000000          1.0610+7 50000.00LVLW.P.Alford+          (75)D0510  9 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      O0671
+#AUTHOR1    R.E.Marrs+
+#YEAR       1979
+#INSTITUTE  (1USAINU)
+#TITLE      Total (p,pi+) cross sections on light nuclei near the
+#+          pion Coulomb barrier.
+#AUTHOR(S)  R.E.Marrs, R.E.Pollock, W.W.Jacobs
+#REF-CODE   (J,PR/C,20,2308,1979)
+#REFERENCE  Phys.Rev.C 20 (1979) 2308 (doi:10.1103/PhysRevC.20.2308)
+#DATASETS   0
+#
+#DATASET    O0671007 
+#DATE       20220108
+#REACTION   7-N-14(P,X)1-PP-0,,SIG
+#PROJ       1001
+#TARG       7014
+#MF         3
+#MT         208
+#PRODUCT    1-PP-0
+#C4BEGIN    [ 1001  7014   3 208  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   3 208    1.4380+8 200000.0 7.8000-8                                                R.E.Marrs+           (79)O0671  7 
+ 1001  7014   3 208    1.4450+8 200000.0 9.3000-8                                                R.E.Marrs+           (79)O0671  7 
+ 1001  7014   3 208    1.4700+8 200000.0 2.4500-7                                                R.E.Marrs+           (79)O0671  7 
+ 1001  7014   3 208    1.4850+8 200000.0 5.8000-7                                                R.E.Marrs+           (79)O0671  7 
+ 1001  7014   3 208    1.5240+8 200000.0 1.9400-6                                                R.E.Marrs+           (79)O0671  7 
+#/DATA      5
+#/DATASET

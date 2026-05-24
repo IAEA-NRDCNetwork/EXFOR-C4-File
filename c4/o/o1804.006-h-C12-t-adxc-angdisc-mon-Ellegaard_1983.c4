@@ -1,0 +1,36 @@
+#ENTRY      O1804
+#AUTHOR1    C.Ellegaard+
+#YEAR       1983
+#INSTITUTE  (2DENNBI)
+#TITLE      (He3,t) reaction at intermediate energies.
+#AUTHOR(S)  C.Ellegaard, C.Gaarde, J.S.Larsen, C.Goodman, I.Bergqvist, 
+#+          L.Carlen, P.Ekstroem, B.Jakobsson, J.Lyttkens, M.Bedjidian, 
+#+          M.Chamcham, J.Y.Grossiord, A.Guichard, M.Gusakow, R.Haroutunian, 
+#+          J.R.Pizzi, D.Bachelier, J.L.Boyard, T.Hennino, J.C.Jourdain, 
+#+          M.Roy-Stephan, P.Radvanyi, M.Boivin
+#REF-CODE   (J,PRL,50,1745,1983)
+#REFERENCE  Phys.Rev.Lett. 50 (1983) 1745 (doi:10.1103/PhysRevLett.50.1745)
+#DATASETS   0
+#
+#DATASET    O1804006 
+#DATE       20120613
+#REACTION   6-C-12(HE3,T)7-N-12,PAR,DA
+#PROJ       2003
+#TARG       6012
+#MF         4
+#MT         700
+#PRODUCT    7-N-12
+#C4BEGIN    [ 2003  6012   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  6012   4 700  C 6.0000+8 1100000. 0.021000 5.0400-3 0.999973          0.000000         LVLC.Ellegaard+         (83)O1804  6 
+ 2003  6012   4 700  C 6.0000+8 1100000. 0.020100          0.999940          0.000000         LVLC.Ellegaard+         (83)O1804  6 
+ 2003  6012   4 700  C 6.0000+8 1100000. 0.019300          0.999860          0.000000         LVLC.Ellegaard+         (83)O1804  6 
+ 2003  6012   4 700  C 6.0000+8 1100000. 0.016000 3.0400-3 0.999600          0.000000         LVLC.Ellegaard+         (83)O1804  6 
+ 2003  6012   4 700  C 6.0000+8 1100000. 9.4400-3          0.998955          0.000000         LVLC.Ellegaard+         (83)O1804  6 
+ 2003  6012   4 700  C 6.0000+8 1100000. 3.1000-3 7.1300-4 0.995947          0.000000         LVLC.Ellegaard+         (83)O1804  6 
+ 2003  6012   4 700  C 6.0000+8 1100000. 3.1000-4 8.0600-5 0.990629          0.000000         LVLC.Ellegaard+         (83)O1804  6 
+ 2003  6012   4 700  C 6.0000+8 1100000. 9.3000-5 2.6970-5 0.983885          0.000000         LVLC.Ellegaard+         (83)O1804  6 
+#/DATA      8
+#/DATASET

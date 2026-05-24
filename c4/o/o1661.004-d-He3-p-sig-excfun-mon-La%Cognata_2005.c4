@@ -1,0 +1,42 @@
+#ENTRY      O1661
+#AUTHOR1    M.La Cognata+
+#YEAR       2005
+#INSTITUTE  (2ITYCAT)
+#TITLE      Bare-nucleus astrophysical factor of the He-3(d,p)He-4
+#+          reaction via the "Trojan horse" method
+#AUTHOR(S)  M.La Cognata, C.Spitaleri, C.Li, A.Tumino, S.Typel, S.Cherubini, 
+#+          L.Lamia, A.Musumarra, R.G.Pizzone, A.Rinollo, C.Rolfs, S.Romano, 
+#+          D.Schuermann, F.Strieder
+#REF-CODE   (J,PR/C,72,065802,2005)
+#REFERENCE  Phys.Rev.C 72 (2005) 065802 (doi:10.1103/PhysRevC.72.065802)
+#DATASETS   0
+#
+#DATASET    O1661004 
+#DATE       20081020
+#REACTION   2-HE-3(D,P)2-HE-4,,SIG
+#PROJ       1002
+#TARG       2003
+#MF         3
+#MT         103
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  2003   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  2003   3 103    6337.639          7.100-11                                                M.La Cognata+        (05)O1661  4 
+ 1002  2003   3 103    70548.22          7.2000-3                                                M.La Cognata+        (05)O1661  4 
+ 1002  2003   3 103    128254.8          0.059000                                                M.La Cognata+        (05)O1661  4 
+ 1002  2003   3 103    198804.1          0.202000                                                M.La Cognata+        (05)O1661  4 
+ 1002  2003   3 103    259847.4          0.420000                                                M.La Cognata+        (05)O1661  4 
+ 1002  2003   3 103    324060.0          0.610000                                                M.La Cognata+        (05)O1661  4 
+ 1002  2003   3 103    381768.5          0.650000                                                M.La Cognata+        (05)O1661  4 
+ 1002  2003   3 103    474836.8          0.660000                                                M.La Cognata+        (05)O1661  4 
+ 1002  2003   3 103    532546.4          0.740000                                                M.La Cognata+        (05)O1661  4 
+ 1002  2003   3 103    596761.3          0.790000                                                M.La Cognata+        (05)O1661  4 
+ 1002  2003   3 103    664145.8          0.700000                                                M.La Cognata+        (05)O1661  4 
+ 1002  2003   3 103    731530.9          0.510000                                                M.La Cognata+        (05)O1661  4 
+ 1002  2003   3 103    795747.4          0.350000                                                M.La Cognata+        (05)O1661  4 
+ 1002  2003   3 103    866302.8          0.293000                                                M.La Cognata+        (05)O1661  4 
+ 1002  2003   3 103    930520.5          0.243000                                                M.La Cognata+        (05)O1661  4 
+#/DATA      15
+#/DATASET

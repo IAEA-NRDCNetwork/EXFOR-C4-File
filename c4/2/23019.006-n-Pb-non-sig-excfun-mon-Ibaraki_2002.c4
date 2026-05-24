@@ -1,0 +1,31 @@
+#ENTRY      23019
+#AUTHOR1    M.Ibaraki+
+#YEAR       2002
+#INSTITUTE  (2JPNTOH)
+#TITLE      Measurement of neutron non-elastic cross sections of
+#+          C, Si, Fe, Zr and Pb in 40 - 80 MeV region
+#AUTHOR(S)  M.Ibaraki, M.Baba, T.Miura, T.Aoki, T.Hiroishi, H.Nakashima, 
+#+          S.Meigo, S.Tanaka
+#REF-CODE   (J,NSTS,2,405,200208)
+#REFERENCE  Nucl.Sci.Techn.Supp. 2 (2002) 405
+#DATASETS   0
+#
+#DATASET    23019006 
+#DATE       20071203
+#REACTION   82-PB-0(N,NON),,SIG
+#PROJ       1
+#TARG       82000
+#MF         3
+#MT         3
+#C4BEGIN    [    1 82000   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   3   3    4.5000+7 2500000. 2.433000 0.216000                                       M.Ibaraki+           (02)23019  6 
+    1 82000   3   3    5.0000+7 2500000. 2.266000 0.212000                                       M.Ibaraki+           (02)23019  6 
+    1 82000   3   3    5.5000+7 2500000. 1.986000 0.242000                                       M.Ibaraki+           (02)23019  6 
+    1 82000   3   3    6.0000+7 2500000. 2.051000 0.242000                                       M.Ibaraki+           (02)23019  6 
+    1 82000   3   3    6.5000+7 2500000. 1.936000 0.209000                                       M.Ibaraki+           (02)23019  6 
+    1 82000   3   3    7.5500+7 3000000. 1.903000 0.159000                                       M.Ibaraki+           (02)23019  6 
+#/DATA      6
+#/DATASET

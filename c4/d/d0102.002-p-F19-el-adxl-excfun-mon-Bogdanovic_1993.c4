@@ -1,0 +1,49 @@
+#ENTRY      D0102
+#AUTHOR1    I.Bogdanovic+
+#YEAR       1993
+#INSTITUTE  (3CRORBZ)
+#TITLE      Proton elastic scattering from fluorine, chlorine,
+#+          zinc, selenium and bromine in the energy region
+#+          from 2.5 to 4.8 MeV
+#AUTHOR(S)  I.Bogdanovic, S.Fazinic, M.Jaksic, T.Tadic, O.Valkovic, 
+#+          V.Valkovic
+#REF-CODE   (J,NIM/B,79,524,1993)
+#REFERENCE  Nucl.Instrum.Meth.B 79 (1993) 524 (doi:10.1016/0168-583X(93)95405-T)
+#DATASETS   0
+#
+#DATASET    D0102002 
+#DATE       20040206
+#REACTION   9-F-19(P,EL)9-F-19,,DA,,RTH
+#PROJ       1001
+#TARG       9019
+#MF         4
+#MT         2
+#PRODUCT    9-F-19
+#C4BEGIN    [ 1001  9019   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9019   4   2    2503600.          0.022228         -0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    2604600.          0.019551         -0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    2906100.          0.028158         -0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    3003400.          0.030043 2.5235-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    3100100.          0.029578 2.3685-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    3194000.          0.019683         -0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    3298300.          0.028828 2.3539-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    3397300.          0.020429         -0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    3498800.          0.020341 1.8594-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    3601200.          0.022633 1.9782-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    3704700.          0.027532 2.0730-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    3808100.          0.031482 2.5506-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    3910000.          0.042827 3.1638-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    4011700.          0.041858 3.1822-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    4107100.          0.028070 4.0509-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    4209900.          0.020395 1.6053-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    4311000.          0.028584 2.4494-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    4408100.          0.019966 1.6105-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    4505600.          0.012755 1.1211-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    4604200.          0.016062 1.3443-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    4698900.          0.012801 1.0308-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+ 1001  9019   4   2    4801500.          0.014561 1.1106-3-0.866025                              I.Bogdanovic+        (93)D0102  2 
+#/DATA      22
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      D0545
+#AUTHOR1    N.I.Ashwood+
+#YEAR       2004
+#INSTITUTE  (2UK BIR)
+#TITLE      Measurements of the breakup and neutron removal cross
+#+          sections for 16C
+#AUTHOR(S)  N.I.Ashwood, M.Freer, J.C.Angelique, V.Bouchat, W.N.Catford, 
+#+          N.M.Clarke, N.Curtis, O.Dorvaux, F.Hanappe, Y.Kerckx, M.Labiche, 
+#+          J.L.Lecouey, F.M.Marques, T.Materna, A.Ninane, G.Normand, 
+#+          N.A.Orr, S.Pain, N.Soic, L.Stuttge, C.Timis, A.Unshakova, 
+#+          V.A.Ziman
+#REF-CODE   (J,PR/C,70,064607,2004)
+#REFERENCE  Phys.Rev.C 70 (2004) 064607 (doi:10.1103/PhysRevC.70.064607)
+#DATASETS   0
+#
+#DATASET    D0545002 
+#DATE       20091222
+#REACTION   6-C-12(6-C-16,X)ELEM/MASS,,SIG
+#PROJ       6016
+#TARG       6012
+#MF         3
+#MT         454
+#C4BEGIN    [ 6016  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6016  6012   3 454    7.3600+8 2.2080+7 0.096000 0.011000            6015.9                     N.I.Ashwood+         (04)D0545  2 
+ 6016  6012   3 454    7.3600+8 2.2080+7 0.094000 0.011000            6014.9                     N.I.Ashwood+         (04)D0545  2 
+ 6016  6012   3 454    7.3600+8 2.2080+7 0.033000 4.0000-3            6013.9                     N.I.Ashwood+         (04)D0545  2 
+ 6016  6012   3 454    7.3600+8 2.2080+7 0.011000 1.0000-3            6012.9                     N.I.Ashwood+         (04)D0545  2 
+#/DATA      4
+#/DATASET

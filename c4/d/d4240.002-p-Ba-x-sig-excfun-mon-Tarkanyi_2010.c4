@@ -1,0 +1,38 @@
+#ENTRY      D4240
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2010
+#INSTITUTE  (3HUNDEB)
+#TITLE      Study of activation cross sections of proton induced
+#+          reactions on barium: Production of 131Ba->131Cs
+#AUTHOR(S)  F.Tarkanyi, F.Ditroi, B.Kiraly, S.Takacs, A.Hermanne, H.Yamazaki, 
+#+          M.Baba, A.Mohammadi, A.V.Ignatyuk
+#REF-CODE   (J,ARI,68,1869,2010)
+#REFERENCE  Appl.Radiat.Isot. 68 (2010) 1869 (doi:10.1016/j.apradiso.2010.03.010)
+#DATASETS   0
+#
+#DATASET    D4240002 
+#DATE       20100902
+#REACTION   56-BA-0(P,X)57-LA-135,,SIG
+#PROJ       1001
+#TARG       56000
+#MF         3
+#MT         454
+#PRODUCT    57-LA-135
+#C4BEGIN    [ 1001 56000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 56000   3 454 A  6.9800+7 300000.0 0.105000 0.077000           57135.9                     F.Tarkanyi+          (10)D4240  2 
+ 1001 56000   3 454 A  6.7100+7 500000.0 0.096000 0.049000           57135.9                     F.Tarkanyi+          (10)D4240  2 
+ 1001 56000   3 454 A  6.4400+7 600000.0 0.099000 0.044000           57135.9                     F.Tarkanyi+          (10)D4240  2 
+ 1001 56000   3 454 A  6.1700+7 800000.0 0.141000 0.034000           57135.9                     F.Tarkanyi+          (10)D4240  2 
+ 1001 56000   3 454 A  5.8700+7 1000000. 0.235000 0.035000           57135.9                     F.Tarkanyi+          (10)D4240  2 
+ 1001 56000   3 454 A  5.5500+7 1200000. 0.264000 0.037000           57135.9                     F.Tarkanyi+          (10)D4240  2 
+ 1001 56000   3 454 A  5.2300+7 1400000. 0.328000 0.037000           57135.9                     F.Tarkanyi+          (10)D4240  2 
+ 1001 56000   3 454 A  4.8900+7 1600000. 0.430000 0.044000           57135.9                     F.Tarkanyi+          (10)D4240  2 
+ 1001 56000   3 454 A  4.5300+7 1800000. 0.436000 0.048000           57135.9                     F.Tarkanyi+          (10)D4240  2 
+ 1001 56000   3 454 A  4.1700+7 2100000. 0.669000 0.069000           57135.9                     F.Tarkanyi+          (10)D4240  2 
+ 1001 56000   3 454 A  3.7700+7 2300000. 0.427000 0.046000           57135.9                     F.Tarkanyi+          (10)D4240  2 
+ 1001 56000   3 454 A  3.3300+7 2600000. 0.302000 0.031000           57135.9                     F.Tarkanyi+          (10)D4240  2 
+#/DATA      12
+#/DATASET

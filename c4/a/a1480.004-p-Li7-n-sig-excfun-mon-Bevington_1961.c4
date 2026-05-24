@@ -1,0 +1,33 @@
+#ENTRY      A1480
+#AUTHOR1    P.R.Bevington+
+#YEAR       1961
+#INSTITUTE  (1USADKE)
+#TITLE      Relative yields of neutron groups from the
+#+          7Li(p,n)7Be, 7Be* reactions
+#AUTHOR(S)  P.R.Bevington, W.W.Rolland, H.W.Lewis
+#REF-CODE   (J,PR,121,871,1961)
+#REFERENCE  Phys.Rev. 121 (1961) 871 (doi:10.1103/PhysRev.121.871)
+#DATASETS   0
+#
+#DATASET    A1480004 
+#DATE       20251002
+#REACTION   3-LI-7(P,N)4-BE-7,PAR,SIG
+#PROJ       1001
+#TARG       3007
+#MF         3
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3007   3  50 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   3  50 D  2811000.          0.022200 1.3320-3                   430000.0         LVLP.R.Bevington+       (61)A1480  4 
+ 1001  3007   3  50 D  2912000.          0.028900 1.7340-3                   430000.0         LVLP.R.Bevington+       (61)A1480  4 
+ 1001  3007   3  50 D  3024000.          0.037000 2.2200-3                   430000.0         LVLP.R.Bevington+       (61)A1480  4 
+ 1001  3007   3  50 D  3131000.          0.049600 2.9760-3                   430000.0         LVLP.R.Bevington+       (61)A1480  4 
+ 1001  3007   3  50 D  3237000.          0.056300 3.3780-3                   430000.0         LVLP.R.Bevington+       (61)A1480  4 
+ 1001  3007   3  50 D  3672000.          0.059700 3.5820-3                   430000.0         LVLP.R.Bevington+       (61)A1480  4 
+ 1001  3007   3  50 D  3881000.          0.061100 3.6660-3                   430000.0         LVLP.R.Bevington+       (61)A1480  4 
+ 1001  3007   3  50 D  4100000.          0.057900 3.4740-3                   430000.0         LVLP.R.Bevington+       (61)A1480  4 
+#/DATA      8
+#/DATASET

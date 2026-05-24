@@ -1,0 +1,36 @@
+#ENTRY      21474
+#AUTHOR1    D.Dandy+
+#YEAR       1968
+#INSTITUTE  (2UK ALD)
+#TITLE      -THE CROSS SECTION FOR THE O-16(N,A) REACTION FOR
+#+          NEUTRON ENERGIES IN THE RANGE 7 TO 12 MEV -.
+#AUTHOR(S)  D.Dandy, J.L.Wankling, C.J.Parnell
+#REF-CODE   (R,AWRE-O-60/68,,6810)
+#REFERENCE  Report AWRE-O-60/68 page , 1968
+#DATASETS   0
+#
+#DATASET    21474003 
+#DATE       19800429
+#REACTION   8-O-16(N,A)6-C-13,,SIG
+#PROJ       1
+#TARG       8016
+#MF         3
+#MT         107
+#PRODUCT    6-C-13
+#C4BEGIN    [    1  8016   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016   3 107    7136000.          0.086100 7.7000-3                                       D.Dandy+             (68)21474  3 
+    1  8016   3 107    7640000.          0.051300 8.7000-3                                       D.Dandy+             (68)21474  3 
+    1  8016   3 107    8145000.          0.065300 7.2000-3                                       D.Dandy+             (68)21474  3 
+    1  8016   3 107    8145000.          0.053300 0.013300                                       D.Dandy+             (68)21474  3 
+    1  8016   3 107    8651000.          0.083200 0.012500                                       D.Dandy+             (68)21474  3 
+    1  8016   3 107    9157000.          0.114900 0.011500                                       D.Dandy+             (68)21474  3 
+    1  8016   3 107    9662000.          0.135500 0.017600                                       D.Dandy+             (68)21474  3 
+    1  8016   3 107    1.0084+7          0.137700 0.017600                                       D.Dandy+             (68)21474  3 
+    1  8016   3 107    1.0506+7          0.119000 0.014300                                       D.Dandy+             (68)21474  3 
+    1  8016   3 107    1.1174+7          0.150400 0.016500                                       D.Dandy+             (68)21474  3 
+    1  8016   3 107    1.2030+7          0.223500 0.033500                                       D.Dandy+             (68)21474  3 
+#/DATA      11
+#/DATASET

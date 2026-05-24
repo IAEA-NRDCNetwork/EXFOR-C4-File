@@ -1,0 +1,25 @@
+#ENTRY      11112
+#AUTHOR1    J.H.Atkinson+
+#YEAR       1961
+#INSTITUTE  (1USABRK)
+#TITLE      5-BEV NEUTRON CROSS SECTIONS IN HYDROGEN AND OTHER
+#+          ELEMENTS.
+#AUTHOR(S)  J.H.Atkinson, W.N.Hess, V.Perez-Mendez, R.Wallace
+#REF-CODE   (J,PR,123,1850,61)
+#REFERENCE  Phys.Rev. 123 (1961) 1850 (doi:10.1103/PhysRev.123.1850)
+#DATASETS   0
+#
+#DATASET    11112002 
+#DATE       19820107
+#REACTION   1-H-1(N,TOT),,SIG
+#PROJ       1
+#TARG       1001
+#MF         3
+#MT         1
+#C4BEGIN    [    1  1001   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   3   1    5.0000+9 4.0000+8 0.033600 1.6000-3                                       J.H.Atkinson+        (61)11112  2 
+#/DATA      1
+#/DATASET

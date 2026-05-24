@@ -1,0 +1,30 @@
+#ENTRY      O0166
+#AUTHOR1    T.Stovall+
+#YEAR       1964
+#INSTITUTE  (1USAMIN)
+#TITLE      Inelastic proton scattering at 40 MeV.
+#AUTHOR(S)  T.Stovall, N.M.Hintz
+#REF-CODE   (J,PR,135,B330,1964)
+#REFERENCE  Phys.Rev. 135 (1964) B330 (doi:10.1103/PhysRev.135.B330)
+#DATASETS   0
+#
+#DATASET    O0166005 
+#DATE       20040630
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601    3.9700+7          1.3650-3          0.968583          9600000. 100000.0LVLT.Stovall+           (64)O0166  5 
+ 1001  6012   4 601    3.9700+7          2.4700-3 2.9640-4 0.941471          9600000. 100000.0LVLT.Stovall+           (64)O0166  5 
+ 1001  6012   4 601    3.9700+7          2.8100-3          0.905569          9600000. 100000.0LVLT.Stovall+           (64)O0166  5 
+ 1001  6012   4 601    3.9700+7          3.2400-3          0.862514          9600000. 100000.0LVLT.Stovall+           (64)O0166  5 
+ 1001  6012   4 601    3.9700+7          3.6800-3 4.4160-4 0.822144          9600000. 100000.0LVLT.Stovall+           (64)O0166  5 
+ 1001  6012   4 601    3.9700+7          3.6800-3          0.766044          9600000. 100000.0LVLT.Stovall+           (64)O0166  5 
+#/DATA      6
+#/DATASET

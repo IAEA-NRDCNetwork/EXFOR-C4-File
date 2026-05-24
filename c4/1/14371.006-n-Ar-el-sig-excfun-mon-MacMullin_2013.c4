@@ -1,0 +1,26 @@
+#ENTRY      14371
+#AUTHOR1    S.MacMullin+
+#YEAR       2013
+#INSTITUTE  (1USANCS)
+#TITLE      Measurement of the elastic scattering cross section
+#+          of neutrons from argon and neon
+#AUTHOR(S)  S.MacMullin, M.Kidd, R.Henning, W.Tornow, C.R.Howell, M.Brown
+#REF-CODE   (J,PR/C,87,054613,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 054613 (doi:10.1103/PhysRevC.87.054613)
+#DATASETS   0
+#
+#DATASET    14371006 
+#DATE       20130802
+#REACTION   18-AR-0(N,EL)18-AR-0,,SIG
+#PROJ       1
+#TARG       18000
+#MF         3
+#MT         2
+#PRODUCT    18-AR-0
+#C4BEGIN    [    1 18000   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 18000   3   2 D  6000000. 400000.0 2.170000 0.060000                                       S.MacMullin+         (13)14371  6 
+#/DATA      1
+#/DATASET

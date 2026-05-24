@@ -1,0 +1,28 @@
+#ENTRY      C1716
+#AUTHOR1    S.Pascu+
+#YEAR       2009
+#INSTITUTE  (3RUMBUC)
+#TITLE      Investigation of the 128Ba nucleus with the (p,t)
+#+          reaction
+#AUTHOR(S)  S.Pascu, Gh.Cata-Danil, D.Bucurescu, N.Marginean, N.V.Zamfir, 
+#+          G.Graw, A.Gollwitzer, D.Hofer, B.D.Valnion
+#REF-CODE   (J,PR/C,79,064323,2009)
+#REFERENCE  Phys.Rev.C 79 (2009) 064323 (doi:10.1103/PhysRevC.79.064323)
+#DATASETS   0
+#
+#DATASET    C1716032 
+#DATE       20090825
+#REACTION   56-BA-130(P,T)56-BA-128,PAR,DA
+#PROJ       1001
+#TARG       56130
+#MF         4
+#MT         700
+#PRODUCT    56-BA-128
+#C4BEGIN    [ 1001 56130   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 56130   4 700  C 2.5000+7          8.3000-6 8.0000-7 0.994338          3611000.         LVLS.Pascu+             (09)C1716 32 
+ 1001 56130   4 700  C 2.5000+7          1.2100-5 4.0000-7 0.965016          3611000.         LVLS.Pascu+             (09)C1716 32 
+#/DATA      2
+#/DATASET

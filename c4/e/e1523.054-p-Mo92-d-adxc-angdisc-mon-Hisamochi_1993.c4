@@ -1,0 +1,33 @@
+#ENTRY      E1523
+#AUTHOR1    K.Hisamochi+
+#YEAR       1993
+#INSTITUTE  (2JPNKYU)
+#TITLE      Hole strengths and spreading widths observed in
+#+          92Mo(p,d)91Mo reaction at 65 MeV
+#AUTHOR(S)  K.Hisamochi, O.Iwamoto, A.Kisanuki, S.Budihardjo, S.Widodo, 
+#+          A.Nohtomi, Y.Uozumi, T.Sakae, M.Matoba, M.Nakano, T.Maki, 
+#+          S.Matsuki, N.Koori
+#REF-CODE   (J,NP/A,564,(2),227,199311)
+#REFERENCE  Nucl.Phys.A 564 No.2 (1993) 227 (doi:10.1016/0375-9474(93)90519-4)
+#DATASETS   0
+#
+#DATASET    E1523054 
+#DATE       20051219
+#REACTION   42-MO-92(P,D)42-MO-91,PAR,DA
+#PROJ       1001
+#TARG       42092
+#MF         4
+#MT         650
+#PRODUCT    42-MO-91
+#C4BEGIN    [ 1001 42092   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42092   4 650  C 6.5000+7          4.5770-4 3.8010-5 0.996503          5930000.         LVLK.Hisamochi+         (93)E1523 54 
+ 1001 42092   4 650  C 6.5000+7          3.7220-4 2.3330-5 0.991114          5930000.         LVLK.Hisamochi+         (93)E1523 54 
+ 1001 42092   4 650  C 6.5000+7          3.8380-4 1.7900-5 0.970716          5930000.         LVLK.Hisamochi+         (93)E1523 54 
+ 1001 42092   4 650  C 6.5000+7          2.4850-4 1.3580-5 0.958023          5930000.         LVLK.Hisamochi+         (93)E1523 54 
+ 1001 42092   4 650  C 6.5000+7          1.7890-4 1.1210-5 0.940466          5930000.         LVLK.Hisamochi+         (93)E1523 54 
+ 1001 42092   4 650  C 6.5000+7          1.3480-4 7.3650-6 0.919341          5930000.         LVLK.Hisamochi+         (93)E1523 54 
+#/DATA      6
+#/DATASET

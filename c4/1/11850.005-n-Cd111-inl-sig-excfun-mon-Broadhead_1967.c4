@@ -1,0 +1,26 @@
+#ENTRY      11850
+#AUTHOR1    K.G.Broadhead+
+#YEAR       1967
+#INSTITUTE  (1USAREN)
+#TITLE      The application of 2.8 MeV (D,d) neutrons to activation
+#+          analysis.
+#AUTHOR(S)  K.G.Broadhead, D.E.Shanks
+#REF-CODE   (J,ARI,18,279,1967)
+#REFERENCE  Appl.Radiat.Isot. 18 (1967) 279 (doi:10.1016/0020-708X(67)90125-1)
+#DATASETS   0
+#
+#DATASET    11850005 
+#DATE       20220822
+#REACTION   48-CD-111(N,INL)48-CD-111-M,,SIG
+#PROJ       1
+#TARG       48111
+#MF         3
+#MT         4
+#PRODUCT    48-CD-111-M
+#C4BEGIN    [    1 48111   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 48111   3   4M   2800000. 70000.00 0.277000 0.036010                                       K.G.Broadhead+       (67)11850  5 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      C1868
+#AUTHOR1    N.E.Davison+
+#YEAR       1977
+#INSTITUTE  (1CANMNA)
+#TITLE      Measurements of the proton total reaction cross
+#+          section for 24Mg, 64,66,68Zn and 140Ce between 17.5
+#+          and 48 MeV
+#AUTHOR(S)  N.E.Davison, D.K.Hasell, A.M.Sourkes, W.T.H.Van Oers, R.F.Carlson, 
+#+          A.J.Cox, D.J.Margaziotis
+#REF-CODE   (J,NP/A,290,45,1977)
+#REFERENCE  Nucl.Phys.A 290 (1977) 45 (doi:10.1016/0375-9474(77)90663-7)
+#DATASETS   0
+#
+#DATASET    C1868005 
+#DATE       20111119
+#REACTION   30-ZN-68(P,NON),,SIG
+#PROJ       1001
+#TARG       30068
+#MF         3
+#MT         3
+#C4BEGIN    [ 1001 30068   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30068   3   3    2.2200+7          1.236000 0.032000                                       N.E.Davison+         (77)C1868  5 
+ 1001 30068   3   3    3.0500+7          1.209000 0.028000                                       N.E.Davison+         (77)C1868  5 
+ 1001 30068   3   3    3.9600+7          1.143000 0.022000                                       N.E.Davison+         (77)C1868  5 
+ 1001 30068   3   3    4.4600+7          1.112000 0.019000                                       N.E.Davison+         (77)C1868  5 
+ 1001 30068   3   3    4.8000+7          1.101000 0.020000                                       N.E.Davison+         (77)C1868  5 
+#/DATA      5
+#/DATASET

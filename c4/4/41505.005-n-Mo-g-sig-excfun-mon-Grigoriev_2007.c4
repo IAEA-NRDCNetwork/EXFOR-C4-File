@@ -1,0 +1,31 @@
+#ENTRY      41505
+#AUTHOR1    Yu.V.Grigoriev+
+#YEAR       2007
+#INSTITUTE  (4RUSFEI)
+#TITLE      Measurement of Nb, Mo, Ta and W cross-sections on the
+#+          IBR-30 and MMF neutron beams.
+#AUTHOR(S)  Yu.V.Grigoriev, B.V.Zhuravlev, O.N.Pavlova, A.I.Berlev, 
+#+          A.M.Perekrestenko, Zh.V.Mezentseva
+#REF-CODE   (S,ISINN-14,313,2007)
+#REFERENCE  Report (proceedings) ISINN-14 page 313, 2007
+#DATASETS   0
+#
+#DATASET    41505005 
+#DATE       20200703
+#REACTION   42-MO-0(N,G),,SIG,,AV
+#PROJ       1
+#TARG       42000
+#MF         3
+#MT         102
+#C4BEGIN    [    1 42000   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42000   3 102 C  73.25000 26.75000 3.200000 1.000000                                       Yu.V.Grigoriev+      (07)41505  5 
+    1 42000   3 102 C  157.5000 57.50000 4.200000 0.400000                                       Yu.V.Grigoriev+      (07)41505  5 
+    1 42000   3 102 C  340.0000 125.0000 1.400000 0.200000                                       Yu.V.Grigoriev+      (07)41505  5 
+    1 42000   3 102 C  732.5000 267.5000 1.200000 0.200000                                       Yu.V.Grigoriev+      (07)41505  5 
+    1 42000   3 102 C  1575.000 575.0000 0.900000 0.100000                                       Yu.V.Grigoriev+      (07)41505  5 
+    1 42000   3 102 C  3400.000 1250.000 0.600000 0.050000                                       Yu.V.Grigoriev+      (07)41505  5 
+#/DATA      6
+#/DATASET

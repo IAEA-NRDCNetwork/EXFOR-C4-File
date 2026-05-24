@@ -1,0 +1,35 @@
+#ENTRY      22483
+#AUTHOR1    H.Beer+
+#YEAR       1984
+#INSTITUTE  (2GERKFK)
+#TITLE      Neutron capture cross sections and solar abundances of
+#+          160,161Dy, 170,171Yb, 175,176Lu and 176,177Hf for the
+#+          s-process analysis of the radionuclide 176Lu
+#AUTHOR(S)  H.Beer, G.Walter, R.L.Macklin, P.J.Pachet
+#REF-CODE   (J,PR/C,30,464,1984)
+#REFERENCE  Phys.Rev.C 30 (1984) 464 (doi:10.1103/PhysRevC.30.464)
+#DATASETS   0
+#
+#DATASET    22483004 
+#DATE       20030207
+#REACTION   70-YB-170(N,G)70-YB-171,,SIG,,AV
+#PROJ       1
+#TARG       70170
+#MF         3
+#MT         102
+#PRODUCT    70-YB-171
+#C4BEGIN    [    1 70170   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 70170   3 102    12500.00 2500.000 1.000000                                                H.Beer+              (84)22483  4 
+    1 70170   3 102    17500.00 2500.000 0.829000                                                H.Beer+              (84)22483  4 
+    1 70170   3 102    25000.00 5000.000 0.780000                                                H.Beer+              (84)22483  4 
+    1 70170   3 102    35000.00 5000.000 0.738000                                                H.Beer+              (84)22483  4 
+    1 70170   3 102    50000.00 10000.00 0.630000                                                H.Beer+              (84)22483  4 
+    1 70170   3 102    70000.00 10000.00 0.557000                                                H.Beer+              (84)22483  4 
+    1 70170   3 102    90000.00 10000.00 0.473000                                                H.Beer+              (84)22483  4 
+    1 70170   3 102    125000.0 25000.00 0.369000                                                H.Beer+              (84)22483  4 
+    1 70170   3 102    175000.0 25000.00 0.298000                                                H.Beer+              (84)22483  4 
+#/DATA      9
+#/DATASET

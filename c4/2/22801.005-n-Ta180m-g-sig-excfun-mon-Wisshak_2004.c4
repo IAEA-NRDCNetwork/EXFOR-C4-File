@@ -1,0 +1,36 @@
+#ENTRY      22801
+#AUTHOR1    K.Wisshak+
+#YEAR       2004
+#INSTITUTE  (2GERKFK)
+#TITLE      Stellar neutron capture on 180-TA-m
+#+          I.cross section measurement between 10 keV and 100 keV
+#AUTHOR(S)  K.Wisshak, F.Voss, C.Arlandini, F.Becvar, O.Straniero, R.Gallino, 
+#+          M.Heil, F.Kaeppeler, M.Krticka, S.Masera, R.Reifarth, C.Travaglio
+#REF-CODE   (J,PR/C,69,055801,2004)
+#REFERENCE  Phys.Rev.C 69 (2004) 055801 (doi:10.1103/PhysRevC.69.055801)
+#DATASETS   0
+#
+#DATASET    22801005 
+#DATE       20230514
+#REACTION   73-TA-180-M(N,G)73-TA-181,,SIG,,AV
+#PROJ       1
+#TARG       73180
+#MF         3
+#MT         102
+#PRODUCT    73-TA-181
+#C4BEGIN    [    1 73180M  3 102 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 73180M  3 102 D  11250.00 1250.000 3.772000 1.470000                                       K.Wisshak            (04)22801  5 
+    1 73180M  3 102 D  13750.00 1250.000 1.360000 0.911000                                       K.Wisshak            (04)22801  5 
+    1 73180M  3 102 D  17500.00 2500.000 2.736000 0.547000                                       K.Wisshak            (04)22801  5 
+    1 73180M  3 102 D  22500.00 2500.000 2.036000 0.366000                                       K.Wisshak            (04)22801  5 
+    1 73180M  3 102 D  27500.00 2500.000 1.431000 0.229000                                       K.Wisshak            (04)22801  5 
+    1 73180M  3 102 D  35000.00 5000.000 1.435000 0.143000                                       K.Wisshak            (04)22801  5 
+    1 73180M  3 102 D  45000.00 5000.000 1.032000 0.103000                                       K.Wisshak            (04)22801  5 
+    1 73180M  3 102 D  55000.00 5000.000 1.076000 0.099000                                       K.Wisshak            (04)22801  5 
+    1 73180M  3 102 D  70000.00 10000.00 0.877000 0.072000                                       K.Wisshak            (04)22801  5 
+    1 73180M  3 102 D  90000.00 10000.00 0.813000 0.078000                                       K.Wisshak            (04)22801  5 
+#/DATA      10
+#/DATASET

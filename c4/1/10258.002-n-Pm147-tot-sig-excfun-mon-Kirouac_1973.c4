@@ -1,0 +1,25 @@
+#ENTRY      10258
+#AUTHOR1    G.J.Kirouac+
+#YEAR       1973
+#INSTITUTE  (1USAKAP)
+#TITLE      Resonance and thermal neutron total cross sections
+#+          for promethium-147 and promethium-148m
+#AUTHOR(S)  G.J.Kirouac, H.M.Eiland, C.A.Conrad, R.E.Slovacek, K.W.Seemann
+#REF-CODE   (J,NSE,52,310,1973)
+#REFERENCE  Nucl.Sci.Eng. 52 (1973) 310 (doi:10.13182/NSE73-A19478)
+#DATASETS   0
+#
+#DATASET    10258002 
+#DATE       20210803
+#REACTION   61-PM-147(N,TOT),,SIG
+#PROJ       1
+#TARG       61147
+#MF         3
+#MT         1
+#C4BEGIN    [    1 61147   3   1 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 61147   3   1 D  0.025300          198.0000 8.000000                                       G.J.Kirouac+         (73)10258  2 
+#/DATA      1
+#/DATASET

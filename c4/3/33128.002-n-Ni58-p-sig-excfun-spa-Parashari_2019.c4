@@ -1,0 +1,29 @@
+#ENTRY      33128
+#AUTHOR1    S.Parashari+
+#YEAR       2019
+#INSTITUTE  (3INDBDA)
+#TITLE      Measurement of the 58Ni(n,p)58Co and 58Ni(n,2n)57Ni
+#+          reaction cross-sections for fast neutron energies up
+#+          to 18 MeV
+#AUTHOR(S)  S.Parashari, S.Mukherjee, H.Naik, S.V.Suryanarayana, R.Makwana, 
+#+          B.K.Nayak, N.L.Singh
+#REF-CODE   (J,EPJ/A,55,51,2019)
+#REFERENCE  Eur.Phys.J.A 55 (2019) 51 (doi:10.1140/epja/i2019-12726-2)
+#DATASETS   0
+#
+#DATASET    33128002 
+#DATE       20191210
+#REACTION   28-NI-58(N,P)27-CO-58,,SIG,,SPA
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         103
+#PRODUCT    27-CO-58
+#C4BEGIN    [    1 28058   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3 103    2970000. 190000.0 0.198070 0.023370                                       S.Parashari+         (19)33128  2 
+    1 28058   3 103    3370000. 230000.0 0.252210 0.033790                                       S.Parashari+         (19)33128  2 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      11341
+#AUTHOR1    N.A.Bostrom+
+#YEAR       1959
+#INSTITUTE  (1USATNC)
+#TITLE      INTERACTION OF FAST NEUTRONS IN IRON, LEAD, OXYGEN AND
+#+          HYDROGEN.
+#AUTHOR(S)  N.A.Bostrom, I.L.Morgan, J.T.Prud'Homme, P.L.Okhuysen, O.M.Hudson Jr
+#REF-CODE   (R,WADC-TR-59-31,59)
+#REFERENCE  Report WADC-TR-59-31, 1959
+#DATASETS   0
+#
+#DATASET    11341006 
+#DATE       19860326
+#REACTION   26-FE-0(N,EL)26-FE-0,,SIG
+#PROJ       1
+#TARG       26000
+#MF         3
+#MT         2
+#PRODUCT    26-FE-0
+#C4BEGIN    [    1 26000   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   3   2 D  3670000. 120000.0 2.300000 0.200000                                       N.A.Bostrom+         (59)11341  6 
+    1 26000   3   2 D  4210000. 100000.0 2.200000 0.200000                                       N.A.Bostrom+         (59)11341  6 
+    1 26000   3   2 D  4700000. 90000.00 2.250000 0.200000                                       N.A.Bostrom+         (59)11341  6 
+#/DATA      3
+#/DATASET

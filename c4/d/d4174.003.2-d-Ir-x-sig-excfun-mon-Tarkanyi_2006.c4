@@ -1,0 +1,32 @@
+#ENTRY      D4174
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2006
+#INSTITUTE  (3HUNDEB)
+#TITLE      Cross sections of deuteron induced nuclear reactions
+#+          on iridium
+#AUTHOR(S)  F.Tarkanyi, B.Kiraly, F.Ditroi, S.Takacs, J.Csikai, A.Hermanne, 
+#+          M.S.Uddin, M.Hagiwara, M.Baba, Yu.N.Shubin, S.F.Kovalev
+#REF-CODE   (J,NIM/B,247,210,2006)
+#REFERENCE  Nucl.Instrum.Meth.B 247 (2006) 210 (doi:10.1016/j.nimb.2006.03.002)
+#DATASETS   0
+#
+#DATASET    D41740032
+#DATE       20060518
+#REACTION   77-IR-0(D,X)78-PT-193-M,,SIG
+#PROJ       1002
+#TARG       77000
+#MF         3
+#MT         454
+#PRODUCT    78-PT-193-M
+#C4BEGIN    [ 1002 77000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 77000   3 454    5800000. 1100000. 9.0000-3 4.7000-3           78193.7                     F.Tarkanyi+          (06)D4174  32
+ 1002 77000   3 454    9600000. 800000.0 0.065000 0.015000           78193.7                     F.Tarkanyi+          (06)D4174  32
+ 1002 77000   3 454    1.2600+7 700000.0 0.233000 0.059000           78193.7                     F.Tarkanyi+          (06)D4174  32
+ 1002 77000   3 454    1.5200+7 500000.0 0.137000 0.037000           78193.7                     F.Tarkanyi+          (06)D4174  32
+ 1002 77000   3 454    1.7500+7 500000.0 0.082000 0.027000           78193.7                     F.Tarkanyi+          (06)D4174  32
+ 1002 77000   3 454    1.9700+7 300000.0 0.069000 0.019000           78193.7                     F.Tarkanyi+          (06)D4174  32
+#/DATA      6
+#/DATASET

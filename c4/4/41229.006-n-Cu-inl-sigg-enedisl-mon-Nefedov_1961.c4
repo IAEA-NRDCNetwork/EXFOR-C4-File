@@ -1,0 +1,28 @@
+#ENTRY      41229
+#AUTHOR1    V.V.Nefedov+
+#YEAR       1961
+#INSTITUTE  (4RUSLEB)
+#TITLE      Gamma-radiation in inelastic interaction between
+#+          fast neutrons and atomic nuclei
+#AUTHOR(S)  V.V.Nefedov, V.I.Popov, Yu.S.Yazvitskii
+#REF-CODE   (B,NEJTRONFIZ,,324,1961)
+#REFERENCE  Neitronnaya Fizika, Moskva 1961 page 324 (1961)
+#DATASETS   0
+#
+#DATASET    41229006 
+#DATE       20191221
+#REACTION   29-CU-0(N,INL)29-CU-0,PAR,SIG,G
+#PROJ       1
+#TARG       29000
+#MF         13
+#MT         51
+#PRODUCT    29-CU-0
+#C4BEGIN    [    1 29000  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000  13  51    1.4000+7          0.470000                            4000000.            V.V.Nefedov+         (61)41229  6 
+    1 29000  13  51    1.4000+7          0.250000                            5000000.            V.V.Nefedov+         (61)41229  6 
+    1 29000  13  51    1.4000+7          0.140000                            6100000.            V.V.Nefedov+         (61)41229  6 
+#/DATA      3
+#/DATASET

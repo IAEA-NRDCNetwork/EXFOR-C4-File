@@ -1,0 +1,32 @@
+#ENTRY      D0493
+#AUTHOR1    J.D.Stickler+
+#YEAR       1974
+#INSTITUTE  (1USAKTY)
+#TITLE      Comparison of 3He-, 4He-, and 12C-induced nuclear
+#+          reactions in heavy-mass targets at medium excitation
+#+          energies. I. Experimental cross sections
+#AUTHOR(S)  J.D.Stickler, K.J.Hofstetter
+#REF-CODE   (J,PR/C,9,1064,1974)
+#REFERENCE  Phys.Rev.C 9 (1974) 1064 (doi:10.1103/PhysRevC.9.1064)
+#DATASETS   0
+#
+#DATASET    D0493013 
+#DATE       20141120
+#REACTION   75-RE-187(HE3,3N)77-IR-187,,SIG
+#PROJ       2003
+#TARG       75187
+#MF         3
+#MT         17
+#PRODUCT    77-IR-187
+#C4BEGIN    [ 2003 75187   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 75187   3  17    2.8500+7 3100000. 0.342000 0.065000                                       J.D.Stickler+        (74)D0493 13 
+ 2003 75187   3  17    3.2100+7 3000000. 0.158000 0.032000                                       J.D.Stickler+        (74)D0493 13 
+ 2003 75187   3  17    3.4200+7 3000000. 0.133000 0.027000                                       J.D.Stickler+        (74)D0493 13 
+ 2003 75187   3  17    3.6400+7 2900000. 0.085000 0.017000                                       J.D.Stickler+        (74)D0493 13 
+ 2003 75187   3  17    4.4600+7 2600000. 0.057000 0.011000                                       J.D.Stickler+        (74)D0493 13 
+ 2003 75187   3  17    4.7900+7 2500000. 0.047000 0.011000                                       J.D.Stickler+        (74)D0493 13 
+#/DATA      6
+#/DATASET

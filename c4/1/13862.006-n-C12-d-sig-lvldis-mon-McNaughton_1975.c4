@@ -1,0 +1,28 @@
+#ENTRY      13862
+#AUTHOR1    M.W.McNaughton+
+#YEAR       1975
+#INSTITUTE  (1USADAV)
+#TITLE      Improved Predictions of Neutron Detection Efficiency
+#+          Resulting from New Measurements of 12C(n,p) and
+#+          12C(n,d) Reactions at 56 MeV
+#AUTHOR(S)  M.W.McNaughton, N.S.P.King, F.P.Brady, J.L.Ullmann
+#REF-CODE   (J,NIM,129,241,1975)
+#REFERENCE  Nucl.Intrum.Meth. 129 (1975) 241 (doi:10.1016/0029-554X(75)90135-4)
+#DATASETS   0
+#
+#DATASET    13862006 
+#DATE       20141126
+#REACTION   6-C-12(N,D)5-B-11,PAR,SIG
+#PROJ       1
+#TARG       6012
+#MF         3
+#MT         650
+#PRODUCT    5-B-11
+#C4BEGIN    [    1  6012   3 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   3 650    5.6000+7          0.020000 2.0000-3                   0.000000         LVLM.W.McNaughton+      (75)13862  6 
+    1  6012   3 650    5.6000+7          3.0000-3 1.0000-3                   2120000.         LVLM.W.McNaughton+      (75)13862  6 
+#/DATA      2
+#/DATASET

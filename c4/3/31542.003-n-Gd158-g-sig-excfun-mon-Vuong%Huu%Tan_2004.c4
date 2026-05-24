@@ -1,0 +1,28 @@
+#ENTRY      31542
+#AUTHOR1    Vuong Huu Tan+
+#YEAR       2004
+#INSTITUTE  (3VN NNR)
+#TITLE      Neutron capture cross section measurements of
+#+          109Ag, 186W and 158Gd on filtered neutron beams
+#+          of 55 and 144 keV
+#AUTHOR(S)  Vuong Huu Tan, Nguyen Canh Hai, Pham Ngoc Son, Tran Tuan Anh
+#REF-CODE   (R,INDC(VN)-011,2004)
+#REFERENCE  Report INDC(VN)-011, 2004
+#DATASETS   0
+#
+#DATASET    31542003 
+#DATE       20161202
+#REACTION   64-GD-158(N,G)64-GD-159,,SIG
+#PROJ       1
+#TARG       64158
+#MF         3
+#MT         102
+#PRODUCT    64-GD-159
+#C4BEGIN    [    1 64158   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 64158   3 102    55000.00 4000.000 0.199420 0.011500                                       Vuong Huu Tan+       (04)31542  3 
+    1 64158   3 102    144000.0 11000.00 0.114850 5.2600-3                                       Vuong Huu Tan+       (04)31542  3 
+#/DATA      2
+#/DATASET

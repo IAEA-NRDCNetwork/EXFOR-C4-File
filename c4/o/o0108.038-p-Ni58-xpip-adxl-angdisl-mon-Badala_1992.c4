@@ -1,0 +1,34 @@
+#ENTRY      O0108
+#AUTHOR1    A.Badala+
+#YEAR       1992
+#INSTITUTE  (2ITYCAT)
+#TITLE      Reactions Ni-58,64(p,pip) at 201 MeV.
+#AUTHOR(S)  A.Badala, R.Barbera, A.Palmeri, G.S.Pappalardo, A.Bonasera, 
+#+          F.Riggi, A.Adorno, L.Bimbot
+#REF-CODE   (J,PR/C,46,604,1992)
+#REFERENCE  Phys.Rev.C 46 (1992) 604 (doi:10.1103/PhysRevC.46.604)
+#DATASETS   0
+#
+#DATASET    O0108038 
+#DATE       20100707
+#REACTION   28-NI-58(P,X)1-PP-0,,DA
+#PROJ       1001
+#TARG       28058
+#MF         4
+#MT         208
+#PRODUCT    1-PP-0
+#C4BEGIN    [ 1001 28058   4 208  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   4 208    2.0100+8          3.2980-5          0.942057                              A.Badala+            (92)O0108 38 
+ 1001 28058   4 208    2.0100+8          2.5930-5          0.847122                              A.Badala+            (92)O0108 38 
+ 1001 28058   4 208    2.0100+8          1.8250-5          0.603208                              A.Badala+            (92)O0108 38 
+ 1001 28058   4 208    2.0100+8          1.4550-5          0.348572                              A.Badala+            (92)O0108 38 
+ 1001 28058   4 208    2.0100+8          1.2420-5         -1.7453-3                              A.Badala+            (92)O0108 38 
+ 1001 28058   4 208    2.0100+8          1.2920-5         -0.233445                              A.Badala+            (92)O0108 38 
+ 1001 28058   4 208    2.0100+8          1.2890-5         -0.522499                              A.Badala+            (92)O0108 38 
+ 1001 28058   4 208    2.0100+8          1.4430-5         -0.726575                              A.Badala+            (92)O0108 38 
+ 1001 28058   4 208    2.0100+8          1.3350-5         -0.906308                              A.Badala+            (92)O0108 38 
+#/DATA      9
+#/DATASET

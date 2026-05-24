@@ -1,0 +1,38 @@
+#ENTRY      E2617
+#AUTHOR1    T.Murata+
+#YEAR       2019
+#INSTITUTE  (2JPNHOK)
+#TITLE      Excitation function measurement for zirconium-89 and
+#+          niobium-90 production using alpha-induced reactions on
+#+          yttrium-89
+#AUTHOR(S)  T.Murata, M.Aikawa, M.Saito, H.Haba, Y.Komori, N.Ukon, S.Takacs, 
+#+          F.Ditroi
+#REF-CODE   (J,NIM/B,458,21,2019)
+#REFERENCE  Nucl.Instrum.Meth.B 458 (2019) 21 (doi:10.1016/j.nimb.2019.07.043)
+#DATASETS   0
+#
+#DATASET    E2617003 
+#DATE       20191216
+#REACTION   39-Y-89(A,2N)41-NB-91-M,,SIG
+#PROJ       2004
+#TARG       39089
+#MF         3
+#MT         16
+#PRODUCT    41-NB-91-M
+#C4BEGIN    [ 2004 39089   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 39089   3  16M   3.8600+7 700000.0 0.016200 2.0000-3                                       T.Murata+            (19)E2617  3 
+ 2004 39089   3  16M   3.7300+7 700000.0 0.022700 2.9000-3                                       T.Murata+            (19)E2617  3 
+ 2004 39089   3  16M   3.5900+7 700000.0 0.017300 3.2000-3                                       T.Murata+            (19)E2617  3 
+ 2004 39089   3  16M   3.4500+7 700000.0 0.028000 6.2000-3                                       T.Murata+            (19)E2617  3 
+ 2004 39089   3  16M   3.2700+7 700000.0 0.035000 6.2000-3                                       T.Murata+            (19)E2617  3 
+ 2004 39089   3  16M   3.0800+7 700000.0 0.054900 7.5000-3                                       T.Murata+            (19)E2617  3 
+ 2004 39089   3  16M   2.8800+7 800000.0 0.089400 9.9000-3                                       T.Murata+            (19)E2617  3 
+ 2004 39089   3  16M   2.6700+7 800000.0 0.112000 0.011000                                       T.Murata+            (19)E2617  3 
+ 2004 39089   3  16M   2.4500+7 900000.0 0.110000 0.011000                                       T.Murata+            (19)E2617  3 
+ 2004 39089   3  16M   2.2100+7 900000.0 0.135000 0.022000                                       T.Murata+            (19)E2617  3 
+ 2004 39089   3  16M   1.9500+7 1000000. 0.106000 0.026000                                       T.Murata+            (19)E2617  3 
+#/DATA      11
+#/DATASET

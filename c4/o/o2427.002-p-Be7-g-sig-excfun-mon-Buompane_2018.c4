@@ -1,0 +1,30 @@
+#ENTRY      O2427
+#AUTHOR1    R.Buompane+
+#YEAR       2018
+#INSTITUTE  (2ITYFSN)
+#TITLE      Test measurement of 7Be(p,gamma) 8B with the recoil
+#+          mass separator ERNA
+#AUTHOR(S)  R.Buompane, N.De Cesare, A.Di Leva, A.D'onofrio, L.Gialanella, 
+#+          M.Romano, M.De Cesare, J.G.Duarte, Zs.Fulop, L.Morales-Gallegos, 
+#+          Gy.Gyurky, L.R.Gasques, F.Marzaioli, G.Palumbo, G.Porzio, 
+#+          D.Rapagnani, V.Roca, D.Rogalla, M.Romoli, C.Sabbarese, D.Schurmann, 
+#+          F.Terrasi
+#REF-CODE   (J,EPJ/A,54,92,2018)
+#REFERENCE  Eur.Phys.J.A 54 (2018) 92 (doi:10.1140/epja/i2018-12522-6)
+#DATASETS   0
+#
+#DATASET    O2427002 
+#DATE       20190515
+#REACTION   (1-H-1(4-BE-7,G)5-B-8,,SIG)=(4-BE-7(P,G)5-B-8,,SIG)
+#PROJ       1001
+#TARG       4007
+#MF         3
+#MT         102
+#PRODUCT    5-B-8
+#C4BEGIN    [ 1001  4007   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4007   3 102    928676.0          5.3000-7 9.0000-8                                       R.Buompane+          (18)O2427  2 
+#/DATA      1
+#/DATASET

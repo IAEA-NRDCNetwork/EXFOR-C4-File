@@ -1,0 +1,50 @@
+#ENTRY      12645
+#AUTHOR1    R.D.Wilson+
+#YEAR       1973
+#INSTITUTE  (1USAVIR)
+#TITLE      FAST-NEUTRON CROSS-SECTIONS FOR ZIRCONIUM-90
+#AUTHOR(S)  R.D.Wilson
+#REF-CODE   (T,WILSON,73)
+#REFERENCE  Thesis  (1973)
+#DATASETS   0
+#
+#DATASET    12645006 
+#DATE       19920117
+#REACTION   40-ZR-90(N,INL)40-ZR-90,PAR,DA
+#PROJ       1
+#TARG       40090
+#MF         4
+#MT         51
+#PRODUCT    40-ZR-90
+#C4BEGIN    [    1 40090   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   4  51    2690000. 40000.00 0.022400 3.0000-3 0.615661          1761000.         LVLR.D.Wilson           (73)12645  6 
+    1 40090   4  51    3000000. 40000.00 0.022200 1.9000-3 0.615661          1761000.         LVLR.D.Wilson           (73)12645  6 
+    1 40090   4  51    3310000. 40000.00 0.019000 2.5000-3 0.615661          1761000.         LVLR.D.Wilson           (73)12645  6 
+    1 40090   4  51    3620000. 40000.00 0.020300 2.6000-3 0.615661          1761000.         LVLR.D.Wilson           (73)12645  6 
+    1 40090   4  51    3920000. 50000.00 0.013600 1.8000-3 0.615661          1761000.         LVLR.D.Wilson           (73)12645  6 
+    1 40090   4  51    4230000. 50000.00 9.0000-3 1.1000-3 0.615661          1761000.         LVLR.D.Wilson           (73)12645  6 
+    1 40090   4  51    4520000. 50000.00 7.8000-3 2.5000-3 0.615661          1761000.         LVLR.D.Wilson           (73)12645  6 
+#/DATA      7
+#/DATASET
+#
+#DATASET    12645006 
+#DATE       19920117
+#REACTION   40-ZR-90(N,INL)40-ZR-90,PAR,DA
+#PROJ       1
+#TARG       40090
+#MF         4
+#MT         51
+#PRODUCT    40-ZR-90
+#C4BEGIN    [    1 40090   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   4  51    3620000. 40000.00 0.025800 2.7000-3 0.615661          2745000.         LVLR.D.Wilson           (73)12645  6 
+    1 40090   4  51    3920000. 50000.00 0.027100 2.9000-3 0.615661          2745000.         LVLR.D.Wilson           (73)12645  6 
+    1 40090   4  51    4230000. 50000.00 0.028500 2.1000-3 0.615661          2745000.         LVLR.D.Wilson           (73)12645  6 
+    1 40090   4  51    4520000. 50000.00 0.026000 2.2000-3 0.615661          2745000.         LVLR.D.Wilson           (73)12645  6 
+#/DATA      4
+#/DATASET

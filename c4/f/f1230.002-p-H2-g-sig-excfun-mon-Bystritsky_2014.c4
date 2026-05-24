@@ -1,0 +1,34 @@
+#ENTRY      F1230
+#AUTHOR1    V.M.Bystritsky+
+#YEAR       2014
+#INSTITUTE  (4ZZZDUB)
+#TITLE      First experimental evidence of D(p,gamma)He-3
+#+          reaction in deuteride titanium in ultralow collision
+#+          energy region.
+#AUTHOR(S)  V.M.Bystritsky, Vit.M.Bystritskii, G.N.Dudkin, M.Filipowicz, 
+#+          S.Gazi, J.Huran, B.A.Nechaev, V.N.Padalko, S.S.Parzhitskii, 
+#+          F.M.Pen'kov, A.V.Philippov, Yu.Zh.Tuleushev
+#REF-CODE   (J,NIM/A,753,91,2014)
+#REFERENCE  Nucl.Instrum.Meth.A 753 (2014) 91 (doi:10.1016/j.nima.2014.03.059)
+#DATASETS   0
+#
+#DATASET    F1230002 
+#DATE       20140905
+#REACTION   1-H-2(P,G)2-HE-3,,SIG,,SFC
+#PROJ       1001
+#TARG       1002
+#MF         3
+#MT         102
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1002   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   3 102 A  9000.000 720.0000 1.4176-9 1.890-10                                       V.M.Bystritsky+      (14)F1230  2 
+ 1001  1002   3 102 A  11000.00 880.0000 3.0466-9 3.152-10                                       V.M.Bystritsky+      (14)F1230  2 
+ 1001  1002   3 102 A  13000.00 1040.000 5.5066-9 5.696-10                                       V.M.Bystritsky+      (14)F1230  2 
+ 1001  1002   3 102 A  15000.00 1200.000 8.7097-9 6.007-10                                       V.M.Bystritsky+      (14)F1230  2 
+ 1001  1002   3 102 A  17000.00 1360.000 1.2570-8 8.669-10                                       V.M.Bystritsky+      (14)F1230  2 
+ 1001  1002   3 102 A  19000.00 1520.000 1.7569-8 1.1713-9                                       V.M.Bystritsky+      (14)F1230  2 
+#/DATA      6
+#/DATASET

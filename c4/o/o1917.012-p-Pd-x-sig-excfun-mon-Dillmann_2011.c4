@@ -1,0 +1,38 @@
+#ENTRY      O1917
+#AUTHOR1    I.Dillmann+
+#YEAR       2011
+#INSTITUTE  (2GERKFK)
+#TITLE      Cross section for proton-induced reactions on Pd
+#+          isotopes at energies relevant for the gamma process.
+#AUTHOR(S)  I.Dillmann, L.Coquard, C.Domingo-Pardo, F.Kaeppeler, J.Marganiec, 
+#+          E.Uberseder, U.Giesen, A.Heiske, G.Feinberg, D.Hentschel, 
+#+          S.Hilpp, H.Leiste, T.Rauscher, F.-K.Thielemann
+#REF-CODE   (J,PR/C,84,015802,2011)
+#REFERENCE  Phys.Rev.C 84 (2011) 015802 (doi:10.1103/PhysRevC.84.015802)
+#DATASETS   0
+#
+#DATASET    O1917012 
+#DATE       20140205
+#REACTION   46-PD-0(P,X)47-AG-106-M,,SIG
+#PROJ       1001
+#TARG       46000
+#MF         3
+#MT         454
+#PRODUCT    47-AG-106-M
+#C4BEGIN    [ 1001 46000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 46000   3 454    3208147.          3.6000-6 4.0000-7           47106.7                     I.Dillmann+          (11)O1917 12 
+ 1001 46000   3 454    3456485.          5.0000-6 6.0000-7           47106.7                     I.Dillmann+          (11)O1917 12 
+ 1001 46000   3 454    3476675.          6.1000-6 6.0000-7           47106.7                     I.Dillmann+          (11)O1917 12 
+ 1001 46000   3 454    3713909.          9.6000-6 1.6000-6           47106.7                     I.Dillmann+          (11)O1917 12 
+ 1001 46000   3 454    3930953.          1.5000-5 1.8000-6           47106.7                     I.Dillmann+          (11)O1917 12 
+ 1001 46000   3 454    3974362.          1.5100-5 2.1000-6           47106.7                     I.Dillmann+          (11)O1917 12 
+ 1001 46000   3 454    4209578.          4.4600-5 4.9000-6           47106.7                     I.Dillmann+          (11)O1917 12 
+ 1001 46000   3 454    4411481.          6.3600-5 8.8000-6           47106.7                     I.Dillmann+          (11)O1917 12 
+ 1001 46000   3 454    4480128.          7.7800-5 5.2000-6           47106.7                     I.Dillmann+          (11)O1917 12 
+ 1001 46000   3 454    4936430.          2.9900-4 2.2000-5           47106.7                     I.Dillmann+          (11)O1917 12 
+ 1001 46000   3 454    4959649.          3.0700-4 2.5000-5           47106.7                     I.Dillmann+          (11)O1917 12 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      C1020
+#AUTHOR1    B.L.Cohen+
+#YEAR       1962
+#INSTITUTE  (1USAPUP)
+#TITLE      Location of Single-Particle Levels in Medium Mass
+#+          Nuclei
+#AUTHOR(S)  B.L.Cohen, R.H.Fulmer, A.L.McCarthy
+#REF-CODE   (J,PR,126,698,1962)
+#REFERENCE  Phys.Rev. 126 (1962) 698 (doi:10.1103/PhysRev.126.698)
+#DATASETS   0
+#
+#DATASET    C1020006 
+#DATE       20220629
+#REACTION   28-NI-60(D,P)28-NI-61,PAR,DA
+#PROJ       1002
+#TARG       28060
+#MF         4
+#MT         600
+#PRODUCT    28-NI-61
+#C4BEGIN    [ 1002 28060   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28060   4 600    1.5000+7          3.1500-3          0.986918          2133000.         LVLB.L.Cohen+           (62)C1020  6 
+ 1002 28060   4 600    1.5000+7          2.5040-3          0.965645          2133000.         LVLB.L.Cohen+           (62)C1020  6 
+ 1002 28060   4 600    1.5000+7          1.8580-3          0.903747          2133000.         LVLB.L.Cohen+           (62)C1020  6 
+ 1002 28060   4 600    1.5000+7          2.2320-3          0.761267          2133000.         LVLB.L.Cohen+           (62)C1020  6 
+#/DATA      4
+#/DATASET

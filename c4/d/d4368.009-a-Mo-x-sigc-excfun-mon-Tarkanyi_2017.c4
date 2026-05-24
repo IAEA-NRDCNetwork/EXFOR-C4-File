@@ -1,0 +1,35 @@
+#ENTRY      D4368
+#AUTHOR1    F.Tarkanyi+
+#YEAR       2017
+#INSTITUTE  (3HUNDEB)
+#TITLE      Investigation of activation cross section data of
+#+          alpha particle induced nuclear reaction on molybdenum
+#+          up to 40 MeV: Review of production routes of medically
+#+          relevant 97,103Ru
+#AUTHOR(S)  F.Tarkanyi, A.Hermanne, F.Ditroi, S.Takacs, A.Ignatyuk
+#REF-CODE   (J,NIM/B,399,83,2017)
+#REFERENCE  Nucl.Instrum.Meth.B 399 (2017) 83 (doi:10.1016/j.nimb.2017.03.043)
+#DATASETS   0
+#
+#DATASET    D4368009 
+#DATE       20170418
+#REACTION   42-MO-0(A,X)40-ZR-88,CUM,SIG
+#PROJ       2004
+#TARG       42000
+#MF         3
+#MT         459
+#PRODUCT    40-ZR-88
+#C4BEGIN    [ 2004 42000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 42000   3 459    3.8200+7 300000.0 9.6000-4 2.2000-4           40088.9                     F.Tarkanyi+          (17)D4368  9 
+ 2004 42000   3 459    3.5700+7 300000.0 1.0500-3 3.0000-4           40088.9                     F.Tarkanyi+          (17)D4368  9 
+ 2004 42000   3 459    3.3000+7 400000.0 1.1300-3 1.7000-4           40088.9                     F.Tarkanyi+          (17)D4368  9 
+ 2004 42000   3 459    3.0200+7 400000.0 1.2600-3 1.5000-4           40088.9                     F.Tarkanyi+          (17)D4368  9 
+ 2004 42000   3 459    2.7200+7 400000.0 8.2000-4 1.0000-4           40088.9                     F.Tarkanyi+          (17)D4368  9 
+ 2004 42000   3 459    2.3900+7 500000.0 4.8000-4 6.0000-5           40088.9                     F.Tarkanyi+          (17)D4368  9 
+ 2004 42000   3 459    2.0300+7 500000.0 2.1000-4 3.0000-5           40088.9                     F.Tarkanyi+          (17)D4368  9 
+ 2004 42000   3 459    1.6100+7 600000.0 1.0000-4 2.0000-5           40088.9                     F.Tarkanyi+          (17)D4368  9 
+#/DATA      8
+#/DATASET

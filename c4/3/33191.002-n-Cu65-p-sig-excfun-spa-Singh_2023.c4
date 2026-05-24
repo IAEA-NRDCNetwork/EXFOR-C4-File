@@ -1,0 +1,30 @@
+#ENTRY      33191
+#AUTHOR1    R.K.Singh+
+#YEAR       2023
+#INSTITUTE  (3INDBDA)
+#TITLE      Experimental and theoretical study of the 65Cu(n,p)65Ni
+#+          reaction cross section from reaction threshold up to
+#+          25 MeV
+#AUTHOR(S)  R.K.Singh, N.L.Singh, M.Mehta, R.Chauhan, H.Kumawat, R.Makwana, 
+#+          S.V.Suryanarayana, B.K.Nayak, H.Naik, J.Varmuza, K.Katovsky
+#REF-CODE   (J,PR/C,107,054607,2023)
+#REFERENCE  Phys.Rev.C 107 (2023) 054607 (doi:10.1103/PhysRevC.107.054607)
+#DATASETS   0
+#
+#DATASET    33191002 
+#DATE       20231115
+#REACTION   29-CU-65(N,P)28-NI-65,,SIG,,SPA
+#PROJ       1
+#TARG       29065
+#MF         3
+#MT         103
+#PRODUCT    28-NI-65
+#C4BEGIN    [    1 29065   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29065   3 103    1.3520+7 670000.0 0.022240 2.8600-3                                       R.K.Singh+           (23)33191  2 
+    1 29065   3 103    1.6860+7 550000.0 0.014560 2.6600-3                                       R.K.Singh+           (23)33191  2 
+    1 29065   3 103    1.9890+7 590000.0 0.012610 2.7100-3                                       R.K.Singh+           (23)33191  2 
+#/DATA      3
+#/DATASET

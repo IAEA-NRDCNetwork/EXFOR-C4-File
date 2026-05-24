@@ -1,0 +1,36 @@
+#ENTRY      F1525
+#AUTHOR1    D.E.Gremyachkin+
+#YEAR       2025
+#INSTITUTE  (4RUSFEI)
+#TITLE      The energy dependence of the temporal parameters of
+#+          delayed neutrons from the neutron-induced fission of
+#+          235U in the energy range from 0.4 to 8 MeV
+#AUTHOR(S)  D.E.Gremyachkin, A.S.Egorov, K.V.Mitrofanov, V.F.Mitrofanov, 
+#+          V.M.Piksaikin, I.P.Bondarenko
+#REF-CODE   (J,ANE,211,110904,2025)
+#REFERENCE  Ann.Nucl.Energy 211 (2025) 110904 (doi:10.1016/j.anucene.2024.110904)
+#DATASETS   0
+#
+#DATASET    F1525004 
+#DATE       20250117
+#REACTION   1-H-2(D,N)2-HE-3,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1002   4   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4   4 A  1000000.          0.021737          1.000000                              D.E.Gremyachkin+     (25)F1525  4 
+ 1002  1002   4   4 A  1500000.          0.028922          1.000000                              D.E.Gremyachkin+     (25)F1525  4 
+ 1002  1002   4   4 A  2000000.          0.041216          1.000000                              D.E.Gremyachkin+     (25)F1525  4 
+ 1002  1002   4   4 A  2500000.          0.050264          1.000000                              D.E.Gremyachkin+     (25)F1525  4 
+ 1002  1002   4   4 A  3000000.          0.057268          1.000000                              D.E.Gremyachkin+     (25)F1525  4 
+ 1002  1002   4   4 A  3500000.          0.060745          1.000000                              D.E.Gremyachkin+     (25)F1525  4 
+ 1002  1002   4   4 A  4000000.          0.068523          1.000000                              D.E.Gremyachkin+     (25)F1525  4 
+ 1002  1002   4   4 A  4500000.          0.072874          1.000000                              D.E.Gremyachkin+     (25)F1525  4 
+ 1002  1002   4   4 A  5000000.          0.076285          1.000000                              D.E.Gremyachkin+     (25)F1525  4 
+#/DATA      9
+#/DATASET

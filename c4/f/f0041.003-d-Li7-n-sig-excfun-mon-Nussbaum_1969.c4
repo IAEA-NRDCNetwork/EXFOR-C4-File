@@ -1,0 +1,55 @@
+#ENTRY      F0041
+#AUTHOR1    C.Nussbaum+
+#YEAR       1969
+#INSTITUTE  (2SWTNEU)
+#TITLE      Effects of the interference in the reactions
+#+          7Li(d,n)8Be near 1 MeV resonance.
+#AUTHOR(S)  C.Nussbaum
+#REF-CODE   (J,HPA,42,361,1969)
+#REFERENCE  Helv.Phys.Acta 42 (1969) 361
+#DATASETS   0
+#
+#DATASET    F0041003 
+#DATE       20200129
+#REACTION   3-LI-7(D,N)4-BE-8,PAR,SIG
+#PROJ       1002
+#TARG       3007
+#MF         3
+#MT         50
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1002  3007   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3007   3  50    910000.0          0.056900                            0.000000         LVLC.Nussbaum           (69)F0041  3 
+ 1002  3007   3  50    939000.0          0.054700                            0.000000         LVLC.Nussbaum           (69)F0041  3 
+ 1002  3007   3  50    970000.0          0.042000                            0.000000         LVLC.Nussbaum           (69)F0041  3 
+ 1002  3007   3  50    1010000.          0.039200                            0.000000         LVLC.Nussbaum           (69)F0041  3 
+ 1002  3007   3  50    1027000.          0.040500                            0.000000         LVLC.Nussbaum           (69)F0041  3 
+ 1002  3007   3  50    1051000.          0.044300                            0.000000         LVLC.Nussbaum           (69)F0041  3 
+ 1002  3007   3  50    1091000.          0.046400                            0.000000         LVLC.Nussbaum           (69)F0041  3 
+ 1002  3007   3  50    1330000.          0.037700                            0.000000         LVLC.Nussbaum           (69)F0041  3 
+#/DATA      8
+#/DATASET
+#
+#DATASET    F0041003 
+#DATE       20200129
+#REACTION   3-LI-7(D,N)4-BE-8,PAR,SIG
+#PROJ       1002
+#TARG       3007
+#MF         3
+#MT         50
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1002  3007   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3007   3  50    910000.0          0.126900                            2940000.         LVLC.Nussbaum           (69)F0041  3 
+ 1002  3007   3  50    941000.0          0.136500                            2940000.         LVLC.Nussbaum           (69)F0041  3 
+ 1002  3007   3  50    970000.0          0.182000                            2940000.         LVLC.Nussbaum           (69)F0041  3 
+ 1002  3007   3  50    1011000.          0.211300                            2940000.         LVLC.Nussbaum           (69)F0041  3 
+ 1002  3007   3  50    1050000.          0.190800                            2940000.         LVLC.Nussbaum           (69)F0041  3 
+ 1002  3007   3  50    1092000.          0.153500                            2940000.         LVLC.Nussbaum           (69)F0041  3 
+ 1002  3007   3  50    1331000.          0.069110                            2940000.         LVLC.Nussbaum           (69)F0041  3 
+#/DATA      7
+#/DATASET

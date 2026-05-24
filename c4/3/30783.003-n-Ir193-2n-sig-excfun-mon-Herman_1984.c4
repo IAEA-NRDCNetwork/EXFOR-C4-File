@@ -1,0 +1,35 @@
+#ENTRY      30783
+#AUTHOR1    M.Herman+
+#YEAR       1984
+#INSTITUTE  (3POLIBJ)
+#TITLE      Statistical multi-step compound emission in (n,2n)
+#+          reactions
+#AUTHOR(S)  M.Herman, A.Marcinkowski, K.Stankiewicz
+#REF-CODE   (J,NP/A,430,69,198411)
+#REFERENCE  Nucl.Phys.A 430 (1984) 69 (doi:10.1016/0375-9474(84)90193-3)
+#DATASETS   0
+#
+#DATASET    30783003 
+#DATE       20090909
+#REACTION   77-IR-193(N,2N)77-IR-192-G+M1,,SIG
+#PROJ       1
+#TARG       77193
+#MF         3
+#MT         16
+#PRODUCT    77-IR-192-G+M1
+#C4BEGIN    [    1 77193   3  16+ ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 77193   3  16+   1.3000+7 400000.0 1.947000 0.225000                                       M.Herman+            (84)30783  3 
+    1 77193   3  16+   1.3400+7 200000.0 1.876000 0.117000                                       M.Herman+            (84)30783  3 
+    1 77193   3  16+   1.3900+7 300000.0 1.844000 0.112000                                       M.Herman+            (84)30783  3 
+    1 77193   3  16+   1.4500+7 300000.0 1.818000 0.112000                                       M.Herman+            (84)30783  3 
+    1 77193   3  16+   1.5000+7 300000.0 1.896000 0.144000                                       M.Herman+            (84)30783  3 
+    1 77193   3  16+   1.5400+7 200000.0 1.755000 0.118000                                       M.Herman+            (84)30783  3 
+    1 77193   3  16+   1.5900+7 500000.0 1.838000 0.213000                                       M.Herman+            (84)30783  3 
+    1 77193   3  16+   1.6600+7 100000.0 1.558000 0.137000                                       M.Herman+            (84)30783  3 
+    1 77193   3  16+   1.7400+7 400000.0 1.274000 0.112000                                       M.Herman+            (84)30783  3 
+    1 77193   3  16+   1.7900+7 100000.0 1.077000 0.134000                                       M.Herman+            (84)30783  3 
+#/DATA      10
+#/DATASET

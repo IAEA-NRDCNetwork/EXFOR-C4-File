@@ -1,0 +1,46 @@
+#ENTRY      A1239
+#AUTHOR1    N.Jarmie+
+#YEAR       1967
+#INSTITUTE  (1USALAS)
+#TITLE      Experimental study of excited 4H, 4He and 4Li
+#+          nuclear systems
+#AUTHOR(S)  N.Jarmie, R.H.Stokes, G.G.Ohlsen, R.W.Newsome Jr
+#REF-CODE   (J,PR,161,1050,1967)
+#REFERENCE  Phys.Rev. 161 (1967) 1050 (doi:10.1103/PhysRev.161.1050)
+#DATASETS   0
+#
+#DATASET    A1239004 
+#DATE       20180202
+#REACTION   1-H-3(T,X)1-H-2,,DA
+#PROJ       1003
+#TARG       1003
+#MF         4
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1003  1003   4 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  1003   4 204    1.7750+7 60000.00 0.030500 6.6000-3 0.978148                              N.Jarmie+            (67)A1239  4 
+ 1003  1003   4 204    1.7750+7 60000.00 0.021700 6.3000-3 0.965926                              N.Jarmie+            (67)A1239  4 
+#/DATA      2
+#/DATASET
+#
+#DATASET    A1239004 
+#DATE       20180202
+#REACTION   1-H-3(T,X)1-H-2,,DA
+#PROJ       1003
+#TARG       1003
+#MF         4
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1003  1003   4 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  1003   4 204    2.1780+7 60000.00 0.136800 0.016500 0.984808                              N.Jarmie+            (67)A1239  4 
+ 1003  1003   4 204    2.1780+7 60000.00 0.107900 0.014200 0.978148                              N.Jarmie+            (67)A1239  4 
+ 1003  1003   4 204    2.1780+7 60000.00 0.083600 0.010500 0.965926                              N.Jarmie+            (67)A1239  4 
+ 1003  1003   4 204    2.1780+7 60000.00 0.057100 8.1000-3 0.939693                              N.Jarmie+            (67)A1239  4 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      C1575
+#AUTHOR1    F.J.Rodriguez+
+#YEAR       2007
+#INSTITUTE  (1USAFSU)
+#TITLE      Spin and parity determinations of excited 15N based
+#+          on polarized and unpolarized 12C(7Li,alpha)15N
+#+          reaction data at Elab = 34 MeV
+#AUTHOR(S)  F.J.Rodriguez, J.A.Liendo, B.T.Roeder, W.Weintraub, K.W.Kemper, 
+#+          N.Keeley, F.Marechal
+#REF-CODE   (J,NIM/B,261,1005,2007)
+#REFERENCE  Nucl.Instrum.Meth.B 261 (2007) 1005 (doi:10.1016/j.nimb.2007.03.039)
+#DATASETS   0
+#
+#DATASET    C1575003 
+#DATE       20071128
+#REACTION   6-C-12(3-LI-7,A)7-N-15,PAR,DA
+#PROJ       3007
+#TARG       6012
+#MF         4
+#MT         800
+#PRODUCT    7-N-15
+#C4BEGIN    [ 3007  6012   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007  6012   4 800  C 3.4000+7          8.3710-3 2.5050-4 0.970633          1.2550+7         LVLF.J.Rodriguez+       (07)C1575  3 
+ 3007  6012   4 800  C 3.4000+7          8.0580-3 3.1320-4 0.942233          1.2550+7         LVLF.J.Rodriguez+       (07)C1575  3 
+ 3007  6012   4 800  C 3.4000+7          7.3070-3 3.1320-4 0.911116          1.2550+7         LVLF.J.Rodriguez+       (07)C1575  3 
+ 3007  6012   4 800  C 3.4000+7          6.4300-3 3.1320-4 0.864450          1.2550+7         LVLF.J.Rodriguez+       (07)C1575  3 
+ 3007  6012   4 800  C 3.4000+7          5.6780-3 3.1320-4 0.823235          1.2550+7         LVLF.J.Rodriguez+       (07)C1575  3 
+ 3007  6012   4 800  C 3.4000+7          5.1140-3 3.1320-4 0.757223          1.2550+7         LVLF.J.Rodriguez+       (07)C1575  3 
+#/DATA      6
+#/DATASET

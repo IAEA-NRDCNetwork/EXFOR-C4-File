@@ -1,0 +1,29 @@
+#ENTRY      D6013
+#AUTHOR1    A.Shrivastava+
+#YEAR       1998
+#INSTITUTE  (3INDTRM)
+#TITLE      Elastic scattering of l1B from 209Bi in the energy
+#+          range 49.8 <= E <= 84.1 MeV
+#AUTHOR(S)  A.Shrivastava, S.Kailas, P.Singh, A.Chatterjee, A.Navin, 
+#+          A.M.Samant, V.Ramdev Raj, S.Mandal, S.K.Datta, D.K.Awasthi
+#REF-CODE   (J,NP/A,635,411,1998)
+#REFERENCE  Nucl.Phys.A 635 (1998) 411 (doi:10.1016/S0375-9474(98)00173-0)
+#DATASETS   0
+#
+#DATASET    D6013005 
+#DATE       20071101
+#REACTION   83-BI-209(5-B-11,X)5-B-10,,SIG
+#PROJ       5011
+#TARG       83209
+#MF         3
+#MT         454
+#PRODUCT    5-B-10
+#C4BEGIN    [ 5011 83209   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5011 83209   3 454    5.5800+7          1.1000-3 1.0000-4            5010.9                     A.Shrivastava+       (98)D6013  5 
+ 5011 83209   3 454    5.9800+7          3.2000-3 6.0000-4            5010.9                     A.Shrivastava+       (98)D6013  5 
+ 5011 83209   3 454    7.4800+7          0.016100 3.2000-3            5010.9                     A.Shrivastava+       (98)D6013  5 
+#/DATA      3
+#/DATASET

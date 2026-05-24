@@ -1,0 +1,37 @@
+#ENTRY      C0009
+#AUTHOR1    D.K.McDaniels+
+#YEAR       1973
+#INSTITUTE  (1USALAS)
+#TITLE      Angular Distributions and Absolute Cross Sections for
+#+          the T(d,n)4He Neutron-Source Reaction
+#AUTHOR(S)  D.K.McDaniels, M.Drosg, J.C.Hopkins, J.D.Seagrave
+#REF-CODE   (J,PR/C,7,882,197303)
+#REFERENCE  Phys.Rev.C 7 (1973) 882 (doi:10.1103/PhysRevC.7.882)
+#DATASETS   0
+#
+#DATASET    C0009006 
+#DATE       20110203
+#REACTION   1-H-3(D,N)2-HE-4,,DA
+#PROJ       1002
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  1003   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1003   4   4    5000000.          0.025300 9.0000-4 1.000000                              D.K.McDaniels+       (73)C0009  6 
+ 1002  1003   4   4    6000000.          0.027500 9.0000-4 1.000000                              D.K.McDaniels+       (73)C0009  6 
+ 1002  1003   4   4    7000000.          0.027700 9.0000-4 1.000000                              D.K.McDaniels+       (73)C0009  6 
+ 1002  1003   4   4    8000000.          0.027200 9.0000-4 1.000000                              D.K.McDaniels+       (73)C0009  6 
+ 1002  1003   4   4    9000000.          0.026200 9.0000-4 1.000000                              D.K.McDaniels+       (73)C0009  6 
+ 1002  1003   4   4    1.0000+7          0.025700 9.0000-4 1.000000                              D.K.McDaniels+       (73)C0009  6 
+ 1002  1003   4   4    1.1000+7          0.024600 8.0000-4 1.000000                              D.K.McDaniels+       (73)C0009  6 
+ 1002  1003   4   4    1.2000+7          0.025000 8.0000-4 1.000000                              D.K.McDaniels+       (73)C0009  6 
+ 1002  1003   4   4    1.3000+7          0.024800 8.0000-4 1.000000                              D.K.McDaniels+       (73)C0009  6 
+ 1002  1003   4   4    1.4000+7          0.024700 8.0000-4 1.000000                              D.K.McDaniels+       (73)C0009  6 
+ 1002  1003   4   4    1.5000+7          0.024400 8.0000-4 1.000000                              D.K.McDaniels+       (73)C0009  6 
+ 1002  1003   4   4    1.6000+7          0.024900 8.0000-4 1.000000                              D.K.McDaniels+       (73)C0009  6 
+#/DATA      12
+#/DATASET

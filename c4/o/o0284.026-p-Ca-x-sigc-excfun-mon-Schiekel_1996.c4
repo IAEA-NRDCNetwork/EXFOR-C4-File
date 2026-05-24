@@ -1,0 +1,32 @@
+#ENTRY      O0284
+#AUTHOR1    Th.Schiekel+
+#YEAR       1996
+#INSTITUTE  (2GERKLN)
+#TITLE      Nuclide production by proton-induced reactions on
+#+          elements (6<=Z<=296) in the energy range from 200 MeV
+#+          to 400 MeV.
+#AUTHOR(S)  Th.Schiekel, F.Sudbrock, U.Herpers, M.Gloris, H.-J.Lange, 
+#+          I.Leya, R.Michel, B.Dittrich-Hannen, H.-A.Synal, M.Suter, 
+#+          P.W.Kubik, M.Blann, D.Filges
+#REF-CODE   (J,NIM/B,114,91,1996)
+#REFERENCE  Nucl.Instrum.Meth.B 114 (1996) 91 (doi:10.1016/0168-583X(96)00145-0)
+#DATASETS   0
+#
+#DATASET    O0284026 
+#DATE       20191005
+#REACTION   20-CA-0(P,X)21-SC-46-G,M+,SIG
+#PROJ       1001
+#TARG       20000
+#MF         3
+#MT         459
+#PRODUCT    21-SC-46-G
+#C4BEGIN    [ 1001 20000   3 459 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20000   3 459 C  2.4300+8 1640000. 3.7100-5 8.1800-6           21046.0                     Th.Schiekel+         (96)O0284 26 
+ 1001 20000   3 459 C  2.8600+8 1010000. 2.5200-5 4.7700-6           21046.0                     Th.Schiekel+         (96)O0284 26 
+ 1001 20000   3 459 C  3.5100+8 1630000. 1.7000-5 4.0500-6           21046.0                     Th.Schiekel+         (96)O0284 26 
+ 1001 20000   3 459 C  3.8700+8 1050000. 1.4200-5 2.0400-6           21046.0                     Th.Schiekel+         (96)O0284 26 
+#/DATA      4
+#/DATASET

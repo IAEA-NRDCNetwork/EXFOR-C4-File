@@ -1,0 +1,31 @@
+#ENTRY      13267
+#AUTHOR1    L.Forman+
+#YEAR       1970
+#INSTITUTE  (1USALAS)
+#TITLE      On-line investigation of independent Cs yields in 236U
+#+          fission: identification of 145Cs
+#AUTHOR(S)  L.Forman, S.J.Balestrini, K.Wolfsberg, T.R.Jeter
+#REF-CODE   (S,CERN-70-30,(1),589,1970)
+#REFERENCE  Report (proceedings) CERN-70-30 Vol.(1) page 589, 1970
+#DATASETS   0
+#
+#DATASET    13267002 
+#DATE       20190506
+#REACTION   92-U-235(N,F)ELEM/MASS,IND,FY,,SPA
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         454
+#C4BEGIN    [    1 92235   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 454    0.025300          3.2200-3          55.00000 138.0000 0.000000            L.Forman+            (70)13267  2 
+    1 92235   8 454    0.025300          0.012700          55.00000 139.0000 9.000000            L.Forman+            (70)13267  2 
+    1 92235   8 454    0.025300          0.025800          55.00000 141.0000 9.000000            L.Forman+            (70)13267  2 
+    1 92235   8 454    0.025300          0.014600          55.00000 142.0000 9.000000            L.Forman+            (70)13267  2 
+    1 92235   8 454    0.025300          9.7900-3          55.00000 143.0000 9.000000            L.Forman+            (70)13267  2 
+    1 92235   8 454    0.025300          1.0000-3          55.00000 145.0000 9.000000            L.Forman+            (70)13267  2 
+    1 92235   8 454    0.025300          7.3000-5          55.00000 146.0000 9.000000            L.Forman+            (70)13267  2 
+#/DATA      7
+#/DATASET

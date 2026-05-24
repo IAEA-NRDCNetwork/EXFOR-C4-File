@@ -1,0 +1,37 @@
+#ENTRY      O2419
+#AUTHOR1    F.Ferraro+
+#YEAR       2018
+#INSTITUTE  (2ITYGVA)
+#TITLE      Direct Capture Cross Section and the Ep = 71 and 105
+#+          keV Resonances in the 22Ne(p,g) 23Na Reaction
+#AUTHOR(S)  F.Ferraro, M.P.Takacs, D.Piatti, F.Cavanna, R.Depalo, M.Aliotta, 
+#+          D.Bemmerer, A.Best, A.Boeltzig, C.Broggini, C.G.Bruno, A.Caciolli, 
+#+          T.Chillery, G.F.Ciani, P.Corvisiero, T.Davinson, G.Dierasmo, 
+#+          A.Di Leva, Z.Elekes, E.M.Fiore, A.Formicola, Zs.Fulop, G.Gervino, 
+#+          A.Guglielmetti, C.Gustavino, Gy.Gyurky, G.Imbriani, M.Junker, 
+#+          A.Karakas, I.Kochanek, M.Lugaro, P.Marigo, R.Menegazzo, 
+#+          V.Mossa, F.R.Pantaleo, V.Paticchio, R.Perrino, P.Prati, 
+#+          L.Schiavulli, K.Stockel, O.Straniero, T.Szucs, D.Trezzi, 
+#+          S.Zavatarelli, Luna Collaboration
+#REF-CODE   (J,PRL,121,172701,2018)
+#REFERENCE  Phys.Rev.Lett. 121 (2018) 172701 (doi:10.1103/PhysRevLett.121.172701)
+#DATASETS   0
+#
+#DATASET    O2419003 
+#DATE       20190115
+#REACTION   10-NE-22(P,G)11-NA-23,,SIG,,SFC
+#PROJ       1001
+#TARG       10022
+#MF         3
+#MT         102
+#PRODUCT    11-NA-23
+#C4BEGIN    [ 1001 10022   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 10022   3 102    191178.2          7.790-11 8.474-12                                       F.Ferraro+           (18)O2419  3 
+ 1001 10022   3 102    209271.1          1.780-10 1.650-11                                       F.Ferraro+           (18)O2419  3 
+ 1001 10022   3 102    256438.5          9.658-10 7.895-11                                       F.Ferraro+           (18)O2419  3 
+ 1001 10022   3 102    319607.3          4.5829-9 5.509-10                                       F.Ferraro+           (18)O2419  3 
+#/DATA      4
+#/DATASET

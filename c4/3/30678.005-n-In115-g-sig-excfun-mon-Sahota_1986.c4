@@ -1,0 +1,30 @@
+#ENTRY      30678
+#AUTHOR1    H.S.Sahota+
+#YEAR       1986
+#INSTITUTE  (3INDIND)
+#TITLE      Neutron capture cross-sections by comparative gamma
+#+          activation
+#AUTHOR(S)  H.S.Sahota, V.K.Mittal, N.P.S.Sidhu
+#REF-CODE   (J,ANE,13,287,1986)
+#REFERENCE  Ann.Nucl.Energy 13 (1986) 287 (doi:10.1016/0306-4549(86)90055-1)
+#DATASETS   0
+#
+#DATASET    30678005 
+#DATE       20220216
+#REACTION   49-IN-115(N,G)49-IN-116-M1+M2,,SIG
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         102
+#PRODUCT    49-IN-116-M1+M2
+#C4BEGIN    [    1 49115   3 102+ ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3 102+   1070000. 200000.0 0.199800 0.023600                                       H.S.Sahota+          (86)30678  5 
+    1 49115   3 102+   1480000. 180000.0 0.166500 0.014800                                       H.S.Sahota+          (86)30678  5 
+    1 49115   3 102+   1890000. 170000.0 0.132500 0.013700                                       H.S.Sahota+          (86)30678  5 
+    1 49115   3 102+   2300000. 160000.0 0.092300 0.010500                                       H.S.Sahota+          (86)30678  5 
+    1 49115   3 102+   2850000. 150000.0 0.073100 8.6000-3                                       H.S.Sahota+          (86)30678  5 
+#/DATA      5
+#/DATASET

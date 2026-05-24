@@ -1,0 +1,38 @@
+#ENTRY      O0106
+#AUTHOR1    E.N.Volnin+
+#YEAR       1975
+#INSTITUTE  (4RUSLIN)
+#TITLE      Fragmentation of nuclei of various nucleon composition
+#+          in the interaction with 1 GeV protons.
+#AUTHOR(S)  E.N.Volnin, G.M.Amalsky, D.M.Seleverstov, N.N.Smirnov, A.A.Vorobyov, 
+#+          Yu.P.Yakovlev
+#REF-CODE   (J,PL/B,55,409,1975)
+#REFERENCE  Phys.Lett.B 55 (1975) 409 (doi:10.1016/0370-2693(75)90371-8)
+#DATASETS   0
+#
+#DATASET    O0106005 
+#DATE       20170416
+#REACTION   50-SN-124(P,X)2-HE-4,,DA/DE
+#PROJ       1001
+#TARG       50124
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001 50124   6 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50124   6 207    1.0000+9          3.300-10          0.500000          8900000.          E2E.N.Volnin+          (75)O0106  5 
+ 1001 50124   6 207    1.0000+9          6.600-10          0.500000          1.0100+7          E2E.N.Volnin+          (75)O0106  5 
+ 1001 50124   6 207    1.0000+9          1.5200-9          0.500000          1.0300+7          E2E.N.Volnin+          (75)O0106  5 
+ 1001 50124   6 207    1.0000+9          2.3200-9          0.500000          1.3400+7          E2E.N.Volnin+          (75)O0106  5 
+ 1001 50124   6 207    1.0000+9          2.8500-9          0.500000          1.5300+7          E2E.N.Volnin+          (75)O0106  5 
+ 1001 50124   6 207    1.0000+9          2.3100-9          0.500000          1.9300+7          E2E.N.Volnin+          (75)O0106  5 
+ 1001 50124   6 207    1.0000+9          1.8500-9          0.500000          2.2200+7          E2E.N.Volnin+          (75)O0106  5 
+ 1001 50124   6 207    1.0000+9          1.5100-9          0.500000          2.3900+7          E2E.N.Volnin+          (75)O0106  5 
+ 1001 50124   6 207    1.0000+9          8.500-10          0.500000          2.5000+7          E2E.N.Volnin+          (75)O0106  5 
+ 1001 50124   6 207    1.0000+9          5.400-10          0.500000          3.0800+7          E2E.N.Volnin+          (75)O0106  5 
+ 1001 50124   6 207    1.0000+9          3.000-10          0.500000          3.9700+7          E2E.N.Volnin+          (75)O0106  5 
+ 1001 50124   6 207    1.0000+9          2.900-10          0.500000          5.0300+7          E2E.N.Volnin+          (75)O0106  5 
+#/DATA      12
+#/DATASET

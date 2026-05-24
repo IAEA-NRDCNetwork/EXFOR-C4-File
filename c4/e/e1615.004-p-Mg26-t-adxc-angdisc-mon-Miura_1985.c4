@@ -1,0 +1,26 @@
+#ENTRY      E1615
+#AUTHOR1    K.Miura+
+#YEAR       1985
+#INSTITUTE  (2JPNTOI)
+#TITLE      Ground-state transition strengths of the (p,t)
+#+          reactions for nuclei with A=23-238
+#AUTHOR(S)  K.Miura, Y.Hiratate, T.Shoji, T.Suehiro, H.Yamaguchi, Y.Ishizaki
+#REF-CODE   (J,NP/A,436,(2),221,19850401)
+#REFERENCE  Nucl.Phys.A 436 No.2 (1985) 221 (doi:10.1016/0375-9474(85)90197-6)
+#DATASETS   0
+#
+#DATASET    E1615004 
+#DATE       20040311
+#REACTION   12-MG-26(P,T)12-MG-24,PAR,DA
+#PROJ       1001
+#TARG       12026
+#MF         4
+#MT         700
+#PRODUCT    12-MG-24
+#C4BEGIN    [ 1001 12026   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12026   4 700  C 5.1900+7          2.0400-4 1.2000-5 0.900319          0.000000         LVLK.Miura+             (85)E1615  4 
+#/DATA      1
+#/DATASET

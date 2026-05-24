@@ -1,0 +1,62 @@
+#ENTRY      23451
+#AUTHOR1    C.Lederer-Woods+
+#YEAR       2023
+#INSTITUTE  (2UK EDG)
+#TITLE      Measurement of 73Ge(n,g) cross sections and
+#+          implications for stellar nucleosynthesis
+#AUTHOR(S)  C.Lederer-Woods, U.Battino, P.Ferreira, A.Gawlik, C.Guerrero, 
+#+          F.Gunsing, S.Heinitz, J.Lerendegui-Marco, A.Mengoni, R.Reifarth, 
+#+          A.Tattersall, S.Valenta, C.Weiss, O.Aberle, J.Andrzejewski, 
+#+          L.Audouin, V.Becares, M.Bacak, J.Balibrea, M.Barbagallo, 
+#+          S.Barros, F.Becvar, C.Beinrucker, F.Belloni, E.Berthoumieux, 
+#+          J.Billowes, D.Bosnar, M.Brugger, M.Caamano, F.Calvino, M.Calviani, 
+#+          D.Cano-Ott, F.Cerutti, E.Chiaveri, N.Colonna, G.Cortes, 
+#+          M.A.Cortes-Giraldo, L.Cosentino, L.A.Damone, K.Deo, M.Diakaki, 
+#+          M.Dietz, C.Domingo-Pardo, R.Dressler, E.Dupont, I.Duran, 
+#+          B.Fernandez-Dominguez, A.Ferrari, P.Finocchiaro, R.J.W.Frost, 
+#+          V.Furman, K.Goebel, A.R.Garcia, I.Gheorghe, T.Glodariu, 
+#+          I.F.Goncalves, E.Gonzalez-Romero, A.Goverdovski, E.Griesmayer, 
+#+          H.Harada, T.Heftrich, A.Hernandez-Prieto, J.Heyse, D.G.Jenkins, 
+#+          E.Jericha, F.Kaeppeler, Y.Kadi, T.Katabuchi, P.Kavrigin, 
+#+          V.Ketlerov, V.Khryachkov, A.Kimura, N.Kivel, I.Knapova, 
+#+          M.Kokkoris, M.Krticka, E.Leal-Cidoncha, H.Leeb, M.Licata, 
+#+          S.Lo Meo, R.Losito, D.Macina, J.Marganiec, T.Martinez, C.Massimi, 
+#+          P.Mastinu, M.Mastromarco, F.Matteucci, E.Mendoza, P.M.Milazzo, 
+#+          F.Mingrone, M.Mirea, S.Montesano, A.Musumarra, R.Nolte, 
+#+          F.R.Palomo-Pinto, C.Paradela, N.Patronis, A.Pavlik, J.Perkowski, 
+#+          J.I.Porras, J.Praena, J.M.Quesada, T.Rauscher, A.Riego-Perez, 
+#+          M.Robles, C.Rubbia, J.A.Ryan, M.Sabate-Gilarte, A.Saxena, 
+#+          P.Schillebeeckx, S.Schmidt, D.Schumann, P.Sedyshev, A.G.Smith, 
+#+          A.Stamatopoulos, S.V.Suryanarayana, G.Tagliente, J.L.Tain, 
+#+          A.Tarifeno-Saldivia, L.Tassan-Got, A.Tsinganis, G.Vannini, 
+#+          V.Variale, P.Vaz, A.Ventura, V.Vlachoudis, R.Vlastou, A.Wallner, 
+#+          S.Warren, M.Weigand, T.Wright, P.Zugec
+#REF-CODE   (J,PL/B,840,137835,2023)
+#REFERENCE  Phys.Lett.B 840 (2023) 137835 (doi:10.1016/j.physletb.2023.137835)
+#DATASETS   0
+#
+#DATASET    23451014 
+#DATE       20230315
+#REACTION   32-GE-73(N,G)32-GE-74,,SIG,,MXW
+#PROJ       1
+#TARG       32073
+#MF         3
+#MT         102
+#PRODUCT    32-GE-74
+#C4BEGIN    [    1 32073   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32073   3 102 A  5000.000          1.181000 0.048000                                       C.Lederer-Woods+     (23)23451 14 
+    1 32073   3 102 A  10000.00          0.722000 0.034000                                       C.Lederer-Woods+     (23)23451 14 
+    1 32073   3 102 A  20000.00          0.455000 0.024000                                       C.Lederer-Woods+     (23)23451 14 
+    1 32073   3 102 A  30000.00          0.346000 0.019000                                       C.Lederer-Woods+     (23)23451 14 
+    1 32073   3 102 A  40000.00          0.284000 0.016000                                       C.Lederer-Woods+     (23)23451 14 
+    1 32073   3 102 A  50000.00          0.243000 0.014000                                       C.Lederer-Woods+     (23)23451 14 
+    1 32073   3 102 A  60000.00          0.214000 0.013000                                       C.Lederer-Woods+     (23)23451 14 
+    1 32073   3 102 A  70000.00          0.192000 0.011000                                       C.Lederer-Woods+     (23)23451 14 
+    1 32073   3 102 A  80000.00          0.175000 0.011000                                       C.Lederer-Woods+     (23)23451 14 
+    1 32073   3 102 A  90000.00          0.161000 9.7000-3                                       C.Lederer-Woods+     (23)23451 14 
+    1 32073   3 102 A  100000.0          0.149700 9.1000-3                                       C.Lederer-Woods+     (23)23451 14 
+#/DATA      11
+#/DATASET

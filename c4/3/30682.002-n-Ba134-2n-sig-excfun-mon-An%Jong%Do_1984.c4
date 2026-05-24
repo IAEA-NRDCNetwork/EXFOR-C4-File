@@ -1,0 +1,33 @@
+#ENTRY      30682
+#AUTHOR1    An Jong Do+
+#YEAR       1984
+#INSTITUTE  (3POLIPJ)
+#TITLE      Cross section of the (n,2n) reactions on Ba-134,Nd-142,
+#+          Nd-150 and Sm-144
+#AUTHOR(S)  An Jong Do, J.Dresler, U.Garuska, M.Herman, A.Marcinkowski
+#REF-CODE   (J,JP/G,10,91,198401)
+#REFERENCE  J.Phys.G 10 (1984) 91 (doi:10.1088/0305-4616/10/1/014)
+#DATASETS   0
+#
+#DATASET    30682002 
+#DATE       20090904
+#REACTION   56-BA-134(N,2N)56-BA-133-M,,SIG
+#PROJ       1
+#TARG       56134
+#MF         3
+#MT         16
+#PRODUCT    56-BA-133-M
+#C4BEGIN    [    1 56134   3  16M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 56134   3  16M   1.3000+7 400000.0 0.552000 0.047000                                       An Jong Do+          (84)30682  2 
+    1 56134   3  16M   1.3400+7 200000.0 0.702000 0.042000                                       An Jong Do+          (84)30682  2 
+    1 56134   3  16M   1.3900+7 300000.0 0.688000 0.044000                                       An Jong Do+          (84)30682  2 
+    1 56134   3  16M   1.4500+7 300000.0 0.732000 0.043000                                       An Jong Do+          (84)30682  2 
+    1 56134   3  16M   1.5000+7 300000.0 0.732000 0.045000                                       An Jong Do+          (84)30682  2 
+    1 56134   3  16M   1.5400+7 200000.0 0.735000 0.047000                                       An Jong Do+          (84)30682  2 
+    1 56134   3  16M   1.5900+7 500000.0 0.704000 0.054000                                       An Jong Do+          (84)30682  2 
+    1 56134   3  16M   1.6600+7 100000.0 0.801000 0.060000                                       An Jong Do+          (84)30682  2 
+#/DATA      8
+#/DATASET

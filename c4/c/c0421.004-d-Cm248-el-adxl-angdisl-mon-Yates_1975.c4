@@ -1,0 +1,27 @@
+#ENTRY      C0421
+#AUTHOR1    S.W.Yates+
+#YEAR       1975
+#INSTITUTE  (1USAANL)
+#TITLE      Octupole states in 246Cm and 248Cm populated by
+#+          inelastic deuteron scattering
+#AUTHOR(S)  S.W.Yates, A.M.Friedman, L.Ahmad
+#REF-CODE   (J,PR/C,12,795,75)
+#REFERENCE  Phys.Rev.C 12 (1975) 795 (doi:10.1103/PhysRevC.12.795)
+#DATASETS   0
+#
+#DATASET    C0421004 
+#DATE       19970425
+#REACTION   96-CM-248(D,EL)96-CM-248,,DA
+#PROJ       1002
+#TARG       96248
+#MF         4
+#MT         2
+#PRODUCT    96-CM-248
+#C4BEGIN    [ 1002 96248   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 96248   4   2    1.5000+7          0.078700 3.9000-3 6.123-17                              S.W.Yates+           (75)C0421  4 
+ 1002 96248   4   2    1.5000+7          0.017400 9.0000-4-0.573576                              S.W.Yates+           (75)C0421  4 
+#/DATA      2
+#/DATASET

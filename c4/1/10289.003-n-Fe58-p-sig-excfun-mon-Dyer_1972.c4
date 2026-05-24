@@ -1,0 +1,26 @@
+#ENTRY      10289
+#AUTHOR1    N.C.Dyer+
+#YEAR       1972
+#INSTITUTE  (1USAVBT)
+#TITLE      56Fe and 58Fe(n,p) cross sections for 14.4 MeV
+#+          neutrons
+#AUTHOR(S)  N.C.Dyer, J.H.Hamilton
+#REF-CODE   (J,JIN,34,1119,197204)
+#REFERENCE  J.Inorg.Nucl.Chem. 34 (1972) 1119 (doi:10.1016/0022-1902(72)80310-5)
+#DATASETS   0
+#
+#DATASET    10289003 
+#DATE       20131029
+#REACTION   26-FE-58(N,P)25-MN-58-M,,SIG
+#PROJ       1
+#TARG       26058
+#MF         3
+#MT         103
+#PRODUCT    25-MN-58-M
+#C4BEGIN    [    1 26058   3 103MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26058   3 103MA  1.4400+7          0.010800 1.0000-3                                       N.C.Dyer+            (72)10289  3 
+#/DATA      1
+#/DATASET

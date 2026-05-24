@@ -1,0 +1,28 @@
+#ENTRY      23337
+#AUTHOR1    E.Uberseder+
+#YEAR       2017
+#INSTITUTE  (2GERKFK)
+#TITLE      Stellar (n,gamma) cross sections of 23Na
+#AUTHOR(S)  E.Uberseder, M.Heil, F.Kaeppeler, C.Lederer, A.Mengoni, 
+#+          S.Bisterzo, M.Pignatari, M.Wiescher
+#REF-CODE   (J,PR/C,95,025803,2017)
+#REFERENCE  Phys.Rev.C 95 (2017) 025803 (doi:10.1103/PhysRevC.95.025803)
+#DATASETS   0
+#
+#DATASET    23337002 
+#DATE       20211206
+#REACTION   11-NA-23(N,G)11-NA-24,,SIG,,SPA
+#PROJ       1
+#TARG       11023
+#MF         3
+#MT         102
+#PRODUCT    11-NA-24
+#C4BEGIN    [    1 11023   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023   3 102 C  5100.000          9.0300-3 2.8000-4                                       E.Uberseder+         (17)23337  2 
+    1 11023   3 102 C  5100.000          8.9400-3 2.7000-4                                       E.Uberseder+         (17)23337  2 
+    1 11023   3 102 C  5100.000          9.3300-3 2.9000-4                                       E.Uberseder+         (17)23337  2 
+#/DATA      3
+#/DATASET

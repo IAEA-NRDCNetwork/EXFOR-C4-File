@@ -1,0 +1,31 @@
+#ENTRY      A0410
+#AUTHOR1    R.M.Chasteler+
+#YEAR       1987
+#INSTITUTE  (1USABRK)
+#TITLE      Excitation functions for productions of heavy
+#+          actinides from interactions of O-16 with Cf-249
+#AUTHOR(S)  R.M.Chasteler, R.A.Henderson, D.Lee, K.E.Gregorich, M.J.Nurmia, 
+#+          R.B.Welch, D.C.Hoffman
+#REF-CODE   (J,PR/C,36,1820,1987)
+#REFERENCE  Phys.Rev.C 36 (1987) 1820 (doi:10.1103/PhysRevC.36.1820)
+#DATASETS   0
+#
+#DATASET    A0410003 
+#DATE       20220804
+#REACTION   98-CF-249(8-O-16,X)98-CF-247,,SIG
+#PROJ       8016
+#TARG       98249
+#MF         3
+#MT         454
+#PRODUCT    98-CF-247
+#C4BEGIN    [ 8016 98249   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 98249   3 454    9.0000+7          1.0500-4 9.6600-6           98247.9                     R.M.Chasteler+       (87)A0410  3 
+ 8016 98249   3 454    9.6000+7          2.8600-3 5.7200-5           98247.9                     R.M.Chasteler+       (87)A0410  3 
+ 8016 98249   3 454    1.2200+8          3.3100-3 1.1585-4           98247.9                     R.M.Chasteler+       (87)A0410  3 
+ 8016 98249   3 454    1.3900+8          3.0500-3 3.6600-5           98247.9                     R.M.Chasteler+       (87)A0410  3 
+ 8016 98249   3 454    1.5000+8          2.5400-3 6.8580-5           98247.9                     R.M.Chasteler+       (87)A0410  3 
+#/DATA      5
+#/DATASET

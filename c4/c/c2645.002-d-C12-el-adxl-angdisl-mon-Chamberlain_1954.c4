@@ -1,0 +1,29 @@
+#ENTRY      C2645
+#AUTHOR1    O.Chamberlain+
+#YEAR       1954
+#INSTITUTE  (1USABRK)
+#TITLE      Polarization of High-Energy Deuterons
+#AUTHOR(S)  O.Chamberlain, E.Segre, R.Tripp, C.Wiegand, T.Ypsilantis
+#REF-CODE   (J,PR,95,1104,1954)
+#REFERENCE  Phys.Rev. 95 (1954) 1104 (doi:10.1103/PhysRev.95.1104)
+#DATASETS   0
+#
+#DATASET    C2645002 
+#DATE       20210627
+#REACTION   6-C-12(D,EL)6-C-12,,DA
+#PROJ       1002
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1002  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6012   4   2    1.6700+8          0.063630 2.6040-3 1.000000                              O.Chamberlain+       (54)C2645  2 
+ 1002  6012   4   2    1.6700+8          0.062480 3.1240-3 0.710554                              O.Chamberlain+       (54)C2645  2 
+ 1002  6012   4   2    1.6700+8          0.052040 3.0740-3-8.7266-4                              O.Chamberlain+       (54)C2645  2 
+ 1002  6012   4   2    1.6700+8          0.039650 3.0230-3-0.707107                              O.Chamberlain+       (54)C2645  2 
+ 1002  6012   4   2    1.6700+8          0.032360 2.4790-3-0.999945                              O.Chamberlain+       (54)C2645  2 
+#/DATA      5
+#/DATASET

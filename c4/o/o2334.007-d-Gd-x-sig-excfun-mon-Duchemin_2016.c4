@@ -1,0 +1,37 @@
+#ENTRY      O2334
+#AUTHOR1    C.Duchemin+
+#YEAR       2016
+#INSTITUTE  (2FR NTE)
+#TITLE      Deuteron induced Tb-155 production, a theranostic
+#+          isotope for SPECT imaging and auger therapy.
+#AUTHOR(S)  C.Duchemin, A.Guertin, F.Haddad, N.Michel, V.Metivier
+#REF-CODE   (J,ARI,118,281,2016)
+#REFERENCE  Appl.Radiat.Isot. 118 (2016) 281 (doi:10.1016/j.apradiso.2016.09.030)
+#DATASETS   0
+#
+#DATASET    O2334007 
+#DATE       20170708
+#REACTION   64-GD-0(D,X)65-TB-155,,SIG
+#PROJ       1002
+#TARG       64000
+#MF         3
+#MT         454
+#PRODUCT    65-TB-155
+#C4BEGIN    [ 1002 64000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 64000   3 454    3.3340+7 300000.0 0.273900 0.032580           65155.9                     C.Duchemin+          (16)O2334  7 
+ 1002 64000   3 454    2.9910+7 420000.0 0.295610 0.035790           65155.9                     C.Duchemin+          (16)O2334  7 
+ 1002 64000   3 454    2.7950+7 300000.0 0.316920 0.042490           65155.9                     C.Duchemin+          (16)O2334  7 
+ 1002 64000   3 454    2.6090+7 520000.0 0.310900 0.038470           65155.9                     C.Duchemin+          (16)O2334  7 
+ 1002 64000   3 454    2.4560+7 400000.0 0.317670 0.044250           65155.9                     C.Duchemin+          (16)O2334  7 
+ 1002 64000   3 454    2.3130+7 290000.0 0.264730 0.031670           65155.9                     C.Duchemin+          (16)O2334  7 
+ 1002 64000   3 454    2.1820+7 640000.0 0.237450 0.028510           65155.9                     C.Duchemin+          (16)O2334  7 
+ 1002 64000   3 454    1.8360+7 460000.0 0.221670 0.029010           65155.9                     C.Duchemin+          (16)O2334  7 
+ 1002 64000   3 454    1.6160+7 650000.0 0.177610 0.022470           65155.9                     C.Duchemin+          (16)O2334  7 
+ 1002 64000   3 454    1.4430+7 730000.0 0.139040 0.020000           65155.9                     C.Duchemin+          (16)O2334  7 
+ 1002 64000   3 454    1.2360+7 660000.0 0.086960 0.011710           65155.9                     C.Duchemin+          (16)O2334  7 
+ 1002 64000   3 454    1.0550+7 930000.0 0.061900 4.9800-3           65155.9                     C.Duchemin+          (16)O2334  7 
+#/DATA      12
+#/DATASET

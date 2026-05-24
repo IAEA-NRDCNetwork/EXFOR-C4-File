@@ -1,0 +1,45 @@
+#ENTRY      E1403
+#AUTHOR1    O.Kamigaito+
+#YEAR       1992
+#INSTITUTE  (2JPNKTO)
+#TITLE      Inelastic scattering of protons, 3He, and 4He at 30
+#+          MeV/nucleon from 166Er and 176Yb
+#AUTHOR(S)  O.Kamigaito, H.Sakaguchi, M.Nakamura, S.Hirata, H.Togawa, 
+#+          T.Nakano, M.Yosoi, M.Ieiri, T.Ichihara, H.M.Shimizu, Y.Nakai, 
+#+          S.Kobayashi
+#REF-CODE   (J,PR/C,45,1533,1992)
+#REFERENCE  Phys.Rev.C 45 (1992) 1533 (doi:10.1103/PhysRevC.45.1533)
+#DATASETS   0
+#
+#DATASET    E1403002 
+#DATE       20240503
+#REACTION   68-ER-166(P,EL)68-ER-166,,DA
+#PROJ       1001
+#TARG       68166
+#MF         4
+#MT         2
+#PRODUCT    68-ER-166
+#C4BEGIN    [ 1001 68166   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 68166   4   2  C 3.0000+7          17.27000          0.966196                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          5.239000          0.932576                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          1.847000          0.897412                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          0.637500          0.863660                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          0.260100          0.813304                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          0.198700          0.801463                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          0.111200          0.752185                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          0.086020          0.693653                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          0.073880          0.641717                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          0.042790          0.565687                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          0.016030          0.477005                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          5.6510-3          0.403066                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          6.3420-3          0.372340                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          8.8550-3          0.338245                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          0.011040          0.247337                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          7.4440-3          0.148845                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          2.7110-3          0.067841                              O.Kamigaito+         (92)E1403  2 
+ 1001 68166   4   2  C 3.0000+7          8.5900-4         -7.1558-3                              O.Kamigaito+         (92)E1403  2 
+#/DATA      18
+#/DATASET

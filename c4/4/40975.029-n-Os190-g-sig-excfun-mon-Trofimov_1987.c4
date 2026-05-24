@@ -1,0 +1,26 @@
+#ENTRY      40975
+#AUTHOR1    Yu.N.Trofimov+
+#YEAR       1987
+#INSTITUTE  (4RUSRI)
+#TITLE      Activation cross-sections for 31 nuclei for 2 MeV
+#+          neutrons
+#AUTHOR(S)  Yu.N.Trofimov
+#REF-CODE   (J,YK,,(4),10,1987)
+#REFERENCE  Yad.Reak.Konst.  No.4 (1987) 10
+#DATASETS   0
+#
+#DATASET    40975029 
+#DATE       20150616
+#REACTION   76-OS-190(N,G)76-OS-191,,SIG
+#PROJ       1
+#TARG       76190
+#MF         3
+#MT         102
+#PRODUCT    76-OS-191
+#C4BEGIN    [    1 76190   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 76190   3 102    2000000.          0.027300 3.4000-3                                       Yu.N.Trofimov        (87)40975 29 
+#/DATA      1
+#/DATASET

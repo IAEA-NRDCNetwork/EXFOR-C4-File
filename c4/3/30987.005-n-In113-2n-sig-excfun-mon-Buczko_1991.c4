@@ -1,0 +1,37 @@
+#ENTRY      30987
+#AUTHOR1    Cs.M.Buczko+
+#YEAR       1991
+#INSTITUTE  (3HUNKOS)
+#TITLE      Cross sections of In-113(n,n')In-113-m and
+#+          In-113(n,2n)In-112-m+g reactions around 2 and 14
+#+          MeV neutron energies.
+#AUTHOR(S)  Cs.M.Buczko, J.Csikai, T.Chimoye, B.W.Jimba
+#REF-CODE   (C,91JUELIC,,656,199105)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 656
+#DATASETS   0
+#
+#DATASET    30987005 
+#DATE       20090919
+#REACTION   49-IN-113(N,2N)49-IN-112-G,,SIG
+#PROJ       1
+#TARG       49113
+#MF         3
+#MT         16
+#PRODUCT    49-IN-112-G
+#C4BEGIN    [    1 49113   3  16G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49113   3  16G   1.3430+7          0.223400 7.7000-3                                       Cs.M.Buczko+         (91)30987  5 
+    1 49113   3  16G   1.3480+7          0.224800 7.3000-3                                       Cs.M.Buczko+         (91)30987  5 
+    1 49113   3  16G   1.3640+7          0.227800 7.5000-3                                       Cs.M.Buczko+         (91)30987  5 
+    1 49113   3  16G   1.3740+7          0.238000 7.8000-3                                       Cs.M.Buczko+         (91)30987  5 
+    1 49113   3  16G   1.3790+7          0.240800 7.7000-3                                       Cs.M.Buczko+         (91)30987  5 
+    1 49113   3  16G   1.3850+7          0.242900 7.8000-3                                       Cs.M.Buczko+         (91)30987  5 
+    1 49113   3  16G   1.3970+7          0.239000 7.5000-3                                       Cs.M.Buczko+         (91)30987  5 
+    1 49113   3  16G   1.4160+7          0.239400 8.0000-3                                       Cs.M.Buczko+         (91)30987  5 
+    1 49113   3  16G   1.4350+7          0.249800 8.3000-3                                       Cs.M.Buczko+         (91)30987  5 
+    1 49113   3  16G   1.4540+7          0.256500 7.8000-3                                       Cs.M.Buczko+         (91)30987  5 
+    1 49113   3  16G   1.4740+7          0.253200 8.4000-3                                       Cs.M.Buczko+         (91)30987  5 
+#/DATA      11
+#/DATASET

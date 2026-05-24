@@ -1,0 +1,38 @@
+#ENTRY      C2243
+#AUTHOR1    S.A.Graves+
+#YEAR       2016
+#INSTITUTE  (1USAWIS)
+#TITLE      Nuclear excitation functions of proton-induced
+#+          reactions (Ep=35-90 MeV) from Fe, Cu, and Al
+#AUTHOR(S)  S.A.Graves, P.A.Ellison, T.E.Barnhart, H.F.Valdovinos, E.R.Birnbaum, 
+#+          F.M.Nortier, R.J.Nickles, J.W.Engle
+#REF-CODE   (J,NIM/B,386,44,2016)
+#REFERENCE  Nucl.Instrum.Meth.B 386 (2016) 44 (doi:10.1016/j.nimb.2016.09.018)
+#DATASETS   0
+#
+#DATASET    C2243015 
+#DATE       20171107
+#REACTION   26-FE-0(P,X)27-CO-56,,SIG
+#PROJ       1001
+#TARG       26000
+#MF         3
+#MT         454
+#PRODUCT    27-CO-56
+#C4BEGIN    [ 1001 26000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26000   3 454    9.0200+7 600000.0 6.2100-3 5.8000-4           27056.9                     S.A.Graves+          (16)C2243 15 
+ 1001 26000   3 454    8.9000+7 600000.0 6.4900-3 5.9000-4           27056.9                     S.A.Graves+          (16)C2243 15 
+ 1001 26000   3 454    7.9300+7 800000.0 8.7000-3 8.9000-4           27056.9                     S.A.Graves+          (16)C2243 15 
+ 1001 26000   3 454    7.8300+7 900000.0 7.6800-3 8.2000-4           27056.9                     S.A.Graves+          (16)C2243 15 
+ 1001 26000   3 454    6.8800+7 1100000. 8.3700-3 1.1200-3           27056.9                     S.A.Graves+          (16)C2243 15 
+ 1001 26000   3 454    6.7800+7 1100000. 9.3200-3 1.2600-3           27056.9                     S.A.Graves+          (16)C2243 15 
+ 1001 26000   3 454    5.9300+7 1300000. 0.013200 1.8000-3           27056.9                     S.A.Graves+          (16)C2243 15 
+ 1001 26000   3 454    5.8300+7 1400000. 0.012500 1.8000-3           27056.9                     S.A.Graves+          (16)C2243 15 
+ 1001 26000   3 454    4.8800+7 1600000. 0.014400 1.4000-3           27056.9                     S.A.Graves+          (16)C2243 15 
+ 1001 26000   3 454    4.7600+7 1600000. 0.014500 1.5000-3           27056.9                     S.A.Graves+          (16)C2243 15 
+ 1001 26000   3 454    3.6100+7 1900000. 0.020900 2.0000-3           27056.9                     S.A.Graves+          (16)C2243 15 
+ 1001 26000   3 454    3.4600+7 1600000. 0.018800 1.7000-3           27056.9                     S.A.Graves+          (16)C2243 15 
+#/DATA      12
+#/DATASET

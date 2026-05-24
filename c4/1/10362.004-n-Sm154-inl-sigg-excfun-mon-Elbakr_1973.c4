@@ -1,0 +1,32 @@
+#ENTRY      10362
+#AUTHOR1    S.A.Elbakr+
+#YEAR       1973
+#INSTITUTE  (1CANALA)
+#TITLE      The energy level structure of 154Sm from the
+#+          (n,n'gamma) reaction
+#AUTHOR(S)  S.A.Elbakr, I.J.Van Heerden, B.C.Robertson, W.J.McDonald, 
+#+          G.C.Neilson, W.K.Dawson
+#REF-CODE   (J,NP/A,211,493,1973)
+#REFERENCE  Nucl.Phys.A 211 (1973) 493 (doi:10.1016/0375-9474(73)90439-9)
+#DATASETS   0
+#
+#DATASET    10362004 
+#DATE       20220822
+#REACTION   62-SM-154(N,INL)62-SM-154,PAR,SIG,G
+#PROJ       1
+#TARG       62154
+#MF         13
+#MT         51
+#PRODUCT    62-SM-154
+#C4BEGIN    [    1 62154  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 62154  13  51    965000.0          0.014449 6.2580-3                   1120000.            S.A.Elbakr+          (73)10362  4 
+    1 62154  13  51    1144000.          0.027766 5.5630-3                   1120000.            S.A.Elbakr+          (73)10362  4 
+    1 62154  13  51    1341000.          0.034137 7.6520-3                   1120000.            S.A.Elbakr+          (73)10362  4 
+    1 62154  13  51    1556000.          0.039126 8.3470-3                   1120000.            S.A.Elbakr+          (73)10362  4 
+    1 62154  13  51    1767000.          0.038547 9.0430-3                   1120000.            S.A.Elbakr+          (73)10362  4 
+    1 62154  13  51    2003000.          0.040070 9.0460-3                   1120000.            S.A.Elbakr+          (73)10362  4 
+#/DATA      6
+#/DATASET

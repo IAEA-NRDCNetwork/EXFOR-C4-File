@@ -1,0 +1,29 @@
+#ENTRY      32740
+#AUTHOR1    Shuqing Yuan+
+#YEAR       2015
+#INSTITUTE  (3CPRPDU)
+#TITLE      Cross-section measurement for the 206Pb(n,a)203Hg
+#+          reaction induced by neutrons around 14 MeV
+#AUTHOR(S)  Shuqing Yuan, Yueli Song, Fengqun Zhou, Yong Li, Mingli Tian, 
+#+          Changlin Lan
+#REF-CODE   (J,NIM/B,349,130,2015)
+#REFERENCE  Nucl.Instrum.Meth.B 349 (2015) 130 (doi:10.1016/j.nimb.2015.02.045)
+#DATASETS   0
+#
+#DATASET    32740002 
+#DATE       20161108
+#REACTION   82-PB-206(N,A)80-HG-203,,SIG
+#PROJ       1
+#TARG       82206
+#MF         3
+#MT         107
+#PRODUCT    80-HG-203
+#C4BEGIN    [    1 82206   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82206   3 107    1.3500+7 200000.0 9.9000-4 7.0000-5                                       Shuqing Yuan+        (15)32740  2 
+    1 82206   3 107    1.4400+7 200000.0 1.2300-3 1.1000-4                                       Shuqing Yuan+        (15)32740  2 
+    1 82206   3 107    1.4700+7 200000.0 1.3900-3 1.2000-4                                       Shuqing Yuan+        (15)32740  2 
+#/DATA      3
+#/DATASET

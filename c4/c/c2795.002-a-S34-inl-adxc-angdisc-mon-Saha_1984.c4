@@ -1,0 +1,55 @@
+#ENTRY      C2795
+#AUTHOR1    A.Saha+
+#YEAR       1984
+#INSTITUTE  (1USANWU)
+#TITLE      Determination of the relative sign of neutron and
+#+          proton transition matrix elements for the
+#+          34S(0 -> 2(2)+) transition
+#AUTHOR(S)  A.Saha, K.K.Seth, M.Artuso, B.Harris, R.Seth, H.Nann, W.W.Jacobs
+#REF-CODE   (J,PRL,52,1876,1984)
+#REFERENCE  Phys.Rev.Lett. 52 (1984) 1876 (doi:10.1103/PhysRevLett.52.1876)
+#DATASETS   0
+#
+#DATASET    C2795002 
+#DATE       20220917
+#REACTION   16-S-34(A,INL)16-S-34,PAR,DA
+#PROJ       2004
+#TARG       16034
+#MF         4
+#MT         801
+#PRODUCT    16-S-34
+#C4BEGIN    [ 2004 16034   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 16034   4 801  C 1.2000+8          0.067690          0.990696          2127000.         LVLA.Saha+              (84)C2795  2 
+ 2004 16034   4 801  C 1.2000+8          0.038120 3.0190-3 0.987971          2127000.         LVLA.Saha+              (84)C2795  2 
+ 2004 16034   4 801  C 1.2000+8          0.015460          0.984592          2127000.         LVLA.Saha+              (84)C2795  2 
+ 2004 16034   4 801  C 1.2000+8          0.011890          0.976982          2127000.         LVLA.Saha+              (84)C2795  2 
+ 2004 16034   4 801  C 1.2000+8          0.021860          0.972816          2127000.         LVLA.Saha+              (84)C2795  2 
+ 2004 16034   4 801  C 1.2000+8          0.021790          0.968100          2127000.         LVLA.Saha+              (84)C2795  2 
+ 2004 16034   4 801  C 1.2000+8          0.017580          0.962824          2127000.         LVLA.Saha+              (84)C2795  2 
+ 2004 16034   4 801  C 1.2000+8          8.4010-3          0.957425          2127000.         LVLA.Saha+              (84)C2795  2 
+#/DATA      8
+#/DATASET
+#
+#DATASET    C2795002 
+#DATE       20220917
+#REACTION   16-S-34(A,INL)16-S-34,PAR,DA
+#PROJ       2004
+#TARG       16034
+#MF         4
+#MT         801
+#PRODUCT    16-S-34
+#C4BEGIN    [ 2004 16034   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 16034   4 801  C 1.2000+8          3.9600-4 1.5200-4 0.984631          3304000.         LVLA.Saha+              (84)C2795  2 
+ 2004 16034   4 801  C 1.2000+8          9.0800-4 1.5700-4 0.976788          3304000.         LVLA.Saha+              (84)C2795  2 
+ 2004 16034   4 801  C 1.2000+8          1.0840-3 1.8700-4 0.972646          3304000.         LVLA.Saha+              (84)C2795  2 
+ 2004 16034   4 801  C 1.2000+8          1.1980-3 1.5400-4 0.968030          3304000.         LVLA.Saha+              (84)C2795  2 
+ 2004 16034   4 801  C 1.2000+8          6.2200-4 7.5000-5 0.962682          3304000.         LVLA.Saha+              (84)C2795  2 
+ 2004 16034   4 801  C 1.2000+8          2.2900-4 3.4000-5 0.957153          3304000.         LVLA.Saha+              (84)C2795  2 
+#/DATA      6
+#/DATASET

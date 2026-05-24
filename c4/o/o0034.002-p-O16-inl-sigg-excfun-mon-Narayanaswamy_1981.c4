@@ -1,0 +1,27 @@
+#ENTRY      O0034
+#AUTHOR1    J.Narayanaswamy+
+#YEAR       1981
+#INSTITUTE  (1USAMSU)
+#TITLE      Production of 6.13-MeV gamma rays from the
+#+          O-16(p,pgamma)O-16 reaction at 23.7 and 44.6 MeV
+#AUTHOR(S)  J.Narayanaswamy, P.Dyer, S.R.Faber, S.M.Austin
+#REF-CODE   (J,PR/C,24,2727,1981)
+#REFERENCE  Phys.Rev.C 24 (1981) 2727 (doi:10.1103/PhysRevC.24.2727)
+#DATASETS   0
+#
+#DATASET    O0034002 
+#DATE       20200815
+#REACTION   8-O-16(P,INL)8-O-16,PAR,SIG,G
+#PROJ       1001
+#TARG       8016
+#MF         13
+#MT         601
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016  13 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016  13 601    2.3700+7          0.058900 6.2000-3                   6130000.            J.Narayanaswamy+     (81)O0034  2 
+ 1001  8016  13 601    4.4600+7          0.040400 4.9000-3                   6130000.            J.Narayanaswamy+     (81)O0034  2 
+#/DATA      2
+#/DATASET

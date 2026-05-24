@@ -1,0 +1,27 @@
+#ENTRY      40145
+#AUTHOR1    B.V.Kurchatov+
+#YEAR       1971
+#INSTITUTE  (4RUSKUR)
+#TITLE      Mass distribution of fragments from slow neutron
+#+          fission of Cf-249
+#AUTHOR(S)  B.V.Kurchatov, L.N.Morozov, V.I.Novgorodtseva, V.A.Pchelin, 
+#+          L.V.Chistyakov, V.M.Shubko
+#REF-CODE   (J,YF,14,943,1971)
+#REFERENCE  Yad.Fiz. 14 (1971) 943
+#DATASETS   0
+#
+#DATASET    40145006 
+#DATE       20230405
+#REACTION   98-CF-249(N,F)ELEM/MASS,IND,FY,,MXW
+#PROJ       1
+#TARG       98249
+#MF         8
+#MT         454
+#C4BEGIN    [    1 98249   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 98249   8 454    0.025300          1.5000-5 1.2000-6 35.00000 82.00000 0.000000            B.V.Kurchatov+       (71)40145  6 
+    1 98249   8 454    0.025300          4.2000-3 1.6000-4 55.00000 136.0000 0.000000            B.V.Kurchatov+       (71)40145  6 
+#/DATA      2
+#/DATASET

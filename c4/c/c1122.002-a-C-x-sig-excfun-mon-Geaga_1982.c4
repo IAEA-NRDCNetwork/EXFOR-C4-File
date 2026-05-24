@@ -1,0 +1,28 @@
+#ENTRY      C1122
+#AUTHOR1    J.V.Geaga+
+#YEAR       1982
+#INSTITUTE  (1USACLA)
+#TITLE      The C(alpha,X)11C cross sections at 1.59 and 4.19 GeV
+#AUTHOR(S)  J.V.Geaga, M.M.Gazzaly, G.J.Igo, J.B.McClelland, M.A.Nasser, 
+#+          A.L.Sagle, H.Spinka, J.B.Carroll, J.B.Mc.upper()aslin, 
+#+          V.Perez-Mendez, A.R.Smith, E.T.B.Whipple
+#REF-CODE   (J,NP/A,386,589,1982)
+#REFERENCE  Nucl.Phys.A 386 (1982) 589 (doi:10.1016/0375-9474(82)90038-0)
+#DATASETS   0
+#
+#DATASET    C1122002 
+#DATE       20170927
+#REACTION   6-C-0(A,X)6-C-11,,SIG
+#PROJ       2004
+#TARG       6000
+#MF         3
+#MT         454
+#PRODUCT    6-C-11
+#C4BEGIN    [ 2004  6000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6000   3 454    1.5900+9          0.046400 1.3000-3            6011.9                     J.V.Geaga+           (82)C1122  2 
+ 2004  6000   3 454    4.1900+9          0.042500 1.1000-3            6011.9                     J.V.Geaga+           (82)C1122  2 
+#/DATA      2
+#/DATASET

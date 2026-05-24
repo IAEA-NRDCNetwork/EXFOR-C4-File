@@ -1,0 +1,25 @@
+#ENTRY      12428
+#AUTHOR1    R.W.Durham+
+#YEAR       1966
+#INSTITUTE  (1CANCRC)
+#TITLE      The ratio of capture to fission in U235 and Pu239
+#AUTHOR(S)  R.W.Durham, G.C.Hanna, M.Lounsbury, C.B.Bigham, R.G.Hart, 
+#+          R.W.Jones
+#REF-CODE   (C,66PARIS,2,17(2),196610)
+#REFERENCE  Proceedings of Nuclear Data For Reactors Conf., Paris 1966 2 page 17(2)
+#DATASETS   0
+#
+#DATASET    12428004 
+#DATE       20160922
+#REACTION   94-PU-239(N,ABS),,SIG
+#PROJ       1
+#TARG       94239
+#MF         3
+#MT         27
+#C4BEGIN    [    1 94239   3  27  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   3  27    0.025300          1021.000 12.00000                                       R.W.Durham+          (66)12428  4 
+#/DATA      1
+#/DATASET

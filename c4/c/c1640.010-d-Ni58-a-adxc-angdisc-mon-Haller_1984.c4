@@ -1,0 +1,38 @@
+#ENTRY      C1640
+#AUTHOR1    M.Haller+
+#YEAR       1984
+#INSTITUTE  (1USANCA)
+#TITLE      Investigation of the reactions 58Ni(d,a)56Co and
+#+          50Ti(d,a)48Sc with vector and tensor polarised
+#+          deuterons
+#AUTHOR(S)  M.Haller, V.Kretschmer, R.E.Anderson, B.L.Burks, T.B.Clegg, 
+#+          E.J.Ludwig, R.L.Varner, J.F.Wilkerson
+#REF-CODE   (J,NP/A,419,45,1984)
+#REFERENCE  Nucl.Phys.A 419 (1984) 45 (doi:10.1016/0375-9474(84)90284-7)
+#DATASETS   0
+#
+#DATASET    C1640010 
+#DATE       20080730
+#REACTION   28-NI-58(D,A)27-CO-56,PAR,DA
+#PROJ       1002
+#TARG       28058
+#MF         4
+#MT         800
+#PRODUCT    27-CO-56
+#C4BEGIN    [ 1002 28058   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28058   4 800  C 1.6000+7          9.0310-5          0.934329          1008000.         LVLM.Haller+            (84)C1640 10 
+ 1002 28058   4 800  C 1.6000+7          7.7820-5          0.896718          1008000.         LVLM.Haller+            (84)C1640 10 
+ 1002 28058   4 800  C 1.6000+7          6.3090-5          0.854005          1008000.         LVLM.Haller+            (84)C1640 10 
+ 1002 28058   4 800  C 1.6000+7          4.8780-5          0.804687          1008000.         LVLM.Haller+            (84)C1640 10 
+ 1002 28058   4 800  C 1.6000+7          3.8760-5          0.748956          1008000.         LVLM.Haller+            (84)C1640 10 
+ 1002 28058   4 800  C 1.6000+7          4.0090-5 1.5950-6 0.687468          1008000.         LVLM.Haller+            (84)C1640 10 
+ 1002 28058   4 800  C 1.6000+7          3.7470-5 1.2470-6 0.616074          1008000.         LVLM.Haller+            (84)C1640 10 
+ 1002 28058   4 800  C 1.6000+7          3.5730-5 1.4220-6 0.544053          1008000.         LVLM.Haller+            (84)C1640 10 
+ 1002 28058   4 800  C 1.6000+7          2.3170-5 1.5160-6 0.467621          1008000.         LVLM.Haller+            (84)C1640 10 
+ 1002 28058   4 800  C 1.6000+7          1.3390-5 8.7640-7 0.299207          1008000.         LVLM.Haller+            (84)C1640 10 
+ 1002 28058   4 800  C 1.6000+7          1.0860-5 7.1050-7 0.213542          1008000.         LVLM.Haller+            (84)C1640 10 
+#/DATA      11
+#/DATASET

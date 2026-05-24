@@ -1,0 +1,34 @@
+#ENTRY      40867
+#AUTHOR1    E.S.Konobeevskiy+
+#YEAR       1983
+#INSTITUTE  (4UKRIJD)
+#TITLE      Low-energy neutrons scattering investigation
+#+          on the nuclei of germanium and selenium
+#AUTHOR(S)  E.S.Konobeevskiy, Yu.G.Kudenko, M.V.Mordovskiy, V.I.Popov
+#REF-CODE   (C,83KIEV,3,157,1983)
+#REFERENCE  Proceedings of 6.All-Union Conf.on Neutron Physics,Kiev,2-6 Oct.1983 3 page 157
+#DATASETS   0
+#
+#DATASET    40867003 
+#DATE       20210623
+#REACTION   32-GE-0(N,EL)32-GE-0,,DA
+#PROJ       1
+#TARG       32000
+#MF         4
+#MT         2
+#PRODUCT    32-GE-0
+#C4BEGIN    [    1 32000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 32000   4   2 AC 1000000. 350000.0 0.759000 0.053000 0.866025 0.017453                     E.S.Konobeevskiy+    (83)40867  3 
+    1 32000   4   2 AC 1000000. 350000.0 0.560000 0.039000 0.707107 0.024683                     E.S.Konobeevskiy+    (83)40867  3 
+    1 32000   4   2 AC 1000000. 350000.0 0.388000 0.029000 0.500000 0.030230                     E.S.Konobeevskiy+    (83)40867  3 
+    1 32000   4   2 AC 1000000. 350000.0 0.271000 0.022000 0.258819 0.033717                     E.S.Konobeevskiy+    (83)40867  3 
+    1 32000   4   2 AC 1000000. 350000.0 0.190000 0.017000 6.123-17 0.034907                     E.S.Konobeevskiy+    (83)40867  3 
+    1 32000   4   2 AC 1000000. 350000.0 0.189000 0.017000-0.258819 0.033717                     E.S.Konobeevskiy+    (83)40867  3 
+    1 32000   4   2 AC 1000000. 350000.0 0.175000 0.016000-0.500000 0.030230                     E.S.Konobeevskiy+    (83)40867  3 
+    1 32000   4   2 AC 1000000. 350000.0 0.189000 0.017000-0.707107 0.024683                     E.S.Konobeevskiy+    (83)40867  3 
+    1 32000   4   2 AC 1000000. 350000.0 0.205000 0.018000-0.866025 0.017453                     E.S.Konobeevskiy+    (83)40867  3 
+#/DATA      9
+#/DATASET

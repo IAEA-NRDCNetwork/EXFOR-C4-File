@@ -1,0 +1,27 @@
+#ENTRY      O0744
+#AUTHOR1    J.Jaros+
+#YEAR       1978
+#INSTITUTE  (1USABRK)
+#TITLE      Nucleus-nucleus total cross sections for light nuclei
+#+          at 1.55 and 2.89 GeV/C per nucleon.
+#AUTHOR(S)  J.Jaros, A.Wagner, L.Anderson, O.Chamberlain, R.Z.Fuzesy, 
+#+          J.Gallup, W.Gorn, L.Schroeder, S.Shannon, G.Shapiro, H.Steiner
+#REF-CODE   (J,PR/C,18,2273,1978)
+#REFERENCE  Phys.Rev.C 18 (1978) 2273 (doi:10.1103/PhysRevC.18.2273)
+#DATASETS   0
+#
+#DATASET    O07440231
+#DATE       20140205
+#REACTION   1-H-2(6-C-12,NON),,SIG
+#PROJ       6012
+#TARG       1002
+#MF         3
+#MT         3
+#C4BEGIN    [ 6012  1002   3   3  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  1002   3   3    1.044+10          0.411000 0.021000                                       J.Jaros+             (78)O0744 231
+ 6012  1002   3   3    2.520+10          0.422000 2.5000-3                                       J.Jaros+             (78)O0744 231
+#/DATA      2
+#/DATASET

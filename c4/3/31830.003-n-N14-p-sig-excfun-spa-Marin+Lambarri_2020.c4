@@ -1,0 +1,29 @@
+#ENTRY      31830
+#AUTHOR1    D.J.Marin-Lambarri+
+#YEAR       2020
+#INSTITUTE  (3MEXUMX)
+#TITLE      Measurement of the thermal neutron capture cross
+#+          section by 9Be using the neutron flux from a nuclear
+#+          research reactor and the AMS technique
+#AUTHOR(S)  D.J.Marin-Lambarri, J.Garcia-Ramirez, E.Sanchez-Zuniga, 
+#+          S.Padilla, L.Acosta, E.Chavez, H.S.Cruz-Galindo, A.Huerta, 
+#+          G.Mendez, R.Raya-Arredondo, M.Rodriguez-Ceja, C.Solis, L.Barron-Palos
+#REF-CODE   (J,PR/C,102,044601,2020)
+#REFERENCE  Phys.Rev.C 102 (2020) 044601 (doi:10.1103/PhysRevC.102.044601)
+#DATASETS   0
+#
+#DATASET    31830003 
+#DATE       20220309
+#REACTION   7-N-14(N,P)6-C-14,,SIG,,SPA
+#PROJ       1
+#TARG       7014
+#MF         3
+#MT         103
+#PRODUCT    6-C-14
+#C4BEGIN    [    1  7014   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  7014   3 103    0.025300          2.070000 0.370000                                       D.J.Marin-Lambarri+  (20)31830  3 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      F0126
+#AUTHOR1    J.B.Marion+
+#YEAR       1955
+#INSTITUTE  (1USARIC)
+#TITLE      Study of the reactions T(p,n)3He,7Li(p,n)7Be,
+#+          9Be(p,n)9B and 19F(p,n)19Ne
+#AUTHOR(S)  J.B.Marion, T.W.Bonner, C.F.Cook
+#REF-CODE   (J,PR,100,91,1955)
+#REFERENCE  Phys.Rev. 100 (1955) 91 (doi:10.1103/PhysRev.100.91)
+#DATASETS   0
+#
+#DATASET    F0126007 
+#DATE       20200508
+#REACTION   6-C-13(P,N)7-N-13,,DA
+#PROJ       1001
+#TARG       6013
+#MF         4
+#MT         4
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1001  6013   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6013   4   4    3700000.          6.7000-3          0.996195 7.6058-3                     J.B.Marion+          (55)F0126  7 
+#/DATA      1
+#/DATASET

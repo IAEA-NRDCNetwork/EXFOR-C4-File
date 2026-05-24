@@ -1,0 +1,39 @@
+#ENTRY      D0517
+#AUTHOR1    M.U.Khandaker+
+#YEAR       2008
+#INSTITUTE  (3KORKNU)
+#TITLE      Production cross-sections of residual radionuclides
+#+          from proton induced reactions on natAg up to 40 MeV
+#AUTHOR(S)  M.U.Khandaker, K.Kim, K.S.Kim, M.W.Lee, G.N.Kim, Y.S.Cho, 
+#+          Y.O.Lee
+#REF-CODE   (J,NIM/B,266,5101,2008)
+#REFERENCE  Nucl.Instrum.Meth.B 266 (2008) 5101 (doi:10.1016/j.nimb.2008.09.025)
+#DATASETS   0
+#
+#DATASET    D0517004 
+#DATE       20210929
+#REACTION   47-AG-0(P,X)47-AG-106-M,,SIG
+#PROJ       1001
+#TARG       47000
+#MF         3
+#MT         454
+#PRODUCT    47-AG-106-M
+#C4BEGIN    [ 1001 47000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 47000   3 454 A  1.5800+7 800000.0 4.5000-3 7.0000-4           47106.7                     M.U.Khandaker+       (08)D0517  4 
+ 1001 47000   3 454 A  1.7800+7 800000.0 0.014700 1.3000-3           47106.7                     M.U.Khandaker+       (08)D0517  4 
+ 1001 47000   3 454 A  2.1100+7 700000.0 0.040400 3.1000-3           47106.7                     M.U.Khandaker+       (08)D0517  4 
+ 1001 47000   3 454 A  2.4100+7 700000.0 0.063100 4.7000-3           47106.7                     M.U.Khandaker+       (08)D0517  4 
+ 1001 47000   3 454 A  2.6800+7 600000.0 0.070800 5.3000-3           47106.7                     M.U.Khandaker+       (08)D0517  4 
+ 1001 47000   3 454 A  2.8300+7 600000.0 0.070200 5.3000-3           47106.7                     M.U.Khandaker+       (08)D0517  4 
+ 1001 47000   3 454 A  3.0800+7 500000.0 0.063000 4.7000-3           47106.7                     M.U.Khandaker+       (08)D0517  4 
+ 1001 47000   3 454 A  3.2200+7 500000.0 0.058400 4.4000-3           47106.7                     M.U.Khandaker+       (08)D0517  4 
+ 1001 47000   3 454 A  3.4400+7 400000.0 0.053200 4.0000-3           47106.7                     M.U.Khandaker+       (08)D0517  4 
+ 1001 47000   3 454 A  3.5500+7 400000.0 0.053600 4.1000-3           47106.7                     M.U.Khandaker+       (08)D0517  4 
+ 1001 47000   3 454 A  3.7500+7 300000.0 0.060100 4.5000-3           47106.7                     M.U.Khandaker+       (08)D0517  4 
+ 1001 47000   3 454 A  3.8600+7 300000.0 0.065800 4.9000-3           47106.7                     M.U.Khandaker+       (08)D0517  4 
+ 1001 47000   3 454 A  4.0500+7 300000.0 0.081800 6.1000-3           47106.7                     M.U.Khandaker+       (08)D0517  4 
+#/DATA      13
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      A1041
+#AUTHOR1    N.Jarmie+
+#YEAR       1974
+#INSTITUTE  (1USALAS)
+#TITLE      Various cross sections for A <=3 nuclei
+#AUTHOR(S)  N.Jarmie, J.H.Jett
+#REF-CODE   (J,PR/C,10,54,1974)
+#REFERENCE  Phys.Rev.C 10 (1974) 54 (doi:10.1103/PhysRevC.10.54)
+#DATASETS   0
+#
+#DATASET    A1041007 
+#DATE       20240423
+#REACTION   1-H-3(P,D)1-H-2,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         104
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001  1003   4 104  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4 104  C 1.3600+7 15000.00 0.019970          0.897797 2.3060-4                     N.Jarmie+            (74)A1041  7 
+ 1001  1003   4 104  C 1.3600+7 15000.00 5.1540-3          0.775936 3.3029-4                     N.Jarmie+            (74)A1041  7 
+ 1001  1003   4 104  C 1.3600+7 15000.00 4.5300-3          0.673400 3.8709-4                     N.Jarmie+            (74)A1041  7 
+ 1001  1003   4 104  C 1.3600+7 15000.00 5.3980-3          0.616624 4.1221-4                     N.Jarmie+            (74)A1041  7 
+ 1001  1003   4 104  C 1.3600+7 15000.00 7.9390-3          0.227331 5.0989-4                     N.Jarmie+            (74)A1041  7 
+ 1001  1003   4 104  C 1.3600+7 15000.00 7.4640-3         -0.046758 5.2303-4                     N.Jarmie+            (74)A1041  7 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      11701
+#AUTHOR1    D.C.Santry+
+#YEAR       1964
+#INSTITUTE  (1CANCRC)
+#TITLE      Excitation curves for the reaction Fe56(n,p)Mn56 and
+#+          Co59(n,alpha)Mn56.
+#AUTHOR(S)  D.C.Santry, J.P.Butler
+#REF-CODE   (J,CJP,42,1030,1964)
+#REFERENCE  Can.J.Phys. 42 (1964) 1030 (doi:10.1139/p64-096)
+#DATASETS   0
+#
+#DATASET    11701002 
+#DATE       20200503
+#REACTION   26-FE-56(N,P)25-MN-56,,SIG
+#PROJ       1
+#TARG       26056
+#MF         3
+#MT         103
+#PRODUCT    25-MN-56
+#C4BEGIN    [    1 26056   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   3 103    4570000. 120000.0 3.2000-4 3.0000-5                                       D.C.Santry+          (64)11701  2 
+    1 26056   3 103    4890000. 100000.0 7.9000-4 4.0000-5                                       D.C.Santry+          (64)11701  2 
+    1 26056   3 103    5020000. 110000.0 1.1300-3 7.0000-5                                       D.C.Santry+          (64)11701  2 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      12969
+#AUTHOR1    J.W.Meadows+
+#YEAR       1987
+#INSTITUTE  (1USAANL)
+#TITLE      Measurement of 14.7-MeV neutron-activation
+#+          cross sections for fusion
+#AUTHOR(S)  J.W.Meadows, D.L.Smith, M.M.Bretscher, S.A.Cox
+#REF-CODE   (J,ANE,14,489,1987)
+#REFERENCE  Ann.Nucl.Energy 14 (1987) 489 (doi:10.1016/0306-4549(87)90066-1)
+#DATASETS   0
+#
+#DATASET    12969010 
+#DATE       20260110
+#REACTION   24-CR-0(N,X)23-V-52,,SIG
+#PROJ       1
+#TARG       24000
+#MF         3
+#MT         454
+#PRODUCT    23-V-52
+#C4BEGIN    [    1 24000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24000   3 454 A  1.4740+7 20000.00 0.062390 3.3691-3           23052.9                     J.W.Meadows+         (87)12969 10 
+#/DATA      1
+#/DATASET

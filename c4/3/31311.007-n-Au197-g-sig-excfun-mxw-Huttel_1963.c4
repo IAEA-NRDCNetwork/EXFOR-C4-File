@@ -1,0 +1,27 @@
+#ENTRY      31311
+#AUTHOR1    G.Huttel+
+#YEAR       1963
+#INSTITUTE  (3DDRROS)
+#TITLE      A local pile oscillator for measuring thermal
+#+          absorption cross sections in the Rossendorf Research
+#+          Reactor
+#AUTHOR(S)  G.Huttel, P.Liewers
+#REF-CODE   (J,KE,6,336,1963)
+#REFERENCE  Kernenergie 6 (1963) 336
+#DATASETS   0
+#
+#DATASET    31311007 
+#DATE       20090929
+#REACTION   79-AU-197(N,G)79-AU-198,,SIG,,MXW
+#PROJ       1
+#TARG       79197
+#MF         3
+#MT         102
+#PRODUCT    79-AU-198
+#C4BEGIN    [    1 79197   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   3 102    0.025300          98.50000 0.600000                                       G.Huttel+            (63)31311  7 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      C1956
+#AUTHOR1    L.W.Woo+
+#YEAR       1985
+#INSTITUTE  (1USAINU)
+#TITLE      Cross sections for He, Li, and Be isotopes produced
+#+          in the alpha+alpha reaction at 198.4 Mev
+#AUTHOR(S)  L.W.Woo, K.Kwiatkowski, S.H.Zhou, V.E.Viola
+#REF-CODE   (J,PR/C,32,706,1985)
+#REFERENCE  Phys.Rev.C 32 (1985) 706 (doi:10.1103/PhysRevC.32.706)
+#DATASETS   0
+#
+#DATASET    C1956007 
+#DATE       20121103
+#REACTION   2-HE-4(A,D)3-LI-6,,SIG
+#PROJ       2004
+#TARG       2004
+#MF         3
+#MT         104
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 2004  2004   3 104  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  2004   3 104    1.9840+8          6.0000-4 2.0000-4                                       L.W.Woo+             (85)C1956  7 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,46 @@
+#ENTRY      C1857
+#AUTHOR1    K.L.Jones+
+#YEAR       2011
+#INSTITUTE  (1USATEN)
+#TITLE      Direct reaction measurements with a 132Sn radioactive
+#+          ion beam
+#AUTHOR(S)  K.L.Jones, F.M.Nunes, A.S.Adekola, D.W.Bardayan, J.C.Blackmon, 
+#+          K.Y.Chae, K.A.Chipps, J.A.Cizewski, L.Erikson, C.Harlin, 
+#+          R.Hatarik, R.Kapler, R.L.Kozub, J.F.Liang, R.Livesay, Z.Ma, 
+#+          B.Moazen, C.D.Nesaraja, S.D.Pain, N.P.Patterson, D.Shapira, 
+#+          J.F.Shriner Jr, M.S.Smith, T.P.Swan, J.S.Thomas
+#REF-CODE   (J,PR/C,84,034601,2011)
+#REFERENCE  Phys.Rev.C 84 (2011) 034601 (doi:10.1103/PhysRevC.84.034601)
+#DATASETS   0
+#
+#DATASET    C1857004 
+#DATE       20111006
+#REACTION   (1-H-2(50-SN-132,P)50-SN-133,PAR,DA,RSD,AV)=(50-SN-132(D,P)50-SN-133,PAR,DA,,AV)
+#PROJ       1002
+#TARG       50132
+#MF         4
+#MT         600
+#PRODUCT    50-SN-133
+#C4BEGIN    [ 1002 50132   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50132   4 600  C 6.3000+8          8.7000-3 1.7000-3 0.723570 0.124688 1363000.         LVLK.L.Jones+           (11)C1857  4 
+#/DATA      1
+#/DATASET
+#
+#DATASET    C1857004 
+#DATE       20111006
+#REACTION   (1-H-2(50-SN-132,P)50-SN-133,PAR,DA,RSD,AV)=(50-SN-132(D,P)50-SN-133,PAR,DA,,AV)
+#PROJ       1002
+#TARG       50132
+#MF         4
+#MT         600
+#PRODUCT    50-SN-133
+#C4BEGIN    [ 1002 50132   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50132   4 600  C 6.3000+8          0.011300 1.9000-3 0.621831 0.043056 2005000.         LVLK.L.Jones+           (11)C1857  4 
+#/DATA      1
+#/DATASET

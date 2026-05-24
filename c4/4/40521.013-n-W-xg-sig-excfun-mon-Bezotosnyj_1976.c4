@@ -1,0 +1,27 @@
+#ENTRY      40521
+#AUTHOR1    V.M.Bezotosnyj+
+#YEAR       1976
+#INSTITUTE  (4RUSKUR)
+#TITLE      Gamma-production cross-sections for the inelastic
+#+          interaction of 2.5-MeV neutrons with various nuclei
+#AUTHOR(S)  V.M.Bezotosnyj, V.M.Gorbachjov, M.S.Shvetsov, M.A.Efimova, 
+#+          L.M.Surov
+#REF-CODE   (P,YK-22,21,1976)
+#REFERENCE  Progress report YK-22 page 21, 1976
+#DATASETS   0
+#
+#DATASET    40521013 
+#DATE       20191212
+#REACTION   74-W-0(N,X)0-G-0,,SIG
+#PROJ       1
+#TARG       74000
+#MF         3
+#MT         202
+#PRODUCT    0-G-0
+#C4BEGIN    [    1 74000   3 202 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74000   3 202 D  2500000.          3.395000 0.795000                                       V.M.Bezotosnyj+      (76)40521 13 
+#/DATA      1
+#/DATASET

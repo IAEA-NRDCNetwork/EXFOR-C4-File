@@ -1,0 +1,51 @@
+#ENTRY      O1889
+#AUTHOR1    J.Alcantara-Nunez+
+#YEAR       2015
+#INSTITUTE  (2SPNSAU)
+#TITLE      Isotopic yields of spallation residues produced in
+#+          Xe-136-induced reactions on deuterium at 500 A*MeV.
+#AUTHOR(S)  J.Alcantara-Nunez, J.Benlliure, D.Perez-Loureiro, P.Armbruster, 
+#+          L.Audouin, M.Bernas, A.Boudard, E.Casarejos, T.Enqvist, 
+#+          B.Ferandez-Dominguez, M.Fernandez Ordonez, A.Heinz, V.Henzl, 
+#+          D.Henzlova, A.Kelic, A.Lafriaskh, S.Leray, P.Napolitani, 
+#+          J.Pereira, R.Pleskac, F.Rejmund, M.V.Ricciardi, C.Stephan, 
+#+          K.-H.Schmidt, C.Schmitt, L.Tassan-Got, C.Villagrasa, C.Volant, 
+#+          O.Yordanov
+#REF-CODE   (J,PR/C,92,024607,2015)
+#REFERENCE  Phys.Rev.C 92 (2015) 024607 (doi:10.1103/PhysRevC.92.024607)
+#DATASETS   0
+#
+#DATASET    O1889032 
+#DATE       20151025
+#REACTION   (1-H-2(54-XE-136,X)ELEM/MASS,,SIG)=(54-XE-136(D,X)ELEM/MASS,,SIG)
+#PROJ       1002
+#TARG       54136
+#MF         3
+#MT         454
+#C4BEGIN    [ 1002 54136   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 54136   3 454    1.0000+9          1.0700-4 1.8000-5           53116.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          1.0100-3 1.5000-4           53117.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          2.9000-3 3.6000-4           53118.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          6.0100-3 6.8000-4           53119.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          9.3800-3 1.0100-3           53120.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          0.013900 1.4000-3           53121.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          0.016800 1.7000-3           53122.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          0.021600 2.2000-3           53123.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          0.023400 2.3000-3           53124.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          0.027500 2.7000-3           53125.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          0.027100 2.7000-3           53126.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          0.029700 2.9000-3           53127.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          0.027400 2.7000-3           53128.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          0.029800 2.9000-3           53129.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          0.026100 2.6000-3           53130.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          0.028100 2.7000-3           53131.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          0.023600 2.3000-3           53132.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          0.026000 5.8000-3           53133.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          0.023400 3.3000-3           53134.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          0.028100 3.4000-3           53135.9                     J.Alcantara-Nunez+   (15)O1889 32 
+ 1002 54136   3 454    1.0000+9          1.3800-4 3.0000-5           53136.9                     J.Alcantara-Nunez+   (15)O1889 32 
+#/DATA      21
+#/DATASET

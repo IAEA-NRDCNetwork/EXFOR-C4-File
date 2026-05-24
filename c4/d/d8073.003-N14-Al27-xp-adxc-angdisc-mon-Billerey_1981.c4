@@ -1,0 +1,33 @@
+#ENTRY      D8073
+#AUTHOR1    R.Billerey+
+#YEAR       1981
+#INSTITUTE  (2FR LYO)
+#TITLE      Preequilibrium emission in the fusion reactions in the
+#+          system 14N+27Al at 100 MeV
+#AUTHOR(S)  R.Billerey, C.Cerruti, A.Chevarier, N.Chevarier, B.Cheynis, 
+#+          A.Demeyer, M.N.Namboodiri
+#REF-CODE   (J,PRL,47,639,1981)
+#REFERENCE  Phys.Rev.Lett. 47 (1981) 639 (doi:10.1103/PhysRevLett.47.639)
+#DATASETS   0
+#
+#DATASET    D8073003 
+#DATE       20240917
+#REACTION   13-AL-27(7-N-14,X)1-H-1,,DA
+#PROJ       7014
+#TARG       13027
+#MF         4
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 7014 13027   4 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014 13027   4 203  C 1.0000+8          0.261000 0.057200 0.996103                              R.Billerey+          (81)D8073  3 
+ 7014 13027   4 203  C 1.0000+8          0.192000 0.027200 0.968843                              R.Billerey+          (81)D8073  3 
+ 7014 13027   4 203  C 1.0000+8          0.189000 0.026800 0.924546                              R.Billerey+          (81)D8073  3 
+ 7014 13027   4 203  C 1.0000+8          0.188000 0.029600 0.868285                              R.Billerey+          (81)D8073  3 
+ 7014 13027   4 203  C 1.0000+8          0.173000 0.025800 0.538035                              R.Billerey+          (81)D8073  3 
+ 7014 13027   4 203  C 1.0000+8          0.151000 0.025000 0.163843                              R.Billerey+          (81)D8073  3 
+ 7014 13027   4 203  C 1.0000+8          0.178000 0.024600-0.889017                              R.Billerey+          (81)D8073  3 
+#/DATA      7
+#/DATASET

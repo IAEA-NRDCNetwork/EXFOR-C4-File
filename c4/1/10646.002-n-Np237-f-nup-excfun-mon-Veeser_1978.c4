@@ -1,0 +1,29 @@
+#ENTRY      10646
+#AUTHOR1    L.R.Veeser+
+#YEAR       1978
+#INSTITUTE  (1USALAS)
+#TITLE      Prompt neutrons from neutron-induced fission of 237Np
+#AUTHOR(S)  L.R.Veeser
+#REF-CODE   (J,PR/C,17,385,197801)
+#REFERENCE  Phys.Rev.C 17 (1978) 385 (doi:10.1103/PhysRevC.17.385)
+#DATASETS   0
+#
+#DATASET    10646002 
+#DATE       20080815
+#REACTION   93-NP-237(N,F),PR,NU
+#PROJ       1
+#TARG       93237
+#MF         1
+#MT         456
+#C4BEGIN    [    1 93237   1 456 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 93237   1 456 A  1000000. 110000.0 2.718000 0.057000                                       L.R.Veeser           (78)10646  2 
+    1 93237   1 456 A  2000000. 80000.00 2.934000 0.057000                                       L.R.Veeser           (78)10646  2 
+    1 93237   1 456 A  3000000. 60000.00 3.037000 0.056000                                       L.R.Veeser           (78)10646  2 
+    1 93237   1 456 A  6000000. 130000.0 3.495000 0.052000                                       L.R.Veeser           (78)10646  2 
+    1 93237   1 456 A  7500000. 90000.00 3.856000 0.055000                                       L.R.Veeser           (78)10646  2 
+    1 93237   1 456 A  1.4700+7 150000.0 4.785000 0.071000                                       L.R.Veeser           (78)10646  2 
+#/DATA      6
+#/DATASET

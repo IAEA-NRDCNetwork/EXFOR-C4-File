@@ -1,0 +1,33 @@
+#ENTRY      10224
+#AUTHOR1    D.C.Santry+
+#YEAR       1972
+#INSTITUTE  (1CANCRC)
+#TITLE      Excitation Curves for the Reactions of Fast Neutrons
+#+          with Zinc
+#AUTHOR(S)  D.C.Santry, J.P.Butler
+#REF-CODE   (J,CJP,50,2536,1972)
+#REFERENCE  Can.J.Phys. 50 (1972) 2536 (doi:10.1139/p72-336)
+#DATASETS   0
+#
+#DATASET    10224003 
+#DATE       20010309
+#REACTION   30-ZN-64(N,P)29-CU-64,,SIG
+#PROJ       1
+#TARG       30064
+#MF         3
+#MT         103
+#PRODUCT    29-CU-64
+#C4BEGIN    [    1 30064   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 30064   3 103 A  4860000. 20000.00 0.189000 8.0000-3                                       D.C.Santry+          (72)10224  3 
+    1 30064   3 103 A  4880000. 40000.00 0.186000 8.0000-3                                       D.C.Santry+          (72)10224  3 
+    1 30064   3 103 A  5030000. 100000.0 0.181000 7.0000-3                                       D.C.Santry+          (72)10224  3 
+    1 30064   3 103 A  5130000. 100000.0 0.189000 7.0000-3                                       D.C.Santry+          (72)10224  3 
+    1 30064   3 103 A  5330000. 80000.00 0.199000 7.0000-3                                       D.C.Santry+          (72)10224  3 
+    1 30064   3 103 A  5610000. 20000.00 0.195000 7.0000-3                                       D.C.Santry+          (72)10224  3 
+    1 30064   3 103 A  6000000. 90000.00 0.229000 7.0000-3                                       D.C.Santry+          (72)10224  3 
+    1 30064   3 103 A  6500000. 20000.00 0.259000 0.010000                                       D.C.Santry+          (72)10224  3 
+#/DATA      8
+#/DATASET

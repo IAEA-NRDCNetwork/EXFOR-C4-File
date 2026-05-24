@@ -1,0 +1,30 @@
+#ENTRY      D6465
+#AUTHOR1    S.Ali+
+#YEAR       2024
+#INSTITUTE  (3INDMUA)
+#TITLE      Systematic study of fusion suppression and its
+#+          dependency on projectile breakup threshold energy
+#AUTHOR(S)  S.Ali, M.Gull, K.Kumar, T.Ahmad, I.A.Rizvi, A.Agarwal, S.S.Ghugre, 
+#+          R.N.Ali, F.Khan
+#REF-CODE   (J,JP/G,51,015101,2024)
+#REFERENCE  J.Phys.G 51 (2024) 015101 (doi:10.1088/1361-6471/ad0a3b)
+#DATASETS   0
+#
+#DATASET    D6465002 
+#DATE       20241103
+#REACTION   41-NB-93(10-NE-20,X)50-SN-109,(CUM),SIG
+#PROJ       10020
+#TARG       41093
+#MF         3
+#MT         459
+#PRODUCT    50-SN-109
+#C4BEGIN    [10020 41093   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10020 41093   3 459 A  9.1600+7 2000000. 0.241300 0.028500           50109.9                     S.Ali+               (24)D6465  2 
+10020 41093   3 459 A  1.0090+8 2100000. 0.076800 8.5000-3           50109.9                     S.Ali+               (24)D6465  2 
+10020 41093   3 459 A  1.1280+8 2200000. 5.3000-3 8.0000-4           50109.9                     S.Ali+               (24)D6465  2 
+10020 41093   3 459 A  1.2410+8 2300000. 3.6000-4 5.0000-5           50109.9                     S.Ali+               (24)D6465  2 
+#/DATA      4
+#/DATASET

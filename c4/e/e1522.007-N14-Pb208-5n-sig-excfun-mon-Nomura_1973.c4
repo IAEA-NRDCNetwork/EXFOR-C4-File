@@ -1,0 +1,28 @@
+#ENTRY      E1522
+#AUTHOR1    T.Nomura+
+#YEAR       1973
+#INSTITUTE  (2JPNIPC)
+#TITLE      Ground-state alpha-decay of N=128 isotones 216Ra,
+#+          217Ac and 218Th
+#AUTHOR(S)  T.Nomura, K.Hiruta, T.Inamura, M.Odera
+#REF-CODE   (J,NP/A,217,253,1973)
+#REFERENCE  Nucl.Phys.A 217 (1973) 253 (doi:10.1016/0375-9474(73)90195-4)
+#DATASETS   0
+#
+#DATASET    E1522007 
+#DATE       20160510
+#REACTION   82-PB-208(7-N-14,5N)89-AC-217-G,,SIG
+#PROJ       7014
+#TARG       82208
+#MF         3
+#MT         152
+#PRODUCT    89-AC-217-G
+#C4BEGIN    [ 7014 82208   3 152G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014 82208   3 152G   8.1869+7          7.9700-3                                                T.Nomura+            (73)E1522  7 
+ 7014 82208   3 152G   9.0379+7          0.085720                                                T.Nomura+            (73)E1522  7 
+ 7014 82208   3 152G   9.6155+7          0.040230                                                T.Nomura+            (73)E1522  7 
+#/DATA      3
+#/DATASET

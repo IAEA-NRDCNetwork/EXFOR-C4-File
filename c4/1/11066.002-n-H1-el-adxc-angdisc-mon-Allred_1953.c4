@@ -1,0 +1,33 @@
+#ENTRY      11066
+#AUTHOR1    J.C.Allred+
+#YEAR       1953
+#INSTITUTE  (1USALAS)
+#TITLE      THE INTERACTION OF 14-MEV NEUTRONS WITH PROTONS AND
+#+          DEUTERONS.
+#AUTHOR(S)  J.C.Allred, A.H.Armstrong, L.Rosen
+#REF-CODE   (J,PR,91,90,5307)
+#REFERENCE  Phys.Rev. 91 (1953) 90 (doi:10.1103/PhysRev.91.90)
+#DATASETS   0
+#
+#DATASET    11066002 
+#DATE       19830909
+#REACTION   1-H-1(N,EL)1-H-1,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4   2  C 1.4100+7 100000.0 0.050700 2.3322-3 0.669100                              J.C.Allred+          (53)11066  2 
+    1  1001   4   2  C 1.4100+7 100000.0 0.049300 2.4650-3 0.392300                              J.C.Allred+          (53)11066  2 
+    1  1001   4   2  C 1.4100+7 100000.0 0.053300 2.3452-3 0.102800                              J.C.Allred+          (53)11066  2 
+    1  1001   4   2  C 1.4100+7 100000.0 0.051300 2.4111-3-0.182200                              J.C.Allred+          (53)11066  2 
+    1  1001   4   2  C 1.4100+7 100000.0 0.051800 1.8130-3-0.411600                              J.C.Allred+          (53)11066  2 
+    1  1001   4   2  C 1.4100+7 100000.0 0.053300 2.0254-3-0.665200                              J.C.Allred+          (53)11066  2 
+    1  1001   4   2  C 1.4100+7 100000.0 0.054000 1.8900-3-0.834900                              J.C.Allred+          (53)11066  2 
+    1  1001   4   2  C 1.4100+7 100000.0 0.054700 1.4222-3-0.902600                              J.C.Allred+          (53)11066  2 
+#/DATA      8
+#/DATASET

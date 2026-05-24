@@ -1,0 +1,44 @@
+#ENTRY      O0778
+#AUTHOR1    F.Groppi+
+#YEAR       2004
+#INSTITUTE  (2ITYMIL)
+#TITLE      Thin-target excitation functions and optimisation of
+#+          NCA 64Cu and 66,67Ga production by deuteron induced
+#+          nuclear reactions on natural zinc target, for
+#+          radiometabolic therapy and for PET.
+#AUTHOR(S)  F.Groppi, M.L.Bonardi, C.Birattari, L.Gini, C.Mainardi, 
+#+          E.Menapace, K.Abbas, U.Holzwarth, R.M.F.Stroosnijder
+#REF-CODE   (J,NIM/B,213,373,2004)
+#REFERENCE  Nucl.Instrum.Meth.B 213 (2004) 373 (doi:10.1016/S0168-583X(03)01632-X)
+#DATASETS   0
+#
+#DATASET    O0778007 
+#DATE       20190911
+#REACTION   30-ZN-0(D,X)30-ZN-65,(CUM),SIG
+#PROJ       1002
+#TARG       30000
+#MF         3
+#MT         459
+#PRODUCT    30-ZN-65
+#C4BEGIN    [ 1002 30000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 30000   3 459    1.8850+7          0.106000 4.2000-3           30065.9                     F.Groppi+            (04)O0778  7 
+ 1002 30000   3 459    1.7860+7          0.102000 6.3000-3           30065.9                     F.Groppi+            (04)O0778  7 
+ 1002 30000   3 459    1.6890+7          0.109000 1.6000-3           30065.9                     F.Groppi+            (04)O0778  7 
+ 1002 30000   3 459    1.5870+7          0.118600 7.6000-3           30065.9                     F.Groppi+            (04)O0778  7 
+ 1002 30000   3 459    1.4930+7          0.132900 7.0000-3           30065.9                     F.Groppi+            (04)O0778  7 
+ 1002 30000   3 459    1.3820+7          0.169900 1.3000-3           30065.9                     F.Groppi+            (04)O0778  7 
+ 1002 30000   3 459    1.2930+7          0.184900 3.3000-3           30065.9                     F.Groppi+            (04)O0778  7 
+ 1002 30000   3 459    1.2000+7          0.205600 4.9000-3           30065.9                     F.Groppi+            (04)O0778  7 
+ 1002 30000   3 459    1.1010+7          0.236400 4.8000-3           30065.9                     F.Groppi+            (04)O0778  7 
+ 1002 30000   3 459    9950000.          0.272300 4.1000-3           30065.9                     F.Groppi+            (04)O0778  7 
+ 1002 30000   3 459    9080000.          0.301000 0.015000           30065.9                     F.Groppi+            (04)O0778  7 
+ 1002 30000   3 459    8800000.          0.326800 2.2000-3           30065.9                     F.Groppi+            (04)O0778  7 
+ 1002 30000   3 459    7740000.          0.337500 1.8000-3           30065.9                     F.Groppi+            (04)O0778  7 
+ 1002 30000   3 459    6580000.          0.319900 1.3000-3           30065.9                     F.Groppi+            (04)O0778  7 
+ 1002 30000   3 459    5240000.          0.220500 1.3000-3           30065.9                     F.Groppi+            (04)O0778  7 
+ 1002 30000   3 459    3600000.          0.047460 2.5000-4           30065.9                     F.Groppi+            (04)O0778  7 
+#/DATA      16
+#/DATASET

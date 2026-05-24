@@ -1,0 +1,31 @@
+#ENTRY      A0472
+#AUTHOR1    Anil Sharma+
+#YEAR       2000
+#INSTITUTE  (3INDNSD)
+#TITLE      Incomplete fusion reactions in 16-O + 165-Ho
+#AUTHOR(S)  Anil Sharma, B.Bindu Kumar, S.Mukherjee, S.Chakrabarty, 
+#+          B.S.Tomar, A.Goswami, G.K.Gubbi, S.B.Manohar, A.K.Sinha, 
+#+          S.K.Datta
+#REF-CODE   (J,PRM,54,355,2000)
+#REFERENCE  Pramana 54 (2000) 355 (doi:10.1007/s12043-000-0127-9)
+#DATASETS   0
+#
+#DATASET    A0472005 
+#DATE       20030103
+#REACTION   67-HO-165(8-O-16,X)73-TA-175,(CUM),SIG
+#PROJ       8016
+#TARG       67165
+#MF         3
+#MT         459
+#PRODUCT    73-TA-175
+#C4BEGIN    [ 8016 67165   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 67165   3 459    7.9930+7 1100000. 0.011000 4.4000-3           73175.9                     Anil Sharma+         (00)A0472  5 
+ 8016 67165   3 459    8.4780+7 1100000. 5.6000-3 2.8000-3           73175.9                     Anil Sharma+         (00)A0472  5 
+ 8016 67165   3 459    8.9900+7 1100000. 0.011500 1.9550-3           73175.9                     Anil Sharma+         (00)A0472  5 
+ 8016 67165   3 459    9.5000+7 1100000. 0.073000 0.011680           73175.9                     Anil Sharma+         (00)A0472  5 
+ 8016 67165   3 459    9.9910+7 1100000. 0.246000 0.024600           73175.9                     Anil Sharma+         (00)A0472  5 
+#/DATA      5
+#/DATASET

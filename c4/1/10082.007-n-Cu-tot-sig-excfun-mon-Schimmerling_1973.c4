@@ -1,0 +1,39 @@
+#ENTRY      10082
+#AUTHOR1    W.Schimmerling+
+#YEAR       1973
+#INSTITUTE  (1USAPTN)
+#TITLE      Neutron-nucleus total and inelastic cross sections -
+#+          900 to 2600 MeV/c.
+#AUTHOR(S)  W.Schimmerling, T.J.Devlin, W.W.Johnson, K.G.Vosburgh, R.E.Mischke
+#REF-CODE   (J,PR/C,7,248,197301)
+#REFERENCE  Phys.Rev.C 7 (1973) 248 (doi:10.1103/PhysRevC.7.248)
+#DATASETS   0
+#
+#DATASET    10082007 
+#DATE       19811125
+#REACTION   29-CU-0(N,TOT),,SIG
+#PROJ       1
+#TARG       29000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 29000   3   1 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   3   1 A  3.7900+8          1.174000                                                W.Schimmerling+      (73)10082  7 
+    1 29000   3   1 A  4.1400+8          1.088000                                                W.Schimmerling+      (73)10082  7 
+    1 29000   3   1 A  4.5100+8          1.134000                                                W.Schimmerling+      (73)10082  7 
+    1 29000   3   1 A  4.8800+8          1.174000                                                W.Schimmerling+      (73)10082  7 
+    1 29000   3   1 A  5.4500+8          1.169000                                                W.Schimmerling+      (73)10082  7 
+    1 29000   3   1 A  6.2400+8          1.186000                                                W.Schimmerling+      (73)10082  7 
+    1 29000   3   1 A  7.0500+8          1.243000                                                W.Schimmerling+      (73)10082  7 
+    1 29000   3   1 A  7.8800+8          1.300000                                                W.Schimmerling+      (73)10082  7 
+    1 29000   3   1 A  8.7300+8          1.264000                                                W.Schimmerling+      (73)10082  7 
+    1 29000   3   1 A  9.5900+8          1.331000                                                W.Schimmerling+      (73)10082  7 
+    1 29000   3   1 A  1.0690+9          1.245000                                                W.Schimmerling+      (73)10082  7 
+    1 29000   3   1 A  1.2020+9          1.303000                                                W.Schimmerling+      (73)10082  7 
+    1 29000   3   1 A  1.3610+9          1.304000                                                W.Schimmerling+      (73)10082  7 
+    1 29000   3   1 A  1.5450+9          1.306000                                                W.Schimmerling+      (73)10082  7 
+    1 29000   3   1 A  1.7310+9          1.367000                                                W.Schimmerling+      (73)10082  7 
+#/DATA      15
+#/DATASET

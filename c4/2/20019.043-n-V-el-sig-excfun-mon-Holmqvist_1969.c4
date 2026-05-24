@@ -1,0 +1,35 @@
+#ENTRY      20019
+#AUTHOR1    B.Holmqvist+
+#YEAR       1969
+#INSTITUTE  (2SWDAE)
+#TITLE      Neutron elastic scattering cross sections experimental
+#+          data and optical model cross section calculations.-
+#AUTHOR(S)  B.Holmqvist, T.Wiedling, S.G.Johansson, G.Lodin, A.Kiss, 
+#+          B.Gustavsson, B.Antolkovic
+#REF-CODE   (R,AE-366,1969)
+#REFERENCE  Report AE-366, 1969
+#DATASETS   0
+#
+#DATASET    20019043 
+#DATE       20190114
+#REACTION   23-V-0(N,EL)23-V-0,,SIG
+#PROJ       1
+#TARG       23000
+#MF         3
+#MT         2
+#PRODUCT    23-V-0
+#C4BEGIN    [    1 23000   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 23000   3   2 D  2470000. 50000.00 2.450000 0.120000                                       B.Holmqvist+         (69)20019 43 
+    1 23000   3   2 D  3000000. 50000.00 2.660000 0.130000                                       B.Holmqvist+         (69)20019 43 
+    1 23000   3   2 D  3490000. 50000.00 2.490000 0.120000                                       B.Holmqvist+         (69)20019 43 
+    1 23000   3   2 D  4000000. 50000.00 2.610000 0.130000                                       B.Holmqvist+         (69)20019 43 
+    1 23000   3   2 D  4560000. 50000.00 2.400000 0.120000                                       B.Holmqvist+         (69)20019 43 
+    1 23000   3   2 D  5500000. 90000.00 2.050000 0.100000                                       B.Holmqvist+         (69)20019 43 
+    1 23000   3   2 D  6090000. 90000.00 2.000000 0.100000                                       B.Holmqvist+         (69)20019 43 
+    1 23000   3   2 D  7050000. 90000.00 1.960000 0.100000                                       B.Holmqvist+         (69)20019 43 
+    1 23000   3   2 D  8050000. 90000.00 1.850000 0.090000                                       B.Holmqvist+         (69)20019 43 
+#/DATA      9
+#/DATASET

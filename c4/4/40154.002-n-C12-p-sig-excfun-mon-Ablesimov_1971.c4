@@ -1,0 +1,27 @@
+#ENTRY      40154
+#AUTHOR1    V.E.Ablesimov+
+#YEAR       1971
+#INSTITUTE  (4RUSKUR)
+#TITLE      The cross-section for the C-12(N,P)B-12 reaction
+#+          near the threshold
+#AUTHOR(S)  V.E.Ablesimov, E.K.Bonyushkin, A.P.Morozov
+#REF-CODE   (C,71KIEV,1,173,1971)
+#REFERENCE  Proceedings of Neutron Physics Conf., Kiev 1971 1 page 173
+#DATASETS   0
+#
+#DATASET    40154002 
+#DATE       20210729
+#REACTION   6-C-12(N,P)5-B-12,,SIG
+#PROJ       1
+#TARG       6012
+#MF         3
+#MT         103
+#PRODUCT    5-B-12
+#C4BEGIN    [    1  6012   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   3 103    1.4100+7 200000.0 8.0000-4 2.0000-4                                       V.E.Ablesimov+       (71)40154  2 
+    1  6012   3 103    1.4800+7 200000.0 1.2000-3 2.0000-4                                       V.E.Ablesimov+       (71)40154  2 
+#/DATA      2
+#/DATASET

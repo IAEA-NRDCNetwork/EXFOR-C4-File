@@ -1,0 +1,35 @@
+#ENTRY      21122
+#AUTHOR1    G.J.Mc Callum+
+#YEAR       1960
+#INSTITUTE  (2UK HAR)
+#TITLE      -NEUTRON TOTAL CROSS-SECTIONS IN THE 12 TO 21 MEV
+#+          REGION-
+#AUTHOR(S)  G.J.Mc Callum, G.S.Mani, A.T.G.Ferguson
+#REF-CODE   (J,NP,16,313,6005)
+#REFERENCE  Nucl.Phys. 16 (1960) 313 (doi:10.1016/S0029-5582(60)81039-5)
+#DATASETS   0
+#
+#DATASET    21122004 
+#DATE       19800331
+#REACTION   26-FE-0(N,TOT),,SIG
+#PROJ       1
+#TARG       26000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 26000   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   3   1    1.2790+7          2.810000                                                G.J.Mc Callum+       (60)21122  4 
+    1 26000   3   1    1.4290+7          2.630000                                                G.J.Mc Callum+       (60)21122  4 
+    1 26000   3   1    1.5090+7          2.560000                                                G.J.Mc Callum+       (60)21122  4 
+    1 26000   3   1    1.5640+7          2.550000                                                G.J.Mc Callum+       (60)21122  4 
+    1 26000   3   1    1.6450+7          2.510000                                                G.J.Mc Callum+       (60)21122  4 
+    1 26000   3   1    1.7170+7          2.420000                                                G.J.Mc Callum+       (60)21122  4 
+    1 26000   3   1    1.7760+7          2.490000                                                G.J.Mc Callum+       (60)21122  4 
+    1 26000   3   1    1.8150+7          2.450000                                                G.J.Mc Callum+       (60)21122  4 
+    1 26000   3   1    1.9240+7          2.400000                                                G.J.Mc Callum+       (60)21122  4 
+    1 26000   3   1    2.0020+7          2.350000                                                G.J.Mc Callum+       (60)21122  4 
+    1 26000   3   1    2.0800+7          2.410000                                                G.J.Mc Callum+       (60)21122  4 
+#/DATA      11
+#/DATASET

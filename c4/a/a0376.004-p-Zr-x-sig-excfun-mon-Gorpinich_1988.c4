@@ -1,0 +1,40 @@
+#ENTRY      A0376
+#AUTHOR1    O.K.Gorpinich+
+#YEAR       1988
+#INSTITUTE  (4UKRIJD)
+#TITLE      Excitation functions of (p,4pxn) reaction on Zr nuclei
+#+          at proton energy up to 70 MeV
+#AUTHOR(S)  O.K.Gorpinich, S.N.Kondrat'ev, V.A.Kuz'menko, Ju.N.Lobach, 
+#+          S.B.Rakitin, V.S.Prokopenko, V.D.Skljarenko, V.V.Tokarevskij
+#REF-CODE   (C,88BAKU,,310,1988)
+#REFERENCE  Proceedings of 38.Conf.Nucl.Spectrosc.and Nucl.Struct., Baku 1988 page 310
+#DATASETS   0
+#
+#DATASET    A0376004 
+#DATE       20220802
+#REACTION   40-ZR-0(P,X)37-RB-84,,SIG
+#PROJ       1001
+#TARG       40000
+#MF         3
+#MT         454
+#PRODUCT    37-RB-84
+#C4BEGIN    [ 1001 40000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40000   3 454    4.7500+7          2.8000-5 4.0000-6           37084.9                     O.K.Gorpinich+       (88)A0376  4 
+ 1001 40000   3 454    4.9000+7          4.4000-5 6.0000-6           37084.9                     O.K.Gorpinich+       (88)A0376  4 
+ 1001 40000   3 454    5.0000+7          4.9000-5 5.0000-6           37084.9                     O.K.Gorpinich+       (88)A0376  4 
+ 1001 40000   3 454    5.1000+7          4.8000-5 7.0000-6           37084.9                     O.K.Gorpinich+       (88)A0376  4 
+ 1001 40000   3 454    5.2000+7          7.6000-5 1.1000-5           37084.9                     O.K.Gorpinich+       (88)A0376  4 
+ 1001 40000   3 454    5.3000+7          1.5100-4 1.2000-5           37084.9                     O.K.Gorpinich+       (88)A0376  4 
+ 1001 40000   3 454    5.5000+7          2.5000-4 3.0000-5           37084.9                     O.K.Gorpinich+       (88)A0376  4 
+ 1001 40000   3 454    5.6500+7          2.6000-4 4.0000-5           37084.9                     O.K.Gorpinich+       (88)A0376  4 
+ 1001 40000   3 454    6.0000+7          5.6000-4 7.0000-5           37084.9                     O.K.Gorpinich+       (88)A0376  4 
+ 1001 40000   3 454    6.2000+7          7.4000-4 1.2000-4           37084.9                     O.K.Gorpinich+       (88)A0376  4 
+ 1001 40000   3 454    6.4000+7          1.0500-3 1.6000-4           37084.9                     O.K.Gorpinich+       (88)A0376  4 
+ 1001 40000   3 454    6.5000+7          1.0900-3 1.4000-4           37084.9                     O.K.Gorpinich+       (88)A0376  4 
+ 1001 40000   3 454    6.7000+7          1.2300-3 1.3000-4           37084.9                     O.K.Gorpinich+       (88)A0376  4 
+ 1001 40000   3 454    6.8000+7          1.1100-3 1.1000-4           37084.9                     O.K.Gorpinich+       (88)A0376  4 
+#/DATA      14
+#/DATASET

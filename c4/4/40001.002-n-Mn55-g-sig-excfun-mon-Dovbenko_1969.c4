@@ -1,0 +1,47 @@
+#ENTRY      40001
+#AUTHOR1    A.G.Dovbenko+
+#YEAR       1969
+#INSTITUTE  (4RUSFEI)
+#TITLE      Cross sections of Mn-55, Ga-69, Ga-71 and Mo-98 for
+#+          radiative capture of fast neutrons.
+#AUTHOR(S)  A.G.Dovbenko, V.E.Kolesov, V.P.Koroleva, V.A.Tolstikov
+#REF-CODE   (J,SJA,26,82,1969)
+#REFERENCE  Sov.At.Energy 26 (1969) 82 (doi:10.1007/BF01155419)
+#DATASETS   0
+#
+#DATASET    40001002 
+#DATE       20220119
+#REACTION   25-MN-55(N,G)25-MN-56,,SIG
+#PROJ       1
+#TARG       25055
+#MF         3
+#MT         102
+#PRODUCT    25-MN-56
+#C4BEGIN    [    1 25055   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 25055   3 102    418000.0          4.5100-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    529000.0          3.7400-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    635000.0          3.5500-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    708000.0          3.2200-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    740000.0          3.3500-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    795000.0          3.3100-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    887000.0          3.2300-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    950000.0          2.7000-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    975000.0          2.8500-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    1052000.          2.5800-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    1154000.          2.4600-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    1256000.          2.4200-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    1430000.          2.0400-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    1553000.          2.0300-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    1630000.          1.9100-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    1945000.          1.7200-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    2147000.          1.5700-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    2348000.          1.6500-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    2746000.          1.6700-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    3050000.          1.4700-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    3257000.          1.4500-3                                                A.G.Dovbenko+        (69)40001  2 
+    1 25055   3 102    3430000.          1.3600-3                                                A.G.Dovbenko+        (69)40001  2 
+#/DATA      22
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      E1950
+#AUTHOR1    M.Koike+
+#YEAR       1967
+#INSTITUTE  (2JPNTOK)
+#TITLE      Elastic and inelastic scattering of 14 MeV protons
+#+          from 111Cd, 112Cd and 113Cd
+#AUTHOR(S)  M.Koike
+#REF-CODE   (J,NP/A,98,(2),209,196705)
+#REFERENCE  Nucl.Phys.A 98 No.2 (1967) 209 (doi:10.1016/0375-9474(67)90135-2)
+#DATASETS   0
+#
+#DATASET    E1950020 
+#DATE       20060906
+#REACTION   48-CD-112(P,INL)48-CD-112,PAR,DA
+#PROJ       1001
+#TARG       48112
+#MF         4
+#MT         601
+#PRODUCT    48-CD-112
+#C4BEGIN    [ 1001 48112   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 48112   4 601    1.4702+7 20000.00 1.4600-4 6.2000-5 0.866025          3411000.         LVLM.Koike              (67)E1950 20 
+ 1001 48112   4 601    1.4702+7 20000.00 4.1000-5 1.9000-5 0.766044          3411000.         LVLM.Koike              (67)E1950 20 
+ 1001 48112   4 601    1.4702+7 20000.00 3.6900-5 9.6000-6 6.123-17          3411000.         LVLM.Koike              (67)E1950 20 
+ 1001 48112   4 601    1.4702+7 20000.00 2.1000-5 1.2000-5-0.173648          3411000.         LVLM.Koike              (67)E1950 20 
+ 1001 48112   4 601    1.4702+7 20000.00 2.8000-5 6.0000-6-0.342020          3411000.         LVLM.Koike              (67)E1950 20 
+#/DATA      5
+#/DATASET

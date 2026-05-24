@@ -1,0 +1,36 @@
+#ENTRY      C2016
+#AUTHOR1    J.C.Brodovitch+
+#YEAR       1976
+#INSTITUTE  (1CANMCG)
+#TITLE      The pre-equilibrium statistical model: comparison of
+#+          calculation with two (p,xn) reactions
+#AUTHOR(S)  J.C.Brodovitch, J.J.Hogan, K.I.Burns
+#REF-CODE   (J,JIN,38,1581,1976)
+#REFERENCE  J.Inorg.Nucl.Chem. 38 (1976) 1581 (doi:10.1016/0022-1902(76)80639-2)
+#DATASETS   0
+#
+#DATASET    C2016003 
+#DATE       20130708
+#REACTION   33-AS-75(P,3N)34-SE-73,,SIG
+#PROJ       1001
+#TARG       33075
+#MF         3
+#MT         17
+#PRODUCT    34-SE-73
+#C4BEGIN    [ 1001 33075   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 33075   3  17    3.0000+7          0.215000 0.012000                                       J.C.Brodovitch+      (76)C2016  3 
+ 1001 33075   3  17    3.5000+7          0.336000 0.018000                                       J.C.Brodovitch+      (76)C2016  3 
+ 1001 33075   3  17    4.0000+7          0.226000 0.013000                                       J.C.Brodovitch+      (76)C2016  3 
+ 1001 33075   3  17    4.5000+7          0.128000 7.0000-3                                       J.C.Brodovitch+      (76)C2016  3 
+ 1001 33075   3  17    5.0000+7          0.068000 4.0000-3                                       J.C.Brodovitch+      (76)C2016  3 
+ 1001 33075   3  17    5.5000+7          0.061000 4.0000-3                                       J.C.Brodovitch+      (76)C2016  3 
+ 1001 33075   3  17    6.0000+7          0.045000 3.0000-3                                       J.C.Brodovitch+      (76)C2016  3 
+ 1001 33075   3  17    6.5000+7          0.049000 4.0000-3                                       J.C.Brodovitch+      (76)C2016  3 
+ 1001 33075   3  17    7.0000+7          0.041000 3.0000-3                                       J.C.Brodovitch+      (76)C2016  3 
+ 1001 33075   3  17    7.5000+7          0.035000 3.0000-3                                       J.C.Brodovitch+      (76)C2016  3 
+ 1001 33075   3  17    8.0000+7          0.031000 2.0000-3                                       J.C.Brodovitch+      (76)C2016  3 
+#/DATA      11
+#/DATASET

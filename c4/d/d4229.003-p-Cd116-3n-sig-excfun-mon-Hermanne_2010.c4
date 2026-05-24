@@ -1,0 +1,41 @@
+#ENTRY      D4229
+#AUTHOR1    A.Hermanne+
+#YEAR       2010
+#INSTITUTE  (2BLGVUB)
+#TITLE      Production of the therapeutic radioisotope 114mIn
+#+          through the 116Cd(p,3n)114mIn reaction
+#AUTHOR(S)  A.Hermanne, F.Tarkanyi, S.Takacs, P.Vandenwinkel, R.Adamrebeles, 
+#+          A.Ignatyuk, S.F.Kovalev
+#REF-CODE   (J,ARI,68,14,2010)
+#REFERENCE  Appl.Radiat.Isot. 68 (2010) 14 (doi:10.1016/j.apradiso.2009.08.014)
+#DATASETS   0
+#
+#DATASET    D4229003 
+#DATE       20091105
+#REACTION   48-CD-116(P,3N)49-IN-114-M,,SIG
+#PROJ       1001
+#TARG       48116
+#MF         3
+#MT         17
+#PRODUCT    49-IN-114-M
+#C4BEGIN    [ 1001 48116   3  17MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 48116   3  17MA  3.6800+7 100000.0 0.293700 0.023000                                       A.Hermanne+          (10)D4229  3 
+ 1001 48116   3  17MA  3.5700+7 200000.0 0.318100 0.025000                                       A.Hermanne+          (10)D4229  3 
+ 1001 48116   3  17MA  3.4500+7 200000.0 0.332400 0.027000                                       A.Hermanne+          (10)D4229  3 
+ 1001 48116   3  17MA  3.3400+7 300000.0 0.418000 0.033000                                       A.Hermanne+          (10)D4229  3 
+ 1001 48116   3  17MA  3.2200+7 400000.0 0.518900 0.042000                                       A.Hermanne+          (10)D4229  3 
+ 1001 48116   3  17MA  3.1000+7 500000.0 0.578600 0.046000                                       A.Hermanne+          (10)D4229  3 
+ 1001 48116   3  17MA  2.9700+7 600000.0 0.671600 0.054000                                       A.Hermanne+          (10)D4229  3 
+ 1001 48116   3  17MA  2.8400+7 700000.0 0.727100 0.058000                                       A.Hermanne+          (10)D4229  3 
+ 1001 48116   3  17MA  2.7000+7 800000.0 0.730500 0.058000                                       A.Hermanne+          (10)D4229  3 
+ 1001 48116   3  17MA  2.5600+7 900000.0 0.719900 0.058000                                       A.Hermanne+          (10)D4229  3 
+ 1001 48116   3  17MA  2.4200+7 1000000. 0.572700 0.046000                                       A.Hermanne+          (10)D4229  3 
+ 1001 48116   3  17MA  2.2600+7 1200000. 0.434600 0.035000                                       A.Hermanne+          (10)D4229  3 
+ 1001 48116   3  17MA  2.1000+7 1400000. 0.230100 0.018000                                       A.Hermanne+          (10)D4229  3 
+ 1001 48116   3  17MA  1.9300+7 1600000. 0.053600 4.0000-3                                       A.Hermanne+          (10)D4229  3 
+ 1001 48116   3  17MA  1.7400+7 1800000. 3.0000-4 1.0000-4                                       A.Hermanne+          (10)D4229  3 
+#/DATA      15
+#/DATASET

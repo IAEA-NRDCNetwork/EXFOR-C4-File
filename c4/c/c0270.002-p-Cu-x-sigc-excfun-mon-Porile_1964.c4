@@ -1,0 +1,26 @@
+#ENTRY      C0270
+#AUTHOR1    N.T.Porile+
+#YEAR       1964
+#INSTITUTE  (1USABNL)
+#TITLE      Formation of Sodium and Potassium Nuclides in the
+#+          Bombardment of Light Elements with 29-GeV Protons
+#AUTHOR(S)  N.T.Porile, S.Tanaka
+#REF-CODE   (J,PR,135,B122,1964)
+#REFERENCE  Phys.Rev. 135 (1964) B122 (doi:10.1103/PhysRev.135.B122)
+#DATASETS   0
+#
+#DATASET    C0270002 
+#DATE       19961009
+#REACTION   29-CU-0(P,X)11-NA-22,CUM,SIG
+#PROJ       1001
+#TARG       29000
+#MF         3
+#MT         459
+#PRODUCT    11-NA-22
+#C4BEGIN    [ 1001 29000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   3 459    2.900+10          3.0000-3 2.0000-4           11022.9                     N.T.Porile+          (64)C0270  2 
+#/DATA      1
+#/DATASET

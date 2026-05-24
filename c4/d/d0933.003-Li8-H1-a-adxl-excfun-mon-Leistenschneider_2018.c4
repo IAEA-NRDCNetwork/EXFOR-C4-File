@@ -1,0 +1,57 @@
+#ENTRY      D0933
+#AUTHOR1    E.Leistenschneider+
+#YEAR       2018
+#INSTITUTE  (3BZLUSP)
+#TITLE      Spectroscopy of high-lying resonances in 9Be by the
+#+          measurement of (p,p), (p,d), and (p,a) reactions with
+#+          a radioactive 8Li beam
+#AUTHOR(S)  E.Leistenschneider, A.Lepine-Szily, M.A.G.Alvarez, D.R.Mendes Jr, 
+#+          R.Lichtenthaeler, V.A.P.Aguiar, M.Assuncao, R.Pampa Condori, 
+#+          U.U.da Silva, P.N.de Faria, N.Deshmukh, J.G.Duarte, L.R.Gasques, 
+#+          V.Guimaraes, E.L.A.Macchione, M.C.Morais, V.Morcelle, K.C.C.Pires, 
+#+          V.B.Scarduelli, G.Scotton, J.M.B.Shorto, V.A.B.Zagatto
+#REF-CODE   (J,PR/C,98,064601,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 064601 (doi:10.1103/PhysRevC.98.064601)
+#DATASETS   0
+#
+#DATASET    D0933003 
+#DATE       20200812
+#REACTION   1-H-1(3-LI-8,A)2-HE-5,,DA
+#PROJ       3008
+#TARG       1001
+#MF         4
+#MT         107
+#PRODUCT    2-HE-5
+#C4BEGIN    [ 3008  1001   4 107 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3008  1001   4 107 A  6684603.          5.8000-3 4.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  6935511.          5.0000-3 4.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  7186420.          1.2000-3 4.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  8243832.          3.2000-3 4.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  8521629.          2.5000-3 4.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  8799427.          6.2000-3 4.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  9668673.          1.0000-4 4.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.0260+7          1.1000-3 4.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.0565+7          7.0000-4 4.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.0878+7          1.7000-3 4.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.1183+7          1.0000-3 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.1497+7          1.8000-3 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.1810+7          5.8000-3 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.2133+7          7.3000-3 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.2456+7          8.1000-3 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.2769+7          0.012800 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.3092+7          0.011700 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.3406+7          0.016000 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.3728+7          0.016900 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.4033+7          0.020200 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.4338+7          0.021900 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.4633+7          0.019200 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.4920+7          0.018000 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.5198+7          0.017600 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.5458+7          0.018600 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.5709+7          0.013200 3.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+ 3008  1001   4 107 A  1.5933+7          0.013700 4.0000-3 0.951057                              E.Leistenschneider+  (18)D0933  3 
+#/DATA      27
+#/DATASET

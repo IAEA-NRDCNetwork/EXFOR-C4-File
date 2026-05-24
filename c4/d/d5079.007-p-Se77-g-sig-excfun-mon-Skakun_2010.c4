@@ -1,0 +1,47 @@
+#ENTRY      D5079
+#AUTHOR1    Ye.Skakun+
+#YEAR       2010
+#INSTITUTE  (4UKRKFT)
+#TITLE      Cross sections of low energy (p,g) and (p,n) -
+#+          reactions on selenium isotopes as nuclear data for
+#+          the astrophysical gamma-process
+#AUTHOR(S)  Ye.Skakun, S.Utenkov, V.Mishchenko, J.Farkas, Zs.Fulop, 
+#+          Gy.Gyurky, G.G.Kiss, E.Somorjai, T.Rauscher
+#REF-CODE   (C,2010KYIV,,207,2010)
+#REFERENCE  Proceedings of 3 Int.Conf.Cur.Prob.in Nucl.Phys.Atom.Ene.,Kyiv,2010 page 207
+#DATASETS   0
+#
+#DATASET    D5079007 
+#DATE       20240312
+#REACTION   34-SE-77(P,G)35-BR-78,,SIG,,SFC
+#PROJ       1001
+#TARG       34077
+#MF         3
+#MT         102
+#PRODUCT    35-BR-78
+#C4BEGIN    [ 1001 34077   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 34077   3 102    1774976.          5.4050-5 7.6617-6                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    1869197.          8.7322-5 1.3098-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    1978615.          1.3982-4 1.9117-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    2066757.          2.1798-4 2.9513-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    2069797.          2.5876-4 3.7314-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    2165031.          3.4108-4 4.7310-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    2277489.          3.0441-4 4.1572-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    2375763.          2.6475-4 3.3109-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    2378802.          3.0167-4 4.3791-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    2468971.          1.3051-4 1.7831-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    2576364.          1.8326-4 2.5444-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    2670586.          1.0790-4 1.4440-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    2770886.          1.1898-4 1.5789-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    2975541.          1.7840-4 2.1365-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    3074829.          1.9052-4 2.7014-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    3175131.          1.7214-4 2.8066-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    3274419.          2.8599-4 3.6355-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    3381813.          4.1446-4 5.0621-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    3479075.          3.3455-4 5.5758-5                                       Ye.Skakun+           (10)D5079  7 
+ 1001 34077   3 102    3584443.          7.4299-4 1.2130-4                                       Ye.Skakun+           (10)D5079  7 
+#/DATA      20
+#/DATASET

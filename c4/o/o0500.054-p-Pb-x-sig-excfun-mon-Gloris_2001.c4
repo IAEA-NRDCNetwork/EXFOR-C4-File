@@ -1,0 +1,34 @@
+#ENTRY      O0500
+#AUTHOR1    M.Gloris+
+#YEAR       2001
+#INSTITUTE  (2GERUH)
+#TITLE      Proton-induced production of residual radionuclides
+#+          in lead at intermediate energies
+#AUTHOR(S)  M.Gloris, R.Michel, F.Sudbrok, U.Herpers, P.Malmborg, B.Holmqvist
+#REF-CODE   (J,NIM/A,463,593,2001)
+#REFERENCE  Nucl.Instrum.Meth.A 463 (2001) 593 (doi:10.1016/S0168-9002(01)00174-7)
+#DATASETS   0
+#
+#DATASET    O0500054 
+#DATE       20220107
+#REACTION   82-PB-0(P,X)53-I-124,,SIG
+#PROJ       1001
+#TARG       82000
+#MF         3
+#MT         454
+#PRODUCT    53-I-124
+#C4BEGIN    [ 1001 82000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82000   3 454    2.7200+8 1000000. 5.3800-4 7.3000-5           53124.9                     M.Gloris+            (01)O0500 54 
+ 1001 82000   3 454    3.2200+8 2000000. 4.7500-4 9.3000-5           53124.9                     M.Gloris+            (01)O0500 54 
+ 1001 82000   3 454    5.5300+8 2000000. 5.8800-4 9.8000-5           53124.9                     M.Gloris+            (01)O0500 54 
+ 1001 82000   3 454    7.5900+8 1000000. 6.9700-4 1.8500-4           53124.9                     M.Gloris+            (01)O0500 54 
+ 1001 82000   3 454    9.9600+8 1000000. 6.0000-4 8.2000-5           53124.9                     M.Gloris+            (01)O0500 54 
+ 1001 82000   3 454    1.1700+9 1000000. 5.5100-4 1.3000-4           53124.9                     M.Gloris+            (01)O0500 54 
+ 1001 82000   3 454    1.3900+9 1000000. 5.9100-4 8.1000-5           53124.9                     M.Gloris+            (01)O0500 54 
+ 1001 82000   3 454    1.5700+9 1000000. 5.3400-4 1.1100-4           53124.9                     M.Gloris+            (01)O0500 54 
+ 1001 82000   3 454    2.5900+9 1000000. 3.7400-4 6.1000-5           53124.9                     M.Gloris+            (01)O0500 54 
+#/DATA      9
+#/DATASET

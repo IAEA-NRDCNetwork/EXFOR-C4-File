@@ -1,0 +1,31 @@
+#ENTRY      F1322
+#AUTHOR1    L.N.Generalov+
+#YEAR       2017
+#INSTITUTE  (4RUSEPA)
+#TITLE      Activation measurements of the integral cross
+#+          sections of reactions 7Li(p,n0+n1)7Be(gs),
+#+          6Li(d,n0+n1)7Be(gs), 7Li(d,2n)7Be(gs), 65Cu(p,n)65Zn,
+#+          65Cu(d,2n)65Zn, 63Cu(d,g)65Zn.
+#AUTHOR(S)  L.N.Generalov, S.N.Abramovich, S.M.Selyankina
+#REF-CODE   (J,IZV,81,717,2017)
+#REFERENCE  Izv.Ross.AN,Fiz. 81 (2017) 717
+#DATASETS   0
+#
+#DATASET    F1322010 
+#DATE       20210626
+#REACTION   3-LI-7(D,2N)4-BE-7,,SIG
+#PROJ       1002
+#TARG       3007
+#MF         3
+#MT         16
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1002  3007   3  16 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3007   3  16 C  5440000.          2.8000-3 3.6400-4                                       L.N.Generalov+       (17)F1322 10 
+ 1002  3007   3  16 C  5730000.          0.017000 5.4400-4                                       L.N.Generalov+       (17)F1322 10 
+ 1002  3007   3  16 C  6780000.          0.023700 1.2324-3                                       L.N.Generalov+       (17)F1322 10 
+ 1002  3007   3  16 C  7700000.          0.039100 6.2560-4                                       L.N.Generalov+       (17)F1322 10 
+#/DATA      4
+#/DATASET

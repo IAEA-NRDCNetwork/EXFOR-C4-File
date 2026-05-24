@@ -1,0 +1,38 @@
+#ENTRY      E0817
+#AUTHOR1    K.Hosono+
+#YEAR       1982
+#INSTITUTE  (2JPNOSA)
+#TITLE      ANALYZING POWERS FOR PROTON INELASTIC SCATTERING TO
+#+          UNNATURAL-PARITY STATES IN 40CA AND 28SI
+#AUTHOR(S)  K.Hosono, N.Matsuoka, K.Hatanaka, T.Saito, T.Noro, M.Kondo, 
+#+          S.Kato, K.Okada, K.Ogino, Y.Kadota
+#REF-CODE   (J,PR/C,26,1440,82)
+#REFERENCE  Phys.Rev.C 26 (1982) 1440 (doi:10.1103/PhysRevC.26.1440)
+#DATASETS   0
+#
+#DATASET    E0817002 
+#DATE       19881025
+#REACTION   20-CA-40(P,INL)20-CA-40,PAR,DA
+#PROJ       1001
+#TARG       20040
+#MF         4
+#MT         601
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 1001 20040   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20040   4 601  C 6.5000+7          1.9670-4          0.965486          6026000.         LVLK.Hosono+            (82)E0817  2 
+ 1001 20040   4 601  C 6.5000+7          1.5400-4          0.941223          6026000.         LVLK.Hosono+            (82)E0817  2 
+ 1001 20040   4 601  C 6.5000+7          1.4540-4          0.913545          6026000.         LVLK.Hosono+            (82)E0817  2 
+ 1001 20040   4 601  C 6.5000+7          1.0750-4          0.860911          6026000.         LVLK.Hosono+            (82)E0817  2 
+ 1001 20040   4 601  C 6.5000+7          9.0420-5          0.805028          6026000.         LVLK.Hosono+            (82)E0817  2 
+ 1001 20040   4 601  C 6.5000+7          6.4940-5          0.740875          6026000.         LVLK.Hosono+            (82)E0817  2 
+ 1001 20040   4 601  C 6.5000+7          4.4030-5          0.727114          6026000.         LVLK.Hosono+            (82)E0817  2 
+ 1001 20040   4 601  C 6.5000+7          2.5480-5          0.693842          6026000.         LVLK.Hosono+            (82)E0817  2 
+ 1001 20040   4 601  C 6.5000+7          1.4330-5          0.638459          6026000.         LVLK.Hosono+            (82)E0817  2 
+ 1001 20040   4 601  C 6.5000+7          1.1720-5          0.568490          6026000.         LVLK.Hosono+            (82)E0817  2 
+ 1001 20040   4 601  C 6.5000+7          8.9130-6          0.494139          6026000.         LVLK.Hosono+            (82)E0817  2 
+ 1001 20040   4 601  C 6.5000+7          8.5360-6          0.397452          6026000.         LVLK.Hosono+            (82)E0817  2 
+#/DATA      12
+#/DATASET

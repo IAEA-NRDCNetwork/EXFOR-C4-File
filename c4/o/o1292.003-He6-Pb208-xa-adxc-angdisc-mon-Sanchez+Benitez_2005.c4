@@ -1,0 +1,44 @@
+#ENTRY      O1292
+#AUTHOR1    A.M.Sanchez-Benitez+
+#YEAR       2005
+#INSTITUTE  (2SPNHLV)
+#TITLE      Scattering of He-6 at energies around the Coulomb
+#+          barrier
+#AUTHOR(S)  A.M.Sanchez-Benitez, D.Escrig, M.A.G.Alvarez, M.V.Andres, 
+#+          C.Angulo, M.J.G.Borge, J.Cabrera, S.Cherubini, J.M.Espino, 
+#+          P.Figuera, M.Freer, J.E.Garcia-Ramos, J.Gomez-Camacho, M.Gulino, 
+#+          O.R.Kakuee, I.Martel, C.Metelco, A.M.Moro, J.Rahighi, K.Rusek, 
+#+          D.Smirnov, O.Tengbland, P.Van Dupper, V.Ziman
+#REF-CODE   (J,JP/G,31,S1953,2005)
+#REFERENCE  J.Phys.G 31 (2005) S1953 (doi:10.1088/0954-3899/31/10/109)
+#DATASETS   0
+#
+#DATASET    O1292003 
+#DATE       20230521
+#REACTION   82-PB-208(2-HE-6,X)2-HE-4,,DA
+#PROJ       2006
+#TARG       82208
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 2006 82208   4 207 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 82208   4 207 AC 2.2000+7          0.076000 9.8800-3-0.694658                              A.M.Sanchez-Benitez+ (05)O1292  3 
+ 2006 82208   4 207 AC 2.2000+7          0.069000 8.9700-3-0.716911                              A.M.Sanchez-Benitez+ (05)O1292  3 
+ 2006 82208   4 207 AC 2.2000+7          0.059000 0.012980-0.736097                              A.M.Sanchez-Benitez+ (05)O1292  3 
+ 2006 82208   4 207 AC 2.2000+7          0.073000 0.010220-0.754710                              A.M.Sanchez-Benitez+ (05)O1292  3 
+ 2006 82208   4 207 AC 2.2000+7          0.055000 9.9000-3-0.772734                              A.M.Sanchez-Benitez+ (05)O1292  3 
+ 2006 82208   4 207 AC 2.2000+7          0.054000 7.0200-3-0.794415                              A.M.Sanchez-Benitez+ (05)O1292  3 
+ 2006 82208   4 207 AC 2.2000+7          0.062000 0.014260-0.818150                              A.M.Sanchez-Benitez+ (05)O1292  3 
+ 2006 82208   4 207 AC 2.2000+7          0.058000 9.8600-3-0.838671                              A.M.Sanchez-Benitez+ (05)O1292  3 
+ 2006 82208   4 207 AC 2.2000+7          0.069000 0.013110-0.855364                              A.M.Sanchez-Benitez+ (05)O1292  3 
+ 2006 82208   4 207 AC 2.2000+7          0.049000 8.8200-3-0.878817                              A.M.Sanchez-Benitez+ (05)O1292  3 
+ 2006 82208   4 207 AC 2.2000+7          0.065000 0.011700-0.898794                              A.M.Sanchez-Benitez+ (05)O1292  3 
+ 2006 82208   4 207 AC 2.2000+7          0.061000 9.7600-3-0.915663                              A.M.Sanchez-Benitez+ (05)O1292  3 
+ 2006 82208   4 207 AC 2.2000+7          0.070000 0.014000-0.936672                              A.M.Sanchez-Benitez+ (05)O1292  3 
+ 2006 82208   4 207 AC 2.2000+7          0.058000 0.012760-0.952129                              A.M.Sanchez-Benitez+ (05)O1292  3 
+ 2006 82208   4 207 AC 2.2000+7          0.054000 0.021600-0.961741                              A.M.Sanchez-Benitez+ (05)O1292  3 
+#/DATA      15
+#/DATASET

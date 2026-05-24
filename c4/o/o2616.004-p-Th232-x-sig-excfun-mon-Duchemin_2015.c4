@@ -1,0 +1,29 @@
+#ENTRY      O2616
+#AUTHOR1    C.Duchemin+
+#YEAR       2015
+#INSTITUTE  (2FR NTE)
+#TITLE      Production of medical isotopes from a thorium target
+#+          irradiated by light charged particles up to 70 MeV
+#AUTHOR(S)  C.Duchemin, A.Guertin, F.Haddad, N.Michel, V.Metivier
+#REF-CODE   (J,PMB,60,931,2015)
+#REFERENCE  Phys.Med.Biol. 60 (2015) 931 (doi:10.1088/0031-9155/60/3/931)
+#DATASETS   0
+#
+#DATASET    O2616004 
+#DATE       20240827
+#REACTION   90-TH-232(P,X)89-AC-225,,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         454
+#PRODUCT    89-AC-225
+#C4BEGIN    [ 1001 90232   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3 454    4.1060+7 790000.0 1.0900-3 7.3000-4           89225.9                     C.Duchemin+          (15)O2616  4 
+ 1001 90232   3 454    4.5920+7 560000.0 4.1400-3 8.1000-4           89225.9                     C.Duchemin+          (15)O2616  4 
+ 1001 90232   3 454    5.7680+7 1030000. 7.2300-3 1.5400-3           89225.9                     C.Duchemin+          (15)O2616  4 
+ 1001 90232   3 454    7.0120+7 530000.0 6.1300-3 1.5200-3           89225.9                     C.Duchemin+          (15)O2616  4 
+#/DATA      4
+#/DATASET

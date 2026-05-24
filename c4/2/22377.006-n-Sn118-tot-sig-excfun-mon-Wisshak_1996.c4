@@ -1,0 +1,34 @@
+#ENTRY      22377
+#AUTHOR1    K.Wisshak+
+#YEAR       1996
+#INSTITUTE  (2GERKFK)
+#TITLE      STELLAR NEUTRON CAPTURE CROSS SECTIONS OF THE TIN
+#+          ISOTOPES
+#AUTHOR(S)  K.Wisshak, F.Voss, Ch.Theis, F.Kaeppeler, K.Guber, L.Kazakov, 
+#+          N.Kornilov, G.Reffo
+#REF-CODE   (J,PR/C,54,(3),1451,199609)
+#REFERENCE  Phys.Rev.C 54 No.3 (1996) 1451 (doi:10.1103/PhysRevC.54.1451)
+#DATASETS   0
+#
+#DATASET    22377006 
+#DATE       19990604
+#REACTION   50-SN-118(N,TOT),,SIG,,AV
+#PROJ       1
+#TARG       50118
+#MF         3
+#MT         1
+#C4BEGIN    [    1 50118   3   1  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 50118   3   1    12500.00 2500.000 5.780000 0.242760                                       K.Wisshak+           (96)22377  6 
+    1 50118   3   1    17500.00 2500.000 5.470000 0.229740                                       K.Wisshak+           (96)22377  6 
+    1 50118   3   1    25000.00 5000.000 5.720000 0.240240                                       K.Wisshak+           (96)22377  6 
+    1 50118   3   1    35000.00 5000.000 6.130000 0.257460                                       K.Wisshak+           (96)22377  6 
+    1 50118   3   1    50000.00 10000.00 5.700000 0.239400                                       K.Wisshak+           (96)22377  6 
+    1 50118   3   1    70000.00 10000.00 6.230000 0.261660                                       K.Wisshak+           (96)22377  6 
+    1 50118   3   1    90000.00 10000.00 6.430000 0.270060                                       K.Wisshak+           (96)22377  6 
+    1 50118   3   1    125000.0 25000.00 6.460000 0.271320                                       K.Wisshak+           (96)22377  6 
+    1 50118   3   1    175000.0 25000.00 6.940000 0.291480                                       K.Wisshak+           (96)22377  6 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      O2069
+#AUTHOR1    L.Grassi+
+#YEAR       2012
+#INSTITUTE  (3CRORBZ)
+#TITLE      Elastic scattering studies of 16C at 50 MeV/A on proton
+#+          and deuteron targets with the CHIMERA multidetector at
+#+          INFN-LNS.
+#AUTHOR(S)  L.Grassi, C.Agodi, F.Amorini, A.Anzalone, L.Auditore, G.Cardella, 
+#+          M.B.Chaatterjee, E.De Filippo, E.Geraci, A.Grzeszczuk, E.La Guidara, 
+#+          G.Lanzalone, I.Lombardo, S.Lo Nigro, D.Loria, C.Maiolino, 
+#+          T.Minniti, A.Pagano, M.Papa, S.Pirrone, G.Politi, F.Porto, 
+#+          F.Rizzo, E.Rosato, P.Russotto, S.Santoro, A.Trifiro, M.Trimarchi, 
+#+          G.Verde, M.Vigilante
+#REF-CODE   (J,JP/CS,381,012088,2012)
+#REFERENCE  J.Phys.Conf.Ser. 381 (2012) 012088 (doi:10.1088/1742-6596/381/1/012088)
+#DATASETS   0
+#
+#DATASET    O2069005 
+#DATE       20210108
+#REACTION   4-BE-10(D,EL)4-BE-10,,DA,,RTH
+#PROJ       1002
+#TARG       4010
+#MF         4
+#MT         2
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1002  4010   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4010   4   2  C 1.1200+8          0.055282          0.959854                              L.Grassi+            (12)O2069  5 
+ 1002  4010   4   2  C 1.1200+8          0.044723 6.4505-3 0.933393                              L.Grassi+            (12)O2069  5 
+ 1002  4010   4   2  C 1.1200+8          0.043329          0.919958                              L.Grassi+            (12)O2069  5 
+ 1002  4010   4   2  C 1.1200+8          0.027143 3.3578-3 0.898871                              L.Grassi+            (12)O2069  5 
+ 1002  4010   4   2  C 1.1200+8          0.015493          0.841699                              L.Grassi+            (12)O2069  5 
+ 1002  4010   4   2  C 1.1200+8          0.021778 5.0412-3 0.782499                              L.Grassi+            (12)O2069  5 
+#/DATA      6
+#/DATASET

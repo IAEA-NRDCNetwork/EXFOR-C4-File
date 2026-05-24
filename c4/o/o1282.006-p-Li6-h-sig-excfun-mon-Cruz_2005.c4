@@ -1,0 +1,35 @@
+#ENTRY      O1282
+#AUTHOR1    J.Cruz+
+#YEAR       2005
+#INSTITUTE  (2PRTLIS)
+#TITLE      Electron screening in Li-7(p,alpha)alpha and
+#+          Li-6(p,alpha)He-3 for different environments.
+#AUTHOR(S)  J.Cruz, Z.Fulop, G.Gyurky, F.Raiola, A.Di Leva, B.Limata, 
+#+          M.Fonseca, H.Luis, D.Schurmann, M.Aliotta, H.W.Becker, A.P.Jesus, 
+#+          K.U.Kettner, J.P.Ribeiro, C.Rolfs, M.Romano, E.Somorjai, 
+#+          F.Strieder, Luna Collaboration
+#REF-CODE   (J,PL/B,624,181,2005)
+#REFERENCE  Phys.Lett.B 624 (2005) 181 (doi:10.1016/j.physletb.2005.08.036)
+#DATASETS   0
+#
+#DATASET    O1282006 
+#DATE       20080123
+#REACTION   3-LI-6(P,HE3)2-HE-4,,SIG,,SFC
+#PROJ       1001
+#TARG       3006
+#MF         3
+#MT         106
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  3006   3 106 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   3 106 D  28300.00          2.9912-6 6.6843-8                                       J.Cruz+              (05)O1282  6 
+ 1001  3006   3 106 D  32500.00          8.7742-6 2.3778-7                                       J.Cruz+              (05)O1282  6 
+ 1001  3006   3 106 D  39800.00          3.3608-5 9.5477-7                                       J.Cruz+              (05)O1282  6 
+ 1001  3006   3 106 D  48000.00          1.0386-4 1.5052-6                                       J.Cruz+              (05)O1282  6 
+ 1001  3006   3 106 D  56400.00          2.4545-4 3.6744-6                                       J.Cruz+              (05)O1282  6 
+ 1001  3006   3 106 D  64800.00          4.9265-4 8.9034-6                                       J.Cruz+              (05)O1282  6 
+ 1001  3006   3 106 D  73200.00          8.5564-4 1.0499-5                                       J.Cruz+              (05)O1282  6 
+#/DATA      7
+#/DATASET

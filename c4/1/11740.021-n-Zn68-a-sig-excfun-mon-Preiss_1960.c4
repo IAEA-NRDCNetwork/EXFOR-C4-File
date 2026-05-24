@@ -1,0 +1,26 @@
+#ENTRY      11740
+#AUTHOR1    I.L.Preiss+
+#YEAR       1960
+#INSTITUTE  (1USAARK)
+#TITLE      New isotopes of cobalt; activation cross-sections of
+#+          nickel, cobalt, and zinc for 14.8 MeV neutrons
+#AUTHOR(S)  I.L.Preiss, R.W.Fink
+#REF-CODE   (J,NP,15,326,1960)
+#REFERENCE  Nucl.Phys. 15 (1960) 326 (doi:10.1016/0029-5582(60)90310-2)
+#DATASETS   0
+#
+#DATASET    11740021 
+#DATE       20080623
+#REACTION   30-ZN-68(N,A)28-NI-65,,SIG
+#PROJ       1
+#TARG       30068
+#MF         3
+#MT         107
+#PRODUCT    28-NI-65
+#C4BEGIN    [    1 30068   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 30068   3 107    1.4800+7 900000.0 0.051000 0.010000                                       I.L.Preiss+          (60)11740 21 
+#/DATA      1
+#/DATASET

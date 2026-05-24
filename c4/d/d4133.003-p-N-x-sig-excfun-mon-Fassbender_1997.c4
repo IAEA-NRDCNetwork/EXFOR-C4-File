@@ -1,0 +1,31 @@
+#ENTRY      D4133
+#AUTHOR1    M.Fassbender+
+#YEAR       1997
+#INSTITUTE  (2GERJUL)
+#TITLE      Activation cross section data for (p,x) processes of
+#+          therapeutic relevance
+#AUTHOR(S)  M.Fassbender, B.Scholten, Yu.N.Shubin, S.M.Qaim
+#REF-CODE   (C,97TRIEST,,1647,1997)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn., Trieste 1997 page 1647
+#DATASETS   0
+#
+#DATASET    D4133003 
+#DATE       20250505
+#REACTION   7-N-0(P,X)6-C-11,,SIG
+#PROJ       1001
+#TARG       7000
+#MF         3
+#MT         454
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  7000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7000   3 454    5.1000+7          0.013300 3.2000-3            6011.9                     M.Fassbender+        (97)D4133  3 
+ 1001  7000   3 454    5.5400+7          0.013000 2.7000-3            6011.9                     M.Fassbender+        (97)D4133  3 
+ 1001  7000   3 454    5.9500+7          0.012900 2.8000-3            6011.9                     M.Fassbender+        (97)D4133  3 
+ 1001  7000   3 454    6.4000+7          0.011000 2.3000-3            6011.9                     M.Fassbender+        (97)D4133  3 
+ 1001  7000   3 454    6.8000+7          0.011800 2.5000-3            6011.9                     M.Fassbender+        (97)D4133  3 
+ 1001  7000   3 454    1.7240+8          9.2000-3 9.0000-4            6011.9                     M.Fassbender+        (97)D4133  3 
+#/DATA      6
+#/DATASET

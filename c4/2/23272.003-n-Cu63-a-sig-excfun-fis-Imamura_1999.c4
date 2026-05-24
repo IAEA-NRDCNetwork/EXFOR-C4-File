@@ -1,0 +1,26 @@
+#ENTRY      23272
+#AUTHOR1    M.Imamura+
+#YEAR       1999
+#INSTITUTE  (2JPNTOK)
+#TITLE      252Cf spectrum-averaged cross section for the
+#+          63Cu(n,p)63Ni reaction
+#AUTHOR(S)  M.Imamura, T.Shibata, S.Shibata, T.Ohkubo, S.Satoh, N.Nogawa
+#REF-CODE   (J,CZJ,49,(S1),839,1999)
+#REFERENCE  Czechslov.J.Phys. 49 No.S1 (1999) 839 (doi:10.1007/s10582-999-1005-4)
+#DATASETS   0
+#
+#DATASET    23272003 
+#DATE       20150707
+#REACTION   29-CU-63(N,A)27-CO-60,,SIG,,FIS
+#PROJ       1
+#TARG       29063
+#MF         3
+#MT         107
+#PRODUCT    27-CO-60
+#C4BEGIN    [    1 29063   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29063   3 107    1420.000          6.9200-4 2.4000-5                                       M.Imamura+           (99)23272  3 
+#/DATA      1
+#/DATASET

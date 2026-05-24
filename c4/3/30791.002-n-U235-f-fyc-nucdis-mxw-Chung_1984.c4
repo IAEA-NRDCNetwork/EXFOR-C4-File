@@ -1,0 +1,31 @@
+#ENTRY      30791
+#AUTHOR1    C.Chung+
+#YEAR       1984
+#INSTITUTE  (3CHFTHU)
+#TITLE      Cumulative yields of short-lived fission products in
+#+          thermal-neutron fission of 235U
+#AUTHOR(S)  C.Chung, A.A.Hasan, S.Sahin
+#REF-CODE   (J,RCA,37,131,1984)
+#REFERENCE  Radiochim.Acta 37 (1984) 131 (doi:10.1524/ract.1984.37.3.131)
+#DATASETS   0
+#
+#DATASET    30791002 
+#DATE       20211108
+#REACTION   92-U-235(N,F)ELEM/MASS,CUM,FY,,MXW
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92235   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 459    0.025300          0.052600 0.011300 36.00000 89.00000 9.000000            C.Chung+             (84)30791  2 
+    1 92235   8 459    0.025300          0.050400 6.3000-3 36.00000 90.00000 9.000000            C.Chung+             (84)30791  2 
+    1 92235   8 459    0.025300          0.069400 8.9000-3 54.00000 137.0000 9.000000            C.Chung+             (84)30791  2 
+    1 92235   8 459    0.025300          0.054700 0.018000 54.00000 139.0000 9.000000            C.Chung+             (84)30791  2 
+    1 92235   8 459    0.025300          0.041800 3.7000-3 55.00000 140.0000 9.000000            C.Chung+             (84)30791  2 
+    1 92235   8 459    0.025300          0.046300 4.7000-3 57.00000 144.0000 9.000000            C.Chung+             (84)30791  2 
+    1 92235   8 459    0.025300          0.024200 2.3000-3 58.00000 148.0000 9.000000            C.Chung+             (84)30791  2 
+#/DATA      7
+#/DATASET

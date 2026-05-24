@@ -1,0 +1,28 @@
+#ENTRY      20900
+#AUTHOR1    M.Bormann+
+#YEAR       1966
+#INSTITUTE  (2GERHAM)
+#TITLE      Measurements of some fast neutron cross sections
+#+          with the activation method
+#AUTHOR(S)  M.Bormann, F.Dreyer, U.Zielinski
+#REF-CODE   (P,EANDC(E)-66,42,1966)
+#REFERENCE  Progress report EANDC(E)-66 page 42, 1966
+#DATASETS   0
+#
+#DATASET    20900002 
+#DATE       20180309
+#REACTION   16-S-32(N,2N)16-S-31,,SIG
+#PROJ       1
+#TARG       16032
+#MF         3
+#MT         16
+#PRODUCT    16-S-31
+#C4BEGIN    [    1 16032   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 16032   3  16    1.5920+7 260000.0 1.4500-4 1.4000-5                                       M.Bormann+           (66)20900  2 
+    1 16032   3  16    1.6170+7 280000.0 2.8000-4 2.7000-5                                       M.Bormann+           (66)20900  2 
+    1 16032   3  16    1.6420+7 300000.0 5.8000-4 5.7000-5                                       M.Bormann+           (66)20900  2 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      23018
+#AUTHOR1    Y.Kasugai+
+#YEAR       2001
+#INSTITUTE  (2JPNJAE)
+#TITLE      Measurement of activation cross sections for mercury
+#+          isotopes in the neutron energy range between 13.4 and
+#+          14.9 MeV
+#AUTHOR(S)  Y.Kasugai, F.Maekawa, Y.Ikeda, H.Takeuchi
+#REF-CODE   (J,NST,38,(12),1048,200112)
+#REFERENCE  J.Nucl.Sci.Technol. 38 No.12 (2001) 1048 (doi:10.1080/18811248.2001.9715135)
+#DATASETS   0
+#
+#DATASET    23018006 
+#DATE       20151216
+#REACTION   80-HG-198(N,2N)80-HG-197-M,,SIG
+#PROJ       1
+#TARG       80198
+#MF         3
+#MT         16
+#PRODUCT    80-HG-197-M
+#C4BEGIN    [    1 80198   3  16MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 80198   3  16MA  1.3360+7          0.940000 0.060000                                       Y.Kasugai+           (01)23018  6 
+    1 80198   3  16MA  1.3680+7          0.910000 0.060000                                       Y.Kasugai+           (01)23018  6 
+    1 80198   3  16MA  1.4020+7          0.930000 0.060000                                       Y.Kasugai+           (01)23018  6 
+    1 80198   3  16MA  1.4370+7          0.930000 0.060000                                       Y.Kasugai+           (01)23018  6 
+    1 80198   3  16MA  1.4680+7          0.960000 0.070000                                       Y.Kasugai+           (01)23018  6 
+    1 80198   3  16MA  1.4940+7          0.960000 0.070000                                       Y.Kasugai+           (01)23018  6 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      10522
+#AUTHOR1    D.C.Santry+
+#YEAR       1976
+#INSTITUTE  (1CANCRC)
+#TITLE      Cross section measurements for the reactions of fast
+#+          neutrons with indium
+#AUTHOR(S)  D.C.Santry, J.P.Butler
+#REF-CODE   (J,CJP,54,757,1976)
+#REFERENCE  Can.J.Phys. 54 (1976) 757 (doi:10.1139/p76-087)
+#DATASETS   0
+#
+#DATASET    10522011 
+#DATE       20040504
+#REACTION   49-IN-115(N,2N)49-IN-114-M,,SIG
+#PROJ       1
+#TARG       49115
+#MF         3
+#MT         16
+#PRODUCT    49-IN-114-M
+#C4BEGIN    [    1 49115   3  16MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49115   3  16MA  1.3890+7 60000.00 1.372000 0.080000                                       D.C.Santry+          (76)10522 11 
+    1 49115   3  16MA  1.4240+7 80000.00 1.444000 0.083000                                       D.C.Santry+          (76)10522 11 
+    1 49115   3  16MA  1.4500+7 150000.0 1.451000 0.083000                                       D.C.Santry+          (76)10522 11 
+    1 49115   3  16MA  1.4680+7 190000.0 1.419000 0.081000                                       D.C.Santry+          (76)10522 11 
+    1 49115   3  16MA  1.4740+7 200000.0 1.460000 0.084000                                       D.C.Santry+          (76)10522 11 
+#/DATA      5
+#/DATASET

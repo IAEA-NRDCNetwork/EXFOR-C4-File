@@ -1,0 +1,27 @@
+#ENTRY      31822
+#AUTHOR1    N.Burianova+
+#YEAR       2019
+#INSTITUTE  (3CZRUJV)
+#TITLE      Measurement of the selected spectral averaged cross
+#+          sections in a radial channel of the VR-1 reactor
+#AUTHOR(S)  N.Burianova, M.Kostal, T.Bily, E.Losa, J.Simon, M.Schulc, 
+#+          V.Rypar
+#REF-CODE   (J,ARI,154,108855,2019)
+#REFERENCE  Appl.Radiat.Isot. 154 (2019) 108855 (doi:10.1016/j.apradiso.2019.108855)
+#DATASETS   0
+#
+#DATASET    31822005 
+#DATE       20200616
+#REACTION   22-TI-48(N,P)21-SC-48,,SIG,,SPA
+#PROJ       1
+#TARG       22048
+#MF         3
+#MT         103
+#PRODUCT    21-SC-48
+#C4BEGIN    [    1 22048   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22048   3 103 A  1000000.          2.9400-4 1.9992-5                                       N.Burianova+         (19)31822  5 
+#/DATA      1
+#/DATASET

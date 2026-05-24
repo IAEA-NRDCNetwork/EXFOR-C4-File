@@ -1,0 +1,40 @@
+#ENTRY      C2412
+#AUTHOR1    J.C.Zamora+
+#YEAR       2019
+#INSTITUTE  (1USAMSU)
+#TITLE      Experimental constraint on stellar electron-capture
+#+          rates from the 88Sr(t,3He+g)88Rb reaction at 115
+#+          MeV/u
+#AUTHOR(S)  J.C.Zamora, R.G.T.Zegers, Sam M.Austin, D.Bazin, B.A.Brown, 
+#+          P.C.Bender, H.L.Crawford, J.Engel, A.Falduto, A.Gade, P.Gastis, 
+#+          B.Gao, T.Ginter, C.J.Guess, S.Lipschutz, B.Longfellow, A.O.Macchiavelli, 
+#+          K.Miki, E.Ney, S.Noji, J.Pereira, J.Schmitt, C.Sullivan, 
+#+          R.Titus, D.Weisshaar
+#REF-CODE   (J,PR/C,100,032801,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 032801 (doi:10.1103/PhysRevC.100.032801)
+#DATASETS   0
+#
+#DATASET    C2412003 
+#DATE       20210127
+#REACTION   38-SR-88(T,HE3)37-RB-88,PAR,DA
+#PROJ       1003
+#TARG       38088
+#MF         4
+#MT         750
+#PRODUCT    37-RB-88
+#C4BEGIN    [ 1003 38088   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 38088   4 750  C 3.4500+8          8.3093-4 7.9363-5 0.999932          2.0250+7         LVLJ.C.Zamora+          (19)C2412  3 
+ 1003 38088   4 750  C 3.4500+8          7.0868-4 6.6645-5 0.999756          2.0250+7         LVLJ.C.Zamora+          (19)C2412  3 
+ 1003 38088   4 750  C 3.4500+8          7.0798-4 6.1887-5 0.999527          2.0250+7         LVLJ.C.Zamora+          (19)C2412  3 
+ 1003 38088   4 750  C 3.4500+8          6.1118-4 5.2371-5 0.999223          2.0250+7         LVLJ.C.Zamora+          (19)C2412  3 
+ 1003 38088   4 750  C 3.4500+8          5.9703-4 4.9598-5 0.998842          2.0250+7         LVLJ.C.Zamora+          (19)C2412  3 
+ 1003 38088   4 750  C 3.4500+8          5.1332-4 4.2533-5 0.998386          2.0250+7         LVLJ.C.Zamora+          (19)C2412  3 
+ 1003 38088   4 750  C 3.4500+8          5.8501-4 4.6540-5 0.997852          2.0250+7         LVLJ.C.Zamora+          (19)C2412  3 
+ 1003 38088   4 750  C 3.4500+8          5.3890-4 4.2629-5 0.997244          2.0250+7         LVLJ.C.Zamora+          (19)C2412  3 
+ 1003 38088   4 750  C 3.4500+8          5.0580-4 3.9767-5 0.996560          2.0250+7         LVLJ.C.Zamora+          (19)C2412  3 
+ 1003 38088   4 750  C 3.4500+8          4.6852-4 3.6729-5 0.995799          2.0250+7         LVLJ.C.Zamora+          (19)C2412  3 
+#/DATA      10
+#/DATASET

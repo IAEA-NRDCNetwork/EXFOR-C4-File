@@ -1,0 +1,31 @@
+#ENTRY      D0802
+#AUTHOR1    Md.S.Uddin+
+#YEAR       2016
+#INSTITUTE  (3BANSAV)
+#TITLE      Experimental determination of proton induced reaction
+#+          cross sections on natNi near threshold energy
+#AUTHOR(S)  Md.S.Uddin, A.K.Chakraborty, S.Spellerberg, Md.A.Shariff, 
+#+          S.Das, Md.A.Rashid, I.Spahn, S.M.Qaim
+#REF-CODE   (J,RCA,104,305,2016)
+#REFERENCE  Radiochim.Acta 104 (2016) 305 (doi:10.1515/ract-2015-2527)
+#DATASETS   0
+#
+#DATASET    D0802003 
+#DATE       20210929
+#REACTION   28-NI-64(P,N)29-CU-64,,SIG
+#PROJ       1001
+#TARG       28064
+#MF         3
+#MT         4
+#PRODUCT    29-CU-64
+#C4BEGIN    [ 1001 28064   3   4 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28064   3   4 C  3960000. 260000.0 0.105000 0.011000                                       Md.S.Uddin+          (16)D0802  3 
+ 1001 28064   3   4 C  3630000. 290000.0 0.080000 9.0000-3                                       Md.S.Uddin+          (16)D0802  3 
+ 1001 28064   3   4 C  3420000. 290000.0 0.048000 6.0000-3                                       Md.S.Uddin+          (16)D0802  3 
+ 1001 28064   3   4 C  3030000. 300000.0 0.041000 5.0000-3                                       Md.S.Uddin+          (16)D0802  3 
+ 1001 28064   3   4 C  2820000. 300000.0 0.023000 3.0000-3                                       Md.S.Uddin+          (16)D0802  3 
+#/DATA      5
+#/DATASET

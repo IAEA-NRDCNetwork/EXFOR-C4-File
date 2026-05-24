@@ -1,0 +1,33 @@
+#ENTRY      22752
+#AUTHOR1    S.Iwasaki+
+#YEAR       1994
+#INSTITUTE  (2JPNTOH)
+#TITLE      Measurement of activation cross-sections for several
+#+          elements between 12 and 20 MeV.
+#AUTHOR(S)  S.Iwasaki, S.Matsuyama, T.Ohkubo, H.Fukuda, M.Sakuma, M.Kitamura
+#REF-CODE   (C,94GATLIN,1,305,1994)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 1 page 305
+#DATASETS   0
+#
+#DATASET    22752002 
+#DATE       20081003
+#REACTION   27-CO-59(N,2N)27-CO-58,,SIG
+#PROJ       1
+#TARG       27059
+#MF         3
+#MT         16
+#PRODUCT    27-CO-58
+#C4BEGIN    [    1 27059   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   3  16    1.2695+7          0.475150                                                S.Iwasaki+           (94)22752  2 
+    1 27059   3  16    1.3453+7          0.619580                                                S.Iwasaki+           (94)22752  2 
+    1 27059   3  16    1.4558+7          0.762200                                                S.Iwasaki+           (94)22752  2 
+    1 27059   3  16    1.5848+7          0.880380                                                S.Iwasaki+           (94)22752  2 
+    1 27059   3  16    1.6931+7          0.839130                                                S.Iwasaki+           (94)22752  2 
+    1 27059   3  16    1.8233+7          0.842990                                                S.Iwasaki+           (94)22752  2 
+    1 27059   3  16    1.9150+7          0.835160                                                S.Iwasaki+           (94)22752  2 
+    1 27059   3  16    1.9455+7          0.831050                                                S.Iwasaki+           (94)22752  2 
+#/DATA      8
+#/DATASET

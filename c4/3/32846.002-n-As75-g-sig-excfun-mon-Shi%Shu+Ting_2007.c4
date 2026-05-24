@@ -1,0 +1,35 @@
+#ENTRY      32846
+#AUTHOR1    Shi Shu-Ting+
+#YEAR       2007
+#INSTITUTE  (3CPRSIU)
+#TITLE      Measurement and Monte-Carlo correction of neutron
+#+          radiative capture cross section for 75As
+#AUTHOR(S)  Shi Shu-Ting, Luo Xiao-Bing, Wang Lei
+#REF-CODE   (J,CNPR,24,29,2007)
+#REFERENCE  Nucl.Phys.Rev. 24 (2007) 29
+#DATASETS   0
+#
+#DATASET    32846002 
+#DATE       20220105
+#REACTION   33-AS-75(N,G)33-AS-76,,SIG
+#PROJ       1
+#TARG       33075
+#MF         3
+#MT         102
+#PRODUCT    33-AS-76
+#C4BEGIN    [    1 33075   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 33075   3 102    29000.00 7000.000 0.299700                                                Shi Shu-Ting+        (07)32846  2 
+    1 33075   3 102    59000.00 16000.00 0.212200                                                Shi Shu-Ting+        (07)32846  2 
+    1 33075   3 102    121000.0 27000.00 0.125900                                                Shi Shu-Ting+        (07)32846  2 
+    1 33075   3 102    196000.0 30000.00 0.111900                                                Shi Shu-Ting+        (07)32846  2 
+    1 33075   3 102    215000.0 44000.00 0.108600                                                Shi Shu-Ting+        (07)32846  2 
+    1 33075   3 102    230000.0 12000.00 0.097400                                                Shi Shu-Ting+        (07)32846  2 
+    1 33075   3 102    376000.0 87000.00 0.049400                                                Shi Shu-Ting+        (07)32846  2 
+    1 33075   3 102    655000.0 134000.0 0.028400                                                Shi Shu-Ting+        (07)32846  2 
+    1 33075   3 102    962000.0 135000.0 0.020100                                                Shi Shu-Ting+        (07)32846  2 
+    1 33075   3 102    1100000. 83000.00 0.016600                                                Shi Shu-Ting+        (07)32846  2 
+#/DATA      10
+#/DATASET

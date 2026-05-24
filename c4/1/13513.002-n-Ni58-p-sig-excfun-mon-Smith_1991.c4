@@ -1,0 +1,38 @@
+#ENTRY      13513
+#AUTHOR1    D.L.Smith+
+#YEAR       1991
+#INSTITUTE  (1USAANL)
+#TITLE      NEANDC Working Group on activation cross sections.
+#+          Comparison of activation cross section measurements
+#+          performed with different neutron source reactions in
+#+          the 5-13 MeV range.
+#AUTHOR(S)  D.L.Smith, J.W.Meadows, H.Vonach, M.Wagner, R.C.Haight, 
+#+          W.Mannhart
+#REF-CODE   (C,91JUELIC,,282,199105)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 282
+#DATASETS   0
+#
+#DATASET    13513002 
+#DATE       20140413
+#REACTION   28-NI-58(N,P)27-CO-58,,SIG
+#PROJ       1
+#TARG       28058
+#MF         3
+#MT         103
+#PRODUCT    27-CO-58
+#C4BEGIN    [    1 28058   3 103 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   3 103 C  5320000. 40000.00 0.531000 0.013000                                       D.L.Smith+           (91)13513  2 
+    1 28058   3 103 C  5870000. 40000.00 0.583000 0.014000                                       D.L.Smith+           (91)13513  2 
+    1 28058   3 103 C  6400000. 40000.00 0.600000 0.014000                                       D.L.Smith+           (91)13513  2 
+    1 28058   3 103 C  6930000. 40000.00 0.637000 0.016000                                       D.L.Smith+           (91)13513  2 
+    1 28058   3 103 C  7420000. 40000.00 0.624000 0.016000                                       D.L.Smith+           (91)13513  2 
+    1 28058   3 103 C  7920000. 40000.00 0.642000 0.017000                                       D.L.Smith+           (91)13513  2 
+    1 28058   3 103 C  8410000. 40000.00 0.619000 0.016000                                       D.L.Smith+           (91)13513  2 
+    1 28058   3 103 C  8900000. 40000.00 0.638000 0.017000                                       D.L.Smith+           (91)13513  2 
+    1 28058   3 103 C  9380000. 40000.00 0.609000 0.018000                                       D.L.Smith+           (91)13513  2 
+    1 28058   3 103 C  9870000. 40000.00 0.593000 0.018000                                       D.L.Smith+           (91)13513  2 
+#/DATA      10
+#/DATASET

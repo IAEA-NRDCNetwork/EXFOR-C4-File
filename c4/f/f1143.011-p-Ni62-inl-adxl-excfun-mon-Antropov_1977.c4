@@ -1,0 +1,37 @@
+#ENTRY      F1143
+#AUTHOR1    A.E.Antropov+
+#YEAR       1977
+#INSTITUTE  (4RUSSUL)
+#TITLE      Energy dependence of the proton scattering cross
+#+          sections of Ni-58 and Ni-62.
+#AUTHOR(S)  A.E.Antropov, P.P.Zarubin, P.D.Ioannu
+#REF-CODE   (J,IZV,41,2210,1977)
+#REFERENCE  Izv.Ross.AN,Fiz. 41 (1977) 2210
+#DATASETS   0
+#
+#DATASET    F1143011 
+#DATE       20111114
+#REACTION   28-NI-62(P,INL)28-NI-62,PAR,DA
+#PROJ       1001
+#TARG       28062
+#MF         4
+#MT         601
+#PRODUCT    28-NI-62
+#C4BEGIN    [ 1001 28062   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28062   4 601    5227300.          1.356800          0.500000          0.000000         LVLA.E.Antropov+        (77)F1143 11 
+ 1001 28062   4 601    5285200.          1.426200          0.500000          0.000000         LVLA.E.Antropov+        (77)F1143 11 
+ 1001 28062   4 601    5371300.          1.125500          0.500000          0.000000         LVLA.E.Antropov+        (77)F1143 11 
+ 1001 28062   4 601    5430000.          0.921760          0.500000          0.000000         LVLA.E.Antropov+        (77)F1143 11 
+ 1001 28062   4 601    5523000.          0.884580          0.500000          0.000000         LVLA.E.Antropov+        (77)F1143 11 
+ 1001 28062   4 601    5611700.          0.993660          0.500000          0.000000         LVLA.E.Antropov+        (77)F1143 11 
+ 1001 28062   4 601    5685200.          1.014600          0.500000          0.000000         LVLA.E.Antropov+        (77)F1143 11 
+ 1001 28062   4 601    5766900.          0.869910          0.500000          0.000000         LVLA.E.Antropov+        (77)F1143 11 
+ 1001 28062   4 601    5840500.          0.871370          0.500000          0.000000         LVLA.E.Antropov+        (77)F1143 11 
+ 1001 28062   4 601    5941100.          0.883120          0.500000          0.000000         LVLA.E.Antropov+        (77)F1143 11 
+ 1001 28062   4 601    6002900.          0.933130          0.500000          0.000000         LVLA.E.Antropov+        (77)F1143 11 
+ 1001 28062   4 601    6042200.          0.748530          0.500000          0.000000         LVLA.E.Antropov+        (77)F1143 11 
+#/DATA      12
+#/DATASET

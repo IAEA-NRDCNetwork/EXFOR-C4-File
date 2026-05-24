@@ -1,0 +1,32 @@
+#ENTRY      40294
+#AUTHOR1    V.P.Vertebnyi+
+#YEAR       1973
+#INSTITUTE  (4UKRIJD)
+#TITLE      Thermal and epithermal neutron cross sections for
+#+          vanadium isotopes.
+#AUTHOR(S)  V.P.Vertebnyi, M.F.Vlasov, N.L.Gnidak, R.A.Zatserkovskii, 
+#+          A.I.Ignatenko, A.L.Kirilyuk, E.A.Pavlenko, N.A.Trofimova, 
+#+          A.F.Fedorova
+#REF-CODE   (J,AE,34,355,1973)
+#REFERENCE  At.En. 34 (1973) 355
+#DATASETS   0
+#
+#DATASET    40294005 
+#DATE       20210319
+#REACTION   23-V-0(N,ABS),,SIG
+#PROJ       1
+#TARG       23000
+#MF         3
+#MT         27
+#C4BEGIN    [    1 23000   3  27  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 23000   3  27    0.025300 1.8000-6 5.310000 0.050000                                       V.P.Vertebnyi+       (73)40294  5 
+    1 23000   3  27    0.025300 3.5000-6 5.370000 0.090000                                       V.P.Vertebnyi+       (73)40294  5 
+    1 23000   3  27    0.025300 3.5000-6 5.170000 0.050000                                       V.P.Vertebnyi+       (73)40294  5 
+    1 23000   3  27    0.025300 5.0000-7 5.500000 0.600000                                       V.P.Vertebnyi+       (73)40294  5 
+    1 23000   3  27    0.025300 3.5000-6 5.400000 0.100000                                       V.P.Vertebnyi+       (73)40294  5 
+    1 23000   3  27    0.025300 3.5000-6 5.280000 0.150000                                       V.P.Vertebnyi+       (73)40294  5 
+#/DATA      6
+#/DATASET

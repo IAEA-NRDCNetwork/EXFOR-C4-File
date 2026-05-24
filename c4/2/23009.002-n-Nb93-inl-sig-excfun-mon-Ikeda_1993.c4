@@ -1,0 +1,27 @@
+#ENTRY      23009
+#AUTHOR1    Y.Ikeda+
+#YEAR       1993
+#INSTITUTE  (2JPNJAE)
+#TITLE      Measurement of the 93Nb(n,n')93mNb reaction cross
+#+          section at 14.5 and 14.9 MeV
+#AUTHOR(S)  Y.Ikeda, C.Konno, K.Kosako, M.Asai, K.Kawade, H.Maekawa
+#REF-CODE   (J,NST,30,(10),967,199310)
+#REFERENCE  J.Nucl.Sci.Technol. 30 No.10 (1993) 967 (doi:10.1080/18811248.1993.9734576)
+#DATASETS   0
+#
+#DATASET    23009002 
+#DATE       20071203
+#REACTION   41-NB-93(N,INL)41-NB-93-M,,SIG
+#PROJ       1
+#TARG       41093
+#MF         3
+#MT         4
+#PRODUCT    41-NB-93-M
+#C4BEGIN    [    1 41093   3   4M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093   3   4M   1.4500+7 200000.0 0.044400 3.8000-3                                       Y.Ikeda+             (93)23009  2 
+    1 41093   3   4M   1.4900+7 200000.0 0.043200 3.7000-3                                       Y.Ikeda+             (93)23009  2 
+#/DATA      2
+#/DATASET

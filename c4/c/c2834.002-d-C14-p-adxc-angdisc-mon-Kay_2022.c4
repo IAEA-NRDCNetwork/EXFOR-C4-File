@@ -1,0 +1,53 @@
+#ENTRY      C2834
+#AUTHOR1    B.P.Kay+
+#YEAR       2022
+#INSTITUTE  (1USAANL)
+#TITLE      Quenching of single-particle strength in A=15 nuclei
+#AUTHOR(S)  B.P.Kay, T.L.Tang, I.A.Tolstukhin, G.B.Roderick, A.J.Mitchell, 
+#+          Y.Ayyad, S.A.Bennett, J.Chen, K.A.Chipps, H.L.Crawford, 
+#+          S.J.Freeman, K.Garrett, M.D.Gott, M.R.Hall, C.R.Hoffman, 
+#+          H.Jayatissa, A.O.Macchiavelli, P.T.MacGregor, D.K.Sharp, 
+#+          G.L.Wilson
+#REF-CODE   (J,PRL,129,152501,2022)
+#REFERENCE  Phys.Rev.Lett. 129 (2022) 152501 (doi:10.1103/PhysRevLett.129.152501)
+#DATASETS   0
+#
+#DATASET    C2834002 
+#DATE       20221201
+#REACTION   6-C-14(D,P)6-C-15,PAR,DA
+#PROJ       1002
+#TARG       6014
+#MF         4
+#MT         600
+#PRODUCT    6-C-15
+#C4BEGIN    [ 1002  6014   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6014   4 600  C 2.0000+7          2.3560-3 2.1200-4 0.960973          0.000000         LVLB.P.Kay+             (22)C2834  2 
+ 1002  6014   4 600  C 2.0000+7          6.8100-4 1.3600-4 0.925276          0.000000         LVLB.P.Kay+             (22)C2834  2 
+ 1002  6014   4 600  C 2.0000+7          1.3290-3 1.9200-4 0.891402          0.000000         LVLB.P.Kay+             (22)C2834  2 
+ 1002  6014   4 600  C 2.0000+7          1.3800-3 1.7000-4 0.858065          0.000000         LVLB.P.Kay+             (22)C2834  2 
+ 1002  6014   4 600  C 2.0000+7          1.5990-3 2.1200-4 0.824719          0.000000         LVLB.P.Kay+             (22)C2834  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    C2834002 
+#DATE       20221201
+#REACTION   6-C-14(D,P)6-C-15,PAR,DA
+#PROJ       1002
+#TARG       6014
+#MF         4
+#MT         600
+#PRODUCT    6-C-15
+#C4BEGIN    [ 1002  6014   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6014   4 600  C 2.0000+7          0.025910 9.3700-4 0.977305          740000.0         LVLB.P.Kay+             (22)C2834  2 
+ 1002  6014   4 600  C 2.0000+7          0.020073 7.2100-4 0.947601          740000.0         LVLB.P.Kay+             (22)C2834  2 
+ 1002  6014   4 600  C 2.0000+7          0.012989 5.9000-4 0.912192          740000.0         LVLB.P.Kay+             (22)C2834  2 
+ 1002  6014   4 600  C 2.0000+7          7.7800-3 3.9800-4 0.877816          740000.0         LVLB.P.Kay+             (22)C2834  2 
+ 1002  6014   4 600  C 2.0000+7          4.6690-3 3.5700-4 0.843579          740000.0         LVLB.P.Kay+             (22)C2834  2 
+#/DATA      5
+#/DATASET

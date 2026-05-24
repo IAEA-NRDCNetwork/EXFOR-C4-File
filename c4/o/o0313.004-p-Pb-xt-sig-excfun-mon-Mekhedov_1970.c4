@@ -1,0 +1,29 @@
+#ENTRY      O0313
+#AUTHOR1    B.N.Mekhedov+
+#YEAR       1970
+#INSTITUTE  (4RUSRUS)
+#TITLE      Production of tritium in Al,Sn,Pb and Bi under the
+#+          influence of high energy protons
+#AUTHOR(S)  B.N.Mekhedov, V.N.Mekhedov
+#REF-CODE   (J,YF,11,708,1970)
+#REFERENCE  Yad.Fiz. 11 (1970) 708
+#DATASETS   0
+#
+#DATASET    O0313004 
+#DATE       20120527
+#REACTION   82-PB-0(P,X)1-H-3,,SIG
+#PROJ       1001
+#TARG       82000
+#MF         3
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001 82000   3 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82000   3 205    6.6000+8          0.133000 0.014000                                       B.N.Mekhedov+        (70)O0313  4 
+ 1001 82000   3 205    3.0000+9          0.400000 0.080000                                       B.N.Mekhedov+        (70)O0313  4 
+ 1001 82000   3 205    6.0000+9          0.618000 0.100000                                       B.N.Mekhedov+        (70)O0313  4 
+ 1001 82000   3 205    1.000+10          0.276000 0.050000                                       B.N.Mekhedov+        (70)O0313  4 
+#/DATA      4
+#/DATASET

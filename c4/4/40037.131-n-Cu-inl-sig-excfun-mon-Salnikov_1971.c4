@@ -1,0 +1,27 @@
+#ENTRY      40037
+#AUTHOR1    O.A.Salnikov+
+#YEAR       1971
+#INSTITUTE  (4RUSFEI)
+#TITLE      Differential cross sections of inelastic scattering
+#+          neutrons on nuclei Cr,Mn,Fe,Co,Ni,Cu,Y,Zr,Nb,W,Bi
+#AUTHOR(S)  O.A.Salnikov, G.N.Lovchikova, G.V.Kotelnikova, A.M.Trufanov, 
+#+          N.I.Fetisov
+#REF-CODE   (R,YK-7,102,197103)
+#REFERENCE  Report YK-7 page 102, 1971
+#DATASETS   0
+#
+#DATASET    40037131 
+#DATE       20060324
+#REACTION   29-CU-0(N,INL)29-CU-0,,SIG
+#PROJ       1
+#TARG       29000
+#MF         3
+#MT         4
+#PRODUCT    29-CU-0
+#C4BEGIN    [    1 29000   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   3   4    1.4360+7 140000.0 0.840000 0.080000                                       O.A.Salnikov+        (71)40037131 
+#/DATA      1
+#/DATASET

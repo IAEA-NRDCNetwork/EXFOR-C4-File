@@ -1,0 +1,31 @@
+#ENTRY      O0137
+#AUTHOR1    J.R.Wu+
+#YEAR       1979
+#INSTITUTE  (1USAMRY)
+#TITLE      Charge-particle spectra-90 MeV protons on Al-27,Ni-58,
+#+          Zr-90 and Bi-209
+#AUTHOR(S)  J.R.Wu, C.C.Chang, H.D.Holmgren
+#REF-CODE   (J,PR/C,19,698,1979)
+#REFERENCE  Phys.Rev.C 19 (1979) 698 (doi:10.1103/PhysRevC.19.698)
+#DATASETS   0
+#
+#DATASET    O0137252 
+#DATE       20140116
+#REACTION   28-NI-58(P,X)2-HE-3,,DA/DE
+#PROJ       1001
+#TARG       28058
+#MF         6
+#MT         206
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001 28058   6 206  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   6 206    1.0000+8          1.539-10 1.539-11 0.965926          9136000.          E2J.R.Wu+              (79)O0137252 
+ 1001 28058   6 206    1.0000+8          1.078-10 1.078-11 0.965926          1.6200+7          E2J.R.Wu+              (79)O0137252 
+ 1001 28058   6 206    1.0000+8          1.027-10 1.027-11 0.965926          2.2350+7          E2J.R.Wu+              (79)O0137252 
+ 1001 28058   6 206    1.0000+8          1.023-10 1.023-11 0.965926          2.8510+7          E2J.R.Wu+              (79)O0137252 
+ 1001 28058   6 206    1.0000+8          1.018-10 1.018-11 0.965926          3.4350+7          E2J.R.Wu+              (79)O0137252 
+ 1001 28058   6 206    1.0000+8          1.261-10 1.261-11 0.965926          4.1440+7          E2J.R.Wu+              (79)O0137252 
+#/DATA      6
+#/DATASET

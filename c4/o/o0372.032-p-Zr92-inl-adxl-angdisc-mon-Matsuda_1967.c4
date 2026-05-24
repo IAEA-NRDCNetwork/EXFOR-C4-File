@@ -1,0 +1,34 @@
+#ENTRY      O0372
+#AUTHOR1    K.Matsuda+
+#YEAR       1967
+#INSTITUTE  (2JPNTOK)
+#TITLE      Inelastic Proton Scattering from Zr-90 and Zr-92.
+#AUTHOR(S)  K.Matsuda, H.Nakamura, I.Nonaka, H.Taketani, T.Wada, Y.Awaya, 
+#+          M.Koike
+#REF-CODE   (J,JPJ,22,1311,67)
+#REFERENCE  J.Phys.Soc.Jpn. 22 (1967) 1311 (doi:10.1143/JPSJ.22.1311)
+#DATASETS   0
+#
+#DATASET    O0372032 
+#DATE       19970625
+#REACTION   40-ZR-92(P,INL)40-ZR-92,PAR,DA,,,EXP
+#PROJ       1001
+#TARG       40092
+#MF         4
+#MT         601
+#PRODUCT    40-ZR-92
+#C4BEGIN    [ 1001 40092   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40092   4 601  C 1.4250+7          2.0300-4 2.2330-5 0.626604 0.012242 3630000.         LVLK.Matsuda+           (67)O0372 32 
+ 1001 40092   4 601  C 1.4250+7          9.3000-5 9.3000-6 0.484810 0.013738 3630000.         LVLK.Matsuda+           (67)O0372 32 
+ 1001 40092   4 601  C 1.4250+7          6.9000-5 1.1730-5 0.337095 0.014789 3630000.         LVLK.Matsuda+           (67)O0372 32 
+ 1001 40092   4 601  C 1.4250+7          1.1900-4 1.4280-5 0.156434 0.015515 3630000.         LVLK.Matsuda+           (67)O0372 32 
+ 1001 40092   4 601  C 1.4250+7          9.3000-5 8.3700-6-3.4907-3 0.015708 3630000.         LVLK.Matsuda+           (67)O0372 32 
+ 1001 40092   4 601  C 1.4250+7          9.4000-5 8.4600-6-0.189095 0.015425 3630000.         LVLK.Matsuda+           (67)O0372 32 
+ 1001 40092   4 601  C 1.4250+7          1.1000-4 8.8000-6-0.368125 0.014605 3630000.         LVLK.Matsuda+           (67)O0372 32 
+ 1001 40092   4 601  C 1.4250+7          7.3000-5 7.3000-6-0.532876 0.013292 3630000.         LVLK.Matsuda+           (67)O0372 32 
+ 1001 40092   4 601  C 1.4250+7          2.7000-5 4.0500-6-0.780430 9.8213-3 3630000.         LVLK.Matsuda+           (67)O0372 32 
+#/DATA      9
+#/DATASET

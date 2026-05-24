@@ -1,0 +1,36 @@
+#ENTRY      C1096
+#AUTHOR1    F.D.Becchetti+
+#YEAR       1993
+#INSTITUTE  (1USAMHG)
+#TITLE      Systematic  of 8induced radioactive beam reactions:
+#+          E=13-20 MeV
+#AUTHOR(S)  F.D.Becchetti, W.Z.Liu, K.Ashktorab, J.F.Bajema, J.A.Brown, 
+#+          J.W.Janecke, D.A.Roberts, J.J.Kolata, K.L.Lamkin, A.Morsad, 
+#+          R.J.Smith, X.J.Kong, R.E.Warner
+#REF-CODE   (J,PR/C,48,308,199307)
+#REFERENCE  Phys.Rev.C 48 (1993) 308 (doi:10.1103/PhysRevC.48.308)
+#DATASETS   0
+#
+#DATASET    C1096008 
+#DATE       20041227
+#REACTION   79-AU-197(3-LI-8,EL)79-AU-197,,DA,,RTH
+#PROJ       3008
+#TARG       79197
+#MF         4
+#MT         2
+#PRODUCT    79-AU-197
+#C4BEGIN    [ 3008 79197   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3008 79197   4   2  C 1.4000+7          1335.710 184.8970 0.960488                              F.D.Becchetti+       (93)C1096  8 
+ 3008 79197   4   2  C 1.4000+7          105.1993 10.74044 0.888297                              F.D.Becchetti+       (93)C1096  8 
+ 3008 79197   4   2  C 1.4000+7          71.21066 12.52632 0.854549                              F.D.Becchetti+       (93)C1096  8 
+ 3008 79197   4   2  C 1.4000+7          46.85915 3.139477 0.807784                              F.D.Becchetti+       (93)C1096  8 
+ 3008 79197   4   2  C 1.4000+7          34.76556 2.327646 0.807063                              F.D.Becchetti+       (93)C1096  8 
+ 3008 79197   4   2  C 1.4000+7          17.85115 3.138763 0.733255                              F.D.Becchetti+       (93)C1096  8 
+ 3008 79197   4   2  C 1.4000+7          16.30713 1.664822 0.701407                              F.D.Becchetti+       (93)C1096  8 
+ 3008 79197   4   2  C 1.4000+7          10.00170 0.669935 0.546394                              F.D.Becchetti+       (93)C1096  8 
+ 3008 79197   4   2  C 1.4000+7          6.964627 0.963292 0.545078                              F.D.Becchetti+       (93)C1096  8 
+#/DATA      9
+#/DATASET

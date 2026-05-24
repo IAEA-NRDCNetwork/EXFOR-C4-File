@@ -1,0 +1,41 @@
+#ENTRY      12935
+#AUTHOR1    L.F.Hansen+
+#YEAR       1985
+#INSTITUTE  (1USALRL)
+#TITLE      Test of microscopic optical model potentials for
+#+          neutron elastic scattering at 14.6 MeV over a wide
+#+          mass range
+#AUTHOR(S)  L.F.Hansen, F.S.Dietrich, B.A.Pohl, C.H.Poppe, C.Wong
+#REF-CODE   (J,PR/C,31,111,1985)
+#REFERENCE  Phys.Rev.C 31 (1985) 111 (doi:10.1103/PhysRevC.31.111)
+#DATASETS   0
+#
+#DATASET    12935004 
+#DATE       20240626
+#REACTION   13-AL-27(N,EL)13-AL-27,,DA
+#PROJ       1
+#TARG       13027
+#MF         4
+#MT         2
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   4   2 A  1.4600+7          1.090000 0.120000 0.986170                              L.F.Hansen+          (85)12935  4 
+    1 13027   4   2 A  1.4600+7          0.716200 0.055950 0.954709                              L.F.Hansen+          (85)12935  4 
+    1 13027   4   2 A  1.4600+7          0.331100 0.027688 0.908822                              L.F.Hansen+          (85)12935  4 
+    1 13027   4   2 A  1.4600+7          0.074330 8.5780-3 0.834511                              L.F.Hansen+          (85)12935  4 
+    1 13027   4   2 A  1.4600+7          0.014700 1.5100-3 0.765730                              L.F.Hansen+          (85)12935  4 
+    1 13027   4   2 A  1.4600+7          0.016080 9.3800-4 0.671268                              L.F.Hansen+          (85)12935  4 
+    1 13027   4   2 A  1.4600+7          0.043140 3.0110-3 0.567671                              L.F.Hansen+          (85)12935  4 
+    1 13027   4   2 A  1.4600+7          0.048640 2.7760-3 0.449865                              L.F.Hansen+          (85)12935  4 
+    1 13027   4   2 A  1.4600+7          0.047840 2.8860-3 0.330860                              L.F.Hansen+          (85)12935  4 
+    1 13027   4   2 A  1.4600+7          0.017280 1.2970-3 0.078285                              L.F.Hansen+          (85)12935  4 
+    1 13027   4   2 A  1.4600+7          9.9300-3 7.2200-4-0.187364                              L.F.Hansen+          (85)12935  4 
+    1 13027   4   2 A  1.4600+7          0.010490 6.5900-4-0.425005                              L.F.Hansen+          (85)12935  4 
+    1 13027   4   2 A  1.4600+7          0.010730 7.2900-4-0.647548                              L.F.Hansen+          (85)12935  4 
+    1 13027   4   2 A  1.4600+7          8.4800-3 5.8600-4-0.820661                              L.F.Hansen+          (85)12935  4 
+    1 13027   4   2 A  1.4600+7          9.4800-3 5.7700-4-0.938252                              L.F.Hansen+          (85)12935  4 
+#/DATA      15
+#/DATASET

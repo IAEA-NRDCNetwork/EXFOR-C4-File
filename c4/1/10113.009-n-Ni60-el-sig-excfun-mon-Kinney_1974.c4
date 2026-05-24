@@ -1,0 +1,27 @@
+#ENTRY      10113
+#AUTHOR1    W.E.Kinney+
+#YEAR       1974
+#INSTITUTE  (1USAORL)
+#TITLE      Ni neutron elastic- and inelastic-scattering cross
+#+          sections from 4.07 to 8.56 MeV
+#AUTHOR(S)  W.E.Kinney, F.G.Perey
+#REF-CODE   (R,ORNL-4807,197401)
+#REFERENCE  Report ORNL-4807, 1974
+#DATASETS   0
+#
+#DATASET    10113009 
+#DATE       20000202
+#REACTION   28-NI-60(N,EL)28-NI-60,,SIG
+#PROJ       1
+#TARG       28060
+#MF         3
+#MT         2
+#PRODUCT    28-NI-60
+#C4BEGIN    [    1 28060   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28060   3   2 D  4340000. 70000.00 2.175720 0.156652                                       W.E.Kinney+          (74)10113  9 
+    1 28060   3   2 D  4920000. 60000.00 1.979520 0.142525                                       W.E.Kinney+          (74)10113  9 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      O1313
+#AUTHOR1    F.Bringas+
+#YEAR       2004
+#INSTITUTE  (3BZLUSP)
+#TITLE      Measurement of proton-induced reaction cross sections
+#+          in Ti, Ni and Zr near the threshold
+#AUTHOR(S)  F.Bringas, M.T.Yamashita, I.D.Goldman, P.R.Pascholati, V.Sciani
+#REF-CODE   (C,2004SANTA,2,1374,2004)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn., Santa Fe 2004 2 page 1374
+#DATASETS   0
+#
+#DATASET    O1313003 
+#DATE       20200826
+#REACTION   28-NI-0(P,X)28-NI-56,CUM,SIG
+#PROJ       1001
+#TARG       28000
+#MF         3
+#MT         459
+#PRODUCT    28-NI-56
+#C4BEGIN    [ 1001 28000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28000   3 459    1.8400+7 900000.0 6.5000-4 8.0000-5           28056.9                     F.Bringas+           (04)O1313  3 
+ 1001 28000   3 459    1.9200+7 800000.0 5.6000-4 7.0000-5           28056.9                     F.Bringas+           (04)O1313  3 
+ 1001 28000   3 459    2.7300+7 600000.0 1.7000-3 3.0000-4           28056.9                     F.Bringas+           (04)O1313  3 
+#/DATA      3
+#/DATASET

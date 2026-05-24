@@ -1,0 +1,26 @@
+#ENTRY      21017
+#AUTHOR1    A.Steyerl+
+#YEAR       1972
+#INSTITUTE  (2GERMUN)
+#TITLE      Total cross-sections of various homogeneous
+#+          substances for ultracold neutrons
+#AUTHOR(S)  A.Steyerl, H.Vonach
+#REF-CODE   (J,ZP,250,166,1972)
+#REFERENCE  Z.Phys. 250 (1972) 166
+#DATASETS   0
+#
+#DATASET    21017010 
+#DATE       20100721
+#REACTION   29-CU-0(N,TOT),,SIG
+#PROJ       1
+#TARG       29000
+#MF         3
+#MT         1
+#C4BEGIN    [    1 29000   3   1 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   3   1 D  5.2270-7          831.0000 30.00000                                       A.Steyerl+           (72)21017 10 
+    1 29000   3   1 D  5.2270-7          873.0000 30.00000                                       A.Steyerl+           (72)21017 10 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,41 @@
+#ENTRY      40001
+#AUTHOR1    A.G.Dovbenko+
+#YEAR       1969
+#INSTITUTE  (4RUSFEI)
+#TITLE      Cross sections of Mn-55, Ga-69, Ga-71 and Mo-98 for
+#+          radiative capture of fast neutrons.
+#AUTHOR(S)  A.G.Dovbenko, V.E.Kolesov, V.P.Koroleva, V.A.Tolstikov
+#REF-CODE   (J,SJA,26,82,1969)
+#REFERENCE  Sov.At.Energy 26 (1969) 82 (doi:10.1007/BF01155419)
+#DATASETS   0
+#
+#DATASET    40001005 
+#DATE       20220119
+#REACTION   42-MO-98(N,G)42-MO-99,,SIG
+#PROJ       1
+#TARG       42098
+#MF         3
+#MT         102
+#PRODUCT    42-MO-99
+#C4BEGIN    [    1 42098   3 102 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42098   3 102 C  232900.0          0.046100 6.6000-3                                       A.G.Dovbenko+        (69)40001  5 
+    1 42098   3 102 C  399800.0          0.035900 5.9000-3                                       A.G.Dovbenko+        (69)40001  5 
+    1 42098   3 102 C  436600.0          0.040900 7.1000-3                                       A.G.Dovbenko+        (69)40001  5 
+    1 42098   3 102 C  558600.0          0.037300 6.6000-3                                       A.G.Dovbenko+        (69)40001  5 
+    1 42098   3 102 C  610500.0          0.037500 6.6000-3                                       A.G.Dovbenko+        (69)40001  5 
+    1 42098   3 102 C  784900.0          0.035700 5.5000-3                                       A.G.Dovbenko+        (69)40001  5 
+    1 42098   3 102 C  823000.0          0.034000 4.3000-3                                       A.G.Dovbenko+        (69)40001  5 
+    1 42098   3 102 C  850900.0          0.025200 3.6000-3                                       A.G.Dovbenko+        (69)40001  5 
+    1 42098   3 102 C  964900.0          0.024000 3.9000-3                                       A.G.Dovbenko+        (69)40001  5 
+    1 42098   3 102 C  1038400.          0.023500 3.4000-3                                       A.G.Dovbenko+        (69)40001  5 
+    1 42098   3 102 C  1268600.          0.018600 2.8000-3                                       A.G.Dovbenko+        (69)40001  5 
+    1 42098   3 102 C  1330800.          0.016300 3.2000-3                                       A.G.Dovbenko+        (69)40001  5 
+    1 42098   3 102 C  1642000.          0.014100 2.4000-3                                       A.G.Dovbenko+        (69)40001  5 
+    1 42098   3 102 C  1833600.          0.012900 1.8000-3                                       A.G.Dovbenko+        (69)40001  5 
+    1 42098   3 102 C  2320400.          0.012600 2.0000-3                                       A.G.Dovbenko+        (69)40001  5 
+    1 42098   3 102 C  2806000.          9.6000-3 2.1000-3                                       A.G.Dovbenko+        (69)40001  5 
+#/DATA      16
+#/DATASET

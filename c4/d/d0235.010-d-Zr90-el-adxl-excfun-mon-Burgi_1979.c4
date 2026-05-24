@@ -1,0 +1,38 @@
+#ENTRY      D0235
+#AUTHOR1    H.R.Burgi+
+#YEAR       1979
+#INSTITUTE  (2SWTETH)
+#TITLE      A study of the elastic scattering of polarized
+#+          deuterons from 60Ni and 90Zr Nuclei
+#AUTHOR(S)  H.R.Burgi, W.Gruebler, J.Nurzynski, V.Konig, P.A.Schmelzbach, 
+#+          R.Risler, B.Jenny, R.A.Hardekopf
+#REF-CODE   (J,NP/A,321,445,1979)
+#REFERENCE  Nucl.Phys.A 321 (1979) 445 (doi:10.1016/0375-9474(79)90137-4)
+#DATASETS   0
+#
+#DATASET    D0235010 
+#DATE       20041019
+#REACTION   40-ZR-90(D,EL)40-ZR-90,,DA
+#PROJ       1002
+#TARG       40090
+#MF         4
+#MT         2
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 1002 40090   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 40090   4   2    6021200.          0.052795         -0.996195                              H.R.Burgi+           (79)D0235 10 
+ 1002 40090   4   2    7019100.          0.021225         -0.996195                              H.R.Burgi+           (79)D0235 10 
+ 1002 40090   4   2    8005800.          0.012164         -0.996195                              H.R.Burgi+           (79)D0235 10 
+ 1002 40090   4   2    9006800.          5.9953-3         -0.996195                              H.R.Burgi+           (79)D0235 10 
+ 1002 40090   4   2    9516000.          3.7156-3         -0.996195                              H.R.Burgi+           (79)D0235 10 
+ 1002 40090   4   2    9997300.          2.2568-3         -0.996195                              H.R.Burgi+           (79)D0235 10 
+ 1002 40090   4   2    1.0496+7          1.4546-3         -0.996195                              H.R.Burgi+           (79)D0235 10 
+ 1002 40090   4   2    1.0999+7          1.1050-3         -0.996195                              H.R.Burgi+           (79)D0235 10 
+ 1002 40090   4   2    1.1500+7          1.1734-3         -0.996195                              H.R.Burgi+           (79)D0235 10 
+ 1002 40090   4   2    1.2007+7          1.4494-3         -0.996195                              H.R.Burgi+           (79)D0235 10 
+ 1002 40090   4   2    1.2500+7          1.4698-3         -0.996195                              H.R.Burgi+           (79)D0235 10 
+ 1002 40090   4   2    1.2987+7          1.3865-3         -0.996195                              H.R.Burgi+           (79)D0235 10 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,39 @@
+#ENTRY      O2211
+#AUTHOR1    M.Lattuada+
+#YEAR       2001
+#INSTITUTE  (2ITYCAT)
+#TITLE      The bare astrophysical S(E) factor of the 7Li(p,a)a
+#+          reaction.
+#AUTHOR(S)  M.Lattuada, R.G.Pizzone, S.Typel, P.Figuera, D.Miljanic, 
+#+          A.Musumarra, M.G.Pellegriti, C.Rolfs, C.Spitaleri, H.H.Wolter
+#REF-CODE   (J,AJ,562,1076,2001)
+#REFERENCE  Astrophys.J. 562 (2001) 1076 (doi:10.1086/323868)
+#DATASETS   0
+#
+#DATASET    O2211002 
+#DATE       20140702
+#REACTION   3-LI-7(P,A)2-HE-4,,SIG,,SFC
+#PROJ       1001
+#TARG       3007
+#MF         3
+#MT         107
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  3007   3 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   3 107    10060.00          7.531-13 6.792-14                                       M.Lattuada+          (01)O2211  2 
+ 1001  3007   3 107    29940.00          7.8487-8 5.3320-9                                       M.Lattuada+          (01)O2211  2 
+ 1001  3007   3 107    49620.00          2.5338-6 1.8444-7                                       M.Lattuada+          (01)O2211  2 
+ 1001  3007   3 107    69890.00          1.5703-5 1.2339-6                                       M.Lattuada+          (01)O2211  2 
+ 1001  3007   3 107    89240.00          4.4347-5 3.7684-6                                       M.Lattuada+          (01)O2211  2 
+ 1001  3007   3 107    137900.0          2.1645-4 1.1438-5                                       M.Lattuada+          (01)O2211  2 
+ 1001  3007   3 107    156300.0          3.2182-4 2.9840-5                                       M.Lattuada+          (01)O2211  2 
+ 1001  3007   3 107    175400.0          4.4126-4 2.5357-5                                       M.Lattuada+          (01)O2211  2 
+ 1001  3007   3 107    214100.0          7.3881-4 3.5930-5                                       M.Lattuada+          (01)O2211  2 
+ 1001  3007   3 107    251800.0          1.0710-3 5.0455-5                                       M.Lattuada+          (01)O2211  2 
+ 1001  3007   3 107    290900.0          1.4909-3 8.3975-5                                       M.Lattuada+          (01)O2211  2 
+ 1001  3007   3 107    321500.0          1.6589-3 1.7420-4                                       M.Lattuada+          (01)O2211  2 
+ 1001  3007   3 107    371000.0          2.0744-3 2.3470-4                                       M.Lattuada+          (01)O2211  2 
+#/DATA      13
+#/DATASET

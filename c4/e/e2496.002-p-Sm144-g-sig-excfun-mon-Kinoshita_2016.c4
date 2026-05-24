@@ -1,0 +1,36 @@
+#ENTRY      E2496
+#AUTHOR1    N.Kinoshita+
+#YEAR       2016
+#INSTITUTE  (2JPNJPN)
+#TITLE      Proton capture cross sections on neutron-magic 144Sm
+#+          at astrophysically relevant energies
+#AUTHOR(S)  N.Kinoshita, K.Hayashi, S.Ueno, Y.Yatsu, A.Yokoyama, N.Takahashi
+#REF-CODE   (J,PR/C,93,025801,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 025801 (doi:10.1103/PhysRevC.93.025801)
+#DATASETS   0
+#
+#DATASET    E2496002 
+#DATE       20160510
+#REACTION   62-SM-144(P,G)63-EU-145,,SIG
+#PROJ       1001
+#TARG       62144
+#MF         3
+#MT         102
+#PRODUCT    63-EU-145
+#C4BEGIN    [ 1001 62144   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 62144   3 102    2829708. 350007.3 3.4500-6 8.1000-7                                       N.Kinoshita+         (16)E2496  2 
+ 1001 62144   3 102    3212377. 300007.1 9.1400-6 1.2400-6                                       N.Kinoshita+         (16)E2496  2 
+ 1001 62144   3 102    3776313. 280007.8 4.7900-5 6.8000-6                                       N.Kinoshita+         (16)E2496  2 
+ 1001 62144   3 102    4179126. 260008.0 1.5900-4 1.5000-5                                       N.Kinoshita+         (16)E2496  2 
+ 1001 62144   3 102    4652433. 230007.9 4.0700-4 5.6000-5                                       N.Kinoshita+         (16)E2496  2 
+ 1001 62144   3 102    5004897. 220008.1 9.3100-4 8.9000-5                                       N.Kinoshita+         (16)E2496  2 
+ 1001 62144   3 102    5407714. 210008.4 1.4600-3 2.0000-4                                       N.Kinoshita+         (16)E2496  2 
+ 1001 62144   3 102    5729968. 190008.0 3.6100-3 3.4000-4                                       N.Kinoshita+         (16)E2496  2 
+ 1001 62144   3 102    6102575. 190008.5 4.4800-3 6.1000-4                                       N.Kinoshita+         (16)E2496  2 
+ 1001 62144   3 102    6404690. 190009.0 0.010100 1.0000-3                                       N.Kinoshita+         (16)E2496  2 
+ 1001 62144   3 102    7623226. 150008.4 0.018000 1.5000-3                                       N.Kinoshita+         (16)E2496  2 
+#/DATA      11
+#/DATASET

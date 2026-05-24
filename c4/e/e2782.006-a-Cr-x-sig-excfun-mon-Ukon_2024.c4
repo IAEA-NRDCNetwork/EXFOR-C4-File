@@ -1,0 +1,29 @@
+#ENTRY      E2782
+#AUTHOR1    N.Ukon+
+#YEAR       2024
+#INSTITUTE  (2JPNHOK)
+#TITLE      Excitation functions of the alpha-particle-induced
+#+          reactions on natCr up to 50 MeV
+#AUTHOR(S)  N.Ukon, M.Aikawa, Y.Komori, H.Haba, F.Ditroi, S.Takacs
+#REF-CODE   (J,NIM/B,552,165348,2024)
+#REFERENCE  Nucl.Instrum.Meth.B 552 (2024) 165348 (doi:10.1016/j.nimb.2024.165348)
+#DATASETS   0
+#
+#DATASET    E2782006 
+#DATE       20240809
+#REACTION   24-CR-0(A,X)24-CR-48,,SIG
+#PROJ       2004
+#TARG       24000
+#MF         3
+#MT         454
+#PRODUCT    24-CR-48
+#C4BEGIN    [ 2004 24000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 24000   3 454    5.0500+7 200000.0 3.9000-4 4.0000-5           24048.9                     N.Ukon+              (24)E2782  6 
+ 2004 24000   3 454    4.8000+7 200000.0 3.2000-4 5.0000-5           24048.9                     N.Ukon+              (24)E2782  6 
+ 2004 24000   3 454    4.5300+7 200000.0 1.9000-4 3.0000-5           24048.9                     N.Ukon+              (24)E2782  6 
+ 2004 24000   3 454    4.2600+7 300000.0 9.3000-5 2.5000-5           24048.9                     N.Ukon+              (24)E2782  6 
+#/DATA      4
+#/DATASET

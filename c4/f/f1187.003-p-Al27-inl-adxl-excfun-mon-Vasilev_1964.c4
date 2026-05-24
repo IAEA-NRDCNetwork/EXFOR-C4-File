@@ -1,0 +1,54 @@
+#ENTRY      F1187
+#AUTHOR1    S.S.Vasilev+
+#YEAR       1964
+#INSTITUTE  (4RUSMOS)
+#TITLE      Study of the (p,p') reaction of 1.65, and 1.83 MeV
+#+          levels in Al-27.
+#AUTHOR(S)  S.S.Vasilev, T.N.Mihaleva, D.L.Chuprunov
+#REF-CODE   (J,ZET,47,1585,1964)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 47 (1964) 1585
+#DATASETS   0
+#
+#DATASET    F1187003 
+#DATE       20130318
+#REACTION   13-AL-27(P,INL)13-AL-27,PAR,DA
+#PROJ       1001
+#TARG       13027
+#MF         4
+#MT         601
+#PRODUCT    13-AL-27
+#C4BEGIN    [ 1001 13027   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   4 601    6150000.          2.9069-4 6.5230-5 6.123-17          1650000.         LVLS.S.Vasilev+         (64)F1187  3 
+ 1001 13027   4 601    6281100.          3.8122-4 7.5080-5 6.123-17          1650000.         LVLS.S.Vasilev+         (64)F1187  3 
+ 1001 13027   4 601    6392000.          3.2861-4 6.8610-5 6.123-17          1650000.         LVLS.S.Vasilev+         (64)F1187  3 
+ 1001 13027   4 601    6476400.          3.6510-4 7.8410-5 6.123-17          1650000.         LVLS.S.Vasilev+         (64)F1187  3 
+ 1001 13027   4 601    6563600.          3.3940-4 5.5480-5 6.123-17          1650000.         LVLS.S.Vasilev+         (64)F1187  3 
+ 1001 13027   4 601    6625200.          3.3414-4 6.8660-5 6.123-17          1650000.         LVLS.S.Vasilev+         (64)F1187  3 
+ 1001 13027   4 601    6704700.          4.0673-4 8.4880-5 6.123-17          1650000.         LVLS.S.Vasilev+         (64)F1187  3 
+#/DATA      7
+#/DATASET
+#
+#DATASET    F1187003 
+#DATE       20130318
+#REACTION   13-AL-27(P,INL)13-AL-27,PAR,DA
+#PROJ       1001
+#TARG       13027
+#MF         4
+#MT         601
+#PRODUCT    13-AL-27
+#C4BEGIN    [ 1001 13027   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   4 601    6148900.          2.0313-4 5.1000-5 6.123-17          1830000.         LVLS.S.Vasilev+         (64)F1187  3 
+ 1001 13027   4 601    6278400.          2.5201-4 6.1120-5 6.123-17          1830000.         LVLS.S.Vasilev+         (64)F1187  3 
+ 1001 13027   4 601    6387500.          3.1878-4 8.1520-5 6.123-17          1830000.         LVLS.S.Vasilev+         (64)F1187  3 
+ 1001 13027   4 601    6471600.          3.0837-4 6.4520-5 6.123-17          1830000.         LVLS.S.Vasilev+         (64)F1187  3 
+ 1001 13027   4 601    6560300.          2.3995-4 5.7800-5 6.123-17          1830000.         LVLS.S.Vasilev+         (64)F1187  3 
+ 1001 13027   4 601    6621700.          1.9991-4 4.0730-5 6.123-17          1830000.         LVLS.S.Vasilev+         (64)F1187  3 
+ 1001 13027   4 601    6701500.          2.6112-4 4.7600-5 6.123-17          1830000.         LVLS.S.Vasilev+         (64)F1187  3 
+#/DATA      7
+#/DATASET

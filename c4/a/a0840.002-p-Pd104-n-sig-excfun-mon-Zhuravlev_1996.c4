@@ -1,0 +1,44 @@
+#ENTRY      A0840
+#AUTHOR1    Yu.Yu.Zhuravlev+
+#YEAR       1996
+#INSTITUTE  (4RUSSUL)
+#TITLE      Total cross sections for the (p,n) reaction at nuclei
+#+          of Pd isotopes at E(p)=6.1-6.9 MeV.
+#AUTHOR(S)  Yu.Yu.Zhuravlev, P.P.Zarubin, Yu.V.Zeits, A.A.Kolozhvari, 
+#+          I.V.Shelkunov, Hu Bi Tao
+#REF-CODE   (J,IZV,60,(5),169,1996)
+#REFERENCE  Izv.Ross.AN,Fiz. 60 No.5 (1996) 169
+#DATASETS   0
+#
+#DATASET    A0840002 
+#DATE       20100312
+#REACTION   46-PD-104(P,N)47-AG-104,,SIG
+#PROJ       1001
+#TARG       46104
+#MF         3
+#MT         4
+#PRODUCT    47-AG-104
+#C4BEGIN    [ 1001 46104   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 46104   3   4    6146000.          0.118100                                                Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6399000.          0.131700                                                Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6446000.          0.141700                                                Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6554000.          0.172000 0.018000                                       Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6573000.          0.183000 0.020000                                       Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6598000.          0.208000 0.015000                                       Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6624000.          0.216000 0.016000                                       Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6653000.          0.276000 0.020000                                       Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6675000.          0.241000 0.020000                                       Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6700000.          0.273000 0.018000                                       Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6729000.          0.284000 0.021000                                       Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6751000.          0.284000 0.020000                                       Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6777000.          0.317000 0.020000                                       Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6805000.          0.304000 0.020000                                       Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6826000.          0.268000 0.019000                                       Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6856000.          0.379000 0.018000                                       Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6875000.          0.353000 0.020000                                       Yu.Yu.Zhuravlev+     (96)A0840  2 
+ 1001 46104   3   4    6897000.          0.331000 0.020000                                       Yu.Yu.Zhuravlev+     (96)A0840  2 
+#/DATA      18
+#/DATASET

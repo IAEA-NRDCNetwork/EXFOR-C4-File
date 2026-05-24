@@ -1,0 +1,33 @@
+#ENTRY      C1466
+#AUTHOR1    A.L.Cole+
+#YEAR       2006
+#INSTITUTE  (1USAMSU)
+#TITLE      Measurement of the Gamow-Teller strength distribution
+#+          in 58Co via the 58Ni(t,3He) reaction at 115 MeV/nucleon
+#AUTHOR(S)  A.L.Cole, H.Akimune, S.M.Austin, D.Bazin, A.M.Van Den Berg, 
+#+          G.P.A.Berg, J.Brown, I.Daito, Y.Fujita, M.Fujiwara, S.Gupta, 
+#+          K.Hara, M.N.Harakeh, J.Jaenecke, T.Kawabata, T.Nakamura, 
+#+          D.A.Roberts, B.M.Sherrill, M.Steiner, H.Ueno, R.G.T.Zegers
+#REF-CODE   (J,PR/C,74,034333,2006)
+#REFERENCE  Phys.Rev.C 74 (2006) 034333 (doi:10.1103/PhysRevC.74.034333)
+#DATASETS   0
+#
+#DATASET    C1466003 
+#DATE       20161214
+#REACTION   28-NI-58(T,HE3)27-CO-58,PAR,DA
+#PROJ       1003
+#TARG       28058
+#MF         4
+#MT         750
+#PRODUCT    27-CO-58
+#C4BEGIN    [ 1003 28058   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 28058   4 750  C 3.4500+8 3450000. 2.9560-3 5.1800-4 0.999962          1875000. 125000.0LVLA.L.Cole+            (06)C1466  3 
+ 1003 28058   4 750  C 3.4500+8 3450000. 2.5770-3 2.9910-4 0.999657          1875000. 125000.0LVLA.L.Cole+            (06)C1466  3 
+ 1003 28058   4 750  C 3.4500+8 3450000. 1.4610-3 2.4030-4 0.999055          1875000. 125000.0LVLA.L.Cole+            (06)C1466  3 
+ 1003 28058   4 750  C 3.4500+8 3450000. 1.3160-3 2.5630-4 0.998126          1875000. 125000.0LVLA.L.Cole+            (06)C1466  3 
+ 1003 28058   4 750  C 3.4500+8 3450000. 1.1670-3 2.2960-4 0.996910          1875000. 125000.0LVLA.L.Cole+            (06)C1466  3 
+#/DATA      5
+#/DATASET

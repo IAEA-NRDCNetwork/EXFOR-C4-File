@@ -1,0 +1,30 @@
+#ENTRY      31714
+#AUTHOR1    J.Vrzalova+
+#YEAR       2013
+#INSTITUTE  (3CZRUJF)
+#TITLE      Studies of (n,xn) cross-sections in Al, Au, Bi, Cu,
+#+          Fe, I, In, Mg, Ni, Ta, Y, and Zn by the activation
+#+          method
+#AUTHOR(S)  J.Vrzalova, O.Svoboda, A.Krasa, A.Kugler, M.Majerle, M.Suchopar, 
+#+          V.Wagner
+#REF-CODE   (J,NIM/A,726,84,2013)
+#REFERENCE  Nucl.Instrum.Meth.A 726 (2013) 84 (doi:10.1016/j.nima.2013.05.133)
+#DATASETS   0
+#
+#DATASET    31714025 
+#DATE       20130717
+#REACTION   30-ZN-0(N,X)30-ZN-63,,SIG
+#PROJ       1
+#TARG       30000
+#MF         3
+#MT         454
+#PRODUCT    30-ZN-63
+#C4BEGIN    [    1 30000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 30000   3 454    1.7500+7 800000.0 0.122000 0.017000           30063.9                     J.Vrzalova+          (13)31714 25 
+    1 30000   3 454    3.0400+7 800000.0 0.081000 0.013000           30063.9                     J.Vrzalova+          (13)31714 25 
+    1 30000   3 454    3.5900+7 800000.0 0.078000 0.012000           30063.9                     J.Vrzalova+          (13)31714 25 
+#/DATA      3
+#/DATASET

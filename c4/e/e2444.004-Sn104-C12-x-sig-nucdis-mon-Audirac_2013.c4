@@ -1,0 +1,36 @@
+#ENTRY      E2444
+#AUTHOR1    L.Audirac+
+#YEAR       2013
+#INSTITUTE  (2FR SAC)
+#TITLE      Evaporation-cost dependence in heavy-ion fragmentation
+#AUTHOR(S)  L.Audirac, A.Obertelli, P.Doornenbal, D.Mancusi, S.Takeuchi, 
+#+          N.Aoi, H.Baba, S.Boissinot, A.Boudard, A.Corsi, A.Gillibert, 
+#+          T.Isobe, A.Jungclaus, V.Lapoux, J.Lee, S.Leray, K.Matsui, 
+#+          M.Matsushita, T.Motobayashi, D.Nishimura, S.Ota, E.C.Pollacco, 
+#+          G.Potel, H.Sakurai, C.Santamaria, Y.Shiga, D.Sohler, D.Steppenbeck, 
+#+          R.Taniuchi, H.Wang
+#REF-CODE   (J,PR/C,88,041602,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 041602 (doi:10.1103/PhysRevC.88.041602)
+#DATASETS   0
+#
+#DATASET    E2444004 
+#DATE       20140109
+#REACTION   6-C-12(50-SN-104,X)ELEM/MASS,,SIG
+#PROJ       50104
+#TARG       6012
+#MF         3
+#MT         454
+#C4BEGIN    [50104  6012   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+50104  6012   3 454    1.373+10          0.055000 2.0000-3           50103.9                     L.Audirac+           (13)E2444  4 
+50104  6012   3 454    1.373+10          2.1000-3 1.0000-4           50102.9                     L.Audirac+           (13)E2444  4 
+50104  6012   3 454    1.373+10          1.1000-4 3.0000-5           50101.9                     L.Audirac+           (13)E2444  4 
+50104  6012   3 454    1.373+10          6.0000-6                    50100.9                     L.Audirac+           (13)E2444  4 
+50104  6012   3 454    1.373+10          0.121000 5.0000-3           49103.9                     L.Audirac+           (13)E2444  4 
+50104  6012   3 454    1.373+10          0.090000 6.0000-3           48102.9                     L.Audirac+           (13)E2444  4 
+50104  6012   3 454    1.373+10          0.056000 5.0000-3           47101.9                     L.Audirac+           (13)E2444  4 
+50104  6012   3 454    1.373+10          0.037000 6.0000-3           46100.9                     L.Audirac+           (13)E2444  4 
+#/DATA      8
+#/DATASET

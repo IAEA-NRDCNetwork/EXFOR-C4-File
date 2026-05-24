@@ -1,0 +1,29 @@
+#ENTRY      C0358
+#AUTHOR1    D.Logan+
+#YEAR       1980
+#INSTITUTE  (1USACAR)
+#TITLE      Light-charged-particle emission in 40Ar-induced
+#+          reactions: A probe of the very early evolution of the
+#+          collisions
+#AUTHOR(S)  D.Logan, H.Delagrange, M.F.Rivet, M.Rajagopalan, J.M.Alexander, 
+#+          M.Kaplan, M.S.Zisman, E.Duek, L.Kowalski
+#REF-CODE   (J,PR/C,22,1080,1980)
+#REFERENCE  Phys.Rev.C 22 (1980) 1080 (doi:10.1103/PhysRevC.22.1080)
+#DATASETS   0
+#
+#DATASET    C0358080 
+#DATE       20170309
+#REACTION   62-SM-154(18-AR-40,F),,SIG
+#PROJ       18040
+#TARG       62154
+#MF         3
+#MT         18
+#C4BEGIN    [18040 62154   3  18 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040 62154   3  18 D  2.2100+8          0.840000 0.074000                                       D.Logan+             (80)C0358 80 
+18040 62154   3  18 D  2.7200+8          0.998000 0.102000                                       D.Logan+             (80)C0358 80 
+18040 62154   3  18 D  3.4000+8          1.563000 0.323000                                       D.Logan+             (80)C0358 80 
+#/DATA      3
+#/DATASET

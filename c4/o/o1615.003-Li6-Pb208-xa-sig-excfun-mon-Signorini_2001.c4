@@ -1,0 +1,34 @@
+#ENTRY      O1615
+#AUTHOR1    C.Signorini+
+#YEAR       2001
+#INSTITUTE  (2ITYPAD)
+#TITLE      Strong reaction channels at barrier energies in the
+#+          system Li-6+Pb-208.
+#AUTHOR(S)  C.Signorini, M.Mazzocco, G.F.Prete, F.Soramel, L.Stroe, 
+#+          A.Andrighetto, I.J.Thompson, A.Vitturi, A.Brondi, M.Cinausero, 
+#+          D.Fabris, E.Fioretto, N.Gelli, J.Y.Guo, G.La Rana, Z.H.Liu, 
+#+          F.Lucarelli, R.Moro, G.Nebbia, M.Trotta, E.Vardaci, G.Viesti
+#REF-CODE   (J,EPJ/A,10,249,2001)
+#REFERENCE  Eur.Phys.J.A 10 (2001) 249 (doi:10.1007/s100500170109)
+#DATASETS   0
+#
+#DATASET    O1615003 
+#DATE       20070523
+#REACTION   82-PB-208(3-LI-6,X)2-HE-4,,SIG
+#PROJ       3006
+#TARG       82208
+#MF         3
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 3006 82208   3 207 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 82208   3 207 D  2.8894+7          0.121000                                                C.Signorini+         (01)O1615  3 
+ 3006 82208   3 207 D  3.1024+7          0.232000                                                C.Signorini+         (01)O1615  3 
+ 3006 82208   3 207 D  3.2980+7          0.321000                                                C.Signorini+         (01)O1615  3 
+ 3006 82208   3 207 D  3.4935+7          0.392000                                                C.Signorini+         (01)O1615  3 
+ 3006 82208   3 207 D  3.5521+7          0.419000                                                C.Signorini+         (01)O1615  3 
+ 3006 82208   3 207 D  3.9072+7          0.468000                                                C.Signorini+         (01)O1615  3 
+#/DATA      6
+#/DATASET

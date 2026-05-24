@@ -1,0 +1,32 @@
+#ENTRY      22824
+#AUTHOR1    I.A.Reyhancan+
+#YEAR       2003
+#INSTITUTE  (2TUKCNA)
+#TITLE      .Measurements and statistical model calculations of
+#+          activation cross sections for 19-F(n,p)19-O reaction
+#+          between 13.6 and 14.9 MeV neutron energies
+#AUTHOR(S)  I.A.Reyhancan
+#REF-CODE   (J,ANE,30,1001,2003)
+#REFERENCE  Ann.Nucl.Energy 30 (2003) 1001 (doi:10.1016/S0306-4549(03)00010-0)
+#DATASETS   0
+#
+#DATASET    22824002 
+#DATE       20040128
+#REACTION   9-F-19(N,P)8-O-19,,SIG
+#PROJ       1
+#TARG       9019
+#MF         3
+#MT         103
+#PRODUCT    8-O-19
+#C4BEGIN    [    1  9019   3 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  9019   3 103    1.4860+7          0.017920 9.4000-4                                       I.A.Reyhancan        (03)22824  2 
+    1  9019   3 103    1.4720+7          0.018430 9.7000-4                                       I.A.Reyhancan        (03)22824  2 
+    1  9019   3 103    1.4460+7          0.019210 1.0100-3                                       I.A.Reyhancan        (03)22824  2 
+    1  9019   3 103    1.4100+7          0.018720 9.8000-4                                       I.A.Reyhancan        (03)22824  2 
+    1  9019   3 103    1.3680+7          0.020640 1.0900-3                                       I.A.Reyhancan        (03)22824  2 
+    1  9019   3 103    1.3600+7          0.017570 9.2000-4                                       I.A.Reyhancan        (03)22824  2 
+#/DATA      6
+#/DATASET

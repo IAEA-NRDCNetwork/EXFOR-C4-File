@@ -1,0 +1,36 @@
+#ENTRY      40389
+#AUTHOR1    N.V.Skovorodkin+
+#YEAR       1973
+#INSTITUTE  (4RUSRI)
+#TITLE      Fragment yields from the slow-neutron fission of 241Am
+#+          and 241Pu
+#AUTHOR(S)  N.V.Skovorodkin, A.V.Sorokina, K.A.Petrzhak, A.S.Krivokhatskii, 
+#+          G.E.Lozhkomoev
+#REF-CODE   (J,SJA,35,1109,1973)
+#REFERENCE  Sov.At.Energy 35 (1973) 1109 (doi:10.1007/BF01161890)
+#DATASETS   0
+#
+#DATASET    40389002 
+#DATE       20220322
+#REACTION   95-AM-241(N,F)ELEM/MASS,CUM,FY,,SPA
+#PROJ       1
+#TARG       95241
+#MF         8
+#MT         459
+#C4BEGIN    [    1 95241   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 95241   8 459    0.025300          0.010700 7.0000-4 38.00000 89.00000 9.000000            N.V.Skovorodkin+     (73)40389  2 
+    1 95241   8 459    0.025300          0.013700 1.0000-3 38.00000 90.00000 9.000000            N.V.Skovorodkin+     (73)40389  2 
+    1 95241   8 459    0.025300          0.040300 1.5000-3 40.00000 95.00000 9.000000            N.V.Skovorodkin+     (73)40389  2 
+    1 95241   8 459    0.025300          0.053700 2.1000-3 40.00000 97.00000 9.000000            N.V.Skovorodkin+     (73)40389  2 
+    1 95241   8 459    0.025300          0.065500 1.8000-3 42.00000 99.00000 9.000000            N.V.Skovorodkin+     (73)40389  2 
+    1 95241   8 459    0.025300          5.7000-3 2.0000-4 46.00000 112.0000 9.000000            N.V.Skovorodkin+     (73)40389  2 
+    1 95241   8 459    0.025300          0.048800 1.9000-3 52.00000 132.0000 9.000000            N.V.Skovorodkin+     (73)40389  2 
+    1 95241   8 459    0.025300          0.065800 2.1000-3 56.00000 139.0000 9.000000            N.V.Skovorodkin+     (73)40389  2 
+    1 95241   8 459    0.025300          0.060200 1.7000-3 56.00000 140.0000 9.000000            N.V.Skovorodkin+     (73)40389  2 
+    1 95241   8 459    0.025300          0.047100 1.6000-3 58.00000 141.0000 9.000000            N.V.Skovorodkin+     (73)40389  2 
+    1 95241   8 459    0.025300          0.034100 9.0000-4 58.00000 144.0000 9.000000            N.V.Skovorodkin+     (73)40389  2 
+#/DATA      11
+#/DATASET

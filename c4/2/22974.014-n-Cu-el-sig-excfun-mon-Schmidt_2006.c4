@@ -1,0 +1,35 @@
+#ENTRY      22974
+#AUTHOR1    D.Schmidt+
+#YEAR       2006
+#INSTITUTE  (2GERPTB)
+#TITLE      .Determination of Differential Elastic and Inelastic
+#+          and Double-differential Neutron Scattering Cross
+#+          Sections of Elemental Copper at Energies between
+#+          6.95 MeV and 14.18 MeV.
+#AUTHOR(S)  D.Schmidt, W.Mannhart
+#REF-CODE   (R,PTB-N-52,2006)
+#REFERENCE  Report PTB-N-52, 2006
+#DATASETS   0
+#
+#DATASET    22974014 
+#DATE       20071017
+#REACTION   29-CU-0(N,EL)29-CU-0,,SIG
+#PROJ       1
+#TARG       29000
+#MF         3
+#MT         2
+#PRODUCT    29-CU-0
+#C4BEGIN    [    1 29000   3   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   3   2 D  6950000. 20000.00 2.172000 0.042354                                       D.Schmidt+           (06)22974 14 
+    1 29000   3   2 D  8070000. 20000.00 2.144200 0.042391                                       D.Schmidt+           (06)22974 14 
+    1 29000   3   2 D  8960000. 20000.00 2.011500 0.040411                                       D.Schmidt+           (06)22974 14 
+    1 29000   3   2 D  9900000. 20000.00 1.894500 0.038686                                       D.Schmidt+           (06)22974 14 
+    1 29000   3   2 D  1.0860+7 20000.00 1.854200 0.038530                                       D.Schmidt+           (06)22974 14 
+    1 29000   3   2 D  1.1900+7 20000.00 1.678400 0.036304                                       D.Schmidt+           (06)22974 14 
+    1 29000   3   2 D  1.2930+7 20000.00 1.561800 0.033782                                       D.Schmidt+           (06)22974 14 
+    1 29000   3   2 D  1.4180+7 20000.00 1.422100 0.030490                                       D.Schmidt+           (06)22974 14 
+#/DATA      8
+#/DATASET

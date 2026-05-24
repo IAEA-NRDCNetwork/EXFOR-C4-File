@@ -1,0 +1,55 @@
+#ENTRY      14002
+#AUTHOR1    M.O'Connor+
+#YEAR       1996
+#INSTITUTE  (1USALTI)
+#TITLE      Elastic and inelastic neutron scattering in 197Au at
+#+          1.5 MeV
+#AUTHOR(S)  M.O'Connor, G.Yue, J.Chen, C.Narayan, G.H.R.Kegel, J.J.Egan
+#REF-CODE   (T,O'CONNOR,1996)
+#REFERENCE  Thesis  (1996)
+#DATASETS   0
+#
+#DATASET    14002002 
+#DATE       20240627
+#REACTION   79-AU-197(N,INL)79-AU-197,PAR,DA
+#PROJ       1
+#TARG       79197
+#MF         4
+#MT         51
+#PRODUCT    79-AU-197
+#C4BEGIN    [    1 79197   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   4  51    1000000.          0.022830 8.8340-3 0.759703          77351.00         LVLM.O'Connor+          (96)14002  2 
+    1 79197   4  51    1000000.          0.023550 6.8910-3 0.566694          77351.00         LVLM.O'Connor+          (96)14002  2 
+    1 79197   4  51    1000000.          0.014200 5.6530-3 0.340166          77351.00         LVLM.O'Connor+          (96)14002  2 
+    1 79197   4  51    1000000.          0.023410 9.3640-3-1.4661-3          77351.00         LVLM.O'Connor+          (96)14002  2 
+    1 79197   4  51    1000000.          0.023250 9.1860-3-0.258903          77351.00         LVLM.O'Connor+          (96)14002  2 
+    1 79197   4  51    1000000.          0.016200 6.3600-3-0.569423          77351.00         LVLM.O'Connor+          (96)14002  2 
+#/DATA      6
+#/DATASET
+#
+#DATASET    14002002 
+#DATE       20240627
+#REACTION   79-AU-197(N,INL)79-AU-197,PAR,DA
+#PROJ       1
+#TARG       79197
+#MF         4
+#MT         51
+#PRODUCT    79-AU-197
+#C4BEGIN    [    1 79197   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   4  51    1500000.          0.027640 0.011800 0.809017          77351.00         LVLM.O'Connor+          (96)14002  2 
+    1 79197   4  51    1500000.          0.026230 7.9220-3 0.696214          77351.00         LVLM.O'Connor+          (96)14002  2 
+    1 79197   4  51    1500000.          0.024820 7.5700-3 0.558165          77351.00         LVLM.O'Connor+          (96)14002  2 
+    1 79197   4  51    1500000.          0.010390 4.7530-3 0.244918          77351.00         LVLM.O'Connor+          (96)14002  2 
+    1 79197   4  51    1500000.          0.018310 5.4580-3-0.013892          77351.00         LVLM.O'Connor+          (96)14002  2 
+    1 79197   4  51    1500000.          0.015140 6.6900-3-0.271776          77351.00         LVLM.O'Connor+          (96)14002  2 
+    1 79197   4  51    1500000.          0.018840 8.0980-3-0.432810          77351.00         LVLM.O'Connor+          (96)14002  2 
+    1 79197   4  51    1500000.          0.015840 6.8660-3-0.581016          77351.00         LVLM.O'Connor+          (96)14002  2 
+    1 79197   4  51    1500000.          8.4500-3 3.3450-3-0.712002          77351.00         LVLM.O'Connor+          (96)14002  2 
+#/DATA      9
+#/DATASET

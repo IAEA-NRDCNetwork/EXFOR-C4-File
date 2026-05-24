@@ -1,0 +1,28 @@
+#ENTRY      A0592
+#AUTHOR1    Kuen-Bey Chen+
+#YEAR       1994
+#INSTITUTE  (3CHFTHU)
+#TITLE      Cross section and recoil properties of the products
+#+          from the interaction of 240-MeV 12-C ions with nat-Ag
+#AUTHOR(S)  Kuen-Bey Chen, Yu-Wen Yu
+#REF-CODE   (J,NP/A,569,616,1994)
+#REFERENCE  Nucl.Phys.A 569 (1994) 616 (doi:10.1016/0375-9474(94)90322-0)
+#DATASETS   0
+#
+#DATASET    A0592004 
+#DATE       20250708
+#REACTION   47-AG-0(6-C-12,X)ELEM/MASS,,SIG
+#PROJ       6012
+#TARG       47000
+#MF         3
+#MT         454
+#C4BEGIN    [ 6012 47000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 47000   3 454    2.4000+8          6.0000-5 8.0000-6           21048.9                     Kuen-Bey Chen+       (94)A0592  4 
+ 6012 47000   3 454    2.4000+8          1.3300-4 2.0000-5           25052.0                     Kuen-Bey Chen+       (94)A0592  4 
+ 6012 47000   3 454    2.4000+8          4.3000-3 2.0000-4           45099.0                     Kuen-Bey Chen+       (94)A0592  4 
+ 6012 47000   3 454    2.4000+8          0.051000 1.0000-3           47106.1                     Kuen-Bey Chen+       (94)A0592  4 
+#/DATA      4
+#/DATASET

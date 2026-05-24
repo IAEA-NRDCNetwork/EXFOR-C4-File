@@ -1,0 +1,31 @@
+#ENTRY      C2427
+#AUTHOR1    E.F.Neuzil+
+#YEAR       1969
+#INSTITUTE  (1USAWWS)
+#TITLE      Comparison of the 197Au(p,fission) to the
+#+          194Pt(alpha,fission) at an excitation of 40.5 MeV
+#AUTHOR(S)  E.F.Neuzil, K.Apt
+#REF-CODE   (J,JIN,31,1571,1969)
+#REFERENCE  J.Inorg.Nucl.Chem. 31 (1969) 1571 (doi:10.1016/0022-1902(69)80371-4)
+#DATASETS   0
+#
+#DATASET    C2427002 
+#DATE       20191210
+#REACTION   79-AU-197(P,F)ELEM/MASS,,SIG
+#PROJ       1001
+#TARG       79197
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 79197   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   3 454    3.2000+7          5.0000-6 1.0000-6           38092.9                     E.F.Neuzil+          (69)C2427  2 
+ 1001 79197   3 454    3.2000+7          6.3000-6 1.2600-6           39093.9                     E.F.Neuzil+          (69)C2427  2 
+ 1001 79197   3 454    3.2000+7          7.3000-6 1.4600-6           42099.9                     E.F.Neuzil+          (69)C2427  2 
+ 1001 79197   3 454    3.2000+7          2.0000-6 4.0000-7           46109.9                     E.F.Neuzil+          (69)C2427  2 
+ 1001 79197   3 454    3.2000+7          1.0000-6 2.0000-7           46112.9                     E.F.Neuzil+          (69)C2427  2 
+ 1001 79197   3 454    3.2000+7          2.3000-6 4.6000-7           47111.9                     E.F.Neuzil+          (69)C2427  2 
+ 1001 79197   3 454    3.2000+7          1.0000-6 2.0000-7           47113.9                     E.F.Neuzil+          (69)C2427  2 
+#/DATA      7
+#/DATASET

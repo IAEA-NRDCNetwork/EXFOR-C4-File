@@ -1,0 +1,32 @@
+#ENTRY      A1133
+#AUTHOR1    M.D.Goldberg+
+#YEAR       1961
+#INSTITUTE  (1USALRL)
+#TITLE      Angular distributions of T(p,n)3He neutrons for 3.4 to
+#+          12.4 MeV protons
+#AUTHOR(S)  M.D.Goldberg, J.D.Anderson, J.P.Stoering, C.Wong
+#REF-CODE   (J,PR,122,1510,1961)
+#REFERENCE  Phys.Rev. 122 (1961) 1510 (doi:10.1103/PhysRev.122.1510)
+#DATASETS   0
+#
+#DATASET    A1133004 
+#DATE       20240710
+#REACTION   1-H-3(P,N)2-HE-3,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1003   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4   4    4262000. 85240.00 0.076820 9.1200-3 1.000000                              M.D.Goldberg+        (61)A1133  4 
+ 1001  1003   4   4    6483000. 129660.0 0.035690 4.2500-3 1.000000                              M.D.Goldberg+        (61)A1133  4 
+ 1001  1003   4   4    8001000. 160020.0 0.024900 3.0400-3 1.000000                              M.D.Goldberg+        (61)A1133  4 
+ 1001  1003   4   4    8788000. 175760.0 0.027410 3.6500-3 1.000000                              M.D.Goldberg+        (61)A1133  4 
+ 1001  1003   4   4    1.0270+7 205400.0 0.029380 3.0400-3 1.000000                              M.D.Goldberg+        (61)A1133  4 
+ 1001  1003   4   4    1.1510+7 230200.0 0.032540 3.6500-3 1.000000                              M.D.Goldberg+        (61)A1133  4 
+ 1001  1003   4   4    1.2420+7 248400.0 0.034450 3.6500-3 1.000000                              M.D.Goldberg+        (61)A1133  4 
+#/DATA      7
+#/DATASET

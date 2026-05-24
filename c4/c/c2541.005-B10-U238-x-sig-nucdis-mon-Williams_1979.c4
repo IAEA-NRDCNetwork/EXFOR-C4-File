@@ -1,0 +1,27 @@
+#ENTRY      C2541
+#AUTHOR1    K.E.Williams+
+#YEAR       1979
+#INSTITUTE  (1USABRK)
+#TITLE      New isotope 242Bk
+#AUTHOR(S)  K.E.Williams, G.T.Seaborg
+#REF-CODE   (J,PR/C,19,1794,1979)
+#REFERENCE  Phys.Rev.C 19 (1979) 1794 (doi:10.1103/PhysRevC.19.1794)
+#DATASETS   0
+#
+#DATASET    C2541005 
+#DATE       20200501
+#REACTION   92-U-238(5-B-10,X)ELEM/MASS,,SIG
+#PROJ       5010
+#TARG       92238
+#MF         3
+#MT         454
+#C4BEGIN    [ 5010 92238   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5010 92238   3 454    6.7000+7          1.2000-7                    96240.9                     K.E.Williams+        (79)C2541  5 
+ 5010 92238   3 454    6.7000+7          5.1000-5                    96242.9                     K.E.Williams+        (79)C2541  5 
+ 5010 92238   3 454    6.7000+7          6.0000-5                    96242.9                     K.E.Williams+        (79)C2541  5 
+ 5010 92238   3 454    6.7000+7          8.9000-6                    97242.9                     K.E.Williams+        (79)C2541  5 
+#/DATA      4
+#/DATASET

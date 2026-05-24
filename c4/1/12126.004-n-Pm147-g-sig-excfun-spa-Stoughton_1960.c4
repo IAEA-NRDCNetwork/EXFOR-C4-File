@@ -1,0 +1,28 @@
+#ENTRY      12126
+#AUTHOR1    R.W.Stoughton+
+#YEAR       1960
+#INSTITUTE  (1USAORL)
+#TITLE      MEASUREMENTS OF THERMAL CROSS-SECTIONS AND RESONANCE
+#+          INTEGRALS USING PILE NEUTRONS AND ACTIVATION
+#+          TECHNIQUES.
+#AUTHOR(S)  R.W.Stoughton, J.Halperin, R.E.Druschel, F.J.Johnston, P.M.Lantz, 
+#+          J.H.Oliver, G.W.Parker
+#REF-CODE   (C,60VIENNA,,239,6010)
+#REFERENCE  Proceedings of Pile Neutron Research Symp., Vienna 1960 page 239
+#DATASETS   0
+#
+#DATASET    12126004 
+#DATE       19821012
+#REACTION   61-PM-147(N,G)61-PM-148-G,,SIG,,SPA
+#PROJ       1
+#TARG       61147
+#MF         3
+#MT         102
+#PRODUCT    61-PM-148-G
+#C4BEGIN    [    1 61147   3 102G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 61147   3 102G   0.025300          140.0000                                                R.W.Stoughton+       (60)12126  4 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      31692
+#AUTHOR1    N.Kornilov+
+#YEAR       2010
+#INSTITUTE  (1USAOHO)
+#TITLE      The 235U(n,f) prompt fission neutron spectrum at 100 K
+#+          input neutron energy
+#AUTHOR(S)  N.Kornilov, F.-J.Hambsch, I.Fabry, S.Oberstedt, T.Belgya, 
+#+          Z.Kis, L.Szentmiklosi, S.Simakov
+#REF-CODE   (J,NSE,165,117,2010)
+#REFERENCE  Nucl.Sci.Eng. 165 (2010) 117 (doi:10.13182/NSE09-25)
+#DATASETS   0
+#
+#DATASET    316920042
+#DATE       20110111
+#REACTION   92-U-235(N,F),PR,NU,,MXW
+#PROJ       1
+#TARG       92235
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92235   1 456 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   1 456 A  100.0000          2.548000                                                N.Kornilov+          (10)31692  42
+#/DATA      1
+#/DATASET

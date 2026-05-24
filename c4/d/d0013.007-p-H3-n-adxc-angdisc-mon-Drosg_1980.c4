@@ -1,0 +1,29 @@
+#ENTRY      D0013
+#AUTHOR1    M.Drosg+
+#YEAR       1980
+#INSTITUTE  (1USALAS)
+#TITLE      The 3H(p,n)3He differential cross sections below 5 MeV
+#+          and the n-3He cross sections
+#AUTHOR(S)  M.Drosg
+#REF-CODE   (R,LA-8215-MS,1980)
+#REFERENCE  Report LA-8215-MS, 1980
+#DATASETS   0
+#
+#DATASET    D0013007 
+#DATE       20150710
+#REACTION   1-H-3(P,N)2-HE-3,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1003   4   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4   4 AC 1990000.          0.027900 5.8590-4 1.000000                              M.Drosg              (80)D0013  7 
+ 1001  1003   4   4 AC 1990000.          0.021900 2.1900-4 0.629320                              M.Drosg              (80)D0013  7 
+ 1001  1003   4   4 AC 1990000.          0.020900 2.0900-4 0.425779                              M.Drosg              (80)D0013  7 
+ 1001  1003   4   4 AC 1990000.          0.026500 3.9750-4-0.118404                              M.Drosg              (80)D0013  7 
+#/DATA      4
+#/DATASET

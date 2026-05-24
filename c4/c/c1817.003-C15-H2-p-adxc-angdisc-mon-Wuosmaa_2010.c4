@@ -1,0 +1,35 @@
+#ENTRY      C1817
+#AUTHOR1    A.H.Wuosmaa+
+#YEAR       2010
+#INSTITUTE  (1USAWMU)
+#TITLE      15C(d,p)16C Reaction and Exotic Behavior in 16C
+#AUTHOR(S)  A.H.Wuosmaa, B.B.Back, S.Baker, B.A.Brown, C.M.Deibel, P.Fallon, 
+#+          C.R.Ho Ffman, B.P.Kay, H.Y.Lee, J.C.Lighthall, A.O.Macchiavelli, 
+#+          S.T.Marley, R.C.Pardo, K.E.Rehm, J.P.Schiffer, D.V.Shetty, 
+#+          M.Wiedeking
+#REF-CODE   (J,PRL,105,132501,2010)
+#REFERENCE  Phys.Rev.Lett. 105 (2010) 132501 (doi:10.1103/PhysRevLett.105.132501)
+#DATASETS   0
+#
+#DATASET    C1817003 
+#DATE       20101020
+#REACTION   1-H-2(6-C-15,P)6-C-16,PAR,DA
+#PROJ       6015
+#TARG       1002
+#MF         4
+#MT         600
+#PRODUCT    6-C-16
+#C4BEGIN    [ 6015  1002   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6015  1002   4 600  C 1.2300+8          0.019610 3.3300-3 0.987052 7.8945-3 1766000.         LVLA.H.Wuosmaa+         (10)C1817  3 
+ 6015  1002   4 600  C 1.2300+8          0.022330 1.2900-3 0.963444 0.010427 1766000.         LVLA.H.Wuosmaa+         (10)C1817  3 
+ 6015  1002   4 600  C 1.2300+8          0.022590 1.1700-3 0.940940 0.016073 1766000.         LVLA.H.Wuosmaa+         (10)C1817  3 
+ 6015  1002   4 600  C 1.2300+8          0.014230 9.2000-4 0.911475 0.013569 1766000.         LVLA.H.Wuosmaa+         (10)C1817  3 
+ 6015  1002   4 600  C 1.2300+8          9.9700-3 7.8000-4 0.884418 0.015150 1766000.         LVLA.H.Wuosmaa+         (10)C1817  3 
+ 6015  1002   4 600  C 1.2300+8          6.7700-3 7.3000-4 0.856898 0.012506 1766000.         LVLA.H.Wuosmaa+         (10)C1817  3 
+ 6015  1002   4 600  C 1.2300+8          5.3000-3 4.9000-4 0.830110 0.015960 1766000.         LVLA.H.Wuosmaa+         (10)C1817  3 
+ 6015  1002   4 600  C 1.2300+8          1.8800-3 2.9000-4 0.796741 0.017509 1766000.         LVLA.H.Wuosmaa+         (10)C1817  3 
+#/DATA      8
+#/DATASET

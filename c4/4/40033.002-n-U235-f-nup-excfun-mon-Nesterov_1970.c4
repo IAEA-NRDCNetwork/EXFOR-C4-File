@@ -1,0 +1,37 @@
+#ENTRY      40033
+#AUTHOR1    V.G.Nesterov+
+#YEAR       1970
+#INSTITUTE  (4RUSFEI)
+#TITLE      Average number of prompt neutrons in the fission of
+#+          Uranium-235 and Plutonium-239 by neutrons.
+#AUTHOR(S)  V.G.Nesterov, B.Nurpeisov, L.I.Prokhorova, G.N.Smirenkin, 
+#+          Yu.M.Turchin, I.I.Kotukhov
+#REF-CODE   (C,70HELSINKI,2,167,197006)
+#REFERENCE  Proceedings of Nuclear Data for Reactors Conf., Helsinki 1970 2 page 167
+#DATASETS   0
+#
+#DATASET    40033002 
+#DATE       20111028
+#REACTION   92-U-235(N,F),PR,NU
+#PROJ       1
+#TARG       92235
+#MF         1
+#MT         456
+#C4BEGIN    [    1 92235   1 456 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   1 456 D  80000.00          2.404000 0.014000                                       V.G.Nesterov+        (70)40033  2 
+    1 92235   1 456 D  214000.0 40000.00 2.467000 0.020000                                       V.G.Nesterov+        (70)40033  2 
+    1 92235   1 456 D  322000.0 43000.00 2.457000 0.020000                                       V.G.Nesterov+        (70)40033  2 
+    1 92235   1 456 D  408000.0 42000.00 2.474000 0.024000                                       V.G.Nesterov+        (70)40033  2 
+    1 92235   1 456 D  510000.0 39000.00 2.484000 0.027000                                       V.G.Nesterov+        (70)40033  2 
+    1 92235   1 456 D  686000.0 39000.00 2.452000 0.025000                                       V.G.Nesterov+        (70)40033  2 
+    1 92235   1 456 D  810000.0 38000.00 2.514000 0.020000                                       V.G.Nesterov+        (70)40033  2 
+    1 92235   1 456 D  910000.0 37000.00 2.518000 0.026000                                       V.G.Nesterov+        (70)40033  2 
+    1 92235   1 456 D  1002000. 62000.00 2.558000 0.025000                                       V.G.Nesterov+        (70)40033  2 
+    1 92235   1 456 D  1112000. 35000.00 2.578000 0.022000                                       V.G.Nesterov+        (70)40033  2 
+    1 92235   1 456 D  1314000. 35000.00 2.574000 0.024000                                       V.G.Nesterov+        (70)40033  2 
+    1 92235   1 456 D  1515000. 35000.00 2.572000 0.025000                                       V.G.Nesterov+        (70)40033  2 
+#/DATA      12
+#/DATASET

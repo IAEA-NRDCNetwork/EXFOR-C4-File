@@ -1,0 +1,31 @@
+#ENTRY      F1461
+#AUTHOR1    S.V.Ermolaev+
+#YEAR       2020
+#INSTITUTE  (4RUSJIA)
+#TITLE      Cross sections and production yields of 117mSn and
+#+          other radionuclides generated in natural and enriched
+#+          antimony with protons up to 145 MeV
+#AUTHOR(S)  S.V.Ermolaev, B.L.Zhuikov, V.M.Kokhanyuk, V.L.Matushko, 
+#+          S.C.Srivastava
+#REF-CODE   (J,RCA,108,327,2020)
+#REFERENCE  Radiochim.Acta 108 (2020) 327 (doi:10.1515/ract-2019-3158)
+#DATASETS   0
+#
+#DATASET    F1461026 
+#DATE       20220321
+#REACTION   51-SB-123(P,N)52-TE-123-M,,SIG
+#PROJ       1001
+#TARG       51123
+#MF         3
+#MT         4
+#PRODUCT    52-TE-123-M
+#C4BEGIN    [ 1001 51123   3   4MA]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 51123   3   4MA  4.0300+7 1200000. 6.0000-4 1.0000-4                                       S.V.Ermolaev+        (20)F1461 26 
+ 1001 51123   3   4MA  3.5900+7 1300000. 5.1000-3 9.0000-4                                       S.V.Ermolaev+        (20)F1461 26 
+ 1001 51123   3   4MA  3.4400+7 1400000. 5.3000-3 9.0000-4                                       S.V.Ermolaev+        (20)F1461 26 
+ 1001 51123   3   4MA  3.2900+7 1400000. 8.7000-3 1.5000-3                                       S.V.Ermolaev+        (20)F1461 26 
+#/DATA      4
+#/DATASET

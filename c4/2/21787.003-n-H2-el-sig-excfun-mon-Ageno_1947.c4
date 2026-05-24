@@ -1,0 +1,28 @@
+#ENTRY      21787
+#AUTHOR1    M.Ageno+
+#YEAR       1947
+#INSTITUTE  (2ITYISR)
+#TITLE      On the scattering of fast neutrons
+#+          by protons and deuterons
+#AUTHOR(S)  M.Ageno, E.Amaldi, D.Bocciarelli, G.C.Trabacchi
+#REF-CODE   (J,PR,71,20,1947)
+#REFERENCE  Phys.Rev. 71 (1947) 20 (doi:10.1103/PhysRev.71.20)
+#DATASETS   0
+#
+#DATASET    21787003 
+#DATE       20211225
+#REACTION   1-H-2(N,EL)1-H-2,,SIG
+#PROJ       1
+#TARG       1002
+#MF         3
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   3   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   3   2    4100000.          1.790000 0.080000                                       M.Ageno+             (47)21787  3 
+    1  1002   3   2    1.2500+7          0.780000 0.120000                                       M.Ageno+             (47)21787  3 
+    1  1002   3   2    1.3500+7          0.864000 0.028000                                       M.Ageno+             (47)21787  3 
+#/DATA      3
+#/DATASET

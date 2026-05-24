@@ -1,0 +1,25 @@
+#ENTRY      12497
+#AUTHOR1    E.K.Hulet+
+#YEAR       1957
+#INSTITUTE  (1USALRL)
+#TITLE      Thermal neutron fission cross sections for isotopes
+#+          of plutonium,americium and curium.
+#AUTHOR(S)  E.K.Hulet, R.W.Hoff, H.R.Bowman, M.C.Michel
+#REF-CODE   (J,PR,107,1294,195705)
+#REFERENCE  Phys.Rev. 107 (1957) 1294 (doi:10.1103/PhysRev.107.1294)
+#DATASETS   0
+#
+#DATASET    12497008 
+#DATE       20120814
+#REACTION   96-CM-245(N,F),,SIG,,MXW
+#PROJ       1
+#TARG       96245
+#MF         3
+#MT         18
+#C4BEGIN    [    1 96245   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 96245   3  18    0.025300          1880.000 150.0000                                       E.K.Hulet+           (57)12497  8 
+#/DATA      1
+#/DATASET

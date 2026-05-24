@@ -1,0 +1,26 @@
+#ENTRY      30271
+#AUTHOR1    T.Biro+
+#YEAR       1975
+#INSTITUTE  (3HUNKOS)
+#TITLE      Cross-sections of (n,t) reactions with 14.7 MeV
+#+          neutrons determined by direct beta-counting of tritium
+#AUTHOR(S)  T.Biro, S.Sudar, J.Csikai, Z.Dezso
+#REF-CODE   (J,JIN,37,1583,1975)
+#REFERENCE  J.Inorg.Nucl.Chem. 37 (1975) 1583 (doi:10.1016/0022-1902(75)80279-X)
+#DATASETS   0
+#
+#DATASET    30271010 
+#DATE       20081203
+#REACTION   27-CO-59(N,T)26-FE-57,,SIG
+#PROJ       1
+#TARG       27059
+#MF         3
+#MT         105
+#PRODUCT    26-FE-57
+#C4BEGIN    [    1 27059   3 105 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   3 105 A  1.4700+7          6.5000-4 1.3000-4                                       T.Biro+              (75)30271 10 
+#/DATA      1
+#/DATASET

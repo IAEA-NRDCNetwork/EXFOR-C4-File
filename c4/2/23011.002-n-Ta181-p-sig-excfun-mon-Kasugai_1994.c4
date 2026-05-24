@@ -1,0 +1,32 @@
+#ENTRY      23011
+#AUTHOR1    Y.Kasugai+
+#YEAR       1994
+#INSTITUTE  (2JPNNAG)
+#TITLE      Measurement of activation cross sections on tantalum
+#+          and tungsten with 14 MeV neutrons
+#AUTHOR(S)  Y.Kasugai, M.Asai, A.Tanaka, H.Yamamoto, I.Jun, T.Iida, 
+#+          K.Kawade
+#REF-CODE   (J,NST,31,(12),1248,199412)
+#REFERENCE  J.Nucl.Sci.Technol. 31 No.12 (1994) 1248 (doi:10.1080/18811248.1994.9735287)
+#DATASETS   0
+#
+#DATASET    23011002 
+#DATE       20071203
+#REACTION   73-TA-181(N,P)72-HF-181,,SIG
+#PROJ       1
+#TARG       73181
+#MF         3
+#MT         103
+#PRODUCT    72-HF-181
+#C4BEGIN    [    1 73181   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 73181   3 103 A  1.3400+7 50000.00 2.1700-3 1.4105-4                                       Y.Kasugai+           (94)23011  2 
+    1 73181   3 103 A  1.3650+7 50000.00 2.3400-3 1.4742-4                                       Y.Kasugai+           (94)23011  2 
+    1 73181   3 103 A  1.3880+7 50000.00 2.8100-3 1.7703-4                                       Y.Kasugai+           (94)23011  2 
+    1 73181   3 103 A  1.4280+7 50000.00 3.1900-3 2.0735-4                                       Y.Kasugai+           (94)23011  2 
+    1 73181   3 103 A  1.4580+7 50000.00 3.9200-3 2.4696-4                                       Y.Kasugai+           (94)23011  2 
+    1 73181   3 103 A  1.4870+7 50000.00 4.1600-3 2.5376-4                                       Y.Kasugai+           (94)23011  2 
+#/DATA      6
+#/DATASET

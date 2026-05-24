@@ -1,0 +1,30 @@
+#ENTRY      F0205
+#AUTHOR1    R.L.Hahn+
+#YEAR       1966
+#INSTITUTE  (1USAORL)
+#TITLE      Interactions of 3He particles with 9Be,12C,16O and 19F
+#AUTHOR(S)  R.L.Hahn, E.Ricci
+#REF-CODE   (J,PR,146,650,1966)
+#REFERENCE  Phys.Rev. 146 (1966) 650 (doi:10.1103/PhysRev.146.650)
+#DATASETS   0
+#
+#DATASET    F02050052
+#DATE       20210514
+#REACTION   9-F-19(HE3,N+A)9-F-17,,SIG
+#PROJ       2003
+#TARG       9019
+#MF         3
+#MT         22
+#PRODUCT    9-F-17
+#C4BEGIN    [ 2003  9019   3  22  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  9019   3  22    3700000. 500000.0 4.5200-3 8.1000-4                                       R.L.Hahn+            (66)F0205  52
+ 2003  9019   3  22    4900000. 400000.0 0.018700 2.1000-3                                       R.L.Hahn+            (66)F0205  52
+ 2003  9019   3  22    6050000. 350000.0 0.028600 3.1000-3                                       R.L.Hahn+            (66)F0205  52
+ 2003  9019   3  22    7100000. 300000.0 0.044000 4.4000-3                                       R.L.Hahn+            (66)F0205  52
+ 2003  9019   3  22    8250000. 250000.0 0.050400 5.0000-3                                       R.L.Hahn+            (66)F0205  52
+ 2003  9019   3  22    9350000. 250000.0 0.045200 4.5000-3                                       R.L.Hahn+            (66)F0205  52
+#/DATA      6
+#/DATASET

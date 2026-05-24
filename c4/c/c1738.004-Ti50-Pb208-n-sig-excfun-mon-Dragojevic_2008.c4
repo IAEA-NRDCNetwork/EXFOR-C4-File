@@ -1,0 +1,34 @@
+#ENTRY      C1738
+#AUTHOR1    I.Dragojevic+
+#YEAR       2008
+#INSTITUTE  (1USAUCX)
+#TITLE      Influence of projectile neutron number in the
+#+          208Pb(48Ti,n)255Rf and 208Pb(50Ti,n)257Rf reactions
+#AUTHOR(S)  I.Dragojevic, K.E.Gregorich, Ch.E.Dullmann, M.A.Garcia, 
+#+          J.M.Gates, S.L.Nelson, L.Stavsetra, R.Sudowe, H.Nitsche
+#REF-CODE   (J,PR/C,78,024605,2008)
+#REFERENCE  Phys.Rev.C 78 (2008) 024605 (doi:10.1103/PhysRevC.78.024605)
+#DATASETS   0
+#
+#DATASET    C1738004 
+#DATE       20170403
+#REACTION   82-PB-208(22-TI-50,N)104-RF-257,,SIG
+#PROJ       22050
+#TARG       82208
+#MF         3
+#MT         4
+#PRODUCT    104-RF-257
+#C4BEGIN    [22050 82208   3   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+22050 82208   3   4    2.2850+8 2285000. 1.1700-8                                                I.Dragojevic+        (08)C1738  4 
+22050 82208   3   4    2.2950+8 2295000. 2.6500-8                                                I.Dragojevic+        (08)C1738  4 
+22050 82208   3   4    2.3050+8 2305000. 4.3000-8                                                I.Dragojevic+        (08)C1738  4 
+22050 82208   3   4    2.3260+8 2326000. 2.0000-8                                                I.Dragojevic+        (08)C1738  4 
+22050 82208   3   4    2.3460+8 2346000. 1.4000-8                                                I.Dragojevic+        (08)C1738  4 
+22050 82208   3   4    2.3600+8 2360000. 4.7000-9                                                I.Dragojevic+        (08)C1738  4 
+22050 82208   3   4    2.3900+8 2390000. 1.000-09                                                I.Dragojevic+        (08)C1738  4 
+22050 82208   3   4    2.4200+8 2420000. 3.800-10                                                I.Dragojevic+        (08)C1738  4 
+#/DATA      8
+#/DATASET

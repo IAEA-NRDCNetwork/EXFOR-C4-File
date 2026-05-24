@@ -1,0 +1,31 @@
+#ENTRY      D6303
+#AUTHOR1    H.Kumar+
+#YEAR       2017
+#INSTITUTE  (3INDMUA)
+#TITLE      Investigation of incomplete fusion dynamics at energy
+#+          4-8 MeV/nucleon
+#AUTHOR(S)  H.Kumar, S.A.Tali, M.A.Ansari, D.Singh, R.Ali, K.Kumar, 
+#+          N.P.M.Sathik, S.Parashari, A.Ali, R.Dubey, I.Bala, R.Kumar, 
+#+          R.P.Singh, S.Muralithar
+#REF-CODE   (J,NP/A,960,53,2017)
+#REFERENCE  Nucl.Phys.A 960 (2017) 53 (doi:10.1016/j.nuclphysa.2017.01.009)
+#DATASETS   0
+#
+#DATASET    D6303020 
+#DATE       20220906
+#REACTION   71-LU-175(6-C-13,X)76-OS-182,,SIG
+#PROJ       6013
+#TARG       71175
+#MF         3
+#MT         454
+#PRODUCT    76-OS-182
+#C4BEGIN    [ 6013 71175   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6013 71175   3 454    7.5940+7 570000.0 8.6000-4 2.1000-4           76182.9                     H.Kumar+             (17)D6303 20 
+ 6013 71175   3 454    7.9870+7 530000.0 6.5600-3 1.0400-3           76182.9                     H.Kumar+             (17)D6303 20 
+ 6013 71175   3 454    8.3720+7 530000.0 0.025800 3.3000-3           76182.9                     H.Kumar+             (17)D6303 20 
+ 6013 71175   3 454    8.7470+7 530000.0 0.064810 8.2900-3           76182.9                     H.Kumar+             (17)D6303 20 
+#/DATA      4
+#/DATASET

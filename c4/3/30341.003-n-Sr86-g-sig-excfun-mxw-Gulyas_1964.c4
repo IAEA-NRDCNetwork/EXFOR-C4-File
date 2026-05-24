@@ -1,0 +1,26 @@
+#ENTRY      30341
+#AUTHOR1    I.Gulyas+
+#YEAR       1964
+#INSTITUTE  (3HUNKFI)
+#TITLE      Isomeric cross-section ratios for thermal neutron
+#+          excited Sr-85, Sb-122 and Re-188.
+#AUTHOR(S)  I.Gulyas, B.Kardon, D.Kiss
+#REF-CODE   (C,64PARIS,2,703,196407)
+#REFERENCE  Proceedings of Nuclear Physics Congress, Paris 1964 2 page 703
+#DATASETS   0
+#
+#DATASET    30341003 
+#DATE       20090115
+#REACTION   38-SR-86(N,G)38-SR-87-M,,SIG,,MXW
+#PROJ       1
+#TARG       38086
+#MF         3
+#MT         102
+#PRODUCT    38-SR-87-M
+#C4BEGIN    [    1 38086   3 102M ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 38086   3 102M   0.025300          0.769000 0.048000                                       I.Gulyas+            (64)30341  3 
+#/DATA      1
+#/DATASET

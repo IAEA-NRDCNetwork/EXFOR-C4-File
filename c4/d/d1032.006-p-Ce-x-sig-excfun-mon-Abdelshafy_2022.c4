@@ -1,0 +1,31 @@
+#ENTRY      D1032
+#AUTHOR1    M.S.Abdelshafy+
+#YEAR       2022
+#INSTITUTE  (3EGYCAI)
+#TITLE      Study of activation cross sections of proton induced
+#+          reactions on natBa and natCe near their threshold
+#+          energy regions
+#AUTHOR(S)  M.S.Abdelshafy, B.M.Ali, K.E.A.Elmageed, H.O.Nafie, H.E.Hassan, 
+#+          M.Al-Abyad
+#REF-CODE   (J,RCA,110,891,2022)
+#REFERENCE  Radiochim.Acta 110 (2022) 891 (doi:10.1515/ract-2022-0048)
+#DATASETS   0
+#
+#DATASET    D1032006 
+#DATE       20221116
+#REACTION   58-CE-0(P,X)59-PR-139,,SIG
+#PROJ       1001
+#TARG       58000
+#MF         3
+#MT         454
+#PRODUCT    59-PR-139
+#C4BEGIN    [ 1001 58000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 58000   3 454 A  1.4500+7 400000.0 0.119000 0.013400           59139.9                     M.S.Abdelshafy+      (22)D1032  6 
+ 1001 58000   3 454 A  1.4200+7 400000.0 0.144000 0.016200           59139.9                     M.S.Abdelshafy+      (22)D1032  6 
+ 1001 58000   3 454 A  1.4100+7 400000.0 0.070600 7.9000-3           59139.9                     M.S.Abdelshafy+      (22)D1032  6 
+ 1001 58000   3 454 A  1.3700+7 400000.0 0.096700 0.010900           59139.9                     M.S.Abdelshafy+      (22)D1032  6 
+#/DATA      4
+#/DATASET

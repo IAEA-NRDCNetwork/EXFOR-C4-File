@@ -1,0 +1,33 @@
+#ENTRY      O1424
+#AUTHOR1    E.Z.Buthelezi+
+#YEAR       2006
+#INSTITUTE  (3SAFITH)
+#TITLE      Excitation functions for the production of 82Sr by
+#+          proton bombardment of natRb at energies up to 100 MeV
+#AUTHOR(S)  E.Z.Buthelezi, F.M.Nortier, I.W.Schroeder
+#REF-CODE   (J,ARI,64,915,2006)
+#REFERENCE  Appl.Radiat.Isot. 64 (2006) 915 (doi:10.1016/j.apradiso.2006.03.009)
+#DATASETS   0
+#
+#DATASET    O1424005 
+#DATE       20110818
+#REACTION   37-RB-0(P,X)38-SR-80,,SIG
+#PROJ       1001
+#TARG       37000
+#MF         3
+#MT         454
+#PRODUCT    38-SR-80
+#C4BEGIN    [ 1001 37000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 37000   3 454    1.0010+8 1000000. 1.5300-3 3.3000-4           38080.9                     E.Z.Buthelezi+       (06)O1424  5 
+ 1001 37000   3 454    9.5830+7 1000000. 2.2300-3 4.3000-4           38080.9                     E.Z.Buthelezi+       (06)O1424  5 
+ 1001 37000   3 454    9.1380+7 1000000. 2.3500-3 4.3000-4           38080.9                     E.Z.Buthelezi+       (06)O1424  5 
+ 1001 37000   3 454    8.7400+7 1000000. 2.6600-3 4.8000-4           38080.9                     E.Z.Buthelezi+       (06)O1424  5 
+ 1001 37000   3 454    8.3290+7 1000000. 2.5800-3 4.7000-4           38080.9                     E.Z.Buthelezi+       (06)O1424  5 
+ 1001 37000   3 454    7.9020+7 1000000. 1.9800-3 4.3000-4           38080.9                     E.Z.Buthelezi+       (06)O1424  5 
+ 1001 37000   3 454    7.4570+7 1000000. 1.6300-3 3.9000-4           38080.9                     E.Z.Buthelezi+       (06)O1424  5 
+ 1001 37000   3 454    7.0670+7 1000000. 9.5000-4 3.0000-4           38080.9                     E.Z.Buthelezi+       (06)O1424  5 
+#/DATA      8
+#/DATASET

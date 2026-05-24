@@ -1,0 +1,32 @@
+#ENTRY      41121
+#AUTHOR1    A.N.Davletshin+
+#YEAR       1992
+#INSTITUTE  (4RUSFEI)
+#TITLE      Neutron radiative capture cross-section for 232Th
+#+          and 197Au nuclei in the 0.8 - 2.5 MeV neutron energy
+#+          range
+#AUTHOR(S)  A.N.Davletshin, E.V.Teplov, A.O.Tipunkov, V.A.Tolstikov, 
+#+          I.A.Korzh, V.D.Ovdienko, N.M.Pravdivyy, N.T.Sklyar, V.A.Mishchenko
+#REF-CODE   (J,YK,,(1),41,1992)
+#REFERENCE  Yad.Reak.Konst.  No.1 (1992) 41
+#DATASETS   0
+#
+#DATASET    41121003 
+#DATE       20111026
+#REACTION   79-AU-197(N,G)79-AU-198,,SIG
+#PROJ       1
+#TARG       79197
+#MF         3
+#MT         102
+#PRODUCT    79-AU-198
+#C4BEGIN    [    1 79197   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197   3 102    813300.0 35300.00 0.092200 4.0568-3                                       A.N.Davletshin+      (92)41121  3 
+    1 79197   3 102    1030000. 33000.00 0.080400 2.7336-3                                       A.N.Davletshin+      (92)41121  3 
+    1 79197   3 102    1533000. 30000.00 0.070900 2.6588-3                                       A.N.Davletshin+      (92)41121  3 
+    1 79197   3 102    2036000. 30000.00 0.048200 1.7834-3                                       A.N.Davletshin+      (92)41121  3 
+    1 79197   3 102    2435000. 31000.00 0.035600 1.3172-3                                       A.N.Davletshin+      (92)41121  3 
+#/DATA      5
+#/DATASET

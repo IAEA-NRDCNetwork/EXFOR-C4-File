@@ -1,0 +1,29 @@
+#ENTRY      40422
+#AUTHOR1    K.A.Petrzhak+
+#YEAR       1970
+#INSTITUTE  (4RUSTIL)
+#TITLE      Mass-spectrometric determination of relative yields of
+#+          Xe isotopes in fission of natural uranium by 14.7-MeV
+#+          neutrons
+#AUTHOR(S)  K.A.Petrzhak, V.F.Teplykh, M.G.Pan'yan
+#REF-CODE   (J,SNP,11,654,1970)
+#REFERENCE  Sov.J.Nucl.Phys. 11 (1970) 654
+#DATASETS   0
+#
+#DATASET    40422003 
+#DATE       20220722
+#REACTION   92-U-238(N,F)ELEM/MASS,CUM,FY
+#PROJ       1
+#TARG       92238
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92238   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   8 459    1.4700+7          0.038100 1.0000-3 54.00000 131.0000 9.000000            K.A.Petrzhak+        (70)40422  3 
+    1 92238   8 459    1.4700+7          0.047000 1.0000-3 54.00000 132.0000 9.000000            K.A.Petrzhak+        (70)40422  3 
+    1 92238   8 459    1.4700+7          0.064600 1.0000-3 54.00000 134.0000 9.000000            K.A.Petrzhak+        (70)40422  3 
+    1 92238   8 459    1.4700+7          0.054300 1.1000-3 54.00000 136.0000 9.000000            K.A.Petrzhak+        (70)40422  3 
+#/DATA      4
+#/DATASET

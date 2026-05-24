@@ -1,0 +1,30 @@
+#ENTRY      O0022
+#AUTHOR1    T.McGee+
+#YEAR       1971
+#INSTITUTE  (1CANMCG)
+#TITLE      Nuclear charge dispersion of light-mass elements in
+#+          the fission of Th-232 by proton of medium energy
+#AUTHOR(S)  T.McGee, C.L.Rao, L.Yaffe
+#REF-CODE   (J,NP/A,173,595,1971)
+#REFERENCE  Nucl.Phys.A 173 (1971) 595 (doi:10.1016/0375-9474(71)90974-2)
+#DATASETS   0
+#
+#DATASET    O0022011 
+#DATE       20190208
+#REACTION   90-TH-232(P,F)41-NB-96,,SIG
+#PROJ       1001
+#TARG       90232
+#MF         3
+#MT         454
+#PRODUCT    41-NB-96
+#C4BEGIN    [ 1001 90232   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   3 454    4.0000+7 2000000. 1.8000-4 4.0000-5           41096.9                     T.McGee+             (71)O0022 11 
+ 1001 90232   3 454    5.0000+7 2000000. 2.7000-4 5.0000-5           41096.9                     T.McGee+             (71)O0022 11 
+ 1001 90232   3 454    6.0000+7 2000000. 4.4000-4 9.0000-5           41096.9                     T.McGee+             (71)O0022 11 
+ 1001 90232   3 454    7.2000+7 2000000. 9.2000-4 1.8000-4           41096.9                     T.McGee+             (71)O0022 11 
+ 1001 90232   3 454    8.5000+7 2000000. 1.2000-3 2.0000-4           41096.9                     T.McGee+             (71)O0022 11 
+#/DATA      5
+#/DATASET

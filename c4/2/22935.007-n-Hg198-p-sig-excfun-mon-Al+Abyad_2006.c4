@@ -1,0 +1,33 @@
+#ENTRY      22935
+#AUTHOR1    M.Al-Abyad+
+#YEAR       2006
+#INSTITUTE  (2GERJUL)
+#TITLE      Cross sections and isomeric cross-section ratios in the
+#+          interactions of fast neutrons with isotopes of mercury.
+#AUTHOR(S)  M.Al-Abyad, S.Sudar, M.N.H.Comsan, S.M.Qaim
+#REF-CODE   (J,PR/C,73,064608,2006)
+#REFERENCE  Phys.Rev.C 73 (2006) 064608 (doi:10.1103/PhysRevC.73.064608)
+#DATASETS   0
+#
+#DATASET    22935007 
+#DATE       20071212
+#REACTION   80-HG-198(N,P)79-AU-198-G,,SIG
+#PROJ       1
+#TARG       80198
+#MF         3
+#MT         103
+#PRODUCT    79-AU-198-G
+#C4BEGIN    [    1 80198   3 103G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 80198   3 103G   9730000. 280000.0 2.0000-4 4.0000-5                                       M.Al-Abyad+          (06)22935  7 
+    1 80198   3 103G   1.0590+7 310000.0 4.3000-4 7.0000-5                                       M.Al-Abyad+          (06)22935  7 
+    1 80198   3 103G   1.1070+7 340000.0 6.0000-4 1.0000-4                                       M.Al-Abyad+          (06)22935  7 
+    1 80198   3 103G   1.1250+7 340000.0 7.0000-4 1.0000-4                                       M.Al-Abyad+          (06)22935  7 
+    1 80198   3 103G   1.1510+7 340000.0 1.1000-3 2.0000-4                                       M.Al-Abyad+          (06)22935  7 
+    1 80198   3 103G   1.1920+7 350000.0 1.2000-3 2.0000-4                                       M.Al-Abyad+          (06)22935  7 
+    1 80198   3 103G   1.2400+7 360000.0 1.9000-3 3.0000-4                                       M.Al-Abyad+          (06)22935  7 
+    1 80198   3 103G   1.2530+7 500000.0 2.3000-3 4.0000-4                                       M.Al-Abyad+          (06)22935  7 
+#/DATA      8
+#/DATASET

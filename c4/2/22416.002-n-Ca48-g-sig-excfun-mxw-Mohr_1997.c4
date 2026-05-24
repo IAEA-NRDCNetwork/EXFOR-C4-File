@@ -1,0 +1,26 @@
+#ENTRY      22416
+#AUTHOR1    P.Mohr+
+#YEAR       1997
+#INSTITUTE  (2AUSTHV)
+#TITLE      Direct neutron capture of 48Ca at kT=52 keV
+#AUTHOR(S)  P.Mohr, H.Oberhummer, H.Beer, W.Rochow, V.Koelle, G.Staudt, 
+#+          P.V.Sedyshev, Yu.P.Popov
+#REF-CODE   (J,PR/C,56,1154,1997)
+#REFERENCE  Phys.Rev.C 56 (1997) 1154 (doi:10.1103/PhysRevC.56.1154)
+#DATASETS   0
+#
+#DATASET    22416002 
+#DATE       20211228
+#REACTION   20-CA-48(N,G)20-CA-49,,SIG,,MXW
+#PROJ       1
+#TARG       20048
+#MF         3
+#MT         102
+#PRODUCT    20-CA-49
+#C4BEGIN    [    1 20048   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20048   3 102    78000.00          6.2300-4 4.7000-5                                       P.Mohr+              (97)22416  2 
+#/DATA      1
+#/DATASET

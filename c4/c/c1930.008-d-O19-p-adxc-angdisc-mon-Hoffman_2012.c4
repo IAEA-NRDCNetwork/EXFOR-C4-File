@@ -1,0 +1,44 @@
+#ENTRY      C1930
+#AUTHOR1    C.R.Hoffman+
+#YEAR       2012
+#INSTITUTE  (1USAANL)
+#TITLE      Experimental study of the 19-O(d,p)20-O reaction in
+#+          inverse kinematics
+#AUTHOR(S)  C.R.Hoffman, B.B.Back, B.P.Kay, J.P.Schiffer, M.Alcorta, 
+#+          S.I.Baker, S.Bedoor, P.F.Bertone, J.A.Clark, C.M.Deibel, 
+#+          B.Digiovine, S.J.Freeman, J.P.Greene, J.C.Lighthall, S.T.Marley, 
+#+          R.C.Pardo, K.E.Rehm, A.Rojas, D.Santiago-Gonzalez, D.K.Sharp, 
+#+          D.V.Shetty, J.S.Thomas, I.Wiedenhover, A.H.Wuosmaa
+#REF-CODE   (J,PR/C,85,054318,2012)
+#REFERENCE  Phys.Rev.C 85 (2012) 054318 (doi:10.1103/PhysRevC.85.054318)
+#DATASETS   0
+#
+#DATASET    C1930008 
+#DATE       20120718
+#REACTION   (1-H-2(8-O-19,P)8-O-20,PAR,DA,RSD)=(8-O-19(D,P)8-O-20,PAR,DA)
+#PROJ       1002
+#TARG       8019
+#MF         4
+#MT         600
+#PRODUCT    8-O-20
+#C4BEGIN    [ 1002  8019   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8019   4 600  C 1.3220+7 30000.00 0.011972 1.1730-3 0.977783          5230000.         LVLC.R.Hoffman+         (12)C1930  8 
+ 1002  8019   4 600  C 1.3220+7 30000.00 9.2470-3 1.2040-3 0.972776          5230000.         LVLC.R.Hoffman+         (12)C1930  8 
+ 1002  8019   4 600  C 1.3220+7 30000.00 5.1660-3 3.4800-4 0.957822          5230000.         LVLC.R.Hoffman+         (12)C1930  8 
+ 1002  8019   4 600  C 1.3220+7 30000.00 4.9110-3 7.1600-4 0.957319          5230000.         LVLC.R.Hoffman+         (12)C1930  8 
+ 1002  8019   4 600  C 1.3220+7 30000.00 2.5700-3 4.0100-4 0.934826          5230000.         LVLC.R.Hoffman+         (12)C1930  8 
+ 1002  8019   4 600  C 1.3220+7 30000.00 2.5120-3 2.4100-4 0.924546          5230000.         LVLC.R.Hoffman+         (12)C1930  8 
+ 1002  8019   4 600  C 1.3220+7 30000.00 2.5700-3 4.0100-4 0.912834          5230000.         LVLC.R.Hoffman+         (12)C1930  8 
+ 1002  8019   4 600  C 1.3220+7 30000.00 2.2920-3 2.3300-4 0.902585          5230000.         LVLC.R.Hoffman+         (12)C1930  8 
+ 1002  8019   4 600  C 1.3220+7 30000.00 3.5110-3 4.6900-4 0.891798          5230000.         LVLC.R.Hoffman+         (12)C1930  8 
+ 1002  8019   4 600  C 1.3220+7 30000.00 2.6960-3 4.1100-4 0.872922          5230000.         LVLC.R.Hoffman+         (12)C1930  8 
+ 1002  8019   4 600  C 1.3220+7 30000.00 3.5570-3 2.8600-4 0.870356          5230000.         LVLC.R.Hoffman+         (12)C1930  8 
+ 1002  8019   4 600  C 1.3220+7 30000.00 3.2600-3 4.5200-4 0.849893          5230000.         LVLC.R.Hoffman+         (12)C1930  8 
+ 1002  8019   4 600  C 1.3220+7 30000.00 3.5730-3 4.7300-4 0.833886          5230000.         LVLC.R.Hoffman+         (12)C1930  8 
+ 1002  8019   4 600  C 1.3220+7 30000.00 4.3880-3 6.2700-4 0.811064          5230000.         LVLC.R.Hoffman+         (12)C1930  8 
+ 1002  8019   4 600  C 1.3220+7 30000.00 3.6830-3 5.3700-4 0.793353          5230000.         LVLC.R.Hoffman+         (12)C1930  8 
+#/DATA      15
+#/DATASET

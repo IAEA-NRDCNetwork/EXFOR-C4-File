@@ -1,0 +1,32 @@
+#ENTRY      32603
+#AUTHOR1    Qi Huiquan+
+#YEAR       1991
+#INSTITUTE  (3CPRTSI)
+#TITLE      Small angle scattering cross section of 12 MeV neutron
+#+          from 238U and Fe
+#AUTHOR(S)  Qi Huiquan, Chen Qiankun, Chen Yingtang, Chen Hongbin, Chen Zhenpeng, 
+#+          Deng Jingkang, Chen Zemin, Tang Hongqing, Qi Bujia
+#REF-CODE   (J,CNP,13,343,1991)
+#REFERENCE  Chin.J.Nucl.Phys. 13 (1991) 343
+#DATASETS   0
+#
+#DATASET    32603003 
+#DATE       20100907
+#REACTION   26-FE-0(N,EL)26-FE-0,,DA
+#PROJ       1
+#TARG       26000
+#MF         4
+#MT         2
+#PRODUCT    26-FE-0
+#C4BEGIN    [    1 26000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   4   2    1.2000+7          2.820000 0.140000 0.998848                              Qi Huiquan+          (91)32603  3 
+    1 26000   4   2    1.2000+7          2.790000 0.170000 0.998135                              Qi Huiquan+          (91)32603  3 
+    1 26000   4   2    1.2000+7          2.560000 0.130000 0.996195                              Qi Huiquan+          (91)32603  3 
+    1 26000   4   2    1.2000+7          2.460000 0.120000 0.993572                              Qi Huiquan+          (91)32603  3 
+    1 26000   4   2    1.2000+7          2.580000 0.130000 0.990268                              Qi Huiquan+          (91)32603  3 
+    1 26000   4   2    1.2000+7          2.210000 0.110000 0.984808                              Qi Huiquan+          (91)32603  3 
+#/DATA      6
+#/DATASET

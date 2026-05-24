@@ -1,0 +1,35 @@
+#ENTRY      14719
+#AUTHOR1    P.W.Lisowski+
+#YEAR       2021
+#INSTITUTE  (1USALAS)
+#TITLE      Cross Sections for Neutron Production from 6- and
+#+          10-MeV Neutrons Incident on 10B and 11B
+#AUTHOR(S)  P.W.Lisowski, M.Drosg, D.M.Drake, B.Hoop
+#REF-CODE   (J,NSE,195,1131,2021)
+#REFERENCE  Nucl.Sci.Eng. 195 (2021) 1131 (doi:10.1080/00295639.2021.1906588)
+#DATASETS   0
+#
+#DATASET    14719006 
+#DATE       20260127
+#REACTION   5-B-11(N,EL)5-B-11,,DA
+#PROJ       1
+#TARG       5011
+#MF         4
+#MT         2
+#PRODUCT    5-B-11
+#C4BEGIN    [    1  5011   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5011   4   2 AC 6000000. 10000.00 0.380000 3.4200-3 0.919821 6.8476-4                     P.W.Lisowski+        (21)14719  6 
+    1  5011   4   2 AC 6000000. 10000.00 0.322000 2.8980-3 0.877146 8.3815-4                     P.W.Lisowski+        (21)14719  6 
+    1  5011   4   2 AC 6000000. 10000.00 0.212000 1.9080-3 0.773840 1.1055-3                     P.W.Lisowski+        (21)14719  6 
+    1  5011   4   2 AC 6000000. 10000.00 0.118000 1.0620-3 0.642788 1.3370-3                     P.W.Lisowski+        (21)14719  6 
+    1  5011   4   2 AC 6000000. 10000.00 0.042900 3.8610-4 0.411514 1.5907-3                     P.W.Lisowski+        (21)14719  6 
+    1  5011   4   2 AC 6000000. 10000.00 0.039000 3.5100-4 0.151261 1.7252-3                     P.W.Lisowski+        (21)14719  6 
+    1  5011   4   2 AC 6000000. 10000.00 0.067100 6.0390-4-0.109734 1.7348-3                     P.W.Lisowski+        (21)14719  6 
+    1  5011   4   2 AC 6000000. 10000.00 0.090700 5.5800-3-0.435231 1.5714-3                     P.W.Lisowski+        (21)14719  6 
+    1  5011   4   2 AC 6000000. 10000.00 0.096900 8.7210-4-0.707107 1.2341-3                     P.W.Lisowski+        (21)14719  6 
+    1  5011   4   2 AC 6000000. 10000.00 0.102000 6.2500-3-0.856267 9.0152-4                     P.W.Lisowski+        (21)14719  6 
+#/DATA      10
+#/DATASET

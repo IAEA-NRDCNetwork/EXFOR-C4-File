@@ -1,0 +1,31 @@
+#ENTRY      22939
+#AUTHOR1    I.Dillmann+
+#YEAR       2010
+#INSTITUTE  (2GERMUN)
+#TITLE      Stellar (n,gamma) cross section of p-process isotopes
+#+          Part I: Pd-102, Te-120, Ba-130,-132 and Dy-156
+#AUTHOR(S)  I.Dillmann, C.Domingo-Pardo, M.Heil, F.Kaeppeler, S.Walter, 
+#+          S.Dababneh, T.Rauscher, F.K.Thielemann, R.Plag
+#REF-CODE   (J,PR/C,81,015801,2010)
+#REFERENCE  Phys.Rev.C 81 (2010) 015801 (doi:10.1103/PhysRevC.81.015801)
+#DATASETS   0
+#
+#DATASET    22939026 
+#DATE       20211020
+#REACTION   52-TE-120(N,G)52-TE-121-G,,SIG,,SPA
+#PROJ       1
+#TARG       52120
+#MF         3
+#MT         102
+#PRODUCT    52-TE-121-G
+#C4BEGIN    [    1 52120   3 102G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52120   3 102G   25000.00 500.0000 0.503800 0.023700                                       I.Dillmann+          (10)22939 26 
+    1 52120   3 102G   25000.00 500.0000 0.494400 0.023100                                       I.Dillmann+          (10)22939 26 
+    1 52120   3 102G   25000.00 500.0000 0.514000 0.024000                                       I.Dillmann+          (10)22939 26 
+    1 52120   3 102G   25000.00 500.0000 0.490800 0.023000                                       I.Dillmann+          (10)22939 26 
+    1 52120   3 102G   25000.00 500.0000 0.497200 0.023500                                       I.Dillmann+          (10)22939 26 
+#/DATA      5
+#/DATASET

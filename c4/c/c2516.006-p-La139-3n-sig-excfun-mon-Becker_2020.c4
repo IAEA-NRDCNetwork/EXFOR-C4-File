@@ -1,0 +1,33 @@
+#ENTRY      C2516
+#AUTHOR1    K.V.Becker+
+#YEAR       2020
+#INSTITUTE  (1USAWIS)
+#TITLE      Cross section measurements for proton induced
+#+          reactions on natural La
+#AUTHOR(S)  K.V.Becker, E.Vermeulen, C.J.Kutyreff, E.M.O'Brien, J.T.Morrell, 
+#+          E.R.Birnbaum, L.A.Bernstein, F.M.Nortier, J.W.Engle
+#REF-CODE   (J,NIM/B,468,81,2020)
+#REFERENCE  Nucl.Instrum.Meth.B 468 (2020) 81 (doi:10.1016/j.nimb.2020.02.024)
+#DATASETS   0
+#
+#DATASET    C2516006 
+#DATE       20200715
+#REACTION   57-LA-139(P,3N)58-CE-137-G,,SIG
+#PROJ       1001
+#TARG       57139
+#MF         3
+#MT         17
+#PRODUCT    58-CE-137-G
+#C4BEGIN    [ 1001 57139   3  17G ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 57139   3  17G   4.6960+7 2500000. 0.027280 2.0100-3                                       K.V.Becker+          (20)C2516  6 
+ 1001 57139   3  17G   5.4930+7 1600000. 0.021420 1.9600-3                                       K.V.Becker+          (20)C2516  6 
+ 1001 57139   3  17G   5.8870+7 1600000. 0.020690 1.7600-3                                       K.V.Becker+          (20)C2516  6 
+ 1001 57139   3  17G   6.3320+7 1000000. 0.018860 1.4300-3                                       K.V.Becker+          (20)C2516  6 
+ 1001 57139   3  17G   6.7990+7 1400000. 0.013960 2.3800-3                                       K.V.Becker+          (20)C2516  6 
+ 1001 57139   3  17G   7.8050+7 200000.0 0.013930 1.4800-3                                       K.V.Becker+          (20)C2516  6 
+ 1001 57139   3  17G   8.8660+7 600000.0 0.010770 1.1900-3                                       K.V.Becker+          (20)C2516  6 
+#/DATA      7
+#/DATASET

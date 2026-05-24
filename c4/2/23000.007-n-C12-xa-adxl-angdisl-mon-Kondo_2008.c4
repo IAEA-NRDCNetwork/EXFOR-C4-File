@@ -1,0 +1,37 @@
+#ENTRY      23000
+#AUTHOR1    K.Kondo+
+#YEAR       2008
+#INSTITUTE  (2JPNJAE)
+#TITLE      .Measurement and Analysis of Neutron-Induced Alpha
+#+          Particle Emission Double-Differential Cross Section
+#+          of Carbon at 14.2 MeV .
+#AUTHOR(S)  K.Kondo, I.Murata, K.Ochiai, N.Kubota, H.Miyamaru, Ch.Konno, 
+#+          T.Nishitani
+#REF-CODE   (J,NST,45,(2),103,2008)
+#REFERENCE  J.Nucl.Sci.Technol. 45 No.2 (2008) 103 (doi:10.1080/18811248.2008.9711420)
+#DATASETS   0
+#
+#DATASET    23000007 
+#DATE       20090826
+#REACTION   6-C-12(N,X)2-HE-4,,DA
+#PROJ       1
+#TARG       6012
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1  6012   4 207 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   4 207 D  1.4200+7 200000.0 0.233000 0.019000 0.965926                              K.Kondo+             (08)23000  7 
+    1  6012   4 207 D  1.4200+7 200000.0 0.185000 0.011000 0.939693                              K.Kondo+             (08)23000  7 
+    1  6012   4 207 D  1.4200+7 200000.0 0.101000 5.0000-3 0.866025                              K.Kondo+             (08)23000  7 
+    1  6012   4 207 D  1.4200+7 200000.0 0.103000 6.0000-3 0.766044                              K.Kondo+             (08)23000  7 
+    1  6012   4 207 D  1.4200+7 200000.0 0.069000 5.0000-3 0.642788                              K.Kondo+             (08)23000  7 
+    1  6012   4 207 D  1.4200+7 200000.0 0.040000 3.0000-3 0.342020                              K.Kondo+             (08)23000  7 
+    1  6012   4 207 D  1.4200+7 200000.0 0.031000 4.0000-3 6.123-17                              K.Kondo+             (08)23000  7 
+    1  6012   4 207 D  1.4200+7 200000.0 0.010000 3.0000-3-0.342020                              K.Kondo+             (08)23000  7 
+    1  6012   4 207 D  1.4200+7 200000.0 9.3000-3 1.9000-3-0.642788                              K.Kondo+             (08)23000  7 
+    1  6012   4 207 D  1.4200+7 200000.0 0.013300 3.1000-3-0.866025                              K.Kondo+             (08)23000  7 
+#/DATA      10
+#/DATASET

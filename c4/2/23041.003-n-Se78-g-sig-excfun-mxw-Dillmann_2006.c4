@@ -1,0 +1,27 @@
+#ENTRY      23041
+#AUTHOR1    I.Dillmann+
+#YEAR       2006
+#INSTITUTE  (2GERKFK)
+#TITLE      .First measurements of the total and partial stellar
+#+          cross section to the s-process branching-point 79Se
+#AUTHOR(S)  I.Dillmann, M.Heil, F.Kaeppeler, T.Faestermann, G.Korschinek, 
+#+          K.Knie, M.Poutivtsev, G.Rugel, A.Wallner, T.Rauscher
+#REF-CODE   (C,2006CERN,,(089),200606)
+#REFERENCE  Proceedings of 9.Int.Symp.Nuclei in the Cosmos, CERN, Geneva, 2006 page (089)
+#DATASETS   0
+#
+#DATASET    23041003 
+#DATE       20090108
+#REACTION   34-SE-78(N,G)34-SE-79,,SIG,,MXW
+#PROJ       1
+#TARG       34078
+#MF         3
+#MT         102
+#PRODUCT    34-SE-79
+#C4BEGIN    [    1 34078   3 102 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34078   3 102 P  30000.00          0.060100 9.6000-3                                       I.Dillmann+          (06)23041  3 
+#/DATA      1
+#/DATASET
