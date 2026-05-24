@@ -9,6 +9,7 @@ git clone https://github.com/iaea-nrdcnetwork/exfor-c4-file.git
 ```
 
 **Contents**
+
 The following quantities are within the scope of these libraries:
 
 * cross section (incl. gamma production)
@@ -36,7 +37,7 @@ Same as the 2nd example of the C6Lib file, but it also includes the data at 5.58
 * `c/C0841.008-p-Bi209-xn-ddxl-enedisl-mon-Kalend_1983.c4`:
 Same as the 3rd example of the C6Lib file, but also includes the data at 30, 45, 60 and 90 deg.
 
-C4 file s are stored in a subdirectory of the projectile/geographical area (i.e., 1/ for neutron data from USA and Canada).
+C4 files are stored in a subdirectory of the projectile/geographical area (i.e., 1/ for neutron data from USA and Canada).
 
 
 ## Abbreviations in C4Lib file names
@@ -107,4 +108,4 @@ A blank and "-" in author's name are replaced by "%" and "+" in the file name (e
 ## References
 1. N.Otuka, V.Devi, O.Iwamoto, [Appl.Radiat.Isot.225(2025)111903](https://doi.org/10.1016/j.apradiso.2025.111903).
 2. D.E.Cullen and A.Trkov, "Program X4TOC4 (Version 2001-3)", [Report IAEA-NDS-80 Rev.](https://doi.org/10.61092/iaea.tvbj-sa2z), International Atomic Energy Agency.
-3. V.Zerkin, "Full EXFOR in C4 format: delivery to WPEC group SG-30", [Working Paper WP2008-37, Technical Meeting of the International Network of Nuclear Reaction Data Centres IPPE, Obninsk and Moscow State University, Moscow, Russian Federation 22 - 25 September 2008](https://nds.iaea.org/nrdc/nrdc_2008/working/wp2008-37.pdf)
+3. V.Zerkin, "Full EXFOR in C4 format: delivery to WPEC group SG-30", Working Paper [WP2008-37](https://nds.iaea.org/nrdc/nrdc_2008/working/wp2008-37.pdf), Technical Meeting of the International Network of Nuclear Reaction Data Centres IPPE, Obninsk and Moscow State University, Moscow, Russian Federation 22 - 25 September 2008].
