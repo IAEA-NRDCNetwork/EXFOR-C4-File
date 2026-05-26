@@ -1,5 +1,5 @@
 # EXFOR C4 File (C4)
-The EXFOR C4 File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-master/entry/) converted to C4 (Computational Format) by ForEXy [1].
+The EXFOR C4 File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-master/entry/) converted to C4 (Computational Format) by ForEXy [1]. See [2] for the original EXFOR Library.
 
 **Download**
 - download individual files of the current version from the [EXFOR C4 File](https://nds.iaea.org/nrdc/exfor-master/c4/) website, or
@@ -21,7 +21,7 @@ The following quantities are within the scope of these libraries:
 
 for any projectiles and reactions not leaving two or more heavy (A>4) nuclides.
 
-The data lines follow the C4 format defined in the X4TOC4 manual [2] in general, but with slight modification (e.g., MF8 instead of MF18 for FPY, MF202-207, 454 and 459 instead of MF9000 for particle and nuclide productions).
+The data lines follow the C4 format defined in the X4TOC4 manual [3] in general, but with slight modification (e.g., MF8 instead of MF18 for FPY, MF202-207, 454 and 459 instead of MF9000 for particle and nuclide productions).
 
 The comment lines (starting from #) added before and after the data lines follow the "Full EXFOR in XC4 format"[4] designed by Viktor Zerkin except for the counters following #DATASETS and #DATA in the header part. They are always set to zero in the EXFOR C4 File.
 
@@ -97,6 +97,7 @@ A blank and "-" in author's name are replaced by "%" and "+" in the file name (e
 
 
 ## References
-1. N.Otuka, V.Devi, O.Iwamoto, [Appl.Radiat.Isot.225(2025)111903](https://doi.org/10.1016/j.apradiso.2025.111903).
-2. D.E.Cullen and A.Trkov, "Program X4TOC4 (Version 2001-3)", [Report IAEA-NDS-80 Rev.](https://doi.org/10.61092/iaea.tvbj-sa2z), International Atomic Energy Agency.
-3. V.Zerkin, "Full EXFOR in C4 format: delivery to WPEC group SG-30", Working Paper [WP2008-37](https://nds.iaea.org/nrdc/nrdc_2008/working/wp2008-37.pdf), Technical Meeting of the International Network of Nuclear Reaction Data Centres IPPE, Obninsk and Moscow State University, Moscow, Russian Federation 22 - 25 September 2008].
+1. N.Otuka, V.Devi, O.Iwamoto, [Appl.Radiat.Isot.225(2025)111903](https://doi.org/10.1016/j.apradiso.2025.111903) [[pdf](https://doi.org/10.48550/arXiv.2505.03758)].
+2. N.Otuka et al., [Nucl. Data Sheets 120(2014)272](http://dx.doi.org/10.1016/j.nds.2014.07.065) [[pdf](https://doi.org/10.48550/arXiv.2002.07114)].
+3. D.E.Cullen and A.Trkov, "Program X4TOC4 (Version 2001-3)", [Report IAEA-NDS-80 Rev.](https://doi.org/10.61092/iaea.tvbj-sa2z), International Atomic Energy Agency.
+4. V.Zerkin, "Full EXFOR in C4 format: delivery to WPEC group SG-30", Working Paper [WP2008-37](https://nds.iaea.org/nrdc/nrdc_2008/working/wp2008-37.pdf), Technical Meeting of the International Network of Nuclear Reaction Data Centres IPPE, Obninsk and Moscow State University, Moscow, Russian Federation 22 - 25 September 2008].
