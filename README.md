@@ -2,7 +2,7 @@
 The EXFOR C4 File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-master/entry/) converted to C4 (Computational Format) by ForEXy [1].
 
 **Download**
-- download the zipped file of the current version from the [EXFOR C4 File](https://nds.iaea.org/nrdc/exfor-master/c4/) website, or
+- download individual files of the current version from the [EXFOR C4 File](https://nds.iaea.org/nrdc/exfor-master/c4/) website, or
 - download the full repository using the terminal command:
 ```
 git clone https://github.com/iaea-nrdcnetwork/exfor-c4-file.git
@@ -21,21 +21,21 @@ The following quantities are within the scope of these libraries:
 
 for any projectiles and reactions not leaving two or more heavy (A>4) nuclides.
 
-The data lines follow the C4 format defined in the X4TOC4 manual [2] in general, but with slightl modification (e.g., MF8 instead of MF18 for FPY, MF202-207, 454 and 459 instead of MF9000 for particle and nuclide productions).
+The data lines follow the C4 format defined in the X4TOC4 manual [2] in general, but with slight modification (e.g., MF8 instead of MF18 for FPY, MF202-207, 454 and 459 instead of MF9000 for particle and nuclide productions).
 
-The comment lines (starting from #) added before and after the data lines follow the "Full EXFOR in XC4 format"[4] designed by Viktor Zerkin except for the counters following #DATASETS and #DATA in the header part. They are always set to zero in C4Lib. (Inform me if you need to have actual numbers there!)
+The comment lines (starting from #) added before and after the data lines follow the "Full EXFOR in XC4 format"[4] designed by Viktor Zerkin except for the counters following #DATASETS and #DATA in the header part. They are always set to zero in the EXFOR C4 File.
 
 One file corresponds to one subentry. If there are several running variables (e.g., incident energy and angle for angular differential cross sections), the dataset is separated to "blocks" so that each part has one running variable. For example, angular distribution data at three incident energies in a subentry are stored in three blocks.
 
 *Examples*
-* `d/D4408.005-a-Ni-x-sig-excfun-mon-Takacs_2020.c4`:
-Same as the 1st example of the C6Lib file.
+* `d/d4408.005-a-Ni-x-sig-excfun-mon-Takacs_2020.c4`:
+Ni(a,x)64Cu production cross section as a function of the incident energy (excfun), published by Takacs in 2020 and compiled in EXFOR D4408.005.
 
 * `1/10037.024-n-Fe56-el-adxc-angdisc-mon-Boschung_1971.c4`:
-Same as the 2nd example of the C6Lib file, but it also includes the data at 5.58 MeV.
+56Fe(n,n0)56Fe angular differential cross sections in the c.m. system (adxc) as a function of the c.m. angle (angdisc), published by Boschung in 1971 and compiled in EXFOR 10037.024.
 
-* `c/C0841.008-p-Bi209-xn-ddxl-enedisl-mon-Kalend_1983.c4`:
-Same as the 3rd example of the C6Lib file, but also includes the data at 30, 45, 60 and 90 deg.
+* `c/c0841.008-p-Bi209-xn-ddxl-enedisl-mon-Kalend_1983.c4`:
+209Bi(p,n+x) double differential cross section in the lab. system (ddxl) as a function of the outgoing neutron energy in the lab. system (enedisl), published by Kalend in 1983 and compiled in EXFOR C0841.008.
 
 C4 files are stored in a subdirectory of the projectile/geographical area (i.e., 1/ for neutron data from USA and Canada).
 
@@ -90,15 +90,6 @@ An isomeric state is indicated by
 * mxw:  Maxwellian field
 * sdt:  slow-down time spectrometer field
 * spa:  averaged over a spectrum with  <E>~0.0253 eV or narrow energy width
-
-
-### Constant
-* angc: c.m. angle
-* angl: lab. angle
-* elvl: excitation energy (of product)
-* enec: c.m. outgoing energy
-* enel: lab. outgoing energy
-* prod: product
 
 
 ### Author name
