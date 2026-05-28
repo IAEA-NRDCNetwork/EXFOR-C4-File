@@ -1,0 +1,35 @@
+#ENTRY      D6505
+#AUTHOR1    S.Saha+
+#YEAR       2025
+#INSTITUTE  (3INDVEC)
+#TITLE      Proton induced reaction on 108Cd for astrophysical
+#+          p-process studies
+#AUTHOR(S)  S.Saha, D.Basak, T.Bar, L.K.Sahoo, J.Datta, S.Dasgupta, 
+#+          N.Kinoshita, C.Basu
+#REF-CODE   (J,JP/G,52,065101,2025)
+#REFERENCE  J.Phys.G 52 (2025) 065101 (doi:10.1088/1361-6471/add7f4)
+#DATASETS   0
+#
+#DATASET    D65050021
+#DATE       20260203
+#REACTION   48-CD-108(P,G)49-IN-109,,SIG
+#PROJ       1001
+#TARG       48108
+#MF         3
+#MT         102
+#PRODUCT    49-IN-109
+#C4BEGIN    [ 1001 48108   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 48108   3 102    2260000. 120000.0 1.3000-6 2.0000-7                                       S.Saha+              (25)D6505  21
+ 1001 48108   3 102    2980000. 90000.00 7.7200-5 8.7000-6                                       S.Saha+              (25)D6505  21
+ 1001 48108   3 102    3600000. 90000.00 4.9830-4 5.7000-5                                       S.Saha+              (25)D6505  21
+ 1001 48108   3 102    4040000. 80000.00 1.3710-3 1.5540-4                                       S.Saha+              (25)D6505  21
+ 1001 48108   3 102    4760000. 70000.00 3.9978-3 4.5480-4                                       S.Saha+              (25)D6505  21
+ 1001 48108   3 102    5200000. 60000.00 0.010869 1.2564-3                                       S.Saha+              (25)D6505  21
+ 1001 48108   3 102    6100000. 40000.00 0.035602 3.5138-3                                       S.Saha+              (25)D6505  21
+ 1001 48108   3 102    6680000. 30000.00 0.027435 2.6634-3                                       S.Saha+              (25)D6505  21
+ 1001 48108   3 102    6840000. 30000.00 0.039934 3.8857-3                                       S.Saha+              (25)D6505  21
+#/DATA      9
+#/DATASET

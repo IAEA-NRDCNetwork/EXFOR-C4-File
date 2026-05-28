@@ -1,0 +1,35 @@
+#ENTRY      D6043
+#AUTHOR1    S.Mukherjee+
+#YEAR       2005
+#INSTITUTE  (3INDBDA)
+#TITLE      Isomeric cross section ratios and angular momentum
+#+          distribution in sub-barrier fusion of 12C with 89Y
+#AUTHOR(S)  S.Mukherjee, A.Goswami, B.S.Tomar
+#REF-CODE   (J,PR/C,72,067602,2005)
+#REFERENCE  Phys.Rev.C 72 (2005) 067602 (doi:10.1103/PhysRevC.72.067602)
+#DATASETS   0
+#
+#DATASET    D6043003 
+#DATE       20260414
+#REACTION   39-Y-89(6-C-12,2N)45-RH-99,,SIG
+#PROJ       6012
+#TARG       39089
+#MF         3
+#MT         16
+#PRODUCT    45-RH-99
+#C4BEGIN    [ 6012 39089   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 39089   3  16    3.1800+7          1.8600-4 1.1580-3                                       S.Mukherjee+         (05)D6043  3 
+ 6012 39089   3  16    3.5000+7          0.022624 9.1800-4                                       S.Mukherjee+         (05)D6043  3 
+ 6012 39089   3  16    3.6620+7          0.031928 1.2970-3                                       S.Mukherjee+         (05)D6043  3 
+ 6012 39089   3  16    3.7680+7          0.049081 2.1620-3                                       S.Mukherjee+         (05)D6043  3 
+ 6012 39089   3  16    3.8200+7          0.039351 1.7300-3                                       S.Mukherjee+         (05)D6043  3 
+ 6012 39089   3  16    3.9730+7          0.065012 1.9560-3                                       S.Mukherjee+         (05)D6043  3 
+ 6012 39089   3  16    4.1200+7          0.040062 1.6370-3                                       S.Mukherjee+         (05)D6043  3 
+ 6012 39089   3  16    4.1810+7          0.038559 1.2970-3                                       S.Mukherjee+         (05)D6043  3 
+ 6012 39089   3  16    4.4220+7          0.045020 2.7940-3                                       S.Mukherjee+         (05)D6043  3 
+ 6012 39089   3  16    4.4810+7          0.040663 1.0380-3                                       S.Mukherjee+         (05)D6043  3 
+#/DATA      10
+#/DATASET
