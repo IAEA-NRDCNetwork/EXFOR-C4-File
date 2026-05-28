@@ -2,25 +2,25 @@
 #AUTHOR1    A.K.Chaubey+
 #YEAR       1966
 #INSTITUTE  (3INDMUA)
-#TITLE      Test of Statistical Theory of Nuclear Reactions
-#+          at 24 keV.
+#TITLE      Test of statistical theory of nuclear reactions
+#+          at 24 keV
 #AUTHOR(S)  A.K.Chaubey, M.L.Sehgal
-#REF-CODE   (J,PR,152,1055,196612)
+#REF-CODE   (J,PR,152,1055,1966)
 #REFERENCE  Phys.Rev. 152 (1966) 1055 (doi:10.1103/PhysRev.152.1055)
 #DATASETS   0
 #
 #DATASET    30079038 
-#DATE       20080215
-#REACTION   77-IR-193(N,G)77-IR-194,,SIG
+#DATE       20260402
+#REACTION   77-IR-193(N,G)77-IR-194-G,,SIG
 #PROJ       1
 #TARG       77193
 #MF         3
 #MT         102
-#PRODUCT    77-IR-194
-#C4BEGIN    [    1 77193   3 102  ]
+#PRODUCT    77-IR-194-G
+#C4BEGIN    [    1 77193   3 102G ]
 #DATA       0
 # Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
 #---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
-    1 77193   3 102    24000.00          0.630000 0.050000                                       A.K.Chaubey+         (66)30079 38 
+    1 77193   3 102G   24000.00          0.630000 0.050000                                       A.K.Chaubey+         (66)30079 38 
 #/DATA      1
 #/DATASET

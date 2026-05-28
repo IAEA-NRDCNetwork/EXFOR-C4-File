@@ -1,0 +1,30 @@
+#ENTRY      30301
+#AUTHOR1    W.Augustyniak+
+#YEAR       1974
+#INSTITUTE  (3POLIFJ)
+#TITLE      Cross-sections for fast neutron induced reactions on
+#+          85Rb, 190Os and 192Os nuclei
+#AUTHOR(S)  W.Augustyniak, J.Bielewicz, M.Herman, A.Marcinkowski
+#REF-CODE   (P,INDC(SEC)-42,205,1974)
+#REFERENCE  Progress report INDC(SEC)-42 page 205, 1974
+#DATASETS   0
+#
+#DATASET    30301003 
+#DATE       20260407
+#REACTION   37-RB-85(N,A)35-BR-82-G,M+,SIG
+#PROJ       1
+#TARG       37085
+#MF         3
+#MT         459
+#PRODUCT    35-BR-82-G
+#C4BEGIN    [    1 37085   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 37085   3 459 A  1.3300+7 100000.0 2.3000-3 4.0000-4           35082.0                     W.Augustyniak+       (74)30301  3 
+    1 37085   3 459 A  1.3800+7 100000.0 3.1000-3 4.0000-4           35082.0                     W.Augustyniak+       (74)30301  3 
+    1 37085   3 459 A  1.4500+7 100000.0 3.3000-3 5.0000-4           35082.0                     W.Augustyniak+       (74)30301  3 
+    1 37085   3 459 A  1.5000+7 200000.0 3.3000-3 3.0000-4           35082.0                     W.Augustyniak+       (74)30301  3 
+    1 37085   3 459 A  1.5500+7 200000.0 2.6000-3 2.0000-4           35082.0                     W.Augustyniak+       (74)30301  3 
+#/DATA      5
+#/DATASET

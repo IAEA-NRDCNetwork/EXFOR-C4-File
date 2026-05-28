@@ -1,0 +1,28 @@
+#ENTRY      32769
+#AUTHOR1    Junhua Luo+
+#YEAR       2017
+#INSTITUTE  (3CPRHXU)
+#TITLE      Activation cross section and isomeric cross section
+#+          ratio for the (n,2n) reaction on 132,134Ba
+#AUTHOR(S)  Junhua Luo, Chunlei Wu, Li Jiang, Suyuan Li
+#REF-CODE   (J,RCA,105,779,2017)
+#REFERENCE  Radiochim.Acta 105 (2017) 779 (doi:10.1515/ract-2017-2768)
+#DATASETS   0
+#
+#DATASET    327690033
+#DATE       20260408
+#REACTION   56-BA-134(N,2N)56-BA-133,,SIG
+#PROJ       1
+#TARG       56134
+#MF         3
+#MT         16
+#PRODUCT    56-BA-133
+#C4BEGIN    [    1 56134   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 56134   3  16    1.3500+7 200000.0 1.357000 0.089000                                       Junhua Luo+          (17)32769  33
+    1 56134   3  16    1.4100+7 200000.0 1.427000 0.094000                                       Junhua Luo+          (17)32769  33
+    1 56134   3  16    1.4800+7 200000.0 1.493000 0.095000                                       Junhua Luo+          (17)32769  33
+#/DATA      3
+#/DATASET
