@@ -1,11 +1,35 @@
 # EXFOR C4 File (C4)
-The EXFOR C4 File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-master/entry/) converted to C4 (Computational Format) by ForEXy [1]. See [2] for the original EXFOR Library.
+The EXFOR C4 File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-master/entry/) converted to the C4 format (Computational Format) via the <a href="../j4/">EXFOR JSON File</a> (J4) by the ForEXy package [1]. See [2] for the original EXFOR Library.
 
 **Download**
 - download individual files of the current version from the [EXFOR C4 File](https://nds.iaea.org/nrdc/exfor-master/c4/) website, or
 - download the full repository of the current version by using the terminal command:
 ```
 git clone https://github.com/iaea-nrdcnetwork/exfor-c4-file.git
+```
+
+**Directory structure**
+```
+    +--+--x4_makc4l.log   # update log file
+       +--x4_makc4l.txt   # index file
+       |
+       +--c4
+          |
+          +--1            # Area 1
+          |  +--10003.002-xxx.c4 # EXFOR 10003.002
+          |  +--10004.002-xxx.c4 # EXFOR 10004.002
+          |  ...
+          |
+          +--2            # Area 2
+          |  +--20001.002-xxx.c4 # EXFOR 20001.002
+          |  +--20002.002-xxx.c4 # EXFOR 20002.002
+          |  +--20002.003-xxx.c4 # EXFOR 20001.003
+          |  ...
+          |
+          +--3            # Area 3
+          ...
+          +--v            # Area V
+
 ```
 
 **Contents**
