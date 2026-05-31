@@ -1,5 +1,5 @@
 # EXFOR C4 File (C4)
-The EXFOR C4 File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-master/entry/) converted to the C4 format (Computational Format) via the <a href="../j4/">EXFOR JSON File</a> (J4) by the ForEXy package [1]. See [2] for the original EXFOR Library.
+The EXFOR C4 File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-master/entry/) converted to the C4 format (Computational Format) via the [EXFOR JSON File (J4)](https://nds.iaea.org/nrdc/exfor-master/j4/) by the [ForEXy](https://pypi.org/project/forexy/) package [1]. See [2] for the original EXFOR Library.
 
 **Download**
 - download individual files of the current version from the [EXFOR C4 File](https://nds.iaea.org/nrdc/exfor-master/c4/) website, or
