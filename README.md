@@ -121,7 +121,7 @@ A blank and "-" in author's name are replaced by "%" and "+" in the file name (e
 
 
 ## References
-1. N.Otuka, V.Devi, O.Iwamoto, [Appl.Radiat.Isot.225(2025)111903](https://doi.org/10.1016/j.apradiso.2025.111903) [[pdf](https://doi.org/10.48550/arXiv.2505.03758)].
-2. N.Otuka et al., [Nucl. Data Sheets 120(2014)272](http://dx.doi.org/10.1016/j.nds.2014.07.065) [[pdf](https://doi.org/10.48550/arXiv.2002.07114)].
-3. D.E.Cullen and A.Trkov, "Program X4TOC4 (Version 2001-3)", [Report IAEA-NDS-80 Rev.](https://doi.org/10.61092/iaea.tvbj-sa2z), International Atomic Energy Agency.
-4. V.Zerkin, "Full EXFOR in C4 format: delivery to WPEC group SG-30", Working Paper [WP2008-37](https://nds.iaea.org/nrdc/nrdc_2008/working/wp2008-37.pdf), Technical Meeting of the International Network of Nuclear Reaction Data Centres IPPE, Obninsk and Moscow State University, Moscow, Russian Federation 22 - 25 September 2008].
+1. N. Otuka, V. Devi, O. Iwamoto, [Appl. Radiat. Isot. 225 (2025) 111903](https://doi.org/10.1016/j.apradiso.2025.111903) [[pdf](https://doi.org/10.48550/arXiv.2505.03758)].
+2. N. Otuka et al., [Nucl. Data Sheets 120 (2014) 272](http://dx.doi.org/10.1016/j.nds.2014.07.065) [[pdf](https://doi.org/10.48550/arXiv.2002.07114)].
+3. D. E. Cullen and A. Trkov, "Program X4TOC4 (Version 2001-3)", [Report IAEA-NDS-80 Rev.](https://doi.org/10.61092/iaea.tvbj-sa2z), International Atomic Energy Agency.
+4. V. Zerkin, "Full EXFOR in C4 format: delivery to WPEC group SG-30", Working Paper [WP2008-37](https://nds.iaea.org/nrdc/nrdc_2008/working/wp2008-37.pdf), Technical Meeting of the International Network of Nuclear Reaction Data Centres IPPE, Obninsk and Moscow State University, Moscow, Russian Federation 22 - 25 September 2008].
