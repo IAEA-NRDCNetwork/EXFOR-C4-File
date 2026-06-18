@@ -1,0 +1,29 @@
+#ENTRY      14484
+#AUTHOR1    A.S.Voyles+
+#YEAR       2017
+#INSTITUTE  (1USAUCX)
+#TITLE      Measurement of the 64Zn,47Ti(n,p) cross sections
+#+          using a DD neutron generator for medical isotope
+#+          studies
+#AUTHOR(S)  A.S.Voyles, M.S.Basunia, J.C.Batchelder, J.D.Bauer, T.A.Becker, 
+#+          L.A.Bernstein, E.F.Matthews, P.R.Renne, D.Rutte, M.A.Unzueta, 
+#+          K.A.Van Bibber
+#REF-CODE   (J,NIM/B,410,230,2017)
+#REFERENCE  Nucl.Instrum.Meth.B 410 (2017) 230 (doi:10.1016/j.nimb.2017.08.021)
+#DATASETS   0
+#
+#DATASET    14484010 
+#DATE       20260331
+#REACTION   22-TI-47(N,P)21-SC-47,,SIG
+#PROJ       1
+#TARG       22047
+#MF         3
+#MT         103
+#PRODUCT    21-SC-47
+#C4BEGIN    [    1 22047   3 103 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22047   3 103 C  2760000.          0.025900 1.2000-3                                       A.S.Voyles+          (17)14484 10 
+#/DATA      1
+#/DATASET

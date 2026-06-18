@@ -1,0 +1,51 @@
+#ENTRY      10439
+#AUTHOR1    G.Tessler+
+#YEAR       1975
+#INSTITUTE  (1USABET)
+#TITLE      gamma-ray production cross sections for neutron
+#+          inelastic scattering from Cr, Ni, 92Zr, and 94Zr from
+#+          3 to 6 MeV
+#AUTHOR(S)  G.Tessler, S.S.Glickstein
+#REF-CODE   (C,75WASH,,934,1975)
+#REFERENCE  Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 page 934
+#DATASETS   0
+#
+#DATASET    10439002 
+#DATE       20260412
+#REACTION   24-CR-50(N,INL)24-CR-50,PAR,DA,G,4PI
+#PROJ       1
+#TARG       24050
+#MF         14
+#MT         51
+#PRODUCT    24-CR-50
+#C4BEGIN    [    1 24050  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24050  14  51 A  3430000.          0.072097 0.012112 0.573576          779800.0            G.Tessler+           (75)10439  2 
+    1 24050  14  51 A  4216000.          0.076617 0.012565 0.573576          779800.0            G.Tessler+           (75)10439  2 
+    1 24050  14  51 A  4845000.          0.070697 0.011380 0.573576          779800.0            G.Tessler+           (75)10439  2 
+    1 24050  14  51 A  5423000.          0.078201 0.012589 0.573576          779800.0            G.Tessler+           (75)10439  2 
+    1 24050  14  51 A  5970000.          0.076100 0.012327 0.573576          779800.0            G.Tessler+           (75)10439  2 
+#/DATA      5
+#/DATASET
+#
+#DATASET    10439002 
+#DATE       20260412
+#REACTION   24-CR-50(N,INL)24-CR-50,PAR,DA,G,4PI
+#PROJ       1
+#TARG       24050
+#MF         14
+#MT         51
+#PRODUCT    24-CR-50
+#C4BEGIN    [    1 24050  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24050  14  51 A  3430000.          0.010242 3.0637-3 0.573576          1095400.            G.Tessler+           (75)10439  2 
+    1 24050  14  51 A  4216000.          0.018669 3.4139-3 0.573576          1095400.            G.Tessler+           (75)10439  2 
+    1 24050  14  51 A  4845000.          0.023070 3.8277-3 0.573576          1095400.            G.Tessler+           (75)10439  2 
+    1 24050  14  51 A  5423000.          0.019520 3.2786-3 0.573576          1095400.            G.Tessler+           (75)10439  2 
+    1 24050  14  51 A  5970000.          0.021215 3.6049-3 0.573576          1095400.            G.Tessler+           (75)10439  2 
+#/DATA      5
+#/DATASET
