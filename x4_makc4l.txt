@@ -160967,8 +160967,14 @@ M0024.003   M067     3   50            46        0 CSP   26-FE-54(G,N)26-FE-53,P
 M0024.004   M067     3   50            45        0 CSP   26-FE-54(G,N)26-FE-53,PAR,SIG,,BRS
 M0024.005   M067     3   50            46        0 CSP   26-FE-56(G,N)26-FE-55,PAR,SIG,,BRS
 M0025.002   M100     -    -    -        -        - CS    74-W-182(G,X)0-NN-1,UNW,SIG,,BRS
+M0025.002   M146     -    -    -        -        - CS    74-W-182(G,X)0-NN-1,UNW,SIG,,BRS
 M0025.003   M100     -    -    -        -        - CS    74-W-184(G,X)0-NN-1,UNW,SIG,,BRS
+M0025.003   M146     -    -    -        -        - CS    74-W-184(G,X)0-NN-1,UNW,SIG,,BRS
 M0025.004   M100     -    -    -        -        - CS    74-W-186(G,X)0-NN-1,UNW,SIG,,BRS
+M0025.004   M146     -    -    -        -        - CS    74-W-186(G,X)0-NN-1,UNW,SIG,,BRS
+M0025.005   M146     3  201            65       65 CS    74-W-182(G,X)0-NN-1,,SIG,,BRS
+M0025.006   M146     3  201            65       65 CS    74-W-184(G,X)0-NN-1,,SIG,,BRS
+M0025.007   M146     3  201            65       65 CS    74-W-186(G,X)0-NN-1,,SIG,,BRS
 M0027.002   M065     -    -    -        -        - DAE   (11-NA-23(G,N)11-NA-22,,DA/DE,G,BRA/REL)+(11-NA-23(G,P)10-NE-22,,DA/DE,G,BRA/REL)
 M0027.005   M065    14  600            17       12 DAP   11-NA-23(G,P)10-NE-22,PAR,DA,G,BRS
 M0028.002   M065     4    2            66       66 DA    14-SI-28(G,EL)14-SI-28,,DA,,BRS
@@ -165664,15 +165670,31 @@ M0857.004   M120     -    -    -        -        - INT   73-TA-180-M(G,INL)73-TA
 M0857.005   M120     -    -    -        -        - CS    72-HF-180(G,SCT)72-HF-180-M/G,,SIG/RAT,,BRA
 M0857.006   M120     -    -    -        -        - CS    73-TA-180-M(G,SCT)73-TA-180-M/G,,SIG/RAT,,BRA
 M0858.002   M069     3  201            16       16 CS    29-CU-0(G,X)0-NN-1,,SIG,,BRS
+M0858.002   M146     3  201            15       15 CS    29-CU-0(G,X)0-NN-1,,SIG,,BRS
 M0858.003   M069     3  201            20       20 CS    30-ZN-0(G,X)0-NN-1,,SIG,,BRS
+M0858.003   M146     3  201            20       20 CS    30-ZN-0(G,X)0-NN-1,,SIG,,BRS
 M0858.004   M069     3  201            21       21 CS    48-CD-0(G,X)0-NN-1,,SIG,,BRS
+M0858.004   M146     3  201            21       21 CS    48-CD-0(G,X)0-NN-1,,SIG,,BRS
 M0858.005   M069     3  201            17       17 CS    53-I-127(G,X)0-NN-1,,SIG,,BRS
+M0858.005   M146     3  201            18       18 CS    53-I-127(G,X)0-NN-1,,SIG,,BRS
 M0858.006   M069     3  201            21       21 CS    73-TA-181(G,X)0-NN-1,,SIG,,BRS
+M0858.006   M146     3  201            22       22 CS    73-TA-181(G,X)0-NN-1,,SIG,,BRS
 M0858.007   M069     3  201            21       21 CS    79-AU-197(G,X)0-NN-1,,SIG,,BRS
+M0858.007   M146     3  201            20       20 CS    79-AU-197(G,X)0-NN-1,,SIG,,BRS
 M0858.008   M069     3  201            20       20 CS    81-TL-0(G,X)0-NN-1,,SIG,,BRS
+M0858.008   M146     3  201            20       20 CS    81-TL-0(G,X)0-NN-1,,SIG,,BRS
 M0858.009   M069     3  201            21       21 CS    83-BI-209(G,X)0-NN-1,,SIG,,BRS
+M0858.009   M146     3  201            20       20 CS    83-BI-209(G,X)0-NN-1,,SIG,,BRS
 M0858.010   M069     3  201            23       23 CS    90-TH-232(G,X)0-NN-1,,SIG,,BRS
+M0858.010   M146     3  201            23       23 CS    90-TH-232(G,X)0-NN-1,,SIG,,BRS
 M0858.011   M069     3  201            23       23 CS    92-U-238(G,X)0-NN-1,,SIG,,BRS
+M0858.011   M146     3  201            23       23 CS    92-U-238(G,X)0-NN-1,,SIG,,BRS
+M0858.012   M146     -    -    -        -        - CS    48-CD-0(G,X)0-NN-1,UNW,SIG,,BRS
+M0858.013   M146     -    -    -        -        - CS    53-I-127(G,X)0-NN-1,UNW,SIG,,BRS
+M0858.014   M146     -    -    -        -        - CS    73-TA-181(G,X)0-NN-1,UNW,SIG,,BRS
+M0858.015   M146     -    -    -        -        - CS    79-AU-197(G,X)0-NN-1,UNW,SIG,,BRS
+M0858.016   M146     -    -    -        -        - CS    81-TL-0(G,X)0-NN-1,UNW,SIG,,BRS
+M0858.017   M146     -    -    -        -        - CS    83-BI-209(G,X)0-NN-1,UNW,SIG,,BRS
 M0859.002.1 M066     -    -    -        -        - RP    64-GD-155(G,0),,EN
 M0859.002.1 M144     -    -    -        -        - RP    64-GD-155(G,0),,EN
 M0859.002.2 M066     -    -    -        -        - RP    64-GD-155(G,EL),,ARE
@@ -165996,43 +166018,81 @@ M0914.006   M080     -    -    -        -        - CS    (40-ZR-94(G,N)40-ZR-93,
 M0914.007   M080     -    -    -        -        - CS    (40-ZR-94(G,2N)40-ZR-92,,SIG,,,EVAL)+(40-ZR-94(G,2N+P)39-Y-91,,SIG,,,EVAL)
 M0914.008   M080     -    -    -        -        - CS    (40-ZR-94(G,3N)40-ZR-91,,SIG,,,EVAL)+(40-ZR-94(G,3N+P)39-Y-90,,SIG,,,EVAL)
 M0915.002   M133     -    -    -        -        - CS    76-OS-186(G,X)0-NN-1,UNW,SIG,,,EVAL
+M0915.002   M146     -    -    -        -        - CS    76-OS-186(G,X)0-NN-1,UNW,SIG,,,EVAL
 M0915.003   M133     -    -    -        -        - CS    (76-OS-186(G,N)76-OS-185,,SIG,,,EVAL)+(76-OS-186(G,N+P)75-RE-184,,SIG,,,EVAL)
+M0915.003   M146     -    -    -        -        - CS    (76-OS-186(G,N)76-OS-185,,SIG,,,EVAL)+(76-OS-186(G,N+P)75-RE-184,,SIG,,,EVAL)
 M0915.004   M133     -    -    -        -        - CS    (76-OS-190(G,N)76-OS-189,,SIG,,,EVAL)+(76-OS-190(G,N+P)75-RE-188,,SIG,,,EVAL)
+M0915.004   M146     -    -    -        -        - CS    (76-OS-190(G,N)76-OS-189,,SIG,,,EVAL)+(76-OS-190(G,N+P)75-RE-188,,SIG,,,EVAL)
 M0915.005   M133     -    -    -        -        - CS    (76-OS-190(G,2N)76-OS-188,,SIG,,,EVAL)+(76-OS-190(G,2N+P)75-RE-187,,SIG,,,EVAL)
+M0915.005   M146     -    -    -        -        - CS    (76-OS-190(G,2N)76-OS-188,,SIG,,,EVAL)+(76-OS-190(G,2N+P)75-RE-187,,SIG,,,EVAL)
 M0915.006   M133     -    -    -        -        - CS    (76-OS-190(G,3N)76-OS-187,,SIG,,,EVAL)+(76-OS-190(G,3N+P)75-RE-186,,SIG,,,EVAL)
+M0915.006   M146     -    -    -        -        - CS    (76-OS-190(G,3N)76-OS-187,,SIG,,,EVAL)+(76-OS-190(G,3N+P)75-RE-186,,SIG,,,EVAL)
 M0915.007   M133     -    -    -        -        - CS    76-OS-190(G,X)0-NN-1,UNW,SIG,,,EVAL
+M0915.007   M146     -    -    -        -        - CS    76-OS-190(G,X)0-NN-1,UNW,SIG,,,EVAL
 M0915.008   M133     -    -    -        -        - CS    (76-OS-192(G,N)76-OS-191,,SIG,,,EVAL)+(76-OS-192(G,N+P)75-RE-190,,SIG,,,EVAL)
+M0915.008   M146     -    -    -        -        - CS    (76-OS-192(G,N)76-OS-191,,SIG,,,EVAL)+(76-OS-192(G,N+P)75-RE-190,,SIG,,,EVAL)
 M0915.009   M133     -    -    -        -        - CS    (76-OS-192(G,2N)76-OS-190,,SIG,,,EVAL)+(76-OS-192(G,2N+P)75-RE-189,,SIG,,,EVAL)
+M0915.009   M146     -    -    -        -        - CS    (76-OS-192(G,2N)76-OS-190,,SIG,,,EVAL)+(76-OS-192(G,2N+P)75-RE-189,,SIG,,,EVAL)
 M0915.010   M133     -    -    -        -        - CS    (76-OS-192(G,3N)76-OS-189,,SIG,,,EVAL)+(76-OS-192(G,3N+P)75-RE-188,,SIG,,,EVAL)
+M0915.010   M146     -    -    -        -        - CS    (76-OS-192(G,3N)76-OS-189,,SIG,,,EVAL)+(76-OS-192(G,3N+P)75-RE-188,,SIG,,,EVAL)
 M0915.011   M133     -    -    -        -        - CS    76-OS-192(G,X)0-NN-1,UNW,SIG,,,EVAL
+M0915.011   M146     -    -    -        -        - CS    76-OS-192(G,X)0-NN-1,UNW,SIG,,,EVAL
 M0915.012   M133     -    -    -        -        - CS    (76-OS-186(G,2N)76-OS-184,,SIG,,,EVAL)+(76-OS-186(G,2N+P)75-RE-183,,SIG,,,EVAL)
+M0915.012   M146     -    -    -        -        - CS    (76-OS-186(G,2N)76-OS-184,,SIG,,,EVAL)+(76-OS-186(G,2N+P)75-RE-183,,SIG,,,EVAL)
 M0915.013   M133     -    -    -        -        - INT   76-OS-186(G,X)0-NN-1,UNW,INT,,,DERIV
+M0915.013   M146     -    -    -        -        - INT   76-OS-186(G,X)0-NN-1,UNW,INT,,,DERIV
 M0915.014   M133     -    -    -        -        - INT   (76-OS-186(G,N)76-OS-185,,INT,,,DERIV)+(76-OS-186(G,N+P)75-RE-184,,INT,,,DERIV)
+M0915.014   M146     -    -    -        -        - INT   (76-OS-186(G,N)76-OS-185,,INT,,,DERIV)+(76-OS-186(G,N+P)75-RE-184,,INT,,,DERIV)
 M0915.015   M133     -    -    -        -        - INT   (76-OS-186(G,2N)76-OS-184,,INT,,,DERIV)+(76-OS-186(G,2N+P)75-RE-183,,INT,,,DERIV)
+M0915.015   M146     -    -    -        -        - INT   (76-OS-186(G,2N)76-OS-184,,INT,,,DERIV)+(76-OS-186(G,2N+P)75-RE-183,,INT,,,DERIV)
 M0915.016   M133     -    -    -        -        - INT   76-OS-190(G,X)0-NN-1,UNW,INT,,,DERIV
+M0915.016   M146     -    -    -        -        - INT   76-OS-190(G,X)0-NN-1,UNW,INT,,,DERIV
 M0915.017   M133     -    -    -        -        - INT   (76-OS-190(G,N)76-OS-189,,INT,,,DERIV)+(76-OS-190(G,N+P)75-RE-188,,INT,,,DERIV)
+M0915.017   M146     -    -    -        -        - INT   (76-OS-190(G,N)76-OS-189,,INT,,,DERIV)+(76-OS-190(G,N+P)75-RE-188,,INT,,,DERIV)
 M0915.018   M133     -    -    -        -        - INT   (76-OS-190(G,2N)76-OS-188,,INT,,,DERIV)+(76-OS-190(G,2N+P)75-RE-187,,INT,,,DERIV)
+M0915.018   M146     -    -    -        -        - INT   (76-OS-190(G,2N)76-OS-188,,INT,,,DERIV)+(76-OS-190(G,2N+P)75-RE-187,,INT,,,DERIV)
 M0915.019   M133     -    -    -        -        - INT   (76-OS-190(G,3N)76-OS-187,,INT,,,DERIV)+(76-OS-190(G,3N+P)75-RE-186,,INT,,,DERIV)
+M0915.019   M146     -    -    -        -        - INT   (76-OS-190(G,3N)76-OS-187,,INT,,,DERIV)+(76-OS-190(G,3N+P)75-RE-186,,INT,,,DERIV)
 M0915.020   M133     -    -    -        -        - INT   76-OS-192(G,X)0-NN-1,UNW,INT,,,DERIV
+M0915.020   M146     -    -    -        -        - INT   76-OS-192(G,X)0-NN-1,UNW,INT,,,DERIV
 M0915.021   M133     -    -    -        -        - INT   (76-OS-192(G,N)76-OS-191,,INT,,,DERIV)+(76-OS-192(G,N+P)75-RE-190,,INT,,,DERIV)
+M0915.021   M146     -    -    -        -        - INT   (76-OS-192(G,N)76-OS-191,,INT,,,DERIV)+(76-OS-192(G,N+P)75-RE-190,,INT,,,DERIV)
 M0915.022   M133     -    -    -        -        - INT   (76-OS-192(G,2N)76-OS-190,,INT,,,DERIV)+(76-OS-192(G,2N+P)75-RE-189,,INT,,,DERIV)
+M0915.022   M146     -    -    -        -        - INT   (76-OS-192(G,2N)76-OS-190,,INT,,,DERIV)+(76-OS-192(G,2N+P)75-RE-189,,INT,,,DERIV)
 M0915.023   M133     -    -    -        -        - INT   (76-OS-192(G,3N)76-OS-189,,INT,,,DERIV)+(76-OS-192(G,3N+P)75-RE-188,,INT,,,DERIV)
+M0915.023   M146     -    -    -        -        - INT   (76-OS-192(G,3N)76-OS-189,,INT,,,DERIV)+(76-OS-192(G,3N+P)75-RE-188,,INT,,,DERIV)
 M0916.002   M133     -    -    -        -        - CS    (76-OS-188(G,N)76-OS-187,,SIG,,,EVAL)+(76-OS-188(G,N+P)75-RE-186,,SIG,,,EVAL)
+M0916.002   M146     -    -    -        -        - CS    (76-OS-188(G,N)76-OS-187,,SIG,,,EVAL)+(76-OS-188(G,N+P)75-RE-186,,SIG,,,EVAL)
 M0916.003   M133     -    -    -        -        - CS    (76-OS-188(G,2N)76-OS-186,,SIG,,,EVAL)+(76-OS-188(G,2N+P)75-RE-185,,SIG,,,EVAL)
+M0916.003   M146     -    -    -        -        - CS    (76-OS-188(G,2N)76-OS-186,,SIG,,,EVAL)+(76-OS-188(G,2N+P)75-RE-185,,SIG,,,EVAL)
 M0916.004   M133     -    -    -        -        - CS    (76-OS-188(G,3N)76-OS-185,,SIG,,,EVAL)+(76-OS-188(G,3N+P)75-RE-184,,SIG,,,EVAL)
+M0916.004   M146     -    -    -        -        - CS    (76-OS-188(G,3N)76-OS-185,,SIG,,,EVAL)+(76-OS-188(G,3N+P)75-RE-184,,SIG,,,EVAL)
 M0916.005   M133     -    -    -        -        - CS    76-OS-188(G,X)0-NN-1,UNW,SIG,,,EVAL
+M0916.005   M146     -    -    -        -        - CS    76-OS-188(G,X)0-NN-1,UNW,SIG,,,EVAL
 M0916.006   M133     -    -    -        -        - CS    (76-OS-189(G,N)76-OS-188,,SIG,,,EVAL)+(76-OS-189(G,N+P)75-RE-187,,SIG,,,EVAL)
+M0916.006   M146     -    -    -        -        - CS    (76-OS-189(G,N)76-OS-188,,SIG,,,EVAL)+(76-OS-189(G,N+P)75-RE-187,,SIG,,,EVAL)
 M0916.007   M133     -    -    -        -        - CS    (76-OS-189(G,2N)76-OS-187,,SIG,,,EVAL)+(76-OS-189(G,2N+P)75-RE-186,,SIG,,,EVAL)
+M0916.007   M146     -    -    -        -        - CS    (76-OS-189(G,2N)76-OS-187,,SIG,,,EVAL)+(76-OS-189(G,2N+P)75-RE-186,,SIG,,,EVAL)
 M0916.008   M133     -    -    -        -        - CS    (76-OS-189(G,3N)76-OS-186,,SIG,,,EVAL)+(76-OS-189(G,3N+P)75-RE-185,,SIG,,,EVAL)
+M0916.008   M146     -    -    -        -        - CS    (76-OS-189(G,3N)76-OS-186,,SIG,,,EVAL)+(76-OS-189(G,3N+P)75-RE-185,,SIG,,,EVAL)
 M0916.009   M133     -    -    -        -        - CS    76-OS-189(G,X)0-NN-1,UNW,SIG,,,EVAL
+M0916.009   M146     -    -    -        -        - CS    76-OS-189(G,X)0-NN-1,UNW,SIG,,,EVAL
 M0916.010   M133     -    -    -        -        - INT   76-OS-188(G,X)0-NN-1,,INT,,,DERIV
+M0916.010   M146     -    -    -        -        - INT   76-OS-188(G,X)0-NN-1,,INT,,,DERIV
 M0916.011   M133     -    -    -        -        - INT   (76-OS-188(G,N)76-OS-187,,INT,,,DERIV)+(76-OS-188(G,N+P)75-RE-186,,INT,,,DERIV)
+M0916.011   M146     -    -    -        -        - INT   (76-OS-188(G,N)76-OS-187,,INT,,,DERIV)+(76-OS-188(G,N+P)75-RE-186,,INT,,,DERIV)
 M0916.012   M133     -    -    -        -        - INT   (76-OS-188(G,2N)76-OS-186,,INT,,,DERIV)+(76-OS-188(G,2N+P)75-RE-185,,INT,,,DERIV)
+M0916.012   M146     -    -    -        -        - INT   (76-OS-188(G,2N)76-OS-186,,INT,,,DERIV)+(76-OS-188(G,2N+P)75-RE-185,,INT,,,DERIV)
 M0916.013   M133     -    -    -        -        - INT   (76-OS-188(G,3N)76-OS-185,,INT,,,DERIV)+(76-OS-188(G,3N+P)75-RE-184,,INT,,,DERIV)
+M0916.013   M146     -    -    -        -        - INT   (76-OS-188(G,3N)76-OS-185,,INT,,,DERIV)+(76-OS-188(G,3N+P)75-RE-184,,INT,,,DERIV)
 M0916.014   M133     -    -    -        -        - INT   76-OS-189(G,X)0-NN-1,,INT,,,DERIV
+M0916.014   M146     -    -    -        -        - INT   76-OS-189(G,X)0-NN-1,,INT,,,DERIV
 M0916.015   M133     -    -    -        -        - INT   (76-OS-189(G,N)76-OS-188,,INT,,,DERIV)+(76-OS-189(G,N+P)75-RE-187,,INT,,,DERIV)
+M0916.015   M146     -    -    -        -        - INT   (76-OS-189(G,N)76-OS-188,,INT,,,DERIV)+(76-OS-189(G,N+P)75-RE-187,,INT,,,DERIV)
 M0916.016   M133     -    -    -        -        - INT   (76-OS-189(G,2N)76-OS-187,,INT,,,DERIV)+(76-OS-188(G,2N+P)75-RE-185,,INT,,,DERIV)
+M0916.016   M146     -    -    -        -        - INT   (76-OS-189(G,2N)76-OS-187,,INT,,,DERIV)+(76-OS-188(G,2N+P)75-RE-185,,INT,,,DERIV)
 M0916.017   M133     -    -    -        -        - INT   (76-OS-189(G,3N)76-OS-186,,INT,,,DERIV)+(76-OS-189(G,3N+P)75-RE-185,,INT,,,DERIV)
+M0916.017   M146     -    -    -        -        - INT   (76-OS-189(G,3N)76-OS-186,,INT,,,DERIV)+(76-OS-189(G,3N+P)75-RE-185,,INT,,,DERIV)
 M0918.002   M081     -    -    -        -        - CS    47-AG-0(G,X)47-AG-106-M/G,,SIG/RAT,,BRA
 M0918.003   M081     -    -    -        -        - CS    47-AG-0(G,X)47-AG-104-M/G,,SIG/RAT,,BRA
 M0919.002   M081     -    -    -        -        - POL   1-H-2(G,PI0)1-H-2,20,POL/DA,,TAP
@@ -166262,6 +166322,7 @@ M0960.005   M093     3  201            11       11 CS    6-C-12(G,X)0-NN-1,,SIG,
 M0960.006   M093     3  201            11       11 CS    8-O-16(G,X)0-NN-1,,SIG,,BRS
 M0960.007   M093     3  201             9        9 CS    20-CA-40(G,X)0-NN-1,,SIG,,BRS
 M0961.002   M095     3   27            36       34 CS    25-MN-55(G,ABS),,SIG
+M0961.002   M146     3    1            36       34 CS    25-MN-55(G,TOT),,SIG
 M0962.002   M093     4  103            13       13 DA    2-HE-3(G,P)1-H-2,,DA
 M0962.003   M093     4  103             9        9 DA    2-HE-4(G,P)1-H-3,,DA
 M0963.002   M095     -    -    -        -        - POL   1-H-2(G,N)1-H-1,,POL/DA,,ASY/PP
