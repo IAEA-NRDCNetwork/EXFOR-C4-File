@@ -143257,8 +143257,10 @@ E2103.002   E125     -    -    -        -        - TT    16-S-32(A,X)17-CL-34-M,
 E2103.003   E125     -    -    -        -        - CS    16-S-32(A,X)17-CL-34-M,,SIG,,,DERIV
 E2105.002   E056     -    -    -        -        - DAE   1-H-1(P,PI0+P)1-H-1,,DA/DA/DP,PI0/P+P/P+P
 E2105.002   E158     -    -    -        -        - DAE   1-H-1(P,PI0+P)1-H-1,,DA/DA/DP,PI0/P+P/P+P
+E2105.002   E158     -    -    -        -        - DAE   1-H-1(P,PI0+P)1-H-1,,DA/DA/DP,PI0/P+P/P+P
 E2105.003   E056     -    -    -        -        - POL   1-H-1(P,PI0+P)1-H-1,,POL/DA/DA/DP,PI0/P+P/P+P,VAP
 E2105.003   E158     -    -    -        -        -       1-H-1(P,PI0+P)1-H-1,,POL/DA/DA/DP,PI0/P+P/P+P,ANA
+E2105.003   E158     -    -    -        -        - POL   1-H-1(P,PI0+P)1-H-1,,POL/DA/DA/DP,PI0/P+P/P+P,ANA
 E2106.002   E056     -    -    -        -        - DAE   6-C-0(P,X)ELEM,,DA/DE
 E2106.003   E056     -    -    -        -        - DAE   6-C-0(P,X)ELEM,,DA/DE
 E2107.002   E063     -    -    -        -        - DA    1-H-1(11-NA-21,EL)1-H-1,,DA,P
@@ -156972,6 +156974,7 @@ G0091.018   G051     -    -    -        -        - NU    92-U-235(G,F)ELEM/MASS,
 G0092.002   G057     -    -    -        -        - CS    13-AL-27(G,X)11-NA-24,,SIG,,BRA
 G0093.002   G057     3    4            44       44 CS    29-CU-63(G,N)29-CU-62,,SIG
 G0093.002   G059     3    4            44       44 CS    29-CU-63(G,N)29-CU-62,,SIG
+G0093.002   G059     3    4            44       44 CS    29-CU-63(G,N)29-CU-62,,SIG
 G0094.002   G057     -    -    -        -        - RP    27-CO-59(G,0),,EN
 G0094.002   G059     -    -    -        -        - RP    27-CO-59(G,0),,EN
 G0094.003.1 G057     -    -    -        -        - RP    27-CO-59(G,0),,EN
@@ -156986,14 +156989,19 @@ G0095.002   G057     -    -    -        -        - CS    80-HG-198(G,N)80-HG-197
 G0096.002   G057     -    -    -        -        - CS    58-CE-140(G,N)58-CE-139-M/G,,SIG/RAT,,BRA
 G0098.002   G058     3    4            28       28 CS    27-CO-59(G,N)27-CO-58,,SIG
 G0098.002   G059     3    4            28       28 CS    27-CO-59(G,N)27-CO-58,,SIG
+G0098.002   G059     3    4            28       28 CS    27-CO-59(G,N)27-CO-58,,SIG
 G0099.002   G058     3    4            38       38 CS    13-AL-27(G,N)13-AL-26,,SIG
 G0099.002   G059     3    4            38       38 CS    13-AL-27(G,N)13-AL-26,,SIG
+G0099.002   G059     3    4            38       38 CS    13-AL-27(G,N)13-AL-26,,SIG
 G0100.002   G059     3    4            18       18 CS    79-AU-197(G,N)79-AU-196,,SIG
+G0100.002   G059     3    4            18       18 CS    79-AU-197(G,N)79-AU-196,,SIG
+G0100.003   G059     3    4            16       16 CS    65-TB-159(G,N)65-TB-158,,SIG
 G0100.003   G059     3    4            16       16 CS    65-TB-159(G,N)65-TB-158,,SIG
 G0101.002   G059     -    -    -        -        - CS    63-EU-151(G,N)63-EU-150-M/G,,SIG/RAT,,BRA
 G0101.003   G059     -    -    -        -        - CS    63-EU-153(G,N)63-EU-152-M2/G,,SIG/RAT,,BRA
 G0101.004   G059     -    -    -        -        - CS    63-EU-153(G,N)63-EU-152-M1/G,,SIG/RAT,,BRA
 G0101.005   G059     -    -    -        -        - CS    63-EU-153(G,N)63-EU-152-M2/M1,,SIG/RAT,,BRA
+G0102.002   G059     3    4            21       21 CS    45-RH-103(G,N)45-RH-102,,SIG
 G0102.002   G059     3    4            21       21 CS    45-RH-103(G,N)45-RH-102,,SIG
 G0103.002   G060     -    -    -        -        - CS    13-AL-27(G,X)11-NA-24,,SIG,,BRA
 G0103.003   G060     -    -    -        -        - CS    13-AL-27(G,X)11-NA-22,,SIG,,BRA

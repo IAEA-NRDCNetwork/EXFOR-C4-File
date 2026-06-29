@@ -5,7 +5,7 @@ The EXFOR C4 File is the [EXFOR Entry File](https://nds.iaea.org/nrdc/exfor-mast
 - download individual files of the current version from the [EXFOR C4 File](https://nds.iaea.org/nrdc/exfor-master/c4/) website, or
 - download the full repository of the current version by using the terminal command:
 ```
-git clone https://github.com/iaea-nrdcnetwork/exfor-c4-file.git
+git clone https://github.com/iaea-nds/exfor-c4-file.git
 ```
 
 **Directory structure**
