@@ -147891,6 +147891,9 @@ E2743.002   E138     3  454             4        4 CS    4-BE-9(20-CA-48,X)ELEM/
 E2743.003   E138     3  454             7        7 CS    4-BE-9(20-CA-48,X)ELEM/MASS,,SIG
 E2743.004   E138     3  454             5        5 CS    4-BE-9(20-CA-48,X)ELEM/MASS,,SIG
 E2744.002   E138     -    -    -        -        - POL   2-HE-3(P,EL)2-HE-3,NN,POL/DA,,C
+E2744.002   E159     -    -    -        -        - POL   2-HE-3(P,EL)2-HE-3,NN,POL/DA,,C
+E2744.003   E159     -    -    -        -        - POL   2-HE-3(P,EL)2-HE-3,,POL/DA,,ANA
+E2744.004   E159     -    -    -        -        - POL   2-HE-3(P,EL)2-HE-3,,POL/DA,HE3,ANA
 E2745.002   E139     -    -    -        -        - DE    6-C-12(6-C-18,N+X)6-C-16,,DE,N+RSD
 E2745.003   E139     -    -    -        -        - DEP   6-C-12(6-C-18,N+X)6-C-16,PAR,DE,N+RSD
 E2745.004   E139     -    -    -        -        - CSP   6-C-12(6-C-18,N+X)6-C-16,PAR,SIG
@@ -147980,29 +147983,53 @@ E2756.007   E139     3  454             4        4 CS    75-RE-0(D,X)75-RE-184-M
 E2756.008   E139     3  454            15       15 CS    75-RE-0(D,X)75-RE-184-G,,SIG
 E2756.009   E139     3  459             3        3 CS    75-RE-0(D,X)75-RE-183,CUM,SIG
 E2757.002   E141     -    -    -        -        - DAE   6-C-12(P,2P)5-B-11,PAR,DA/DA/DE,P/P/P
+E2757.002   E159     -    -    -        -        - DAE   6-C-12(P,2P)5-B-11,PAR,DA/DA/DE,P/P/P
 E2757.003   E141     -    -    -        -        - DAE   6-C-12(P,2P)5-B-11,PAR,DA/DA/DE,P/P/P
+E2757.003   E159     -    -    -        -        - DAE   6-C-12(P,2P)5-B-11,PAR,DA/DA/DE,P/P/P
 E2757.004   E141     -    -    -        -        - DAE   6-C-12(P,2P)5-B-11,PAR,DA/DA/DE,P/P/P
+E2757.004   E159     -    -    -        -        - DAE   6-C-12(P,2P)5-B-11,PAR,DA/DA/DE,P/P/P
 E2757.005   E141     -    -    -        -        - POL   6-C-12(P,2P)5-B-11,PAR,POL/DA/DA/DE,P/P/P,ANA
+E2757.005   E159     -    -    -        -        - POL   6-C-12(P,2P)5-B-11,PAR,POL/DA/DA/DE,P/P/P,ANA
 E2757.006   E141     -    -    -        -        - POL   6-C-12(P,2P)5-B-11,PAR,POL/DA/DA/DE,P/P/P,ANA
+E2757.006   E159     -    -    -        -        - POL   6-C-12(P,2P)5-B-11,PAR,POL/DA/DA/DE,P/P/P,ANA
 E2757.007   E141     -    -    -        -        - POL   6-C-12(P,2P)5-B-11,PAR,POL/DA/DA/DE,P/P/P,ANA
+E2757.007   E159     -    -    -        -        - POL   6-C-12(P,2P)5-B-11,PAR,POL/DA/DA/DE,P/P/P,ANA
 E2757.008   E141     -    -    -        -        - DAE   8-O-16(P,2P)7-N-15,PAR,DA/DA/DE,P/P/P
+E2757.008   E159     -    -    -        -        - DAE   8-O-16(P,2P)7-N-15,PAR,DA/DA/DE,P/P/P
 E2757.009   E141     -    -    -        -        - DAE   8-O-16(P,2P)7-N-15,PAR,DA/DA/DE,P/P/P
+E2757.009   E159     -    -    -        -        - DAE   8-O-16(P,2P)7-N-15,PAR,DA/DA/DE,P/P/P
 E2757.010   E141     -    -    -        -        - DAE   8-O-16(P,2P)7-N-15,PAR,DA/DA/DE,P/P/P
+E2757.010   E159     -    -    -        -        - DAE   8-O-16(P,2P)7-N-15,PAR,DA/DA/DE,P/P/P
 E2757.011   E141     -    -    -        -        - POL   8-O-16(P,2P)7-N-15,PAR,POL/DA/DA/DE,P/P/P,ANA
+E2757.011   E159     -    -    -        -        - POL   8-O-16(P,2P)7-N-15,PAR,POL/DA/DA/DE,P/P/P,ANA
 E2757.012   E141     -    -    -        -        - POL   8-O-16(P,2P)7-N-15,PAR,POL/DA/DA/DE,P/P/P,ANA
+E2757.012   E159     -    -    -        -        - POL   8-O-16(P,2P)7-N-15,PAR,POL/DA/DA/DE,P/P/P,ANA
 E2757.013   E141     -    -    -        -        - POL   8-O-16(P,2P)7-N-15,PAR,POL/DA/DA/DE,P/P/P,ANA
+E2757.013   E159     -    -    -        -        - POL   8-O-16(P,2P)7-N-15,PAR,POL/DA/DA/DE,P/P/P,ANA
 E2757.014   E141     -    -    -        -        - DAE   20-CA-40(P,2P)19-K-39,PAR,DA/DA/DE,P/P/P
+E2757.014   E159     -    -    -        -        - DAE   20-CA-40(P,2P)19-K-39,PAR,DA/DA/DE,P/P/P
 E2757.015   E141     -    -    -        -        - DAE   20-CA-40(P,2P)19-K-39,PAR,DA/DA/DE,P/P/P
+E2757.015   E159     -    -    -        -        - DAE   20-CA-40(P,2P)19-K-39,PAR,DA/DA/DE,P/P/P
 E2757.016   E141     -    -    -        -        - POL   20-CA-40(P,2P)19-K-39,PAR,POL/DA/DA/DE,P/P/P,ANA
+E2757.016   E159     -    -    -        -        - POL   20-CA-40(P,2P)19-K-39,PAR,POL/DA/DA/DE,P/P/P,ANA
 E2757.017   E141     -    -    -        -        - POL   20-CA-40(P,2P)19-K-39,PAR,POL/DA/DA/DE,P/P/P,ANA
+E2757.017   E159     -    -    -        -        - POL   20-CA-40(P,2P)19-K-39,PAR,POL/DA/DA/DE,P/P/P,ANA
 E2757.018   E141     -    -    -        -        - DAE   20-CA-48(P,2P)19-K-47,PAR,DA/DA/DE,P/P/P
+E2757.018   E159     -    -    -        -        - DAE   20-CA-48(P,2P)19-K-47,PAR,DA/DA/DE,P/P/P
 E2757.019   E141     -    -    -        -        - DAE   20-CA-48(P,2P)19-K-47,PAR,DA/DA/DE,P/P/P
+E2757.019   E159     -    -    -        -        - DAE   20-CA-48(P,2P)19-K-47,PAR,DA/DA/DE,P/P/P
 E2757.020   E141     -    -    -        -        - POL   20-CA-48(P,2P)19-K-47,PAR,POL/DA/DA/DE,P/P/P,ANA
+E2757.020   E159     -    -    -        -        - POL   20-CA-48(P,2P)19-K-47,PAR,POL/DA/DA/DE,P/P/P,ANA
 E2757.021   E141     -    -    -        -        - POL   20-CA-48(P,2P)19-K-47,PAR,POL/DA/DA/DE,P/P/P,ANA
+E2757.021   E159     -    -    -        -        - POL   20-CA-48(P,2P)19-K-47,PAR,POL/DA/DA/DE,P/P/P,ANA
 E2757.022   E141     -    -    -        -        - DAE   40-ZR-90(P,2P)39-Y-89,PAR,DA/DA/DE,P/P/P
+E2757.022   E159     -    -    -        -        - DAE   40-ZR-90(P,2P)39-Y-89,PAR,DA/DA/DE,P/P/P
 E2757.023   E141     -    -    -        -        - DAE   40-ZR-90(P,2P)39-Y-89,PAR,DA/DA/DE,P/P/P
+E2757.023   E159     -    -    -        -        - DAE   40-ZR-90(P,2P)39-Y-89,PAR,DA/DA/DE,P/P/P
 E2757.024   E141     -    -    -        -        - POL   40-ZR-90(P,2P)39-Y-89,PAR,POL/DA/DA/DE,P/P/P,ANA
+E2757.024   E159     -    -    -        -        - POL   40-ZR-90(P,2P)39-Y-89,PAR,POL/DA/DA/DE,P/P/P,ANA
 E2757.025   E141     -    -    -        -        - POL   40-ZR-90(P,2P)39-Y-89,PAR,POL/DA/DA/DE,P/P/P,ANA
+E2757.025   E159     -    -    -        -        - POL   40-ZR-90(P,2P)39-Y-89,PAR,POL/DA/DA/DE,P/P/P,ANA
 E2758.002   E141     6  201            46       46 DAE   82-PB-0(P,X)0-NN-1,,DA/DE
 E2758.003   E141     6  201            24       24 DAE   82-PB-0(P,X)0-NN-1,,DA/DE
 E2758.004   E141     6  201            17       17 DAE   82-PB-0(P,X)0-NN-1,,DA/DE
@@ -148613,6 +148640,7 @@ E2814.004   E156     -    -    -        -        - DAE   3-LI-7(HE3,P+D)3-LI-7,I
 E2814.005   E156     -    -    -        -        - DAE   3-LI-7(HE3,P+D)3-LI-7,ISP,DA/DA/DE,P/D/BE8
 E2815.002   E156     4  107             6        6 DA    3-LI-7(P,A)2-HE-4,,DA
 E2816.002   E155     3  454            77       77 CS    4-BE-9(92-U-238,X)ELEM/MASS,,SIG
+E2819.002   E159     -    -    -        -        - POL   2-HE-3(P,EL)2-HE-3,,POL/DA,HE3,ANA
 E2820.002   E156     -    -    -        -        - CS    96-CM-248(22-TI-50,X)ELEM,,SIG
 E2821.002   E155     3  454            16       16 CS    27-CO-59(A,X)29-CU-61,,SIG
 E2821.003   E155     3  454             9        9 CS    27-CO-59(A,X)29-CU-60,,SIG
@@ -148637,6 +148665,30 @@ E2822.013   E155     3  459             3        3 CS    41-NB-93(A,X)41-NB-90,C
 E2822.014   E155     3  459             1        1 CS    41-NB-93(A,X)40-ZR-89-G,CUM,SIG
 E2822.015   E155     3  459             5        5 CS    41-NB-93(A,X)39-Y-88,CUM,SIG
 E2822.016   E155     3  459             1        1 CS    41-NB-93(A,X)39-Y-87-G,CUM,SIG
+E2823.002   E159     3  454            13       13 CS    90-TH-232(3-LI-7,X)93-NP-234,,SIG
+E2823.003   E159     3  454            10       10 CS    90-TH-232(3-LI-7,X)93-NP-236-M,,SIG
+E2824.002   E159     3  454            15       15 CS    26-FE-0(A,X)28-NI-57,,SIG
+E2824.003   E159     3  454            13       13 CS    26-FE-0(A,X)28-NI-56,,SIG
+E2824.004   E159     3  454            14       14 CS    26-FE-0(A,X)27-CO-61,,SIG
+E2824.005   E159     3  454            15       15 CS    26-FE-0(A,X)27-CO-58-M,,SIG
+E2824.006   E159     3  454            15       15 CS    26-FE-0(A,X)27-CO-58,,SIG
+E2824.007   E159     3  454            15       15 CS    26-FE-0(A,X)27-CO-58-G,,SIG
+E2824.008   E159     3  459            15       15 CS    26-FE-0(A,X)27-CO-57,CUM,SIG
+E2824.009   E159     3  459            13       13 CS    26-FE-0(A,X)27-CO-56,CUM,SIG
+E2824.010   E159     3  459            12       12 CS    26-FE-0(A,X)27-CO-55,CUM,SIG
+E2824.011   E159     3  454             6        6 CS    26-FE-0(A,X)26-FE-52-G,,SIG
+E2824.012   E159     3  459            15       15 CS    26-FE-0(A,X)25-MN-56,CUM,SIG
+E2824.013   E159     3  454             9        9 CS    26-FE-0(A,X)25-MN-54,,SIG
+E2824.014   E159     3  459             8        8 CS    26-FE-0(A,X)25-MN-52-G,CUM,SIG
+E2824.015   E159     3  459             4        4 CS    26-FE-0(A,X)24-CR-51,CUM,SIG
+E2824.016   E159     -    -    -        -        - TT    26-FE-0(A,X)28-NI-57,,TTY,,PHY
+E2824.017   E159     -    -    -        -        - TT    26-FE-0(A,X)28-NI-56,,TTY,,PHY
+E2824.018   E159     -    -    -        -        - TT    26-FE-0(A,X)27-CO-58,,TTY,,PHY
+E2824.019   E159     -    -    -        -        - TT    26-FE-0(A,X)27-CO-57,CUM,TTY,,PHY
+E2824.020   E159     -    -    -        -        - TT    26-FE-0(A,X)27-CO-56,CUM,TTY,,PHY
+E2824.021   E159     -    -    -        -        - TT    26-FE-0(A,X)27-CO-55,CUM,TTY,,PHY
+E2824.022   E159     -    -    -        -        - TT    26-FE-0(A,X)25-MN-54,,TTY,,PHY
+E2824.023   E159     -    -    -        -        - TT    26-FE-0(A,X)25-MN-52-G,CUM,TTY,,PHY
 E2825.002   E157     3   27             1        1 CS    6-C-0(11-NA-22,ABS),,SIG
 E2825.003   E157     3   27             1        1 CS    6-C-0(11-NA-23,ABS),,SIG
 E2825.004   E157     3   27             1        1 CS    6-C-0(11-NA-24,ABS),,SIG
@@ -148653,6 +148705,9 @@ E2825.014   E157     3   27             1        1 CS    6-C-0(11-NA-35,ABS),,SI
 E2826.002   E157     3  454            78       78 CS    4-BE-9(92-U-238,X)ELEM/MASS,,SIG
 E2827.002   E157     3  454             7        7 CS    4-BE-9(92-U-238,X)ELEM/MASS,,SIG
 E2828.002   E157     4    2            25       25 DA    (1-H-1(50-SN-132,EL)1-H-1,,DA)=(50-SN-132(P,EL)50-SN-132,,DA)
+E2831.002   E159     3  454            14       14 CS    12-MG-0(A,X)12-MG-28,,SIG
+E2831.003   E159     3  459            18       18 CS    12-MG-0(A,X)11-NA-24,CUM,SIG
+E2831.004   E159     3  459             9        9 CS    12-MG-0(A,X)11-NA-22,CUM,SIG
 F0001.002   F042     4  600            56       13 DAP   3-LI-6(HE3,P)4-BE-8,PAR,DA
 F0001.003   F042     4  600            56       13 DAP   3-LI-6(HE3,P)4-BE-8,PAR,DA
 F0001.004   F042     3  600             8        4 CSP   3-LI-6(HE3,P)4-BE-8,PAR,SIG
