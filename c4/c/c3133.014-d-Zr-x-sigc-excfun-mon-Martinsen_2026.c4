@@ -1,0 +1,48 @@
+#ENTRY      C3133
+#AUTHOR1    E.M.Martinsen+
+#YEAR       2026
+#INSTITUTE  (2NOROSL)
+#TITLE      Deuteron-induced reactions on natural Zr from
+#+          threshold to 50 MeV: production of 86gY
+#AUTHOR(S)  E.M.Martinsen, A.S.Voyles, K.Ching Wei Li, M.S.Basunia, 
+#+          L.A.Bernstein, H.L.Okstad Ekeberg, M.Hussain, J.T.Morrell, 
+#+          S.M.Qaim, S.Siem, Md.Shuza Uddin, H.Zaneb
+#REF-CODE   (J,RCA,114,265,2026)
+#REFERENCE  Radiochim.Acta 114 (2026) 265 (doi:10.1515/ract-2025-0057)
+#DATASETS   0
+#
+#DATASET    C3133014 
+#DATE       20260521
+#REACTION   40-ZR-0(D,X)ELEM/MASS,M+,SIG
+#PROJ       1002
+#TARG       40000
+#MF         3
+#MT         459
+#C4BEGIN    [ 1002 40000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 40000   3 459    6300000. 1800000. 5.4000-4 3.2000-5           40089.0                     E.M.Martinsen+       (26)C3133 14 
+ 1002 40000   3 459    1.2400+7 1100000. 1.3900-3 2.1000-4           40089.0                     E.M.Martinsen+       (26)C3133 14 
+ 1002 40000   3 459    1.9240+7 790000.0 0.012300 1.6000-3           40089.0                     E.M.Martinsen+       (26)C3133 14 
+ 1002 40000   3 459    2.6400+7 630000.0 0.305000 0.012000           40089.0                     E.M.Martinsen+       (26)C3133 14 
+#/DATA      4
+#/DATASET
+#
+#DATASET    C3133014 
+#DATE       20260521
+#REACTION   40-ZR-0(D,X)ELEM/MASS,M+,SIG
+#PROJ       1002
+#TARG       40000
+#MF         3
+#MT         459
+#C4BEGIN    [ 1002 40000   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 40000   3 459    6300000. 1800000. 0.024500 1.2000-3           41095.0                     E.M.Martinsen+       (26)C3133 14 
+ 1002 40000   3 459    1.2400+7 1100000. 0.031110 8.8000-4           41095.0                     E.M.Martinsen+       (26)C3133 14 
+ 1002 40000   3 459    1.9240+7 790000.0 0.019040 6.7000-4           41095.0                     E.M.Martinsen+       (26)C3133 14 
+ 1002 40000   3 459    2.6400+7 630000.0 0.015710 8.8000-4           41095.0                     E.M.Martinsen+       (26)C3133 14 
+#/DATA      4
+#/DATASET
