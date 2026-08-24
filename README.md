@@ -29,7 +29,6 @@ git clone https://github.com/iaea-nds/exfor-c4-file.git
           +--3            # Area 3
           ...
           +--v            # Area V
-
 ```
 
 **Contents**
