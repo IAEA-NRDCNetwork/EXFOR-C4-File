@@ -1,0 +1,28 @@
+#ENTRY      23622
+#AUTHOR1    G.Rovira+
+#YEAR       2025
+#INSTITUTE  (2JPNJAE)
+#TITLE      Accurate measurement of the 129I neutron capture
+#+          cross-section in the keV neutron region
+#AUTHOR(S)  G.Rovira, A.Kimura, S.Nakamura, S.Endo, O.Iwamoto, N.Iwamoto, 
+#+          T.Katabuchi
+#REF-CODE   (J,NST,6X,XXX,2025)
+#REFERENCE  J.Nucl.Sci.Technol. 6X (2025) XXX
+#DATASETS   0
+#
+#DATASET    23622002 
+#DATE       20250902
+#REACTION   53-I-127(N,G)53-I-128,,SIG
+#PROJ       1
+#TARG       53127
+#MF         3
+#MT         102
+#PRODUCT    53-I-128
+#C4BEGIN    [    1 53127   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 53127   3 102 A  51500.00          0.613000 0.039845                                       G.Rovira+            (25)23622  2 
+    1 53127   3 102 A  127700.0          0.284000 0.014484                                       G.Rovira+            (25)23622  2 
+#/DATA      2
+#/DATASET

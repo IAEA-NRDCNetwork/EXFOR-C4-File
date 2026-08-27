@@ -1,0 +1,60 @@
+#ENTRY      23670
+#AUTHOR1    P.Zugec+
+#YEAR       2025
+#INSTITUTE  (3CROZAG)
+#TITLE      Energy-differential measurement of the natC(n,p)
+#+          and natC(n,d) reactions at the nTOF facility at
+#+          CERN
+#AUTHOR(S)  P.Zugec, N.Colonna, D.Rochman, M.Barbagallo, J.Andrzejewski, 
+#+          J.Perkowski, A.Ventura, D.Bosnar, A.Gawlik-Ramiega, M.Sabate-Gilarte, 
+#+          M.Bacak, F.Mingrone, E.Chiaveri, O.Aberle, V.Alcayne, S.Amaducci, 
+#+          L.Audouin, V.Babiano-Suarez, S.Bennett, E.Berthoumieux, 
+#+          J.Billowes, A.Brown, M.Busso, M.Caamano, L.Caballero-Ontanaya, 
+#+          F.Calvino, M.Calviani, D.Cano-Ott, A.Casanovas, F.Cerutti, 
+#+          G.Cortes, M.A.Cortes-Giraldo, L.Cosentino, S.Cristallo, 
+#+          L.A.Damone, P.J.Davies, M.Diakaki, M.Dietz, C.Domingo-Pardo, 
+#+          R.Dressler, Q.Ducasse, E.Dupont, I.Duran, Z.Eleme, B.Fernandez-Dominguez, 
+#+          A.Ferrari, P.Finocchiaro, V.Furman, K.Goebel, R.Garg, S.Gilardoni, 
+#+          I.F.Goncalves, E.Gonzalez-Romero, C.Guerrero, F.Gunsing, 
+#+          H.Harada, S.Heinitz, J.Heyse, D.G.Jenkins, A.Junghans, F.Kaeppeler, 
+#+          Y.Kadi, A.Kimura, I.Knapova, M.Kokkoris, Y.Kopatch, M.Krticka, 
+#+          D.Kurtulgil, I.Ladarescu, C.Lederer-Woods, H.Leeb, J.Lerendegui-Marco, 
+#+          S.J.Lonsdale, D.Macina, A.Manna, T.Martinez, A.Masi, C.Massimi, 
+#+          P.Mastinu, M.Mastromarco, E.A.Maugeri, A.Mazzone, E.Mendoza, 
+#+          A.Mengoni, V.Michalopoulou, P.M.Milazzo, J.Moreno-Soto, 
+#+          A.Musumarra, A.Negret, R.Nolte, F.Ogallar, A.Oprea, N.Patronis, 
+#+          A.Pavlik, G.Perfetto, C.Petrone, L.Piersanti, E.Pirovano, 
+#+          I.Porras, J.Praena, J.M.Quesada, D.Ramos-Doval, T.Rauscher, 
+#+          R.Reifarth, Y.Romanets, C.Rubbia, A.Saxena, P.Schillebeeckx, 
+#+          D.Schumann, A.Sekhar, A.G.Smith, N.V.Sosnin, P.Sprung, A.Stamatopoulos, 
+#+          G.Tagliente, J.L.Tain, A.Tarifeno-Saldivia, L.Tassan-Got, 
+#+          Th.Thomas, P.Torres-Sanchez, A.Tsinganis, J.Ulrich, S.Urlass, 
+#+          S.Valenta, G.Vannini, V.Variale, P.Vaz, D.Vescovi, V.Vlachoudis, 
+#+          R.Vlastou, A.Wallner, P.J.Woods, T.Wright
+#REF-CODE   (J,PL/B,868,139713,2025)
+#REFERENCE  Phys.Lett.B 868 (2025) 139713 (doi:10.1016/j.physletb.2025.139713)
+#DATASETS   0
+#
+#DATASET    23670002 
+#DATE       20250814
+#REACTION   6-C-0(N,P),,SIG
+#PROJ       1
+#TARG       6000
+#MF         3
+#MT         103
+#C4BEGIN    [    1  6000   3 103 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   3 103 A  1.6000+7          0.018400 2.2080-3                                       P.Zugec+             (25)23670  2 
+    1  6000   3 103 A  1.7000+7          0.028400 1.7892-3                                       P.Zugec+             (25)23670  2 
+    1  6000   3 103 A  1.8000+7          0.046600 3.4018-3                                       P.Zugec+             (25)23670  2 
+    1  6000   3 103 A  1.9000+7          0.040000 4.6000-3                                       P.Zugec+             (25)23670  2 
+    1  6000   3 103 A  2.0000+7          0.053300 3.8909-3                                       P.Zugec+             (25)23670  2 
+    1  6000   3 103 A  2.1000+7          0.069900 3.2154-3                                       P.Zugec+             (25)23670  2 
+    1  6000   3 103 A  2.2000+7          0.075300 2.7861-3                                       P.Zugec+             (25)23670  2 
+    1  6000   3 103 A  2.3000+7          0.069100 2.6258-3                                       P.Zugec+             (25)23670  2 
+    1  6000   3 103 A  2.4000+7          0.067300 3.4996-3                                       P.Zugec+             (25)23670  2 
+    1  6000   3 103 A  2.5000+7          0.052700 3.4782-3                                       P.Zugec+             (25)23670  2 
+#/DATA      10
+#/DATASET

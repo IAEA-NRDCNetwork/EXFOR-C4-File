@@ -1,0 +1,79 @@
+#ENTRY      23675
+#AUTHOR1    A.Manna+
+#YEAR       2025
+#INSTITUTE  (2ITYUBO)
+#TITLE      New insights on fission of 235U induced by high
+#+          energy neutrons from a new measurement at nTOF
+#AUTHOR(S)  A.Manna, E.Pirovano, P.Console Camprini, L.Cosentino, M.Dietz, 
+#+          Q.Ducasse, P.Finocchiaro, C.Le Naour, D.Mancusi, C.Massimi, 
+#+          A.Mengoni, R.Nolte, D.Radeck, L.Tassan-Got, N.Terranova, 
+#+          G.Vannini, A.Ventura, O.Aberle, V.Alcayne, S.Amaducci, J.Andrzejewski, 
+#+          L.Audouin, V.Babiano-Suarez, M.Bacak, M.Barbagallo, S.Bennett, 
+#+          E.Berthoumieux, J.Billowes, D.Bosnar, A.Brown, M.Busso, 
+#+          M.Caamano, L.Caballero-Ontanaya, F.Calvino, M.Calviani, 
+#+          D.Cano-Ott, A.Casanovas, D.M.Castelluccio, F.Cerutti, E.Chiaveri, 
+#+          N.Colonna, G.Cortes, M.A.Cortes-Giraldo, S.Cristallo, L.A.Damone, 
+#+          P.J.Davies, M.Diakaki, C.Domingo-Pardo, R.Dressler, E.Dupont, 
+#+          I.Duran, Z.Eleme, B.Fernandez-Dominguez, A.Ferrari, V.Furman, 
+#+          K.Goebel, R.Garg, A.Gawlik-Ramiega, S.Gilardoni, I.F.Goncalves, 
+#+          E.Gonzalez-Romero, C.Guerrero, F.Gunsing, H.Harada, S.Heinitz, 
+#+          J.Heyse, D.G.Jenkins, A.Junghans, F.Kaeppeler, Y.Kadi, A.Kimura, 
+#+          I.Knapova, M.Kokkoris, Y.Kopatch, M.Krticka, D.Kurtulgil, 
+#+          I.Ladarescu, C.Lederer-Woods, H.Leeb, J.Lerendegui-Marco, 
+#+          S.J.Lonsdale, D.Macina, T.Martinez, A.Masi, P.Mastinu, M.Mastromarco, 
+#+          E.A.Maugeri, A.Mazzone, E.Mendoza, V.Michalopoulou, P.M.Milazzo, 
+#+          F.Mingrone, J.Moreno-Soto, A.Musumarra, A.Negret, F.Ogallar, 
+#+          A.Oprea, N.Patronis, A.Pavlik, J.Perkowski, C.Petrone, L.Piersanti, 
+#+          I.Porras, J.Praena, J.M.Quesada, D.Ramos-Doval, T.Rauscher, 
+#+          R.Reifarth, D.Rochman, C.Rubbia, M.Sabate-Gilarte, A.Saxena, 
+#+          P.Schillebeeckx, D.Schumann, A.Sekhar, A.G.Smith, N.V.Sosnin, 
+#+          P.Sprung, A.Stamatopoulos, G.Tagliente, J.L.Tain, A.Tarifeno-Saldivia, 
+#+          Th.Thomas, P.Torres-Sanchez, A.Tsinganis, J.Ulrich, S.Urlass, 
+#+          S.Valenta, V.Variale, P.Vaz, D.Vescovi, V.Vlachoudis, R.Vlastou, 
+#+          A.Wallner, P.J.Woods, T.Wright, P.Zugec
+#REF-CODE   (J,PL/B,860,139213,2025)
+#REFERENCE  Phys.Lett.B 860 (2025) 139213 (doi:10.1016/j.physletb.2024.139213)
+#DATASETS   0
+#
+#DATASET    236750021
+#DATE       20251218
+#REACTION   92-U-235(N,F),,SIG
+#PROJ       1
+#TARG       92235
+#MF         3
+#MT         18
+#C4BEGIN    [    1 92235   3  18 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   3  18 A  2.9220+7 710000.0 2.175000 0.125000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  3.0680+7 750000.0 2.131000 0.121000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  3.2210+7 790000.0 2.158000 0.123000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  3.3820+7 830000.0 2.174000 0.113000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  3.5510+7 870000.0 2.087000 0.108000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  3.7290+7 910000.0 2.105000 0.110000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  3.9160+7 950000.0 1.987000 0.105000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  4.1120+7 1010000. 1.968000 0.105000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  4.3170+7 1050000. 1.962000 0.106000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  4.5330+7 1110000. 2.025000 0.104000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  4.7590+7 1160000. 2.034000 0.105000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  4.9970+7 1220000. 1.880000 0.098000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  5.2730+7 1540000. 1.946000 0.100000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  5.5890+7 1630000. 1.894000 0.099000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  5.9250+7 1730000. 1.870000 0.099000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  6.2800+7 1830000. 1.829000 0.099000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  6.6570+7 1940000. 1.805000 0.100000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  7.0570+7 2060000. 1.769000 0.099000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  7.4800+7 2180000. 1.717000 0.099000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  7.9280+7 2310000. 1.761000 0.103000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  8.4040+7 2450000. 1.697000 0.101000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  8.9090+7 2600000. 1.685000 0.105000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  9.4430+7 2750000. 1.586000 0.100000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  1.0010+8 2920000. 1.569000 0.107000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  1.0662+8 3610000. 1.591000 0.127000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  1.1408+8 3860000. 1.516000 0.125000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  1.2206+8 4130000. 1.498000 0.135000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  1.3061+8 4420000. 1.454000 0.122000                                       A.Manna+             (25)23675  21
+    1 92235   3  18 A  1.3975+8 4720000. 1.498000 0.131000                                       A.Manna+             (25)23675  21
+#/DATA      29
+#/DATASET

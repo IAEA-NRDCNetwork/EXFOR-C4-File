@@ -1,0 +1,29 @@
+#ENTRY      23676
+#AUTHOR1    S.Kamada+
+#YEAR       2026
+#INSTITUTE  (2JPNSHR)
+#TITLE      Measurement of 35Cl(n,p0)35S cross sections at
+#+          0.565 MeV, 1.2 MeV, and 5 MeV with a Lithium-6
+#+          enriched CLYC scintillator
+#AUTHOR(S)  S.Kamada, M.Hagiwara
+#REF-CODE   (J,ANE,228,112065,2026)
+#REFERENCE  Ann.Nucl.Energy 228 (2026) 112065 (doi:10.1016/j.anucene.2025.112065)
+#DATASETS   0
+#
+#DATASET    23676002 
+#DATE       20251216
+#REACTION   17-CL-35(N,P)16-S-35,PAR,SIG
+#PROJ       1
+#TARG       17035
+#MF         3
+#MT         600
+#PRODUCT    16-S-35
+#C4BEGIN    [    1 17035   3 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 17035   3 600 A  565000.0 7500.000 6.8300-3 1.2362-3                   0.000000         LVLS.Kamada+            (26)23676  2 
+    1 17035   3 600 A  1200000. 36000.00 0.043600 2.9648-3                   0.000000         LVLS.Kamada+            (26)23676  2 
+    1 17035   3 600 A  5000000. 88500.00 0.044300 2.6137-3                   0.000000         LVLS.Kamada+            (26)23676  2 
+#/DATA      3
+#/DATASET
